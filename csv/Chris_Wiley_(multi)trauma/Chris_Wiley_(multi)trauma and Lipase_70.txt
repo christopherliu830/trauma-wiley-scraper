@@ -1,0 +1,325 @@
+
+TY  - JOUR
+AU  - Lau, K.K.
+TI  - Use of argatroban for hemodialysis and continuous veno-veno hemodialysis in a patient with heparin-induced thrombocytopenia
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121cf.x
+DO  - doi:10.1111/j.1492-7535.2005.1121cf.x
+SP  - 101
+EP  - 101
+PY  - 2005
+AB  - Objective: To describe the use of argatroban in a post-cardiac operation patient with heparin-induced thrombocytopenia requiring hemodialysis and continuous veno-veno hemodialysis (CVVH). Case Summary:A 23-year-old Caucasian female with heparin-induced thrombocytopenia developed acute renal failure after cardiovascular surgery. Argatroban was used as a substitute for heparin during hemodialysis and CVVH. Both activated partial thromboplastin time (aPTT) and activated clotting time (ACT) were used to guide the dosage of argatroban. The patient was successfully dialyzed without clotting of the circuit. The dosage required in our patient was much lower than the manufacturer's recommendation. Discussion:Argatroban is a thrombin inhibitor that does not cross react with heparin. It is metabolized by the liver, and dosage adjustment is recommended in patients with severe hepatic impairment. The correct dosage for patient with unstable hemodynamics is not known. Our patient had apparently normal hepatic function at the initiation of dialysis, but the dosage of argatroban recommended by the manufacturer resulted in prolonged elevation of the aPTT and ACT with associated gastrointestinal bleeding. This may be related to hepatic congestion secondary to poor cardiac function and/or severe anasarca. And the dosage of argatroban required during dialysis was much lower than the recommendation. Conclusions:Argatroban is an effective alternative of heparin for CVVH. The correct initial dosage in patients with mild hepatic impairment and unstable hemodynamics is still unclear.
+ER  - 
+
+TY  - JOUR
+AU  - Mineshima, M.
+AU  - Ishimori, I.
+AU  - Akiba, T.
+TI  - Estimation of backfiltration flow rate in commercially available high flux dialyzers: Importance of water purification system for dialysate
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121n.x
+DO  - doi:10.1111/j.1492-7535.2005.1121n.x
+SP  - 75
+EP  - 76
+PY  - 2005
+AB  - Several types of high flux dialyzers were developed and introduced for clinical applications to improve solute removal efficiency. In these dialyzers, internal filtration/backfiltration (IF/BF) is induced by pressure drop of blood and dialysate flow in a countercurrent manner under less net filtration. Higher IF/BF flow rate increased convective transport of the solute in addition to diffusive transport. In previously published papers, we reported the effects of IF on solute removal efficiency of the dialyzer during an analytical and an experimental study and the measurement of the internal filtration flow rate (QIF) by Doppler ultrasonography. Average blood flow rate (QBav) at a cross-sectional plane was measured by pulse Doppler and the longitudinal QBav profile along the dialyzer was obtained using a probe slider that can move the probe in parallel along the dialyzer. This is a suitable method for a bedside monitoring of the IF/BF flow rate of dialyzers because it is noninvasive to the patient and produces reliable data with higher reproducibility. Internal backfiltration flow rate (QBF) in six types of commercially available high flux dialyzers, having a higher 50?ml/min of ?2-microglobulin clearance (CL-?2?m), were examined by Doppler ultrasonography under 10?ml/min/m2 of net filtration flow rate. As a result, a wide range of QBF value, 12.1?28.4?ml/min, was obtained among those dialyzers. It means a fair amount of BF, 2.9?6.8 liter per session, occurs in a typical hemodialysis treatment. Strict management of dialysate purification is required for a dialyzer with a relatively larger BF. On the other hand, no correlation between the CL-?2?m value and the QBF value was seen because the CL-?2?m value depends on not only the IF/BF flow rate but also diffusive property of the membrane. The BF flow rate in every dialyzer should be examined to avoid suffering from the invasion of endotoxin and its fragment for safety.
+ER  - 
+
+TY  - JOUR
+AU  - Paille, L.
+AU  - Nikl, K.
+TI  - Changing hemodialysis machine data into a usable patient care with Diascan
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121s.x
+DO  - doi:10.1111/j.1492-7535.2005.1121s.x
+SP  - 77
+EP  - 77
+PY  - 2005
+AB  - K/DOQI has set the national standard of adequacy in dialysis. Clinical practice assesses these standards using ?routine? blood work schedules that vary from every 4?6 weeks and calculates these results using different urea kinetic formulas. This variance may result in under-dialysis of our patients that may not be detected until the next routine blood work. Comparing Kt/V blood work results using ?snapshot? laboratory results versus total run trending using Integra Diascan monitoring may help us define adequacy and may identify potential cost savings to the medical system and the hemodialysis patient. Diascan offers more than on-line Kt/V monitoring of clearances; it also reports patient serum plasma conductivity. Serum plasma monitoring helps to identify potential excess fluid gains which may compromise dialysis treatments leading to poor clearances, which in turn leads to increased morbidity and mortality, as well as increasing costly dialysis interventions and potential emergent treatments. The small sampling of patients compared use a variety of vascular accesses and were examined for some of the barriers to effective ?snapshot? monitoring of Kt/V or PRU versus trending adequacy to explore the potential benefits and efficacy of the data obtained.
+ER  - 
+
+TY  - JOUR
+AU  - Ibrahim, M.A.
+AU  - Labib, B.
+AU  - Sallam, T.
+AU  - Sarhan, I.
+AU  - El-Damasy, H.
+TI  - Effect of dialyzer reprocessing on glucose homeostasis
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121z.x
+DO  - doi:10.1111/j.1492-7535.2005.1121z.x
+SP  - 79
+EP  - 79
+PY  - 2005
+AB  - This study was designed to investigate the possible effect of dialyzer re-use on glucose hemostasis. Twenty patients with end stage renal failure (including ten non insulin dependent diabetes mellitus [NIDDM]) on thrice weekly hemodialysis (using glucose free dialysate), were studied by serial assessment of blood glucose, C-peptide, interleukin 1-B (IL-IB), Ca, Na and K at zero, 1 and 4 hours (end of dialysis) during hemodialysis on new, and then on re-used (first) cuprophane dialyzers. Our results showed significant rise of C-peptide, IL-1B with drop of blood glucose in first hour sample (and was symptomatic in some diabetics) in both groups when using new dialyzers but these changes were less marked and totally asymptomatic when using reprocessed dialyzers. In addition there was a significant positive correlation between IL-1B level and C-peptide at 1 and 4 hour samples and negative correlation between IL-1B and blood glucose at 1 and 4 hour samples. Conclusion: Through the effect of IL-1B on insulin release curophane dialyzers can affect glucose homeostasis especially in diabetics and hypoglycemia might be part of the first use syndrome. It may be recommended that measurement of glucose effect of dialysis membrane on glucose homeostasis might be an important parameter of membrane bioincompatibility.
+ER  - 
+
+TY  - JOUR
+AU  - Barril, G.
+AU  - Castillo, I
+AU  - Arenas, D.
+AU  - Rodriguez-Inigo, E.
+AU  - Espinosa, M.
+AU  - Garcia Valdecases, J.
+AU  - Selgas, R.
+AU  - Carreno, V.
+TI  - High frequency of occult HCV infection in HD patients
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121aj.x
+DO  - doi:10.1111/j.1492-7535.2005.1121aj.x
+SP  - 83
+EP  - 83
+PY  - 2005
+AB  - Occult HCV infection in liver and peripheral blood mononuclear cells (PBMC) of patients with cryptogenic chronic hepatitis (anti-HCV, serum HCV RNA negative) and no renal diseases, has been reported (1). In this work we studied the existence of occult HCV infection in PBMC of HD patients. Inclusion criteria: high ALT (>28?IU/l) and/or gamma-GPT levels, negative serological HCV and HBV markers (anti-HCV, serum HCV-RNA and HBsAg negative), and exclusion of other causes of liver damage. Four Spanish HD units participated in the study and 40 patients were enrolled; 40 (25 males) fulfilled the inclusion criteria. HCV-RNA in PBMC was tested by RT-PCR and by in situ hybridization. Occult HCV infection was found in 24/40 (60%) patients by RT-PCR and all cases were confirmed by in situ hybridization. No differences were found regarding gender, etiology of renal disease, or fluctuant or persistent abnormal liver enzymes values. Among patients with occult HCV infection, 4/24 (16.7%) had only increased ALT levels; 7/24 (29.2.%) GGTP values; and both enzymes were elevated in 13/24 (54.2%). In our population, 60% HD patients with persistent or fluctuant ALT and/or GGTP values of unknown etiology and negative for serological viral markers (including serum HCV-RNA) have an occult HCV infection in PBMC and these patients could be potentially infectious. (1)J Infect Dis 2004;189: 7?14.
+ER  - 
+
+TY  - JOUR
+AU  - Bibb, J.
+AU  - Servilla, K.S.
+AU  - Tzamaloukas, A.H.
+TI  - Clinical and laboratory variables in Type 2 diabetic men with renal failure before and after initiation of hemodialysis
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121bh.x
+DO  - doi:10.1111/j.1492-7535.2005.1121bh.x
+SP  - 92
+EP  - 92
+PY  - 2005
+AB  - Control of certain clinical and laboratory parameters affects morbidity and mortality of type 2 diabetic patients with chronic renal failure (CRF) both before and after initiation of hemodialysis (HD). To identify areas and stage of renal failure where control of these critical variables needs improvement, we compared important clinical and laboratory parameters 6 months before (PRE) and 6 months after starting HD (POST) in 43 type 2 diabetic men with CRF, who were 69.3?±?10.7 years old at HD initiation. Differences, all at p?≤?0.05, were found in blood pressure, in mm Hg, at the physician's office, both systolic (PRE 154?±?16, POST 138?±?18) and diastolic (PRE 77?±?13, POST 69?±?11), serum cholesterol in mg/dL (PRE 206?±?61, POST 159?±?40), and serum creatinine in mg/dL (PRE 4.1?±?1.3, POST 7.0?±?1.8), while no differences were noted in blood hematocrit (PRE 36?±?7%, POST 34?±?9%), blood glycosylated hemoglobin (PRE 7.4?±?1.7%, POST 6.9?±?2.3%), serum glucose in mg/dL (PRE 151?±?67, POST 184?±?94), serum phosphorus in mg/dL (PRE 4.5?±?0.8, POST 4.6?±?1.5), serum calcium in mg/dL (PRE 8.7?±?0.5, POST 8.5?±?1.4), and serum albumin in g/dL (PRE 3.2?±?0.5, POST 3.4?±?0.6). Compared to the POST category, significantly (p?≤?0.05) higher percentages were found in the PRE category for systolic blood pressure >150?mm Hg (PRE 58.8%, POST 26.5%), blood glycosylated hemoglobin >8%(PRE 33.3%, POST 13.3%), serum cholesterol >200?mg/dL (PRE 48.4%, POST 19.4%). A lower percentage was found in the PRE category for serum phosphorus >5.5?mg/dL (PRE 13.2%, POST 31.6%), while the corresponding percentages for serum albumin <3.0?g/dL (PRE 21.6%, POST 18.9%) and serum calcium <8?mg/dL (PRE 7.9%, POST 13.2%) did not differ. In patients with type 2 diabetes mellitus and renal failure, control of blood pressure, glycemia, and serum lipids appears to be better; whereas, control of serum phosphorus is worse in the first year after starting chronic hemodialysis than in the preceding year. There is room for improvement, both before and after hemodialysis initiation, in the control of these variables, which affect the clinical outcomes of hemodialysis.
+ER  - 
+
+TY  - JOUR
+AU  - Riitta, M.-K.
+AU  - Meeri, K.
+AU  - Jyrki, H.
+AU  - Tuukka, T.
+AU  - Hannu, A.
+AU  - Eero, H.
+TI  - External gamma radiation caused by radon in water used for home haemodialysis (HHD)
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121bv.x
+DO  - doi:10.1111/j.1492-7535.2005.1121bv.x
+SP  - 97
+EP  - 97
+PY  - 2005
+AB  - Background:? Radon is a natural radioactive element found especially in drilled water wells. It may cause problems in HHD. In this study the occurrence and prevention of radiation exposure to radon among HHD patients was examined. Material and methods:?Since 1998, 103 patients have been trained for HHD and drilled wells were used in 7 patients. Apart from routine analyses, radon concentration was also determined. Results:?High radon concentration was observed in three drilled wells, in one of these 2000?Bq/L. Water was conducted into the HHD-equipment through a charcoal filter and reverse osmosis equipment. Radon concentration was less than 50?Bq/L in the purified water. It was thus considered acceptable for dialysis. As the charcoal filter adsorbs radon, its decay products build up in the filter and emit gamma radiation. Considering that the daily through-put of water is about 375 liters, the estimated dose rate for a radon concentration of 1,000?Bq/L is 0.4?microSv/h at one-meter distance. At this distance the annual dose would be 1.8?mSv, expecting a daily occupancy time of 12 hours. The average background gamma dose rate in Finnish dwellings is 0.1?microSv/h. National dose constraints of 3?mSv/year for adults and 1?mSv/year for children living in HHD-households have been recommended. Conclusions: Waterborne radon must be considered when planning of HHD in households where drilled wells are used. Elevated radon concentration should always be removed from household water. In addition, external gamma radiation from charcoal filters requires appropriate restrictions in order to achieve a safe treatment.
+ER  - 
+
+TY  - JOUR
+AU  - R.Z., Ismagilov
+AU  - T.A., Bapiev
+AU  - A.K., Zainalov
+AU  - T.B., Shynybaev
+AU  - T.I., Rahimbekov
+AU  - A.N., Syzganov‘s
+TI  - Experience of application maxipimi at patients with a terminal stage chronic renal insufficiency at allotransplantation of a kidney
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121cj.x
+DO  - doi:10.1111/j.1492-7535.2005.1121cj.x
+SP  - 102
+EP  - 102
+PY  - 2005
+AB  - The analysis of infectious complications in patients after allotransplantation of a donor kidney. For the dynamic analysis of frequency of infection-purulent complications, all patients were divided into 2 groups. The first, control group included 33 patients who were operated from 2000 to 2002 (men-21, women-12, adults-28, children-5). The second, basic group included 35 patients (men-22 and women-13, adult-28, children-7), after allotransplantations, which have transferred operation?transplantations of kidney with 2003 on 2004. In the first group purulent?septic complications were marked at 9 patients (27.2%), from them two (6%) have died of a sepsis on a background of antibacterial therapy (cephalosporini 3 generations). Duration of treatment made from 7 up to 15 days. In the second group in the postoperative period purulent ? septic complications were marked at 5 of 35 patients (14,2%). All 35 patients in the second group after allotransplantation of a donor kidney carried out preventive antibacterial therapy maxipimi (cephalosporini IV generations) on dosage 1 gram 2 times per day in a combination with amykini intravenously during 7 days. Cases of development of sepsis in this group of patients were not observed. Thus, estimating the received results, it is possible to draw the conclusion, application of antibiotics of a wide spectrum (cephalosporini IV generations) the patient with a terminal stage chronic renal insufficiency after allotransplantation of a donor kidney were lowered with quantity of suppurations of postoperative wounds and occurrence of infectious complications on 13%.
+ER  - 
+
+TY  - JOUR
+AU  - Kim, Y.O.
+AU  - Song, W.J.
+AU  - Park, J.A.
+AU  - Yoon, S.A.
+AU  - Kim, Y.S.
+AU  - Chang, Y.S.
+AU  - Bang, B.K.
+TI  - The effect of dialysis needle size on hemodialysis adequacy
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121o.x
+DO  - doi:10.1111/j.1492-7535.2005.1121o.x
+SP  - 76
+EP  - 76
+PY  - 2005
+AB  - Objective:? Dialysis adequacy indexed by Kt/V in hemodialysis (HD) patients is recommended as a single pool Kt/V at least 1.2 per session thrice weekly. But many patients cannot achieve this adequacy target. Although dialysis time is the most important factor influencing Kt/V, it is difficult to prolong dialysis time in practice because of its economic impact and poor patient compliance. This study was performed to investigate the effect of increasing dialysis needle size on dialysis adequacy in HD patients. Methods:?This study enrolled 73 patients receiving HD thrice weekly for more than 3 months with arteriovenous fistula (AVF) or graft in a single center. Dialysis blood flow rate was 200?ml/min in 12 patients, 250?ml/min in 32 patients, and 300?ml/min in 29 patients. Surface area of dialyzer was 1.2?m2 in 56 patients and 1.6?m2 in 17 patients. We first performed HD using a 16-gauge needle. Then we increased needle size up to 15-gauge without change of any other dialysis conditions such as blood and dialysate flow rates, dialysis time, or distance between needle insertion sites. We compared compression time after removing the needles, venous dialysis pressure (VDP), Kt/V, and urea reduction ratio (URR) between these two methods. Results:?The mean age was 54?±?13 years and the number of patients with diabetes mellitus was 27 (37%). Fifty-eight patients (79.5%) have native AVF. Mean Kt/V at HD method using a 15-gauge needle was higher than at HD method using a 16-gauge needle (1.30?±?0.18 vs. 1.23?± 0.18, p?<?0.001). URR at HD method using a 15-gauge needle was also higher than at HD method using a 16-gauge needle. In contrast, VDP at HD method using a 15-gauge needle was lower than at HD method using a 16-gauge needle (88?±?22?mmHg vs. 118?±?28?mmHg, p?<?0.001). There was no difference in compression time between the two methods. Conclusion:?This study suggests that increasing dialysis needle size is a safe and effective method in improving dialysis adequacy without increasing blood flow rate or dialysis time.
+ER  - 
+
+TY  - JOUR
+AU  - Sakaji, I.
+AU  - Kasahara, M.
+AU  - Ishida, Y.
+AU  - Yoshikawa, M.
+AU  - Nitta, T.
+AU  - Matsushima, Y.
+AU  - Iwatani, Y.
+AU  - Yoshimoto, A.
+AU  - Suzuki, T.
+TI  - A case of plasma component exchange using membrane plasma separator EVACURE™
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121q.x
+DO  - doi:10.1111/j.1492-7535.2005.1121q.x
+SP  - 76
+EP  - 76
+PY  - 2005
+AB  - Objective:? We report a patient with urosepsis, Lleptospira syndrome, TTP-HUS syndrome, fulminant hepatic failure, vasculitis syndrome and TSS treated with plasma component exchange. Methods:?Conditions for plasma component exchange were membrane plasma separator (Evacure EC-3A), substitute fluid (3?% albumin solution), blood flow rate (150?mL/min), filtration rate (30?mL/min), quantity of substitute fluid (4,600?mL) and anticoagulant (nafamostat mesilate 30?mg/hr). Result: Plasma component exchange in combination with hemodiafiltration induced a rapid remission of both hepatic toxicity and renal failure caused by streptococcal sepsis. Membrane plasma separator evacure EC-3A allowed the use of 3% albumin solution as substitute fluid. Colloid osmotic pressure temporarily increased after the treatment, but within 24 hours, returned to the same level as before the treatment. Conclusion:?Plasma component exchange using a membrane plasma separator may allow the use of albumin instead of fresh frozen plasma (FFP) as substitute fluid, which results in a lower risk of infection.
+ER  - 
+
+AU  - Zabicky, Jacob
+TI  - Analytical and Safety Aspects of Organic Peroxides and Related Functional Groups
+UR  - https://doi.org/10.1002/9780470682531.pat0353
+DO  - doi:10.1002/9780470682531.pat0353
+KW  - peroxides in nature and technological world
+KW  - organic peroxides - analytical and safety aspects
+KW  - chemometric approach in analytical methods
+KW  - limits of detection (LOD) and quantitation (LOQ)
+KW  - Kingzett method for determination of aqueous H2O2
+KW  - oxidation indices
+KW  - CID fragmentation paths of primary complex of bis(t -butoxycarbonyl) peroxide
+KW  - Criegee's ozonide formation and ozonolysis
+PY  - 2005
+AB  - Abstract
+ER  - 
+
+TY  - JOUR
+TI  - Transcription: Factors, regulation and differentiation
+JO  - Journal of Cellular Biochemistry
+JA  - J. Cell. Biochem.
+VL  - 53
+IS  - S17A
+UR  - https://doi.org/10.1002/jcb.240530504
+DO  - doi:10.1002/jcb.240530504
+SP  - 53
+EP  - 218
+PY  - 1993
+ER  - 
+
+C7  - pp. 114-210
+TI  - The Antiepileptic Drugs
+SN  - 9781405131346
+UR  - https://doi.org/10.1002/9780470753286.ch3
+DO  - doi:10.1002/9780470753286.ch3
+SP  - 114-210
+KW  - antiepileptic drugs
+KW  - serum level monitoring
+KW  - trigeminal neuralgia
+KW  - metabolism
+KW  - cardiac failure
+PY  - 1993
+AB  - Summary This chapter contains section titled: CARBAMAZEPINE CLOBAZAM ETHOSUXIMIDE GABAPENTIN LAMOTRIGINE LEVETIRACETAM OXCARBAZEPINE PHENOBARBITAL PHENYTOIN PREGABALIN PRIMIDONE TIAGABINE TOPIRAMATE VALPROATE VIGABATRIN ZONISAMIDE OTHER DRUGS USED IN THE TREATMENT OF EPILEPSY
+ER  - 
+
+TY  - JOUR
+TI  - Year 2009, August, Volume 24, Issue 8
+JO  - Veterinary Nursing Journal
+VL  - 24
+IS  - 8
+SN  - 9781405131346
+UR  - https://doi.org/10.1111/j.2045-0648.2009.tb00081.x
+DO  - doi:10.1111/j.2045-0648.2009.tb00081.x
+SP  - 1
+EP  - 44
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+TI  - Key Lectures
+JO  - Reproduction in Domestic Animals
+VL  - 47
+IS  - s2
+SN  - 9781405131346
+UR  - https://doi.org/10.1111/j.1439-0531.2012.01989.x
+DO  - doi:10.1111/j.1439-0531.2012.01989.x
+SP  - 1
+EP  - 63
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Cell Biology International
+VL  - 18
+IS  - 5
+SN  - 9781405131346
+UR  - https://doi.org/10.1006/cbir.1994.1085
+DO  - doi:10.1006/cbir.1994.1085
+SP  - 357
+EP  - 589
+PY  - 1994
+ER  - 
+
+TY  - JOUR
+TI  - Molecular biology of human genetic disease
+JO  - Journal of Cellular Biochemistry
+JA  - J. Cell. Biochem.
+VL  - 56
+IS  - S18A
+SN  - 9781405131346
+UR  - https://doi.org/10.1002/jcb.240560507
+DO  - doi:10.1002/jcb.240560507
+SP  - 183
+EP  - 212
+PY  - 1994
+ER  - 
+
+TY  - JOUR
+TI  - Coagulation - laboratory
+JO  - British Journal of Haematology
+VL  - 86
+IS  - s1
+SN  - 9781405131346
+UR  - https://doi.org/10.1111/j.1365-2141.1994.tb04861.x
+DO  - doi:10.1111/j.1365-2141.1994.tb04861.x
+SP  - 2
+EP  - 92
+PY  - 1994
+ER  - 
+
+TY  - JOUR
+TI  - Poster
+JO  - JDDG: Journal der Deutschen Dermatologischen Gesellschaft
+JA  - JDDG: Journal der Deutschen Dermatologischen Gesellschaft
+VL  - 15
+IS  - S3
+SN  - 9781405131346
+UR  - https://doi.org/10.1111/ddg.13300
+DO  - doi:10.1111/ddg.13300
+SP  - 20
+EP  - 88
+PY  - 2017
+ER  - 
+
+AU  - Laragh, John H.
+AU  - Sealey, Jean E.
+C7  - pp. 1409-1541
+TI  - Renin–Angiotensin–Aldosterone System and the Renal Regulation of Sodium, Potassium, and Blood Pressure Homeostasis
+UR  - https://doi.org/10.1002/cphy.cp080231
+DO  - doi:10.1002/cphy.cp080231
+SP  - 1409-1541
+PY  - 2017
+AB  - Abstract The sections in this article are:
+ER  - 

@@ -1,0 +1,497 @@
+
+TY  - JOUR
+AU  - Groeschl, Ryan T.
+AU  - Miura, John T.
+AU  - Wong, Ray K.
+AU  - Bloomston, Mark
+AU  - Lidsky, Michael L.
+AU  - Clary, Bryan M.
+AU  - Martin, Robert C.G.
+AU  - Belli, Giulio
+AU  - Buell, Joseph F.
+AU  - Gamblin, T. Clark
+TI  - Multi-institutional analysis of recurrence and survival after hepatectomy for fibrolamellar carcinoma
+JO  - Journal of Surgical Oncology
+JA  - J. Surg. Oncol.
+VL  - 110
+IS  - 4
+SN  - 0022-4790
+UR  - https://doi.org/10.1002/jso.23658
+DO  - doi:10.1002/jso.23658
+SP  - 412
+EP  - 415
+KW  - liver
+KW  - neoplasms
+KW  - cancer
+KW  - hepatectomy
+KW  - surgery
+KW  - hepatocellular
+PY  - 2014
+AB  - Abstract Background and Objectives Fibrolamellar carcinoma (FLC) presents in young, otherwise-healthy individuals. This study examined recurrence and survival characteristics after surgical resection for FLC by utilizing an international multi-institutional database. Methods Consecutive patients undergoing hepatectomy for FLC from six institutions (1993?2010) were reviewed retrospectively. Survival was studied with life tables and Cox regression models. Results Thirty-five patients (13 female, 37%) were included (median age: 32 years). R0 resection was achieved in all curative-intent operations (n?=?30), and palliative operations were performed for five patients. Crude 30-day morbidity and mortality rates were 22% and 3%, respectively. For curative-intent surgery, overall and recurrence-free survivals at 5 years were 62% and 45%, respectively. In patients who achieved a 4-year disease-free interval after surgery, none subsequently developed recurrence. In multivariate models, presence of extrahepatic disease was the only factor that independently predicted overall (hazard ratio [HR]: 5.58, 95% confidence interval [CI]: 1.38?22.55, P?=?0.016) and recurrence-free survival (HR: 5.64, 95% CI: 1.48?21.49, P?=?0.011). Conclusions Patients with surgically amenable FLC had encouraging long-term survival. Recurrence-free survival to 4 years suggested possible freedom from disease thereafter. Recurrent resectable disease was associated with an excellent prognosis, and repeat surgery should be strongly considered. J. Surg. Oncol. 2014; 110:412?415. ? 2014 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Chua, Darren W
+AU  - KOH, Ye Xin
+AU  - LIEW, Yi Xin
+AU  - Chan, Chung-Yip
+AU  - Lee, Ser-Yee
+AU  - Cheow, Peng-Chung
+AU  - Chow, Pierce K
+AU  - Chung, Alexander Y
+AU  - Ooi, London L
+AU  - Goh, Brian KP
+TI  - Pre-operative predictors of early recurrence/mortality including the role of inflammatory indices in patients undergoing partial hepatectomy for spontaneously ruptured hepatocellular carcinoma
+JO  - Journal of Surgical Oncology
+JA  - J Surg Oncol
+VL  - 118
+IS  - 8
+SN  - 0022-4790
+UR  - https://doi.org/10.1002/jso.25281
+DO  - doi:10.1002/jso.25281
+SP  - 1227
+EP  - 1236
+KW  - futile
+KW  - inflammatory indices
+KW  - prognosis
+KW  - ruptured hepatocellular carcinoma
+KW  - surgery
+PY  - 2018
+AB  - Background and Objectives Spontaneous rupture of Hepatocellular Carcinoma (srHCC) is a life-threatening emergency. We sought to identify the pre-operative predictors of early tumor recurrence/mortality including the role of inflammatory indices after partial hepatectomy for srHCC. Methods Between 2000-2015, 79 patients with srHCC were identified to have undergone upfront partial hepatectomy following srHCC. Clinicopathologic data were retrospectively analyzed to identify pre-operative predictors of early (<1 year) recurrence and mortality. Results Seventy-nine patients were identified to have undergone partial hepatectomy for srHCC. The 1-year mortality and 1-year recurrence rate in our series was 30.3% and 41.8% respectively. On multivariate analyses, free tumor rupture and a tumor size?>?10?cm were identified to be independent predictors of early recurrence while an alpha fetoprotein (AFP)?>?200?ng/mL was an independent predictor of early mortality. Neutrophil-to-lymphocyte ratio?>?3 and prognostic nutritional index?<?40 were predictors of early recurrence while PLR?>?180 was a predictor of early mortality on univariate analyses but not multivariate analyses. Conclusions Tumor size?>?10?cm, free tumor rupture, and an AFP?>?200?ng/mL were useful predictors in avoiding ?futile surgery? in patients with srHCC undergoing a partial hepatectomy. Preoperative inflammatory markers appear to be less useful as predictors of early recurrence/mortality in this cohort of patients.
+ER  - 
+
+TY  - JOUR
+AU  - Levolger, Stef
+AU  - van Vledder, Mark G.
+AU  - Muslem, Rahat
+AU  - Koek, Marcel
+AU  - Niessen, Wiro J.
+AU  - de Man, Rob A.
+AU  - de Bruin, Ron W. F.
+AU  - Ijzermans, Jan N. M.
+TI  - Sarcopenia impairs survival in patients with potentially curable hepatocellular carcinoma
+JO  - Journal of Surgical Oncology
+JA  - J. Surg. Oncol.
+VL  - 112
+IS  - 2
+SN  - 0022-4790
+UR  - https://doi.org/10.1002/jso.23976
+DO  - doi:10.1002/jso.23976
+SP  - 208
+EP  - 213
+KW  - sarcopenia
+KW  - hepatocellular carcinoma
+KW  - surgery
+KW  - radiofrequency ablation
+KW  - outcomes
+KW  - body composition
+PY  - 2015
+AB  - Background A reduction in skeletal muscle mass (sarcopenia) independently predicts poor survival in patients with hepatocellular carcinoma (HCC) undergoing treatment with curative intent. Whether this is due to an increased risk of recurrence and disease specific death, or due to an increased risk of postoperative morbidity and mortality is currently unclear. In this study, we investigate the association between sarcopenia and death in a cohort of HCC patients undergoing treatment with curative intent. Methods Patients undergoing surgical resection or radiofrequency ablation for lesions ≤ 3?cm between 2002 and 2013 were identified. Clinicopathological characteristics, CT-assessed sarcopenia and outcomes were analyzed. Results Among 90 patients, 52 (57.8%) were found to be sarcopenic. Sarcopenic patients had a limited overall survival (median: 33 months vs. non-sarcopenic median: 105 months; P?=?0.002), but not disease-free survival. Sarcopenia was an independent predictor for overall survival in multivariate Cox-regression analysis (HR 3.756; P?=?0.001). Major complications (32.7% vs. 13.2%, P?=?0.033) and treatment-related mortality (17.3% vs. 2.6%, P?=?0.029) were more frequent in sarcopenic patients. Conclusion Sarcopenia impairs survival in patients with potentially curable hepatocellular carcinoma, mainly due to an increase in treatment-related mortality. J. Surg. Oncol. 2015 111:208?213. ? 2015 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Zhao, Yan
+AU  - Li, Hailiang
+AU  - Bai, Wei
+AU  - Liu, Jueshi
+AU  - Lv, Weifu
+AU  - Sahu, Sonia
+AU  - Guan, Sheng
+AU  - Qin, Xiao
+AU  - Wang, Wenhui
+AU  - Ren, Weixin
+AU  - Mu, Wei
+AU  - Guo, Weidong
+AU  - Gu, Shanzhi
+AU  - Ma, Yilong
+AU  - Yin, Zhanxin
+AU  - Guo, Wengang
+AU  - Wang, Wenjun
+AU  - Wang, Yongji
+AU  - Duran, Rafael
+AU  - Fan, Daiming
+AU  - Zhang, Zhuoli
+AU  - Han, Guohong
+TI  - Early sorafenib-related adverse events predict therapy response of TACE plus sorafenib: A multicenter clinical study of 606 HCC patients
+JO  - International Journal of Cancer
+JA  - Int. J. Cancer
+VL  - 139
+IS  - 4
+SN  - 0020-7136
+UR  - https://doi.org/10.1002/ijc.30124
+DO  - doi:10.1002/ijc.30124
+SP  - 928
+EP  - 937
+KW  - hepatocellular carcinoma
+KW  - transarterial chemoembolization
+KW  - sorafenib
+KW  - dermatologic adverse events
+KW  - biomarker
+PY  - 2016
+AB  - The purpose of our study was to test the hypothesis that sorafenib-related dermatologic adverse events (AEs) as an early biomarker can predict the long-term outcomes following the combination therapy of transarterial chemoembolization (TACE) plus sorafenib (TACE-S). The intermediate-stage hepatocellular carcinoma patients who received either TACE-S or TACE-alone treatment were consecutively included into analysis. In the TACE-S group, patients with?≥?grade 2 dermatologic AEs within the first month of sorafenib initiation were defined as responders; whereas those with?<?grade 2 were defined as nonresponders. In the TACE-S group, the median overall survival (OS) of the responders was significantly longer than that of nonresponders (28.9 months vs. 16.8 months, respectively; p?=?0.004). Multivariate analysis demonstrated that nonresponders were significantly associated with an increased risk of death compared with responders (HR?=?1.9; 95% confidence Interval-CI: 1.3?2.7; p?=?0.001). The survival analysis showed that the median OS was 27.9 months (95% CI: 25.0?30.8) among responders treated with TACE-S vs.18.3 months (95% CI: 14.5?22.1) among those who received TACE-alone (p?=?0.046). The median time to progression was 13.1 months (95% CI: 4.4?21.8) in the TACE-S group, a duration that was significantly longer than that in the TACE-alone group [5 months (95% CI: 6.4?13.3), p?=?0.014]. This study demonstrated that sorafenib-related dermatologic AEs are clinical biomarkers to identify responders from all of the patients for TACE-S therapy. Sorafenib-related dermatologic AEs, clinical biomarkers, can predict the efficacy of TACE-S in future randomized controlled trials.
+ER  - 
+
+TY  - JOUR
+AU  - Yang, Tian
+AU  - Lu, Junhua
+AU  - Shen, Feng
+AU  - Wu, Mengchao
+TI  - A large asymptomatic hepatic mass
+JO  - Liver International
+JA  - Liver International
+VL  - 32
+IS  - 1
+SN  - 1478-3223
+UR  - https://doi.org/10.1111/j.1478-3231.2011.02622.x
+DO  - doi:10.1111/j.1478-3231.2011.02622.x
+SP  - 78
+EP  - 78
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+AU  - Groff, Diller B.
+TI  - Pelvic neoplasms in children
+JO  - Journal of Surgical Oncology
+JA  - J. Surg. Oncol.
+VL  - 77
+IS  - 1
+SN  - 0022-4790
+UR  - https://doi.org/10.1002/jso.1068
+DO  - doi:10.1002/jso.1068
+SP  - 65
+EP  - 71
+KW  - child pelvis
+KW  - pelvic neoplasm
+KW  - child ovarian teratomas
+KW  - rhabdomyosarcoma
+KW  - sacrococcygeal teratoma
+KW  - germ cell tumors
+PY  - 2001
+AB  - Abstract The pelvis of the infant and child has different anatomic relationships than the adolescent or adult pelvis, and the knowledge of congenital anomalies of the rectum and bladder can assist in treating the primary neoplasms of the pelvis. The most common neoplasms are rhabdomyosarcomas of the bladder, prostate, and vagina; sacrococcygeal teratoma; and the germ cell tumors, including teratomas, endodermal sinus tumors, and the choriocarcinomas. Rapidly improving chemotherapy for all of these lesions has resulted in a changed role for the surgeon. Less radical resection of these tumors is being performed whereas it is necessary to have more precise histologic and genetic identification of the tumor and the specific anatomic location and extent of the tumor in the pelvis. Survival for all types of childhood pelvic neoplasms has improved dramatically under the influence of the combined children's cancer study groups, which have been functioning for the last 20 years. Because of the complexities of diagnosis and treatment of these pelvic neoplasms in childhood and because the survival rates have dramatically improved with the most current therapy, these children should be cared for in a children's center that is part of the major children's cancer study groups. J. Surg. Oncol. 2001; 77:65?71. ? 2001 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+TI  - Hepatology Clinical
+JO  - Journal of Gastroenterology and Hepatology
+JA  - J Gastroenterol Hepatol
+VL  - 29
+IS  - S2
+SN  - 0815-9319
+UR  - https://doi.org/10.1111/jgh.12736_5
+DO  - doi:10.1111/jgh.12736_5
+SP  - 68
+EP  - 101
+PY  - 2014
+ER  - 
+
+AU  - Woo, Lynn L.
+AU  - Ross, Jonathan H.
+C7  - pp. 341-352
+TI  - Testicular tumors
+SN  - 9781118473313
+UR  - https://doi.org/10.1002/9781118473382.ch35
+DO  - doi:10.1002/9781118473382.ch35
+SP  - 341-352
+KW  - Testis tumor
+KW  - RPLND
+KW  - neoplasm
+KW  - orchiectomy
+KW  - AFP
+KW  - post-chemotherapy
+PY  - 2014
+AB  - Summary Testicular tumors are rare in the pediatric population. Prepubertal testis tumors differ from postpubertal tumors with respect to histopathology and malignant potential, and management therefore differs. The spectrum of testicular tumors occurring in postpubertal boys is similar to that found in adult men; 90% are malignant and are generally managed by radical orchiectomy with or without platinum-based chemotherapy and/or retroperitoneal lymph node dissection. Yolk sac tumor is the most common malignant testis tumor in prepubertal boys and is typically associated with elevated serum α-fetoprotein levels. Teratoma and other stromal tumors, which are almost always benign, account for a majority of prepubertal tumors. The higher likelihood of encountering benign tumors in prepubertal patients makes consideration of testis-sparing surgery important. In postpubertal patients, retroperitoneal lymph node dissection may be required for metastatic disease, and meticulous surgical technique is important to minimize potential complications including bleeding, ejaculatory dysfunction, chylous ascites, and bowel obstruction.
+ER  - 
+
+AU  - Ho, Cathy
+AU  - Kulvatunyou, Narong
+C7  - pp. 393-402
+TI  - Liver and Spleen
+SN  - 9781119317920
+UR  - https://doi.org/10.1002/9781119317913.ch39
+DO  - doi:10.1002/9781119317913.ch39
+SP  - 393-402
+KW  - angiographic embolization
+KW  - arterio-venous fistula
+KW  - hematologic disorder
+KW  - liver injuries
+KW  - post-injury biloma
+KW  - spleen injury
+KW  - splenic artery aneurysm
+PY  - 2014
+AB  - Summary This is a unique question-and-answer chapter for surgical residents and trainees, concentrating on the injuries of liver and spleen. In a nonoperative patient, angiographic embolization (AE) can be an adjunct in liver injuries that contains an arterio-venous fistula or have ongoing bleeding. Nonoperative management of blunt liver injuries in patients with normal hemodynamics is recommended with greater than 90% success. Hydatid disease of the liver is uncommon. It is caused by parasitic Echinococcus, which has dogs as its definitive hosts. Patients with high-grade liver injuries have an increased risk of developing post-injury biloma as a complication. The accessory spleen is a common anomaly, occurring in up to 20% of the population. However, it can occur in up to 30% of patients with a hematologic disorder. Splenic artery aneurysm is very uncommon, but it is the third most frequent abdominal artery to undergo aneurismal changes.
+ER  - 
+
+TY  - JOUR
+AU  - Kozyreva, Olga N.
+AU  - Chi, Dorcas
+AU  - Clark, Jeffrey W.
+AU  - Wang, Hejing
+AU  - Theall, Kathy P.
+AU  - Ryan, David P.
+AU  - Zhu, Andrew X.
+TI  - A Multicenter Retrospective Study on Clinical Characteristics, Treatment Patterns, and Outcome in Elderly Patients with Hepatocellular Carcinoma
+JO  - The Oncologist
+JA  - The Oncologist
+VL  - 16
+IS  - 3
+SN  - 9781119317920
+UR  - https://doi.org/10.1634/theoncologist.2010-0223
+DO  - doi:10.1634/theoncologist.2010-0223
+SP  - 310
+EP  - 318
+KW  - Hepatocellular carcinoma
+KW  - Epidemiology
+KW  - Elderly
+KW  - Treatment pattern
+KW  - Survival
+PY  - 2011
+AB  - Background. There is a paucity of information on the clinical presentation and outcome of elderly hepatocellular carcinoma (HCC) patients. We performed a multicenter retrospective comparative study to assess the impact of age on potential differences in clinical characteristics, treatment patterns, and outcome in HCC patients. Methods. We retrospectively analyzed HCC patients treated at two U.S. tertiary institutions from 1998 to 2008. Demographics, tumor parameters, etiology and severity of cirrhosis, treatment, and survival from diagnosis were collected and analyzed. After exclusion of transplanted patients, survival analyses were performed using the Kaplan-Meier method with log-rank tests and Cox proportional hazards models. Results. Three hundred thirty-five HCC patients were divided into two groups: ?elderly? (95 patients, age ≥70 years) and ?younger? (240 patients, aged <70 years). The male/female (M/F) ratio was 5.8:1 and 1.7:1 in the younger and elderly groups, respectively (p < .0001). Hepatitis C virus (HCV) infection rate was 48.3% in younger and 21.1% in elderly patients (p < .0001); Child class B and C cirrhosis accounted for 35.8% in younger and 25.3% in elderly patients (p = .063). Compared with younger patients, the elderly received transplant less frequently (19.6% versus 5.3%, p = .0002) and were more likely to receive supportive care only (22.9% versus 36.8%, p = .01). No significant differences between the two age groups were seen in tumor parameters or other treatments received. Overall (p = .47) and HCC-specific survival rates (p = .38) were similar in both age groups. Conclusions. Characteristics that distinguish elderly from younger HCC patients include lower M/F ratio, worse performance status, lower rate of HCV infection, and less advanced underlying cirrhosis. Elderly patients were less likely to have a liver transplant and more likely to receive supportive care only. However, overall and HCC-specific survival were similar between the two groups.
+ER  - 
+
+AU  - Kulvatunyou, Narong
+C7  - pp. 357-367
+TI  - Liver and Spleen
+SN  - 9780470654613
+UR  - https://doi.org/10.1002/9781118274231.ch37
+DO  - doi:10.1002/9781118274231.ch37
+SP  - 357-367
+KW  - liver and spleen
+KW  - blunt liver trauma, grade V injury requiring operation, a falsity
+KW  - liver abscess, pyogenic and amoebic abscess
+KW  - hydatid disease, and parasitic Echinococcus
+KW  - patients, high-grade liver injuries, and postinjury biloma
+KW  - grade V liver injury in vehicle collision, and angiography
+KW  - liver anatomy, into anteromedial and posterolateral
+KW  - autoimmune hemolytic anemia, splenic hilum location
+KW  - vague, left upper quadrant pain with surgical splenectomy
+KW  - abnormal hemodynamics, contraindicated in splenic trauma
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+AU  - Croome, K. P.
+AU  - Lee, D. D.
+AU  - Burns, J. M.
+AU  - Musto, K.
+AU  - Paz, D.
+AU  - Nguyen, J. H.
+AU  - Perry, D. K.
+AU  - Harnois, D. M.
+AU  - Taner, C. B.
+TI  - The Use of Donation After Cardiac Death Allografts Does Not Increase Recurrence of Hepatocellular Carcinoma
+JO  - American Journal of Transplantation
+VL  - 15
+IS  - 10
+SN  - 9780470654613
+UR  - https://doi.org/10.1111/ajt.13306
+DO  - doi:10.1111/ajt.13306
+SP  - 2704
+EP  - 2711
+KW  - Donors and donation: donation after brain death (DBD)
+KW  - donors and donation: donation after circulatory death (DCD)
+KW  - liver disease: malignant, ischemia reperfusion injury (IRI)
+PY  - 2015
+AB  - Hepatocellular carcinoma (HCC) recurrence in patients undergoing liver transplantation (LT) with donation after brain death (DBD) and donation after cardiac death (DCD) allografts has not previously been investigated. Rates and patterns of HCC recurrences were investigated in patients undergoing DBD (N?=?1633) and DCD (N?=?243) LT between 2003 and 2012. LT for HCC was identified in 397 patients (340 DBD and 57 DCD). No difference in tumor number (p?=?0.26), tumor volume (p?=?0.34) and serum alphafetoprotein (AFP) (p?=?0.47) was seen between the groups. HCC recurrence was identified in 41 (12.1%) patients in the DBD group and 7 (12.3%) patients in the DCD group. There was no difference in recurrence-free survival (p?=?0.29) or cumulative incidence of HCC recurrence (p?=?0.91) between the groups. Liver allograft was the first site of recurrence in 22 (65%) patients in the DBD group and two (37%) patients in the DCD group (p?=?0.39). LT for HCC with DBD and DCD allografts demonstrate no difference in the rate of HCC recurrence. Previously published differences in survival demonstrated between recipients with HCC receiving DBD and DCD allografts despite statistical adjustment can likely be explained by practice patterns not captured by variables contained in the SRTR database.
+ER  - 
+
+TY  - JOUR
+AU  - Shimamura, Yoshiyuki
+AU  - Gunvén, Peter
+AU  - Takenaka, Yoshifumi
+AU  - Shimizu, Hisakazu
+AU  - Shima, Yasuo
+AU  - Akimoto, Hiroshi
+AU  - Arima, Kazuhiro
+AU  - Takahashi, Akira
+AU  - Kitaya, Tomoki
+AU  - Matsuyama, Tomoji
+AU  - Hasegawa, Hiroshi
+TI  - Combined peripheral and central chemoembolization of liver tumors. Experience with lipiodol-doxorubicin and gelatin sponge (L-TAE)
+JO  - Cancer
+JA  - Cancer
+VL  - 61
+IS  - 2
+SN  - 9780470654613
+UR  - https://doi.org/10.1002/1097-0142(19880115)61:2<238::AID-CNCR2820610206>3.0.CO;2-9
+DO  - doi:10.1002/1097-0142(19880115)61:2<238::AID-CNCR2820610206>3.0.CO;2-9
+SP  - 238
+EP  - 242
+PY  - 1988
+AB  - Abstract Patients with primary and a few with secondary liver tumors were embolized through the hepatic artery. Lipiodol and doxorubicin occluded peripherally, which was immediately followed by central embolization with gelatin sponge cubes. Preoperative embolizations were made for diagnostic and possible surgical adjuvant purposes. Extensive postembolization necrosis was common in tumors less than 5 cm in diameter, and tumor markers usually decreased temporarily after treatment. There were moderate side effects of pain, fever and nausea, and an acceptable complication and mortality rate with no deaths after embolization alone. This warrants further research on the method, which also seemed to improve the detection rate for small hepatocellular carcinomas.
+ER  - 
+
+TY  - JOUR
+AU  - Adams, Denise M.
+AU  - Brandão, Leonardo R.
+AU  - Peterman, Caitlin M.
+AU  - Gupta, Anita
+AU  - Patel, Manish
+AU  - Fishman, Steven
+AU  - Trenor, Cameron C.
+C7  - e26716
+TI  - Vascular anomaly cases for the pediatric hematologist oncologists—An interdisciplinary review
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr Blood Cancer
+VL  - 65
+IS  - 1
+SN  - 9780470654613
+UR  - https://doi.org/10.1002/pbc.26716
+DO  - doi:10.1002/pbc.26716
+SP  - e26716
+KW  - congenital hemangioma
+KW  - kaposiform hemangioendothelioma
+KW  - kaposiform lymphangiomatosis
+KW  - lymphatic anomalies
+KW  - vascular anomaly
+KW  - vascular malformation
+KW  - vascular tumor
+PY  - 2018
+AB  - Abstract Vascular anomalies (VAs) are classified as tumors or malformations depending on their clinical characteristics, pathological diagnosis, and genomic information. Diagnosis can be challenging because of the heterogeneity of clinical presentation; thus, the best diagnosis and care are provided by an interdisciplinary team of specialists. Over the past 10 years, an increasing number of pediatric hematologist/oncologists are caring for patients with VAs secondary to new medical therapy options and clinical trials. This paper focuses on complicated VA issues often seen by the pediatric hematologist/oncologist. The paper reviews clinical pearls on diagnosis, histology, radiology, and treatment options.
+ER  - 
+
+TY  - JOUR
+AU  - Rama, Estefanía Costa
+AU  - Costa-García, Agustín
+TI  - Screen-printed Electrochemical Immunosensors for the Detection of Cancer and Cardiovascular Biomarkers
+JO  - Electroanalysis
+JA  - Electroanalysis
+VL  - 28
+IS  - 8
+SN  - 9780470654613
+UR  - https://doi.org/10.1002/elan.201600126
+DO  - doi:10.1002/elan.201600126
+SP  - 1700
+EP  - 1715
+KW  - Screen-printed electrode
+KW  - Electrochemical
+KW  - Immunosensors
+KW  - Cardiovascular biomarkers
+KW  - Cancer biomarkers
+PY  - 2016
+AB  - Abstract Electrochemical immunosensors (EIs) for the determination of disease biomarkers has attracted a wide interest due to its high sensitivity, low cost, and possible integration in compact analytical devices. The use of screen-printed electrodes (SPEs) to develop EIs contributes to the great potential they have in point of care (POC) test, since SPEs show good electrical properties and allow the reduction of the electrochemical instrumentation down to small pocket-size devices. Moreover, during the last years, SPEs have gone through significant improvements related to both their design and printing materials. Since cancer and cardiovascular diseases are the major threats of global health, there is a growing demand for the development of portable, rapid, simple and inexpensive devices for the detection of these diseases. This article presents an overview about the main biomarkers of cancer and cardiovascular diseases and the EIs based on SPEs for the detection of these biomarkers.
+ER  - 
+
+TY  - JOUR
+AU  - Fujita, Kazuhisa
+AU  - Iyoshi, Shohei
+AU  - Watanabe, Kazuko
+AU  - Takeda, Akihiro
+TI  - Chronic tubal pregnancy manifesting as a heterogeneous adnexal mass with prominent neovascularization in a woman with a negative serum β-human chorionic gonadotropin level
+JO  - Journal of Obstetrics and Gynaecology Research
+JA  - J. Obstet. Gynaecol. Res.
+VL  - 45
+IS  - 3
+SN  - 9780470654613
+UR  - https://doi.org/10.1111/jog.13869
+DO  - doi:10.1111/jog.13869
+SP  - 729
+EP  - 733
+KW  - adnexal mass
+KW  - chronic ectopic pregnancy
+KW  - hematosalpinx
+KW  - neovascularization
+KW  - ovarian artery
+PY  - 2019
+AB  - Abstract A 41-year-old woman (gravida 2, para 1) underwent elective termination of pregnancy at approximately 7 weeks of gestation. At 1 month after the elective abortion, she was referred due to abnormal results in a cervical cytological examination. Transvaginal ultrasonography showed a heterogeneous mass of 16 mm in diameter in the left adnexal region. At 3 months after her referral, the asymptomatic left adnexal mass had increased to 55 mm in diameter. Prominent vascular flow was detected in the solid portion by color Doppler ultrasonography. Magnetic resonance imaging showed suspected hemorrhage in the left adnexal cystic mass. Three-dimensional computerized tomographic angiography showed the prominent development of tortuous blood vessels in the left adnexal region, which originated from the left ovarian artery. The patient had a negative ?-human chorionic gonadotropin (hCG) level. Left salpingectomy was performed by a single-port laparoscopic approach. A pathological examination revealed degenerated villous tissue with ?-hCG-positive syncytiotrophoblasts.
+ER  - 
+
+TY  - JOUR
+AU  - Boteon, Amanda Pinter Carvalheiro da Silva
+AU  - Boteon, Yuri Longatto
+AU  - Vinuela, Eduardo F.
+AU  - Derosas, Carlos
+AU  - Mergental, Hynek
+AU  - Isaac, John R.
+AU  - Muiesan, Paolo
+AU  - Mehzard, Homoyoon
+AU  - Ma, Yuk Ting
+AU  - Shah, Tahir
+AU  - Mirza, Darius F.
+AU  - Perera, M. Thamara P. R.
+C7  - e13255
+TI  - The impact of transarterial chemoembolization induced complications on outcomes after liver transplantation: A propensity-matched study
+JO  - Clinical Transplantation
+JA  - Clin Transplant
+VL  - 32
+IS  - 5
+SN  - 9780470654613
+UR  - https://doi.org/10.1111/ctr.13255
+DO  - doi:10.1111/ctr.13255
+SP  - e13255
+KW  - early hepatocellular carcinoma
+KW  - hepatocellular carcinoma
+KW  - surgical morbidity
+KW  - survival analysis
+KW  - waiting list
+PY  - 2018
+AB  - Abstract Background Loco-regional complications of transarterial chemoembolization (TACE) may adversely affect technical aspects of the liver transplantation (LT). This study reviewed the impact of those complications on postoperative outcomes encompassing implications on graft selection. Methods A retrospective, propensity score matching (1:1) analysis accounting for donor and recipient confounders was performed on a dataset of patients undergoing LT for hepatocellular carcinoma. Outcomes of patients who had TACE (TACE-group) were compared with those who did not (NoTACE-group). Results A total of 57 matched pairs were analyzed. TACE achieved effective tumor control (Pre-TACE vs Post-TACE; Median: 44 mm [interquartile range: 43-50] vs 17 mm [0-36]; P = .002) on imaging follow-up. TACE group had, at the hepatectomy, higher incidence of ischemia-related complications (adhesions of the necrotic tumor, cholecystitis, and/or bile duct necrosis) (40.4% vs 10.5%; P = .001). Overall major post-LT complications rate (Dindo-Clavien ≥3) were similar (P = .134). Those in the TACE group with donors after circulatory death (DCD) had 4.6% 90-day mortality and 54.3% major complication rate compared to 6.9% and 77.3% (P = .380 and P = .112, respectively). Conclusion TACE was an effective bridging procedure that may complicate LT inducing ischemic-related complications; nevertheless, it has not shown repercussions on mortality or morbidity after the procedure, even using donors after circulatory death.
+ER  - 
+
+TY  - JOUR
+AU  - Moser, Annette C.
+AU  - Willicott, Corey W.
+AU  - Hage, David S.
+TI  - Clinical applications of capillary electrophoresis based immunoassays
+JO  - ELECTROPHORESIS
+JA  - ELECTROPHORESIS
+VL  - 35
+IS  - 7
+SN  - 9780470654613
+UR  - https://doi.org/10.1002/elps.201300421
+DO  - doi:10.1002/elps.201300421
+SP  - 937
+EP  - 955
+KW  - Affinity capillary electrophoresis
+KW  - Capillary electrophoresis
+KW  - CE immunoassay
+KW  - Clinical chemistry
+KW  - Immunoassay
+PY  - 2014
+AB  - Immunoassays have long been an important set of tools in clinical laboratories for the detection, diagnosis, and treatment of disease. Over the last two decades, there has been growing interest in utilizing CE as a means for conducting immunoassays with clinical samples. The resulting method is known as a CE immunoassay. This approach makes use of the selective and strong binding of antibodies for their targets, as is employed in a traditional immunoassay, and combines this with the speed, efficiency, and small sample requirements of CE. This review discusses the variety of ways in which CE immunoassays have been employed with clinical samples. An overview of the formats and detection modes that have been employed in these applications is first presented. A more detailed discussion is then given on the type of clinical targets and samples that have been measured or studied by using CE immunoassays. Particular attention is given to the use of this method in the fields of endocrinology, pharmaceutical measurements, protein and peptide analysis, immunology, infectious disease detection, and oncology. Representative applications in each of these areas are described, with these examples involving work with both traditional and microanalytical CE systems.
+ER  - 
+
+TY  - JOUR
+AU  - Rossi, Andrea
+AU  - Garrè, Maria Luisa
+AU  - Ravegnani, Marcello
+AU  - Nozza, Paolo
+AU  - Abbruzzese, Arturo
+AU  - Giangaspero, Felice
+AU  - Tortori-Donati, Paolo
+TI  - Bilateral germinoma of the basal ganglia
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr. Blood Cancer
+VL  - 50
+IS  - 1
+SN  - 9780470654613
+UR  - https://doi.org/10.1002/pbc.20905
+DO  - doi:10.1002/pbc.20905
+SP  - 177
+EP  - 179
+KW  - brain tumors
+KW  - germ cell tumors
+KW  - neuro-oncology
+KW  - rare tumors
+PY  - 2008
+AB  - Abstract Germinoma arising in the bilateral basal ganglia is exceedingly rare, with only five cases reported to date. Owing to non-specific clinical findings and the frequent presence of ill-defined abnormalities without a definite tumor mass on neuroimaging, the diagnosis can be difficult. We describe a case in which magnetic resonance spectroscopy (MRS) findings suggested a tumor and supported the decision to perform biopsy of the lesion. Pediatr Blood Cancer 2008;50:177?179. ? 2006 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Potdar, Neelam
+AU  - Pillai, Rekha N
+AU  - Oppenheimer, Christina A
+TI  - Management of ovarian cysts in children and adolescents
+JO  - The Obstetrician & Gynaecologist
+JA  - Obstet Gynecol
+VL  - n/a
+IS  - n/a
+SN  - 9780470654613
+UR  - https://doi.org/10.1111/tog.12648
+DO  - doi:10.1111/tog.12648
+KW  - adolescent
+KW  - ovarian cysts
+KW  - ovarian torsion
+KW  - ovarian tumours
+AB  - Abstract Key content Most ovarian cysts in children and adolescents are benign. Incidence of large ovarian cysts usually peaks in the first year of life and around menarche; approximately 30% of girls will present with pain. Gynaecologists, paediatric surgeons and general surgeons may manage ovarian cysts. There is a lack of standardised protocols and guidance, so most girls are managed based upon an individual clinician?s judgement, preference and experience. Wherever possible, the operation of choice for benign cysts is laparoscopic ovarian cystectomy with ovarian preservation. This review provides an evidence-based tool for the management of ovarian cysts in children and adolescent girls. Learning objectives To identify ovarian pathology using appropriate imaging in emergency and elective situations. To know that, where possible, a multidisciplinary approach between gynaecologists, radiologists and paediatric surgeons is optimal. To be vigilant for malignant tumours and perform ovarian-sparing surgery for suspected benign conditions. Ethical issues There are long-term reproductive consequences of inadvertently removing one or both ovaries. Unnecessary surgery has an effect on patients? physical and mental wellbeing.
+ER  - 

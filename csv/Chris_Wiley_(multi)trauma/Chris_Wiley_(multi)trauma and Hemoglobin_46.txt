@@ -1,0 +1,305 @@
+
+TY  - JOUR
+AU  - Veesa, Joshua D.
+AU  - Dehghani, Hamid
+C7  - e201900064
+TI  - Functional near infrared spectroscopy using spatially resolved data to account for tissue scattering: A numerical study and arm-cuff experiment
+JO  - Journal of Biophotonics
+JA  - J. Biophotonics
+VL  - 12
+IS  - 10
+SN  - 1864-063X
+UR  - https://doi.org/10.1002/jbio.201900064
+DO  - doi:10.1002/jbio.201900064
+SP  - e201900064
+KW  - near-infrared spectroscopy
+KW  - tissue optics
+KW  - tissue scattering
+PY  - 2019
+AB  - Abstract Functional Near-Infrared Spectroscopy (fNIRS) aims to recover changes in tissue optical parameters relating to tissue hemodynamics, to infer functional information in biological tissue. A widely-used application of fNIRS relies on continuous wave (CW) methodology that utilizes multiple distance measurements on human head for study of brain health. The typical method used is spatially resolved spectroscopy (SRS), which is shown to recover tissue oxygenation index (TOI) based on gradient of light intensity measured between two detectors. However, this methodology does not account for tissue scattering which is often assumed. A new parameter recovery algorithm is developed, which directly recovers both the scattering parameter and scaled chromophore concentrations and hence TOI from the measured gradient of light-attenuation at multiple wavelengths. It is shown through simulations that in comparison to conventional SRS which estimates cerebral TOI values with an error of ±12.3%, the proposed method provides more accurate estimate of TOI exhibiting an error of ±5.7% without any prior assumptions of tissue scatter, and can be easily implemented within CW fNIRS systems. Using an arm-cuff experiment, the obtained TOI using the proposed method is shown to provide a higher and more realistic value as compared to utilizing any prior assumptions of tissue scatter.
+ER  - 
+
+AU  - Correnti, Colin
+AU  - Strong, Roland K.
+C7  - pp. 1-11
+TI  - Iron Sequestration in Immunity
+UR  - https://doi.org/10.1002/9781119951438.eibc2142
+DO  - doi:10.1002/9781119951438.eibc2142
+SP  - 1-11
+KW  - transferrin
+KW  - ferritin
+KW  - lactoferrin
+KW  - hepcidin
+KW  - hemopexin
+KW  - haptoglobin
+KW  - siderophore
+KW  - siderocalin
+PY  - 2019
+AB  - Abstract Almost every living thing requires iron (including aerobic, and facultative and obligate anaerobic bacteria) because iron plays key roles in a broad range of physiologically essential molecular processes ranging from catalysis, oxygen transport, and oxidative phosphorylation to structuring proteins. The useful redox properties of iron enable its utility in these molecular functions, but its scarcity in the environment in bioavailable forms, coupled with the double-edged nature of its redox properties (which can lead to the generation of cytotoxic reactive oxygen species), require complicated acquisition, transport, and storage mechanisms, both by environmental microbes and by higher animals. These iron acquisition mechanisms come into direct conflict when microbes compete with each other for this scarce resource in the environment and when pathogenic bacteria infect animal hosts. A very simple and potently effective strategy employed by many animals to ward off bacterial and fungal infections, at least in the early stages while pathogen-specific adaptive immune responses are developing, is to further constrict the already tightly controlled endogenous iron budget, starving invading microbial pathogens of needed iron. The complicated system of endogenous iron transport permits these changes in response to infection. However, in a countering response, successful pathogens have developed a variety of strategies to evade this defense, the simplest and most dramatic of which is perhaps exemplified by the spirochete Borrelia burgdorferi, the causative agent of Lyme disease, which has evolved away from the need for any iron whatsoever. Bacteria and protists have also developed sophisticated and complicated mechanisms to access heme-associated iron directly. However, other strategies developed by microbes to compete with each other for iron in the environment, mediated by small-molecule iron chelators called siderophores, are, in turn, useful to access the otherwise restricted pool of iron in transit in the body, carried as complexes with specific iron-binding proteins. To counter siderophore-mediated iron pilfering, animals have developed a panel of siderophore-specific binding proteins (siderocalins) to steal the iron (and siderophore) back. To subvert this counterstrategy, successful pathogenic bacteria modify their siderophores into stealthy forms that cannot bind to host siderocalins. As with any arms race (e.g., the process of evolution), the cycle of response/counterresponse is likely to continue ad infinitum.
+ER  - 
+
+TY  - JOUR
+TI  - Posters Abstracts
+JO  - Research and Practice in Thrombosis and Haemostasis
+JA  - Res Pract Thromb Haemost
+VL  - 3
+IS  - S1
+UR  - https://doi.org/10.1002/rth2.12229
+DO  - doi:10.1002/rth2.12229
+SP  - 1
+EP  - 891
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - American Society of Pediatric Hematology/Oncology 23rd Annual Meeting: Abstracts
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr. Blood Cancer
+VL  - 54
+IS  - 6
+UR  - https://doi.org/10.1002/pbc.22516
+DO  - doi:10.1002/pbc.22516
+SP  - 787
+EP  - 864
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - Darbari, Deepika S.
+AU  - Kple-Faget, Paul
+AU  - Kwagyan, John
+AU  - Rana, Sohail
+AU  - Gordeuk, Victor R.
+AU  - Castro, Oswaldo
+TI  - Circumstances of death in adult sickle cell disease patients
+JO  - American Journal of Hematology
+JA  - Am. J. Hematol.
+VL  - 81
+IS  - 11
+UR  - https://doi.org/10.1002/ajh.20685
+DO  - doi:10.1002/ajh.20685
+SP  - 858
+EP  - 863
+KW  - sickle cell
+KW  - death
+KW  - pulmonary hypertension
+KW  - renal disease
+KW  - cirrhosis
+KW  - iron overload
+PY  - 2006
+AB  - Abstract The purpose of the study was to analyze clinical and/or autopsy findings at the time of death among adults with sickle cell disease (SCD) at Howard University in Washington, DC over a 25-year period. A single physician recorded circumstances of death among 141 adult SCD patients he treated and knew well from 1976 to 2001. These findings were determined by autopsy report and/or clinical assessment. In a subset of 31 patients, autopsy records were reviewed for reports of iron deposition in liver and heart and of organ pathology. One hundred and fourteen (80.9%) of the patients had SS phenotype and 66 (46.8%) were female. The mean ± SD age at death was 36 ± 11 years. Leading circumstances of death included pulmonary hypertension (PHT) (26.2%), sudden death (23.4%), renal failure (22.6%), infection (18.4%), thromboembolism (14.9%), cardiac diagnoses (12.0%), cirrhosis (11.3%), pneumonia or acute chest syndrome (9.9%), bleeding (7.8%), and iron overload (7.0%). When circumstances of deaths that occurred after 1991 (n = 69) were compared to those that occurred in 1991 or earlier (n = 72), PHT (36.2% vs. 16.6%; P < 0.01) was significantly more common in 1992 or later. Significant associations were found between PHT and thromboembolism and between cirrhosis and iron overload. In this proportional mortality study of adults with SCD, PHT was the leading finding at the time of death. Thromboembolism was associated with PHT, and iron overload was associated with cirrhosis. Am. J. Hematol., 2006. ? 2006 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+TI  - ESSR ABSTRACTS 2010
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 97
+IS  - S4
+UR  - https://doi.org/10.1002/bjs.7159
+DO  - doi:10.1002/bjs.7159
+SP  - S59
+EP  - S121
+PY  - 2010
+AB  - Abstract The 45th Congress of the European Society for Surgical Research takes place this year in Geneva, Switzerland, 9?12 June 2010, under the presidency of Mustafa Cikirikcioglu, MD, PhD. Copyright ? 2010 British Journal of Surgery Society Ltd. Published by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentation
+JO  - Cardiovascular Therapeutics
+JA  - Cardiovasc Ther
+VL  - 30
+IS  - s1
+UR  - https://doi.org/10.1111/1755-5922.12011_3
+DO  - doi:10.1111/1755-5922.12011_3
+SP  - 64
+EP  - 90
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+TI  - Abstract
+JO  - Research and Practice in Thrombosis and Haemostasis
+JA  - Res Pract Thromb Haemost
+VL  - 2
+IS  - S1
+UR  - https://doi.org/10.1002/rth2.12125
+DO  - doi:10.1002/rth2.12125
+SP  - 1
+EP  - 368
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - Administrative Abstracts
+JO  - Transfusion
+JA  - Transfusion
+VL  - 53
+IS  - S2
+UR  - https://doi.org/10.1111/trf.12401_2
+DO  - doi:10.1111/trf.12401_2
+SP  - 219
+EP  - 278A
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts Presented at the Summer Meeting of the British Association of Clinical Anatomists on 3rd July 2014 at the Plymouth University, Peninsula Schools of Medicine and Dentistry, Portland Square Building, Plymouth, United Kingdom
+JO  - Clinical Anatomy
+JA  - Clin. Anat.
+VL  - 28
+IS  - 3
+UR  - https://doi.org/10.1002/ca.22508
+DO  - doi:10.1002/ca.22508
+SP  - 413
+EP  - 421
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts of the 8th International Conference on Cachexia, Sarcopenia and Muscle Wasting, Paris, France, 4-6 December 2015
+JO  - Journal of Cachexia, Sarcopenia and Muscle
+JA  - Journal of Cachexia, Sarcopenia and Muscle
+VL  - 6
+IS  - 4
+UR  - https://doi.org/10.1002/jcsm.12087
+DO  - doi:10.1002/jcsm.12087
+SP  - 398
+EP  - 509
+PY  - 2015
+ER  - 
+
+C7  - pp. 905-950
+TI  - Index
+SN  - 9780813811833
+UR  - https://doi.org/10.1002/9781118792919.index
+DO  - doi:10.1002/9781118792919.index
+SP  - 905-950
+KW  - No keyword
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - Issue highlights
+JO  - British Journal of Clinical Pharmacology
+JA  - Br J Clin Pharmacol
+VL  - 85
+IS  - 5
+SN  - 9780813811833
+UR  - https://doi.org/10.1111/bcp.13951
+DO  - doi:10.1111/bcp.13951
+SP  - 863
+EP  - 864
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+AU  - Liu, Yuying
+AU  - Tran, Dat Q.
+AU  - Rhoads, J. Marc
+TI  - Probiotics in Disease Prevention and Treatment
+JO  - The Journal of Clinical Pharmacology
+JA  - The Journal of Clinical Pharmacology
+VL  - 58
+IS  - S10
+SN  - 9780813811833
+UR  - https://doi.org/10.1002/jcph.1121
+DO  - doi:10.1002/jcph.1121
+SP  - S164
+EP  - S179
+KW  - allergy
+KW  - diarrhea
+KW  - immunology
+KW  - lactobacillus
+KW  - microbiome
+KW  - regulatory T cells
+PY  - 2018
+AB  - Abstract Few treatments for human diseases have received as much investigation in the past 20 years as probiotics. In 2017, English-language meta-analyses totaling 52 studies determined the effect of probiotics on conditions ranging from necrotizing enterocolitis and colic in infants to constipation, irritable bowel syndrome, and hepatic encephalopathy in adults. The strongest evidence in favor of probiotics lies in the prevention or treatment of 5 disorders: necrotizing enterocolitis, acute infectious diarrhea, acute respiratory tract infections, antibiotic-associated diarrhea, and infant colic. Probiotic mechanisms of action include the inhibition of bacterial adhesion; enhanced mucosal barrier function; modulation of the innate and adaptive immune systems (including induction of tolerogenic dendritic cells and regulatory T cells); secretion of bioactive metabolites; and regulation of the enteric and central nervous systems. Future research is needed to identify the optimal probiotic and dose for specific diseases, to address whether the addition of prebiotics (to form synbiotics) would enhance activity, and to determine if defined microbial communities would provide benefit exceeding that of single-species probiotics.
+ER  - 
+
+TY  - JOUR
+TI  - Paper Abstracts
+JO  - Journal of the American Geriatrics Society
+VL  - 54
+IS  - S4
+SN  - 9780813811833
+UR  - https://doi.org/10.1111/j.1532-5415.2006.00783.x
+DO  - doi:10.1111/j.1532-5415.2006.00783.x
+SP  - S1
+EP  - S203
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+TI  - American Society for Laser Medicine and Surgery Abstracts
+JO  - Lasers in Surgery and Medicine
+JA  - Lasers Surg. Med.
+VL  - 45
+IS  - S25
+SN  - 9780813811833
+UR  - https://doi.org/10.1002/lsm.22127
+DO  - doi:10.1002/lsm.22127
+SP  - 1
+EP  - 93
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Section
+JO  - Transfusion
+VL  - 39
+IS  - S10
+SN  - 9780813811833
+UR  - https://doi.org/10.1111/j.1537-2995.1999.tb05925.x
+DO  - doi:10.1111/j.1537-2995.1999.tb05925.x
+SP  - 1S
+EP  - 123S
+PY  - 1999
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Haemophilia
+JA  - Haemophilia
+VL  - 26
+IS  - S2
+SN  - 9780813811833
+UR  - https://doi.org/10.1111/hae.13911
+DO  - doi:10.1111/hae.13911
+SP  - 27
+EP  - 181
+PY  - 2020
+ER  - 
+
+AU  - Bourikas, Leonidas A.
+AU  - Papadakis, Konstantinos A.
+C7  - pp. 195-211
+TI  - Extraintestinal Consequences of Mucosal Inflammation
+SN  - 9781405157254
+UR  - https://doi.org/10.1002/9781444318418.ch14
+DO  - doi:10.1002/9781444318418.ch14
+SP  - 195-211
+KW  - extraintestinal consequences of mucosal inflammation
+KW  - acute phase proteins - 25% increase or decrease in plasma concentrations during inflammation
+KW  - hematologic consequences of intestinal inflammation
+KW  - disorders of coagulation - one in 1000 people experiencing thrombotic episode
+KW  - leukocytosis - elevated leukocyte counts associated with increased risk of recurrence
+KW  - hematologic malignancies - lymphoma, rheumatoid arthritis, sjögren syndrome or celiac disease
+KW  - amyloidosis in patients with IBD
+PY  - 2020
+AB  - Summary This chapter contains sections titled: Introduction Acute phase proteins Hematologic consequences of intestinal inflammation References
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts from the American Society for Apheresis 29th Annual Meeting, April 9–12, 2008, Galveston, Texas
+JO  - Journal of Clinical Apheresis
+JA  - J. Clin. Apheresis
+VL  - 23
+IS  - 1
+SN  - 9781405157254
+UR  - https://doi.org/10.1002/jca.20160
+DO  - doi:10.1002/jca.20160
+SP  - 1
+EP  - 51
+PY  - 2008
+ER  - 

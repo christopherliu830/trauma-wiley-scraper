@@ -1,0 +1,314 @@
+
+TY  - JOUR
+AU  - Gulati, Abhishek
+AU  - Gerk, Phillip M.
+TI  - Role of placental ATP-binding cassette (ABC) transporters in antiretroviral therapy during pregnancy
+JO  - Journal of Pharmaceutical Sciences
+JA  - J. Pharm. Sci.
+VL  - 98
+IS  - 7
+SN  - 0022-3549
+UR  - https://doi.org/10.1002/jps.21623
+DO  - doi:10.1002/jps.21623
+SP  - 2317
+EP  - 2335
+KW  - ABC transporters
+KW  - P-glycoprotein
+KW  - multidrug resistance-associated proteins
+KW  - placenta
+KW  - pregnancy
+KW  - transporters
+KW  - active transport
+KW  - efflux pumps
+KW  - pharmacokinetics/pharmacodynamics
+KW  - multidrug resistance transporters
+PY  - 2009
+AB  - Abstract Highly active anti-retroviral therapy (HAART) is used to treat HIV-infected patients and involves administration of multiple antiretroviral drugs acting at different steps of the HIV life cycle. In treating HIV-infected pregnant patients, the aim of therapy is not only to treat the mother but also to prevent the transmission of the virus to the fetus. Among the antiretroviral drugs used, there are differences in the extent of transfer of these drugs across the placenta; HIV protease inhibitors are particularly poorly transferred. Activities of ABC transporters expressed in the human placenta as well as differences in plasma protein binding may account for the poor transplacental transfer of certain drugs. This review discusses factors affecting the extent of placental transfer of antiretroviral drugs during pregnancy. These issues may also apply to drugs in other therapeutic categories. ? 2008 Wiley-Liss, Inc. and the American Pharmacists Association J Pharm Sci 98:2317?2335, 2009
+ER  - 
+
+AU  - Habing, Amy M.
+AU  - Byron, Julie K.
+C7  - pp. 261-288
+TI  - Imaging of the Urinary Tract
+SN  - 9781118378281
+UR  - https://doi.org/10.1002/9781118910924.ch26
+DO  - doi:10.1002/9781118910924.ch26
+SP  - 261-288
+KW  - cats
+KW  - computed tomography (CT)
+KW  - cystography
+KW  - dogs
+KW  - excretory urography (EU)
+KW  - urinary tract
+PY  - 2009
+AB  - Summary Imaging, plain and contrast-enhanced, and uroendoscopy is essential to interventional evaluation and treatment of the urinary tract of dog and cat, and are often best used in combination. This chapter explains the indications, procedures, complications, and interpretation of some of the most common imaging studies performed for the urinary tract. Excretory urography (EU) may be performed using traditional radiography, fluoroscopy, or computed tomography (CT). Contraindications of these techniques are related to the use of intravenous injection of iodinated contrast media and the need for sedation or general anesthesia. There are three phases of the excretory urogram: vascular, nephrogram, and pyelogram. Contrast cystography allows for visualization of the urinary bladder, assessment of bladder wall integrity, thickness and contour, and the investigation of intraluminal abnormalities such as cystoliths and masses. The urinary bladder should be evaluated for normal margination, shape, location, and lack of contrast media extravasation.
+ER  - 
+
+TY  - JOUR
+TI  - Original Clinical Research
+JO  - Oral Diseases
+JA  - Oral Dis
+VL  - 20
+IS  - s2
+SN  - 9781118378281
+UR  - https://doi.org/10.1111/odi.12277_1
+DO  - doi:10.1111/odi.12277_1
+SP  - 7
+EP  - 24
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - Poster
+JO  - Transplant International
+JA  - Transpl Int
+VL  - 26
+IS  - s1
+SN  - 9781118378281
+UR  - https://doi.org/10.1111/tri.12181
+DO  - doi:10.1111/tri.12181
+SP  - 28
+EP  - 57
+PY  - 2013
+ER  - 
+
+AU  - Falsey, Ann R.
+C7  - pp. 1723-1737
+TI  - Infectious Diseases
+SN  - 9780470090558
+UR  - https://doi.org/10.1002/047009057X.ch145
+DO  - doi:10.1002/047009057X.ch145
+SP  - 1723-1737
+KW  - fever
+KW  - infection
+KW  - influenza
+KW  - vaccination
+PY  - 2013
+AB  - Summary This chapter contains sections titled: Introduction Epidemiology of Infections Clinical Presentation Fever of Unknown Origin Infection Control in Long-Term Care Facilities Specific Infections Vaccination Key References References
+ER  - 
+
+TY  - JOUR
+TI  - FOCUSED WORKSHOPS
+JO  - European Journal of Neurology
+VL  - 14
+IS  - s1
+SN  - 9780470090558
+UR  - https://doi.org/10.1111/j.1468-1331.2007.01937.x
+DO  - doi:10.1111/j.1468-1331.2007.01937.x
+SP  - 302
+EP  - 311
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+AU  - Iezzoni, Lisa I.
+TI  - Multiple Chronic Conditions and Disabilities: Implications for Health Services Research and Data Demands
+JO  - Health Services Research
+VL  - 45
+IS  - 5p2
+SN  - 9780470090558
+UR  - https://doi.org/10.1111/j.1475-6773.2010.01145.x
+DO  - doi:10.1111/j.1475-6773.2010.01145.x
+SP  - 1523
+EP  - 1540
+KW  - Chronic conditions
+KW  - disability
+KW  - functional status
+KW  - comparative effectiveness research
+KW  - quality measurement
+KW  - health information technology
+KW  - coding nomenclatures
+PY  - 2010
+AB  - Increasing numbers of Americans are living with multiple chronic conditions (MCCs) and disabilities. Addressing health care needs of persons with MCCs or disabilities presents challenges on many levels. For health services researchers, priorities include (1) considering MCCs and disabilities in comparative effectiveness research (CER) and assessing quality of care; and (2) identifying and evaluating the data needed to conduct CER, performance measure development, and other research to inform health policy and public health decisions concerning persons with MCCs or disabilities. Little information is available to guide CER or treatment choices for persons with MCCs or disabilities, however, because they are typically excluded from clinical trials that produce the scientific evidence base. Furthermore, most research funding flows through public and private agencies oriented around single organ systems or diseases. Likely changes in the data landscape?notably wider dissemination of electronic health records (EHRs) and moving toward updated coding nomenclatures?may increase the information available to monitor health care service delivery and quality for persons with MCCs and disabilities. Generating this information will require new methods to extract and code information about MCCs and functional status from EHRs, especially narrative texts, and incorporating coding nomenclatures that capture critical dimensions of functional status and disability.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts—Posters
+JO  - Alcoholism: Clinical and Experimental Research
+JA  - Alcohol Clin Exp Res
+VL  - 40
+IS  - S1
+SN  - 9780470090558
+UR  - https://doi.org/10.1111/acer.13084
+DO  - doi:10.1111/acer.13084
+SP  - 16A
+EP  - 247A
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - ORAL PRESENTATION
+JO  - Respirology
+JA  - Respirology
+VL  - 21
+IS  - S3
+SN  - 9780470090558
+UR  - https://doi.org/10.1111/resp.12939_14
+DO  - doi:10.1111/resp.12939_14
+SP  - 20
+EP  - 79
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - Poster Tours
+JO  - Pediatric Diabetes
+JA  - Pediatr Diabetes
+VL  - 14
+IS  - s18
+SN  - 9780470090558
+UR  - https://doi.org/10.1111/pedi.12075
+DO  - doi:10.1111/pedi.12075
+SP  - 50
+EP  - 154
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+AU  - Tortelli, R.
+AU  - Ruggieri, M.
+AU  - Cortese, R.
+AU  - D'Errico, E.
+AU  - Capozzo, R.
+AU  - Leo, A.
+AU  - Mastrapasqua, M.
+AU  - Zoccolella, S.
+AU  - Leante, R.
+AU  - Livrea, P.
+AU  - Logroscino, G.
+AU  - Simone, I. L.
+TI  - Elevated cerebrospinal fluid neurofilament light levels in patients with amyotrophic lateral sclerosis: a possible marker of disease severity and progression
+JO  - European Journal of Neurology
+JA  - Eur J Neurol
+VL  - 19
+IS  - 12
+SN  - 9780470090558
+UR  - https://doi.org/10.1111/j.1468-1331.2012.03777.x
+DO  - doi:10.1111/j.1468-1331.2012.03777.x
+SP  - 1561
+EP  - 1567
+KW  - amyotrophic lateral sclerosis
+KW  - biomarkers
+KW  - cerebrospinal fluid
+KW  - neurofilament light chain
+KW  - prognosis
+PY  - 2012
+AB  - Background To date there are no biomarkers with proven reliability as a measure of disease burden in amyotrophic lateral sclerosis (ALS). The aim of our study is to assess the neurofilament light chain (NFL) in cerebrospinal fluid (CSF) samples as a measure of disease activity and progression in ALS. Methods Thirty-seven consecutive patients with ALS, 25 with chronic inflammatory demyelinating polyneuropathy and 21 with other neurodegenerative diseases were evaluated. CSF NFL levels were assayed by two-site solid-phase sandwich ELISA. In patients with ALS, neurological status was assessed by the revised ALS Functional Rating Scale (ALSFRS-r) and the Medical Research Council scale, and the progression of the disease was evaluated using the ?diagnostic delay? and the ?progression rate?. Results Cerebrospinal fluid NFL levels were higher in ALS cases than in controls (P < 0.0001). Using receiver operating curve analysis, an optimal NFL cut-off of 1981 ng/l discriminated between patients with ALS and neurological controls, with a sensitivity of 78.4% and specificity of 72.5%. Multivariate logistic regression confirmed the association between CSF NFL levels and the presence of ALS (age and sex adjusted odds ratio for ALS 8.9; 95% CI 3.1?25.8; P < 0.0001). In ALS, CSF NFL negatively correlated with the diagnostic delay (P < 0.0001) and the ALSFRS-r (P = 0.014) and positively with the progression rate (P < 0.0001). Conclusions High CSF NFL levels were found in patients with ALS, reflecting the burden of neurodegeneration. The significant relation between CSF NFL levels and disease progression suggests that NFL may be a useful marker of disease activity and progression in ALS.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Session 2, Monday 10 September
+JO  - European Journal of Neurology
+VL  - 19
+IS  - s1
+SN  - 9780470090558
+UR  - https://doi.org/10.1111/j.1468-1331.2012.03889.x
+DO  - doi:10.1111/j.1468-1331.2012.03889.x
+SP  - 458
+EP  - 807
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+TI  - Posters
+JO  - Bipolar Disorders
+JA  - Bipolar Disord
+VL  - 17
+IS  - S1
+SN  - 9780470090558
+UR  - https://doi.org/10.1111/bdi.12309
+DO  - doi:10.1111/bdi.12309
+SP  - 58
+EP  - 142
+PY  - 2015
+ER  - 
+
+C7  - pp. 581-594
+TI  - Index
+SN  - 9781405163217
+UR  - https://doi.org/10.1002/9781444319583.index
+DO  - doi:10.1002/9781444319583.index
+SP  - 581-594
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts–Posters
+JO  - Alcoholism: Clinical and Experimental Research
+JA  - Alcohol Clin Exp Res
+VL  - 37
+IS  - s2
+SN  - 9781405163217
+UR  - https://doi.org/10.1111/acer.12162
+DO  - doi:10.1111/acer.12162
+SP  - 11A
+EP  - 253A
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - HPB
+VL  - 13
+IS  - s1
+SN  - 9781405163217
+UR  - https://doi.org/10.1111/j.1477-2574.2011.00291.x
+DO  - doi:10.1111/j.1477-2574.2011.00291.x
+SP  - 1
+EP  - 77
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - International symposium on cell biology: from basic research to clinical applications
+JO  - Cell Biology International
+VL  - 28
+IS  - 8‐9
+SN  - 9781405163217
+UR  - https://doi.org/10.1016/j.cellbi.2004.07.001
+DO  - doi:10.1016/j.cellbi.2004.07.001
+SP  - S1
+EP  - S30
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+TI  - ADRF Research Grant Abstracts
+JO  - Australian Dental Journal
+VL  - 51
+IS  - 4
+SN  - 9781405163217
+UR  - https://doi.org/10.1111/j.1834-7819.2006.tb00444.x
+DO  - doi:10.1111/j.1834-7819.2006.tb00444.x
+SP  - S3
+EP  - S35
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+TI  - Oral Presentations
+JO  - Mycoses
+JA  - Mycoses
+VL  - 58
+IS  - S3
+SN  - 9781405163217
+UR  - https://doi.org/10.1111/myc.12361
+DO  - doi:10.1111/myc.12361
+SP  - 2
+EP  - 39
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - Oral Abstract Sessions
+JO  - Allergy
+JA  - Allergy
+VL  - 68
+IS  - s97
+SN  - 9781405163217
+UR  - https://doi.org/10.1111/all.12247
+DO  - doi:10.1111/all.12247
+SP  - 1
+EP  - 104
+PY  - 2013
+ER  - 

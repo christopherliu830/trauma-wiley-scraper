@@ -1,0 +1,345 @@
+
+TY  - JOUR
+AU  - Van Gorp, Hanne
+AU  - Lamkanfi, Mohamed
+C7  - e47575
+TI  - The emerging roles of inflammasome-dependent cytokines in cancer development
+JO  - EMBO reports
+JA  - EMBO rep
+VL  - 20
+IS  - 6
+SN  - 1469-221X
+UR  - https://doi.org/10.15252/embr.201847575
+DO  - doi:10.15252/embr.201847575
+SP  - e47575
+KW  - cancer
+KW  - inflammasome
+KW  - inflammation
+KW  - interleukin
+KW  - tumour
+PY  - 2019
+AB  - Abstract In addition to the genomic alterations that occur in malignant cells, the immune system is increasingly appreciated as a critical axis that regulates the rise of neoplasms and the development of primary tumours and metastases. The interaction between inflammatory cell infiltrates and stromal cells in the tumour microenvironment is complex, with inflammation playing both pro- and anti-tumorigenic roles. Inflammasomes are intracellular multi-protein complexes that act as key signalling hubs of the innate immune system. They respond to cellular stress and trauma by promoting activation of caspase-1, a protease that induces a pro-inflammatory cell death mode termed pyroptosis along with the maturation and secretion of the pro-inflammatory cytokines interleukin (IL)-1? and IL-18. Here, we will briefly introduce inflammasome biology with a focus on the dual roles of inflammasome-produced cytokines in cancer development. Despite emerging insight that inflammasomes may promote and suppress cancer development according to the tumour stage and the tumour microenvironment, much remains to be uncovered. Further exploration of inflammasome biology in tumorigenesis should enable the development of novel immunotherapies for cancer patients.
+ER  - 
+
+TY  - JOUR
+AU  - ESMON, C. T.
+AU  - XU, J.
+AU  - LUPU, F.
+TI  - Innate immunity and coagulation
+JO  - Journal of Thrombosis and Haemostasis
+VL  - 9
+IS  - s1
+SN  - 1538-7933
+UR  - https://doi.org/10.1111/j.1538-7836.2011.04323.x
+DO  - doi:10.1111/j.1538-7836.2011.04323.x
+SP  - 182
+EP  - 188
+KW  - histones
+KW  - innate immunity
+KW  - natural anticoagulants
+KW  - nucleosomes
+KW  - protein C
+KW  - thrombosis
+PY  - 2011
+AB  - Summary.? Infection frequently elicits a coagulation response. Endotoxin triggers the formation of tissue factor initiating coagulation, down regulates anticoagulant mechanisms including the protein C pathway and heparin-like proteoglycans and up regulates plasminogen activator inhibitor. The overall physiological result of this is to promote coagulation through enhancing initiation, suppressing negative regulation and impairing fibrin removal. The response to infection also leads to tissue destruction. Nucleosomes and histones released from the injured cells trigger further inflammation, protection from the pathogen but further tissue injury leading to multi-organ failure. Such a complex response to infection presumably arises due to the role of coagulation in the control and clearance of the infectious agent.
+ER  - 
+
+AU  - Rojas, Armando
+AU  - Morales, Miguel A
+AU  - Araya, Paulina
+AU  - González, Ileana
+C7  - pp. 1-7
+TI  - RAGE – The Receptor of Advanced Glycation End Products
+SN  - 9780470016176
+UR  - https://doi.org/10.1002/9780470015902.a0027298
+DO  - doi:10.1002/9780470015902.a0027298
+SP  - 1-7
+KW  - RAGE
+KW  - advanced glycation
+KW  - alarmins
+KW  - inflammation
+KW  - cardiovascular diseases
+KW  - diabetes
+KW  - cancer
+KW  - innate immunity
+KW  - neurodenegeration
+PY  - 2011
+AB  - Abstract The receptor of advanced glycation end products (RAGE) is a multi-ligand binding protein that was initially described as an AGEs-binding protein. Other proteins, some of them classified as danger signals or alarmins have been described as RAGE ligands. Of note, RAGE shares some of its ligands with some member of the Toll-like receptor family. Once RAGE is engaged by any of its ligands, the receptor is able to trigger robust pro-inflammatory cellular responses. At present, RAGE has emerged as a relevant actor in the onset and development of chronic inflammation, which underlies many human diseases. Key Concepts The receptor of advanced glycation end products is a multi-ligand receptor. RAGE variants are mainly originated by alternative splicing or proteolytic cleavage. RAGE and TLRs share common ligands and signalling pathways. RAGE activation is associated with activation of pro-inflammatory signalling. RAGE activation by AGEs play a key a role in the development and progression of diabetic nephropathy. Most of the misfolded proteins linked to neurodegeneration act as RAGE ligands. RAGE activation plays a key role in the disturbance of endothelial functions and cardiovascular homeostasis. RAGE has been regarded as the bridge association between chronic inflammation and cancer. RAGE activation in tumour cells promotes proliferation, invasion, angiogenesis and metastasis.
+ER  - 
+
+TY  - JOUR
+TI  - International Session
+JO  - Nihon Kyukyu Igakukai Zasshi: Journal of Japanese Association for Acute Medicine
+JA  - Nihon Kyukyu Igakukai Zasshi: Japanese Journal of Japanese Association for Acute Medicine
+VL  - 29
+IS  - 10
+SN  - 9780470016176
+UR  - https://doi.org/10.1002/jja2.12339
+DO  - doi:10.1002/jja2.12339
+SP  - 364
+EP  - 370
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - 2008 SAEM Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+VL  - 15
+IS  - s1
+SN  - 9780470016176
+UR  - https://doi.org/10.1111/j.1553-2712.2008.00125.x
+DO  - doi:10.1111/j.1553-2712.2008.00125.x
+SP  - S122
+EP  - S140
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+AU  - Rajbhandari, Labchan
+AU  - Tegenge, Million Adane
+AU  - Shrestha, Shiva
+AU  - Ganesh Kumar, Nishant
+AU  - Malik, Adeel
+AU  - Mithal, Aditya
+AU  - Hosmane, Suneil
+AU  - Venkatesan, Arun
+TI  - Toll-like receptor 4 deficiency impairs microglial phagocytosis of degenerating axons
+JO  - Glia
+JA  - Glia
+VL  - 62
+IS  - 12
+SN  - 9780470016176
+UR  - https://doi.org/10.1002/glia.22719
+DO  - doi:10.1002/glia.22719
+SP  - 1982
+EP  - 1991
+KW  - microglia
+KW  - axon degeneration
+KW  - regeneration
+KW  - multiple sclerosis
+KW  - phagocytosis
+PY  - 2014
+AB  - Microglia are rapidly activated in the central nervous system (CNS) in response to a variety of injuries, including inflammation, trauma, and stroke. In addition to modulation of the innate immune response, a key function of microglia is the phagocytosis of dying cells and cellular debris, which can facilitate recovery. Despite emerging evidence that axonal debris can pose a barrier to regeneration of new axons in the CNS, little is known of the cellular and molecular mechanisms that underlie clearance of degenerating CNS axons. We utilize a custom micropatterned microfluidic system that enables robust microglial-axon co-culture to explore the role of Toll-like receptors (TLRs) in microglial phagocytosis of degenerating axons. We find that pharmacologic and genetic disruption of TLR4 blocks induction of the Type-1 interferon response and inhibits phagocytosis of axon debris in vitro. Moreover, TLR4-dependent microglial clearance of unmyelinated axon debris facilitates axon outgrowth. In vivo, microglial phagocytosis of CNS axons undergoing Wallerian degeneration in a dorsal root axotomy model is impaired in adult mice in which TLR4 has been deleted. Since purinergic receptors can influence TLR4-mediated signaling, we also explored a role for the microglia P2 receptors and found that the P2X7R contributes to microglial clearance of degenerating axons. Overall, we identify TLR4 as a key player in axonal debris clearance by microglia, thus creating a more permissive environment for axonal outgrowth. Our findings have significant implications for the development of protective and regenerative strategies for the many inflammatory, traumatic, and neurodegenerative conditions characterized by CNS axon degeneration. GLIA 2014;62:1982?1991
+ER  - 
+
+TY  - JOUR
+AU  - Brederson, J.-D.
+AU  - Strakhova, M.
+AU  - Mills, C.
+AU  - Barlow, E.
+AU  - Meyer, A.
+AU  - Nimmrich, V.
+AU  - Leddy, M.
+AU  - Simler, G.
+AU  - Schmidt, M.
+AU  - Jarvis, M.
+AU  - Lacy, S.
+TI  - A monoclonal antibody against the receptor for advanced glycation end products attenuates inflammatory and neuropathic pain in the mouse
+JO  - European Journal of Pain
+JA  - Eur J Pain
+VL  - 20
+IS  - 4
+SN  - 9780470016176
+UR  - https://doi.org/10.1002/ejp.775
+DO  - doi:10.1002/ejp.775
+SP  - 607
+EP  - 614
+PY  - 2016
+AB  - Abstract Background The receptor for advanced glycation end products (RAGE) is a multi-ligand receptor in the immunoglobulin superfamily. RAGE is localized throughout ascending sensory pathways (skin, peripheral nerve, dorsal root ganglion, spinal cord), and in cell types interacting with sensory neurons (endothelial cells, smooth muscle cells, monocytes and macrophages). Neuronal RAGE expression increases in pathological pain states in humans and rodents, and soluble RAGE attenuates thermal hypoalgesia in diabetic mice. The objective of the present study was to investigate whether pharmacological modulation of RAGE could attenuate mechanical allodynia in rodent pain models. Methods We developed an anti-RAGE monoclonal antibody (11E6) that binds to the C2 immunoglobulin domain of human RAGE, binds to mouse RAGE, and presumably to the same domain in mouse RAGE. The antinociceptive activity of 11E6 was investigated in mouse models of inflammatory (complete Freund's adjuvant) and neuropathic (chronic constriction injury of the sciatic nerve) pain. Mice were dosed intraperitoneally with 11E6 or IgG (negative control). Results Increased mechanical thresholds were observed following a single dose of 11E6 in both inflammatory and neuropathic pain models. Similar treatment with IgG did not alter nociceptive sensitivity. Repeated dosing with 11E6 significantly attenuated established mechanical hypersensitivity in a neuropathic pain model in a dose-related fashion. Conclusions These data demonstrate that specific modulation of RAGE effectively attenuates nociceptive sensitivity associated with chronic inflammatory and neuropathic pain states.
+ER  - 
+
+TY  - JOUR
+TI  - SAEM Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+JA  - Acad Emerg Med
+VL  - 20
+IS  - s1
+SN  - 9780470016176
+UR  - https://doi.org/10.1111/acem.12115
+DO  - doi:10.1111/acem.12115
+SP  - S4
+EP  - S336
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - 2007 SAEM Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+VL  - 14
+IS  - s1
+SN  - 9780470016176
+UR  - https://doi.org/10.1197/j.aem.2007.03.704
+DO  - doi:10.1197/j.aem.2007.03.704
+SP  - S7
+EP  - S211
+PY  - 2007
+AB  - The editors of Academic Emergency Medicine are pleased and privileged to present the Original Research Abstracts from the Annual Meeting of the Society for Academic Emergency Medicine, May 16?19, 2007, in Chicago. The exciting trends of emergency medicine research are reflected in these brief summaries as are the talent, creativity, and enthusiasm of novice as well as more experienced academicians. This year, 1,172 research abstracts were submitted and 545 were selected for presentation at the Meeting (not including the 78 Innovations in Emergency Medicine Education Exhibits, which were submitted sepa-rately). Each abstract was independently reviewed by up to six designated topics experts who were blinded to the authors. Final determination for scientific presentation was made by the Scientific Subcommittee, chaired by O. John Ma, MD, and the SAEM Program Committee, chaired by Debra Houry, MD, MPH. The decision for presentation was based on the final review score and the space available for presentation at the meeting. We present these abstracts as they were received electronically from the authors, who are solely responsible for their content. They appear as they were received; we have done only minimal proofreading of these abstracts. Any questions you may have on their content should be directed to their authors. Presentation numbers precede the abstract titles. An index of key words and authors begins on page S220. Abstracts marked as late breakers (numbers 462 and 527) are prospective research projects, such as a clinical trial still in the midst of data collection or patient enrollment at the January 8 abstract deadline, but that will be completed, including analysis, by April 15, 2007. On behalf of the membership of SAEM, the editorial board of AEM, and the leadership of our specialty, we express our sincere gratitude to these academicians and the SAEM Program Committee for their continuing efforts to improve our patients' care by advancing emergency medicine research and education.
+ER  - 
+
+TY  - JOUR
+TI  - 2002 SAEM ANNUAL MEETING ABSTRACTS
+JO  - Academic Emergency Medicine
+VL  - 9
+IS  - 5
+SN  - 9780470016176
+UR  - https://doi.org/10.1111/j.1553-2712.2002.tb02290.x
+DO  - doi:10.1111/j.1553-2712.2002.tb02290.x
+SP  - 357
+EP  - 542
+PY  - 2002
+ER  - 
+
+TY  - JOUR
+TI  - SAEM Abstracts, Plenary Session
+JO  - Academic Emergency Medicine
+VL  - 18
+IS  - s1
+SN  - 9780470016176
+UR  - https://doi.org/10.1111/j.1553-2712.2011.01073.x
+DO  - doi:10.1111/j.1553-2712.2011.01073.x
+SP  - S4
+EP  - S249
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - 2004 SAEM ANNUAL MEETING ABSTRACTS
+JO  - Academic Emergency Medicine
+VL  - 11
+IS  - 5
+SN  - 9780470016176
+UR  - https://doi.org/10.1197/j.aem.2004.02.011
+DO  - doi:10.1197/j.aem.2004.02.011
+SP  - 435
+EP  - 607
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+TI  - SAEM Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+JA  - Acad Emerg Med
+VL  - 23
+IS  - S1
+SN  - 9780470016176
+UR  - https://doi.org/10.1111/acem.12974
+DO  - doi:10.1111/acem.12974
+SP  - S7
+EP  - S276
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - 2010 Society for Academic Emergency Medicine (SAEM) Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+VL  - 17
+IS  - s1
+SN  - 9780470016176
+UR  - https://doi.org/10.1111/j.1553-2712.2010.00743.x
+DO  - doi:10.1111/j.1553-2712.2010.00743.x
+SP  - s1
+EP  - s205
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - SAEM Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+JA  - Acad Emerg Med
+VL  - 22
+IS  - S1
+SN  - 9780470016176
+UR  - https://doi.org/10.1111/acem.12644
+DO  - doi:10.1111/acem.12644
+SP  - S3
+EP  - S425
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - 2006 SAEM Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+VL  - 13
+IS  - s5
+SN  - 9780470016176
+UR  - https://doi.org/10.1111/j.1553-2712.2006.tb02227.x
+DO  - doi:10.1111/j.1553-2712.2006.tb02227.x
+SP  - S8
+EP  - S8
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+TI  - 2008 SAEM Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+VL  - 15
+IS  - s1
+SN  - 9780470016176
+UR  - https://doi.org/10.1111/j.1553-2712.2008.00121.x
+DO  - doi:10.1111/j.1553-2712.2008.00121.x
+SP  - S6
+EP  - S63
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+AU  - Koepp, Matthias J.
+AU  - Årstad, Eric
+AU  - Bankstahl, Jens P.
+AU  - Dedeurwaerdere, Stefanie
+AU  - Friedman, Alon
+AU  - Potschka, Heidrun
+AU  - Ravizza, Teresa
+AU  - Theodore, William H.
+AU  - Baram, Tallie Z.
+TI  - Neuroinflammation imaging markers for epileptogenesis
+JO  - Epilepsia
+JA  - Epilepsia
+VL  - 58
+IS  - S3
+SN  - 9780470016176
+UR  - https://doi.org/10.1111/epi.13778
+DO  - doi:10.1111/epi.13778
+SP  - 11
+EP  - 19
+KW  - Epileptogenesis
+KW  - Magnetic resonance imaging (MRI)
+KW  - Nuclear medicine imaging (PET/SPECT)
+KW  - Glia
+KW  - Blood–brain barrier
+PY  - 2017
+AB  - Summary Epilepsy can be a devastating disorder. In addition to debilitating seizures, epilepsy can cause cognitive and emotional problems with reduced quality of life. Therefore, the major aim is to prevent the disorder in the first place: identify, detect, and reverse the processes responsible for its onset, and monitor and treat its progression. Epilepsy often occurs following a latent period of months to years (epileptogenesis) as a consequence of a brain insult, such as head trauma, stroke, or status epilepticus. Although this latent period clearly represents a therapeutic window, we are not able to stratify patients at risk for long-term epilepsy, which is prerequisite for preventative clinical trials. Moreover, because of the length of the latent period, an early biomarker for treatment response would be of high value. Finally, mechanistic biomarkers of epileptogenesis may provide more profound insight in the process of disease development.
+ER  - 
+
+AU  - Leon, Lisa R.
+AU  - Bouchama, Abderrezak
+C7  - pp. 611-647
+TI  - Heat Stroke
+UR  - https://doi.org/10.1002/cphy.c140017
+DO  - doi:10.1002/cphy.c140017
+SP  - 611-647
+PY  - 2017
+AB  - ABSTRACT Heat stroke is a life-threatening condition clinically diagnosed as a severe elevation in body temperature with central nervous system dysfunction that often includes combativeness, delirium, seizures, and coma. Classic heat stroke primarily occurs in immunocompromised individuals during annual heat waves. Exertional heat stroke is observed in young fit individuals performing strenuous physical activity in hot or temperature environments. Long-term consequences of heat stroke are thought to be due to a systemic inflammatory response syndrome. This article provides a comprehensive review of recent advances in the identification of risk factors that predispose to heat stroke, the role of endotoxin and cytokines in mediation of multi-organ damage, the incidence of hypothermia and fever during heat stroke recovery, clinical biomarkers of organ damage severity, and protective cooling strategies. Risk factors include environmental factors, medications, drug use, compromised health status, and genetic conditions. The role of endotoxin and cytokines is discussed in the framework of research conducted over 30 years ago that requires reassessment to more clearly identify the role of these factors in the systemic inflammatory response syndrome. We challenge the notion that hypothalamic damage is responsible for thermoregulatory disturbances during heat stroke recovery and highlight recent advances in our understanding of the regulated nature of these responses. The need for more sensitive clinical biomarkers of organ damage is examined. Conventional and emerging cooling methods are discussed with reference to protection against peripheral organ damage and selective brain cooling. Published 2015. Compr Physiol 5:611-647, 2015.
+ER  - 
+
+TY  - JOUR
+AU  - Diao, Shu
+AU  - Yang, Haoqing
+AU  - Cao, Yangyang
+AU  - Yang, Dongmei
+AU  - Fan, Zhipeng
+TI  - IGF2 enhanced the osteo-/dentinogenic and neurogenic differentiation potentials of stem cells from apical papilla
+JO  - Journal of Oral Rehabilitation
+JA  - J Oral Rehabil
+VL  - n/a
+IS  - n/a
+UR  - https://doi.org/10.1111/joor.12859
+DO  - doi:10.1111/joor.12859
+KW  - IGF2
+KW  - neurogenic differentiation
+KW  - niche
+KW  - osteo-/dentinogenic differentiation
+KW  - proliferation
+KW  - stem cells from apical papilla
+AB  - Abstract Objectives In dental tissue engineering, niche is important for maintaining stem cell function and regenerating the dental tissues. However, there is limited knowledge for the growth factors in niche to maintain the function of stem cells. In this study, we investigated the effect of IGF2, a growth factor in stem cells from apical papilla (SCAPs) niche, on differentiation and proliferation potentials of SCAPs. Materials and methods Recombinant human IGF2 protein (rhIGF2) was used. Cell counting kit-8 assay, Carboxyfluorescein succinimidyl ester assay, alkaline phosphatase (ALP) activity, Alizarin Red staining, quantitative calcium analysis, immunofluorescence staining and real-time RT-PCR were performed to investigate the cell proliferation and differentiation potentials of SCAPs. And proteomic analysis was used to identify the differential secreted proteins. Results By ALP activity assay, we found that 5 ng/mL rhIGF2 might be the optimal concentration for treatment. Then, Alizarin Red staining, quantitative calcium analysis and osteogenesis-related gene expression results showed that 5 ng/mL rhIGF2 could enhance the osteo-/dentinogenic differentiation potentials in SCAPs. Immunofluorescence staining and real-time RT-PCR results showed that neurogenic markers were significantly induced by 5 ng/mL rhIGF2 in SCAPs. Then, CCK-8 assay and CFSE assay results showed that 5 ng/mL rhIGF2 could enhance the cell proliferation in SCAPs. Furthermore, proteomic analysis showed that IGF2 could induce some secreted proteins which function related to the osteogenesis, neurogenesis and cell proliferation. Conclusions Our results identified that IGF2 might be the potential mediator in niche to promote SCAP function and dental tissue regeneration.
+ER  - 

@@ -1,0 +1,305 @@
+
+TY  - JOUR
+TI  - TSANZ Abstracts—Posters
+JO  - Respirology
+VL  - 12
+IS  - s1
+SN  - 1323-7799
+UR  - https://doi.org/10.1111/j.1440-1843.2007.001051.x
+DO  - doi:10.1111/j.1440-1843.2007.001051.x
+SP  - A30
+EP  - A78
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - European Journal of Heart Failure
+JA  - Eur J Heart Fail
+VL  - 16
+IS  - s1
+SN  - 1388-9842
+UR  - https://doi.org/10.1002/ejhf.77
+DO  - doi:10.1002/ejhf.77
+SP  - 1
+EP  - 41
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - Symposium Summaries
+JO  - Pediatric Pulmonology
+JA  - Pediatr. Pulmonol.
+VL  - 45
+IS  - S33
+SN  - 8755-6863
+UR  - https://doi.org/10.1002/ppul.21338
+DO  - doi:10.1002/ppul.21338
+SP  - 107
+EP  - 219
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - Schuetz, Philipp
+AU  - Muller, Beat
+AU  - Christ-Crain, Mirjam
+AU  - Stolz, Daiana
+AU  - Tamm, Michael
+AU  - Bouadma, Lila
+AU  - Luyt, Charles E
+AU  - Wolff, Michel
+AU  - Chastre, Jean
+AU  - Tubach, Florence
+AU  - Kristoffersen, Kristina B
+AU  - Burkhardt, Olaf
+AU  - Welte, Tobias
+AU  - Schroeder, Stefan
+AU  - Nobre, Vandack
+AU  - Wei, Long
+AU  - Bhatnagar, Neera
+AU  - Bucher, Heiner C
+AU  - Briel, Matthias
+TI  - Procalcitonin to initiate or discontinue antibiotics in acute respiratory tract infections
+JO  - Evidence-Based Child Health: A Cochrane Review Journal
+JA  - Evid.‐Based Child Health
+VL  - 8
+IS  - 4
+SN  - 1557-6272
+UR  - https://doi.org/10.1002/ebch.1927
+DO  - doi:10.1002/ebch.1927
+SP  - 1297
+EP  - 1371
+KW  - Acute Disease
+KW  - Anti-Bacterial Agents [*therapeutic use]
+KW  - Bacterial Infections [blood; *drug therapy; mortality]
+KW  - Biological Markers [blood]
+KW  - Calcitonin [*blood]
+KW  - Cause of Death
+KW  - Protein Precursors [*blood]
+KW  - Randomized Controlled Trials as Topic
+KW  - Respiratory Tract
+KW  - Infections [blood; *drug therapy; mortality]
+KW  - Treatment Failure
+KW  - MeSH check words
+KW  - Humans
+PY  - 2013
+AB  - Abstract Background Acute respiratory infections (ARIs) comprise a large and heterogeneous group of infections including bacterial, viral and other aetiologies. In recent years, procalcitonin - the prohormone of calcitonin - has emerged as a promising marker for the diagnosis of bacterial infections and for improving decisions about antibiotic therapy. Several randomised controlled trials (RCTs) have demonstrated the feasibility of using procalcitonin for starting and stopping antibiotics in different patient populations with acute respiratory infections and different settings ranging from primary care to emergency departments (EDs), hospital wards and intensive care units (ICUs). Objectives The aim of this systematic review based on individual patient data was to assess the safety and efficacy of using procalcitonin for starting or stopping antibiotics over a large range of patients with varying severity of ARIs and from different clinical settings. Search methods We searched the Cochrane Central Register of Controlled Trials (CENTRAL 2011, Issue 2) which contains the Acute Respiratory Infections Group's Specialised Register, MEDLINE (1966 to May 2011) and EMBASE (1974 to May 2011) to identify suitable trials. Selection criteria We included RCTs of adult participants with ARIs who received an antibiotic treatment either based on a procalcitonin algorithm or usual care/guidelines. Trials were excluded if they exclusively focused on paediatric patients or if they used procalcitonin for another purpose than to guide initiation and duration of antibiotic treatment. Data collection and analysis Two teams of review authors independently evaluated the methodology and extracted data from primary studies. The primary endpoints were all-cause mortality and treatment failure at 30 days. For the primary care setting, treatment failure was defined as death, hospitalisation, ARI-specific complications, recurrent or worsening infection, and patients reporting any symptoms of an ongoing respiratory infection at follow-up. For the ED setting, treatment failure was defined as death, ICU admission, re-hospitalisation after index hospital discharge, ARI-associated complications, and recurrent or worsening infection within 30 days of follow-up. For the ICU setting, treatment failure was defined as death within 30 days of follow-up. Secondary endpoints were antibiotic use (initiation of antibiotics, duration of antibiotics and total exposure to antibiotics (total amount of antibiotic days divided by total number of patients)), length of hospital stay for hospitalised patients, length of ICU stay for critically ill patients, and number of days with restricted activities within 14 days after randomisation for primary care patients. For the two co-primary endpoints of all-cause mortality and treatment failure, we calculated odds ratios (ORs) and 95% confidence intervals (CIs) using multivariable hierarchical logistic regression. The hierarchical regression model was adjusted for age and clinical diagnosis as fixed-effect. The different trials were added as random-effects into the model. We fitted corresponding linear regression models for antibiotic use. We conducted sensitivity analyses stratified by clinical setting and ARI diagnosis to assess the consistency of our results. Main results We included 14 trials with 4221 participants. There were 118 deaths in 2085 patients (5.7%) assigned to procalcitonin groups compared to 134 deaths in 2126 control patients (6.3%) (adjusted OR 0.94, 95% CI 0.71 to 1.23). Treatment failure occurred in 398 procalcitonin group patients (19.1%) and in 466 control patients (21.9%). Procalcitonin guidance was not associated with increased mortality or treatment failure in any clinical setting, or ARI diagnosis. These results proved robust in various sensitivity analyses. Total antibiotic exposure was significantly reduced overall (median (interquartile range) from 8 (5 to 12) to 4 (0 to 8) days; adjusted difference in days, -3.47, 95% CI -3.78 to -3.17, and across all the different clinical settings and diagnoses. Authors' conclusions Use of procalcitonin to guide initiation and duration of antibiotic treatment in patients with ARI was not associated with higher mortality rates or treatment failure. Antibiotic consumption was significantly reduced across different clinical settings and ARI diagnoses. Further high-quality research is needed to confirm the safety of this approach for non-European countries and patients in intensive care. Moreover, future studies should also establish cost-effectiveness by considering country-specific costs of procalcitonin measurement and potential savings in consumption of antibiotics and other healthcare resources, as well as secondary cost savings due to lower risk of side effects and reduced antimicrobial resistance. Procalcitonin testing to initiate or discontinue antibiotics in acute respiratory tract infections Unnecessary antibiotic use significantly contributes to increasing bacterial resistance, medical costs and the risk of drug-related adverse events. The blood marker procalcitonin increases in bacterial infections and decreases when patients recover from the infection. Hence, procalcitonin may be used to support clinical decision making for the initiation and discontinuation of antibiotic therapy in patients with a clinical suspicion of infection. Randomised controlled trials have demonstrated that such a strategy works, particularly in patients with an infection of the respiratory tract. However, most of these individual studies did not include enough patients to allow for a conclusive assessment about safety (low statistical power). Thus, the risk for mortality and severe complications associated with procalcitonin-guided decision making remained unclear. This systematic review included individual patient data from 14 randomised controlled trials with a total of 4211 participants. When looking at these combined data, we found no increased risk for all-cause mortality or treatment failure when procalcitonin was used to guide initiation and duration of antibiotic treatment in participants with acute respiratory infections compared to control participants. However, we found a consistent reduction of antibiotic use, mainly due to lower prescription rates in primary care and lower duration of antibiotic courses in emergency department and intensive care unit patients. This analysis is limited to adult patients with respiratory infections excluding patients who were immuno-compromised (i.e. HIV positive, those receiving immuno-suppressive therapies or chemotherapy). Most trials were conducted in Europe and China and similar studies in other countries including the United States are warranted.
+ER  - 
+
+TY  - JOUR
+TI  - Oral and Poster Abstracts
+JO  - Journal of Thrombosis and Haemostasis
+VL  - 4
+IS  - s1
+SN  - 1538-7933
+UR  - https://doi.org/10.1111/j.1538-7836.2006.02306.x
+DO  - doi:10.1111/j.1538-7836.2006.02306.x
+SP  - 67
+EP  - 243
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+TI  - American College of Veterinary Internal Medicine
+JO  - Journal of Veterinary Internal Medicine
+VL  - 18
+IS  - 3
+SN  - 0891-6640
+UR  - https://doi.org/10.1111/j.1939-1676.2004.tb02565.x
+DO  - doi:10.1111/j.1939-1676.2004.tb02565.x
+SP  - 375
+EP  - 460
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts of the 9th Annual meeting of the Societe Francaise de Pharmacologie, 26th Pharmacovigilance meeting and 11th CHU CIC meeting (Bordeaux 26-28 April 2005)
+JO  - Fundamental & Clinical Pharmacology
+VL  - 19
+IS  - 2
+SN  - 0767-3981
+UR  - https://doi.org/10.1111/j.1472-8206.2005.00328.x
+DO  - doi:10.1111/j.1472-8206.2005.00328.x
+SP  - 195
+EP  - 253
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstract
+JO  - European Journal of Clinical Investigation
+JA  - Eur J Clin Invest
+VL  - 48
+IS  - S1
+SN  - 0014-2972
+UR  - https://doi.org/10.1111/eci.12926
+DO  - doi:10.1111/eci.12926
+SP  - 70
+EP  - 225
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - Posters
+JO  - Fundamental & Clinical Pharmacology
+VL  - 18
+IS  - s1
+SN  - 0767-3981
+UR  - https://doi.org/10.1111/j.1472-8206.2004.00260.x
+DO  - doi:10.1111/j.1472-8206.2004.00260.x
+SP  - 23
+EP  - 126
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+TI  - Joint Meeting of the Pathological Society of Great Britain and Ireland and the Dutch Pathological Society (NVvP). 1–4 July 2008. Hosted by the Department of Pathology and Tumour Biology, Leeds Institute of Molecular Medicine, University of Leeds. Abstracts.
+JO  - The Journal of Pathology
+JA  - J. Pathol.
+VL  - 216
+IS  - S1
+SN  - 0022-3417
+UR  - https://doi.org/10.1002/path.2447
+DO  - doi:10.1002/path.2447
+SP  - S1
+EP  - S60
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+TI  - POSTER COMMUNICATIONS
+JO  - British Journal of Pharmacology
+VL  - 112
+IS  - S1
+SN  - 0007-1188
+UR  - https://doi.org/10.1111/j.1476-5381.1994.tb16299.x
+DO  - doi:10.1111/j.1476-5381.1994.tb16299.x
+SP  - 158P
+EP  - 436P
+PY  - 1994
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Journal of Sleep Research
+VL  - 19
+IS  - s2
+SN  - 0962-1105
+UR  - https://doi.org/10.1111/j.1365-2869.2010.00868.x
+DO  - doi:10.1111/j.1365-2869.2010.00868.x
+SP  - 1
+EP  - 378
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - ACVIM Forum Abstracts
+JO  - Journal of Veterinary Internal Medicine
+VL  - 21
+IS  - 3
+SN  - 0891-6640
+UR  - https://doi.org/10.1111/j.1939-1676.2007.tb03006.x
+DO  - doi:10.1111/j.1939-1676.2007.tb03006.x
+SP  - 559
+EP  - 670
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Artificial Organs
+VL  - 31
+IS  - 10
+SN  - 0160-564X
+UR  - https://doi.org/10.1111/j.1525-1594.2007.00491.x
+DO  - doi:10.1111/j.1525-1594.2007.00491.x
+SP  - A33
+EP  - A100
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Research Communications of the 24th ECVIM-CA Congress
+JO  - Journal of Veterinary Internal Medicine
+JA  - J Vet Intern Med
+VL  - 29
+IS  - 1
+SN  - 0891-6640
+UR  - https://doi.org/10.1111/jvim.12491
+DO  - doi:10.1111/jvim.12491
+SP  - 423
+EP  - 483
+PY  - 2015
+ER  - 
+
+AU  - Chen, Yun
+AU  - Leonelli, Fabio
+AU  - Yang, Hui
+C7  - pp. 463-501
+TI  - Heterogeneous Sensing and Predictive Modeling of Postoperative Outcomes
+SN  - 9781118919392
+UR  - https://doi.org/10.1002/9781118919408.ch16
+DO  - doi:10.1002/9781118919408.ch16
+SP  - 463-501
+KW  - intensive care unit
+KW  - missing data imputation
+KW  - heterogeneous sensing
+KW  - predictive modeling
+PY  - 2015
+AB  - Summary Surgical operations involve a great level of complexity. In order to cope with complexity and increase information visibility, modern healthcare facilities are investing in advanced biomedical sensing and information technology. For example, when patients are moved into an intensive care unit after surgical operations, clinicians and nurses will closely monitor a large number of clinical variables such as heart rate, pulse oximetry, blood pressure, gas exchange, and blood test results (e.g., metabolic panel, complete blood count). Heterogeneous sensing gives rise to data-rich environments in hospitals. However, clinicians are not trained and do not have effective decision-support systems to help estimate clinical status and optimize healthcare management policies considering large and heterogeneous data sets (e.g., multiple attributes describing a patient's health conditions). There is a dire need to go beyond current clinical practice and develop data-driven methods and tools that will enable and assist (i) the extraction of pertinent knowledge about clinical status from heterogeneous healthcare recordings, (ii) the prediction of mortality risks, and (iii) the provision of personalized decision-support systems. This present study focuses on the predictive modeling of mortality rates in intensive care units using patient-specific healthcare recordings. Note that variable heterogeneity, patient heterogeneity, and time asynchronization are common characteristics in the postsurgical monitoring. To tackle these challenges, this chapter presents a postsurgical decision-support system that consists of a suite of analytical tools, including data categorization, data preprocessing, feature extraction, feature selection, and predictive modeling. Experimental results show that the proposed system performs favorably over traditional approaches and yields better results based on the evaluation of real-world data from 4000 subjects. This research shows great potentials for the use of data-driven analytics to improve the quality of postoperative healthcare services.
+ER  - 
+
+TY  - JOUR
+TI  - Poster
+JO  - Transplant International
+JA  - Transpl Int
+VL  - 26
+IS  - s1
+SN  - 9781118919392
+UR  - https://doi.org/10.1111/tri.12181
+DO  - doi:10.1111/tri.12181
+SP  - 28
+EP  - 57
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts (Continue in Part XXIV)
+JO  - Proceedings of the International Society for Magnetic Resonance in Medicine
+JA  - Proc. Soc. Magn. Reson. Med.
+VL  - 1998
+IS  - S1
+SN  - 9781118919392
+UR  - https://doi.org/10.1002/mrmp.22419980124
+DO  - doi:10.1002/mrmp.22419980124
+SP  - 1151
+EP  - 1200
+PY  - 1998
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Pacing and Clinical Electrophysiology
+VL  - 11
+IS  - 6
+SN  - 9781118919392
+UR  - https://doi.org/10.1111/j.1540-8159.1988.tb06032.x
+DO  - doi:10.1111/j.1540-8159.1988.tb06032.x
+SP  - 790
+EP  - 976
+PY  - 1988
+ER  - 
+
+TY  - JOUR
+TI  - Thoracic Society of Australia and New Zealand
+JO  - Australian and New Zealand Journal of Medicine
+VL  - 27
+IS  - 2
+SN  - 9781118919392
+UR  - https://doi.org/10.1111/j.1445-5994.1997.tb00955.x
+DO  - doi:10.1111/j.1445-5994.1997.tb00955.x
+SP  - 207
+EP  - 271
+PY  - 1997
+ER  - 

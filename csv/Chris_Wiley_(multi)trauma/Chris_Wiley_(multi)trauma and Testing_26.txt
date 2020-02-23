@@ -1,0 +1,497 @@
+
+TY  - JOUR
+AU  - Zhang, Yanyu
+AU  - Li, Jialiang
+TI  - COMBINING MULTIPLE MARKERS FOR MULTI-CATEGORY CLASSIFICATION: AN ROC SURFACE APPROACH
+JO  - Australian & New Zealand Journal of Statistics
+VL  - 53
+IS  - 1
+SN  - 1369-1473
+UR  - https://doi.org/10.1111/j.1467-842X.2011.00603.x
+DO  - doi:10.1111/j.1467-842X.2011.00603.x
+SP  - 63
+EP  - 78
+KW  - bootstrap
+KW  - hypervolume under the ROC manifold
+KW  - maximum rank correlation estimator
+KW  - multi-category classification
+KW  - volume under the ROC surface
+PY  - 2011
+AB  - Summary The Receiver Operating Characteristic (ROC) curve and the Area Under the ROC Curve (AUC) are effective statistical tools for evaluating the accuracy of diagnostic tests for binary-class medical data. However, many real-world biomedical problems involve more than two categories. The Volume Under the ROC Surface (VUS) and Hypervolume Under the ROC Manifold (HUM) measures are extensions for the AUC under three-class and multiple-class models. Inference methods for such measures have been proposed recently. We develop a method of constructing a linear combination of markers for which the VUS or HUM of the combined markers is maximized. Asymptotic validity of the estimator is justified by extending the results for maximum rank correlation estimation that are well known in econometrics. A bootstrap resampling method is then applied to estimate the sampling variability. Simulations and examples are provided to demonstrate our methods.
+ER  - 
+
+TY  - JOUR
+AU  - Walker, S
+AU  - Williams, Jason
+AU  - O’Driscoll, J
+AU  - Beck, M
+TI  - FS01.4 Hailey Hailey disease – a significant hazard to consider when patch testing
+JO  - Contact Dermatitis
+VL  - 50
+IS  - 3
+SN  - 0105-1873
+UR  - https://doi.org/10.1111/j.0105-1873.2004.0309n.x
+DO  - doi:10.1111/j.0105-1873.2004.0309n.x
+SP  - 127
+EP  - 128
+PY  - 2004
+AB  - A 42 year old man was referred to the Contact Dermatitis Investigation Unit because of a 12 month history of an inflammatory eruption affecting his neck. He was patch tested to our standard series, textile series and his own medicaments. At the 48 hour reading the patches were removed and there were large areas of unusual painful superficial erosions where the patch test tape ? Scanporä had been in contact with the skin. This appearance was difficult to explain. He denied interfering with the patches. The erosions were dressed with non-adherent dressings held in place by a different tape- Microporeä. At the 96 hour reading these dressings were removed and in the areas under the Microporeä tape there were further erosions around the edge and also some thin walled vesicles and small bullae. There were ++ allergic reactions to sodium metabisulphite, disperse blue 35, 124 and 106 all of which were felt to be relevant as he had used Trimovateâ cream and regularly wore dark nylon clothing when refereeing lacrosse matches. A biopsy was taken for histology and immunofluorescence from an area of blistering. This demonstrated suprabasal acantholysis with vesicle formation. There were occasional corps ronds. The immunofluorescence was negative. Anti-epidermal (skin) antibodieswere also negative. This striking and alarming clinical presentation after removal of patch tests had been encountered once previously in our Contact Dermatitis Investigation Unit. The possibility that the disorder was artefactual either due to an irritant introduced under the tapes or perhaps due to a contaminant within the tape adhesive was considered but no conclusion was reached In this case the clue to diagnosis became apparent at the second patch test reading when small vesicles and bullae could be seen at the edge of where the Microporeâ had been. A diagnosis of Hailey Hailey disease (HHD) trigered by the trauma caused by the adhesive tapes and their removal was made. The relatively persistent nature of his presenting problem makes Grover?s disease less likely. The affected sites healed after two weeks. Allergic contact dermatitis particularly to medicaments is reported to be a frequent complication and routine patch testing has been advocated1. There has been a previous report of blistering at the site of patch testing however he was an individual already known to have HHD2. Despite having patch tested around 30 000 people in the last 22 years this complication had not been encountered until this year. We present this case whose clinical features are distinctive as we feel similar instances may have been or will be seen by colleagues. Diagnosis may be difficult if there are no blisters in association with the painful erosions.
+ER  - 
+
+AU  - Donovan, Andrea
+C7  - pp. 109-139
+TI  - Shoulder and Proximal Humerus
+SN  - 9781118158814
+UR  - https://doi.org/10.1002/9781118551691.ch4
+DO  - doi:10.1002/9781118551691.ch4
+SP  - 109-139
+KW  - acromioclavicular joint injury
+KW  - glenohumeral joint dislocation
+KW  - imaging tests
+KW  - proximal humerus
+KW  - scapular fracture
+KW  - shoulder girdle
+KW  - shoulder trauma
+PY  - 2004
+AB  - Summary The shoulder has greatest range of motion of any joint in the body, and is a frequent site of injury. Shoulder girdle includes proximal humerus, scapula, and lateral clavicle. The anatomic structures involved in fracture of the proximal humerus include humeral head, anatomic neck, surgical neck, and greater and lesser tuberosities. The fractures to the proximal humerus result from a direct blow, fall on an outstretched hand in the elderly, or are related to glenohumeral joint fracture-dislocation. Fractures of the humeral shaft may result from direct trauma, high-velocity motor vehicle accidents or a fall. Scapular fractures are infrequent as the scapula is surrounded and protected by large and prominent muscle attachments. Acromioclavicular joint injury is commonly due to a fall onto the point of the shoulder. Radiographs are generally the first step in initial imaging modality for patients with shoulder trauma.
+ER  - 
+
+TY  - JOUR
+AU  - Dawes, T. J. W.
+AU  - Ford, P. N. R.
+TI  - The effect of sterilisation on the plasticity of multi-use Eschmann gum elastic bougies: a bench and manikin study*
+JO  - Anaesthesia
+VL  - 66
+IS  - 12
+SN  - 9781118158814
+UR  - https://doi.org/10.1111/j.1365-2044.2011.06897.x
+DO  - doi:10.1111/j.1365-2044.2011.06897.x
+SP  - 1134
+EP  - 1139
+PY  - 2011
+AB  - Summary We investigated the deterioration in plasticity of the multi-use Portex Tracheal Guide (?bougie?) with repeated sterilisation. Six bougies were prepared by washing them between 0 and 100 times (in accordance with the manufacturer?s guidelines). Two tests were employed: a bench test in which rapid serial photographs were taken of the bougies uncoiling from a preformed curve; and a manikin-based test in which the six bougies were used in a simulated difficult airway. The bench test demonstrated a progressive deterioration in plasticity with repeated washing. However, the manikin-based test showed no significant difference between bougies in the incidence of oesophageal placement (p?=?0.74). Time to placement differed significantly only between the two most-washed bougies but was broadly similar. We suggest therefore that the manufacturer?s limit of five washings may be unnecessarily cautious. You can respond to this article at http://www.anaesthesiacorrespondence.com
+ER  - 
+
+TY  - JOUR
+AU  - Niele, Nicky
+AU  - van Houten, Marlies A.
+AU  - Boersma, Bart
+AU  - Biezeveld, Maarten H.
+AU  - Douma, Matthijs
+AU  - Heitink, Katja
+AU  - ten Tusscher, Gavin W.
+AU  - Tromp, Ellen
+AU  - van Goudoever, Johannes B.
+AU  - Plötz, Frans B.
+TI  - Multi-centre study found that strict adherence to guidelines led to computed tomography scans being overused in children with minor head injuries
+JO  - Acta Paediatrica
+JA  - Acta Paediatr
+VL  - 108
+IS  - 9
+SN  - 9781118158814
+UR  - https://doi.org/10.1111/apa.14742
+DO  - doi:10.1111/apa.14742
+SP  - 1695
+EP  - 1703
+KW  - Clinical decision rules
+KW  - Computed tomography scan
+KW  - Minor head injuries
+KW  - National guidelines
+KW  - Paediatrics
+PY  - 2019
+AB  - Abstract Aim Our primary aim was to calculate the head computed tomography (CT) scan rate in children with a minor head injury (MHI) when the Dutch National guidelines were followed in clinical practice. The secondary aim was to determine the incidence of CT abnormalities and the guideline predictors associated with traumatic abnormalities. Methods We performed a multi-centre, prospective observational cross-sectional study in the emergency departments of six hospitals in The Netherlands between 1 April 2015 and 31 December 2016. Results Data on 1002 patients were studied and 69% of cases complied with the guidelines. The overall CT rate was 44% and the incidence of traumatic abnormal CT findings was 13%. CT scans were performed in 19% of children under two years of age, 48% of children between two and five years and 63% of children aged six years or more. Multivariate regression analysis for all age categories showed that CT abnormalities were predicted by a Glasgow Coma Scale of less than 15, suspicion of a basal skull fracture, vomiting and scalp haematomas or external lesions of the skull. Conclusion Strict adherence to the Dutch national guidelines resulted in CT overuse. New guidelines are needed to safely reduce CT scan indications.
+ER  - 
+
+TY  - JOUR
+AU  - Dąbrowska, M.
+AU  - Mielcarek, A.
+AU  - Nowak, I.
+TI  - Evaluation of sex-related changes in skin topography and structure using innovative skin testing equipment
+JO  - Skin Research and Technology
+JA  - Skin Res Technol
+VL  - 24
+IS  - 4
+SN  - 9781118158814
+UR  - https://doi.org/10.1111/srt.12473
+DO  - doi:10.1111/srt.12473
+SP  - 614
+EP  - 620
+KW  - skin macro relief
+KW  - skin testing equipment
+KW  - skin topography
+KW  - ultrasound imaging of the skin
+PY  - 2018
+AB  - Abstract Background Evaluation of skin condition on the basis of parametrization and objective measurements of the parameters has become obligatory. The aim of this study was to assess sex-related changes in skin topography and structure using the skin testing equipment. Materials and Methods The study was carried out on the group of 40 volunteers (20 females and 20 males) of the mean age 24 ± 3 years. The skin parameters were measured using 3 devices: Visioscan? VC 98 (skin topography), Visioline? VL 650 (skin macro relief) and Ultrascan UC22 (ultrasound imaging of the skin). All measurements were performed on the inner part of the left forearm. Results The skin parameters measured revealed significant differences in skin surface and structure between females and males. The skin of all women subjects was more homogenous in its structure with the presence of more abundant superficial skin lines and wrinkles in comparison to male skin. The higher number of skin furrows in the skin of women is in agreement with literature reports claiming that men's skin has lower number of wrinkles which are deeper and more pronounced. Ultrasound imaging of the skin indicated greater thickness and lower density of the dermis of men subjects compared to those of females. Conclusion Non-invasive methods of skin testing using new and advanced equipment have provided a possibility of objective parametrization and evaluation of sex-related changes in skin topography and structure.
+ER  - 
+
+TY  - JOUR
+AU  - Teague, Warwick J
+AU  - Amarakone, Keith V
+AU  - Quinn, Nuala
+TI  - Rule of 4’s: Safe and effective pleural decompression and chest drain insertion in severely injured children
+JO  - Emergency Medicine Australasia
+JA  - Emergency Medicine Australasia
+VL  - 31
+IS  - 4
+SN  - 9781118158814
+UR  - https://doi.org/10.1111/1742-6723.13299
+DO  - doi:10.1111/1742-6723.13299
+SP  - 683
+EP  - 687
+KW  - chest tube
+KW  - child
+KW  - pneumothorax
+KW  - practice guideline
+KW  - thoracic injury
+PY  - 2019
+AB  - Abstract The intersecting scenarios of multi-trauma, thoracic injury and traumatic cardiac arrest present some of the most demanding moments in paediatric trauma. For these reasons, decision support through teamwork, checklists, technology and guidelines are central to ensuring quality paediatric trauma care. The ?Rule of 4's? is a simple aide-memoire, which guides clinicians of all grades, expertise and distractedness in a reliable approach to injured children who require safe and effective emergency pleural decompression and timely insertion of a chest drain. The Rule of 4?s enables these important therapeutic goals to be met through: (i) four steps in a ?good plan?; (ii) fourth (or fifth) intercostal space as the basis for siting a ?good hole?; (iii) 4? uncuffed endotracheal tube size (4? [age/4?+?4]) to guide selection of a ?good tube?; and (iv) 4 cm mark for a ?good stop? to ensure the drain is in far enough but not too far.
+ER  - 
+
+TY  - JOUR
+AU  - Gewirtz, Abigail H.
+AU  - DeGarmo, David S.
+AU  - Zamir, Osnat
+TI  - Testing a Military Family Stress Model
+JO  - Family Process
+JA  - Fam. Proc.
+VL  - 57
+IS  - 2
+SN  - 9781118158814
+UR  - https://doi.org/10.1111/famp.12282
+DO  - doi:10.1111/famp.12282
+SP  - 415
+EP  - 431
+KW  - Military
+KW  - Families
+KW  - Children
+KW  - Couples
+KW  - Family Stress Model
+KW  - militares
+KW  - familias
+KW  - niños
+KW  - parejas
+KW  - modelo de estrés familiar
+KW  - 部队
+KW  - 家庭
+KW  - 儿童
+KW  - 伴侣
+KW  - 家庭压力模型
+PY  - 2018
+AB  - The current study examines a military family stress model, evaluating associations between deployment-related stressors (i.e., deployment length/number, posttraumatic stress disorder [PTSD] symptoms) and parent, child, parenting, and dyadic adjustment among families in which a parent had previously deployed to Iraq or Afghanistan in the recent conflicts. Married families (N = 293) with at least one child between the ages of 4 and 12 were recruited from a Midwestern state. Service members were from the Reserve Component (National Guard or Reserves); fathers (N = 253) and/or mothers had deployed (N = 45) to the recent conflicts in the Middle East. Multiple-method (observations of parenting and couple interactions; questionnaires) and multiple informant measures were gathered online and in the homes of participants, from parents, children, and teachers. Findings demonstrated associations between mothers? and fathers? PTSD symptoms and a latent variable of child adjustment comprising teacher, parent, and child report. Mothers? but not fathers? PTSD symptoms were also associated with dyadic adjustment and parenting practices; parenting practices were in turn associated with child adjustment. The results are discussed in terms of their implications for military family stress research and interventions to support and strengthen parents and families after deployment.
+ER  - 
+
+TY  - JOUR
+AU  - Denny, Nathan
+AU  - Robinowitz, Ralph
+AU  - Penk, Walter
+TI  - Conducting applied research on Vietnam combat-related post-traumatic stress disorder
+JO  - Journal of Clinical Psychology
+JA  - J. Clin. Psychol.
+VL  - 43
+IS  - 1
+SN  - 9781118158814
+UR  - https://doi.org/10.1002/1097-4679(198701)43:1<56::AID-JCLP2270430108>3.0.CO;2-D
+DO  - doi:10.1002/1097-4679(198701)43:1<56::AID-JCLP2270430108>3.0.CO;2-D
+SP  - 56
+EP  - 66
+PY  - 1987
+AB  - Abstract A paradigmatic shift in post-traumatic stress disorder (PTSD) research is underway. Formistic and mechanistic reserch designs, characterized by single-category, single-cause, single-effect models, gradually are being replaced by contextual and organistic research designs that feature multi-category, multi-cause, and multi-effect interactional models. Such changes in diagnostic and treatment outcome research require solving many methodological issues in such areas as: (1) measuring types of traumas and stressors; (2) measuring PTSD symptoms and subtypes; (3) measuring subject dispositional characteristics (such as ethnic differences); (4) assessing concurrent and/or pre-existing psychiatric (Axis I) disorders; (5) classifying personality styles and concurrent and/or pre-existing personality (Axis II) disorders; (6) evaluating phase in the development of PTSD as a disorder; (7) measuring current environmental stresses and interpersonal interactions; and (8) assessing secondary gains and readiness for treatment. These and other methodological problems must be addressed as research on PTSD shifts to longitudinal measurement of subjects randomly assigned to treatment conditions.
+ER  - 
+
+TY  - JOUR
+AU  - Redfern, R. C.
+AU  - Judd, M. A.
+AU  - DeWitte, S. N.
+C8  - OA-16-0079.R1
+TI  - Multiple Injury and Health in Past Societies: An Analysis of Concepts and Approaches, and Insights from a Multi-Period Study
+JO  - International Journal of Osteoarchaeology
+JA  - Int. J. Osteoarchaeol.
+VL  - 27
+IS  - 3
+SN  - 9781118158814
+UR  - https://doi.org/10.1002/oa.2565
+DO  - doi:10.1002/oa.2565
+SP  - 418
+EP  - 429
+KW  - health
+KW  - injury recidivism
+KW  - mortality
+KW  - multiple injury
+KW  - polytrauma
+PY  - 2017
+AB  - Abstract Earlier clinical and bioarchaeological studies found that injury recidivists were most likely to be young adult males. Since then, the clinical meaning of the injury recidivist has expanded to include all individuals with multiple injuries, and other aspects of health have been considered. Our study sought to apply these advances to paleopathology and place multiple injuries in a wider context by investigating: the age and sex distribution of those with single and multiple fractures, and if people with multiple injuries had poorer general health. The sample of 213 males and 190 females (≥18?years old) from six populations in England, Siberia, and Sudan ranged in date from the 3rd century BC to the mid-19th century AD. Health variables included cribra orbitalia, porotic hyperostosis, periostitis, Schmorl's nodes, enamel hypoplasias, dental caries, and periodontitis. Ante-mortem injuries were: fractures (0/1/≥2), myositis ossificans, dental trauma, and sharp-force injuries. The data were analysed using chi-square and hierarchical loglinear analyses (P?=?0.05). No significant three-way association between age, sex, and injury was found. There was no difference between the sexes when individuals with single versus multiple injuries were compared. There were significant differences in the age-distribution of people with 0 and 1/≥2 fractures. Males and those 26?35?years old were most likely to have fractures and multiple injuries. Porotic hyperostosis was significantly associated with fractures. There was no significant relationship between general poor health and multiple injuries. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Rodríguez, Maritza
+AU  - Pérez, Victoria
+AU  - García, Yennith
+TI  - Impact of traumatic experiences and violent acts upon response to treatment of a sample of Colombian women with eating disorders
+JO  - International Journal of Eating Disorders
+JA  - Int. J. Eat. Disord.
+VL  - 37
+IS  - 4
+SN  - 9781118158814
+UR  - https://doi.org/10.1002/eat.20091
+DO  - doi:10.1002/eat.20091
+SP  - 299
+EP  - 306
+KW  - eating disorders
+KW  - trauma
+KW  - prognosis
+PY  - 2005
+AB  - Abstract Objective The current article compared the impact of exposure to sexual trauma and other types of physical threats against the patient or the patient's family on response to treatment, relapse, and dropout rates in 160 Colombian women between 12 and 49 years of age with eating disorders. Method A comparison was made to 70 cases with unsatisfactory response to treatment and 90 controls with a better response to treatment goals. Results Forty-five percent had a history of sexual abuse, other violent traumas, or both. Significant statistical differences were observed between both groups in exposure variables. The highest probability of poor outcome was observed in patients with sexual abuse and exposure to other violent acts (odds ratio [OR] = 6.37, 95% confidence interval [CI] = 2.1?19.07). The risk of dropout or relapse was, respectively, 10 and 3 times greater among those exposed. Discussion Violent social conditions should be noted as another form of trauma with potential impact on outcome in Colombian women with eating disorders. ? 2005 by Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Esteban, I.
+AU  - Vilaró, M.
+AU  - Adrover, E.
+AU  - Angulo, A.
+AU  - Carrasco, E.
+AU  - Gadea, N.
+AU  - Sánchez, A.
+AU  - Ocaña, T.
+AU  - Llort, G.
+AU  - Jover, R.
+AU  - Cubiella, J.
+AU  - Servitja, S.
+AU  - Herráiz, M.
+AU  - Cid, L.
+AU  - Martínez, S.
+AU  - Oruezábal-Moreno, M.J.
+AU  - Garau, I.
+AU  - Khorrami, S.
+AU  - Herreros-de-Tejada, A.
+AU  - Morales, R.
+AU  - Cano, J.M.
+AU  - Serrano, R.
+AU  - López-Ceballos, M.H.
+AU  - González-Santiago, S.
+AU  - Juan-Fita, M.J.
+AU  - Alonso-Cerezo, C.
+AU  - Casas, A.
+AU  - Graña, B.
+AU  - Teulé, A.
+AU  - Alba, E.
+AU  - Antón, A.
+AU  - Guillén-Ponce, C.
+AU  - Sánchez-Heras, A.B.
+AU  - Alés-Martínez, J.E.
+AU  - Brunet, J.
+AU  - Balaguer, F.
+AU  - Balmaña, J.
+C8  - PON-17-0628.R1
+TI  - Psychological impact of multigene cancer panel testing in patients with a clinical suspicion of hereditary cancer across Spain
+JO  - Psycho-Oncology
+JA  - Psycho‐Oncology
+VL  - 27
+IS  - 6
+SN  - 9781118158814
+UR  - https://doi.org/10.1002/pon.4686
+DO  - doi:10.1002/pon.4686
+SP  - 1530
+EP  - 1537
+KW  - cancer
+KW  - genetic counseling
+KW  - hereditary cancer
+KW  - multi-gene panels
+KW  - psychological impact
+KW  - psychology
+PY  - 2018
+AB  - Abstract Objective Patients' psychological reactions to multigene cancer panel testing might differ compared with the single-gene testing reactions because of the complexity and uncertainty associated with the different possible results. Understanding patients' preferences and psychological impact of multigene panel testing is important to adapt the genetic counselling model. Methods One hundred eighty-seven unrelated patients with clinical suspicion of hereditary cancer undergoing a 25-gene panel test completed questionnaires after pretest genetic counselling and at 1 week, 3 months, and 12 months after results to elicit their preferences regarding results disclosure and to measure their cancer worry and testing-specific distress and uncertainty. Results A pathogenic variant was identified in 38 patients (34 high penetrance and 4 moderate penetrance variants), and 54 patients had at least one variant of uncertain significance. Overall, cancer panel testing was not associated with an increase in cancer worry after results disclosure (P value = .87). Twelve months after results, carriers of a moderate penetrance variant had higher distress and uncertainty scores compared with carriers of high penetrance variants. Cancer worry prior to genetic testing predicted genetic testing specific distress after results, especially at long term (P value <.001). Most of the patients reported the wish to know all genetic results. Conclusions Our results suggest that patients can psychologically cope with cancer panel testing, but distress and uncertainty observed in carriers of moderate penetrance cancer variants in this cohort warrant further research.
+ER  - 
+
+TY  - JOUR
+AU  - Cong, Zhen
+AU  - Nejat, Ali
+AU  - Liang, Daan
+AU  - Pei, Yaolin
+AU  - Javid, Roxana J.
+TI  - Individual relocation decisions after tornadoes: a multi-level analysis
+JO  - Disasters
+JA  - Disasters
+VL  - 42
+IS  - 2
+SN  - 9781118158814
+UR  - https://doi.org/10.1111/disa.12241
+DO  - doi:10.1111/disa.12241
+SP  - 233
+EP  - 250
+KW  - disaster preparedness
+KW  - relocation
+KW  - resilience
+KW  - tornado
+KW  - vulnerability
+PY  - 2018
+AB  - This study examines how multi-level factors affected individuals' relocation decisions after EF4 and EF5 (Enhanced Fujita Tornado Intensity Scale) tornadoes struck the United States in 2013. A telephone survey was conducted with 536 respondents, including oversampled older adults, one year after these two disaster events. Respondents' addresses were used to associate individual information with block group-level variables recorded by the American Community Survey. Logistic regression revealed that residential damage and homeownership are important predictors of relocation. There was also significant interaction between these two variables, indicating less difference between homeowners and renters at higher damage levels. Homeownership diminished the likelihood of relocation among younger respondents. Random effects logistic regression found that the percentage of homeownership and of higher income households in the community buffered the effect of damage on relocation; the percentage of older adults reduced the likelihood of this group relocating. The findings are assessed from the standpoint of age difference, policy implications, and social capital and vulnerability.
+ER  - 
+
+TY  - JOUR
+AU  - Bonifazi, Paolo
+AU  - Erramuzpe, Asier
+AU  - Diez, Ibai
+AU  - Gabilondo, Iñigo
+AU  - Boisgontier, Matthieu P.
+AU  - Pauwels, Lisa
+AU  - Stramaglia, Sebastiano
+AU  - Swinnen, Stephan P.
+AU  - Cortes, Jesus M.
+TI  - Structure–function multi-scale connectomics reveals a major role of the fronto-striato-thalamic circuit in brain aging
+JO  - Human Brain Mapping
+JA  - Hum Brain Mapp
+VL  - 39
+IS  - 12
+SN  - 9781118158814
+UR  - https://doi.org/10.1002/hbm.24312
+DO  - doi:10.1002/hbm.24312
+SP  - 4663
+EP  - 4677
+KW  - brain age
+KW  - brain connectivity
+KW  - chronological age
+KW  - diffusion tensor imaging
+KW  - physiological aging
+KW  - resting state
+PY  - 2018
+AB  - Abstract Physiological aging affects brain structure and function impacting morphology, connectivity, and performance. However, whether some brain connectivity metrics might reflect the age of an individual is still unclear. Here, we collected brain images from healthy participants (N?=?155) ranging from 10 to 80 years to build functional (resting state) and structural (tractography) connectivity matrices, both data sets combined to obtain different connectivity features. We then calculated the brain connectome age?an age estimator resulting from a multi-scale methodology applied to the structure?function connectome, and compared it to the chronological age (ChA). Our results were twofold. First, we found that aging widely affects the connectivity of multiple structures, such as anterior cingulate and medial prefrontal cortices, basal ganglia, thalamus, insula, cingulum, hippocampus, parahippocampus, occipital cortex, fusiform, precuneus, and temporal pole. Second, we found that the connectivity between basal ganglia and thalamus to frontal areas, also known as the fronto-striato-thalamic (FST) circuit, makes the major contribution to age estimation. In conclusion, our results highlight the key role played by the FST circuit in the process of healthy aging. Notably, the same methodology can be generally applied to identify the structural?functional connectivity patterns correlating to other biomarkers than ChA.
+ER  - 
+
+TY  - JOUR
+AU  - Youn, Jung-Hae
+AU  - Ryu, Seung-Ho
+AU  - Lee, Jun-Young
+AU  - Park, Soowon
+AU  - Cho, Seong-Jin
+AU  - Kwon, Hunki
+AU  - Yang, Jin-Ju
+AU  - Lee, Jong-Min
+AU  - Lee, Jiyeon
+AU  - Kim, Seolmin
+AU  - Livingston, Gill
+AU  - Yoon, Dong Hyun
+C7  - e01278
+TI  - Brain structural changes after multi-strategic metamemory training in older adults with subjective memory complaints: A randomized controlled trial
+JO  - Brain and Behavior
+JA  - Brain Behav
+VL  - 9
+IS  - 5
+SN  - 9781118158814
+UR  - https://doi.org/10.1002/brb3.1278
+DO  - doi:10.1002/brb3.1278
+SP  - e01278
+KW  - brain structure
+KW  - cognitive function
+KW  - metamemory
+KW  - training
+PY  - 2019
+AB  - Abstract Background Metamemory is the process of monitoring and controlling one's memory. Improving metamemory may reduce the memory problem in old age. We hypothesized that metamemory training (MMT) would improve cognition in older adults with subjective memory complaints and change the brain region related to metacognition. Method We recruited and randomized older adults to the multi-strategic memory training of 10 weekly 90-min sessions, based on the metamemory concept or usual care. Cognitive tests including the Elderly Verbal Learning Test, Simple Rey Figure Test, Digit Span, Spatial Span, Categorical Fluency, and the Boston Naming Test were done in 201 participants, together with magnetic resonance imaging (MRI) in 49 participants before and after training. Results A total of 112 in the training group and 89 in the control group participated. The training group had a significant increase in long-term delayed free recall, categorical fluency, and the Boston Naming test. In MRI, the mean diffusivity of the bundles of axon tracts passing from the frontal lobe to the posterior end of the lateral sulcus decreased in the training group. Conclusion These results indicate that the MMT program has a positive impact on enhancing older people? cognitive performance. Improved white matter integrity in the anterior and posterior cerebrum and increased cortical thickness of prefrontal regions, which related to metacognition, possibly suggest that the effects of the MMT would be induced via the enhancement of cognitive control.
+ER  - 
+
+TY  - JOUR
+AU  - Zalewski, Maureen
+AU  - Cyranowski, Jill M.
+AU  - Cheng, Yu
+AU  - Swartz, Holly A.
+TI  - ROLE OF MATERNAL CHILDHOOD TRAUMA ON PARENTING AMONG DEPRESSED MOTHERS OF PSYCHIATRICALLY ILL CHILDREN
+JO  - Depression and Anxiety
+JA  - Depress Anxiety
+VL  - 30
+IS  - 9
+SN  - 9781118158814
+UR  - https://doi.org/10.1002/da.22116
+DO  - doi:10.1002/da.22116
+SP  - 792
+EP  - 799
+KW  - depression
+KW  - adult survivors of child abuse
+KW  - parenting
+KW  - child psychiatry abstract
+PY  - 2013
+AB  - Background Independently, maternal depression and maternal history of childhood abuse confer risk for impaired parenting. These associations may be compounded when depressed mothers with histories of childhood abuse are faced with the challenge of parenting offspring who themselves struggle with mental health problems. This study examined the relationships among maternal history of childhood abuse, maternal depression, and parenting style in the context of parenting a psychiatrically ill child, with an emphasis on examining maternal emotional abuse and neglect. We hypothesized that maternal childhood emotional abuse would be associated with maladaptive parenting strategies (lower levels of maternal acceptance and higher levels of psychological control), independent of maternal depression severity and other psychosocial risk factors. Method Ninety-five mother-child dyads (children ages 7?18) were recruited from child mental health centers where children were receiving treatment for at least one internalizing disorder. Participating mothers met DSM-IV criteria for major depressive disorder. Mothers reported on their own childhood abuse histories and children reported on their mothers? parenting. Results Regression analyses demonstrated that maternal childhood emotional abuse was associated with child reports of lower maternal acceptance and greater psychological control, controlling for maternal depression severity, and other psychosocial risk factors. Conclusions When treating psychiatrically ill children, it is important for a child's clinician to consider mothers? childhood abuse histories in addition to their history of depression. These mothers appear to have additional barriers to effective parenting.
+ER  - 
+
+TY  - JOUR
+AU  - Mayhew, Philipp D.
+AU  - Steffey, Michelle A.
+AU  - Fransson, Boel A.
+AU  - Johnson, Eric G.
+AU  - Singh, Ameet
+AU  - Culp, William T. N.
+AU  - Brisson, Brigitte A.
+AU  - Oblak, Michele L.
+AU  - Balsa, Ingrid M.
+AU  - Giuffrida, Michelle A.
+TI  - Long-term outcome of video-assisted thoracoscopic thoracic duct ligation and pericardectomy in dogs with chylothorax: A multi-institutional study of 39 cases
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 48
+IS  - S1
+SN  - 9781118158814
+UR  - https://doi.org/10.1111/vsu.13113
+DO  - doi:10.1111/vsu.13113
+SP  - O112
+EP  - O120
+PY  - 2019
+AB  - Abstract Objective To evaluate the long-term outcome of video-assisted thoracoscopic (VATS) thoracic duct ligation (TDL) and pericardectomy for treatment of chylothorax in dogs. Study design Multi-institutional retrospective study. Animals Thirty-nine client-owned dogs. Methods Dogs were included if they had undergone a VATS TDL and pericardectomy and had at least 1-year follow-up or had died within 1 postoperative year. Medical records were evaluated, and recorded data included clinicopathological and diagnostic imaging results, surgical findings, complications, conversion rates, and long-term resolution and recurrence rates. Results Thirty-nine dogs met the inclusion criteria. Two dogs died intraoperatively; 1 was euthanized after severe restrictive pleuritis was diagnosed intraoperatively, and 1 underwent ventricular fibrillation and cardiac arrest during pericardectomy and could not be resuscitated. Conversion to an open approach was required in 1 of 39 (3%) dogs for TDL and 4 of 36 (11%) dogs for pericardectomy. Overall follow-up time was median 38 months (range, 3-115). Resolution of pleural effusion occurred in 35 of 37 (95%) dogs that survived the perioperative period. Late recurrence of pleural effusion was seen at 12, 12, and 19 months postoperatively in 3 of 35 (9%) dogs that survived the perioperative period and in which chylothorax had initially resolved. Conclusion Successful long-term resolution of chylothorax was seen in a high proportion of dogs that underwent VATS TDL and pericardectomy, although late recurrence was sometimes seen. Clinical significance Video-assisted thoracoscopic thoracic duct ligation and pericardectomy are highly successful in dogs with chylothorax. Future studies should evaluate whether pericardectomy is required in dogs without evidence of pericardial disease.
+ER  - 
+
+TY  - JOUR
+AU  - Maker, Azmaira Hamid
+AU  - Kemmelmeier, Markus
+AU  - Peterson, Christopher
+TI  - Child sexual abuse, peer sexual abuse, and sexual assault in adulthood: A multi-risk model of revictimization
+JO  - Journal of Traumatic Stress
+JA  - J. Traum. Stress
+VL  - 14
+IS  - 2
+SN  - 9781118158814
+UR  - https://doi.org/10.1023/A:1011173103684
+DO  - doi:10.1023/A:1011173103684
+SP  - 351
+EP  - 368
+KW  - child sexual abuse
+KW  - sexual revictimization
+PY  - 2001
+AB  - Abstract This study explored the predictors and consequences of sexual assault occurring after the age of 16 years in a nonclinical sample of women. Child sexual abuse occurring before the age of 16 years was the only predictor of later sexual assault among comorbid risk factors. Peer sexual abuse, number of perpetrators, age at time of sexual abuse, and severity of sexual abuse did not increase the risk for later sexual assault. Adult sexual assault victims showed lower levels of mental health functioning than did survivors of child or peer sexual abuse. We discuss a specificity model of revictimization and the differential effects of child, peer, and adult sexual trauma on the developmental trajectory of sexual violence and psychosocial functioning.
+ER  - 
+
+TY  - JOUR
+AU  - Jaggers, Jeremiah W.
+AU  - Prattini, Robert J.
+AU  - Church, Wesley T.
+TI  - Traumatic Stress Among Seriously Delinquent Youth: Considering the Consequences of Neighborhood Circumstance
+JO  - American Journal of Community Psychology
+JA  - Am J Community Psychol
+VL  - 58
+IS  - 1-2
+SN  - 9781118158814
+UR  - https://doi.org/10.1002/ajcp.12076
+DO  - doi:10.1002/ajcp.12076
+SP  - 69
+EP  - 79
+KW  - Delinquency
+KW  - Trauma
+KW  - Neighborhood
+PY  - 2016
+AB  - Abstract Myriad factors have been found to have an impact on delinquent behavior and traumatic stress. This study proposes a model that tests the relationship between common predictors of delinquency (neighborhood condition, antisocial peer socialization, and exposure to violence) with traumatic stress. Serial mediation was used to test the relationships between these predictors and traumatic stress. Results indicate the mediation effect between neighborhood conditions and traumatic stress significantly reduces the total effect. Implications for traumatic stress in the context of delinquent behavior are discussed.
+ER  - 
+
+TY  - JOUR
+AU  - Whelchel, Dorothy D.
+AU  - Tennent-Brown, Brett S.
+AU  - Giguère, Steeve
+AU  - Epstein, Kira L.
+TI  - Pharmacodynamics of Multi-Dose Low Molecular Weight Heparin in Healthy Horses
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 42
+IS  - 4
+SN  - 9781118158814
+UR  - https://doi.org/10.1111/j.1532-950X.2013.12008.x
+DO  - doi:10.1111/j.1532-950X.2013.12008.x
+SP  - 448
+EP  - 454
+PY  - 2013
+AB  - Abstract Objectives To compare the pharmacodynamics of once daily and twice daily administration of low molecular weight heparin (LMWH) administration in horses. Study Design Randomized cross over study. Animals Adult mixed breed healthy mares (n?=?6). Methods LMWH (dalteparin) was administered (50?U/kg subcutaneously) either every 12 or 24?hours for 3 consecutive days. Anti-factor Xa activity was measured before and at select time points after LMWH administration. Packed cell volume (PCV), platelet count, partial thromboplastin time (PTT), and anti-thrombin (AT) activity were monitored throughout the study. Results No changes in PCV, platelet count, or AT activity were detected with either frequency of daily LMWH administration. Values for PTT increased throughout the study but never exceeded the normal reference interval. Anti-factor Xa activity was maintained within or above the suggested thromboprophylactic range (0.1?0.2?U/mL) when LMWH was administered twice daily, but fell below this range ?16?hours after administration when given once daily. For both once and twice daily LMWH administration, the area under the curve was significantly greater after the last dose of LMWH when compared to the first dose. Conclusions Administration of LMWH once or twice daily for 3 consecutive days appears to be safe in healthy adult horses. Anti-factor Xa activity was maintained within or above the suggested thromboprophylactic range for 24?hours with twice daily LMWH administration but not with once daily administration.
+ER  - 

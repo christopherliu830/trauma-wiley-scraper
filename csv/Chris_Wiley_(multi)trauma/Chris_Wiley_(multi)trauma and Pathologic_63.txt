@@ -1,0 +1,422 @@
+
+TY  - JOUR
+AU  - Zhou, Weichen
+AU  - Ma, Yanyun
+AU  - Zhang, Jun
+AU  - Hu, Jingyi
+AU  - Zhang, Menghan
+AU  - Wang, Yi
+AU  - Li, Yi
+AU  - Wu, Lijun
+AU  - Pan, Yida
+AU  - Zhang, Yitong
+AU  - Zhang, Xiaonan
+AU  - Zhang, Xinxin
+AU  - Zhang, Zhanqing
+AU  - Zhang, Jiming
+AU  - Li, Hai
+AU  - Lu, Lungen
+AU  - Jin, Li
+AU  - Wang, Jiucun
+AU  - Yuan, Zhenghong
+AU  - Liu, Jie
+TI  - Predictive model for inflammation grades of chronic hepatitis B: Large-scale analysis of clinical parameters and gene expressions
+JO  - Liver International
+JA  - Liver Int
+VL  - 37
+IS  - 11
+SN  - 1478-3223
+UR  - https://doi.org/10.1111/liv.13427
+DO  - doi:10.1111/liv.13427
+SP  - 1632
+EP  - 1641
+KW  - clinical predictive model
+KW  - gene expressions
+KW  - HBV infection
+KW  - inflammation grades
+PY  - 2017
+AB  - Abstract Background Liver biopsy is the gold standard to assess pathological features (eg inflammation grades) for hepatitis B virus-infected patients although it is invasive and traumatic; meanwhile, several gene profiles of chronic hepatitis B (CHB) have been separately described in relatively small hepatitis B virus (HBV)-infected samples. We aimed to analyse correlations among inflammation grades, gene expressions and clinical parameters (serum alanine amino transaminase, aspartate amino transaminase and HBV-DNA) in large-scale CHB samples and to predict inflammation grades by using clinical parameters and/or gene expressions. Methods We analysed gene expressions with three clinical parameters in 122 CHB samples by an improved regression model. Principal component analysis and machine-learning methods including Random Forest, K-nearest neighbour and support vector machine were used for analysis and further diagnosis models. Six normal samples were conducted to validate the predictive model. Results Significant genes related to clinical parameters were found enriching in the immune system, interferon-stimulated, regulation of cytokine production, anti-apoptosis, and etc. A panel of these genes with clinical parameters can effectively predict binary classifications of inflammation grade (area under the ROC curve [AUC]: 0.88, 95% confidence interval [CI]: 0.77-0.93), validated by normal samples. A panel with only clinical parameters was also valuable (AUC: 0.78, 95% CI: 0.65-0.86), indicating that liquid biopsy method for detecting the pathology of CHB is possible. Conclusions This is the first study to systematically elucidate the relationships among gene expressions, clinical parameters and pathological inflammation grades in CHB, and to build models predicting inflammation grades by gene expressions and/or clinical parameters as well.
+ER  - 
+
+C7  - pp. 58-146
+TI  - Ferrets
+SN  - 9780813818313
+UR  - https://doi.org/10.1002/9781118969601.ch2
+DO  - doi:10.1002/9781118969601.ch2
+SP  - 58-146
+KW  - adrenal gland disease
+KW  - cardiovascular conditions
+KW  - endocrine conditions
+KW  - eosinophilic gastroenteritis
+KW  - ferrets
+KW  - gastrointestinal conditions
+KW  - musculoskeletal conditions
+KW  - nonspecific lymphoplasmacytic hepatitis
+KW  - respiratory conditions
+PY  - 2017
+AB  - Summary Ferrets are commonly used as an animal model for influenza virus research, as well as other disease conditions, such as Helicobacter-induced gastropathy. Eosinophilic gastroenteritis is a distinct idiopathic inflammatory condition of young adult ferrets. Affected animals may present with vomiting, diarrhea, and lethargy, and a marked eosinophilia may be noted during routine hematologic evaluation. Hematologic changes may include nonregenerative anemia, hypergammaglobulinemia, hypoalbuminemia, and thrombocytopenia. Differential diagnoses for hypergammaglobulinemia and/or abdominal masses include Aleutian disease, lymphosarcoma, chronic infection (e.g., proliferative colitis, helicobacteriosis), idiopathic splenomegaly, multiple myeloma, other neoplasms, and inflammatory bowel disease. Hepatic coccidiosis and toxoplasmosis are seen sporadically in ferrets. Similarly, systemic viral disease caused by infection with canine distemper virus, influenza virus, Aleutian disease (a parvovirus infection), and coronavirus may induce foci of hepatic necrosis and inflammation. Nonspecific lymphoplasmacytic hepatitis may be seen with moderate regularity in surgical biopsies or tissue sections from adult ferrets as an extension of gastrointestinal inflammatory conditions.
+ER  - 
+
+TY  - JOUR
+TI  - Book reviews
+JO  - British Journal of Psychology
+VL  - 83
+IS  - 4
+SN  - 9780813818313
+UR  - https://doi.org/10.1111/j.2044-8295.1992.tb02458.x
+DO  - doi:10.1111/j.2044-8295.1992.tb02458.x
+SP  - 549
+EP  - 559
+PY  - 1992
+AB  - Book reviewed in this article: The Pursuit of Mind. Edited by Raymond Tallis & Howard Robinson. The Mind in Sleep: Psychology and Psychophysiology, 2nd ed. Edited by S. J. Ellman & J. S. Antrobus. Memory Mechanisms: A tribute to G. V. Goddard. Edited by C. Wickliffe, M. C. Corballis & K.G. White. Advances in Behavioral Assessment of Children and Families, vol. 5. Edited by R. J. Prinz. Counselling Adult Survivors of Child Sexual Abuse. By C. Sanderson. The Multi-Professional Handbook of Child Sexual Abuse: Integrated Management, Therapy and Legal Intervention. By T. Furniss. Trauma and The Vietnam War Generation. Report of findings from the National Vietnam Veterans Readjustment Study by Richard A. Kulka, William E. Schlenger, John A. Fairbank, Richard L. Hough, B. Kathleen Jordan, Charles R. Marmar & Daniel S. Weiss, with a chapter by David A. Grady. Strangers at Home. Vietnam Veterans since the War. Edited by Charles R. Figley & Seymour Leventman. Advances in Personal Construct Psychology, volume 1. Edited by G. J. Neimeyer & R. A. Neimeyer. Human Resource Management in Aviation. Edited by E. Farmer.
+ER  - 
+
+TY  - JOUR
+AU  - Mathur, V.
+AU  - Park, H.K.
+AU  - Finley, J.
+TI  - Extranodal Anaplastic Large Cell Lymphoma of the Eyelid
+JO  - Journal of Cutaneous Pathology
+VL  - 32
+IS  - 1
+SN  - 9780813818313
+UR  - https://doi.org/10.1111/j.0303-6987.2005.320en.x
+DO  - doi:10.1111/j.0303-6987.2005.320en.x
+SP  - 103
+EP  - 103
+PY  - 2005
+AB  - A sixty-nine-year-old male patient, without a significant prior medical history, presented with a rapidly enlarging, 2?cm non-tender nodule on the right lower eyelid. The lesion persisted in spite of an incision and drainage. Following an excision, the histology revealed a diffuse infiltrate of atypical mononuclear cells within the dermis. The cells were large, monomorphic, with irregular to convoluted nuclei, prominent nucleoli, amphophilic cytoplasm. They were very mitotically active. Immunohistochemical stains for CD45, CD3, and CD30 were strongly positive. Pancytokeratin, CD20, and ALK (Anaplastic Lymphoma Kinase fusion protein) were negative. The histopathologic diagnosis was CD30 (Ki-1) positive anaplastic large cell lymphoma. The margin was positive for involvement by lymphoma. The lesion was re-excised with no evidence of residual involvement by lymphoma. A primary cutaneous anaplastic large cell lymphoma was favored over systemic involvement based on the clinical presentation of a single eyelid nodule and ALK negativity. He was referred to a hematology-oncologist for further management. Anaplastic large cell lymphoma is a distinctive type of malignant lymphoma with a relatively favorable prognosis. It frequently involves the skin, however, to the best of our knowledge, presentation of this lymphoma type as a single lesion on the eyelid is extremely rare.
+ER  - 
+
+TY  - JOUR
+AU  - Schwartz, M.
+AU  - Lamb, C. R.
+AU  - Brodbelt, D. C.
+AU  - Volk, H. A.
+TI  - Canine intracranial neoplasia: clinical risk factors for development of epileptic seizures
+JO  - Journal of Small Animal Practice
+VL  - 52
+IS  - 12
+SN  - 9780813818313
+UR  - https://doi.org/10.1111/j.1748-5827.2011.01131.x
+DO  - doi:10.1111/j.1748-5827.2011.01131.x
+SP  - 632
+EP  - 637
+PY  - 2011
+AB  - Objectives: To identify clinical risk factors for seizures in dogs with intracranial neoplasia. Methods: A cross-sectional retrospective study of 68 dogs with histopathologically confirmed primary or secondary intracranial neoplasia, complete clinical history and magnetic resonance imaging of the brain was conducted. Signalment and clinical history were retrieved from clinical records and magnetic resonance images of the brain were re-evaluated. Prevalence of findings was compared between dogs with and without seizures. Results: Forty-two dogs had tumour-related seizures, the remaining 26 were seizure-free. Tumour types included meningioma (23 dogs with and 5 without seizures), glioma (9 dogs with and 6 without seizures), choroid plexus tumour (2 dogs without seizures), neuroblastoma (1 dog with seizures) and metastatic/invasive tumours including lymphoma (9 dogs with and 13 without seizures). On the basis of multi-variable logistic regression analysis, risk factors for seizures associated with intracranial neoplasia were magnetic resonance imaging findings consistent with the presence of neoplastic tissue in frontal lobe [odds ratio (OR) 9·61; 95% confidence interval (CI) 2·59 to 35·61], marked gadolinium enhancement (OR 10·41; 95% CI 2·07 to 52·30) and magnetic resonance imaging findings of subfalcine and/or subtentorial herniation (OR 3·88; 95% CI 1·10 to 13·71). Clinical Significance: Dogs with primary or secondary intracranial neoplasia are at risk of seizures, particularly those with tumours that affect the frontal lobe, enhance markedly with gadolinium, or cause subfalcine and/or subtentorial herniation.
+ER  - 
+
+TY  - JOUR
+AU  - MOSES, PA
+AU  - LEWIS, DD
+AU  - LANZ, OI
+AU  - STUBBS, WP
+AU  - CROSS, AR
+AU  - SMITH, KR
+TI  - Intramedullary interlocking nail stabilisation of 21 humeral fractures in 19 dogs and one cat
+JO  - Australian Veterinary Journal
+VL  - 80
+IS  - 6
+SN  - 9780813818313
+UR  - https://doi.org/10.1111/j.1751-0813.2002.tb14781.x
+DO  - doi:10.1111/j.1751-0813.2002.tb14781.x
+SP  - 336
+EP  - 343
+PY  - 2002
+AB  - Objective To assess the suitability of the intramedullary interlocking nail to stabilise humeral diaphyseal fractures in dogs and cats. Method This multi-centre study retrospectively examined medical records, between June 1994 and May 2001, of 19 dogs and one cat, in which a total of 21 humeral fractures were stabilised with intramedullary interlocking nails. Results Animals ranged in body-weight from 4 to 97 kg. Eighteen (86%) of the fractures were comminuted. Adjunctive stabilisation was used in twelve (57%) fractures and bone grafts in nine (43%) fractures. A rapid return of function was noted in the majority of animals, with 14 (67%) having good or excellent function within four days of surgery. In two fractures the repair collapsed when a single proximal transcortical screw was placed cranial to the tricipital line of the humerus. This suggests that if a single transcortical screw is placed proximally the screw should be distal or caudal to the tricipital line in order to engage sufficient cortical bone. Eighteen (86%) of the fractures healed when stabilised with intramedullary interlocking nails. Three fractures did not heal. One was in a dog where a pathological fracture was temporarily stabilised with an intramedullary interlocking nail, one in a dog that died of an abdominal crisis three weeks after surgery and one in a dog in which fracture stabilisation collapsed due to incorrect implant selection. Conclusion Intramedullary interlocking nails are well suited to the stabilisation of humeral diaphyseal fractures in dogs and cats.
+ER  - 
+
+TY  - JOUR
+AU  - White, R. N.
+TI  - Modified functional end-to-end stapled intestinal anastomosis: technique and clinical results in 15 dogs
+JO  - Journal of Small Animal Practice
+VL  - 49
+IS  - 6
+SN  - 9780813818313
+UR  - https://doi.org/10.1111/j.1748-5827.2007.00499.x
+DO  - doi:10.1111/j.1748-5827.2007.00499.x
+SP  - 274
+EP  - 281
+PY  - 2008
+AB  - Objectives: To evaluate the use of a gastrointestinal anastomosis (GIA) stapling device to perform small intestinal anastomosis in the dog. Methods: A retrospective study to evaluate the use of a GIA stapling device to perform small intestinal anastomosis in 15 dogs. Results: Reasons for intervention included dehiscence of a previous enterotomy (four of 15), intestinal neoplasia (five of 15), vascular compromise (three of 15), intussusception (two of 15) and foreign body (one of 15). The mean time taken to perform the anastomosis was 7·7 minutes (range five to 12 minutes). No operative complications were recorded and all dogs recovered from the surgery. Major (two dogs) and minor (six dogs) short-term complications of pyrexia and anorexia were recorded in six dogs. In five of these, the cause was considered to be related to a pre-existing peritonitis. One dog was euthanased five months postoperatively for a multi-centric recurrence of intestinal lymphoma. Six month follow-up confirmed an unremarkable and complete recovery in all remaining dogs. No major or minor long-term complications were recorded in any individual. Clinical Significance: A modified stapled functional end-to-end intestinal anastomosis holds merit and should be considered a viable alternative to other stapled and sutured anastomosis techniques.
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Cheng-Ping
+AU  - Chen, Tseng-Cheng
+AU  - Lou, Pei-Jen
+AU  - Yang, Tsung-Lin
+AU  - Hu, Ya-Ling
+AU  - Shieh, Ming-Jium
+AU  - Ko, Jenq-Yuh
+AU  - Hsiao, Tzu-Yu
+TI  - Neck ultrasonography for the evaluation of the etiology of adult unilateral vocal fold paralysis
+JO  - Head & Neck
+JA  - Head Neck
+VL  - 34
+IS  - 5
+SN  - 9780813818313
+UR  - https://doi.org/10.1002/hed.21794
+DO  - doi:10.1002/hed.21794
+SP  - 643
+EP  - 648
+KW  - ultrasound
+KW  - thyroid cancer
+KW  - recurrent laryngeal nerve
+KW  - vagus nerve, esophageal cancer
+KW  - lung cancer
+PY  - 2012
+AB  - Abstract Background An extralaryngeal neoplasm involving the vagus nerve and recurrent laryngeal nerve must be excluded when adult unilateral vocal fold paralysis is diagnosed. Methods Between 2004 and 2009, 53 adult patients with unilateral vocal fold paralysis received neck ultrasonography. Patients with laryngeal/hypopharyngeal cancer or with previously known cancers of the head and neck, thyroid, esophagus or lung, or with known etiology or trauma were excluded from this study. Results We included 26 men and 27 women. Ultrasonography revealed 16 patients (30%) having subclinical tumors, including thyroid papillary carcinoma in 7 patients, vagus nerve schwannoma in 2 patients, nodular goiter in 2 patients, malignant nodes in the lower neck in 4 patients, which were metastasized from lung cancer in 3 patients, esophageal cancer in 1 patient, and cervical esophageal cancer in 1 patient. Conclusion Neck ultrasonography is useful to detect subclinical neoplasia, causing unilateral vocal fold paralysis. Thyroid cancer is the most common neoplastic etiology of adult unilateral vocal fold paralysis. ? 2011 Wiley Periodicals, Inc. Head Neck, 2012
+ER  - 
+
+TY  - JOUR
+AU  - Scott, Jacqueline
+AU  - Singh, Ameet
+AU  - Mayhew, Philipp D.
+AU  - Brad Case, J.
+AU  - Runge, Jeffrey J.
+AU  - Gatineau, Matthieu
+AU  - Kilkenny, Jessica
+TI  - Perioperative Complications and Outcome of Laparoscopic Cholecystectomy in 20 Dogs
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 45
+IS  - S1
+SN  - 9780813818313
+UR  - https://doi.org/10.1111/vsu.12534
+DO  - doi:10.1111/vsu.12534
+SP  - O49
+EP  - O59
+PY  - 2016
+AB  - Objective To report the complications and outcome of dogs undergoing laparoscopic cholecystectomy for uncomplicated gall bladder disease. Study Design Multi-institutional case series. Animals Client-owned dogs (n=20). Methods Medical records of dogs that underwent laparoscopic cholecystectomy were reviewed and signalment, history, clinical and ultrasound examination findings, surgical variables, and complications were collated. Laparoscopic cholecystectomy was performed using a multiport approach. Data were compared between dogs with successful laparoscopic cholecystectomy and dogs requiring conversion to open cholecystectomy. Results Six dogs (30%) required conversion from laparoscopic to open cholecystectomy due to inability to ligate the cystic duct (3), evidence of gall bladder rupture (1), leakage from the cystic duct during dissection (1), and cardiac arrest (1). Cystic duct dissection was performed in 19 dogs using an articulating dissector (10), right angle forceps (7), and unrecorded (2). The cystic duct was ligated in 15 dogs using surgical clips (5), suture (6), or a combination (4). All dogs were discharged from the hospital and had resolution of clinical signs, although 1 dog developed pancreatitis and 1 dog required revision surgery for bile peritonitis. There was no significant difference in preoperative blood analysis results, surgical technique, or duration of hospitalization between dogs undergoing laparoscopic cholecystectomy and cases converted to open cholecystectomy. Conclusion Laparoscopic cholecystectomy can be performed successfully for uncomplicated gall bladder disease in dogs after careful case selection. The surgeon considering laparoscopic cholecystectomy should be familiar with a variety of methods for cystic duct dissection and ligation to avoid difficulties during the procedure.
+ER  - 
+
+TY  - JOUR
+AU  - Meakin, L. B.
+AU  - Salonen, L. K.
+AU  - Baines, S. J.
+AU  - Brockman, D. J.
+AU  - Gregory, S. P.
+AU  - Halfacree, Z. J.
+AU  - Lipscomb, V. J.
+AU  - Lee, K. C.
+TI  - Prevalence, outcome and risk factors for postoperative pyothorax in 232 dogs undergoing thoracic surgery
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 54
+IS  - 6
+SN  - 9780813818313
+UR  - https://doi.org/10.1111/jsap.12064
+DO  - doi:10.1111/jsap.12064
+SP  - 313
+EP  - 317
+PY  - 2013
+AB  - Objective To determine the prevalence, outcome and risk factors for postoperative pyothorax in dogs undergoing thoracic surgery. Methods Case records were reviewed retrospectively to identify dogs with post thoracic surgery pyothorax, defined as septic neutrophilic inflammation within the pleural space based on cytology and/or a positive bacterial culture of pleural fluid. Those identified were reviewed for potential risk factors for postoperative pyothorax based on biological plausibility and previously published data. These potential risk factors were explored by multivariable logistic regression. Results Of 232 dogs undergoing thoracic surgery, 15 (6·5%) dogs developed pyothorax. Bacteria cultured included methicillin-resistant Staphylococcus aureus and multi-resistant Escherichia coli. Of these dogs, six died, four were euthanased and five were treated successfully. A diagnosis of idiopathic chylothorax [Odds Ratio (OR)=12·5, 95% Confidence Interval (CI)=2·7-58·5, P=0·001], preoperative intrathoracic biopsy (OR=14·3, 95% CI=1·7-118·7, P=0·014) and preoperative thoracocentesis (OR=11·2, 95% CI=1·6-78·2, P=0·015) were identified as independent risk factors for development of postoperative pyothorax. Clinical Significance Idiopathic chylothorax, intrathoracic biopsy and prior thoracocentesis are independent risk factors for postoperative pyothorax, which was associated with a 67% mortality rate.
+ER  - 
+
+TY  - JOUR
+AU  - Menke, Ricarda A. L.
+AU  - Gray, Elizabeth
+AU  - Lu, Ching-Hua
+AU  - Kuhle, Jens
+AU  - Talbot, Kevin
+AU  - Malaspina, Andrea
+AU  - Turner, Martin R.
+TI  - CSF neurofilament light chain reflects corticospinal tract degeneration in ALS
+JO  - Annals of Clinical and Translational Neurology
+JA  - Ann Clin Transl Neurol
+VL  - 2
+IS  - 7
+SN  - 9780813818313
+UR  - https://doi.org/10.1002/acn3.212
+DO  - doi:10.1002/acn3.212
+SP  - 748
+EP  - 755
+PY  - 2015
+AB  - Abstract Objective Diffusion tensor imaging (DTI) is sensitive to white matter tract pathology. A core signature involving the corticospinal tracts (CSTs) has been identified in amyotrophic lateral sclerosis (ALS). Raised neurofilament light chain protein (NfL) in cerebrospinal fluid (CSF) is thought to reflect axonal damage in a range of neurological disorders. The relationship between these two measures was explored. Methods CSF and serum NfL concentrations and DTI acquired at 3 Tesla on the same day were obtained from ALS patients (n = 25 CSF, 40 serum) and healthy, age-similar controls (n = 17 CSF, 25 serum). Within-group correlations between NfL and DTI measures of microstructural integrity in major white matter tracts (CSTs, superior longitudinal fasciculi [SLF], and corpus callosum) were performed using tract-based spatial statistics. Results NfL levels were higher in patients compared to controls. CSF levels correlated with clinical upper motor neuron burden and rate of disease progression. Higher NfL levels were significantly associated with lower DTI fractional anisotropy and increased radial diffusivity in the CSTs of ALS patients, but not in controls. Interpretation Elevated CSF and serum NfL is, in part, a result of CST degeneration in ALS. This highlights the wider potential for combining neurochemical and neuroimaging-based biomarkers in neurological disease.
+ER  - 
+
+AU  - Melniker, Lawrence A.
+C7  - pp. 347-354
+TI  - Chest Pain and Dyspnea
+SN  - 9780470657577
+UR  - https://doi.org/10.1002/9781119072874.ch32
+DO  - doi:10.1002/9781119072874.ch32
+SP  - 347-354
+KW  - acute coronary syndrome
+KW  - chronic obstructive pulmonary disease
+KW  - congestive heart failure
+KW  - dyspnea
+KW  - focused cardiac ultrasound
+KW  - non-ischaemia-related chest pain
+KW  - pulmonary function tests
+PY  - 2015
+AB  - Summary Chest pain and dyspnoea are among the most common complaints seen in the emergency department, accounting for nearly 20% of all visits. This chapter focuses on acute coronary syndrome, non-ischaemia-related chest pain, and congestive heart failure (CHF). In addition to ischemic heart disease, causes of chest pain may include pulmonary embolus, disorders of the pericardium, pleura and the chest wall, as well as oesophageal and spinal. A combination of focused cardiac and lung ultrasound can elucidate multiple causes of chest pain. Focused cardiac ultrasound (FoCUS) is useful in evaluating a variety of pathological conditions affecting the pericardium, especially pericardial effusion. In addition to heart failure, a number of disorders can cause dyspnoea, including chronic obstructive pulmonary disease (COPD), asthma, pneumonia, sepsis, pulmonary embolism, deconditioning, metabolic acidosis, anxiety and many others. Pulmonary function tests (PFTs) have been used for many years for distinguishing dyspnoea of pulmonary origin from that of cardiac origin.
+ER  - 
+
+TY  - JOUR
+AU  - Day, M. J.
+AU  - Karkare, U.
+AU  - Schultz, R. D.
+AU  - Squires, R.
+AU  - Tsujimoto, H.
+TI  - Recommendations on vaccination for Asian small animal practitioners: a report of the WSAVA Vaccination Guidelines Group
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 56
+IS  - 2
+SN  - 9780470657577
+UR  - https://doi.org/10.1111/jsap.12272
+DO  - doi:10.1111/jsap.12272
+SP  - 77
+EP  - 95
+PY  - 2015
+AB  - EXECUTIVE SUMMARY In 2012 and 2013, the World Small Animal Veterinary Association (WSAVA) Vaccination Guidelines Group (VGG) undertook fact-finding visits to several Asian countries, with a view to developing advice for small companion animal practitioners in Asia related to the administration of vaccines to dogs and cats. The VGG met with numerous first opinion practitioners, small animal association leaders, academic veterinarians, government regulators and industry representatives and gathered further information from a survey of almost 700 veterinarians in India, China, Japan and Thailand. Although there were substantial differences in the nature and magnitude of the challenges faced by veterinarians in each country, and also differences in the resources available to meet those challenges, overall, the VGG identified insufficient undergraduate and postgraduate training in small companion animal microbiology, immunology and vaccinology. In most of the countries, there has been little academic research into small animal infectious diseases. This, coupled with insufficient laboratory diagnostic support, has limited the growth of knowledge concerning the prevalence and circulating strains of key infectious agents in most of the countries visited. Asian practitioners continue to recognise clinical infections that are now considered uncommon or rare in western countries. In particular, canine rabies virus infection poses a continuing threat to animal and human health in this region. Both nationally manufactured and international dog and cat vaccines are variably available in the Asian countries, but the product ranges are small and dominated by multi-component vaccines with a licensed duration of immunity (DOI) of only 1 year, or no description of DOI. Asian practitioners are largely unaware of current global trends in small animal vaccinology or of the WSAVA vaccination guidelines. Consequently, most practitioners continue to deliver annual revaccination with both core and non-core vaccines to adult animals, with little understanding that ?herd immunity? is more important than frequent revaccination of individual animals within the population. In this paper, the VGG presents the findings of this project and makes key recommendations for the Asian countries. The VGG recommends that (1) Asian veterinary schools review and increase as needed the amount of instruction in small animal vaccinology within their undergraduate curriculum and increase the availability of pertinent postgraduate education for practitioners; (2) national small animal veterinary associations, industry veterinarians and academic experts work together to improve the scientific evidence base concerning small animal infectious diseases and vaccination in their countries; (3) national small animal veterinary associations take leadership in providing advice to practitioners based on improved local knowledge and global vaccination guidelines; (4) licensing authorities use this enhanced evidence base to inform and support the registration of improved vaccine product ranges for use in their countries, ideally with DOI for core vaccines similar or equal to those of equivalent products available in western countries (i.e. 3 or 4 years). The VGG also endorses the efforts made by Asian governments, non-governmental organisations and veterinary practitioners in working towards the goal of global elimination of canine rabies virus infection. In this paper, the VGG offers both a current pragmatic and future aspirational approach to small animal vaccination in Asia. As part of this project, the VGG delivered continuing education to over 800 Asian practitioners at seven events in four countries. Accompanying this document is a list of 80 frequently asked questions (with answers) that arose during these discussions. The VGG believes that this information will be of particular value to Asian veterinarians as they move towards implementing global trends in small companion animal vaccinology.
+ER  - 
+
+TY  - JOUR
+AU  - Cuthbertson Sir, David P.
+AU  - Zagreb Dr., Honoris Causa
+TI  - The Metabolic Response to Injury and Its Nutritional Implications: Retrospect and Prospect
+JO  - Journal of Parenteral and Enteral Nutrition
+JA  - Journal of Parenteral and Enteral Nutrition
+VL  - 3
+IS  - 3
+SN  - 9780470657577
+UR  - https://doi.org/10.1177/014860717900300302
+DO  - doi:10.1177/014860717900300302
+SP  - 108
+EP  - 129
+PY  - 1979
+ER  - 
+
+TY  - JOUR
+AU  - Mageed, M.
+AU  - Elfadl, A.
+AU  - Blum, N.
+AU  - Wegert, J.
+AU  - Kremer, F.
+AU  - Swagemakers, J.
+TI  - Standing low-field magnetic resonance imaging as a diagnostic modality for solar keratoma in a horse
+JO  - Equine Veterinary Education
+JA  - Equine Vet Educ
+VL  - n/a
+IS  - n/a
+SN  - 9780470657577
+UR  - https://doi.org/10.1111/eve.13015
+DO  - doi:10.1111/eve.13015
+KW  - horse
+KW  - magnetic resonance imaging
+KW  - solar keratoma
+KW  - lameness
+KW  - space-occupying mass
+AB  - Summary A 22-year-old Friesian gelding was presented with a history of chronic, nonresolving lameness localised to the right front foot. Radiographs showed a smoothly marginated circular lucent area with a rim of increased opacity adjacent to the solar canal of the distal phalanx. The magnetic resonance imaging (MRI) revealed a reversed V-shaped smoothly demarcated space-occupying mass causing invagination of the solar laminae towards the solar canal arch and deformity of the adjacent surface of the distal phalanx. The mass was removed surgically and submitted for histopathology, which revealed a keratoma and periosteal fibrosis. Six weeks post-surgery the horse returned to the previous work level and 8 months follow-up showed no recurrence of keratoma. This report highlights the usefulness of MRI as a diagnostic modality for solar keratoma.
+ER  - 
+
+TY  - JOUR
+AU  - BARRETT, M. F.
+AU  - FRISBIE, D. D.
+AU  - McILWRAITH, C. W.
+AU  - WERPY, N. M.
+TI  - The arthroscopic and ultrasonographic boundaries of the equine femorotibial joints
+JO  - Equine Veterinary Journal
+VL  - 44
+IS  - 1
+SN  - 9780470657577
+UR  - https://doi.org/10.1111/j.2042-3306.2011.00369.x
+DO  - doi:10.1111/j.2042-3306.2011.00369.x
+SP  - 57
+EP  - 63
+KW  - horse
+KW  - stifle
+KW  - ultrasound
+KW  - arthroscopy
+KW  - meniscus
+KW  - medial collateral ligament
+PY  - 2012
+AB  - Summary Reasons for performing study: While descriptions of the visible soft tissues of the femorotibial joints exist for both arthroscopy and ultrasonography, there are few examples in the literature that discuss in detail the combined findings of these modalities. Objectives: To further elucidate the ultrasonographic and arthroscopic boundaries of the normal equine femorotibial joints and improve the understanding of the benefits and limitations of each individual modality. Methods: Simultaneous arthroscopy and ultrasonography were performed in 10 equine cadaver stifles as well as bilateral stifles on a horse that underwent nonrecovery surgery. The arthroscopic probe was visualised ultrasonographically and concurrent video and still images acquired. Results: Arthroscopy provided good visualisation of the cranial meniscal ligaments, the distal portion of the cranial cruciate ligament, proximal portion of the medial collateral ligament within the fibrous tissue of the joint capsule and a limited view of the abaxial border of meniscus. Ultrasonography allowed for almost complete visualisation of the menisci, collateral ligaments and cranial meniscal ligaments and a portion of the cranial cruciate ligament. Conclusions: By comparing the ultrasonographically and arthroscopically visible structures, this study allowed for a more complete understanding of the advantages and limitations of each modality. The ability of ultrasonography to resolve mild pathological changes should be further explored. Potential relevance: When used together, these modalities can provide a more global image of the femorotibial joints.
+ER  - 
+
+TY  - JOUR
+AU  - Tipold, A.
+AU  - Vandevelde, M.
+AU  - Jaggy, A.
+TI  - Neurological manifestations of canine distemper virus infection
+JO  - Journal of Small Animal Practice
+VL  - 33
+IS  - 10
+SN  - 9780470657577
+UR  - https://doi.org/10.1111/j.1748-5827.1992.tb01024.x
+DO  - doi:10.1111/j.1748-5827.1992.tb01024.x
+SP  - 466
+EP  - 470
+PY  - 1992
+AB  - ABSTRACT Canine distemper virus causes a multi systemic disease in dogs often with severe neurological signs. These signs are the result of viral replication in neurons and glial cells leading to grey matter lesions and demyelination. Inflammation leads to further destruction of the tissue. As extraneural signs are often lacking and only one localisation may be found on neurological examination, distemper may be difficult to diagnose. Myoclonus is almost pathognomonic for this disease but occurs in less than half of the cases. The inflammation of the central nervous system that occurs during the chronic stage of the disease can be detected on examination of the cerebrospinal fluid, in particular by determination of the IgG index. Viral antigen can be demonstrated in cerebrospinal fluid cells by fluorescent antibody techniques. The prognosis of nervous distemper is generally poor although dogs can recover from this disease. Treatment is largely supportive and symptomatic. The importance of regular vaccination is stressed.
+ER  - 
+
+TY  - JOUR
+AU  - BENNETT, D.
+AU  - KELLY, D. F.
+AU  - KIRKHAM, D.
+AU  - EDGAR, A.
+TI  - Two cases of pemphigus erythematosus (the Senear-Usher syndrome) in the dog
+JO  - Journal of Small Animal Practice
+VL  - 26
+IS  - 4
+SN  - 9780470657577
+UR  - https://doi.org/10.1111/j.1748-5827.1985.tb02104.x
+DO  - doi:10.1111/j.1748-5827.1985.tb02104.x
+SP  - 219
+EP  - 227
+PY  - 1985
+AB  - ABSTRACT The clinical and diagnostic features of two cases of pemphigus erythematosus in the dog are described. This disease, which is one of the autoimmune bullous skin diseases, should be included in the differential diagnosis of nasal dermatitis or of so-called ?Collie-nose?.
+ER  - 
+
+TY  - JOUR
+AU  - Pataro, André Luiz
+AU  - Costa, Fernando Oliveira
+AU  - Cortelli, Sheila Cavalca
+AU  - Cortelli, José Roberto
+AU  - Dupim Souza, Ana Carolina
+AU  - Nogueira Guimarães Abreu, Mauro Henrique
+AU  - Girundi, Marcelo Gomes
+AU  - Costa, José Eustáquio
+TI  - Influence of Obesity and Bariatric Surgery on the Periodontal Condition
+JO  - Journal of Periodontology
+JA  - Journal of Periodontology
+VL  - 83
+IS  - 3
+SN  - 9780470657577
+UR  - https://doi.org/10.1902/jop.2011.100782
+DO  - doi:10.1902/jop.2011.100782
+SP  - 257
+EP  - 266
+KW  - Bariatric surgery
+KW  - obesity
+KW  - periodontitis
+KW  - risk factors
+PY  - 2012
+AB  - Background: Recent studies have shown that being overweight or obese is associated with a higher risk of periodontitis. However, the literature offers an insufficient number of published reports regarding the effect of bariatric surgery on oral health. As such, the present study aims to determine the association between periodontal status and being overweight/obese in prebariatric and postbariatric surgery populations of Brazil. Methods: Three hundred forty-five participants between 18 and 60 years of age, from both sexes, were grouped according to prebariatric or postbariatric surgery and underwent a complete periodontal examination. Biologic, demographic, and behavioral variables were analyzed in a Poisson regression model. Results: Considering the timing of bariatric surgery, the sample was divided into three groups: PRE-OP (preoperative, n = 133), POS-OP1 (postoperative ≤6 months, n = 72), and POS-OP2 (post-surgery >6 months, n = 140). Regardless of the type of surgery (PRE-OP, POS-OP1, POS-OP2), the prevalence of periodontitis proved to be high (81.45%). There was a statistically significant difference in the prevalence of periodontitis among the PRE-OP, POS-OP1, and POS-OP2 groups (P = 0.040). In the Poisson regression model, after adjusting for biologic, demographic, and behavioral risk variables, only bleeding on probing remained significantly associated with the prevalence of periodontitis (P <0.001). Conclusion: Differences in periodontal condition were observed in individuals at different times of the bariatric surgery, showing a high prevalence of periodontitis in both preoperative and postoperative follow-up.
+ER  - 
+
+TY  - JOUR
+AU  - Linnenkohl, W.
+AU  - Mair, T.
+AU  - Fews, D.
+TI  - Case report of atypical infiltrative lipomatosis of the equine mesojejunum
+JO  - Equine Veterinary Education
+VL  - 25
+IS  - 5
+SN  - 9780470657577
+UR  - https://doi.org/10.1111/j.2042-3292.2011.00362.x
+DO  - doi:10.1111/j.2042-3292.2011.00362.x
+SP  - 237
+EP  - 240
+KW  - horse
+KW  - lipomatosis
+KW  - mesojejunum
+KW  - colic
+KW  - lipoma
+PY  - 2013
+AB  - Summary A 25-year-old mare was examined for persistent colic. Over the previous month, the mare had experienced several episodes of mild recurrent colic. The episode of colic persisted for 18 h and the pain became unresponsive to analgesic therapy. Euthanasia was undertaken. Post mortem examination revealed an atypical infiltrative lipoma of the mesojejunum, confirmed histopathologically. To the authors' knowledge, this is the first case report of a diffuse infiltrative lipoma of the equine mesojejunum.
+ER  - 

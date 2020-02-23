@@ -1,0 +1,371 @@
+
+TY  - JOUR
+TI  - EACS 2019 – Abstract Book
+JO  - HIV Medicine
+JA  - HIV Med
+VL  - 20
+IS  - S9
+SN  - 1464-2662
+UR  - https://doi.org/10.1111/hiv.12814
+DO  - doi:10.1111/hiv.12814
+SP  - 3
+EP  - 316
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Poster Sessions
+JO  - BJU International
+JA  - BJU Int
+VL  - 113
+IS  - S5
+SN  - 1464-4096
+UR  - https://doi.org/10.1111/bju.12760
+DO  - doi:10.1111/bju.12760
+SP  - 19
+EP  - 67
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentation
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 53
+IS  - s119
+SN  - 0001-5172
+UR  - https://doi.org/10.1111/j.1399-6576.2009.02005.x
+DO  - doi:10.1111/j.1399-6576.2009.02005.x
+SP  - 62
+EP  - 78
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+AU  - Hawiger, J.
+AU  - Veach, R. A.
+AU  - Zienkiewicz, J.
+TI  - New paradigms in sepsis: from prevention to protection of failing microcirculation
+JO  - Journal of Thrombosis and Haemostasis
+JA  - J Thromb Haemost
+VL  - 13
+IS  - 10
+SN  - 1538-7933
+UR  - https://doi.org/10.1111/jth.13061
+DO  - doi:10.1111/jth.13061
+SP  - 1743
+EP  - 1756
+KW  - genome
+KW  - infection
+KW  - inflammation
+KW  - microcirculation
+KW  - septic shock
+PY  - 2015
+AB  - Summary Sepsis, also known as septicemia, is one of the 10 leading causes of death worldwide. The rising tide of sepsis due to bacterial, fungal and viral infections cannot be stemmed by current antimicrobial therapies and supportive measures. New paradigms for the mechanism and resolution of sepsis and consequences for sepsis survivors are emerging. Consistent with Benjamin Franklin's dictum ?an ounce of prevention is worth a pound of cure?, sepsis can be prevented by vaccinations against pneumococci and meningococci. Recently, the NIH NHLBI Panel redefined sepsis as ?severe endothelial dysfunction syndrome in response to intravascular and extravascular infections causing reversible or irreversible injury to the microcirculation responsible for multiple organ failure?. Microvascular endothelial injury underlies sepsis-associated hypotension, edema, disseminated intravascular coagulation, acute respiratory distress syndrome and acute kidney injury. Microbial genome products trigger ?genome wars? in sepsis that reprogram the human genome and culminate in a ?genomic storm? in blood and vascular cells. Sepsis can be averted experimentally by endothelial cytoprotection through targeting nuclear signaling that mediates inflammation and deranged metabolism. Endothelial ?rheostats? (e.g. inhibitors of NF-?B, A20 protein, CRADD/RAIDD protein and microRNAs) regulate endothelial signaling. Physiologic ?extinguishers? (e.g. suppressor of cytokine signaling 3) can be replenished through intracellular protein therapy. Lipid mediators (e.g. resolvin D1) hasten sepsis resolution. As sepsis cases rose from 387 330 in 1996 to 1.1 million in 2011, and are estimated to reach 2 million by 2020 in the US, mortality due to sepsis approaches that of heart attacks and exceeds deaths from stroke. More preventive vaccines and therapeutic measures are urgently needed.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Psychophysiology
+JA  - Psychophysiology
+VL  - 56
+IS  - S1
+SN  - 0048-5772
+UR  - https://doi.org/10.1111/psyp.13501
+DO  - doi:10.1111/psyp.13501
+SP  - S3
+EP  - S39
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Podium Presentation Abstracts
+JO  - BJU International
+JA  - BJU Int
+VL  - 113
+IS  - S4
+SN  - 1464-4096
+UR  - https://doi.org/10.1111/bju.12618
+DO  - doi:10.1111/bju.12618
+SP  - 1
+EP  - 50
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Ye
+AU  - Ding, Jianxun
+AU  - Qi, Baowen
+AU  - Tao, Wei
+AU  - Wang, Junqing
+AU  - Zhao, Caiyan
+AU  - Peng, Huisheng
+AU  - Shi, Jinjun
+C7  - 1902834
+TI  - Multifunctional Fibers to Shape Future Biomedical Devices
+JO  - Advanced Functional Materials
+JA  - Adv. Funct. Mater.
+VL  - 29
+IS  - 34
+SN  - 1616-301X
+UR  - https://doi.org/10.1002/adfm.201902834
+DO  - doi:10.1002/adfm.201902834
+SP  - 1902834
+KW  - bioelectronics
+KW  - biomedical devices
+KW  - fiber
+KW  - implantable
+KW  - wearable
+PY  - 2019
+AB  - Abstract Fiber-based configurations are highly desirable for wearable and implantable biomedical devices due to their unique properties, such as ultra-flexibility, weavability, minimal invasiveness, and tissue adaptability. Recent developments have focused on the fabrication of fibrous devices with multiple biomedical functions, such as noninvasively or minimally invasively monitoring of physiological signals, delivering drugs, transplanting cells, and recording and stimulating nerves. In this Review, the recent progress of these multifunctional fiber-based devices in terms of their composite materials, fabrication techniques, structural designs, device-tissue interfaces, and biomedical applications is carefully described. The remaining challenges and future directions in this emerging and exciting research field are also highlighted.
+ER  - 
+
+TY  - JOUR
+AU  - Cox Jr., Louis Anthony (Tony)
+TI  - Improving Causal Inferences in Risk Analysis
+JO  - Risk Analysis
+JA  - Risk Analysis
+VL  - 33
+IS  - 10
+SN  - 0272-4332
+UR  - https://doi.org/10.1111/risa.12072
+DO  - doi:10.1111/risa.12072
+SP  - 1762
+EP  - 1771
+KW  - Accountability research
+KW  - air pollution
+KW  - causal graphs
+KW  - causality
+KW  - causal modeling
+KW  - change-point analysis
+KW  - counterfactual models
+KW  - Granger tests
+KW  - intervention analysis
+KW  - panel data
+PY  - 2013
+AB  - Recent headlines and scientific articles projecting significant human health benefits from changes in exposures too often depend on unvalidated subjective expert judgments and modeling assumptions, especially about the causal interpretation of statistical associations. Some of these assessments are demonstrably biased toward false positives and inflated effects estimates. More objective, data-driven methods of causal analysis are available to risk analysts. These can help to reduce bias and increase the credibility and realism of health effects risk assessments and causal claims. For example, quasi-experimental designs and analysis allow alternative (noncausal) explanations for associations to be tested, and refuted if appropriate. Panel data studies examine empirical relations between changes in hypothesized causes and effects. Intervention and change-point analyses identify effects (e.g., significant changes in health effects time series) and estimate their sizes. Granger causality tests, conditional independence tests, and counterfactual causality models test whether a hypothesized cause helps to predict its presumed effects, and quantify exposure-specific contributions to response rates in differently exposed groups, even in the presence of confounders. Causal graph models let causal mechanistic hypotheses be tested and refined using biomarker data. These methods can potentially revolutionize the study of exposure-induced health effects, helping to overcome pervasive false-positive biases and move the health risk assessment scientific community toward more accurate assessments of the impacts of exposures and interventions on public health.
+ER  - 
+
+TY  - JOUR
+AU  - Windhorst, Dafna A.
+AU  - Rippe, Ralph C.A.
+AU  - Mileva-Seitz, Viara R.
+AU  - Verhulst, Frank C.
+AU  - Jaddoe, Vincent W.V.
+AU  - Noppe, Gerard
+AU  - van Rossum, Elisabeth F.C.
+AU  - van den Akker, Erica L.T.
+AU  - Tiemeier, Henning
+AU  - van IJzendoorn, Marinus H.
+AU  - Bakermans-Kranenburg, Marian J.
+TI  - Mild perinatal adversities moderate the association between maternal harsh parenting and hair cortisol: Evidence for differential susceptibility
+JO  - Developmental Psychobiology
+JA  - Dev Psychobiol
+VL  - 59
+IS  - 3
+SN  - 0012-1630
+UR  - https://doi.org/10.1002/dev.21497
+DO  - doi:10.1002/dev.21497
+SP  - 324
+EP  - 337
+KW  - differential susceptibility
+KW  - hair cortisol
+KW  - HPA axis
+KW  - mild perinatal adversities
+KW  - parenting
+PY  - 2017
+AB  - Abstract It has been shown that following exposure to mild perinatal adversity, children have greater susceptibility to both the negative and positive aspects of their subsequent environment. In a large population-based cohort study (N?=?1,776), we investigated whether mild perinatal adversity moderated the association between maternal harsh parenting and children's hair cortisol levels, a biomarker of chronic stress. Mild perinatal adversity was defined as late preterm birth (gestational age at birth of 34?37 weeks, 6 days) or small for gestational age (birth weight between the 2.5th and 10th percentile for full term gestational age). Harsh parenting was assessed by maternal self-report at 3 years. Children's hair cortisol concentrations were measured from hair samples collected at age 6. There were no significant bivariate associations between mild perinatal adversities and harsh parenting and hair cortisol. However, mild perinatal adversities moderated the association between maternal harsh parenting and hair cortisol levels. Children with mild perinatal adversity had lower cortisol levels if parented more harshly and higher cortisol levels in the absence of harsh parenting than children who did not experience mild perinatal adversity. These results provide further evidence that mild perinatal adversity is a potential marker of differential susceptibility to environmental influences.
+ER  - 
+
+TY  - JOUR
+TI  - Poster & Podium Poster Abstracts
+JO  - BJU International
+JA  - BJU Int
+VL  - 115
+IS  - S4
+SN  - 1464-4096
+UR  - https://doi.org/10.1111/bju.13073
+DO  - doi:10.1111/bju.13073
+SP  - 38
+EP  - 107
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - Oral and Poster Presentations
+JO  - Catheterization and Cardiovascular Interventions
+JA  - Cathet. Cardiovasc. Intervent.
+VL  - 79
+IS  - S1
+SN  - 1522-1946
+UR  - https://doi.org/10.1002/ccd.24386
+DO  - doi:10.1002/ccd.24386
+SP  - S1
+EP  - S110
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+TI  - Posters
+JO  - Bipolar Disorders
+JA  - Bipolar Disord
+VL  - 17
+IS  - S1
+SN  - 1398-5647
+UR  - https://doi.org/10.1111/bdi.12309
+DO  - doi:10.1111/bdi.12309
+SP  - 58
+EP  - 142
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+AU  - Monson, Michael L.
+AU  - Dennis, Patricia M.
+AU  - Lukas, Kristen E.
+AU  - Krynak, Katherine L.
+AU  - Carrino-Kyker, Sarah R.
+AU  - Burke, David J.
+AU  - Schook, Mandi W.
+TI  - The effects of increased hay-to-grain ratio on behavior, metabolic health measures, and fecal bacterial communities in four Masai giraffe (Giraffa camelopardalis tippelskirchi) at Cleveland Metroparks Zoo
+JO  - Zoo Biology
+JA  - Zoo Biology
+VL  - 37
+IS  - 5
+SN  - 0733-3188
+UR  - https://doi.org/10.1002/zoo.21434
+DO  - doi:10.1002/zoo.21434
+SP  - 320
+EP  - 331
+KW  - insulin
+KW  - ruminant nutrition
+KW  - stereotypy
+KW  - ungulates
+KW  - welfare
+PY  - 2018
+AB  - We evaluated whether increasing the hay-to-grain ratio offered to Masai giraffe (Giraffa camelopardalis tippelskirchi) at Cleveland Metroparks Zoo would reduce oral stereotypies and alter feeding behaviors, maintain or increase serum calcium-to-phosphorus ratio, decrease serum insulin-to-glucose ratio and salivary insulin, and alter fecal bacterial community structure. Giraffe transitioned to a ?90:10 hay-to-grain ratio in even increments over 8 weeks. A ration balancer was added during the seventh week of transition to ensure proper mineral and nutrient balance. We collected (1) behavioral data collected approximately daily using instantaneous focal sampling; (2) serum collections every other week for insulin-to-glucose and calcium-to-phosphorus ratio analysis and saliva weekly for insulin analysis; and (3) weekly fecal sample collections to examine changes in bacterial community structure during the 8 weeks preceding and following the diet change. After the diet change, giraffe spent significantly more time feeding and less time performing tongue and mouth stereotypies, people-directed and alert behaviors. Salivary and serum insulin and serum insulin-to-glucose ratio decreased, and fecal bacterial community structure changed significantly. However, serum calcium-to-phosphorus ratio remained >1:1 throughout the study. While further studies are needed to elucidate the nature and implications of the change in fecal bacterial community structure and metabolic hormones, the results of this study show promise for incremental improvements in health and welfare from feeding a higher proportion of forage in the diet.
+ER  - 
+
+TY  - JOUR
+AU  - Boche, D.
+AU  - Perry, V. H.
+AU  - Nicoll, J. A. R.
+TI  - Review: Activation patterns of microglia and their identification in the human brain
+JO  - Neuropathology and Applied Neurobiology
+JA  - Neuropathol Appl Neurobiol
+VL  - 39
+IS  - 1
+SN  - 0305-1846
+UR  - https://doi.org/10.1111/nan.12011
+DO  - doi:10.1111/nan.12011
+SP  - 3
+EP  - 18
+KW  - human brain
+KW  - microglia
+KW  - neuroinflammation
+PY  - 2013
+AB  - Microglia in the central nervous system are usually maintained in a quiescent state. When activated, they can perform many diverse functions which may be either beneficial or harmful depending on the situation. Although microglial activation may be accompanied by changes in morphology, morphological changes cannot accurately predict the function being undertaken by a microglial cell. Studies of peripheral macrophages and in vitro and animal studies of microglia have resulted in the definition of specific activation states: M1 (classical activation) and M2 (sometimes subdivided into alternative activation and acquired deactivation). Some authors have suggested that these might be an overlapping continuum of functions rather than discrete categories. In this review, we consider translational aspects of our knowledge of microglia: specifically, we discuss the question as to what extent different activation states of microglia exist in the human central nervous system, which tools can be used to identify them and emerging evidence for such changes in ageing and in Alzheimer's disease.
+ER  - 
+
+TY  - JOUR
+TI  - ACRT-SCTS Scholar Abstracts
+JO  - Clinical and Translational Science
+VL  - 3
+IS  - 2
+SN  - 1752-8054
+UR  - https://doi.org/10.1111/j.1752-8062.2010.00181_2.x
+DO  - doi:10.1111/j.1752-8062.2010.00181_2.x
+SP  - S8
+EP  - S55
+PY  - 2010
+ER  - 
+
+AU  - Klimes-Dougan, Bonnie
+AU  - Kennedy, Kevin P.
+AU  - Cullen, Kathryn R.
+C7  - pp. 1-52
+TI  - Bipolar Disorder from a Developmental Psychopathology Perspective: Focusing on Phenomenology, Etiology, and Neurobiology
+SN  - 9781118121795
+UR  - https://doi.org/10.1002/9781119125556.devpsy320
+DO  - doi:10.1002/9781119125556.devpsy320
+SP  - 1-52
+KW  - pediatric bipolar disorder
+KW  - developmental psychopathology
+KW  - neurobiology
+KW  - etiology
+PY  - 2010
+AB  - Abstract The purpose of this chapter is to consider how a developmental psychopathology perspective can advance our understanding of bipolar disorder. In this chapter we start by discussing the phenomenology of the disorder. As this is a field in which scientific controversies abound, this section begins by placing bipolar disorder in a historical context. We consider the origins of current clinical diagnostic approaches and evaluate newly emerging empirical approaches that utilize dimensions of symptoms, behaviors, and neurobiological indexes. We then review prominent etiological theories of the illness, including work on environmental stressors and hazards as well as behavioral and genetic approaches. We highlight some of the most promising theories that account for both environmental and biological mechanisms of bipolar disorder. Additionally, because bipolar disorder can be considered a neurodevelopmental disorder, biological mechanisms are also discussed in the context of brain imaging research. We conclude the chapter with suggestions for translational research by considering how these developmental and neurodevelopmental models can inform intervention science and help identify promising new directions for future research.
+ER  - 
+
+AU  - Baird, Geoffrey S.
+AU  - Montine, Thomas J.
+C7  - pp. 170-180
+TI  - Clinical Laboratory Investigations in Geriatric Neurology
+SN  - 9781118730683
+UR  - https://doi.org/10.1002/9781118730676.ch8
+DO  - doi:10.1002/9781118730676.ch8
+SP  - 170-180
+KW  - cerebrovascular disorders infarction
+KW  - clinical laboratory investigations
+KW  - dementias
+KW  - geriatric neurology
+KW  - movement disorders
+PY  - 2010
+AB  - Summary Body fluids (blood, urine, cerebrospinal fluid) are preferred samples for neurological testing. This chapter focuses on the clinical laboratory examinations used to screen, diagnose, predict, and monitor neurologic disorders in geriatric patients. As the goals of laboratory testing in this population overlap those of general laboratory testing, a brief section on test interpretation and general laboratory considerations precedes the sections devoted to neurologic disorders of geriatric patients. The neurologic disorders for which laboratory investigations are described in the chapter are: dementias (Alzheimer's disease and Lewy body disease), movement disorders (Parkinson's disease and Parkinson-plus syndromes), cerebrovascular disorders (infarction and hemorrhage), and other disorders such as headache and depression.
+ER  - 
+
+TY  - JOUR
+TI  - 2009 Society for Academic Emergency Medicine (SAEM) Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+VL  - 16
+IS  - s1
+SN  - 9781118730683
+UR  - https://doi.org/10.1111/j.1553-2712.2009.00391.x
+DO  - doi:10.1111/j.1553-2712.2009.00391.x
+SP  - S5
+EP  - S273
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+AU  - Zhou, Yiwen
+AU  - Li, Haizhou
+AU  - Liang, Xiao
+AU  - Du, Hengyu
+AU  - Suo, Yingjun
+AU  - Chen, Hao
+AU  - Liu, Wenhui
+AU  - Duan, Ran
+AU  - Huang, Xiaolu
+AU  - Li, Qingfeng
+TI  - The CCN1 (CYR61) protein promotes skin growth by enhancing epithelial-mesenchymal transition during skin expansion
+JO  - Journal of Cellular and Molecular Medicine
+JA  - J Cell Mol Med
+VL  - 24
+IS  - 2
+SN  - 9781118730683
+UR  - https://doi.org/10.1111/jcmm.14828
+DO  - doi:10.1111/jcmm.14828
+SP  - 1460
+EP  - 1473
+KW  - CCN1
+KW  - CYR61
+KW  - epithelial-mesenchymal transition
+KW  - skin expansion
+KW  - skin growth
+PY  - 2020
+AB  - Abstract The skin expansion technique is widely used to induce skin growth for large-scale skin deformity reconstruction. However, the capacity for skin expansion is limited and searching for ways to improve the expansion efficiency is a challenge. In this study, we aimed to explore the possible mechanism of skin expansion and to find a potential therapeutic target on promoting skin growth. We conducted weighted gene coexpression network analysis (WGCNA) of microarray data generated from rat skin expansion and found CCN1 (CYR61) to be the central hub gene related to epithelial-mesenchymal transition (EMT). CCN1 up-regulation was confirmed in human and rat expanded skin and also in mechanically stretched rat keratinocytes, together with acquired mesenchymal phenotype. After CCN1 stimulation on keratinocytes, cell proliferation was promoted and partial EMT was induced by activating ?-catenin pathway. Treatment of CCN1 protein could significantly increase the flap thickness, improve the blood supply and restore the structure in a rat model of skin expansion, whereas inhibition of CCN1 through shRNA interference could dramatically reduce the efficiency of skin expansion. Our findings demonstrate that CCN1 plays a crucial role in skin expansion and that CCN1 may serve as a potential therapeutic target to promote skin growth and improve the efficiency of skin expansion.
+ER  - 
+
+TY  - JOUR
+TI  - SARS abstracts
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 104
+IS  - S3
+SN  - 9781118730683
+UR  - https://doi.org/10.1002/bjs.10531
+DO  - doi:10.1002/bjs.10531
+SP  - 7
+EP  - 57
+PY  - 2017
+ER  - 

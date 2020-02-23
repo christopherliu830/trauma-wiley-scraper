@@ -1,0 +1,490 @@
+
+TY  - JOUR
+AU  - Udwin, Orlee
+TI  - Annotation: Children's Reactions to Traumatic Events
+JO  - Journal of Child Psychology and Psychiatry
+VL  - 34
+IS  - 2
+SN  - 0021-9630
+UR  - https://doi.org/10.1111/j.1469-7610.1993.tb00974.x
+DO  - doi:10.1111/j.1469-7610.1993.tb00974.x
+SP  - 115
+EP  - 127
+KW  - Childhood trauma
+KW  - post-traumatic stress disorder
+KW  - disasters
+KW  - child survivors
+PY  - 1993
+ER  - 
+
+TY  - JOUR
+AU  - Wilson, Paul N.
+AU  - Foreman, Nigel
+AU  - Stanton, Danaë
+AU  - Duffy, Hester
+TI  - Memory for targets in a multi-level simulated-environment: A comparison between able-bodied and physically disabled children
+JO  - British Journal of Psychology
+VL  - 95
+IS  - 3
+SN  - 0007-1269
+UR  - https://doi.org/10.1348/0007126041528112
+DO  - doi:10.1348/0007126041528112
+SP  - 325
+EP  - 338
+PY  - 2004
+AB  - Two groups of children, one able-bodied and the other with physical disabilities, explored a symmetrical three-tiered virtual building that contained six distinctive target objects, two on each storey. In a subsequent test, the target objects were removed and participants were asked to make judgments of the directions to the former target locations from each floor in turn. At each test site, judgments were required for targets that were formerly on the same floor and for those on higher and lower floors. Relative tilt error scores suggested a bias for both groups, in that targets that were higher than the test location were judged as consistently lower than their actual position, whereas targets that were lower than the test location were judged as higher than their actual position. Absolute tilt errors revealed an asymmetry in both groups, with more accurate tilt errors for judgments directed to lower than higher floors. The relevance of these results for the source of the asymmetry is discussed.
+ER  - 
+
+AU  - Radell, Milen L.
+AU  - Myers, Catherine E.
+AU  - Sheynin, Jony
+AU  - Moustafa, Ahmed A.
+C7  - pp. 43-55
+TI  - Computational Models of Post-traumatic Stress Disorder (PTSD)
+SN  - 9781119159063
+UR  - https://doi.org/10.1002/9781119159193.ch4
+DO  - doi:10.1002/9781119159193.ch4
+SP  - 43-55
+KW  - PTSD
+KW  - anxiety
+KW  - computational model
+KW  - neural network
+KW  - avoidance
+KW  - fear
+KW  - learning
+KW  - arousal
+KW  - intrusive recollection
+KW  - appraisal
+PY  - 2004
+AB  - Summary Post-traumatic stress disorder (PTSD) is a multi-faceted, often chronic syndrome that may develop following an exposure to a highly-traumatic event. Given the complexity, heterogeneity, and incomplete theoretical description of this disorder, computational models of PTSD are an important tool to help understand the mechanisms, and course, of symptom presentation and maintenance in PTSD. This chapter reviews several computational modeling approaches and their implications for PTSD, including models focused on fear learning and expression, changes in arousal and reactivity, avoidance, changes in cognition and mood and intrusive recollection. It also discusses the limitations of each approach, and suggests possible directions for future research that could both advance our understanding of PTSD and help move toward a comprehensive computational account of this disorder.
+ER  - 
+
+TY  - JOUR
+AU  - LOW, V.
+AU  - KHANGURE, M.S.
+TI  - M.R.I. Spectrum of Intrinsic Spinal Cord Lesions
+JO  - Australasian Radiology
+VL  - 35
+IS  - 3
+SN  - 9781119159063
+UR  - https://doi.org/10.1111/j.1440-1673.1991.tb03011.x
+DO  - doi:10.1111/j.1440-1673.1991.tb03011.x
+SP  - 212
+EP  - 219
+KW  - Magnetic Resonance Imaging Spinal cord
+KW  - neoplasms Multiple Sclerosis
+PY  - 1991
+AB  - ABSTRACT We report our experience of 42 patients undergoing magnetic resonance imaging (MRI) studies demonstrating intrinsic lesions of the spinal cord, excluding those secondary to spondylosis, trauma or congenital malformations. Histological confirmation of the radiological diagnosis was obtained in 15 (36%). MRI is more sensitive than either myelography or CT. MRI identified a previously non-visualised lesion in 17 of 30 cases. In a further 13 cases, MRI contributed by identifying associated features such as cysts and haemorrhage which have aided in the diagnosis and management of the patients. The last 12 cases, which were patients with multiple sclerosis, had MRI as the only neuroradiological examination. These illustrate a range of appearances. The overlap of imaging appearances of the various pathologies implies that a useful diagnosis and differential can only be offered by considering the MRI appearances of a lesion, with its associated features, with the clinical presentation, and with other imaging modalities where appropriate.
+ER  - 
+
+TY  - JOUR
+AU  - Allen, John R.
+AU  - Ross, Stephen T.
+AU  - Davidson, Michael W.
+TI  - Structured Illumination Microscopy for Superresolution
+JO  - ChemPhysChem
+JA  - ChemPhysChem
+VL  - 15
+IS  - 4
+SN  - 9781119159063
+UR  - https://doi.org/10.1002/cphc.201301086
+DO  - doi:10.1002/cphc.201301086
+SP  - 566
+EP  - 576
+KW  - fluorescence
+KW  - imaging
+KW  - nanoscopy
+KW  - structured illumination microscopy
+KW  - superresolution
+PY  - 2014
+AB  - Abstract The ability to image beyond the diffraction limit is the central tenet of the burgeoning field of superresolution fluorescence microscopy, also referred to as optical nanoscopy. The advent of superresolution has revolutionized biological fluorescence microscopy and the field at large. However, much of that excitement has been tempered by prohibitive imaging requirements. Achieving superresolution entails certain sacrifices, namely imaging speed, choice of fluorophore, ease of multicolor and three-dimensional imaging, and generally more complex instrumentation as compared to standard widefield imaging techniques. Several techniques utilizing structured illumination occupy an intriguing middle ground between the ease of use associated with traditional fluorescence microscopies and the unprecedented resolving power of modern superresolution methods, resulting in undeniably robust imaging techniques. Presented here is a review of the conceptual basis of structured illumination and its implementation, including its performance in comparison to other nanoscopies and the most recent developments in the field.
+ER  - 
+
+TY  - JOUR
+AU  - Reiss, Allan L.
+AU  - Eliez, Stephan
+AU  - Schmitt, J. Eric
+AU  - Patwardhan, Anil
+AU  - Haberecht, Michael
+TI  - Brain imaging in neurogenetic conditions: Realizing the potential of behavioral neurogenetics research
+JO  - Mental Retardation and Developmental Disabilities Research Reviews
+JA  - Ment. Retard. Dev. Disabil. Res. Rev.
+VL  - 6
+IS  - 3
+SN  - 9781119159063
+UR  - https://doi.org/10.1002/1098-2779(2000)6:3<186::AID-MRDD6>3.0.CO;2-9
+DO  - doi:10.1002/1098-2779(2000)6:3<186::AID-MRDD6>3.0.CO;2-9
+SP  - 186
+EP  - 197
+KW  - fragile X syndrome
+KW  - velo-cardio-facial syndrome
+KW  - Turner syndrome
+KW  - Klinefelter syndrome
+KW  - neuroimaging
+KW  - neurodevelopmental disorders
+PY  - 2000
+AB  - Abstract Behavioral neurogenetics research is a new method of scientific inquiry that focuses on investigation of neurodevelopmental dysfunction associated with specific genetic conditions. This research method provides a powerful tool for scientific inquiry into human gene?brain?behavior linkages that complements more traditional research approaches. In particular, the use of specific genetic conditions as models of common behavioral and cognitive disorders occurring in the general population can reveal insights into neurodevelopmental pathways that might otherwise be obscured or diluted when investigating more heterogeneous, behaviorally defined subject groups. In this paper, we review five genetic conditions that commonly give rise to identifiable neurodevelopmental and neuropsychiatric disability in children: fragile X syndrome, velo-cardio-facial syndrome, Williams syndrome, Turner syndrome, and Klinefelter syndrome. While emphasis is placed on describing the brain morphology associated with these conditions as revealed by neuroimaging studies, we also include information pertaining to molecular genetic, postmortem, and neurobehavioral investigations to illustrate how behavioral neurogenetics research can contribute to an improved understanding of brain disorders in childhood. MRDD Research Reviews 6:186?197, 2000. ? 2000 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - White, Tonya
+AU  - Jansen, Philip R.
+AU  - Muetzel, Ryan L.
+AU  - Sudre, Gustavo
+AU  - El Marroun, Hanan
+AU  - Tiemeier, Henning
+AU  - Qiu, Anqi
+AU  - Shaw, Philip
+AU  - Michael, Andrew M.
+AU  - Verhulst, Frank C.
+TI  - Automated quality assessment of structural magnetic resonance images in children: Comparison with visual inspection and surface-based reconstruction
+JO  - Human Brain Mapping
+JA  - Hum. Brain Mapp.
+VL  - 39
+IS  - 3
+SN  - 9781119159063
+UR  - https://doi.org/10.1002/hbm.23911
+DO  - doi:10.1002/hbm.23911
+SP  - 1218
+EP  - 1231
+KW  - artifacts
+KW  - FreeSurfer
+KW  - head movement
+KW  - pediatric neuroimaging
+KW  - pediatric population neuroscience
+KW  - population neuroscience
+KW  - quality assurance
+PY  - 2018
+AB  - Abstract Motion-related artifacts are one of the major challenges associated with pediatric neuroimaging. Recent studies have shown a relationship between visual quality ratings of T1 images and cortical reconstruction measures. Automated algorithms offer more precision in quantifying movement-related artifacts compared to visual inspection. Thus, the goal of this study was to test three different automated quality assessment algorithms for structural MRI scans. The three algorithms included a Fourier-, integral-, and a gradient-based approach which were run on raw T1-weighted imaging data collected from four different scanners. The four cohorts included a total of 6,662 MRI scans from two waves of the Generation R Study, the NIH NHGRI Study, and the GUSTO Study. Using receiver operating characteristics with visually inspected quality ratings of the T1 images, the area under the curve (AUC) for the gradient algorithm, which performed better than either the integral or Fourier approaches, was 0.95, 0.88, and 0.82 for the Generation R, NHGRI, and GUSTO studies, respectively. For scans of poor initial quality, repeating the scan often resulted in a better quality second image. Finally, we found that even minor differences in automated quality measurements were associated with FreeSurfer derived measures of cortical thickness and surface area, even in scans that were rated as good quality. Our findings suggest that the inclusion of automated quality assessment measures can augment visual inspection and may find use as a covariate in analyses or to identify thresholds to exclude poor quality data.
+ER  - 
+
+TY  - JOUR
+AU  - Brennan, Rebekah
+AU  - Wells, John S.G.
+AU  - Van Hout, Marie Claire
+TI  - The injecting use of image and performance-enhancing drugs (IPED) in the general population: a systematic review
+JO  - Health & Social Care in the Community
+JA  - Health Soc Care Community
+VL  - 25
+IS  - 5
+SN  - 9781119159063
+UR  - https://doi.org/10.1111/hsc.12326
+DO  - doi:10.1111/hsc.12326
+SP  - 1459
+EP  - 1531
+KW  - anabolic steroids
+KW  - body image
+KW  - community based health
+KW  - image and performance enhancing
+KW  - injecting drug use
+KW  - internet
+KW  - IPED
+KW  - needle and syringe programs
+PY  - 2017
+AB  - Abstract Injecting use of image and performance-enhancing drugs (IPED) in the general population is a public health concern. A wide and varied range of IPED are now easily accessible to all through the online market. A comprehensive literature review was undertaken according to Critical Appraisal Skills Programme (CASP) guidelines for systematic review, to identify the relevant literature. No date restrictions were placed on the database search in the case of human growth hormone melanotan I and II, and oil and cosmetic injectables. In the case of anabolic androgenic steroids search dates were restricted to January 2014?2015. Publications not in English and with a lack of specificity to the topic were excluded. The review yielded 133 relevant quantitative and qualitative papers, clinical trials, clinical case presentations and editorials/reports. Findings were examined/reviewed under emergent themes which identified/measured extent of use, user profiling, sourcing, product endorsement, risk behaviours and health outcomes in users. Motivation for IPED use may be grounded in appearance, pursuit of health and youth, and body image disturbance. IPED users can practice moderated use, with pathological use linked to high-risk behaviours, which may be normalised within IPED communities. Many IPED trajectories and pathways of use are not scientifically documented. Much of this information may be available online in IPED specific discussion forums, an underutilised setting for research, where uncensored discourse takes place among users. This review underscores the need for future internet and clinical research to investigate prevalence and patterns of injecting use, and to map health outcomes in IPED users. This paper provides community-based clinical practice and health promotion services with a detailed examination and analysis of the injecting use of IPED, highlighting the patterns of this public health issue. It serves to disseminate updated publication information to health and social policy makers and those in health service practice who are involved in harm reduction intervention.
+ER  - 
+
+TY  - JOUR
+AU  - Kučera, J.
+AU  - Rasmussen, K. L.
+AU  - Kameník, J.
+AU  - Kubešová, M.
+AU  - Skytte, L.
+AU  - Povýšil, C.
+AU  - Karpenko, V.
+AU  - Havránek, V.
+AU  - Velemínský, P.
+AU  - Lynnerup, N.
+AU  - Brůžek, J.
+AU  - Smolík, J.
+AU  - Vellev, J.
+C8  - ARCH-11-0150-2015.R1
+TI  - Was He Murdered or Was He Not?—Part II: Multi-Elemental Analyses of Hair and Bone Samples from Tycho Brahe and Histopathology of His Bones
+JO  - Archaeometry
+JA  - Archaeometry
+VL  - 59
+IS  - 5
+SN  - 9781119159063
+UR  - https://doi.org/10.1111/arcm.12284
+DO  - doi:10.1111/arcm.12284
+SP  - 918
+EP  - 933
+KW  - Tycho Brahe
+KW  - hair
+KW  - bones
+KW  - trace elemental analysis
+KW  - time trends
+KW  - bone histopathology
+PY  - 2017
+AB  - Hair and bone samples procured from the remains of Tycho Brahe were analysed by several analytical techniques. In segmented hair samples, concentrations of Fe, As, Ag and Au at the tips exceeded values for the contemporary population; however, they decreased towards the hair bulbs, similarly to Hg, indicating that recent exposure that was discontinued ~2?months prior to Brahe's death. Several other elements did not follow this pattern. Analyses of bones revealed signs of long-term exposure to Au, while many other elements were within expected ranges. Histopathological examination of bone sections yielded no signs of severe bone metabolic disorders.
+ER  - 
+
+TY  - JOUR
+AU  - Quan, X.
+AU  - Yi, J.
+AU  - Ye, T. H.
+AU  - Tian, S. Y.
+AU  - Zou, L.
+AU  - Yu, X. R.
+AU  - Huang, Y. G.
+TI  - Propofol and memory: a study using a process dissociation procedure and functional magnetic resonance imaging
+JO  - Anaesthesia
+JA  - Anaesthesia
+VL  - 68
+IS  - 4
+SN  - 9781119159063
+UR  - https://doi.org/10.1111/anae.12147
+DO  - doi:10.1111/anae.12147
+SP  - 391
+EP  - 399
+PY  - 2013
+AB  - Summary Thirty volunteers randomly received either mild or deep propofol sedation, to assess its effect on explicit and implicit memory. Blood oxygen level-dependent functional magnetic resonance during sedation examined brain activation by auditory word stimulus and a process dissociation procedure was performed 4 h after scanning. Explicit memory formation did not occur in either group. Implicit memories were formed during mild but not deep sedation (p = 0.04). Mild propofol sedation inhibited superior temporal gyrus activation (Z value 4.37, voxel 167). Deep propofol sedation inhibited superior temporal gyrus (Z value 4.25, voxel 351), middle temporal gyrus (Z value 4.39, voxel 351) and inferior parietal lobule (Z value 5.06, voxel 239) activation. Propofol only abolishes implicit memory during deep sedation. The superior temporal gyrus is associated with explicit memory processing, while the formation of both implicit and explicit memories is associated with superior and middle temporal gyri and inferior parietal lobule activation.
+ER  - 
+
+AU  - Palma, Douglas A.
+AU  - Berent, Allyson
+C7  - pp. 130-144
+TI  - Esophageal Obstruction
+SN  - 9781118378281
+UR  - https://doi.org/10.1002/9781118910924.ch13
+DO  - doi:10.1002/9781118910924.ch13
+SP  - 130-144
+KW  - balloon dilation
+KW  - bougienage
+KW  - cats
+KW  - dogs
+KW  - esophageal obstructions
+KW  - esophageal stenting
+KW  - esophageal strictures
+KW  - gastroesophageal reflux (GERD)
+PY  - 2013
+AB  - Summary This chapter discusses the background, indications, potential risks, complications, and expected outcomes of strictures, and procedures for balloon dilation, bougienage and injections and esophageal stenting to treat esophageal obstruction in cats and dogs. Esophageal obstructions can be a result of extraluminal or intraluminal occlusion. Strictures occur secondary to local esophageal injury often associated with gastroesophageal reflux (GERD) or direct damage (esophageal trauma, caustic irritation, post surgical inflammation). Treatment for benign esophageal strictures includes medical management, bougienage, balloon dilation, resection and anastomosis, and salvage esophageal stenting. A subset of strictures is termed refractory benign esophageal strictures (RBES) and recurs despite multiple attempts at dilation. Both balloon dilation and bougienage have been used in animals for the management of benign esophageal strictures. Stents were found to immediately improve the dysphagia score, but were met with some complications, most commonly discomfort from the presence of the stent or chronic esophageal distension.
+ER  - 
+
+TY  - JOUR
+AU  - Honal, Matthias
+AU  - Lovell-Smith, Cris
+AU  - Vicari, Marco
+AU  - Weitzel, Elisabeth
+AU  - Izadpanah, Kaywan
+AU  - Weigel, Matthias
+C7  - 092301
+TI  - Accurate semiautomatic assessment of ligament length variations from MRI data
+JO  - Medical Physics
+JA  - Med. Phys.
+VL  - 40
+IS  - 9
+SN  - 9781118378281
+UR  - https://doi.org/10.1118/1.4818058
+DO  - doi:10.1118/1.4818058
+SP  - 092301
+KW  - Magnetic resonance imaging
+KW  - Registration
+KW  - Spatial dimensions (e.g., position, lengths, volume, angles, and displacements)
+KW  - biomedical MRI
+KW  - bone
+KW  - image registration
+KW  - image segmentation
+KW  - length measurement
+KW  - medical image processing
+KW  - ligament dynamics
+KW  - image registration
+KW  - magnetic resonance imaging
+KW  - distance measurement
+KW  - Involving electronic [emr] or nuclear [nmr] magnetic resonance, e.g. magnetic resonance imaging
+KW  - Measuring length, thickness or similar linear dimensions; Measuring angles; Measuring areas; Measuring irregularities of surfaces or contours
+KW  - Digital computing or data processing equipment or methods, specially adapted for specific applications
+KW  - Image data processing or generation, in general
+KW  - Magnetic resonance imaging
+KW  - Medical imaging
+KW  - Image registration
+KW  - Computed tomography
+KW  - Kinematics
+KW  - Spatial resolution
+KW  - Data sets
+KW  - Data analysis
+KW  - Image scanners
+KW  - Computer software
+PY  - 2013
+AB  - Purpose: A semiautomatic method for the assessment of ligament length variations during different joint positions based on MRI data is proposed. Methods: Ligament lengths are represented as distances between points marking characteristic locations in the ligament insertion regions on the bones. These points are defined manually for one single reference joint position and for all other joint positions they are automatically mapped with high accuracy to the correct locations using image registration methods. The methodology is validated using data from 16 volunteers depicting the coracoclavicular ligaments in the left shoulder during different arm abductions. Results: The method yielded a superior reproducibility of the point locations over different joint positions compared to manual point marking. Significant ligament length variations were found for different abductions which was not possible with manual measurements. Acquisition related geometric distortions and inaccuracies during the registration and segmentation process were small. Conclusions: The proposed method provides superior accuracy for thein vivo analysis of ligament dynamics compared to manual measurements. This permits a better understanding of the ligament behavior during joint motion and offers new possibilities for presurgical planning which to date has not been possible with manual data analysis.
+ER  - 
+
+TY  - JOUR
+AU  - Lai, Shuhua
+AU  - Shi, Liangpan
+AU  - Jiang, Zhixian
+AU  - Lin, Zhihang
+TI  - Glycyrrhizin treatment ameliorates post-traumatic stress disorder-like behaviours and restores circadian oscillation of intracranial serotonin
+JO  - Clinical and Experimental Pharmacology and Physiology
+JA  - Clin Exp Pharmacol Physiol
+VL  - 47
+IS  - 1
+SN  - 9781118378281
+UR  - https://doi.org/10.1111/1440-1681.13173
+DO  - doi:10.1111/1440-1681.13173
+SP  - 95
+EP  - 101
+KW  - amygdala
+KW  - circadian oscillation
+KW  - neurotransmitters
+KW  - post-traumatic stress disorder
+KW  - serotonin/5-hydroxytryptamine
+KW  - tryptophan hydroxylase 2
+PY  - 2020
+AB  - Abstract Post-traumatic stress disorder (PTSD) has become a major disease that threatens human health. Neurotransmitters and the amygdala are found to be critical in the development and maintenance of PTSD. We aim to investigate the role of glycyrrhizin in treating PTSD. Contextual fear extinction and elevated plus maze test were applied to evaluate the anxiety and fear memory. Microdialysis and high-performance liquid chromatography were used to analyze the expression of amygdala neurotransmitters in PTSD animal models and to verify the effects of glycyrrhizin on major neurotransmitters. The protein levels of tryptophan hydroxylase 2 (TPH2) were examined by western bolt. Glycyrrhizin treatment significantly reduced anxiety and fear memory after 1 and 7 days of PTSD modelling. In addition, glycyrrhizin treatment restored the circadian rhythm changes of serotonin and TPH2. The present study found a significant circadian rhythm change of serotonin in the amygdala in PTSD rats. Besides, glycyrrhizin treatment restored the altered serotonin diurnal fluctuations, which raises important implications for PTSD treatment.
+ER  - 
+
+TY  - JOUR
+AU  - Barrs, V. R.
+AU  - Nicoll, R. G.
+AU  - Churcher, R. K.
+AU  - Beck, J. A.
+AU  - Beatty, J. A.
+TI  - Intracranial empyema: literature review and two novel cases in cats
+JO  - Journal of Small Animal Practice
+VL  - 48
+IS  - 8
+SN  - 9781118378281
+UR  - https://doi.org/10.1111/j.1748-5827.2006.00307.x
+DO  - doi:10.1111/j.1748-5827.2006.00307.x
+SP  - 449
+EP  - 454
+PY  - 2007
+AB  - Objectives: To review the literature on intracranial empyema and report two new cases in cats. Methods: Literature review and case reports. Results: Intracranial empyema has been rarely reported in small animals. In two novel cases in cats, the route of infection was postulated to be local extension from a retrobulbar abscess of odontogenic origin in one case and direct inoculation from a penetrating bite wound to the skull, confirmed at post-mortem examination, in the other. On magnetic resonance imaging of the first case, there was a contrast-enhancing large extra-axial fluid collection overlying the right cerebral hemisphere, consistent with subdural empyema. Infection was caused by an Actinomyces spp. This is the first report of successful treatment of intracranial empyema by craniotomy, drainage and antibiotics. Clinical Significance: Intracranial empyema is a neurosurgical emergency. Favourable outcomes may be achieved with surgical decompression, antimicrobial therapy and intensive care.
+ER  - 
+
+TY  - JOUR
+AU  - Davey, Kate MacKenzie
+AU  - Arnold, John
+TI  - A multi-method study of accounts of personal change by graduates starting work: Self-ratings, categories and women's discourses
+JO  - Journal of Occupational and Organizational Psychology
+VL  - 73
+IS  - 4
+SN  - 9781118378281
+UR  - https://doi.org/10.1348/096317900167164
+DO  - doi:10.1348/096317900167164
+SP  - 461
+EP  - 486
+PY  - 2000
+AB  - The extent and kind of personal change experienced by newcomers during organizational socialization has not been thoroughly addressed. Studies have concentrated on increases in knowledge and adjustment and neglected the influence of starting work on sense of self. Multiple methods are used to explore graduates? accounts of change in early career. Questionnaires were sent to graduates in eight different organizations on two occasions one year apart (Time 1 N = 906; Time 2 N = 936). Graduates rated the amount of change they experienced highest in competence (median: Quite a lot), followed by career (median: A little), personality (median: A moderate amount/A little), values (median: Not at all/A little) and lowest in attitudes (median: Not at all). Content analysis of open-ended comments showed that changes were generally positive or neutral rather than negative. Discourses of personal change were explored in interviews with nine graduates who were selected as most likely to have experienced change. The criteria were that they were women in sex atypical occupations with high self-ratings of personal change. Accounts demonstrated the complexity and contradictions in defining and discussing change and the dilemma in both describing change and maintaining continuity. Narratives presented change as a response to adversity involving emotional control, increased self-knowledge and increased confidence. A further theme was the personal dilemma inherent in maintaining balance between the contested identities of self at work and outside. This research contributes to our understanding of newcomers? experiences of organizational socialization by emphasizing the importance of multiple methods to understand the ambiguity and ambivalence in complex developmental processes. It highlights the elusive nature of change and the complex negotiations in establishing the sense of self in different contexts.
+ER  - 
+
+TY  - JOUR
+AU  - Chen, Ye
+AU  - Mills, James D.
+AU  - Periasamy, Ammasi
+TI  - Protein localization in living cells and tissues using FRET and FLIM
+JO  - Differentiation
+VL  - 71
+IS  - 9‐10
+SN  - 9781118378281
+UR  - https://doi.org/10.1111/j.1432-0436.2003.07109007.x
+DO  - doi:10.1111/j.1432-0436.2003.07109007.x
+SP  - 528
+EP  - 541
+KW  - fluorescence resonance energy transfer (FRET)
+KW  - confocal FRET (C-FRET)
+KW  - two-photon FRET (2p-FRET)
+KW  - fluorescence lifetime imaging microscopy (FLIM)
+KW  - FLIM-FRET
+KW  - CCAAT enhancer binding protein α (C/EBPα)
+KW  - dimerization
+KW  - traumatic brain injury
+KW  - tissue FRET
+KW  - acceptor-photobleaching FLIM-FRET
+PY  - 2003
+AB  - Abstract Interacting proteins assemble into molecular machines that control cellular homeostasis in living cells. While the in vitro screening methods have the advantage of providing direct access to the genetic information encoding unknown protein partners, they do not allow direct access to interactions of these protein partners in their natural environment inside the living cell. Using wide-field, confocal, or two-photon (2p) fluorescence resonance energy transfer (FRET) microscopy, this information can be obtained from living cells and tissues with nanometer resolution. One of the important conditions for FRET to occur is the overlap of the emission spectrum of the donor with the absorption spectrum of the acceptor. As a result of spectral overlap, the FRET signal is always contaminated by donor emission into the acceptor channel and by the excitation of acceptor molecules by the donor excitation wavelength. Mathematical algorithms are required to correct the spectral bleed-through signal in wide-field, confocal, and two-photon FRET microscopy. In contrast, spectral bleed-through is not an issue in FRET/FLIM imaging because only the donor fluorophore lifetime is measured; also, fluorescence lifetime imaging microscopy (FLIM) measurements are independent of excitation intensity or fluorophore concentration. The combination of FRET and FLIM provides high spatial (nanometer) and temporal (nanosecond) resolution when compared to intensity-based FRET imaging. In this paper, we describe various FRET microscopy techniques and its application to protein-protein interactions.
+ER  - 
+
+TY  - JOUR
+AU  - Heer, C.
+AU  - Fürst, A. E.
+AU  - Del Chicca, F.
+AU  - Jackson, M. A.
+TI  - Comparison of 3D-assisted surgery and conservative methods for treatment of type III fractures of the distal phalanx in horses
+JO  - Equine Veterinary Education
+JA  - Equine Vet Educ
+VL  - n/a
+IS  - n/a
+SN  - 9781118378281
+UR  - https://doi.org/10.1111/eve.13232
+DO  - doi:10.1111/eve.13232
+KW  - horse
+KW  - distal phalanx fractures
+KW  - conservative treatment
+KW  - surgical fixation
+KW  - osteoarthritis
+KW  - 3D imaging
+KW  - 3D-assisted surgery
+AB  - Summary The aim of this retrospective study was to compare the outcome of conservative methods and 3D-assisted surgery for treatment of type III fractures of the distal phalanx with regard to recovery time and the development of osteoarthritis (OA) in the distal interphalangeal joint (DIPJ). The medical records of all horses with type III fracture of the distal phalanx referred to the Equine Department, Vetsuisse Faculty, University of Zurich, between 1992 and 2016 were reviewed. The severity of lameness at initial examination, radiographic evaluation, treatment (conservative, group A; 3D-assisted surgery, group B), complications, outcome and recovery time were determined. Follow-up examinations included clinical and radiographic examinations. Of 33 horses, 15 received conservative treatment and 18 underwent surgery. Eleven of the 15 (73.3%) horses in group A returned to their intended use and four were subjected to euthanasia or remained chronically lame. The median recovery time was 240 days (95% CI, 180?374). Thirteen of 15 (86.7%) horses developed OA of the DIPJ within 5 months of the fracture. In group B, 16 of 17 (94.1%) horses returned to their intended use, one horse remained chronically lame, and one horse was subjected to euthanasia because of unrelated reasons. The median recovery time was 139 days (95% CI, 120?270), and seven horses (38.9%) developed OA of the DIPJ within 5 months of the fracture. Overall, the screws had to be removed in five fluoroscopic-assisted surgery cases (three because of implant infection and two because of severe lameness), in one computer-assisted surgery case due to severe lameness and in one computed tomography-assisted surgery case because of implant infection. In conclusion, there was no significant difference in time for recovery of type III fractures of the distal phalanx between the two groups, but surgical treatment led to significantly fewer cases of OA in the DIPJ as determined by subjective radiographic evaluation (P = 0.015).
+ER  - 
+
+TY  - JOUR
+AU  - Semeniuk, Christina A.D.
+AU  - Haider, Wolfgang
+AU  - Beardmore, Ben
+AU  - Rothley, Kristina D.
+TI  - A multi-attribute trade-off approach for advancing the management of marine wildlife tourism: a quantitative assessment of heterogeneous visitor preferences
+JO  - Aquatic Conservation: Marine and Freshwater Ecosystems
+JA  - Aquatic Conserv: Mar. Freshw. Ecosyst.
+VL  - 19
+IS  - 2
+SN  - 9781118378281
+UR  - https://doi.org/10.1002/aqc.990
+DO  - doi:10.1002/aqc.990
+SP  - 194
+EP  - 208
+KW  - marine wildlife tourism
+KW  - marine-tourism management
+KW  - stated preference choice model
+KW  - latent class analysis
+KW  - human dimensions of wildlife
+KW  - stingray
+PY  - 2009
+AB  - Abstract 1. Wildlife tourism can be prone to unmitigated development to promote visitor satisfaction that is all too often progressed at the cost of ecological integrity. A manager is thus faced with the dual task of enhancing the tourist experience and protecting the wildlife species. Accordingly, this mandate requires research into how tourists would respond to proposed wildlife-management plans. 2. This study examines the heterogeneity of tourist preferences for wildlife management at a stingray-feeding attraction in the Cayman Islands, using a latent class stated preference choice model. A sample of visitors to Stingray City Sandbar (SCS) evaluated hypothetical wildlife viewing experiences in a discrete choice experiment. Its scenarios were characterized by seven attributes such as animal-feeding and handling rules, ecological outcomes, social crowding, and management cost (defined as a conservation access fee). 3. The latent class segmentation identified two groups in the population: approximately 68% preferred the implementation of fairly strict management rules, while the other 32% valued more the maintenance of status quo with its intensive human ? wildlife interactions. Despite the differences between the ?pro-management? and the ?pro-current? segments, both exhibited a preference for the continuation of feeding and handling the stingrays (albeit at different levels of intensity) suggesting that one effective way to implement any management actions is to alter the promotional and marketing strategies for SCS. Other survey questions on trip experience, conservation values, and socio-demographics were used to define these classes further, with the main distinguishing trait being the level of concern for potential impacts occurring at SCS. The discrepancies between the two segments became most obvious when calculating their respective market shares of support for alternative management strategies. 4. This approach to determining visitor preferences can help explain how the various segments will be affected by management options, and therefore can provide the basis for developing feasible strategies that will assist wildlife managers in maximizing tourist satisfaction while achieving wildlife-protection goals. Copyright ? 2008 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Barakzai, S. Z.
+AU  - Barnett, T. P.
+TI  - Computed tomography and scintigraphy for evaluation of dental disease in the horse
+JO  - Equine Veterinary Education
+JA  - Equine Veterinary Education
+VL  - 27
+IS  - 6
+SN  - 9781118378281
+UR  - https://doi.org/10.1111/eve.12288
+DO  - doi:10.1111/eve.12288
+SP  - 323
+EP  - 331
+KW  - horse
+KW  - dentistry
+KW  - cheek teeth
+KW  - apical infection
+KW  - computed tomography
+KW  - scintigraphy
+PY  - 2015
+AB  - Summary Computed tomography (CT) uses x-ray beams and reconstructive computer technology to create tomographic slices (sections) of the area being imaged. Computed tomography has higher contrast resolution than conventional radiography allowing for more accurate differentiation of soft tissues and fluids. This form of 3D imaging removes problems caused by superimposition of multiple anatomical structures, which is a major impediment when viewing radiographs of the equine head. Once the images are acquired, multi-planar and 3D reconstructions can be performed to view different teeth or associated structures in an optimal way. Anatomical and pathological changes in the dental tissues, periodontal tissues, alveolar bone and adjacent sinuses can then be assessed. Scintigraphy with 99m technetium methyl-diphosphate (methylene-diphosphonate) can detect changes in bone that precede radiographic changes, and this makes it a very useful imaging modality for diagnosis of early periapical infection of the equine cheek teeth. Additionally, it is invaluable for imaging suspected infections of supernumerary or dysplastic teeth where the results of radiography or even CT may be equivocal. Periapical infections of the cheek teeth typically result in focal and intense increased radionuclide uptake located over the apical region of the affected tooth.
+ER  - 
+
+TY  - JOUR
+AU  - Tamez, Alejandro
+TI  - The effectiveness of psychoanalysis in a case study using multi-perspective methodology: Conflict in choosing a partner due to transgenerational mandate
+JO  - The International Journal of Psychoanalysis
+JA  - Int J Psychoanal
+VL  - 98
+IS  - 4
+SN  - 9781118378281
+UR  - https://doi.org/10.1111/1745-8315.12643
+DO  - doi:10.1111/1745-8315.12643
+SP  - 1193
+EP  - 1224
+KW  - effectiveness
+KW  - psychoanalytic treatment
+KW  - psychoanalysis
+KW  - partner selection
+KW  - transgenerational mandate
+KW  - mentalization
+PY  - 2017
+AB  - Translations of summary A case study is presented to evaluate the effectiveness of psychoanalysis and the persistence of its benefits 20 years later in a young woman with severe depression, professional inhibition, and difficulties in partner selection due to transgenerational mandate (TGM). The investigation was carried out with psychoanalytic interviews with the patient and analyst, which were evaluated by both psychoanalytic and non-psychoanalytic judges following a methodology based on one tested in Germany by Leuzinger-Bohleber et al. (2003). The psychoanalytic treatment began in the early 1980s in Monterrey, Mexico. The study concludes that the psychoanalysis was effective in assisting with the patient's character disorder and partner selection, mainly because of the therapeutic alliance, the analysis of transference and character, and the patient's increased capacity for mentalization as a result of the interpretation of the TGMs.
+ER  - 

@@ -1,0 +1,449 @@
+
+TY  - JOUR
+AU  - Aron, David C.
+C8  - JECP-2016-0221
+TI  - Multimorbidity: an endocrinologist looks at multi-level network disruption and at what gets diabetes?
+JO  - Journal of Evaluation in Clinical Practice
+JA  - J Eval Clin Pract
+VL  - 23
+IS  - 1
+SN  - 1356-1294
+UR  - https://doi.org/10.1111/jep.12600
+DO  - doi:10.1111/jep.12600
+SP  - 225
+EP  - 229
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+AU  - SCHIRMER-MIKALSEN, K.
+AU  - MOEN, K. G.
+AU  - SKANDSEN, T.
+AU  - VIK, A.
+AU  - KLEPSTAD, P.
+TI  - Intensive care and traumatic brain injury after the introduction of a treatment protocol: a prospective study
+JO  - Acta Anaesthesiologica Scandinavica
+JA  - Acta Anaesthesiol Scand
+VL  - 57
+IS  - 1
+SN  - 0001-5172
+UR  - https://doi.org/10.1111/j.1399-6576.2012.02785.x
+DO  - doi:10.1111/j.1399-6576.2012.02785.x
+SP  - 46
+EP  - 55
+PY  - 2013
+AB  - Background Traumatic brain injury (TBI) treatment protocols have been introduced in the intensive care unit (ICU) to avoid secondary brain injury. In this study, we aimed to evaluate the deviations from such a treatment protocol and the frequency of extracranial complications, and relate these findings to outcome. Methods During a 5-year period (2004?2009), 133 patients with severe TBI [Glasgow Coma Scale (GCS) score?≤?8] were prospectively included. The following deviations from treatment goals were studied: intracranial pressure (ICP), blood pressure, haemoglobin, blood glucose, serum sodium, serum albumin, body temperature and extracranial complications during the ICU stay. Outcome was assessed using Glasgow Outcome Scale Extended score at 12 months. Results The frequencies of deviations from the treatment goals were: episodes of intracranial hypertension 69.5% (of monitored patients), hypotension 20.3%, anaemia 77.4%, hyperglycaemia 42.9%, hyponatremia 34.6%, hypoalbuminemia 30.8% and hyperthermia 54.9%. Pulmonary complications were common (pneumonia 72.2%, acute respiratory distress syndrome/acute lung injury 31.6%). Thrombocytopenia (4.5%), severe sepsis (3.0%), renal failure (0.8%) and liver failure (0.8%) were infrequent. Twenty-six (19.5%) patients died within the first 12 months due to the head injury. Age, GCS score, pupil dilation, Injury Severity Score (ISS), ICP?>?25?mmHg, hyperglycaemia and pneumonia predicted a worse outcome. Conclusions Deviations from the TBI treatment protocol were frequent. Pneumonia was the most frequent extracranial complication. Age, GCS score, pupil dilation, ISS, high ICP, hyperglycaemia and pneumonia predicted a worse outcome.
+ER  - 
+
+TY  - JOUR
+AU  - Ling, Q.
+AU  - Xie, H.
+AU  - Li, J.
+AU  - Liu, J.
+AU  - Cao, J.
+AU  - Yang, F.
+AU  - Wang, C.
+AU  - Hu, Q.
+AU  - Xu, X.
+AU  - Zheng, S.
+TI  - Donor Graft MicroRNAs: A Newly Identified Player in the Development of New-onset Diabetes After Liver Transplantation
+JO  - American Journal of Transplantation
+JA  - Am J Transplant
+VL  - 17
+IS  - 1
+SN  - 1600-6135
+UR  - https://doi.org/10.1111/ajt.13984
+DO  - doi:10.1111/ajt.13984
+SP  - 255
+EP  - 264
+KW  - translational research/science
+KW  - liver transplantation/hepatology
+KW  - diabetes: new onset/posttransplant
+KW  - donors and donation: donor evaluation
+KW  - immunosuppressant
+KW  - calcineurin inhibitor: tacrolimus
+KW  - microarray/gene array
+KW  - liver allograft function/dysfunction
+PY  - 2017
+AB  - New-onset diabetes after liver transplantation (NODALT) is a frequent complication with an unfavorable outcome. We previously demonstrated a crucial link between donor graft genetics and the risk of NODALT. We selected 15 matched pairs of NODALT and non-NODALT liver recipients using propensity score matching analysis. The donor liver tissues were tested for the expression of 10 microRNAs (miRNAs) regulating human hepatic glucose homeostasis. The biological functions of potential target genes were predicted using gene ontology and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analysis. Both miR-103 and miR-181a were significantly highly expressed in the NODALT group as compared to the non-NODALT group. The predicted target genes (e.g. Irs2, Pik3r1, Akt2, and Gsk3b) were involved in glucose import and the insulin signaling pathway. We also observed dysregulation of miRNAs (e.g. let-7, miR-26b, miR-145, and miR-183) in cultured human hepatocytes treated with tacrolimus or high glucose, the two independent risk factors of NODALT identified in this cohort. The hepatic miRNA profiles altered by tacrolimus or hyperglycemia were associated with insulin resistance and glucose homeostatic imbalance as revealed by enrichment analysis. The disease susceptibility miRNA expressive pattern could be imported directly from the donor and consolidated by the transplant factors.
+ER  - 
+
+TY  - JOUR
+AU  - ÖST, M.
+AU  - NYLÉN, K.
+AU  - CSAJBOK, L.
+AU  - BLENNOW, K.
+AU  - ROSENGREN, L.
+AU  - NELLGÅRD, B.
+TI  - Apolipoprotein E polymorphism and gender difference in outcome after severe traumatic brain injury
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 52
+IS  - 10
+SN  - 0001-5172
+UR  - https://doi.org/10.1111/j.1399-6576.2008.01675.x
+DO  - doi:10.1111/j.1399-6576.2008.01675.x
+SP  - 1364
+EP  - 1369
+KW  - Apolipoprotein E
+KW  - brain injuries
+KW  - child
+KW  - female
+KW  - Glasgow outcome scale
+KW  - male
+KW  - survival rate
+PY  - 2008
+AB  - Background: Traumatic brain injury (TBI) is one of the most common causes of death and dismal outcome among children and young adults. The morbidity and mortality differ but more aggressive monitoring and more designated neuro intensive care units have improved the results. Studies have demonstrated a connection between apolipoprotein E (APOE) genotype and outcome after TBI, but few are prospective and none is from northern Europe. APOE has three alleles: ?2, ?3 and ?4. Methods: A total of 96 patients with Glasgow coma score (GCS) ≤8 were prospectively and consecutively included. APOE genotypes were all analyzed at the same laboratory from blood samples by polymerase chain reaction-restriction fragment length polymorphism. Results: All patients were assessed at 1 year with Glasgow outcome scale extended (GOSE), National Institute of Health Stroke Scale (NIHSS) and the Barthel daily living index. The genotype was available in all patients. Twenty-six patients expressed APOE ?4 while 70 patients did not. Outcome demonstrated that patients with APOE ?4 had worse outcome vs. those lacking this allele. When subdividing patients into gender, males with APOE ?4 did worse, a difference not detected among female patients. Conclusions: APOE ?4 correlated to worse outcome in TBI patients. We also found that males with APOE ?4 had poor outcome while females did not. Thus, the results indicate that genetic polymorphism may influence outcome after TBI.
+ER  - 
+
+TY  - JOUR
+AU  - Cheng, Gang
+AU  - Kong, Rong-hua
+AU  - Zhang, Lei-ming
+AU  - Zhang, Jian-ning
+TI  - Mitochondria in traumatic brain injury and mitochondrial-targeted multipotential therapeutic strategies
+JO  - British Journal of Pharmacology
+VL  - 167
+IS  - 4
+SN  - 0007-1188
+UR  - https://doi.org/10.1111/j.1476-5381.2012.02025.x
+DO  - doi:10.1111/j.1476-5381.2012.02025.x
+SP  - 699
+EP  - 719
+KW  - traumatic brain injury
+KW  - mitochondrion
+KW  - mitochondrial membrane permeabilization
+KW  - apoptosis
+KW  - necrosis
+KW  - energy
+PY  - 2012
+AB  - Traumatic brain injury (TBI) is a major health and socioeconomic problem throughout the world. It is a complicated pathological process that consists of primary insults and a secondary insult characterized by a set of biochemical cascades. The imbalance between a higher energy demand for repair of cell damage and decreased energy production led by mitochondrial dysfunction aggravates cell damage. At the cellular level, the main cause of the secondary deleterious cascades is cell damage that is centred in the mitochondria. Excitotoxicity, Ca2+ overload, reactive oxygen species (ROS), Bcl-2 family, caspases and apoptosis inducing factor (AIF) are the main participants in mitochondria-centred cell damage following TBI. Some preclinical and clinical results of mitochondria-targeted therapy show promise. Mitochondria- targeted multipotential therapeutic strategies offer new hope for the successful treatment of TBI and other acute brain injuries.
+ER  - 
+
+TY  - JOUR
+AU  - Ose, L.
+AU  - Johnson-Levonas, A.
+AU  - Reyes, R.
+AU  - Lin, J.
+AU  - Shah, A.
+AU  - Tribble, D.
+AU  - Musliner, T.
+AU  - for the Vytorin Extension Study Group
+TI  - A multi-centre, randomised, double-blind 14-week extension study examining the long-term safety and efficacy profile of the ezetimibe/simvastatin combination tablet*
+JO  - International Journal of Clinical Practice
+VL  - 61
+IS  - 9
+SN  - 1368-5031
+UR  - https://doi.org/10.1111/j.1742-1241.2007.01402.x
+DO  - doi:10.1111/j.1742-1241.2007.01402.x
+SP  - 1469
+EP  - 1480
+PY  - 2007
+AB  - Summary The objective of this study was to compare the efficacy and safety profile of ezetimibe/simvastatin (EZE/SIMVA) tablet and SIMVA monotherapy. This was an extension study of a randomised, double-blind, placebo-controlled study in patients with primary hypercholesterolaemia. Protocol-compliant patients who completed the 12-week base study were eligible to enter a randomised, double-blind, 14-week extension study and were administered 1 of 8 daily treatments: EZE/SIMVA 10/10-, 10/20-, 10/40- or 10/80-mg, or SIMVA 10-, 20-, 40- or 80-mg. Patients receiving these treatments during the base study remained on the same treatment in the extension. Patients administered placebo or EZE 10-mg monotherapy during the base study were re-randomised to EZE/SIMVA 10/10?mg or SIMVA 80?mg. The primary analysis was mean per cent change in low-density lipoprotein cholesterol (LDL-C) from baseline to extension study end-point. Mean changes from baseline in LDL-C of ?38.8% and ?53.7% were observed for pooled SIMVA and pooled EZE/SIMVA respectively. The between treatment difference of ?14.9% (95% confidence interval: ?16.4, ?13.3) was statistically significant (p?<?0.001). The incremental LDL-C lowering effect of EZE/SIMVA compared with the corresponding dose of SIMVA alone was consistent across the dose range (p?<?0.001 for each between-group comparison). More patients receiving EZE/SIMVA than SIMVA achieved LDL-C concentrations <?100?mg/dl and <?70?mg/dl (p?<?0.001 for both goals). EZE/SIMVA was generally well tolerated with a safety profile similar to SIMVA monotherapy. There were no significant between-group differences in the incidences of clinically significant elevations in liver transaminase or creatine kinase levels. In conclusion, EZE/SIMVA had a comparable safety and tolerability profile and was more efficacious than SIMVA monotherapy for up to 6?months.
+ER  - 
+
+TY  - JOUR
+AU  - Lee, Sang Yang
+AU  - Miwa, Masahiko
+AU  - Sakai, Yoshitada
+AU  - Kuroda, Ryosuke
+AU  - Matsumoto, Tomoyuki
+AU  - Iwakura, Takashi
+AU  - Fujioka, Hiroyuki
+AU  - Doita, Minoru
+AU  - Kurosaka, Masahiro
+TI  - In vitro multipotentiality and characterization of human unfractured traumatic hemarthrosis-derived progenitor cells: A potential cell source for tissue repair
+JO  - Journal of Cellular Physiology
+JA  - J. Cell. Physiol.
+VL  - 210
+IS  - 3
+SN  - 0021-9541
+UR  - https://doi.org/10.1002/jcp.20890
+DO  - doi:10.1002/jcp.20890
+SP  - 561
+EP  - 566
+PY  - 2007
+AB  - Abstract Mesenchymal progenitor cells (MPCs) are a very attractive tool in the context of repair and regeneration of musculoskeletal tissue damaged by trauma. The most common source of MPCs to date has been the bone marrow, but aspirating bone marrow from the patient is an invasive procedure. In an attempt to search for alternative sources of MPCs that could be obtained with minimal invasion, we looked into traumatic hemarthrosis of the knee. In this study, we determined whether a population of multipotent MPCs could be isolated from acute traumatic knee hemarthrosis in the absence of intra-articular fractures. Mononuclear cells were isolated from the aspirated hemarthrosis by density gradient separation, and cultured. We were able to obtain plastic adherent fibroblast-like cells from the mononuclear cell fractions. Flow cytometry analysis revealed that the adherent fibroblast-like cells were consistently positive for CD29, CD44, CD105, and CD166, and were negative for CD14, CD34, and CD45. These were similar to control bone marrow stromal cells. These cells could differentiate in vitro into osteogenic, adipogenic, and chondrogenic cells in the presence of lineage-specific induction factors. In conclusion, acute unfractured traumatic hemarthrosis of the knee contains MPCs with multipotentiality. Because knee hemarthrosis is easy to harvest with minimal pain and without unnecessary invasion, we regard hemarthrosis-derived cells as an additional progenitor cell source for future tissue engineering and cell-based therapy in knee injuries. J. Cell. Physiol. 210: 561?566, 2007. ? 2006 Wiley-Liss, Inc.
+ER  - 
+
+C7  - pp. 107-115
+TI  - Clinical considerations for adults
+SN  - 9781119144922
+UR  - https://doi.org/10.1002/9781119144953.ch15
+DO  - doi:10.1002/9781119144953.ch15
+SP  - 107-115
+KW  - adults
+KW  - cardiology
+KW  - interventional radiology
+KW  - level 3 transfers
+KW  - nephrology
+KW  - neurosurgery
+KW  - obstetric patient
+KW  - systematic ACCEPT approach
+KW  - trauma
+KW  - vascular surgery
+PY  - 2007
+AB  - Summary This chapter describes how the systematic ACCEPT approach enables movements of ill and injured patients between or within hospitals. Centralisation of specialist services means more transfers for clinical reasons. Many of these transfers will be time critical, some will be intensive, and some will be both. The chapter provides an overview of the patient groups that typically will need to be transferred to specialist centres, some of their characteristics and associated specific clinical management. Some of these broad categories of patients includes: neurosurgery (traumatic brain injury, cerebral bleeds), trauma, burns, vascular surgery (abdominal aortic aneurysm, thoracic aortic dissection, acute limb ischaemia), interventional radiology, cardiology (primary coronary intervention), nephrology (acute renal failure), obstetric, and level 3 transfers. However, early and effective communication between centres is essential to ensure that any specific treatments are administered before or during the transfer to optimise patient care.
+ER  - 
+
+TY  - JOUR
+AU  - Serena,             T.
+AU  - Li, V.W.
+AU  - on behalf of the Wound Healing Cooperative Group
+TI  - 145 Interval Analysis of a Randomized, Open Label, Multi-Center Study Comparing Apligraf Vs. Standard Multilayer Compression in the Reduction of Pain Associated WItH Venous Leg Ulcerations
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 9781119144922
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130216aw.x
+DO  - doi:10.1111/j.1067-1927.2005.130216aw.x
+SP  - A28
+EP  - A48
+PY  - 2005
+AB  - Background:? According to The American Pain Society, pain should be considered a fifth vital sign. Pain is a prominent feature of venous leg ulcerations (VLUs). Sixty-five percent of VLU patients complain of severe pain. In several multicenter clinical trials, Apligraf, a bioengineered living skin construct, has been shown to accelerate healing in venous leg ulcerations. Anecdotal clinical observations suggest that Apligraf treatment is associated with pain relief. A treatment modality which promotes healing and reduces pain would significantly improve the quality of life in patients with VLU. Methods:? VLU patients with pain scores greater than 5/10 on a numerical scale or requiring narcotic analgesia were randomized to receive either Apligraf and compression or compression alone. There was a 3-week ?wash-out? period to ensure that pain was not due to other factors such as inadequate compression or infection. Patients were enrolled only after a negative quantitative biopsy. The intensity of pain was self-scored and a quality-of-life questionnaire was completed at each visit. Weekly wound area measurements were obtained with digital planimetry. Results:? Thus far in the enrollment period we have already seen a trend toward a significant reduction in pain in the Apligraf group. This pain relief occurs shortly after application indicating that a mechanism distinct from clinical healing. The Apligraf group also demonstrated acceleration in wound healing as well as a decreased time-to-complete closure. Conclusion:? Interval analysis of this multicenter trial suggests that Apligraf accelerates wound healing and reduces the pain associated with venous leg ulcerations. Acknowledgment:? Unrestricted Educational grant, Organogenesis Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Prins, M. L.
+AU  - Lee, S. M.
+AU  - Fujima, L. S.
+AU  - Hovda, D. A.
+TI  - Increased cerebral uptake and oxidation of exogenous βHB improves ATP following traumatic brain injury in adult rats
+JO  - Journal of Neurochemistry
+VL  - 90
+IS  - 3
+SN  - 9781119144922
+UR  - https://doi.org/10.1111/j.1471-4159.2004.02542.x
+DO  - doi:10.1111/j.1471-4159.2004.02542.x
+SP  - 666
+EP  - 672
+KW  - alternative substrates
+KW  - β-hydroxybutyrate
+KW  - metabolism
+KW  - traumatic brain injury
+PY  - 2004
+AB  - Abstract There is growing evidence of the brain's ability to increase its reliance on alternative metabolic substrates under conditions of energy stress such as starvation, hypoxia and ischemia. We hypothesized that following traumatic brain injury (TBI), which results in immediate changes in energy metabolism, the adult brain increases uptake and oxidation of the alternative substrate ?-hydroxybutyrate (?HB). Arterio-venous differences were used to determine global cerebral uptake of ?HB and production of 14CO2 from [14C]3-?HB 3?h after controlled cortical impact (CCI) injury. Quantitative bioluminescence was used to assess regional changes in ATP concentration. As expected, adult sham and CCI animals with only endogenously available ?HB showed no significant increase in cerebral uptake of ?HB or 14CO2 production. Increasing arterial ?HB concentrations 2.9-fold with 3?h of ?HB infusion failed to increase cerebral uptake of ?HB or 14CO2 production in adult sham animals. Only CCI animals that received a 3-h ?HB infusion showed an 8.5-fold increase in cerebral uptake of ?HB and greater than 10.7-fold increase in 14CO2 production relative to sham ?HB-infused animals. The TBI-induced 20% decrease in ipsilateral cortical ATP concentration was alleviated by 3?h of ?HB infusion beginning immediately after CCI injury.
+ER  - 
+
+TY  - JOUR
+AU  - Vellanki, Priyathama
+AU  - Rasouli, Neda
+AU  - Baldwin, David
+AU  - Alexanian, Sara
+AU  - Anzola, Isabel
+AU  - Urrutia, Maria
+AU  - Cardona, Saumeth
+AU  - Peng, Limin
+AU  - Pasquel, Francisco J.
+AU  - Umpierrez, Guillermo E.
+AU  - Linagliptin Inpatient Research Group
+TI  - Glycaemic efficacy and safety of linagliptin compared to a basal-bolus insulin regimen in patients with type 2 diabetes undergoing non-cardiac surgery: A multicentre randomized clinical trial
+JO  - Diabetes, Obesity and Metabolism
+JA  - Diabetes Obes Metab
+VL  - 21
+IS  - 4
+SN  - 9781119144922
+UR  - https://doi.org/10.1111/dom.13587
+DO  - doi:10.1111/dom.13587
+SP  - 837
+EP  - 843
+KW  - DPP-IV inhibitor
+KW  - glycaemic control
+KW  - incretin therapy
+KW  - randomised trial
+PY  - 2019
+AB  - Aims The use of incretin-based therapy, rather than or complementary to, insulin therapy is an active area of research in hospitalized patients with type 2 diabetes (T2D). We determined the glycaemic efficacy and safety of linagliptin compared to a basal-bolus insulin regimen in hospitalized surgical patients with T2D. Materials and Methods This prospective open-label multicentre study randomized T2D patients undergoing non-cardiac surgery with admission blood glucose (BG) of 7.8 to 22.2 mmol/L who were under treatment with diet, oral agents or total insulin dose (TDD) ≤ 0.5 units/kg/day to either linagliptin (n = 128) daily or basal-bolus (n = 122) with glargine once daily and rapid-acting insulin before meals. Both groups received supplemental insulin for BG > 7.8 mmol/L. The primary endpoint was difference in mean daily BG between groups. Results Mean daily BG was higher in the linagliptin group compared to the basal-bolus group (9.5 ± 2.6 vs 8.8 ± 2.3 mmol/L/dL, P = 0.03) with a mean daily BG difference of 0.6 mmol/L (95% confidence interval 0.04, 1.2). In patients with randomization BG < 11.1 mmol/L (63% of cohort), mean daily BG was similar in the linagliptin and basal-bolus groups (8.9 ± 2.3 vs 8.7 ± 2.3 mmol/L, P = 0.43); however, patients with BG ≥ 11.1 mmol/L who were treated with linagliptin had higher BG compared to the basal-bolus group (10.9 ± 2.6 vs 9.2 ± 2.2 mmol/L, P < 0.001). Linagliptin resulted in fewer hypoglycaemic events (1.6% vs 11%, P = 0.001; 86% relative risk reduction), with similar supplemental insulin and fewer daily insulin injections (2.0 ± 3.3 vs 3.1 ± 3.3, P < 0.001) compared to the basal-bolus group. Conclusions For patients with T2D undergoing non-cardiac surgery who presented with mild to moderate hyperglycaemia (BG < 11.1 mmol/L), daily linagliptin is a safe and effective alternative to multi-dose insulin therapy, resulting in similar glucose control with lower hypoglycaemia.
+ER  - 
+
+TY  - JOUR
+AU  - Lan, Zhu
+AU  - Zassoko, Roman
+AU  - Liu, Weihua
+AU  - Garcia, Bertha
+AU  - Sun, Hongtao
+AU  - Wang, Rennian
+AU  - Wang, Hao
+TI  - Development of techniques for gastrojejunal bypass surgery in obese mice
+JO  - Microsurgery
+JA  - Microsurgery
+VL  - 30
+IS  - 4
+SN  - 9781119144922
+UR  - https://doi.org/10.1002/micr.20746
+DO  - doi:10.1002/micr.20746
+SP  - 289
+EP  - 295
+PY  - 2010
+AB  - Abstract We have previously described a duodenojejunal bypass (DJB) surgical model in healthy C57BL/6 mice. However, our pilot study showed that the same surgical technique caused a high mortality rate in obese mice. In this study, to significantly improve animal survival rate following bariatric surgery and thereby providing a stable surgical model for the study of glucose homeostasis in obese mice, we have used modified techniques and developed the end-to-side gastrojejunal bypass (GJB) surgery in obese C57BL/6 with impaired glucose tolerance. The modification consisted of using the distal part of the jejunum for biliopancreatic diversion including: 1) ligation of the distal stomach at the level of the pylorus; 2) connection the jejunum to the anterior wall of stomach in an end-to-side fashion; and 3) diverting the biliopancreatic secretions through the blind limb into the distal jejunum through an end-to-side anastomosis. We found that by modifying the proximal end-to-end duodenojejunal anastomosis, described in our original model, to an end-to-side gastrojejunal anastomosis in these obese mice, we were able to significantly improve the postoperative mortality in this study. We have also demonstrated that performing the GJB surgery in obese mice resulted in significant weight loss, normalized blood glucose levels, and prevented acute pancreatitis. This newly developed GJB surgery in the obese mice offers a unique advantage to study the mechanisms of gastrointestinal surgery as treatment for type 2 diabetes. ? 2010 Wiley-Liss, Inc. Microsurgery, 2010.
+ER  - 
+
+AU  - Tichil, Ioana
+AU  - Cleland, Heather
+C7  - pp. 443-454
+TI  - Burns
+SN  - 9781119468080
+UR  - https://doi.org/10.1002/9781119468189.ch49
+DO  - doi:10.1002/9781119468189.ch49
+SP  - 443-454
+KW  - burn injury
+KW  - emergency management
+KW  - trauma
+KW  - inhalation injury
+KW  - critical care
+KW  - surgery
+KW  - skin graft
+KW  - skin substitute
+PY  - 2010
+AB  - Summary Burns are classified by cause and mechanism, as well as by extent (expressed as percentage of total body surface area or TBSA) and depth. Inhalation injury is caused by inhalation of toxic products of combustion or chemical powders and vapours. Its presence is associated with a worse prognosis for a given extent of cutaneous injury. Timely initiation of appropriate first aid (20 minutes of cool running water for thermal injuries) minimises the extent of tissue damage. Extensive burns constitute major trauma and may be associated with multi-trauma. Patients with major burns require primary and secondary survey, and active resuscitation according to a formula related to size of burn. Burn wounds evolve and require regular review and appropriate dressings. Deep circumferential burns may require escharotomy. Extensive burns are associated with systemic effects, which are a manifestation of a systemic inflammatory response that involves all organs and necessitates provision of critical and multidisciplinary care. Surgical management of extensive burns entails early excision of all necrotic tissue, temporisation of the wound with skin substitutes, and timely grafting according to an established algorithm.
+ER  - 
+
+TY  - JOUR
+AU  - Preston, Graeme
+AU  - Kirdar, Faisal
+AU  - Kozicz, Tamas
+TI  - The role of suboptimal mitochondrial function in vulnerability to post-traumatic stress disorder
+JO  - Journal of Inherited Metabolic Disease
+JA  - J Inherit Metab Dis
+VL  - 41
+IS  - 4
+SN  - 9781119468080
+UR  - https://doi.org/10.1007/s10545-018-0168-1
+DO  - doi:10.1007/s10545-018-0168-1
+SP  - 585
+EP  - 596
+PY  - 2018
+AB  - Abstract Post-traumatic stress disorder remains the most significant psychiatric condition associated with exposure to a traumatic event, though rates of traumatic event exposure far outstrip incidence of PTSD. Mitochondrial dysfunction and suboptimal mitochondrial function have been increasingly implicated in several psychopathologies, and recent genetic studies have similarly suggested a pathogenic role of mitochondria in PTSD. Mitochondria play a central role in several physiologic processes underlying PTSD symptomatology, including abnormal fear learning, brain network activation, synaptic plasticity, steroidogenesis, and inflammation. Here we outline several potential mechanisms by which inherited (genetic) or acquired (environmental) mitochondrial dysfunction or suboptimal mitochondrial function, may contribute to PTSD symptomatology and increase susceptibility to PTSD. The proposed pathogenic role of mitochondria in the pathophysiology of PTSD has important implications for prevention and therapy, as antidepressants commonly prescribed for patients with PTSD have been shown to inhibit mitochondrial function, while alternative therapies shown to improve mitochondrial function may prove more efficacious.
+ER  - 
+
+TY  - JOUR
+AU  - Khadr, Sophie N.
+AU  - Crofton, Patricia M.
+AU  - Jones, Patricia A.
+AU  - Wardhaugh, Barbara
+AU  - Roach, Jennifer
+AU  - Drake, Amanda J.
+AU  - Minns, Robert A.
+AU  - Kelnar, Christopher J. H.
+TI  - Evaluation of pituitary function after traumatic brain injury in childhood
+JO  - Clinical Endocrinology
+VL  - 73
+IS  - 5
+SN  - 9781119468080
+UR  - https://doi.org/10.1111/j.1365-2265.2010.03857.x
+DO  - doi:10.1111/j.1365-2265.2010.03857.x
+SP  - 637
+EP  - 643
+PY  - 2010
+AB  - Summary Objectives? Post-traumatic hypopituitarism is well described amongst adult traumatic brain injury (TBI) survivors. We aimed to determine the prevalence and clinical significance of pituitary dysfunction after head injury in childhood. Design? Retrospective exploratory study. Patients: 33 survivors of accidental head injury (27 boys). Mean (range) age at study was 13·4?years (5·4?21·7?years) and median (range) interval since injury 4·3?years (1·4?7·8?years). Functional outcome at study: 15 good recovery, 16 moderate disability, two severe disability. Measurements? Early morning urine osmolality and basal hormone evaluation were followed by the gonadotrophin releasing hormone (GnRH) and insulin tolerance (n?=?25) or glucagon tests (if previous seizures, n?=?8). Subjects were not primed. Head injury details were extracted from patient records. Results? No subject had short stature (mean height SD score +0·50, range ?1·57 to +3·00). Suboptimal GH responses (<5??g/l) occurred in six peri-pubertal boys (one with slow growth on follow-up) and one postpubertal adolescent (peak GH 3·2??g/l). Median peak cortisol responses to insulin tolerance or glucagon tests were 538 and 562?nm. Nine of twenty-five and two of eight subjects had suboptimal responses, respectively, two with high basal cortisol levels. None required routine glucocorticoid replacement. In three, steroid cover was recommended for moderate/severe illness or injury. One boy was prolactin deficient. Other basal endocrine results and GnRH-stimulated LH and FSH were appropriate for age, sex and pubertal stage. Abnormal endocrine findings were unrelated to the severity or other characteristics of TBI or functional outcome. Conclusions? No clinically significant endocrinopathy was identified amongst survivors of accidental childhood TBI, although minor pituitary hormone abnormalities were observed.
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Joseph
+AU  - Katz, Evgeny
+TI  - Digital Biosensors with Built-in Logic for Biomedical Applications
+JO  - Israel Journal of Chemistry
+JA  - Isr. J. Chem.
+VL  - 51
+IS  - 1
+SN  - 9781119468080
+UR  - https://doi.org/10.1002/ijch.201000069
+DO  - doi:10.1002/ijch.201000069
+SP  - 141
+EP  - 150
+KW  - biocomputing
+KW  - biomedical application
+KW  - biosensor
+KW  - enzyme
+KW  - injury
+KW  - logic gate
+KW  - logic network
+PY  - 2011
+AB  - Abstract This article overviews recent advances in biomedical applications of enzyme-based logic systems, particularly for the analysis of pathophysiological conditions associated with various injuries. Novel biosensors digitally processing multiple biomarker signals produce a final output in the form of YES/NO response through Boolean logic networks composed of biomolecular systems. The biocomputing approach applied to biosensors leads to high-fidelity biosensing compared to traditional single-analyte sensing devices. By processing complex patterns of multiple physiological biomarkers, such multi-signal digital biosensors should have a profound impact on the rapid diagnosis and treatment of diseases, and particularly can provide timely detection and alert of medical emergencies (along with immediate therapeutic intervention). The novel biosensing concept has been exemplified with the systems for logic analysis of various injuries, including soft tissue injury, traumatic brain injury, liver injury, abdominal trauma, hemorrhagic shock, and oxidative stress.
+ER  - 
+
+AU  - Latifi, Rifat
+C7  - pp. 172-180
+TI  - Nutrition
+SN  - 9780470654613
+UR  - https://doi.org/10.1002/9781118274231.ch18
+DO  - doi:10.1002/9781118274231.ch18
+SP  - 172-180
+KW  - nutrition
+KW  - stress and injury, ebb, catabolic, anabolic flow phase
+KW  - IL-1, IL-6, and TNF, in acute phase proteins
+KW  - glutamine, and gram-negative bacteremia decrease
+KW  - prealbumin, retinol-binding protein, transferrin, negative acute phase
+KW  - protein synthesis, on ribosome, multiprotein, multi-RNA
+KW  - arginine, in cell mediated immunity
+KW  - TPN, indicated in high output eneterocutaneous fistulas
+KW  - early nutritional support via TPN, reducing disease severity
+KW  - patients fulfilling ARDS, and immune-modulating formulas
+PY  - 2011
+ER  - 
+
+AU  - Garvey, Erin M.
+AU  - Egan, J. Craig
+C7  - pp. 227-238
+TI  - Pediatric Critical Care
+SN  - 9781119317920
+UR  - https://doi.org/10.1002/9781119317913.ch24
+DO  - doi:10.1002/9781119317913.ch24
+SP  - 227-238
+KW  - acute respiratory distress syndrome
+KW  - nosocomial infections
+KW  - packed red blood cells
+KW  - pediatric critical care
+KW  - pediatric intensivists
+KW  - pediatric trauma patient
+PY  - 2011
+AB  - Summary This is a unique question-and-answer chapter for surgical residents and trainees, concentrating on the pediatric critical care. The Transfusion Requirements in Pediatric Intensive Care Units study randomized to either transfusion threshold 9.5?g/dL or 7?g/dL using leukocyte-reduced packed red blood cells (PRBC). Deaths, Multiple organ dysfunction syndrome (MODS), adverse events, ventilator days, and nosocomial infections were not significantly different in the two groups. When split into subgroups of pediatric cardiac surgery patients and pediatric general surgery patients, the restrictive PRBC transfusion strategy showed no increase in MODS. PRBC transfusions appear to be independently linked to increased risk of morbidity and mortality in critically ill pediatric patients. Pediatric intensivists have recognized that acute respiratory distress syndrome (ARDS) in children is different from ARDS in adults. Recurrent hypotension in a pediatric trauma patient occurs late and may be an ominous sign.
+ER  - 
+
+TY  - JOUR
+AU  - Collier, Bryan
+AU  - Guillamondegui, Oscar
+AU  - Cotton, Bryan
+AU  - Donahue, Rafe
+AU  - Conrad, Andrew
+AU  - Groh, Kate
+AU  - Richman, Jill
+AU  - Vogel, Todd
+AU  - Miller, Richard
+AU  - Diaz Jr, Jose
+TI  - Feeding the Open Abdomen
+JO  - Journal of Parenteral and Enteral Nutrition
+JA  - JPEN J Parenter Enteral Nutr
+VL  - 31
+IS  - 5
+SN  - 9781119317920
+UR  - https://doi.org/10.1177/0148607107031005410
+DO  - doi:10.1177/0148607107031005410
+SP  - 410
+EP  - 415
+PY  - 2007
+AB  - Background: The purpose of this study was to determine if early enteral nutrition improves outcome for trauma patients with an open abdomen (OA). Methods: Retrospective review was used to identify 78 patients who required an OA for ≥4 hospital days, survived, and had available nutrition data. Demographic data and nutrition data comprising enteral nutrition initiation day and daily % target goal were collected. Patients were divided into 2 groups: early enteral feeding (EEN), initiated ≤4 days within celiotomy; and late enteral feeding (LEN; >4 days). Outcomes included infectious complications, early closure of the abdominal cavity (<8 days from original celiotomy), and fistula formation. Results: Fifty-three of 78 (68%) patients were men, with a mean age of 35 years; 74% had blunt trauma. Forty-three of 78 (55%) patients had EEN, whereas 35 of 78 (45%) had LEN. There was no difference with respect to demographics, injury severity, or infectious complication rates. Thirty-two of 43 (74%) patients with EEN had early closure of the abdominal cavity, whereas 17 of 35 (49%) patients with late feeding had early closure (p = .02). Four of 43 (9%) patients with EEN demonstrated fistula formation, whereas 9 of 35 (26%) patients with late feeding formed fistulae (p = .05). The EEN group had lower hospital charges (p = .04) by more than $50,000. Conclusions: EEN in the OA was associated with (1) earlier primary abdominal closure, (2) lower fistula rate, (3) lower hospital charges.
+ER  - 
+
+TY  - JOUR
+AU  - Yoshino, Jun
+AU  - Almeda-Valdes, Paloma
+AU  - Moseley, Anna C.
+AU  - Mittendorfer, Bettina
+AU  - Klein, Samuel
+C7  - e13679
+TI  - Percutaneous muscle biopsy-induced tissue injury causes local endoplasmic reticulum stress
+JO  - Physiological Reports
+JA  - Physiol Rep
+VL  - 6
+IS  - 8
+SN  - 9781119317920
+UR  - https://doi.org/10.14814/phy2.13679
+DO  - doi:10.14814/phy2.13679
+SP  - e13679
+KW  - Muscle injury
+KW  - percutaneous biopsy
+KW  - ER stress
+KW  - inflammation
+KW  - metabolism
+PY  - 2018
+AB  - Abstract Endoplasmic reticulum (ER) stress is likely involved in the pathogenesis of metabolic dysfunction in people with obesity and diabetes. Although tissue biopsy is often used to evaluate the presence and severity of ER stress, it is not known whether acute tissue injury-induced by percutaneous muscle biopsy causes ER stress and its potential downstream effects on markers of inflammation and metabolic function. In this study, we tested the hypothesis that percutaneous biopsy-induced tissue injury causes ER stress and alters inflammatory and metabolic pathways in skeletal muscle. Vastus lateralis muscle tissue was obtained by percutaneous biopsy at 0600 h and 12 h later from either the contralateral leg (Group 1, n = 6) or at the same site as the initial biopsy (Group 2, n = 6) in women who were overweight. Muscle gene expression of selected markers of ER stress, inflammation, and regulators of glucose and lipid metabolism were determined. Compared with Group 1, muscle gene expression in the second biopsy sample obtained in Group 2 demonstrated marked increases in markers of ER stress (GRP78, XBP1, ATF6) and inflammation (IL6, TNF), and alterations in metabolic regulators (decreased expression of GLUT4 and PPARGC1A and increased expression of FASN). Our results suggest that acute tissue injury induced by percutaneous muscle biopsy causes an integrated local response that involves an induction of ER stress and alterations in markers of inflammation and regulators of glucose and lipid metabolism.
+ER  - 

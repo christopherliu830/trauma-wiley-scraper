@@ -1,0 +1,391 @@
+
+TY  - JOUR
+TI  - 2008 American College of Veterinary Surgeons Veterinary Symposium October 23–25, 2008, San Diego, California
+JO  - Veterinary Surgery
+VL  - 37
+IS  - 6
+SN  - 0161-3499
+UR  - https://doi.org/10.1111/j.1532-950X.2008.00438.x
+DO  - doi:10.1111/j.1532-950X.2008.00438.x
+SP  - E1
+EP  - E34
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+AU  - Bowlt, Kelly
+TI  - Complications of intestinal surgery
+JO  - Companion Animal
+VL  - 17
+IS  - 9
+SN  - 1464-4630
+UR  - https://doi.org/10.1111/j.2044-3862.2012.00250.x
+DO  - doi:10.1111/j.2044-3862.2012.00250.x
+SP  - 13
+EP  - 16
+PY  - 2012
+AB  - ABSTRACT: This article looks at complications of intestinal surgery, including the reasons, diagnosis and treatment/management of septic peritonitis. Additionally, hints and tips are given to ensure secure enterotomy sites and how to address suboptimal wound integrity. Finally, we will briefly explore short bowel syndrome and postoperative ileus, looking at the causes and options for postoperative management.
+ER  - 
+
+AU  - Lamos, Elizabeth M.
+AU  - Younk, Lisa M.
+AU  - Davis, Stephen N.
+C7  - pp. 506-530
+TI  - Hypoglycemia
+SN  - 9781119374732
+UR  - https://doi.org/10.1002/9781119374800.ch31
+DO  - doi:10.1002/9781119374800.ch31
+SP  - 506-530
+KW  - hypoglycemia
+KW  - insulin
+KW  - insulinoma
+KW  - sulfonylurea type 1 diabetes
+KW  - type 2 diabetes
+PY  - 2012
+AB  - Summary Hypoglycemia is one of the most frequent endocrine emergencies in individuals with diabetes mellitus. However, hypoglycemia in the healthy or non-diabetic individual is rare. This review will focus on the pathophysiology, management, and etiology of hypoglycemia in persons with and without diabetes. Hypoglycemia in persons with diabetes will focus on multiple factors including hypoglycemic unawareness, glucose monitoring, medication management, and comorbidities. Hypoglycemia in the non-diabetic individual can have multiple etiologies and poses a diagnostic challenge. It is important to respond quickly and appropriately to acute hypoglycemia in any individual. Although broad, the etiology of hypoglycemia must include a comprehensive and individualized review of medical, family, social, and pharmacologic patient histories.
+ER  - 
+
+TY  - JOUR
+AU  - Caines, Deanne
+AU  - Sinclair, Melissa
+AU  - Valverde, Alexander
+AU  - Dyson, Doris
+AU  - Gaitero, Luis
+AU  - Wood, Darren
+TI  - Comparison of isoflurane and propofol for maintenance of anesthesia in dogs with intracranial disease undergoing magnetic resonance imaging
+JO  - Veterinary Anaesthesia and Analgesia
+JA  - Vet Anaesth Analg
+VL  - 41
+IS  - 5
+SN  - 9781119374732
+UR  - https://doi.org/10.1111/vaa.12163
+DO  - doi:10.1111/vaa.12163
+SP  - 468
+EP  - 479
+KW  - anesthesia
+KW  - brain
+KW  - isoflurane
+KW  - propofol
+PY  - 2014
+AB  - Abstract Objective To compare isoflurane and propofol for maintenance of anesthesia and quality of recovery in client-owned dogs with intracranial disease undergoing magnetic resonance imaging (MRI). Study design Prospective, randomized, clinical trial. Animals Twenty-five client-owned dogs with intracranial pathology, 13 females and 12 males, ages 11 months to 13 years, weighing between 3.0 and 48.0 kg. Methods Each dog was randomly assigned to receive propofol or isoflurane for maintenance of anesthesia. All dogs were not premedicated, were administered propofol intravenously to effect for induction, intubated and mechanically ventilated to maintain an end-tidal carbon dioxide tension 30?35 mmHg (4.0?4.7 kPa). Temperature and cardiac output were measured pre- and post-MRI. Scores for mentation, neurological status, ease of maintenance, and recovery were obtained pre- and post-anesthesia. Pulse oximetry, end-tidal gases, arterial blood pressure, heart rate (HR) and requirements for dopamine administration to maintain mean arterial pressure (MAP) >60 mmHg were recorded throughout anesthesia. Results End-tidal isoflurane concentration was 0.73 ± 0.35% and propofol infusion rate was 292 ± 119 ?g kg?1 minute?1. Cardiac index was higher, while HR was lower, with propofol than isoflurane in dogs younger than 5 years, but not in older dogs. Dogs maintained with isoflurane were 14.7 times more likely to require dopamine than propofol dogs. Mentation and maintenance scores and temperature were not different. MAP and diastolic arterial pressure were higher in the propofol group. Recovery scores were better with propofol, although times to extubation were similar. Change in neurological score from pre- to post-anesthesia was not different between treatments. Conclusions Dogs maintained with propofol during MRI had higher arterial pressures, decreased requirements for dopamine, and better recovery scores, compared to dogs maintained with isoflurane. Clinical relevance Propofol anesthesia offered cardiovascular and recovery advantages over isoflurane during MRI in dogs with intracranial disease in this study.
+ER  - 
+
+TY  - JOUR
+AU  - Morisawa, Kenichiro
+AU  - Fujitani, Shigeki
+AU  - Homma, Yosuke
+AU  - Shigemitsu, Kazuaki
+AU  - Saito, Nobuyuki
+AU  - Hayakawa, Katsura
+AU  - Yasuda, Hideto
+AU  - Hifumi, Toru
+AU  - Rinka, Hiroshi
+AU  - Mayumi, Toshihiko
+AU  - Fujiwara, Shinsuke
+AU  - Murao, Yoshinori
+AU  - Taira, Yasuhiko
+C7  - e468
+TI  - Can the global end-diastolic volume index guide fluid management in septic patients? A multicenter randomized controlled trial
+JO  - Acute Medicine & Surgery
+JA  - Acute Med Surg
+VL  - 7
+IS  - 1
+SN  - 9781119374732
+UR  - https://doi.org/10.1002/ams2.468
+DO  - doi:10.1002/ams2.468
+SP  - e468
+KW  - Early goal-directed therapy
+KW  - global end-diastolic volume index
+KW  - sepsis
+KW  - transpulmonary thermodilution
+KW  - volume resuscitation
+PY  - 2020
+AB  - Aim An index that accurately measures intravascular volume is paramount for the optimal resuscitation of sepsis. Selecting an adequate indicator to substitute for central venous pressure (CVP) has remained an issue. The objective of our study was to compare the usefulness of standard early goal-directed therapy (EGDT) with CVP (EGDT-CVP) and modified EGDT with global end-diastolic volume index (GEDI; EGDT-GEDI) for sepsis. Methods This was a multicenter prospective randomized controlled study. All patients with sepsis who were expected to require mechanical ventilator support for a minimum of 48 h were included. The patients were classified into an EGDT-CVP group and an EGDT-GEDI group. All participants underwent the extubation protocol. The primary outcome was the ventilator-free days over a 28-day period. Results The ventilator-free days was not significantly different between the two groups (P = 0.59). However, the EGDT-GEDI group showed a trend of shorter ventilator support duration (5.1 days [2.0?8.7 days] versus 3.9 days [2.4?5.7 days], P = 0.27) and length of stay in the intensive care unit (7.2 days [3.8?10.7 days] versus 5.1 days [3.7?8.8 days], P = 0.05) and a smaller 3-day infusion balance than the EGDT-CVP group (4,405 mL [1,092?8,163 mL] versus 3,046 mL [830?6,806 mL], P = 0.34), but the differences were not statistically significant. Conclusion Although there was no significant efficacy, EGDT guided by GEDI showed a trend of shorter length of stay in the intensive care unit and lower 3-day infusion balance than the EGDT-CVP group in sepsis. The GEDI monitoring did not appear to improve the ventilator-free days over a 28-day period.
+ER  - 
+
+TY  - JOUR
+AU  - Trim, CM.
+TI  - ANAESTHESIA AND SYSTEMIC DISEASE: AN OVERVIEW
+JO  - Veterinary Anaesthesia and Analgesia
+VL  - 18
+IS  - s1
+SN  - 9781119374732
+UR  - https://doi.org/10.1111/j.1467-2995.1991.tb00508.x
+DO  - doi:10.1111/j.1467-2995.1991.tb00508.x
+SP  - 29
+EP  - 34
+PY  - 1991
+ER  - 
+
+TY  - JOUR
+AU  - DAVIS, P. E.
+AU  - PARIS, R.
+TI  - Azoturia in a Greyhound: clinical pathology aids to diagnosis
+JO  - Journal of Small Animal Practice
+VL  - 15
+IS  - 1
+SN  - 9781119374732
+UR  - https://doi.org/10.1111/j.1748-5827.1974.tb05643.x
+DO  - doi:10.1111/j.1748-5827.1974.tb05643.x
+SP  - 43
+EP  - 54
+PY  - 1974
+AB  - ABSTRACT A provisional diagnosis of azoturia and/or haematuria was made in a Greyhound. This condition was differentiated from the syndromes of acute abdominal accident, acute nephritis, cystitis and spinal pressure on sensory nerves by means of the clinical pathology aids of biochemistry, serum enzymology, haematology and urine analysis and the physical aid of X-ray and ECGT. The results indicated that the animal was suffering from acute azoturia. Résumé. Un cas d'azoturie et/ou hématurie fut diagnostiquée comme probable chez un Lévrier. Cet état fut différencié des syndromes de troubles abdominaux accidentels aigus, de néephrite aiguë, de cystite, et de pression spinale sur les nerfs sensoriels, au moyen des aides procurées à la pathologie clinique par la biochimie, la séroenzymologie, l'hématologie et les analyses d'urine, et avec l'aide de la physique, par Rayons-X et électro-encéphalographie. Les résultats indiquèrent que l'animal souffrait d'une azoturie aiguë. Zusammenfassung. Eine Wahrscheinlichkeits-Diagnose der Azoturie und/oder Blutharnen, wurde im Windhund vorgenommen. Diese Kondition differenzierte sich den Syndromen von Bauchakzidenz, akuter Nierenentzündung, Blasenentzündung und Rückgratsdruck des Sinnesnerven durch physikalische Hilfe von Röntgenstrahlen und EEG. Das Untersuchungsergebniss deutete an, dass das Tier von akuter Azoturie litt.
+ER  - 
+
+TY  - JOUR
+AU  - Mosing, Martina
+AU  - Reich, Heidi
+AU  - Moens, Yves
+TI  - Clinical evaluation of the anaesthetic sparing effect of brachial plexus block in cats
+JO  - Veterinary Anaesthesia and Analgesia
+VL  - 37
+IS  - 2
+SN  - 9781119374732
+UR  - https://doi.org/10.1111/j.1467-2995.2009.00509.x
+DO  - doi:10.1111/j.1467-2995.2009.00509.x
+SP  - 154
+EP  - 161
+KW  - brachial plexus block
+KW  - cat
+KW  - isoflurane spa-ring effect
+PY  - 2010
+AB  - Abstract Objective? To evaluate the isoflurane sparing effect and the post-surgical analgesia provided by a brachial plexus block (BPB) in cats undergoing distal thoracic limb surgery. Study design? Prospective randomized blinded clinical study. Animals? Twenty client-owned cats. Methods? Cats were assigned to receive either no BPB (group NB) or a nerve stimulator guided BPB (group BPB) using lidocaine (3.6?mg?kg?1) and bupivacaine (1.2?mg?kg?1). Pre-medication consisted of midazolam and ketamine intravenously (IV). Anaesthesia was induced with propofol IV to effect and maintained with isoflurane delivered in oxygen and a continuous rate infusion of fentanyl (2??g?kg?1?hour?1). End-tidal isoflurane concentration (Fe?ISO) was adjusted every 3?minutes guided by changes in cardiorespiratory parameters and reflexes present, to maintain a stable depth of anaesthesia. Five time points were chosen to record all parameters and compare values between groups. Recovery and post-operative pain assessment were performed using a visual analogue scale (VAS) at 15 and 45?minutes after extubation and thereafter at hourly intervals until 5?hours after placement of the BPB. Results? No clinically significant differences were seen for heart rate, respiratory rate and non-invasive blood pressure between groups. Mean Fe?ISO was significantly lower in group BPB compared with group NB at all time points. In group NB, all intraoperative measurements of Fe?ISO were significantly higher compared with baseline (3?minutes before start of surgery) measurements. During recovery, VAS scores for group BPB were significantly lower than for group NB. Additional analgesics were needed in all cats within the study period. Conclusion and Clinical relevance? In cats undergoing orthopaedic surgery of the thoracic limb, BPB reduced intra-operative isoflurane requirement and pain during the early post-operative period when compared with procedures without a BPB. BPB is a useful adjunct to anaesthesia in such cases.
+ER  - 
+
+TY  - JOUR
+AU  - WHITLEY, R. D.
+AU  - MEEK, LISA A.
+AU  - MILLICHAMP, N. J.
+AU  - McRAE, ELIZABETH E.
+AU  - PRIEHS, D. R.
+TI  - Cataract surgery in the horse: a review of six cases
+JO  - Equine Veterinary Journal
+VL  - 22
+IS  - S10
+SN  - 9781119374732
+UR  - https://doi.org/10.1111/j.2042-3306.1990.tb04720.x
+DO  - doi:10.1111/j.2042-3306.1990.tb04720.x
+SP  - 85
+EP  - 90
+PY  - 1990
+ER  - 
+
+TY  - JOUR
+TI  - Index to Abstracts
+JO  - Academic Emergency Medicine
+VL  - 3
+IS  - 5
+SN  - 9781119374732
+UR  - https://doi.org/10.1111/j.1553-2712.1996.tb03461.x
+DO  - doi:10.1111/j.1553-2712.1996.tb03461.x
+SP  - 549
+EP  - 557
+PY  - 1996
+ER  - 
+
+TY  - JOUR
+AU  - Mathews, Karol
+AU  - Kronen, Peter W
+AU  - Lascelles, Duncan
+AU  - Nolan, Andrea
+AU  - Robertson, Sheilah
+AU  - Steagall, Paulo VM
+AU  - Wright, Bonnie
+AU  - Yamashita, Kazuto
+TI  - Guidelines for Recognition, Assessment and Treatment of Pain
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 55
+IS  - 6
+SN  - 9781119374732
+UR  - https://doi.org/10.1111/jsap.12200
+DO  - doi:10.1111/jsap.12200
+SP  - E10
+EP  - E68
+PY  - 2014
+ER  - 
+
+AU  - B. Chambers, John
+AU  - Sprigings, David
+C7  - pp. 317-320
+TI  - Cardiogenic shock
+SN  - 9781118644287
+UR  - https://doi.org/10.1002/9781119389613.ch49
+DO  - doi:10.1002/9781119389613.ch49
+SP  - 317-320
+KW  - acute medicine
+KW  - acute myocardial infarction
+KW  - cardiac disorders
+KW  - cardiogenic shock
+KW  - inotropic therapy
+KW  - organ perfusion
+KW  - vasopressor therapy
+PY  - 2014
+AB  - Summary Cardiogenic shock may be due to a range of cardiac disorders. In 75% of cases, the cause is acute myocardial infarction with left ventricular failure, or, less commonly, ventricular septal rupture, papillary muscle rupture, free wall rupture or right ventricular infarction. This chapter summarizes focused clinical assessment and investigation in suspected cardiogenic shock. Diuretics are relatively ineffective in patients with cardiogenic shock, but can be used in case of fluid overload once the cardiac output has increased (as shown by improvement in the patient's mental state and skin perfusion): if renal function is normal, give furosemide 40 mg IV. If the patient is not improving, consider haemodynamic monitoring using pulse contour or thermodilution techniques to allow more accurate titration of therapy. Specific management is directed at the underlying cause. Pending definitive treatment, systemic blood pressure and organ perfusion must be maintained by inotropic/vasopressor therapy.
+ER  - 
+
+TY  - JOUR
+AU  - French, P. J.
+AU  - Tanase, D.
+AU  - Goosen, J. F. L.
+TI  - Sensors for Catheter Applications
+JO  - Sensors Update
+JA  - Sensors Update
+VL  - 13
+IS  - 1
+SN  - 9781118644287
+UR  - https://doi.org/10.1002/seup.200390018
+DO  - doi:10.1002/seup.200390018
+SP  - 107
+EP  - 153
+KW  - catheters
+KW  - navigation systems
+KW  - miniaturization
+KW  - multi-sensing
+KW  - packaging
+PY  - 2003
+AB  - Abstract Minimally invasive techniques enable diagnostics and surgery to be performed through a small incision. This greatly reduces the damage to healthy tissue leading to faster recovery times for the patient. However, the surgeon is deprived of the sensory feedback available with normal surgical techniques. Miniaturised sensors can provide this information about location, diagnostics and the treatment. This application severely limits the size of the device, with some catheters being less than 1 mm in diameter. Catheters are usually defined in multiples of 1/3 mm or 1 french. Further important issues are bio-compatibility, safety and the ability of the sensor to withstand the working environment. Sensors able to meet these demands are improving the efficiency of operations and are opening new opportunities for minimally invasive techniques.
+ER  - 
+
+TY  - JOUR
+AU  - Burns, Elaine
+AU  - Fenwick, Jenny
+AU  - Sheehan, Athena
+AU  - Schmied, Virginia
+TI  - ‘This little piranha’: a qualitative analysis of the language used by health professionals and mothers to describe infant behaviour during breastfeeding
+JO  - Maternal & Child Nutrition
+JA  - Matern Child Nutr
+VL  - 12
+IS  - 1
+SN  - 9781118644287
+UR  - https://doi.org/10.1111/mcn.12179
+DO  - doi:10.1111/mcn.12179
+SP  - 111
+EP  - 124
+KW  - infant behaviour
+KW  - breastfeeding
+KW  - language
+KW  - infant personality
+KW  - relationship focus
+KW  - discourse analysis
+PY  - 2016
+AB  - Abstract Exclusive breastfeeding for the first 6 months of life offers the recommended best start in the life for a newborn baby. Yet, in Australia only a small number of babies receive breast milk exclusively for the first 6 months. Reasons for the introduction of formula milk are multi-factorial including access to appropriate support and the woman's experience of breastfeeding. The language and practices of health professionals can impact upon how a woman feels about breastfeeding and her breastfeeding body. One aspect of breastfeeding support that has had scarce attention in the literature is the language used by health professionals to describe the behaviour of the breastfeeding infant during the early establishment phase of breastfeeding. This paper reveals some of the ways in which midwives, lactation consultants and breastfeeding women describe the newborn baby during the first week after birth. The study was conducted at two maternity units in New South Wales. Interactions between midwives and breastfeeding women were observed and audio recorded on the post-natal ward and in women's homes, in the first week after birth. The transcribed data were analysed using discourse analysis searching for recurring words, themes and metaphors used in descriptions of the breastfeeding baby. Repeated negative references to infant personality and unfavourable interpretations of infant behaviour influenced how women perceived their infant. The findings revealed that positive language and interpretations of infant breastfeeding behaviour emerged from more relationship-based communication.
+ER  - 
+
+AU  - Cárdenas, Andrés
+AU  - Graupera, Isabel
+AU  - Ginès, Pere
+C7  - pp. 193-203
+TI  - Ascites and spontaneous bacterial peritonitis
+SN  - 9781118638422
+UR  - https://doi.org/10.1002/9781118662915.ch27
+DO  - doi:10.1002/9781118662915.ch27
+SP  - 193-203
+KW  - cirrhosis
+KW  - ascites
+KW  - hyponatremia
+KW  - hepatorenal syndrome
+KW  - portal hypertension
+KW  - TIPSS
+KW  - spontaneous bacterial peritonitis
+PY  - 2016
+AB  - Summary Ascites is the most common complication of cirrhosis resulting in poor quality of life, high risk of development of other complications of cirrhosis, increased morbidity and mortality associated with surgical interventions, and poor long-term outcome. The practical management of ascites involves a proper evaluation of the patient with a thorough history and physical exam. In addition, complete laboratory, ascitic fluid, radiological, endoscopic, and in some cases histological tests should be performed. Taking proper care of patients with ascites can be challenging because they are prone to several complications such as spontaneous bacterial peritonitis (SBP), hypervolemic hyponatremia, hepatic hydrothorax, hepatorenal syndrome (HRS) and hepatocellular carcinoma, bleeding from esophageal or gastric varices, and hepatic encephalopathy. While the initial management of uncomplicated ascites with low-sodium diet and diuretic treatment is straightforward in the majority of patients, there is a group of patients that fail to respond to diuretics and become a real therapeutic challenge.
+ER  - 
+
+TY  - JOUR
+AU  - Kottenberg-Assenmacher, E.
+AU  - Kamler, M.
+AU  - Peters, J.
+TI  - Minimally invasive endoscopic port-access™ intracardiac surgery with one lung ventilation: impact on gas exchange and anaesthesia resources
+JO  - Anaesthesia
+VL  - 62
+IS  - 3
+SN  - 9781118638422
+UR  - https://doi.org/10.1111/j.1365-2044.2007.04954.x
+DO  - doi:10.1111/j.1365-2044.2007.04954.x
+SP  - 231
+EP  - 238
+PY  - 2007
+AB  - Summary Minimally invasive endoscopic intracardiac surgery including one lung ventilation has been proposed to decrease surgical trauma but its impact on oxygenation and resource consumption has not been reported. We compared effects on gas exchange, induction, total anaesthesia time, staffing costs, and complications in 42 consecutive patients to a matched group undergoing similar surgery conventionally. Use of endoscopic compared to conventional surgery evoked a decrease in the Pao2/FIo2 ratio (mean (SD) 24.1 (14.9) vs 48.9 (14) kPa, p?<?0.05) following termination of bypass with one lung ventilation (10 patients showed a Pao2/Fio2 below 13.3 kPa (100?mmHg)). There was also an increase of anaesthesia induction time (47 (13) vs 31 (9) min, p?<?0.05), and an increase by 156?min of total anaesthesia time (474 (89) vs 321 (69) min, p?<?0.05). Anaesthetist staffing costs increased by 300%. Thus, minimally invasive endoscopic intracardiac surgery consumes many more anaesthesia resources than conventional surgery and can result in hypoxaemia, but overall can be considered feasible provided that extensive continuous monitoring is employed.
+ER  - 
+
+TY  - JOUR
+AU  - Loomes, K.
+AU  - Anderson, J.
+TI  - Intra-splenic administration of phenylephrine in a horse to induce splenic contraction in a case of nephrosplenic entrapment of the large colon non-responsive to intravenous phenylephrine administration
+JO  - Equine Veterinary Education
+JA  - Equine Vet Educ
+VL  - n/a
+IS  - n/a
+SN  - 9781118638422
+UR  - https://doi.org/10.1111/eve.13103
+DO  - doi:10.1111/eve.13103
+KW  - horse
+KW  - nephrosplenic entrapment
+KW  - phenylephrine
+KW  - left dorsal displacement
+KW  - spleen
+AB  - Summary This case report describes the successful use of intra-splenic administration of phenylephrine (PE) in a surgical case of nephrosplenic entrapment (NSE) to induce splenic contraction after intravenous phenylephrine administration failed to elicit a response.
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Presentation Abstracts
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 43
+IS  - 6
+SN  - 9781118638422
+UR  - https://doi.org/10.1111/j.1532-950X.2014.12263.x
+DO  - doi:10.1111/j.1532-950X.2014.12263.x
+SP  - E151
+EP  - E211
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+AU  - Bunch, Frank
+AU  - Nair, Pradeep
+AU  - Aggarwala, Gaurav
+AU  - Dippel, Eric
+AU  - Kassab, Elias
+AU  - Khan, Muhammad A.
+AU  - LeCroy, Christopher
+AU  - McClure, John M.
+AU  - Tolleson, Thaddeus
+AU  - Walker, Craig
+TI  - A universal drug delivery catheter for the treatment of infrapopliteal arterial disease using liquid therapy
+JO  - Catheterization and Cardiovascular Interventions
+JA  - Catheter Cardiovasc Interv
+VL  - n/a
+IS  - n/a
+SN  - 9781118638422
+UR  - https://doi.org/10.1002/ccd.28739
+DO  - doi:10.1002/ccd.28739
+KW  - clinical trial
+KW  - paclitaxel
+KW  - peripheral intervention
+AB  - Abstract Objective The objective of this study was to investigate the safety and feasibility of treating infrapopliteal lesions using a novel drug delivery catheter locally delivering liquid paclitaxel. Background Balloon angioplasty is currently the Gold Standard to treat below-the-knee disease; however, restenosis continues to be a great challenge following these percutaneous revascularization procedures. Methods The Occlusion Perfusion Catheter for Optimal Delivery of Paclitaxel for the Prevention of Endovascular Restenosis (COPPER-A) study?Below-the-Knee Cohort was a prospective, nonrandomized, multicenter, feasibility, and safety study that enrolled 35 patients at 11 participating sites. The safety endpoints at 1, 3, and 6 months were freedom from thrombosis, major amputation in the target limb and target limb related death. The efficacy endpoints were primary patency and freedom from clinically driven target lesion revascularization at 6 months. Results All patients tolerated the procedure well with no reports of adverse procedural events. Thirty-five patients were treated with a mean lesion length of 112?±?81.2?mm with the lesion length range of 20?286?mm. At 6-month follow-up, primary patency was 89.3% and freedom from clinically driven target lesion revascularization was 96.4%. No patients demonstrated thrombosis, major amputation in the target limb and target limb related death at the 1-, 3- and 6-months follow-up intervals. Conclusions The results of this multi-center study demonstrated that infrapopliteal arteries can be safely and effectively treated with liquid paclitaxel using the occlusion perfusion catheter.
+ER  - 
+
+TY  - JOUR
+AU  - Bryanton, Janet
+AU  - Walsh, Donna
+AU  - Barrett, Margaret
+AU  - Gaudet, Darlene
+TI  - Tub Bathing Versus Traditional Sponge Bathing for the Newborn
+JO  - Journal of Obstetric, Gynecologic, & Neonatal Nursing
+VL  - 33
+IS  - 6
+SN  - 9781118638422
+UR  - https://doi.org/10.1177/0884217504270651
+DO  - doi:10.1177/0884217504270651
+SP  - 704
+EP  - 712
+KW  - Tub bathing
+KW  - Sponge bathing
+KW  - Newborn skin care
+KW  - Term newborn
+PY  - 2004
+AB  - Objective: To compare selected effects of tub bathing versus traditional sponge bathing in healthy, term newborns and their mothers? ratings of pleasure and confidence with the bath. Design: Randomized controlled study. Setting: The maternity unit of an eastern Canadian hospital. Participants: One hundred two mother-baby pairs were randomly assigned to an experimental tub bath or a sponge bath control group. Interventions: Fifty-one newborns were tub bathed and 51 sponge bathed according to the study protocols for their initial and one additional bath. Main Outcome Measures: (a) Newborn temperature stability was assessed by recording axillary temperatures pre- and postbath, (b) umbilical cord healing was identified by daily observations and infection control surveillance, (c) infant contentment was quantified by applying the Brazelton Neonatal Behavioral Assessment Scale, and (d) maternal pleasure with the bath and confidence with bathing at discharge were self-rated on a 5-point scale. Results: Tub-bathed babies experienced significantly less temperature loss (t = 4.79, p = .00) and were significantly more content (t =?6.48, p = .00) than were those who were sponge bathed. No differences in cord healing scores were found. Mothers of tub bathed babies rated their pleasure with the bath significantly higher than did mothers of sponge bathed babies (t = 4.15, p = .00). No differences in maternal confidence were noted. Conclusions: Tub bathing is a safe and pleasurable alternative to sponge bathing in healthy, term newborns.
+ER  - 

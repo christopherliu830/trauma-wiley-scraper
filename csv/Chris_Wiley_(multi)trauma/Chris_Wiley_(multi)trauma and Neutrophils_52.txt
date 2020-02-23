@@ -1,0 +1,454 @@
+
+TY  - JOUR
+AU  - Okajima, Kenji
+TI  - Regulation of inflammatory responses by natural anticoagulants
+JO  - Immunological Reviews
+VL  - 184
+IS  - 1
+SN  - 0105-2896
+UR  - https://doi.org/10.1034/j.1600-065x.2001.1840123.x
+DO  - doi:10.1034/j.1600-065x.2001.1840123.x
+SP  - 258
+EP  - 274
+PY  - 2001
+AB  - Summary: Proinflammatory cytokines such as tumor necrosis factor-α (TNF-α) are critically involved in activation of the coagulation system in sepsis, leading to disseminated intravascular coagulation (DIC). Natural anticoagulants such as antithrombin (AT) and activated protein C (APC) regulate the coagulation system by inhibiting thrombin generation. In addition to these anticoagulant effects, both AT and APC have been shown to attenuate inflammatory responses induced by various noxious stimuli in rats such as lipopolysaccharide (LPS) challenge. AT promotes the endothelial release of prostacyclin, a potent anti-inflammatory prostaglandin that inhibits the monocytic production of TNF-α, by interacting with cell-surface heparin-like substances. APC directly inhibits the production of TNF-α by inhibiting the activation of both nuclear factor ?B (NF?B) and activator protein-1 in monocytes stimulated with LPS. Thrombomodulin, an endothelial membranous integral protein that binds thrombin, exerts anti-inflammatory effects by generating APC. Furthermore, tissue factor pathway inhibitor, a natural anticoagulant for the extrinsic pathway of the coagulation system, also attenuates LPS-induced inflammatory responses in rats by inhibiting TNF-α production by monocytes. These findings strongly suggest that natural anticoagulants could regulate inflammatory responses as well as the coagulation system in rats by inhibiting the monocytic production of TNF-α. Such anti-inflammatory properties of natural anticoagulants are potentially important for their replacement in patients with sepsis who frequently develop DIC and organ failure as inflammatory responses.
+ER  - 
+
+TY  - JOUR
+AU  - Daigo, Kenji
+AU  - Inforzato, Antonio
+AU  - Barajon, Isabella
+AU  - Garlanda, Cecilia
+AU  - Bottazzi, Barbara
+AU  - Meri, Seppo
+AU  - Mantovani, Alberto
+TI  - Pentraxins in the activation and regulation of innate immunity
+JO  - Immunological Reviews
+JA  - Immunol Rev
+VL  - 274
+IS  - 1
+SN  - 0105-2896
+UR  - https://doi.org/10.1111/imr.12476
+DO  - doi:10.1111/imr.12476
+SP  - 202
+EP  - 217
+KW  - cancer-related inflammation
+KW  - complement activation
+KW  - inflammation
+KW  - opsonization
+KW  - pentraxins
+KW  - PTX3
+PY  - 2016
+AB  - Summary Humoral fluid phase pattern recognition molecules (PRMs) are a key component of the activation and regulation of innate immunity. Humoral PRMs are diverse. We focused on the long pentraxin PTX3 as a paradigmatic example of fluid phase PRMs. PTX3 acts as a functional ancestor of antibodies and plays a non-redundant role in resistance against selected microbes in mouse and man and in the regulation of inflammation. This molecule interacts with complement components, thus modulating complement activation. In particular, PTX3 regulates complement-driven macrophage-mediated tumor progression, acting as an extrinsic oncosuppressor in preclinical models and selected human tumors. Evidence collected over the years suggests that PTX3 is a biomarker and potential therapeutic agent in humans, and pave the way to translation of this molecule into the clinic.
+ER  - 
+
+AU  - Cavaillon, Jean-Marc
+AU  - Adib-Conquy, Minou
+AU  - Adrie, Christophe
+C7  - pp. 347-371
+TI  - Altered Immune Status and Leukocytes Reprogramming
+SN  - 9783527319350
+UR  - https://doi.org/10.1002/9783527626151.ch15
+DO  - doi:10.1002/9783527626151.ch15
+SP  - 347-371
+KW  - Immune status
+KW  - leukocyte reprogramming
+KW  - cell surface markers
+KW  - cytokine production
+KW  - whole blood assay
+KW  - monocytes
+PY  - 2016
+AB  - Summary The counter-regulatory mechanisms initiated to limit the overzealous inflammatory process in patients with infectious (sepsis) or non-infectious systemic inflammatory response syndrome (SIRS) led to the concept of ?compensatory anti-inflammatory response syndrome? (CARS). One major consequence of CARS is the modification of the immune status that could favor the enhanced susceptibility of intensive care patients to nosocomial infections. The expression of surface markers can be modified, and numerous functions of circulating leukocytes are altered in sepsis and SIRS patients, as well as in animal models of sepsis or SIRS. However, this is rather a reprogramming of circulating leukocytes, since there is not a global defect of the immune cells functions.
+ER  - 
+
+TY  - JOUR
+AU  - Hall, C. J.
+AU  - Flores, M. V.
+AU  - Crosier, K. E.
+AU  - Crosier, P. S.
+C7  - 21264
+TI  - Live imaging early immune cell ontogeny and function in zebrafish Danio rerio
+JO  - Journal of the International AIDS Society
+VL  - 19
+IS  - 6S5
+SN  - 9783527319350
+UR  - https://doi.org/10.7448/IAS.19.6.21264
+DO  - doi:10.7448/IAS.19.6.21264
+SP  - 21264
+KW  - immunity
+KW  - inflammation
+KW  - live cell imaging
+KW  - transgenic
+KW  - wound healing
+KW  - zebrafish
+PY  - 2016
+AB  - The success of a robust vertebrate inflammatory response is in part because of the migratory potential of its haematopoietic components. Once these cells converge at an inflammatory site, they interact with each other as well as non-immune tissues and infectious agents to help manage both the scale and the duration of any ensuing response. Exactly how these blood cells, that constitute the innate and adaptive immune systems, contribute to such immune responses remain largely unknown. Traditionally, assessing these contributions relied upon histological analysis of fixed tissue sections complemented with in vitro dynamic data. Although informative, translating results from these studies into the multicellular whole-animal setting remain difficult. Recently, non-invasive live imaging of the immune system in animal models is providing significant insights into how immune cells function within their intact natural environment. Although the majority of these studies have been conducted within mice, another vertebrate, the zebrafish Danio rerio is being recognized as an ideal platform for non-invasive live imaging applications. The optical transparency, rapid development, genetic tractability and highly conserved innate and adaptive immune systems of this well-established developmental model have been exploited in a number of recent studies evaluating the immunocompetence of fluorescently tagged blood cells. In addition, similar live imaging studies are helping to dissect the ontogeny of blood-cell development by tracking various haematopoietic precursor cells to assess their contribution to different blood lineages. This review will examine some recent advances that have helped D. rerio emerge as a live imaging platform as well as its potential to offer valuable insights into the genetics behind diseases associated with immune cell dysfunction.
+ER  - 
+
+TY  - JOUR
+AU  - Saghafi, Shiva
+AU  - Pourpak, Zahra
+AU  - Nussbaumer, Franziska
+AU  - Fazlollahi, Mohammad Reza
+AU  - Houshmand, Massoud
+AU  - Hamidieh, Amir Ali
+AU  - Bemanian, Mohammad Hassan
+AU  - Nabavi, Mohammad
+AU  - Parvaneh, Nima
+AU  - Grimbacher, Bodo
+AU  - Moin, Mostafa
+AU  - Glocker, Cristina
+TI  - DOCK8 deficiency in six Iranian patients
+JO  - Journal of Fish Biology
+JA  - Clin Case Rep
+VL  - 73
+IS  - 8
+SN  - 9783527319350
+UR  - https://doi.org/10.1111/j.1095-8649.2008.01980.x
+DO  - doi:10.1111/j.1095-8649.2008.01980.x
+SP  - 1833
+EP  - 1871
+KW  - Allergy
+KW  - autosomal recessive
+KW  - DOCK8
+KW  - hyper IgE syndrome
+PY  - 2008
+AB  - Key Clinical Message DOCK8 deficiency is a rare autosomal recessive combined immunodeficiency with high IgE level, eosinophilia, severe eczema, extensive cutaneous viral, and respiratory bacterial infections, mostly in populations with higher prevalence of consanguinity. Molecular diagnosis of this gene is a useful approach for early diagnosis and timely HSCT due to deleterious consequences.
+ER  - 
+
+TY  - JOUR
+AU  - Liu, Ying-Jiao
+AU  - Chen, Jiao
+AU  - Li, Xun
+AU  - Zhou, Xin
+AU  - Hu, Yao-Mei
+AU  - Chu, Shi-Feng
+AU  - Peng, Ye
+AU  - Chen, Nai-Hong
+TI  - Research progress on adenosine in central nervous system diseases
+JO  - Clinical Case Reports
+JA  - CNS Neurosci Ther
+VL  - 4
+IS  - 6
+SN  - 9783527319350
+UR  - https://doi.org/10.1002/ccr3.574
+DO  - doi:10.1002/ccr3.574
+SP  - 593
+EP  - 600
+KW  - adenosine
+KW  - Alzheimer's disease
+KW  - cerebral ischemia
+KW  - depression
+KW  - epilepsy
+KW  - Parkinson's disease
+KW  - sleep disorders
+KW  - structural modification
+PY  - 2016
+AB  - Abstract As an endogenous neuroprotectant agent, adenosine is extensively distributed and is particularly abundant in the central nervous system (CNS). Under physiological conditions, the concentration of adenosine is low intra- and extracellularly, but increases significantly in response to stress. The majority of adenosine functions are receptor-mediated, and primarily include the A1, A2A, A2B, and A3 receptors (A1R, A2AR, A2BR, and A3R). Adenosine is currently widely used in the treatment of diseases of the CNS and the cardiovascular systems, and the mechanisms are related to the disease types, disease locations, and the adenosine receptors distribution in the CNS. For example, the main infarction sites of cerebral ischemia are cortex and striatum, which have high levels of A1 and A2A receptors. Cerebral ischemia is manifested with A1R decrease and A2AR increase, as well as reduction in the A1R-mediated inhibitory processes and enhancement of the A2AR-mediated excitatory process. Adenosine receptor dysfunction is also involved in the pathology of Alzheimer's disease (AD), depression, and epilepsy. Thus, the adenosine receptor balance theory is important for brain disease treatment. The concentration of adenosine can be increased by endogenous or exogenous pathways due to its short half-life and high inactivation properties. Therefore, we will discuss the function of adenosine and its receptors, adenosine formation, and metabolism, and its role for the treatment of CNS diseases (such as cerebral ischemia, AD, depression, Parkinson's disease, epilepsy, and sleep disorders). This article will provide a scientific basis for the development of novel adenosine derivatives through adenosine structure modification, which will lead to experimental applications.
+ER  - 
+
+TY  - JOUR
+AU  - Perlee, Desiree
+AU  - van Vught, Lonneke A.
+AU  - Scicluna, Brendon P.
+AU  - Maag, Anja
+AU  - Lutter, René
+AU  - Kemper, Elles M.
+AU  - van ‘t Veer, Cornelis
+AU  - Punchard, Marie A.
+AU  - González, Jesús
+AU  - Richard, Marie Paule
+AU  - Dalemans, Wilfried
+AU  - Lombardo, Eleuterio
+AU  - de Vos, Alex F.
+AU  - van der Poll, Tom
+TI  - Intravenous Infusion of Human Adipose Mesenchymal Stem Cells Modifies the Host Response to Lipopolysaccharide in Humans: A Randomized, Single-Blind, Parallel Group, Placebo Controlled Trial
+JO  - CNS Neuroscience & Therapeutics
+JA  - Stem Cells
+VL  - 25
+IS  - 9
+SN  - 9783527319350
+UR  - https://doi.org/10.1111/cns.13190
+DO  - doi:10.1111/cns.13190
+SP  - 899
+EP  - 910
+KW  - Adipose stem cells
+KW  - Cellular therapy
+KW  - Clinical trials
+KW  - Mesenchymal stem cells
+PY  - 2019
+AB  - Abstract In experimental models, mesenchymal stem cells (MSCs) can modulate various immune responses implicated in the pathogenesis of sepsis. Intravenous injection of lipopolysaccharide (LPS) into healthy subjects represents a model with relevance for the host response to sepsis. To explore the use of MSCs in sepsis, we determined their effect on the response to intravenous LPS in a randomized study in 32 healthy subjects with four treatment arms: placebo or allogeneic adipose MSCs (ASCs) intravenously at either 0.25 ? 106, 1 ? 106, or 4 ? 106 cells/kg; all subjects received LPS intravenously (2 ng/kg) one hour after the end of ASC infusion (Trial Register number 2014-002537-63, clinicaltrials.gov identifier NCT02328612). Infusion of ASCs was well tolerated. The high ASC dose increased the febrile response, exerted mixed pro-inflammatory (enhanced interleukin-8 and nucleosome release) and anti-inflammatory effects (increased interleukin-10 and transforming growth factor-? release), and enhanced coagulation activation and reduced the fibrinolytic response. Blood leukocyte transcriptome analyses showed a biphasic effect of ASCs on the LPS response: at 2 hours post LPS, ASC-infused subjects displayed higher expression of genes involved in innate immune pathways, whereas at 4 hours post LPS these subjects had lower expression of innate immune pathway genes. Infusion of ASCs did not modify the ?ex vivo? responsiveness of whole blood to various bacterial agonists. These results indicate that intravenous infusion of allogeneic ASCs (4 ? 106 cells/kg) has a variety of proinflammatory, anti-inflammatory, and procoagulant effects during human endotoxemia. Further studies are needed to assess the safety and efficacy of ASCs in sepsis patients. Stem Cells 2018;36:1778?1788
+ER  - 
+
+TY  - JOUR
+AU  - Oby, Emily
+AU  - Janigro, Damir
+TI  - The Blood–Brain Barrier and Epilepsy
+JO  - STEM CELLS
+VL  - 36
+IS  - 11
+SN  - 9783527319350
+UR  - https://doi.org/10.1002/stem.2891
+DO  - doi:10.1002/stem.2891
+SP  - 1778
+EP  - 1788
+KW  - Antiepileptic drugs
+KW  - Membrane transport proteins
+KW  - Monosaccharide transport proteins
+KW  - Epileptogenesis
+KW  - Cerebral blood flow
+PY  - 2018
+AB  - Summary:? During the past several years, there has been increasing interest in the role of the blood?brain barrier (BBB) in epilepsy. Advances in neuroradiology have enhanced our ability to image and study the human cerebrovasculature, and further developments in the research of metabolic deficiencies linked to seizure disorders (e.g., GLUT1 deficiency), neuroinflammation, and multiple drug resistance to antiepileptic drugs (AEDs) have amplified the significance of the BBB's relationship to epilepsy. ?Prior to 1986, BBB research in epilepsy focused on three main areas: ultrastructural studies, brain glucose availability and transport, and clinical uses of AEDs. However, contrast-based imaging techniques and medical procedures such as BBB disruption provided a framework that demonstrated that the BBB could be reversibly disrupted by pathologic or iatrogenic manipulations, with important implications in terms of CNS drug delivery to ?multiple drug resistant? brain. This concept of BBB breakdown for therapeutic purposes has also unveiled a previously unrecognized role for BBB failure as a possible etiologic mechanism in epileptogenesis. Finally, a growing body of evidence has shown that inflammatory mechanisms may participate in the pathological changes observed in epileptic brain, with increasing awareness that blood-borne cells or signals may participate in epileptogenesis by virtue of a leaky BBB. In this article we will review the relationships between BBB function and epilepsy. In particular, we will illustrate consensus and divergence between clinical reality and animal studies.
+ER  - 
+
+TY  - JOUR
+AU  - Terblanche, Marius
+AU  - Assmann, Nicole
+TI  - Shock
+JO  - Epilepsia
+JA  - Griffiths/Cardiovascular Critical Care
+VL  - 47
+IS  - 11
+SN  - 9783527319350
+UR  - https://doi.org/10.1111/j.1528-1167.2006.00817.x
+DO  - doi:10.1111/j.1528-1167.2006.00817.x
+SP  - 1761
+EP  - 1774
+KW  - hypoxia inducible factor (HIF)
+KW  - the sympathetic nervous system (SNS)
+KW  - vasoconstriction increases mean arterial pressure (MAP)
+KW  - Pattern recognition receptors (PRRs)
+KW  - Other high output shock states
+KW  - Effects of activation of the pro-inflammatory system
+KW  - protein C system and tissue factor pathway inhibitor (TFPI)
+KW  - Neuro-endocrine system
+PY  - 2006
+AB  - Summary This chapter contains sections titled: Introduction Low output states High output states The pathway to organ failure Conclusion References
+ER  - 
+
+AU  - Duggan, C. J.
+AU  - Willsteed, E. M.
+AU  - McCrossin, I. D.
+AU  - Ma, D. D. F.
+C7  - pp. 1-21
+TI  - Sweet's syndrome associated with sideroblastic anaemia
+SN  - 9781405148573
+UR  - https://doi.org/10.1002/9781444314502.ch1
+DO  - doi:10.1002/9781444314502.ch1
+SP  - 1-21
+KW  - Sideroblastic anaemia
+KW  - myelodysplasia
+KW  - Sweet's syndrome.
+PY  - 2006
+AB  - Abstract Previous reports have noted an association between Sweet's syndrome (acute febrile neutrophilic dermatosis) and leukaemia, and less commonly other haematological abnormalities. We report a previously unrecognised association between Sweet's syndrome (SS) and sideroblastic anaemia (myelodysplastic syndrome?refractory anaemia with ring sideroblasts). Both patients were males and one had prominent extracutaneous features of SS. Bone marrow cytogenetic studies were normal in this latter patient and neither patient showed progression to leukaemia.
+ER  - 
+
+TY  - JOUR
+AU  - Srikuea, Ratchakrit
+AU  - Pholpramool, Chumpol
+AU  - Kitiyanant, Yindee
+AU  - Yimlamai, Tossaporn
+TI  - Satellite cell activity in muscle regeneration after contusion in rats
+JO  - Australian and New Zealand Journal of Medicine
+VL  - 20
+IS  - 2
+SN  - 9781405148573
+UR  - https://doi.org/10.1111/j.1445-5994.1990.tb01300.x
+DO  - doi:10.1111/j.1445-5994.1990.tb01300.x
+SP  - 179
+EP  - 181
+KW  - muscle contusion
+KW  - muscle regeneration
+KW  - MyoD
+KW  - myogenin
+KW  - myostatin
+KW  - satellite cells
+PY  - 1990
+AB  - Summary 1. The role of satellite cells in muscle growth during development is well documented, but the involvement of these cells in muscle repair after contusion is less well known. In the present study, we investigated the time-course of satellite cell activity (from 3?h to 7?days) after contusion of rat gastrocnemius muscle using specific molecular markers for immunofluorescence and real-time polymerase chain reaction (PCR). 2. Inflammation of the injured muscle occurred within 6?h, followed by disintegration of the damaged myofibres within 12?h. Newly formed myofibres appeared by Day 7. 3. The number of MyoD-positive nuclei (activated satellite cells) in the injured muscle was significantly increased by 6?h, reaching a maximum by 12?h after contusion. However, the number of MyoD-positive nuclei decreased towards control levels by Day 7. Changes in the number of bromodeoxyuridine-labelled nuclei (proliferating satellite cells) paralleled the changes seen in the number of MyoD-positive nuclei. Conversely, expression of myogenin protein was not apparent until Day 3 and increased further by Day 7. Colabelling of MyoD and myogenin was seen in only a few cells. 4. The time-course of MyoD mRNA expression corresponded with MyoD protein expression. However, there were two peaks in myogenin mRNA expression: 6?h and Day 7 after contusion. The second peak coincided with upregulation of myostatin mRNA levels. 5. The results of the present study suggest that contusion activates a homogeneous population of satellite cells to proliferate within 3?days, followed by differentiation to form new myofibres. The latter may be regulated, in part, by myostatin.
+ER  - 
+
+TY  - JOUR
+AU  - Guzman, Norberto A.
+AU  - Phillips, Terry M.
+TI  - Immunoaffinity capillary electrophoresis: A new versatile tool for determining protein biomarkers in inflammatory processes
+JO  - Clinical and Experimental Pharmacology and Physiology
+JA  - ELECTROPHORESIS
+VL  - 37
+IS  - 11
+SN  - 9781405148573
+UR  - https://doi.org/10.1111/j.1440-1681.2010.05439.x
+DO  - doi:10.1111/j.1440-1681.2010.05439.x
+SP  - 1078
+EP  - 1086
+KW  - Immunoaffinity capillary electrophoresis
+KW  - Microscale metabolic studies
+KW  - Organ-on-a-chip
+KW  - Protein biomarkers
+KW  - Single cell capture device
+PY  - 2010
+AB  - Abstract Many diseases caused by inflammatory processes can progress to a chronic state causing deterioration in the quality of life and a poor prognosis for long-term survival. To address inflammatory diseases effectively, early detection and novel therapeutics are required. However, this can be challenging, in part because of the lack of early predictive biomarkers and the limited availability of adequate technologies capable of the identification/characterization of key predictive biomarkers present in biological materials, especially those found at picomolar concentrations and below. This review highlights the need for state-of-the art methodologies, with high-sensitivity and high-throughput capabilities, for determination of multiple biomarkers. Although many new biomarkers have been discovered recently, existing technology has failed to successfully bring this advancement to the patient's bedside. We present an overview of the various advances available today to extend the discovery of predictive biomarkers of inflammatory diseases; in particular, we review the technology of immunoaffinity capillary electrophoresis (IACE), which combines the use of antibodies as highly selective capture agents with the high resolving power of capillary electrophoresis. This two-dimensional hybrid technology permits the quantification and characterization of several protein biomarkers simultaneously, including subtle structural changes such as variants, isoforms, peptide fragments, and post-translational modifications. Furthermore, the results are rapid, sensitive, can be performed at a relatively low cost, without the introduction of false positive or false negative data. The IACE instrumentation can have relevance to medical, pharmaceutical, environmental, military, cultural heritage (authenticity of art work), forensic science, industrial and research fields, and in particular as a point-of-care biomarker analyzer in translational medicine.
+ER  - 
+
+TY  - JOUR
+AU  - FITZGERALD, REBECCA L.
+AU  - McBURNEY, ELIZABETH I.
+AU  - NESBITT Jr, LEE T.
+TI  - SWEET'S SYNDROME
+JO  - ELECTROPHORESIS
+VL  - 32
+IS  - 13
+SN  - 9781405148573
+UR  - https://doi.org/10.1002/elps.201000700
+DO  - doi:10.1002/elps.201000700
+SP  - 1565
+EP  - 1578
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+AU  - HEMSLEY, S.
+AU  - GOVENDIR, M.
+AU  - CANFIELD, PJ
+AU  - CONNOLLY, JH
+TI  - Diabetes mellitus in a koala (Phascolarctos cinereus)
+JO  - International Journal of Dermatology
+VL  - 35
+IS  - 1
+SN  - 9781405148573
+UR  - https://doi.org/10.1111/j.1365-4362.1996.tb01607.x
+DO  - doi:10.1111/j.1365-4362.1996.tb01607.x
+SP  - 9
+EP  - 15
+KW  - Koala
+KW  - diabetes mellitus
+KW  - pancreas
+KW  - hyperglycaemia
+KW  - glucosuria
+PY  - 1996
+AB  - Objective To describe a case of diabetes mellitus in a koala (Phascolarctos cinereus). Design A case report with controls. Procedures We describe clinical and laboratory findings in a 6-year-old, free-living, female koala presented with traumatic injury and subsequently found to have polydipsia, hyperglycaemia and glucosuria. Over a 5 week period, serum biochemical analyses, haematological examinations, urinal-yses, measurement of serum insulin and fructosamine concentrations, necropsy, histopathological examination of a range of tissues and immunohistochemical examination of the pancreas for insulin-containing cells were done. For reference purposes, serum insulin and fructosamine concentrations were determined in four and two healthy koalas, respectively, and three healthy koalas pancreases were examined histo-logically and immunohistochemically. Results The koala had persistent hyperglycaemia, hyperlipidaemia, hyponatraemia, hypochloraemia and glucosuria. Serum insulin concentration of the diabetic koala was only marginally smaller than that of healthy koalas, but all concentrations were smaller than reference concentrations in dogs and people. Fructosamine concentration did not allow the diabetic koala to be distinguished from healthy koalas and concentrations of all koala analytes were greater than expected for healthy dogs and people. Histopathological examination revealed extensive degeneration of pancreatic islet cells and fatty infiltration of hepatocytes. Immunoperoxidase staining revealed decreased or absent insulin in the b cells of the affected koala. Conclusion Clinical signs, clinicopathological results and histopathological changes were consistent with diabetes mellitus. The pathogenesis of the condition could not be determined but may have been related to the administration of a parenteral corticosteroid preparation, the stress of capture or tissue damage and inflammation.
+ER  - 
+
+TY  - JOUR
+AU  - Bashant, Kathleen R
+AU  - Toepfner, Nicole
+AU  - Day, Christopher J
+AU  - Mehta, Nehal N
+AU  - Kaplan, Mariana J
+AU  - Summers, Charlotte
+AU  - Guck, Jochen
+AU  - Chilvers, Edwin R
+TI  - The mechanics of myeloid cells
+JO  - Australian Veterinary Journal
+JA  - Biol. Cell
+VL  - 76
+IS  - 3
+SN  - 9781405148573
+UR  - https://doi.org/10.1111/j.1751-0813.1998.tb10130.x
+DO  - doi:10.1111/j.1751-0813.1998.tb10130.x
+SP  - 203
+EP  - 208
+KW  - cell motility/contraction
+KW  - cell migration/adhesion
+KW  - heart/lung/blood vessels
+KW  - metastasis
+KW  - disease
+PY  - 1998
+AB  - Abstract The effects of cell size, shape and deformability on cellular function have long been a topic of interest. Recently, mechanical phenotyping technologies capable of analysing large numbers of cells in real time have become available. This has important implications for biology and medicine, especially haemato-oncology and immunology, as immune cell mechanical phenotyping, immunologic function, and malignant cell transformation are closely linked and potentially exploitable to develop new diagnostics and therapeutics. In this review, we introduce the technologies used to analyse cellular mechanical properties and review emerging findings following the advent of high throughput deformability cytometry. We largely focus on cells from the myeloid lineage, which are derived from the bone marrow and include macrophages, granulocytes and erythrocytes. We highlight advances in mechanical phenotyping of cells in suspension that are revealing novel signatures of human blood diseases and providing new insights into pathogenesis of these diseases. The contributions of mechanical phenotyping of cells in suspension to our understanding of drug mechanisms, identification of novel therapeutics and monitoring of treatment efficacy particularly in instances of haematologic diseases are reviewed, and we suggest emerging topics of study to explore as high throughput deformability cytometers become prevalent in laboratories across the globe.
+ER  - 
+
+TY  - JOUR
+AU  - Mauermann, Michelle L.
+AU  - Scheithauer, Bernd W.
+AU  - Spinner, Robert J.
+AU  - Amrami, Kimberly K.
+AU  - Nance, Christopher S.
+AU  - Kline, David G.
+AU  - O’Connor, Mary I.
+AU  - Dyck, Peter J.
+AU  - Engelstad, JaNean
+AU  - Dyck, P. James B.
+TI  - Inflammatory pseudotumor of nerve: clinicopathological characteristics and a potential therapy
+JO  - Biology of the Cell
+VL  - n/a
+IS  - n/a
+SN  - 9781405148573
+UR  - https://doi.org/10.1111/boc.201900084
+DO  - doi:10.1111/boc.201900084
+KW  - fibrosis
+KW  - inflammation
+KW  - mononeuropathy
+KW  - peripheral neuropathy
+KW  - pseudotumor
+AB  - We sought to determine the clinical, electrophysiological, neuroimaging, and pathological features of inflammatory pseudotumor of nerve. Five patients were identified. All cases presented with a gradually progressive mononeuropathy with symptoms of weakness, sensory loss, and prominent neuropathic pain. The median duration of symptoms was 7 months (range 3?36 months). Electrophysiological results were in keeping with chronic axonal mononeuropathies with variable findings of active denervation and reinnervation. MRI demonstrated irregular, large masses involving and surrounding nerve with heterogenous signal characteristics on T1- and T2-weighted and post-contrast sequences. Histopathological features of the nerve slightly varied but shared commonalities including chronic inflammatory infiltrates, increased collagen, and increased numbers of microvessels. Axonal degeneration and decreased density of myelinated fibers were also noted. Three patients were treated with weekly courses of intravenous steroids for 3 months. All reported improvement in pain and weakness. Inflammatory pseudotumor of nerve is not a neoplasm and has reactive features of inflammation, increased vascularity, and marked fibrosis. It presents as a progressive axonal mononeuropathy with weakness, sensory loss, and pain that may be episodic. The primary pathophysiology is unknown but the inflammation and response to treatment suggests that there may be an immune component.
+ER  - 
+
+TY  - JOUR
+AU  - Mori, Daniel N.
+AU  - Kreisel, Daniel
+AU  - Fullerton, James N.
+AU  - Gilroy, Derek W.
+AU  - Goldstein, Daniel R.
+TI  - Inflammatory triggers of acute rejection of organ allografts
+JO  - Journal of the Peripheral Nervous System
+JA  - Immunol Rev
+VL  - 15
+IS  - 3
+SN  - 9781405148573
+UR  - https://doi.org/10.1111/j.1529-8027.2010.00273.x
+DO  - doi:10.1111/j.1529-8027.2010.00273.x
+SP  - 216
+EP  - 226
+KW  - inflammation
+KW  - resolution
+KW  - organ transplantation
+PY  - 2010
+AB  - Summary Solid organ transplantation is a vital therapy for end stage diseases. Decades of research have established that components of the adaptive immune system are critical for transplant rejection, but the role of the innate immune system in organ transplantation is just emerging. Accumulating evidence indicates that the innate immune system is activated at the time of organ implantation by the release of endogenous inflammatory triggers. This review discusses the nature of these triggers in organ transplantation and also potential mediators that may enhance inflammation resolution after organ implantation.
+ER  - 
+
+TY  - JOUR
+TI  - Ards
+JO  - Immunological Reviews
+VL  - 258
+IS  - 1
+SN  - 9781405148573
+UR  - https://doi.org/10.1111/imr.12146
+DO  - doi:10.1111/imr.12146
+SP  - 132
+EP  - 144
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+AU  - Brines, M.
+AU  - Cerami, A.
+TI  - Erythropoietin-mediated tissue protection: reducing collateral damage from the primary injury response
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 40
+IS  - s109
+SN  - 9781405148573
+UR  - https://doi.org/10.1111/j.1399-6576.1996.tb04577.x
+DO  - doi:10.1111/j.1399-6576.1996.tb04577.x
+SP  - 61
+EP  - 74
+KW  - apoptosis
+KW  - cytokines
+KW  - cytoprotection
+KW  - healing
+KW  - inflammation
+KW  - regeneration
+PY  - 1996
+AB  - Abstract. In its classic hormonal role, erythropoietin (EPO) is produced by the kidney and regulates the number of erythrocytes within the circulation to provide adequate tissue oxygenation. EPO also mediates other effects directed towards optimizing oxygen delivery to tissues, e.g. modulating regional blood flow and reducing blood loss by promoting thrombosis within damaged vessels. Over the past 15?years, many unexpected nonhaematopoietic functions of EPO have been identified. In these more recently appreciated nonhormonal roles, locally-produced EPO signals through a different receptor isoform and is a major molecular component of the injury response, in which it counteracts the effects of pro-inflammatory cytokines. Acutely, EPO prevents programmed cell death and reduces the development of secondary, pro-inflammatory cytokine-induced injury. Within a longer time frame, EPO provides trophic support to enable regeneration and healing. As the region immediately surrounding damage is typically relatively deficient in endogenous EPO, administration of recombinant EPO can provide increased tissue protection. However, effective use of EPO as therapy for tissue injury requires higher doses than for haematopoiesis, potentially triggering serious adverse effects. The identification of a tissue-protective receptor isoform has facilitated the engineering of nonhaematopoietic, tissue-protective EPO derivatives, e.g. carbamyl EPO, that avoid these complications. Recently, regions within the EPO molecule mediating tissue protection have been identified and this has enabled the development of potent tissue-protective peptides, including some mimicking EPO?s tertiary structure but unrelated in primary sequence.
+ER  - 
+
+TY  - JOUR
+TI  - Erythropoietin‐mediated tissue protection: reducing collateral damage from the primary injury response
+JO  - Journal of Internal Medicine
+VL  - 264
+IS  - 5
+SN  - 9781405148573
+UR  - https://doi.org/10.1111/j.1365-2796.2008.02024.x
+DO  - doi:10.1111/j.1365-2796.2008.02024.x
+SP  - 405
+EP  - 432
+PY  - 2008
+ER  - 

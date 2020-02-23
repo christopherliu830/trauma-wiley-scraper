@@ -1,0 +1,548 @@
+
+TY  - JOUR
+AU  - Bayraktar, Samet
+AU  - Jungbluth, Pascal
+AU  - Deenen, René
+AU  - Grassmann, Jan
+AU  - Schneppendahl, Johannes
+AU  - Eschbach, Daphne
+AU  - Scholz, Armin
+AU  - Windolf, Joachim
+AU  - Suschek, Christoph V.
+AU  - Grotheer, Vera
+C8  - TERM-16-0094.R2
+TI  - Molecular- and microarray-based analysis of diversity among resting and osteogenically induced porcine mesenchymal stromal cells of several tissue origin
+JO  - Journal of Tissue Engineering and Regenerative Medicine
+JA  - J Tissue Eng Regen Med
+VL  - 12
+IS  - 1
+SN  - 1932-6254
+UR  - https://doi.org/10.1002/term.2375
+DO  - doi:10.1002/term.2375
+SP  - 114
+EP  - 128
+KW  - osteogenesis
+KW  - osteogenic differentiation potential
+KW  - mesenchymal stromal cells
+KW  - BMP-2
+KW  - platelet-rich plasma
+PY  - 2018
+AB  - Abstract Mesenchymal stromal cells (MSCs) play a pivotal role in modern therapeutic approaches in bone-healing disorders. Although bone marrow-derived MSCs are most frequently used, the knowledge that many other adult tissues represent promising sources for potent MSCs has gained acceptance. In the present study, the osteogenic differentiation potential of porcine skin fibroblasts (FBs), as well as bone marrow- (BMSCs), adipose tissue- (ASCs) and dental pulp-derived stromal cells (DSCs) were evaluated. However, additional application of BMP-2 significantly elevated the delayed osteogenic differentiation capacity of ASC and FB cultures, and in DSC cultures the supplementation of platelet-rich plasma increased osteogenic differentiation potential to a comparable level of the good differentiable BMSCs. Furthermore, microarray gene expression performed in an exemplary manner for ASCs and BMSCs revealed that ASCs and BMSCs use different gene expression patterns for osteogenic differentiation under standard media conditions, as diverse MSCs are imprinted dependent from their tissue niche. However, after increasing the differentiation potential of ASCs to a comparable level as shown in BMSCs, a small subset of identical key molecules was used to differentiate in the osteogenic lineage. Until now, the importance of identified genes seems to be underestimated for osteogenic differentiation. Apparently, the regulation of transmembrane protein 229A, interleukin-33 and the fibroblast growth factor receptor-2 in the early phase of osteogenic differentiation is needed for optimum results. Based on these results, bone regeneration strategies of MSCs have to be adjusted, and in vivo studies on the osteogenic capacities of the different types of MCSs are warranted. Copyright ? 2016 The Authors Tissue Engineering and Regenerative Medicine published by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Kogawa, Masakazu
+AU  - Wijenayaka, Asiri R
+AU  - Ormsby, Renee T
+AU  - Thomas, Gethin P
+AU  - Anderson, Paul H
+AU  - Bonewald, Lynda F
+AU  - Findlay, David M
+AU  - Atkins, Gerald J
+TI  - Sclerostin Regulates Release of Bone Mineral by Osteocytes by Induction of Carbonic Anhydrase 2
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 28
+IS  - 12
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.2003
+DO  - doi:10.1002/jbmr.2003
+SP  - 2436
+EP  - 2448
+KW  - SCLEROSTIN
+KW  - SOST
+KW  - CARBONIC ANHYDRASE 2
+KW  - OSTEOCYTE
+KW  - OSTEOCYTIC OSTEOLYSIS
+PY  - 2013
+AB  - ABSTRACT The osteocyte product sclerostin is emerging as an important paracrine regulator of bone mass. It has recently been shown that osteocyte production of receptor activator of NF-?B ligand (RANKL) is important in osteoclastic bone resorption, and we reported that exogenous treatment of osteocytes with sclerostin can increase RANKL-mediated osteoclast activity. There is good evidence that osteocytes can themselves liberate mineral from bone in a process known as osteocytic osteolysis. In the current study, we investigated sclerostin-stimulated mineral dissolution by human primary osteocyte-like cells (hOCy) and mouse MLO-Y4 cells. We found that sclerostin upregulated osteocyte expression of carbonic anhydrase 2 (CA2/Car2), cathepsin K (CTSK/Ctsk), and tartrate-resistant acid phosphatase (ACP5/Acp5). Because acidification of the extracellular matrix is a critical step in the release of mineral from bone, we further examined the regulation by sclerostin of CA2. Sclerostin stimulated CA2 mRNA and protein expression in hOCy and in MLO-Y4 cells. Sclerostin induced a decrease in intracellular pH (pHi) in both cell types as well as a decrease in extracellular pH (pHo) and the release of calcium ions from mineralized substrate. These effects were reversed in the co-presence of the carbonic anhydrase inhibitor, acetozolamide. Car2-siRNA knockdown in MLO-Y4 cells significantly inhibited the ability of sclerostin to both reduce the pHo and release calcium from a mineralized substrate. Knockdown in MLO-Y4 cells of each of the putative sclerostin receptors, Lrp4, Lrp5 and Lrp6, using siRNA, inhibited the sclerostin induction of Car2, Catk and Acp5 mRNA, as well as pHo and calcium release. Consistent with this activity of sclerostin resulting in osteocytic osteolysis, human trabecular bone samples treated ex vivo with recombinant human sclerostin for 7 days exhibited an increased osteocyte lacunar area, an effect that was reversed by the co-addition of acetozolamide. These findings suggest a new role for sclerostin in the regulation of perilacunar mineral by osteocytes. ? 2013 American Society for Bone and Mineral Research.
+ER  - 
+
+TY  - JOUR
+AU  - Föller, Michael
+AU  - Jaumann, Mirko
+AU  - Dettling, Juliane
+AU  - Saxena, Ambrish
+AU  - Pakladok, Tatsiana
+AU  - Munoz, Carlos
+AU  - Ruth, Peter
+AU  - Sopjani, Mentor
+AU  - Seebohm, Guiscard
+AU  - Rüttiger, Lukas
+AU  - Knipper, Marlies
+AU  - Lang, Florian
+TI  - AMP-activated protein kinase in BK-channel regulation and protection against hearing loss following acoustic overstimulation
+JO  - The FASEB Journal
+JA  - The FASEB Journal
+VL  - 26
+IS  - 10
+SN  - 0892-6638
+UR  - https://doi.org/10.1096/fj.12-208132
+DO  - doi:10.1096/fj.12-208132
+SP  - 4243
+EP  - 4253
+KW  - energy depletion
+KW  - Ca2+ activated K+ channels
+KW  - inner ear
+KW  - acoustic trauma
+PY  - 2012
+AB  - The energy-sensing AMP-activated serine/threonine protein kinase (AMPK) confers cell survival in part by stimulation of cellular energy production and limitation of cellular energy utilization. AMPK-sensitive functions further include activities of epithelial Na+ channel ENaC and voltage-gated K+ channel KCNE1/KCNQ1. AMPK is activated by an increased cytosolic Ca2+ concentration. The present study explored whether AMPK regulates the Ca2+-sensitive large conductance and voltage-gated potassium (BK) channel. cRNA encoding BK channel was injected into Xenopus oocytes with and without additional injection of wild-type AMPK (AMPKα1+AMPK?1+AMPK?1), constitutively active AMPK?R70Q, or inactive AMPKαK45R. BK-channel activity was determined utilizing the 2-electrode voltage-clamp. Moreover, BK-channel protein abundance in the cell membrane was determined by confocal immunomicroscopy. As BK channels are expressed in outer hair cells (OHC) of the inner ear and lack of BK channels increases noise vulnerability, OHC BK-channel expression was examined by immunohistochemistry and hearing function analyzed by auditory brain stem response measurements in AMPKα1-deficient mice (ampk?/?) and in wild-type mice (ampk+/+). As a result, coexpression of AMPK or AMPK?R70Q but not of AMPKαK45R significantly enhanced BK-channel-mediated currents and BK-channel protein abundance in the oocyte cell membrane. BK-channel expression in the inner ear was lower in ampk?/? mice than in ampk+/+ mice. The hearing thresholds prior to and immediately after an acoustic overexposure were similar in ampk?/? and ampk+/+ mice. However, the recovery from the acoustic trauma was significantly impaired in ampk?/?mice compared to ampk+/+ mice. In summary, AMPK is a potent regulator of BK channels. It may thus participate in the signaling cascades that protect the inner ear from damage following acoustic overstimulation.?Föller, M., Jaumann, M., Dettling, J., Saxena, A., Pakladok, T., Munoz, C., Ruth, P., Sopjani, M., Seebohm, G., Rüttiger, L., Knipper, M., Lang, F. AMP-activated protein kinase in BK-channel regulation and protection against hearing loss following acoustic overstimulation. FASEB J. 26, 4243?4253 (2012). www.fasebj.org
+ER  - 
+
+TY  - JOUR
+AU  - Gulati, Karan
+AU  - Prideaux, Matthew
+AU  - Kogawa, Masakazu
+AU  - Lima-Marques, Luis
+AU  - Atkins, Gerald J.
+AU  - Findlay, David M.
+AU  - Losic, Dusan
+C8  - TERM-16-0012.R1
+TI  - Anodized 3D–printed titanium implants with dual micro- and nano-scale topography promote interaction with human osteoblasts and osteocyte-like cells
+JO  - Journal of Tissue Engineering and Regenerative Medicine
+JA  - J Tissue Eng Regen Med
+VL  - 11
+IS  - 12
+SN  - 1932-6254
+UR  - https://doi.org/10.1002/term.2239
+DO  - doi:10.1002/term.2239
+SP  - 3313
+EP  - 3325
+KW  - 3D–printing
+KW  - titanium
+KW  - titania nanotubes
+KW  - bone implants
+KW  - osteoblast phenotype
+PY  - 2017
+AB  - Abstract The success of implantation of materials into bone is governed by effective osseointegration, requiring biocompatibility of the material and the attachment and differentiation of osteoblastic cells. To enhance cellular function in response to the implant surface, micro- and nano-scale topography have been suggested as essential. In this study, we present bone implants based on 3D?printed titanium alloy (Ti6Al4V), with a unique dual topography composed of micron-sized spherical particles and vertically aligned titania nanotubes. The implants were prepared by combination of 3D?printing and anodization processes, which are scalable, simple and cost-effective. The osseointegration properties of fabricated implants, examined using human osteoblasts, showed enhanced adhesion of osteoblasts compared with titanium materials commonly used as orthopaedic implants. Gene expression studies at early (day 7) and late (day 21) stages of culture were consistent with the Ti substrates inducing an osteoblast phenotype conducive to effective osseointegration. These implants with the unique combination of micro- and nano-scale topography are proposed as the new generation of multi-functional bone implants, suitable for addressing many orthopaedic challenges, including implant rejection, poor osseointegration, inflammation, drug delivery and bone healing. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Jakeman, Lyn B.
+AU  - Chen, Ying
+AU  - Lucin, Kurt M.
+AU  - McTigue, Dana M.
+TI  - Mice lacking L1 cell adhesion molecule have deficits in locomotion and exhibit enhanced corticospinal tract sprouting following mild contusion injury to the spinal cord
+JO  - European Journal of Neuroscience
+VL  - 23
+IS  - 8
+SN  - 0953-816X
+UR  - https://doi.org/10.1111/j.1460-9568.2006.04721.x
+DO  - doi:10.1111/j.1460-9568.2006.04721.x
+SP  - 1997
+EP  - 2011
+KW  - biotinylated dextran amine
+KW  - BMS
+KW  - catwalk
+KW  - gridwalk
+KW  - Schwann cells
+KW  - sprouting
+PY  - 2006
+AB  - Abstract L1 is a member of the immunoglobulin superfamily of cell adhesion molecules that is associated with axonal growth, including formation of the corticospinal tract (CST). The present study describes the effects of L1 deletion on hindlimb function in locomotion, and examines the role of L1 in recovery and remodeling after contusive spinal cord injury (SCI) in mice. Uninjured adult L1 knockout (Y/?) mice had impaired performance on locomotor tests compared with their wild-type littermates (Y/+). Anterograde tracing demonstrated that CST axons project to thoracic, but not lumbar, levels of the spinal cord of Y/? mice, and revealed a diversion of these fibers from their position in the base of the dorsal columns. Retrograde tracing also revealed reduced numbers of descending projections from paraventricular hypothalamus and red nuclei to the lumbar spinal cord in Y/? mice. SCI at the mid-thoracic level produced a lesion encompassing the center of the spinal cord, including the site of the dorsal CST and surrounding gray matter (GM). The injury caused lasting deficits in fine aspects of locomotion. There was no effect of genotype on final lesion size or the growth of axons into the lesion area. However, injured Y/? mice demonstrated a robust expansion of CST projections throughout the GM of the cervical and thoracic spinal cord rostral to the lesion compared with Y/+ littermates. Thus, L1 is important for the development of multiple spinal projections and also contributes to the restriction of CST sprouting rostral to the site of a SCI in adults.
+ER  - 
+
+TY  - JOUR
+AU  - Zulak, Katherine G.
+AU  - Bohlmann, Jörg
+TI  - Terpenoid Biosynthesis and Specialized Vascular Cells of Conifer Defense
+JO  - Journal of Integrative Plant Biology
+VL  - 52
+IS  - 1
+SN  - 1672-9072
+UR  - https://doi.org/10.1111/j.1744-7909.2010.00910.x
+DO  - doi:10.1111/j.1744-7909.2010.00910.x
+SP  - 86
+EP  - 97
+PY  - 2010
+AB  - Abstract Defense-related terpenoid biosynthesis in conifers is a dynamic process closely associated with specialized anatomical structures that allows conifers to cope with attack from many potential pests and pathogens. The constitutive and inducible terpenoid defense of conifers involves several hundred different monoterpenes, sesquiterpenes and diterpenes. Changing arrays of these many compounds are formed from the general isoprenoid pathway by activities of large gene families for two classes of enzymes, the terpene synthases and the cytochrome P450-dependent monooxygenases of the CYP720B group. Extensive studies have been conducted on the genomics, proteomics and molecular biochemical characterization of these enzymes. Many of the conifer terpene synthases are multi-product enzymes, and the P450 enzymes of the CYP720B group are promiscuous in catalyzing multiple oxidations, along homologous series of diterpenoids, from a broad spectrum of substrates. The terpene synthases and CYP720B genes respond to authentic or simulated insect attack with increased transcript levels, protein abundance and enzyme activity. The constitutive and induced oleoresin terpenoids for conifer defense accumulate in preformed cortical resin ducts and in xylem trauma-associated resin ducts. Formation of these resin ducts de novo in the cambium zone and developing xylem, following insect attack or treatment of trees with methyl jasmonate, is a unique feature of the induced defense of long-lived conifer trees.
+ER  - 
+
+AU  - Walton, Thomas J.
+AU  - Mann, Gurminder S.
+C7  - pp. 125-135
+TI  - Emergency Urology
+SN  - 9781405170253
+UR  - https://doi.org/10.1002/9781444315172.ch21
+DO  - doi:10.1002/9781444315172.ch21
+SP  - 125-135
+KW  - urology
+KW  - emergency urology
+KW  - ureteric colic - urolithiasis representing commonest cause of acute ureteric colic
+KW  - ureteric colic - presenting with acute severe loin pain
+KW  - Acute urinary retention (AUR) - common male urological emergency, inability to pass urine
+KW  - urinary tract infection (UTI) - infective conditions as urological emergencies
+KW  - acute pyelonephritis, acute inflammation of renal parenchyma and renal pelvis
+KW  - penoscrotal emergencies
+KW  - paraphimosis, a tight foreskin (phimosis) retracts over glans penis, and is not replaced
+KW  - AAST renal injury grading scale
+PY  - 2010
+AB  - Summary This chapter contains sections titled: Introduction Ureteric colic Acute urinary retention Urinary tract infection Penoscrotal emergencies Genitourinary trauma Ureteric trauma Bladder trauma Urethral trauma External genital trauma Further reading
+ER  - 
+
+TY  - JOUR
+AU  - Dungel, Peter
+AU  - Hartinger, Joachim
+AU  - Chaudary, Sidrah
+AU  - Slezak, Paul
+AU  - Hofmann, Anna
+AU  - Hausner, Thomas
+AU  - Strassl, Martin
+AU  - Wintner, Ernst
+AU  - Redl, Heinz
+AU  - Mittermayr, Rainer
+TI  - Low level light therapy by LED of different wavelength induces angiogenesis and improves ischemic wound healing
+JO  - Lasers in Surgery and Medicine
+JA  - Lasers Surg. Med.
+VL  - 46
+IS  - 10
+SN  - 9781405170253
+UR  - https://doi.org/10.1002/lsm.22299
+DO  - doi:10.1002/lsm.22299
+SP  - 773
+EP  - 780
+KW  - angiogenesis
+KW  - LED light therapy
+KW  - nitric oxide
+KW  - ischemic wound healing
+KW  - skin flap
+PY  - 2014
+AB  - Background and Objective Low-level light therapy (LLLT) has been revealed as a potential means to improve wound healing. So far, most studies are being performed with irradiation in the red to near-infrared spectra. Recently, we showed that blue light (470?nm) can significantly influence biological systems such as nitric oxide (NO) metabolism and is able to release NO from nitrosyl-hemoglobin or mitochondrial protein complexes. Therefore, the aim of this study was to evaluate and compare the therapeutic value of blue or red light emitting diodes (LEDs) on wound healing in an ischemia disturbed rodent flap model. Study Design/Materials and Methods An abdominal flap was rendered ischemic by ligation of one epigastric bundle and subjected to LED illumination with a wavelength of 470?nm (blue, n?=?8) or 629?nm (red, n?=?8) each at 50?mW/cm2 and compared to a non-treated control group (n?=?8). Illumination was performed for 10?minutes on five consecutive days. Results LED therapy with both wavelengths significantly increased angiogenesis in the sub-epidermal layer and intramuscularly (panniculus carnosus muscle) which was associated with significantly improved tissue perfusion 7 days after the ischemic insult. Accordingly, tissue necrosis was significantly reduced and shrinkage significantly less pronounced in the LED-treated groups of both wavelengths. Conclusions LED treatment of ischemia challenged tissue improved early wound healing by enhancing angiogenesis irrespective of the wavelength thus delineating this noninvasive means as a potential, cost effective tool in complicated wounds. Lasers Surg. Med. 46:773?780, 2014. ? 2014 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Hesse, Eliane
+AU  - Freudenberg, Uwe
+AU  - Niemietz, Thomas
+AU  - Greth, Carina
+AU  - Weisser, Melanie
+AU  - Hagmann, Sébastien
+AU  - Binner, Marcus
+AU  - Werner, Carsten
+AU  - Richter, Wiltrud
+C8  - TERM-16-0355.R1
+TI  - Peptide-functionalized starPEG/heparin hydrogels direct mitogenicity, cell morphology and cartilage matrix distribution in vitro and in vivo
+JO  - Journal of Tissue Engineering and Regenerative Medicine
+JA  - J Tissue Eng Regen Med
+VL  - 12
+IS  - 1
+SN  - 9781405170253
+UR  - https://doi.org/10.1002/term.2404
+DO  - doi:10.1002/term.2404
+SP  - 229
+EP  - 239
+PY  - 2018
+AB  - Abstract Cell-based tissue engineering is a promising approach for treating cartilage lesions, but available strategies still provide a distinct composition of the extracellular matrix and an inferior mechanical property compared to native cartilage. To achieve fully functional tissue replacement more rationally designed biomaterials may be needed, introducing bioactive molecules which modulate cell behavior and guide tissue regeneration. This study aimed at exploring the impact of cell-instructive, adhesion-binding (GCWGGRGDSP called RGD) and collagen-binding (CKLER/CWYRGRL) peptides, incorporated in a tunable, matrixmetalloprotease (MMP)-responsive multi-arm poly(ethylene glycol) (starPEG)/heparin hydrogel on cartilage regeneration parameters in vitro and in vivo. MMP-responsive-starPEG-conjugates with cysteine termini and heparin-maleimide, optionally pre-functionalized with RGD, CKLER, CWYRGRL or control peptides, were cross-linked by Michael type addition to embed and grow mesenchymal stromal cells (MSC) or chondrocytes. While starPEG/heparin-hydrogel strongly supported chondrogenesis of MSC according to COL2A1, BGN and ACAN induction, MMP-degradability enhanced cell viability and proliferation. RGD-modification of the gels promoted cell spreading with intense cell network formation without negative effects on chondrogenesis. However, CKLER and CWYRGRL were unable to enhance the collagen content of constructs. RGD-modification allowed more even collagen type II distribution by chondrocytes throughout the MMP-responsive constructs, especially in vivo. Collectively, peptide-instruction via heparin-enriched MMP-degradable starPEG allowed adjustment of self-renewal, cell morphology and cartilage matrix distribution in order to guide MSC and chondrocyte-based cartilage regeneration towards an improved outcome. Copyright ? 2017 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Jablonski, Heidrun
+AU  - Wedemeyer, Christian
+AU  - Rekasi, Heike
+AU  - Fietzek, Heiko
+AU  - Mertens, Tobias
+AU  - Kolb, Max
+AU  - Jäger, Marcus
+AU  - Kauther, Max D.
+C7  - 1801125
+TI  - Laser-Induced Nanostructures on Titanium Surfaces as Developed in the Aeronautics and Space Industry Foster Osteoblast Activity and Function In Vitro
+JO  - Advanced Materials Interfaces
+JA  - Adv. Mater. Interfaces
+VL  - 5
+IS  - 22
+SN  - 9781405170253
+UR  - https://doi.org/10.1002/admi.201801125
+DO  - doi:10.1002/admi.201801125
+SP  - 1801125
+KW  - biocompatibility
+KW  - laser irradiation
+KW  - mineralization
+KW  - nanostructure
+KW  - osteoblast
+KW  - titanium
+PY  - 2018
+AB  - Abstract The stability of orthopedic implants is governed by the interaction between the material's surface and bone cells. Nanosized structures seem to be promising in supporting the osseointegration of total joint replacements. In order to analyze whether nanostructured titanium surfaces, as generated by a short-pulsed Nd:YVO4 laser irradiation process developed in the aeronautics and space industry as a ?cold ablation? process, can be useful for orthopedic applications, their impact on bone cells is evaluated in vitro. Cell spreading and morphology on nanostructured titanium niobium nitride or titanium plasma-sprayed surfaces are comparable to osteoblast behavior on corresponding untreated titanium or cells grown on cover glass. However, on the nanostructured surfaces cell numbers appear to be reduced. Nonetheless, cell viability is not affected by laser pretreatment. Interestingly, osteoblast proliferation on nanostructured titanium is inhibited to the benefit of an increased production of osteoblast-specific proteins such as bone alkaline phosphatase, osteocalcin, or procollagen. Furthermore, an enhanced mineralization of cells grown on nanostructured surfaces is confirmed in terms of an elevated hydroxyapatite deposition. Laser irradiation leads to an additional nanostructure on microstructured titanium surfaces and might positively affect the biocompatibility and ingrowth of prostheses made from the corresponding biomaterials.
+ER  - 
+
+TY  - JOUR
+AU  - Cai, Peian
+AU  - Lu, Zhenhui
+AU  - Jiang, Tongmeng
+AU  - Wang, Zetao
+AU  - Yang, Yifeng
+AU  - Zheng, Li
+AU  - Zhao, Jinmin
+TI  - Syndecan-4 involves in the pathogenesis of rheumatoid arthritis by regulating the inflammatory response and apoptosis of fibroblast-like synoviocytes
+JO  - Journal of Cellular Physiology
+JA  - J Cell Physiol
+VL  - 235
+IS  - 2
+SN  - 9781405170253
+UR  - https://doi.org/10.1002/jcp.29093
+DO  - doi:10.1002/jcp.29093
+SP  - 1746
+EP  - 1758
+KW  - apoptosis
+KW  - fibroblast-like synoviocytes
+KW  - inflammation
+KW  - rheumatoid arthritis
+KW  - syndecan-4
+PY  - 2020
+AB  - Abstract Rheumatoid arthritis (RA) is a chronic autoimmune inflammatory disease, and the pathogenesis of RA is still unknown. Rheumatoid arthritis fibroblast-like synoviocytes (RA-FLSs) are of significance in the pathogenesis of RA. In this study, three microarray profiles (GSE55457, GSE55584, and GSE55235) of human joint FLSs from 33 RA patients and 20 normal controls were extracted from the Gene Expression Omnibus Dataset and analyzed to investigate the underlying pathogenesis of RA. As analyzed by the differently expressed genes, gene ontology, Kyoto Encyclopedia of Genes and Genomes pathway enrichment, and protein-protein interaction network analysis, syndecan-4 (SDC4), a receptor of multiple cytokines and chemokines, which played a key role in the regulation of inflammatory response, was found to be an essential regulator in RA. To further validate these results, the levels of SDC4, reactive oxygen species (ROS), nitric oxide (NO), inflammation, and apoptosis in RA-FLSs were examined. SDC4-silenced RA-FLSs were also used. The results demonstrated that SDC4 and the level of ROS, NO, and inflammation were highly expressed while the apoptosis was decreased in RA-FLSs compared with normal FLSs. SDC4 silencing significantly suppressed the levels of ROS, NO, and inflammation; elevated the expression of nuclear factor erythroid 2-related factor 2; and promoted the apoptosis of RA-FLSs. Collectively, our results demonstrated a new mechanism of SDC4 in initiating the inflammation and inhibiting the apoptosis of RA-FLSs and that a potential target for the diagnosis and treatment of RA in the clinic might be developed.
+ER  - 
+
+TY  - JOUR
+AU  - Sandersen, Charlotte
+AU  - Mouithys-Mickalad, Ange
+AU  - de la Rebière, Geoffroy
+AU  - Deby, Ginette
+AU  - Serteyn, Didier
+AU  - Franck, Thierry
+TI  - Modulating effects of acepromazine on the reactive oxygen species production by stimulated equine neutrophils
+JO  - Veterinary Anaesthesia and Analgesia
+VL  - 38
+IS  - 2
+SN  - 9781405170253
+UR  - https://doi.org/10.1111/j.1467-2995.2010.00583.x
+DO  - doi:10.1111/j.1467-2995.2010.00583.x
+SP  - 83
+EP  - 93
+KW  - chemiluminescence
+KW  - electron paramagnetic resonance
+KW  - phenothiazine
+KW  - spin trapping
+PY  - 2011
+AB  - Abstract Objective? To investigate the effect of acepromazine (ACP) on reactive oxygen species (ROS) production by stimulated equine neutrophils. Study design? Ex vivo biochemical experiments. Animals? Isolated neutrophils from healthy untreated horses. Methods? Neutrophils were incubated with ACP at concentrations of 10?4, 10?5 or 10?6?m and then stimulated with phorbol-myristate-acetate (PMA) before measurement of lucigenin-enhanced chemiluminescence (CL). In a second experiment neutrophils were incubated in the presence of α-keto-? methylthiobutyric acid (KMB) and treated with ACP at concentrations of 10?4, 10?5 or 10?6?m. Subsequent PMA stimulation lead to neutrophilic ROS production and decomposition of KMB to ethylene, which is measured by gas chromatography. Electron paramagnetic resonance-spin trapping (EPR) analysis was performed with PMA-stimulated neutrophils in the presence of ACP (10?4, 10?5 or 10?6?m) directly added to the cell suspension. In the second experiment, the same concentrations of ACP were pre-incubated with neutrophils, then centrifuged to eliminate the excess of ACP and re-suspended in phosphate buffer before stimulation with PMA. In all experiments, the results of ACP-treated and ACP-untreated stimulated neutrophils were compared. Results? Overall, results obtained with lucigenin-enhanced CL and KMB oxidation were in agreement with those seen in electron paramagnetic resonance spectroscopy. Acepromazine induced a dose-dependent inhibitory effect on neutrophilic ROS production. Electron paramagnetic resonance also showed, at high ACP concentration, the appearance of a cation radical derived from ACP. In contrast, electron paramagnetic resonance study performed with pre-incubated neutrophils showed an important dose-dependent inhibitory effect of ACP. Conclusion? The results indicate that ACP can neutralize O??2 or its by-products during the stimulation of neutrophils. Clinical relevance? These findings may have a therapeutic relevance when phenothiazines are used in horses suffering from inflammatory diseases in which neutrophil activation and ROS production are implicated.
+ER  - 
+
+TY  - JOUR
+AU  - Yao, Bin
+AU  - Huang, Sha
+AU  - Gao, Dongyun
+AU  - Xie, Jiangfan
+AU  - Liu, Nanbo
+AU  - Fu, Xiaobing
+TI  - Age-associated changes in regenerative capabilities of mesenchymal stem cell: impact on chronic wounds repair
+JO  - International Wound Journal
+JA  - Int Wound J
+VL  - 13
+IS  - 6
+SN  - 9781405170253
+UR  - https://doi.org/10.1111/iwj.12491
+DO  - doi:10.1111/iwj.12491
+SP  - 1252
+EP  - 1259
+KW  - Ageing
+KW  - Chronic wound
+KW  - Mesenchymal stem cells (MSCs)
+KW  - Regenerative capabilities
+PY  - 2016
+AB  - Abstract Mesenchymal stem cells (MSCs) represent an ideal source of autologous cell-based therapy for chronic wounds. Functional characteristics of MSCs may benefit wound healing by exerting their multi-regenerative potential. However, cell ageing resulting from chronic degenerative diseases or donor age could cause inevitable effects on the regenerative abilities of MSCs. A variety of studies have shown the relationship between MSC ageing and age-related dysfunction, but few associate these age-related impacts on MSCs with their ability of repairing chronic wounds, which are common in the elderly population. Here, we discuss the age-associated changes of MSCs and describe the potential impacts on MSC-based therapy for chronic wounds. Furthermore, critical evaluation of the current literatures is necessary for understanding the underlying mechanisms of MSC ageing and raising the corresponding concerns on considering their possible use for chronic wound repair.
+ER  - 
+
+TY  - JOUR
+AU  - Britt, T.
+AU  - Clifford, C.
+AU  - Barger, A.
+AU  - Moroff, S.
+AU  - Drobatz, K.
+AU  - Thacher, C.
+AU  - Davis, G.
+TI  - Diagnosing appendicular osteosarcoma with ultrasound-guided fine-needle aspiration: 36 cases
+JO  - Journal of Small Animal Practice
+VL  - 48
+IS  - 3
+SN  - 9781405170253
+UR  - https://doi.org/10.1111/j.1748-5827.2006.00243.x
+DO  - doi:10.1111/j.1748-5827.2006.00243.x
+SP  - 145
+EP  - 150
+PY  - 2007
+AB  - Objectives: To determine the ability to obtain diagnostic cytology samples from appendicular bone lesions using ultrasound-guided needle aspirations. Secondary objectives were to compare cytological evaluations with histopathological results and to determine the utility of staining malignant mesenchymal cells for the presence of alkaline phosphatase. Methods: Aspirations from 36 aggressive appendicular bone lesions with histological diagnoses were included in the study. Ultrasound was used to guide the needle to the medullary cavity or the adjacent soft tissue mass. The smears stained with Wright-Giemsa and nitroblue tetrazolium chloride/5-bromo-4-chloro-3-indoyl phosphate toluidine salt (NBT/BCIP) were examined. Results: A diagnostic sample was obtained in 32 of the 36 cases. Of the 32 diagnostic samples, cytology indicated sarcoma, with a sensitivity of 97 per cent (confidence interval: 83 to 100 per cent) and a specificity of 100 per cent (confidence interval: 16 to 100 per cent). When a diagnosis of sarcoma was made on cytology, alkaline phosphatase staining indicated osteosarcoma, with a sensitivity of 100 per cent (confidence interval: 87 to 100 per cent). Clinical Significance: The results of this study indicate that ultrasound-guided needle aspiration of aggressive bone lesions is a viable technique for identifying malignant mesenchymal cells and for diagnosing sarcomas. It is cost-effective and minimally invasive. Furthermore, identifying alkaline-phosphatase-negative malignant mesenchymal cells from a bone aspiration may rule out osteosarcoma, whereas alkaline-phosphatase-positive malignant mesenchymal cells are suggestive of osteosarcoma.
+ER  - 
+
+TY  - JOUR
+AU  - Bohorquez, H. E.
+AU  - Chamorro, N.
+AU  - Garces, J.
+AU  - Cohen, A. J.
+AU  - Reichman, T. W.
+AU  - Davis, N. K.
+AU  - Vincent, B.
+AU  - Bruce, D. A.
+AU  - Carmody, I. C.
+AU  - Moiz, A
+AU  - Staffeld, C.
+AU  - Loss, G. E.
+TI  - Calciphylaxis in Simultaneous Liver–Kidney Transplantation
+JO  - American Journal of Transplantation
+VL  - 15
+IS  - 4
+SN  - 9781405170253
+UR  - https://doi.org/10.1111/ajt.13082
+DO  - doi:10.1111/ajt.13082
+SP  - 1105
+EP  - 1109
+KW  - Clinical research
+KW  - complication: medical
+KW  - dysfunction
+KW  - hepatology
+KW  - kidney transplantation
+KW  - liver allograft function
+KW  - liver transplantation
+KW  - metabolic
+KW  - nephrology
+KW  - practice
+PY  - 2015
+AB  - We present four patients who underwent simultaneous liver?kidney transplantation (SLK) and were diagnosed with calciphylaxis, also known as calcific uremic arteriolopathy (CUA). Common characteristics included high MELD scores (mean 35.2?±?4.8) and advanced renal disease (duration range 6?44 weeks). CUA was diagnosed within the first 2 months post-SLK based on clinical features. Severe morbidity and prolonged hospital stay were observed and one of the patients died secondary to sepsis. Treatment included metabolic support, wound care, calcium level correction and use of sodium thiosulphate. CUA should be considered in the presence of painful dermatologic changes in patients status post SLK.
+ER  - 
+
+TY  - JOUR
+AU  - Collier, Bryan
+AU  - Dossett, Lesly A.
+AU  - May, Addison K.
+AU  - Diaz, Jose J.
+TI  - Glucose Control and the Inflammatory Response
+JO  - Nutrition in Clinical Practice
+JA  - Nutr Clin Pract
+VL  - 23
+IS  - 1
+SN  - 9781405170253
+UR  - https://doi.org/10.1177/011542650802300103
+DO  - doi:10.1177/011542650802300103
+SP  - 3
+EP  - 15
+PY  - 2008
+AB  - Though first introduced more than 130 years ago, the concept of stress diabetes or stress hyperglycemia has gained tremendous attention in recent years in view of the landmark article by van den Berghe and colleagues in 2001. As opposed to earlier work that suggested that hyperglycemia in the acute clinical setting may be beneficial, it now appears that lower glucose levels are associated with improved outcomes. The mechanisms behind the improved outcomes are numerous and seem to be tied to the inflammatory process. Both lower glucose values and insulin therapy seem to be anti-inflammatory, whereas hyperglycemia increases the proinflammatory process and negatively affects the innate immune system. Despite the numerous approaches to achieve normoglycemia described in the literature, only modest success has been achieved. Understanding the pathophysiology driving stress hyperglycemia?the stress response and modulation of the inflammatory process?seems to be the key to improving the care of the most critically ill and injured patients.
+ER  - 
+
+TY  - JOUR
+AU  - Cosway, Ben
+AU  - Mathura, Narad
+AU  - Mott, Alison
+AU  - Bredow, Maria
+AU  - Fraser, James
+AU  - Rawlinson, Alicia
+AU  - Wei, Christina
+AU  - Thyagarajan, Manigandan S.
+AU  - Harrison, Sara
+AU  - Kemp, Alison
+TI  - Occult Rib Fractures: Defining the Cause
+JO  - Child Abuse Review
+JA  - Child Abuse Rev.
+VL  - 24
+IS  - 1
+SN  - 9781405170253
+UR  - https://doi.org/10.1002/car.2260
+DO  - doi:10.1002/car.2260
+SP  - 6
+EP  - 15
+KW  - rib fractures
+KW  - physical abuse
+KW  - metabolic bone disease of prematurity
+KW  - investigation
+PY  - 2015
+AB  - The probability of physical abuse (PA) is high in children with occult rib fractures. Other causes include non-intentional trauma, post surgery and cardiopulmonary resuscitation. Bone fragility increases the risk of fractures, namely metabolic bone disease of prematurity (MBDP), osteogenesis imperfecta, rickets and rare metabolic bone diseases. ?Occult rib fractures have a high probability of physical abuse? This case series describes 61 children under two years of age with rib fractures and associations with clinical and radiological features and aetiology. There were 20 cases of PA, 11 post surgical and three non-intentional trauma. Two cases had fractures following cardiopulmonary resuscitation, 18 MBDP and one metabolic bone disease. In six cases, the cause remained unknown. The number and distribution of rib fractures and the age of infants did not discriminate between MBDP and PA. Fractures were predominantly posterior, postero-lateral or lateral. All cases of MBDP had a gestational age of 31 weeks or less and birth weight?<?1.25 kg. Each child with MBDP had at least one additional risk factor. Chronic lung disease was recorded in seven, prolonged total parenteral nutrition in ten, steroid use in four, furosemide medication in eight and necrotising enterocolitis in three. All PA cases had other associated injuries or signs of neglect. We recommend a comprehensive assessment of infants with occult rib fractures including an examination to exclude associated trauma, a child protection assessment and a full clinical assessment to exclude risk factors for co-existing bone fragility. Copyright ? 2013 John Wiley & Sons, Ltd. Key Practitioner Messages: The number and distribution of rib fractures and the age of infants do not discriminate between PA and rib fractures seen in MBDP. Assessment of infants with occult rib fractures should include an examination to exclude associated trauma, a child protection assessment and a full clinical assessment to exclude risk factors for co-existing bone fragility. ?An examination to exclude associated trauma, a child protection assessment and a full clinical assessment?
+ER  - 
+
+TY  - JOUR
+AU  - Fine, Daniel
+AU  - Grattoni, Alessandro
+AU  - Goodall, Randy
+AU  - Bansal, Shyam S.
+AU  - Chiappini, Ciro
+AU  - Hosali, Sharath
+AU  - van de Ven, Anne L.
+AU  - Srinivasan, Srimeenkashi
+AU  - Liu, Xuewu
+AU  - Godin, Biana
+AU  - Brousseau III, Louis
+AU  - Yazdi, Iman K.
+AU  - Fernandez-Moure, Joseph
+AU  - Tasciotti, Ennio
+AU  - Wu, Hung-Jen
+AU  - Hu, Ye
+AU  - Klemm, Steve
+AU  - Ferrari, Mauro
+TI  - Silicon Micro- and Nanofabrication for Medicine
+JO  - Advanced Healthcare Materials
+JA  - Advanced Healthcare Materials
+VL  - 2
+IS  - 5
+SN  - 9781405170253
+UR  - https://doi.org/10.1002/adhm.201200214
+DO  - doi:10.1002/adhm.201200214
+SP  - 632
+EP  - 666
+KW  - biocomposites
+KW  - multi-stage logic embedded vectors
+KW  - nanochannels
+KW  - nanoneedles
+KW  - porous silicon
+PY  - 2013
+AB  - Abstract This manuscript constitutes a review of several innovative biomedical technologies fabricated using the precision and accuracy of silicon micro- and nanofabrication. The technologies to be reviewed are subcutaneous nanochannel drug delivery implants for the continuous tunable zero-order release of therapeutics, multi-stage logic embedded vectors for the targeted systemic distribution of both therapeutic and imaging contrast agents, silicon and porous silicon nanowires for investigating cellular interactions and processes as well as for molecular and drug delivery applications, porous silicon (pSi) as inclusions into biocomposites for tissue engineering, especially as it applies to bone repair and regrowth, and porous silica chips for proteomic profiling. In the case of the biocomposites, the specifically designed pSi inclusions not only add to the structural robustness, but can also promote tissue and bone regrowth, fight infection, and reduce pain by releasing stimulating factors and other therapeutic agents stored within their porous network. The common material thread throughout all of these constructs, silicon and its associated dielectrics (silicon dioxide, silicon nitride, etc.), can be precisely and accurately machined using the same scalable micro- and nanofabrication protocols that are ubiquitous within the semiconductor industry. These techniques lend themselves to the high throughput production of exquisitely defined and monodispersed nanoscale features that should eliminate architectural randomness as a source of experimental variation thereby potentially leading to more rapid clinical translation.
+ER  - 
+
+AU  - Wallimann, Theo
+AU  - Tokarska-Schlattner, Malgorzata
+AU  - Neumann, Dietbert
+AU  - Epand, Richard M.
+AU  - Epand, Raquel F.
+AU  - Andres, Robert H.
+AU  - Widmer, Hans Rudolf
+AU  - Hornemann, Thorsten
+AU  - Saks, Valdur
+AU  - Agarkova, Irina
+AU  - Schlattner, Uwe
+C7  - pp. 195-264
+TI  - The Phosphocreatine Circuit: Molecular and Cellular Physiology of Creatine Kinases, Sensitivity to Free Radicals, and Enhancement by Creatine Supplementation
+SN  - 9783527317875
+UR  - https://doi.org/10.1002/9783527621095.ch7
+DO  - doi:10.1002/9783527621095.ch7
+SP  - 195-264
+KW  - molecular system bioenergetics
+KW  - energy transfer networks
+KW  - metabolic feedback regulation
+KW  - modeling cellular energetics
+KW  - phosphocreatine circuit
+KW  - creatine kinases
+KW  - cell pathology
+KW  - oxidative damage
+KW  - brain functions
+KW  - neuroprotection
+PY  - 2013
+AB  - Summary This chapter contains sections titled: Abstract Phosphotransfer Enzymes: The Creatine Kinase System Microcompartments: A Principle of Life Subcellular Compartments and Microcompartments of CK Tissue-specific Expression of Creatine Kinase Isoenzymes Temporal and Spatial Buffering Functions of Creatine Kinases: The CK?Phosphocreatine Circuit A Closer Look at CK (Micro)Compartments and High-energy Phosphate Channeling Subcellular Compartmentation of CK at the Myofibrillar M-band: ATP Regeneration for Muscle Contraction Subcellular Localization of CK at the Sarcoplasmic Reticulum and Plasma Membrane Subcellular Compartments of CK at the Plasma Membrane and Functional Coupling with Na+/K+-ATPase Structural and Functional Coupling of Cytosolic CK with ATP-sensitive K+ Channels and KCC2 CK Interaction with the Golgi GM130 Protein Specific Compartments of Cytosolic CK with Insulin and Thrombin Signaling Pathways Subcellular Compartments of CK with Glycolytic Enzymes and Targeting of Glycolytic Multi-enzyme Complexes High-energy Phosphate Channeling by MtCK in Energy-transducing Mitochondrial Compartments Creatine Kinases and Cell Pathology Mitochondrial MtCK, the Mitochondrial Permeability Transition Pore, and Apoptosis Mitochondrial MtCK and Intramitochondrial Inclusions in Mitochondrial Myopathy Overexpression of MtCK in Certain Malignancies Novel Membrane-related Functions of MtCK Transfer of Lipids by Proteins That Bridge the Inner and Outer Mitochondrial Membrane Lipid Transfer at Contact Sites Cardiolipin Transfer and Apoptosis Cardiolipin Domains and Mitochondrial Kinases Perspectives: Relationship Between the Surface Exposure of Cardiolipin and Expression Levels of Mitochondrial Kinases Exquisite Sensitivity of the Creatine Kinase System to Oxidative Damage Molecular Damage of Creatine Kinase by Oxidative and Nitrosative Stress Molecular Basis of Creatine Kinase Damage Functional Consequences of Oxidative Damage in Creatine Kinase Enhancement of Brain Functions and Neuroprotection by Creatine Supplementation Creatine Metabolism and Brain Energetics Disturbance of the CK System or Creatine Metabolism in the Brain Body and Brain Creatine Metabolism Effects of Creatine on Memory, Mental Performance, and Complex Tasks Creatine Supplementation and Neurodegenerative Diseases Creatine Supplementation and Acute Neurological Disorders Inborn Errors of Metabolism Psychiatric Disorders Neurorestorative Strategies Future Prospects of Creatine Supplementation as Adjuvant Therapeutic Strategy Non-energy?related Effects of Creatine Creatine as a Safe Nutritional Supplement and Functional Food References
+ER  - 
+
+TY  - JOUR
+AU  - Oheim, Ralf
+AU  - Zimmerman, Kristin
+AU  - Maulding, Nathan D
+AU  - Stürznickel, Julian
+AU  - von Kroge, Simon
+AU  - Kavanagh, Dillon
+AU  - Stabach, Paul R
+AU  - Kornak, Uwe
+AU  - Tommasini, Steven M
+AU  - Horowitz, Mark C
+AU  - Amling, Michael
+AU  - Thompson, David
+AU  - Schinke, Thorsten
+AU  - Busse, Björn
+AU  - Carpenter, Thomas O.
+AU  - Braddock, Demetrios T
+TI  - Human Heterozygous ENPP1 Deficiency Is Associated With Early Onset Osteoporosis, a Phenotype Recapitulated in a Mouse Model of Enpp1 Deficiency
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - n/a
+IS  - n/a
+SN  - 9783527317875
+UR  - https://doi.org/10.1002/jbmr.3911
+DO  - doi:10.1002/jbmr.3911
+KW  - DISORDERS OF CALCIUM/PHOSPHATE METABOLISM
+KW  - OSTEOPOROSIS
+KW  - OSTEOMALACIA AND RICKETS
+KW  - FGF23
+KW  - ARHR2
+KW  - GACI
+AB  - ABSTRACT Biallelic ENPP1 deficiency in humans induces generalized arterial calcification of infancy (GACI) and/or autosomal recessive hypophosphatemic rickets type 2 (ARHR2). The latter is characterized by markedly increased circulating FGF23 levels and renal phosphate wasting, but aberrant skeletal manifestations associated with heterozygous ENPP1 deficiency are unknown. Here, we report three adult men with early onset osteoporosis who presented with fractures in the thoracic spine and/or left radius, mildly elevated circulating FGF23, and hypophosphatemia. Total hip bone mineral density scans demonstrated osteoporosis (Z-score?<??2.5) and HRpQCT demonstrated microarchitectural defects in trabecular and cortical bone. Next-generation sequencing revealed heterozygous loss-of-function mutations in ENPP1 previously observed as biallelic mutations in infants with GACI. In addition, we present bone mass and structure data as well as plasma pyrophosphate (PPi) data of two siblings suffering from ARHR2 in comparison to their heterozygous and wild-type family members indicative of an ENPP1 gene dose effect. The skeletal phenotype in murine Enpp1 deficiency yielded nearly identical findings. Ten-week-old male Enpp1 asj/asj mice exhibited mild elevations in plasma FGF23 and hypophosphatemia, and micro-CT analysis revealed microarchitectural defects in trabecular and cortical bone of similar magnitude to HRpQCT defects observed in humans. Histomorphometry revealed mild osteomalacia and osteopenia at both 10 and 23?weeks. The biomechanical relevance of these findings was demonstrated by increased bone fragility and ductility in Enpp1 asj/asj mice. In summary, ENPP1 exerts a gene dose effect such that humans with heterozygous ENPP1 deficiency exhibit intermediate levels of plasma analytes associated with bone mineralization disturbance resulting in early onset osteoporosis. ? 2019 The Authors. Journal of Bone and Mineral Research published by American Society for Bone and Mineral Research.
+ER  - 

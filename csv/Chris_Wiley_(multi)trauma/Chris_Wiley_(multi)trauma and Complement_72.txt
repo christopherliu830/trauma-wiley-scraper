@@ -1,0 +1,509 @@
+
+TY  - JOUR
+AU  - Huber-Lang, Markus S.
+AU  - Sarma, J. Vidya
+AU  - McGuire, Stephanie R.
+AU  - Lu, Kristina T.
+AU  - Guo, Ren Feng
+AU  - Padgaonkar, Vaishalee A.
+AU  - Younkin, Ellen M.
+AU  - Laudes, Ines J.
+AU  - Riedemann, Niels C.
+AU  - Younger, John G.
+AU  - Ward, Peter A.
+TI  - Protective effects of anti-C5a peptide antibodies in experimental sepsis
+JO  - The FASEB Journal
+JA  - FASEB J
+VL  - 15
+IS  - 3
+SN  - 0892-6638
+UR  - https://doi.org/10.1096/fj.00-0653fje
+DO  - doi:10.1096/fj.00-0653fje
+SP  - 568
+EP  - 570
+KW  - C5a
+KW  - cecal ligation/puncture
+KW  - neutrophils
+PY  - 2001
+AB  - ABSTRACT We evaluated antibodies to different peptide regions of rat C5a in the sepsis model of cecal ligation and puncture (CLP) for their protective effects in rats. Rabbit polyclonal antibodies were developed to the following peptide regions of rat C5a: amino-terminal region (A), residues 1-16; middle region (M), residues 17-36; and the carboxyl-terminal region (C), residues 58-77. With rat neutrophils, the chemotactic activity of rat C5a was significantly inhibited by antibodies with the following rank order: anti-C > anti-M ? anti-A. In vivo, antibodies to the M and C (but not A) regions of C5a were protective in experimental sepsis, as determined by survival over a 10-day period, in a dose-dependent manner. The relative protective efficacies of anti-C5a preparations (in descending order of efficacy) were anti-C ≥ anti-M ? anti-A. In CLP rats, a delay in infusion of antibodies, which were injected at 6 or 12 h after CLP, still resulted in significant improvement in survival rates. These in vivo and in vitro data suggest that there are optimal targets on C5a for blockade during sepsis and that delayed infusion of anti-C5a antibody until after onset of clinical evidence of sepsis still provides protective effects.
+ER  - 
+
+TY  - JOUR
+AU  - Hertz-Picciotto, Irva
+AU  - Schmidt, Rebecca J.
+AU  - Krakowiak, Paula
+TI  - Understanding environmental contributions to autism: Causal concepts and the state of science
+JO  - Autism Research
+JA  - Autism Research
+VL  - 11
+IS  - 4
+SN  - 1939-3792
+UR  - https://doi.org/10.1002/aur.1938
+DO  - doi:10.1002/aur.1938
+SP  - 554
+EP  - 586
+KW  - autism spectrum disorder
+KW  - environmental risk factors
+KW  - causal inference
+KW  - pre- and peri-natal risk factors
+KW  - pesticides
+KW  - nutrition
+KW  - diabetes
+KW  - gene-environment interaction
+KW  - epigenetics
+PY  - 2018
+AB  - The complexity of neurodevelopment, the rapidity of early neurogenesis, and over 100 years of research identifying environmental influences on neurodevelopment serve as backdrop to understanding factors that influence risk and severity of autism spectrum disorder (ASD). This Keynote Lecture, delivered at the May 2016 annual meeting of the International Society for Autism Research, describes concepts of causation, outlines the trajectory of research on nongenetic factors beginning in the 1960s, and briefly reviews the current state of this science. Causal concepts are introduced, including root causes; pitfalls in interpreting time trends as clues to etiologic factors; susceptible time windows for exposure; and implications of a multi-factorial model of ASD. An historical background presents early research into the origins of ASD. The epidemiologic literature from the last fifteen years is briefly but critically reviewed for potential roles of, for example, air pollution, pesticides, plastics, prenatal vitamins, lifestyle and family factors, and maternal obstetric and metabolic conditions during her pregnancy. Three examples from the case-control CHildhood Autism Risks from Genes and the Environment Study are probed to illustrate methodological approaches to central challenges in observational studies: capturing environmental exposure; causal inference when a randomized controlled clinical trial is either unethical or infeasible; and the integration of genetic, epigenetic, and environmental influences on development. We conclude with reflections on future directions, including exposomics, new technologies, the microbiome, gene-by-environment interaction in the era of ?omics, and epigenetics as the interface of those two. As the environment is malleable, this research advances the goal of a productive and fulfilling life for all children, teen-agers and adults. Autism Res 2018, 11: 554?586. ? 2018 International Society for Autism Research, Wiley Periodicals, Inc. Lay Summary This Keynote Lecture, delivered at the 2016 meeting of the International Society for Autism Research, discusses evidence from human epidemiologic studies of prenatal factors contributing to autism, such as pesticides, maternal nutrition and her health. There is no single cause for autism. Examples highlight the features of a high-quality epidemiology study, and what comprises a compelling case for causation. Emergent research directions hold promise for identifying potential interventions to reduce disabilities, enhance giftedness, and improve lives of those with ASD.
+ER  - 
+
+TY  - JOUR
+AU  - Altimus, Cara M.
+AU  - Keller, Kirstie
+AU  - Brannelly, Patrick
+AU  - Ross, Erin
+AU  - Lin, Chang-Ting
+AU  - Riley, Ekemini A. U.
+AU  - Briggs, LaTese
+AU  - Smith, Jeremy
+AU  - Stevens, Melissa
+TI  - Analysis of tauopathy research funding between 2006 and 2016 reveals critical gaps in research priorities
+JO  - Alzheimer's & Dementia
+JA  - Alzheimer's & Dementia
+VL  - 15
+IS  - 1
+SN  - 1552-5260
+UR  - https://doi.org/10.1016/j.jalz.2018.07.218
+DO  - doi:10.1016/j.jalz.2018.07.218
+SP  - 42
+EP  - 54
+KW  - Tauopathy
+KW  - neurodegeneration
+KW  - scientific funding
+PY  - 2019
+AB  - Abstract Neurodegenerative diseases encompass a range of diagnoses, such as Alzheimer's disease and Parkinson's disease. Despite decades of advancements in understanding the neurobiology of individual diseases, this class has few disease-modifying therapeutics and a paucity of biomarkers for diagnosis or progression. However, tau protein aggregation has emerged as a potential unifying factor across several neurodegenerative diseases, which has prompted a rapid growth in tau-related funding. In spite of this growth, research funding in this area is not in line with the immense magnitude of disease burden, and drug discovery and clinical research remain underfunded. Coordinated, collaborative efforts are key to making an impact, which can and should be led by the major funding bodies within the tau space. Here we describe the development and analysis of a tau-focused neurodegeneration funding database, which captures data from 2040 grants from 2006 to 2016. This database was developed as a public resource to allow funders, researchers, and policy makers to better understand tau funding patterns and to identify key funders and potential collaborations. This database can be used in conjunction with other neurodegenerative disease databases, such as the International Alzheimer's Disease Research Portfolio to gain specific insight into tau-research funding. Over the study period, overall tau funding rose dramatically; however, changes in capital distribution also changed. Specifically, the field experienced a strong bias toward funding tau in the context of Alzheimer's disease, while at the same time generally decreasing the overall proportion of funding for basic research, treatment development, and evaluation. As funding organizations look forward, this resource can both inform future funding strategies and priority areas and identify potential collaborative efforts with complementary funding organizations.
+ER  - 
+
+TY  - JOUR
+AU  - Hall, C. J.
+AU  - Flores, M. V.
+AU  - Crosier, K. E.
+AU  - Crosier, P. S.
+TI  - Live imaging early immune cell ontogeny and function in zebrafish Danio rerio
+JO  - Journal of Fish Biology
+VL  - 73
+IS  - 8
+SN  - 0022-1112
+UR  - https://doi.org/10.1111/j.1095-8649.2008.01980.x
+DO  - doi:10.1111/j.1095-8649.2008.01980.x
+SP  - 1833
+EP  - 1871
+KW  - immunity
+KW  - inflammation
+KW  - live cell imaging
+KW  - transgenic
+KW  - wound healing
+KW  - zebrafish
+PY  - 2008
+AB  - The success of a robust vertebrate inflammatory response is in part because of the migratory potential of its haematopoietic components. Once these cells converge at an inflammatory site, they interact with each other as well as non-immune tissues and infectious agents to help manage both the scale and the duration of any ensuing response. Exactly how these blood cells, that constitute the innate and adaptive immune systems, contribute to such immune responses remain largely unknown. Traditionally, assessing these contributions relied upon histological analysis of fixed tissue sections complemented with in vitro dynamic data. Although informative, translating results from these studies into the multicellular whole-animal setting remain difficult. Recently, non-invasive live imaging of the immune system in animal models is providing significant insights into how immune cells function within their intact natural environment. Although the majority of these studies have been conducted within mice, another vertebrate, the zebrafish Danio rerio is being recognized as an ideal platform for non-invasive live imaging applications. The optical transparency, rapid development, genetic tractability and highly conserved innate and adaptive immune systems of this well-established developmental model have been exploited in a number of recent studies evaluating the immunocompetence of fluorescently tagged blood cells. In addition, similar live imaging studies are helping to dissect the ontogeny of blood-cell development by tracking various haematopoietic precursor cells to assess their contribution to different blood lineages. This review will examine some recent advances that have helped D. rerio emerge as a live imaging platform as well as its potential to offer valuable insights into the genetics behind diseases associated with immune cell dysfunction.
+ER  - 
+
+AU  - Wang, Yiman
+C7  - pp. 417-437
+TI  - Serial, Sequelae, and Postcolonial Nostalgia: Wong Kar-wai's 1960s Hong Kong Trilogy
+SN  - 9781118424247
+UR  - https://doi.org/10.1002/9781118425589.ch18
+DO  - doi:10.1002/9781118425589.ch18
+SP  - 417-437
+KW  - series (as defined by Sartre)
+KW  - seriality
+KW  - sequel
+KW  - sequelae
+KW  - trilogy
+KW  - postcolonial nostalgia
+KW  - centripetal
+KW  - centrifugal
+KW  - transnational
+KW  - local/regional
+PY  - 2008
+AB  - Summary This chapter studies Wong Kar-wai's 1960s Hong Kong trilogy ? Days of Being Wild (1990), In the Mood for Love (2000), and 2046 (2004) ? with the goal of addressing two questions: What necessitates serialization, and what ideological and aesthetic imperatives does it register and fulfill? By analyzing the ways in which seriality fundamentally structures the films? temporality, spatiality, and characterization, I argue that the trilogy demonstrates mutual constitution between the serial form and Hong Kong's postcolonial circumstances. The sequential form serves as a felicitous formal correlative for Wong's thematic and aesthetic treatment of Hong Kong's postcolonial nostalgia. Not only does the postcolonial sensibility call for the serial form, it also comes to be understood as nostalgic melancholia fixed upon 1960s Hong Kong because of Wong's use of the sequential form. Furthermore, by encrypting 1960s Hong Kong in a series of unfulfilled romances that generate endless sequelae (after effects), necessitating the next film, Wong builds the continuity-repetition dialectic into his filmic structure. Consequently, he makes his 1960s Hong Kong trilogy an Ur-sequela, resulting from an even larger sequel, i.e., postcolonial Hong Kong. The serial form is thus homologous with the theme of postcolonial nostalgia, just as the diegetic sequelae symptomize and treat Hong Kong's traumatic postcolonial turn in a homeopathic fashion.
+ER  - 
+
+TY  - JOUR
+AU  - Lippel, Katherine
+TI  - Preserving workers' dignity in workers' compensation systems: An international perspective
+JO  - American Journal of Industrial Medicine
+JA  - Am. J. Ind. Med.
+VL  - 55
+IS  - 6
+SN  - 9781118424247
+UR  - https://doi.org/10.1002/ajim.22022
+DO  - doi:10.1002/ajim.22022
+SP  - 519
+EP  - 536
+KW  - workers' compensation
+KW  - Canada
+KW  - New Zealand
+KW  - Netherlands
+KW  - iatrogenic effects
+KW  - stigma
+KW  - medico-legal issues
+KW  - scientific uncertainty
+KW  - return to work
+KW  - adversarial systems
+PY  - 2012
+AB  - Abstract Background Workers' compensation systems are among the most generous disability insurance systems in North America, although they are also known to be potentially adversarial and may have iatrogenic effects on claimants. This article examines issues to be considered to ensure fair compensation provided in a way that respects the dignity of workers. Methods An overview of the literature on characteristics and effects of workers' compensation systems is followed by an analysis based on classic legal methods, including those of comparative law, complemented with interview data to examine three models of disability compensation. Results The first part of the article identifies cross cutting issues to be considered in the examination of the equity of compensation systems and the protection of the dignity of claimants. These include three underpinnings of workers' compensation: the links between a ?no-fault? system and the adversarial process, the appropriate use of medical and scientific evidence in the determination of compensability and the application of appropriate measures for promoting return to work. The second part looks at accident compensation in New Zealand, where compensation is available regardless of the cause of the accident, and disability insurance in the Netherlands, where compensation is available regardless of the cause of the disability. It then describes a composite of characteristics favorable to equity drawn from the thirteen workers' compensation systems in Canada. Conclusion Systems that succeed in reducing opportunities for adversarial interactions and that provide substantive protection could better promote the dignity of claimants. Am. J. Ind. Med. 55:519?536, 2012. ? 2012 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Camalier, Corinne E.
+AU  - Yi, Ming
+AU  - Yu, Li-Rong
+AU  - Hood, Brian L.
+AU  - Conrads, Kelly A.
+AU  - Lee, Young Jae
+AU  - Lin, Yiming
+AU  - Garneys, Laura M.
+AU  - Bouloux, Gary F.
+AU  - Young, Matthew R.
+AU  - Veenstra, Timothy D.
+AU  - Stephens, Robert M.
+AU  - Colburn, Nancy H.
+AU  - Conrads, Thomas P.
+AU  - Beck Jr., George R.
+TI  - An integrated understanding of the physiological response to elevated extracellular phosphate
+JO  - Journal of Cellular Physiology
+JA  - J. Cell. Physiol.
+VL  - 228
+IS  - 7
+SN  - 9781118424247
+UR  - https://doi.org/10.1002/jcp.24312
+DO  - doi:10.1002/jcp.24312
+SP  - 1536
+EP  - 1550
+PY  - 2013
+AB  - Abstract Recent studies have suggested that changes in serum phosphate levels influence pathological states associated with aging such as cancer, bone metabolism, and cardiovascular function, even in individuals with normal renal function. The causes are only beginning to be elucidated but are likely a combination of endocrine, paracrine, autocrine, and cell autonomous effects. We have used an integrated quantitative biology approach, combining transcriptomics and proteomics to define a multi-phase, extracellular phosphate-induced, signaling network in pre-osteoblasts as well as primary human and mouse mesenchymal stromal cells. We identified a rapid mitogenic response stimulated by elevated phosphate that results in the induction of immediate early genes including c-fos. The mechanism of activation requires FGF receptor signaling followed by stimulation of N-Ras and activation of AP-1 and serum response elements. A distinct long-term response also requires FGF receptor signaling and results in N-Ras activation and expression of genes and secretion of proteins involved in matrix regulation, calcification, and angiogenesis. The late response is synergistically enhanced by addition of FGF23 peptide. The intermediate phase results in increased oxidative phosphorylation and ATP production and is necessary for the late response providing a functional link between the phases. Collectively, the results define elevated phosphate, as a mitogen and define specific mechanisms by which phosphate stimulates proliferation and matrix regulation. Our approach provides a comprehensive understanding of the cellular response to elevated extracellular phosphate, functionally connecting temporally coordinated signaling, transcriptional, and metabolic events with changes in long-term cell behavior. J. Cell. Physiol. 228: 1536?1550, 2013. ? 2012 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+TI  - Abstract Presentations from the AABB Annual Meeting Boston, MA, October 13–16, 2018
+JO  - Transfusion
+JA  - Transfusion
+VL  - 58
+IS  - S2
+SN  - 9781118424247
+UR  - https://doi.org/10.1111/trf.14903
+DO  - doi:10.1111/trf.14903
+SP  - 6A
+EP  - 254A
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Hopkins, C.
+AU  - Walker, R.
+AU  - Lee, S.
+AU  - Roberts, D.
+TI  - Permacol in augmentation rhinoplasty: how we do it
+JO  - Clinical Otolaryngology
+VL  - 34
+IS  - 1
+SN  - 9781118424247
+UR  - https://doi.org/10.1111/j.1749-4486.2008.01855.x
+DO  - doi:10.1111/j.1749-4486.2008.01855.x
+SP  - 68
+EP  - 75
+PY  - 2009
+ER  - 
+
+AU  - Dyson, Stephen L.
+C7  - pp. 431-444
+TI  - The Family and the Roman Countryside
+SN  - 9781405187671
+UR  - https://doi.org/10.1002/9781444390766.ch26
+DO  - doi:10.1002/9781444390766.ch26
+SP  - 431-444
+KW  - the family and the Roman countryside
+KW  - writing the family - into the Roman countryside, a difficult task
+KW  - current debates on Romanization - much of “Roman” history, not really about Romans
+KW  - “model” Roman rural family of middle Republic - before the traumatic events of the Second Punic War
+KW  - nuclear family, units - defined and controlled by Roman law
+KW  - slaves, legally could not contract marriages - or create bona fide families
+KW  - Roman Republican political history - competition among families
+KW  - concept of plantation/villa - force destructive to Roman rural family values
+KW  - Rome, having no institutions - like orphanages, convents, or foundling hospitals taking in unwanted infants
+KW  - legal sources, about the world of the elite under the Empire
+PY  - 2009
+AB  - Summary This chapter contains sections titled: Further Reading
+ER  - 
+
+TY  - JOUR
+AU  - Firth, Joseph
+AU  - Torous, John
+AU  - Nicholas, Jennifer
+AU  - Carney, Rebekah
+AU  - Pratap, Abhishek
+AU  - Rosenbaum, Simon
+AU  - Sarris, Jerome
+TI  - The efficacy of smartphone-based mental health interventions for depressive symptoms: a meta-analysis of randomized controlled trials
+JO  - World Psychiatry
+JA  - World Psychiatry
+VL  - 16
+IS  - 3
+SN  - 9781405187671
+UR  - https://doi.org/10.1002/wps.20472
+DO  - doi:10.1002/wps.20472
+SP  - 287
+EP  - 298
+KW  - Smartphone technology
+KW  - mental health interventions
+KW  - depression
+KW  - e-health
+KW  - mhealth
+KW  - apps
+KW  - cognitive training
+KW  - mood monitoring
+KW  - cognitive behavioral therapy
+KW  - mindfulness training
+PY  - 2017
+AB  - The rapid advances and adoption of smartphone technology presents a novel opportunity for delivering mental health interventions on a population scale. Despite multi-sector investment along with wide-scale advertising and availability to the general population, the evidence supporting the use of smartphone apps in the treatment of depression has not been empirically evaluated. Thus, we conducted the first meta-analysis of smartphone apps for depressive symptoms. An electronic database search in May 2017 identified 18 eligible randomized controlled trials of 22 smartphone apps, with outcome data from 3,414 participants. Depressive symptoms were reduced significantly more from smartphone apps than control conditions (g=0.38, 95% CI: 0.24-0.52, p<0.001), with no evidence of publication bias. Smartphone interventions had a moderate positive effect in comparison to inactive controls (g=0.56, 95% CI: 0.38-0.74), but only a small effect in comparison to active control conditions (g=0.22, 95% CI: 0.10-0.33). Effects from smartphone-only interventions were greater than from interventions which incorporated other human/computerized aspects along the smartphone component, although the difference was not statistically significant. The studies of cognitive training apps had a significantly smaller effect size on depression outcomes (p=0.004) than those of apps focusing on mental health. The use of mood monitoring softwares, or interventions based on cognitive behavioral therapy, or apps incorporating aspects of mindfulness training, did not affect significantly study effect sizes. Overall, these results indicate that smartphone devices are a promising self-management tool for depression. Future research should aim to distil which aspects of these technologies produce beneficial effects, and for which populations.
+ER  - 
+
+TY  - JOUR
+AU  - Polygerinos, Panagiotis
+AU  - Correll, Nikolaus
+AU  - Morin, Stephen A.
+AU  - Mosadegh, Bobak
+AU  - Onal, Cagdas D.
+AU  - Petersen, Kirstin
+AU  - Cianchetti, Matteo
+AU  - Tolley, Michael T.
+AU  - Shepherd, Robert F.
+C7  - 1700016
+TI  - Soft Robotics: Review of Fluid-Driven Intrinsically Soft Devices; Manufacturing, Sensing, Control, and Applications in Human-Robot Interaction 
+JO  - Advanced Engineering Materials
+JA  - Adv. Eng. Mater.
+VL  - 19
+IS  - 12
+SN  - 9781405187671
+UR  - https://doi.org/10.1002/adem.201700016
+DO  - doi:10.1002/adem.201700016
+SP  - 1700016
+PY  - 2017
+AB  - The emerging field of soft robotics makes use of many classes of materials including metals, low glass transition temperature (Tg) plastics, and high Tg elastomers. Dependent on the specific design, all of these materials may result in extrinsically soft robots. Organic elastomers, however, have elastic moduli ranging from tens of megapascals down to kilopascals; robots composed of such materials are intrinsically soft ? they are always compliant independent of their shape. This class of soft machines has been used to reduce control complexity and manufacturing cost of robots, while enabling sophisticated and novel functionalities often in direct contact with humans. This review focuses on a particular type of intrinsically soft, elastomeric robot ? those powered via fluidic pressurization.
+ER  - 
+
+TY  - JOUR
+AU  - Tan, Wah Lay
+AU  - Wong, Terry L. T.
+AU  - Wong, May C. M.
+AU  - Lang, Niklaus P.
+TI  - A systematic review of post-extractional alveolar hard and soft tissue dimensional changes in humans
+JO  - Clinical Oral Implants Research
+JA  - Clin. Oral. Impl. Res.
+VL  - 23
+IS  - s5
+SN  - 9781405187671
+UR  - https://doi.org/10.1111/j.1600-0501.2011.02375.x
+DO  - doi:10.1111/j.1600-0501.2011.02375.x
+SP  - 1
+EP  - 21
+KW  - alveolar bone
+KW  - dimensional change
+KW  - extraction
+KW  - hard tissue
+KW  - human
+KW  - removal of teeth
+KW  - resorption
+KW  - soft tissue
+KW  - systematic review
+PY  - 2012
+AB  - Abstract Background Removal of teeth results in both horizontal and vertical changes of hard and soft tissue dimensions. The magnitude of these changes is important for decision-making and comprehensive treatment planning, with provisions for possible solutions to expected complications during prosthetic rehabilitation. Objectives To review all English dental literature to assess the magnitude of dimensional changes of both the hard and soft tissues of the alveolar ridge up to 12 months following tooth extraction in humans. Methods An electronic MEDLINE and CENTRAL search complemented by manual searching was conducted to identify randomized controlled clinical trials and prospective cohort studies on hard and soft tissue dimensional changes after tooth extraction. Only studies reporting on undisturbed post-extraction dimensional changes relative to a fixed reference point over a clearly stated time period were included. Assessment of the identified studies and data extraction was performed independently by two reviewers. Data collected were reported by descriptive methods. Weighted means and percentages of the dimensional changes over time were calculated where appropriate. Results The search provided 3954 titles and 238 abstracts. Full text analysis was performed for 104 articles resulting in 20 studies that met the inclusion criteria. In human hard tissue, horizontal dimensional reduction (3.79 ± 0.23 mm) was more than vertical reduction (1.24 ± 0.11 mm on buccal, 0.84 ± 0.62 mm on mesial and 0.80 ± 0.71 mm on distal sites) at 6 months. Percentage vertical dimensional change was 11?22% at 6 months. Percentage horizontal dimensional change was 32% at 3 months, and 29?63% at 6?7 months. Soft tissue changes demonstrated 0.4?0.5 mm gain of thickness at 6 months on the buccal and lingual aspects. Horizontal dimensional changes of hard and soft tissue (loss of 0.1?6.1 mm) was more substantial than vertical change (loss 0.9 mm to gain 0.4 mm) during observation periods of up to 12 months, when study casts were utilized as a means of documenting the changes. Conclusions Human re-entry studies showed horizontal bone loss of 29?63% and vertical bone loss of 11?22% after 6 months following tooth extraction. These studies demonstrated rapid reductions in the first 3?6 months that was followed by gradual reductions in dimensions thereafter.
+ER  - 
+
+TY  - JOUR
+AU  - Villoslada, Pablo
+AU  - Steinman, Lawrence
+AU  - Baranzini, Sergio E.
+TI  - Systems biology and its application to the understanding of neurological diseases
+JO  - Annals of Neurology
+JA  - Ann Neurol.
+VL  - 65
+IS  - 2
+SN  - 9781405187671
+UR  - https://doi.org/10.1002/ana.21634
+DO  - doi:10.1002/ana.21634
+SP  - 124
+EP  - 139
+PY  - 2009
+AB  - Abstract Recent advances in molecular biology, neurobiology, genetics, and imaging have demonstrated important insights about the nature of neurological diseases. However, a comprehensive understanding of their pathogenesis is still lacking. Although reductionism has been successful in enumerating and characterizing the components of most living organisms, it has failed to generate knowledge on how these components interact in complex arrangements to allow and sustain two of the most fundamental properties of the organism as a whole: its fitness, also termed its robustness, and its capacity to evolve. Systems biology complements the classic reductionist approaches in the biomedical sciences by enabling integration of available molecular, physiological, and clinical information in the context of a quantitative framework typically used by engineers. Systems biology employs tools developed in physics and mathematics such as nonlinear dynamics, control theory, and modeling of dynamic systems. The main goal of a systems approach to biology is to solve questions related to the complexity of living systems such as the brain, which cannot be reconciled solely with the currently available tools of molecular biology and genomics. As an example of the utility of this systems biological approach, network-based analyses of genes involved in hereditary ataxias have demonstrated a set of pathways related to RNA splicing, a novel pathogenic mechanism for these diseases. Network-based analysis is also challenging the current nosology of neurological diseases. This new knowledge will contribute to the development of patient-specific therapeutic approaches, bringing the paradigm of personalized medicine one step closer to reality. Ann Neurol 2009;65:124?139
+ER  - 
+
+TY  - JOUR
+AU  - Fan, Shaochen
+AU  - Gao, Huasong
+AU  - Ji, Wei
+AU  - Zhu, Fengwei
+AU  - Sun, Lingzheng
+AU  - Liu, Yuankun
+AU  - Zhang, Siming
+AU  - Xu, Yanran
+AU  - Yan, Yaohua
+AU  - Gao, Yilu
+TI  - Umbilical cord-derived mesenchymal stromal/stem cells expressing IL-24 induce apoptosis in gliomas
+JO  - Journal of Cellular Physiology
+JA  - J Cell Physiol
+VL  - 235
+IS  - 2
+SN  - 9781405187671
+UR  - https://doi.org/10.1002/jcp.29095
+DO  - doi:10.1002/jcp.29095
+SP  - 1769
+EP  - 1779
+KW  - gene therapy
+KW  - glioma
+KW  - Interleukin 24 (IL-24)
+KW  - umbilical cord-derived mesenchymal stromal/stem cells (UC-MSCs)
+PY  - 2020
+AB  - Abstract Although much progress has been made in the treatment of gliomas, the prognosis for patients with gliomas is still very poor. Stem cell-based therapies may be promising options for glioma treatment. Recently, many studies have reported that umbilical cord-derived mesenchymal stromal/stem cells (UC-MSCs) are ideal gene vehicles for tumor gene therapy. Interleukin 24 (IL-24) is a pleiotropic immunoregulatory cytokine that has an apoptotic effect on many kinds of tumor cells and can inhibit the growth of tumors specifically without damaging normal cells. In this study, we investigated UC-MSCs as a vehicle for the targeted delivery of IL-24 to tumor sites. UC-MSCs were transduced with lentiviral vectors carrying green fluorescent protein (GFP) or IL-24 complementary DNA. The results indicated that UC-MSCs could selectively migrate to glioma cells in vitro and in vivo. Injection of IL-24-UC-MSCs significantly suppressed tumor growth of glioma xenografts. The restrictive efficacy of IL-24-UC-MSCs was associated with the inhibition of proliferation as well as the induction of apoptosis in tumor cells. These findings indicate that UC-MSC-based IL-24 gene therapy may be able to suppress the growth of glioma xenografts, thereby suggesting possible future therapeutic use in the treatment of gliomas.
+ER  - 
+
+TY  - JOUR
+AU  - Brzovi«, Kathy
+TI  - Towards a Reassessment of Fin-de-Siècle Vienna
+JO  - Orbis Litterarum
+VL  - 46
+IS  - 3
+SN  - 9781405187671
+UR  - https://doi.org/10.1111/j.1600-0730.1991.tb01919.x
+DO  - doi:10.1111/j.1600-0730.1991.tb01919.x
+SP  - 257
+EP  - 275
+PY  - 1991
+AB  - This article attempts to re-define the terms of debate surrounding the socio-historical, political, aesthetic, and philosophical significance of the Impressionist movement in turn-of-the-century Vienna. It calls into question the adequacy of the traditional paradigm of crisis and argues that the Jung Wien movement may be viewed as an attempt by the Austro-German elite to fashion a form of cultural monism that complemented the political move of the Habsburg monarchy to preserve its empire.
+ER  - 
+
+TY  - JOUR
+AU  - Rosted, P
+TI  - Practical recommendations for the use of acupuncture in the treatment of temporomandibular disorders based on the outcome of published controlled studies
+JO  - Oral Diseases
+VL  - 7
+IS  - 2
+SN  - 9781405187671
+UR  - https://doi.org/10.1034/j.1601-0825.2001.70208.x
+DO  - doi:10.1034/j.1601-0825.2001.70208.x
+SP  - 109
+EP  - 115
+KW  - acupuncture
+KW  - TMD
+KW  - complementary medicine
+KW  - treatment of TMD using acupuncture
+PY  - 2001
+AB  - OBJECTIVE: The objective is to analyse the treatment procedures used in the individual studies to identify any similarities of therapeutic approaches and subsequently present recommendations for a standard acupuncture procedure for the treatment of temporomandibular disorders (TMD). MATERIALS: Literature searches performed by the Royal Society of Medicine and the University Library, Copenhagen were able to identify 74 publications regarding the use of acupuncture in dentistry. Among them 14 papers concerned the use of acupuncture in the treatment of TMD. To ensure reasonable methodological soundness of the involved studies, only randomised and blinded studies were included, which reduced the number of papers to six. Among these six papers three concerns the same study and were counted as one. One paper was a follow-up of a previous study and for this purpose counted as one. METHODS: All publications were analysed for the following information: acupuncture points used, type of stimulation, number of treatments, duration of the individual treatment and the interval between the individual treatments. MAIN OUTCOME: Acupuncture has in three out of three randomised controlled trials (RCT) proved effective for the treatment of TMD. The following local acupuncture points are recommended for the treatment of TMD: ST-6, ST-7, SI-18, GV-20, GB-20, BL-10. As a distant point LI-4 is recommended. After inserting the needles they should be manipulated manually to achieve the De-qui sensation and left in situ for 30 min. Treatment should be given weekly and a total number of six treatments is recommended.
+ER  - 
+
+TY  - JOUR
+AU  - Vizard, Eileen
+TI  - Sexually Abusive Behaviour by Children and Adolescents
+JO  - Child and Adolescent Mental Health
+VL  - 11
+IS  - 1
+SN  - 9781405187671
+UR  - https://doi.org/10.1111/j.1475-3588.2005.00375.x
+DO  - doi:10.1111/j.1475-3588.2005.00375.x
+SP  - 2
+EP  - 8
+KW  - Sexual
+KW  - abusive behaviour
+KW  - children
+KW  - adolescents
+PY  - 2006
+AB  - Recently professionals have recognised that children as well as adults may act in sexually aggressive ways towards others. This is complemented by an expanding empirical evidence base. A comprehensive appraisal of the literature is beyond the scope of this review. However, the estimated size of the problem, it's aetiology (Lee et al., 2002), outcomes and successful intervention programmes (Borduin & Schaeffer, 2002) will be discussed. The evidence base and clinical experience with this group strongly supports the need for coherent government policies in relation to sexually abusive behaviour by children and adolescents.
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Eric W.
+AU  - Zanation, Adam M.
+AU  - Gardner, Paul A.
+AU  - Schwartz, Theodore H.
+AU  - Eloy, Jean Anderson
+AU  - Adappa, Nithin D.
+AU  - Bettag, Martin
+AU  - Bleier, Benjamin S.
+AU  - Cappabianca, Paolo
+AU  - Carrau, Ricardo L.
+AU  - Casiano, Roy R.
+AU  - Cavallo, Luigi M.
+AU  - Ebert Jr, Charles S.
+AU  - El-Sayed, Ivan H.
+AU  - Evans, James J.
+AU  - Fernandez-Miranda, Juan C.
+AU  - Folbe, Adam J.
+AU  - Froelich, Sebastien
+AU  - Gentili, Fred
+AU  - Harvey, Richard J.
+AU  - Hwang, Peter H.
+AU  - Jane Jr, John A.
+AU  - Kelly, Daniel F.
+AU  - Kennedy, David
+AU  - Knosp, Engelbert
+AU  - Lal, Devyani
+AU  - Lee, John Y.K.
+AU  - Liu, James K.
+AU  - Lund, Valerie J.
+AU  - Palmer, James N.
+AU  - Prevedello, Daniel M.
+AU  - Schlosser, Rodney J.
+AU  - Sindwani, Raj
+AU  - Solares, C. Arturo
+AU  - Tabaee, Abtin
+AU  - Teo, Charles
+AU  - Thirumala, Parthasarathy D.
+AU  - Thorp, Brian D.
+AU  - de Arnaldo Silva Vellutini, Eduardo
+AU  - Witterick, Ian
+AU  - Woodworth, Bradford A.
+AU  - Wormald, Peter-John
+AU  - Snyderman, Carl H.
+TI  - ICAR: endoscopic skull-base surgery
+JO  - International Forum of Allergy & Rhinology
+JA  - Int Forum Allergy Rhinol.
+VL  - 9
+IS  - S3
+SN  - 9781405187671
+UR  - https://doi.org/10.1002/alr.22326
+DO  - doi:10.1002/alr.22326
+SP  - S145
+EP  - S365
+KW  - endoscopic endonasal approach
+KW  - endoscopic endonasal skull-base surgery
+KW  - CSF rhinorrhea
+KW  - pituitary adenoma
+KW  - craniopharyngioma
+KW  - meningioma
+KW  - angiofibroma
+KW  - olfactory neuroblastoma
+KW  - esthesioneuroblastoma
+KW  - squamous cell carcinoma
+KW  - clival chordoma
+KW  - nasoseptal flap reconstruction
+KW  - evidence-based medicine
+PY  - 2019
+AB  - Background Endoscopic skull-base surgery (ESBS) is employed in the management of diverse skull-base pathologies. Paralleling the increased utilization of ESBS, the literature in this field has expanded rapidly. However, the rarity of these diseases, the inherent challenges of surgical studies, and the continued learning curve in ESBS have resulted in significant variability in the quality of the literature. To consolidate and critically appraise the available literature, experts in skull-base surgery have produced the International Consensus Statement on Endoscopic Skull-Base Surgery (ICAR:ESBS). Methods Using previously described methodology, topics spanning the breadth of ESBS were identified and assigned a literature review, evidence-based review or evidence-based review with recommendations format. Subsequently, each topic was written and then reviewed by skull-base surgeons in both neurosurgery and otolaryngology. Following this iterative review process, the ICAR:ESBS document was synthesized and reviewed by all authors for consensus. Results The ICAR:ESBS document addresses the role of ESBS in primary cerebrospinal fluid (CSF) rhinorrhea, intradural tumors, benign skull-base and orbital pathology, sinonasal malignancies, and clival lesions. Additionally, specific challenges in ESBS including endoscopic reconstruction and complication management were evaluated. Conclusion A critical review of the literature in ESBS demonstrates at least the equivalency of ESBS with alternative approaches in pathologies such as CSF rhinorrhea and pituitary adenoma as well as improved reconstructive techniques in reducing CSF leaks. Evidence-based recommendations are limited in other pathologies and these significant knowledge gaps call upon the skull-base community to embrace these opportunities and collaboratively address these shortcomings.
+ER  - 
+
+AU  - Owens, Darrell
+C7  - pp. 205-212
+TI  - Treating Anxiety
+SN  - 9780470958254
+UR  - https://doi.org/10.1002/9781118704707.ch26
+DO  - doi:10.1002/9781118704707.ch26
+SP  - 205-212
+KW  - Anxiety
+KW  - Benzodiazepines
+KW  - Complementary and alternative medical (CAM) therapies
+KW  - Depression
+KW  - Lorazepam
+KW  - Mood disorder
+KW  - Pharmacotherapy
+PY  - 2019
+AB  - Summary This chapter contains sections titled: History Physical Examination Diagnostics Clinical Question Discussion Back to Our Case Take Away Points References
+ER  - 

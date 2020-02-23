@@ -1,0 +1,409 @@
+
+TY  - JOUR
+AU  - El-Kamary, Samer S.
+AU  - Mohamed, Mona M.
+AU  - El-Raziky, Maissa
+AU  - Shardell, Michelle D.
+AU  - Shaker, Olfat G.
+AU  - ElAkel, Wafaa A.
+AU  - Esmat, Gamal
+TI  - Liver fibrosis staging through a stepwise analysis of non-invasive markers (FibroSteps) in patients with chronic hepatitis C infection
+JO  - Liver International
+JA  - Liver Int
+VL  - 33
+IS  - 7
+SN  - 1478-3223
+UR  - https://doi.org/10.1111/liv.12139
+DO  - doi:10.1111/liv.12139
+SP  - 982
+EP  - 990
+KW  - chronic hepatitis
+KW  - fibrosis markers
+KW  - hepatitis C virus
+KW  - liver fibrosis
+KW  - logistic regression
+PY  - 2013
+AB  - Abstract Background Non-invasive fibrosis markers can distinguish between liver fibrosis stages in lieu of liver biopsy or imaging elastography. Aims To develop a sensitive, non-invasive, freely-available algorithm that differentiates between individual liver fibrosis stages in chronic hepatitis C virus (HCV) patients. Methods Chronic HCV patients (n = 355) at Cairo University Hospital, Egypt, with liver biopsy to determine fibrosis stage (METAVIR), were tested for preselected fibrosis markers. A novel multistage stepwise fibrosis classification algorithm (FibroSteps) was developed using random forest analysis for biomarker selection, and logistic regression for modelling. FibroSteps predicted fibrosis stage using four steps: Step 1 distinguished no(F0)/mild fibrosis(F1) vs. moderate(F2)/severe fibrosis(F3)/cirrhosis(F4); Step 2a distinguished F0 vs. F1; Step 2b distinguished F2 vs. F3/F4; and Step 3 distinguished F3 vs. F4. FibroSteps was developed using a randomly-selected training set (n = 234) and evaluated using the remaining patients (n = 118) as a validation set. Results Hyaluronic Acid, TGF-?1, α2-macroglobulin, MMP-2, Apolipoprotein-A1, Urea, MMP-1, alpha-fetoprotein, haptoglobin, RBCs, haemoglobin and TIMP-1 were selected into the models, which had areas under the receiver operating curve (AUC) of 0.973, 0.923 (Step 1); 0.943, 0.872 (Step 2a); 0.916, 0.883 (Step 2b) and 0.944, 0.946 (Step 3), in the training and validation sets respectively. The final classification had accuracies of 94.9% (95% CI: 91.3?97.4%) and 89.8% (95% CI: 82.9?94.6%) for the training and validation sets respectively. Conclusions FibroSteps, a freely available, non-invasive liver fibrosis classification, is accurate and can assist clinicians in making prognostic and therapeutic decisions. The statistical code for FibroSteps using R software is provided in the supplementary materials.
+ER  - 
+
+C7  - pp. 413-423
+TI  - Index
+SN  - 9781118473313
+UR  - https://doi.org/10.1002/9781118473382.index
+DO  - doi:10.1002/9781118473382.index
+SP  - 413-423
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+AU  - Elwagdy, Salah
+AU  - Razmy, Samy
+AU  - Ghoneim, Sayed
+AU  - Elhakim, Samy
+TI  - Diagnostic performance of three-dimensional ultrasound extended imaging at scrotal mass lesions
+JO  - International Journal of Urology
+VL  - 14
+IS  - 11
+SN  - 9781118473313
+UR  - https://doi.org/10.1111/j.1442-2042.2007.01881.x
+DO  - doi:10.1111/j.1442-2042.2007.01881.x
+SP  - 1025
+EP  - 1033
+KW  - extended
+KW  - mass
+KW  - scrotal
+KW  - three dimensional
+KW  - ultrasound
+PY  - 2007
+AB  - Objectives:? High resolution two-dimensional ultrasound (2D US) difficulty in evaluation of some scrotal mass lesions is not frequent. The aim of the present study was to prospectively evaluate the diagnostic performance of three-dimensional ultrasound extended imaging (3D XI) in characterization of those lesions. Methods:? The study protocol had the approval of the University's review board all participants' informed consents were obtained. The study included 28 selected patients (12 testicular and 16 para-testicular mass lesions) examined by 2D US and 3D XI applications including computed multi-slice view (MSV) and multi-resolution enhanced images (XI MR). Results were correlated with histopathological findings. Results:? Two-dimensional ultrasound did not adequately characterize 28 patients out of 329 (8.5%). 3D XI interrogation was an easy procedure and distinctive of the pathological findings in 27 patients out of 28 (96.4%). The performance of XI MR with respect to characterization provided additional diagnostic information over MSV. Conclusions:? The performance of 3D XI with respect to testicular mass characterization proved better than static 2D US. Subsequently, the results of this study suggest that the routine use of 2D US in diagnosis of scrotal mass lesions should preferably be upgraded to 3D XI methods.
+ER  - 
+
+TY  - JOUR
+AU  - He, Tianlin
+C7  - 1800198
+TI  - Implementation of Proteomics in Clinical Trials
+JO  - PROTEOMICS – Clinical Applications
+JA  - Prot. Clin. Appl.
+VL  - 13
+IS  - 2
+SN  - 9781118473313
+UR  - https://doi.org/10.1002/prca.201800198
+DO  - doi:10.1002/prca.201800198
+SP  - 1800198
+KW  - clinical trials
+KW  - diagnosis
+KW  - prognosis
+KW  - proteomic/protein assays
+KW  - stratification
+PY  - 2019
+AB  - Abstract The application of protein (or peptide) biomarkers in clinical studies is a dynamic, ever-growing field. The introduction of clinical proteomics/peptidomics, such as mass spectrometry?based assays and multiplexed antibody?based protein arrays, has reshaped the landscape of biomarker identification and validation, allowing the discovery of novel biomarkers at an unprecedented rate and reliability. To reflect the current status with respect to implementation of protein/peptide biomarkers, an investigation of the most recent (last 6 years) clinical studies from clinicaltrials.gov is presented. Forty-two clinical trials involving the direct use of protein or peptide biomarkers in patient stratification and/or disease diagnosis and prognosis are highlighted. Most of the clinical trials that include proteomics/protein assays are aiming toward implementation of non-invasive diagnostic tools for early detection, while many of the clinical trials are targeting to correlate the protein abundance with the risk of a disease event. Less in number are the studies in which the protein biomarkers are applied to stratify the patients for intervention. All the above areas of application are considered of great importance for improving disease management, in an era where implementation toward precision medicine is the desired outcome of proteomics biomarker research.
+ER  - 
+
+AU  - Cuckle, Howard S.
+AU  - Benn, Peter A.
+C7  - pp. 771-818
+TI  - Multi-Marker Maternal Serum Screening for Chromosomal Abnormalities
+SN  - 9781405190879
+UR  - https://doi.org/10.1002/9781444314342.ch24
+DO  - doi:10.1002/9781444314342.ch24
+SP  - 771-818
+KW  - multi-marker maternal serum screening for chromosomal abnormalities
+KW  - chromosomal abnormalities
+KW  - chorionic villus sampling (CVS) amniocentesis
+KW  - maternal serum hCG 4 and free α-hCG 5 levels - increasing in DS pregnancies
+KW  - false-positive rate (FPR), unaffected pregnancies, and positive predictive value (PPV)
+KW  - multi-marker strategies
+KW  - second-trimester combined test
+KW  - repeat measure benefit in aneuploidy screening
+KW  - Smith-Lemli-Opitz syndrome (SLOS) - autosomal recessive disorder
+KW  - multi-marker serum screening for DS - steady detection rate increase
+PY  - 2019
+AB  - Summary This chapter contains sections titled: Chromosomal abnormalities Current multi-marker policies Model predictions Prospective intervention studies Further multi-marker strategies Other markers Clinical factors Edwards syndrome (trisomy 18) Other conditions associated with altered markers Planning a program Conclusion References
+ER  - 
+
+AU  - Baez, Julio
+C7  - pp. 833-892
+TI  - Biopharmaceuticals Derived from Transgenic Plants and Animals
+SN  - 9783527311842
+UR  - https://doi.org/10.1002/9783527620982.ch35
+DO  - doi:10.1002/9783527620982.ch35
+SP  - 833-892
+KW  - transgenic
+KW  - antithrombin
+KW  - glycoprotein
+KW  - aprotinin
+KW  - pulmonary
+PY  - 2019
+AB  - Summary This chapter contains sections titled: Introduction Advantages and Disadvantages of Transgenic Systems for the Production of Biopharmaceuticals Commercial Biopharmaceuticals with Human Clinical Experience for Therapeutic, Immunoprophylactic, and Medical Device Use derived from Transgenic Systems Conclusions
+ER  - 
+
+TY  - JOUR
+AU  - Shi, Yan
+AU  - Rojas, Yesenia
+AU  - Zhang, Wei
+AU  - Beierle, Elizabeth A.
+AU  - Doski, John J.
+AU  - Goldfarb, Melanie
+AU  - Goldin, Adam B.
+AU  - Gow, Kenneth W.
+AU  - Langer, Monica
+AU  - Meyers, Rebecka L.
+AU  - Nuchtern, Jed G.
+AU  - Vasudevan, Sanjeev A.
+C7  - e26272
+TI  - Characteristics and outcomes in children with undifferentiated embryonal sarcoma of the liver: A report from the National Cancer Database
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr Blood Cancer
+VL  - 64
+IS  - 4
+SN  - 9783527311842
+UR  - https://doi.org/10.1002/pbc.26272
+DO  - doi:10.1002/pbc.26272
+SP  - e26272
+KW  - embryonal sarcoma
+KW  - hepatic sarcoma
+KW  - liver cancer
+KW  - liver sarcoma
+KW  - National Cancer Database
+KW  - undifferentiated embryonal sarcoma
+PY  - 2017
+AB  - Abstract Objective To examine patient characteristics and outcomes in children with undifferentiated embryonal sarcoma of the liver (UESL) using a multi-institutional database. Summary Background Data UESL is a rare disease (incidence is one per million). Therefore, the current literature is mostly limited to small case series. Methods The National Cancer Database was queried for primary UESL diagnosed between 1998 and 2012. Results A total of 103 patients (<18 years) were identified. The 5-year overall survival of the entire group was 86%. The best outcomes were seen in children who had tumors smaller than 15 cm and were able to undergo surgical resection with or without chemotherapy. Margin status did not appear to significantly affect survival. The most common type of resection was hemihepatectomy (37%), followed by sectionectomy (10%) and trisectionectomy (10%). Orthotopic liver transplant was performed in 10 children, all of whom survived to 5 years. Conclusion Surgical resection with or without chemotherapy should be the mainstay of treatment in children with UESL, and is associated with very favorable outcomes. Negative surgical margins were not associated with improved survival. Orthotopic liver transplantation may be a viable method of attaining local control in tumors, which would otherwise be unresectable.
+ER  - 
+
+AU  - Mansour, Sahar
+AU  - Mortimer, Peter S.
+C7  - pp. 114.1-114.21
+TI  - Disorders of Lymphatics
+SN  - 9781405176958
+UR  - https://doi.org/10.1002/9781444345384.ch114
+DO  - doi:10.1002/9781444345384.ch114
+SP  - 114.1-114.21
+KW  - disorders of lymphatics
+KW  - lymphoedema, common disorder of lymphatic system
+KW  - lymphatic system, components - lymphatic vessels and lymph nodes
+KW  - PROX-1, transcription factor – mice, deficient in factor PROX-1
+KW  - lymphatics, two roles - homeostasis regulation
+KW  - lymphoscintigraphy (isotope lymphography) - investigation of choice, for lymphoedema
+KW  - primary lymphoedemas, congenital - primary abnormality in lymphatic system
+KW  - microcephaly–lymphoedema–chorioretinal dysplasia (OMIM 152950) - very rare autosomal dominant disorder
+KW  - Klippel–Trenaunay syndrome (KTS) - two major features
+KW  - congenital lymphatic malformations - lymphangioma/lymphangiectasia, lymphatic malformations
+PY  - 2017
+AB  - Summary This chapter contains sections titled: The lymphatic system Lymphoedema Congenital lymphatic malformations Lymphatic disorders with later onset Antenatal presentation and diagnosis of lymphatic disorders Lymphatic tumours References
+ER  - 
+
+TY  - JOUR
+AU  - Jones, D R
+TI  - Measuring midkine: the utility of midkine as a biomarker in cancer and other diseases
+JO  - British Journal of Pharmacology
+JA  - Br J Pharmacol
+VL  - 171
+IS  - 12
+SN  - 9781405176958
+UR  - https://doi.org/10.1111/bph.12601
+DO  - doi:10.1111/bph.12601
+SP  - 2925
+EP  - 2939
+KW  - midkine
+KW  - heparin-binding growth factor
+KW  - biomarker
+KW  - cancer
+KW  - diagnostic
+PY  - 2014
+AB  - Midkine (MK) is a pleiotropic growth factor prominently expressed during embryogenesis but down-regulated to neglible levels in healthy adults. Many published studies have demonstrated striking MK overexpression compared with healthy controls in various pathologies, including ischaemia, inflammation, autoimmunity and, most notably, in many cancers. MK expression is detectable in biopsies of diseased, but not healthy, tissues. Significantly, because it is a soluble cytokine, elevated MK is readily apparent in the blood and other body fluids such as urine and CSF, making MK a relatively convenient, accessible, non-invasive and inexpensive biomarker for population screening and early disease detection. The first diagnostic tests that quantify MK are just now receiving regulatory clearance and entering the clinic. This review examines the current state of knowledge pertaining to MK as a biomarker and highlights promising indications and clinical settings where measuring MK could make a difference to patient treatment. I also raise outstanding questions about reported variants of MK as well as MK's bio-distribution in vivo. Answering these questions in future studies will enhance our understanding of the significance of measured MK levels in both patients and healthy subjects, and may reveal further opportunities for measuring MK to diagnose disease. MK has already proven to be a biomarker that can significantly improve detection, management and treatment of cancer, and there is significant promise for developing further MK-based diagnostics in the future. Linked Article This article is part of a recent themed section on Midkine, published in volume 171 issue 4. To view the other articles in this section visit http://dx.doi.org/10.1111/bph.2014.171.issue-4
+ER  - 
+
+TY  - JOUR
+AU  - Srinivasa, Sanket
+AU  - Lee, Wai G.
+AU  - Aldameh, Ali
+AU  - Koea, Jonathan B.
+TI  - Spontaneous hepatic haemorrhage: a review of pathogenesis, aetiology and treatment
+JO  - HPB
+JA  - HPB
+VL  - 17
+IS  - 10
+SN  - 9781405176958
+UR  - https://doi.org/10.1111/hpb.12474
+DO  - doi:10.1111/hpb.12474
+SP  - 872
+EP  - 880
+PY  - 2015
+AB  - Abstract Background A spontaneous hepatic haemorrhage (SHH) is a rare condition that presents acutely to both hepatobiliary and general surgeons. Management of the condition is challenging because of the emergent presentation requiring immediate intervention, the presence of underlying chronic liver disease and the multiple potential underlying aetiological conditions. Methods A literature search on a spontaneous hepatic haemorrhage was instituted on Medline (1966?2014), Cochrane Register of Controlled Trials, EMBASE (1947?2014), PubMed, Web of Science and Google Scholar. The specific topics of interest were causes ? including rare causes, pathophysiological mechanisms and management options. A narrative review was planned from the outset. Results After 1546 abstracts were reviewed, 74 studies were chosen for inclusion. Hepatocellular carcinoma (HCC) is the commonest cause of a spontaneous haemorrhage with 10% of HCC presenting with bleeding. Other causes are benign hepatic lesions (hemangioma, adenoma, focal nodular hyperplasia, nodular regenerative hyperplasia, biliary cystadenoma and angiomyelolipoma), malignant hepatic tumours (angiosarcoma, haemangioendothelioma, hepatoblastoma and rhabdoid sarcoma), peliosis hepatis, amyloid, systemic lupus erythematosis, polyarteritis nodosa, HELLP syndrome and acute fatty liver of pregnancy. Treatment practice emphasizes arterial embolization to obtain haemostasis with a hepatectomy reserved for tumour-bearing patients after staging and assessment of liver function. Conclusion A spontaneous hepatic haemorrhage is an acute presentation of a spectrum of conditions that requires early diagnosis and multidisciplinary management.
+ER  - 
+
+TY  - JOUR
+TI  - TWENTIETH ANNUAL MEETING: ABSTRACTS OF PAPERS
+JO  - Journal of Paediatrics and Child Health
+VL  - 11
+IS  - 2
+SN  - 9781405176958
+UR  - https://doi.org/10.1111/j.1440-1754.1975.tb02294.x
+DO  - doi:10.1111/j.1440-1754.1975.tb02294.x
+SP  - 97
+EP  - 121
+PY  - 1975
+ER  - 
+
+C7  - pp. 305-314
+TI  - Index
+SN  - 9780470906255
+UR  - https://doi.org/10.1002/9781118484852.index
+DO  - doi:10.1002/9781118484852.index
+SP  - 305-314
+PY  - 1975
+ER  - 
+
+TY  - JOUR
+TI  - Poster Session 1: Cellular Immunobiology, Preservation, and Cell Transplantation in Transplant; Clinical: Hepatocellular Carcinoma and Cholangiocarcinoma
+JO  - Hepatology
+JA  - Hepatology
+VL  - 62
+IS  - S1
+SN  - 9780470906255
+UR  - https://doi.org/10.1002/hep.28212
+DO  - doi:10.1002/hep.28212
+SP  - 380A
+EP  - 456A
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+AU  - Erdogan, Deha
+AU  - Busch, Olivier R.C.
+AU  - Van Delden, Otto M.
+AU  - Ten Kate, Fiebo J.W.
+AU  - Gouma, Dirk J.
+AU  - Van Gulik, Thomas M.
+TI  - Management of spontaneous haemorrhage and rupture of hepatocellular adenomas. A single centre experience
+JO  - Liver International
+VL  - 26
+IS  - 4
+SN  - 9780470906255
+UR  - https://doi.org/10.1111/j.1478-3231.2006.01244.x
+DO  - doi:10.1111/j.1478-3231.2006.01244.x
+SP  - 433
+EP  - 438
+KW  - embolisation
+KW  - haemorrhage
+KW  - hepatocellular adenoma
+KW  - liver resection
+PY  - 2006
+AB  - Abstract: Background: Hepatocellular adenomas (HCA) may present with spontaneous haemorrhage and rupture. The aim of this study was to assess management in 22 patients treated for haemorrhage and/or rupture of HCA. Patients and methods: Between May 1990 and July 2005, 22 female patients were diagnosed with acute haemorrhage and/or rupture of lesions highly suspicious of HCA. Preoperative imaging diagnostics and pathologic specimens were reviewed. Results: Twelve haemodynamically stable and four unstable patients could be treated conservatively. One patient underwent acute partial liver resection, whereas four patients underwent laparotomy with initial packing of the liver. In one patient, selective embolisation of the left hepatic artery was performed. Fifteen patients eventually underwent resection after a mean time of 8 months after initial treatment. Six patients did not undergo resection and showed no complications or rebleeding after a mean follow-up of 24.6 months. Only in seven patients, histopathological examination showed HCA, and in one patient, HCA with focal nodular hyperplasia. Conclusion: HCA with haemorrhage and/or rupture does not necessarily require immediate liver resection. Conservative treatment is justified in stable patients. In case of an instable patient with or without hemoperitoneum, laparotomy with packing or selective embolisation can stop the bleeding.
+ER  - 
+
+TY  - JOUR
+AU  - Grotz, Travis E
+AU  - Nagorney, David
+AU  - Donohue, John
+AU  - Que, Florencia
+AU  - Kendrick, Michael
+AU  - Farnell, Michael
+AU  - Harmsen, Scott
+AU  - Mulligan, David
+AU  - Nguyen, Justin
+AU  - Rosen, Charles
+AU  - Reid-Lombardo, Kaye M.
+TI  - Hepatic epithelioid haemangioendothelioma: is transplantation the only treatment option?
+JO  - HPB
+VL  - 12
+IS  - 8
+SN  - 9780470906255
+UR  - https://doi.org/10.1111/j.1477-2574.2010.00213.x
+DO  - doi:10.1111/j.1477-2574.2010.00213.x
+SP  - 546
+EP  - 553
+KW  - resection < liver
+KW  - transplant
+KW  - chemotherapy < liver
+PY  - 2010
+AB  - Abstract Background:? Hepatic epithelioid haemangioendothelioma (HEH) is a rare vascular neoplasm with unpredictable clinical behaviour. Aim:? To compare overall survival (OS) and disease-free survival (DFS) between liver resection (LR) and orthotopic liver transplantation (OLT) for the treatment of HEH. Methods:? Retrospective review of 30 patients with HEH treated at Mayo Clinic during 1984 and 2007. Results:? Median age was 46 years with a female predominance of 2?:?1. Treatment included LR (n= 11), OLT (n= 11), chemotherapy (n= 5) and no treatment (n= 3). LR was associated with a 1-, 3- and 5-year OS of 100%, 86% and 86% and a DFS of 78%, 62% and 62%, respectively. OLT was associated with a 1-, 3- and 5-year OS of 91%, 73% and 73% and a DFS 64%, 46% and 46%, respectively. Metastases were present in 37% of patients but did not significantly affect OS. Important predictors of a favourable OS and DFS were largest tumour ≤ 10?cm and multifocal disease with ≤10 nodules. Conclusion:? LR and OLT achieve comparable results in the treatment of HEH. LR is appropriate for patients with resectable disease and favourable prognostic factors. OLT is appropriate for patients with unresectable disease and possibly those with unfavourable prognostic factors. Metastases may not be a contraindication to surgical treatment.
+ER  - 
+
+TY  - JOUR
+AU  - Bagchi, A.
+AU  - Kumar, S.
+AU  - Ray, P. C.
+AU  - Das, B. C.
+AU  - Gumma, P. K.
+AU  - Kar, P.
+TI  - Predictive value of serum actin-free Gc-globulin for complications and outcome in acute liver failure
+JO  - Journal of Viral Hepatitis
+JA  - J Viral Hepat
+VL  - 22
+IS  - 2
+SN  - 9780470906255
+UR  - https://doi.org/10.1111/jvh.12259
+DO  - doi:10.1111/jvh.12259
+SP  - 192
+EP  - 200
+KW  - actin-free Gc-globulin
+KW  - acute liver failure
+PY  - 2015
+AB  - Summary This prospective study was designed to evaluate whether early changes in actin-free Gc-globulin levels were associated with complications and outcomes and to identify factors associated with persistent low actin-free Gc-globulin levels in acute liver failure (ALF). Thirty-two consecutive ALF patients admitted from October 2011 to December 2012 were followed up until death or complete recovery. All had serum actin-free Gc-globulin estimation at admission and at day three or expiry. Logistic regression analysis was performed to identify independent predictors of mortality. A receiver operating characteristic curve analysis was also performed. Nonsurvivors had significantly lower median actin-free Gc-globulin levels than survivors (87.32 vs 180 mg/L; P < 0.001). A receiver operating characteristic curve analysis revealed an area under curve (AUC) of 0.771 and showed that serum actin-free Gc-globulin level of ≤124 mg/L would predict mortality with 92% sensitivity and 71.4% specificity. Patients with lower serum actin-free Gc-globulin levels and decreasing trend in serum actin-free Gc-globulin levels were found to have more mortality and developed more complications. Logistic regression analysis showed that serum actin-free Gc-globulin, total leucocyte count and serum creatinine at admission were independent predictors of mortality. Incorporating these variables, a score predicting mortality risk at admission was derived. The scoring system was compared to MELD score and King's College Criteria as individual predictor of mortality. Serum actin-free Gc-globulin level at presentation is predictive of outcome and can be used for risk stratification. Its persistent low-level predicts mortality and is correlated with various complications.
+ER  - 
+
+TY  - JOUR
+AU  - Banas, Agnieszka
+AU  - Yamamoto, Yusuke
+AU  - Teratani, Takumi
+AU  - Ochiya, Takahiro
+TI  - Stem cell plasticity: Learning from hepatogenic differentiation strategies
+JO  - Developmental Dynamics
+JA  - Dev. Dyn.
+VL  - 236
+IS  - 12
+SN  - 9780470906255
+UR  - https://doi.org/10.1002/dvdy.21330
+DO  - doi:10.1002/dvdy.21330
+SP  - 3228
+EP  - 3241
+KW  - stem cells
+KW  - hepatocytes
+KW  - plasticity
+KW  - differentiation
+PY  - 2007
+AB  - Abstract Many studies on stem cell plasticity are challenging the concept that stem cells contain an intrinsically predefined, unidirectional differentiation program. This means that the developmental fate of a stem cell is dependent on the general potential of the cell (pre-determined stem cell fate) as well as on microenvironmental cues, such as stimuli from growth factors (stem cell niche). Here, we reviewed reports that examined the hepatocyte differentiation ability of stem cells from two different sources: embryonic stem cells and adult stem cells. All of those stem cells revealed the ability to give rise to hepatocyte-like cells using different induction strategies. However, it is still not clear which of those stem cells would be the best source for hepatocyte replacement or which would be the best protocol. We herein present the current knowledge regarding available protocols and factors used in order to obtain functional hepatocytes from stem cells. Developmental Dynamics 236:3228?3241, 2007. ? 2007 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+TI  - Free paper session: 8th Annual Meeting of the Japanese Association of Hepato-Biliary-Pancreatic Surgery November 28–29, 1996, Osaka International House, Osaka, Japan President: Hiroaki Kinoshita Abstracts
+JO  - Journal of Hepato-Biliary-Pancreatic Surgery
+JA  - Journal of Hepato‐Biliary‐Pancreatic Surgery
+VL  - 3
+IS  - 3
+SN  - 9780470906255
+UR  - https://doi.org/10.1007/BF02391044
+DO  - doi:10.1007/BF02391044
+SP  - 361
+EP  - 371
+PY  - 1996
+ER  - 
+
+AU  - Smith, Julian A.
+C7  - pp. 603-614
+TI  - Common topics in thoracic surgery
+SN  - 9781119468080
+UR  - https://doi.org/10.1002/9781119468189.ch62
+DO  - doi:10.1002/9781119468189.ch62
+SP  - 603-614
+KW  - bronchoscopy
+KW  - endobronchial ultrasound
+KW  - mediastinoscopy
+KW  - tracheostomy
+KW  - video-assisted thoracoscopic surgery (VATS)
+KW  - thoracotomy
+KW  - chest wall
+KW  - pleural effusion
+KW  - empyema
+KW  - pneumothorax
+KW  - lung carcinoma
+KW  - mediastinal tumour
+PY  - 1996
+AB  - Summary Thoracic surgery addresses the operative repair of the chest wall and organs within the chest cavity (principally the lungs and oesophagus) exclusive of the heart and great vessels. Common surgical conditions include chest trauma, chest wall deformities and tumours, pleural effusion and empyema, pneumothorax, gastro-oesophageal reflux and oesophageal carcinoma, lung carcinoma and mediastinal tumours. Minimally invasive techniques (video-assisted thoracoscopic surgery or VATS) or open thoracotomy may be employed to access and/or remove the pathology. Surgery is very effective in managing the majority of these conditions and patients with malignant tumours may receive radiotherapy and/or chemotherapy as an adjuvant or definitive therapy depending on tumour staging.
+ER  - 
+
+TY  - JOUR
+AU  - Chang, Caitlin A.
+AU  - Wei, Xing-Chang
+AU  - Martin, Steven R.
+AU  - Sinasac, David S.
+AU  - Al-Hertani, Walla
+TI  - Transiently elevated plasma methionine, S-adenosylmethionine and S-adenosylhomocysteine: Unreported laboratory findings in a patient with NGLY1 deficiency, a congenital disorder of deglycosylation
+JO  - JIMD Reports
+JA  - JIMD Reports
+VL  - 49
+IS  - 1
+SN  - 9781119468080
+UR  - https://doi.org/10.1002/jmd2.12064
+DO  - doi:10.1002/jmd2.12064
+SP  - 21
+EP  - 29
+KW  - disorders of deglycosylation
+KW  - methionine
+KW  - NGLY1
+KW  - SAH
+KW  - SAM
+PY  - 2019
+AB  - Abstract We report on a 5-year-old female born to consanguineous parents, ascertained at the age of 23?months for an elevated plasma methionine level, a mildly abnormal total plasma homocysteine (tHcy), and elevated aminotransferases. She had global developmental delay, microcephaly, dysmorphic facial features, hypotonia, nystagmus and tremor in her upper extremities. Metabolic investigations demonstrated elevations in plasma methionine, plasma S-adenosylmethionine (SAM) and plasma S-adenosylhomocysteine (SAH), with normal urine adenosine levels. Some of the elevations persisted for over 1?year. Sequencing of the ADK and AHCY genes was negative for causative variants. Plasma methionine normalized 1?year after ascertainment, but SAM and SAH continued to be elevated for six more months before normalization, and aminotransferases remained mildly elevated. Whole exome sequencing demonstrated a homozygous pathogenic variant; NM_018297.3(NGLY1):c.1405C>T (p.Arg469*) in exon 9 of the NGLY1 gene, for which both parents were heterozygous. To our knowledge, this is the first report of NGLY1 deficiency with elevations in plasma methionine, SAM and SAH and a slight elevation of tHcy. Less than 20 patients have been reported with NGLY1 deficiency worldwide and this case expands on the biochemical phenotype of this newly discovered inborn error of metabolism.
+ER  - 

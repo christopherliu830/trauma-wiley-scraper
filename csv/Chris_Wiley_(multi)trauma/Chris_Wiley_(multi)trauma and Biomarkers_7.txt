@@ -1,0 +1,509 @@
+
+TY  - JOUR
+AU  - Saber, Maha
+AU  - Giordano, Katherine R.
+AU  - Hur, Yerin
+AU  - Ortiz, John B.
+AU  - Morrison, Helena
+AU  - Godbout, Jonathan P.
+AU  - Murphy, Sean M.
+AU  - Lifshitz, Jonathan
+AU  - Rowe, Rachel K.
+TI  - Acute peripheral inflammation and post-traumatic sleep differ between sexes after experimental diffuse brain injury
+JO  - European Journal of Neuroscience
+JA  - Eur J Neurosci
+VL  - n/a
+IS  - n/a
+SN  - 0953-816X
+UR  - https://doi.org/10.1111/ejn.14611
+DO  - doi:10.1111/ejn.14611
+KW  - concussion
+KW  - cytokine
+KW  - microglia
+KW  - midline fluid percussion
+KW  - mouse
+KW  - neuroinflammation
+KW  - post-traumatic sleep
+KW  - sex differences
+AB  - Abstract Identifying differential responses between sexes following traumatic brain injury (TBI) can elucidate the mechanisms behind disease pathology. Peripheral and central inflammation in the pathophysiology of TBI can increase sleep in male rodents, but this remains untested in females. We hypothesized that diffuse TBI would increase inflammation and sleep in males more so than in females. Diffuse TBI was induced in C57BL/6J mice and serial blood samples were collected (baseline, 1, 5, 7 days post-injury [DPI]) to quantify peripheral immune cell populations and sleep regulatory cytokines. Brains and spleens were harvested at 7DPI to quantify central and peripheral immune cells, respectively. Mixed-effects regression models were used for data analysis. Female TBI mice had 77%?124% higher IL-6 levels than male TBI mice at 1 and 5DPI, whereas IL-1? and TNF-α levels were similar between sexes at all timepoints. Despite baseline sex differences in blood-measured Ly6Chigh monocytes (females had 40% more than males), TBI reduced monocytes by 67% in TBI mice at 1DPI. Male TBI mice had 31%?33% more blood-measured and 31% more spleen-measured Ly6G+ neutrophils than female TBI mice at 1 and 5DPI, and 7DPI, respectively. Compared with sham, TBI increased sleep in both sexes during the first light and dark cycles. Male TBI mice slept 11%?17% more than female TBI mice, depending on the cycle. Thus, sex and TBI interactions may alter the peripheral inflammation profile and sleep patterns, which might explain discrepancies in disease progression based on sex.
+ER  - 
+
+TY  - JOUR
+AU  - Gilbert, Sophie J.
+AU  - Bonnet, Cleo S.
+AU  - Stadnik, Paulina
+AU  - Duance, Victor C.
+AU  - Mason, Deborah J.
+AU  - Blain, Emma J.
+TI  - Inflammatory and degenerative phases resulting from anterior cruciate rupture in a non-invasive murine model of post-traumatic osteoarthritis
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+VL  - 36
+IS  - 8
+SN  - 0736-0266
+UR  - https://doi.org/10.1002/jor.23872
+DO  - doi:10.1002/jor.23872
+SP  - 2118
+EP  - 2127
+KW  - post-traumatic osteoarthritis
+KW  - mechanical load
+KW  - non-invasive mouse model
+KW  - inflammation
+KW  - degeneration
+PY  - 2018
+AB  - ABSTRACT Joint injury is the predominant risk factor for post-traumatic osteoarthritis development (PTOA). Several non-invasive mouse models mimicking human PTOA investigate molecular mechanisms of disease development; none have characterized the inflammatory response to this acute traumatic injury. Our aim was to characterize the early inflammatory phase and later degenerative component in our in vivo non-invasive murine model of PTOA induced by anterior cruciate ligament (ACL) rupture. Right knees of 12-week-old C57Bl6 mice were placed in flexion at a 30° offset position and subjected to a single compressive load (12N, 1.4?mm/s) to induce ACL rupture with no obvious damage to surrounding tissues. Tissue was harvested 4?h post-injury and on days 3, 14, and 21; contralateral left knees served as controls. Histological, immunohistochemical, and gene analyzes were performed to evaluate inflammatory and degenerative changes. Immunohistochemistry revealed time-dependent expression of mature (F4/80 positive) and inflammatory (CD11b positive) macrophage populations within the sub-synovial infiltrate, developing osteophytes, and inflammation surrounding the ACL in response to injury. Up-regulation of genes encoding acute pro-inflammatory markers, inducible nitric oxide synthase, interleukin-6 and interleukin-17, and the matrix degrading enzymes, ADAMTS-4 and MMP3 was detected in femoral cartilage, concomitant with extensive cartilage damage and bone remodelling over 21-days post-injury. Our non-invasive model describes pathologically distinct phases of the disease, increasing our understanding of inflammatory episodes, the tissues/cells producing inflammatory mediators and the early molecular changes in the joint, thereby defining the early phenotype of PTOA. This knowledge will guide appropriate interventions to delay or arrest disease progression following joint injury. ? 2018 The Authors. Journal of Orthopaedic Research? Published by Wiley Periodicals, Inc. on behalf of the Orthopaedic Research Society. J Orthop Res 36:2118?2127, 2018.
+ER  - 
+
+TY  - JOUR
+AU  - Chang, Jiun C.
+AU  - Sebastian, Aimy
+AU  - Murugesh, Deepa K.
+AU  - Hatsell, Sarah
+AU  - Economides, Aris N.
+AU  - Christiansen, Blaine A.
+AU  - Loots, Gabriela G.
+TI  - Global molecular changes in a tibial compression induced ACL rupture model of post-traumatic osteoarthritis
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+VL  - 35
+IS  - 3
+SN  - 0736-0266
+UR  - https://doi.org/10.1002/jor.23263
+DO  - doi:10.1002/jor.23263
+SP  - 474
+EP  - 485
+KW  - osteoarthritis
+KW  - RNA sequencing
+KW  - tibial compression
+KW  - ACL
+PY  - 2017
+AB  - ABSTRACT Joint injury causes post-traumatic osteoarthritis (PTOA). About ?50% of patients rupturing their anterior cruciate ligament (ACL) will develop PTOA within 1?2 decades of the injury, yet the mechanisms responsible for the development of PTOA after joint injury are not well understood. In this study, we examined whole joint gene expression by RNA sequencing (RNAseq) at 1 day, 1-, 6-, and 12 weeks post injury, in a non-invasive tibial compression (TC) overload mouse model of PTOA that mimics ACL rupture in humans. We identified 1446 genes differentially regulated between injured and contralateral joints. This includes known regulators of osteoarthritis such as MMP3, FN1, and COMP, and several new genes including Suco, Sorcs2, and Medag. We also identified 18 long noncoding RNAs that are differentially expressed in the injured joints. By comparing our data to gene expression data generated using the surgical destabilization of the medial meniscus (DMM) PTOA model, we identified several common genes and shared mechanisms. Our study highlights several differences between these two models and suggests that the TC model may be a more rapidly progressing model of PTOA. This study provides the first account of gene expression changes associated with PTOA development and progression in a TC model. ? 2016 The Authors. Journal of Orthopaedic Research Published by Wiley Periodicals, Inc. J Orthop Res 35:474?485, 2017.
+ER  - 
+
+TY  - JOUR
+AU  - Hirst, N. A.
+AU  - Tiernan, J. P.
+AU  - Millner, P. A.
+AU  - Jayne, D. G.
+TI  - Systematic review of methods to predict and detect anastomotic leakage in colorectal surgery
+JO  - Colorectal Disease
+JA  - Colorectal Dis
+VL  - 16
+IS  - 2
+SN  - 1462-8910
+UR  - https://doi.org/10.1111/codi.12411
+DO  - doi:10.1111/codi.12411
+SP  - 95
+EP  - 109
+KW  - Colorectal surgery
+KW  - anastomotic leak
+KW  - diagnosis/detection
+KW  - biomarkers
+PY  - 2014
+AB  - Abstract Aim Anastomotic leakage is a serious complication of gastrointestinal surgery resulting in increased morbidity and mortality, poor function and predisposing to cancer recurrence. Earlier diagnosis and intervention can minimize systemic complications but is hindered by current diagnostic methods that are non-specific and often uninformative. The purpose of this paper is to review current developments in the field and to identify strategies for early detection and treatment of anastomotic leakage. Method A systematic literature search was performed using the MEDLINE, Embase, PubMed and Cochrane Library databases. Search terms included ?anastomosis? and ?leak? and ?diagnosis? or ?detection? and ?gastrointestinal? or ?colorectal?. Papers concentrating on the diagnosis of gastrointestinal anastomotic leak were identified and further searches were performed by cross-referencing. Results Computerized tomography CT scanning and water-soluble contrast studies are the current preferred techniques for diagnosing anastomotic leakage but suffer from variable sensitivity and specificity, have logistical constraints and may delay timely intervention. Intra-operative endoscopy and imaging may offer certain advantages, but the ability to predict anastomotic leakage is unproven. Newer techniques involve measurement of biomarkers for anastomotic leakage and have the potential advantage of providing cheap real-time monitoring for postoperative complications. Conclusion Current diagnostic tests often fail to diagnose anastomotic leak at an early stage that enables timely intervention and minimizes serious morbidity and mortality. Emerging technologies, based on detection of local biomarkers, have achieved proof of concept status but require further evaluation to determine whether they translate into improved patient outcomes. Further research is needed to address this important, yet relatively unrecognized, area of unmet clinical need.
+ER  - 
+
+TY  - JOUR
+AU  - Protheroe, R. T.
+AU  - Gwinnutt, C. L.
+TI  - Early hospital care of severe traumatic brain injury
+JO  - Anaesthesia
+VL  - 66
+IS  - 11
+SN  - 0003-2409
+UR  - https://doi.org/10.1111/j.1365-2044.2011.06874.x
+DO  - doi:10.1111/j.1365-2044.2011.06874.x
+SP  - 1035
+EP  - 1047
+PY  - 2011
+AB  - Summary Head injury is one of the major causes of trauma-related morbidity and mortality in all age groups in the United Kingdom, and anaesthetists encounter this problem in many areas of their work. Despite a better understanding of the pathophysiological processes following traumatic brain injury and a wealth of research, there is currently no specific treatment. Outcome remains dependant on basic clinical care: management of the patient?s airway with particular attention to preventing hypoxia; avoidance of the extremes of lung ventilation; and the maintenance of adequate cerebral perfusion, in an attempt to avoid exacerbating any secondary injury. Hypertonic fluids show promise in the management of patients with raised intracranial pressure. Computed tomography scanning has had a major impact on the early identification of lesions amenable to surgery, and recent guidelines have rationalised its use in those with less severe injuries. Within critical care, the importance of controlling blood glucose is becoming clearer, along with the potential beneficial effects of hyperoxia. The major improvement in outcome reflects the use of protocols to guide resuscitation, investigation and treatment and the role of specialist neurosciences centres in caring for these patients. Finally, certain groups are now recognised as being at greater risk, in particular the elderly, anticoagulated patient. You can respond to this article at http://www.anaesthesiacorrespondence.com
+ER  - 
+
+TY  - JOUR
+AU  - Okada, Naohiro
+AU  - Takahashi, Katsuyoshi
+AU  - Nishimura, Yukika
+AU  - Koike, Shinsuke
+AU  - Ishii-Takahashi, Ayaka
+AU  - Sakakibara, Eisuke
+AU  - Satomura, Yoshihiro
+AU  - Kinoshita, Akihide
+AU  - Takizawa, Ryu
+AU  - Kawasaki, Shingo
+AU  - Nakakita, Mayumi
+AU  - Ohtani, Toshiyuki
+AU  - Okazaki, Yuji
+AU  - Kasai, Kiyoto
+TI  - Characterizing prefrontal cortical activity during inhibition task in methamphetamine-associated psychosis versus schizophrenia: a multi-channel near-infrared spectroscopy study
+JO  - Addiction Biology
+JA  - Addiction Biology
+VL  - 21
+IS  - 2
+SN  - 1355-6215
+UR  - https://doi.org/10.1111/adb.12224
+DO  - doi:10.1111/adb.12224
+SP  - 489
+EP  - 503
+KW  - Inhibitory control
+KW  - methamphetamine-associated psychosis
+KW  - near-infrared spectroscopy
+KW  - prefrontal cortex
+KW  - stop-signal task
+PY  - 2016
+AB  - Abstract Methamphetamine abuse and dependence, frequently accompanied by schizophrenia-like psychotic symptoms [methamphetamine-associated psychosis (MAP)], is a serious public health problem worldwide. Few studies, however, have characterized brain dysfunction associated with MAP, nor investigated similarities and differences in brain dysfunction between MAP and schizophrenia. We compared prefrontal cortical activity associated with stop-signal inhibitory task in 21 patients with MAP, 14 patients with schizophrenia and 21 age- and gender-matched healthy controls using a 52-channel near-infrared spectroscopy (NIRS) system. Both the MAP and the schizophrenia groups showed significantly reduced activation in the bilateral ventrolateral prefrontal cortex compared with controls; however, only the MAP group showed reduced activation in the frontopolar prefrontal cortex. The MAP group demonstrated significant positive correlations between task performance and hemodynamic responses in the bilateral ventrolateral, polar and left dorsolateral regions of the prefrontal cortex. The MAP and schizophrenia groups demonstrated a significant difference in the relationship of impulsivity to hemodynamic changes in the bilateral premotor cortex. These findings characterize similarities and differences in prefrontal cortical dysfunction between psychosis associated with methamphetamine and schizophrenia. The reduced hemodynamic changes in the bilateral ventrolateral prefrontal cortex suggest a common underlying pathophysiology of MAP and schizophrenia, whereas those in the frontopolar prefrontal cortex point to an impaired state that is either inherent or caused specifically by methamphetamine use.
+ER  - 
+
+TY  - JOUR
+AU  - Gurney, Jennifer M.
+AU  - Kozar, Rosemary A
+AU  - Cancio, Leopoldo C.
+TI  - Plasma for burn shock resuscitation: is it time to go back to the future?
+JO  - Transfusion
+JA  - Transfusion
+VL  - 59
+IS  - S2
+SN  - 0041-1132
+UR  - https://doi.org/10.1111/trf.15243
+DO  - doi:10.1111/trf.15243
+SP  - 1578
+EP  - 1586
+PY  - 2019
+AB  - Patients with burn shock can be challenging to resuscitate. Burn shock produces a variety of physiologic derangements: Patients are hypovolemic from volume loss, have a increased systemic vascular resistance, and may have a depressed cardiac output depending on the extent of the thermal injury. Additionally, the burn wound produces a significant inflammatory cascade of events that contributes to the shock state. Fluid resuscitation is foundational for the initial treatment of burn shock. Typical resuscitation is with intravenous lactated Ringer's in accordance with well-established formulas based on burn wound size. In the past century, as therapies to treat thermal injuries were being developed, plasma was the fluid used for burn resuscitation; in fact, plasma was used in World War II and throughout the 1950s and 1960s. Plasma was abandoned because of infectious risks and complications. Despite huge strides in transfusion medicine and the increased safety of blood products, plasma has never been readopted for burn resuscitation. Over the past 15 years, there has been a paradigm shift in trauma resuscitation: Less crystalloid and more blood products are used; this strategy has demonstrated improved outcomes. Plasma is a physiologic fluid that stabilizes the endothelium. The endotheliopathy of trauma has been described and is mitigated by transfusion strategies with a 1:1 ratio of RBCs to plasma. Thermal injury also results in endothelial dysfunction: the endotheliopathy of burns. Plasma is likely a better resuscitation fluid for patients with significant burn wounds because of its capability to restore intravascular volume status and treat the endotheliopathy of burns.
+ER  - 
+
+TY  - JOUR
+AU  - He, Tianlin
+C7  - 1800198
+TI  - Implementation of Proteomics in Clinical Trials
+JO  - PROTEOMICS – Clinical Applications
+JA  - Prot. Clin. Appl.
+VL  - 13
+IS  - 2
+SN  - 1862-8346
+UR  - https://doi.org/10.1002/prca.201800198
+DO  - doi:10.1002/prca.201800198
+SP  - 1800198
+KW  - clinical trials
+KW  - diagnosis
+KW  - prognosis
+KW  - proteomic/protein assays
+KW  - stratification
+PY  - 2019
+AB  - Abstract The application of protein (or peptide) biomarkers in clinical studies is a dynamic, ever-growing field. The introduction of clinical proteomics/peptidomics, such as mass spectrometry?based assays and multiplexed antibody?based protein arrays, has reshaped the landscape of biomarker identification and validation, allowing the discovery of novel biomarkers at an unprecedented rate and reliability. To reflect the current status with respect to implementation of protein/peptide biomarkers, an investigation of the most recent (last 6 years) clinical studies from clinicaltrials.gov is presented. Forty-two clinical trials involving the direct use of protein or peptide biomarkers in patient stratification and/or disease diagnosis and prognosis are highlighted. Most of the clinical trials that include proteomics/protein assays are aiming toward implementation of non-invasive diagnostic tools for early detection, while many of the clinical trials are targeting to correlate the protein abundance with the risk of a disease event. Less in number are the studies in which the protein biomarkers are applied to stratify the patients for intervention. All the above areas of application are considered of great importance for improving disease management, in an era where implementation toward precision medicine is the desired outcome of proteomics biomarker research.
+ER  - 
+
+TY  - JOUR
+AU  - van de Water, E.
+AU  - Oosterlinck, M.
+AU  - Dumoulin, M.
+AU  - Korthagen, N. M.
+AU  - van Weeren, P. R.
+AU  - van den Broek, J.
+AU  - Everts, H.
+AU  - Pille, F.
+AU  - van Doorn, D. A.
+TI  - The preventive effects of two nutraceuticals on experimentally induced acute synovitis
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 49
+IS  - 4
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12629
+DO  - doi:10.1111/evj.12629
+SP  - 532
+EP  - 538
+KW  - horse
+KW  - LPS
+KW  - arthritis
+KW  - biomarkers
+KW  - pressure plate
+PY  - 2017
+AB  - Summary Background Nutraceuticals are often used in the management of equine osteoarthritis, but scientific evidence of their efficacy is lacking. Objectives To study the preventive effects of two new nutraceuticals after the experimental induction of synovitis in comparison with positive and negative control treatments. Study design Blinded, controlled, randomised experiment. Methods Twenty-four healthy Standardbred horses were randomly allocated to supplement AT (multi-ingredient, 28 days), supplement HP (collagen hydrolysate, 60 days), meloxicam (4 days) or placebo (60 days). Synovitis was induced in the right intercarpal joint by intra-articular injection of 0.5 ng lipopolysaccharide (LPS) of Escherichia coli while treatments were continued. Blood and synovial fluid were sampled before treatment, immediately prior to LPS injection, and at 8, 24 and 48 h post-injection. Synovial fluid samples were analysed for total nucleated cell count (TNCC), total protein (TP) and selected biomarkers (prostaglandin E2 [PGE2], interleukin-6 [IL-6], glycosaminoglycans [GAGs], type II collagen synthesis [CPII], matrix metalloproteinase [MMP]). Lameness was scored by visual examination and pressure plate analysis immediately prior to LPS injection, and at 8, 24 and 48 h post-injection. Clinical examinations were performed before treatment, immediately prior to LPS injection, at 2, 4 and 6 h post-injection, and then twice per day during the test period. Results Before treatment and intra-articular challenge, there were no statistically significant differences among the treatment groups for any of the parameters. After intra-articular challenge, the placebo group showed significantly higher synovial fluid TP, TNCC and PGE2 compared with the meloxicam group, although the model did not induce a relevant amount of lameness. Both nutraceuticals resulted in significantly lower synovial fluid TP, TNCC and PGE2 compared with placebo. No statistical differences in IL-6, GAGs, CPII or MMPs were observed among treatment groups. No adverse effects were observed. Main limitations Despite evidence of synovitis, lameness was too mild to detect. Conclusions The preventive administration of these nutraceuticals showed anti-inflammatory effects in this validated synovitis model. Therefore, further studies of their clinical applicability are warranted.
+ER  - 
+
+TY  - JOUR
+AU  - Tariq, Sana
+AU  - Barber, Philip A.
+TI  - Dementia risk and prevention by targeting modifiable vascular risk factors
+JO  - Journal of Neurochemistry
+JA  - J. Neurochem.
+VL  - 144
+IS  - 5
+SN  - 0022-3042
+UR  - https://doi.org/10.1111/jnc.14132
+DO  - doi:10.1111/jnc.14132
+SP  - 565
+EP  - 581
+KW  - Alzheimer's
+KW  - biomarkers
+KW  - cognitive decline
+KW  - dementia
+KW  - neuroimaging
+KW  - vascular disease
+PY  - 2018
+AB  - Abstract The incidence of dementia is expected to double in the next 20 years and will contribute to heavy social and economic burden. Dementia is caused by neuronal loss that leads to brain atrophy years before symptoms manifest. Currently, no cure exists and extensive efforts are being made to mitigate cognitive impairment in late life in order to reduce the burden on patients, caregivers, and society. The most common type of dementia, Alzheimer's disease (AD), and vascular dementia (VaD) often co-exists in the brain and shares common, modifiable risk factors, which are targeted in numerous secondary prevention trials. There is a growing need for non-pharmacological interventions and infrastructural support from governments to encourage psychosocial and behavioral interventions. Secondary prevention trials need to be redesigned based on the risk profile of individual subjects, which require the use of validated and standardized clinical, biological, and neuroimaging biomarkers. Multi-domain approaches have been proposed in high-risk populations that target optimal treatment; clinical trials need to recruit individuals at the highest risk of dementia before symptoms develop, thereby identifying an enriched disease group to test preventative and disease modifying strategies. The underlying aim should be to reduce microscopic brain tissue loss by modifying vascular and lifestyle risk factors over a relatively short period of time, thus optimizing the opportunity for preventing dementia in the future. Collaboration between international research groups is of key importance to the optimal use and allocation of existing resources, and the development of new techniques in preventing dementia. This article is part of the Special Issue ?Vascular Dementia?.
+ER  - 
+
+TY  - JOUR
+AU  - Messé, Arnaud
+AU  - Caplain, Sophie
+AU  - Paradot, Gaëlle
+AU  - Garrigue, Delphine
+AU  - Mineo, Jean-François
+AU  - Soto Ares, Gustavo
+AU  - Ducreux, Denis
+AU  - Vignaud, Frédéric
+AU  - Rozec, Gaëlle
+AU  - Desal, Hubert
+AU  - Pélégrini-Issac, Mélanie
+AU  - Montreuil, Michèle
+AU  - Benali, Habib
+AU  - Lehéricy, Stéphane
+TI  - Diffusion tensor imaging and white matter lesions at the subacute stage in mild traumatic brain injury with persistent neurobehavioral impairment
+JO  - Human Brain Mapping
+JA  - Hum. Brain Mapp.
+VL  - 32
+IS  - 6
+SN  - 1065-9471
+UR  - https://doi.org/10.1002/hbm.21092
+DO  - doi:10.1002/hbm.21092
+SP  - 999
+EP  - 1011
+KW  - mild traumatic brain injury
+KW  - diffusion tensor imaging
+KW  - post-commotional syndrome
+KW  - outcome
+KW  - voxel-based morphometry
+KW  - tract-based spatial statistics
+PY  - 2011
+AB  - Abstract Mild traumatic brain injury (mTBI) can induce long-term behavioral and cognitive disorders. Although the exact origin of these mTBI-related disorders is not known, they may be the consequence of diffuse axonal injury (DAI). Here, we investigated whether MRI at the subacute stage can detect lesions that are associated with poor functional outcome in mTBI by using anatomical images (T1) and diffusion tensor imaging (DTI). Twenty-three patients with mTBI were investigated and compared with 23 healthy volunteers. All patients underwent an MRI investigation and clinical tests between 7 and 28 days (D15) and between 3 and 4 months (M3) after injury. Patients were divided in two groups of poor outcome (PO) and good outcome (GO), based on their complaints at M3. Groupwise differences in gray matter partial volume between PO patients, GO patients and controls were analyzed using Voxel-Based Morphometry (VBM) from T1 data at D15. Differences in microstructural architecture were investigated using Tract-Based Spatial Statistics (TBSS) and the diffusion images obtained from DTI data at D15. Permutation-based non-parametric testing was used to assess cluster significance at p < 0.05, corrected for multiple comparisons. Twelve GO patients and 11 PO patients were identified on the basis of their complaints. In PO patients, gray matter partial volume was significantly lower in several cortical and subcortical regions compared with controls, but did not differ from that of GO patients. No difference in diffusion variables was found between GO and controls. PO patients showed significantly higher mean diffusivity values than both controls and GO patients in the corpus callosum, the right anterior thalamic radiations and the superior longitudinal fasciculus, the inferior longitudinal fasciculus and the fronto-occipital fasciculus bilaterally. In conclusion, PO patients differed from GO patients by the presence of diffusion changes in long association white matter fiber tracts but not by gray matter partial volume. These results suggest that DTI at the subacute stage may be a predictive marker of poor outcome in mTBI. Hum Brain Mapp, 2011. ? 2010 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Serena,             T.
+AU  - Li, V.W.
+AU  - on behalf of the Wound Healing Cooperative Group
+TI  - 145 Interval Analysis of a Randomized, Open Label, Multi-Center Study Comparing Apligraf Vs. Standard Multilayer Compression in the Reduction of Pain Associated WItH Venous Leg Ulcerations
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130216aw.x
+DO  - doi:10.1111/j.1067-1927.2005.130216aw.x
+SP  - A28
+EP  - A48
+PY  - 2005
+AB  - Background:? According to The American Pain Society, pain should be considered a fifth vital sign. Pain is a prominent feature of venous leg ulcerations (VLUs). Sixty-five percent of VLU patients complain of severe pain. In several multicenter clinical trials, Apligraf, a bioengineered living skin construct, has been shown to accelerate healing in venous leg ulcerations. Anecdotal clinical observations suggest that Apligraf treatment is associated with pain relief. A treatment modality which promotes healing and reduces pain would significantly improve the quality of life in patients with VLU. Methods:? VLU patients with pain scores greater than 5/10 on a numerical scale or requiring narcotic analgesia were randomized to receive either Apligraf and compression or compression alone. There was a 3-week ?wash-out? period to ensure that pain was not due to other factors such as inadequate compression or infection. Patients were enrolled only after a negative quantitative biopsy. The intensity of pain was self-scored and a quality-of-life questionnaire was completed at each visit. Weekly wound area measurements were obtained with digital planimetry. Results:? Thus far in the enrollment period we have already seen a trend toward a significant reduction in pain in the Apligraf group. This pain relief occurs shortly after application indicating that a mechanism distinct from clinical healing. The Apligraf group also demonstrated acceleration in wound healing as well as a decreased time-to-complete closure. Conclusion:? Interval analysis of this multicenter trial suggests that Apligraf accelerates wound healing and reduces the pain associated with venous leg ulcerations. Acknowledgment:? Unrestricted Educational grant, Organogenesis Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Woodward, Steven H.
+AU  - Leskin, Gregory A.
+AU  - Sheikh, Javaid I.
+TI  - Sleep respiratory concomitants of comorbid panic and nightmare complaint in post-traumatic stress disorder
+JO  - Depression and Anxiety
+JA  - Depress. Anxiety
+VL  - 18
+IS  - 4
+SN  - 1091-4269
+UR  - https://doi.org/10.1002/da.10075
+DO  - doi:10.1002/da.10075
+SP  - 198
+EP  - 204
+KW  - sleep
+KW  - anxiety
+KW  - panic
+KW  - stress
+KW  - traumatic
+KW  - respiration
+PY  - 2003
+AB  - Abstract Posttraumatic stress disorder (PTSD) patients with comorbid panic disorder (PD) may express additive symptoms of central fear system disturbance. They endorse elevated levels of sleep and nightmare disturbance [Leskin GA, et al., J Psychiatr Res 2002;36:449?452], and demonstrate movement suppression during laboratory sleep [Woodward SH, et al., Sleep 2002;25:681?688]. We estimated respiratory rate and rate variability separately for rapid-eye movement (REM) and non-rapid-eye movement (NREM) sleep. Subjects were 49 Vietnam combat-related PTSD inpatients (11 with comorbid PD and 38 without) and 15 controls. Computer-based estimates of respiratory rate and variability were derived from 10 to 18 hr of baseline sleep collected over two or three nights. Neither rate nor rate variability distinguished PTSD patients with comorbid PD from those without, or PTSD patients from controls; however, PTSD patients failed to exhibit the expected differences between REM and NREM respiratory rates. Moreover, the difference between REM and NREM respiratory rate was inversely related to a continuous measure of PTSD severity. PTSD patients with trauma-related nightmare complaint exhibited higher sleep respiration rates over both REM and NREM sleep. Conversely, in addition to slowed respiration, nightmare-free patients exhibited reduced respiratory rate variability in REM relative to NREM sleep, which was a reversal of the normal pattern. These finding are discussed in light of known telencephalic regulatory influences upon respiration rate. Depression and Anxiety 18:198?204, 2003 ? 2003 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Cui, Liang
+AU  - Lu, Haitao
+AU  - Lee, Yie Hou
+TI  - Challenges and emergent solutions for LC-MS/MS based untargeted metabolomics in diseases
+JO  - Mass Spectrometry Reviews
+JA  - Mass Spec Rev
+VL  - 37
+IS  - 6
+SN  - 0277-7037
+UR  - https://doi.org/10.1002/mas.21562
+DO  - doi:10.1002/mas.21562
+SP  - 772
+EP  - 792
+KW  - disease
+KW  - liquid chromatography
+KW  - mass spectrometry
+KW  - medicine
+KW  - metabolomics
+KW  - untargeted metabolomics
+PY  - 2018
+AB  - In the past decade, advances in liquid chromatography-mass spectrometry (LC-MS) have revolutionized untargeted metabolomics analyses. By mining metabolomes more deeply, researchers are now primed to uncover key metabolites and their associations with diseases. The employment of untargeted metabolomics has led to new biomarker discoveries and a better mechanistic understanding of diseases with applications in precision medicine. However, many major pertinent challenges remain. First, compound identification has been poor, and left an overwhelming number of unidentified peaks. Second, partial, incomplete metabolomes persist due to factors such as limitations in mass spectrometry data acquisition speeds, wide-range of metabolites concentrations, and cellular/tissue/temporal-specific expression changes that confound our understanding of metabolite perturbations. Third, to contextualize metabolites in pathways and biology is difficult because many metabolites partake in multiple pathways, have yet to be described species specificity, or possess unannotated or more-complex functions that are not easily characterized through metabolomics analyses. From a translational perspective, information related to novel metabolite biomarkers, metabolic pathways, and drug targets might be sparser than they should be. Thankfully, significant progress has been made and novel solutions are emerging, achieved through sustained academic and industrial community efforts in terms of hardware, computational, and experimental approaches. Given the rapidly growing utility of metabolomics, this review will offer new perspectives, increase awareness of the major challenges in LC-MS metabolomics that will significantly benefit the metabolomics community and also the broader the biomedical community metabolomics aspire to serve.
+ER  - 
+
+TY  - JOUR
+AU  - He, Naying
+AU  - Huang, Pei
+AU  - Ling, Huawei
+AU  - Langley, Jason
+AU  - Liu, Chunlei
+AU  - Ding, Bei
+AU  - Huang, Juan
+AU  - Xu, Hongmin
+AU  - Zhang, Yong
+AU  - Zhang, Zhongping
+AU  - Hu, Xiaoping
+AU  - Chen, Shengdi
+AU  - Yan, Fuhua
+C7  - e3554
+C8  - NBM-15-0332.R2
+TI  - Dentate nucleus iron deposition is a potential biomarker for tremor-dominant Parkinson's disease
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 30
+IS  - 4
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.3554
+DO  - doi:10.1002/nbm.3554
+SP  - e3554
+KW  - Parkinson's disease
+KW  - tremor-dominant phenotype
+KW  - akinetic rigidity-dominant phenotype
+KW  - quantitative susceptibility mapping
+KW  - iron deposition
+PY  - 2017
+AB  - Parkinson's disease (PD) is a heterogeneous neurodegenerative disorder with variable clinicopathologic phenotypes and underlying neuropathologic mechanisms. Each clinical phenotype has a unique set of motor symptoms. Tremor is the most frequent initial motor symptom of PD and is the most difficult symptom to treat. The dentate nucleus (DN) is a deep iron-rich nucleus in the cerebellum and may be involved in PD tremor. In this study, we test the hypothesis that DN iron may be elevated in tremor-dominant PD patients using quantitative susceptibility mapping. Forty-three patients with PD [19 tremor dominant (TD)/24 akinetic rigidity (AR) dominant] and 48 healthy gender- and age-matched controls were recruited. Multi-echo gradient echo data were collected for each subject on a 3.0-T MR system. Inter-group susceptibility differences in the bilateral DN were investigated and correlations of clinical features with susceptibility were also examined. In contrast with the AR-dominant group, the TD group was found to have increased susceptibility in the bilateral DN when compared with healthy controls. In addition, susceptibility was positively correlated with tremor score in drug-naive PD patients. These findings indicate that iron load within the DN may make an important contribution to motor phenotypes in PD. Moreover, our results suggest that TD and AR-dominant phenotypes of PD can be differentiated on the basis of the susceptibility of the DN, at least at the group level. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Preston, Graeme
+AU  - Kirdar, Faisal
+AU  - Kozicz, Tamas
+TI  - The role of suboptimal mitochondrial function in vulnerability to post-traumatic stress disorder
+JO  - Journal of Inherited Metabolic Disease
+JA  - J Inherit Metab Dis
+VL  - 41
+IS  - 4
+SN  - 0141-8955
+UR  - https://doi.org/10.1007/s10545-018-0168-1
+DO  - doi:10.1007/s10545-018-0168-1
+SP  - 585
+EP  - 596
+PY  - 2018
+AB  - Abstract Post-traumatic stress disorder remains the most significant psychiatric condition associated with exposure to a traumatic event, though rates of traumatic event exposure far outstrip incidence of PTSD. Mitochondrial dysfunction and suboptimal mitochondrial function have been increasingly implicated in several psychopathologies, and recent genetic studies have similarly suggested a pathogenic role of mitochondria in PTSD. Mitochondria play a central role in several physiologic processes underlying PTSD symptomatology, including abnormal fear learning, brain network activation, synaptic plasticity, steroidogenesis, and inflammation. Here we outline several potential mechanisms by which inherited (genetic) or acquired (environmental) mitochondrial dysfunction or suboptimal mitochondrial function, may contribute to PTSD symptomatology and increase susceptibility to PTSD. The proposed pathogenic role of mitochondria in the pathophysiology of PTSD has important implications for prevention and therapy, as antidepressants commonly prescribed for patients with PTSD have been shown to inhibit mitochondrial function, while alternative therapies shown to improve mitochondrial function may prove more efficacious.
+ER  - 
+
+C7  - pp. 127-139
+TI  - Acute Coronary Syndrome
+SN  - 9781405154000
+UR  - https://doi.org/10.1002/9781444300772.ch18
+DO  - doi:10.1002/9781444300772.ch18
+SP  - 127-139
+KW  - acute myocardial infarction to stable angina
+KW  - non-invasive stress testing
+KW  - exercise electrocardiogram (ECG) stress testing
+KW  - myocardial perfusion imaging
+KW  - coronary artery disease (CAD)
+KW  - acute myocardial infarction (AMI)
+KW  - unstable angina (UA)
+KW  - acute coronary syndrome (ACS)
+KW  - serum biomarkers
+KW  - lactose dehydrogenase (LDH)
+PY  - 2018
+AB  - Summary This chapter contains sections titled: Background Serum biomarkers Clinical question one Comments Non-invasive cardiac testing Clinical question two Comments CT coronary angiography Clinical question three Comments References
+ER  - 
+
+TY  - JOUR
+AU  - Cologna, Stephanie M.
+AU  - Shieh, Christine
+AU  - Toth, Cynthia L.
+AU  - Cougnoux, Antony
+AU  - Burkert, Kathryn R.
+AU  - Bianconi, Simona E.
+AU  - Wassif, Christopher A.
+AU  - Porter, Forbes D.
+TI  - Altered cerebrospinal fluid proteins in Smith–Lemli–Opitz syndrome patients
+JO  - American Journal of Medical Genetics Part A
+JA  - Am. J. Med. Genet.
+VL  - 170
+IS  - 8
+SN  - 9781405154000
+UR  - https://doi.org/10.1002/ajmg.a.37720
+DO  - doi:10.1002/ajmg.a.37720
+SP  - 2060
+EP  - 2068
+KW  - Smith–Lemli–Opitz
+KW  - SLOS
+KW  - biomarkers
+KW  - cerebrospinal fluid
+PY  - 2016
+AB  - Smith?Lemli?Opitz syndrome (SLOS) is an autosomal recessive, multiple malformation syndrome with neurocognitive impairment. SLOS arises from mutations in the 7-dehydrocholesterol reductase gene which results in impaired enzymatic conversion of 7-dehydrocholesterol to cholesterol. In the current work, we sought to measure proteins that were altered in the cerebrospinal fluid from SLOS patients compared to pediatric controls. Using a multi-analyte antibody-based assay, we found that 12 proteins are altered in SLOS patients. Validation studies were carried out and the findings from this study suggest alterations in extracellular matrix remodeling and further evidence of oxidative stress within the disease pathophysiology. The results of this study will be used to explore biological pathways altered in SLOS and identifies a set of CSF proteins that can be evaluated as biomarkers in future therapeutic trials. ? 2016 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Caeyenberghs, Karen
+AU  - Leemans, Alexander
+AU  - Geurts, Monique
+AU  - Taymans, Tom
+AU  - Linden, Catharine Vander
+AU  - Smits-Engelsman, Bouwien C. M.
+AU  - Sunaert, Stefan
+AU  - Swinnen, Stephan P.
+TI  - Brain-behavior relationships in young traumatic brain injury patients: DTI metrics are highly correlated with postural control
+JO  - Human Brain Mapping
+JA  - Hum. Brain Mapp.
+VL  - 31
+IS  - 7
+SN  - 9781405154000
+UR  - https://doi.org/10.1002/hbm.20911
+DO  - doi:10.1002/hbm.20911
+SP  - 992
+EP  - 1002
+KW  - traumatic brain injury
+KW  - DTI
+KW  - balance
+KW  - children
+KW  - neuroplasticity
+PY  - 2010
+AB  - Abstract Traumatic brain injury (TBI) is a major cause of impairment and functional disability in children and adolescents, including deterioration in fine as well as gross motor skills. The aim of this study was to assess deficits in sensory organization and postural ability in a young group of TBI patients versus controls by using quantitative force-platform recordings, and to test whether balance deficits are related to variation in structural properties of the motor and sensory white matter pathways. Twelve patients with TBI and 14 controls (aged 8?20 years) performed the Sensory Organisation Test (SOT) protocol of the EquiTest? (Neurocom). All participants were scanned using Diffusion Tensor Imaging (DTI) along with standard anatomical scans. Quantitative comparisons of DTI parameters (fractional anisotropy, axial and radial diffusivity) between TBI patients and controls were performed. Correlations between DTI parameters and SOT balance scores were determined. Findings revealed that the TBI group scored generally lower than the control group on the SOT, indicative of deficits in postural control. In the TBI group, reductions in fractional anisotropy were noted in the cerebellum, posterior thalamic radiation, and corticospinal tract. Degree of white matter deterioration was highly correlated with balance deficits. This study supports the view that DTI is a valuable tool for assessing the integrity of white matter structures and for selectively predicting functional motor deficits in TBI patients. Hum Brain Mapp, 2010. ? 2009 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Weiner, Michael W.
+AU  - Veitch, Dallas P.
+AU  - Aisen, Paul S.
+AU  - Beckett, Laurel A.
+AU  - Cairns, Nigel J.
+AU  - Green, Robert C.
+AU  - Harvey, Danielle
+AU  - Jack Jr., Clifford R.
+AU  - Jagust, William
+AU  - Morris, John C.
+AU  - Petersen, Ronald C.
+AU  - Saykin, Andrew J.
+AU  - Shaw, Leslie M.
+AU  - Toga, Arthur W.
+AU  - Trojanowski, John Q.
+AU  - Alzheimer's Disease Neuroimaging Initiative
+TI  - Recent publications from the Alzheimer's Disease Neuroimaging Initiative: Reviewing progress toward improved AD clinical trials
+JO  - Alzheimer's & Dementia
+JA  - Alzheimer's & Dementia
+VL  - 13
+IS  - 4
+SN  - 9781405154000
+UR  - https://doi.org/10.1016/j.jalz.2016.11.007
+DO  - doi:10.1016/j.jalz.2016.11.007
+SP  - e1
+EP  - e85
+KW  - Alzheimer's disease
+KW  - Mild cognitive impairment
+KW  - Amyloid
+KW  - Tau
+KW  - Biomarker
+KW  - Disease progression
+PY  - 2017
+AB  - Introduction The Alzheimer's Disease Neuroimaging Initiative (ADNI) has continued development and standardization of methodologies for biomarkers and has provided an increased depth and breadth of data available to qualified researchers. This review summarizes the over 400 publications using ADNI data during 2014 and 2015. Methods We used standard searches to find publications using ADNI data. Results (1) Structural and functional changes, including subtle changes to hippocampal shape and texture, atrophy in areas outside of hippocampus, and disruption to functional networks, are detectable in presymptomatic subjects before hippocampal atrophy; (2) In subjects with abnormal ?-amyloid deposition (A?+), biomarkers become abnormal in the order predicted by the amyloid cascade hypothesis; (3) Cognitive decline is more closely linked to tau than A? deposition; (4) Cerebrovascular risk factors may interact with A? to increase white-matter (WM) abnormalities which may accelerate Alzheimer's disease (AD) progression in conjunction with tau abnormalities; (5) Different patterns of atrophy are associated with impairment of memory and executive function and may underlie psychiatric symptoms; (6) Structural, functional, and metabolic network connectivities are disrupted as AD progresses. Models of prion-like spreading of A? pathology along WM tracts predict known patterns of cortical A? deposition and declines in glucose metabolism; (7) New AD risk and protective gene loci have been identified using biologically informed approaches; (8) Cognitively normal and mild cognitive impairment (MCI) subjects are heterogeneous and include groups typified not only by ?classic? AD pathology but also by normal biomarkers, accelerated decline, and suspected non-Alzheimer's pathology; (9) Selection of subjects at risk of imminent decline on the basis of one or more pathologies improves the power of clinical trials; (10) Sensitivity of cognitive outcome measures to early changes in cognition has been improved and surrogate outcome measures using longitudinal structural magnetic resonance imaging may further reduce clinical trial cost and duration; (11) Advances in machine learning techniques such as neural networks have improved diagnostic and prognostic accuracy especially in challenges involving MCI subjects; and (12) Network connectivity measures and genetic variants show promise in multimodal classification and some classifiers using single modalities are rivaling multimodal classifiers. Discussion Taken together, these studies fundamentally deepen our understanding of AD progression and its underlying genetic basis, which in turn informs and improves clinical trial design.
+ER  - 

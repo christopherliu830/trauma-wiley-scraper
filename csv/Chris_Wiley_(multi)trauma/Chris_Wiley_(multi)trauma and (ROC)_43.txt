@@ -1,0 +1,321 @@
+
+TY  - JOUR
+TI  - Radiology
+JO  - Journal of Medical Imaging and Radiation Oncology
+VL  - 54
+IS  - s1
+SN  - 1754-9477
+UR  - https://doi.org/10.1111/j.1754-9485.2010.02189.x
+DO  - doi:10.1111/j.1754-9485.2010.02189.x
+SP  - A1
+EP  - A54
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Posters
+JO  - Colorectal Disease
+VL  - 9
+IS  - s3
+SN  - 1462-8910
+UR  - https://doi.org/10.1111/j.1463-1318.2007.01354.x
+DO  - doi:10.1111/j.1463-1318.2007.01354.x
+SP  - 13
+EP  - 60
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - POSTER ABSTRACTS
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 51
+IS  - s118
+SN  - 0001-5172
+UR  - https://doi.org/10.1111/j.1399-6576.2007.01407.x
+DO  - doi:10.1111/j.1399-6576.2007.01407.x
+SP  - 25
+EP  - 48
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Alcoholism: Clinical and Experimental Research
+JA  - Alcoholism: Clinical and Experimental Research
+VL  - 28
+IS  - S5
+SN  - 0145-6008
+UR  - https://doi.org/10.1111/j.1530-0277.2004.tb00028.x
+DO  - doi:10.1111/j.1530-0277.2004.tb00028.x
+SP  - 7A
+EP  - 199A
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+AU  - White, Tonya
+AU  - Jansen, Philip R.
+AU  - Muetzel, Ryan L.
+AU  - Sudre, Gustavo
+AU  - El Marroun, Hanan
+AU  - Tiemeier, Henning
+AU  - Qiu, Anqi
+AU  - Shaw, Philip
+AU  - Michael, Andrew M.
+AU  - Verhulst, Frank C.
+TI  - Automated quality assessment of structural magnetic resonance images in children: Comparison with visual inspection and surface-based reconstruction
+JO  - Human Brain Mapping
+JA  - Hum. Brain Mapp.
+VL  - 39
+IS  - 3
+SN  - 1065-9471
+UR  - https://doi.org/10.1002/hbm.23911
+DO  - doi:10.1002/hbm.23911
+SP  - 1218
+EP  - 1231
+KW  - artifacts
+KW  - FreeSurfer
+KW  - head movement
+KW  - pediatric neuroimaging
+KW  - pediatric population neuroscience
+KW  - population neuroscience
+KW  - quality assurance
+PY  - 2018
+AB  - Abstract Motion-related artifacts are one of the major challenges associated with pediatric neuroimaging. Recent studies have shown a relationship between visual quality ratings of T1 images and cortical reconstruction measures. Automated algorithms offer more precision in quantifying movement-related artifacts compared to visual inspection. Thus, the goal of this study was to test three different automated quality assessment algorithms for structural MRI scans. The three algorithms included a Fourier-, integral-, and a gradient-based approach which were run on raw T1-weighted imaging data collected from four different scanners. The four cohorts included a total of 6,662 MRI scans from two waves of the Generation R Study, the NIH NHGRI Study, and the GUSTO Study. Using receiver operating characteristics with visually inspected quality ratings of the T1 images, the area under the curve (AUC) for the gradient algorithm, which performed better than either the integral or Fourier approaches, was 0.95, 0.88, and 0.82 for the Generation R, NHGRI, and GUSTO studies, respectively. For scans of poor initial quality, repeating the scan often resulted in a better quality second image. Finally, we found that even minor differences in automated quality measurements were associated with FreeSurfer derived measures of cortical thickness and surface area, even in scans that were rated as good quality. Our findings suggest that the inclusion of automated quality assessment measures can augment visual inspection and may find use as a covariate in analyses or to identify thresholds to exclude poor quality data.
+ER  - 
+
+TY  - JOUR
+TI  - Basic Science Podium/Poster
+JO  - Neurourology and Urodynamics
+JA  - Neurourology and Urodynamics
+VL  - 38
+IS  - S1
+SN  - 0733-2467
+UR  - https://doi.org/10.1002/nau.23949
+DO  - doi:10.1002/nau.23949
+SP  - S6
+EP  - S255
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Programme, 43rd Annual Meeting of the International Continence Society (ICS) 26 – 30 August 2013, Barcelona, Spain
+JO  - Neurourology and Urodynamics
+JA  - Neurourol. Urodyn.
+VL  - 32
+IS  - 6
+SN  - 0733-2467
+UR  - https://doi.org/10.1002/nau.22472
+DO  - doi:10.1002/nau.22472
+SP  - 507
+EP  - 932
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - Poster Sessions
+JO  - Allergy
+VL  - 65
+IS  - s92
+SN  - 0105-4538
+UR  - https://doi.org/10.1111/j.1398-9995.2010.02393.x
+DO  - doi:10.1111/j.1398-9995.2010.02393.x
+SP  - 209
+EP  - 682
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Abstract Presentations from the AABB Annual Meeting Philadelphia, PA, October 25-28, 2014
+JO  - Transfusion
+JA  - Transfusion
+VL  - 54
+IS  - S2
+SN  - 0041-1132
+UR  - https://doi.org/10.1111/trf.12845
+DO  - doi:10.1111/trf.12845
+SP  - 15A
+EP  - 268A
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+AU  - Sprenger, Fabienne S.
+AU  - Seppi, Klaus
+AU  - Djamshidian, Atbin
+AU  - Reiter, Eva
+AU  - Nocker, Michael
+AU  - Mair, Katherina
+AU  - Göbel, Georg
+AU  - Poewe, Werner
+TI  - Nonmotor Symptoms in Subjects Without Evidence of Dopaminergic Deficits
+JO  - Movement Disorders
+JA  - Mov Disord.
+VL  - 30
+IS  - 7
+SN  - 0885-3185
+UR  - https://doi.org/10.1002/mds.26204
+DO  - doi:10.1002/mds.26204
+SP  - 976
+EP  - 981
+KW  - Parkinson's disease
+KW  - SWEDDs
+KW  - nonmotor symptoms
+PY  - 2015
+AB  - ABSTRACT Background A subgroup of patients initially diagnosed with Parkinson's disease (PD) turn out to have normal dopamine transporter single-photon emission computed tomography imaging and have been labeled as subjects without evidence of dopaminergic deficit (SWEDDs). In this study, we sought to further characterize these patients and have analyzed the frequency of nonmotor symptoms (NMS) in SWEDDs, PD patients, and healthy controls. Methods We analyzed the baseline clinical data of 412 PD patients, 184 controls, and 62 SWEDDs included in the Parkinson's Progression Marker Initiative study on a variety of different NMS questionnaires. Results Both PD patients and SWEDDs had greater frequency of NMS than healthy controls. Furthermore, some NMS, such as orthostatic hypotension as well as cardiovascular and thermoregulatory dysfunction were even more commonly reported in SWEDDs than in PD patients, whereas hyposmia was more common in PD, compared to SWEDDs. Conclusion NMS are more frequent in SWEDDs than in controls, and autonomic dysfunction and orthostatic hypotension were even more common than in PD patients. These findings support the notion that SWEDDS represent a group of patients with still poorly understood pathophysiology. ? 2015 International Parkinson and Movement Disorder Society
+ER  - 
+
+TY  - JOUR
+TI  - ORAL PRESENTATIONS
+JO  - Acta Ophthalmologica Scandinavica
+VL  - 84
+IS  - s239
+SN  - 1395-3907
+UR  - https://doi.org/10.1111/j.1600-0420.2006.00814.x
+DO  - doi:10.1111/j.1600-0420.2006.00814.x
+SP  - 81
+EP  - 204
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+TI  - Oral Abstracts
+JO  - Colorectal Disease
+VL  - 10
+IS  - s1
+SN  - 1462-8910
+UR  - https://doi.org/10.1111/j.1463-1318.2008.01573.x
+DO  - doi:10.1111/j.1463-1318.2008.01573.x
+SP  - 1
+EP  - 12
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+AU  - Warnier, Ron M.J.
+AU  - van Rossum, Erik
+AU  - van Kuijk, Sander M.J.
+AU  - Mulder, Wubbo J.
+AU  - Schols, Jos M.G.A.
+AU  - Kempen, Gertrudis I.J.M.
+C7  - e13003
+TI  - The Maastricht Frailty Screening Tool for Hospitalised Patients (MFST-HP) to Identify Non-Frail Patients
+JO  - International Journal of Clinical Practice
+JA  - Int J Clin Pract
+VL  - 71
+IS  - 9
+SN  - 1368-5031
+UR  - https://doi.org/10.1111/ijcp.13003
+DO  - doi:10.1111/ijcp.13003
+SP  - e13003
+PY  - 2017
+AB  - Abstract Background The Maastricht frailty screening tool for hospitalised patients (MFST-HP) is a frailty screening tool that is fully integrated in the nursing assessment at admission. This study aims to determine the predictive value of the MFST-HP for the health outcomes length of hospital stay, discharge destination, readmission and mortality. Methods Data of 2691 hospitalised patients (70+), admitted between 01-01-2013 and 31-12-2013, were included in the study. The predictive value of the MFST-HP was analysed by means of receiver operating characteristics curves. Sensitivity, specificity, positive predictive value (PPV) and negative predictive value (NPV) for different MFST-HP cut-off scores were examined. Results Mean age of the population was 78.9 years (SD 6.4) and their average length of stay was 10.2 days (SD 9.7). Nearly 75.0% of the patients were discharged to their home and around. Approximately 25% of the patients were readmitted within 120 days. Mortality rates were 4.3% and 9.5% (within 30 or 120 days postdischarge, respectively). The area under the curve was moderate and varied from 0.50 to 0.69 for the different outcomes. As a result of high values on negative predictive value (between 73.5% and 96.7%) the MFST-HP is able to rule out a large proportion of non-frail patients. In this study 84% of the patients had a MFST-HP score of ≥ 6, suggested as most favourable cut off. Conclusions The MFST-HP seems to operate more strongly as a non-frailty indicator than as a frailty indicator and may in this respect help professionals to decide upon subsequent care. The MFST-HP is able to rule out 84% of the non-frail population in this study. The remaining 16% need to be assessed by means of a comprehensive geriatric assessment or rapid geriatric assessment, to gain more insight in the level of vulnerability in the frail-group.
+ER  - 
+
+TY  - JOUR
+TI  - Posters
+JO  - Clinical Microbiology and Infection
+VL  - 17
+IS  - s4
+SN  - 1198-743X
+UR  - https://doi.org/10.1111/j.1469-0691.2011.03558.x
+DO  - doi:10.1111/j.1469-0691.2011.03558.x
+SP  - S108
+EP  - S668
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Abstracts and Sessions
+JO  - Medical Physics
+JA  - Med. Phys.
+VL  - 46
+IS  - 6
+SN  - 0094-2405
+UR  - https://doi.org/10.1002/mp.13589
+DO  - doi:10.1002/mp.13589
+SP  - e94
+EP  - e670
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+AU  - Hashimoto, Naoya
+AU  - Yotani, Nobuyuki
+AU  - Michihata, Nobuaki
+AU  - Tang, Julian
+AU  - Sakai, Hirokazu
+AU  - Ishiguro, Akira
+C8  - PED-00651-2014.R2
+TI  - Efficacy of pediatric acute pancreatitis scores at a Japanese tertiary center
+JO  - Pediatrics International
+JA  - Pediatrics International
+VL  - 58
+IS  - 3
+SN  - 1328-8067
+UR  - https://doi.org/10.1111/ped.12774
+DO  - doi:10.1111/ped.12774
+SP  - 224
+EP  - 228
+KW  - Balthazar
+KW  - pancreatic disease
+KW  - pancreatitis
+KW  - pediatric acute pancreatitis severity score
+KW  - severity score
+PY  - 2016
+AB  - Abstract Background Pediatric acute pancreatitis (AP) is a rare but important clinical entity associated with significant morbidity. Predicting the severity and outcome of AP in pediatric patients can be challenging because there are few validated severity scoring systems. Moreover, the etiology of pediatric AP in the Japanese population is different from that of Western populations. The performance of severity scores in pediatric AP with a high prevalence of severe cases is still unknown. The aim of this study was to assess the performance of existing severity scoring systems when used for Japanese children at a tertiary care center. Methods We reviewed the electronic medical records of all children (≤18?years) treated for AP at between 2002 and 2012 at National Center for Child Health and Development, Tokyo. The modified Glasgow acute pancreatitis severity score (modified Glasgow), Ranson criteria (Ranson), Balthazar computed tomography severity index (CTSI), and pediatric acute pancreatitis severity (PAPS) score were assessed for their ability to distinguish severe pancreatitis from the milder forms. Results Thirty-three Japanese children with AP were identified. Among them, 37 episodes were analyzed for the performance of the scoring systems and 33 for the etiology. The most common etiology of AP was structural abnormality (n = 8). Sensitivity for the modified Glasgow, Ranson, PAPS, and CTSI was 42.9%, 52.4%, 81.0%, and 50.0%, respectively, while specificity was 81.3%, 81.3%, 37.5%, and 76.9%, respectively. Conclusion We found PAPS to be the most reliable when used for discriminating the severe form of AP from the milder forms at a Japanese tertiary pediatric care center.
+ER  - 
+
+TY  - JOUR
+TI  - Posters
+JO  - Clinical Microbiology and Infection
+VL  - 14
+IS  - s7
+SN  - 1198-743X
+UR  - https://doi.org/10.1111/j.1469-0691.2008.02007.x
+DO  - doi:10.1111/j.1469-0691.2008.02007.x
+SP  - S121
+EP  - S666
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts: Australian College of Mental Health Nursing 36th International Conference –‘Row with a team, or paddle alone’
+JO  - International Journal of Mental Health Nursing
+VL  - 19
+IS  - s1
+SN  - 1445-8330
+UR  - https://doi.org/10.1111/j.1447-0349.2010.00698.x
+DO  - doi:10.1111/j.1447-0349.2010.00698.x
+SP  - A1
+EP  - A54
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Flash Posters
+JO  - European Journal of Neurology
+JA  - Eur J Neurol
+VL  - 22
+IS  - S1
+SN  - 1351-5101
+UR  - https://doi.org/10.1111/ene.12808
+DO  - doi:10.1111/ene.12808
+SP  - 484
+EP  - 828
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts (Continue in Part XXI)
+JO  - Proceedings of the International Society for Magnetic Resonance in Medicine
+JA  - Proc. Soc. Magn. Reson. Med.
+VL  - 1998
+IS  - S1
+SN  - 1065-9889
+UR  - https://doi.org/10.1002/mrmp.22419980121
+DO  - doi:10.1002/mrmp.22419980121
+SP  - 1001
+EP  - 1050
+PY  - 1998
+ER  - 

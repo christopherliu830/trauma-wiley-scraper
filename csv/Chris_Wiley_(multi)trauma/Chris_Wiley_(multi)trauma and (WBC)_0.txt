@@ -1,0 +1,425 @@
+
+TY  - JOUR
+AU  - Holmes, James F.
+AU  - Sokolove, Peter E.
+AU  - Land, Catherine
+AU  - Kuppermann, Nathan
+TI  - Identification of Intra-abdominal Injuries in Children Hospitalized Following Blunt Torso Trauma
+JO  - Academic Emergency Medicine
+VL  - 6
+IS  - 8
+SN  - 1069-6563
+UR  - https://doi.org/10.1111/j.1553-2712.1999.tb01210.x
+DO  - doi:10.1111/j.1553-2712.1999.tb01210.x
+SP  - 799
+EP  - 806
+KW  - pediatric injury
+KW  - abdominal injury
+KW  - abdominal trauma
+KW  - blunt injury
+KW  - torso injury
+PY  - 1999
+AB  - Abstract. Objective: To determine the utility of the ED physical examination and laboratory analysis in screening hospitalized pediatric blunt trauma patients for intra-abdominal injuries (IAIs). Methods: The authors reviewed the records of all patients aged <15 years who sustained blunt traumatic injury and were admitted to a Level 1 trauma center over a four-year period. Patients were considered high-risk for IAI if they had any of the following at ED presentation: decreased level of consciousness (GCS < 15), abdominal pain, tenderness on abdominal examination, or gross hematuria. Patients without any of these findings were considered moderate risk for IAI. The authors compared moderate-risk patients with and without IAIs with regard to physical examination and laboratory findings obtained in the ED. Results: Of 1,040 children with blunt trauma, 559 (54%) were high-risk and 481 (46%) were moderate-risk for IAI. 126 (23%) of the high-risk and 22 (4.6%) of the moderate-risk patients had IAIs. Among moderate-risk patients with and without IAIs, those with IAIs were more likely to have abdominal abrasions (5/22 vs 34/459, p = 0.008), an abnormal chest examination (11/22 vs 86/457, p = 0.01), higher mean serum concentrations of aspartate aminotransferase (AST) (604 U/L vs 77 U/L, p < 0.001) and alanine aminotransferase (ALT) (276 U/L vs 39 U/L, p = 0.002), higher mean white blood cell (WBC) counts (16.3 K/mm3 vs 12.8 K/mm3, p < 0.001), and a higher prevalence of >5 RBCs/hpf on urinalysis (7/22 vs 54/427, p = 0.02). There was no significant difference (p > 0.05) between moderate-risk patients with and without IAIs in initial serum concentrations of amylase, initial hematocrit, drop in hematocrit >5 percentage points in the ED, or initial serum bicarbonate concentrations. Conclusion: In children hospitalized for blunt torso trauma who are at moderate risk for IAI, ED findings of abdominal abrasions, an abnormal chest examination, and microscopic hematuria as well as elevated levels of AST and ALT, and elevated WBC count are associated with IAI.
+ER  - 
+
+TY  - JOUR
+AU  - Halldorsdottir, H. D.
+AU  - Eriksson, J.
+AU  - Persson, B. P.
+AU  - Herwald, H.
+AU  - Lindbom, L.
+AU  - Weitzberg, E.
+AU  - Oldner, A.
+TI  - Heparin-binding protein as a biomarker of post-injury sepsis in trauma patients
+JO  - Acta Anaesthesiologica Scandinavica
+JA  - Acta Anaesthesiol. Scand.
+VL  - 62
+IS  - 7
+SN  - 0001-5172
+UR  - https://doi.org/10.1111/aas.13107
+DO  - doi:10.1111/aas.13107
+SP  - 962
+EP  - 973
+PY  - 2018
+AB  - Background Heparin-binding protein (HBP) is a neutrophil-derived protein advocated as a biomarker in sepsis. We evaluated plasma HBP as a predictor of post-injury sepsis in trauma patients. Methods Ninety-seven trauma patients were studied during the first week of intensive care. Injury-related data were collected and clinical parameters registered daily. Plasma HBP was sampled on day 1, 3 and 5 after trauma and evaluated for associations with injury-related parameters and sepsis. The predictive properties of HBP were compared to C-reactive protein (CRP) and white blood cell count (WBC). Results Median Injury Severity Score was 33, one-third of the trauma patients received massive transfusion and a quarter was in shock on arrival. Overall 30-day mortality was 8%. Plasma HBP was significantly higher in severely injured patients and associated with shock on arrival, massive transfusions and organ failure. Septic patients had higher levels of HBP only on day 5. When evaluated for prediction of onset of sepsis during the two following days after plasma sampling by receiver operating characteristic (ROC) analyses, areas under the curves were non-significant for all time points. Similar patterns were seen for CRP and WBC. Conclusion In trauma patients, HBP levels are related to severity of injury and organ dysfunction. Heparin-binding protein was weakly associated with sepsis and only at the later stage of the observation period of 1 week. Moreover, HBP showed poor discriminatory properties as an early biomarker of post-injury sepsis. Trauma-induced inflammation during the post-injury phase may blunt the sepsis-predictive performance of HBP.
+ER  - 
+
+TY  - JOUR
+AU  - Vamvakas, Eleftherios C.
+AU  - Blajchman, Morris A.
+TI  - Universal WBC reduction:the case for and against
+JO  - Transfusion
+VL  - 41
+IS  - 5
+SN  - 0041-1132
+UR  - https://doi.org/10.1046/j.1537-2995.2001.41050691.x
+DO  - doi:10.1046/j.1537-2995.2001.41050691.x
+SP  - 691
+EP  - 712
+KW  - ABT(s) = allogeneic blood transfusion(s)
+KW  - ARR = absolute risk reduction
+KW  - FNHTR(s) = febrile nonhemolytic transfusion reaction(s)
+KW  - NNT = number needed to treat
+KW  - RCT(s) = randomized controlled trial(s)
+KW  - TRAP = Trial to Reduce Alloimmunization to Platelets
+KW  - TRIM = transfusion-related immunomodulation
+KW  - VATS = Viral Activation Transfusion Study
+PY  - 2001
+ER  - 
+
+TY  - JOUR
+AU  - Borgman, M. A.
+AU  - Spinella, P. C.
+AU  - Holcomb, J. B.
+AU  - Blackbourne, L. H.
+AU  - Wade, C. E.
+AU  - Lefering, R.
+AU  - Bouillon, B.
+AU  - Maegele, M.
+TI  - The effect of FFP:RBC ratio on morbidity and mortality in trauma patients based on transfusion prediction score
+JO  - Vox Sanguinis
+VL  - 101
+IS  - 1
+SN  - 0042-9007
+UR  - https://doi.org/10.1111/j.1423-0410.2011.01466.x
+DO  - doi:10.1111/j.1423-0410.2011.01466.x
+SP  - 44
+EP  - 54
+KW  - blood component transfusion
+KW  - resuscitation
+KW  - wounds and injuries
+PY  - 2011
+AB  - Background and Objectives? The empiric use of a high plasma to packed red-blood-cell [fresh frozen plasma:red-blood-cells (FFP:RBC)] ratio in trauma resuscitation for patients with massive bleeding has become well accepted without clear or objective indications. Increased plasma transfusion is associated with worse outcome in some patient populations. While previous studies analyse only patients who received a massive transfusion, this study analyses those that are at risk to receive a massive transfusion, based on the trauma-associated severe haemorrhage (TASH) score, to objectively determine which patients after severe trauma would benefit or have increased complications by the use of a high FFP:RBC ratio. Methods? Multicentre retrospective study from the Trauma Registry of the German Trauma Society. Multivariate logistic regression and statistical risk adjustments utilized in analyses. Results? A high ratio of FFP:RBC in the ≥15 TASH group was independently associated with survival, with an odds ratio of 2·5 (1·6?4·0), while the <15 TASH group was associated with increased multi-organ failure, 47% vs. 38%, (P?<?0·005). Conclusions? A predictive model of massive transfusion upon admission might be able to rapidly identify which severe trauma patients would benefit or have increased complications from the immediate application of a high ratio of FFP:RBCs. This study helps to identify the appropriate population for a prospective, interventional trial.
+ER  - 
+
+TY  - JOUR
+AU  - Ratko, Thomas A.
+AU  - Cummings, Joseph P.
+AU  - Oberman, Harold A.
+AU  - Crookston, Kendall P.
+AU  - DeChristopher, Phillip J.
+AU  - Eastlund, D. Ted
+AU  - Godwin, John E.
+AU  - Sacher, Ronald A.
+AU  - Yawn, David H.
+AU  - Matuszewski, Karl A.
+TI  - Evidence-based recommendations for the use of WBC-reduced cellular blood components
+JO  - Transfusion
+VL  - 41
+IS  - 10
+SN  - 0041-1132
+UR  - https://doi.org/10.1046/j.1537-2995.2001.41101310.x
+DO  - doi:10.1046/j.1537-2995.2001.41101310.x
+SP  - 1310
+EP  - 1319
+KW  - DHHS = Department of Health and Human Services
+KW  - FNHTR(s) = febrile nonhemolytic transfusion reaction(s)
+KW  - HHV-8 = human herpesvirus 8
+KW  - LOS = length of stay
+KW  - PC(s) = platelet concentrate(s)
+KW  - TRALI = transfusion-related acute lung injury
+KW  - UHC = University HealthSystem Consortium
+KW  - ULR = universal leukoreduction
+KW  - VATS = Viral Activation Transfusion Study
+KW  - vCJD = variant CJD
+PY  - 2001
+ER  - 
+
+TY  - JOUR
+AU  - BOELENS, P. G.
+AU  - FONK, J. C. M.
+AU  - HOUDIJK, A. P. J.
+AU  - SCHEPER, R. J.
+AU  - HAARMAN, H. J. TH. M.
+AU  - MEIJER, S.
+AU  - VAN LEEUWEN, P. A. M.
+AU  - VON BLOMBERG-VAN DER FLIER, B. M. E.
+TI  - Primary immune response to keyhole limpet haemocyanin following trauma in relation to low plasma glutamine
+JO  - Clinical & Experimental Immunology
+VL  - 136
+IS  - 2
+SN  - 0009-9104
+UR  - https://doi.org/10.1111/j.1365-2249.2004.02447.x
+DO  - doi:10.1111/j.1365-2249.2004.02447.x
+SP  - 356
+EP  - 364
+KW  - glutamine
+KW  - humoral immune response
+KW  - interferon-γ
+KW  - KLH
+KW  - trauma 
+PY  - 2004
+AB  - SUMMARY Severe trauma can lead to a compromised immune response, thereby increasing susceptibility to infections. Here we will study to what extent these early changes in the immune status upon trauma affect a primary immune response to keyhole limpet haemocyanin (KLH). Because glutamine is the preferred respiratory substrate for immune competent cells and known to be depleted after trauma, we studied the immune status and the primary sensitization in relation to the glutamine plasma concentration in a group of severe trauma patients [injury severity score (ISS) >17]. Trauma patients (n?=?31) were sensitized with KLH within 12 h after trauma; plasma glutamine concentrations and immune parameters were determined, after which KLH-specific immune responsiveness was evaluated on days 9 and 14. Low plasma glutamine concentrations were found after trauma. Significantly elevated numbers of granulocytes and CD14-positive leucocytes were found, whereas the HLA-DR expression on CD14-positive cells was significantly lower in trauma patients than in healthy controls. Trauma did not change the in vitro proliferative capacity of lymphocytes when cultured with glutamine; however, when lymphocytes were cultured without glutamine, trauma resulted in lower proliferation than healthy controls. Phytohaemagglutinin-(PHA)-induced interferon (IFN)-? and interleukin (IL)-10 production was significantly lower after trauma, whereas IL-4 production was not affected. KLH sensitization following trauma resulted in poor skin test reactivity and low in vitro KLH-induced lymphocyte proliferation compared to controls. In contrast, the development of anti-KLH IgM, IgG, IgA, IgG1, IgG2, IgG3 and IgG4 production on days 9 and 14 following trauma was not different from that in healthy controls. Major trauma was associated with a reduced cell-mediated immune response, correlating with low plasma glutamine concentrations, while no effects of trauma were found on the development of a primary humoral immune response.
+ER  - 
+
+TY  - JOUR
+AU  - Mhanna, Maroun J.
+AU  - Elsheikh, Ibrahim S.
+AU  - Super, Dennis M.
+TI  - Risk factors and outcome of ventilator associated tracheitis (VAT) in pediatric trauma patients
+JO  - Pediatric Pulmonology
+JA  - Pediatr. Pulmonol.
+VL  - 48
+IS  - 2
+SN  - 8755-6863
+UR  - https://doi.org/10.1002/ppul.22588
+DO  - doi:10.1002/ppul.22588
+SP  - 176
+EP  - 181
+KW  - ventilator associated tracheitis
+KW  - pediatric
+KW  - trauma patients
+PY  - 2013
+AB  - Abstract We sought to investigate the risk factors and outcome of Ventilator Associated Tracheitis (VAT) according to the Center for Disease Control (CDC) definition in pediatric trauma patients who were ventilated for ≥48?hr. In a retrospective cohort study, medical records of all pediatric trauma patients admitted to our Pediatric Intensive Care Unit (PICU) between April 2002 and April 2007 were reviewed. Medical records were reviewed for patients' demographics, Trauma Injury Severity Score (TISS), Glasgow Coma Scale (GCS), type of trauma, and other potential risk factors prior to the development of VAT (such as hyperglycemia, rate of re-intubation and tracheotomy, presence of chest tubes and central lines, urinary tract infection, seizures, need for cardiopulmonary resuscitation, use of total parental nutrition, transfusion, use of H2 blockers, steroids, and pressors/inotropes). Medical records were also reviewed for days of mechanical ventilation, PICU length of stay, and PICU mortality. During the study period, 217 trauma patients were admitted to the PICU, 113 patients met our inclusion criteria and 21.2% (24/113) developed VAT. On average patients with VAT (in comparison to patients without VAT), had a higher TISS score on admission [38.6?±?16.9 vs. 24.2?±?10.6; respectively (P?<?0.01)], longer days of ventilation and PICU length of stay [11.5?±?6.2 vs. 3.7?±?2.3 days (P?<?0.001) and 16.4?±?8.3 vs. 5.4?±?2.8 days (P?<?0.001), respectively]. There was no difference in mortality between the two groups. In a logistic regression model adjusting for possible confounders, the TISS score (adjusted OR 7.53; CI: 2.01?28.14; P?=?0.03 and use of pressors/inotropes (adjusted OR 4.64; CI: 1.28?16.86; P?=?0.01) were the only independent risk factors associated with VAT. We conclude that the severity of illness and use of pressors/inotropes are associated with VAT in pediatric trauma patients. We also conclude that VAT is associated with an increase in days of mechanical ventilation and PICU length of stay in pediatric trauma patients. Pediatr Pulmonol. 2013; 48:176?181. ? 2012 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Ho, K.K.
+TI  - TO REVIEW THE CARDIOTHORACIC TRAUMA AT QUEEN ELIZABETH HOSPITAL 1995–2000
+JO  - Annals of the College of Surgeons of Hong Kong
+VL  - 5
+IS  - 2
+SN  - 1028-4001
+UR  - https://doi.org/10.1111/j.1442-2034.2001.98-7.x
+DO  - doi:10.1111/j.1442-2034.2001.98-7.x
+SP  - A16
+EP  - A16
+PY  - 2001
+AB  - Purpose: All cardiothoracic consultations initiated at Accident and Emergency Department for period February 1995 to November 2000 were reviewed. Methods: Information was extracted from Trauma Registry of over 1000 cases. Results: 61 consultation was recorded. There were 33 blunt injury and 28 penetrating injury. 21 cases were of ISS 15 or less. Surgery for thoracic injury was performed in 13 cases of blunt injury (40%) and 20 cases of penetrating injury (70%). Majority of surgery was related to chest wall and lung injury. In addition there were 3 major intrathoracic vessel, 6 cardiac, 3 diaphragmatic and 1 major airway injury. 20 deaths were recorded with 4 deaths at A&E department. Mortality is related to severity of ISS and age >70. 4 ER-thoracotomy was performed with 3 deaths. There were related to heart and aorta injury with average ISS≥50. Conclusion: 1. Major cardiothoracic trauma is not common. 2. When present, it is associated with severe injury. 3. The outcome is related to severity of ISS and old age.
+ER  - 
+
+TY  - JOUR
+AU  - Hui, K.C.W.
+AU  - Yiu, C.P.
+AU  - Lam, L.K.
+AU  - Tsang, N.C.K.
+TI  - THE DIAGNOSIS AND MANAGEMENT OF ORBITAL FRACTURE, A MULTI-DISCIPLINARY APPROACH
+JO  - Annals of the College of Surgeons of Hong Kong
+VL  - 5
+IS  - 2
+SN  - 1028-4001
+UR  - https://doi.org/10.1111/j.1442-2034.2001.98-8.x
+DO  - doi:10.1111/j.1442-2034.2001.98-8.x
+SP  - A17
+EP  - A17
+PY  - 2001
+AB  - The orbit is made up of seven bones, of which, the inferior wall is most vulnerable to injury and the lateral wall, the least common. In assessing facial trauma, it is crucial to include a comprehensive examination and to manage the orbital fractures accordingly. Orbital floor fracture may present with enophthalmos, diplopia and inferior orbital neuropathy. The infra-orbital rim may show a step-off deformity. Full ophthalmologic evaluation is important to rule out optic nerve neuropathy, retinal bleed, and corneal abrasion. Fracture extending to the superior orbital fissure is known as the superior orbital fissure syndrome, often presented with third, fourth and sixth cranial nerves dysfunction. Orbital roof fracture may involve the frontal lobe and frontal sinus. Fracture involving the naso-orbital ethmoid complex may present with CSF leak, diplopia, displaced medial canthus and nasal fracture. High-resolution 1.5mm CT scans is most useful in the aid of diagnosis in addition to tomography. Displaced fractures should be corrected surgically before bony union. Two examples of complex orbital fractures will be presented, illustrating the importance of a multi-surgical team approach to achieve the optimum results.
+ER  - 
+
+TY  - JOUR
+TI  - Trauma Surgery Program Abstracts
+JO  - ANZ Journal of Surgery
+VL  - 80
+IS  - s1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/j.1445-2197.2010.05298_22.x
+DO  - doi:10.1111/j.1445-2197.2010.05298_22.x
+SP  - A92
+EP  - A95
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - Islam, N.
+AU  - Whitehouse, M.
+AU  - Mehendale, S.
+AU  - Hall, M.
+AU  - Tierney, J.
+AU  - O'Connell, E.
+AU  - Blom, A.
+AU  - Bannister,, G.
+AU  - Hinde, J.
+AU  - Ceredig, R.
+AU  - Bradley, B. A.
+TI  - Post-traumatic immunosuppression is reversed by anti-coagulated salvaged blood transfusion: deductions from studying immune status after knee arthroplasty
+JO  - Clinical & Experimental Immunology
+JA  - Clin Exp Immunol
+VL  - 177
+IS  - 2
+SN  - 0009-9104
+UR  - https://doi.org/10.1111/cei.12351
+DO  - doi:10.1111/cei.12351
+SP  - 509
+EP  - 520
+KW  - arthroplasty
+KW  - cytokines
+KW  - DAMPs
+KW  - post-traumatic immunosuppression
+KW  - sterile trauma
+PY  - 2014
+AB  - Summary Major trauma increases vulnerability to systemic infections due to poorly defined immunosuppressive mechanisms. It confers no evolutionary advantage. Our objective was to develop better biomarkers of post-traumatic immunosuppression (PTI) and to extend our observation that PTI was reversed by anti-coagulated salvaged blood transfusion, in the knowledge that others have shown that non-anti-coagulated (fibrinolysed) salvaged blood was immunosuppressive. A prospective non-randomized cohort study of patients undergoing primary total knee arthroplasty included 25 who received salvaged blood transfusions collected post-operatively into acid?citrate?dextrose anti-coagulant (ASBT cohort), and 18 non-transfused patients (NSBT cohort). Biomarkers of sterile trauma included haematological values, damage-associated molecular patterns (DAMPs), cytokines and chemokines. Salvaged blood was analysed within 1?and 6?h after commencing collection. Biomarkers were expressed as fold-changes over preoperative values. Certain biomarkers of sterile trauma were common to all 43 patients, including supranormal levels of: interleukin (IL)-6, IL-1-receptor-antagonist, IL-8, heat shock protein-70 and calgranulin-S100-A8/9. Other proinflammatory biomarkers which were subnormal in NSBT became supranormal in ASBT patients, including IL-1?, IL-2, IL-17A, interferon (IFN)-?, tumour necrosis factor (TNF)-α and annexin-A2. Furthermore, ASBT exhibited subnormal levels of anti-inflammatory biomarkers: IL-4, IL-5, IL-10 and IL-13. Salvaged blood analyses revealed sustained high levels of IL-9, IL-10 and certain DAMPs, including calgranulin-S100-A8/9, alpha-defensin and heat shock proteins 27, 60 and 70. Active synthesis during salvaged blood collection yielded increasingly elevated levels of annexin-A2, IL-1?, Il-1-receptor-antagonist, IL-2, IL-4, IL-6, IL-8, IL-10, IL-12p70, IL-17A, IFN-?, TNF-α, transforming growth factor (TGF)-?1, monocyte chemotactic protein-1 and macrophage inflammatory protein-1α. Elevated levels of high-mobility group-box protein-1 decreased. In conclusion, we demonstrated that anti-coagulated salvaged blood reversed PTI, and was attributed to immune stimulants generated during salvaged blood collection.
+ER  - 
+
+TY  - JOUR
+AU  - Kaur, Taranjit
+AU  - Huffman, Michael A.
+TI  - Descriptive urological record of chimpanzees (Pan troglodytes) in the wild and limitations associated with using multi-reagent dipstick test strips
+JO  - Journal of Medical Primatology
+VL  - 33
+IS  - 4
+SN  - 0047-2565
+UR  - https://doi.org/10.1111/j.1600-0684.2004.00070.x
+DO  - doi:10.1111/j.1600-0684.2004.00070.x
+SP  - 187
+EP  - 196
+KW  - dipstick test strips
+KW  - health monitoring
+KW  - multi-reagent urine dipsticks
+KW  - physiological status
+KW  - urinalysis
+KW  - wild chimpanzees
+PY  - 2004
+AB  - Abstract:? Ten urine chemistry parameters were measured on 74 voided urine samples from 34 wild chimpanzees (Pan troglodytes). Multi-reagent urine dipstick tests were performed and results determined using colorimetric scales. Urine pH measured between 8 and 9 units in 91% of the chimpanzees. Test pads detected protein, erythrocytes, leukocyte esterase activity, and nitrites, ketones and bilirubin in 47, 32, 29, and <10% of the chimpanzees, respectively. No apparent association between positive test results for blood in adult females and reproductive status was found. Overall, 17 of the 34 chimpanzees had positive urine test results for protein, hemoglobin, erythrocytes, leukocytes, nitrites, ketones, and/or bilirubin. Dipstick urinalysis alone is an unreliable method for assessing health and physiological status of wild chimpanzees. However, if combined with other diagnostics it could prove to be a valuable health-monitoring tool. Limitations associated with this methodology need to be considered when interpreting urinary dipstick test results.
+ER  - 
+
+TY  - JOUR
+AU  - Burgess, B. A.
+AU  - Bauknecht, K.
+AU  - Slovis, N. M.
+AU  - Morley, P. S.
+TI  - Factors associated with equine shedding of multi-drug-resistant Salmonella enterica and its impact on health outcomes
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 50
+IS  - 5
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12823
+DO  - doi:10.1111/evj.12823
+SP  - 616
+EP  - 623
+KW  - horse
+KW  - infection control
+KW  - biosecurity
+KW  - microbiology
+PY  - 2018
+AB  - Summary Background Salmonella enterica is an important cause of healthcare-associated infections in veterinary hospitals ? with outbreaks of multi-drug resistant (MDR) Salmonella among equine cases resulting in high case fatality rates and substantial financial cost. Objectives Study objectives were to 1) investigate factors associated with shedding of MDR-Salmonella enterica and 2) evaluate the effect shedding may have on health outcomes of previously hospitalised horses and their stablemates. Study design Retrospective case?control study with prospective cohort study. Methods Analysis of medical records (N = 373; 94 culture positive, 279 culture negative) was undertaken to determine factors associated with shedding of MDR-Salmonella. Additionally, a follow-up study was conducted to assess long-term outcomes associated with shedding among previously hospitalised horses and their stablemates. Data regarding exposures of interest were collected retrospectively from medical records. Information on long-term outcomes was obtained by phone interview of owners. Multivariable regression techniques were used to investigate factors associated with shedding and subsequent health outcomes. Results Horses experiencing diarrhoea during hospitalisation were more likely to shed Salmonella (OR 1.88; 95% CI 1.02, 3.45) compared with horses without diarrhoea, but isolates tended to be susceptible strains. Antimicrobial therapy during hospitalisation was not associated with shedding or recovery of MDR strains. Shedding did not increase long-term risk for non-survival, colic or abnormal faeces after hospital discharge; nor increase risk for hospitalisation or occurrence of abnormal faeces in stablemates. Main limitations Data collection was reliant upon the quality of medical records and owner recall, which may have led to information bias. The study population was derived from central Kentucky and may differ from horse populations in other regions. Conclusions and clinical importance In general, Salmonella shedding was not associated with decreased average survival times or impacts to health of stablemates, perhaps due to owner implemented biosecurity precautions. Regardless, recently hospitalised horses should be segregated after discharge, in addition to employing rigorous hygiene practices. The Summary is available in Spanish ? see Supporting Information.
+ER  - 
+
+TY  - JOUR
+AU  - Peterson, Nathan W.
+AU  - Buote, Nicole J.
+AU  - Barr, James W.
+TI  - The impact of surgical timing and intervention on outcome in traumatized dogs and cats
+JO  - Journal of Veterinary Emergency and Critical Care
+JA  - Journal of Veterinary Emergency and Critical Care
+VL  - 25
+IS  - 1
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/vec.12279
+DO  - doi:10.1111/vec.12279
+SP  - 63
+EP  - 75
+KW  - damage control surgery
+KW  - multiple organ failure
+KW  - trauma
+KW  - “2-hit theory”
+PY  - 2015
+AB  - Abstract Objective To review the relevant human and veterinary literature regarding the timing of surgical intervention for trauma patients and the impact on outcome. Data Sources Original research, clinical studies, and review articles with no date restrictions from both human and veterinary literature. Human Data Synthesis Despite extensive research into the ideal timing of surgical intervention for human trauma victims, debate is ongoing and views are still evolving. Prior to the 1970s, the standard of care consisted of delayed surgical treatment, as these patients were considered too ill to undergo surgery. Beginning in the 1970s, and continuing for nearly 2 decades, early definitive surgical treatment was recommended. The most recent evolution of human trauma management incorporates the concept of damage control surgery, which acknowledges the importance of early skeletal stabilization or laparotomy for reducing morbidity while attempting to avoid complications such as acute respiratory distress syndrome or multiple organ dysfunction syndrome. Veterinary Data Synthesis Despite a relatively large amount of literature available regarding veterinary trauma, no evidence exists to provide the clinician guidance as to the ideal timing of surgery for trauma patients. With the exception of diaphragmatic hernia, no studies were identified that attempted to evaluate this variable. Conclusions Veterinary-specific studies are needed to evaluate the impact of surgical timing on outcome following trauma. The information that can be obtained from studies in this area can improve veterinary trauma care and may be used as models for human trauma care through translational applications.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts from the International Veterinary Emergency and Critical Care Symposium, the European Veterinary Emergency and Critical Care Society Annual Congress, and the ACVECC VetCOT Veterinary Trauma & Critical Care Conference, 2015
+JO  - Journal of Veterinary Emergency and Critical Care
+JA  - Journal of Veterinary Emergency and Critical Care
+VL  - 25
+IS  - S1
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/vec.12366
+DO  - doi:10.1111/vec.12366
+SP  - S1
+EP  - S32
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+AU  - Purcell, Patricia L.
+AU  - Crary, Shelley E.
+AU  - Adix, Leah M.
+AU  - Alder, Adam C.
+AU  - Buchanan, George R.
+TI  - Postsplenectomy vascular complications: Feasibility of studying patients with splenectomy following trauma
+JO  - American Journal of Hematology
+JA  - Am. J. Hematol.
+VL  - 84
+IS  - 5
+SN  - 0361-8609
+UR  - https://doi.org/10.1002/ajh.21389
+DO  - doi:10.1002/ajh.21389
+SP  - 316
+EP  - 317
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+AU  - Ogeer-Gyles, J
+AU  - Mathews, KA
+AU  - Boerlin, P
+TI  - TRACING THE ORIGIN OF MULTI-DRUG RESISTANT (MDR) ESCHERICHIA COLI INFECTIONS FROM URINARY CATHETERS IN ICU CANINE PATIENTS
+JO  - Journal of Veterinary Emergency and Critical Care
+VL  - 14
+IS  - S1
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/j.1476-4431.2004.t01-9-04035.x
+DO  - doi:10.1111/j.1476-4431.2004.t01-9-04035.x
+SP  - S1
+EP  - S17
+PY  - 2004
+AB  - Introduction: Urinary tract infections (UTIs) in dogs with urinary catheters in intensive care units (ICUs) are frequent. Historically, multi-drug resistant (MDR) Escherichia coli account for about 10% of the UTIs. The objectives of this study were to determine the frequency of E. coli infections and of MDR E. coli in dogs with UTIs in our ICU, and to assess whether the MDR E. coli were community-acquired or nosocomial in origin. Methods: Over a 1-year period, rectal swabs were taken from all dogs in the ICU on the day of admission (D0) and on days 3 (D3), 6 (D6), 9 (D9) and 12 (D12). Urine was collected on these days from dogs with an indwelling urinary catheter (n=190). Rectal swabs and urine were routinely cultured. E. coli isolates were identified by biochemical tests. Using NCCLS guidelines, antibiotic susceptibility testing was done by disk diffusion method on fecal and urinary E. coli isolates. Twelve antimicrobial agents were used: nalidixic acid, enrofloxacin, cephalothin, cefoxitin, cefotaxime, ceftiofur, trimethoprim-sulfa, chloramphenicol, gentamicin, tetracycline, ampicillin, and amoxicillin/clavulanate. Pulsed-field gel electrophoresis (PFGE) was used to compare MDR E. coli UTI strains with fecal E. coli strains from the same patient and with MDR fecal E. coli from patients that were adjacent to, or housed in the same cages. Results: E. coli was cultured from 12 (48%) of 25 UTIs. Two of the E. coli were MDR. For one dog, PFGE showed no similarities among fecal E. coli and the urinary MDR E. coli isolates from the patient or between these isolates and fecal E. coli from a dog housed in the same kennel on the previous day. The MDR E. coli UTI was likely acquired prior to admission to the ICU, as it was present on D0. For the other dog, PFGE showed genetic similarity but not complete identity between the D3 MDR E. coli urinary isolate and the D3, D6, D9 fecal MDR isolates. This suggests that the UTI originated with the fecal E. coli. Using selective plates, fecal MDR E. coli were not found on D0. Selection of the MDR strain in the intestine by the use of antibiotics occurred while the dog was in the ICU and possibly led to the UTI. Conclusions: Multi-drug resistant E. coli accounted for 2 of 12 E. coli UTIs in dogs in the ICU over a 1-year period. Genotyping showed that one of the two MDR E. coli infections could possibly be of nosocomial origin.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts from the International Veterinary Emergency and Critical Care Symposium, the European Veterinary Emergency and Critical Care Annual Congress, and the ACVECC VetCOT Veterinary Trauma & Critical Care Conference 2016
+JO  - Journal of Veterinary Emergency and Critical Care
+JA  - Journal of Veterinary Emergency and Critical Care
+VL  - 26
+IS  - S1
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/vec.12516
+DO  - doi:10.1111/vec.12516
+SP  - S1
+EP  - S35
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+AU  - Ai, Ligen
+AU  - Hu, Yanyun
+AU  - Zhang, Xiaoyan
+AU  - Zeng, Hui
+AU  - Zhao, Jun
+AU  - Zhao, Jungong
+AU  - Chai, Yimin
+AU  - Lu, Junxi
+AU  - Tang, Junling
+AU  - Bao, Yuqian
+AU  - Liu, Fang
+AU  - Jia, Weiping
+TI  - High cystatin C levels predict undesirable outcome for diabetic foot ulcerations
+JO  - Wound Repair and Regeneration
+JA  - Wound Rep and Reg
+VL  - 24
+IS  - 3
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/wrr.12419
+DO  - doi:10.1111/wrr.12419
+SP  - 560
+EP  - 567
+PY  - 2016
+AB  - Abstract We investigated the relationship between serum cystatin C levels and the prognosis of diabetic foot ulcerations (DFU). A population-based cohort study involving 1018 patients with type 2 diabetes was conducted. These patients recruited and divided into two groups: nondiabetic foot ulcer group (NDF, n?=?865, 85.5%) and diabetic foot ulcer group (DFU, n?=?147, 14.5%).After a 1-year-follow-up, DFUs were grouped into healing (n?=?110, 74.8%) and nonhealing (n?=?37, 25.2%) group based on the clinical prognosis. Compared with the healing group, the nonhealing group were older, had long diabetic duration and had significantly increased serum cystatin C concentrations in DFU (p?<?0.01). After adjustments for age, diabetes duration, renal function and infection control, multiple logistical regression analysis revealed that cystatin C remained associated increased risk of undesirable DFU outcome (OR?=?7.279, 95% CI: 1.299?40.784, p?<?0.05). When divided into quartiles according to cystatin C levels, the healing rate of Quartile 4 was significantly lower (57.9%) compared with other groups (p?<?0.01). The odd is ratio (OR) analysis showed that the risk of undesirable DFU outcome in Quartile 4 was significantly higher (OR?=?4.554, 95% CI: 3.14?5.12, p?<?0.05) compared with that in Quartile 1. We concluded that there was a strong and independent association between serum cystatin C and diabetic foot ulceration prognosis, cystatin C?>?1.35 mg/L predicts more than sixfold increased risk of incurable foot ulceration.
+ER  - 
+
+TY  - JOUR
+AU  - Chaudhary, Rajendra
+AU  - Phadke, Shubha R.
+TI  - Absence of HTLV-1 infection in multi-transfused thalassemia patients in North India
+JO  - American Journal of Hematology
+JA  - Am. J. Hematol.
+VL  - 67
+IS  - 3
+SN  - 0361-8609
+UR  - https://doi.org/10.1002/ajh.1118
+DO  - doi:10.1002/ajh.1118
+SP  - 217
+EP  - 218
+PY  - 2001
+ER  - 

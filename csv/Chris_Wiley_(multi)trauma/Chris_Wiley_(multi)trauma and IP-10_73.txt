@@ -1,0 +1,293 @@
+
+TY  - JOUR
+AU  - Costecalde, Thomas
+AU  - Aksenova, Tetiana
+AU  - Torres-Martinez, Napoleon
+AU  - Eliseyev, Andriy
+AU  - Mestais, Corinne
+AU  - Moro, Cecile
+AU  - Benabid, Alim Louis
+TI  - A Long-Term BCI Study With ECoG Recordings in Freely Moving Rats
+JO  - Neuromodulation: Technology at the Neural Interface
+JA  - Neuromodulation: Technology at the Neural Interface
+VL  - 21
+IS  - 2
+SN  - 1094-7159
+UR  - https://doi.org/10.1111/ner.12628
+DO  - doi:10.1111/ner.12628
+SP  - 149
+EP  - 159
+KW  - Asynchronous
+KW  - brain computer interface
+KW  - ElectroCorticoGraphic recordings
+KW  - freely moving animals
+KW  - neuroprosthetic
+PY  - 2018
+AB  - Background Brain Computer Interface (BCI) studies are performed in an increasing number of applications. Questions are raised about electrodes, data processing and effectors. Experiments are needed to solve these issues. Objective To develop a simple BCI set-up to easier studies for improving the mathematical tools to process the ECoG to control an effector. Method We designed a simple BCI using transcranial electrodes (17 screws, three mechanically linked to create a common reference, 14 used as recording electrodes) to record Electro-Cortico-Graphic (ECoG) neuronal activities in rodents. The data processing is based on an online self-paced non-supervised (asynchronous) BCI paradigm. N-way partial least squares algorithm together with Continuous Wavelet Transformation of ECoG recordings detect signatures related to motor activities. Signature detection in freely moving rats may activate external effectors during a behavioral task, which involved pushing a lever to obtain a reward. Results After routine training, we showed that peak brain activity preceding a lever push (LP) to obtain food reward was located mostly in the cerebellar cortex with a higher correlation coefficient, suggesting a strong postural component and also in the occipital cerebral cortex. Analysis of brain activities provided a stable signature in the high gamma band (?180Hz) occurring within 1500 msec before the lever push approximately around ?400 msec to ?500 msec. Detection of the signature from a single cerebellar cortical electrode triggers the effector with high efficiency (68% Offline and 30% Online) and rare false positives per minute in sessions about 30 minutes and up to one hour (?2 online and offline). Conclusions In summary, our results are original as compared to the rest of the literature, which involves rarely rodents, a simple BCI set-up has been developed in rats, the data show for the first time long-term, up to one year, unsupervised online control of an effector.
+ER  - 
+
+TY  - JOUR
+TI  - Author Index
+JO  - Clinical & Experimental Immunology
+VL  - 145
+IS  - 3
+SN  - 0009-9104
+UR  - https://doi.org/10.1111/j.1365-2249.2006.03201.x
+DO  - doi:10.1111/j.1365-2249.2006.03201.x
+SP  - 573
+EP  - 578
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+TI  - Poster Sessions
+JO  - BJU International
+JA  - BJU Int
+VL  - 113
+IS  - S5
+SN  - 1464-4096
+UR  - https://doi.org/10.1111/bju.12760
+DO  - doi:10.1111/bju.12760
+SP  - 19
+EP  - 67
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - Tuesday, December 4, 2007 Subcortical Control of Cortical Excitability 11:00 a.m.-12:30 p.m.
+JO  - Epilepsia
+VL  - 48
+IS  - s6
+SN  - 0013-9580
+UR  - https://doi.org/10.1111/j.1528-1167.2007.01252_14.x
+DO  - doi:10.1111/j.1528-1167.2007.01252_14.x
+SP  - 410
+EP  - 410
+PY  - 2007
+AB  - Robert S. Fisher 1 , Lucy Brown 2 and Karen Gale 3 ( 1 Neurology and Neurological Sciences, Stanford University School of Medicine, Stanford, CA ; 2 Albert Einstein College of Medicine, Yeshiva University, Bronx, NY and 3 Neurology and Neuroscience, Georgetown University School of Medicine, Washington, D.C., WA ) Summary: This symposium will evaluate the role of certain subcortical circuits in seizures and cortical excitability. Data show that thalamocortical, basal ganglia, midbrain and hindbrain circuits play important roles in seizure generation, conduction and modulation. The session will provide a basic overview of these systems and circuits, both functionally and anatomically. The thalamus uses systems able to synchronize or desynchronize electrical activity in wide regions of cortex. These thalamocortical systems play a role in generation of absence seizures and propagation of secondarily generalized seizures. The basal ganglia have a close relationship with the cortex, and may ?gate? activity through a widespread corticostriate system, thus potentially both enhancing and suppressing seizure activity. Midbrain and hindbrain circuits have been shown to have profound effects on seizures. The session will discuss how an understanding of subcortical-cortical networks can lead to therapeutic advances, with use of electrical brain stimulation or targeted pharmacotherapy as examples.
+ER  - 
+
+TY  - JOUR
+AU  - Bertouch, James V
+AU  - Bertouch, James V
+TI  - 5.8 HIV and musculoskeletal disease
+JO  - Medical Journal of Australia
+JA  - Medical Journal of Australia
+VL  - 164
+IS  - 8
+SN  - 0025-729X
+UR  - https://doi.org/10.5694/j.1326-5377.1996.tb122128.x
+DO  - doi:10.5694/j.1326-5377.1996.tb122128.x
+SP  - 480
+EP  - 481
+PY  - 1996
+AB  - Prompt and accurate diagnosis of musculoskeletal disease in HIV infection should result in effective therapy, although some of the usual treatments are contraindicated.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentations B
+JO  - Pain Practice
+VL  - 9
+IS  - s1
+SN  - 1530-7085
+UR  - https://doi.org/10.1111/j.1533-2500.2009.00267.x
+DO  - doi:10.1111/j.1533-2500.2009.00267.x
+SP  - 93
+EP  - 168
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+AU  - Gupta, Asheesh
+AU  - Keshri, Gaurav K.
+AU  - Yadav, Anju
+AU  - Gola, Shefali
+AU  - Chauhan, Satish
+AU  - Salhan, Ashok K.
+AU  - Bala Singh, Shashi
+TI  - Superpulsed (Ga-As, 904 nm) low-level laser therapy (LLLT) attenuates inflammatory response and enhances healing of burn wounds
+JO  - Journal of Biophotonics
+JA  - J. Biophoton
+VL  - 8
+IS  - 6
+SN  - 1864-063X
+UR  - https://doi.org/10.1002/jbio.201400058
+DO  - doi:10.1002/jbio.201400058
+SP  - 489
+EP  - 501
+KW  - Burns
+KW  - hypoxia inducible factor-1α
+KW  - nuclear factor-kB
+KW  - low-level laser (light) therapy (LLLT)
+KW  - photobiomodulation
+KW  - superpulsed laser (904 nm)
+PY  - 2015
+AB  - Low-level laser therapy (LLLT) using superpulsed near-infrared light can penetrate deeper in the injured tissue and could allow non-pharmacological treatment for chronic wound healing. This study investigated the effects of superpulsed laser (Ga-As 904 nm, 200 ns pulse width; 100 Hz; 0.7 mW mean output power; 0.4 mW/cm2 average irradiance; 0.2 J/cm2 total fluence) on the healing of burn wounds in rats, and further explored the probable associated mechanisms of action. Irradiated group exhibited enhanced DNA, total protein, hydroxyproline and hexosamine contents compared to the control and silver sulfadiazine (reference care) treated groups. LLLT exhibited decreased TNF-α level and NF-kB, and up-regulated protein levels of VEGF, FGFR-1, HSP-60, HSP-90, HIF-1α and matrix metalloproteinases-2 and 9 compared to the controls. In conclusion, LLLT using superpulsed 904 nm laser reduced the inflammatory response and was able to enhance cellular proliferation, collagen deposition and wound contraction in the repair process of burn wounds. Photomicrographs showing no, absence inflammation and faster wound contraction in LLLT superpulsed (904 nm) laser treated burn wounds as compared to the non-irradiated control and silver sulfadiazine (SSD) ointment (reference care) treated wounds
+ER  - 
+
+TY  - JOUR
+TI  - Plastic Surgery Program Abstracts
+JO  - ANZ Journal of Surgery
+VL  - 80
+IS  - s1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/j.1445-2197.2010.05298_15.x
+DO  - doi:10.1111/j.1445-2197.2010.05298_15.x
+SP  - A58
+EP  - A75
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Program of the 87th Annual Meeting of the American Association of Physical Anthropologists
+JO  - American Journal of Physical Anthropology
+JA  - Am J Phys Anthropol
+VL  - 165
+IS  - S66
+SN  - 0002-9483
+UR  - https://doi.org/10.1002/ajpa.23489
+DO  - doi:10.1002/ajpa.23489
+SP  - 1
+EP  - 312
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - Proceedings of the VI National Congress of Pharmacology October 2009 – Posters
+JO  - Autonomic and Autacoid Pharmacology
+VL  - 30
+IS  - 1
+SN  - 1474-8665
+UR  - https://doi.org/10.1111/j.1474-8673.2009.00450.x
+DO  - doi:10.1111/j.1474-8673.2009.00450.x
+SP  - 1
+EP  - 65
+PY  - 2010
+ER  - 
+
+C7  - pp. 777-798
+TI  - Index
+SN  - 9780470670149
+UR  - https://doi.org/10.1002/9781119205883.index
+DO  - doi:10.1002/9781119205883.index
+SP  - 777-798
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Monday, December 3, 2007 Found in Translation – New Target for Therapies 9:00 a.m.-11:30 a.m.
+JO  - Epilepsia
+VL  - 48
+IS  - s6
+SN  - 9780470670149
+UR  - https://doi.org/10.1111/j.1528-1167.2007.01252_11.x
+DO  - doi:10.1111/j.1528-1167.2007.01252_11.x
+SP  - 409
+EP  - 409
+PY  - 2007
+AB  - John W. Swann 1 ( 1 Pediatrics/Neuroscience, Baylor College of Medicine, Houston, TX ) Summary: Epilepsy research scientists and clinicians are collaborating in translating scientific discoveries into new therapies for the intractable epilepsies. Discoveries of clinical researchers are guiding the development of relevant animal models. Studies in these models are leading to the identification of what appear to be key molecular steps in the genesis of epilepsy. These molecular mechanisms provide new targets for the development of rationale therapies, which can be tested in these same models. As an example of the progress being made, this program will review the most recent studies of the consequences of prolonged febrile seizures in children. Potential targets for new therapies that have been discovered in models of febrile seizures, head injury, neonatal seizures and kindling will be discussed.
+ER  - 
+
+TY  - JOUR
+TI  - Burn Program Abstracts
+JO  - ANZ Journal of Surgery
+VL  - 80
+IS  - s1
+SN  - 9780470670149
+UR  - https://doi.org/10.1111/j.1445-2197.2010.05298_1.x
+DO  - doi:10.1111/j.1445-2197.2010.05298_1.x
+SP  - A1
+EP  - A4
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Senior Surgeons Program Abstract
+JO  - ANZ Journal of Surgery
+VL  - 80
+IS  - s1
+SN  - 9780470670149
+UR  - https://doi.org/10.1111/j.1445-2197.2010.05298_17.x
+DO  - doi:10.1111/j.1445-2197.2010.05298_17.x
+SP  - A78
+EP  - A78
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - 41st Annual Scientific Meeting
+JO  - Australasian Journal of Dermatology
+VL  - 49
+IS  - s1
+SN  - 9780470670149
+UR  - https://doi.org/10.1111/j.1440-0960.2008.00449.x
+DO  - doi:10.1111/j.1440-0960.2008.00449.x
+SP  - A1
+EP  - A71
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+TI  - Vascular Surgery Program Abstracts
+JO  - ANZ Journal of Surgery
+VL  - 80
+IS  - s1
+SN  - 9780470670149
+UR  - https://doi.org/10.1111/j.1445-2197.2010.05298_24.x
+DO  - doi:10.1111/j.1445-2197.2010.05298_24.x
+SP  - A98
+EP  - A101
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Colorectal Surgery Program Abstracts
+JO  - ANZ Journal of Surgery
+VL  - 80
+IS  - s1
+SN  - 9780470670149
+UR  - https://doi.org/10.1111/j.1445-2197.2010.05298_5.x
+DO  - doi:10.1111/j.1445-2197.2010.05298_5.x
+SP  - A15
+EP  - A24
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Surgical History Program Abstracts
+JO  - ANZ Journal of Surgery
+VL  - 80
+IS  - s1
+SN  - 9780470670149
+UR  - https://doi.org/10.1111/j.1445-2197.2010.05298_19.x
+DO  - doi:10.1111/j.1445-2197.2010.05298_19.x
+SP  - A83
+EP  - A86
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Transplantation Surgery Program Abstracts
+JO  - ANZ Journal of Surgery
+VL  - 80
+IS  - s1
+SN  - 9780470670149
+UR  - https://doi.org/10.1111/j.1445-2197.2010.05298_21.x
+DO  - doi:10.1111/j.1445-2197.2010.05298_21.x
+SP  - A90
+EP  - A91
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Bariatric Surgery Program Abstracts
+JO  - ANZ Journal of Surgery
+VL  - 80
+IS  - s1
+SN  - 9780470670149
+UR  - https://doi.org/10.1111/j.1445-2197.2010.05298_3.x
+DO  - doi:10.1111/j.1445-2197.2010.05298_3.x
+SP  - A6
+EP  - A7
+PY  - 2010
+ER  - 

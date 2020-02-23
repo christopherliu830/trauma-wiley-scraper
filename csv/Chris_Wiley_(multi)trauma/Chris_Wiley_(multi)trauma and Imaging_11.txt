@@ -1,0 +1,460 @@
+
+TY  - JOUR
+AU  - Koch, E.
+AU  - Ryan, C.
+AU  - Leitch, M.
+AU  - Del Piero, F.
+AU  - Boyle, A.
+TI  - Magnetic resonance imaging of a solid, multilobular ameloblastoma in the mandible of a pony
+JO  - Equine Veterinary Education
+JA  - Equine Veterinary Education
+VL  - 26
+IS  - 11
+SN  - 0957-7734
+UR  - https://doi.org/10.1111/j.2042-3292.2012.00456.x
+DO  - doi:10.1111/j.2042-3292.2012.00456.x
+SP  - 599
+EP  - 604
+KW  - horse
+KW  - ameloblastoma
+KW  - odontogenic tumour
+KW  - magnetic resonance imaging
+KW  - multilobular
+PY  - 2014
+AB  - See also Clinical Commentary by Holmes
+ER  - 
+
+TY  - JOUR
+AU  - Krekel, Peter R.
+AU  - Valstar, Edward R.
+AU  - De Groot, Jurriaan
+AU  - Post, Frits H.
+AU  - Nelissen, Rob G. H. H.
+AU  - Botha, Charl P.
+TI  - Visual Analysis of Multi-Joint Kinematic Data
+JO  - Computer Graphics Forum
+VL  - 29
+IS  - 3
+SN  - 0167-7055
+UR  - https://doi.org/10.1111/j.1467-8659.2009.01681.x
+DO  - doi:10.1111/j.1467-8659.2009.01681.x
+SP  - 1123
+EP  - 1132
+PY  - 2010
+AB  - Abstract Kinematics is the analysis of motions without regarding forces or inertial effects, with the purpose of understanding joint behaviour. Kinematic data of linked joints, for example the upper extremity, i.e. the shoulder and arm joints, contains many related degrees of freedom that complicate numerical analysis. Visualisation techniques enhance the analysis process, thus improving the effectiveness of kinematic experiments. This paper describes a new visualisation system specifically designed for the analysis of multi-joint kinematic data of the upper extremity. The challenge inherent in the data is that the upper extremity is comprised of five cooperating joints with a total of fifteen degrees of freedom. The range of motion may be affected by subtle deficiencies of individual joints that are difficult to pinpoint. To highlight these subtleties our approach combines interactive filtering and multiple visualisation techniques. Our system is further differentiated by the fact that it integrates simultaneous acquisition and visual analysis of biokinematic data. Also, to facilitate complex queries, we have designed a visual query interface with visualisation and interaction elements that are based on the domain-specific anatomical representation of the data. The combination of these techniques form an effective approach specifically tailored for the investigation and comparison of large collections of kinematic data. This claim is supported by an evaluation experiment where the technique was used to inspect the kinematics of the left and right arm of a patient with a healed proximal humerus fracture, i.e. a healed shoulder fracture.
+ER  - 
+
+TY  - JOUR
+AU  - Neelavalli, Jaladhar
+AU  - Mody, Swati
+AU  - Yeo, Lami
+AU  - Jella, Pavan Kumar
+AU  - Korzeniewski, Steven J.
+AU  - Saleem, Sheena
+AU  - Katkuri, Yashwanth
+AU  - Bahado-Singh, Ray O.
+AU  - Hassan, Sonia S.
+AU  - Haacke, E. Mark
+AU  - Romero, Roberto
+AU  - Thomason, Moriah E.
+TI  - MR venography of the fetal brain using susceptibility weighted imaging
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J. Magn. Reson. Imaging
+VL  - 40
+IS  - 4
+SN  - 1053-1807
+UR  - https://doi.org/10.1002/jmri.24476
+DO  - doi:10.1002/jmri.24476
+SP  - 949
+EP  - 957
+KW  - fetal imaging
+KW  - pregnancy
+KW  - cerebral
+KW  - gradient echo
+KW  - phase
+KW  - veins
+PY  - 2014
+AB  - Purpose To evaluate the feasibility of performing fetal brain magnetic resonance venography using susceptibility weighted imaging (SWI). Materials and Methods After obtaining informed consent, pregnant women in the second and third trimester were imaged using a modified SWI sequence. Fetal SWI acquisition was repeated when fetal or maternal motion was encountered. The median and maximum number of times an SWI sequence was repeated was four and six respectively. All SWI image data were systematically evaluated by a pediatric neuroradiologist for image quality using an ordinal scoring scheme: 1. diagnostic; 2. diagnostic with artifacts; and 3. nondiagnostic. The best score in an individual fetus was used for further statistical analysis. Visibility of venous vasculature was also scored using a dichotomous variable. A subset of SWI data was re-evaluated by the first and independently by a second pediatric neuroradiologist. Kappa coefficients were computed to assess intra-rater and inter-rater reliability. Results SWI image data from a total of 22 fetuses were analyzed. Median gestational age and interquartile range of the fetuses imaged were 32 (29.9?34.9) weeks. In 68.2% of the cases (n?=?15), there was no artifact; 22.7% (n?=?5) had minor artifacts and 9.1% (n?=?2) of the data was of nondiagnostic quality. Cerebral venous vasculature was visible in 86.4% (n?=?19) of the cases. Substantial agreement (Kappa?=?0.73; 95% confidence interval 0.44?1.00)) was observed for intra-rater reliability and moderate agreement (Kappa?=?0.48; 95% confidence interval 0.19?0.77) was observed for inter-rater reliability. Conclusion It is feasible to perform fetal brain venography in humans using SWI. J. Magn. Reson. Imaging 2014;40:949?957. ? 2013 Wiley Periodicals, Inc.
+ER  - 
+
+C7  - pp. 481-493
+TI  - The Liver in Systemic Disease, Granulomas and Hepatic Trauma
+SN  - 9780632055821
+UR  - https://doi.org/10.1002/9780470986820.ch28
+DO  - doi:10.1002/9780470986820.ch28
+SP  - 481-493
+KW  - granulomas
+KW  - rheumatoid arthritis
+KW  - hepatic trauma
+KW  - genetic haemochromatosis
+KW  - hepatic granulomas
+PY  - 2014
+AB  - Summary This chapter contains sections titled: Arthropathy associated with liver disease Hepatic granulomas Hepatobiliary associations of in fiammatory bowel disease Hepatic trauma
+ER  - 
+
+TY  - JOUR
+AU  - Wang, HongZhen
+AU  - Li, YuanShi
+AU  - Tang, Liang
+AU  - Zhang, JinLing
+AU  - Xiao, XiGang
+TI  - Evaluation of multi-slice spiral computed tomography application in the diagnosis of arterial root lesions
+JO  - International Journal of Imaging Systems and Technology
+JA  - Int J Imaging Syst Technol
+VL  - n/a
+IS  - n/a
+SN  - 9780632055821
+UR  - https://doi.org/10.1002/ima.22392
+DO  - doi:10.1002/ima.22392
+KW  - acute aortic syndrome
+KW  - aortic valve disease
+KW  - multi-slice spiral computed tomography
+AB  - Abstract The purpose of this study was to investigate the value of multi-slice spiral computed tomography (MSCT) enhanced scanning and postprocessing techniques in the diagnosis of arterial root lesions (ARL) in order to improve the understanding and diagnostic accuracy of ARL. We retrospectively analyzed the MSCT imaging findings of 1546 patients. MSCT parameters included the aortic valve annulus level, sinuses of Valsalva level, a sinotubular junction level, ascending aorta, effective diameter, aortic wall thickness, coronary artery height, and coronary sinus depth. The specific measurement method used was curved planar reformation. MSCT found 93 cases of aortic valve disease (AVD). The diagnostic accuracy of MSCT for AVD was 91.7% (33/36). MSCT found 95 cases of acute aortic syndrome involving the aortic root, 71 of which were Stanford type A-aortic dissection (AD), 22 cases of Stanford type A-interstitial hematoma (IHM), and two cases of penetrating aortic ulcers (PAU). MSCT diagnosed Stanford type A-AD, Stanford type A-IHM, and PAU had a specificity of 99.8% and a sensitivity of 98.9%. In conclusion, MSCT enhanced scanning and postprocessing techniques can accurately display the aortic root and adjacent structures, with clear positioning and high diagnostic accuracy, which can provide important basis for clinical diagnosis, preoperative localization, and postoperative follow-up.
+ER  - 
+
+TY  - JOUR
+AU  - Gibbons, Eric K.
+AU  - Hodgson, Kyler K.
+AU  - Chaudhari, Akshay S.
+AU  - Richards, Lorie G.
+AU  - Majersik, Jennifer J.
+AU  - Adluru, Ganesh
+AU  - DiBella, Edward V.R.
+TI  - Simultaneous NODDI and GFA parameter map generation from subsampled q-space imaging using deep learning
+JO  - Magnetic Resonance in Medicine
+JA  - Magn. Reson. Med.
+VL  - 81
+IS  - 4
+SN  - 9780632055821
+UR  - https://doi.org/10.1002/mrm.27568
+DO  - doi:10.1002/mrm.27568
+SP  - 2399
+EP  - 2411
+KW  - deep-learning
+KW  - diffusion spectrum imaging
+KW  - GFA
+KW  - NODDI
+KW  - q-space
+KW  - stroke
+PY  - 2019
+AB  - Purpose To develop a robust multidimensional deep-learning based method to simultaneously generate accurate neurite orientation dispersion and density imaging (NODDI) and generalized fractional anisotropy (GFA) parameter maps from undersampled q-space datasets for use in stroke imaging. Methods Traditional diffusion spectrum imaging (DSI) capable of producing accurate NODDI and GFA parameter maps requires hundreds of q-space samples which renders the scan time clinically untenable. A convolutional neural network (CNN) was trained to generated NODDI and GFA parameter maps simultaneously from 10? undersampled q-space data. A total of 48 DSI scans from 15 stroke patients and 14 normal subjects were acquired for training, validating, and testing this method. The proposed network was compared to previously proposed voxel-wise machine learning based approaches for q-space imaging. Network-generated images were used to predict stroke functional outcome measures. Results The proposed network achieves significant performance advantages compared to previously proposed machine learning approaches, showing significant improvements across image quality metrics. Generating these parameter maps using CNNs also comes with the computational benefits of only needing to generate and train a single network instead of multiple networks for each parameter type. Post-stroke outcome prediction metrics do not appreciably change when using images generated from this proposed technique. Over three test participants, the predicted stroke functional outcome scores were within 1?6% of the clinical evaluations. Conclusions Estimates of NODDI and GFA parameters estimated simultaneously with a deep learning network from highly undersampled q-space data were improved compared to other state-of-the-art methods providing a 10-fold reduction scan time compared to conventional methods.
+ER  - 
+
+AU  - Balsa, Ingrid M.
+AU  - Hoareau, Guillaume L.
+AU  - Culp, William T.N.
+C7  - pp. 304-308
+TI  - Penetrating Thoracic Trauma
+UR  - https://doi.org/10.1002/9781119028994.ch48
+DO  - doi:10.1002/9781119028994.ch48
+SP  - 304-308
+KW  - bite wound
+KW  - chest
+KW  - gunshot wound
+KW  - thoracotomy
+KW  - wound
+PY  - 2019
+AB  - Abstract Penetrating thoracic trauma is relatively uncommon when compared to other types of veterinary trauma, although prompt identification and emergency evaluation are necessary as injuries may be life-threatening. Emergency triage (see Chapter 2) is prudent to ensure patient stabilization prior to pursuing additional diagnostics. Surgical exploration is likely indicated, particularly in cases of gunshot wounds or when patient comfort or stability is compromised by the degree of the injury. Resolution of hypovolemic shock, improving respiratory function, and analgesia are the key aspects of emergency room stabilization. Hemothorax and pneumothorax are common and thoracocentesis can be an important part of management of these patients. Outcome with treatment is generally fair to good, depending on the cause of the wound; however, particular situations (high-velocity gunshot wounds) have been shown to have a worse prognosis.
+ER  - 
+
+TY  - JOUR
+AU  - ESLAMY, HEDIEH K.
+AU  - NEWMAN, BEVERLY
+TI  - Imaging of the pediatric airway
+JO  - Pediatric Anesthesia
+VL  - 19
+IS  - s1
+UR  - https://doi.org/10.1111/j.1460-9592.2009.03016.x
+DO  - doi:10.1111/j.1460-9592.2009.03016.x
+SP  - 9
+EP  - 23
+KW  - airway
+KW  - imaging
+KW  - pediatric
+PY  - 2009
+AB  - Summary Airway compromise can be fixed, dynamic (with varying degrees of collapse during the respiratory cycle), or exhibit both components. The location of the abnormality can be classified as extrinsic (located outside but exerting mass effect on the airway) or intrinsic (intramural and/or intraluminal). The etiologies of airway compromise are categorized as: congenital, infectious, inflammatory, traumatic, vascular, or neoplastic (1). The role of imaging of the airway is to determine the presence, nature and anatomic level of airway compromise, categorize it as intrinsic or extrinsic, provide a differential diagnosis, and guide further imaging or management (1). The differential diagnosis of a lesion takes into account the patient?s age and gender, location of the lesion, clinical presentation, and imaging appearance.
+ER  - 
+
+TY  - JOUR
+AU  - Wilson, John P.
+AU  - Walker, Alice J.
+TI  - Toward an MMPI trauma profile
+JO  - Journal of Traumatic Stress
+JA  - J. Traum. Stress
+VL  - 3
+IS  - 1
+UR  - https://doi.org/10.1002/jts.2490030111
+DO  - doi:10.1002/jts.2490030111
+SP  - 151
+EP  - 168
+KW  - post-traumatic stress disorder
+KW  - MMPI
+PY  - 1990
+AB  - Abstract This paper presents findings of a common MMPI profile configuration for a small forensic sample (n = 16) of persons traumatized by life-threatening civilian events or as a consequence of combat in the Vietnam War. All subjects were involved in lawsuits in which the issue of compensation, medical benefits, or criminal disposition and sentencing were important concerns. A review of the existing empirical studies using this full MMPI scale as well as the MMPI post-traumatic subscale are discussed. In comparing the civilian and veteran samples on the MMPI clinical, validity, and subscales a number of statistically significant differences were found by analyses of variance and mean comparison tests of the data. While the profile configuration of both groups were similar (elevations on F, 8 and 2 scales), the Vietnam Veteran sample had significantly higher elevations. It was concluded that identifying an MMPI trauma profile and its variations may did in the diagnosis and assessment of post-traumatic stress disorder.
+ER  - 
+
+TY  - JOUR
+AU  - Knight, Stephen
+TI  - Self Assessment in Paediatric Musculoskeletal Trauma X-raysSakthivel-Wainford K. Self Assessment in Paediatric Musculoskeletal Trauma X-rays. M&K Publishing, Keswick, UK, First published 2008; 368 pp, revised second edition 2016, 277 illustrations Black & White, ISBN: 9781910451076 (Paperback version), ISBN: 9781910451571 (eBook version). Recommended retail price: 39GBP ($67AUD at 08/08/16).
+JO  - Journal of Medical Radiation Sciences
+JA  - J Med Radiat Sci
+VL  - 64
+IS  - 4
+UR  - https://doi.org/10.1002/jmrs.196
+DO  - doi:10.1002/jmrs.196
+SP  - 328
+EP  - 329
+PY  - 2017
+AB  - Self Assessment in Paediatric Musculoskeletal Trauma X-rays has been written specifically for radiographers, radiographer practitioners (reporting radiographers) and nurse practitioners. The first three chapters look at non-accidental injury, introduction to paediatric fractures and overview of a limping child. The main body of the book ? chapters 4?11, cover case studies of trauma injuries.
+ER  - 
+
+TY  - JOUR
+AU  - Christian-Brandt, Allison S.
+AU  - Santacrose, Diana E.
+AU  - Farnsworth, Hannah R.
+AU  - MacDougall, Kelsey A.
+TI  - When Treatment is Traumatic: An Empirical Review of Interventions for Pediatric Medical Traumatic Stress
+JO  - American Journal of Community Psychology
+JA  - Am J Community Psychol
+VL  - 64
+IS  - 3-4
+UR  - https://doi.org/10.1002/ajcp.12392
+DO  - doi:10.1002/ajcp.12392
+SP  - 389
+EP  - 404
+KW  - Pediatric medical traumatic stress
+KW  - Trauma-informed care
+KW  - Prevention
+KW  - Intervention
+KW  - Treatment
+PY  - 2019
+AB  - Highlights We review research on interventions for pediatric medical trauma using a developmental framework. Most interventions integrated caregivers and cognitive behavioral therapy (CBT), consistent with best practices. Interventions with the most promising findings were online, self-guided, or time-limited. Many interventions lacked developmental specificity, despite the importance of this framework.
+ER  - 
+
+TY  - JOUR
+AU  - Frank, Lawrence R.
+AU  - Zahneisen, Benjamin
+AU  - Galinsky, Vitaly L.
+TI  - JEDI: Joint Estimation Diffusion Imaging of macroscopic and microscopic tissue properties
+JO  - Magnetic Resonance in Medicine
+JA  - Magn Reson Med
+VL  - n/a
+IS  - n/a
+UR  - https://doi.org/10.1002/mrm.28141
+DO  - doi:10.1002/mrm.28141
+KW  - diffusion anisotropy
+KW  - diffusion tensor imaging (DTI)
+KW  - diffusion tensor subspace imaging (DiTSI)
+KW  - diffusion weighted imaging (DWI)
+KW  - fiber tractography
+KW  - gray matter
+KW  - joint estimation diffusion imaging (JEDI)
+KW  - white matter
+AB  - Purpose A new method for enhancing the sensitivity of diffusion MRI (dMRI) by combining the data from single (sPFG) and double (dPFG) pulsed field gradient experiments is presented. Methods This method uses our JESTER framework to combine microscopic anisotropy information from dFPG experiments using a new method called diffusion tensor subspace imaging (DiTSI) to augment the macroscopic anisotropy information from sPFG data analyzed using our guided by entropy spectrum pathways method. This new method, called joint estimation diffusion imaging (JEDI), combines the sensitivity to macroscopic diffusion anisotropy of sPFG with the sensitivity to microscopic diffusion anisotropy of dPFG methods. Results Its ability to produce significantly more detailed anisotropy maps and more complete fiber tracts than existing methods within both brain white matter (WM) and gray matter (GM) is demonstrated on normal human subjects on data collected using a novel fast, robust, and clinically feasible sPFG/dPFG acquisition. Conclusions The potential utility of this method is suggested by an initial demonstration of its ability to mitigate the problem of gyral bias. The capability of more completely characterizing the tissue structure and connectivity throughout the entire brain has broad implications for the utility and scope of dMRI in a wide range of research and clinical applications.
+ER  - 
+
+TY  - JOUR
+AU  - Holdsworth, Samantha J.
+AU  - Yeom, Kristen W.
+AU  - Moseley, Michael E.
+AU  - Skare, S.
+TI  - Fast susceptibility-weighted imaging with three-dimensional short-axis propeller (SAP)-echo-planar imaging
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J. Magn. Reson. Imaging
+VL  - 41
+IS  - 5
+UR  - https://doi.org/10.1002/jmri.24675
+DO  - doi:10.1002/jmri.24675
+SP  - 1447
+EP  - 1453
+KW  - susceptibility-weighted imaging, SWI
+KW  - Short-Axis Propeller EPI
+KW  - SAP-EPI
+KW  - motion correction
+PY  - 2015
+AB  - Background Susceptibility-weighted imaging (SWI) in neuroimaging can be challenging due to long scan times of three-dimensional (3D) gradient recalled echo (GRE), while faster techniques such as 3D interleaved echo-planar imaging (iEPI) are prone to motion artifacts. Here we outline and implement a 3D short-axis propeller echo-planar imaging (SAP-EPI) trajectory as a faster, motion-correctable approach for SWI. Methods Experiments were conducted on a 3T MRI system. The 3D SAP-EPI, 3D iEPI, and 3D GRE SWI scans were acquired on two volunteers. Controlled motion experiments were conducted to test the motion-correction capability of 3D SAP-EPI. The 3D SAP-EPI SWI data were acquired on two pediatric patients as a potential alternative to 2D GRE used clinically. Results The 3D GRE images had a better target resolution (0.47 ? 0.94 ? 2 mm, scan time?=?5 min), iEPI and SAP-EPI images (resolution?=?0.94 ? 0.94 ? 2 mm) were acquired in a faster scan time (1:52 min) with twice the brain coverage. SAP-EPI showed motion-correction capability and some immunity to undersampling from rejected data. Conclusion While 3D SAP-EPI suffers from some geometric distortion, its short scan time and motion-correction capability suggest that SAP-EPI may be a useful alternative to GRE and iEPI for use in SWI, particularly in uncooperative patients. J. Magn. Reson. Imaging 2015;41:1447?1453. ? 2014 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - CHICO, MARIA S.
+AU  - CAPELLI-SCHELLPFEFFER, M.
+AU  - KELLEY, KATHLEEN M.
+AU  - LEE, RAPHAEL C.
+TI  - Management and Coordination of Postacute Medical Care for Electrical Trauma Survivors
+JO  - Annals of the New York Academy of Sciences
+VL  - 888
+IS  - 1
+UR  - https://doi.org/10.1111/j.1749-6632.1999.tb07968.x
+DO  - doi:10.1111/j.1749-6632.1999.tb07968.x
+SP  - 334
+EP  - 342
+PY  - 1999
+AB  - ABSTRACT: The clinical spectrum of electrical injury ranges from the absence of any external physical signs to severe multiple trauma. Reported neuropsychiatric sequelae can vary from vague complaints, which may seem unrelated to the injury in their occurrence over time or by their apparent severity, to sequelae consistent with brain injury accompanying an electrical trauma. In this report, a case study and discussion are presented on the management and coordination of postacute care of an electrical trauma survivor. Expertise and a multi-disciplinary team are essential to cohesive patient care. Patient monitoring for progressive changes and prompt intervention are needed to address the potential difficulties experienced by trauma survivors as they rehabilitate to return to their work and their activities of daily living.
+ER  - 
+
+TY  - JOUR
+AU  - Li, Ningzhi
+AU  - Wang, Wen-Tung
+AU  - Pham, Dzung L.
+AU  - Butman, John A.
+TI  - Artifactual microhemorrhage generated by susceptibility weighted image processing
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J. Magn. Reson. Imaging
+VL  - 41
+IS  - 6
+UR  - https://doi.org/10.1002/jmri.24728
+DO  - doi:10.1002/jmri.24728
+SP  - 1695
+EP  - 1700
+KW  - susceptibility weighted imaging
+KW  - homodyne filter
+KW  - phase unwrapping
+KW  - microhemorrhage
+PY  - 2015
+AB  - Background To report that artifactual microhemorrhages are introduced by the two-dimensional (2D) homodyne filtering method of generating susceptibility weighted images (SWI) when open-ended fringelines (OEF) are present in phase data. Methods SWI data from 28 traumatic brain injury (TBI) patients was obtained on a 3 tesla clinical Siemens scanner using both the product 3D gradient echo sequence (GRE) with generalized autocalibrating partially parallel acquisition acceleration and an in-house developed segmented echo planar imaging (sEPI) sequence without GRAPPA acceleration. SWI processing included (i) 2D homodyne method implemented on the scanner console and (ii) a 3D Fourier-based phase unwrapping followed by 3D high pass filtering. Original and enhanced magnitude and phase images were carefully reviewed for sites of type III OEFs and microhemorrhages by a neuroradiologist on a PACS workstation. Results Nineteen of 28 (68%) phase datasets acquired using GRAPPA-accelerated GRE acquisition demonstrated type III OEFs. In SWI images, artifactual microhemorrhages were found on 17 of 19 (89%) cases generated using 2D homodyne processing. Application of a 3D Fourier-based unwrapping method prior HP filtering minimized the appearance of the phase singularities in the enhanced phase, and did not generate microhemorrhage-like artifacts in magnitude images. Conclusion The 2D homodyne filtering method may introduce artifacts mimicking intracranial microhemorrhages in SWI images when type III OEFs are present in phase images. Such artifacts could lead to overestimation of pathology, e.g., TBI. This work demonstrates that 3D phase unwrapping methods minimize this artifact. However, methods to properly combine phase across coils are needed to eliminate this artifact. J. Magn. Reson. Imaging 2015;41:1695?1700. ? 2014 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Mellman, Thomas A.
+AU  - Alim, Tanya
+AU  - Brown, Denver D.
+AU  - Gorodetsky, Elena
+AU  - Buzas, Beata
+AU  - Lawson, William B.
+AU  - Goldman, David
+AU  - Charney, Dennis S.
+TI  - Serotonin polymorphisms and posttraumatic stress disorder in a trauma exposed African American population
+JO  - Depression and Anxiety
+JA  - Depress. Anxiety
+VL  - 26
+IS  - 11
+UR  - https://doi.org/10.1002/da.20627
+DO  - doi:10.1002/da.20627
+SP  - 993
+EP  - 997
+KW  - Trauma
+KW  - 5HT2A
+KW  - 5HTTLPR
+KW  - genetic variation
+KW  - African American
+PY  - 2009
+AB  - Abstract Background: Genetic polymorphisms that influence serotonin (5-hydroxytryptamine, 5HT) neurotransmission are candidates for contributing to susceptibility to posttraumatic stress disorder (PTSD). The objective of our study was to determine if a variable length polymorphism for the promoter regions of the 5HT transporter (5HTTLPR), and/or a substitution polymorphism in the promoter region for the 5HT2A receptor, would be associated with PTSD in a trauma exposed population of adult African-Americans. Methods: Using a case control design, 118 participants recruited from the primary care clinics and the campus of a historically black university who met inclusion criteria including trauma exposure provided blood samples for genomic DNA. PTSD criteria were determined by the Clinician Assessment of PTSD Scale (CAPS) and criteria for other psychiatric disorders by the Structured Clinical Interview for DSM-IV (SCID). 5HTTLPR and 5HT2A-1438A/G were genotyped using established methods. Associations of genotypes with lifetime PTSD, and models testing associations of allele ?dose?, were analyzed. Results: Fifty-five (47%) participants met lifetime criteria for PTSD and 26 (22%) met criteria for (mostly comorbid) major depression. The 5HT2A (lower expressing) G allele was significantly associated with PTSD. We did not find significant associations with 5HTTLPR. Conclusions: Our findings suggest a relationship between genetic variation in the 5HT2A promoter region and PTSD. Depression and Anxiety 26:993?997, 2009. Published 2009 Wiley-Liss, Inc.
+ER  - 
+
+AU  - Friedman, Elliott R.
+AU  - Goldman, Stanford M.
+AU  - Shu, Tung
+C7  - pp. 121-147
+TI  - Urinary Tract Injuries
+SN  - 9780470510896
+UR  - https://doi.org/10.1002/9780470741108.ch7
+DO  - doi:10.1002/9780470741108.ch7
+SP  - 121-147
+KW  - urinary tract injuries
+KW  - American Association for Surgery of Trauma (AAST) organ injury severity scale for renal trauma
+KW  - intravenous urography (IVU)
+KW  - assessment of complications of renal injury
+KW  - absolute indications for surgical management
+KW  - adrenal trauma
+KW  - ureteral trauma
+KW  - findings at urethrogram of urethral injury
+KW  - penile and scrotal trauma
+PY  - 2009
+AB  - Summary This chapter contains sections titled: Introduction Renal trauma Adrenal trauma Ureteral trauma Bladder trauma Urethral trauma Penile and scrotal trauma References
+ER  - 
+
+TY  - JOUR
+AU  - Kato, Hiroki
+AU  - Kanematsu, Masayuki
+AU  - Toida, Makoto
+AU  - Kawaguchi, Tomoko
+AU  - Shibata, Toshiyuki
+AU  - Kajita, Kimihiro
+AU  - Hoshi, Hiroaki
+TI  - Salivary gland function evaluated by diffusion-weighted MR imaging with gustatory stimulation: Preliminary results
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J. Magn. Reson. Imaging
+VL  - 34
+IS  - 4
+SN  - 9780470510896
+UR  - https://doi.org/10.1002/jmri.22729
+DO  - doi:10.1002/jmri.22729
+SP  - 904
+EP  - 909
+KW  - diffusion-weighted MR imaging
+KW  - salivary gland scintigraphy
+KW  - xerostomia
+KW  - salivary gland function
+PY  - 2011
+AB  - Abstract Purpose: To evaluate the usefulness of diffusion-weighted MR imaging using a transient gustatory stimulation method in patients with xerostomia. Materials and Methods: Ten consecutive patients complaining of xerostomia and 10 healthy volunteers were examined with a 1.5 Tesla (T) MR unit. All study subjects completed a questionnaire, and patients underwent salivary gland scintigraphy and Saxon test. T1-, T2-, and diffusion-weighted MR images were obtained before stimulation. One minute after gustatory stimulation with lemon juice, diffusion-weighted sequence was repeated 9 times. A radiologist evaluated signal intensities and apparent diffusion coefficients (ADCs) in parotid and submandibular glands. ADC increase rate (IR) and times to maximum ADC (Tmax) were assessed. Results: IRs showed a moderate positive correlation with washout rates by scintigraphy for parotid (r = 0.554, P < 0.05) and submandibular (r = 0.617, P < 0.01) glands. Furthermore, Tmax values of parotid and submandibular glands were significantly higher in patients (420 ± 226 and 357 ± 232 s, respectively) than in volunteers (181 ± 68 and 200 ± 75 s, respectively) (P < 0.01). Conclusion: Our preliminary results indicate that diffusion-weighted MR imaging using a transient gustatory stimulation method is potentially useful for evaluating patients with xerostomia. J. Magn. Reson. Imaging 2011;. ? 2011 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Chaswal, V.
+AU  - Yoo, S.
+AU  - Thomadsen, B. R.
+AU  - Henderson, D. L.
+TI  - Multi-species prostate implant treatment plans incorporating and using a Greedy Heuristic based 3D optimization algorithm
+JO  - Medical Physics
+JA  - Med. Phys.
+VL  - 34
+IS  - 2
+SN  - 9780470510896
+UR  - https://doi.org/10.1118/1.2400827
+DO  - doi:10.1118/1.2400827
+SP  - 436
+EP  - 444
+KW  - Therapeutic applications, including brachytherapy
+KW  - Diseases
+KW  - brachytherapy
+KW  - dosimetry
+KW  - cancer
+KW  - biological organs
+KW  - optimisation
+KW  - prostate implants
+KW  - adjoint functions
+KW  - greedy heuristic
+KW  - brachytherapy
+KW  - multi-species
+KW  - Dosimetry
+KW  - Iridium
+KW  - Tissues
+KW  - Infrared sources
+KW  - Photons
+KW  - Brachytherapy
+KW  - Medical treatment planning
+KW  - Cancer
+KW  - Ultrasonography
+KW  - Gamma rays
+PY  - 2007
+AB  - The goals of interstitial implant brachytherapy include delivery of the target dose in a uniform manner while sparing sensitive structures, and minimizing the number of needles and sources. We investigated the use of a multi-species source arrangement ( with ) for treatment in interstitial prostate brachytherapy. The algorithm utilizes an ?adjoint ratio,? which provides a means of ranking source positions and is the criterion for the Greedy Heuristic optimization. Three cases were compared, each using seeds: case I is the base case using alone, case II uses seeds mixed with , and case III uses mixed with . Both multi-species cases result in lower exposure of the urethra and central prostate region. Compared with the base case, the exposure to the rectum and normal tissue increases by a significant amount for case III as compared with the increase in case II, signifying the effect of slower dose falloff rate of higher energy gammas of in the tissue. The number of seeds and needles decreases in both multi-species cases, with case III requiring fewer seeds and needles than case II. Further, the effect of on uniformity was investigated using the seeds in multi-species implants. An increase in uniformity was observed with an increase in the number of seeds implanted. The effects of prostate size on the evaluation parameters for multi-species implants were investigated using and , and an acceptable treatment plan with increased uniformity was obtained.
+ER  - 
+
+TY  - JOUR
+AU  - Chantry, Andrew
+AU  - Kazmi, Majid
+AU  - Barrington, Sally
+AU  - Goh, Vicky
+AU  - Mulholland, Nicola
+AU  - Streetly, Matthew
+AU  - Lai, Maggie
+AU  - Pratt, Guy
+AU  - the British Society for Haematology Guidelines
+TI  - Guidelines for the use of imaging in the management of patients with myeloma
+JO  - British Journal of Haematology
+JA  - Br J Haematol
+VL  - 178
+IS  - 3
+SN  - 9780470510896
+UR  - https://doi.org/10.1111/bjh.14827
+DO  - doi:10.1111/bjh.14827
+SP  - 380
+EP  - 393
+KW  - myeloma
+KW  - imaging
+KW  - magnetic resonance imaging
+KW  - CT scan
+KW  - positron emission tomography
+PY  - 2017
+AB  - Summary The role of imaging in myeloma has gained increasing importance over the past few years. The recently revised definition of myeloma from the International Myeloma Working Group (IMWG) includes cross sectional imaging as a method to define bone disease and also incorporates its use in the disease definition for patients with suspected smouldering myeloma. The National Institute for Health and Care Excellence myeloma guidelines also recommend cross sectional imaging for patients with suspected myeloma. There is also increasing use of imaging in disease assessments and the International Myeloma Working Group has recently incorporated imaging in defining new response categories of minimal residual disease negativity, with or without imaging-based evidence of disease. Plain X-rays have previously been the standard imaging modality included in a myeloma work up at presentation but evidence is mounting for use of cross-sectional modalities such as computed tomography (CT), magnetic resonance imaging (MRI) and 18fluoro-deoxyglucose (18F-FDG) positron emission tomography (PET)/CT. Funding and therefore availability of newer imaging techniques remains a barrier. Here, we propose an evidence-based approach to the use and technical application of the latest imaging modalities at diagnosis and in the follow-up of patients with myeloma and plasmacytoma.
+ER  - 

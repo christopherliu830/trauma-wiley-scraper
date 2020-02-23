@@ -1,0 +1,492 @@
+
+TY  - JOUR
+AU  - McGorry, Patrick
+AU  - Keshavan, Matcheri
+AU  - Goldstone, Sherilyn
+AU  - Amminger, Paul
+AU  - Allott, Kelly
+AU  - Berk, Michael
+AU  - Lavoie, Suzie
+AU  - Pantelis, Christos
+AU  - Yung, Alison
+AU  - Wood, Stephen
+AU  - Hickie, Ian
+TI  - Biomarkers and clinical staging in psychiatry
+JO  - World Psychiatry
+JA  - ‐
+VL  - 13
+IS  - 3
+SN  - 1723-8617
+UR  - https://doi.org/10.1002/wps.20144
+DO  - doi:10.1002/wps.20144
+SP  - 211
+EP  - 223
+KW  - Biomarkers
+KW  - clinical staging
+KW  - diagnostic reform
+KW  - early intervention
+KW  - personalized medicine
+KW  - pre-emptive psychiatry
+KW  - youth mental health
+PY  - 2014
+AB  - Personalized medicine is rapidly becoming a reality in today's physical medicine. However, as yet this is largely an aspirational goal in psychiatry, despite significant advances in our understanding of the biochemical, genetic and neurobiological processes underlying major mental disorders. Preventive medicine relies on the availability of predictive tools; in psychiatry we still largely lack these. Furthermore, our current diagnostic systems, with their focus on well-established, largely chronic illness, do not support a pre-emptive, let alone a preventive, approach, since it is during the early stages of a disorder that interventions have the potential to offer the greatest benefit. Here, we present a clinical staging model for severe mental disorders and discuss examples of biological markers that have already undergone some systematic evaluation and that could be integrated into such a framework. The advantage of this model is that it explicitly considers the evolution of psychopathology during the development of a mental illness and emphasizes that progression of illness is by no means inevitable, but can be altered by providing appropriate interventions that target individual modifiable risk and protective factors. The specific goals of therapeutic intervention are therefore broadened to include the prevention of illness onset or progression, and to minimize the risk of harm associated with more complex treatment regimens. The staging model also facilitates the integration of new data on the biological, social and environmental factors that influence mental illness into our clinical and diagnostic infrastructure, which will provide a major step forward in the development of a truly pre-emptive psychiatry.
+ER  - 
+
+TY  - JOUR
+AU  - Tapio, H.
+AU  - Raekallio, M. R.
+AU  - Mykkänen, A.
+AU  - Männikkö, S.
+AU  - Scheinin, M.
+AU  - Bennett, R. C.
+AU  - Vainio, O.
+TI  - Effects of vatinoxan on cardiorespiratory function and gastrointestinal motility during constant-rate medetomidine infusion in standing horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 51
+IS  - 5
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.13085
+DO  - doi:10.1111/evj.13085
+SP  - 646
+EP  - 652
+KW  - horse
+KW  - sedation
+KW  - medetomidine
+KW  - vatinoxan
+KW  - MK-467
+KW  - α2-antagonist
+PY  - 2019
+AB  - Summary Background Medetomidine suppresses cardiovascular function and reduces gastrointestinal motility in horses mainly through peripheral α2-adrenoceptors. Vatinoxan, a peripheral α2-antagonist, has been shown experimentally to alleviate the adverse effects of some α2-agonists in horses. However, vatinoxan has not been investigated during constant-rate infusion (CRI) of medetomidine in standing horses. Objectives To evaluate effects of vatinoxan on cardiovascular function, gastrointestinal motility and on sedation level during CRI of medetomidine. Study design Experimental, randomised, blinded, cross-over study. Methods Six healthy horses were given medetomidine hydrochloride, 7 ?g/kg i.v., without (MED) and with (MED+V) vatinoxan hydrochloride, 140 ?g/kg i.v., followed by CRI of medetomidine at 3.5 ?g/kg/h for 60 min. Cardiorespiratory variables were recorded and borborygmi and sedation levels were scored for 120 min. Plasma drug concentrations were measured. The data were analysed using repeated measures ANCOVA and paired t-tests as appropriate. Results Initially heart rate (HR) was significantly lower and mean arterial blood pressure (MAP) significantly higher with MED compared with MED+V. For example at 10 min HR (mean ± s.d.) was 26 ± 2 and 31 ± 5 beats/minute (P = 0.04) and MAP 129 ± 15 and 103 ± 13 mmHg (P<0.001) respectively. At 10 min, cardiac index was lower (P = 0.02) and systemic vascular resistance higher (P = 0.001) with MED than with MED+V. Borborygmi were reduced after MED; this effect was attenuated by vatinoxan (P<0.001). All horses were sedated with medetomidine, but the mean sedation scores were reduced with MED+V until 20 min (6.8 ± 0.8 and 4.5 ± 1.5 with MED and MED+V, respectively, at 10 min, P = 0.001). Plasma concentration of dexmedetomidine was significantly lower in the presence of vatinoxan (P = 0.01). Main limitations Experimental study with healthy, unstimulated animals. Conclusions Vatinoxan administered i.v. with a loading dose of medetomidine improved cardiovascular function and gastrointestinal motility during medetomidine CRI in healthy horses. Sedation was slightly yet significantly reduced during the first 20 min.. The Summary is available in Portuguese ? see Supporting Information
+ER  - 
+
+TY  - JOUR
+AU  - Matusiak, Magdalena
+AU  - Van Opdenbosch, Nina
+AU  - Lamkanfi, Mohamed
+TI  - CARD- and pyrin-only proteins regulating inflammasome activation and immunity
+JO  - Immunological Reviews
+JA  - Immunol Rev
+VL  - 265
+IS  - 1
+SN  - 0105-2896
+UR  - https://doi.org/10.1111/imr.12282
+DO  - doi:10.1111/imr.12282
+SP  - 217
+EP  - 230
+KW  - CARD-only proteins
+KW  - Pyrin-only proteins
+KW  - caspase
+KW  - NF-κB
+KW  - virus
+KW  - infection
+KW  - inflammasome
+KW  - inflammation
+PY  - 2015
+AB  - Summary Membrane-bound and intracellular immune receptors respond to microbial pathogens by initiating signaling cascades that result in production of inflammatory cytokines and antimicrobial factors. These host responses need to be tightly regulated to prevent tissue damage and other harmful consequences of excessive inflammation. CARD-only proteins (COPs) and Pyrin-only proteins (POPs) are human- and primate-specific dominant negative inhibitors that modulate inflammatory and innate immune responses. In addition, several poxviruses encode POPs that interfere with inflammatory and host defense responses. COPs and POPs modulate inflammatory signaling at several checkpoints by sequestering key components of the inflammasome and NF-?B signaling cascades, thus hampering downstream signal transduction. Here, we review and discuss current understanding of the evolutionary history and molecular mechanisms by which roles of host- and virus-encoded COPs and POPs may regulate inflammatory and immune responses. In addition, we address their (patho)physiological roles and highlight topics for further research.
+ER  - 
+
+TY  - JOUR
+AU  - Rattray, Janice
+TI  - Life after critical illness: an overview
+JO  - Journal of Clinical Nursing
+JA  - J Clin Nurs
+VL  - 23
+IS  - 5-6
+SN  - 0962-1067
+UR  - https://doi.org/10.1111/jocn.12379
+DO  - doi:10.1111/jocn.12379
+SP  - 623
+EP  - 633
+KW  - critical care
+KW  - intensive care
+KW  - psychological well-being
+KW  - quality of life
+KW  - rehabilitation
+PY  - 2014
+AB  - Aims and objectives To illustrate the potential physical and psychological problems faced by patients after an episode of critical illness, highlight some of the interventions that have been tested and identify areas for future research. Background Recovery from critical illness is an international problem and as an issue is likely to increase. For some, recovery from critical illness is prolonged, subject to physical and psychological problems that may negatively impact upon health-related quality of life. Methods The literature accessed for this review includes the work of a number of key researchers in the field of critical care research. These were identified from a number of sources include (1) personal knowledge of the research field accumulated over the last decade and (2) using the search engine ?The Knowledge Network Scotland?. Results Fatigue and weakness are significant problems for critical care survivors and are common in patients who have been in ICU for more than one week. Psychological problems include anxiety, depression, post-traumatic stress, delirium and cognitive impairment. Prevalence of these problems is difficult to establish for a number of methodological reasons that include the use of self-report questionnaires, the number of different questionnaires used and the variation in administration and timing. Certain subgroups of ICU survivors especially those at the more severe end of the illness severity spectrum are more at risk and this has been demonstrated for both physical and psychological problems. Findings from international studies of a range of potential interventions are presented. However, establishing effectiveness for most of these still has to be empirically demonstrated. Conclusion What seems clear is the need for a co-ordinated, multidisciplinary, designated recovery and rehabilitation pathway that begins as soon as the patient is admitted into an intensive care unit.
+ER  - 
+
+TY  - JOUR
+AU  - Wohlrab, Johannes
+AU  - Wohlrab, David
+AU  - Meiss, Frank
+TI  - Skin diseases in diabetes mellitus
+JO  - JDDG: Journal der Deutschen Dermatologischen Gesellschaft
+VL  - 5
+IS  - 1
+SN  - 1610-0379
+UR  - https://doi.org/10.1111/j.1610-0387.2007.06073.x
+DO  - doi:10.1111/j.1610-0387.2007.06073.x
+SP  - 37
+EP  - 53
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+AU  - Cheng, Hua
+AU  - Wang, Miao
+AU  - Li, Jian-Liang
+AU  - Cairns, Nigel J.
+AU  - Han, Xianlin
+TI  - Specific changes of sulfatide levels in individuals with pre-clinical Alzheimer's disease: an early event in disease pathogenesis
+JO  - Journal of Neurochemistry
+JA  - J. Neurochem.
+VL  - 127
+IS  - 6
+SN  - 0022-3042
+UR  - https://doi.org/10.1111/jnc.12368
+DO  - doi:10.1111/jnc.12368
+SP  - 733
+EP  - 738
+KW  - ceramide
+KW  - membrane lipids
+KW  - plasmalogen
+KW  - pre-clinical Alzheimer's disease
+KW  - shotgun lipidomics
+KW  - sulfatide
+PY  - 2013
+AB  - Abstract To explore the hypothesis that alterations in cellular membrane lipids are present at the stage of pre-clinical Alzheimer's disease (AD) (i.e., cognitively normal at death, but with AD neuropathology), we performed targeted shotgun lipidomics of lipid extracts from post-mortem brains of subjects with pre-clinical AD. We found sulfatide levels were significantly lower in subjects with pre-clinical AD compared to those without AD neuropathology. We also found that the level of ethanolamine glycerophospholipid was marginally lower at this stage of AD, whereas changes of the ceramide levels were undetectable with the available samples. These results indicate that cellular membrane defects are present at the earliest stages of AD pathogenesis and also suggest that sulfatide loss is among the earliest events of AD development, while alterations in the levels of ethanolamine glycerophospholipid and ceramide occur relatively later in disease.
+ER  - 
+
+TY  - JOUR
+AU  - Menu, P.
+AU  - Vince, J. E.
+TI  - The NLRP3 inflammasome in health and disease: the good, the bad and the ugly
+JO  - Clinical & Experimental Immunology
+VL  - 166
+IS  - 1
+SN  - 0009-9104
+UR  - https://doi.org/10.1111/j.1365-2249.2011.04440.x
+DO  - doi:10.1111/j.1365-2249.2011.04440.x
+SP  - 1
+EP  - 15
+KW  - infections
+KW  - inflammasome
+KW  - innate immunity
+KW  - interleukin-1
+KW  - NLRP3
+PY  - 2011
+AB  - Summary While interleukin (IL)-1? plays an important role in combating the invading pathogen as part of the innate immune response, its dysregulation is responsible for a number of autoinflammatory disorders. Large IL-1? activating platforms, known as inflammasomes, can assemble in response to the detection of endogenous host and pathogen-associated danger molecules. Formation of these protein complexes results in the autocatalysis and activation of caspase-1, which processes precursor IL-1? into its secreted biologically active form. Inflammasome and IL-1? activity is required to efficiently control viral, bacterial and fungal pathogen infections. Conversely, excess IL-1? activity contributes to human disease, and its inhibition has proved therapeutically beneficial in the treatment of a spectrum of serious, yet relatively rare, heritable inflammasomopathies. Recently, inflammasome function has been implicated in more common human conditions, such as gout, type II diabetes and cancer. This raises the possibility that anti-IL-1 therapeutics may have broader applications than anticipated previously, and may be utilized across diverse disease states that are linked insidiously through unwanted or heightened inflammasome activity.
+ER  - 
+
+TY  - JOUR
+AU  - Son, Boram
+AU  - Kim, Hwan D.
+AU  - Kim, Minsoo
+AU  - Kim, Jeong Ah
+AU  - Lee, Jinkyu
+AU  - Shin, Heungsoo
+AU  - Hwang, Nathaniel S.
+AU  - Park, Tai Hyun
+TI  - Physical Stimuli-Induced Chondrogenic Differentiation of Mesenchymal Stem Cells Using Magnetic Nanoparticles
+JO  - Advanced Healthcare Materials
+JA  - Adv. Healthcare Mater.
+VL  - 4
+IS  - 9
+SN  - 2192-2640
+UR  - https://doi.org/10.1002/adhm.201400835
+DO  - doi:10.1002/adhm.201400835
+SP  - 1339
+EP  - 1347
+KW  - chondrogenesis
+KW  - magnetic nanoparticles
+KW  - mesenchymal stem cells
+KW  - shear stress
+KW  - static magnetic fields
+PY  - 2015
+AB  - Chondrogenic commitments of mesenchymal stem cells (MSCs) require 3D cellular organization. Furthermore, recent progresses in bioreactor technology have contributed to the development of various biophysical stimulation platforms for efficient cartilage tissue formation. Here, an approach is reported to drive 3D cellular organization and enhance chondrogenic commitment of bone-marrow-derived human mesenchymal stem cells (BM-hMSCs) via magnetic nanoparticle (MNP)-mediated physical stimuli. MNPs isolated from Magnetospirillum sp. AMB-1 are endocytosed by the BM-hMSCs in a highly efficient manner. MNPs-incorporated BM-hMSCs are pelleted and then subjected to static magnetic field and/or magnet-derived shear stress. Magnetic-based stimuli enhance level of sulfated glycosaminoglycan (sGAG) and collagen synthesis, and facilitate the chondrogenic differentiation of BM-hMSCs. In addition, both static magnetic field and magnet-derived shear stress applied for the chondrogenic differentiation of BM-hMSCs do not show increament of hypertrophic differentiation. This MNP-mediated physical stimulation platform demonstrates a promising strategy for efficient cartilage tissue engineering.
+ER  - 
+
+TY  - JOUR
+TI  - 2006 Abstracts: Twenty-Eighth Annual Meeting of the American Society for Bone and Mineral Research: Pennsylvania Convention Convention Center Philadelphia, Pennsylvania, USA, September 15–19, 2006
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 21
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.5650211403
+DO  - doi:10.1002/jbmr.5650211403
+SP  - S52
+EP  - S101
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+AU  - Moradi, Sadegh L.
+AU  - Golchin, Ali
+AU  - Hajishafieeha, Zahra
+AU  - Khani, Mohammad-Mehdi
+AU  - Ardeshirylajimi, Abdolreza
+TI  - Bone tissue engineering: Adult stem cells in combination with electrospun nanofibrous scaffolds
+JO  - Journal of Cellular Physiology
+JA  - J Cell Physiol
+VL  - 233
+IS  - 10
+SN  - 0021-9541
+UR  - https://doi.org/10.1002/jcp.26606
+DO  - doi:10.1002/jcp.26606
+SP  - 6509
+EP  - 6522
+KW  - bone tissue engineering
+KW  - fabrication
+KW  - natural biopolymers
+KW  - regenerative medicine and adult stem cells
+KW  - synthetic biopolymers
+PY  - 2018
+AB  - Since bone tissue lesions caused by several reasons and has global outbreak without any attentions to the modernity level of the countries. In the other hands treatment of patients with this problem faced to the several limitations, in this because the future of the bone lesions treatments is related to the future of the bone tissue engineering. This review tries to cover the most suitable stem cells and materials from either natural or synthetic sources for bone tissue engineering. These understanding points would help researchers to further uncover the application of different adult stem cell sources in electrospinning scaffolds, promotion of nanofibrous composite construct design and adult stem cell type selection to enhance cell function and bone tissue engineering, and link laboratory investigations to clinical applications.
+ER  - 
+
+TY  - JOUR
+AU  - Cueva, Roberto A.
+TI  - Auditory Brainstem Response versus Magnetic Resonance Imaging for the Evaluation of Asymmetric Sensorineural Hearing Loss
+JO  - The Laryngoscope
+JA  - The Laryngoscope
+VL  - 114
+IS  - 10
+SN  - 0023-852X
+UR  - https://doi.org/10.1097/00005537-200410000-00003
+DO  - doi:10.1097/00005537-200410000-00003
+SP  - 1686
+EP  - 1692
+KW  - ABR
+KW  - MRI
+KW  - asymmetric sensorineural HL
+KW  - acoustic neuroma
+PY  - 2004
+AB  - Abstract Objectives/Hypothesis: Auditory brainstem response (ABR) testing and magnetic resonance imaging (MRI) are compared for the evaluation of patients with asymmetric sensorineural hearing loss (SNHL). MRI with gadolinium administration is the current gold standard for identifying retrocochlear lesions causing asymmetric SNHL. The study seeks to determine the sensitivity and specificity of ABR in screening for possible retrocochlear pathology. Most important among SNHL etiologies are neoplastic lesions such as vestibular schwannomas, cerebellopontine angle (CPA) tumors, as well as multiple sclerosis, stroke, or other rare nonneoplastic causes. The study results will allow the author to recommend a screening algorithm for patients with asymmetric SNHL. Study Design: The study is a multi-institutional, institutional review board approved, prospective, nonrandomized comparison of ABR and MRI for the evaluation of patients with asymmetric SNHL. Methods: Three hundred twelve patients (between the ages of 18 and 87) with asymmetric SNHL completed the study. Asymmetric SNHL was defined as 15 dB or greater asymmetry in two or more frequencies or 15% or more asymmetry in speech discrimination scores (SDS). These patients prospectively underwent both ABR and MRI. The ABR and MRI were interpreted independently in a blinded fashion. In addition to the ABR and MRI results, a variety of clinical and demographic data were collected. Results: Thirty-one (9.94%) patients of the study population of 312 were found on MRI to have lesions causing their SNHL. Of the 31 patients with causative lesions on MRI there were 24 vestibular schwannomas, 2 glomus jugulare tumors, 2 ectatic basilar arteries with brainstem compression, 1 petrous apex cholesterol granuloma, 1 case of possible demyelinating disease, and 1 parietal lobe mass. Twenty-two of the 31 patients had abnormal ABRs, whereas 9 patients (7 with small vestibular schwannomas) had normal ABRs. This gives an overall false-negative rate for ABR of 29%. The false-positive rate was found to be 76.84%. Sensitivity of ABR as a screening test was 71%, and specificity was 74%. Conclusions: Ten percent of patients with asymmetric SNHL (by this study's criteria) are likely to have causative lesions found on MRI. Although the recently reported annual incidence of vestibular schwannoma in the general population is 0.00124%, for patients with asymmetric SNHL in this study, the incidence was 7.7% (nearly 4 orders of magnitude higher). ABR has been demonstrated to have low sensitivity and specificity in the evaluation of these patients and cannot be relied on as a screening test for patients with asymmetric SNHL. Keeping the use of MRI conditional on the results of ABR will annually result in missed or delayed diagnosis of causative lesions in 29 patients per 1,000 screened. The author recommends abandoning ABR as a screening test for asymmetric SNHL and adoption of a focused MRI protocol as the screening test of choice (within certain guidelines).
+ER  - 
+
+TY  - JOUR
+AU  - Holland, Ashling
+AU  - Murphy, Sandra
+AU  - Dowling, Paul
+AU  - Ohlendieck, Kay
+TI  - Pathoproteomic profiling of the skeletal muscle matrisome in dystrophinopathy associated myofibrosis
+JO  - PROTEOMICS
+JA  - Proteomics
+VL  - 16
+IS  - 2
+SN  - 1615-9853
+UR  - https://doi.org/10.1002/pmic.201500158
+DO  - doi:10.1002/pmic.201500158
+SP  - 345
+EP  - 366
+KW  - Biomedicine
+KW  - Collagen
+KW  - Dystrophinopathy
+KW  - Extracellular matrix
+KW  - Matricellular
+KW  - Periostin
+PY  - 2016
+AB  - The gradual accumulation of collagen and associated proteins of the extracellular matrix is a crucial myopathological parameter of many neuromuscular disorders. Progressive tissue damage and fibrosis play a key pathobiochemical role in the dysregulation of contractile functions and often correlates with poor motor outcome in muscular dystrophies. Following a brief introduction into the role of the extracellular matrix in skeletal muscles, we review here the proteomic profiling of myofibrosis and its intrinsic role in X-linked muscular dystrophy. Although Duchenne muscular dystrophy is primarily a disease of the membrane cytoskeleton, one of its most striking histopathological features is a hyperactive connective tissue and tissue scarring. We outline the identification of novel factors involved in the modulation of the extracellular matrix in muscular dystrophy, such as matricellular proteins. The establishment of novel proteomic markers will be helpful in improving the diagnosis, prognosis, and therapy monitoring in relation to fibrotic substitution of contractile tissue. In the future, the prevention of fibrosis will be crucial for providing optimum conditions to apply novel pharmacological treatments, as well as establish cell-based approaches or gene therapeutic interventions. The elimination of secondary abnormalities in the matrisome promises to reduce tissue scarring and the loss of skeletal muscle elasticity.
+ER  - 
+
+TY  - JOUR
+AU  - Fernandes, Célio Jr. da Costa
+AU  - Veiga, Mariana R.
+AU  - Peracoli, Maria Terezinha Serrão
+AU  - Zambuzzi, Willian F.
+TI  - Modulatory effects of silibinin in cell behavior during osteogenic phenotype
+JO  - Journal of Cellular Biochemistry
+JA  - J Cell Biochem
+VL  - 120
+IS  - 8
+SN  - 0730-2312
+UR  - https://doi.org/10.1002/jcb.28616
+DO  - doi:10.1002/jcb.28616
+SP  - 13413
+EP  - 13425
+KW  - bone
+KW  - flavonoid
+KW  - inflammation
+KW  - osteoblast
+KW  - remodeling
+KW  - silibinin
+PY  - 2019
+AB  - Abstract Natural molecules, such as flavonoid, are very welcome strategies to modulate bone turnover. This prompted us to comprehend better the effect of silibinin on osteoblast metabolism, mainly considering intracellular pathways able to drive cell adhesion to differentiation. By exploring in vitro approaches, our data show a modulatory effect of the silibinin (200??g/mL) on the osteoblast intracellular signaling, contributing with decisive pathways governing cell adhesion, differentiation, and further mineralization, recapitulating important stages of osteogenesis. Within the first 24?hours of adhesion (acute stage), osteoblasts respond to silibinin by rearranging their cytoskeleton and start mechanisms responsible to extracellular matrix (ECM) remodeling, which reach intense profile at 28 days of treatment (chronic stage) by favoring matrix metalloproteinases (MMPs-2, and -9) activities, concomitant to mineralizing phenotype. Importantly, silibinin seems to reprogram genes related to inflammatory landscape and significantly upmodulating osteoprotegerin (>25 fold-changes), signaling molecule involved with osteoclastogenesis. Altogether, our results show for the first time that silibinin drives in vitro osteoblast differentiation by requiring specific intracellular signaling. In conjunction, this molecular landscape contributes to understand the effect of silibinin on osteoblasts performance and open novel therapeutic possibilities to silibinin in bone disorders, such as osteoporosis.
+ER  - 
+
+TY  - JOUR
+AU  - Oheim, Ralf
+AU  - Zimmerman, Kristin
+AU  - Maulding, Nathan D
+AU  - Stürznickel, Julian
+AU  - von Kroge, Simon
+AU  - Kavanagh, Dillon
+AU  - Stabach, Paul R
+AU  - Kornak, Uwe
+AU  - Tommasini, Steven M
+AU  - Horowitz, Mark C
+AU  - Amling, Michael
+AU  - Thompson, David
+AU  - Schinke, Thorsten
+AU  - Busse, Björn
+AU  - Carpenter, Thomas O.
+AU  - Braddock, Demetrios T
+TI  - Human Heterozygous ENPP1 Deficiency Is Associated With Early Onset Osteoporosis, a Phenotype Recapitulated in a Mouse Model of Enpp1 Deficiency
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - n/a
+IS  - n/a
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.3911
+DO  - doi:10.1002/jbmr.3911
+KW  - DISORDERS OF CALCIUM/PHOSPHATE METABOLISM
+KW  - OSTEOPOROSIS
+KW  - OSTEOMALACIA AND RICKETS
+KW  - FGF23
+KW  - ARHR2
+KW  - GACI
+AB  - ABSTRACT Biallelic ENPP1 deficiency in humans induces generalized arterial calcification of infancy (GACI) and/or autosomal recessive hypophosphatemic rickets type 2 (ARHR2). The latter is characterized by markedly increased circulating FGF23 levels and renal phosphate wasting, but aberrant skeletal manifestations associated with heterozygous ENPP1 deficiency are unknown. Here, we report three adult men with early onset osteoporosis who presented with fractures in the thoracic spine and/or left radius, mildly elevated circulating FGF23, and hypophosphatemia. Total hip bone mineral density scans demonstrated osteoporosis (Z-score?<??2.5) and HRpQCT demonstrated microarchitectural defects in trabecular and cortical bone. Next-generation sequencing revealed heterozygous loss-of-function mutations in ENPP1 previously observed as biallelic mutations in infants with GACI. In addition, we present bone mass and structure data as well as plasma pyrophosphate (PPi) data of two siblings suffering from ARHR2 in comparison to their heterozygous and wild-type family members indicative of an ENPP1 gene dose effect. The skeletal phenotype in murine Enpp1 deficiency yielded nearly identical findings. Ten-week-old male Enpp1 asj/asj mice exhibited mild elevations in plasma FGF23 and hypophosphatemia, and micro-CT analysis revealed microarchitectural defects in trabecular and cortical bone of similar magnitude to HRpQCT defects observed in humans. Histomorphometry revealed mild osteomalacia and osteopenia at both 10 and 23?weeks. The biomechanical relevance of these findings was demonstrated by increased bone fragility and ductility in Enpp1 asj/asj mice. In summary, ENPP1 exerts a gene dose effect such that humans with heterozygous ENPP1 deficiency exhibit intermediate levels of plasma analytes associated with bone mineralization disturbance resulting in early onset osteoporosis. ? 2019 The Authors. Journal of Bone and Mineral Research published by American Society for Bone and Mineral Research.
+ER  - 
+
+TY  - JOUR
+AU  - Berlin, S.
+AU  - Wallstabe, S.
+AU  - Scheuch, E.
+AU  - Oswald, S.
+AU  - Hasan, M.
+AU  - Wegner, D.
+AU  - Grube, M.
+AU  - Venner, M.
+AU  - Ullrich, A.
+AU  - Siegmund, W.
+TI  - Intestinal and hepatic contributions to the pharmacokinetic interaction between gamithromycin and rifampicin after single-dose and multiple-dose administration in healthy foals
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 50
+IS  - 4
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12796
+DO  - doi:10.1111/evj.12796
+SP  - 525
+EP  - 531
+KW  - horse
+KW  - rifampicin
+KW  - gamithromycin
+KW  - drug-drug interaction
+KW  - lung distribution
+KW  - healthy foals
+KW  - Rhodococcus equi
+PY  - 2018
+AB  - Summary Background Standard treatment of foals with severe abscessing lung infection caused by Rhodococcus equi using rifampicin and a macrolide antibiotic can be compromised by extensive inhibition and/or induction of drug metabolising enzymes (e.g. CYP3A4) and transport proteins (e.g. P-glycoprotein), as has been shown for rifampicin and clarithromycin. The combination of rifampicin with the new, poorly metabolised gamithromycin, a long-acting analogue of azithromycin and tulathromycin with lower pharmacokinetic interaction potential, might be a suitable alternative. Objectives To evaluate the pharmacokinetic interactions and pulmonary distribution of rifampicin and gamithromycin in healthy foals, and to investigate the cellular uptake of gamithromycin in vitro. Study design Controlled, four-period, consecutive, single-dose and multiple-dose study. Methods Pharmacokinetics and lung distribution of rifampicin (10 mg/kg) and gamithromycin (6 mg/kg) were measured in nine healthy foals using LC-MS/MS. Enzyme induction was confirmed using the 4?-OH-cholesterol/cholesterol ratio. Affinity of gamithromycin to drug transport proteins was evaluated in vitro using equine hepatocytes and MDCKII-cells stably transfected with human OATP1B1, OATP1B3 and OATP2B1. Results Rifampicin significantly (P<0.05) increased the plasma exposure of gamithromycin (16.2 ± 4.77 vs. 8.57 ± 3.10 ?g ? h/mL) by decreasing the total body clearance. Otherwise, gamithromycin significantly lowered plasma exposure of single- and multiple-dose rifampicin (83.8 ± 35.3 and 112 ± 43.1 vs. 164 ± 96.7 ?g ? h/mL) without a change in metabolic ratio and half-life. Gamithromycin was identified as an inhibitor of human OATP1B1, OATP1B3 and OATP2B1 and as a substrate of OATP2B1. In addition, it was extracted by equine hepatocytes via a mechanism which could be inhibited by rifampicin. Main limitations Influence of gamithromycin on pulmonary distribution of rifampicin was not evaluated. Conclusion The plasma exposure of gamithromycin is significantly increased by co-administration of rifampicin which is most likely caused by inhibition of hepatic elimination.
+ER  - 
+
+AU  - Crosby Dr., Daniel
+C7  - pp. 49-82
+TI  - Investor Emotions and Financial Decisions
+SN  - 9781118963326
+UR  - https://doi.org/10.1002/9781119204190.ch2
+DO  - doi:10.1002/9781119204190.ch2
+SP  - 49-82
+KW  - Personal Benchmark
+KW  - behavioral finance
+KW  - traditional finance
+KW  - human irrationality
+KW  - financial catastrophes
+KW  - decision-making
+PY  - 2018
+AB  - Summary Personal Benchmark was developed with deep reliance on the multi-disciplinary study known as Behavioral Finance. Behavioral finance has risen to the public consciousness through at least three primary channels: an academic spat with traditional finance, a collection of pithy anecdotes about human irrationality, and an explanatory framework for a series of recent financial catastrophes beginning with the dot.com bubble and ending with the Great Recession. This chapter provides an overview of this field, including its origins, what behavioral finance is and is not, and how these concepts are applied to the everyday work of financial advisors. Behavioral finance sits at the crossroads of finance, economics, psychology, social psychology, decision-making science and neurology, to name but a few of the disciplines that make up its strange brew. This makes behavioral finance a true mutt of the financial industry and it continues to rapidly evolve and adapt as both popular and academic interest in the sciences increase and more and more resources are allocated to its pursuits.
+ER  - 
+
+TY  - JOUR
+AU  - Gupta, Asheesh
+AU  - Keshri, Gaurav K.
+AU  - Yadav, Anju
+AU  - Gola, Shefali
+AU  - Chauhan, Satish
+AU  - Salhan, Ashok K.
+AU  - Bala Singh, Shashi
+TI  - Superpulsed (Ga-As, 904 nm) low-level laser therapy (LLLT) attenuates inflammatory response and enhances healing of burn wounds
+JO  - Journal of Biophotonics
+JA  - J. Biophoton
+VL  - 8
+IS  - 6
+SN  - 9781118963326
+UR  - https://doi.org/10.1002/jbio.201400058
+DO  - doi:10.1002/jbio.201400058
+SP  - 489
+EP  - 501
+KW  - Burns
+KW  - hypoxia inducible factor-1α
+KW  - nuclear factor-kB
+KW  - low-level laser (light) therapy (LLLT)
+KW  - photobiomodulation
+KW  - superpulsed laser (904 nm)
+PY  - 2015
+AB  - Low-level laser therapy (LLLT) using superpulsed near-infrared light can penetrate deeper in the injured tissue and could allow non-pharmacological treatment for chronic wound healing. This study investigated the effects of superpulsed laser (Ga-As 904 nm, 200 ns pulse width; 100 Hz; 0.7 mW mean output power; 0.4 mW/cm2 average irradiance; 0.2 J/cm2 total fluence) on the healing of burn wounds in rats, and further explored the probable associated mechanisms of action. Irradiated group exhibited enhanced DNA, total protein, hydroxyproline and hexosamine contents compared to the control and silver sulfadiazine (reference care) treated groups. LLLT exhibited decreased TNF-α level and NF-kB, and up-regulated protein levels of VEGF, FGFR-1, HSP-60, HSP-90, HIF-1α and matrix metalloproteinases-2 and 9 compared to the controls. In conclusion, LLLT using superpulsed 904 nm laser reduced the inflammatory response and was able to enhance cellular proliferation, collagen deposition and wound contraction in the repair process of burn wounds. Photomicrographs showing no, absence inflammation and faster wound contraction in LLLT superpulsed (904 nm) laser treated burn wounds as compared to the non-irradiated control and silver sulfadiazine (SSD) ointment (reference care) treated wounds
+ER  - 
+
+TY  - JOUR
+AU  - Jorfi, Mehdi
+AU  - D'Avanzo, Carla
+AU  - Kim, Doo Yeon
+AU  - Irimia, Daniel
+C7  - 1700723
+TI  - Three-Dimensional Models of the Human Brain Development and Diseases
+JO  - Advanced Healthcare Materials
+JA  - Adv. Healthcare Mater.
+VL  - 7
+IS  - 1
+SN  - 9781118963326
+UR  - https://doi.org/10.1002/adhm.201700723
+DO  - doi:10.1002/adhm.201700723
+SP  - 1700723
+KW  - 3D culture
+KW  - biomaterials
+KW  - disease modeling
+KW  - microfluidics
+KW  - organoids
+PY  - 2018
+AB  - Abstract Deciphering the human brain pathophysiology remains one of the greatest challenges of the 21st century. Neurological disorders represent a significant proportion of diseases burden; however, the complexity of the brain physiology makes it challenging to model its diseases. Simple in vitro models have been very useful for precise measurements in controled conditions. However, existing models are limited in their ability to replicate complex interactions between various cells in the brain. Studying human brain requires sophisticated models to reconstitute the tangled architecture and functions of brain cells. Recently, advances in the development of three-dimensional (3D) brain cell culture models have begun to recapitulate various aspects of the human brain physiology in vitro and replicate basic disease processes of Alzheimer's disease, amyotrophic lateral sclerosis, and microcephaly. In this review, we discuss the progress, advantages, limitations, and future directions of 3D cell culture systems for modeling the human brain development and diseases.
+ER  - 
+
+TY  - JOUR
+AU  - Page, Jonathan M.
+AU  - Harmata, Andrew J.
+AU  - Guelcher, Scott A.
+TI  - Design and development of reactive injectable and settable polymeric biomaterials
+JO  - Journal of Biomedical Materials Research Part A
+JA  - J. Biomed. Mater. Res.
+VL  - 101
+IS  - 12
+SN  - 9781118963326
+UR  - https://doi.org/10.1002/jbm.a.34665
+DO  - doi:10.1002/jbm.a.34665
+SP  - 3630
+EP  - 3645
+KW  - biocompatibility
+KW  - injectable
+KW  - settable
+KW  - biomaterials
+PY  - 2013
+AB  - Injectable and settable biomaterials are a growing class of therapeutic technologies within the field of regenerative medicine. These materials offer advantages compared to prefabricated implants because of their ability to be utilized as part of noninvasive surgical procedures, fill complex defect shapes, cure in situ, and incorporate cells and other active biologics. However, there are significant technical barriers to clinical translation of injectable and settable biomaterials, such as achieving clinically relevant handling properties and benign reaction conditions. This review focuses on the engineering challenges associated with the design and development of injectable and chemically settable polymeric biomaterials. Additionally, specific examples of the diverse chemistries utilized to overcome these challenges are covered. The future translation of injectable and settable biomaterials is anticipated to improve patient outcomes for a number of clinical conditions. ? 2013 Wiley Periodicals, Inc. J Biomed Mater Res Part A: 101A: 3630?3645, 2013.
+ER  - 
+
+TY  - JOUR
+AU  - Vardimon, Lily
+AU  - Ben Dror, Iris
+AU  - Avisar, Noa
+AU  - Shiftan, Liora
+AU  - Kruchkova, Yelena
+AU  - Oren, Anat
+TI  - Regulation of glutamine synthetase in normal and injured neural tissues
+JO  - Gene Function & Disease
+JA  - Gene Funct. Dis.
+VL  - 2
+IS  - 2‐3
+SN  - 9781118963326
+UR  - https://doi.org/10.1002/1438-826X(200110)2:2/3<83::AID-GNFD83>3.0.CO;2-W
+DO  - doi:10.1002/1438-826X(200110)2:2/3<83::AID-GNFD83>3.0.CO;2-W
+SP  - 83
+EP  - 88
+KW  - glutamine synthetase
+KW  - neuroprotection
+KW  - glucocorticoid receptor
+KW  - c-Jun
+KW  - neural restrictive silencing element NRSF
+KW  - Müller glial cells
+PY  - 2001
+AB  - Abstract Glutamine synthetase (GS) constitutes an endogenous mechanism for protection against glutamate neurotoxicity in neural tissues by catalyzing the amidation of the neurotoxic amino acid glutamate to the non-toxic amino acid glutamine. Expression of GS is regulated by systemic glucocorticoids, which induce transcription of the GS gene in glial cells only. This cell type specificity is established through the mutual activity of positive and negative regulatory elements, the glucocorticoid response element (GRE) and the neural restrictive silencing element (NRSE), respectively. Glial cell proliferation, which often occurs at the site of neural injury (gliosis), results in a marked decline in GS expression. This decline is mediated by the c-Jun protein, which accumulates in the proliferating cells and blocks the transcriptional activity of the glucocorticoid receptor. Disruption of glia-neuron cell contacts or supply of bFGF can also cause a decline in GS by a mechanism that involves the activation of the c-Jun signaling pathway in glial cells. Considering the detoxificating role of GS, stimulation of glial cell proliferation at the site of injury may exacerbate glutamate-mediated neurotoxicity through direct downregulation of GS.
+ER  - 

@@ -1,0 +1,405 @@
+
+TY  - JOUR
+AU  - Engel, Tobias
+AU  - Caballero-Caballero, Aurelien
+AU  - Schindler, Clara K.
+AU  - Plesnila, Nikolaus
+AU  - Strasser, Andreas
+AU  - Prehn, Jochen H.M.
+AU  - Henshall, David C.
+TI  - BH3-only protein Bid is dispensable for seizure-induced neuronal death and the associated nuclear accumulation of apoptosis-inducing factor
+JO  - Journal of Neurochemistry
+VL  - 115
+IS  - 1
+SN  - 0022-3042
+UR  - https://doi.org/10.1111/j.1471-4159.2010.06909.x
+DO  - doi:10.1111/j.1471-4159.2010.06909.x
+SP  - 92
+EP  - 101
+KW  - AIF
+KW  - Bax
+KW  - Bcl-2
+KW  - hippocampus
+KW  - neuroprotection
+KW  - epilepsy
+PY  - 2010
+AB  - J. Neurochem. (2010) 115, 92?101. Abstract Prolonged seizures activate members of the Bcl-2 homology domain 3-only sub-group of the Bcl-2 protein family, which are essential for initiation of apoptosis signaling. Bid is a potent pro-apoptotic Bcl-2 homology domain 3-only protein, which upon proteolytic activation translocates to mitochondria to promote activation of the Bax/Bak sub-group of the pro-apoptotic Bcl-2 family and thereby contributes to release of apoptogenic molecules, such as cytochrome c and possibly apoptosis-inducing factor (AIF). Bid-deficient mice have been reported to show reduced lesion volumes after ischemia and trauma in vivo but a causal role for Bid in the setting of seizure-induced neuronal death has not been investigated. In this study, we studied Bid activation following status epilepticus in mice and compared hippocampal damage between wild-type and Bid-deficient animals. Full-length Bid was detected in normal mouse hippocampus and the cleaved (activated) p15 fragment of Bid was detected shortly after status epilepticus. Bid-deficient mice underwent equivalent electrographic seizure responses during status epilepticus as wild-type animals. Hippocampal counts of degenerating neurons and surviving neuron-specific nuclear protein-positive cells were not significantly different between wild-type and Bid-deficient mice. Additionally, nuclear translocation of AIF was not reduced in Bid-deficient compared with wild-type animals subjected to status epilepticus. The present study demonstrates that AIF is not dependent on Bid for mitochondrial release and nuclear import in this model and that while Bid is cleaved during seizure-induced neuronal death, it may be functionally redundant or even not essential.
+ER  - 
+
+TY  - JOUR
+AU  - Tariq, Sana
+AU  - Barber, Philip A.
+TI  - Dementia risk and prevention by targeting modifiable vascular risk factors
+JO  - Journal of Neurochemistry
+JA  - J. Neurochem.
+VL  - 144
+IS  - 5
+SN  - 0022-3042
+UR  - https://doi.org/10.1111/jnc.14132
+DO  - doi:10.1111/jnc.14132
+SP  - 565
+EP  - 581
+KW  - Alzheimer's
+KW  - biomarkers
+KW  - cognitive decline
+KW  - dementia
+KW  - neuroimaging
+KW  - vascular disease
+PY  - 2018
+AB  - Abstract The incidence of dementia is expected to double in the next 20 years and will contribute to heavy social and economic burden. Dementia is caused by neuronal loss that leads to brain atrophy years before symptoms manifest. Currently, no cure exists and extensive efforts are being made to mitigate cognitive impairment in late life in order to reduce the burden on patients, caregivers, and society. The most common type of dementia, Alzheimer's disease (AD), and vascular dementia (VaD) often co-exists in the brain and shares common, modifiable risk factors, which are targeted in numerous secondary prevention trials. There is a growing need for non-pharmacological interventions and infrastructural support from governments to encourage psychosocial and behavioral interventions. Secondary prevention trials need to be redesigned based on the risk profile of individual subjects, which require the use of validated and standardized clinical, biological, and neuroimaging biomarkers. Multi-domain approaches have been proposed in high-risk populations that target optimal treatment; clinical trials need to recruit individuals at the highest risk of dementia before symptoms develop, thereby identifying an enriched disease group to test preventative and disease modifying strategies. The underlying aim should be to reduce microscopic brain tissue loss by modifying vascular and lifestyle risk factors over a relatively short period of time, thus optimizing the opportunity for preventing dementia in the future. Collaboration between international research groups is of key importance to the optimal use and allocation of existing resources, and the development of new techniques in preventing dementia. This article is part of the Special Issue ?Vascular Dementia?.
+ER  - 
+
+TY  - JOUR
+TI  - The Australasian College for Emergency Medicine Hobart, November, 1991
+JO  - Emergency Medicine
+VL  - 4
+IS  - 1
+SN  - 1035-6851
+UR  - https://doi.org/10.1111/j.1442-2026.1992.tb00308.x
+DO  - doi:10.1111/j.1442-2026.1992.tb00308.x
+SP  - 28
+EP  - 40
+PY  - 1992
+ER  - 
+
+TY  - JOUR
+AU  - Zaman, Raiyan T.
+AU  - Gopal, Ashwini
+AU  - Starr, Kathryn
+AU  - Zhang, Xiaojing
+AU  - Thomsen, Sharon
+AU  - Tunnell, James W.
+AU  - Welch, Ashley J.
+AU  - Rylander III, Henry G.
+TI  - Micro-patterned drug delivery device for light-activated drug release
+JO  - Lasers in Surgery and Medicine
+JA  - Lasers Surg. Med.
+VL  - 44
+IS  - 1
+SN  - 0196-8092
+UR  - https://doi.org/10.1002/lsm.21149
+DO  - doi:10.1002/lsm.21149
+SP  - 30
+EP  - 48
+KW  - drug delivery device
+KW  - optical clearing
+KW  - 100% anhydrous glycerol
+KW  - Nd:YAG laser
+KW  - hyperosmotic agent
+KW  - fluorescence spectrometer
+PY  - 2012
+AB  - Abstract Background The primary goal of this study was the fabrication, long-term stability, and measured release of a marker dye from a micro-patterned drug delivery device using (i) mechanical puncture and (ii) photodisruption with an ophthalmic Nd:YAG laser. Materials and Methods A drug delivery device was made from a transparent bio-compatible polymer. The device consisted of two 2.6?mm diameter reservoirs containing 10% Na fluorescein dye. The device was implanted in the rabbit's eye (n?=?2) with the cap of the device facing toward the exterior of the eye. Once the animals recovered from the implant surgery, 100% anhydrous glycerol was topically applied to the eye at the implantation site to decrease light scattering in the conjunctiva and sclera. The dye was released from one of the reservoir either using a 28?G ½ needle or an ophthalmic Q-switched Nd:YAG laser. A fluorescence spectrophotometer (FS) with fiber optic probe was used to measure the half-life of the dye in the eye. Measurements of fluorescence intensity were collected until the measurements return to baseline and histology was done on the tissue surrounded the device. Results None of the devices leaked of 10% Na fluorescein dye after implant. The ablation threshold of the drug delivery device was between 6 and 10?mJ to create 100?500?µm holes. The half-life measurement of the dye was found to be 13 days at the vitreous chamber after measuring the fluorescence intensity through the dilated cornea. Histology study showed minimal immune and foreign body response such as mild inflammation. Conclusion This study established that the drug delivery device seemed to elicit minimal inflammatory response and retained its fluidic content until it was released with relatively longer retention time (half-life). Thus, similar device could be used for controlled release of drugs for certain ocular diseases. Lasers Surg. Med. 44:30?48, 2012. ? 2011 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - League, Cedar E.
+AU  - Díaz, Walter
+AU  - Philips, Brenda
+AU  - Bass, Ellen J.
+AU  - Kloesel, Kevin
+AU  - Gruntfest, Eve
+AU  - Gessner, Alex
+TI  - Emergency manager decision-making and tornado warning communication
+JO  - Meteorological Applications
+JA  - Met. Apps
+VL  - 17
+IS  - 2
+SN  - 1350-4827
+UR  - https://doi.org/10.1002/met.201
+DO  - doi:10.1002/met.201
+SP  - 163
+EP  - 172
+KW  - emergency management
+KW  - tornado warnings
+KW  - weather radar
+KW  - spotters
+KW  - user-centred system design
+PY  - 2010
+AB  - Abstract Emergency managers (EMs) play a critical role in communicating severe weather and tornado warnings to the public, yet communicating the uncertainty of when, where or if a tornado may hit remains a great challenge for EMs. Focus group and survey data concerning weather product usage, weather observing spotter interaction, and decisions to warn the public were collected from Oklahoma EMs in order to characterize the communication processes EMs employ during severe weather outbreaks. These processes include: (1) acquiring weather information, (2) interpreting the information in order to make weather hazard threat assessments, (3) verifying the information, and (4) making time-sensitive warning decisions. The results indicate that while EMs use a variety of weather and radar products to acquire information, weather observing spotters are key sources of verification data. With respect to warning the public about tornado threats, sirens are the primary method. These findings are related to the development of a new radar system being developed by the Center for Collaborative Adaptive Sensing of the Atmosphere (CASA), so that this new technology can be designed to reduce uncertainty in the EM decision-making and warning communication processes. Copyright ? 2010 Royal Meteorological Society
+ER  - 
+
+TY  - JOUR
+AU  - Carvajal, Jose L.
+AU  - Case, J. Brad
+AU  - Mayhew, Philipp D.
+AU  - Runge, Jeffrey
+AU  - Singh, Ameet
+AU  - Townsend, Sarah
+AU  - Monnet, Eric
+TI  - Outcome in dogs with presumptive idiopathic pericardial effusion after thoracoscopic pericardectomy and pericardioscopy
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 48
+IS  - S1
+SN  - 0161-3499
+UR  - https://doi.org/10.1111/vsu.13129
+DO  - doi:10.1111/vsu.13129
+SP  - O105
+EP  - O111
+PY  - 2019
+AB  - Abstract Objective To report the outcome of dogs with presumptive echocardiographic idiopathic pericardial effusion treated with thoracoscopic pericardectomy and pericardioscopy. Study design Multi-institutional retrospective study (2011-2017). Animals Eighteen dogs. Methods Records were searched for dogs with pericardial effusion and no identified cause by preoperative echocardiography and subsequent thoracoscopic pericardectomy and pericardioscopy. Collected data included presenting complaint, physical examination, laboratory results, imaging, and operative findings. Follow-up was obtained via telephone interview and/or recheck examination. Results No evidence of mass lesions or cause for the effusion was identified in any of the dogs by preoperative echocardiography. Nine dogs had unremarkable pericardioscopic examination results. Nine dogs had pericardioscopic abnormalities consistent with masses, nodules, or adhesions. Median survival time (MST) for the 9 dogs with abnormalities identified by pericardioscopy was 66 days, whereas MST for the 9 dogs with unremarkable pericardioscopic examination results was not reached (P?=?.0067). Median survival time for dogs based on histopathologic diagnosis alone was not different between dogs with a diagnosis of neoplasia and dogs with a diagnosis of pericarditis (P?=?.1056). Among dogs with lesions identified during pericardioscopy, MST did not differ between those with a diagnosis of malignancy and those with a diagnosis of pericarditis (P?=?.78). Conclusion Dogs with presumptive idiopathic pericardial effusion without evidence of masses, nodules, and/or adhesions during thoracoscopic pericardectomy and pericardioscopy lived longer than dogs in which abnormalities were identified during pericardioscopy. Clinical significance Thoracoscopic pericardectomy/pericardioscopy and targeted biopsy of the pericardium and pleura are recommended in dogs with echocardiographic idiopathic pericardial effusion.
+ER  - 
+
+C7  - pp. 645-658
+TI  - Index
+SN  - 9781405161435
+UR  - https://doi.org/10.1002/9781444303674.index
+DO  - doi:10.1002/9781444303674.index
+SP  - 645-658
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Vet Surgery short abstracts 2017 26th Annual Scientific Meeting July 13-15, 2017, Edinburgh, UK, EICC
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 46
+IS  - 6
+SN  - 9781405161435
+UR  - https://doi.org/10.1111/vsu.12675
+DO  - doi:10.1111/vsu.12675
+SP  - E1
+EP  - E51
+PY  - 2017
+ER  - 
+
+AU  - Berent, Allyson
+C7  - pp. 309-335
+TI  - Interventional Management of Canine and Feline Benign Ureteral Obstructions
+SN  - 9781118378281
+UR  - https://doi.org/10.1002/9781118910924.ch29
+DO  - doi:10.1002/9781118910924.ch29
+SP  - 309-335
+KW  - dogs
+KW  - feline patients
+KW  - subcutaneous ureteral bypass devices (SUB)
+KW  - ureteral stenting
+KW  - ureterovesicular junction (UVJ)
+PY  - 2017
+AB  - Summary Ureteral obstructions are a major clinical problem in small animal veterinary patients most commonly associated with ureteroliths, ureteral strictures, and trigonal neoplasia of the ureterovesicular junction (UVJ). With the invasiveness and morbidity associated with traditional surgical treatments, interventional options have become the mainstay of treatment in the author's practice. The main treatment options discussed in this chapter are the use of nephrostomy tubes, ureteral stents, and subcutaneous ureteral bypass devices (SUB). Ureteral stenting is most commonly accomplished using endoscopic and fluoroscopic guidance in canine patients, and surgically-assisted with fluoroscopy in feline patients. These devices are used for a variety of obstructive disorders in both dogs and cats. The main type of ureteral stent used in veterinary medicine is an indwelling soft double pigtail ureteral stent that can remain in place for numerous months to years if necessary.
+ER  - 
+
+TY  - JOUR
+AU  - FULTON, JAMES E.
+AU  - SUAREZ, MARCELO
+AU  - SILVERTON, KIMBALL
+AU  - BARNES, THOMAS
+TI  - Small Volume Fat Transfer
+JO  - Dermatologic Surgery
+VL  - 24
+IS  - 8
+SN  - 9781118378281
+UR  - https://doi.org/10.1111/j.1524-4725.1998.tb04263.x
+DO  - doi:10.1111/j.1524-4725.1998.tb04263.x
+SP  - 857
+EP  - 865
+PY  - 1998
+AB  - background. The use of autologous fat has been advocated for tissue augmentation for over a century. However, this technique remains controversial and many investigators have made suggestions to increase its potential. objectives. To develop a less traumatic method to collect, purify, and reinject fat to obtain more dramatic augmentations for the cosmetic improvement of contours and tissue defects. methods. Fat was collected from the donor site following tu-mescent infiltration of tissue. A ?vented? syringe with an atrau-tnatic Mercedes tip was used to collect the fat and, after washing with lactated Ringers or saline, the fat was transferred to small syringes for controlled injections. Small filaments of fat were placed in multi-layers throughout the area of the defect or area of desired contour change. The unused fat was frozen for a second or third injection session. results. The fat transfer method yielded augmentations of 40%-120% of injected volume in the 339 areas treated. After 45?60 days, the implant was stabilized and remained for the length of our study (up to 10 years). In several cases excessive fat had to be removed. Other than slight bruising, occasional divots at the donor site, and three cases of bacterial infection, the autologous tissue transfer was an uncomplicated event. conclusion. Fat grafting has proven to be a safe and effective procedure for correcting and enhancing tissue defects and contour deficiencies.
+ER  - 
+
+C7  - pp. 91-116
+TI  - Introduction to the Clinical Assessment of Patients
+SN  - 9780727918550
+UR  - https://doi.org/10.1002/9780470757437.ch11
+DO  - doi:10.1002/9780470757437.ch11
+SP  - 91-116
+KW  - security
+KW  - methods
+KW  - circulation
+KW  - exposure
+KW  - clinical groups
+PY  - 1998
+AB  - Summary This chapter contains sections titled: Introduction Monitoring During Primary and Secondary Surveys Primary Survey and Resuscitation Summary
+ER  - 
+
+TY  - JOUR
+AU  - Pollack, Keshia M.
+AU  - Agnew, Jacqueline
+AU  - Slade, Martin D.
+AU  - Cantley, Linda
+AU  - Taiwo, Oyebode
+AU  - Vegso, Sally
+AU  - Sircar, Kanta
+AU  - Cullen, Mark R.
+TI  - Use of employer administrative databases to identify systematic causes of injury in aluminum manufacturing
+JO  - American Journal of Industrial Medicine
+JA  - Am. J. Ind. Med.
+VL  - 50
+IS  - 9
+SN  - 9780727918550
+UR  - https://doi.org/10.1002/ajim.20493
+DO  - doi:10.1002/ajim.20493
+SP  - 676
+EP  - 686
+KW  - occupational injury epidemiology
+KW  - workplace safety
+KW  - administrative databases
+KW  - data linkage
+KW  - manufacturing sector
+PY  - 2007
+AB  - Abstract Background Employer administrative files are an underutilized source of data in epidemiologic studies of occupational injuries. Methods Personnel files, occupational health surveillance data, industrial hygiene data, and a real-time incident and injury management system from a large multi-site aluminum manufacturer were linked deterministically. An ecological-level measure of physical job demand was also linked. This method successfully created a database containing over 100 variables for 9,101 hourly employees from eight geographically dispersed U.S. plants. Results Between 2002 and 2004, there were 3,563 traumatic injuries to 2,495 employees. The most common injuries were sprain/strains (32%), contusions (24%), and lacerations (14%). A multivariable logistic regression model revealed that physical job demand was the strongest predictor of injury risk, in a dose dependent fashion. Other strong predictors of injury included female gender, young age, short company tenure and short time on current job. Conclusions Employer administrative files are a useful source of data, as they permit the exploration of risk factors and potential confounders that are not included in many population-based surveys. The ability to link employer administrative files with injury surveillance data is a valuable analysis strategy for comprehensively studying workplace injuries, identifying salient risk factors, and targeting workforce populations disproportionately affected. Am. J. Ind. Med. 50:676?686, 2007. ? 2007 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Ramirez-Garcia-Luna, Jose L.
+AU  - Wong, Timothy H.
+AU  - Chan, Daniel
+AU  - Al-Saran, Yazeed
+AU  - Awlia, Ayman
+AU  - Abou-Rjeili, Mira
+AU  - Ouellet, Suzie
+AU  - Akoury, Elie
+AU  - Lemarié, Catherine A.
+AU  - Henderson, Janet E.
+AU  - Martineau, Paul A.
+TI  - Defective bone repair in diclofenac treated C57Bl6 mice with and without lipopolysaccharide induced systemic inflammation
+JO  - Journal of Cellular Physiology
+JA  - J Cell Physiol
+VL  - 234
+IS  - 3
+SN  - 9780727918550
+UR  - https://doi.org/10.1002/jcp.27128
+DO  - doi:10.1002/jcp.27128
+SP  - 3078
+EP  - 3087
+KW  - angiogenesis
+KW  - fracture
+KW  - lipopolysaccharides (LPS)-induced inflammation
+KW  - mast cells
+KW  - nonsteroidal anti-inflammatory drugs (NSAID)
+PY  - 2019
+AB  - Abstract Bone repair after trauma or surgical intervention involves a tightly regulated cascade of events that starts with hemostasis and an inflammatory response, which are critical for successful healing. Nonsteroidal anti-inflammatory drugs (NSAID) are routinely prescribed for pain relief despite their potential inhibitory effect on bone repair. The goal of this study was to determine the impact of administration of the non-selective NSAID diclofenac in the inflammatory phase of bone repair in mice with or without lipopolysaccharide-induced systemic inflammation. Repair of femoral window defects was characterized using micro computed tomography imaging and histological analyses at 2 weeks postoperative. The data indicate (a) impaired bone regeneration associated with reduced osteoblast, osteoclast, and macrophage activity; (b) changes in the number, activity, and distribution of mast cells in regenerating bone; and (c) impaired angiogenesis due to a direct toxic effect of diclofenac on vascular endothelial cells. The results of this study provide strong evidence to support the conjecture that administration of NSAIDs in the first 2 weeks after orthopaedic surgery disrupts the healing cascade and exacerbates the negative effects of systemic inflammation on the repair process.
+ER  - 
+
+TY  - JOUR
+TI  - Abstract submission
+JO  - Emergency Medicine Australasia
+JA  - Emerg Med Australas
+VL  - 27
+IS  - S1
+SN  - 9780727918550
+UR  - https://doi.org/10.1111/1742-6723.12415
+DO  - doi:10.1111/1742-6723.12415
+SP  - 1
+EP  - 27
+PY  - 2015
+ER  - 
+
+AU  - Button, Matthew
+AU  - Tai, Nigel
+C7  - pp. 106-111
+TI  - Acute Limb Ischaemia
+SN  - 9781405170253
+UR  - https://doi.org/10.1002/9781444315172.ch19
+DO  - doi:10.1002/9781444315172.ch19
+SP  - 106-111
+KW  - acute limb ischaemia
+KW  - acutely ischaemic limb, symptoms present for less than 2 weeks
+KW  - acute presentations of ischaemic limbs - declining over recent years
+KW  - differentiation between embolism and thrombosis - made clinically
+KW  - clinical markers of limb viability
+KW  - aims of preoperative treatment to relieve pain
+KW  - patient-specific management
+KW  - acute arterial embolism
+KW  - thrombolysis involving delivery of tissue plasminogen activator - directly into thrombosed vessel
+KW  - acute-on-chronic ischaemia
+PY  - 2015
+AB  - Summary This chapter contains sections titled: Introduction Clinical presentation Investigation Management Patient-specific management
+ER  - 
+
+TY  - JOUR
+AU  - Woods, Anne B.
+AU  - Page, Gayle G.
+AU  - O'Campo, Patricia
+AU  - Pugh, Linda C.
+AU  - Ford, Daniel
+AU  - Campbell, Jacquelyn C.
+TI  - The Mediation Effect of Posttraumatic Stress Disorder Symptoms on the Relationship of Intimate Partner Violence and IFN-γ Levels
+JO  - American Journal of Community Psychology
+VL  - 36
+IS  - 1-2
+SN  - 9781405170253
+UR  - https://doi.org/10.1007/s10464-005-6240-7
+DO  - doi:10.1007/s10464-005-6240-7
+SP  - 159
+EP  - 175
+KW  - intimate partner violence
+KW  - posttraumatic stress disorder
+KW  - depression
+KW  - cytokine
+KW  - IFN-γ
+PY  - 2005
+AB  - AbstractBackground: Women who experience intimate partner violence (IPV) report greater stress and negative health consequences than nonabused women. Although an association between psychological stress and altered immune function has been shown, IPV studies have not investigated this relationship. Objective: This study explored the association of IPV with mental health symptoms and an immune marker to determine if posttraumatic stress disorder (PTSD) symptoms mediate the effect of IPV on pro-inflammatory (IFN-?) cytokine levels. Methods: A cross-sectional, comparative design was used to compare 62 women with IPV and 39 nonabused women. Results: Mean IFN-? values were higher in abused women and in women with current PTSD symptoms. There were no significant relationships with potential confounding variables that could provide an alternative explanation for the increase in production of proinflammatory cytokines. Conclusions: PTSD symptoms mediate the association between IPV and IFN-? levels and may partially explain the association of mental health symptoms with physical health sequelae in IPV.
+ER  - 
+
+TY  - JOUR
+TI  - Oral Presentation
+JO  - Emergency Medicine Australasia
+JA  - Emergency Medicine Australasia
+VL  - 31
+IS  - S1
+SN  - 9781405170253
+UR  - https://doi.org/10.1111/1742-6723.13239
+DO  - doi:10.1111/1742-6723.13239
+SP  - 3
+EP  - 29
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Presentation Abstracts: 2018 European College Veterinary Surgeons Annual Scientific Meeting, July 4-6, 2018 - Athens, Greece
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 47
+IS  - 5
+SN  - 9781405170253
+UR  - https://doi.org/10.1111/vsu.12910
+DO  - doi:10.1111/vsu.12910
+SP  - 1
+EP  - 2
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Ignjatovic, A.
+AU  - Saunders, B. P.
+AU  - Harbin, L.
+AU  - Clark, S.
+TI  - Solitary ‘rectal’ ulcer syndrome in the sigmoid colon
+JO  - Colorectal Disease
+VL  - 12
+IS  - 11
+SN  - 9781405170253
+UR  - https://doi.org/10.1111/j.1463-1318.2009.02108.x
+DO  - doi:10.1111/j.1463-1318.2009.02108.x
+SP  - 1163
+EP  - 1164
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - Crosado, Brynley
+AU  - Löffler, Sabine
+AU  - Ondruschka, Benjamin
+AU  - Zhang, Ming
+AU  - Zwirner, Johann
+AU  - Hammer, Niels
+TI  - Phenoxyethanol-Based Embalming for Anatomy Teaching: An 18 Years' Experience with Crosado Embalming at the University of Otago in New Zealand
+JO  - Anatomical Sciences Education
+JA  - Anat Sci Educ
+VL  - n/a
+IS  - n/a
+SN  - 9781405170253
+UR  - https://doi.org/10.1002/ase.1933
+DO  - doi:10.1002/ase.1933
+KW  - cadaver embalming
+KW  - cadaver fixation
+KW  - dissection room teaching
+KW  - formaldehyde reduction
+KW  - gross anatomy education
+KW  - laboratory teaching
+KW  - learning outcomes
+KW  - phenol replacement
+KW  - phenoxyethanol
+AB  - Embalming fixatives such as formaldehyde and phenol have been associated with occupational health hazards. While anatomists aim at replacing these chemicals, this seems presently unfeasible in particular for formaldehyde. Furthermore, fixation protocols usually require well-equipped facilities with highly experienced staff to achieve good fixation results in spite of only a minimal use of formaldehyde. Combining these aspects, a technique robust enough to be carried out by morticians is presented, resulting in durable tissues with minimal formaldehyde use. An embalming protocol involving phenoxyethanol was established, using concentrations of 7 and 1.5 Vol% of phenoxyethanol in the fixative and the conservation fluid, respectively. Visual, haptic, histological, and biomechanical properties and their perceived potential to positively influence student learning outcomes were compared to standard embalming techniques. The phenoxyethanol technique provides esthetic, durable, and odorless tissues. Bleaching is less pronounced compared to ethanol- or formaldehyde-based protocols. The tissues remain pliable following the phenoxyethanol-based embalming and can be used for biomechanical experiments to some extent. Phenoxyethanol-fixed tissues are well suited for undergraduate teaching with perceived positive learning outcomes and partly for postgraduate training. Phenoxyethanol tissues provide the option to obtain well-preserved histology samples, similar to those derived from formaldehyde. The provided protocol helps replace the use of phenol and formaldehyde for conservation purposes and minimizes the use of formaldehyde for the initial injection fixation. Phenoxyethanol-based embalming forms an effective alternative to standard embalming techniques for human cadavers. It is simple to use, allowing fixation procedures to be carried out in less sophisticated facilities with non-anatomy staff.
+ER  - 

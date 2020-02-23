@@ -1,0 +1,452 @@
+
+TY  - JOUR
+AU  - McGregor, Hanna C.
+AU  - Short, Michael A.
+AU  - McWilliams, Annette
+AU  - Shaipanich, Tawimas
+AU  - Ionescu, Diana N.
+AU  - Zhao, Jianhua
+AU  - Wang, Wenbo
+AU  - Chen, Guannan
+AU  - Lam, Stephen
+AU  - Zeng, Haishan
+TI  - Real-time endoscopic Raman spectroscopy for in vivo early lung cancer detection
+JO  - Journal of Biophotonics
+JA  - J. Biophoton
+VL  - 10
+IS  - 1
+SN  - 1864-063X
+UR  - https://doi.org/10.1002/jbio.201500204
+DO  - doi:10.1002/jbio.201500204
+SP  - 98
+EP  - 110
+KW  - in vivo tissue Raman spectroscopy
+KW  - endoscopy
+KW  - lung cancer
+KW  - early cancer detection
+KW  - spectral diagnosis 
+PY  - 2017
+AB  - Currently the most sensitive method for localizing lung cancers in central airways is autofluorescence bronchoscopy (AFB) in combination with white light bronchoscopy (WLB). The diagnostic accuracy of WLB + AFB for high grade dysplasia (HGD) and carcinoma in situ is variable depending on physician's experience. When WLB + AFB are operated at high diagnostic sensitivity, the associated diagnostic specificity is low. Raman spectroscopy probes molecular vibrations and gives highly specific, fingerprint-like spectral features and has high accuracy for tissue pathology classification. In this study we present the use of a real-time endoscopy Raman spectroscopy system to improve the specificity. A spectrum is acquired within 1 second and clinical data are obtained from 280 tissue sites (72 HGDs/malignant lesions, 208 benign lesions/normal sites) in 80 patients. Using multivariate analyses and waveband selection methods on the Raman spectra, we have demonstrated that HGD and malignant lung lesions can be detected with high sensitivity (90%) and good specificity (65%).
+ER  - 
+
+TY  - JOUR
+AU  - Kim, Jang Hun
+AU  - Roh, Haewon
+AU  - Yoon, Won-Ki
+AU  - Kwon, Taek-Hyun
+AU  - Chong, Kyuha
+AU  - Hwang, Soon-Young
+AU  - Kim, Jong Hyun
+TI  - Clinical Features of Patients With Spontaneous Intracranial Hypotension Complicated With Bilateral Subdural Fluid Collections
+JO  - Headache: The Journal of Head and Face Pain
+JA  - Headache: The Journal of Head and Face Pain
+VL  - 59
+IS  - 5
+SN  - 0017-8748
+UR  - https://doi.org/10.1111/head.13525
+DO  - doi:10.1111/head.13525
+SP  - 775
+EP  - 786
+KW  - bilateral chronic subdural hematomas
+KW  - bilateral subdural hygromas
+KW  - chronic subdural hematoma
+KW  - spontaneous intracranial hypotension
+PY  - 2019
+AB  - Background Subdural hygromas are often found bilaterally in spontaneous intracranial hypotension (SIH). They frequently progress to chronic subdural hematomas (CSDHs), and if the hematomas are formed, it is difficult to consider SIH as an underlying cause. Whether SIH is underlying or not among the patients presenting bilateral subdural fluid collections (hygromas or CSDHs) is clinically important because the treatment strategy should be different between them. Objectives We designed a retrospective case-control study to figure out differential clinical features of the patients presenting bilateral symptomatic subdural fluid collections owing to SIH. Methods Sixty-two patients with bilateral symptomatic subdural fluid collections were enrolled, and their data on general demographics, clinical courses, radiological findings, treatments, and outcomes were collected. The patients were divided into ?SIH? and ?Non-SIH? groups, and a simple logistic regression analysis was performed to clarify the differences between the groups. The consequent receiver operating characteristics (ROC) curve analyses were performed with the significant predictors. Results Eight patients (13%) were diagnosed with SIH. Young age (odds ratio [OR] = 0.831, 95% confidence interval [CI]: 0.743-0.929, P = .0012), no underlying disease (OR = 0.062, 95% CI: 0.007-0.544, P = .0121), radiological features of brain sagging (OR = 10.36, 95% CI: 0.912-93.411, P = .0017), pseudo-subarachnoid hemorrhage (OR = 15.6, 95% CI: 2.088-116.52, P = .0074), and small amount of fluid collections (OR = 0.719, 95% CI: 0.579-0.893, P = .0029) were significantly associated with SIH group. ROC curve analyses were performed in parameters of age and amount of fluid collection and the cut-off values for each parameter were ≤55 years old and ≤22.08 mm, respectively. Patients diagnosed with SIH underwent epidural blood patches and showed good results, except 1 patient who underwent burr-hole trephinations. Conclusion Bilateral subdural fluid collections due to underlying SIH is associated with young age (≤55 years old), no underlying diseases, smaller amount of fluid collections (≤22.08 mm of depth), and radiological findings of brain sagging or pseudo-subarachnoid hemorrhages.
+ER  - 
+
+TY  - JOUR
+AU  - Kijowski, Richard
+AU  - Liu, Fang
+AU  - Caliva, Francesco
+AU  - Pedoia, Valentina
+TI  - Deep learning for lesion detection, progression, and prediction of musculoskeletal disease
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J Magn Reson Imaging
+VL  - n/a
+IS  - n/a
+SN  - 1053-1807
+UR  - https://doi.org/10.1002/jmri.27001
+DO  - doi:10.1002/jmri.27001
+KW  - deep leaning
+KW  - musculoskeletal
+KW  - imaging
+KW  - review
+AB  - Deep learning is one of the most exciting new areas in medical imaging. This review article provides a summary of the current clinical applications of deep learning for lesion detection, progression, and prediction of musculoskeletal disease on radiographs, computed tomography (CT), magnetic resonance imaging (MRI), and nuclear medicine. Deep-learning methods have shown success for estimating pediatric bone age, detecting fractures, and assessing the severity of osteoarthritis on radiographs. In particular, the high diagnostic performance of deep-learning approaches for estimating pediatric bone age and detecting fractures suggests that the new technology may soon become available for use in clinical practice. Recent studies have also documented the feasibility of using deep-learning methods for identifying a wide variety of pathologic abnormalities on CT and MRI including internal derangement, metastatic disease, infection, fractures, and joint degeneration. However, the detection of musculoskeletal disease on CT and especially MRI is challenging, as it often requires analyzing complex abnormalities on multiple slices of image datasets with different tissue contrasts. Thus, additional technical development is needed to create deep-learning methods for reliable and repeatable interpretation of musculoskeletal CT and MRI examinations. Furthermore, the diagnostic performance of all deep-learning methods for detecting and characterizing musculoskeletal disease must be evaluated in prospective studies using large image datasets acquired at different institutions with different imaging parameters and different imaging hardware before they can be implemented in clinical practice. Level of Evidence: 5 Technical Efficacy Stage: 2 J. Magn. Reson. Imaging 2019.
+ER  - 
+
+TY  - JOUR
+AU  - Weiner, Michael W.
+AU  - Veitch, Dallas P.
+AU  - Aisen, Paul S.
+AU  - Beckett, Laurel A.
+AU  - Cairns, Nigel J.
+AU  - Green, Robert C.
+AU  - Harvey, Danielle
+AU  - Jack Jr., Clifford R.
+AU  - Jagust, William
+AU  - Morris, John C.
+AU  - Petersen, Ronald C.
+AU  - Saykin, Andrew J.
+AU  - Shaw, Leslie M.
+AU  - Toga, Arthur W.
+AU  - Trojanowski, John Q.
+AU  - Alzheimer's Disease Neuroimaging Initiative
+TI  - Recent publications from the Alzheimer's Disease Neuroimaging Initiative: Reviewing progress toward improved AD clinical trials
+JO  - Alzheimer's & Dementia
+JA  - Alzheimer's & Dementia
+VL  - 13
+IS  - 4
+SN  - 1552-5260
+UR  - https://doi.org/10.1016/j.jalz.2016.11.007
+DO  - doi:10.1016/j.jalz.2016.11.007
+SP  - e1
+EP  - e85
+KW  - Alzheimer's disease
+KW  - Mild cognitive impairment
+KW  - Amyloid
+KW  - Tau
+KW  - Biomarker
+KW  - Disease progression
+PY  - 2017
+AB  - Introduction The Alzheimer's Disease Neuroimaging Initiative (ADNI) has continued development and standardization of methodologies for biomarkers and has provided an increased depth and breadth of data available to qualified researchers. This review summarizes the over 400 publications using ADNI data during 2014 and 2015. Methods We used standard searches to find publications using ADNI data. Results (1) Structural and functional changes, including subtle changes to hippocampal shape and texture, atrophy in areas outside of hippocampus, and disruption to functional networks, are detectable in presymptomatic subjects before hippocampal atrophy; (2) In subjects with abnormal ?-amyloid deposition (A?+), biomarkers become abnormal in the order predicted by the amyloid cascade hypothesis; (3) Cognitive decline is more closely linked to tau than A? deposition; (4) Cerebrovascular risk factors may interact with A? to increase white-matter (WM) abnormalities which may accelerate Alzheimer's disease (AD) progression in conjunction with tau abnormalities; (5) Different patterns of atrophy are associated with impairment of memory and executive function and may underlie psychiatric symptoms; (6) Structural, functional, and metabolic network connectivities are disrupted as AD progresses. Models of prion-like spreading of A? pathology along WM tracts predict known patterns of cortical A? deposition and declines in glucose metabolism; (7) New AD risk and protective gene loci have been identified using biologically informed approaches; (8) Cognitively normal and mild cognitive impairment (MCI) subjects are heterogeneous and include groups typified not only by ?classic? AD pathology but also by normal biomarkers, accelerated decline, and suspected non-Alzheimer's pathology; (9) Selection of subjects at risk of imminent decline on the basis of one or more pathologies improves the power of clinical trials; (10) Sensitivity of cognitive outcome measures to early changes in cognition has been improved and surrogate outcome measures using longitudinal structural magnetic resonance imaging may further reduce clinical trial cost and duration; (11) Advances in machine learning techniques such as neural networks have improved diagnostic and prognostic accuracy especially in challenges involving MCI subjects; and (12) Network connectivity measures and genetic variants show promise in multimodal classification and some classifiers using single modalities are rivaling multimodal classifiers. Discussion Taken together, these studies fundamentally deepen our understanding of AD progression and its underlying genetic basis, which in turn informs and improves clinical trial design.
+ER  - 
+
+TY  - JOUR
+AU  - ADAIR, BROOKE
+AU  - SAID, CATHERINE M
+AU  - RODDA, JILLIAN
+AU  - MORRIS, MEG E
+TI  - Psychometric properties of functional mobility tools in hereditary spastic paraplegia and other childhood neurological conditions
+JO  - Developmental Medicine & Child Neurology
+VL  - 54
+IS  - 7
+SN  - 0012-1622
+UR  - https://doi.org/10.1111/j.1469-8749.2012.04284.x
+DO  - doi:10.1111/j.1469-8749.2012.04284.x
+SP  - 596
+EP  - 605
+PY  - 2012
+AB  - Aim? To evaluate studies on the psychometric properties of measurement tools used to quantify functional mobility in children with hereditary spastic paraplegia (HSP) and other childhood neurological conditions. Method? Two independent reviewers identified measures previously used by clinicians to quantify functional mobility. Because our primary interest was HSP, the first search identified measurement tools in studies that included those with HSP. To enhance the generalizability, the second search examined the reliability, validity, and responsiveness of tools in children with a range of neurological conditions such as cerebral palsy, spinal muscular atrophy, Down syndrome, and traumatic brain injury. The Consensus-based Standards for the Selection of Health Measurement Instruments was used to rate the methodological quality of identified articles. Results? The Gillette Functional Assessment Questionnaire (FAQ), the Functional Mobility Scale (FMS), the Gross Motor Function Measure (GMFM), the Rivermead Motor Assessment, and the Walking Index for Spinal Cord Injury II were identified for quantifying functional mobility. The FMS and GMFM were reliable, valid, and responsive to changes across a range of childhood neurological conditions. The FAQ was reliable and valid for measuring functional mobility in similar populations. Interpretation? The FAQ, FMS, and GMFM are valid, reliable, and responsive measures in children with a range of neurological conditions.
+ER  - 
+
+TY  - JOUR
+AU  - Philips, Cyriac Abby
+AU  - Paramaguru, Rajaguru
+AU  - Augustine, Philip
+AU  - Rajesh, Sasidharan
+AU  - Ahamed, Rizwan
+AU  - George, Tom
+AU  - Padsalgi, Guruprasad
+TI  - A Single-Center Experience on Outcomes of Complementary and Alternative Medicine Use Among Patients With Cirrhosis
+JO  - Hepatology Communications
+JA  - Hepatol Commun
+VL  - 3
+IS  - 7
+SN  - 2471-254X
+UR  - https://doi.org/10.1002/hep4.1355
+DO  - doi:10.1002/hep4.1355
+SP  - 1001
+EP  - 1012
+PY  - 2019
+AB  - Drug-induced liver injury (DILI) due to complementary and alternative medicine (CAM) use is on the rise throughout the world by patients looking for ?safer? alternatives. However, data on acute-on-chronic liver failure (ACLF) due to CAM are lacking. In a large cohort of patients with cirrhosis, we retrospectively studied CAM-related health-seeking behavior and attempted to identify those who developed possible CAM-DILI-related ACLF. In this study, we examine the clinical, biochemical, and liver histopathologic characteristics of possible CAM-DILI-related ACLF, describe implicated CAM agents, and discuss predictors of patient outcomes. Out of 1,666 patients with cirrhosis, 68% used CAM at some point. A total of 35.7% (n = 30/84) patients presented with CAM-related DILI leading to ACLF in the whole CAM-DILI-related decompensation cohort. The most common CAM was unlabeled polyherbal Ayurvedic formulations. Of possible patients with ACLF, 63% self-medicated with CAM based on social media sharing. Mean age ± SD was 51.9 ± 9.9 years, 83% were male patients, median follow-up duration was 173 (range, 14-584) days, median Child-Turcotte-Pugh score was 13 (range, 10-14), Model for End-Stage Liver Disease-sodium score was 30.1 ± 4.8, median chronic liver failure-organ failure (CLIF-C-OF) score was 11 (range, 8-14), and median CLIF-C-ACLF score was 98 (range, 87-127). Portal-based neutrophilic predominant mixed inflammation, hepatocyte ballooning, autoimmune-like features, and severe cholestasis were seen on liver biopsy. Overall, 53% of patients died (median survival 194 days). Baseline overt hepatic encephalopathy and CLIF-C-OF score, total bilirubin, hyponatremia and leukocytosis, and grade of ACLF predicted 1-, 3-, 6- and 12-month mortality, respectively. Conclusion: Possible CAM-DILI-related ACLF has a high mortality. Strict monitoring and identification of CAM use among people with cirrhosis and an integrative public health educational practice can help ameliorate this modifiable risk factor that potentiates heavy liver disease burden and resource use.
+ER  - 
+
+TY  - JOUR
+AU  - Burdett, Howard
+AU  - Fear, Nicola T.
+AU  - Jones, Norman
+AU  - Greenberg, Neil
+AU  - Wessely, Simon
+AU  - Rona, Roberto J.
+C8  - IJMPR-Feb-2015-0012.R2
+TI  - Use of a two-phase process to identify possible cases of mental ill health in the UK military
+JO  - International Journal of Methods in Psychiatric Research
+JA  - Int. J. Methods Psychiatr. Res.
+VL  - 25
+IS  - 3
+SN  - 1049-8931
+UR  - https://doi.org/10.1002/mpr.1501
+DO  - doi:10.1002/mpr.1501
+SP  - 168
+EP  - 177
+KW  - mental ill health screening
+KW  - military
+KW  - PTSD
+KW  - alcohol
+PY  - 2016
+AB  - Abstract Two-phase mental health screening methods, in which an abridged mental health measure is used to establish who should receive a more comprehensive assessment, may be more efficient and acceptable to respondents than a stand-alone complete questionnaire. Such two-phase methods are in use in US armed forces post-deployment mental health screening. This study assesses the sensitivity and specificity of abridged instruments (used in the first phase) compared to the full instruments (the second phase), and whether false negative cases resulting from the use of abridged tests were detected by another test, among a UK military screening sample. Data from a group of UK Armed Forces personnel (n?=?1464) who had completed full questionnaires assessing symptoms of post-traumatic stress disorder (PTSD) (PTSD Checklist ? Civilian Version, PCL-C) and alcohol misuse (Alcohol Use Disorder Identification Test, AUDIT) were used. An abridged version of the PCL-C performed well in discriminating potential PTSD cases (as measured by the full instrument); AUDIT showed less discriminatory power, particularly due to poor specificity. Many cases missed by one abridged test would have been detected by an alternative test. Thus two-phase screening designs reduce the resource burden of a project without substantial loss of sensitivity for PTSD, but are less effective in discriminating potential cases of alcohol misuse. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Joseph, Joshua J.
+AU  - Golden, Sherita H.
+TI  - Cortisol dysregulation: the bidirectional link between stress, depression, and type 2 diabetes mellitus
+JO  - Annals of the New York Academy of Sciences
+JA  - Ann. N.Y. Acad. Sci.
+VL  - 1391
+IS  - 1
+SN  - 0077-8923
+UR  - https://doi.org/10.1111/nyas.13217
+DO  - doi:10.1111/nyas.13217
+SP  - 20
+EP  - 34
+KW  - cortisol
+KW  - stress
+KW  - depression
+KW  - diabetes
+KW  - hypothalamic–pituitary–adrenal axis
+PY  - 2017
+AB  - Controversy exists over the role of stress and depression in the pathophysiology of type 2 diabetes mellitus. Depression has been shown to increase the risk for progressive insulin resistance and incident type 2 diabetes mellitus in multiple studies, whereas the association of stress with diabetes is less clear, owing to differences in study designs and in forms and ascertainment of stress. The biological systems involved in adaptation that mediate the link between stress and physiological functions include the hypothalamic?pituitary?adrenal (HPA) axis and the autonomic nervous and immune systems. The HPA axis is a tightly regulated system that represents one of the body's mechanisms for responding to acute and chronic stress. Depression is associated with cross-sectional and longitudinal alterations in the diurnal cortisol curve, including a blunted cortisol awakening response and flattening of the diurnal cortisol curve. Flattening of the diurnal cortisol curve is also associated with insulin resistance and type 2 diabetes mellitus. In this article, we review and summarize the evidence supporting HPA axis dysregulation as an important biological link between stress, depression, and type 2 diabetes mellitus.
+ER  - 
+
+TY  - JOUR
+TI  - Oral Presentations
+JO  - Mycoses
+JA  - Mycoses
+VL  - 60
+IS  - S1
+SN  - 0933-7407
+UR  - https://doi.org/10.1111/myc.12658
+DO  - doi:10.1111/myc.12658
+SP  - 3
+EP  - 21
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+TI  - ASBMR 30th Annual Meeting SU001–SU504
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 23
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.5650231305
+DO  - doi:10.1002/jbmr.5650231305
+SP  - S243
+EP  - S373
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+TI  - Posters Abstracts
+JO  - Research and Practice in Thrombosis and Haemostasis
+JA  - Res Pract Thromb Haemost
+VL  - 3
+IS  - S1
+SN  - 2475-0328
+UR  - https://doi.org/10.1002/rth2.12229
+DO  - doi:10.1002/rth2.12229
+SP  - 1
+EP  - 891
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+AU  - Tolchard, Stephen
+AU  - Angell, Johanna
+AU  - Pyke, Mark
+AU  - Lewis, Simon
+AU  - Dodds, Nicholas
+AU  - Darweish, Alia
+AU  - White, Paul
+AU  - Gillatt, David
+TI  - Cardiopulmonary reserve as determined by cardiopulmonary exercise testing correlates with length of stay and predicts complications after radical cystectomy
+JO  - BJU International
+JA  - BJU Int
+VL  - 115
+IS  - 4
+SN  - 1464-4096
+UR  - https://doi.org/10.1111/bju.12895
+DO  - doi:10.1111/bju.12895
+SP  - 554
+EP  - 561
+KW  - cardiopulmonary exercise testing
+KW  - radical cystectomy
+KW  - postoperative complications
+KW  - anaerobic threshold
+PY  - 2015
+AB  - ObjectiveTo investigate whether poor preoperative cardiopulmonary reserve and comorbid state dictate high-risk status and can predict complications in patients undergoing radical cystectomy (RC). Patients and Methods In all, 105 consecutive patients with transitional cell carcinoma (TCC; stage T1?T3) undergoing robot-assisted (38 patients) or open (67) RC in a single UK centre underwent preoperative cardiopulmonary exercise testing (CPET). Prospective primary outcome variables were all-cause complications and postoperative length of stay (LOS). Binary logistic regression analysis identified potential predictive factor(s) and the predictive accuracy of CPET for all-cause complications was examined using receiver operator characteristic (ROC) curve analysis. Correlations analysis employed Spearman's rank correlation and group comparison, the Mann?Whitney U-test and Fisher's exact test. Any relationships were confirmed using the Mantel?Haenszel common odds ratio estimate, Kaplan?Meier analysis and the chi-squared test. Results The anaerobic threshold (AT) was negatively (r = ?206, P = 0.035), and the ventilatory equivalent for carbon dioxide (VE/VCO2) positively (r = 0.324, P = 0.001) correlated with complications and LOS. Logistic regression analysis identified low AT (<11?mL/kg/min), high VE/VC02 (≥33) and hypertension as significant factors, such that, in their presence patients were 5.55-times more likely to have complications at 90 days postoperatively [P = 0.001, 95% confidence interval (CI) 2.2?13.9]. ROC analysis showed a high significance (area under the curve 0.78, 95% CI 0.69?0.87; P < 0.001). In addition, based on CPET criteria >50% of patients presenting for RC had significant heart failure, whereas preoperatively only very few (2%) had this diagnosis. Analysis using the Mann?Whitney test showed that a VE/VCO2 ≥33 was the most significant determinant of LOS (P = 0.004). Kaplan?Meier analysis showed that patients in this group had an additional median LOS of 4 days (P = 0.008). Finally, patients with an American Society of Anesthesiologists grade of 3 (ASA 3) and those on long-term ?-blocker therapy were found to be at particular risk of myocardial infarction (MI) and death after RC with odds ratios of 4.0 (95% CI 1.05?15.2; P = 0.042) and 6.3 (95% CI 1.60?24.8; P = 0.008). Conclusion Patients with poor cardiopulmonary reserve and hypertension are at higher risk of postoperative complications and have increased LOS after RC. Heart failure is known to be a significant determinant of perioperative death and is significantly under diagnosed in this patient group.
+ER  - 
+
+TY  - JOUR
+AU  - Braig, David
+AU  - Becherer, Caroline
+AU  - Bickert, Christiane
+AU  - Braig, Moritz
+AU  - Claus, Rainer
+AU  - Eisenhardt, Anja E.
+AU  - Heinz, Juergen
+AU  - Scholber, Jutta
+AU  - Herget, Georg W.
+AU  - Bronsert, Peter
+AU  - Fricke, Alba
+AU  - Follo, Marie
+AU  - Stark, G. Bjoern
+AU  - Bannasch, Holger
+AU  - Eisenhardt, Steffen U.
+TI  - Genotyping of circulating cell-free DNA enables noninvasive tumor detection in myxoid liposarcomas
+JO  - International Journal of Cancer
+JA  - Int. J. Cancer
+VL  - 145
+IS  - 4
+SN  - 0020-7136
+UR  - https://doi.org/10.1002/ijc.32216
+DO  - doi:10.1002/ijc.32216
+SP  - 1148
+EP  - 1161
+KW  - soft tissue sarcoma
+KW  - myxoid liposarcoma
+KW  - free circulating DNA, cfDNA
+KW  - circulating tumor DNA, ctDNA
+KW  - liquid biopsy
+KW  - diagnostic biomarker
+PY  - 2019
+AB  - Soft tissue sarcomas (STS) are rare tumors of mesenchymal origin. About 50% of patients with STS experience relapse and more than 30% will die within 10 years after diagnosis. In this study we investigated circulating free DNA (cfDNA) and tumor-specific genetic alterations therein (circulating tumor DNA, ctDNA) as diagnostic biomarkers. Plasma concentrations and fragmentation of cfDNA was analyzed with quantitative PCR. Patients with STS (n?=?64) had significantly higher plasma concentrations and increased fragmentation of cfDNA when compared to patients in complete remission (n?=?19) and healthy controls (n?=?41) (p < 0.01 and p < 0.001). Due to overlapping values between patients with STS and controls, the sensitivity and specificity of these assays is limited. Sensitive assays to detect genomic alterations in cfDNA of synovial sarcomas (t(X;18)), myxoid liposarcomas (t(12;16) and TERT C228T promoter mutation) and well-differentiated/de-differentiated liposarcomas (MDM2 amplifications) were established. ctDNA was quantified in nine liposarcoma patients during the course of their treatment. Levels of breakpoint t(12;16) and TERT C228T ctDNA correlated with the clinical course and tumor burden in patients with myxoid liposarcomas (n?= 4). ctDNA could detect minimal residual disease and tumor recurrence. In contrast, detection of MDM2 amplifications was not sensitive enough to detect tumors in patients with well-differentiated/de-differentiated liposarcomas (n?= 5). Genotyping of cfDNA for tumor specific genetic alterations is a feasible and promising approach for monitoring tumor activity in patients with myxoid liposarcomas. Detection of ctDNA during follow-up examinations despite negative standard imaging studies might warrant more sensitive imaging (e.g. PET-CT) or closer follow-up intervals to timely localize and treat recurrences.
+ER  - 
+
+TY  - JOUR
+AU  - Addo, Richard T.
+AU  - Yeboah, Kwame G.
+AU  - Siwale, Rodney C.
+AU  - Siddig, Aladin
+AU  - Jones, Alphia
+AU  - Ubale, Ruhi V.
+AU  - Akande, Janet
+AU  - Nettey, Henry
+AU  - Patel, Neil J.
+AU  - Addo, Evelyn
+AU  - D'Souza, Martin J.
+TI  - Formulation and Characterization of Atropine Sulfate in Albumin–Chitosan Microparticles for In Vivo Ocular Drug Delivery
+JO  - Journal of Pharmaceutical Sciences
+JA  - J. Pharm. Sci.
+VL  - 104
+IS  - 5
+SN  - 0022-3549
+UR  - https://doi.org/10.1002/jps.24380
+DO  - doi:10.1002/jps.24380
+SP  - 1677
+EP  - 1690
+KW  - microparticles
+KW  - micropheres
+KW  - nanoparticles
+KW  - ocular delivery
+KW  - albumin
+KW  - chitosan
+KW  - atropine
+KW  - mydriasis
+PY  - 2015
+AB  - The overall study goal was to produce a microparticle formulation containing atropine sulfate for ocular administration with improved efficacy and lower side effects, compared with that of the standard marketed atropine solution. The objective was to prepare an atropine sulfate-loaded bovine serum albumin?chitosan microparticle that would have longer contact time on the eyes as well as better mydriatic and cycloplegic effect using a rabbit model. The microparticle formulation was prepared by method of spray-drying technique. The percent drug loading and encapsulation efficiency were assessed using a USP (I) dissolution apparatus. The particle sizes and zeta potential were determined using laser scattering technique and the surface morphology of the microparticles was determined using a scanning electron microscope. The product yield was calculated from relative amount of material used. In vitro cytotoxicity and uptake by human corneal epithelial cells were examined using AlamarBlue and confocal microscopy. The effects of the microparticle formulation on mydriasis in comparison with the marketed atropine sulfate solution were evaluated in rabbit eyes. The prepared microparticle formulation had ideal physicochemical characteristics for delivery into the eyes. The in vivo studies showed that the microparticles had superior effects on mydriasis in rabbits than the marketed solutions ? 2015 Wiley Periodicals, Inc. and the American Pharmacists Association J Pharm Sci 104:1677?1690, 2015
+ER  - 
+
+TY  - JOUR
+TI  - ASBMR 2010 Annual Meeting 1001–1264
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 25
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.5650251301
+DO  - doi:10.1002/jbmr.5650251301
+SP  - S1
+EP  - S81
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - Pogatzki, Esther M.
+AU  - Zahn, Peter K.
+AU  - Brennan, Timothy J.
+TI  - Basic Science (29)
+JO  - Pain Practice
+JA  - Pain Practice
+VL  - 1
+IS  - 1
+SN  - 1530-7085
+UR  - https://doi.org/10.1111/j.1533-2500.2001.1011-29.x
+DO  - doi:10.1111/j.1533-2500.2001.1011-29.x
+SP  - 94
+EP  - 94
+PY  - 2001
+AB  - Effect of pretreatment with intrathecal excitatory amino acid receptor antagonists on the development of pain behavior caused by plantar incision. (University of Iowa, Iowa City, Iowa) Anesthesiology 2000;93:489?496. This study examined the role of N-methyl-D-aspartate (NMDA), non-NMDA, and metabotropic glutamate receptors (MGluRs) on the development of pain behavior after plantar incision. Rats with lumbar intrathecal catheters were anesthetized with halothane. Fifteen minutes before an incision was made, drug [40 nmol MK-801; 20 nmol NBQX; or 200 nmol [(+)-MCPG] or vehicle was injected intrathecally followed by an infusion of the same drug for 75 min. Withdrawal thresholds to calibrated von Frey filaments applied adjacent to the wound and response frequencies to a blunt mechanical stimulus applied directly to the wound were measured before incision and 1, 2, 4, and 6 h after incision and then once daily for 6 days. Preincision treatments with antagonists against the NMDA (MK-801) and Group I and II metabotropic receptors [(+)-MCPG] did not inhibit the development of mechanical hyperalgesia caused by incision. Preincision treatment with the non-NMDA receptor antagonist NBQX increased withdrawal thresholds at 1 and 2 h and on postoperative day 1 compared with the vehicle group; response frequencies were reduced 1 and 2 h after incision and on postoperative day 2 (P < 0.05). In an additional group, postincision treatment with NBQX was similar to preincision treatment. Conclude spinal NMDA and MGluR antagonists may not be useful for preventing postsurgical pain. Spinal non-NMDA receptor antagonists reduced pain behaviors, but a preventive effect using preincision treatment was not apparent. Comment by James E. Heavner, DVM, PhD. The incisional model using rats was developed by Dr. Brennan and colleagues for the study of acute surgical pain. In a previous study, they showed that blockade of non-NMDA excitatory amino acid receptors, but not blockade of NMDA receptors nor mGluR receptors reduces postincisional pain if administered after the incision is made. This study shows the same is true if the receptor antagonists are administered before the incision is made. However, the effect is not particularly marked and; therefore, pursuit of non-MNDA excitatory amino transmitter receptor blockers for the prevention of postincisional pain would not likely be fruitful. The results of the study do require us to rethink how postincisional pain differs from other experimental pains and the phenomena of ?wind-up? attributed to activation of the NMDA receptor. Worth keeping in mind is that incisional pain does not equal surgical pain, which may involve traumatic injury to nerves and produce a neuropath pain, which strongly indicates involvement of NMDA receptors.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts and Index of Authors
+JO  - Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy
+VL  - 17
+IS  - 5
+SN  - 0277-0008
+UR  - https://doi.org/10.1002/j.1875-9114.1997.tb03809.x
+DO  - doi:10.1002/j.1875-9114.1997.tb03809.x
+SP  - 1079
+EP  - 1133
+PY  - 1997
+ER  - 
+
+TY  - JOUR
+AU  - Facal, David
+AU  - Valladares-Rodriguez, Sonia
+AU  - Lojo-Seoane, Cristina
+AU  - Pereiro, Arturo X.
+AU  - Anido-Rifon, Luis
+AU  - Juncos-Rabadán, Onésimo
+C8  - GPS-18-0381.R1
+TI  - Machine learning approaches to studying the role of cognitive reserve in conversion from mild cognitive impairment to dementia
+JO  - International Journal of Geriatric Psychiatry
+JA  - Int J Geriatr Psychiatry
+VL  - 34
+IS  - 7
+SN  - 0885-6230
+UR  - https://doi.org/10.1002/gps.5090
+DO  - doi:10.1002/gps.5090
+SP  - 941
+EP  - 949
+KW  - cognitive reserve
+KW  - dementia
+KW  - diagnostic transitions
+KW  - educational level
+KW  - gradient boosting classifier
+KW  - machine learning
+KW  - mild cognitive impairment
+KW  - random forest classifier
+KW  - supervised learning
+KW  - vocabulary
+PY  - 2019
+AB  - Objectives The overall aim of the present study was to explore the role of cognitive reserve (CR) in the conversion from mild cognitive impairment (MCI) to dementia. We used traditional and machine learning (ML) techniques to compare converter and nonconverter participants. We also discuss the predictive value of CR proxies in relation to the ML model performance. Methods In total, 169 participants completed the longitudinal study. Participants were divided into a control group and three MCI subgroups, according to the Petersen criteria for diagnosis. Information about the participants was compared using nine ML classification techniques. Seven relevant performance metrics were computed in order to evaluate the accuracy of prediction regarding converter and nonconverter participants. Results ML algorithms applied to socio-demographic, basic health, and CR proxy data enabled prediction of conversion to dementia. The best performing models were the gradient boosting classifier (accuracy (ACC) = 0.93; F1 = 0.86, and Cohen ? = 0.82) and random forest classifier (ACC = 0.92; F1 = 0.79, and Cohen ? = 0.71). Use of ML techniques corroborated the protective role of CR as a mediator of conversion to dementia, whereby participants with more years of education and higher vocabulary scores survived longer without developing dementia. Conclusions We used ML approaches to explore the role of CR in conversion from MCI to dementia. The findings indicate the potential value of ML algorithms for detecting risk of conversion to dementia in cognitive aging and CR studies. Further research is required to develop an ML-based procedure that can be used to make robust predictions.
+ER  - 
+
+TY  - JOUR
+TI  - ASBMR 31st Annual Meeting FR0001–FR0464
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 24
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.5650241302
+DO  - doi:10.1002/jbmr.5650241302
+SP  - S94
+EP  - S149
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+AU  - DEVARAJAN, PRASAD
+TI  - Review: Neutrophil gelatinase-associated lipocalin: A troponin-like biomarker for human acute kidney injury
+JO  - Nephrology
+VL  - 15
+IS  - 4
+SN  - 1320-5358
+UR  - https://doi.org/10.1111/j.1440-1797.2010.01317.x
+DO  - doi:10.1111/j.1440-1797.2010.01317.x
+SP  - 419
+EP  - 428
+KW  - acute kidney injury
+KW  - acute renal failure
+KW  - biomarkers
+KW  - neutrophil gelatinase-associated lipocalin
+KW  - nephrotoxicity
+KW  - predictive medicine
+PY  - 2010
+AB  - ABSTRACT Acute kidney injury (AKI) is a common and serious condition, the diagnosis of which currently depends on functional markers such as serum creatinine measurements. Unfortunately, creatinine is a delayed and unreliable indicator of AKI. The lack of early biomarkers of structural kidney injury (akin to troponin in acute myocardial injury) has hampered our ability to translate promising experimental therapies to human AKI. Fortunately, understanding the early stress response of the kidney to acute injuries has revealed a number of potential biomarkers. The discovery, translation and validation of neutrophil gelatinase-associated lipocalin (NGAL), possibly the most promising novel AKI biomarker, is reviewed. NGAL is emerging as an excellent stand-alone troponin-like structural biomarker in the plasma and urine for the early diagnosis of AKI, and for the prediction of clinical outcomes such as dialysis requirement and mortality in several common clinical scenarios. The approach of using NGAL as a trigger to initiate and monitor therapies for AKI, and as a safety biomarker when using potentially nephrotoxic agents, is also promising. In addition, it is hoped that the use of sensitive and specific biomarkers such as NGAL as endpoints in clinical trials will result in a reduction in required sample sizes, and hence the cost incurred. Furthermore, predictive biomarkers like NGAL may play a critical role in expediting the drug development process. However, given the complexity of AKI, additional biomarkers (perhaps a panel of plasma and urinary biomarkers) may eventually need to be developed and validated for optimal progress to occur.
+ER  - 

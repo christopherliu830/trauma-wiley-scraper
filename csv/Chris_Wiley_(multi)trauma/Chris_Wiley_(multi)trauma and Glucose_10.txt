@@ -1,0 +1,498 @@
+
+TY  - JOUR
+AU  - Zhang, Fei
+AU  - Peng, Wuxun
+AU  - Zhang, Jian
+AU  - Dong, Wentao
+AU  - Yuan, Dajiang
+AU  - Zheng, Yinggang
+AU  - Wang, Zhenwen
+TI  - New strategy of bone marrow mesenchymal stem cells against oxidative stress injury via Nrf2 pathway: oxidative stress preconditioning
+JO  - Journal of Cellular Biochemistry
+JA  - J Cell Biochem
+VL  - 120
+IS  - 12
+SN  - 0730-2312
+UR  - https://doi.org/10.1002/jcb.29298
+DO  - doi:10.1002/jcb.29298
+SP  - 19902
+EP  - 19914
+KW  - bone marrow mesenchymal stem cells
+KW  - oxidative stress
+KW  - preconditioning
+KW  - reactive oxygen species
+PY  - 2019
+AB  - Abstract Clinically, bone marrow mesenchymal stem cells (BMSCs) have been used in treatment of many diseases, but the local oxidative stress (OS) of lesion severely limits the survival of BMSCs, which reduces the efficacy of BMSCs transplantation. Therefore, enhancing the anti-OS stress ability of BMSCs is a key breakthrough point. Preconditioning is a common protective mechanism for cells or body. Here, the aim of this study was to investigate the effects of OS preconditioning on the anti-OS ability of BMSCs and its mechanism. Fortunately, OS preconditioning can increase the expression of superoxide dismutase, catalase, NQO1, and heme oxygenase 1 through the nuclear factor erythroid 2-related factor 2 pathway, thereby decreased the intracellular reactive oxygen species (ROS) levels, relieved the damage of ROS to mitochondria, DNA and cell membrane, enhanced the anti-OS ability of BMSCs, and promoted the survival of BMSCs under OS.
+ER  - 
+
+TY  - JOUR
+AU  - Zagli, Giovanni
+AU  - Tarantini, Francesca
+AU  - Bonizzoli, Manuela
+AU  - Di Filippo, Alessandro
+AU  - Peris, Adriano
+AU  - De Gaudio, Angelo Raffaele
+AU  - Geppetti, Pierangelo
+TI  - Altered pharmacology in the intensive care unit patient
+JO  - Fundamental & Clinical Pharmacology
+VL  - 22
+IS  - 5
+SN  - 0767-3981
+UR  - https://doi.org/10.1111/j.1472-8206.2008.00623.x
+DO  - doi:10.1111/j.1472-8206.2008.00623.x
+SP  - 493
+EP  - 501
+KW  - intensive care unit
+KW  - pharmacokinetic
+KW  - pharmacology
+KW  - sepsis
+KW  - trauma
+PY  - 2008
+AB  - Abstract Critically ill patients, not infrequently present alterations of physiological parameters that determine the success/failure of therapeutic interventions as well as the final outcome. Sepsis and polytrauma are two of the most common and complex syndromes occurring in Intensive Care Unit (ICU) and affect drug absorption, disposition, metabolism and elimination. Pharmacological management of ICU patients requires consideration of the unique pharmacokinetics associated with these clinical conditions and the likely occurrence of drug interaction. Rational adjustment in drug choice and dosing contributes to the appropriateness of treatment of those patients.
+ER  - 
+
+TY  - JOUR
+AU  - de Laat, M.A.
+AU  - Pollitt, C.C.
+AU  - Sillence, M.N.
+TI  - Repeatability of an In-Feed Sugar Test in Ponies
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_17
+DO  - doi:10.1111/evj.12323_17
+SP  - 8
+EP  - 8
+PY  - 2014
+AB  - Reasons for performing study Insulin resistance (IR) can be difficult to diagnose from basal insulin and glucose concentrations, so a field-based oral sugar test (OST) is preferred. However, the repeatability of this test has not been reported. Objectives To determine the repeatability of an in-feed OST in ponies. Study design A repeated measures, longitudinal study. Methods Eight mixed-breed ponies received an in-feed OST at 08.00?h, after an overnight fast, once weekly for 3 weeks. D-glucose powder (0.75?g/kg bwt), wheat bran (200?g) and water (500?ml) were combined, and mixed with lucerne chaff (0.3% bwt). Blood samples were taken before, and 90 and 180?min after, feeding. All meals were consumed. Blood glucose concentration was determined immediately and serum was obtained for insulin determination by equine-specific ELISA. Fasting glucose, insulin and glucose:insulin ratios were used to classify ponies as IR, compensated IR or normal on each occasion and the results were compared to the OST. Results Diagnosis of IR from basal values was consistent in only 3/8 ponies, with a large mean coefficient of variation (CV) of 51% for baseline insulin, across tests. The OST results were repeatable in 7/8 ponies, with mean CV at 25% for the 90?min insulin sample (CV for 7 ponies: 19%). The OST was repeatable on 2/3 occasions in the eighth pony, however, resting hyperinsulinaemia meant that IR was diagnosed on 3/3 occasions using basal values in this pony. There was significant (P<0.05) variability in insulin concentration at 180?min, but not 90?min, across tests. Conclusions An OST is more repeatable when assessing IR in ponies than basal values/ratios. Both resting hyperinsulinaemia and insulin responses to oral sugar can be assessed with the OST, which increases the likelihood of accurately diagnosing IR. Blood sampling at 90?min post feeding is recommended for more consistent results. Ethical animal research:?The experimental protocol was approved by the Animal Ethics Committee of the University of Queensland (SVS/QUT/109/13/QUT). Sources of funding:?This study was funded by Queensland University of Technology. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Hesse, Eliane
+AU  - Freudenberg, Uwe
+AU  - Niemietz, Thomas
+AU  - Greth, Carina
+AU  - Weisser, Melanie
+AU  - Hagmann, Sébastien
+AU  - Binner, Marcus
+AU  - Werner, Carsten
+AU  - Richter, Wiltrud
+C8  - TERM-16-0355.R1
+TI  - Peptide-functionalized starPEG/heparin hydrogels direct mitogenicity, cell morphology and cartilage matrix distribution in vitro and in vivo
+JO  - Journal of Tissue Engineering and Regenerative Medicine
+JA  - J Tissue Eng Regen Med
+VL  - 12
+IS  - 1
+SN  - 1932-6254
+UR  - https://doi.org/10.1002/term.2404
+DO  - doi:10.1002/term.2404
+SP  - 229
+EP  - 239
+PY  - 2018
+AB  - Abstract Cell-based tissue engineering is a promising approach for treating cartilage lesions, but available strategies still provide a distinct composition of the extracellular matrix and an inferior mechanical property compared to native cartilage. To achieve fully functional tissue replacement more rationally designed biomaterials may be needed, introducing bioactive molecules which modulate cell behavior and guide tissue regeneration. This study aimed at exploring the impact of cell-instructive, adhesion-binding (GCWGGRGDSP called RGD) and collagen-binding (CKLER/CWYRGRL) peptides, incorporated in a tunable, matrixmetalloprotease (MMP)-responsive multi-arm poly(ethylene glycol) (starPEG)/heparin hydrogel on cartilage regeneration parameters in vitro and in vivo. MMP-responsive-starPEG-conjugates with cysteine termini and heparin-maleimide, optionally pre-functionalized with RGD, CKLER, CWYRGRL or control peptides, were cross-linked by Michael type addition to embed and grow mesenchymal stromal cells (MSC) or chondrocytes. While starPEG/heparin-hydrogel strongly supported chondrogenesis of MSC according to COL2A1, BGN and ACAN induction, MMP-degradability enhanced cell viability and proliferation. RGD-modification of the gels promoted cell spreading with intense cell network formation without negative effects on chondrogenesis. However, CKLER and CWYRGRL were unable to enhance the collagen content of constructs. RGD-modification allowed more even collagen type II distribution by chondrocytes throughout the MMP-responsive constructs, especially in vivo. Collectively, peptide-instruction via heparin-enriched MMP-degradable starPEG allowed adjustment of self-renewal, cell morphology and cartilage matrix distribution in order to guide MSC and chondrocyte-based cartilage regeneration towards an improved outcome. Copyright ? 2017 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Liu, Yujia
+AU  - Xiao, Xianchao
+AU  - Sun, Chenglin
+AU  - Tian, Suyan
+AU  - Sun, Zhonghua
+AU  - Gao, Ying
+AU  - Li, Yazhen
+AU  - Cheng, Jie
+AU  - Lv, You
+AU  - Li, Mei
+AU  - Li, Zhuo
+AU  - Zhang, Yumin
+AU  - Wang, Gang
+AU  - Liu, Yang
+AU  - Gao, Yuan
+AU  - Zhu, Liwen
+AU  - Liu, Yan
+AU  - Wang, Guixia
+TI  - Ideal glycated hemoglobin cut-off points for screening diabetes and prediabetes in a Chinese population
+JO  - Journal of Diabetes Investigation
+JA  - J Diabetes Investig
+VL  - 7
+IS  - 5
+SN  - 2040-1116
+UR  - https://doi.org/10.1111/jdi.12498
+DO  - doi:10.1111/jdi.12498
+SP  - 695
+EP  - 702
+KW  - Chinese adults
+KW  - Receiver operating characteristic curves
+KW  - Type 2 diabetes mellitus
+PY  - 2016
+AB  - Abstract Aims/Introduction The aims of the present study were to evaluate the diagnostic value of fasting plasma glucose, 2-h postload plasma glucose and glycosylated hemoglobin (HbA1c) measurements in the screening of diabetes and prediabetes, and to determine the cut-off point of HbA1c in the diagnosis of diabetes and prediabetes in a Chinese population. Materials and Methods A total of 7,611 individuals aged 40 years or older, who did not have a prior history of diabetes, were randomly selected in the Changchun area. For each participant, a questionnaire was completed, and a physical examination and an oral glucose tolerance test were carried out. The values of fasting plasma glucose, 2-h postload plasma glucose and HbA1c were compared by area under the receiver operating characteristic curves. The Youden index was used to identify the optimal cut-off point of HbA1c in the diagnosis of diabetes and prediabetes. Results The prevalence of newly diagnosed diabetes and prediabetes was 12.71% and 29.39%, respectively. In participants with newly diagnosed diabetes, the area under the receiver operating characteristic curve was 0.8368 for fasting plasma glucose, 0.9330 for 2-h postload plasma glucose and 0.8064 for HbA1c; whereas for prediabetes, these values were 0.8022, 0.9288 and 0.6895, respectively. In addition, an HbA1c threshold of 6.3% showed the highest Youden index (0.4799) for detecting diabetes; furthermore, an HbA1c threshold of 5.8% showed the highest Youden index (0.2866) for detecting prediabetes. Conclusions HbA1c ≥6.3% (45 mmol/mol) and between 5.8% and 6.2% (40?44 mmol/mol) were the optimal cut-off values for the diagnosis of diabetes and prediabetes, respectively, in a Chinese population.
+ER  - 
+
+AU  - Mair, Tim S.
+C7  - pp. 611-623
+TI  - Monitoring Treatment for Abdominal Disease
+SN  - 9781119063216
+UR  - https://doi.org/10.1002/9781119063254.ch47
+DO  - doi:10.1002/9781119063254.ch47
+SP  - 611-623
+KW  - abdominal disease
+KW  - pain assessment
+KW  - physical examination
+KW  - pulse rate
+KW  - respiratory rate
+KW  - temperature
+PY  - 2016
+AB  - Summary Monitoring the effectiveness of treatment is an essential part of the overall management of horses affected by a wide variety of abdominal conditions. Careful monitoring of gastrointestinal function is important so that the response to therapy can be assessed, and any derangements or deteriorations of gastrointestinal function can be identified and supportive therapy instituted rapidly. However, the critically ill patient may develop abnormalities and dysfunction of many organ systems in addition to the system affected by the primary disease. The result can be multi-organ dysfunction, and ultimately multi-organ failure, which is invariably fatal. It is important, therefore, that monitoring allows assessment of the function of all of the major organ systems, and not just gastrointestinal function. This monitoring includes repeated physical examinations and pain assessment, monitoring of temperature and pulse and respiratory rates, and collection of clinical pathological data. Accurate medical records are essential to monitor trends in an animal's response to treatment.
+ER  - 
+
+C7  - pp. 11-27
+TI  - Preoperative Planning
+SN  - 9780470959763
+UR  - https://doi.org/10.1002/9781119421337.ch2
+DO  - doi:10.1002/9781119421337.ch2
+SP  - 11-27
+KW  - anesthesia staff
+KW  - cytologic exam
+KW  - diagnostic tests
+KW  - fine needle aspirates
+KW  - laboratory tests
+KW  - pain medications
+KW  - perioperative antibiotics
+KW  - postoperative imaging
+KW  - preoperative sampling
+KW  - veterinary technicians
+PY  - 2016
+AB  - Summary Veterinary technicians play an important role in preoperative planning by performing tests and providing the veterinary surgeon and anesthesia staff with the results. They also follow the veterinarian's orders by calculating medication dosage, filling prescriptions, and administering medications. Preoperative tests include complete blood count (CBC), serum chemistry panel, and urinalysis. A database of a packed cell volume (PCV), total protein and blood urea nitrogen (BUN), and blood glucose via a glucometer provides the minimal information required prior to surgery. In addition to the common blood and urine tests, a variety of conditions benefit from preoperative sampling. These include fine needle aspirates (FNA) of joints, abdomen, pulmonary spaces, masses, cysts, and abscesses for cytologic exam. Preoperative, intraoperative and postoperative imaging - radiographs, computed tomography (CT), magnetic resonance imaging (MRI), contrast studies, and ultrasound - aid in diagnosis, surgical planning, and evaluation. Individual and combined modalities provide the surgeon and veterinary technician with specific information.
+ER  - 
+
+TY  - JOUR
+AU  - Santulli, Chiara
+AU  - Brizi, Claudia
+AU  - Micucci, Matteo
+AU  - Del Genio, Ambra
+AU  - De Cristofaro, Assunta
+AU  - Bracco, Federica
+AU  - Pepe, Giuseppina Lucia
+AU  - di Perna, Ilaria
+AU  - Budriesi, Roberta
+AU  - Chiarini, Alberto
+AU  - Frosini, Maria
+TI  - Castanea sativa Mill. Bark Extract Protects U-373 MG Cells and Rat Brain Slices Against Ischemia and Reperfusion Injury
+JO  - Journal of Cellular Biochemistry
+JA  - J. Cell. Biochem.
+VL  - 118
+IS  - 4
+SN  - 9780470959763
+UR  - https://doi.org/10.1002/jcb.25760
+DO  - doi:10.1002/jcb.25760
+SP  - 839
+EP  - 850
+KW  - CASTANEA SATIVA MILL
+KW  - NEUROPROTECTION
+KW  - BRAIN ISCHEMIA
+KW  - OXIDATIVE STRESS
+KW  - EXCITOTOXICITY
+KW  - HORMESIS
+KW  - NATURAL COMPOUNDS
+PY  - 2017
+AB  - ABSTRACT Ischemic brain injury is one of the most important causes of death worldwide. The use of one-drug-multi-target agents based on natural compounds is a promising therapeutic option for cerebral ischemia due to their pleiotropic properties. This study assessed the neuroprotective properties of Castanea sativa Mill. bark extract (ENC) in human astrocytoma U-373 MG cells subjected to oxygen-glucose deprivation and reperfusion and rat cortical slices subjected to ischemia-like conditions or treated with glutamate or hydrogen peroxide. Neuroprotective effects were determined by assessing cells or slices viability (MTT assay), ROS formation (DCFH-DA assay), apoptosis (sub G0/G1 peak), nuclear fragmentation and chromatin condensation (DAPI staining) as well as changes in lysosomes and mitochondria morphology (Acridine Orange and Rhodamine123 staining, respectively). ENC treatment before injury on U-373 MG cells (5?50??g/ml) and cortical slices (50?100??g/ml) provided neuroprotection, while lower or higher concentrations (100??g/ml U-373 MG cells, 200??g/ml brain slices) were ineffective. ENC addition during reperfusion or after the injury was not found to be effective. The results suggest that ENC might hold potential as preventive neuroprotective agent, and indicate the importance of further studies exploring its mechanism of action. J. Cell. Biochem. 118: 839?850, 2017. ? 2016 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Wang, XiaoNan
+AU  - Takata, Toshihiro
+AU  - Sakurai, Takashi
+AU  - Yokono, Koichi
+TI  - Different effects of monocarboxylates on neuronal survival and β-amyloid toxicity
+JO  - European Journal of Neuroscience
+VL  - 26
+IS  - 8
+SN  - 9780470959763
+UR  - https://doi.org/10.1111/j.1460-9568.2007.05853.x
+DO  - doi:10.1111/j.1460-9568.2007.05853.x
+SP  - 2142
+EP  - 2150
+KW  - aconitase
+KW  - Alzheimer's disease
+KW  - NAD+
+KW  - neuroprotection
+KW  - pyruvate 
+PY  - 2007
+AB  - Abstract Glucose is a principal metabolic fuel in the central nervous system, but, when glucose is unavailable, the brain can utilize alternative metabolic substrates such as monocarboxylates to sustain brain functions. This study examined whether the replacement of glucose with monocarboxylates (particularly pyruvate and lactate) had an equivalent effect of glucose on neuronal survival in rat hippocampal organotypic slice cultures, or ameliorate the neurotoxicity induced by amyloid ?-peptide (A?). The possible mechanism was also explored. We found that pyruvate and lactate alone increased cell death in the hippocampal slice cultures at 24 and 48?h. Supplementation of glucose-containing culture media and A?-treated culture media with pyruvate, but not lactate, attenuated cell death as strong as with trolox, known as a reactive oxygen species scavenger, and niacinamide, an NAD+ precursor, and this protective effect was reversed by α-cyano-4-hydroxycinnamic acid. Pyruvate significantly increased the aconitase activity and the NAD+ levels in the hippocampal slices in the presence of A?, but did not maintain the ATP levels. Our results indicate that pyruvate and lactate alone cannot replace glucose as an alternative energy source to preserve the neuronal viability in the hippocampal slice cultures. Pyruvate, in the presence of glucose, improves neuronal survival in the hippocampal slice cultures and also protects neurons against A?-induced cell death in which mitochondrial NAD(P) redox status may play a central role.
+ER  - 
+
+TY  - JOUR
+AU  - Kazerani, Hamid Reza
+AU  - Plevin, Robin
+AU  - Kawagoe, Junichi
+AU  - Kanke, Toru
+AU  - Furman, Brian L.
+TI  - Lack of effect of proteinase-activated receptor-2 (PAR-2) deletion on the pathophysiological changes produced by lipopolysaccharide in the mouse: comparison with dexamethasone
+JO  - Journal of Pharmacy and Pharmacology
+VL  - 56
+IS  - 8
+SN  - 9780470959763
+UR  - https://doi.org/10.1211/0022357043923
+DO  - doi:10.1211/0022357043923
+SP  - 1015
+EP  - 1020
+PY  - 2004
+AB  - Abstract This study tested the hypothesis that activation of proteinase-activated receptor-2 (PAR-2) contributes towards the pathophysiology of lipopolysaccharide (LPS)-induced shock in the mouse. The effects of LPS on plasma glucose, biochemical markers of hepatic, renal and pancreatic exocrine function and lung content of myeloperoxidase (MPO) were examined in homozygous PAR-2 knockout mice (PAR-2 -/-) and genetically equivalent, homozygous PAR-2 +/+ mice. The effect of LPS was also examined in normal mice receiving dexamethasone (10 mg kg?1, i.p.) or saline as a positive control. At six hours after intraperitoneal injection, LPS (40 mg kg?1) produced an increase in rectal temperature, hypoglycaemia and elevations in serum concentrations of alanine aminotransferase (ALT), creatinine and lipase, as well as an increase in lung MPO content. Dexamethasone treatment reduced LPS-induced hypoglycaemia and elevation of serum ALT concentrations but did not modify elevations in serum creatinine and lipase concentrations or the increase in lung MPO content. The changes in serum concentrations of glucose, ALT, creatinine and lipase produced by LPS in PAR-2 -/- mice were not different from those seen in wild-type or PAR-2 +/+ mice. These data suggest that activation of PAR-2 may not play a pivotal role in LPS-induced multi-organ dysfunction.
+ER  - 
+
+TY  - JOUR
+AU  - Li, Cheng Guo
+AU  - Ma, Yonghao
+AU  - Huh, Inyoung
+AU  - Lahiji, Shayan Fakhraei
+AU  - Lee, Sang-Guk
+AU  - Jung, Hyungil
+C7  - 1603228
+TI  - A Novel Ultrafine Needle (UN) for Innocuous and Efficient Subcutaneous Insulin Delivery
+JO  - Advanced Functional Materials
+JA  - Adv. Funct. Mater.
+VL  - 27
+IS  - 2
+SN  - 9780470959763
+UR  - https://doi.org/10.1002/adfm.201603228
+DO  - doi:10.1002/adfm.201603228
+SP  - 1603228
+KW  - droplet stretching
+KW  - minimally invasive
+KW  - subcutaneous insulin delivery
+KW  - ultrafine needles
+PY  - 2017
+AB  - Subcutaneous (SC) insulin injection has been demonstrated to be the most effective method for treatment of diabetes mellitus but is conventionally performed by hypodermic needles, leading to poor management of diabetes because of the pain, needle phobia, and tissue trauma. Identification of a viable, safe, and pain-free alternative method has been a longstanding challenge in modern health care. Here, the thermoplastic droplet stretching technique is developed to create an ultrahigh-aspect-ratio needle mold with simple microstructure control. The optimized ultrafine needle (UN) with 4 mm length, minimized 120 µm outer diameter, and 15° sharp bevel angle is formed via electroplating of a metallic layer on the surface of a needle mold with forcing sharp tip. This novel UN enables minimally invasive 4 mm skin insertion to deliver insulin in the targeted SC layer. The similar relative areas under the curves of insulin concentration within UN and 31G needle in vivo insulin administration indicate that UN can ensure stable insulin absorption for secure blood glucose management. Additionally, the proposed fabrication method may facilitate industrialization and commercialization of the UN, holding great promise for replacement of hypodermic needles and for improvement of quality of life among patients with diabetes.
+ER  - 
+
+TY  - JOUR
+AU  - Faisca, P.
+AU  - Henriques, J.
+AU  - Dias, T. M.
+AU  - Resende, L.
+AU  - Mestrinho, L.
+TI  - Ectopic cervical thymic carcinoma in a dog
+JO  - Journal of Small Animal Practice
+VL  - 52
+IS  - 5
+SN  - 9780470959763
+UR  - https://doi.org/10.1111/j.1748-5827.2011.01063.x
+DO  - doi:10.1111/j.1748-5827.2011.01063.x
+SP  - 266
+EP  - 270
+PY  - 2011
+AB  - A 10-year-old male German shepherd dog was referred for evaluation of a cranial cervical mass causing progressively worsening respiratory distress. A fine-needle aspirate of the mass was obtained and the cytology results were compatible with a carcinoma. The dog underwent chemotherapy without clinical improvement and was ultimately euthanased because of clinical deterioration. At post-mortem examination, an irregular multi-lobated mass in the cranial cervical region was observed causing ventro-lateral tracheal deviation. Histopathology and immunohistochemistry revealed a mixed population of CD3 lymphocytes and macrophages in an exuberant fibrous stroma, associated with dispersed cytokeratin-positive epithelial cells with marked eosinophilic cytoplasm. Some of the epithelial cells were arranged in concentric clusters that were interpreted as Hassall's corpuscles. Histopathological examination of the thyroid gland revealed several neoplastic emboli composed of epithelial cells similar to those observed in the cervical mass. To the authors? knowledge, this is the first report of an ectopic cervical thymic carcinoma in a dog.
+ER  - 
+
+AU  - Lamos, Elizabeth M.
+AU  - Younk, Lisa M.
+AU  - Davis, Stephen N.
+C7  - pp. 506-530
+TI  - Hypoglycemia
+SN  - 9781119374732
+UR  - https://doi.org/10.1002/9781119374800.ch31
+DO  - doi:10.1002/9781119374800.ch31
+SP  - 506-530
+KW  - hypoglycemia
+KW  - insulin
+KW  - insulinoma
+KW  - sulfonylurea type 1 diabetes
+KW  - type 2 diabetes
+PY  - 2011
+AB  - Summary Hypoglycemia is one of the most frequent endocrine emergencies in individuals with diabetes mellitus. However, hypoglycemia in the healthy or non-diabetic individual is rare. This review will focus on the pathophysiology, management, and etiology of hypoglycemia in persons with and without diabetes. Hypoglycemia in persons with diabetes will focus on multiple factors including hypoglycemic unawareness, glucose monitoring, medication management, and comorbidities. Hypoglycemia in the non-diabetic individual can have multiple etiologies and poses a diagnostic challenge. It is important to respond quickly and appropriately to acute hypoglycemia in any individual. Although broad, the etiology of hypoglycemia must include a comprehensive and individualized review of medical, family, social, and pharmacologic patient histories.
+ER  - 
+
+TY  - JOUR
+AU  - Wannemacher JR., Robert W.
+AU  - Kaminski JR., Mitchell V.
+AU  - Dinterman, Richard E.
+AU  - McCabe, Thomas R.
+TI  - Use of Lipid Calories During Pneumococcal Sepsis in the Rhesus Monkey
+JO  - Journal of Parenteral and Enteral Nutrition
+JA  - Journal of Parenteral and Enteral Nutrition
+VL  - 6
+IS  - 2
+SN  - 9781119374732
+UR  - https://doi.org/10.1177/0148607182006002100
+DO  - doi:10.1177/0148607182006002100
+SP  - 100
+EP  - 105
+PY  - 1982
+AB  - A number of studies in patients and monkeys have suggested that intravenous infusion of lipids can be utilized as a major source of calories during sepsis and/or trauma. Others, however, have observed that lipid calories were not as effective as glucose calories in sparing body protein in severely septic and/or burned patients. In trying to resolve this controversy, a parenteral nutrition model was utilized during pneumococcal sepsis in the rhesus monkey. Earlier studies indicated that when monkeys were infused with 0.55 grams amino acid nitrogen and 13 kilocalories per kilogram per day, they lost approximately 13% of their body protein as a result of the clinical illness associated with pneumococcal sepsis. Addition of 85 kilocalories per kilogram per day of either dextrose or lipid emulsion (Intralipid) effectively prevented this infection-related loss of body protein. The present study was designed to determine whether the elevated plasma insulin concentrations associated with glucose infusions are necessary for protein sparing or would interfere with utilization of lipid calories. In this study, septic and control monkeys were infused with a hypocaloric amino acid-dextrose solution to which was added lipid emulsion. If septic monkeys were totally maintained on a hypocaloric infusion of amino acids and 32 kilocalories per kilogram per day from dextrose, they lost 6.8 ± 1.0% of their body protein over the 6-day experimental period. Addition of lipid calories (55 kilocalories per kilogram per day) to this mixture resulted in a gain of 1.1 ± 0.7% of body protein. In both experimental groups plasma insulin was approximately 100 to 200 microunits per milliliter, which resulted in a marked inhibition of ketogenesis and lipolysis. Despite elevated plasma insulin, the septic monkey appeared able to utilize the fatty acids from the infused lipid effectively as a calorie source to spare body protein. Since lipid emulsion contains approximately 13% glycerol calories, septic monkeys were infused with a hypocaloric amino acid-dextrose solution and an amount of glycerol calories equivalent to that found in Intralipid. Under these conditions, the loss of body protein was very similar to that seen when the hypocaloric amino acid-dextrose solution alone was infused in the septic monkey. Thus, the protein-sparing effects of the lipid emulsion are not related to its glycerol content.
+ER  - 
+
+TY  - JOUR
+AU  - Bremner, J. Douglas
+AU  - Krystal, John H.
+AU  - Southwick, Steven M.
+AU  - Charney, Dennis S.
+TI  - Functional neuroanatomical correlates of the effects of stress on memory
+JO  - Journal of Traumatic Stress
+JA  - J. Traum. Stress
+VL  - 8
+IS  - 4
+SN  - 9781119374732
+UR  - https://doi.org/10.1002/jts.2490080403
+DO  - doi:10.1002/jts.2490080403
+SP  - 527
+EP  - 553
+KW  - PTSD
+KW  - dissociation
+KW  - memory
+KW  - amygdala
+KW  - hippocampus
+KW  - amnesia
+KW  - trauma
+KW  - stress
+KW  - neurobiology
+PY  - 1995
+AB  - Abstract Recently there has been an increase in interest in the relationship between stress and memory. Brain regions which are involved in memory function also effect the stress response. Traumatic stress results in changes in these brain regions; alterations in these brain regions in turn may mediate symptoms of posttraumatic stress disorder (PTSD). Neural mechanisms which are relevant to the effects of stress on memory, such as fear conditioning, stress sensitization, and extinction, are reviewed in relation to their implications for PTSD. Special topics including neural mechanisms in dissociation, neurobiological approaches to the validity of childhood memories as they apply to controversies over the ?False Memory Syndrome,? and implications of the effects of stress on memory for psychotherapy, are also reviewed. The findings discussed in this paper are consistent with the formulation that stress-induced alterations in brain regions and systems involved in memory may underlie many of the symptoms of PTSD, as well as dissociative amnesia, seen in survivors of traumatic stress.
+ER  - 
+
+TY  - JOUR
+AU  - Kim, Boa
+AU  - Li, Jia
+AU  - Jang, Cholsoon
+AU  - Arany, Zoltan
+TI  - Glutamine fuels proliferation but not migration of endothelial cells
+JO  - The EMBO Journal
+JA  - EMBO J
+VL  - 36
+IS  - 16
+SN  - 9781119374732
+UR  - https://doi.org/10.15252/embj.201796436
+DO  - doi:10.15252/embj.201796436
+SP  - 2321
+EP  - 2333
+KW  - endothelium
+KW  - glutamine
+KW  - macropinocytosis
+KW  - migration
+PY  - 2017
+AB  - Abstract Endothelial metabolism is a key regulator of angiogenesis. Glutamine metabolism in endothelial cells (ECs) has been poorly studied. We used genetic modifications and 13C tracing approaches to define glutamine metabolism in these cells. Glutamine supplies the majority of carbons in the tricyclic acid (TCA) cycle of ECs and contributes to lipid biosynthesis via reductive carboxylation. EC-specific deletion in mice of glutaminase, the initial enzyme in glutamine catabolism, markedly blunts angiogenesis. In cell culture, glutamine deprivation or inhibition of glutaminase prevents EC proliferation, but does not prevent cell migration, which relies instead on aerobic glycolysis. Without glutamine catabolism, there is near complete loss of TCA intermediates, with no compensation from glucose-derived anaplerosis. Mechanistically, addition of exogenous alpha-ketoglutarate replenishes TCA intermediates and rescues cellular growth, but simultaneously unveils a requirement for Rac1-dependent macropinocytosis to provide non-essential amino acids, including asparagine. Together, these data outline the dependence of ECs on glutamine for cataplerotic processes; the need for glutamine as a nitrogen source for generation of biomass; and the distinct roles of glucose and glutamine in EC biology.
+ER  - 
+
+TY  - JOUR
+AU  - Stincone, Anna
+AU  - Prigione, Alessandro
+AU  - Cramer, Thorsten
+AU  - Wamelink, Mirjam M. C.
+AU  - Campbell, Kate
+AU  - Cheung, Eric
+AU  - Olin-Sandoval, Viridiana
+AU  - Grüning, Nana-Maria
+AU  - Krüger, Antje
+AU  - Tauqeer Alam, Mohammad
+AU  - Keller, Markus A.
+AU  - Breitenbach, Michael
+AU  - Brindle, Kevin M.
+AU  - Rabinowitz, Joshua D.
+AU  - Ralser, Markus
+TI  - The return of metabolism: biochemistry and physiology of the pentose phosphate pathway
+JO  - Biological Reviews
+JA  - Biol Rev
+VL  - 90
+IS  - 3
+SN  - 9781119374732
+UR  - https://doi.org/10.1111/brv.12140
+DO  - doi:10.1111/brv.12140
+SP  - 927
+EP  - 963
+KW  - pentose phosphate pathway
+KW  - glycolysis
+KW  - glucose 6-phosphate dehydrogenase
+KW  - NADPH
+KW  - metabolomics
+KW  - oxidative stress
+KW  - cancer
+KW  - stem cells
+KW  - host–pathogen interactions
+KW  - metabolic engineering
+KW  - inherited metabolic disease
+KW  - parasitic protozoa
+KW  - metabolism of infection
+PY  - 2015
+AB  - ABSTRACT The pentose phosphate pathway (PPP) is a fundamental component of cellular metabolism. The PPP is important to maintain carbon homoeostasis, to provide precursors for nucleotide and amino acid biosynthesis, to provide reducing molecules for anabolism, and to defeat oxidative stress. The PPP shares reactions with the Entner?Doudoroff pathway and Calvin cycle and divides into an oxidative and non-oxidative branch. The oxidative branch is highly active in most eukaryotes and converts glucose 6-phosphate into carbon dioxide, ribulose 5-phosphate and NADPH. The latter function is critical to maintain redox balance under stress situations, when cells proliferate rapidly, in ageing, and for the ?Warburg effect? of cancer cells. The non-oxidative branch instead is virtually ubiquitous, and metabolizes the glycolytic intermediates fructose 6-phosphate and glyceraldehyde 3-phosphate as well as sedoheptulose sugars, yielding ribose 5-phosphate for the synthesis of nucleic acids and sugar phosphate precursors for the synthesis of amino acids. Whereas the oxidative PPP is considered unidirectional, the non-oxidative branch can supply glycolysis with intermediates derived from ribose 5-phosphate and vice versa, depending on the biochemical demand. These functions require dynamic regulation of the PPP pathway that is achieved through hierarchical interactions between transcriptome, proteome and metabolome. Consequently, the biochemistry and regulation of this pathway, while still unresolved in many cases, are archetypal for the dynamics of the metabolic network of the cell. In this comprehensive article we review seminal work that led to the discovery and description of the pathway that date back now for 80 years, and address recent results about genetic and metabolic mechanisms that regulate its activity. These biochemical principles are discussed in the context of PPP deficiencies causing metabolic disease and the role of this pathway in biotechnology, bacterial and parasite infections, neurons, stem cell potency and cancer metabolism.
+ER  - 
+
+TY  - JOUR
+AU  - Hayden, Jane
+AU  - Gupta, Anil
+AU  - Thörn, Sven-Egron
+AU  - Thulin, Pontus
+AU  - Block, Linda
+AU  - Oras, Jonatan
+TI  - Does intraperitoneal ropivacaine reduce postoperative inflammation? A prospective, double-blind, placebo-controlled pilot study
+JO  - Acta Anaesthesiologica Scandinavica
+JA  - Acta Anaesthesiol Scand
+VL  - 63
+IS  - 8
+SN  - 9781119374732
+UR  - https://doi.org/10.1111/aas.13410
+DO  - doi:10.1111/aas.13410
+SP  - 1048
+EP  - 1054
+KW  - cytokines
+KW  - cytoreductive surgery
+KW  - inflammation
+KW  - intraperitoneal
+KW  - local anesthetics
+KW  - ovarian cancer
+KW  - ropivacaine
+PY  - 2019
+AB  - Background Postoperative inflammation is a common consequence of surgery and the ensuing stress response. Local anesthetics have anti-inflammatory properties. The primary aim of this study was to evaluate if LA administrated intraperitoneally perioperatively might inhibit expression of inflammatory cytokines. Methods This was a, randomized, double blind, placebo-controlled study (ClinicalTrial.gov reg no: NCT02256228) in patients undergoing surgery for ovarian cancer. Patients were randomized to receive: intraperitoneal ropivacaine (Group IPLA) or saline (Group P) perioperatively. Except for study drug, patients were treated similarly. At the end of surgery, a multi-port catheter was inserted intraperitoneally, and ropivacaine 2 mg/mL or 0.9% saline, 10 mL was injected intermittently every other hour during 72 hours postoperatively. Systemic expression of cytokines and plasma ropivacaine were determined before and 6, 24, and 48 hours after surgery. Stress response was measured by serum glucose, cortisol, and insulin. Results Forty patients were recruited, 20 in each group. There was no statistical significant difference in systemic cytokine between the groups at any time point. Serum cortisol was significantly lower in the IPLA group at 6 hours, median 103 nmol/L (IQR 53-250) compared to placebo, median 440 nmol/L (IQR 115-885), P = 0.023. Serum glucose and insulin were similar between the groups. Total and free serum concentrations of ropivacaine were well below toxic concentrations. Conclusion In this small study, perioperative intraperitoneal ropivacaine did not reduce the systemic inflammatory response associated with major abdominal surgery. Total and free ropivacaine concentrations were below known toxic concentrations in humans.
+ER  - 
+
+TY  - JOUR
+AU  - Malik, R.
+AU  - Shaw, S. E.
+AU  - Griffin, C.
+AU  - Stanley, B.
+AU  - Burrows, A. K.
+AU  - Bryden, S. L.
+AU  - Titmarsh, J.
+AU  - Stutsel, M-J.
+AU  - Carter, S-A.
+AU  - Warner, A.
+AU  - Martin, P.
+AU  - Wigney, D. I.
+AU  - Gilpin, C.
+TI  - Infections of the subcutis and skin of dogs caused by rapidly growing mycobacteria
+JO  - Journal of Small Animal Practice
+VL  - 45
+IS  - 10
+SN  - 9781119374732
+UR  - https://doi.org/10.1111/j.1748-5827.2004.tb00193.x
+DO  - doi:10.1111/j.1748-5827.2004.tb00193.x
+SP  - 485
+EP  - 494
+PY  - 2004
+AB  - Nine dogs with panniculitis due to rapidly growing mycobacteria (RGM) were examined over 17 years. Dogs were two to 15 years; five were male, four were female. All were obese or in good condition. Antecedent injury, typically a dog bite or vehicular trauma, could be identified in some patients, while one bitch had hyperadrenocorticism. Infections involved different locations, although the cervicothoracic region, dorsum or flank were most often affected. Patients were systemically well, apart from one dog with pyrexia and two with pain or lameness. Cytology demonstrated pyogranulomatous inflammation, but in only one case was it possible to see acid-fast bacilli (AFB) in smears. Histology demonstrated chronic active pyogranulomatous panniculitis and dermatitis; AFB could be detected in only four specimens. Culture of aspirates or resected tissues demonstrated RGM in all cases, comprising six Mycobacterium smegmatis group and three Mycobacterium fortuitum group isolates. Resection of infected tissues, perioperative injectable antimicrobials and long courses of oral antimicrobials chosen according to susceptibility data generally effected a cure, although some cases recurred.
+ER  - 
+
+TY  - JOUR
+AU  - Yao, Bin
+AU  - Huang, Sha
+AU  - Gao, Dongyun
+AU  - Xie, Jiangfan
+AU  - Liu, Nanbo
+AU  - Fu, Xiaobing
+TI  - Age-associated changes in regenerative capabilities of mesenchymal stem cell: impact on chronic wounds repair
+JO  - International Wound Journal
+JA  - Int Wound J
+VL  - 13
+IS  - 6
+SN  - 9781119374732
+UR  - https://doi.org/10.1111/iwj.12491
+DO  - doi:10.1111/iwj.12491
+SP  - 1252
+EP  - 1259
+KW  - Ageing
+KW  - Chronic wound
+KW  - Mesenchymal stem cells (MSCs)
+KW  - Regenerative capabilities
+PY  - 2016
+AB  - Abstract Mesenchymal stem cells (MSCs) represent an ideal source of autologous cell-based therapy for chronic wounds. Functional characteristics of MSCs may benefit wound healing by exerting their multi-regenerative potential. However, cell ageing resulting from chronic degenerative diseases or donor age could cause inevitable effects on the regenerative abilities of MSCs. A variety of studies have shown the relationship between MSC ageing and age-related dysfunction, but few associate these age-related impacts on MSCs with their ability of repairing chronic wounds, which are common in the elderly population. Here, we discuss the age-associated changes of MSCs and describe the potential impacts on MSC-based therapy for chronic wounds. Furthermore, critical evaluation of the current literatures is necessary for understanding the underlying mechanisms of MSC ageing and raising the corresponding concerns on considering their possible use for chronic wound repair.
+ER  - 

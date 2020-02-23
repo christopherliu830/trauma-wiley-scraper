@@ -1,0 +1,454 @@
+
+TY  - JOUR
+AU  - Bian, Wei
+AU  - Banerjee, Suchandrima
+AU  - Kelly, Douglas A.C.
+AU  - Hess, Christopher P.
+AU  - Larson, Peder E.Z.
+AU  - Chang, Susan M.
+AU  - Nelson, Sarah J.
+AU  - Lupo, Janine M.
+TI  - Simultaneous imaging of radiation-induced cerebral microbleeds, arteries and veins, using a multiple gradient echo sequence at 7 Tesla
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J. Magn. Reson. Imaging
+VL  - 42
+IS  - 2
+SN  - 1053-1807
+UR  - https://doi.org/10.1002/jmri.24802
+DO  - doi:10.1002/jmri.24802
+SP  - 269
+EP  - 279
+KW  - multi-echo
+KW  - TOF-MRA
+KW  - SWI
+KW  - 7T
+KW  - microbleeds
+KW  - radiation effects
+PY  - 2015
+AB  - Background The purpose of this study was to implement and evaluate the utility of a multi-echo sequence at 7 Tesla (T) for simultaneous time-of-flight (TOF) MR-angiography (MRA) and susceptibility-weighted imaging (SWI) of radiation-induced cerebral microbleeds (CMBs), intracranial arteries, and veins. Methods A four-echo gradient-echo sequence was implemented on a 7T scanner. The first echo was used to create TOF-MRA images, while the remaining echoes were combined to visualize CMBs and veins on SWI images. The sequence was evaluated on eight brain tumor patients with known radiation-induced CMBs. Single-echo images were also acquired to visually and quantitatively compare the contrast-to-noise ratio (CNR) of small- and intermediate-vessels between acquisitions. The number of CMBs detected with each acquisition was also quantified. Statistical significance was determined using a Wilcoxon signed-rank test. Results Compared with the single-echo sequences, the CNR of small and intermediate arteries increased 7.6% (P?<?0.03) and 9.5% (P?=?0.06), respectively, while the CNR of small and intermediate veins were not statistically different between sequences (P?=?0.95 and P?=?0.46, respectively). However, these differences were not discernible by visual inspection. Also the multi-echo sequence detected 18.3% more CMBs (P?<?0.008) due to higher slice resolution. Conclusion The proposed 7T multi-echo sequence depicts arteries, veins, and CMBs on a single image to facilitate quantitative evaluation of radiation-induced vascular injury. J. Magn. Reson. Imaging 2015;42:269?279.
+ER  - 
+
+TY  - JOUR
+AU  - Fehily, Brooke
+AU  - Bartlett, Carole A.
+AU  - Lydiard, Stephen
+AU  - Archer, Michael
+AU  - Milbourn, Hannah
+AU  - Majimbi, Maimuna
+AU  - Hemmi, Jan M.
+AU  - Dunlop, Sarah A.
+AU  - Yates, Nathanael J.
+AU  - Fitzgerald, Melinda
+TI  - Differential responses to increasing numbers of mild traumatic brain injury in a rodent closed-head injury model
+JO  - Journal of Neurochemistry
+JA  - J. Neurochem.
+VL  - 149
+IS  - 5
+SN  - 0022-3042
+UR  - https://doi.org/10.1111/jnc.14673
+DO  - doi:10.1111/jnc.14673
+SP  - 660
+EP  - 678
+KW  - functional deficits
+KW  - microglia
+KW  - myelin abnormalities
+KW  - oxidative stress
+KW  - repeated mild traumatic brain injury
+KW  - transmission electron microscopy
+PY  - 2019
+AB  - Abstract Following mild traumatic brain injury (mTBI), further mild impacts can exacerbate negative outcomes. To compare chronic damage and deficits following increasing numbers of repeated mTBIs, a closed-head weight-drop model of repeated mTBI was used to deliver 1, 2 or 3 mTBIs to adult female rats at 24 h intervals. Outcomes were assessed at 3 months following the first mTBI. No gross motor, sensory or reflex deficits were identified (p > 0.05), consistent with current literature. Cognitive function assessed using a Morris water maze revealed chronic memory deficits following 1 and 2, but not 3 mTBI compared to shams (p ≤ 0.05). Oxidative damage to DNA was assessed immunohistochemically in the dentate hilus of the hippocampus and splenium of the corpus callosum; no changes were observed. IBA1-positive microglia were increased in size in the cortex following 1 mTBI and in the corpus callosum following 2 mTBI compared to shams (p ≤ 0.05); no changes were observed in the dentate hilus. Glial fibrillary acidic protein (GFAP)-positive astrocyte immunoreactivity was assessed in all three brain regions and no chronic changes were observed. Integrity of myelin ultrastructure in the corpus callosum was assessed using transmission electron microscopy. G ratio was decreased following 2 mTBIs compared to shams (p ≤ 0.05) at post hoc level only. The changing patterns of damage and deficits following increasing numbers of mTBI may reflect dynamic responses to small numbers of mTBIs or a conditioning effect such that increasing numbers of mTBIs do not necessarily result in worsening pathology. Open science badges This article has received a badge for *Open Materials* because it provided all relevant information to reproduce the study in the manuscript. The complete Open Science Disclosure form for this article can be found at the end of the article. More information about the Open Practices badges can be found at https://cos.io/our-services/open-science-badges/. Cover Image for this issue: doi: 10.1111/jnc.14508.
+ER  - 
+
+TY  - JOUR
+AU  - Myers, Colin T
+TI  - Minimal volume, hypotense resuscitation
+JO  - Emergency Medicine
+VL  - 8
+IS  - s1
+SN  - 1035-6851
+UR  - https://doi.org/10.1111/j.1442-2026.1996.tb00543.x
+DO  - doi:10.1111/j.1442-2026.1996.tb00543.x
+SP  - 51
+EP  - 56
+PY  - 1996
+AB  - Abstract Large volume fluid resuscitation attempting to normalise physiological parameters in hypovolaemic shock has become the accepted management practice during the last 30 years. This doctrine, based on research in the 1950s, teaches that shock increases mortality, aggressive resuscitation improves outcome and normalisation of vital signs protects against multiple organ dysfunction. The wide acceptance of this doctrine is demonstrated by the central role it plays in the American College of Surgeons Advanced Trauma Life Support (ATLS) course and its Australian equivalent the Early Management of Severe Trauma (EMST) course. During the late 1980s, a number of animal research papers demonstrated severe limitations to the earlier work performed in the 1950s and proposed an alternative approach using hypotense or minimal fluid resuscitation. Controlled haemorrhagic shock is hypovolaemic shock in which the source of the bleeding is easily controlled without operation and hence aggressive fluid resuscitation can be pursued with minimum risk. Uncontrolled haemorrhagic shock is hypovolaemic shock due to bleeding which cannot be controlled without surgery. The restoration of blood pressure towards normal levels may lead to dislodgement of thrombus and loss of vascular spasm in damaged vessels, with a subsequent increase in blood loss. It is in this situation that hypotense resuscitation is thought to be of most value. Hypotense resuscitation is defined as the use of fluid resuscitation to maintain blood pressure at lower than normal levels which are sufficient to maintain life, but minimise the risk of exacerbating internal bleeding. Prompted by animal research a number of human studies have been undertaken to clarify the role of fluid resuscitation in uncontrolled haemorrhage. At present, there is wide acceptance of the use of hypotense or minimal volume resuscitation for ruptured abdominal aortic aneurysm and a recent demonstration that morbidity and mortality are decreased by the use of hypotense resuscitation in penetrating truncal trauma. There are however many other clinical situations that may produce uncontrolled haemorrhagic shock about which we have little clinical data to predict appropriate levels of fluid resuscitation. These include ectopic pregnancy, gastro-intestinal haemorrhage and blunt multi-system trauma. This paper will analyse the animal studies that demonstrate the physiological effects of the various fluid resuscitation regimes and discuss all the clinical papers on the subject of hypotense resuscitation. An attempt will then be made to integrate this data into current Australian practice and give broad guidelines on the modern management of uncontrolled haemorrhagic shock, based on minimal volume or hypotense resuscitation.
+ER  - 
+
+TY  - JOUR
+AU  - Johnson, Philippa
+AU  - Beltran, Elsa
+AU  - Dennis, Ruth
+AU  - Taeymans, Olivier
+TI  - MAGNETIC RESONANCE IMAGING CHARACTERISTICS OF SUSPECTED VERTEBRAL INSTABILITY ASSOCIATED WITH FRACTURE OR SUBLUXATION IN ELEVEN DOGS
+JO  - Veterinary Radiology & Ultrasound
+JA  - Veterinary Radiology & Ultrasound
+VL  - 53
+IS  - 5
+SN  - 1058-8183
+UR  - https://doi.org/10.1111/j.1740-8261.2012.01959.x
+DO  - doi:10.1111/j.1740-8261.2012.01959.x
+SP  - 552
+EP  - 559
+KW  - canine
+KW  - fracture
+KW  - MRI
+KW  - subluxation
+KW  - trauma
+KW  - vertebra
+PY  - 2012
+AB  - The purpose of this study was to describe the magnetic resonance imaging (MRI) characteristics of suspected instability in dogs with vertebral fractures or subluxations. Eleven dogs that had MRI examinations of the spine prior to surgical stabilization of vertebral fractures and/or subluxations were included in the study. Nine dogs also had survey radiographs. Four dogs had cervical fracture or fracture-subluxation and presented with tetraplegia with intact nociception (n = 2) or nonambulatory tetraparesis (n = 2). Seven dogs had thoracolumbar fracture-subluxation or subluxation and presented with paraplegia with intact nociception (n = 5) or nonambulatory paraparesis (n = 2). A three-compartment model was applied to the interpretation of both the radiographic and MRI studies. Radiography identified compartmental disruption consistent with spinal instability in seven out of the nine cases radiographed. In MRI studies, rupture of the supportive soft tissue structures and/or fracture in at least two compartments could be visualized. Nine cases had spinal cord changes on MRI including signal intensity changes, swelling, compression, and intramedullary hemorrhage. Paravertebral muscle intensity changes were also visible at each trauma site. Magnetic resonance imaging provided helpful information on the location and extent of damage to supportive soft tissue structures and enabled assessment of spinal cord injury in this group of dogs with surgically confirmed vertebral fractures and subluxations.
+ER  - 
+
+AU  - Rose, Peter E.
+C7  - pp. 1-12
+TI  - Risk Factors for Venous Thromboembolism
+SN  - 9781119095576
+UR  - https://doi.org/10.1002/9781119095606.ch1
+DO  - doi:10.1002/9781119095606.ch1
+SP  - 1-12
+KW  - cancer-associated thrombosis
+KW  - hospital-acquired thrombosis
+KW  - lower limb immobilisation
+KW  - orthopaedic trauma
+KW  - pulmonary embolism
+KW  - venous thromboembolism
+PY  - 2012
+AB  - Summary This chapter explores the risk factors reported to increase the risk of venous thromboembolism (VTE). The most important risk factors for VTE are a history of previous VTE, recent surgery, hospital in-patient stay and cancer. Pulmonary embolism remains the most widely reported preventable cause of death in patients undergoing surgery. It is the most common cause of death within 30 days of surgery, with 40% of VTE events occurring later than three weeks post operatively. Patients undergoing lower limb surgery are among the highest risk patients (odds ratio?>?10), and this includes total hip and knee arthroplasty, hip/leg fractures, major orthopaedic trauma and spinal surgery. Lower limb immobilisation in casts, with or without surgery, increases the risk of VTE. Approximately 70-80% of fatal hospital-acquired thrombosis (HAT) occurs in medical patients. Venous thrombosis is increased in most acute medical conditions, necessitating hospital admission.
+ER  - 
+
+TY  - JOUR
+AU  - Maercker, Andreas
+AU  - Horn, Andrea B.
+TI  - A Socio-interpersonal Perspective on PTSD: The Case for Environments and Interpersonal Processes
+JO  - Clinical Psychology & Psychotherapy
+JA  - Clin. Psychol. Psychother.
+VL  - 20
+IS  - 6
+SN  - 9781119095576
+UR  - https://doi.org/10.1002/cpp.1805
+DO  - doi:10.1002/cpp.1805
+SP  - 465
+EP  - 481
+KW  - Post-traumatic Stress Disorder
+KW  - Interpersonal Processes
+KW  - Social Context
+KW  - Disclosure
+KW  - Social Sharing
+PY  - 2013
+AB  - Post-traumatic stress disorder (PTSD) is a common reaction to traumatic experiences. We propose a socio-interpersonal model of PTSD that complements existing models of post-traumatic memory processes or neurobiological changes. The model adds an interpersonal perspective to explain responses to traumatic stress. The framework draws from lifespan psychology, cultural psychology and research into close relationships and groups. Additionally, clinical knowledge about PTSD is incorporated. This involves knowledge about shame, guilt, estrangement feelings and protective factors, such as social support and forgiveness. Three levels are proposed at which relevant interpersonal processes can be situated and should be adequately researched. First, the individual level comprises social affective states, such as shame, guilt, anger and feelings of revenge. Second, at the close relationship level, social support, negative exchange (ostracism and blaming the victim), disclosure and empathy are proposed as dyadic processes relevant to PTSD research and treatment. Third, the distant social level represents culture and society, in which the collectivistic nature of trauma, perceived injustice, and social acknowledgement are concepts that predict the response trajectories to traumatic stress. Research by the current authors and others is cited in an effort to promote future investigation based on the current model. Methodological implications, such as multi-level data analyses, and clinical implications, such as the need for couple, community or larger-level societal interventions, are both outlined. Copyright ? 2012 John Wiley & Sons, Ltd. Key Practitioner Message The socio-interpersonal model proposes an interpersonal view of the processes that occur in the aftermath of a traumatic experience. At the individual level, the model integrates the social affective phenomena that clinical research identifies in PTSD patients, including shame, guilt, anger, revenge and the urges or reluctance to disclose. At the level of close relationships, there is an emphasis on the role of the individuals' partner, family or social support in the development or maintenance of PTSD and its recovery. At the distant social level, societal and cultural factors, e.g., individualistic versus collectivistic or other human value orientations, are acknowledged as contributing to the severity and course of PTSD. Increasing attention should be given to new approaches of PTSD treatment that refer to an interpersonal view of PTSD, e.g., communication training, PTSD-specific couples' therapy or community programs.
+ER  - 
+
+TY  - JOUR
+AU  - Gabay, Gillie
+TI  - From the crisis in acute care to postdischarge resilience – The communication experience of Geriatric patients: A qualitative study
+JO  - Scandinavian Journal of Caring Sciences
+JA  - Scand J Caring Sci
+VL  - n/a
+IS  - n/a
+SN  - 9781119095576
+UR  - https://doi.org/10.1111/scs.12826
+DO  - doi:10.1111/scs.12826
+KW  - acute care
+KW  - communication pathways
+KW  - health literacy
+KW  - geriatric patients
+KW  - qualitative
+KW  - perceived control
+KW  - psychological trauma
+KW  - reflection
+KW  - resilience
+AB  - Background Hospital readmissions due to illness among geriatric patients result in human suffering and psychological trauma. Resilience in chronic illness protects geriatric patients from outcomes of trauma leads to psychological and physical well-being and enables bouncing back to life. While communication has been linked to improved health outcomes, little is known about communication pathways in the context of postdischarge resilience. Aim and objective To explore the role of communication pathways that acute-care clinicians used with geriatric patients in postdischarge resilience. Methodological design and justification Participants were ten geriatric patients who were readmitted several times in the past year. Twenty narrative interviews were conducted, one upon discharge and the other a month thereafter. Data for each phase of interviews were analysed using methods of selection mechanisms and Bricolage. Ethical issues The ethics committee approved the study. Participants signed an informed-consent form for participation and publication. Findings Communication in acute care that enhanced health literacy, perceived control and reflection, contributed to higher comprehensibility and manageability during the hospitalisation and postdischarge meaningfulness postdischarge, contributing resilience. Participants who experienced other forms of communication demonstrated anxiety and helplessness with lingering psychological trauma postdischarge. Conclusions Acute care may provide clinicians with opportunities to alleviate the suffering of geriatric patients and contribute to their postdischarge resilience. The suggested T.E.R model delineates communication pathways to fuel the trajectory from psychological trauma to postdischarge resilience in practice.
+ER  - 
+
+TY  - JOUR
+AU  - Hirsch, Mark A.
+AU  - Kropf, Martha E.
+AU  - Hammond, Flora M.
+AU  - Schur, Lisa
+AU  - Karlawish, Jason H.
+AU  - Ball, Andrew M.
+TI  - Voting Characteristics of Individuals With Traumatic Brain Injury
+JO  - World Medical & Health Policy
+VL  - 11
+IS  - 1
+SN  - 9781119095576
+UR  - https://doi.org/10.1002/wmh3.296
+DO  - doi:10.1002/wmh3.296
+SP  - 24
+EP  - 42
+KW  - traumatic brain injury
+KW  - political participation
+KW  - voting
+PY  - 2019
+AB  - Voting is the foundation of democracy. Limited data exist about voting characteristics of individuals with neurologic impairment including those living with a traumatic brain injury (TBI). To statistically examine voting characteristics using a convenience sample of registered voters with TBI during elections held in Mecklenburg County, North Carolina?2007, 2008. Data were collected on 51 participants with TBI during May 2007, 2008 general, and 2008 Presidential Election. (i) There was a significant difference between the Competence Assessment Tool for Voting (CAT-V) total score of participants with TBI who voted and the CAT-V total score of participants with TBI who did not vote and the CAT-V total score predicted voting; (ii) the age of the participants with TBI was predictive of voting; and (iii) being married was inversely related to voting. We find that there is variation in voting even among this small sample interviewed for the present study, and that the variation is predictable. Those with the highest CAT-Vs are most likely to vote. In addition, we find that traditional predictors of voting simply are not predictors among this TBI group, and even one, whether the person is married, has a negative effect on voting.
+ER  - 
+
+TY  - JOUR
+AU  - Theeler, Brett J.
+AU  - Flynn, Frederick G.
+AU  - Erickson, Jay C.
+TI  - Headaches After Concussion in US Soldiers Returning From Iraq or Afghanistan
+JO  - Headache: The Journal of Head and Face Pain
+VL  - 50
+IS  - 8
+SN  - 9781119095576
+UR  - https://doi.org/10.1111/j.1526-4610.2010.01700.x
+DO  - doi:10.1111/j.1526-4610.2010.01700.x
+SP  - 1262
+EP  - 1272
+KW  - mild traumatic brain injury
+KW  - concussion
+KW  - military
+KW  - posttraumatic headache
+PY  - 2010
+AB  - (Headache 2010;50:1262-1272) Objectives.? To determine the prevalence, characteristics, impact, and treatment patterns of headaches after concussion in US Army soldiers returning from a deployment to Iraq or Afghanistan. Methods.? A cross-sectional study was conducted with a cohort of soldiers undergoing postdeployment evaluation during a 5-month period at the Madigan Traumatic Brain Injury Program at Ft. Lewis, WA. All soldiers screening positive for a deployment-related concussion were given a 13-item headache questionnaire. Results.? A total of 1033 (19.6%) of 5270 returning soldiers met criteria for a deployment-related concussion. Among those with a concussion, 957 (97.8%) reported having headaches during the final 3 months of deployment. Posttraumatic headaches, defined as headaches beginning within 1 week after a concussion, were present in 361 (37%) soldiers. In total, 58% of posttraumatic headaches were classified as migraine. Posttraumatic headaches had a higher attack frequency than nontraumatic headaches, averaging 10 days per month. Chronic daily headache was present in 27% of soldiers with posttraumatic headache compared with 14% of soldiers with nontraumatic headache. Posttraumatic headaches interfered with duty performance in 37% of cases and caused more sick call visits compared with nontraumatic headache. In total, 78% of soldiers with posttraumatic headache used abortive medications, predominantly over-the-counter analgesics, and most perceived medication as effective. Conclusions.? More than 1 in 3 returning military troops who have sustained a deployment-related concussion have headaches that meet criteria for posttraumatic headache. Migraine is the predominant headache phenotype precipitated by a concussion during military deployment. Compared with headaches not directly attributable to head trauma, posttraumatic headaches are associated with a higher frequency of headache attacks and an increased prevalence of chronic daily headache.
+ER  - 
+
+TY  - JOUR
+AU  - Groombridge, Christopher
+AU  - Maini, Amit
+AU  - O'Keeffe, Francis
+AU  - Noonan, Mike
+AU  - Mathew, Joseph
+AU  - Smit, De Villiers
+AU  - Fitzgerald, Mark
+TI  - Large-calibre central access via the subclavian vein
+JO  - Emergency Medicine Australasia
+JA  - Emergency Medicine Australasia
+VL  - 32
+IS  - 1
+SN  - 9781119095576
+UR  - https://doi.org/10.1111/1742-6723.13434
+DO  - doi:10.1111/1742-6723.13434
+SP  - 148
+EP  - 150
+PY  - 2020
+ER  - 
+
+TY  - JOUR
+AU  - Hung, Ning
+AU  - Hsiao, Ching-Hsi
+AU  - Yang, Ching-Sheng
+AU  - Lin, Hsin-Chiung
+AU  - Yeh, Lung-Kun
+AU  - Fan, Yun-Chen
+AU  - Sun, Pei-Lun
+TI  - Colletotrichum keratitis: A rare yet important fungal infection of human eyes
+JO  - Mycoses
+JA  - Mycoses
+VL  - n/a
+IS  - n/a
+SN  - 9781119095576
+UR  - https://doi.org/10.1111/myc.13058
+DO  - doi:10.1111/myc.13058
+KW  - Colletotrichum gloeosporioides
+KW  - Colletotrichum keratitis
+KW  - Colletotrichum truncatum
+KW  - multi-locus phylogenetic analysis
+KW  - taxonomy
+AB  - Summary Background Colletotrichum is a rare cause of human infection. Previous reports about Colletotrichum keratitis were limited, and most diagnoses from past reports were based on morphological distinction, which could have led to underestimation of the prevalence of Colletotrichum species. Objective We reported phylogenetic analysis, clinical feature and treatment outcome of molecularly diagnosed Colletotrichum keratitis in our hospital. Patients/Methods We recruited 65 patients with culture-proven filamentous fungal keratitis between January 1, 2015 and December 30, 2018. Through molecular sequencing including internal transcribed spacer (ITS) and multi-locus phylogenetic analysis of fungal DNA, seven patients were verified as infected with Colletotrichum species, and their medical records were reviewed to determine the clinical characteristics. Results Six of seven patients had predisposing factors including trauma (5) and immunosuppressive status (1). Six isolates were initially misidentified as other fungi through morphological identification. ITS sequencing identified the isolates belonged to two species complex (SC): C. truncatum and C. gloeosporioides; multi-locus phylogenetic analysis enabled species identification including C. tropicale (3), C. fructicola (2), C. truncatum (1) and C. fusiforme (1). Five patients with C. gloeosporioides SC responded well to medical treatment and two patients with C truncatum SC underwent evisceration because of either no visual potential or intractable pain. Conclusions The molecular approach provides accurate diagnosis and raises epidemiological awareness of Colletotrichum keratitis. Through multi-locus phylogenetic analysis, we report the human infections caused by C. tropicale, C. fructicola and C. fusiforme. We also highlight the different clinical outcomes between C. gloeosporioides SC and C. truncatum SC.
+ER  - 
+
+TY  - JOUR
+AU  - Reeves, Elizabeth A.
+AU  - Humphreys, Janice C.
+TI  - Describing the healthcare experiences and strategies of women survivors of violence
+JO  - Journal of Clinical Nursing
+JA  - J Clin Nurs
+VL  - 27
+IS  - 5-6
+SN  - 9781119095576
+UR  - https://doi.org/10.1111/jocn.14152
+DO  - doi:10.1111/jocn.14152
+SP  - 1170
+EP  - 1182
+KW  - intimate partner violence
+KW  - nursing practice
+KW  - nursing research
+KW  - qualitative descriptive
+KW  - sexual abuse
+KW  - trauma-informed care
+KW  - trauma-informed practice
+KW  - violence against women
+KW  - women's health
+PY  - 2018
+AB  - Aim and Objective The purpose of this study was to develop knowledge on women survivors' healthcare experiences and strategies. Background Survivors of traumatic life events are at an increased risk for an array of negative health consequences, which can be complicated when distressing healthcare experiences act as a barrier to accessing needed care. Implications for trauma-informed and sensitive practice are well established, but evidence to date on survivors' healthcare experiences and patient engagement is limited. Design This study utilized individual interviews and qualitative description methods. Methods Fourteen participants completed a demographic questionnaire and one semistructured interview focused on their exposure to violence, healthcare experiences and strategies for navigating health care. Thematic analysis in alignment with qualitative description methods was used to analyse interview transcripts and identify themes. Results Participants in this study reported a variety of traumatic life experiences, ranging from childhood sexual abuse and intimate partner violence to severe car accidents. Experiencing a multiplicity of trauma sometimes complicated participants' later healthcare experiences. Although participants described ways in which providers helped them attain positive care experiences, they also acknowledged that limitations of the healthcare system could make trauma-informed practices difficult to implement. Participants described strategies they use to prepare for, navigate and recover after healthcare encounters including selecting providers, bringing support persons to appointments and engaging in relaxing activities after appointments. Conclusions Participants emphasised the importance of trusting and equitable provider?patient relationships and described several ways they prepare for, cope with and care for themselves after difficult healthcare experiences. Descriptive data on the patient engagement behaviours of survivors of violence is a unique contribution of this study to existing research. Relevance to clinical practice Findings from this study indicate the importance of comprehensive trauma history screening during health assessments, development of trusting and mutually respectful provider?patient relationships and provider training programmes focused on trauma-informed care practices.
+ER  - 
+
+AU  - Tichil, Ioana
+AU  - Cleland, Heather
+C7  - pp. 443-454
+TI  - Burns
+SN  - 9781119468080
+UR  - https://doi.org/10.1002/9781119468189.ch49
+DO  - doi:10.1002/9781119468189.ch49
+SP  - 443-454
+KW  - burn injury
+KW  - emergency management
+KW  - trauma
+KW  - inhalation injury
+KW  - critical care
+KW  - surgery
+KW  - skin graft
+KW  - skin substitute
+PY  - 2018
+AB  - Summary Burns are classified by cause and mechanism, as well as by extent (expressed as percentage of total body surface area or TBSA) and depth. Inhalation injury is caused by inhalation of toxic products of combustion or chemical powders and vapours. Its presence is associated with a worse prognosis for a given extent of cutaneous injury. Timely initiation of appropriate first aid (20 minutes of cool running water for thermal injuries) minimises the extent of tissue damage. Extensive burns constitute major trauma and may be associated with multi-trauma. Patients with major burns require primary and secondary survey, and active resuscitation according to a formula related to size of burn. Burn wounds evolve and require regular review and appropriate dressings. Deep circumferential burns may require escharotomy. Extensive burns are associated with systemic effects, which are a manifestation of a systemic inflammatory response that involves all organs and necessitates provision of critical and multidisciplinary care. Surgical management of extensive burns entails early excision of all necrotic tissue, temporisation of the wound with skin substitutes, and timely grafting according to an established algorithm.
+ER  - 
+
+TY  - JOUR
+AU  - Alves, Renato Vasconcelos
+AU  - Machion, Luciana
+AU  - Casati, Màrcio Zaffalon
+AU  - Nociti Jr., Francisco Humberto
+AU  - Sallum, Enilson Antonio
+AU  - Sallum, Antonio Wilson
+TI  - Clinical attachment loss produced by curettes and ultrasonic scalers
+JO  - Journal of Clinical Periodontology
+VL  - 32
+IS  - 7
+SN  - 9781119468080
+UR  - https://doi.org/10.1111/j.1600-051X.2005.00713.x
+DO  - doi:10.1111/j.1600-051X.2005.00713.x
+SP  - 691
+EP  - 694
+KW  - attachment loss
+KW  - periodontal curettes
+KW  - scaling
+KW  - trauma from instrumentation
+KW  - ultrasonic scalers
+PY  - 2005
+AB  - Abstract Objectives: The aim of this study was to clinically detect the immediate effect of root instrumentation with curettes and ultrasonic scalers on clinical attachment level. Material and Methods: Twelve subjects with moderate chronic periodontitis, presenting probing depths of 3.5?6.5?mm on anterior teeth, upper and/or lower, were selected. Teeth were randomly assigned to one of the following groups: US group ? scaled with an ultrasonic scaler; and CC group ? scaled and planed with 5?6 Gracey curettes. The selected teeth were probed with a computerized electronic probe, guided by an occlusal stent and subjected to scaling and root planing. Immediately following instrumentation, teeth were probed again. The difference between relative attachment level (RAL) immediately before and after instrumentation was considered trauma from instrumentation. Results: Intra-group analysis revealed statistically significant differences between RAL immediately before and after instrumentation in both groups (0.77±0.51 for US group; and 0.73±0.41 for CC group, p<0.0001). However, inter-group analysis did not show statistically significant difference in trauma from instrumentation caused by the two different instruments (p=0.816). Conclusions: Within the limits of this study, it was concluded that root instrumentation causes a mean immediate attachment loss of 0.75?mm, and that instrumentation with either curettes or ultrasonic scalers do not seem to reduce significantly the trauma from of instrumentation produced.
+ER  - 
+
+TY  - JOUR
+AU  - Corona, Benjamin T.
+AU  - Flanagan, Kate E.
+AU  - Brininger, Christian M.
+AU  - Goldman, Stephen M.
+AU  - Call, Jarrod A.
+AU  - Greising, Sarah M.
+TI  - Impact of volumetric muscle loss injury on persistent motoneuron axotomy
+JO  - Muscle & Nerve
+JA  - Muscle Nerve
+VL  - 57
+IS  - 5
+SN  - 9781119468080
+UR  - https://doi.org/10.1002/mus.26016
+DO  - doi:10.1002/mus.26016
+SP  - 799
+EP  - 807
+KW  - innervated muscle units
+KW  - motor unit
+KW  - muscle fiber
+KW  - neuromuscular strength
+KW  - neuromusculoskeletal injury
+KW  - orthopedic trauma
+PY  - 2018
+AB  - ABSTRACT Introduction Volumetric muscle loss (VML) occurs following significant traumatic injury or surgical removal of skeletal muscle, resulting in nonrecoverable loss of tissue and long-term dysfunction. Perhaps less recognized is that VML injuries inherently disrupt the neuromuscular unit, resulting in fiber denervation and presumptive motor unit rearrangement, expansion, and/or loss. To characterize neural dysfunction we quantified motoneuron axotomy, in efforts to understand how this relates to the temporal coordination of neuromuscular and morphological alterations due to injury. Methods In an established rat tibialis anterior (TA) VML injury model, we examined the motoneuron, skeletal muscle, and maximal isometric torque at 3, 7, 14, and 21 days postinjury. Results Significant axotomy of 57?79% of all TA muscle motoneurons was observed through 21 days postinjury, which was coupled with a 45?90% TA maximal torque deficit. Discussion A ?20% partial ablation of the TA muscle causes disproportionate damage across the motor unit acutely postinjury. Muscle Nerve 57: 799?807, 2018
+ER  - 
+
+AU  - Threlfall, C. J.
+C7  - pp. 127-144
+TI  - Intermediary Carbohydrate Metabolism in Injured Rat Liver in Relation to Heat Production
+SN  - 9780470662823
+UR  - https://doi.org/10.1002/9780470719770.ch7
+DO  - doi:10.1002/9780470719770.ch7
+SP  - 127-144
+KW  - glucose tolerance
+KW  - negative nitrogen balance
+KW  - energy requirement
+KW  - fuel
+KW  - metabolism
+PY  - 2018
+AB  - Summary The prelims comprise: The Redox State Adenine Nucleotides Summary
+ER  - 
+
+TY  - JOUR
+AU  - Preston, Graeme
+AU  - Kirdar, Faisal
+AU  - Kozicz, Tamas
+TI  - The role of suboptimal mitochondrial function in vulnerability to post-traumatic stress disorder
+JO  - Journal of Inherited Metabolic Disease
+JA  - J Inherit Metab Dis
+VL  - 41
+IS  - 4
+SN  - 9780470662823
+UR  - https://doi.org/10.1007/s10545-018-0168-1
+DO  - doi:10.1007/s10545-018-0168-1
+SP  - 585
+EP  - 596
+PY  - 2018
+AB  - Abstract Post-traumatic stress disorder remains the most significant psychiatric condition associated with exposure to a traumatic event, though rates of traumatic event exposure far outstrip incidence of PTSD. Mitochondrial dysfunction and suboptimal mitochondrial function have been increasingly implicated in several psychopathologies, and recent genetic studies have similarly suggested a pathogenic role of mitochondria in PTSD. Mitochondria play a central role in several physiologic processes underlying PTSD symptomatology, including abnormal fear learning, brain network activation, synaptic plasticity, steroidogenesis, and inflammation. Here we outline several potential mechanisms by which inherited (genetic) or acquired (environmental) mitochondrial dysfunction or suboptimal mitochondrial function, may contribute to PTSD symptomatology and increase susceptibility to PTSD. The proposed pathogenic role of mitochondria in the pathophysiology of PTSD has important implications for prevention and therapy, as antidepressants commonly prescribed for patients with PTSD have been shown to inhibit mitochondrial function, while alternative therapies shown to improve mitochondrial function may prove more efficacious.
+ER  - 
+
+TY  - JOUR
+AU  - Mehta, D.
+AU  - Bruenig, D.
+AU  - Carrillo-Roa, T.
+AU  - Lawford, B.
+AU  - Harvey, W.
+AU  - Morris, C. P.
+AU  - Smith, A. K.
+AU  - Binder, E. B.
+AU  - Young, R. McD
+AU  - Voisey, J.
+TI  - Genomewide DNA methylation analysis in combat veterans reveals a novel locus for PTSD
+JO  - Acta Psychiatrica Scandinavica
+JA  - Acta Psychiatr Scand
+VL  - 136
+IS  - 5
+SN  - 9780470662823
+UR  - https://doi.org/10.1111/acps.12778
+DO  - doi:10.1111/acps.12778
+SP  - 493
+EP  - 505
+KW  - post-traumatic stress disorder
+KW  - stress
+KW  - trauma
+KW  - neuropsychiatry
+PY  - 2017
+AB  - Objective Epigenetic modifications such as DNA methylation may play a key role in the aetiology and serve as biomarkers for post-traumatic stress disorder (PTSD). We performed a genomewide analysis to identify genes whose DNA methylation levels are associated with PTSD. Method A total of 211 individuals comprising Australian male Vietnam War veterans (n = 96) and males from a general population belonging to the Grady Trauma Project (n = 115) were included. Genomewide DNA methylation was performed from peripheral blood using the Illumina arrays. Data analysis was performed using generalized linear regression models. Results Differential DNA methylation of 17 previously reported PTSD candidate genes was associated with PTSD symptom severity. Genomewide analyses revealed CpG sites spanning BRSK1, LCN8, NFG and DOCK2 genes were associated with PTSD symptom severity. We replicated the findings of DOCK2 in an independent cohort. Pathway analysis revealed that among the associated genes, genes within actin cytoskeleton and focal adhesion molecular pathways were enriched. Conclusion These data highlight the role of DNA methylation as biomarkers of PTSD. The results support the role of previous candidates and uncover novel genes associated with PTSD, such as DOCK2. This study contributes to our understanding of the biological underpinnings of PTSD.
+ER  - 
+
+TY  - JOUR
+AU  - Lunney, Margaret
+AU  - McGuire, Maria
+AU  - Endozo, Nancy
+AU  - McIntosh-Waddy, Dorothy
+TI  - Consensus-Validation Study Identifies Relevant Nursing Diagnoses, Nursing Interventions, and Health Outcomes for People with Traumatic Brain Injuries
+JO  - Rehabilitation Nursing
+VL  - 35
+IS  - 4
+SN  - 9780470662823
+UR  - https://doi.org/10.1002/j.2048-7940.2010.tb00042.x
+DO  - doi:10.1002/j.2048-7940.2010.tb00042.x
+SP  - 161
+EP  - 166
+KW  - health outcomes
+KW  - nursing diagnosis
+KW  - nursing interventions
+KW  - rehabilitation
+KW  - standards of care
+KW  - traumatic brain injury
+PY  - 2010
+AB  - A consensus-validation study used action research methods to identify relevant nursing diagnoses, nursing interventions, and patient outcomes for a population of adults with traumatic brain injury (TBI) in long-term care. In meetings totaling 159 hours to reach 100% consensus through group discussions, the three classifications of NANDA International's (NANDA-I's) approved nursing diagnoses, the Nursing Interventions Classification (NIC), and the Nursing Outcomes Classification (NOC) were used as the basis for three nurses experienced in working with adults with TBI to select the elements of nursing care. Among almost 200 NANDA-I nursing diagnoses, 29 were identified as relevant for comprehensive nursing care of this population. Each nursing diagnosis was associated with 3?11 of the more than 500 NIC interventions and 1?13 of more than 300 NOC outcomes. The nurses became aware of the complexity and the need for critical thinking. The findings were used to refine the facility's nursing standards of care, which were to be combined with the interdisciplinary plan of care and included in future electronic health records.
+ER  - 
+
+TY  - JOUR
+AU  - Barbur, Laura A.
+AU  - Coleman, Kevin D.
+AU  - Schmiedt, Chad W.
+AU  - Radlinsky, MaryAnn G.
+TI  - Description of the Anatomy, Surgical Technique, and Outcome of Hemipelvectomy in 4 Dogs and 5 Cats
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 44
+IS  - 5
+SN  - 9780470662823
+UR  - https://doi.org/10.1111/vsu.12324
+DO  - doi:10.1111/vsu.12324
+SP  - 613
+EP  - 626
+PY  - 2015
+AB  - Objective To provide (1) a comprehensive description of hemipelvectomy; and (2) report clinical application and outcome of hemipelvectomy in dogs and cats. Study Design Descriptive report and retrospective case series. Animals Dogs (n?=?4) and 5 cats. Methods Cadaveric dissection was performed for imaging purposes using 4 mixed breed dogs euthanatized for reasons unrelated to this study. Medical records (2005?2012) were reviewed for dogs and cats that had hemipelvectomy. Data collected included signalment, body weight, body condition score, clinical presentation, diagnostic imaging findings, location and extent of tumor, definitive diagnosis, use of adjuvant therapy, ability to ambulate postoperatively, complications, and survival. Results The most common indication for hemipelvectomy in cats was injection site sarcoma (ISS) and in dogs, osteosarcoma or peripheral nerve sheath tumor (PNST). Complete tumor excision was achieved in 6 (67%) cases. Incomplete excision occurred in 2 dogs with lumbosacral PNST and 1 cat having a 2nd surgery for ISS. Complications included intraoperative hemorrhage (n?=?2), postoperative soft tissue infection (2), and discharge from the incision site (1). All but 1 animal were ambulatory at the time of discharge. Hospitalization ranged from 1?10 days (median, 4 days). Survival after surgery was individually assessed. Conclusion With in-depth anatomic familiarity, hemipelvectomy can be successful for excision of neoplastic lesions of the proximal aspect of the pelvic limb, with only minor complications.
+ER  - 

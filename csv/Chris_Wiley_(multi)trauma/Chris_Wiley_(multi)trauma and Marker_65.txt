@@ -1,0 +1,487 @@
+
+TY  - JOUR
+AU  - FÄNDRIKS, L.
+AU  - HAMLET, A.
+AU  - JÖNSON, C.
+TI  - Duodenal wall motility, mucosal net fluid and alkaline secretion in response to luminal acid: role of the vagal nerves and cholinergic transmission
+JO  - Acta Physiologica Scandinavica
+VL  - 150
+IS  - 3
+SN  - 0001-6772
+UR  - https://doi.org/10.1111/j.1748-1716.1994.tb09687.x
+DO  - doi:10.1111/j.1748-1716.1994.tb09687.x
+SP  - 273
+EP  - 279
+KW  - anticholinergic
+KW  - autonomic nervous system
+KW  - enteric nerves
+KW  - intestinal motility
+KW  - intestinal secretion
+KW  - mucosal protection
+KW  - vagotomy.
+PY  - 1994
+AB  - Experiments were performed on chloralose anaesthetized cats. Biliary and pancreatic secretions were diverted by separate cannulation of each duct. A 2-cm segment of the proximal duodenum was isolated between two luminally situated balloons and perfused with isotonic saline containing 14C-PEG 4000 as a non-absorbable marker. The perfusate was analysed with regard to alkalinity (back titration) and concentration of marker (liquid scintillation). Net alkalinization and net fluid transport were calculated with conventional equations. Motor activity in the duodenal wall was recorded as changes in volume of the proximal balloon. Exposing the duodenal segment of 30 mM HC1 induced duodenal contractions, net fluid secretion and an increased alkaline secretion, responses which were insensitive to acute truncal vagotomy. The acid-induced increase in contraction frequency was inhibited by hexamethonium, but not by atropine. Alkaline secretion in response to luminal acid was blocked by hexamethonium and inhibited by atropine, whereas the net fluid secretion was insensitive to these compounds. It is concluded that luminal exposure to hydrochloric acid changes the duodenal functional state by mechanisms which are independent of the extrinsic neural supply. Duodenal contractions during luminal acid exposure, and the alkalinization after such acid exposure, are mediated via local neural pathways, involving a nicotinic cholinergic step and, to some degree, muscarinic transmission. The mucosal volume secretion, however, appears to be mediated by non-conventional mechanisms.
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Yunjiao
+AU  - He, Gang
+AU  - Wang, Feng
+AU  - Zhang, Chenke
+AU  - Ge, Zilu
+AU  - Zheng, Xiaolong
+AU  - Deng, Honghao
+AU  - Yuan, Chengsong
+AU  - Zhou, Binghua
+AU  - Tao, Xu
+AU  - Zhang, Jiqiang
+AU  - Tang, Kanglai
+TI  - Aspirin inhibits adipogenesis of tendon stem cells and lipids accumulation in rat injury tendon through regulating PTEN/PI3K/AKT signalling
+JO  - Journal of Cellular and Molecular Medicine
+JA  - J Cell Mol Med
+VL  - 23
+IS  - 11
+SN  - 1582-1838
+UR  - https://doi.org/10.1111/jcmm.14622
+DO  - doi:10.1111/jcmm.14622
+SP  - 7535
+EP  - 7544
+KW  - adipogenesis
+KW  - aspirin
+KW  - tendinopathy
+KW  - tendon stem cells
+PY  - 2019
+AB  - Abstract Tendon injury repairs are big challenges in sports medicine, and fatty infiltration after tendon injury is very common and hampers tendon injury healing process. Tendon stem cells (TSCs), as precursors of tendon cells, have shown promising effect on injury tendon repair for their tenogenesis and tendon extracellular matrix formation. Adipocytes and lipids accumulation is a landmark event in pathological process of tendon injury, and this may induce tendon rupture in clinical practice. Based on this, it is important to inhibit TSCs adipogenesis and lipids infiltration to restore structure and function of injury tendon. Aspirin, as the representative of non-steroidal anti-inflammatory drugs (NSAIDs), has been widely used in tendon injury for its anti-inflammatory and analgesic actions, but effect of aspirin on TSCs adipogenesis and fatty infiltration is still unclear. Under adipogenesis conditions, TSCs were treated with concentration gradient of aspirin. Oil red O staining was performed to observe changes of lipids accumulation. Next, we used RNA sequencing to compare profile changes of gene expression between induction group and aspirin-treated group. Then, we verified the effect of filtrated signalling on TSCs adipogenesis. At last, we established rat tendon injury model and compared changes of biomechanical properties after aspirin treatment. The results showed that aspirin decreased lipids accumulation in injury tendon and inhibited TSCs adipogenesis. RNA sequencing filtrated PTEN/PI3K/AKT signalling as our target. After adding the signalling activators of VO-Ohpic and IGF-1, inhibited adipogenesis of TSCs was reversed. Still, aspirin promoted maximum loading, ultimate stress and breaking elongation of injury tendon. In conclusion, by down-regulating PTEN/PI3K/AKT signalling, aspirin inhibited adipogenesis of TSCs and fatty infiltration in injury tendon, promoted biomechanical properties and decreased rupture risk of injury tendon. All these provided new therapeutic potential and medicine evidence of aspirin in treating tendon injury and tendinopathy.
+ER  - 
+
+TY  - JOUR
+AU  - Ilmarinen, Tanja
+AU  - Laine, Juhana
+AU  - Juuti-Uusitalo, Kati
+AU  - Numminen, Jura
+AU  - Seppänen-Suuronen, Riitta
+AU  - Uusitalo, Hannu
+AU  - Skottman, Heli
+TI  - Towards a defined, serum- and feeder-free culture of stratified human oral mucosal epithelium for ocular surface reconstruction
+JO  - Acta Ophthalmologica
+VL  - 91
+IS  - 8
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2012.02523.x
+DO  - doi:10.1111/j.1755-3768.2012.02523.x
+SP  - 744
+EP  - 750
+KW  - corneal epithelium
+KW  - defined
+KW  - feeder-free
+KW  - ocular surface reconstruction
+KW  - oral mucosal epithelium
+KW  - serum-free
+PY  - 2013
+AB  - Abstract. Purpose:? Ocular surface reconstruction with cultivated oral mucosal epithelial transplantation technique is a viable treatment option for severe ocular surface injuries and diseases with limbal stem cell deficiency. Currently, this technique is based on utilization of xenogenic, allogenic or undefined components such as murine 3T3 feeders, serum and amniotic membrane. In this study, we aimed to find a more defined culture method to generate stratified human oral mucosal epithelium. Methods:? In this study, we have examined the formation of stratified cell sheets from human oral mucosal epithelial cells under serum-free culture environment both in the absence and presence of fibroblast-conditioned culture medium and elevated epidermal growth factor (EGF) concentration. Results:? In all examined culture conditions, the cultivated oral epithelial cells formed a stratified tissue, which was positive for keratins K3/12, K4 and K13. The tissue-engineered oral epithelia also expressed proliferation and progenitor markers Ki67 and p63 in the basal layer of the cell sheets, suggesting that the epithelia still had regenerative capacity. The cultures presented expression of tight junction proteins ZO-1 and occludin and high transepithelial electrical resistance values. Conclusion:? In this culture method, we have been able to produce stratified cell sheets successfully without serum, conditioning of the medium or increased EGF concentration. We provide a novel protocol to produce tight multi-layered epithelium with proliferative potential, which can be easily adapted for cultivated oral mucosal epithelial transplantation.
+ER  - 
+
+TY  - JOUR
+AU  - Boyer, Katherine A.
+AU  - Angst, Martin S.
+AU  - Asay, Jessica
+AU  - Giori, Nicholas J.
+AU  - Andriacchi, Thomas P.
+TI  - Sensitivity of gait parameters to the effects of anti-inflammatory and opioid treatments in knee osteoarthritis patients
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+VL  - 30
+IS  - 7
+SN  - 0736-0266
+UR  - https://doi.org/10.1002/jor.22037
+DO  - doi:10.1002/jor.22037
+SP  - 1118
+EP  - 1124
+KW  - osteoarthritis
+KW  - knee
+KW  - walking
+KW  - joint loading
+KW  - gait mechanics
+KW  - anti-inflammatory agent
+KW  - NSAID
+KW  - opioid
+KW  - pain
+KW  - inflammation
+KW  - cartilage
+KW  - analgesics
+KW  - cross-over study
+KW  - therapy
+KW  - aged
+PY  - 2012
+AB  - Abstract The study aim was to address the need for objective markers of pain-modifying interventions by testing the hypothesis that selective gait measures of knee joint loading can distinguish differences between non-steroidal anti-inflammatory (NSAID), analgesic treatment (opioid-receptor agonist), and placebo in patients medial knee osteoarthritis (OA). A randomized, single-blind washout, double-blind treatment, double-dummy cross-over trial using three treatment arms placebo, opioid (Oxycodone), and NSAID (Celecoxib) in medial compartment knee OA patients. Six patients with Kellgren?Lawrence radiographic severity grades of 2 or 3 completed six testing sessions (gait and pain assessment) at 2-week intervals. A significant increase was found in the knee total reaction moment and vertical ground reaction force (GRF) for Celecoxib compared to placebo (p?=?0.005, p?=?0.003), but not for Oxycodone compared to placebo (p?=?0.20, p?=?0.27) treatments. Walking speed was significantly higher for the Celecoxib and Oxycodone compared to placebo treatment (p?=?0.041 and p?=?0.031, respectively). Self-reported function (WOMAC scores) was not different among treatments (p?>?0.05). The changes in total reaction moments and GRFs for only the NSAID suggest that greater increases in joint loading occurs when joint inflammation is treated in addition to pain. The total knee reaction moment, representing the magnitude of the extrinsic moment, appears to be a sensitive marker, more so than self-reported metrics, for evaluating knee OA treatment effects. ? 2011 Orthopaedic Research Society. Published by Wiley Periodicals, Inc. J Orthop Res 30:1118?1124, 2012
+ER  - 
+
+TY  - JOUR
+AU  - Eisen, Mitchell L.
+AU  - Lynn, Steven J.
+TI  - Dissociation, memory and suggestibility in adults and children
+JO  - Applied Cognitive Psychology
+JA  - Appl. Cognit. Psychol.
+VL  - 15
+IS  - 7
+SN  - 0888-4080
+UR  - https://doi.org/10.1002/acp.834
+DO  - doi:10.1002/acp.834
+SP  - S49
+EP  - S73
+PY  - 2001
+AB  - Abstract The present article reviews research and theory related to dissociation, memory, and suggestibility in adults and children. We examine various manifestations of dissociation (e.g. trait versus state accounts of dissociation, pathological versus non-pathological dissociation), the different ways that memory and suggestibility are defined and measured across studies, and the extent to which dissociation is related to suggestibility as a function of the definition and measurement of relevant constructs. Finally, we examine the relationship between dissociation and children's resistance to misinformation, provide a critical review of the strengths and limitations of the extant literature, and suggest directions for future research and theoretical developments in the field. Copyright ? 2001 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Faunce, Douglas E.
+AU  - Garner, Jennifer L.
+AU  - Llanas, Julian N.
+AU  - Patel, Parag J.
+AU  - Gregory, Meredith S.
+AU  - Duffner, Lisa A.
+AU  - Gamelli, Richard L.
+AU  - Kovacs, Elizabeth J.
+TI  - Effect of Acute Ethanol Exposure on the Dermal Inflammatory Response After Burn Injury
+JO  - Alcoholism: Clinical and Experimental Research
+VL  - 27
+IS  - 7
+SN  - 0145-6008
+UR  - https://doi.org/10.1097/01.ALC.0000075833.92139.35
+DO  - doi:10.1097/01.ALC.0000075833.92139.35
+SP  - 1199
+EP  - 1206
+KW  - Thermal Injury
+KW  - Chemokines
+KW  - Neutrophils
+KW  - Burn Wound
+KW  - Inflammation
+KW  - Ethanol
+KW  - Wound Healing
+PY  - 2003
+AB  - Background: More than 100,000 people each year are admitted to U.S. hospitals for severe burn injury. Strikingly, ethanol use prior to injury is apparent in nearly 50% of burn patients, rendering them six times more likely to die from infection than patients not exposed to ethanol. We previously reported that the kinetics and magnitude of neutrophil chemokine production and subsequent accumulation of neutrophils in the lung was dramatically altered when ethanol exposure preceded injury. Here, we tested whether burn injury and ethanol exposure combined, altered susceptibility to infection, neutrophil chemoattractant production, and neutrophil accumulation at the site of the burn wound. Methods: Male B6D2F 1 mice were administered a dose of ethanol designed to achieve 90?100 mg/dl circulating levels and 30 min later subjected to a 15% total body surface area dorsal scald injury. Susceptibility to topically applied Pseudomonas aeruginosa was examined. At various times after injury, burn wound and normal tissues were collected for assessments of neutrophil counts, myeloperoxidase quantitation, and neutrophil chemoattractant (KC and MIP-2) production. Results: Ethanol exposure prior to burn injury enhanced susceptibility to infection after burn and was associated with significantly elevated production of KC, but not MIP-2, at the wound site. Despite the enhanced elevation of KC, neutrophil accumulation in the wounds of ethanol exposed, burn injured mice did not differ from those that received burn injury alone. TNFα (a potent activator of neutrophils), however, was found to be significantly elevated in the wounds of mice that received only burn injury, but not in those that received injury in combination with prior ethanol exposure. Conclusion: In the presence of ethanol, neutrophils are adequately recruited to the site of burn injury, but their host defense functions are impaired, perhaps due to the lack of proinflammatory cytokines such as TNFα.
+ER  - 
+
+TY  - JOUR
+AU  - Schwartz, Andrew M.
+AU  - Schenker, Mara L.
+AU  - Ahn, Jaimo
+AU  - Willett, Nick J.
+TI  - Building better bone: The weaving of biologic and engineering strategies for managing bone loss
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+VL  - 35
+IS  - 9
+SN  - 0736-0266
+UR  - https://doi.org/10.1002/jor.23592
+DO  - doi:10.1002/jor.23592
+SP  - 1855
+EP  - 1864
+KW  - bone transport
+KW  - critical bone loss
+KW  - bone augmentation
+KW  - bone graft
+PY  - 2017
+AB  - ABSTRACT Segmental bone loss remains a challenging clinical problem for orthopaedic trauma surgeons. In addition to the missing bone itself, the local tissues (soft tissue, vascular) are often highly traumatized as well, resulting in a less than ideal environment for bone regeneration. As a result, attempts at limb salvage become a highly expensive endeavor, often requiring multiple operations and necessitating the use of every available strategy (autograft, allograft, bone graft substitution, Masquelet, bone transport, etc.) to achieve bony union. A cost-sensitive, functionally appropriate, and volumetrically adequate engineered substitute would be practice-changing for orthopaedic trauma surgeons and these patients with difficult clinical problems. In tissue engineering and bone regeneration fields, numerous research efforts continue to make progress toward new therapeutic interventions for segmental bone loss, including novel biomaterial development as well as cell-based strategies. Despite an ever-evolving literature base of these new therapeutic and engineered options, there remains a disconnect with the clinical practice, with very few translating into clinical use. A symposium entitled ?Building better bone: The weaving of biologic and engineering strategies for managing bone loss,? was presented at the 2016 Orthopaedic Research Society Conference to further explore this engineering-clinical disconnect, by surveying basic, translational, and clinical researchers along with orthopaedic surgeons and proposing ideas for pushing the bar forward in the field of segmental bone loss. ? 2017 Orthopaedic Research Society. Published by Wiley Periodicals, Inc. J Orthop Res 35:1855?1864, 2017.
+ER  - 
+
+TY  - JOUR
+AU  - Schumacher, Yorck O.
+AU  - Garvican, Laura A.
+AU  - Christian, Ryan
+AU  - Lobigs, Louisa M.
+AU  - Qi, Jiliang
+AU  - Fan, Rongyun
+AU  - He, Yingying
+AU  - Wang, Hailing
+AU  - Gore, Christopher J.
+AU  - Ma, Fuhai
+C8  - DTA-14-0132.R2
+TI  - High altitude, prolonged exercise, and the athlete biological passport
+JO  - Drug Testing and Analysis
+JA  - Drug Test. Analysis
+VL  - 7
+IS  - 1
+SN  - 1942-7603
+UR  - https://doi.org/10.1002/dta.1717
+DO  - doi:10.1002/dta.1717
+SP  - 48
+EP  - 55
+KW  - blood
+KW  - doping
+KW  - cycling
+KW  - altitude
+KW  - training
+PY  - 2015
+AB  - The Athlete Biological Passport (ABP) detects blood doping in athletes through longitudinal monitoring of erythropoietic markers. Mathematical algorithms are used to define individual reference ranges for these markers for each athlete. It is unclear if altitude and exercise can affect the variables included in these calculations in a way that the changes might be mistaken for blood manipulation. The aim of this study was to investigate the influence of the simultaneous strenuous exercise and low to high altitude exposure on the calculation algorithms of the ABP. 14 sea level (SL) and 11 altitude native (ALT) highly trained athletes participated in a 14-day cycling stage race taking place at an average altitude of 2496?m above sea level (min. 1014?m, max. 4120?m), race distances ranged between 96 and 227?km per day. ABP blood measures were taken on days -1,3,6,10,14 (SL) and -1,9,15 (ALT) of the race. Four results from three samples of two different SL athletes exceeded the individual limits at the 99% specificity threshold and one value at 99.9%. In ALT, three results from three samples of three different athletes were beyond the individual limits at 99%, one at 99.9%. The variations could be explained by the expected physiological reaction to exercise and altitude. In summary, the abnormalities observed in the haematological ABP?s of well-trained athletes during extensive exercise at altitude are limited and in line with expected physiological changes. Copyright ? 2014 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Tan, E. K.
+AU  - Vaizey, C.
+AU  - Cornish, J.
+AU  - Darzi, A.
+AU  - Tekkis, P. P.
+TI  - Surgical strategies for faecal incontinence – a decision analysis between dynamic graciloplasty, artificial bowel sphincter and end stoma
+JO  - Colorectal Disease
+VL  - 10
+IS  - 6
+SN  - 1462-8910
+UR  - https://doi.org/10.1111/j.1463-1318.2007.01418.x
+DO  - doi:10.1111/j.1463-1318.2007.01418.x
+SP  - 577
+EP  - 586
+KW  - Faecal incontinence
+KW  - anal sphincter
+KW  - artificial bowel sphincter
+KW  - dynamic graciloplasty
+KW  - electrically stimulated gracilis neosphincter
+KW  - end stoma
+PY  - 2008
+AB  - Abstract Background  Artificial bowel sphincter (ABS) and dynamic graciloplasty (DG) are surgical treatments for faecal incontinence (FI). FI may affect quality of life (QOL) so severely that patients are often willing to consider a permanent end stoma (ES). It is unclear which is the more cost-effective strategy. Method  Probability estimates for patients with FI were obtained from published data (ABS, n?=?319; DG, n?=?301), supplemented by expert opinion. The primary outcome was quality-adjusted life years (QALYs) gained from each strategy. Factors considered were the risk of failure of the primary and redo operation and the consequent risk of permanent stoma. Results were assessed as incremental cost-effectiveness ratio (ICER). Results  Over the 5-year time horizon, ES gave a QALY gain of 3.45 for £16?280, giving an ICER of £4719/QALY. ABS produced a gain of 4.38 QALYs for £23?569, giving an ICER of £5387/QALY. DG produced a gain of 4.00 QALYs for £25?035, giving an ICER of £6257/QALY. With the willingness-to-pay threshold set at £30?000/QALY, ES was the most cost-effective intervention. The ABS was most cost-effective after 10?years. Conclusion  All three procedures were found to be cost-effective. The ES was most cost-effective over 5?years, while the ABS was most cost-effective in excess of 10. DG maybe considered as an alternative in specialist centres.
+ER  - 
+
+TY  - JOUR
+AU  - Fletcher, DJ
+AU  - Williams, DC
+AU  - Imai, A
+AU  - Ilkiw, JE
+TI  - QUANTITATIVE EEG TO EVALUATE DEPTH OF ANESTHESIA IN THE CAT
+JO  - Journal of Veterinary Emergency and Critical Care
+VL  - 14
+IS  - S1
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/j.1476-4431.2004.t01-4-04035.x
+DO  - doi:10.1111/j.1476-4431.2004.t01-4-04035.x
+SP  - S1
+EP  - S17
+PY  - 2004
+AB  - Introduction: Quantitative measures derived from the electroencephalogram (qEEG) have been used extensively in human medicine to assess the function of the brain under clinical manipulation (such as anesthesia and sedation), as well as in disease states (such as head trauma, coma and stroke). The goal of this study was to determine if qEEG measures could be used to predict the response of cats under isoflurane concentration to noxious stimuli. Methods: Twelve cats aged 1?2 years were included. Neurological and physical examination, blood chemistries and CBCs were normal in all cats. Anesthesia was induced with isoflurane (ISO) in O2, the cat was intubated and the femoral artery catheterized. The following physiologic data were collected continuously throughout the course of the experiment: temperature, blood pressure, respiratory rate, heart rate, and end-tidal CO2 and ISO concentrations. An Aspect Medical Systems A-1050 monitor was used to continuously record the raw electroencephalogram (EEG) and several qEEG measures including bispectral index (BIS), spectral edge frequency (SEF), burst suppression ratio (BSR), and total EEG power (POW). ISO concentration was maintained constant for 15?minutes, after which a tail clamp was applied for 1?minute. If the cat responded, the concentration was increased 10% and the procedure repeated. If the cat did not respond, the ISO concentration was decreased 10% and the procedure repeated. The minimum alveolar concentration (MAC) was the midpoint between a positive and negative response and, for each cat, this was determined three times. Results: BIS was significantly lower in cats at the lowest concentration at which there was no response (MAC?, 21.3±28.3) than at the highest concentration at which there was a response (MAC+, 63.4±22.1; p<.01, Wilcoxon signed rank). However, in 3/12 cats (25%), BIS was higher at MAC? than at MAC+. Of the other qEEG measures, only BSR was significantly different between MAC? and MAC+ (50.4±34.4 vs. 6.1±19.4, p<.01). Of the physiologic data collected, only respiratory rate was different between MAC? and MAC+ (29.4±10.0 vs. 45.3±17.9, p<.05). Conclusions: These results suggest that qEEG measures may be useful for anesthesia monitoring in cats, but measures that are less species-specific than the BIS may hold more promise. In addition, this work suggests that further studies utilizing qEEG measures for evaluation of sedation during ventilation as well as outcome prediction in animals with head trauma and critical illnesses with CNS complications are indicated.
+ER  - 
+
+TY  - JOUR
+AU  - Carrai, Riccardo
+AU  - Scarpino, Maenia
+AU  - Lolli, Francesco
+AU  - Spalletti, Maddalena
+AU  - Lanzo, Giovanni
+AU  - Peris, Adriano
+AU  - Lazzeri, Chiara
+AU  - Amantini, Aldo
+AU  - Grippo, Antonello
+TI  - Early-SEPs’ amplitude reduction is reliable for poor-outcome prediction after cardiac arrest?
+JO  - Acta Neurologica Scandinavica
+JA  - Acta Neurol Scand
+VL  - 139
+IS  - 2
+SN  - 0001-6314
+UR  - https://doi.org/10.1111/ane.13030
+DO  - doi:10.1111/ane.13030
+SP  - 158
+EP  - 165
+KW  - amplitude reduction cortical SEPs
+KW  - cardiac arrest
+KW  - EEG
+KW  - GOS
+PY  - 2019
+AB  - Objective The bilateral absence of cortical Somatosensory Evoked Potentials (SEPs), after cardiac arrest (CA), is a high reliable predictor of poor outcome but it is present in no more than 40% of patients. An amplitude reduction of cortical SEPs was found in about 30% of subjects, but few papers analysed its prognostic significance. The aim of our study is to identify a value of SEP amplitude reduction below which all the CA patients had poor outcome and the relationship between SEP and Electroencephalogram (EEG) patterns. Material and methods We analysed comatose patients in whom SEPs and EEG were recorded at 6-12 hours after CA. We evaluated the sensitivity at specificity of 100% of SEP amplitude in predicting the non-recovery of consciousness by plotting Receiver Operating Characteristic (ROC) curves. We also analysed the relationship between SEP amplitude and EEG patterns. Outcome was evaluated at 6 months by Glasgow Outcome Scale. Results We analysed 119 subjects. According to the ROC analysis (area under the curve = 0.95/CI 0.91-0.99), all patients with a cortical SEP amplitude <0.65 ?V did not recover consciousness (GOS 1-2), with a sensitivity of 71.8%. Severe EEG abnormalities (suppression and burst-suppression patterns) were also observed in all these patients. Conclusion Not only the absence but also a bilateral amplitude reduction of cortical SEPs (<0.65 ?V) is associated with ominous prognosis (death or non-recovery of consciousness) with a very high predictive value. However, we emphasize that great caution should be applied before adopting amplitude reduction as a criterion for the poor prognosis of CA patients.
+ER  - 
+
+TY  - JOUR
+AU  - Hole, S. L.
+AU  - Staszyk, C.
+TI  - Equine odontoclastic tooth resorption and hypercementosis
+JO  - Equine Veterinary Education
+JA  - Equine Vet Educ
+VL  - 30
+IS  - 7
+SN  - 0957-7734
+UR  - https://doi.org/10.1111/eve.12603
+DO  - doi:10.1111/eve.12603
+SP  - 386
+EP  - 391
+KW  - horse
+KW  - incisors
+KW  - canines
+KW  - tooth resorption
+KW  - hypercementosis
+KW  - EOTRH
+PY  - 2018
+AB  - Summary Equine odontoclastic tooth resorption and hypercementosis (EOTRH) is a progressive and painful disease syndrome that affects aged horses. It affects incisor, canine and infrequently cheek teeth, and is characterised by gingival inflammation, oedema and recession, calculus deposition, feed accumulation, subgingival swellings with or without associated draining tracts, bulbous enlargement of teeth, tooth mobility, associated periodontal disease, tooth fracture and/or tooth loss. The aetiology of EOTRH is likely to be multi-factorial. However, histopathological findings consistently suggest an aetiological contribution of initial biomechanical stresses and strains, followed by secondary involvement of micro-organisms. Diagnosis is based on clinical presentation, age and radiographic changes including lytic changes, widening or loss of the periodontal ligament, hypercementosis, tooth fracture and alveolar bone loss. Treatment of EOTRH is not currently possible, but the condition can be managed to some degree, quite successfully for many years in some cases. However, the disease is progressive and invariably results in extraction of the tooth or teeth involved. The prognosis is most probably guarded at best and poor in most cases; however, complete removal of affected teeth carries a good prognosis for an improved quality of life in the short to medium term.
+ER  - 
+
+TY  - JOUR
+AU  - Crowe, DT
+TI  - RAPID MILLER'S KNOT METHOD FOR EMERGENCY LUNG LOBE REMOVAL
+JO  - Journal of Veterinary Emergency and Critical Care
+VL  - 14
+IS  - S1
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/j.1476-4431.2004.t01-21-04035.x
+DO  - doi:10.1111/j.1476-4431.2004.t01-21-04035.x
+SP  - S1
+EP  - S17
+PY  - 2004
+AB  - A simple and rapid technique for the emergency removal of lung lobes was developed. It has been used successfully in 2 cats and 10 dogs without complications being recognized in any, with a minimum follow-up of four months. The purpose of this abstract is three-fold: 1) To briefly describe how the technique was done; 2) To describe the results of the use of the technique in these 14 emergency cases; and 3) Provide recommendations for the continued use of the technique in emergency cases. Method: The lung lobe requiring removal was selected and elevated; soft connective tissues around the lung lobe base were separated from the main pedicle using a fine curved scissors. With mild traction applied, 3 curved Halstead or Kelly hemostatic forceps were applied across the entire pedicle, one right after the other except for a break between the last 2 distal clamps. The lung lobe was removed by cutting the entire pedicle with a Metzenbaum scissors between the distal most clamps. The tips of the scissors were tilted slightly to produce a ?tissue bumper? of 1?3?mm above the distal most hemostatic forceps left. A Miller's knot of 3?0 to 2?0 polypropylene (cats and very small dogs) and 0 to 1 polypropylene (medium to large dogs) was applied around the entire pedicle under the clamps and tightened as the proximal most clamp was loosened briefly (flashed). The ends of the suture were continued to be carried around the pedicle in the direction they were coursing and then tied. A third ligation of the polypropylene was completed in large pedicles or where added security was deemed necessary such as in cases with a torn lung lobe due to trauma. Results: The procedure was used in emergency lung lobectomy in 2 cats involving 3 lobes and in 10 dogs. The reasons for emergency lobectomy were lung consolidation in 4 dogs (involving 6 lobes), trauma with severe tears or openings in 4 dogs (involving 6 lobes), a leaking congenital bulla in 1 dog, and 1 abscess/foreign body (wooden stick). Time taken to perform a lobectomy with this technique ranged from 3?7?minutes. No leaks or complications with the pedicle have been observed in any of the cases. Because only limited dissection is needed to perform the lobectomy, the author recommends this method over conventional lobectomy where artery, bronchus and vein are all managed individually.
+ER  - 
+
+AU  - Chadwick, Barbara
+AU  - Adams, Catherine
+C7  - pp. 277-295
+TI  - Role of the forensic odontologist in the protection of vulnerable people
+SN  - 9781119961451
+UR  - https://doi.org/10.1002/9781118526125.ch11
+DO  - doi:10.1002/9781118526125.ch11
+SP  - 277-295
+KW  - bite marks
+KW  - children
+KW  - dental neglect
+KW  - forensic odontologist
+KW  - vulnerable adults
+PY  - 2004
+AB  - Summary CORE INFO is an online source of up-to-date information from systematic reviews of the world literature with regard to child abuse and neglect. It includes reviews on bites, dental neglect and oral injuries. The issue of main concern to the forensic odontologist is that of bite mark analysis. Suggested interventions for dental neglect are based on those for general neglect, and it is therefore helpful to consider recent National Institute for Health and Clinical Excellence (NICE) guidance on child maltreatment before considering how to recognise and deal with dental neglect specifically. Importantly, treating the disease allows children to recover and catch up. The legislative framework for child protection within the UK can appear complex because no single piece of legislation covers it. Accurate, contemporaneous record keeping is a fundamental recommendation for healthcare professionals and forms an essential component of the accountability for child protection and the protection of vulnerable adults.
+ER  - 
+
+TY  - JOUR
+AU  - Henriksen, Kim
+AU  - O'Bryant, Sid E.
+AU  - Hampel, Harald
+AU  - Trojanowski, John Q.
+AU  - Montine, Thomas J.
+AU  - Jeromin, Andreas
+AU  - Blennow, Kaj
+AU  - Lönneborg, Anders
+AU  - Wyss-Coray, Tony
+AU  - Soares, Holly
+AU  - Bazenet, Chantal
+AU  - Sjögren, Magnus
+AU  - Hu, William
+AU  - Lovestone, Simon
+AU  - Karsdal, Morten A.
+AU  - Weiner, Michael W.
+AU  - Blood-Based Biomarker Interest Group
+TI  - The future of blood-based biomarkers for Alzheimer's disease
+JO  - Alzheimer's & Dementia
+JA  - Alzheimer's & Dementia
+VL  - 10
+IS  - 1
+SN  - 9781119961451
+UR  - https://doi.org/10.1016/j.jalz.2013.01.013
+DO  - doi:10.1016/j.jalz.2013.01.013
+SP  - 115
+EP  - 131
+KW  - Blood
+KW  - Plasma
+KW  - Serum
+KW  - Biomarkers
+KW  - Alzheimer's disease
+PY  - 2014
+AB  - Abstract Treatment of Alzheimer's disease (AD) is significantly hampered by the lack of easily accessible biomarkers that can detect disease presence and predict disease risk reliably. Fluid biomarkers of AD currently provide indications of disease stage; however, they are not robust predictors of disease progression or treatment response, and most are measured in cerebrospinal fluid, which limits their applicability. With these aspects in mind, the aim of this article is to underscore the concerted efforts of the Blood-Based Biomarker Interest Group, an international working group of experts in the field. The points addressed include: (1) the major challenges in the development of blood-based biomarkers of AD, including patient heterogeneity, inclusion of the ?right? control population, and the blood?brain barrier; (2) the need for a clear definition of the purpose of the individual markers (e.g., prognostic, diagnostic, or monitoring therapeutic efficacy); (3) a critical evaluation of the ongoing biomarker approaches; and (4) highlighting the need for standardization of preanalytical variables and analytical methodologies used by the field.
+ER  - 
+
+AU  - Png, Weileen
+AU  - Martinson, Wendy
+AU  - Maffulli, Nicola
+AU  - Spiezia, Filippo
+C7  - pp. 335-356
+TI  - Population Groups: II
+SN  - 9781444334685
+UR  - https://doi.org/10.1002/9781444344905.ch24
+DO  - doi:10.1002/9781444344905.ch24
+SP  - 335-356
+KW  - population groups, II
+KW  - sports nutritionists and dietitians
+KW  - ethnic groups
+KW  - ethnicity, culture and religion, shaping food choices
+KW  - ethnic group classification in Southeast Asia
+KW  - cultural considerations
+KW  - working with athletes of different ethnicities
+KW  - Ramadan fasting and sports performance
+KW  - nutritional considerations for athletes
+KW  - injured athlete, surgery and rehabilitation
+PY  - 2014
+AB  - Summary This chapter contains sections titled: Introduction Major classification of ethnic groups in Southeast Asia Cultural considerations Working with athletes of different ethnicities General skills for practitioners Special topic: Ramadan fasting and sports performance Introduction Nutritional considerations for athletes Effects on performance Summary Introduction Injury Trauma and malnutrition Nutrients for better wound healing Fasting Exercise-induced muscle damage Summary References and further reading
+ER  - 
+
+TY  - JOUR
+AU  - Oliveira, A. M.
+AU  - Obwolo, M. J.
+AU  -             Van Den Broek, A. H. M.
+AU  - Thoday, K. L.
+TI  - Focal metatarsal sinus tracts in a Weimaraner successfully managed with ciclosporin
+JO  - Journal of Small Animal Practice
+VL  - 48
+IS  - 3
+SN  - 9781444334685
+UR  - https://doi.org/10.1111/j.1748-5827.2006.00147.x
+DO  - doi:10.1111/j.1748-5827.2006.00147.x
+SP  - 161
+EP  - 164
+PY  - 2007
+AB  - Focal metatarsal sinus tracts (?fistulation?) are, to the authors knowledge, reported for the first time in a Weimaraner. The six-year-old, entire male had a five-month history of two symmetrical, well-demarcated sinuses on the plantar aspect of each metatarsus. The area surrounding each pair of sinuses was slightly fluctuant and a serosanguineous discharge could be expressed. Cytological examination of the discharge was characteristic of pyogranulomatous inflammation. Bacterial culture showed the material to be sterile. Examination of a skin biopsy revealed a severe inflammatory reaction involving the dermal collagen, with an infiltrate of neutrophils, macrophages, lymphocytes, plasma cells and multi-nucleated giant cells, with some micro-pustule formation. Treatment with ciclosporin induced total remission. Reduction of the dose of ciclosporin resulted in recurrence of the physical signs with further remission on re-introduction of the original dosage. This is the first report of the use of ciclosporin to control this condition.
+ER  - 
+
+TY  - JOUR
+AU  - Menke, Ricarda A. L.
+AU  - Gray, Elizabeth
+AU  - Lu, Ching-Hua
+AU  - Kuhle, Jens
+AU  - Talbot, Kevin
+AU  - Malaspina, Andrea
+AU  - Turner, Martin R.
+TI  - CSF neurofilament light chain reflects corticospinal tract degeneration in ALS
+JO  - Annals of Clinical and Translational Neurology
+JA  - Ann Clin Transl Neurol
+VL  - 2
+IS  - 7
+SN  - 9781444334685
+UR  - https://doi.org/10.1002/acn3.212
+DO  - doi:10.1002/acn3.212
+SP  - 748
+EP  - 755
+PY  - 2015
+AB  - Abstract Objective Diffusion tensor imaging (DTI) is sensitive to white matter tract pathology. A core signature involving the corticospinal tracts (CSTs) has been identified in amyotrophic lateral sclerosis (ALS). Raised neurofilament light chain protein (NfL) in cerebrospinal fluid (CSF) is thought to reflect axonal damage in a range of neurological disorders. The relationship between these two measures was explored. Methods CSF and serum NfL concentrations and DTI acquired at 3 Tesla on the same day were obtained from ALS patients (n = 25 CSF, 40 serum) and healthy, age-similar controls (n = 17 CSF, 25 serum). Within-group correlations between NfL and DTI measures of microstructural integrity in major white matter tracts (CSTs, superior longitudinal fasciculi [SLF], and corpus callosum) were performed using tract-based spatial statistics. Results NfL levels were higher in patients compared to controls. CSF levels correlated with clinical upper motor neuron burden and rate of disease progression. Higher NfL levels were significantly associated with lower DTI fractional anisotropy and increased radial diffusivity in the CSTs of ALS patients, but not in controls. Interpretation Elevated CSF and serum NfL is, in part, a result of CST degeneration in ALS. This highlights the wider potential for combining neurochemical and neuroimaging-based biomarkers in neurological disease.
+ER  - 
+
+TY  - JOUR
+AU  - Chatard, Charles
+AU  - Meiller, Anne
+AU  - Marinesco, Stéphane
+TI  - Microelectrode Biosensors for in vivo Analysis of Brain Interstitial Fluid
+JO  - Electroanalysis
+JA  - Electroanalysis
+VL  - 30
+IS  - 6
+SN  - 9781444334685
+UR  - https://doi.org/10.1002/elan.201700836
+DO  - doi:10.1002/elan.201700836
+SP  - 977
+EP  - 998
+KW  - enzyme
+KW  - oxidase
+KW  - electrochemistry
+KW  - biocompatibility
+KW  - brain monitoring
+PY  - 2018
+AB  - Abstract Chemical analyses of brain interstitial fluid can reveal important information about local brain metabolism and neurochemistry, and can enhance our understanding of how neuronal networks respond to physiological or pathological stimuli. Among brain monitoring methods currently available, microelectrode biosensors provide real-time analyses with high temporal resolution and minimal perturbation to living tissue by using oxidase enzymes for biological recognition. Two types of microelectrodes are used: cylindrically shaped wire electrodes provide the smallest implantable devices to date, and microfabricated multi-electrode needles can monitor several molecules simultaneously. They have already contributed significantly to our understanding of brain energy metabolism with glucose and lactate detection, and to neurotransmitter systems with glutamate, D-serine, acetylcholine, and purine detection. They have the potential to undergo further technological developments in future studies.
+ER  - 
+
+TY  - JOUR
+AU  - Quattrini, A
+AU  - Biffi, A
+AU  - Previtali, S
+AU  - Dina, G
+AU  - Bordignon, C
+AU  - Naldini, L
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 31
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 9781444334685
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00031.x
+DO  - doi:10.1046/j.1529-8027.2003.00031.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - Autologous hematopoietic stem cells (HSC) have been transferred with third generation lentiviral vectors, expressing the green fluorescent protein (GFP), under the human PGK promoter, and transplanted in wild type mice. Transplanted mice have been sacrificed at 6, and 9 months after bone marrow transplantation (BMT) to study the timing and extent of migration of BM derived transduced cells into peripheral nervous system (PNS). Starting from 6 months after BMT cells have been found in the PNS, such as in the acoustic ganglion, the dorsal root ganglions (DRG) and the sciatic nerve. At 9 months from transplant GFP positive cells represented the 50?60% of the F4/80 (a microglial marker) positive population of sciatic nerve sections and the 65?75% of F4/80?+ cells of the acoustic ganglion and DRG. At these sites, GFP positive cells were found between nerve fibers and neurons, they expressed F4/80, and were negative for GFAP, neuronal and myelin markers. Autologous BMT coupled with HSC transduction with high efficiency vectors could provide therapeutic benefit to several disorders affecting the PNS such as many lysosomal storage disorders. In these patients clinical evidence confirms the relevance of PNS involvement in the prognosis of the disease.
+ER  - 

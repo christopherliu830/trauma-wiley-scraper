@@ -1,0 +1,281 @@
+
+TY  - JOUR
+AU  - Ning, MingMing
+AU  - Lopez, Mary
+AU  - Cao, Jing
+AU  - Buonanno, Ferdinando S.
+AU  - Lo, Eng H.
+TI  - Application of proteomics to cerebrovascular disease
+JO  - ELECTROPHORESIS
+JA  - ELECTROPHORESIS
+VL  - 33
+IS  - 24
+SN  - 0173-0835
+UR  - https://doi.org/10.1002/elps.201200481
+DO  - doi:10.1002/elps.201200481
+SP  - 3582
+EP  - 3597
+KW  - Biomarker
+KW  - Cerebrovascular disease
+KW  - Cerebrospinal fluid (CSF)
+KW  - Mass spectrometry
+KW  - Pharmaco-proteomics
+KW  - Stroke
+PY  - 2012
+AB  - While neurovascular diseases such as ischemic and hemorrhagic stroke are the leading causes of disability in the world, the repertoire of therapeutic interventions has remained remarkably limited. There is a dire need to develop new diagnostic, prognostic, and therapeutic options. The study of proteomics is particularly enticing for cerebrovascular diseases such as stroke, which most likely involve multiple gene interactions resulting in a wide range of clinical phenotypes. Currently, rapidly progressing neuroproteomic techniques have been employed in clinical and translational research to help identify biologically relevant pathways, to understand cerebrovascular pathophysiology, and to develop novel therapeutics and diagnostics. Future integration of proteomic with genomic, transcriptomic, and metabolomic studies will add new perspectives to better understand the complexities of neurovascular injury. Here, we review cerebrovascular proteomics research in both preclinical (animal, cell culture) and clinical (blood, urine, cerebrospinal fluid, microdialyates, tissue) studies. We will also discuss the rewards, challenges, and future directions for the application of proteomics technology to the study of various disease phenotypes. To capture the dynamic range of cerebrovascular injury and repair with a translational targeted and discovery approach, we emphasize the importance of complementing innovative proteomic technology with existing molecular biology models in preclinical studies, and the need to advance pharmacoproteomics to directly probe clinical physiology and gauge therapeutic efficacy at the bedside.
+ER  - 
+
+TY  - JOUR
+TI  - 2014 ACR/ARHP Annual Meeting Abstract Supplement
+JO  - Arthritis & Rheumatology
+JA  - Arthritis & Rheumatology
+VL  - 66
+IS  - S10
+SN  - 2326-5191
+UR  - https://doi.org/10.1002/art.38914
+DO  - doi:10.1002/art.38914
+SP  - S1
+EP  - S1402
+PY  - 2014
+AB  - For a searchable version of these abstracts, please visit www.acrabstracts.org.
+ER  - 
+
+TY  - JOUR
+TI  - Neurology and neurobiology
+JO  - European Journal of Clinical Investigation
+VL  - 35
+IS  - s2
+SN  - 0014-2972
+UR  - https://doi.org/10.1111/j.1365-2362.2005.1478_8.x
+DO  - doi:10.1111/j.1365-2362.2005.1478_8.x
+SP  - A100
+EP  - A105
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - Immunology, rheumatology
+JO  - European Journal of Clinical Investigation
+VL  - 35
+IS  - s2
+SN  - 0014-2972
+UR  - https://doi.org/10.1111/j.1365-2362.2005.1478_5.x
+DO  - doi:10.1111/j.1365-2362.2005.1478_5.x
+SP  - A79
+EP  - A87
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - Haematology and oncology
+JO  - European Journal of Clinical Investigation
+VL  - 35
+IS  - s2
+SN  - 0014-2972
+UR  - https://doi.org/10.1111/j.1365-2362.2005.1478_4.x
+DO  - doi:10.1111/j.1365-2362.2005.1478_4.x
+SP  - A70
+EP  - A78
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - Lipids
+JO  - European Journal of Clinical Investigation
+VL  - 35
+IS  - s2
+SN  - 0014-2972
+UR  - https://doi.org/10.1111/j.1365-2362.2005.1478_6.x
+DO  - doi:10.1111/j.1365-2362.2005.1478_6.x
+SP  - A88
+EP  - A92
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - Nephrology and hypertension
+JO  - European Journal of Clinical Investigation
+VL  - 35
+IS  - s2
+SN  - 0014-2972
+UR  - https://doi.org/10.1111/j.1365-2362.2005.1478_7.x
+DO  - doi:10.1111/j.1365-2362.2005.1478_7.x
+SP  - A93
+EP  - A99
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Basic & Clinical Pharmacology & Toxicology
+JA  - Basic Clin Pharmacol Toxicol
+VL  - 125
+IS  - S2
+SN  - 1742-7835
+UR  - https://doi.org/10.1111/bcpt.13297
+DO  - doi:10.1111/bcpt.13297
+SP  - 3
+EP  - 330
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Journal of Gastroenterology and Hepatology
+JA  - Journal of Gastroenterology and Hepatology
+VL  - 31
+IS  - S3
+SN  - 0815-9319
+UR  - https://doi.org/10.1111/jgh.13540
+DO  - doi:10.1111/jgh.13540
+SP  - 7
+EP  - 441
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - Cardiovascular medicine
+JO  - European Journal of Clinical Investigation
+VL  - 35
+IS  - s2
+SN  - 0014-2972
+UR  - https://doi.org/10.1111/j.1365-2362.2005.1478_1.x
+DO  - doi:10.1111/j.1365-2362.2005.1478_1.x
+SP  - A1
+EP  - A29
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - Endocrinology, diabetology and metabolism
+JO  - European Journal of Clinical Investigation
+VL  - 35
+IS  - s2
+SN  - 0014-2972
+UR  - https://doi.org/10.1111/j.1365-2362.2005.1478_2.x
+DO  - doi:10.1111/j.1365-2362.2005.1478_2.x
+SP  - A30
+EP  - A59
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - Respiratory medicine
+JO  - European Journal of Clinical Investigation
+VL  - 35
+IS  - s2
+SN  - 0014-2972
+UR  - https://doi.org/10.1111/j.1365-2362.2005.1478_9.x
+DO  - doi:10.1111/j.1365-2362.2005.1478_9.x
+SP  - A106
+EP  - A107
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts  Others—Published Only
+JO  - Respirology
+VL  - 10
+IS  - s3
+SN  - 1323-7799
+UR  - https://doi.org/10.1111/j.1440-1843.2005.00775.x
+DO  - doi:10.1111/j.1440-1843.2005.00775.x
+SP  - A108
+EP  - A208
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - ACVIM Forum Abstracts
+JO  - Journal of Veterinary Internal Medicine
+VL  - 21
+IS  - 3
+SN  - 0891-6640
+UR  - https://doi.org/10.1111/j.1939-1676.2007.tb03006.x
+DO  - doi:10.1111/j.1939-1676.2007.tb03006.x
+SP  - 559
+EP  - 670
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Section
+JO  - Transfusion
+VL  - 52
+IS  - s3
+SN  - 0041-1132
+UR  - https://doi.org/10.1111/j.1537-2995.2012.03833_1.x
+DO  - doi:10.1111/j.1537-2995.2012.03833_1.x
+SP  - 10A
+EP  - 229A
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+TI  - Synopses of papers presented at the 159th meeting of the Pathological Society of Great Britain and Ireland
+JO  - The Journal of Pathology
+JA  - J. Pathol.
+VL  - 158
+IS  - 4
+SN  - 0022-3417
+UR  - https://doi.org/10.1002/path.1711580412
+DO  - doi:10.1002/path.1711580412
+SP  - A335
+EP  - A358
+PY  - 1989
+ER  - 
+
+TY  - JOUR
+TI  - ASBMR-IBMS second joint meeting
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 13
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.5650130102
+DO  - doi:10.1002/jbmr.5650130102
+SP  - S1
+EP  - S653
+PY  - 1998
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Abstracts
+JO  - Pediatric Transplantation
+VL  - 13
+IS  - s1
+SN  - 1397-3142
+UR  - https://doi.org/10.1111/j.1399-3046.2009.01146.x
+DO  - doi:10.1111/j.1399-3046.2009.01146.x
+SP  - 46
+EP  - 156
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts
+JO  - Respirology
+VL  - 14
+IS  - s3
+SN  - 1323-7799
+UR  - https://doi.org/10.1111/j.1440-1843.2009.01658.x
+DO  - doi:10.1111/j.1440-1843.2009.01658.x
+SP  - A170
+EP  - A295
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+TI  - 2015 ACR/ARHP Annual Meeting Abstract Supplement
+JO  - Arthritis & Rheumatology
+JA  - Arthritis & Rheumatology
+VL  - 67
+IS  - S10
+SN  - 2326-5191
+UR  - https://doi.org/10.1002/art.39448
+DO  - doi:10.1002/art.39448
+SP  - 1
+EP  - 4046
+PY  - 2015
+AB  - For a searchable version of these abstracts, please visit www.acrabstracts.org. Please Note: It may take several minutes for this file to download.
+ER  - 

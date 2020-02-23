@@ -1,0 +1,319 @@
+
+TY  - JOUR
+AU  - Trahtemberg, U.
+AU  - Bazak, N.
+AU  - Sviri, S.
+AU  - Beil, M.
+AU  - Paschke, S.
+AU  - van Heerden, P.V.
+TI  - Cytokine patterns in critically ill patients undergoing percutaneous tracheostomy
+JO  - Clinical & Experimental Immunology
+JA  - Clin Exp Immunol
+VL  - 198
+IS  - 1
+SN  - 0009-9104
+UR  - https://doi.org/10.1111/cei.13333
+DO  - doi:10.1111/cei.13333
+SP  - 121
+EP  - 129
+KW  - critical care
+KW  - cytokines
+KW  - human
+KW  - inflammation
+KW  - percutaneous tracheostomy
+PY  - 2019
+AB  - Summary The inflammatory response to acute injury among humans has proved difficult to study due to the significant heterogeneity encountered in actual patients. We set out to characterize the immune response to a model injury with reduced heterogeneity, a tracheostomy, among stable critical care patients, using a broad cytokine panel and clinical data. Twenty-three critical care patients undergoing percutaneous bedside tracheostomies were recruited in a medical intensive care unit. Blood samples were collected at five intervals during 24-h peri-procedure. Patients were followed-up for 28 days for clinical outcomes. There were no statistically significant changes in any of the cytokines between the five time-points when studied as a whole cohort. Longitudinal analysis of the cytokine patterns at the individual patient level with a clustering algorithm showed that, notwithstanding the significant heterogeneity observed, the patients? cytokine responses can be classified into three broad patterns that show increasing, decreasing or no major changes from the baseline. This analytical approach also showed statistically significant associations between cytokines, with those most likely to be associated being interleukin (IL)-6, granulocyte colony-stimulating factor (GCSF) and ferritin, as well as a strong tri-way correlation between GCSF, monocyte chemoattractant protein 1 (MCP1) and macrophage inflammatory protein-1? (MIP1?). In conclusion, in this standard human model of soft tissue injury, by applying longitudinal analysis at the individual level, we have been able to identify the cytokine patterns underlying the seemingly random, heterogeneous patient responses. We have also identified consistent cytokine interactions suggesting that IL-6, GCSF, MCP1 and MIP1? are the cytokines most probably driving the immune response to this injury.
+ER  - 
+
+TY  - JOUR
+TI  - Oral Presentation
+JO  - Journal of Diabetes Investigation
+VL  - 3
+IS  - s1
+SN  - 2040-1116
+UR  - https://doi.org/10.1111/jdi.12012
+DO  - doi:10.1111/jdi.12012
+SP  - 79
+EP  - 146
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+AU  - Welc, Steven S.
+AU  - Clanton, Thomas L.
+TI  - The regulation of interleukin-6 implicates skeletal muscle as an integrative stress sensor and endocrine organ
+JO  - Experimental Physiology
+VL  - 98
+IS  - 2
+SN  - 0958-0670
+UR  - https://doi.org/10.1113/expphysiol.2012.068189
+DO  - doi:10.1113/expphysiol.2012.068189
+SP  - 359
+EP  - 371
+PY  - 2013
+AB  - New findings ?? What is the topic of this review? This review discusses the regulation of the interleukin-6 (IL-6) gene and how it is uniquely set up to respond to stress signals in skeletal muscle. We propose that skeletal muscle is a ?stress sensor? that responds by releasing highly active endocrine and paracrine proteins, such as IL-6. ?? What advances does this highlight? Recent discoveries on the regulation of the IL-6 gene in various stress exposures have resulted in the emergence of a new potential role for skeletal muscle in life-threatening stress conditions. Understanding the relationship between IL-6 secretion and stress may provide new insights into normal adaptive responses to disease, deconditioning, inflammation and ageing. Skeletal muscle has been identified as an endocrine organ owing to its capacity to produce and secrete a variety of cytokines (myokines) and other proteins. To date, myokines have primarily been studied in response to exercise or metabolic challenges; however, numerous observations suggest that skeletal muscle may also release myokines in response to certain categories of internal or external stress exposure. Internal stress signals include oxidative or nitrosative stress, damaged or unfolded proteins, hyperthermia or energy imbalance. External stress signals, which act as indicators of organismal stress or injury in other cells, employ mediators such as catecholamines, endotoxin, alarmins, ATP and pro-inflammatory cytokines, such as tumour necrosis factor-α and interleukin-1?. External stress signals generally induce cellular responses through membrane receptor systems. In this review, we focus on the regulation of interleukin-6 (IL-6) as a prototypical stress response myokine and highlight evidence that IL-6 gene regulation in muscle is inherently organized to respond to a wide variety of internal and external stressors. Given that IL-6 can initiate protective, anti-inflammatory or restorative processes throughout the organism during life-threatening conditions, we present the argument that skeletal muscle has a physiological function as a sensor and responder to stress. Furthermore, we hypothesize that it may comprise a fundamental component of the organism's acute stress response.
+ER  - 
+
+TY  - JOUR
+AU  - Haines, David D.
+AU  - Juhasz, Bela
+AU  - Tosaki, Arpad
+TI  - Management of multicellular senescence and oxidative stress
+JO  - Journal of Cellular and Molecular Medicine
+JA  - J. Cell. Mol. Med.
+VL  - 17
+IS  - 8
+SN  - 1582-1838
+UR  - https://doi.org/10.1111/jcmm.12074
+DO  - doi:10.1111/jcmm.12074
+SP  - 936
+EP  - 957
+KW  - apoptosis
+KW  - necrosis
+KW  - autophagy
+KW  - necroptosis
+KW  - senescence
+KW  - oxidative stress
+PY  - 2013
+AB  - Abstract Progressively sophisticated understanding of cellular and molecular processes that contribute to age-related physical deterioration is being gained from ongoing research into cancer, chronic inflammatory syndromes and other serious disorders that increase with age. Particularly valuable insight has resulted from characterization of how senescent cells affect the tissues in which they form in ways that decrease an organism's overall viability. Increasingly, the underlying pathophysiology of ageing is recognized as a consequence of oxidative damage. This leads to hyperactivity of cell growth pathways, prominently including mTOR (mammalian target of rapamycin), that contribute to a build-up in cells of toxic aggregates such as progerin (a mutant nuclear cytoskeletal protein), lipofuscin and other cellular debris, triggering formation of senescent cellular phenotypes, which interact destructively with surrounding tissue. Indeed, senescent cell ablation dramatically inhibits physical deterioration in progeroid (age-accelerated) mice. This review explores ways in which oxidative stress creates ageing-associated cellular damage and triggers induction of the cell death/survival programs? apoptosis, necrosis, autophagy and ?necroapoptophagy?. The concept of ?necroapoptophagy? is presented here as a strategy for varying tissue oxidative stress intensity in ways that induce differential activation of death versus survival programs, resulting in enhanced and sustained representation of healthy functional cells. These strategies are discussed in the context of specialized mesenchymal stromal cells with the potential to synergize with telocytes in stabilizing engrafted progenitor cells, thereby extending periods of healthy life. Information and concepts are summarized in a hypothetical approach to suppressing whole-organism senescence, with methods drawn from emerging understandings of ageing, gained from Cnidarians (jellyfish, corals and anemones) that undergo a unique form of cellular regeneration, potentially conferring open-ended lifespans.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts
+JO  - HPB
+JA  - HPB
+VL  - 17
+IS  - S2
+SN  - 1365-182X
+UR  - https://doi.org/10.1111/hpb.12403
+DO  - doi:10.1111/hpb.12403
+SP  - 25
+EP  - 266
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - Symposia
+JO  - Glia
+JA  - Glia
+VL  - 61
+IS  - S1
+SN  - 0894-1491
+UR  - https://doi.org/10.1002/glia.22531
+DO  - doi:10.1002/glia.22531
+SP  - S16
+EP  - S48
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - Free Communications Sessions 01–16 Wednesday, August 28, 2013
+JO  - International Dental Journal
+JA  - Int Dent J
+VL  - 63
+IS  - s1
+SN  - 0020-6539
+UR  - https://doi.org/10.1111/idj.12049
+DO  - doi:10.1111/idj.12049
+SP  - 1
+EP  - 98
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - POSTER PRESENTATION: BILIARY
+JO  - HPB
+VL  - 14
+IS  - s2
+SN  - 1365-182X
+UR  - https://doi.org/10.1111/j.1477-2574.2012.00512.x
+DO  - doi:10.1111/j.1477-2574.2012.00512.x
+SP  - 288
+EP  - 699
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts—Speakers
+JO  - Alcoholism: Clinical and Experimental Research
+JA  - Alcohol Clin Exp Re
+VL  - 43
+IS  - S1
+SN  - 0145-6008
+UR  - https://doi.org/10.1111/acer.14060
+DO  - doi:10.1111/acer.14060
+SP  - 259A
+EP  - 333A
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - 21st Annual Meeting of the European Tissue Repair Society
+JO  - Wound Repair and Regeneration
+JA  - Wound Repair Regen
+VL  - 19
+IS  - 5
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1524-475X.2011.00728.x
+DO  - doi:10.1111/j.1524-475X.2011.00728.x
+SP  - A70
+EP  - A97
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - Concurrent Sessions Posters
+JO  - HPB
+JA  - HPB
+VL  - 15
+IS  - s2
+SN  - 1365-182X
+UR  - https://doi.org/10.1111/hpb.12093
+DO  - doi:10.1111/hpb.12093
+SP  - 85
+EP  - 244
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+AU  - Leiro, Victoria
+AU  - Duque Santos, Sofia
+AU  - Lopes, Cátia D. F.
+AU  - Paula Pêgo, Ana
+C7  - 1700313
+TI  - Dendrimers as Powerful Building Blocks in Central Nervous System Disease: Headed for Successful Nanomedicine
+JO  - Advanced Functional Materials
+JA  - Adv. Funct. Mater.
+VL  - 28
+IS  - 12
+SN  - 1616-301X
+UR  - https://doi.org/10.1002/adfm.201700313
+DO  - doi:10.1002/adfm.201700313
+SP  - 1700313
+KW  - blood-brain-barrier (BBB)
+KW  - cell targeting
+KW  - dendrimers
+KW  - neurological diseases
+KW  - neurodegenerative diseases
+KW  - surface functionalization
+PY  - 2018
+AB  - Abstract Dendrimers have emerged as a powerful class of nanomaterials in the nanomedicine field due to their unique structural features: globular, well-defined, highly branched and controllable structure, nanosize-scale, low polydispersity, and the presence of several terminal groups that can be functionalized with different ligands simulating the multivalency present in different biological systems. Although in its infancy, the application of dendrimers as therapeutics or theranostic tools in central nervous system (CNS) disorders is already significant and has opened promising avenues in the treatment of many conditions where the inherent ?smartness? of the dendritic structures is being explored to effectively target the CNS. Here we present an overview of the past and future challenges of the use of dendrimers to respond to one of the ultimate challenges in the (nano)medicine field: to attain CNS repair and regeneration.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts of the 2012 PNS/Inflammatory Neuropathy Consortium Meeting June 24–27, 2012 Rotterdam, The Netherlands
+JO  - Journal of the Peripheral Nervous System
+VL  - 17
+IS  - 2
+SN  - 1085-9489
+UR  - https://doi.org/10.1111/j.1529-8027.2012.00410.x
+DO  - doi:10.1111/j.1529-8027.2012.00410.x
+SP  - 229
+EP  - 282
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+TI  - Belfast Pathology 2017. 10th Joint Meeting of the British Division of the International Academy of Pathology and the Pathological Society of Great Britain & Ireland, 20–23 June 2017
+JO  - The Journal of Pathology
+JA  - J. Pathol.
+VL  - 243
+IS  - S1
+SN  - 0022-3417
+UR  - https://doi.org/10.1002/path.4984
+DO  - doi:10.1002/path.4984
+SP  - S1
+EP  - S41
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts
+JO  - The Journal of Dermatology
+JA  - J Dermatol
+VL  - 41
+IS  - s1
+SN  - 0385-2407
+UR  - https://doi.org/10.1111/1346-8138.12686
+DO  - doi:10.1111/1346-8138.12686
+SP  - 17
+EP  - 114
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - 17th International Congress of Immunology, 19–23 October 2019, Beijing, China
+JO  - European Journal of Immunology
+JA  - Eur. J. Immunol.
+VL  - 49
+IS  - S3
+SN  - 0014-2980
+UR  - https://doi.org/10.1002/eji.201970400
+DO  - doi:10.1002/eji.201970400
+SP  - 1
+EP  - 2223
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Oral abstracts
+JO  - Journal of Clinical Periodontology
+VL  - 36
+IS  - s9
+SN  - 0303-6979
+UR  - https://doi.org/10.1111/j.1600-051X.2009.01403.x
+DO  - doi:10.1111/j.1600-051X.2009.01403.x
+SP  - 1
+EP  - 39
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+TI  - Sunday, December 6, 2009 Investigators’ Workshop Poster Session - Evening Session 5:30 p.m.-7:00 p.m.
+JO  - Epilepsia
+VL  - 50
+IS  - s11
+SN  - 0013-9580
+UR  - https://doi.org/10.1111/j.1528-1167.2009.02377_9.x
+DO  - doi:10.1111/j.1528-1167.2009.02377_9.x
+SP  - 320
+EP  - 328
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+AU  - Garrido-Mesa, N
+AU  - Zarzuelo, A
+AU  - Gálvez, J
+TI  - Minocycline: far beyond an antibiotic
+JO  - British Journal of Pharmacology
+JA  - Br J Pharmacol
+VL  - 169
+IS  - 2
+SN  - 0007-1188
+UR  - https://doi.org/10.1111/bph.12139
+DO  - doi:10.1111/bph.12139
+SP  - 337
+EP  - 352
+KW  - minocycline
+KW  - tetracyclines
+KW  - antibiotic
+KW  - anti-inflammatory
+KW  - immunomodulatory
+KW  - neuroprotection
+PY  - 2013
+AB  - Minocycline is a second-generation, semi-synthetic tetracycline that has been in therapeutic use for over 30 years because of its antibiotic properties against both gram-positive and gram-negative bacteria. It is mainly used in the treatment of acne vulgaris and some sexually transmitted diseases. Recently, it has been reported that tetracyclines can exert a variety of biological actions that are independent of their anti-microbial activity, including anti-inflammatory and anti-apoptotic activities, and inhibition of proteolysis, angiogenesis and tumour metastasis. These findings specifically concern to minocycline as it has recently been found to have multiple non-antibiotic biological effects that are beneficial in experimental models of various diseases with an inflammatory basis, including dermatitis, periodontitis, atherosclerosis and autoimmune disorders such as rheumatoid arthritis and inflammatory bowel disease. Of note, minocycline has also emerged as the most effective tetracycline derivative at providing neuroprotection. This effect has been confirmed in experimental models of ischaemia, traumatic brain injury and neuropathic pain, and of several neurodegenerative conditions including Parkinson's disease, Huntington's disease, amyotrophic lateral sclerosis, Alzheimer's disease, multiple sclerosis and spinal cord injury. Moreover, other pre-clinical studies have shown its ability to inhibit malignant cell growth and activation and replication of human immunodeficiency virus, and to prevent bone resorption. Considering the above-mentioned findings, this review will cover the most important topics in the pharmacology of minocycline to date, supporting its evaluation as a new therapeutic approach for many of the diseases described herein.
+ER  - 
+
+TY  - JOUR
+TI  - Monday, December 7, 2009 Poster Session 3 8:00 a.m.-6:00 p.m.
+JO  - Epilepsia
+VL  - 50
+IS  - s11
+SN  - 0013-9580
+UR  - https://doi.org/10.1111/j.1528-1167.2009.02377_10.x
+DO  - doi:10.1111/j.1528-1167.2009.02377_10.x
+SP  - 328
+EP  - 482
+PY  - 2009
+ER  - 

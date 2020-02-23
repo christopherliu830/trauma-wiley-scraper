@@ -1,0 +1,73 @@
+
+TY  - JOUR
+TI  - Scientific Programme
+JO  - International Journal of Andrology
+VL  - 33
+IS  - s1
+SN  - 0105-6263
+UR  - https://doi.org/10.1111/j.1365-2605.2010.01104.x
+DO  - doi:10.1111/j.1365-2605.2010.01104.x
+SP  - 4
+EP  - 20
+PY  - 2010
+ER  - 
+
+AU  - Talikka, Marja
+AU  - Boué, Stephanie
+AU  - Frentzel, Stefan
+AU  - Kogel, Ulrike
+AU  - Sierro, Nicolas
+AU  - Titz, Bjorn
+AU  - Veljkovic, Emilija
+AU  - Hoeng, Julia
+AU  - Peitsch, Manuel C.
+C7  - pp. 1-39
+TI  - Systems Toxicology
+SN  - 9780470450154
+UR  - https://doi.org/10.1002/9780470921920.edm143
+DO  - doi:10.1002/9780470921920.edm143
+SP  - 1-39
+KW  - inhalation
+KW  - systems biology
+KW  - omics
+KW  - transcriptomics
+KW  - genomics
+KW  - proteomics
+KW  - lipidomics
+KW  - computational
+KW  - network models
+PY  - 2010
+AB  - Abstract The human respiratory tract is exposed to numerous contaminants; traditional toxicity testing methods are insufficient to understand the extent of their biological impact and to recommend dose guidelines for safe exposure. Systems toxicology approaches are starting to shape the way for a better assessment of toxicity associated with inhaled substances. A well-designed assessment pipeline begins with the choice of the experimental system, exposure modality, and characterization of the exposure. The different omics technologies are a crucial part of modern toxicity testing by providing a holistic, unbiased view of a substance's impact. Transcriptomics technologies give insight into the differential expression of genes resulting from exposures, and genomics technologies assess the impact on the DNA itself. Large-scale proteomics and metabolomics measurements provide additional layers of data and enable the detailed interpretation of the outcome of differential gene expression and the analysis of processes. Network biology is emerging as a powerful tool to filter relevant signal from noise using a priori knowledge. The quantitative aspect of network scoring allows the comparison of different doses and exposure durations and represents the impact as a single holistic score. Crowd sourcing facilitates the collaborative and transparent establishment and verification of toxicity testing methods.
+ER  - 
+
+TY  - JOUR
+AU  - Liu, Yuxin
+AU  - Jia, Qi
+AU  - Zhou, Jing
+C7  - 1800055
+TI  - Recent Advance in Near-Infrared (NIR) Imaging Probes for Cancer Theranostics
+JO  - Advanced Therapeutics
+JA  - Adv. Therap.
+VL  - 1
+IS  - 8
+SN  - 9780470450154
+UR  - https://doi.org/10.1002/adtp.201800055
+DO  - doi:10.1002/adtp.201800055
+SP  - 1800055
+KW  - cancer theranostics
+KW  - luminescence
+KW  - near-infrared II
+KW  - photoacoustic
+KW  - photothermal
+PY  - 2018
+AB  - Abstract With the advantages of low biofluid scattering and minimal absorbance, light in a second near-infrared window (NIR II, 1000?1700 nm) either as a signal or as an excitation source is preferred for bioimaging and disease diagnosis, especially for cancer theranostics. Due to recent advances in chemical synthesis and imaging techniques, various NIR II probes have been evaluated for tumor luminescence image-guided cancer therapy and surgery. Furthermore, probes emitting optical, acoustic, or thermal signals under NIR II excitation have also been developed for upconversion luminescence, photoacoustic, and photothermal imaging of tumors. Herein, recent advances in the use of NIR II imaging probes in cancer theranostic applications are summarized along with future perspectives.
+ER  - 
+
+C7  - pp. 1131-1188
+TI  - Index
+SN  - 9781118981528
+UR  - https://doi.org/10.1002/9781118981559.index
+DO  - doi:10.1002/9781118981559.index
+SP  - 1131-1188
+PY  - 2018
+ER  - 

@@ -1,0 +1,309 @@
+
+TY  - JOUR
+AU  - Sánchez, Maria Isabel González
+AU  - McCullagh, James
+AU  - Guy, Richard H.
+AU  - Compton, Richard G.
+C8  - PCA-16-0258.R1
+TI  - Reverse Iontophoretic Extraction of Metabolites from Living Plants and their Identification by Ion-chromatography Coupled to High Resolution Mass Spectrometry
+JO  - Phytochemical Analysis
+JA  - Phytochem. Anal.
+VL  - 28
+IS  - 3
+SN  - 0958-0344
+UR  - https://doi.org/10.1002/pca.2660
+DO  - doi:10.1002/pca.2660
+SP  - 195
+EP  - 201
+KW  - Ocimum basilicum
+KW  - reverse iontophoresis
+KW  - ion chromatography
+KW  - mass spectrometry
+KW  - plant metabolite identification
+PY  - 2017
+AB  - Abstract Introduction The identification and characterisation of cellular metabolites has now become an important strategy to obtain insight into functional plant biology. However, the extraction of metabolites for identification and analysis is challenging and, at the present time, usually requires destruction of the plant. Objective To detect different plant metabolites in living plants with no pre-treatment using the combination of iontophoresis and ion-chromatography with mass spectrometry detection. Methodology In this work, the simple and non-destructive method of reverse iontophoresis has been used to extract in situ multiple plant metabolites from intact Ocimum basilicum leaves. Subsequently, the analysis of these metabolites has been performed with ion chromatography coupled directly to high resolution mass spectrometric detection (IC-MS). Results The application of reverse iontophoresis to living plant samples has avoided the need for complex pre-treatments. With this approach, no less than 24 compounds, including organic acids and sugars as well as adenosine triphosphate (ATP) were successfully detected. Conclusion The research demonstrates that it is feasible to monitor, therefore, a number of important plant metabolites using a simple, relatively fast and non-destructive approach. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts
+JO  - Anaesthesia
+JA  - Anaesthesia
+VL  - 69
+IS  - s2
+SN  - 0003-2409
+UR  - https://doi.org/10.1111/anae.12589
+DO  - doi:10.1111/anae.12589
+SP  - 7
+EP  - 55
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - Index to Volume 11: Subject
+JO  - Wound Repair and Regeneration
+VL  - 11
+IS  - 6
+SN  - 1067-1927
+UR  - https://doi.org/10.1046/j.0043-1737.2003.11-6_volind.x
+DO  - doi:10.1046/j.0043-1737.2003.11-6_volind.x
+SP  - 513
+EP  - 526
+PY  - 2003
+ER  - 
+
+TY  - JOUR
+AU  - TOOULI, J
+AU  - BROOKE-SMITH, M
+AU  - BASSI, C
+AU  - CARR-LOCKE, D
+AU  - TELFORD, J
+AU  - FREENY, P
+AU  - IMRIE, C
+AU  - TANDON, R
+TI  - Guidelines for the management of acute pancreatitis
+JO  - Journal of Gastroenterology and Hepatology
+VL  - 17
+IS  - s1
+SN  - 0815-9319
+UR  - https://doi.org/10.1046/j.1440-1746.17.s1.2.x
+DO  - doi:10.1046/j.1440-1746.17.s1.2.x
+SP  - S15
+EP  - S39
+PY  - 2002
+ER  - 
+
+TY  - JOUR
+AU  - Laskowski, Igor A
+AU  - Pratschke, Johann
+AU  - Wilhelm, Markus J
+AU  - Paz, Dustin
+AU  - Tilney, Nicholas L
+TI  - Non-heartbeating kidney donors
+JO  - Clinical Transplantation
+JA  - J Clin Transplant
+VL  - 13
+IS  - 4
+SN  - 0902-0063
+UR  - https://doi.org/10.1034/j.1399-0012.1999.130401.x
+DO  - doi:10.1034/j.1399-0012.1999.130401.x
+SP  - 281
+EP  - 286
+PY  - 1999
+ER  - 
+
+TY  - JOUR
+TI  - 125th annual meeting: American Neurological Association
+JO  - Annals of Neurology
+JA  - Ann Neurol.
+VL  - 48
+IS  - 3
+SN  - 0364-5134
+UR  - https://doi.org/10.1002/ana.410480301
+DO  - doi:10.1002/ana.410480301
+SP  - 407
+EP  - 552
+PY  - 2000
+ER  - 
+
+TY  - JOUR
+TI  - Oral Abstracts
+JO  - Journal of Medical Imaging and Radiation Oncology
+VL  - 52
+IS  - s1
+SN  - 1754-9477
+UR  - https://doi.org/10.1111/j.1440-1673.2008.01984.x
+DO  - doi:10.1111/j.1440-1673.2008.01984.x
+SP  - A1
+EP  - A44
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+TI  - The International Liver Transplantation Society: 16th Annual International Congress
+JO  - Liver Transplantation
+JA  - Liver Transpl
+VL  - 16
+IS  - S1
+SN  - 1527-6465
+UR  - https://doi.org/10.1002/lt.22086
+DO  - doi:10.1002/lt.22086
+SP  - S1
+EP  - S284
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Exhibits
+JO  - Journal of Medical Imaging and Radiation Oncology
+JA  - Journal of Medical Imaging and Radiation Oncology
+VL  - 58
+IS  - S1
+SN  - 1754-9477
+UR  - https://doi.org/10.1111/1754-9485.12223
+DO  - doi:10.1111/1754-9485.12223
+SP  - 184
+EP  - 343
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Exhibits
+JO  - Journal of Medical Radiation Sciences
+JA  - J Med Radiat Sci
+VL  - 61
+IS  - S1
+SN  - 2051-3895
+UR  - https://doi.org/10.1002/jmrs.74
+DO  - doi:10.1002/jmrs.74
+SP  - 184
+EP  - 343
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+AU  - Forssell, Lars G.
+AU  - Winblad, Bengt
+AU  - Forssell, Lars
+TI  - Early Stages of Late Onset Alzheimer's Disease
+JO  - Acta Neurologica Scandinavica
+VL  - 79
+IS  - S121
+SN  - 0001-6314
+UR  - https://doi.org/10.1111/j.1600-0404.1989.tb04874.x
+DO  - doi:10.1111/j.1600-0404.1989.tb04874.x
+SP  - 5
+EP  - 26
+KW  - Alzheimer's disease
+KW  - diagnosis
+KW  - differential diagnostic tests
+KW  - staging;ethics
+PY  - 1989
+AB  - Clinical investigation of late onset Alzheimer's disease requires establishment of simple clinical and laboratory diagnostic criteria as neuropathological confirmation is not possible in the ordinary victim. Explicit criteria for the selection of mildly impaired victims in a 4-month trial of treatment and the need for new, more careful methods of dementia typing are discussed.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts
+JO  - Transfusion Medicine
+JA  - Transfusion Med
+VL  - 23
+IS  - s1
+SN  - 0958-7578
+UR  - https://doi.org/10.1111/tme.12023
+DO  - doi:10.1111/tme.12023
+SP  - 16
+EP  - 46
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+AU  - Hobbs, K. E. F.
+TI  - Practice of Surgery, Current Review. Volume II. Edited Walter F. Ballinger, St Louis, and Theodore Drapanas, New Orleans. 250 × 175 mm. Pp. 500+x, with 249 illustrations. 1975. London: Henry Kimpton. £14
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 63
+IS  - 1
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.1800630124
+DO  - doi:10.1002/bjs.1800630124
+SP  - 84
+EP  - 84
+PY  - 1976
+ER  - 
+
+TY  - JOUR
+TI  - Short Papers
+JO  - Colorectal Disease
+JA  - Colorectal Dis
+VL  - 16
+IS  - s2
+SN  - 1462-8910
+UR  - https://doi.org/10.1111/codi.12640
+DO  - doi:10.1111/codi.12640
+SP  - 4
+EP  - 37
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - Brief Orals
+JO  - Transplant International
+JA  - Transpl Int
+VL  - 30
+IS  - S2
+SN  - 0934-0874
+UR  - https://doi.org/10.1111/tri.13050
+DO  - doi:10.1111/tri.13050
+SP  - 165
+EP  - 346
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+AU  - Bliss, B. P.
+TI  - Guide to House Surgeons in the Surgical Unit. G. J. Fraenkel, J. Ludbrook and H. A. F. Dudley. Fifth edition. 152 × 125 mm. Pp. 179+xii. 1974. London: William Heinemann. £1.75
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 63
+IS  - 1
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.1800630125
+DO  - doi:10.1002/bjs.1800630125
+SP  - 84
+EP  - 84
+PY  - 1976
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts-part V (Continue in Part VI)
+JO  - Proceedings of the International Society for Magnetic Resonance in Medicine
+JA  - Proc. Soc. Magn. Reson. Med.
+VL  - 1992
+IS  - S3
+SN  - 1065-9889
+UR  - https://doi.org/10.1002/mrmp.22419920307
+DO  - doi:10.1002/mrmp.22419920307
+SP  - 2411
+EP  - 2921
+PY  - 1992
+ER  - 
+
+TY  - JOUR
+TI  - Speaker Abstracts
+JO  - Child: Care, Health and Development
+VL  - 36
+IS  - s1
+SN  - 0305-1862
+UR  - https://doi.org/10.1111/j.1365-2214.2009.01058.x
+DO  - doi:10.1111/j.1365-2214.2009.01058.x
+SP  - 5
+EP  - 38
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - Kessel, Lipmann
+TI  - Orthopaedic Aspects of Cerebral Palsy. Edited Robert L. Samilson. 242 × 180 mm. Pp. 301 +x. Illustrated. 1975. London: Spastics International Medical Publications. £6.50
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 63
+IS  - 1
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.1800630126
+DO  - doi:10.1002/bjs.1800630126
+SP  - 84
+EP  - 84
+PY  - 1976
+ER  - 
+
+TY  - JOUR
+TI  - Poster Sessions: Liver
+JO  - American Journal of Transplantation
+VL  - 14
+IS  - S3
+SN  - 1600-6135
+UR  - https://doi.org/10.1111/ajt.12892
+DO  - doi:10.1111/ajt.12892
+SP  - 693
+EP  - 799
+PY  - 2014
+ER  - 

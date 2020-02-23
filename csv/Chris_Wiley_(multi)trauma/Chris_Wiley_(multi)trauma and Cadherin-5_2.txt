@@ -1,0 +1,839 @@
+
+TY  - JOUR
+AU  - Svechtarova, Mila I.
+AU  - Buzzacchera, Irene
+AU  - Toebes, B. Jelle
+AU  - Lauko, Jan
+AU  - Anton, Nicoleta
+AU  - Wilson, Christopher J.
+TI  - Sensor Devices Inspired by the Five Senses: A Review
+JO  - Electroanalysis
+JA  - Electroanalysis
+VL  - 28
+IS  - 6
+SN  - 1040-0397
+UR  - https://doi.org/10.1002/elan.201600047
+DO  - doi:10.1002/elan.201600047
+SP  - 1201
+EP  - 1241
+KW  - medical device
+KW  - wearable
+KW  - sensor
+KW  - transduction
+KW  - GPCR
+PY  - 2016
+AB  - Abstract Wearable devices (wearables) have recently gained significant traction and are predicted to dominate many areas of research over the next 5 years. Many wearables contain a host of sensors that feedback vital bodily parameters to a central system. Although many artificial sensors exist, the biggest challenge to medical wearables is to interface and harness the ?big data? set from the human bodies own complex sensor network to better allow early diagnosis and/or treatment and prevention of diseases that have a huge economic burden on society such as type II diabetes. Cybernetics and medicine are joining their forces to overcome the new challenges in developing smarter, more intuitive and smaller sensors that interface with the human sensory system. This review is focused on the interface of devices to ion-mediated transduction pathways both through G-Coupled Protein Receptors and direct or mechanically transduced ion pathways.
+ER  - 
+
+TY  - JOUR
+AU  - Li, Ang
+AU  - Lai, Yung-Chih
+AU  - Figueroa, Seth
+AU  - Yang, Tian
+AU  - Widelitz, Randall B.
+AU  - Kobielak, Krzysztof
+AU  - Nie, Qing
+AU  - Chuong, Cheng Ming
+TI  - Deciphering principles of morphogenesis from temporal and spatial patterns on the integument
+JO  - Developmental Dynamics
+JA  - Dev. Dyn.
+VL  - 244
+IS  - 8
+SN  - 1058-8388
+UR  - https://doi.org/10.1002/dvdy.24281
+DO  - doi:10.1002/dvdy.24281
+SP  - 905
+EP  - 920
+KW  - stem cells
+KW  - hairs
+KW  - feathers
+KW  - pattern formation
+KW  - self-organization
+KW  - regeneration
+KW  - hair cycle
+KW  - systems biology
+KW  - molecular circuit
+KW  - modularity
+PY  - 2015
+AB  - Background: How tissue patterns form in development and regeneration is a fundamental issue remaining to be fully understood. The integument often forms repetitive units in space (periodic patterning) and time (cyclic renewal), such as feathers and hairs. Integument patterns are visible and experimentally manipulatable, helping us reveal pattern formative processes. Variability is seen in regional phenotypic specificities and temporal cycling at different physiological stages. Results: Here we show some cellular/molecular bases revealed by analyzing integument patterns. (1) Localized cellular activity (proliferation, rearrangement, apoptosis, differentiation) transforms prototypic organ primordia into specific shapes. Combinatorial positioning of different localized activity zones generates diverse and complex organ forms. (2) Competitive equilibrium between activators and inhibitors regulates stem cells through cyclic quiescence and activation. Conclusions: Dynamic interactions between stem cells and their adjacent niche regulate regenerative behavior, modulated by multi-layers of macro-environmental factors (dermis, body hormone status, and external environment). Genomics studies may reveal how positional information of localized cellular activity is stored. In vivo skin imaging and lineage tracing unveils new insights into stem cell plasticity. Principles of self-assembly obtained from the integumentary organ model can be applied to help restore damaged patterns during regenerative wound healing and for tissue engineering to rebuild tissues. Developmental Dynamics 244:905?920, 2015. ? 2015 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Harris, Alexander R.
+AU  - Wallace, Gordon G.
+C7  - 1700587
+TI  - Organic Electrodes and Communications with Excitable Cells
+JO  - Advanced Functional Materials
+JA  - Adv. Funct. Mater.
+VL  - 28
+IS  - 12
+SN  - 1616-301X
+UR  - https://doi.org/10.1002/adfm.201700587
+DO  - doi:10.1002/adfm.201700587
+SP  - 1700587
+KW  - advanced fabrication
+KW  - carbon nanotubes
+KW  - graphene
+KW  - organic conducting polymers
+KW  - neural electrodes
+PY  - 2018
+AB  - Abstract Electrodes can provide information on neural function and stimulate neural activity. These neural electrodes can provide remarkable benefit to people suffering physical trauma or neural disease. Traditional metal electrodes have shortcomings related to poor biostability, cytocompatibility, and a rigid structure that maps poorly to tissue. Organic conductors can be formed with various chemical and physical properties to create improved electrode-neural interfaces. The processability of organic conductors enables their use in advanced fabrication methods. This review details the use of graphene, carbon nanotubes, and conducting polymers for neural interfacing. Construction of novel neural electrode architectures via advanced fabrication processes is also addressed.
+ER  - 
+
+TY  - JOUR
+AU  - Samanta, R.
+AU  - Shoukrey, K.
+AU  - Griffiths, R.
+TI  - Rheumatoid arthritis and anaesthesia
+JO  - Anaesthesia
+VL  - 66
+IS  - 12
+SN  - 0003-2409
+UR  - https://doi.org/10.1111/j.1365-2044.2011.06890.x
+DO  - doi:10.1111/j.1365-2044.2011.06890.x
+SP  - 1146
+EP  - 1159
+PY  - 2011
+AB  - Summary There has been a great deal of progress in our understanding and management of rheumatoid arthritis in recent years. The peri-operative management of rheumatoid arthritis patients can be challenging and anaesthetists need to be familiar with recent developments and potential risks of this multi system disease. You can respond to this article at http://www.anaesthesiacorrespondence.com
+ER  - 
+
+TY  - JOUR
+TI  - POSTER PRESENTATION: BILIARY
+JO  - HPB
+VL  - 14
+IS  - s2
+SN  - 1365-182X
+UR  - https://doi.org/10.1111/j.1477-2574.2012.00512.x
+DO  - doi:10.1111/j.1477-2574.2012.00512.x
+SP  - 288
+EP  - 699
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+AU  - Wosczyna, Michael N
+AU  - Biswas, Arpita A
+AU  - Cogswell, Catherine A
+AU  - Goldhamer, David J
+TI  - Multipotent progenitors resident in the skeletal muscle interstitium exhibit robust BMP-dependent osteogenic activity and mediate heterotopic ossification
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 27
+IS  - 5
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.1562
+DO  - doi:10.1002/jbmr.1562
+SP  - 1004
+EP  - 1017
+KW  - HETEROTOPIC OSSIFICATION
+KW  - FIBRODYSPLASIA OSSIFICANS PROGRESSIVA
+KW  - FOP
+KW  - TISSUE-SPECIFIC STEM CELL
+KW  - SKELETAL MUSCLE
+KW  - CRE/LOXP
+KW  - TIE2
+KW  - OSTEOGENESIS
+KW  - ADIPOGENESIS
+KW  - CLONAL ANALYSIS
+PY  - 2012
+AB  - Abstract Heterotopic ossification is a debilitating condition that can result from traumatic injury, surgery, or genetic disease. We investigated the cellular origins of heterotopic skeletogenesis in the mouse using lineage tracing and bioassays of heterotopic ossification based on intramuscular transplantation. We identified, characterized, and purified a tissue-resident stem/progenitor cell population that exhibits robust osteogenic potential and represents a major cell-of-origin for heterotopic ossification. These progenitors reside in the interstitium of skeletal muscle and other tissues, and are distinct from the endothelium, which does not exhibit osteogenic activity in response to bone morphogenetic protein 2 (BMP2) stimulation. Intramuscular transplantation, together with clonal analysis in culture, revealed that these progenitors are multipotent, exhibiting the capacity for both BMP-dependent skeletogenic differentiation and spontaneous adipogenic differentiation. Identifying the cells-of-origin responsible for heterotopic ossification provides a potential therapeutic target to treat, mitigate, or prevent this disabling condition. ? 2012 American Society for Bone and Mineral Research.
+ER  - 
+
+TY  - JOUR
+TI  - XIIth Annual Meeting of the PanAmerican Society for Pigment Cell Research
+JO  - Pigment Cell Research
+VL  - 17
+IS  - 4
+SN  - 0893-5785
+UR  - https://doi.org/10.1111/j.1600-0749.2004.00175.x
+DO  - doi:10.1111/j.1600-0749.2004.00175.x
+SP  - 426
+EP  - 426
+PY  - 2004
+AB  - Implication of Pigment Cell Biology for Understanding Human Diseases was the topic of the The Sixth Annual Chao Family Comprehensive Cancer Center: Carcinogenesis and Cancer Prevention conference, jointly sponsored by the University of California Irvine College of Medicine and the PanAmerican Society of Pigment Cell Research This was a multi-disciplinary, three-and-one-half day conference for basic science and clinical investigators. The overall objectives of the meeting were to expand ideas, approaches, and collaborations for members of the society by bringing together experts in disciplines relevant to pigment cell research and associated diseases such as melanoma, albinoism, vitiligo, and other diseases of pigment cells. The meeting focused on recent developments in the genetics, novel gene function, gene expression pattern, and post-transcriptional processing of melanocyte specific proteins, melanosome function, melanin structure, and implications of recent basic advances for understanding human pigmentary diseases. These areas have been particularly productive due to recent breakthroughs and rapid progress in microarray gene expression, mass spectrometry, atomic force microscopy, electron paramagnetic resonance, and other physical chemical and molecular biotechnologies.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentations
+JO  - Acta Physiologica
+JA  - Acta Physiol
+VL  - 216
+IS  - S707
+SN  - 1748-1708
+UR  - https://doi.org/10.1111/apha.12672
+DO  - doi:10.1111/apha.12672
+SP  - 85
+EP  - 223
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+AU  - van Weerd, Jasper
+AU  - Karperien, Marcel
+AU  - Jonkheijm, Pascal
+TI  - Supported Lipid Bilayers for the Generation of Dynamic Cell–Material Interfaces
+JO  - Advanced Healthcare Materials
+JA  - Adv. Healthcare Mater.
+VL  - 4
+IS  - 18
+SN  - 2192-2640
+UR  - https://doi.org/10.1002/adhm.201500398
+DO  - doi:10.1002/adhm.201500398
+SP  - 2743
+EP  - 2779
+KW  - supported lipid bilayers
+KW  - cell interfaces
+KW  - cell–cell contacts
+KW  - cell–extracellular matrix contacts
+KW  - biomimicry
+PY  - 2015
+AB  - Supported lipid bilayers (SLB) offer unique possibilities for studying cellular membranes and have been used as a synthetic architecture to interact with cells. Here, the state-of-the-art in SLB-based technology is presented. The fabrication, analysis, characteristics and modification of SLBs are described in great detail. Numerous strategies to form SLBs on different substrates, and the means to patteren them, are described. The use of SLBs as model membranes for the study of membrane organization and membrane processes in vitro is highlighted. In addition, the use of SLBs as a substratum for cell analysis is presented, with discrimination between cell?cell and cell?extracellular matrix (ECM) mimicry. The study is concluded with a discussion of the potential for in vivo applications of SLBs.
+ER  - 
+
+AU  - Hasday, Jeffrey D.
+AU  - Thompson, Christopher
+AU  - Singh, Ishwar S.
+C7  - pp. 109-148
+TI  - Fever, Immunity, and Molecular Adaptations
+UR  - https://doi.org/10.1002/cphy.c130019
+DO  - doi:10.1002/cphy.c130019
+SP  - 109-148
+PY  - 2015
+AB  - AbstractThe heat shock response (HSR) is an ancient and highly conserved process that is essential for coping with environmental stresses, including extremes of temperature. Fever is a more recently evolved response, during which organisms temporarily subject themselves to thermal stress in the face of infections. We review the phylogenetically conserved mechanisms that regulate fever and discuss the effects that febrile-range temperatures have on multiple biological processes involved in host defense and cell death and survival, including the HSR and its implications for patients with severe sepsis, trauma, and other acute systemic inflammatory states. Heat shock factor-1, a heat-induced transcriptional enhancer is not only the central regulator of the HSR but also regulates expression of pivotal cytokines and early response genes. Febrile-range temperatures exert additional immunomodulatory effects by activating mitogen-activated protein kinase cascades and accelerating apoptosis in some cell types. This results in accelerated pathogen clearance, but increased collateral tissue injury, thus the net effect of exposure to febrile range temperature depends in part on the site and nature of the pathologic process and the specific treatment provided. ? 2014 American Physiological Society. Compr Physiol 4:109-148, 2014.
+ER  - 
+
+TY  - JOUR
+AU  - Evers, Lars H.
+AU  - Bhavsar, Dhaval
+AU  - Mailänder, Peter
+TI  - The biology of burn injury
+JO  - Experimental Dermatology
+VL  - 19
+IS  - 9
+UR  - https://doi.org/10.1111/j.1600-0625.2010.01105.x
+DO  - doi:10.1111/j.1600-0625.2010.01105.x
+SP  - 777
+EP  - 783
+KW  - apoptosis
+KW  - burn injury
+KW  - wound healing
+KW  - zone of stasis
+PY  - 2010
+AB  - Please cite this paper as: The biology of burn injury. Experimental Dermatology 2010; 19: 777?783. Abstract:? Burn injury is a complex traumatic event with various local and systemic effects, affecting several organ systems beyond the skin. The pathophysiology of the burn patient shows the full spectrum of the complexity of inflammatory response reactions. In the acute phase, inflammation mechanism may have negative effects because of capillary leak, the propagation of inhalation injury and the development of multiple organ failure. Attempts to mediate these processes remain a central subject of burn care research. Conversely, inflammation is a necessary prologue and component in the later-stage processes of wound healing. In this review, we are attempting to present the current science of burn wound pathophysiology and wound healing. We also describe the evolution of innovative strategies for burn management.
+ER  - 
+
+TY  - JOUR
+AU  - Sonar, Sandip Ashok
+AU  - Lal, Girdhari
+TI  - Blood–brain barrier and its function during inflammation and autoimmunity
+JO  - Journal of Leukocyte Biology
+JA  - J Leukoc Biol
+VL  - 103
+IS  - 5
+UR  - https://doi.org/10.1002/JLB.1RU1117-428R
+DO  - doi:10.1002/JLB.1RU1117-428R
+SP  - 839
+EP  - 853
+KW  - autoimmunity
+KW  - blood–brain barriers
+KW  - CNS
+KW  - endothelial cells
+KW  - neuroinflammation
+PY  - 2018
+AB  - Abstract The blood?brain barrier (BBB) is an important physiologic barrier that separates CNS from soluble inflammatory mediators and effector immune cells from peripheral circulation. The optimum function of the BBB is necessary for the homeostasis, maintenance, and proper neuronal function. The clinical and experimental findings have shown that BBB dysfunction is an early hallmark of various neurologic disorders ranging from inflammatory autoimmune, neurodegenerative, and traumatic diseases to neuroinvasive infections. Significant progress has been made in the understanding of the regulation of BBB function under homeostatic and neuroinflammatory conditions. Several neurologic disease-modifying drugs have shown to improve the BBB function. However, they have a broad-acting immunomodulatory function and can increase the risk of life-threatening infections. The recent development of in vitro multicomponent 3-dimensional BBB models coupled with fluidics chamber as well as a cell-type specific reporter and knockout mice gave a new boost to our understanding of the dynamics of the BBB. In the review, we discuss the current understanding of BBB composition and recent findings that illustrate the critical regulatory elements of the BBB function under physiologic and inflammatory conditions, and also suggested the strategies to control BBB structure and function.
+ER  - 
+
+TY  - JOUR
+AU  - Cossarizza, Andrea
+AU  - Chang, Hyun-Dong
+AU  - Radbruch, Andreas
+AU  - Acs, Andreas
+AU  - Adam, Dieter
+AU  - Adam-Klages, Sabine
+AU  - Agace, William W.
+AU  - Aghaeepour, Nima
+AU  - Akdis, Mübeccel
+AU  - Allez, Matthieu
+AU  - Almeida, Larissa Nogueira
+AU  - Alvisi, Giorgia
+AU  - Anderson, Graham
+AU  - Andrä, Immanuel
+AU  - Annunziato, Francesco
+AU  - Anselmo, Achille
+AU  - Bacher, Petra
+AU  - Baldari, Cosima T.
+AU  - Bari, Sudipto
+AU  - Barnaba, Vincenzo
+AU  - Barros-Martins, Joana
+AU  - Battistini, Luca
+AU  - Bauer, Wolfgang
+AU  - Baumgart, Sabine
+AU  - Baumgarth, Nicole
+AU  - Baumjohann, Dirk
+AU  - Baying, Bianka
+AU  - Bebawy, Mary
+AU  - Becher, Burkhard
+AU  - Beisker, Wolfgang
+AU  - Benes, Vladimir
+AU  - Beyaert, Rudi
+AU  - Blanco, Alfonso
+AU  - Boardman, Dominic A.
+AU  - Bogdan, Christian
+AU  - Borger, Jessica G.
+AU  - Borsellino, Giovanna
+AU  - Boulais, Philip E.
+AU  - Bradford, Jolene A.
+AU  - Brenner, Dirk
+AU  - Brinkman, Ryan R.
+AU  - Brooks, Anna E. S.
+AU  - Busch, Dirk H.
+AU  - Büscher, Martin
+AU  - Bushnell, Timothy P.
+AU  - Calzetti, Federica
+AU  - Cameron, Garth
+AU  - Cammarata, Ilenia
+AU  - Cao, Xuetao
+AU  - Cardell, Susanna L.
+AU  - Casola, Stefano
+AU  - Cassatella, Marco A.
+AU  - Cavani, Andrea
+AU  - Celada, Antonio
+AU  - Chatenoud, Lucienne
+AU  - Chattopadhyay, Pratip K.
+AU  - Chow, Sue
+AU  - Christakou, Eleni
+AU  - Čičin-Šain, Luka
+AU  - Clerici, Mario
+AU  - Colombo, Federico S.
+AU  - Cook, Laura
+AU  - Cooke, Anne
+AU  - Cooper, Andrea M.
+AU  - Corbett, Alexandra J.
+AU  - Cosma, Antonio
+AU  - Cosmi, Lorenzo
+AU  - Coulie, Pierre G.
+AU  - Cumano, Ana
+AU  - Cvetkovic, Ljiljana
+AU  - Dang, Van Duc
+AU  - Dang-Heine, Chantip
+AU  - Davey, Martin S.
+AU  - Davies, Derek
+AU  - De Biasi, Sara
+AU  - Del Zotto, Genny
+AU  - Dela Cruz, Gelo Victoriano
+AU  - Delacher, Michael
+AU  - Della Bella, Silvia
+AU  - Dellabona, Paolo
+AU  - Deniz, Günnur
+AU  - Dessing, Mark
+AU  - Di Santo, James P.
+AU  - Diefenbach, Andreas
+AU  - Dieli, Francesco
+AU  - Dolf, Andreas
+AU  - Dörner, Thomas
+AU  - Dress, Regine J.
+AU  - Dudziak, Diana
+AU  - Dustin, Michael
+AU  - Dutertre, Charles-Antoine
+AU  - Ebner, Friederike
+AU  - Eckle, Sidonia B. G.
+AU  - Edinger, Matthias
+AU  - Eede, Pascale
+AU  - Ehrhardt, Götz R.A.
+AU  - Eich, Marcus
+AU  - Engel, Pablo
+AU  - Engelhardt, Britta
+AU  - Erdei, Anna
+AU  - Esser, Charlotte
+AU  - Everts, Bart
+AU  - Evrard, Maximilien
+AU  - Falk, Christine S.
+AU  - Fehniger, Todd A.
+AU  - Felipo-Benavent, Mar
+AU  - Ferry, Helen
+AU  - Feuerer, Markus
+AU  - Filby, Andrew
+AU  - Filkor, Kata
+AU  - Fillatreau, Simon
+AU  - Follo, Marie
+AU  - Förster, Irmgard
+AU  - Foster, John
+AU  - Foulds, Gemma A.
+AU  - Frehse, Britta
+AU  - Frenette, Paul S.
+AU  - Frischbutter, Stefan
+AU  - Fritzsche, Wolfgang
+AU  - Galbraith, David W.
+AU  - Gangaev, Anastasia
+AU  - Garbi, Natalio
+AU  - Gaudilliere, Brice
+AU  - Gazzinelli, Ricardo T.
+AU  - Geginat, Jens
+AU  - Gerner, Wilhelm
+AU  - Gherardin, Nicholas A.
+AU  - Ghoreschi, Kamran
+AU  - Gibellini, Lara
+AU  - Ginhoux, Florent
+AU  - Goda, Keisuke
+AU  - Godfrey, Dale I.
+AU  - Goettlinger, Christoph
+AU  - González-Navajas, Jose M.
+AU  - Goodyear, Carl S.
+AU  - Gori, Andrea
+AU  - Grogan, Jane L.
+AU  - Grummitt, Daryl
+AU  - Grützkau, Andreas
+AU  - Haftmann, Claudia
+AU  - Hahn, Jonas
+AU  - Hammad, Hamida
+AU  - Hämmerling, Günter
+AU  - Hansmann, Leo
+AU  - Hansson, Goran
+AU  - Harpur, Christopher M.
+AU  - Hartmann, Susanne
+AU  - Hauser, Andrea
+AU  - Hauser, Anja E.
+AU  - Haviland, David L.
+AU  - Hedley, David
+AU  - Hernández, Daniela C.
+AU  - Herrera, Guadalupe
+AU  - Herrmann, Martin
+AU  - Hess, Christoph
+AU  - Höfer, Thomas
+AU  - Hoffmann, Petra
+AU  - Hogquist, Kristin
+AU  - Holland, Tristan
+AU  - Höllt, Thomas
+AU  - Holmdahl, Rikard
+AU  - Hombrink, Pleun
+AU  - Houston, Jessica P.
+AU  - Hoyer, Bimba F.
+AU  - Huang, Bo
+AU  - Huang, Fang-Ping
+AU  - Huber, Johanna E.
+AU  - Huehn, Jochen
+AU  - Hundemer, Michael
+AU  - Hunter, Christopher A.
+AU  - Hwang, William Y. K.
+AU  - Iannone, Anna
+AU  - Ingelfinger, Florian
+AU  - Ivison, Sabine M
+AU  - Jäck, Hans-Martin
+AU  - Jani, Peter K.
+AU  - Jávega, Beatriz
+AU  - Jonjic, Stipan
+AU  - Kaiser, Toralf
+AU  - Kalina, Tomas
+AU  - Kamradt, Thomas
+AU  - Kaufmann, Stefan H. E.
+AU  - Keller, Baerbel
+AU  - Ketelaars, Steven L. C.
+AU  - Khalilnezhad, Ahad
+AU  - Khan, Srijit
+AU  - Kisielow, Jan
+AU  - Klenerman, Paul
+AU  - Knopf, Jasmin
+AU  - Koay, Hui-Fern
+AU  - Kobow, Katja
+AU  - Kolls, Jay K.
+AU  - Kong, Wan Ting
+AU  - Kopf, Manfred
+AU  - Korn, Thomas
+AU  - Kriegsmann, Katharina
+AU  - Kristyanto, Hendy
+AU  - Kroneis, Thomas
+AU  - Krueger, Andreas
+AU  - Kühne, Jenny
+AU  - Kukat, Christian
+AU  - Kunkel, Désirée
+AU  - Kunze-Schumacher, Heike
+AU  - Kurosaki, Tomohiro
+AU  - Kurts, Christian
+AU  - Kvistborg, Pia
+AU  - Kwok, Immanuel
+AU  - Landry, Jonathan
+AU  - Lantz, Olivier
+AU  - Lanuti, Paola
+AU  - LaRosa, Francesca
+AU  - Lehuen, Agnès
+AU  - LeibundGut-Landmann, Salomé
+AU  - Leipold, Michael D.
+AU  - Leung, Leslie Y.T.
+AU  - Levings, Megan K.
+AU  - Lino, Andreia C.
+AU  - Liotta, Francesco
+AU  - Litwin, Virginia
+AU  - Liu, Yanling
+AU  - Ljunggren, Hans-Gustaf
+AU  - Lohoff, Michael
+AU  - Lombardi, Giovanna
+AU  - Lopez, Lilly
+AU  - López-Botet, Miguel
+AU  - Lovett-Racke, Amy E.
+AU  - Lubberts, Erik
+AU  - Luche, Herve
+AU  - Ludewig, Burkhard
+AU  - Lugli, Enrico
+AU  - Lunemann, Sebastian
+AU  - Maecker, Holden T.
+AU  - Maggi, Laura
+AU  - Maguire, Orla
+AU  - Mair, Florian
+AU  - Mair, Kerstin H.
+AU  - Mantovani, Alberto
+AU  - Manz, Rudolf A.
+AU  - Marshall, Aaron J.
+AU  - Martínez-Romero, Alicia
+AU  - Martrus, Glòria
+AU  - Marventano, Ivana
+AU  - Maslinski, Wlodzimierz
+AU  - Matarese, Giuseppe
+AU  - Mattioli, Anna Vittoria
+AU  - Maueröder, Christian
+AU  - Mazzoni, Alessio
+AU  - McCluskey, James
+AU  - McGrath, Mairi
+AU  - McGuire, Helen M.
+AU  - McInnes, Iain B.
+AU  - Mei, Henrik E.
+AU  - Melchers, Fritz
+AU  - Melzer, Susanne
+AU  - Mielenz, Dirk
+AU  - Miller, Stephen D.
+AU  - Mills, Kingston H.G.
+AU  - Minderman, Hans
+AU  - Mjösberg, Jenny
+AU  - Moore, Jonni
+AU  - Moran, Barry
+AU  - Moretta, Lorenzo
+AU  - Mosmann, Tim R.
+AU  - Müller, Susann
+AU  - Multhoff, Gabriele
+AU  - Muñoz, Luis Enrique
+AU  - Münz, Christian
+AU  - Nakayama, Toshinori
+AU  - Nasi, Milena
+AU  - Neumann, Katrin
+AU  - Ng, Lai Guan
+AU  - Niedobitek, Antonia
+AU  - Nourshargh, Sussan
+AU  - Núñez, Gabriel
+AU  - O'Connor, José-Enrique
+AU  - Ochel, Aaron
+AU  - Oja, Anna
+AU  - Ordonez, Diana
+AU  - Orfao, Alberto
+AU  - Orlowski-Oliver, Eva
+AU  - Ouyang, Wenjun
+AU  - Oxenius, Annette
+AU  - Palankar, Raghavendra
+AU  - Panse, Isabel
+AU  - Pattanapanyasat, Kovit
+AU  - Paulsen, Malte
+AU  - Pavlinic, Dinko
+AU  - Penter, Livius
+AU  - Peterson, Pärt
+AU  - Peth, Christian
+AU  - Petriz, Jordi
+AU  - Piancone, Federica
+AU  - Pickl, Winfried F.
+AU  - Piconese, Silvia
+AU  - Pinti, Marcello
+AU  - Pockley, A. Graham
+AU  - Podolska, Malgorzata Justyna
+AU  - Poon, Zhiyong
+AU  - Pracht, Katharina
+AU  - Prinz, Immo
+AU  - Pucillo, Carlo E. M.
+AU  - Quataert, Sally A.
+AU  - Quatrini, Linda
+AU  - Quinn, Kylie M.
+AU  - Radbruch, Helena
+AU  - Radstake, Tim R. D. J.
+AU  - Rahmig, Susann
+AU  - Rahn, Hans-Peter
+AU  - Rajwa, Bartek
+AU  - Ravichandran, Gevitha
+AU  - Raz, Yotam
+AU  - Rebhahn, Jonathan A.
+AU  - Recktenwald, Diether
+AU  - Reimer, Dorothea
+AU  - Reis e Sousa, Caetano
+AU  - Remmerswaal, Ester B.M.
+AU  - Richter, Lisa
+AU  - Rico, Laura G.
+AU  - Riddell, Andy
+AU  - Rieger, Aja M.
+AU  - Robinson, J. Paul
+AU  - Romagnani, Chiara
+AU  - Rubartelli, Anna
+AU  - Ruland, Jürgen
+AU  - Saalmüller, Armin
+AU  - Saeys, Yvan
+AU  - Saito, Takashi
+AU  - Sakaguchi, Shimon
+AU  - Sala-de-Oyanguren, Francisco
+AU  - Samstag, Yvonne
+AU  - Sanderson, Sharon
+AU  - Sandrock, Inga
+AU  - Santoni, Angela
+AU  - Sanz, Ramon Bellmàs
+AU  - Saresella, Marina
+AU  - Sautes-Fridman, Catherine
+AU  - Sawitzki, Birgit
+AU  - Schadt, Linda
+AU  - Scheffold, Alexander
+AU  - Scherer, Hans U.
+AU  - Schiemann, Matthias
+AU  - Schildberg, Frank A.
+AU  - Schimisky, Esther
+AU  - Schlitzer, Andreas
+AU  - Schlosser, Josephine
+AU  - Schmid, Stephan
+AU  - Schmitt, Steffen
+AU  - Schober, Kilian
+AU  - Schraivogel, Daniel
+AU  - Schuh, Wolfgang
+AU  - Schüler, Thomas
+AU  - Schulte, Reiner
+AU  - Schulz, Axel Ronald
+AU  - Schulz, Sebastian R.
+AU  - Scottá, Cristiano
+AU  - Scott-Algara, Daniel
+AU  - Sester, David P.
+AU  - Shankey, T. Vincent
+AU  - Silva-Santos, Bruno
+AU  - Simon, Anna Katharina
+AU  - Sitnik, Katarzyna M.
+AU  - Sozzani, Silvano
+AU  - Speiser, Daniel E.
+AU  - Spidlen, Josef
+AU  - Stahlberg, Anders
+AU  - Stall, Alan M.
+AU  - Stanley, Natalie
+AU  - Stark, Regina
+AU  - Stehle, Christina
+AU  - Steinmetz, Tobit
+AU  - Stockinger, Hannes
+AU  - Takahama, Yousuke
+AU  - Takeda, Kiyoshi
+AU  - Tan, Leonard
+AU  - Tárnok, Attila
+AU  - Tiegs, Gisa
+AU  - Toldi, Gergely
+AU  - Tornack, Julia
+AU  - Traggiai, Elisabetta
+AU  - Trebak, Mohamed
+AU  - Tree, Timothy I.M.
+AU  - Trotter, Joe
+AU  - Trowsdale, John
+AU  - Tsoumakidou, Maria
+AU  - Ulrich, Henning
+AU  - Urbanczyk, Sophia
+AU  - van de Veen, Willem
+AU  - van den Broek, Maries
+AU  - van der Pol, Edwin
+AU  - Van Gassen, Sofie
+AU  - Van Isterdael, Gert
+AU  - van Lier, René A.W.
+AU  - Veldhoen, Marc
+AU  - Vento-Asturias, Salvador
+AU  - Vieira, Paulo
+AU  - Voehringer, David
+AU  - Volk, Hans-Dieter
+AU  - von Borstel, Anouk
+AU  - von Volkmann, Konrad
+AU  - Waisman, Ari
+AU  - Walker, Rachael V.
+AU  - Wallace, Paul K.
+AU  - Wang, Sa A.
+AU  - Wang, Xin M.
+AU  - Ward, Michael D.
+AU  - Ward-Hartstonge, Kirsten A
+AU  - Warnatz, Klaus
+AU  - Warnes, Gary
+AU  - Warth, Sarah
+AU  - Waskow, Claudia
+AU  - Watson, James V.
+AU  - Watzl, Carsten
+AU  - Wegener, Leonie
+AU  - Weisenburger, Thomas
+AU  - Wiedemann, Annika
+AU  - Wienands, Jürgen
+AU  - Wilharm, Anneke
+AU  - Wilkinson, Robert John
+AU  - Willimsky, Gerald
+AU  - Wing, James B.
+AU  - Winkelmann, Rieke
+AU  - Winkler, Thomas H.
+AU  - Wirz, Oliver F.
+AU  - Wong, Alicia
+AU  - Wurst, Peter
+AU  - Yang, Jennie H. M.
+AU  - Yang, Juhao
+AU  - Yazdanbakhsh, Maria
+AU  - Yu, Liping
+AU  - Yue, Alice
+AU  - Zhang, Hanlin
+AU  - Zhao, Yi
+AU  - Ziegler, Susanne Maria
+AU  - Zielinski, Christina
+AU  - Zimmermann, Jakob
+AU  - Zychlinsky, Arturo
+TI  - Guidelines for the use of flow cytometry and cell sorting in immunological studies (second edition)
+JO  - European Journal of Immunology
+JA  - Eur. J. Immunol.
+VL  - 49
+IS  - 10
+UR  - https://doi.org/10.1002/eji.201970107
+DO  - doi:10.1002/eji.201970107
+SP  - 1457
+EP  - 1973
+PY  - 2019
+AB  - Abstract These guidelines are a consensus work of a considerable number of members of the immunology and flow cytometry community. They provide the theory and key practical aspects of flow cytometry enabling immunologists to avoid the common errors that often undermine immunological data. Notably, there are comprehensive sections of all major immune cell types with helpful Tables detailing phenotypes in murine and human cells. The latest flow cytometry techniques and applications are also described, featuring examples of the data that can be generated and, importantly, how the data can be analysed. Furthermore, there are sections detailing tips, tricks and pitfalls to avoid, all written and peer-reviewed by leading experts in the field, making this an essential research companion.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Journal of Gastroenterology and Hepatology
+JA  - Journal of Gastroenterology and Hepatology
+VL  - 31
+IS  - S3
+UR  - https://doi.org/10.1111/jgh.13540
+DO  - doi:10.1111/jgh.13540
+SP  - 7
+EP  - 441
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+AU  - Qian, Yun
+AU  - Song, Jialin
+AU  - Zhao, Xiaotian
+AU  - Chen, Wei
+AU  - Ouyang, Yuanming
+AU  - Yuan, Weien
+AU  - Fan, Cunyi
+C7  - 1700499
+TI  - 3D Fabrication with Integration Molding of a Graphene Oxide/Polycaprolactone Nanoscaffold for Neurite Regeneration and Angiogenesis
+JO  - Advanced Science
+JA  - Adv. Sci.
+VL  - 5
+IS  - 4
+UR  - https://doi.org/10.1002/advs.201700499
+DO  - doi:10.1002/advs.201700499
+SP  - 1700499
+KW  - graphene oxide
+KW  - nerve conduits
+KW  - peripheral nerve injuries
+KW  - signaling pathways
+KW  - vascular endothelial growth factor
+PY  - 2018
+AB  - Abstract Treating peripheral nerve injury faces major challenges and may benefit from bioactive scaffolds due to the limited autograft resources. Graphene oxide (GO) has emerged as a promising nanomaterial with excellent physical and chemical properties. GO has functional groups that confer biocompatibility that is better than that of graphene. Here, GO/polycaprolactone (PCL) nanoscaffolds are fabricated using an integration molding method. The nanoscaffolds exhibit many merits, including even GO nanoparticle distribution, macroporous structure, and strong mechanical support. Additionally, the process enables excellent quality control. In vitro studies confirm the advantages of the GO/PCL nanoscaffolds in terms of Schwann cell proliferation, viability, and attachment, as well as neural characteristics maintenance. This is the first study to evaluate the in vivo performance of GO-based nanoscaffolds in this context. GO release and PCL biodegradation is analyzed after long-term in vivo study. It is also found that the GO/PCL nerve guidance conduit could successfully repair a 15 mm sciatic nerve defect. The pro-angiogenic characteristic of GO is evaluated in vivo using immunohistochemistry. In addition, the AKT-endothelial nitric oxide synthase (eNOS)-vascular endothelial growth factor (VEGF) signaling pathway might play a major role in the angiogenic process. These findings demonstrate that the GO/PCL nanoscaffold efficiently promotes functional and morphological recovery in peripheral nerve regeneration, indicating its promise for tissue engineering applications.
+ER  - 
+
+TY  - JOUR
+AU  - Vogel, Georg F.
+AU  - Ebner, Hannes L.
+AU  - de Araujo, Mariana E. G.
+AU  - Schmiedinger, Thomas
+AU  - Eiter, Oliver
+AU  - Pircher, Haymo
+AU  - Gutleben, Karin
+AU  - Witting, Barbara
+AU  - Teis, David
+AU  - Huber, Lukas A.
+AU  - Hess, Michael W.
+TI  - Ultrastructural Morphometry Points to a New Role for LAMTOR2 in Regulating the Endo/Lysosomal System
+JO  - Traffic
+JA  - Traffic
+VL  - 16
+IS  - 6
+UR  - https://doi.org/10.1111/tra.12271
+DO  - doi:10.1111/tra.12271
+SP  - 617
+EP  - 634
+KW  - electron tomography
+KW  - endosome
+KW  - high-pressure freezing
+KW  - immuno-gold
+KW  - LAMTOR
+KW  - MAPK
+KW  - mTOR
+KW  - MVB
+KW  - p14
+KW  - Ragulator
+PY  - 2015
+AB  - The late endosomal adaptor protein LAMTOR2/p14 is essential for tissue homeostasis by controlling MAPK and mTOR signaling, which in turn regulate cell growth and proliferation, migration and spreading. Moreover, LAMTOR2 critically controls architecture and function of the endocytic system, including epidermal growth factor receptor (EGFR) degradation in lysosomes, positioning of late endosomes and defense against intracellular pathogens. Here we describe the multifaceted ultrastructural phenotype of the endo/lysosomal system of LAMTOR2-deficient mouse embryonic fibroblasts. Quantitative (immuno-)electron microscopy of cryo-fixed samples revealed significantly reduced numbers of recycling tubules emanating from maturing multivesicular bodies (MVB). Instead, a distinct halo of vesicles surrounded MVB, tentatively interpreted as detached, jammed recycling tubules. These morphological changes in LAMTOR2-deficient cells correlated with the presence of growth factors (e.g. EGF), but were similarly induced in control cells by inactivating mTOR. Furthermore, proper transferrin receptor trafficking and recycling were apparently dependent on an intact LAMTOR complex. Finally, a severe imbalance in the relative proportions of endo/lysosomes was found in LAMTOR2-deficient cells, resulting from increased amounts of mature MVB and (autophago)lysosomes. These observations suggest that the LAMTOR/Ragulator complex is required not only for maintaining the homeostasis of endo/lysosomal subpopulations but also contributes to the proper formation of MVB-recycling tubules, and regulation of membrane/cargo recycling from MVB.
+ER  - 
+
+TY  - JOUR
+TI  - ARA Oral Abstracts
+JO  - Internal Medicine Journal
+JA  - Intern Med J
+VL  - 48
+IS  - S4
+UR  - https://doi.org/10.1111/imj.13772
+DO  - doi:10.1111/imj.13772
+SP  - 5
+EP  - 46
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - FREE ORALS: BILIARY
+JO  - HPB
+VL  - 14
+IS  - s2
+UR  - https://doi.org/10.1111/j.1477-2574.2012.00511.x
+DO  - doi:10.1111/j.1477-2574.2012.00511.x
+SP  - 107
+EP  - 287
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+AU  - Gaballah, K
+AU  - Costea, DE
+AU  - Hills, A
+AU  - Gollin, SM
+AU  - Harrison, P
+AU  - Partridge, M
+TI  - Tissue engineering of oral dysplasia
+JO  - The Journal of Pathology
+JA  - J. Pathol.
+VL  - 215
+IS  - 3
+UR  - https://doi.org/10.1002/path.2360
+DO  - doi:10.1002/path.2360
+SP  - 280
+EP  - 289
+KW  - dysplasia
+KW  - pre-cancer
+KW  - organotypic culture
+KW  - epithelial–connective tissue interaction tissue engineering
+KW  - epithelial–mesenchymal interaction
+PY  - 2008
+AB  - Abstract Keratinocytes and fibroblasts isolated from dysplastic oral lesions were combined to provide a renewable source of epithelia. A dysplasia-scoring index was devised to compare the architectural and cytological features and used together with robust immunophenotyping to show that the engineered epithelia showed most of the characteriztics of the clinical lesions. The strains of dysplastic oral keratinocytes with an extended or immortal lifespan provided a reproducible resource of epithelia showing mild (DOK), moderate (POE9n) or severe (D20) dysplasia when maintained under defined conditions. The dysplasia score was influenced by growth conditions, with KGF polarizing proliferation to the basal layer and reducing the severity of dysplasia. When compared to the normal counterparts, dysplasia-associated fibroblasts expressed MMP9, secreted more HGF, increased the dysplasia score for epithelia generated with mortal dysplastic keratinocytes and induced morphological changes in normal keratinocytes, highlighting the role of the microenvironment in determining the phenotype of dysplastic epithelia. Copyright ? 2008 Pathological Society of Great Britain and Ireland. Published by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - DiFeo, Analisa
+AU  - Narla, Goutham
+AU  - Martignetti, John A.
+TI  - Emerging Roles of Kruppel-Like Factor 6 and Kruppel-Like Factor 6 Splice Variant 1 in Ovarian Cancer Progression and Treatment
+JO  - Mount Sinai Journal of Medicine: A Journal of Translational and Personalized Medicine
+JA  - Mt Sinai J Med
+VL  - 76
+IS  - 6
+UR  - https://doi.org/10.1002/msj.20150
+DO  - doi:10.1002/msj.20150
+SP  - 557
+EP  - 566
+KW  - Kruppel-like factor 6
+KW  - Kruppel-like factor 6 splice variant 1
+KW  - molecular pathogenesis
+KW  - ovarian cancer
+PY  - 2009
+AB  - Abstract Epithelial ovarian cancer is one of the most lethal gynecologic cancers and the fifth most frequent cause of female cancer deaths in the United States. Despite dramatic treatment successes in other cancers through the use of molecular agents targeted against genetically defined events driving cancer development and progression, very few insights into epithelial ovarian cancer have been translated from the laboratory to the clinic. If advances are to be made in the early diagnosis, prevention, and treatment of this disease, it will be critical to characterize the common and private (personalized) genetic defects underlying the development and spread of epithelial ovarian cancer. The tumor suppressor Kruppel-like factor 6 and its alternatively spliced, oncogenic isoform, Kruppel-like factor 6 splice variant 1, are members of the Kruppel-like zinc finger transcription factor family of proteins, which have diverse roles in cellular differentiation, development, proliferation, growth-related signal transduction, and apoptosis. Inactivation of Kruppel-like factor 6 and overexpression of Kruppel-like factor 6 splice variant 1 have been associated with the progression of a number of human cancers and even with patient survival. This article summarizes our recent findings demonstrating that a majority of epithelial ovarian cancer tumors have Kruppel-like factor 6 allelic loss and decreased expression coupled with increased expression of Kruppel-like factor 6 splice variant 1. The targeted reduction of Kruppel-like factor 6 in ovarian cancer cell lines results in marked increases in cell proliferation, invasion, tumor growth, angiogenesis, and intraperitoneal dissemination in vivo. In contrast, the inhibition of Kruppel-like factor 6 splice variant 1 decreases cellular proliferation, invasion, angiogenesis, and tumorigenicity; this provides the rationale for its potential therapeutic application. These results and our recent demonstration that the inhibition of Kruppel-like factor 6 splice variant 1 can dramatically prolong survival in a preclinical mouse model of ovarian cancer are reviewed and discussed. Mt Sinai J Med 76:557-566, 2009. ? 2009 Mount Sinai School of Medicine
+ER  - 

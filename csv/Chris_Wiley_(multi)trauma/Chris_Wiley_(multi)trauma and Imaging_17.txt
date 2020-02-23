@@ -1,0 +1,489 @@
+
+TY  - JOUR
+AU  - Quidé, Y.
+AU  - Andersson, F.
+AU  - Dufour-Rainfray, D.
+AU  - Descriaud, C.
+AU  - Brizard, B.
+AU  - Gissot, V.
+AU  - Cléry, H.
+AU  - Carrey Le Bas, M-P.
+AU  - Osterreicher, S.
+AU  - Ogielska, M.
+AU  - Saint-Martin, P.
+AU  - El-Hage, W.
+TI  - Smaller hippocampal volume following sexual assault in women is associated with post-traumatic stress disorder
+JO  - Acta Psychiatrica Scandinavica
+JA  - Acta Psychiatr Scand
+VL  - 138
+IS  - 4
+SN  - 0001-690X
+UR  - https://doi.org/10.1111/acps.12920
+DO  - doi:10.1111/acps.12920
+SP  - 312
+EP  - 324
+KW  - acute trauma
+KW  - post-traumatic stress disorder
+KW  - structural MRI
+KW  - cortisol
+KW  - longitudinal
+KW  - rape
+PY  - 2018
+AB  - Objective Exposure to sexual assault is a significant risk factor to develop post-traumatic stress disorder (PTSD) in females. The early neurobiological changes leading to the development of PTSD remain understudied and unclear in this population. Methods Participants were 27 adult females recruited within a month following exposure to sexual assault (T1) and 20 age-matched non-exposed controls. Among the victims, 10 participants met (PTSD+) and 15 did not meet (PTSD?) DSM-IV criteria for PTSD 6 months post-trauma (T2). At both visits, hippocampal and amygdala volumes were extracted from magnetic resonance imaging scans, and indices of total diurnal cortisol changes were derived from individual areas under the curve relative to the ground (AUCg). Measures at T1 were compared between groups at T1, measures at T2 between groups at T2, and measures at T1 between groups at T2. Results At T1, victims had significantly smaller bilateral hippocampal volumes, but not AUCg, than controls. At T2, neither hippocampal volume nor AUCg significantly differed among the groups. However, the PTSD+ group had significantly smaller hippocampal volumes at T1 than the control group, but not compared to the PTSD? group. Conclusions This study indicates that having smaller hippocampal volumes is a risk factor to develop PTSD in females exposed to sexual assault.
+ER  - 
+
+TY  - JOUR
+AU  - Li, Wei
+AU  - Long, Justin Alexander
+AU  - Watts, Lora
+AU  - Shen, Qiang
+AU  - Liu, Yichu
+AU  - Jiang, Zhao
+AU  - Duong, Timothy Q.
+C8  - NBM-15-0080.R3
+TI  - Spatiotemporal changes in diffusion, T2 and susceptibility of white matter following mild traumatic brain injury
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 29
+IS  - 7
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.3536
+DO  - doi:10.1002/nbm.3536
+SP  - 896
+EP  - 903
+KW  - traumatic brain injury
+KW  - white matter
+KW  - quantitative susceptibility mapping
+KW  - diffusion tensor imaging
+KW  - T2 mapping
+PY  - 2016
+AB  - Impaired white matter integrity in traumatic brain injury (TBI) can lead to deficits in various neurological functions. The differentiation of the underlying pathological processes, e.g. edema, demyelination, axonal damage, to name a few, is of key clinical interest for the assessment of white matter injury. In this study, a combination of T2, diffusion and susceptibility MRI was used to study the spatiotemporal changes in white matter at 1?h, 3?h, and 1, 2, 7 and 14?days following TBI, using a rat controlled cortical impact (CCI) model. Based on radial diffusivity (RD), the rats were divided into two groups: group 1 showed widespread increases in RD along the corpus callosum of the ipsilesional hemisphere at day 2, and group 2 showed normal RD. Based on this group separation, group 1 also showed similar widespread changes in fractional anisotropy (FA) and T2 at day 2, and group 2 showed normal FA and T2. The widespread changes in RD and T2 in group 1 on day 2 were apparently dominated by edema, which obscured possible myelin and axonal damage. In contrast, the susceptibility of group 1 showed more localized increases near the impact site on day 2, and otherwise similar contrast to the contralesional hemisphere. The localized susceptibility increase is probably a result of demyelination and axonal injury. The extent of brain damage between the two groups revealed by MRI was consistent with behavioral results, with the first group showing significantly increased forelimb asymmetry and increased forelimb foot fault deficits. Our results suggest that the combination of T2, diffusion and susceptibility MRI may provide an opportunity for the differential assessment of edema and axonal damage in TBI. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Ljungberg, Emil
+AU  - Vavasour, Irene
+AU  - Tam, Roger
+AU  - Yoo, Youngjin
+AU  - Rauscher, Alexander
+AU  - Li, David K.B.
+AU  - Traboulsee, Anthony
+AU  - MacKay, Alex
+AU  - Kolind, Shannon
+TI  - Rapid myelin water imaging in human cervical spinal cord
+JO  - Magnetic Resonance in Medicine
+JA  - Magn. Reson. Med
+VL  - 78
+IS  - 4
+SN  - 0740-3194
+UR  - https://doi.org/10.1002/mrm.26551
+DO  - doi:10.1002/mrm.26551
+SP  - 1482
+EP  - 1487
+KW  - T2 relaxation
+KW  - myelin water fraction
+KW  - MWI
+KW  - spinal cord
+PY  - 2017
+AB  - Purpose Myelin water imaging (MWI) using multi-echo T2 relaxation is a quantitative MRI technique that can be used as an in vivo biomarker for myelin in the central nervous system. MWI using a multi-echo spin echo sequence currently takes more than 20?min to acquire eight axial slices (5?mm thickness) in the cervical spinal cord, making spinal cord MWI impractical for implementation in clinical studies. Methods In this study, an accelerated gradient and spin echo sequence (GRASE), previously validated for brain MWI, was adapted for spinal cord MWI. Ten healthy volunteers were scanned with the GRASE sequence (acquisition time 8.5?min) and compared with the multi-echo spin echo sequence (acquisition time 23.5?min). Results Using region of interest analysis, myelin estimates obtained from the two sequences were found to be in good agreement (mean difference?=??0.0092, 95% confidence interval?=? 0.0092?±?0.061; regression slope?=?1.01, ??=?0.9). MWI using GRASE was shown to be highly reproducible with an average coefficient of variation of 6.1%. Conclusion The results from this study show that MWI can be performed in the cervical spinal cord in less than 10?min, allowing for practical implementation in multimodal clinical studies. Magn Reson Med 78:1482?1487, 2017. ? 2016 International Society for Magnetic Resonance in Medicine.
+ER  - 
+
+TY  - JOUR
+AU  - Stout Steele, Megan W.
+AU  - Hodshon, Amy W.
+AU  - Hopkins, Andrew L.
+AU  - Tracy, Gaemia M.
+AU  - Cohen, Noah D.
+AU  - Kerwin, Sharon C.
+AU  - Boudreau, C. Elizabeth
+AU  - Thomas, William B.
+AU  - Mankin, Joseph M.
+AU  - Levine, Jonathan M.
+TI  - Multi-Center Retrospective Evaluation of Screw and Polymethylmethacrylate Constructs for Atlantoaxial Fixation in Dogs
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 45
+IS  - 7
+SN  - 0161-3499
+UR  - https://doi.org/10.1111/vsu.12533
+DO  - doi:10.1111/vsu.12533
+SP  - 909
+EP  - 915
+PY  - 2016
+AB  - Objective To evaluate outcome and adverse events following ventral stabilization of the atlantoaxial (AA) joint in dogs with clinical AA subluxation using screw/polymethymethacrylate (PMMA) constructs in a retrospective, multi-center cohort study. Study Design Historical cohort study. Animals 35 client-owned dogs. Methods Medical records from 3 institutions were reviewed to identify dogs with AA subluxation treated with ventral screw and PMMA constructs. Data on signalment, pre- and postoperative neurologic status, imaging performed, and adverse events were retrieved. Neurologic examination data were abstracted to generate a modified Frankel score at admission, discharge, and re-examination. Telephone interview of owners >180 days postoperative was conducted. Results Thirty-five dogs with AA subluxation treated with ventral screw/PMMA constructs were included. Most dogs were young (median age 1 year), small breed dogs with acute onset of neurologic signs (median duration 22.5 hours). Most dogs were non-ambulatory at the time of admission (median modified Frankel score 3). Adverse events were identified in 15/35 dogs including 9 dogs with major adverse events. Four dogs required a second surgery due to vertebral canal violation (n?=?2) or implant failure (n?=?2). Re-examination at 4?6 weeks postoperative reported 15/28 dogs with improved neurologic status and 19/28 dogs were ambulatory. Telephone follow-up was available for 23/35 dogs with 23/23 reported as ambulatory (median follow-up 390 days). Conclusions Ventral application of screw and PMMA constructs for AA subluxation, as described here, is associated with clinical improvement in the majority of dog. Major adverse events are infrequent and the technique is considered relatively safe.
+ER  - 
+
+TY  - JOUR
+AU  - Chang, Y.
+AU  - Thompson, H.
+AU  - Reed, N.
+AU  - Penderis, J.
+TI  - Clinical and magnetic resonance imaging features of nasopharyngeal lymphoma in two cats with concurrent intracranial mass
+JO  - Journal of Small Animal Practice
+VL  - 47
+IS  - 11
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/j.1748-5827.2006.00151.x
+DO  - doi:10.1111/j.1748-5827.2006.00151.x
+SP  - 678
+EP  - 681
+PY  - 2006
+AB  - Lymphoma is reported to be the most common nasal and second most common intracranial neoplasm in cats. Intracranial lymphoma may occur as a primary central nervous system lymphoma or as part of multi-centric disease. Two cats were presented with histopathologically confirmed nasopharyngeal lymphoma and concurrent mass within the middle fossa of the cranial cavity, with magnetic resonance imaging suggestive of direct communication. Both cats demonstrated evidence of bilateral oculomotor nerve deficits and upper respiratory tract noise. In one cat, bilateral optic nerve deficits were also present. The magnetic resonance imaging features were similar in both cases and demonstrated a contrast-enhancing intracranial mass on the ventral aspect of the middle fossa of the cranial cavity and an adjacent mass arising from the dorsal aspect of the nasopharynx. Lymphoma should be included as an important differential diagnosis in cats presented with middle cranial fossa syndrome (in particular ophthalmoplegia) and stertor.
+ER  - 
+
+TY  - JOUR
+AU  - Meerkotter, Debra
+AU  - Spiegel, Keren
+AU  - Page-Shipp, Liesl Shirley
+TI  - Imaging of tuberculosis of the breast: 21 cases and a review of the literature
+JO  - Journal of Medical Imaging and Radiation Oncology
+VL  - 55
+IS  - 5
+SN  - 1754-9477
+UR  - https://doi.org/10.1111/j.1754-9485.2011.02306.x
+DO  - doi:10.1111/j.1754-9485.2011.02306.x
+SP  - 453
+EP  - 460
+KW  - breast imaging
+KW  - mammography
+KW  - ultrasound
+PY  - 2011
+AB  - Summary This study was conducted to assess the mammographic and sonographic features of tuberculosis (TB) of the breast seen at the Helen Joseph Hospital, Johannesburg, South Africa. The study is a retrospective review of patients who presented to the mammography department with breast symptoms subsequently diagnosed as TB or ?highly suspicious for TB?. The search of records extended over a period of 6?years (2002?2008). The search identified 21 patients who met the criteria. Patient characteristics, clinical presentation and radiological features have been analysed. The most common presentation of TB of the breast was an oedematous breast secondary to enlarged unilateral axillary lymph nodes. Only 33% of the patients presented with a palpable breast mass as the primary complaint. The significance of TB associated breast disease lies in recognising the disease entity as it can mimic breast cancer or pyogenic breast abscess.
+ER  - 
+
+TY  - JOUR
+AU  - Wu, Dan
+AU  - Li, Qiang
+AU  - Northington, Frances J.
+AU  - Zhang, Jiangyang
+C7  - e3917
+C8  - NBM-17-0233.R2
+TI  - Oscillating gradient diffusion kurtosis imaging of normal and injured mouse brains
+JO  - NMR in Biomedicine
+JA  - NMR in Biomedicine
+VL  - 31
+IS  - 6
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.3917
+DO  - doi:10.1002/nbm.3917
+SP  - e3917
+KW  - cortex
+KW  - diffusion MRI
+KW  - diffusion time
+KW  - hippocampus
+KW  - ischemia
+KW  - kurtosis
+KW  - mouse brain
+KW  - oscillating gradient
+PY  - 2018
+AB  - Recent advances in diffusion MRI employ multiple diffusion encoding schemes with varying diffusion direction, weighting, and diffusion time to investigate specific microstructural properties in biological tissues. In this study, we examined time-dependent diffusion kurtosis contrast in adult mouse brains and in neonatal mouse brains after hypoxic?ischemic (HI) injury. In vivo diffusion kurtosis maps were acquired with a short diffusion time using an oscillating gradient spin echo (OGSE) sequence at 100 Hz and with a relatively long diffusion time (20 ms) using a pulsed gradient spin echo (PGSE) sequence. In the adult mouse brain, we found that the cortex and hippocampus showed larger differences between OGSE kurtosis and PGSE kurtosis than major white matter tracts. In neonatal mouse brains with unilateral HI injury, the OGSE kurtosis map overall provided stronger edema contrast than the PGSE kurtosis map, and the differences between OGSE and PGSE kurtosis measurements in the edema region reflected heterogeneity of injury. This is the first in vivo study that has demonstrated multi-direction OGSE kurtosis contrasts in the mouse brain. Comparing PGSE and OGSE kurtosis measures may provide additional information on microstructural changes after ischemic stroke.
+ER  - 
+
+TY  - JOUR
+AU  - de Roos, Carlijn
+AU  - van der Oord, Saskia
+AU  - Zijlstra, Bonne
+AU  - Lucassen, Sacha
+AU  - Perrin, Sean
+AU  - Emmelkamp, Paul
+AU  - de Jongh, Ad
+TI  - Comparison of eye movement desensitization and reprocessing therapy, cognitive behavioral writing therapy, and wait-list in pediatric posttraumatic stress disorder following single-incident trauma: a multicenter randomized clinical trial
+JO  - Journal of Child Psychology and Psychiatry
+JA  - J Child Psychol Psychiatr
+VL  - 58
+IS  - 11
+SN  - 0021-9630
+UR  - https://doi.org/10.1111/jcpp.12768
+DO  - doi:10.1111/jcpp.12768
+SP  - 1219
+EP  - 1228
+KW  - Posttraumatic stress disorder
+KW  - eye movement desensitization and reprocessing
+KW  - cognitive behavioral writing therapy
+KW  - single trauma
+KW  - children and adolescents
+PY  - 2017
+AB  - Background Practice guidelines for childhood posttraumatic stress disorder (PTSD) recommend trauma-focused psychotherapies, mainly cognitive behavioral therapy (CBT). Eye movement desensitization and reprocessing (EMDR) therapy is a brief trauma-focused, evidence-based treatment for PTSD in adults, but with few well-designed trials involving children and adolescents. Methods We conducted a single-blind, randomized trial with three arms (n = 103): EMDR (n = 43), Cognitive Behavior Writing Therapy (CBWT; n = 42), and wait-list (WL; n = 18). WL participants were randomly reallocated to CBWT or EMDR after 6 weeks; follow-ups were conducted at 3 and 12 months posttreatment. Participants were treatment-seeking youth (aged 8?18 years) with a DSM-IV diagnosis of PTSD (or subthreshold PTSD) tied to a single trauma, who received up to six sessions of EMDR or CBWT lasting maximally 45 min each. Results Both treatments were well-tolerated and relative to WL yielded large, intent-to-treat effect sizes for the primary outcomes at posttreatment: PTSD symptoms (EMDR: d = 1.27; CBWT: d = 1.24). At posttreatment 92.5% of EMDR, and 90.2% of CBWT no longer met the diagnostic criteria for PTSD. All gains were maintained at follow-up. Compared to WL, small to large (range d = 0.39?1.03) intent-to-treat effect sizes were obtained at posttreatment for negative trauma-related appraisals, anxiety, depression, and behavior problems with these gains being maintained at follow-up. Gains were attained with significantly less therapist contact time for EMDR than CBWT (mean = 4.1 sessions/140 min vs. 5.4 sessions/227 min). Conclusions EMDR and CBWT are brief, trauma-focused treatments that yielded equally large remission rates for PTSD and reductions in the severity of PTSD and comorbid difficulties in children and adolescents seeking treatment for PTSD tied to a single event. Further trials of both treatments with PTSD tied to multiple traumas are warranted.
+ER  - 
+
+TY  - JOUR
+AU  - Koepp, Matthias J.
+AU  - Årstad, Eric
+AU  - Bankstahl, Jens P.
+AU  - Dedeurwaerdere, Stefanie
+AU  - Friedman, Alon
+AU  - Potschka, Heidrun
+AU  - Ravizza, Teresa
+AU  - Theodore, William H.
+AU  - Baram, Tallie Z.
+TI  - Neuroinflammation imaging markers for epileptogenesis
+JO  - Epilepsia
+JA  - Epilepsia
+VL  - 58
+IS  - S3
+SN  - 0013-9580
+UR  - https://doi.org/10.1111/epi.13778
+DO  - doi:10.1111/epi.13778
+SP  - 11
+EP  - 19
+KW  - Epileptogenesis
+KW  - Magnetic resonance imaging (MRI)
+KW  - Nuclear medicine imaging (PET/SPECT)
+KW  - Glia
+KW  - Blood–brain barrier
+PY  - 2017
+AB  - Summary Epilepsy can be a devastating disorder. In addition to debilitating seizures, epilepsy can cause cognitive and emotional problems with reduced quality of life. Therefore, the major aim is to prevent the disorder in the first place: identify, detect, and reverse the processes responsible for its onset, and monitor and treat its progression. Epilepsy often occurs following a latent period of months to years (epileptogenesis) as a consequence of a brain insult, such as head trauma, stroke, or status epilepticus. Although this latent period clearly represents a therapeutic window, we are not able to stratify patients at risk for long-term epilepsy, which is prerequisite for preventative clinical trials. Moreover, because of the length of the latent period, an early biomarker for treatment response would be of high value. Finally, mechanistic biomarkers of epileptogenesis may provide more profound insight in the process of disease development.
+ER  - 
+
+TY  - JOUR
+TI  - Trauma
+JO  - ANZ Journal of Surgery
+VL  - 73
+IS  - s1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/j.1445-2197.2003.00019.x
+DO  - doi:10.1111/j.1445-2197.2003.00019.x
+SP  - A113
+EP  - A116
+PY  - 2003
+ER  - 
+
+TY  - JOUR
+AU  - WHISMAN, MARK A.
+TI  - Childhood trauma and marital outcomes in adulthood
+JO  - Personal Relationships
+VL  - 13
+IS  - 4
+SN  - 1350-4126
+UR  - https://doi.org/10.1111/j.1475-6811.2006.00124.x
+DO  - doi:10.1111/j.1475-6811.2006.00124.x
+SP  - 375
+EP  - 386
+PY  - 2006
+AB  - Abstract Although existing research suggests that certain childhood traumas such as childhood sexual abuse are associated with interpersonal (e.g., marital) difficulties in adulthood, there has been limited research on interpersonal sequelae of other types of traumas. In addition, the association between childhood traumas and interpersonal outcomes has often been limited to a particular outcome such as divorce, and existing studies have rarely controlled for the co-occurrence of other traumas when evaluating interpersonal outcomes. The current study sought to evaluate the associations between 7 childhood traumas and 2 marital outcomes?marital disruption (i.e., divorce and separation) and marital satisfaction?in a large, national probability sample. Results from univariate and multivariate analyses indicated that (a) probability of marital disruption was higher among people who during childhood had experienced physical abuse, rape, or serious physical attack or assault; and (b) current marital satisfaction was lower among people who during childhood had experienced rape or sexual molestation. Results support the importance of childhood traumas in predicting 2 important marital outcomes.
+ER  - 
+
+AU  - Bergin, Diane
+AU  - Mitchell, Donald G.
+C7  - pp. 2819-2855
+TI  - Magnetic Resonance Imaging
+SN  - 9781118512067
+UR  - https://doi.org/10.1002/9781118512074.ch148
+DO  - doi:10.1002/9781118512074.ch148
+SP  - 2819-2855
+KW  - biliary tree
+KW  - gallbladder
+KW  - liver lesions
+KW  - magnetic resonance angiography
+KW  - magnetic resonance cholangiopancreatography
+KW  - magnetic resonance imaging
+KW  - pancreatic duct
+PY  - 2006
+AB  - Summary This chapter explains some of the tissue characteristics and basic principles of imaging and discusses specific applications and techniques in magnetic resonance imaging (MRI). A magnetic resonance technique that simulates magnetic resonance angiography (MRA) but which differs in principle is magnetic resonance cholangiopancreatography (MRCP). The goal of MRCP is to selectively image fluid within the biliary tree and pancreatic duct. Various comparisons of contrast-enhanced computed tomography (CT) and MRI have shown that MRI has significantly better capacity to characterize liver lesions. MRI of the pancreas is optimally performed with a high-performance gradient system (1.5 T) using phased-array torso coil to improve the signal-to-noise ratio with a smaller field of view and thin-slice profile. Magnetic resonance sequences used to evaluate the gallbladder are similar to other imaging protocols used in the abdomen, including axial T1-weighted breath-hold gradient echo (GRE) chemical shift sequences, T2-weighted sequences, MRCP, and contrast-enhanced T1-weighted sequences.
+ER  - 
+
+TY  - JOUR
+AU  - Hernandez, Alfredo
+AU  - Donovan, Virgina
+AU  - Grinberg, Yelena Y.
+AU  - Obenaus, Andre
+AU  - Carson, Monica J.
+TI  - Differential detection of impact site versus rotational site injury by magnetic resonance imaging and microglial morphology in an unrestrained mild closed head injury model
+JO  - Journal of Neurochemistry
+JA  - J. Neurochem.
+VL  - 136
+IS  - S1
+SN  - 9781118512067
+UR  - https://doi.org/10.1111/jnc.13402
+DO  - doi:10.1111/jnc.13402
+SP  - 18
+EP  - 28
+KW  - confocal microscopy
+KW  - traumatic brain injury
+KW  - T2-weighted imaging
+KW  - neuroinflammation
+PY  - 2016
+AB  - Abstract Seventy-five percent of all traumatic brain injuries are mild and do not cause readily visible abnormalities on routine medical imaging making it difficult to predict which individuals will develop unwanted clinical sequelae. Microglia are brain-resident macrophages and early responders to brain insults. Their activation is associated with changes in morphology or expression of phenotypic markers including P2Y12 and major histocompatibility complex class II. Using a murine model of unrestrained mild closed head injury (mCHI), we used microglia as reporters of acute brain injury at sites of impact versus sites experiencing rotational stress 24 h post-mCHI. Consistent with mild injury, a modest 20% reduction in P2Y12 expression was detected by quantitative real-time PCR (qPCR) analysis but only in the impacted region of the cortex. Furthermore, neither an influx of blood-derived immune cells nor changes in microglial expression of CD45, TREM1, TREM2, major histocompatibility complex class II or CD40 were detected. Using magnetic resonance imaging (MRI), small reductions in T2 weighted values were observed but only near the area of impact and without overt tissue damage (blood deposition, edema). Microglial morphology was quantified without cryosectioning artifacts using ScaleA2 clarified brains from CX3CR1-green fluorescence protein (GFP) mice. The cortex rostral to the mCHI impact site receives greater rotational stress but neither MRI nor molecular markers of microglial activation showed significant changes from shams in this region. However, microglia in this rostral region did display signs of morphologic activation equivalent to that observed in severe CHI. Thus, mCHI-triggered rotational stress is sufficient to cause injuries undetectable by routine MRI that could result in altered microglial surveillance of brain homeostasis. Acute changes in microglial morphology reveal brain responses to unrestrained mild traumatic brain injury In areas subjected to rotational stress distant from impact site In the absence of detectable changes in standard molecular indicators of brain damage, inflammation or microglial activation. That might result in decreased surveillance of brain function and increased susceptibility to subsequent brain insults.
+ER  - 
+
+TY  - JOUR
+AU  - Ji, Yang
+AU  - Paulsen, Jeffrey
+AU  - Zhou, Iris Yuwen
+AU  - Lu, Dongshuang
+AU  - Machado, Patrick
+AU  - Qiu, Bensheng
+AU  - Song, Yi-Qiao
+AU  - Sun, Phillip Zhe
+TI  - In vivo microscopic diffusional kurtosis imaging with symmetrized double diffusion encoding EPI
+JO  - Magnetic Resonance in Medicine
+JA  - Magn. Reson. Med
+VL  - 81
+IS  - 1
+SN  - 9781118512067
+UR  - https://doi.org/10.1002/mrm.27419
+DO  - doi:10.1002/mrm.27419
+SP  - 533
+EP  - 541
+KW  - diffusional heterogeneity
+KW  - double diffusion encoding
+KW  - microscopic DKI
+KW  - microscopic kurtosis
+KW  - neurological disorders
+PY  - 2019
+AB  - Purpose Diffusional kurtosis imaging (DKI) measures the deviation of the displacement probability from a normal distribution, complementing the data commonly acquired by diffusion MRI. It is important to elucidate the sources of kurtosis contrast, particularly in biological tissues where microscopic kurtosis (intrinsic kurtosis) and diffusional heterogeneity may co-exist. Methods We have developed a technique for microscopic kurtosis MRI, dubbed microscopic diffusional kurtosis imaging (µDKI), using a symmetrized double diffusion encoding (s-DDE) EPI sequence. We compared this newly developed µDKI to conventional DKI methods in both a triple compartment phantom and in vivo. Results Our results showed that whereas conventional DKI and µDKI provided similar measurements in a compartment of monosphere beads, kurtosis measured by µDKI was significantly less than that measured by conventional DKI in a compartment of mixed Gaussian pools. For in vivo brain imaging, µDKI showed small yet significantly lower kurtosis measurement in regions of the cortex, CSF, and internal capsule compared to the conventional DKI approach. Conclusions Our study showed that µDKI is less susceptible than conventional DKI to sub-voxel diffusional heterogeneity. Our study also provided important preliminary demonstration of our technique in vivo, warranting future studies to investigate its diagnostic use in examining neurological disorders.
+ER  - 
+
+TY  - JOUR
+AU  - Sheth, Niral M.
+AU  - Zbijewski, Wojciech
+AU  - Jacobson, Matthew W.
+AU  - Abiola, Godwin
+AU  - Kleinszig, Gerhard
+AU  - Vogt, Sebastian
+AU  - Soellradl, Stefan
+AU  - Bialkowski, Jens
+AU  - Anderson, William S.
+AU  - Weiss, Clifford R.
+AU  - Osgood, Greg M.
+AU  - Siewerdsen, Jeffrey H.
+TI  - Mobile C-Arm with a CMOS detector: Technical assessment of fluoroscopy and Cone-Beam CT imaging performance
+JO  - Medical Physics
+JA  - Med. Phys.
+VL  - 45
+IS  - 12
+SN  - 9781118512067
+UR  - https://doi.org/10.1002/mp.13244
+DO  - doi:10.1002/mp.13244
+SP  - 5420
+EP  - 5436
+KW  - amorphous silicon
+KW  - C-arm
+KW  - CMOS
+KW  - cone-beam CT
+KW  - DQE
+KW  - flat-panel detector
+KW  - fluoroscopy
+KW  - image-guided procedures
+KW  - NEQ
+KW  - NPS
+KW  - spatial resolution
+KW  - technical assessment
+PY  - 2018
+AB  - Purpose Indirect-detection CMOS flat-panel detectors (FPDs) offer fine pixel pitch, fast readout, and low electronic noise in comparison to current a-Si:H FPDs. This work investigates the extent to which these potential advantages affect imaging performance in mobile C-arm fluoroscopy and cone-beam CT (CBCT). Methods FPDs based on CMOS (Xineos 3030HS, 0.151 mm pixel pitch) or a-Si:H (PaxScan 3030X, 0.194 mm pixel pitch) sensors were outfitted on equivalent mobile C-arms for fluoroscopy and CBCT. Technical assessment of 2D and 3D imaging performance included measurement of electronic noise, gain, lag, modulation transfer function (MTF), noise-power spectrum (NPS), detective quantum efficiency (DQE), and noise-equivalent quanta (NEQ) in fluoroscopy (with entrance air kerma ranging 5?800 nGy per frame) and cone-beam CT (with weighted CT dose index, CTDIw, ranging 0.08?1 mGy). Image quality was evaluated by clinicians in vascular, orthopaedic, and neurological surgery in realistic interventional scenarios with cadaver subjects emulating a variety of 2D and 3D imaging tasks. Results The CMOS FPD exhibited ~2?3? lower electronic noise and ~7? lower image lag than the a-Si:H FPD. The 2D (projection) DQE was superior for CMOS at ≤50 nGy per frame, especially at high spatial frequencies (~2% improvement at 0.5 mm?1 and ≥50% improvement at 2.3 mm?1) and was somewhat inferior at moderate-high doses (up to 18% lower DQE for CMOS at 0.5 mm?1). For smooth CBCT reconstructions (low-frequency imaging tasks), CMOS exhibited ~10%?20% higher NEQ (at 0.1?0.5 mm?1) at the lowest dose levels (CTDIw ≤0.1 mGy), while the a-Si:H system yielded slightly (~5%) improved NEQ (at 0.1?0.5 lp/mm) at higher dose levels (CTDIw ≥0.6 mGy). For sharp CBCT reconstructions (high-frequency imaging tasks), NEQ was ~32% higher above 1 mm?1 for the CMOS system at mid-high-dose levels and ≥75% higher at the lowest dose levels (CTDIw ≤0.1 mGy). Observer assessment of 2D and 3D cadaver images corroborated the objective metrics with respect to a variety of pertinent interventional imaging tasks. Conclusion Measurements of image noise, spatial resolution, DQE, and NEQ indicate improved low-dose performance for the CMOS-based system, particularly at lower doses and higher spatial frequencies. Assessment in realistic imaging scenarios confirmed improved visibility of fine details in low-dose fluoroscopy and CBCT. The results quantitate the extent to which CMOS detectors improve mobile C-arm imaging performance, especially in 2D and 3D imaging scenarios involving high-resolution tasks and low-dose conditions.
+ER  - 
+
+TY  - JOUR
+AU  - Flohr, Th.
+AU  - Stierstorfer, K.
+AU  - Bruder, H.
+AU  - Simon, J.
+AU  - Polacin, A.
+AU  - Schaller, S.
+TI  - Image reconstruction and image quality evaluation for a 16-slice CT scanner
+JO  - Medical Physics
+JA  - Med. Phys.
+VL  - 30
+IS  - 5
+SN  - 9781118512067
+UR  - https://doi.org/10.1118/1.1562168
+DO  - doi:10.1118/1.1562168
+SP  - 832
+EP  - 845
+KW  - cone-beam CT
+KW  - multislice CT
+KW  - CT image quality evaluation
+KW  - AMPR
+KW  - ASSR
+KW  - Computed radiography
+KW  - Image analysis
+KW  - image reconstruction
+KW  - medical image processing
+KW  - computerised tomography
+KW  - image resolution
+KW  - Medical imaging
+KW  - Medical image reconstruction
+KW  - Computed tomography
+KW  - Medical image quality
+KW  - Cone beam computed tomography
+KW  - Medical image noise
+KW  - Medical diagnosis
+KW  - Collimation
+KW  - Single slice computed tomography
+KW  - Image scanners
+PY  - 2003
+AB  - We present a theoretical overview and a performance evaluation of a novel approximate reconstruction algorithm for cone-beam spiral CT, the adaptive multiple plane reconstruction (AMPR), which has been introduced by Schaller, Flohr et al. [Proc. SPIE Int. Symp. Med. Imag. 4322, 113?127 (2001)] AMPR has been implemented in a recently introduced 16-slice CT scanner. We present a detailed algorithmic description of AMPR which allows for a free selection of the spiral pitch. We show that dose utilization is better than 90% independent of the pitch. We give an overview on the z-reformation functions chosen to allow for a variable selection of the spiral slice width at arbitrary pitch values. To investigate AMPR image quality we present images of anthropomorphic phantoms and initial patient results. We present measurements of spiral slice sensitivity profiles (SSPs) and measurements of the maximum achievable transverse resolution, both in the isocenter and off-center. We discuss the pitch dependence of image noise measured in a centered 20 cm water phantom. Using the AMPR approach, cone-beam artifacts are considerably reduced for the 16-slice scanner investigated. Image quality in MPRs is independent of the pitch and equivalent to a single-slice CT system at pitch . The full width at half-maximum (FWHM) of the spiral SSPs shows only minor variations as a function of the pitch, nominal, and measured values differ by less than 0.2 mm. With 16?0.75 mm collimation, the measured FWHM of the smallest reconstructed slice is about 0.9 mm. Using this slice width and overlapping image reconstruction, cylindrical holes with 0.6 mm diameter can be resolved in a z-resolution phantom. Image noise for constant effective mAs is nearly independent of the pitch. Measured and theoretically expected dose utilization are in good agreement. Meanwhile, clinical practice has demonstrated the excellent image quality and the increased diagnostic capability that is obtained with the new generation of multislice CT systems.
+ER  - 
+
+TY  - JOUR
+AU  - Mills, Angela M.
+AU  - Raja, Ali S.
+AU  - Marin, Jennifer R.
+TI  - Optimizing Diagnostic Imaging in the Emergency Department
+JO  - Academic Emergency Medicine
+JA  - Acad Emerg Med
+VL  - 22
+IS  - 5
+SN  - 9781118512067
+UR  - https://doi.org/10.1111/acem.12640
+DO  - doi:10.1111/acem.12640
+SP  - 625
+EP  - 631
+PY  - 2015
+AB  - Abstract While emergency diagnostic imaging use has increased significantly, there is a lack of evidence for corresponding improvements in patient outcomes. Optimizing emergency department (ED) diagnostic imaging has the potential to improve the quality, safety, and outcomes of ED patients, but to date, there have not been any coordinated efforts to further our evidence-based knowledge in this area. The objective of this article is to discuss six aspects of diagnostic imaging to provide background information on the underlying framework for the 2015 Academic Emergency Medicine consensus conference, ?Diagnostic Imaging in the Emergency Department: A Research Agenda to Optimize Utilization.? The consensus conference aims to generate a high priority research agenda for emergency diagnostic imaging that will inform the design of future investigations. The six components herein will serve as the group topics for the conference: 1) patient-centered outcomes research; 2) clinical decision rules; 3) training, education, and competency; 4) knowledge translation and barriers to image optimization; 5) use of administrative data; and 6) comparative effectiveness research: alternatives to traditional CT use.
+ER  - 
+
+TY  - JOUR
+AU  - Fan, Reuben H.
+AU  - Does, Mark D.
+TI  - Compartmental relaxation and diffusion tensor imaging measurements in vivo in λ-carrageenan-induced edema in rat skeletal muscle
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 21
+IS  - 6
+SN  - 9781118512067
+UR  - https://doi.org/10.1002/nbm.1226
+DO  - doi:10.1002/nbm.1226
+SP  - 566
+EP  - 573
+KW  - diffusion tensor imaging
+KW  - muscle
+KW  - injury
+KW  - edema
+KW  - multiexponential T2
+KW  - apparent diffusion coefficient
+KW  - fractional anisotropy
+PY  - 2008
+AB  - Abstract Integrated diffusion tensor T2 measurements were made on normal and edematous rat muscle, and the data were fitted with one- and two-compartment models, respectively. Edematous muscle exhibited a short-lived component (T2?=?28?±?6?ms), with diffusion characteristics similar to that of normal muscle, and a long-lived component (T2?=?96?±?27?ms), with greater mean apparent diffusion coefficient (ADC) and lower fractional anisotropy (FA). With this two-component description of diffusion and relaxation, values of ADC and FA estimated with a conventional pulsed-gradient spin-echo sequence will depend on the echo time, relative fraction of short-lived and long-lived water signals, and the intrinsic ADC and FA values within the tissue. On the basis of the relative differences in water diffusion properties between long-lived and short-lived water signals, as well as the similarities between the short-lived component and normal tissue, it is postulated that these two signal components largely reflect intracellular and extracellular water. Copyright ? 2007 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - Trauma
+JO  - ANZ Journal of Surgery
+VL  - 73
+IS  - s
+SN  - 9781118512067
+UR  - https://doi.org/10.1046/j.1445-2197.73.s.19.x
+DO  - doi:10.1046/j.1445-2197.73.s.19.x
+SP  - A113
+EP  - A116
+PY  - 2003
+ER  - 
+
+TY  - JOUR
+AU  - Owers, C.
+AU  - Morgan, J. L.
+AU  - Garner, J. P.
+TI  - Abdominal trauma in primary blast injury
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 98
+IS  - 2
+SN  - 9781118512067
+UR  - https://doi.org/10.1002/bjs.7268
+DO  - doi:10.1002/bjs.7268
+SP  - 168
+EP  - 179
+PY  - 2011
+AB  - Abstract Background: Blast injury is uncommon, and remains poorly understood by most clinicians outside regions of active warfare. Primary blast injury (PBI) results from the interaction of the blast wave with the body, and typically affects gas-containing organs such as the ear, lungs and gastrointestinal tract. This review investigates the mechanisms and injuries sustained to the abdomen following blast exposure. Methods: MEDLINE was searched using the keywords ?primary blast injury?, ?abdominal blast? and ?abdominal blast injury? to identify English language reports of abdominal PBI. Clinical reports providing sufficient data were used to calculate the incidence of abdominal PBI in hospitalized survivors of air blast, and in open- and enclosed-space detonations. Results: Sixty-one articles were identified that primarily reported clinical or experimental abdominal PBI. Nine clinical reports provided sufficient data to calculate an incidence of abdominal PBI; 31 (3·0 per cent) of 1040 hospitalized survivors of air blast suffered abdominal PBI, the incidence ranging from 1·3 to 33 per cent. The incidence for open- and enclosed-space detonations was 5·6 and 6·7 per cent respectively. The terminal ileum and caecum were the most commonly affected organs. Surgical management of abdominal PBI is similar to that of abdominal trauma of other causes. Conclusion: Abdominal PBI is uncommon but has the potential for significant mortality and morbidity, which may present many days after blast exposure. It is commoner after blast in enclosed spaces and under water. Copyright ? 2010 British Journal of Surgery Society Ltd. Published by John Wiley & Sons, Ltd.
+ER  - 

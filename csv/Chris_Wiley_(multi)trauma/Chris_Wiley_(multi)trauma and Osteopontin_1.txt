@@ -1,0 +1,451 @@
+
+TY  - JOUR
+AU  - Lange-Consiglio, A.
+AU  - Corradetti, B.
+AU  - Meucci, A.
+AU  - Perego, R.
+AU  - Bizzaro, D.
+AU  - Cremonesi, F.
+TI  - Characteristics of equine mesenchymal stem cells derived from amnion and bone marrow: In vitro proliferative and multilineage potential assessment
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 45
+IS  - 6
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12052
+DO  - doi:10.1111/evj.12052
+SP  - 737
+EP  - 744
+KW  - horse
+KW  - amniotic mesenchymal cells
+KW  - bone marrow mesenchymal cells
+KW  - proliferation
+KW  - differentiation
+PY  - 2013
+AB  - Summary Reasons for performing study This is the first study comparing stemness features of equine mesenchymal progenitor cells derived from amniotic membrane and bone marrow. Objectives To investigate an alternative and noninvasive stromal cell source for equine tissue engineering. Study design In vitro experimental study of the characteristics of equine mesenchymal progenitor cells derived from amnion and bone marrow. Methods Cells isolated from amniotic membrane and bone marrow were analysed for proliferation (growth curve, doubling time, colony forming unit). Immunocytochemical detection of pluripotency markers and gene expression of stromal cell markers were also performed and these cells were studied for multilineage plasticity. Results Amniotic stromal cells (AMSCs) and bone marrow mesenchymal cells (BM-MSCs) both exhibited mature stromal cell-specific gene expression and immunocytochemical properties, but showed substantial differences in their proliferative and differentiation potential. The mean doubling time for AMSCs was significantly lower (P<0.05) than that observed for BM-MSCs (1.17 ± 0.15 vs. 3.27 ± 0.19 days, respectively). Compared to AMSCs, BM-MSCs also demonstrated a significantly (P<0.05) lower clonogenic capability (one fibroblast-like colony forming unit from a mean of 590.15 cells seeded for BM-MSCs vs. 242.73 cells seeded for AMSCs). BM-MSCs did not differentiate into glial cells, and the osteogenic differentiation process was longer than for AMSCs. Conclusions and potential relevance The amniotic membrane could be a valuable source of MSCs to be used both for allogenic and/or autologous therapies. The noninvasive nature and low cost of collection, the rapid proliferation along with a greater differentiation potential and the ?off the shelf? preparation potential could make AMCs useful for cell therapy.
+ER  - 
+
+TY  - JOUR
+AU  - Majidinia, Maryam
+AU  - Sadeghpour, Alireza
+AU  - Yousefi, Bahman
+TI  - The roles of signaling pathways in bone repair and regeneration
+JO  - Journal of Cellular Physiology
+JA  - J Cell Physiol
+VL  - 233
+IS  - 4
+SN  - 0021-9541
+UR  - https://doi.org/10.1002/jcp.26042
+DO  - doi:10.1002/jcp.26042
+SP  - 2937
+EP  - 2948
+KW  -  BMP/TGF-β
+KW  - Ca2+ signaling
+KW  - FGF
+KW  - IGF
+KW  - MAPK
+KW  - Notch
+KW  - PDGF
+KW  - Wnt
+PY  - 2018
+AB  - Regenerative medicine has sparked interest in potential strategies for bone repair. Bone defects are widespread and could be caused by trauma, congenital malformations, infections, and surgery. Although bone has a large self-healing capacity, some defects or fractures are too big to regenerate. To regenerate bone structures which can be used for treatment of patients, bone growth must be induced by a number of bioactive implantable materials, cell types and intracellular, and extracellular molecular signaling pathways. Since mesenchymal stem cells (MSCs) and their differentiation during remodeling processes have important roles in bone regeneration, it is believed that understanding molecular signaling pathways involved is crucial to the development of bone implants, bone substitute materials, and cell-based scaffolds for bone regeneration. In this review, we briefly introduce concepts in fracture repair and regeneration following bone injuries, and then discuss the current clinical methods in bone regeneration. In the next section, we review the involvement of the various key signaling pathways in bone regeneration.
+ER  - 
+
+TY  - JOUR
+AU  - Chandra, Shaneel
+AU  - Siraj, Shajahan
+AU  - Wong, Danny K. Y.
+TI  - Recent Advances in Biosensing for Neurotransmitters and Disease Biomarkers using Microelectrodes
+JO  - ChemElectroChem
+JA  - ChemElectroChem
+VL  - 4
+IS  - 4
+SN  - 2196-0216
+UR  - https://doi.org/10.1002/celc.201600810
+DO  - doi:10.1002/celc.201600810
+SP  - 822
+EP  - 833
+KW  - electrochemical biosensing
+KW  - electrode arrays
+KW  - neurotransmitter detection
+KW  - disease biomarker detection
+KW  - modified microelectrodes
+PY  - 2017
+AB  - Abstract This Minireview focuses on recent advances in the applications of microelectrodes to detect and monitor targeted analytes in bioelectrochemical processes. Notably, these processes are electrochemically driven reactions that involve the detection of targets from the biological realm. Wide-ranging applications of electrochemical sensors have been reported in the last few decades in various research fields, owing to favorable attributes such as high selectivity and sensitivity, rapid analysis, simplicity, easy fabrication, and cost effectiveness. Accordingly, in this Minireview, we explore recent advances in bioelectrochemistry based on small detection probes or structures modified for a variety of analytes, exploiting multi-approach advantages of enhanced electrochemical detection surface or targeted analyte pursuit. The target analytes included in this Minireview are neurotransmitters and disease biomarkers detected using enzymatic and non-enzymatic electrode modifications.
+ER  - 
+
+TY  - JOUR
+AU  - Sharma, Anuj
+AU  - Singh, Anoop K.
+AU  - Warren, James
+AU  - Maheshwari, Radha K
+TI  - 119 Differential Regulation of Angiogenic Genes in Normal and Diabetic Wound Healing
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130216w.x
+DO  - doi:10.1111/j.1067-1927.2005.130216w.x
+SP  - A28
+EP  - A48
+PY  - 2005
+AB  - Wound healing is a complicated biological process that involves interactions of multiple cell types, various growth factors, their mediators and the extracellular matrix proteins. In this study, we have studied the differential regulation of angiogenic genes during wound healing in transgenic diabetic mice and non-diabetic mice. One 8?mm full thickness cutaneous wound under aseptic conditions was created on either side of the midline. Wound tissues were studied at 4, 7, and 11 days postwounding and healing was assessed by histology. The pathway specific gene expression profile of wound tissue in transgenic diabetic mice was compared with the normal mice. Profiling of these genes showed differential regulation of many angiogenic promoters, inhibitors, growth factors and cytokines. Furthermore, in our study hypoxia inducible factor (HIF-1a), osteopontin (OPN) and osteonectin are induced early at day 4, in both the diabetic and nondiabetic wound. The expression was downregulated by 11-day postwounding in the nondiabetic wound, whereas diabetic wounds showed constitutively high expression of these genes. The expression patterns of these genes were concomitant with the extent of healing as assessed by histology at different time point postwounding. These results suggest wound healing is a complex process that involves cascade of interaction of various factors. Although a single gene may not be solely responsible for any impairment in healing; however, an in-depth study of these genes and precise balance between the inducers and inhibitors of angiogenesis may provide an answer to the delayed healing in diabetic conditions. (This work was supported by a grant (5 R21 AT000517-02) from the NCCAM, National Institute of Health, Bethesda, MD.)
+ER  - 
+
+TY  - JOUR
+TI  - Oral Presentations
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 58
+IS  - S1
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/jsap.12699
+DO  - doi:10.1111/jsap.12699
+SP  - 5
+EP  - 44
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+AU  - Nieuwenhuis, Bart
+AU  - Haenzi, Barbara
+AU  - Andrews, Melissa R.
+AU  - Verhaagen, Joost
+AU  - Fawcett, James W.
+TI  - Integrins promote axonal regeneration after injury of the nervous system
+JO  - Biological Reviews
+JA  - Biol Rev
+VL  - 93
+IS  - 3
+SN  - 1464-7931
+UR  - https://doi.org/10.1111/brv.12398
+DO  - doi:10.1111/brv.12398
+SP  - 1339
+EP  - 1362
+KW  - axon regeneration
+KW  - integrin
+KW  - kindlin
+KW  - receptor activation state
+KW  - selective polarised transport
+KW  - traumatic injury of the nervous system
+PY  - 2018
+AB  - ABSTRACT Integrins are cell surface receptors that form the link between extracellular matrix molecules of the cell environment and internal cell signalling and the cytoskeleton. They are involved in several processes, e.g. adhesion and migration during development and repair. This review focuses on the role of integrins in axonal regeneration. Integrins participate in spontaneous axonal regeneration in the peripheral nervous system through binding to various ligands that either inhibit or enhance their activation and signalling. Integrin biology is more complex in the central nervous system. Integrins receptors are transported into growing axons during development, but selective polarised transport of integrins limits the regenerative response in adult neurons. Manipulation of integrins and related molecules to control their activation state and localisation within axons is a promising route towards stimulating effective regeneration in the central nervous system.
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Presentation Abstracts
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 43
+IS  - 6
+SN  - 0161-3499
+UR  - https://doi.org/10.1111/j.1532-950X.2014.12263.x
+DO  - doi:10.1111/j.1532-950X.2014.12263.x
+SP  - E151
+EP  - E211
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Presentation Abstracts
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 44
+IS  - 6
+SN  - 0161-3499
+UR  - https://doi.org/10.1111/vsu.12352
+DO  - doi:10.1111/vsu.12352
+SP  - E41
+EP  - E73
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+AU  - Gabor Miklos, George L.
+AU  - Maleszka, Ryszard
+TI  - Integrating molecular medicine with functional proteomics: Realities and expectations
+JO  - PROTEOMICS
+JA  - Proteomics
+VL  - 1
+IS  - 1
+SN  - 1615-9853
+UR  - https://doi.org/10.1002/1615-9861(200101)1:1<30::AID-PROT30>3.0.CO;2-X
+DO  - doi:10.1002/1615-9861(200101)1:1<30::AID-PROT30>3.0.CO;2-X
+SP  - 30
+EP  - 41
+KW  - Proteomic profiling
+KW  - Human diseases
+KW  - Review
+PY  - 2001
+AB  - Abstract We analyze key proteomic issues and cutting-edge technologies that will spearhead inroads into functional interpretations of human diseases and their therapeutic rectification, following the availability of the predicted human proteome. We contrast the distinctions between high quality data that are low throughput, (e.g., 3-D proteomic reconstructions in embryogenic and nervous system contexts, and multigenerational transgenic studies), versus automated data harvesting that is more distant from human disease phenotypes and currently fulfills a diagnostic role, (e.g., molecular portraits of human diseases via transcriptomic analyses). We examine the extent to which these approaches impinge upon a realistic understanding of human diseases, namely how close they come to revealing the causal events involved in the initiation of disease. While tissue sources from human embryogenesis, foetal development and the brain remain the absolute priority, the pragmatic approaches utilize judicious data integration from selected proteomic studies of model organisms. The role of genome-wide disease-related screens, ?humanized? transgenic analyses, multigenerational gene interference methods, and analyses of post-translational modifications in epigenetic contexts from Drosophila will be crucial, since these avenues are far too slow and transgenically cumbersome in mammals. Finally, the implementation of multi compartment electrolyzers (MCE) and multi photon detection (MPD) systems will be pivotal for the proteomic profiling of human tissue samples.
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Presentation Abstracts 2015 European College Veterinary Surgeons Annual Scientific Meeting July 2–4, Berlin, Germany
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 44
+IS  - 5
+SN  - 0161-3499
+UR  - https://doi.org/10.1111/vsu.12345
+DO  - doi:10.1111/vsu.12345
+SP  - E1
+EP  - E39
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+AU  - Liu, Cheng
+AU  - Tsai, An-Ly
+AU  - Chen, Yen-Chu
+AU  - Fan, Shih-Chen
+AU  - Huang, Chun-Hsien
+AU  - Wu, Chia-Ching
+AU  - Chang, Chih-Han
+TI  - Facilitation of human osteoblast apoptosis by sulindac and indomethacin under hypoxic injury
+JO  - Journal of Cellular Biochemistry
+JA  - J. Cell. Biochem.
+VL  - 113
+IS  - 1
+SN  - 0730-2312
+UR  - https://doi.org/10.1002/jcb.23338
+DO  - doi:10.1002/jcb.23338
+SP  - 148
+EP  - 155
+KW  - Hypoxia
+KW  - Osteoblast
+KW  - Apoptosis
+KW  - NSAID
+KW  - Aspirin
+PY  - 2012
+AB  - Abstract Hypoxic?ischemia injury occurs after trauma causes consequential bone necrosis. Non-steroid anti-inflammatory drugs (NSAIDs) are frequently used in orthopedic clinics for pain relief. However, the underlying mechanism and outcome for usage of NSAIDs is poorly understood. To investigate the damage and loss of osteoblast function in hypoxia, two hypoxia mimetics, cobalt chloride (CoCl2) and desferrioxamine (DFO), were used to create an in vitro hypoxic microenvironment. The cell damage was observed by decreases of cell viability and increases in cyclooxygenase-2 and cleaved poly(ADP-ribose) polymerase (PARP). Cell apoptosis was confirmed by WST-1 cytotoxic assays and flow cytometry. The functional expression of osteoblast in alkaline phosphatase (ALP) activity was significantly decreased by CoCl2 and inhibited when treated with DFO. To simulate the use of NSAID after hypoxic injury, four types of anti-inflammatory drugs, sulindac sulfide (SUL), indomethacin (IND), aspirin (Asp), and sodium salicylate (NaS), were applied to osteoblasts after 1?h of hypoxia mimetic treatment. SUL and IND further enhanced cell death after hypoxia. ALP activity was totally abolished in hypoxic osteoblasts under IND treatment. Facilitation of osteoblast apoptosis occurred regardless of IND dosage under hypoxic conditions. To investigate osteoblast in vivo, local hypoxia was created by fracture of tibia and then treated the injured mice with IND by oral feeding. IND-induced osteoblast apoptosis was confirmed by positive staining of TUNEL assay in fractured mice. Significant delay of fracture healing in bone tissue was also observed with the treatment of IND. These results provide information pertaining to choosing appropriate anti-inflammatory drugs for orthopedic patients. J. Cell. Biochem. 113: 148?155, 2012. ? 2011 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Camalier, Corinne E.
+AU  - Yi, Ming
+AU  - Yu, Li-Rong
+AU  - Hood, Brian L.
+AU  - Conrads, Kelly A.
+AU  - Lee, Young Jae
+AU  - Lin, Yiming
+AU  - Garneys, Laura M.
+AU  - Bouloux, Gary F.
+AU  - Young, Matthew R.
+AU  - Veenstra, Timothy D.
+AU  - Stephens, Robert M.
+AU  - Colburn, Nancy H.
+AU  - Conrads, Thomas P.
+AU  - Beck Jr., George R.
+TI  - An integrated understanding of the physiological response to elevated extracellular phosphate
+JO  - Journal of Cellular Physiology
+JA  - J. Cell. Physiol.
+VL  - 228
+IS  - 7
+SN  - 0021-9541
+UR  - https://doi.org/10.1002/jcp.24312
+DO  - doi:10.1002/jcp.24312
+SP  - 1536
+EP  - 1550
+PY  - 2013
+AB  - Abstract Recent studies have suggested that changes in serum phosphate levels influence pathological states associated with aging such as cancer, bone metabolism, and cardiovascular function, even in individuals with normal renal function. The causes are only beginning to be elucidated but are likely a combination of endocrine, paracrine, autocrine, and cell autonomous effects. We have used an integrated quantitative biology approach, combining transcriptomics and proteomics to define a multi-phase, extracellular phosphate-induced, signaling network in pre-osteoblasts as well as primary human and mouse mesenchymal stromal cells. We identified a rapid mitogenic response stimulated by elevated phosphate that results in the induction of immediate early genes including c-fos. The mechanism of activation requires FGF receptor signaling followed by stimulation of N-Ras and activation of AP-1 and serum response elements. A distinct long-term response also requires FGF receptor signaling and results in N-Ras activation and expression of genes and secretion of proteins involved in matrix regulation, calcification, and angiogenesis. The late response is synergistically enhanced by addition of FGF23 peptide. The intermediate phase results in increased oxidative phosphorylation and ATP production and is necessary for the late response providing a functional link between the phases. Collectively, the results define elevated phosphate, as a mitogen and define specific mechanisms by which phosphate stimulates proliferation and matrix regulation. Our approach provides a comprehensive understanding of the cellular response to elevated extracellular phosphate, functionally connecting temporally coordinated signaling, transcriptional, and metabolic events with changes in long-term cell behavior. J. Cell. Physiol. 228: 1536?1550, 2013. ? 2012 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Chan, James K
+AU  - Glass, Graeme E
+AU  - Ersek, Adel
+AU  - Freidin, Andrew
+AU  - Williams, Garry A
+AU  - Gowers, Kate
+AU  - Espirito Santo, Ana I
+AU  - Jeffery, Rosemary
+AU  - Otto, William R
+AU  - Poulsom, Richard
+AU  - Feldmann, Marc
+AU  - Rankin, Sara M
+AU  - Horwood, Nicole J
+AU  - Nanchahal, Jagdeep
+TI  - Low-dose TNF augments fracture healing in normal and osteoporotic bone by up-regulating the innate immune response
+JO  - EMBO Molecular Medicine
+JA  - EMBO Mol Med
+VL  - 7
+IS  - 5
+SN  - 1757-4676
+UR  - https://doi.org/10.15252/emmm.201404487
+DO  - doi:10.15252/emmm.201404487
+SP  - 547
+EP  - 561
+KW  - bone
+KW  - CCL2
+KW  - fracture
+KW  - inflammation
+KW  - TNF
+PY  - 2015
+AB  - Abstract The mechanism by which trauma initiates healing remains unclear. Precise understanding of these events may define interventions for accelerating healing that could be translated to the clinical arena. We previously reported that addition of low-dose recombinant human TNF (rhTNF) at the fracture site augmented fracture repair in a murine tibial fracture model. Here, we show that local rhTNF treatment is only effective when administered within 24 h of injury, when neutrophils are the major inflammatory cell infiltrate. Systemic administration of anti-TNF impaired fracture healing. Addition of rhTNF enhanced neutrophil recruitment and promoted recruitment of monocytes through CCL2 production. Conversely, depletion of neutrophils or inhibition of the chemokine receptor CCR2 resulted in significantly impaired fracture healing. Fragility, or osteoporotic, fractures represent a major medical problem as they are associated with permanent disability and premature death. Using a murine model of fragility fractures, we found that local rhTNF treatment improved fracture healing during the early phase of repair. If translated clinically, this promotion of fracture healing would reduce the morbidity and mortality associated with delayed patient mobilization.
+ER  - 
+
+TY  - JOUR
+AU  - Otsuka, Fumiyuki
+AU  - Fuster, Valentin
+AU  - Narula, Jagat
+AU  - Virmani, Renu
+TI  - Omnipresent Atherosclerotic Disease: Time to Depart From Analysis of Individual Vascular Beds
+JO  - Mount Sinai Journal of Medicine: A Journal of Translational and Personalized Medicine
+JA  - Mt Sinai J Med
+VL  - 79
+IS  - 6
+SN  - 0027-2507
+UR  - https://doi.org/10.1002/msj.21353
+DO  - doi:10.1002/msj.21353
+SP  - 641
+EP  - 653
+KW  - aortic atherosclerosis
+KW  - atherosclerosis
+KW  - carotid atherosclerosis
+KW  - coronary artery disease
+KW  - different vascular beds
+KW  - intracranial atherosclerosis
+KW  - pathology
+KW  - peripheral artery disease.
+PY  - 2012
+AB  - Abstract Atherosclerotic vascular disease not only remains the leading cause of death in the Western countries, but it has become the most common cause of morbidity and mortality in the low- and middle-income countries as well. Therefore, better understanding of the pathogenesis of atherosclerotic disease and its prevention are of fundamental importance. It is well known that it affects sequentially the aorta followed by coronary, carotid, peripheral, and intracerebral arteries, with some individual variability. The mechanisms of progression are similar in each of the beds, with increasing lipid accumulation in the arterial wall along with macrophages and T-cell infiltration, paucity of smooth-muscle cell proliferation and collagen deposition, and endothelial-cell dysfunction and hypercoagulability playing an important role at the time of acute manifestations of the disease. Fundamental to this inflammatory process is the presence of classic risk factors, regardless of the involved territory. Therefore, the concept of palliative treatment must be reserved for only those who have progressed beyond preventive measures. Mt Sinai J Med 79:641?653, 2012. ? 2012 Mount Sinai School of Medicine
+ER  - 
+
+TY  - JOUR
+AU  - Aslam, R. S.
+AU  - Scheuenstuhl, H.
+AU  - Beckert, S.
+AU  - Hopf, H.
+AU  - Hussain, Z.
+AU  - Hunt, T. K.
+TI  - 049 Lactate Controls Vascular Development in Wound Healing
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractav.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractav.x
+SP  - A14
+EP  - A14
+PY  - 2004
+AB  - INTRODUCTION: High concentrations of lactate approx. 10?mM are characteristic of wound healing. We have previously shown that lactate instigates release of VEGF from macrophages and endothelial cells. Our present study uses an in vivo murine Matrigel model to study how lactate enhances vascular development and repair. METHODS: Matrigel is a reconstituted basement membrane complex, a liquid at 4 degree C. When injected subcutaneously, it reconstitutes as a gel. 30?mgs of finely divided polylactate polymer (DL-lactide-co-glycolide) was mixed with 1cc of Matrigel, and 2 injections were made into the dorsum of each of 60 (average 7/group), 6-month-old Swiss Webster mice. The gel implants were harvested at 3, 6, 9, 11 and 16 days post injection, and were fixed in buffered formalin or frozen. Cell migration and vascular development were assessed using H&E, anti-CD31 and anti-MAC3 antibody stainings for leukocytes, fibroblasts, endothelial cells, and macrophages. Cells and vessels were quantified microscopically. RESULTS: Control implants (without polylactate) developed little or no inflammation or angiogenesis. Polylactated implants developed highly significant number of endothelial cells and recognizable vessels at 6 and 9 days. At 11 and 16 days, sizeable vessels with surrounding connective tissue were found. Though a moderate inflammation occurred in the lactate groups, no foreign body reaction was seen. Larger implants of high molecular weight instigated little inflammation and few vessels. CONCLUSION: Slowly released lactate leads to the formation of new vessels. Our results provide support for further clinical applications of lactate polymer in wounds. NIH/NIGMS Trauma Training Grant
+ER  - 
+
+TY  - JOUR
+AU  - Fernandes, Célio Jr. da Costa
+AU  - Veiga, Mariana R.
+AU  - Peracoli, Maria Terezinha Serrão
+AU  - Zambuzzi, Willian F.
+TI  - Modulatory effects of silibinin in cell behavior during osteogenic phenotype
+JO  - Journal of Cellular Biochemistry
+JA  - J Cell Biochem
+VL  - 120
+IS  - 8
+SN  - 0730-2312
+UR  - https://doi.org/10.1002/jcb.28616
+DO  - doi:10.1002/jcb.28616
+SP  - 13413
+EP  - 13425
+KW  - bone
+KW  - flavonoid
+KW  - inflammation
+KW  - osteoblast
+KW  - remodeling
+KW  - silibinin
+PY  - 2019
+AB  - Abstract Natural molecules, such as flavonoid, are very welcome strategies to modulate bone turnover. This prompted us to comprehend better the effect of silibinin on osteoblast metabolism, mainly considering intracellular pathways able to drive cell adhesion to differentiation. By exploring in vitro approaches, our data show a modulatory effect of the silibinin (200??g/mL) on the osteoblast intracellular signaling, contributing with decisive pathways governing cell adhesion, differentiation, and further mineralization, recapitulating important stages of osteogenesis. Within the first 24?hours of adhesion (acute stage), osteoblasts respond to silibinin by rearranging their cytoskeleton and start mechanisms responsible to extracellular matrix (ECM) remodeling, which reach intense profile at 28 days of treatment (chronic stage) by favoring matrix metalloproteinases (MMPs-2, and -9) activities, concomitant to mineralizing phenotype. Importantly, silibinin seems to reprogram genes related to inflammatory landscape and significantly upmodulating osteoprotegerin (>25 fold-changes), signaling molecule involved with osteoclastogenesis. Altogether, our results show for the first time that silibinin drives in vitro osteoblast differentiation by requiring specific intracellular signaling. In conjunction, this molecular landscape contributes to understand the effect of silibinin on osteoblasts performance and open novel therapeutic possibilities to silibinin in bone disorders, such as osteoporosis.
+ER  - 
+
+TY  - JOUR
+AU  - Li, Yan
+AU  - Ye, Dewen
+AU  - Li, Mingxi
+AU  - Ma, Ming
+AU  - Gu, Ning
+TI  - Adaptive Materials Based on Iron Oxide Nanoparticles for Bone Regeneration
+JO  - ChemPhysChem
+JA  - ChemPhysChem
+VL  - 19
+IS  - 16
+SN  - 1439-4235
+UR  - https://doi.org/10.1002/cphc.201701294
+DO  - doi:10.1002/cphc.201701294
+SP  - 1965
+EP  - 1979
+KW  - iron oxide
+KW  - magnetic properties
+KW  - nanotechnology
+KW  - osteogenic differentiation
+KW  - regenerative medicine
+PY  - 2018
+AB  - Abstract The paper provides a brief overview of the use of iron oxide nanoparticles (IONPs) in the areas of bone regenerative medicine. Reconstruction of bone defects caused by trauma, non-union, and bone tumor excision, still faces many challenges despite the intense investigations and advancement in bone-tissue engineering and bone regeneration over the past decades. IONPs have promising prospects in this field due to their controlled responsive characteristics in specific external magnetic fields and have been of great interest during the last few years. This Minireview aims to summarize the relevant progress and describes the following five aspects: (i) The general introduction of IONPs, with a focus on the magnetic properties as the base of application; (ii) using IONPs as tools to study and control stem cells for better treatment efficacy in stem-cell-based bone defect repair; (iii) the use of IONPs and their complexes in the delivery of therapeutic agents, including chemical drug molecules, growth factors, and genetic materials, to promote osteogenesis-related cell function and differentiation, healthy bone tissue growth, and functional reconstruction; (iv) magneto-mechanical actuation in the regulation of cells distribution, mechano-transduction membrane receptors activation, and mechanosensitive signaling pathways regulation, and (v) fabrication, characteristics, and in?vitro and in?vivo osteogenic effects of magnetic composite bone scaffolds. Ongoing prospects are also discussed.
+ER  - 
+
+TY  - JOUR
+AU  - Harris, Scott M
+AU  - Zhang, Lijuan
+AU  - Parente, Jody
+AU  - Rodeheaver, George T.
+AU  - Falla, Timothy J.
+TI  - 111 HB-50: A Pre-Clinical Study of a Prophylactic for Wound Infection
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractde.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractde.x
+SP  - A29
+EP  - A29
+PY  - 2004
+AB  - Topical prophylaxis against wound infection by an agent that is active against multi-resistant bacteria does not generate resistance and is rapidly cidal would be of great clinical benefit. Peptides of the innate immune system have long been known to protect a wide range of organisms from attack by bacterial and fungal pathogens. Helix BioMedix Inc. has developed a short bioactive peptide antimicrobial modeled after these peptides. HB-50 is an amphipathic cationic alpha-helical peptide that has broad spectrum activity and is rapidly microbicidal. These attributes make HB-50 an ideal candidate for wound infection prophylaxis. In vitro studies have demonstrated HB-50 to be active against both gram-positive and gram-negative bacteria killing 5?7 log orders of bacteria within minutes. In addition, this peptide has potent activity against Vancomycin and Mupirocin resistant S. aureus. Preliminary testing of the peptide in a rat abraded skin infection model has shown the peptide?s effectiveness in preventing wound infection while not inhibiting wound healing. Additionally, the HB-50 sequence has been specifically developed to be cost effective to manufacture and therefore is well suited for use as a topical antimicrobial agent.
+ER  - 
+
+TY  - JOUR
+AU  - Collins, J.
+AU  - Gissel, H.
+AU  - Mustafi, D.
+AU  - Rojahn, K.
+AU  - Despa, F.
+AU  - Lee, R.C.
+TI  - 105 Surfactant Chaperone P188 Seals Electroporated Muscle Membranes
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130216i.x
+DO  - doi:10.1111/j.1067-1927.2005.130216i.x
+SP  - A28
+EP  - A48
+PY  - 2005
+AB  - Introduction:? Electric fields of the magnitude likely to occur in electrical injury can result in skeletal muscle electroporation. It has been reported that Poloxamer 188 (P188) is able to seal damaged cell membranes. Using a previously described rat hind limb model of electrical injury, in this study we employ MRI to demonstrate that intravenously administered P188 arrests muscle tissue edema caused by electrical shock. Methods:? Anesthetized Sprague-Dawley rat hindlimbs were subjected to 12 electrical shock pulses of 2?kV and ?2A amplitude with duration of 4?ms. There was a 10-second separation period between shocks to allow thermal relaxation. Animals received either P188 or Lactated Ringer?s Injection (control) intravenously at 60 minutes after shock. Proton MRI were recorded using a 4.7-Tesla Bruker scanner (200?MHz). A Multi-Slice Multi-Echo (MSME) spin echo sequence was used to obtain T2-weighted images. Ten slices over the entire midthigh region were taken. For each slice, images from 10 echos in the TE range of 10?ms?100?ms and TR?=?2000?ms were collected. Imaging began at 60 minutes and continued until 3 hours postshock. The signal intensities at different TE times were used to fit an exponential decay and measure the T2 value in each voxel. Voxels with T2 values?>?80?ms were considered injured. Results:? There were noticeable increases of injured area with time for electrically injured limbs due to development of edema. Control-treated rats averaged a 58.0%(±6.59% SD) increase in total area of injury. The total area of injury for P188-treated rats increased by 46.6%(±2.96% SD) In nonelectroporation limbs, no change in T2 occurred. Discussion:? Disruption of the plasma membrane due to electrical current leads to edema. We treated the injured muscles with P188 and observed that it helped to arrest edema. MRI proved effective not only in characterizing the degree of injury resulting from electrical shock but also in monitoring therapeutic efficacy. [Supported by the National Institutes of Health (GM61101)]
+ER  - 
+
+TY  - JOUR
+AU  - Lin, Bo-Nian
+AU  - Whu, Shu Wen
+AU  - Chen, Chih-Hwa
+AU  - Hsu, Fu-Yin
+AU  - Chen, Jyh-Cheng
+AU  - Liu, Hsia-Wei
+AU  - Chen, Chien-Hao
+AU  - Liou, Hau-Min
+TI  - Bone marrow mesenchymal stem cells, platelet-rich plasma and nanohydroxyapatite–type I collagen beads were integral parts of biomimetic bone substitutes for bone regeneration
+JO  - Journal of Tissue Engineering and Regenerative Medicine
+JA  - J Tissue Eng Regen Med
+VL  - 7
+IS  - 11
+SN  - 1932-6254
+UR  - https://doi.org/10.1002/term.1472
+DO  - doi:10.1002/term.1472
+SP  - 841
+EP  - 854
+KW  - biomimetic
+KW  - bone substitute
+KW  - platelet-rich plasma
+KW  - nanohydroxyapatite–type I collagen beads
+KW  - bone marrow mesenchymal stem cell
+KW  - bone regeneration
+PY  - 2013
+AB  - Abstract Platelet rich plasma (PRP), which includes many growth factors, can activate osteoid production, collagen synthesis and cell proliferation. Nanohydroxyapatite-type I collagen beads (CIB), which mimetic natural bone components, are not only flexible fillers for bone defect but also encourage osteogenesis. Bone marrow mesenchymal stem cells (BMSCs) are often used as an abundant cell source for tissue engineering. We used a rabbit model to combine PRP, CIB and BMSCs (CIB+PRP+BMSC) into a bone-like substitute to study its impact on bone regeneration, when compared to defect alone, PRP, CIB+PRP, and PRP+BMSC. CIB+PRP upregulated more alkaline phosphatase (ALP) activity in BMSCs than PRP alone at 4 weeks postoperation. CIB+PRP+BMSC and PRP+BMSC did not differ significantly in DNA content, total collagen content, and ALP activity at 8 weeks. In histological assay, both CIB+PRP+BMSC and PRP+BMSC showed more bone regeneration at 4 and 8 weeks. Higher trabecular bone volume in tissue volume (BV/TV) (31.15±2.67% and 36.93±1.01%), fractal dimension (FD) (2.30±0.18 and 2.65±0.02) and lower trabecular separation (Tb.Sp) (2.30±0.18 and 1.35±0.16) of CIB+PRP+BMSC than of other groups at 4 and 8 weeks, and approach to of bone tissue (BV/TV=24.35±2.13%; FD=2.65±0.06; Tb.Sp=4.19±0.95). CIB+PRP+BMSC significantly enhanced new bone formation at 4 week. Therefore, nanohydroxyapatite-type I collagen beads combined with PRP and BMSCs produced a bone substitute with efficiently improved bone regeneration that shows promise to repair bone defects. Copyright ? 2012 John Wiley & Sons, Ltd.
+ER  - 

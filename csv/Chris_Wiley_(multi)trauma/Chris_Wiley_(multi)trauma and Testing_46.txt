@@ -1,0 +1,495 @@
+
+TY  - JOUR
+AU  - Liang, Hualou
+AU  - Zhang, Fengqing
+AU  - Niu, Xin
+TI  - Investigating systematic bias in brain age estimation with application to post-traumatic stress disorders
+JO  - Human Brain Mapping
+JA  - Hum Brain Mapp
+VL  - 40
+IS  - 11
+SN  - 1065-9471
+UR  - https://doi.org/10.1002/hbm.24588
+DO  - doi:10.1002/hbm.24588
+SP  - 3143
+EP  - 3152
+KW  - bias
+KW  - brain age prediction
+KW  - machine-learning
+KW  - PTSD
+KW  - regression to the mean
+PY  - 2019
+AB  - Abstract Brain age prediction using machine-learning techniques has recently attracted growing attention, as it has the potential to serve as a biomarker for characterizing the typical brain development and neuropsychiatric disorders. Yet one long-standing problem is that the predicted brain age is overestimated in younger subjects and underestimated in older. There is a plethora of claims as to the bias origins, both methodologically and in data itself. With a large neuroanatomical dataset (N?=?2,026; 6?89 years of age) from multiple shared datasets, we show this bias is neither data-dependent nor specific to particular method including deep neural network. We present an alternative account that offers a statistical explanation for the bias and describe a simple, yet efficient, method using general linear model to adjust the bias. We demonstrate the effectiveness of bias adjustment with a large multi-modal neuroimaging data (N?=?804; 8?21 years of age) for both healthy controls and post-traumatic stress disorders patients obtained from the Philadelphia Neurodevelopmental Cohort.
+ER  - 
+
+TY  - JOUR
+AU  - Bigler, Erin D.
+AU  - Abildskov, Tracy J.
+AU  - Eggleston, Barry
+AU  - Taylor, Brian A.
+AU  - Tate, David F.
+AU  - Petrie, Jo Ann
+AU  - Newsome, Mary R.
+AU  - Scheibel, Randall S.
+AU  - Levin, Harvey
+AU  - Walker, William C.
+AU  - Goodrich-Hunsaker, Naomi
+AU  - Tustison, Nicholas J.
+AU  - Stone, James R.
+AU  - Mayer, Andrew R.
+AU  - Duncan, Timothy D.
+AU  - York, Gerry E.
+AU  - Wilde, Elisabeth A.
+C7  - e1781
+C8  - IJMPR-Sep-2018-0096.R1
+TI  - Structural neuroimaging in mild traumatic brain injury: A chronic effects of neurotrauma consortium study
+JO  - International Journal of Methods in Psychiatric Research
+JA  - Int J Methods Psychiatr Res
+VL  - 28
+IS  - 3
+SN  - 1049-8931
+UR  - https://doi.org/10.1002/mpr.1781
+DO  - doi:10.1002/mpr.1781
+SP  - e1781
+KW  - automated image analysis
+KW  - cognitive assessment
+KW  - mild traumatic brain injury
+KW  - neuroimaging quantification
+KW  - veterans
+PY  - 2019
+AB  - Abstract Objectives The chronic effects of neurotrauma consortium (CENC) observational study is a multisite investigation designed to examine the long-term longitudinal effects of mild traumatic brain injury (mTBI). All participants in this initial CENC cohort had a history of deployment in Operation Enduring Freedom (Afghanistan), Operation Iraqi Freedom (Iraq), and/or their follow-on conflicts (Operation Freedom's Sentinel). All participants undergo extensive medical, neuropsychological, and neuroimaging assessments and either meet criteria for any lifetime mTBI or not. These assessments are integrated into six CENC core studies?Biorepository, Biostatistics, Data and Study Management, Neuroimaging, and Neuropathology. Methods The current study outlines the quantitative neuroimaging methods managed by the Neuroimaging Core using FreeSurfer automated software for image quantification. Results At this writing, 319 participants from the CENC observational study have completed all baseline assessments including the imaging protocol and tertiary data quality assurance procedures. Conclusions/Discussion The preliminary findings of this initial cohort are reported to describe how the Neuroimaging Core manages neuroimaging quantification for CENC studies.
+ER  - 
+
+TY  - JOUR
+AU  - Ongenaert, David
+AU  - Joye, Stijn
+TI  - Selling displaced people? A multi-method study of the public communication strategies of international refugee organisations
+JO  - Disasters
+JA  - Disasters
+VL  - 43
+IS  - 3
+SN  - 0361-3666
+UR  - https://doi.org/10.1111/disa.12353
+DO  - doi:10.1111/disa.12353
+SP  - 478
+EP  - 508
+KW  - critical discourse analysis
+KW  - cross-issue persuasion
+KW  - discursive regimes
+KW  - displaced people
+KW  - expert interviews
+KW  - public communication
+KW  - refugee organisations
+PY  - 2019
+AB  - The world has seen a major increase in forced displacement since 2011. As a growing number of states implement restrictive refugee policies, public communication has become essential for refugee organisations. This study analysed, therefore, three international refugee organisations? discursive strategies towards the recent Syrian crisis, as well as their production and the social context. A critical discourse analysis of international press releases (N=122) and six semi-structured interviews with press and regional officers revealed that the observed actors largely dehumanise displaced people and subordinate them to the ?Western self? and state interests; displaced people hardly ever acquire their own voice. The study found that the medium characteristics of press releases and the importance of media attention result in a depersonalising humanitarian discourse. In addition, there were indications of a post-humanitarian discourse that reproduced the humanitarian sector's ?marketisation?. Finally, the examined organisations use the political realist cross-issue persuasion strategy, displaying displaced people as resettlement objects.
+ER  - 
+
+TY  - JOUR
+AU  - SMITH, CHARLES B.
+AU  - BATTIN, MARGARET P.
+AU  - FRANCIS, LESLIE P.
+AU  - JACOBSON, JAY A.
+TI  - SHOULD RAPID TESTS FOR HIV INFECTION NOW BE MANDATORY DURING PREGNANCY? GLOBAL DIFFERENCES IN SCARCITY AND A DILEMMA OF TECHNOLOGICAL ADVANCE
+JO  - Developing World Bioethics
+VL  - 7
+IS  - 2
+SN  - 1471-8731
+UR  - https://doi.org/10.1111/j.1471-8847.2007.00197.x
+DO  - doi:10.1111/j.1471-8847.2007.00197.x
+SP  - 86
+EP  - 103
+KW  - global South
+KW  - bioethics
+KW  - ethics
+KW  - HIV/AIDS
+KW  - developing world
+KW  - Africa
+KW  - pregnancy
+PY  - 2007
+AB  - ABSTRACT Since testing for HIV infection became possible in 1985, testing of pregnant women has been conducted primarily on a voluntary, ?opt-in? basis. Faden, Geller and Powers, Bayer, Wilfert, and McKenna, among others, have suggested that with the development of more reliable testing and more effective therapy to reduce maternal-fetal transmission, testing should become either routine with ?opt-out? provisions or mandatory. We ask, in the light of the new rapid tests for HIV, such as OraQuick, and the development of antiretroviral treatment that can reduce maternal-fetal transmission rates to <2%, whether that time is now. Illustrating our argument with cases from the United States (US), Kenya, Peru, and an undocumented Mexican worker in the US, we show that when testing is accompanied by assured multi-drug therapy for the mother, the argument for opt-out or mandatory testing for HIV in pregnancy is strong, but that it is problematic where testing is accompanied by adverse events such as spousal abuse or by inadequate intrapartum or follow-up treatment. The difference is not a ?double standard?, but reflects the presence of conflicts between the health interests of the mother and the fetus ? conflicts that would be abrogated by the assurance of adequate, continuing multi-drug therapy. In light of these conflicts, where they still occur, careful processes of informed consent are appropriate, rather than opt-out or mandatory testing.
+ER  - 
+
+TY  - JOUR
+AU  - Singh, Ranjit
+AU  - Taylor, David McD
+AU  - D'Souza, Donna
+AU  - Gorelik, Alexandra
+AU  - Page, Patrick
+AU  - Phal, Pramit
+TI  - Injuries significantly associated with thoracic spine fractures: A case–control study
+JO  - Emergency Medicine Australasia
+VL  - 21
+IS  - 5
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/j.1742-6723.2009.01209.x
+DO  - doi:10.1111/j.1742-6723.2009.01209.x
+SP  - 419
+EP  - 423
+KW  - emergency department
+KW  - fracture
+KW  - injury
+KW  - thoracic spine
+KW  - trauma
+PY  - 2009
+AB  - Abstract Objective:? To determine injuries significantly associated with traumatic thoracic spine (T-spine) fractures Methods:? This was a case?control study undertaken in an adult trauma centre. Cases were patients admitted with a traumatic T-spine fracture between January 1999 and August 2007. Each case had two controls matched for sex, age (±5?years) and injury severity classification (major/minor). Data were collected from patient medical records and the trauma service database. Multivariate logistic regression was used to determine injuries significantly associated with T-spine fracture. Results:? Two hundred and sixty-one cases and 512 controls were enrolled. In both groups, mean age was 41?years and 70% of patients were male. Univariate analysis revealed a range of injuries that were significantly more common among the cases, especially cervical and lumbar spine injuries, sternal/scapular/clavicular/rib fractures, pneumo/haemothorax and pulmonary contusions (P < 0.01). Skull fractures and lower limb injuries were significantly more common among the controls (P < 0.01). Logistic regression analysis revealed that only cervical and lumbar spine injuries and rib fractures were positively associated with T-spine fracture (P < 0.001). Skull fractures and lower limb injuries were negatively associated with T-spine injury (P < 0.001). Conclusion:? Cervical and lumbar spine injuries and rib fractures are significantly associated with T-spine fracture. The presence of these injuries should raise suspicion of concomitant T-spine injury.
+ER  - 
+
+TY  - JOUR
+AU  - Gomez, Alwyn Titus
+AU  - Quinn, Jason George
+AU  - Doiron, Donald Joseph
+AU  - Watson, Stephanie
+AU  - Crocker, Bryan David
+AU  - Cheng, Calvino Ka-Wing
+TI  - Implementation of a novel real-time platelet inventory management system at a multi-site transfusion service
+JO  - Transfusion
+JA  - Transfusion
+VL  - 55
+IS  - 9
+SN  - 0041-1132
+UR  - https://doi.org/10.1111/trf.13081
+DO  - doi:10.1111/trf.13081
+SP  - 2070
+EP  - 2075
+PY  - 2015
+AB  - BACKGROUND Blood platelets (PLTs) are a valuable commodity. Management of their inventory has implications both for patient care and for the cost of health care delivery. There are a variety of different methods of managing PLT inventory currently in practice and multiple theoretical models aimed at improving PLT inventory metrics. In this study we evaluate the ability of a novel electronic dashboard system that monitors and displays both PLT inventory and patient data to improve transfusion metrics at a quaternary health care center. STUDY DESIGN AND METHODS The Capital District Health Authority is a quaternary health care center that transfuses approximately 2500 PLT units annually. To improve PLT discard rates a novel, low-overhead system that interfaces with the laboratory information system and displays real-time data between transfusion sites on PLT inventory and orders was implemented in November 2011. This study examines the transfusion quality metrics data from the 24 months before and after implementation. RESULTS A significant reduction in mean monthly PLT outdate rate was observed after the implementation of the PLT dashboard suite from 24.5% (n?=?24, SD?±?6.4%) to 15.1% (n?=?24, SD?±?6.4%; p?<?0.001). PLT age at time of transfusion was also reduced from 3.60 days (n?=?4796, SD?±?0.97 days) to 3.46 days (n?=?4881, SD?±?1.00 days; p?<?0.001). CONCLUSIONS This study describes the implementation of a novel PLT dashboard suite. This suite significantly reduced PLT outdate rates at our institution over the 48-month study period.
+ER  - 
+
+TY  - JOUR
+AU  - Udwin, Orlee
+TI  - Annotation: Children's Reactions to Traumatic Events
+JO  - Journal of Child Psychology and Psychiatry
+VL  - 34
+IS  - 2
+SN  - 0021-9630
+UR  - https://doi.org/10.1111/j.1469-7610.1993.tb00974.x
+DO  - doi:10.1111/j.1469-7610.1993.tb00974.x
+SP  - 115
+EP  - 127
+KW  - Childhood trauma
+KW  - post-traumatic stress disorder
+KW  - disasters
+KW  - child survivors
+PY  - 1993
+ER  - 
+
+TY  - JOUR
+AU  - Stein, Donald G.
+AU  - Cekic, Milos M.
+TI  - Progesterone and Vitamin D Hormone as a Biologic Treatment of Traumatic Brain Injury in the Aged
+JO  - PM&R
+JA  - PM&R
+VL  - 3
+IS  - 6S
+SN  - 1934-1482
+UR  - https://doi.org/10.1016/j.pmrj.2011.03.010
+DO  - doi:10.1016/j.pmrj.2011.03.010
+SP  - S100
+EP  - S110
+PY  - 2011
+AB  - Abstract There is growing recognition that traumatic brain injury is a highly variable and complex systemic disorder that is refractory to therapies that target individual mechanisms. It is even more complex in elderly persons, in whom frailty, previous comorbidities, altered metabolism, and a long history of medication use are likely to complicate the secondary effects of brain trauma. Progesterone, one of the few neuroprotective agents that has shown promise for the treatment of acute brain injury, is now in national and international phase 3 multicenter trials. New findings show that vitamin D hormone (VDH) and VDH deficiency in the aging process (and across the developmental spectrum) may interact with progesterone and treatment for traumatic brain injury. In this article we review the use of progesterone and VDH as biologics-based therapies along with recent studies demonstrating that the combination of progesterone and VDH may promote better functional outcomes than either treatment independently.
+ER  - 
+
+TY  - JOUR
+AU  - Jafarzadeh, H.
+AU  - Abbott, P. V.
+TI  - Review of pulp sensibility tests. Part I: general information and thermal tests
+JO  - International Endodontic Journal
+VL  - 43
+IS  - 9
+SN  - 0143-2885
+UR  - https://doi.org/10.1111/j.1365-2591.2010.01754.x
+DO  - doi:10.1111/j.1365-2591.2010.01754.x
+SP  - 738
+EP  - 762
+KW  - cold
+KW  - diagnosis
+KW  - heat
+KW  - pulp
+KW  - sensibility test
+KW  - thermal test
+PY  - 2010
+AB  - Jafarzadeh H, Abbott PV. Review of pulp sensibility tests. Part ?: general information and thermal tests. International Endodontic Journal, 43, 738?762, 2010. Abstract A major, and essential, part of the diagnostic process for pulp disease is the use of pulp sensibility tests. When diagnosing pulp pain, these tests can be used to reproduce the symptoms reported by the patient to diagnose the diseased tooth as well as the disease state. However, a major shortcoming with these tests is that they only indirectly provide an indication of the state of the pulp by measuring a neural response rather than the vascular supply, so both false positive and false negative results can occur. The relevant literature on pulp sensibility tests in the context of endodontics up to January 2009 was reviewed using PubMed and MEDLINE database searches. This search identified papers published between November 1964 and January 2009 in all languages. Thermal tests have been used as an integral part of dental examinations. Two types of thermal tests are available, one uses a cold stimulus and the other uses a hot stimulus, and each has various methods of delivery. If these tests are used properly, injury to the pulp is highly unlikely. A review of the literature regarding the rationale, indications, limitations, and interpretation of thermal tests, the value of these diagnostic tests, as well as a discussion of the important points about each of these tests is presented.
+ER  - 
+
+TY  - JOUR
+AU  - Khalilpour, Poroshat
+AU  - Lampe, Kai
+AU  - Wagener, Michael
+AU  - Stigler, Brigitte
+AU  - Heiss, Christian
+AU  - Ullrich, Matthias S.
+AU  - Domann, Eugen
+AU  - Schnettler, Reinhard
+AU  - Alt, Volker
+TI  - Ag/SiOxCy plasma polymer coating for antimicrobial protection of fracture fixation devices
+JO  - Journal of Biomedical Materials Research Part B: Applied Biomaterials
+JA  - J. Biomed. Mater. Res.
+VL  - 94B
+IS  - 1
+SN  - 1552-4973
+UR  - https://doi.org/10.1002/jbm.b.31641
+DO  - doi:10.1002/jbm.b.31641
+SP  - 196
+EP  - 202
+KW  - antimicrobial
+KW  - coating(s)
+KW  - fracture fixation
+KW  - infection
+KW  - orthopaedic
+PY  - 2010
+AB  - Abstract Implant-related infections are often devastating situations in orthopaedic trauma surgery particularly if multiresistant bacteria are involved. Protection of the implant surface by an antimicrobial coating exhibiting activity against multiresistant bacterial strains is of high interest. Aim of this study was to investigate the antimicrobial effects of an Ag/SiOxCy plasma polymer coating for fracture fixation devices, such as nails, plates, and external fixators, including tests against methicillin-resistant Staphylococcus aureus (MRSA) and its biocompatibility. The antimicrobial activity of the coating deposited onto 12 ? 3 mm2 stainless steel implants was tested in vitro against Staphylococcus aureus, Staphylococcus epidermidis, and MRSA using different testing methods (ASTM E-2810, JIS Z 2801, proliferation assay). Additionally, the coated devices were implanted into the paravertebral muscle of rabbits and explanted after 2, 7, 14, and 28 days to test the remaining ex vivo antimicrobial activity. For biocompatibility assessment the Ag/SiOxCy plasma polymer coating was tested in vitro according to ISO 10993-5. The Ag/SiOxCy coating exhibited excellent antimicrobial activity against all tested bacterial strains in all three in vitro tests. Ex vivo testing proved suppression of more than 99.9 % of bacterial proliferation by the coating compared to non-coated samples even after 28 days. ISO 10993-5 showed good biocompatibility of the coating without any indications of cytotoxic effects. In summary, Ag/SiOxCy plasma polymer coating showed excellent antimicrobial activity including effectiveness against MRSA and good in vitro biocompatibility. Therefore, it possesses high potential as a prophylactic agent in orthopaedic trauma surgery. ? 2010 Wiley Periodicals, Inc. J Biomed Mater Res Part B: Appl Biomater, 2010.
+ER  - 
+
+TY  - JOUR
+AU  - Kashuk, Jeffry L.
+AU  - Moore, Ernest E.
+AU  - Wohlauer, Max
+AU  - Johnson, Jeffrey L.
+AU  - Pezold, Michael
+AU  - Lawrence, Jerry
+AU  - Biffl, Walter L.
+AU  - Burlew, C. Clay Cothren
+AU  - Barnett, Carlton
+AU  - Sawyer, Michael
+AU  - Sauaia, Angela
+TI  - Initial experiences with point-of-care rapid thrombelastography for management of life-threatening postinjury coagulopathy
+JO  - Transfusion
+VL  - 52
+IS  - 1
+SN  - 0041-1132
+UR  - https://doi.org/10.1111/j.1537-2995.2011.03264.x
+DO  - doi:10.1111/j.1537-2995.2011.03264.x
+SP  - 23
+EP  - 33
+PY  - 2012
+AB  - BACKGROUND: Massive transfusion (MTP) protocol design is hindered by lack of accurate assessment of coagulation. Rapid thrombelastography (r-TEG) provides point-of-care (POC) analysis of clot formation. We designed a prospective study to test the hypothesis that integrating TEG into our MTP would facilitate goal-directed therapy and provide equivalent outcomes compared to conventional coagulation testing. STUDY DESIGN AND METHODS: Thiry-four patients who received more than 6 units of red blood cells (RBCs)/6 hours who were admitted to our Level 1 trauma center after r-TEG implementation (TEG) were compared to 34 patients admitted prior to TEG implementation (Pre-TEG). Data are presented as mean?±?SEM. RESULTS: Emergency department pre-TEG versus TEG shock, and coagulation indices, were not different: systolic blood pressure (94?mmHg vs.101?mmHg), temperature (35.3°C vs. 35.9°C), pH (7.16 vs. 7.11), base deficit (?13.0 vs. ?14.7), lactate (6.5 vs. 8.1), international normalized ratio (INR; 1.59 vs. 1.83), and partial thromboplastin time (48.3 vs. 57.9). Although not significant, patients with Injury Severity Score range 26 to 35 were more frequent in the pre-TEG group. Fresh-frozen plasma (FFP)?:?RBCs, platelets?:?RBCs, and cryoprecipitate (cryo)?:?RBC ratios were not significantly different at 6 or 12 hours. INR at 6 hours did not discriminate between survivors and nonsurvivors (p?=?0.10), whereas r-TEG ?G? value was significantly associated with survival (p?=?0.03), as was the maximum rate of thrombin generation (MRTG; mm/min) and total thrombin generation (TG; area under the curve) (p?=?0.03 for both). Patients with MRTG of more than 9.2 received significantly less components of RBCs, FFP, and cryo (p?=?0.048, p?=?0.03, and p?=?0.04, respectively). CONCLUSION: Goal-directed resuscitation via r-TEG appears useful for management of trauma-induced coagulopathy. Further experience with POC monitoring could result in more efficient management leading to a reduction of transfusion requirements.
+ER  - 
+
+TY  - JOUR
+AU  - Gonçalo, Margarida
+TI  - The value of skin testing in the study of drug eruptions
+JO  - Contact Dermatitis
+VL  - 50
+IS  - 3
+SN  - 0105-1873
+UR  - https://doi.org/10.1111/j.0105-1873.2004.0309ct.x
+DO  - doi:10.1111/j.0105-1873.2004.0309ct.x
+SP  - 161
+EP  - 161
+PY  - 2004
+AB  - Abstract not available at the time of printing.
+ER  - 
+
+AU  - Schuurs, Albert
+C7  - pp. 210-234
+TI  - Tooth Fractures and Traumatic Dentoalveolar Injuries
+SN  - 9781405153652
+UR  - https://doi.org/10.1002/9781118702659.ch9
+DO  - doi:10.1002/9781118702659.ch9
+SP  - 210-234
+KW  - Abfraction theory
+KW  - Battered child syndrome
+KW  - Brain damage
+KW  - Concussion
+KW  - Luxation and subluxation
+KW  - Maxillary and mandibular premolars
+KW  - Spontaneous cracks and fractures of the teeth
+KW  - Traumatic dentoalveolar injuries
+KW  - Traumatic tooth fractures
+PY  - 2004
+AB  - Summary This chapter contains sections titled: Introduction Abuse Spontaneous Cracks and Fractures of the Teeth Traumatic Tooth Fractures Traumatic Periodontal Injury Epidemiology Prevention Splints
+ER  - 
+
+TY  - JOUR
+AU  - Samancı, Bedia
+AU  - Samancı, Yavuz
+AU  - Şen, Cömert
+AU  - Şahin, Erdi
+AU  - Sezgin, Mine
+AU  - Kocasoy Orhan, Elif
+AU  - Orhan, Kadir Serkan
+AU  - Baykan, Betül
+TI  - Assessment of the Olfactory Function in Patients With Idiopathic Intracranial Hypertension Using the Sniffin’ Sticks Test: A Case-Control Study
+JO  - Headache: The Journal of Head and Face Pain
+JA  - Headache: The Journal of Head and Face Pain
+VL  - 59
+IS  - 6
+SN  - 9781405153652
+UR  - https://doi.org/10.1111/head.13538
+DO  - doi:10.1111/head.13538
+SP  - 848
+EP  - 857
+KW  - idiopathic intracranial hypertension
+KW  - olfactory function
+KW  - pseudotumor cerebri
+KW  - Sniffin’ Sticks Test
+PY  - 2019
+AB  - Objective Despite the lack of recognition in clinical practice, there is increasing evidence that patients with idiopathic intracranial hypertension may suffer from hyposmia. The current case-control study aims to evaluate olfactory dysfunction in a large series of patients with idiopathic intracranial hypertension. Methods All subjects, 44 idiopathic intracranial hypertension patients and 57 healthy controls, underwent olfactory function assessment using standardized ?Sniffin? Sticks? test at a tertiary referral center of a university hospital. Threshold, discrimination, identification, and total threshold-discrimination-identification scores have been determined and analyzed statistically. Results Idiopathic intracranial hypertension patients had significantly lower threshold (6.5 [3.69] vs 8 [1.88], P < .001, 95% CI [?2.250, ?0.750]) and threshold-discrimination-identification scores (29.75 [5.56] vs 32.5 [5.25], P = .003, 95% CI [?4.250, ?0.750]). Twenty-five patients (57%) were diagnosed with hyposmia. Test scores of patients with active idiopathic intracranial hypertension (n = 18) were not statistically different from patients with inactive disease (n = 26), except for discrimination score (14 [2.50] vs 11 [2.25], P = .005, 95% CI [?3.000, ?1.000]). Although idiopathic intracranial hypertension patients with a cerebrospinal fluid opening pressure of ≥330 mmH2O had lower test scores, the difference was significant only for total threshold-discrimination-identification scores (28.5 [5.50] vs 30.5 [4.38], P = .044, 95% CI [0.750, 5.500]). Multiple regression analysis revealed that test scores were related to disease activity, cerebrospinal fluid opening pressure, papilledema, headache, and medication. Conclusion Our clinical study revealed significant olfactory dysfunction in patients with idiopathic intracranial hypertension compared with healthy controls. Future research should employ larger samples to search for usability of olfactory testing in clinical management of patients with idiopathic intracranial hypertension.
+ER  - 
+
+TY  - JOUR
+AU  - Zou, Feng
+AU  - Wu, Xinhuai
+AU  - Zhai, Tianye
+AU  - Lei, Yu
+AU  - Shao, Yongcong
+AU  - Jin, Xiao
+AU  - Tan, Shuwen
+AU  - Wu, Bing
+AU  - Wang, Lubin
+AU  - Yang, Zheng
+TI  - Abnormal resting-state functional connectivity of the nucleus accumbens in multi-year abstinent heroin addicts
+JO  - Journal of Neuroscience Research
+JA  - Journal of Neuroscience Research
+VL  - 93
+IS  - 11
+SN  - 9781405153652
+UR  - https://doi.org/10.1002/jnr.23608
+DO  - doi:10.1002/jnr.23608
+SP  - 1693
+EP  - 1702
+KW  - nucleus accumbens
+KW  - heroin dependence
+KW  - abstinence
+KW  - functional connectivity
+KW  - resting state
+PY  - 2015
+AB  - Functional neuroimaging studies suggest that abnormal brain functional connectivity may be the neural underpinning of addiction to illicit drugs and of relapse after successful cessation therapy. Aberrant brain networks have been demonstrated in addicted patients and in newly abstinent addicts. However, it is not known whether abnormal brain connectivity patterns persist after prolonged abstinence. In this cross-sectional study, whole-brain resting-state functional magnetic resonance images (8 min) were collected from 30 heroin-addicted individuals after a long period of abstinence (more than 3 years) and from 30 healthy controls. We first examined the group differences in the resting-state functional connectivity of the nucleus accumbens (NAc), a brain region implicated in relapse-related processes, including craving and reactivity to stress following acute and protracted withdrawal from heroin. We then examined the relation between the duration of abstinence and the altered NAc functional connectivity in the heroin group. We found that, compared with controls, heroin-dependent participants exhibited significantly greater functional connectivity between the right ventromedial prefrontal cortex and the NAc and weaker functional connectivity between the NAc and the left putamen, left precuneus, and supplementary motor area. However, with longer abstinence time, the strength of NAc functional connectivity with the left putamen increased. These results indicate that dysfunction of the NAc functional network is still present in long-term-abstinent heroin-dependent individuals. ? 2015 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - COHEN, DANIEL J.
+AU  - BEGLEY, AMY
+AU  - ALMAN, JENNIE J.
+AU  - CASHMERE, DAVID J.
+AU  - PIETRONE, REGINA N.
+AU  - SERES, ROBERT J.
+AU  - GERMAIN, ANNE
+TI  - Quantitative electroencephalography during rapid eye movement (REM) and non-REM sleep in combat-exposed veterans with and without post-traumatic stress disorder
+JO  - Journal of Sleep Research
+VL  - 22
+IS  - 1
+SN  - 9781405153652
+UR  - https://doi.org/10.1111/j.1365-2869.2012.01040.x
+DO  - doi:10.1111/j.1365-2869.2012.01040.x
+SP  - 76
+EP  - 82
+KW  - non-REM sleep
+KW  - post-traumatic stress disorder
+KW  - quantitative EEG
+KW  - rapid eye movement sleep
+KW  - sleep
+KW  - spectral analysis
+PY  - 2013
+AB  - Summary Sleep disturbances are a hallmark feature of post-traumatic stress disorder (PTSD), and associated with poor clinical outcomes. Few studies have examined sleep quantitative electroencephalography (qEEG), a technique able to detect subtle differences that polysomnography does not capture. We hypothesized that greater high-frequency qEEG would reflect ?hyperarousal? in combat veterans with PTSD (n?=?16) compared to veterans without PTSD (n?=?13). EEG power in traditional EEG frequency bands was computed for artifact-free sleep epochs across an entire night. Correlations were performed between qEEG and ratings of PTSD symptoms and combat exposure. The groups did not differ significantly in whole-night qEEG measures for either rapid eye movement (REM) or non-REM (NREM) sleep. Non-significant medium effect sizes suggest less REM beta (opposite to our hypothesis), less REM and NREM sigma and more NREM gamma in combat veterans with PTSD. Positive correlations were found between combat exposure and NREM beta (PTSD group only), and REM and NREM sigma (non-PTSD group only). Results did not support global hyperarousal in PTSD as indexed by increased beta qEEG activity. The correlation of sigma activity with combat exposure in those without PTSD and the non-significant trend towards less sigma activity during both REM and NREM sleep in combat veterans with PTSD suggests that differential information processing during sleep may characterize combat-exposed military veterans with and without PTSD.
+ER  - 
+
+TY  - JOUR
+AU  - Tamez, Alejandro
+TI  - The effectiveness of psychoanalysis in a case study using multi-perspective methodology: Conflict in choosing a partner due to transgenerational mandate
+JO  - The International Journal of Psychoanalysis
+JA  - Int J Psychoanal
+VL  - 98
+IS  - 4
+SN  - 9781405153652
+UR  - https://doi.org/10.1111/1745-8315.12643
+DO  - doi:10.1111/1745-8315.12643
+SP  - 1193
+EP  - 1224
+KW  - effectiveness
+KW  - psychoanalytic treatment
+KW  - psychoanalysis
+KW  - partner selection
+KW  - transgenerational mandate
+KW  - mentalization
+PY  - 2017
+AB  - Translations of summary A case study is presented to evaluate the effectiveness of psychoanalysis and the persistence of its benefits 20 years later in a young woman with severe depression, professional inhibition, and difficulties in partner selection due to transgenerational mandate (TGM). The investigation was carried out with psychoanalytic interviews with the patient and analyst, which were evaluated by both psychoanalytic and non-psychoanalytic judges following a methodology based on one tested in Germany by Leuzinger-Bohleber et al. (2003). The psychoanalytic treatment began in the early 1980s in Monterrey, Mexico. The study concludes that the psychoanalysis was effective in assisting with the patient's character disorder and partner selection, mainly because of the therapeutic alliance, the analysis of transference and character, and the patient's increased capacity for mentalization as a result of the interpretation of the TGMs.
+ER  - 
+
+TY  - JOUR
+AU  - Charalambous, Marios
+AU  - Volk, Holger A.
+AU  - Tipold, Andrea
+AU  - Erath, Johannes
+AU  - Huenerfauth, Enrice
+AU  - Gallucci, Antonella
+AU  - Gandini, Gualtiero
+AU  - Hasegawa, Daisuke
+AU  - Pancotto, Theresa
+AU  - Rossmeisl, John H.
+AU  - Platt, Simon
+AU  - De Risio, Luisa
+AU  - Coates, Joan R.
+AU  - Musteata, Mihai
+AU  - Tirrito, Federica
+AU  - Cozzi, Francesca
+AU  - Porcarelli, Laura
+AU  - Corlazzoli, Daniele
+AU  - Cappello, Rodolfo
+AU  - Vanhaesebrouck, An
+AU  - Broeckx, Bart J.G.
+AU  - Van Ham, Luc
+AU  - Bhatti, Sofie F.M.
+TI  - Comparison of intranasal versus intravenous midazolam for management of status epilepticus in dogs: A multi-center randomized parallel group clinical study
+JO  - Journal of Veterinary Internal Medicine
+JA  - J Vet Intern Med
+VL  - 33
+IS  - 6
+SN  - 9781405153652
+UR  - https://doi.org/10.1111/jvim.15627
+DO  - doi:10.1111/jvim.15627
+SP  - 2709
+EP  - 2717
+KW  - benzodiazepines
+KW  - canine
+KW  - emergency
+KW  - epilepsy
+KW  - nasal
+PY  - 2019
+AB  - Abstract Background The intranasal (IN) route for rapid drug administration in patients with brain disorders, including status epilepticus, has been investigated. Status epilepticus is an emergency, and the IN route offers a valuable alternative to other routes, especially when these fail. Objectives To compare IN versus IV midazolam (MDZ) at the same dosage (0.2?mg/kg) for controlling status epilepticus in dogs. Animals Client-owned dogs (n = 44) with idiopathic epilepsy, structural epilepsy, or epilepsy of unknown origin manifesting as status epilepticus. Methods Randomized parallel group clinical trial. Patients were randomly allocated to the IN-MDZ (n = 21) or IV-MDZ (n = 23) group. Number of successfully treated cases (defined as seizure cessation within 5?minutes and lasting for ≥10?minutes), seizure cessation time, and adverse effects were recorded. Comparisons were performed using the Fisher's exact and Wilcoxon rank sum tests with statistical significance set at α?<?.05. Results IN-MDZ and IV-MDZ successfully stopped status epilepticus in 76% and 61% of cases, respectively (P = .34). The median seizure cessation time was 33 and 64?seconds for IN-MDZ and IV-MDZ, respectively (P = .63). When the time to place an IV catheter was taken into account, IN-MDZ (100?seconds) was superior (P = .04) to IV-MDZ (270?seconds). Sedation and ataxia were seen in 88% and 79% of the dogs treated with IN-MDZ and IV-MDZ, respectively. Conclusions and Clinical Importance Both routes are quick, safe, and effective for controlling status epilepticus. However, the IN route demonstrated superiority when the time needed to place an IV catheter was taken into account.
+ER  - 
+
+TY  - JOUR
+AU  - Yuminaga, Yuigi
+AU  - Kam, Jonathan
+AU  - Louie-Johnsun, Mark
+TI  - Multi-centre, prospective evaluation of the Seldinger technique for difficult male urethral catheter insertions by non-urology trained doctors
+JO  - BJU International
+JA  - BJU Int
+VL  - 120
+IS  - S3
+SN  - 9781405153652
+UR  - https://doi.org/10.1111/bju.13928
+DO  - doi:10.1111/bju.13928
+SP  - 21
+EP  - 27
+KW  - difficult male catheterisation
+KW  - indwelling urinary catheter (IDC)
+KW  - Seldinger technique
+KW  - video education
+KW  - YouTube
+PY  - 2017
+AB  - Objective To evaluate the safety and effectiveness of the Seldinger technique by non-urology trained (NUT) doctors for difficult male indwelling urinary catheter (IDC) insertions. Patients and Methods In all, 115 patients and 57 participating NUT doctors were recruited by the urologist or urology registrar, when contacted in regards to failed IDC insertion. The successful passage of an IDC by the NUT doctors using the Seldinger technique with a straight, hydrophilic guidewire was assessed in our prospective, multicentre evaluation. Instruction of this technique was via bedside teaching by the urology registrar or via video media. Results The 115 patients, involving 57 NUT doctors, were prospectively evaluated across four sites; 93% (107/115) of cases had successful placement of an IDC with the Seldinger technique by a NUT doctor. No complications with the Seldinger technique were recorded. In 80 patients (69.6%), the technique was successfully performed by a NUT doctor without attendance by a urologist or urology registrar, with instruction provided from video media or prior bedside teaching by the urology registrar. Conclusions Our study is the first to validate the safety and effectiveness of the Seldinger technique for difficult male IDC insertion performed by NUT doctors. This technique can be taught via video education and thus has important implications for health services where urological support is not readily available.
+ER  - 
+
+TY  - JOUR
+AU  - Molina-Rueda, Francisco
+AU  - Molero-Sánchez, Alberto
+AU  - Alguacil-Diego, Isabel M.
+AU  - Carratalá-Tejada, María
+AU  - Cuesta-Gómez, Alicia
+AU  - Miangolarra-Page, Juan Carlos
+TI  - Weight Symmetry and Latency Scores for Unexpected Surface Perturbations in Subjects With Traumatic and Vascular Unilateral Transtibial Amputation
+JO  - PM&R
+JA  - PM&R
+VL  - 8
+IS  - 3
+SN  - 9781405153652
+UR  - https://doi.org/10.1016/j.pmrj.2015.05.024
+DO  - doi:10.1016/j.pmrj.2015.05.024
+SP  - 235
+EP  - 240
+PY  - 2016
+AB  - Abstract Background Subjects with lower limb amputation develop new motor control strategies to preserve balance when they experience unexpected perturbations. Most studies performed thus far have not aimed to discuss the possible differences in postural control between subjects with vascular unilateral transtibial amputation (UTA) and subjects with traumatic UTA. Objective To analyze the automatic postural reaction in response to unexpected surface perturbations in a sample of subjects with traumatic and vascular UTA and to compare these observations with those for a group of healthy subjects. Setting University department. Design Observational study. Participants A total of 9 men with traumatic UTA, 7 men with vascular UTA, and 10 control subjects without amputation. Intervention Computerized dynamic posturography Smart EquiTest System version 8.0 was used to measure automatic postural responses in both groups. Main Outcome Measures The motor control test was used to assess the participants' automatic postural responses to unexpected surface perturbations. Results Latency scores showed that subjects with traumatic UTA coped with faster latencies under their sound limb than did the subjects with vascular UTA in medium backward and forward perturbations (medium-backward: P = .004; medium-forward: P = .037). In addition, the subjects with traumatic UTA also managed faster responses to medium-backward (P = .017 versus right control limb; P = .046 versus left control limb) and large-backward (P = .021 versus right control limb) and medium-forward (P = .012 versus right control limb; P = .043 versus left control limb) perturbations in their sound limb in contrast to control subjects. Weight symmetry showed that the subjects with traumatic UTA bore significantly more weight through their sound limb compared with the control subjects during medium and large backward translations (P = .028 and P = .045, respectively). Conclusions The subjects with traumatic UTA had a greater reliance on their sound limb, and they had faster latencies and more weight in the sound limb upon experiencing unexpected perturbations compared with the control subjects. Conversely, persons with vascular UTA experienced slower latency responses in the sound limb compared with persons with traumatic UTA.
+ER  - 

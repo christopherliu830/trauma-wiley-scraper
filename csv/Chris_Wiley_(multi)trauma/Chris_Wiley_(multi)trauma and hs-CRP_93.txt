@@ -1,0 +1,333 @@
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Clinical Endocrinology
+JA  - Clin Endocrinol
+VL  - 84
+IS  - S1
+SN  - 0300-0664
+UR  - https://doi.org/10.1111/cen.13010
+DO  - doi:10.1111/cen.13010
+SP  - 1
+EP  - 49
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+AU  - Zhu, Peihong
+AU  - Bowden, Peter
+AU  - Zhang, Du
+AU  - Marshall, John G.
+TI  - Mass spectrometry of peptides and proteins from human blood
+JO  - Mass Spectrometry Reviews
+JA  - Mass Spectrom. Rev.
+VL  - 30
+IS  - 5
+SN  - 0277-7037
+UR  - https://doi.org/10.1002/mas.20291
+DO  - doi:10.1002/mas.20291
+SP  - 685
+EP  - 732
+KW  - blood, serum
+KW  - sera
+KW  - plasma
+KW  - circulating
+KW  - circulation
+KW  - protein
+KW  - peptide
+KW  - proteome
+KW  - proteomics
+KW  - peptidome
+KW  - peptidomics
+KW  - chromatography
+KW  - electrophoresis
+KW  - PAGE
+KW  - HPLC
+KW  - UPLC
+KW  - analysis
+KW  - LC–MS/MS
+KW  - liquid chromatography mass spectrometry
+KW  - SEQUID
+KW  - ESI
+KW  - electrospray ionization
+KW  - MALDI
+KW  - matrix assisted laser desorption ionization
+KW  - ion
+KW  - mass spectra
+KW  - mass spectrum
+KW  - mass spectrom
+KW  - mass spectrometry
+KW  - tandem mass spectrometry
+KW  - MS–MS
+KW  - MS MS
+KW  - MS/MS
+KW  - bioinformatics
+KW  - statistics
+KW  - database
+KW  - SQL
+KW  - BLAST
+PY  - 2011
+AB  - Abstract It is difficult to convey the accelerating rate and growing importance of mass spectrometry applications to human blood proteins and peptides. Mass spectrometry can rapidly detect and identify the ionizable peptides from the proteins in a simple mixture and reveal many of their post-translational modifications. However, blood is a complex mixture that may contain many proteins first expressed in cells and tissues. The complete analysis of blood proteins is a daunting task that will rely on a wide range of disciplines from physics, chemistry, biochemistry, genetics, electromagnetic instrumentation, mathematics and computation. Therefore the comprehensive discovery and analysis of blood proteins will rank among the great technical challenges and require the cumulative sum of many of mankind's scientific achievements together. A variety of methods have been used to fractionate, analyze and identify proteins from blood, each yielding a small piece of the whole and throwing the great size of the task into sharp relief. The approaches attempted to date clearly indicate that enumerating the proteins and peptides of blood can be accomplished. There is no doubt that the mass spectrometry of blood will be crucial to the discovery and analysis of proteins, enzyme activities, and post-translational processes that underlay the mechanisms of disease. At present both discovery and quantification of proteins from blood are commonly reaching sensitivities of ?1?ng/mL. ? 2010 Wiley Periodicals, Inc., Mass Spec Rev 30:685?732, 2011
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Pacing and Clinical Electrophysiology
+VL  - 6
+IS  - 6
+SN  - 0147-8389
+UR  - https://doi.org/10.1111/j.1540-8159.1983.tb06598.x
+DO  - doi:10.1111/j.1540-8159.1983.tb06598.x
+SP  - A‐1
+EP  - A‐156
+PY  - 1983
+ER  - 
+
+TY  - JOUR
+TI  - ABSTRACTS
+JO  - European Journal of Clinical Investigation
+VL  - 18
+IS  - 2
+SN  - 0014-2972
+UR  - https://doi.org/10.1111/j.1365-2362.1988.tb02108.x
+DO  - doi:10.1111/j.1365-2362.1988.tb02108.x
+SP  - A1
+EP  - A59
+PY  - 1988
+ER  - 
+
+TY  - JOUR
+TI  - THE HAEMATOLOGY SOCIETY OF AUSTRALIA
+JO  - Australian and New Zealand Journal of Medicine
+VL  - 26
+IS  - 2
+SN  - 0004-8291
+UR  - https://doi.org/10.1111/j.1445-5994.1996.tb00903.x
+DO  - doi:10.1111/j.1445-5994.1996.tb00903.x
+SP  - 251
+EP  - 340
+PY  - 1996
+ER  - 
+
+TY  - JOUR
+TI  - Oral abstracts
+JO  - American Journal of Transplantation
+VL  - 10
+IS  - s4
+SN  - 1600-6135
+UR  - https://doi.org/10.1111/j.1600-6143.2010.03107.x
+DO  - doi:10.1111/j.1600-6143.2010.03107.x
+SP  - 37
+EP  - 212
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - ABSTRACTS II: III WORLD CONFERENCE on CLINICAL PHARMACOLOGY & THERAPEUTICS: Stockholm July 27–August 1, 1986
+JO  - Acta Pharmacologica et Toxicologica
+VL  - 59
+IS  - s4
+SN  - 0001-6683
+UR  - https://doi.org/10.1111/j.1600-0773.1986.tb02697.x
+DO  - doi:10.1111/j.1600-0773.1986.tb02697.x
+SP  - 1
+EP  - 342
+PY  - 1986
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts to VIIIth International Conference on Inborn Errors of Metabolism Cambridge, UK, 13–17 September 2000
+JO  - Journal of Inherited Metabolic Disease
+JA  - J Inherit Metab Dis
+VL  - 23
+IS  - S1
+SN  - 0141-8955
+UR  - https://doi.org/10.1023/A:1017326813602
+DO  - doi:10.1023/A:1017326813602
+SP  - 1
+EP  - 300
+PY  - 2000
+ER  - 
+
+TY  - JOUR
+TI  - Pathological Society of Great Britain and Ireland. 174th meeting, 8–10 January 1997
+JO  - The Journal of Pathology
+JA  - J. Pathol.
+VL  - 181
+IS  - 1
+SN  - 0022-3417
+UR  - https://doi.org/10.1002/path.1711810102
+DO  - doi:10.1002/path.1711810102
+SP  - A1
+EP  - A63
+PY  - 1997
+ER  - 
+
+TY  - JOUR
+TI  - Oral Presentations: Dietary interventions including probiotics, prebiotics and synbiotics
+JO  - Neurogastroenterology & Motility
+JA  - Neurogastroenterol Motil
+VL  - 29
+IS  - S2
+SN  - 1350-1925
+UR  - https://doi.org/10.1111/nmo.13180
+DO  - doi:10.1111/nmo.13180
+SP  - 3
+EP  - 140
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+TI  - Clinical care and other categories posters: audit
+JO  - Epilepsia
+JA  - Diabet. Med.
+VL  - 48
+IS  - s3
+SN  - 0013-9580
+UR  - https://doi.org/10.1111/j.1528-1167.2007.01151.x
+DO  - doi:10.1111/j.1528-1167.2007.01151.x
+SP  - 1
+EP  - 66
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+AU  - Szczepiorkowski, Zbigniew M.
+AU  - Winters, Jeffrey L.
+AU  - Bandarenko, Nicholas
+AU  - Kim, Haewon C.
+AU  - Linenberger, Michael L.
+AU  - Marques, Marisa B.
+AU  - Sarode, Ravindra
+AU  - Schwartz, Joseph
+AU  - Weinstein, Robert
+AU  - Shaz, Beth H.
+TI  - Guidelines on the use of therapeutic apheresis in clinical practice—Evidence-based approach from the apheresis applications committee of the American Society for Apheresis
+JO  - Diabetic Medicine
+JA  - J. Clin. Apheresis
+VL  - 30
+IS  - s1
+SN  - 0742-3071
+UR  - https://doi.org/10.1111/dme.12091_2
+DO  - doi:10.1111/dme.12091_2
+SP  - 79
+EP  - 201
+KW  - apheresis
+KW  - plasma exchange
+KW  - immunoadsorption
+KW  - leukocytapheresis
+KW  - photopheresis
+KW  - categories
+KW  - indications
+KW  - evidence based
+PY  - 2013
+AB  - Abstract The American Society for Apheresis (ASFA) Apheresis Applications Committee is charged with a review and categorization of indications for therapeutic apheresis. Beginning with the 2007 ASFA Special Issue (fourth edition), the subcommittee has incorporated systematic review and evidence-based approach in the grading and categorization of indications. This Fifth ASFA Special Issue has further improved the process of using evidence-based medicine in the recommendations by refining the category definitions and by adding a grade of recommendation based on widely accepted GRADE system. The concept of a fact sheet was introduced in the Fourth edition and is only slightly modified in this current edition. The fact sheet succinctly summarizes the evidence for the use of therapeutic apheresis. The article consists of 59 fact sheets devoted to each disease entity currently categorized by the ASFA as category I through III. Category IV indications are also listed. J. Clin. Apheresis, 2010. ? 2010 American Society for Apheresis
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Journal of Clinical Apheresis
+JA  - J Inherit Metab Dis
+VL  - 25
+IS  - 3
+SN  - 0733-2459
+UR  - https://doi.org/10.1002/jca.20240
+DO  - doi:10.1002/jca.20240
+SP  - 83
+EP  - 177
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Symposia
+JO  - Journal of Inherited Metabolic Disease
+JA  - FEBS Open Bio
+VL  - 27
+IS  - S1
+SN  - 0141-8955
+UR  - https://doi.org/10.1007/BF03356117
+DO  - doi:10.1007/BF03356117
+SP  - 1
+EP  - 250
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+TI  - Poster session abstracts
+JO  - FEBS Open Bio
+JA  - Pediatr. Pulmonol.
+VL  - 8
+IS  - S1
+SN  - 2211-5463
+UR  - https://doi.org/10.1002/2211-5463.12449
+DO  - doi:10.1002/2211-5463.12449
+SP  - 10
+EP  - 79
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - Prevention
+JO  - Pediatric Pulmonology
+VL  - 9
+IS  - S5
+SN  - 8755-6863
+UR  - https://doi.org/10.1002/ppul.1950090506
+DO  - doi:10.1002/ppul.1950090506
+SP  - 187
+EP  - 291
+PY  - 1990
+ER  - 
+
+TY  - JOUR
+TI  - 10:45-12:45
+JO  - Journal of General Internal Medicine
+VL  - 18
+IS  - s1
+SN  - 0884-8734
+UR  - https://doi.org/10.1046/j.1525-1497.18.s1.16.x
+DO  - doi:10.1046/j.1525-1497.18.s1.16.x
+SP  - 260
+EP  - 272
+PY  - 2003
+ER  - 
+
+TY  - JOUR
+TI  - Clinical care and other categories posters: Audit
+JO  - BJU International
+VL  - 90
+IS  - s2
+SN  - 1464-4096
+UR  - https://doi.org/10.1046/j.1464-410X.90.s2.841.x
+DO  - doi:10.1046/j.1464-410X.90.s2.841.x
+SP  - 1
+EP  - 36
+PY  - 2002
+ER  - 
+
+TY  - JOUR
+TI  - Poster Session Group I – Blue TPS 1
+JO  - Diabetic Medicine
+JA  - Allergy
+VL  - 26
+IS  - s1
+SN  - 0742-3071
+UR  - https://doi.org/10.1111/j.1464-5491.2009.02663.x
+DO  - doi:10.1111/j.1464-5491.2009.02663.x
+SP  - 79
+EP  - 199
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+TI  - Poster Session Group I – Blue TPS 1
+JO  - Allergy
+VL  - 70
+IS  - S101
+SN  - 0105-4538
+UR  - https://doi.org/10.1111/all.12719
+DO  - doi:10.1111/all.12719
+SP  - 290
+EP  - 392
+PY  - 2015
+ER  - 

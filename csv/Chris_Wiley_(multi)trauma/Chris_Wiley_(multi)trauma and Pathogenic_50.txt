@@ -1,0 +1,470 @@
+
+TY  - JOUR
+AU  - Chen, Guo-Lin
+AU  - Ma, Qi
+AU  - Goswami, Dharmendra
+AU  - Shang, Jianyu
+AU  - Miller, Gregory M.
+TI  - Modulation of nuclear REST by alternative splicing: a potential therapeutic target for Huntington's disease
+JO  - Journal of Cellular and Molecular Medicine
+JA  - J. Cell. Mol. Med.
+VL  - 21
+IS  - 11
+SN  - 1582-1838
+UR  - https://doi.org/10.1111/jcmm.13209
+DO  - doi:10.1111/jcmm.13209
+SP  - 2974
+EP  - 2984
+KW  - REST/NRSF
+KW  - alternative splicing
+KW  - nuclear translocation
+KW  - gene therapy
+KW  - Huntington's disease
+KW  - antisense oligos
+KW  - Syn-1
+KW  - Stmn2
+KW  - PPARγ
+PY  - 2017
+AB  - Abstract Huntington's disease (HD) is caused by a genetically mutated huntingtin (mHtt) protein with expanded polyQ stretch, which impairs cytosolic sequestration of the repressor element-1 silencing transcription factor (REST), resulting in excessive nuclear REST and subsequent repression of neuronal genes. We recently demonstrated that REST undergoes extensive, context-dependent alternative splicing, of which exon-3 skipping (?E3)?a common event in human and nonhuman primates?causes loss of a motif critical for REST nuclear targeting. This study aimed to determine whether ?E3 can be targeted to reduce nuclear REST and rescue neuronal gene expression in mouse striatal-derived, mHtt-expressing STHdhQ111/Q111 cells?a well-established cellular model of HD. We designed two morpholino antisense oligos (ASOs) targeting the splice sites of Rest E3 and examined their effects on ?E3, nuclear Rest accumulation and Rest-controlled gene expression in STHdhQ111/Q111 cells. We found that (1) the ASOs treatment significantly induced ?E3, reduced nuclear Rest, and rescued transcription and/or mis-splicing of specific neuronal genes (e.g. Syn1 and Stmn2) in STHdhQ111/Q111 cells; and (2) the ASOs-induced transcriptional regulation was dependent on ?E3 induction and mimicked by siRNA-mediated knock-down of Rest expression. Our findings demonstrate modulation of nuclear REST by ?E3 and its potential as a new therapeutic target for HD and provide new insights into environmental regulation of genome function and pathogenesis of HD. As ?E3 is modulated by cellular signalling and linked to various types of cancer, we anticipate that ?E3 contributes to environmentally tuned REST function and may have a broad range of clinical implications.
+ER  - 
+
+TY  - JOUR
+AU  - Stincone, Anna
+AU  - Prigione, Alessandro
+AU  - Cramer, Thorsten
+AU  - Wamelink, Mirjam M. C.
+AU  - Campbell, Kate
+AU  - Cheung, Eric
+AU  - Olin-Sandoval, Viridiana
+AU  - Grüning, Nana-Maria
+AU  - Krüger, Antje
+AU  - Tauqeer Alam, Mohammad
+AU  - Keller, Markus A.
+AU  - Breitenbach, Michael
+AU  - Brindle, Kevin M.
+AU  - Rabinowitz, Joshua D.
+AU  - Ralser, Markus
+TI  - The return of metabolism: biochemistry and physiology of the pentose phosphate pathway
+JO  - Biological Reviews
+JA  - Biol Rev
+VL  - 90
+IS  - 3
+SN  - 1464-7931
+UR  - https://doi.org/10.1111/brv.12140
+DO  - doi:10.1111/brv.12140
+SP  - 927
+EP  - 963
+KW  - pentose phosphate pathway
+KW  - glycolysis
+KW  - glucose 6-phosphate dehydrogenase
+KW  - NADPH
+KW  - metabolomics
+KW  - oxidative stress
+KW  - cancer
+KW  - stem cells
+KW  - host–pathogen interactions
+KW  - metabolic engineering
+KW  - inherited metabolic disease
+KW  - parasitic protozoa
+KW  - metabolism of infection
+PY  - 2015
+AB  - ABSTRACT The pentose phosphate pathway (PPP) is a fundamental component of cellular metabolism. The PPP is important to maintain carbon homoeostasis, to provide precursors for nucleotide and amino acid biosynthesis, to provide reducing molecules for anabolism, and to defeat oxidative stress. The PPP shares reactions with the Entner?Doudoroff pathway and Calvin cycle and divides into an oxidative and non-oxidative branch. The oxidative branch is highly active in most eukaryotes and converts glucose 6-phosphate into carbon dioxide, ribulose 5-phosphate and NADPH. The latter function is critical to maintain redox balance under stress situations, when cells proliferate rapidly, in ageing, and for the ?Warburg effect? of cancer cells. The non-oxidative branch instead is virtually ubiquitous, and metabolizes the glycolytic intermediates fructose 6-phosphate and glyceraldehyde 3-phosphate as well as sedoheptulose sugars, yielding ribose 5-phosphate for the synthesis of nucleic acids and sugar phosphate precursors for the synthesis of amino acids. Whereas the oxidative PPP is considered unidirectional, the non-oxidative branch can supply glycolysis with intermediates derived from ribose 5-phosphate and vice versa, depending on the biochemical demand. These functions require dynamic regulation of the PPP pathway that is achieved through hierarchical interactions between transcriptome, proteome and metabolome. Consequently, the biochemistry and regulation of this pathway, while still unresolved in many cases, are archetypal for the dynamics of the metabolic network of the cell. In this comprehensive article we review seminal work that led to the discovery and description of the pathway that date back now for 80 years, and address recent results about genetic and metabolic mechanisms that regulate its activity. These biochemical principles are discussed in the context of PPP deficiencies causing metabolic disease and the role of this pathway in biotechnology, bacterial and parasite infections, neurons, stem cell potency and cancer metabolism.
+ER  - 
+
+TY  - JOUR
+AU  - Martins, Ana C.
+AU  - Almeida, Joana I.
+AU  - Lima, Illyane S.
+AU  - Kapitão, Antonino S.
+AU  - Gozzelino, Raffaella
+TI  - Iron Metabolism and the Inflammatory Response
+JO  - IUBMB Life
+JA  - IUBMB Life
+VL  - 69
+IS  - 6
+SN  - 1521-6543
+UR  - https://doi.org/10.1002/iub.1635
+DO  - doi:10.1002/iub.1635
+SP  - 442
+EP  - 450
+KW  - iron
+KW  - inflammation
+KW  - infection
+KW  - immunity
+KW  - iron metabolism
+PY  - 2017
+AB  - Abstract Iron (Fe) is essential to almost all organisms, as required by cells to satisfy metabolic needs and accomplish specialized functions. Its ability to exchange electrons between different substrates, however, renders it potentially toxic. Fine tune-mechanisms are necessary to maintain Fe homeostasis and, as such, to prevent its participation into the Fenton reaction and generation of oxidative stress. These are particularly important in the context of inflammation/infection, where restricting Fe availability to invading pathogens is one, if not, the main host defense strategy against microbial growth. The ability of Fe to modulate several aspects of the immune response is associated with a number of ?costs? and ?benefits?, some of which have been described in this review. ? 2017 IUBMB Life, 69(6):442?450, 2017
+ER  - 
+
+TY  - JOUR
+AU  - Frasca, L.
+AU  - Lande, R.
+TI  - Toll-like receptors in mediating pathogenesis in systemic sclerosis
+JO  - Clinical & Experimental Immunology
+JA  - Clin Exp Immunol
+VL  - n/a
+IS  - n/a
+SN  - 0009-9104
+UR  - https://doi.org/10.1111/cei.13426
+DO  - doi:10.1111/cei.13426
+KW  - fibrosis
+KW  - immune cells
+KW  - interferon signature
+KW  - systemic sclerosis
+KW  - Toll-like receptor
+AB  - Summary Toll-like receptors (TLRs) are evolutionarily conserved receptors essential for the host defence against pathogens. Both immune and non-immune cells can express TLRs, although at different levels. Systemic sclerosis (SSc) is a chronic disease in which autoimmunity, dysregulated profibrotic mediator release and activation of fibroblasts lead to dysregulated collagen deposition and fibrosis. There is now increasing knowledge that the innate immune system and, in particular, TLRs take a part in SSc pathogenesis. The list of endogenous ligands that can stimulate TLRs in SSc is growing: these ligands represent specific danger-associated molecular patterns (DAMPs), involved either in the initiation or the perpetuation of inflammation, and in the release of factors that sustain the fibrotic process or directly stimulate the cells that produce collagen and the endothelial cells. This review reports evidences concerning TLR signalling involvement in SSc. We report the new DAMPs, as well as the TLR-linked pathways involved in disease, with emphasis on type I interferon signature in SSc, the role of plasmacytoid dendritic cells (pDCs) and platelets. The dissection of the contribution of all these pathways to disease, and their correlation with the disease status, as well as their values as prognostic tools, can help to plan timely intervention and design new drugs for more appropriate therapeutic strategies.
+ER  - 
+
+TY  - JOUR
+AU  - Caldow, George
+AU  - Anderson, Robert
+AU  - Cutler, Keith
+AU  - MacFarlane, John
+AU  - Potter, Tim
+TI  - Clinical Forum: Control of the Bovine Respiratory Disease Complex
+JO  - Livestock
+VL  - 16
+IS  - 1
+SN  - 1464-262X
+UR  - https://doi.org/10.1111/j.2044-3870.2010.00005.x
+DO  - doi:10.1111/j.2044-3870.2010.00005.x
+SP  - 29
+EP  - 40
+PY  - 2011
+AB  - ABSTRACT: Bovine respiratory disease (BRD) complex remains a significant cause of calf morbidity and mortality in both dairy and beef production in the UK. The respiratory tract offers a vulnerable interphase between the animal and the viruses and commensal bacteria involved in the complex. The defence systems of the respiratory tract are described and the main factors that impair these are explained, allowing a systematic farm specific approach to the management and prevention of BRD to be developed. The article is further informed by the experience and views of four bovine practitioners.
+ER  - 
+
+TY  - JOUR
+AU  - Mitchell, Natasha
+TI  - Ocular pharmacy: stocking the ‘eye cabinet’
+JO  - Companion Animal
+VL  - 18
+IS  - 8
+SN  - 1464-4630
+UR  - https://doi.org/10.12968/coan.2013.18.8.390
+DO  - doi:10.12968/coan.2013.18.8.390
+SP  - 390
+EP  - 394
+KW  - Ocular pharmacy
+KW  - Veterinary eye drops
+KW  - Veterinary ocular medicine
+PY  - 2013
+AB  - Stocking the pharmacy with the appropriate range of drugs to treat everyday eye conditions is a balance between demand and economics. Educating the vets in the practice as to the indications for use of the various medications will ensure that they are selected correctly. There is a very wide range of ophthalmic medications available for use in small and large animals, with new products continually being developed. It is important to stock a suitable range of medications to diagnose and treat common eye conditions that regularly present in everyday practice, and to be able to deal with ocular emergencies. A special order can be made or a prescription provided for medications suitable for more rare conditions.
+ER  - 
+
+TY  - JOUR
+AU  - Sandersen, Charlotte
+AU  - Mouithys-Mickalad, Ange
+AU  - de la Rebière, Geoffroy
+AU  - Deby, Ginette
+AU  - Serteyn, Didier
+AU  - Franck, Thierry
+TI  - Modulating effects of acepromazine on the reactive oxygen species production by stimulated equine neutrophils
+JO  - Veterinary Anaesthesia and Analgesia
+VL  - 38
+IS  - 2
+SN  - 1467-2987
+UR  - https://doi.org/10.1111/j.1467-2995.2010.00583.x
+DO  - doi:10.1111/j.1467-2995.2010.00583.x
+SP  - 83
+EP  - 93
+KW  - chemiluminescence
+KW  - electron paramagnetic resonance
+KW  - phenothiazine
+KW  - spin trapping
+PY  - 2011
+AB  - Abstract Objective? To investigate the effect of acepromazine (ACP) on reactive oxygen species (ROS) production by stimulated equine neutrophils. Study design? Ex vivo biochemical experiments. Animals? Isolated neutrophils from healthy untreated horses. Methods? Neutrophils were incubated with ACP at concentrations of 10?4, 10?5 or 10?6?m and then stimulated with phorbol-myristate-acetate (PMA) before measurement of lucigenin-enhanced chemiluminescence (CL). In a second experiment neutrophils were incubated in the presence of α-keto-? methylthiobutyric acid (KMB) and treated with ACP at concentrations of 10?4, 10?5 or 10?6?m. Subsequent PMA stimulation lead to neutrophilic ROS production and decomposition of KMB to ethylene, which is measured by gas chromatography. Electron paramagnetic resonance-spin trapping (EPR) analysis was performed with PMA-stimulated neutrophils in the presence of ACP (10?4, 10?5 or 10?6?m) directly added to the cell suspension. In the second experiment, the same concentrations of ACP were pre-incubated with neutrophils, then centrifuged to eliminate the excess of ACP and re-suspended in phosphate buffer before stimulation with PMA. In all experiments, the results of ACP-treated and ACP-untreated stimulated neutrophils were compared. Results? Overall, results obtained with lucigenin-enhanced CL and KMB oxidation were in agreement with those seen in electron paramagnetic resonance spectroscopy. Acepromazine induced a dose-dependent inhibitory effect on neutrophilic ROS production. Electron paramagnetic resonance also showed, at high ACP concentration, the appearance of a cation radical derived from ACP. In contrast, electron paramagnetic resonance study performed with pre-incubated neutrophils showed an important dose-dependent inhibitory effect of ACP. Conclusion? The results indicate that ACP can neutralize O??2 or its by-products during the stimulation of neutrophils. Clinical relevance? These findings may have a therapeutic relevance when phenothiazines are used in horses suffering from inflammatory diseases in which neutrophil activation and ROS production are implicated.
+ER  - 
+
+TY  - JOUR
+AU  - van Helden, Paul D
+AU  - van Helden, Lesley S
+AU  - Hoal, Eileen G
+TI  - One world, one health
+JO  - EMBO reports
+VL  - 14
+IS  - 6
+SN  - 1469-221X
+UR  - https://doi.org/10.1038/embor.2013.61
+DO  - doi:10.1038/embor.2013.61
+SP  - 497
+EP  - 501
+PY  - 2013
+AB  - From the point of view that all organisms and the environment share one health, expending effort to address the needs of animals and ecosystems might pay better dividends for human health in the longer term.
+ER  - 
+
+TY  - JOUR
+AU  - McOrist, Steven
+TI  - Self-assessment
+JO  - Livestock
+VL  - 15
+IS  - 3
+SN  - 1464-262X
+UR  - https://doi.org/10.1111/j.2044-3870.2010.tb00283.x
+DO  - doi:10.1111/j.2044-3870.2010.tb00283.x
+SP  - 36
+EP  - 38
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - D'HAENS, G.
+AU  - HOMMES, D.
+AU  - ENGELS, L.
+AU  - BAERT, F.
+AU  - VAN DER WAAIJ, L.
+AU  - CONNOR, P.
+AU  - RAMAGE, J.
+AU  - DEWIT, O.
+AU  - PALMEN, M.
+AU  - STEPHENSON, D.
+AU  - JOSEPH, R.
+TI  - Once daily MMX mesalazine for the treatment of mild-to-moderate ulcerative colitis: a phase II, dose-ranging study
+JO  - Alimentary Pharmacology & Therapeutics
+VL  - 24
+IS  - 7
+SN  - 0269-2813
+UR  - https://doi.org/10.1111/j.1365-2036.2006.03082.x
+DO  - doi:10.1111/j.1365-2036.2006.03082.x
+SP  - 1087
+EP  - 1097
+PY  - 2006
+AB  - Summary Background? SPD476 (MMX? mesalazine), is a novel, once daily, high-strength mesalazine formulation (1.2?g/tablet) that utilizes Multi Matrix System? (MMX) technology to delay and extend delivery of the active drug throughout the colon. Aim? To assess the safety and efficacy of MMX mesalazine in patients with mild-to-moderately active ulcerative colitis, in a pilot, phase II, randomized, multicentre, double-blind, parallel-group, dose-ranging study (SPD476-202). Methods? Thirty-eight patients with mild-to-moderately active ulcerative colitis were randomized to MMX mesalazine 1.2, 2.4 or 4.8?g/day given once daily for 8?weeks. Remission ulcerative colitis-disease activity index (UC-DAI) ≤1, a score of 0 for rectal bleeding and stool frequency, and ≥1-point reduction in sigmoidoscopy score from baseline was the primary end point. Results? Week 8 remission rates were 0%, 31% and 18% of patients receiving MMX mesalazine 1.2, 2.4 and 4.8?g/day respectively. No statistically significant difference in remission was observed between treatment groups. MMX mesalazine 2.4 and 4.8?g/day groups demonstrated greater improvement in overall UC-DAI and component scores from baseline, compared with the 1.2?g/day group. Conclusion? MMX mesalazine given as 2.4 or 4.8?g/day once daily is well tolerated and effective for the treatment of mild-to-moderately active ulcerative colitis.
+ER  - 
+
+TY  - JOUR
+AU  - Alhamdi, Yasir
+AU  - Toh, Cheng-Hock
+TI  - The role of extracellular histones in haematological disorders
+JO  - British Journal of Haematology
+JA  - Br J Haematol
+VL  - 173
+IS  - 5
+SN  - 0007-1048
+UR  - https://doi.org/10.1111/bjh.14077
+DO  - doi:10.1111/bjh.14077
+SP  - 805
+EP  - 811
+KW  - extracellular histones
+KW  - nucleosomes
+KW  - neutrophil extracellular traps
+KW  - cell death
+KW  - thrombin
+PY  - 2016
+AB  - Summary Over the past decades, chromosomal alterations have been extensively investigated for their pathophysiological relevance in haematological malignancies. In particular, epigenetic modifications of intra-nuclear histones are now known as key regulators of healthy cell cycles that have also evolved into novel therapeutic targets for certain blood cancers. Thus, for most haematologists, histones are DNA-chained proteins that are buried deep within chromatin. However, the plot has deepened with recent revelations on the function of histones when unchained and released extracellularly upon cell death or from activated neutrophils as part of neutrophil extracellular traps (NETs). Extracellular histones and NETs are increasingly recognized for profound cytotoxicity and pro-coagulant effects. This article highlights the importance of recognizing this new paradigm of extracellular histones as a key player in host defence through its damage-associated molecular patterns, which could translate into novel diagnostic and therapeutic biomarkers in various haematological and critical disorders.
+ER  - 
+
+TY  - JOUR
+AU  - Ranta, N.
+AU  - Turpeinen, H.
+AU  - Oksanen, A.
+AU  - Hämäläinen, S.
+AU  - Huttunen, R.
+AU  - Uusitalo-Seppälä, R.
+AU  - Rintala, E.
+AU  - Aittoniemi, J.
+AU  - Pesu, M.
+TI  - The Plasma Level of Proprotein Convertase FURIN in Patients with Suspected Infection in the Emergency Room: A Prospective Cohort Study
+JO  - Scandinavian Journal of Immunology
+JA  - Scand J Immunol
+VL  - 82
+IS  - 6
+SN  - 0300-9475
+UR  - https://doi.org/10.1111/sji.12386
+DO  - doi:10.1111/sji.12386
+SP  - 539
+EP  - 546
+PY  - 2015
+AB  - Abstract There is an increasing need for novel biomarkers that enable better diagnostic and prognostic stratification of patients with suspected infection. A proprotein convertase enzyme FURIN is upregulated upon immune cell activation, and it promotes infectivity by cleaving and activating pathogens. In this study, we determined FURIN levels in plasma using ELISA from 537 patients that were admitted to emergency room with suspected infection. Patients were sorted to high- and low-level FURIN groups with a cut-off level of 370 pg/ml. The study cohort included five diagnostic groups: Group 1, no systemic inflammatory response syndrome (SIRS, n = 59 patients); Group 2, bacterial infection without SIRS (n = 67); Group 3, SIRS, but no bacterial infection (n = 308); Group 4, sepsis without organ failure (n = 308); and Group 5, severe sepsis (n = 49). Statistically significant associations were not found between the plasma level of FURIN and the prevalence of sepsis (P = 0.957), diagnostic group of a patient (P = 0.737) or the bacteria in blood culture (P = 0.499). Additionally, the concentration of FURIN did not predict the severity or case fatality of the infectious disease. However, statistically significant associations were found between high plasma level of FURIN and diagnosed rheumatic disease (P < 0.001) as well as with the prevalence of non-smokers (P = 0.034). Thus, albeit the plasma level of FURIN does not predict the severity of infectious disease, it may be of use in the diagnostics of autoimmune diseases.
+ER  - 
+
+TY  - JOUR
+TI  - Equine epidemiology: HBLB Workshop
+JO  - Equine Veterinary Journal
+VL  - 29
+IS  - 2
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/j.2042-3306.1997.tb01648.x
+DO  - doi:10.1111/j.2042-3306.1997.tb01648.x
+SP  - 92
+EP  - 97
+PY  - 1997
+ER  - 
+
+TY  - JOUR
+AU  - Lavenir, R.
+AU  - Sanroma, M.
+AU  - Gibert, S.
+AU  - Crouzet, O.
+AU  - Laurent, F.
+AU  - Kravtsoff, J.
+AU  - Mazoyer, M.-A.
+AU  - Cournoyer, B.
+TI  - Spatio-temporal analysis of infra-specific genetic variations among a Pseudomonas aeruginosa water network hospital population: invasion and selection of clonal complexes
+JO  - Journal of Applied Microbiology
+VL  - 105
+IS  - 5
+SN  - 1364-5072
+UR  - https://doi.org/10.1111/j.1365-2672.2008.03907.x
+DO  - doi:10.1111/j.1365-2672.2008.03907.x
+SP  - 1491
+EP  - 1501
+KW  - cross-contamination
+KW  - faecal carriage
+KW  - hospital
+KW  - Pseudomonas aeruginosa
+KW  - water
+PY  - 2008
+AB  - Abstract Aims:? To investigate infra-specific spatio-temporal dynamics of a hospital water network Pseudomonas aeruginosa population. To infer the origin of water network isolates and assess their potential health hazard. Methods and Results:? 168 P. aeruginosa strains were isolated from tap waters and swabs of tap nozzle aerators of a hospital unit, over 2?years, and from rectal swabs and nosocomial infections. Genetic diversity among this collection was assessed by pulsed field gel electrophoresis of SpeI restricted genomic DNA. Virulence gene sets, biofilm properties, and hypochlorite resistance were analysed. Exactly 68% of the water samples and 74% of the tap nozzle aerators harboured P. aeruginosa. The strains were divided into 22 clonal lineages, with one dominant clone shown to have been involved in a nosocomial infection. Conclusions:? An important turnover among the P. aeruginosa hospital population was observed. Some clonal lineages were found to persist, spread in the unit, and diversify into clonal complexes. Rectal carriage appeared an important source of contamination of the water network. Significance and Impact of the Study:? High P. aeruginosa infra-specific population diversity suggested a broad ability in colonizing water networks but persistence analysis indicated a strong selection leading to the emergence of dominant clones.
+ER  - 
+
+TY  - JOUR
+AU  - Hung, Wei-Lun
+AU  - Ho, Chi-Tang
+AU  - Pan, Min-Hsiung
+C7  - 1900550
+TI  - Targeting the NLRP3 Inflammasome in Neuroinflammation: Health Promoting Effects of Dietary Phytochemicals in Neurological Disorders
+JO  - Molecular Nutrition & Food Research
+JA  - Mol. Nutr. Food Res.
+VL  - 64
+IS  - 4
+SN  - 1613-4125
+UR  - https://doi.org/10.1002/mnfr.201900550
+DO  - doi:10.1002/mnfr.201900550
+SP  - 1900550
+KW  - dietary phytochemicals
+KW  - NLRP3 inflammasome
+KW  - neuroinflammation
+KW  - neurological disorders
+PY  - 2020
+AB  - Abstract Neurological disorders occur in the central and peripheral nervous system and include Alzheimer's disease, stroke, and spinal cord injury. Activation of the innate immune system inevitably occurs in all forms of neurological disorders. The NOD-, LRR- and pyrin domain-containing 3 (NLRP3) inflammasome is a multimolecular complex that can sense danger signals associated with neurological disorders. Assembly of the NLRP3 inflammasome promotes caspase-1-mediated interleukin-1? and interleukin-18 maturation in microglia, where neuroinflammation contributes to neurological disease development and progression. Thus, this review attempts to elucidate the current knowledge regarding NLRP3 inflammasome activation and its crucial role in the pathogenesis of neurological disorders. Recent scientific findings with respect to neuroprotective effects of dietary phytochemicals against NLRP3 inflammasome-mediated neurological disorders summarized in this review suggest that modulation of the NLRP3 inflammasome assembly by plant-derived phytochemicals could be a potential strategy for prevention or treatment of neurological disorders.
+ER  - 
+
+TY  - JOUR
+AU  - Wilk, Jennifer
+AU  - Lewis, Anne
+AU  - Lukas, Victor
+TI  - Dermatitis in a rhesus macaque (Macaca mulatta) experimentally infected with simian immunodeficiency virus
+JO  - Journal of Medical Primatology
+VL  - 37
+IS  - s1
+SN  - 0047-2565
+UR  - https://doi.org/10.1111/j.1600-0684.2007.00255.x
+DO  - doi:10.1111/j.1600-0684.2007.00255.x
+SP  - 25
+EP  - 28
+KW  - Aspergillosis
+KW  - non-human primate
+KW  - skin
+PY  - 2008
+AB  - Abstract Dermatopathies are common with human immunodeficiency virus (HIV) infection, affecting an estimated 90% of HIV patients. Opportunistic infections are common and include viral, bacterial and fungal etiologies. Dermal eruptions from highly active anti-retroviral therapy (HAART) or antibiotics such as trimethoprim-sulfamethoxazole (TMS) are also common, and can be challenging to differentiate from other causes of dermatitis. Presented is a challenging dermatology case involving a six year old male rhesus macaque experimentally infected with simian immunodeficiency virus (SIV). Skin cultures identified multi-antibiotic resistant Staphylococcus aureus, with incomplete resolution following appropriate antibiotic treatment. Skin biopsy results indicated non-specific dermatitis not consistent with typical SIV dermatitis and with a hypersensitivity component. Fungal culture revealed aspergillosis, and the patient responded favorably to oral itraconazole therapy.
+ER  - 
+
+TY  - JOUR
+AU  - Rosenthal, Mark
+TI  - Geriatrics: A Selected Up-to-date Bibliography
+JO  - Journal of the American Geriatrics Society
+VL  - 33
+IS  - 1
+SN  - 0002-8614
+UR  - https://doi.org/10.1111/j.1532-5415.1985.tb02863.x
+DO  - doi:10.1111/j.1532-5415.1985.tb02863.x
+SP  - 69
+EP  - 85
+PY  - 1985
+AB  - This is the second annual revision of the Geriatrics Bibliography. Approximately two thirds of the old references have been replaced by more current or more detailed articles. The bibliography has been expanded to include several additional topics and over 200 new references. Since the literature pertinent to geriatrics is growing ever more rapidly, it has been necessary to omit many informative articles from the bibliography. Almost all of the references date from the past four years. Preference is given to recent publications, since they provide a list of the important earlier articles. Some articles were selected to highlight current controversies or changes in viewpoint. An occasional review article is cited to amplify geriatric aspects of common diseases. Most of the references deal specifically with an elderly patient population, studies of which, it will be noted, are confounded by questions of ?normal? aging as opposed to the concomitants of aging frequent in our society: inactivity, obesity, malnutrition, and psychosocial trauma. A few articles concern diseases remarkably common in the aged but for which no adequate study specifically from a geriatric viewpoint exists; e.g., monoclonal gammopathy, Paget's disease, pulmonary emboli. The references are divided into categories. The first (I) set deals with some possible causes of aging, the second (II) with physiologic decline accompanying aging, the third (III) with the atypical and nonspecific characteristics of illness among geriatric patients, and the fourth (IV) with non-physician services available to the elderly, including ethical quandaries. The remainder of the references are cited by pertinent medical specialty. Within each category, references are divided by disease process. Articles are further subgrouped by aspects of those diseases such as evaluation or therapy.
+ER  - 
+
+TY  - JOUR
+AU  - Rekha, P.D.
+AU  - Vasavi, H.S.
+AU  - Vipin, C.
+AU  - Saptami, K.
+AU  - Arun, A.B.
+C8  - 1484
+TI  - A medicinal herb Cassia alata attenuates quorum sensing in Chromobacterium violaceum and Pseudomonas aeruginosa
+JO  - Letters in Applied Microbiology
+JA  - Lett Appl Microbiol
+VL  - 64
+IS  - 3
+SN  - 0266-8254
+UR  - https://doi.org/10.1111/lam.12710
+DO  - doi:10.1111/lam.12710
+SP  - 231
+EP  - 238
+KW  - biofilm
+KW  - plant metabolite
+KW  - Pseudomonas aeruginosa
+KW  - quorum sensing inhibition
+KW  - virulence
+PY  - 2017
+AB  - Abstract Quorum sensing (QS) has been shown to play a crucial role in the pathogenesis in many bacteria, and attenuation of QS is one of the targets of antimicrobial therapy with particular interest in combating drug resistance. This study reports the QS inhibitory activity of metabolites from Cassia alata L. (Ca. alata), an important medicinal herb widely used in the treatment of microbial infections. For investigating the QS inhibition (QSI), the potential of Ca. alata L., initially, metabolites of the leaves extracted using ethanol was tested against biosensor strain Chromobacterium violaceum CV026 and C. violaceum wild-type strains. Furthermore, a purified fraction rich in flavonoids (F-AF) was used for establishing QSI activity by studying the inhibition of violacein production in C. violaceum, and QS controlled virulence and biofilm formation in Pseudomonas aeruginosa PAO1. The study results showed 50% inhibition of violacein production in C. violaceum at 0·05 mg ml?1 concentration of F-AF. In P. aeruginosa PAO1, it inhibited the tested virulence factors and biofilm formation significantly. The F-AF contained major flavonoids namely, quercetin, quercetrin and kaempferol displaying QSI activity individually against the test organisms. Significance and Impact of the Study Present study demonstrates the quorum sensing inhibitory activity of metabolites from Cassia alata, an important medicinal herb which is commonly used worldwide in the treatment of infections caused by microorganisms. An extract prepared from the leaves of the plant showed activity against quorum sensing in Chromobacterium violaceum and was also effective against attenuating the quorum sensing controlled virulence factors in Pseudomonas aeruginosa. Activity is attributed to the rich flavonoid composition of the plant. Results of the present investigation throw an insight into the possibility of developing drug formulations using the isolated compounds against infections caused by quorum sensing-mediated pathogenicity of bacteria.
+ER  - 
+
+AU  - Trimlett, Richard
+C7  - pp. 139-153
+TI  - Mechanical Heart Failure Therapy
+SN  - 9781405148573
+UR  - https://doi.org/10.1002/9781444314502.ch8
+DO  - doi:10.1002/9781444314502.ch8
+SP  - 139-153
+KW  - Acute myocardial infarction complicated by cardiogenic shock
+KW  - Short-term/long-term implantation
+KW  - Acute management of mechanical cardiac assist
+KW  - Pulsatile vs. non-pulsatile flow
+KW  - right and left support with extra-corporeal membrane oxygenation (ECMO)
+KW  - Treatment of Congestive Heart Failure (REMATCH)
+KW  - International Normalised Ratio (INR)
+KW  - Multi-organ failure and immunocompromise
+PY  - 2017
+AB  - Summary This chapter contains sections titled: Introduction The physics of mechanical assist Types of assist devices Indications for use Short-term/long-term implantation Methods of implantation Weaning and device removal Conclusion References
+ER  - 
+
+TY  - JOUR
+AU  - Sánchez-Sarmiento, Angélica M.
+AU  - Carvalho, Vitor L.
+AU  - Díaz-Delgado, Josué
+AU  - Ressio, Rodrigo A.
+AU  - Fernandes, Natália C. C. A.
+AU  - Guerra, Juliana M.
+AU  - Sacristán, Carlos
+AU  - Groch, Kátia R.
+AU  - Silvestre-Perez, Natalia
+AU  - Ferreira-Machado, Eduardo
+AU  - Costa-Silva, Samira
+AU  - Navas-Suárez, Pedro
+AU  - Meirelles, Ana C. O.
+AU  - Favero, Cintia
+AU  - Marigo, Juliana
+AU  - Bertozzi, Carolina P.
+AU  - Colosio, Adriana C.
+AU  - Marcondes, Milton C. C.
+AU  - Cremer, Marta J.
+AU  - dos Santos Silva, Nairléia
+AU  - Ferreira Neto, Jose Soares
+AU  - Keid, Lara B.
+AU  - Soares, Rodrigo
+AU  - Sierra, Eva
+AU  - Fernández, Antonio
+AU  - Catão-Dias, José L.
+TI  - Molecular, serological, pathological, immunohistochemical and microbiological investigation of Brucella spp. in marine mammals of Brazil reveals new cetacean hosts
+JO  - Transboundary and Emerging Diseases
+JA  - Transbound Emerg Dis
+VL  - 66
+IS  - 4
+SN  - 9781405148573
+UR  - https://doi.org/10.1111/tbed.13203
+DO  - doi:10.1111/tbed.13203
+SP  - 1674
+EP  - 1692
+KW  - Brucella spp.
+KW  - cetacean morbillivirus
+KW  - cetacean pathology
+KW  - Edwarsiella tarda
+KW  - immunohistochemistry
+KW  - marine mammals
+KW  - PCR
+KW  - Proteus mirabilis
+PY  - 2019
+AB  - Summary Brucella-exposure and infection is increasingly recognized in marine mammals worldwide. To better understand the epidemiology and health impacts of Brucella spp. in marine mammals of Brazil, molecular (conventional PCR and/or real-time PCR), serological (Rose Bengal Test [RBT], Competitive [c]ELISA, Serum Agglutination Test [SAT]), pathological, immunohistochemical (IHC) and/or microbiological investigations were conducted in samples of 129 stranded or by-caught marine mammals (orders Cetartiodactyla [n = 124], Carnivora [n = 4] and Sirenia [n = 1]). Previous serological tests performed on available sera of 27 of the 129 animals (26 cetaceans and one manatee), indicated 10 seropositive cetaceans. Conventional PCR and/or real-time PCR performed in cases with available organs (n = 119) and/or blood or swabs (n = 10) revealed 4/129 (3.1%) Brucella-infected cetaceans (one of them with positive serology; the remaining three with no available sera). Pathological, IHC and/or microbiological analyses conducted in PCR/real-time PCR and/or seropositive cases (n = 13) revealed Brucella-type lesions, including meningitis/meningoencephalitis, pneumonia, necrotizing hepatitis, pericarditis and osteoarthritis in some of those animals, and positive IHC was found in all of them (excepting two live-stranded animals without available organs). Brucella spp. culture attempts were unsuccessful. Our results demonstrated exposure, asymptomatic, acute and chronic Brucella sp. infection in several cetacean species in the Brazilian coast, highlighting the role of this pathogen in stranding and/or death, particularly in Clymene dolphin (Stenella clymene) and short-finned pilot whale (Globicephala macrorhynchus) off Ceará State. Novel hosts susceptible to Brucella included the franciscana (Pontoporia blainvillei), the Guiana dolphin (Sotalia guianensis) and the spinner dolphin (Stenella longirostris). Additionally, three coinfection cases involving Brucella spp. and cetacean morbillivirus, Edwarsiella tarda and Proteus mirabilis were detected. To the best of our knowledge, this is the first long-term and large-scale survey of Brucella spp. in marine mammals of South America, widening the spectrum of susceptible hosts and geographical distribution range of this agent with zoonotic potential.
+ER  - 

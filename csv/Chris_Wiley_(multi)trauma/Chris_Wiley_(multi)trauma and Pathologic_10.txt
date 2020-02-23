@@ -1,0 +1,414 @@
+
+TY  - JOUR
+AU  - Zambon, Antonella
+AU  - Baio, Gianluca
+AU  - Mazzaglia, Giampiero
+AU  - Merlino, Luca
+AU  - Corrao, Giovanni
+TI  - Discontinuity and failures of therapy with bisphosphonates: joint assessment of predictors with multi-state models
+JO  - Pharmacoepidemiology and Drug Safety
+JA  - Pharmacoepidem. Drug Safe.
+VL  - 17
+IS  - 3
+SN  - 1053-8569
+UR  - https://doi.org/10.1002/pds.1530
+DO  - doi:10.1002/pds.1530
+SP  - 260
+EP  - 269
+KW  - bisphosphonates
+KW  - bone fracture
+KW  - multi-state model
+KW  - osteoporosis
+KW  - prospective cohort study
+KW  - record linkage
+KW  - treatment discontinuation
+PY  - 2008
+AB  - Abstract Background Data from a cohort of women treated with bisphosphonates were used to illustrate that multi-state models may be the useful tools of analysis where two causes of treatment failure are the ultimate outcome of interest, and the sequence of recurrent episodes of treatment starting and discontinuing is also of concern. Methods All the 11?863 women resident in the Italian Region of Lombardy, aged 45 years or over and who received bisphosphonates for the first time during 2003 entered into the study and were followed up until December 2005. Multi-state models with in-treatment and treatment-free periods as transient states, and fractures and gastrointestinal-related events as competing causes of failure, were fitted to the data. The effect of several covariates on transition rates between states was estimated. Results One half of the women was treated with bisphosphonates for less than 27% of the period of observation. Negative prognostic factors for treatment discontinuation were younger age and the use of alendronate at once-daily dosing, with low refill compliance during follow-up. The risk of fracture was higher for older women who experienced fracture before entry in the cohort, and for those who switched between drugs, had low refill compliance, experienced episodes of treatment discontinuation and used corticosteroids during follow-up. Conclusions The use of multi-state models in pharmacoepidemiology provides non-biased estimates of the effect of covariates in predicting treatment discontinuation, restarting and failures. Our analyses emphasize the importance of maximising compliance in order to reduce the risks of both treatment discontinuation and fracture. Copyright ? 2008 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - WIERINGA, G. E.
+AU  - BURLINSON, S.
+AU  - RAFFERTY, J. A.
+AU  - GOWLAND, E.
+AU  - BURNS, A.
+TI  - APOLIPOPROTEIN E GENOTYPES AND SERUM LIPID LEVELS IN ALZHEIMER'S DISEASE AND MULTI-INFARCT DEMENTIA
+JO  - International Journal of Geriatric Psychiatry
+JA  - Int. J. Geriat. Psychiatry
+VL  - 12
+IS  - 3
+SN  - 0885-6230
+UR  - https://doi.org/10.1002/(SICI)1099-1166(199703)12:3<359::AID-GPS506>3.0.CO;2-X
+DO  - doi:10.1002/(SICI)1099-1166(199703)12:3<359::AID-GPS506>3.0.CO;2-X
+SP  - 359
+EP  - 362
+KW  - Alzheimer's disease
+KW  - multi-infarct dementia
+KW  - apolipoprotein E4 allele frequency
+KW  - serum cholesterol
+KW  - cholesterol fractions
+PY  - 1997
+AB  - Abstract Objective. Assessment of apolipoprotein E genotype, serum cholesterol, triglycerides, high density lipoprotein-cholesterol and low density lipoprotein-cholesterol levels in different types of dementia. Subjects. 102 consecutive referrals to an old age psychiatry service based at Manchester were classified according to clinical criteria based on ICD 10. Results. Thirty-seven were considered to have Alzheimer's disease, 16 multi-infarct dementia and 33 to be free from dementia. Sixteen patients, in whom a definitive diagnosis could not be reached or sufficient information was not available, were excluded from the study. There was an increase in the prevalence of the Apo E4 allele in both Alzheimer's disease (?2=3.82, p<0.05) and multi-infarct dementia (?2=1.93, p<0.16) by Wald tests compared to individuals without dementia. The increased prevalence of the E4 Allele in multi-infarct dementia was not related to serum lipid levels. Conclusion. The hypothesis that the onset of multi-infarct dementia may be precipitated by E4's mediation of higher serum cholesterol levels is not supported by the present study. ? 1997 by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Yang, L.
+AU  - Guo, Y.
+AU  - Wen, D.
+AU  - Yang, L.
+AU  - Chen, Y.
+AU  - Zhang, G.
+AU  - Fan, Z.
+TI  - Bone Fracture Enhances Trauma Brain Injury
+JO  - Scandinavian Journal of Immunology
+JA  - Scand J Immunol
+VL  - 83
+IS  - 1
+SN  - 0300-9475
+UR  - https://doi.org/10.1111/sji.12393
+DO  - doi:10.1111/sji.12393
+SP  - 26
+EP  - 32
+PY  - 2016
+AB  - Abstract Traumatic brain injury (TBI) is one of the leading causes of mortality and morbidity in young individuals worldwide. However, the understanding of TBI at secondary phase remained obscure, and more knowledge of the pathophysiology of TBI is necessary. In this study, we examined the influence of bone fracture (BF) on TBI and investigated whether blocking high mobility group 1 (HMGB1) protein, an inflammatory mediator, could be effective to alleviate TBI. We found neurological severity was significantly increased by BF at 4 days post-TBI with longer removal time of adhesive tape and higher percentage of left turn in the corner test compared to TBI treatment alone. Additionally, higher brain lesion volume and severer brain oedema in TBI + BF mice supports the negative effect of BF on TBI. HMGB1 level was significantly stimulated by BF, suggesting the important role of HMGB1 in the development of secondary TBI. Notably, ablation of HMGB1 significantly reduced this negative influence of BF on TBI. These results suggest that HMGB1 can be massively induced by the systemic immune activation triggered by BF, which in turn aggravates inflammation. Blocking HMGB1 reduced the inflammatory effect of BF and therefore helps lessen the severity of secondary TBI. In conclusion, these results provided the evidence that anti-HMGB1 may be an effective and feasible method to alleviate TBI.
+ER  - 
+
+TY  - JOUR
+TI  - Research Area: Trauma
+JO  - International Journal of Psychology
+JA  - International Journal of Psychology
+VL  - 47
+IS  - S1
+SN  - 0020-7594
+UR  - https://doi.org/10.1080/00207594.2012.709133
+DO  - doi:10.1080/00207594.2012.709133
+SP  - 769
+EP  - 787
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+AU  - Ferasin, L.
+AU  - Faena, M.
+AU  - Henderson, S. M.
+AU  - Langford, K.
+AU  - Darke, P. G. G.
+TI  - Use of a multi-stage exercise test to assess the responsiveness of rate-adaptive pacemakers in dogs
+JO  - Journal of Small Animal Practice
+VL  - 46
+IS  - 3
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/j.1748-5827.2005.tb00301.x
+DO  - doi:10.1111/j.1748-5827.2005.tb00301.x
+SP  - 115
+EP  - 120
+PY  - 2005
+AB  - Objectives: To assess the ventricular rate response of rate-adaptive (VVIR) pacemakers in dogs using a multi-stage exercise test. Methods: The rate-responsiveness of VVIR pacemakers was assessed in seven dogs with complete atrioventricular (AV) block and implanted with various models of pulse generators (six motion sensors and one automatic dual-sensor rate-response pacemaker). Response activity was assessed with a multi-stage exercise test on a treadmill. Atrial and ventricular rate were analysed retrospectively at the end of the test and the AV ratio was calculated after each minute of exercise. Results: During exercise, the mean (sd) AV ratio recorded in all paced dogs was 1.7 (0.5) (expected physiological ratio 1.0), although a variety of individual performances was observed. A poor response (AV ratio 2.8 [0.2]) was obtained with the automatic dual-sensor pacemaker, suggesting that this type of rate-responsive device may not be indicated for implantation in dogs with complete AV block. The overall AV ratio for the six dogs implanted with motion sensors was 1.4 (0.2), showing a better performance of these pacemakers during exercise. Clinical Significance: This multi-stage exercise test represents an easy and repeatable method for assessing the accuracy of rate-responsive sensors and offers valuable information for the correct setting of VVIR pacemakers in dogs.
+ER  - 
+
+TY  - JOUR
+TI  - Trauma Surgery Program Abstracts
+JO  - ANZ Journal of Surgery
+VL  - 80
+IS  - s1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/j.1445-2197.2010.05298_22.x
+DO  - doi:10.1111/j.1445-2197.2010.05298_22.x
+SP  - A92
+EP  - A95
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - Yip, Kam-shing
+TI  - A Multi-Dimensional Perspective of Adolescents' Self-Cutting
+JO  - Child and Adolescent Mental Health
+VL  - 10
+IS  - 2
+SN  - 1475-357X
+UR  - https://doi.org/10.1111/j.1475-3588.2005.00122.x
+DO  - doi:10.1111/j.1475-3588.2005.00122.x
+SP  - 80
+EP  - 86
+KW  - Adolescent self-cutting
+KW  - multi-dimensional perspective
+KW  - psychotherapy with adolescent
+KW  - adolescent psychology
+PY  - 2005
+AB  - Adolescent self-cutting behaviours has a long been a problem in modern society. In this paper, the writer tries review six perspectives in interpreting adolescent self-cutting behaviours. Based on these six perspectives, the writer tries to re-conceptualise a multidimensional model on adolescent self-cutting behaviours. This model tries to include the family system, peer system and socio-cultural context in perceiving the antecedents, process and aftermath in adolescents? self cutting behaviours. The implications of this perspective to intervention with adolescents are also discussed.
+ER  - 
+
+TY  - JOUR
+AU  - Stewart, AA
+AU  - Goodrich, LR
+AU  - Byron, CR
+AU  - Evans, RB
+AU  - Stewart, MC
+TI  - Antimicrobial delivery by intrasynovial catheterisation with systemic administration for equine synovial trauma and sepsis
+JO  - Australian Veterinary Journal
+VL  - 88
+IS  - 4
+SN  - 0005-0423
+UR  - https://doi.org/10.1111/j.1751-0813.2010.00553.x
+DO  - doi:10.1111/j.1751-0813.2010.00553.x
+SP  - 115
+EP  - 123
+KW  - horses
+KW  - intrasynovial catheter
+KW  - synovial sepsis
+PY  - 2010
+AB  - Objective? To present the technique for intra-articular catheter placement and report the clinical outcomes of 38 cases of equine synovial trauma and/or infection treated with broad-spectrum antimicrobials administered via an intrasynovial catheter (ISC). Design? Retrospective study. Procedure? Medical records of 38 horses treated for synovial trauma and sepsis with frequent antimicrobial administration through an ISC from 1995 to 2008 were reviewed. Follow-up information was obtained via clinical re-evaluation or telephone contact with the owners. Results? The majority of horses (84%) received amikacin and Timentin? four times daily. In addition, synovial lavage through the ISC was carried out in 27 horses (71%). Only radiological evidence of osteolysis had a significant negative impact on both lameness at the time of hospital discharge and the long-term outcome. In total, 92% of horses treated with frequent antimicrobial administration through an ISC had clinical resolution of infection. Catheter obstruction occurred in three cases, necessitating replacement or removal, and two synovial fistulae developed at sites of open drainage. The majority of horses treated had a favourable outcome, with 86% being at least pasture sound and 43% returned to riding. Conclusion? Septic synovial structures treated with frequent antimicrobial administration through an ISC had a good prognosis for survival and 43% returned to riding, which is consistent with the results of other studies. The use of a simple ISC should be considered when broad-spectrum intrasynovial antimicrobial administration and lavage of a septic synovial structure are indicated.
+ER  - 
+
+TY  - JOUR
+AU  - Clark, Graeme
+TI  - The multi-channel cochlear implant: Past, present and future perspectives
+JO  - Cochlear Implants International
+JA  - Cochlear Implants Int.
+VL  - 10
+IS  - S1
+SN  - 1467-0100
+UR  - https://doi.org/10.1002/cii.378
+DO  - doi:10.1002/cii.378
+SP  - 2
+EP  - 13
+PY  - 2009
+AB  - Abstract Initial research demonstrated that only low frequencies could be mimicked with rate of electrical stimulation, and thus multi-channel rather than single-channel stimulation was required for the place coding of the mid-high speech frequencies. Place coding of mid-high frequencies was best achieved with electrodes inside the cochlea. Furthermore, correct biomechanical properties of a multiple electrode bundle were required for it to pass around the cochlear spiral to the speech frequency region. Biological studies showed too that intra-cochlear electrodes could be used with minimal trauma, safe electrical stimulus parameters, and methods to prevent inner ear infection and meningitis. The crucial discoveries for coding speech with electrical stimulation have been based on the discovery of: 1) the fact the brain processes frequency information along spatial and temporal channels, and 2) that the first patient experienced vowels when stimulating different electrodes that corresponded to the place of excitation for single formant vowels in people with normal hearing. The inaugural and subsequent speech processing strategies extracted frequencies of special importance for speech intelligibility, and transmitted the information along place coding channels. The voicing frequency and/or amplitude, was coded as temporal information across these spatial channels. As a result a great majority of severely-to-profoundly deaf people with previous hearing can not only communicate when electrical stimulation is combined with lipreading, but with electrical stimulation alone. In addition, the benefits of binaural hearing with bilateral cochlear implants or an implant in one ear and hearing aid in the other ear have been realized. Related psychophysical research has discovered the basic perceptual skills that process the complex patterns of brain excitation that underlie speech recognition both in the one ear as well as bilateral implants. In addition the development of the perceptual skills in the maturing child for speech recognition, have been discovered. In the future high fidelity sound should be achieved by providing the fine temporo-spatial patterns of excitation and preserving the peripheral nerve network. This could require the release of nerve growth factors and the development of electrodes using nanotechnology. Copyright ? 2009 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Engelmeier, Robert L.
+AU  - Gonzalez, Maria L.
+AU  - Harb, Maribel
+TI  - Restoration of the Severely Compromised Maxilla Using the Multi-Cup Denture
+JO  - Journal of Prosthodontics
+VL  - 17
+IS  - 1
+SN  - 1059-941X
+UR  - https://doi.org/10.1111/j.1532-849X.2007.00241.x
+DO  - doi:10.1111/j.1532-849X.2007.00241.x
+SP  - 41
+EP  - 46
+KW  - Denture retention
+KW  - suction cup
+KW  - soft denture liner
+PY  - 2008
+AB  - Abstract Among the millions of edentulous Americans, a persistent minority have not been able tolerate wearing dentures. Complicating factors may have precluded surgical intervention with grafts or dental implants to improve the physical and anatomic limitations of these unfortunate patients. A heat-cured polymer liner containing multiple small suction cups has been used for decades to successfully restore many such debilitated individuals. Two middle-aged female patients with edentulous maxillae and near fully dentate mandibles had both reached a point where they could no longer retain a maxillary complete denture, or function with it. Both had experienced multiple failed surgical attempts to improve their situations. They were both successfully restored with maxillary complete dentures containing heat-cured silicone liners with multiple small suction cups. Two young female maxillectomy patients had significant difficulties wearing maxillary obturators due to defect size and absence of defect undercuts. One had an edentulous maxilla, while the other had no axial undercuts on her few remaining maxillary teeth. Without an obturator, both suffered considerable air and fluid leaks, unintelligible speech, and swallowing problems. They too were successfully restored with obturators containing a heat-cured, multi-cup, silicone liner. The multi-cup, silicone denture liner has offered an economic, noninvasive alternative for patients unable or unwilling to undergo surgical intervention to facilitate prosthesis retention.
+ER  - 
+
+TY  - JOUR
+AU  - Grant, April A.
+AU  - Hart, Valerie J.
+AU  - Lineen, Edward B.
+AU  - Lai, Cynthia
+AU  - Ginzburg, Enrique
+AU  - Houghton, Douglas
+AU  - Schulman, Carl I.
+AU  - Vianna, Rodrigo
+AU  - Patel, Amit N.
+AU  - Casalenuovo, Amelia
+AU  - Loebe, Matthias
+AU  - Ghodsizad, Ali
+TI  - The Impact of an Advanced ECMO Program on Traumatically Injured Patients
+JO  - Artificial Organs
+JA  - Artif Organs
+VL  - 42
+IS  - 11
+SN  - 0160-564X
+UR  - https://doi.org/10.1111/aor.13152
+DO  - doi:10.1111/aor.13152
+SP  - 1043
+EP  - 1051
+KW  - Extracorporeal membrane oxygenation
+KW  - Trauma
+KW  - Weaning protocol
+KW  - Thrombosis
+KW  - Hemorrhage
+PY  - 2018
+AB  - Abstract In June 2016, an advanced extracorporeal membrane oxygenation (ECMO) program consisting of a multidisciplinary team was initiated at a large level-one trauma center. The program was created to standardize management for patients with a wide variety of pathologies, including trauma. This study evaluated the impact of the advanced ECMO program on the outcomes of traumatically injured patients undergoing ECMO. A retrospective cohort study was performed on all patients sustaining traumatic injury who required ECMO support from January 2014 to September 2017. The primary outcome was to determine survival in trauma ECMO patients in the two timeframes, before and after initiation of the advanced ECMO program. Secondary outcomes included complication rates, length of stay, ventilator usage, and ECMO days. One hundred and thirty eight patients were treated with ECMO during the study period. Of the 138 patients, 22 sustained traumatic injury. Seven patients were treated in our pre-group and 15 in our post-group. The majority of patients were treated with VV ECMO. Our post group VV ECMO extracorporeal survival rate was 64% and our survival to discharge was 55%. This study demonstrated an improvement in survival after implementation of our advanced ECMO program. The implementation of a multidisciplinary trauma ECMO team dedicated to the rescue of critically ill patients is the key for achieving excellent outcomes in the trauma population.
+ER  - 
+
+TY  - JOUR
+TI  - Aortitis: Clinical, pathologic and radiographic aspects edited by Adam Lande, Yahya A. Berkmen, and Hugh A. McAllister, Jr. Raven Press, New York (1985) 288 pages, illustrated, $57.50 ISBN: 0-88167-141-X
+JO  - Clinical Cardiology
+JA  - Clin Cardiol
+VL  - 9
+IS  - 9
+SN  - 0160-9289
+UR  - https://doi.org/10.1002/clc.4960090903
+DO  - doi:10.1002/clc.4960090903
+SP  - 407
+EP  - 408
+PY  - 1986
+ER  - 
+
+TY  - JOUR
+AU  - Nicot, Romain
+AU  - Druelle, Charles
+AU  - Schlund, Matthias
+AU  - Roland-Billecart, Thomas
+AU  - Gwénaël, Raoul
+AU  - Ferri, Joël
+AU  - Gosset, Didier
+TI  - Use of 3D printed models in student education of craniofacial traumas
+JO  - Dental Traumatology
+JA  - Dent Traumatol
+VL  - 35
+IS  - 4-5
+SN  - 1600-4469
+UR  - https://doi.org/10.1111/edt.12479
+DO  - doi:10.1111/edt.12479
+SP  - 296
+EP  - 299
+KW  - 3D printing
+KW  - craniofacial trauma
+KW  - mandibular fracture
+KW  - medical education
+PY  - 2019
+AB  - Abstract A low-cost 3D printed model has been introduced into the oral and maxillofacial surgery teaching program of undergraduate students to improve education and mechanical comprehension of craniofacial trauma. Steps of the 3D printed haptic model building process are listed. 3D printed models of facial fractures were obtained from Data Imaging and Communications in Medicine (DICOM) data. Computed Aided Design and Manufacturing (CAD-CAM) freeware was used to create new fractures on the standard tessellation language (STL) file. 3D printed haptic model appears to be an efficient low-cost support for craniofacial trauma education of undergraduate students.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Session C15: Vascular and Trauma
+JO  - Brain Pathology
+VL  - 10
+IS  - 4
+SN  - 1015-6305
+UR  - https://doi.org/10.1111/j.1750-3639.2000.tb00303.x
+DO  - doi:10.1111/j.1750-3639.2000.tb00303.x
+SP  - 563
+EP  - 568
+PY  - 2000
+ER  - 
+
+AU  - Adler-Tapia, Robbie
+AU  - Settle, Carolyn
+AU  - Shapiro, Francine
+C7  - pp. 229-250
+TI  - Eye Movement Desensitization and Reprocessing (EMDR) Psychotherapy With Children Who Have Experienced Sexual Abuse and Trauma
+SN  - 9780470877296
+UR  - https://doi.org/10.1002/9781118094822.ch10
+DO  - doi:10.1002/9781118094822.ch10
+SP  - 229-250
+KW  - eye movement desensitization and reprocessing
+KW  - psychotherapy
+KW  - experienced sexual abuse
+KW  - physical trauma
+KW  - medical injuries
+PY  - 2000
+AB  - Summary This chapter contains sections titled: Introduction What Is EMDR? Variability in Cases: The Range in Histories for Children Who Are Sexually Abused and Traumatized Conclusion
+ER  - 
+
+TY  - JOUR
+AU  - Molina, Patricia E.
+AU  - McClain, Craig
+AU  - Valla, Dominique
+AU  - Guidot, David
+AU  - Diehl, Anna Mae
+AU  - Lang, Charles H.
+AU  - Neuman, Manuela
+TI  - Molecular Pathology and Clinical Aspects of Alcohol-Induced Tissue Injury
+JO  - Alcoholism: Clinical and Experimental Research
+VL  - 26
+IS  - 1
+SN  - 9780470877296
+UR  - https://doi.org/10.1111/j.1530-0277.2002.tb02440.x
+DO  - doi:10.1111/j.1530-0277.2002.tb02440.x
+SP  - 120
+EP  - 128
+KW  - alcohol
+KW  - liver
+KW  - muscle
+KW  - lung
+KW  - cytokines
+KW  - trauma
+KW  - injury
+PY  - 2002
+AB  - Proceedings of a symposium at the 2001 RSA Meeting in Montreal, Canada; organized and co-chaired by Patricia E. Molina and Manuela Neuman. The presentations were (1) Mechanisms of alcohol-induced cell injury by Craig McClain; (2) Cytokines in alcoholic steatohepatitis and non-alcoholic steatohepatitis by Manuela Neuman; (3) Combination of alcohol and hepatitis C virus and liver injury by Dominique Valla; (4) Chronic ethanol exposure potentiates lipopolysaccharide liver injury, despite inhibiting Jun N-Terminal kinase and caspase 3 activation by Anna Mae Diehl; (5) Glutathione homeostasis in alcoholism: Role in alveolar epithelial barrier and lung injury by David M. Guidot; (6) Metabolic and inflammatory contribution of alcohol to trauma-induced tissue injury by Patricia E. Molina; (7) Growth factor and protein synthesis dysregulation: Role in alcoholic myopathy by Charles H. Lang.
+ER  - 
+
+TY  - JOUR
+AU  - Shechter, Ravid
+AU  - Schwartz, Michal
+TI  - Harnessing monocyte-derived macrophages to control central nervous system pathologies: no longer ‘if’ but ‘how’
+JO  - The Journal of Pathology
+JA  - J. Pathol.
+VL  - 229
+IS  - 2
+SN  - 9780470877296
+UR  - https://doi.org/10.1002/path.4106
+DO  - doi:10.1002/path.4106
+SP  - 332
+EP  - 346
+KW  - neuroimmunology
+KW  - CNS pathology
+KW  - macrophages
+KW  - microglia
+KW  - neurodegenerative disease
+KW  - spinal cord injury
+KW  - monocytes
+PY  - 2013
+AB  - Abstract The central nervous system (CNS) tissues, including the brain, the eye, and the spinal cord, are immune-privileged, secluded from the circulation by a complex of barriers, and equipped with their own myeloid cell population, the resident microglia. Based on the classical perspective of immune?brain interactions and on the contribution of such interactions to the progression of multiple sclerosis, an autoimmune inflammatory disease of the CNS, infiltrating macrophages were traditionally viewed as an enemy of the nervous system. However, over the past two decades, research has revealed the pivotal role of monocyte-derived macrophages in CNS repair, and opened up a new era in understanding and treating CNS pathologies. Here, we gather current knowledge regarding macrophage broad spectrum of activities in the CNS, whose two poles correspond to the classical pro-inflammatory M1 and the ?alternatively-activated? M2 cells previously described in various non-CNS pathologies, and their diverse, multi-functional contribution in various neurological conditions, ranging from acute traumas to neurodegenerative disorders, and autoimmune diseases. The diverse functions are manifested by induction and resolution of inflammation as well as their involvement in neural tissue regeneration and renewal, matrix remodelling, debris clearance, and angiogenesis. A special focus is devoted to current evidence suggesting that resident microglia and infiltrating monocyte-derived macrophages are functionally non-redundant cell types. Taken together, these recent advances reveal a dramatic therapeutic opportunity for controlled harnessing of macrophages for repair of the damaged CNS following acute insults, in neurodegenerative conditions, and in psychiatric disorders.
+ER  - 
+
+TY  - JOUR
+AU  - Williams, Alishia D.
+AU  - Grisham, Jessica R.
+AU  - Erskine, Alicia
+AU  - Cassedy, Eva
+TI  - Deficits in emotion regulation associated with pathological gambling
+JO  - British Journal of Clinical Psychology
+VL  - 51
+IS  - 2
+SN  - 9780470877296
+UR  - https://doi.org/10.1111/j.2044-8260.2011.02022.x
+DO  - doi:10.1111/j.2044-8260.2011.02022.x
+SP  - 223
+EP  - 238
+PY  - 2012
+AB  - Objectives.?The concept of emotion regulation features in many models of psychopathology and it has been proposed that individuals with poorly regulated emotions often engage in maladaptive behaviours to escape from or down-regulate their emotions, creating risk for a range of disorders. One such disorder may be pathological gambling. To our knowledge, no study had assessed the use of emotion-regulation strategies in this population. The goal of the present study was therefore to examine emotion-regulation difficulties among a sample of pathological gamblers (n= 56), a mixed clinical comparison group (n= 50), and a sample of healthy community controls (n= 49). Design.?Multivariate analysis of variance controlling for age. Methods.?Participants were recruited from the community and a gambling treatment unit in Australia and completed clinical diagnostic interviews (ADIS-IV; SCIP), self-report measures of psychopathology (DASS-21), substance use (AUDIT), and emotion-regulation difficulties (DERS; ERQ). Results.?Pathological gamblers and the clinical comparison group reported significantly less use of reappraisal as an adaptive emotion-regulation strategy, and reported a greater lack of emotional clarity and more impulsivity than individuals in the healthy community comparison group. Pathological gamblers reported a greater lack of emotional awareness compared to the healthy control group and reported differences in access to effective emotion-regulation strategies compared to both comparison groups. Conclusions.?The results support specific deficits of emotion regulation in pathological gamblers and emphasize the need to address these underlying vulnerabilities in addition to directly targeting gambling behaviours in therapy.
+ER  - 
+
+TY  - JOUR
+AU  - Mölsä, P.K.
+AU  - Marttila, R.J.
+AU  - Rinne, U.K.
+TI  - Survival and cause of death in Alzheimer's disease and multi-infarct dementia
+JO  - Acta Neurologica Scandinavica
+VL  - 74
+IS  - 2
+SN  - 9780470877296
+UR  - https://doi.org/10.1111/j.1600-0404.1986.tb04634.x
+DO  - doi:10.1111/j.1600-0404.1986.tb04634.x
+SP  - 103
+EP  - 107
+KW  - Alzheimer's disease
+KW  - dementia
+KW  - multi-infarct dementia
+KW  - mortality
+KW  - survival
+PY  - 1986
+AB  - ABSTRACT Survival and causes of death of 218 patients with Alzheimer's disease (AD) and of 115 patients with multi-infarct dementia (MID) were examined. The patients were originally found in a community-based epidemiological survey of dementia, and all patients with AD or MID alive on the prevalence day were included. The 6-years survival rate for AD was 21.1% vs. the expected rate 48.5%, that for MID 11.9% vs. 45.2% expected. A comparison of relative survival rates suggested that MID carries a less favorable survival prognosis than AD. The mean durations were: AD 5.7 years and MID 5.2 years; median duration being 5 years in both diseases. The excess mortality in both AD and MID was independent of age. In AD, the survival rate decreased with increasing severity of dementia, while in MID the mortality was the same regardless of the severity of the dementia. The dementia disorder was the underlying cause of death in 68% of AD patients, and in 38% of MID patients, bronchopneumonia being the most frequent immediate cause of death in both groups. As a cause of death, acute cerebrovascular accidents occurred more often in MID patients than in the general population of comparable age. Malignant diseases were less frequent as a cause of death in both dementia groups than in the general population.
+ER  - 
+
+TY  - JOUR
+AU  - Jakob-Roetne, Roland
+AU  - Jacobsen, Helmut
+TI  - Alzheimer's Disease: From Pathology to Therapeutic Approaches
+JO  - Angewandte Chemie International Edition
+JA  - Angewandte Chemie International Edition
+VL  - 48
+IS  - 17
+SN  - 9780470877296
+UR  - https://doi.org/10.1002/anie.200802808
+DO  - doi:10.1002/anie.200802808
+SP  - 3030
+EP  - 3059
+KW  - Alzheimer's disease
+KW  - amyloids
+KW  - drug development
+KW  - pathology
+KW  - secretases
+PY  - 2009
+AB  - Abstract Mind how you go: The current strategies for the development of therapies for Alzheimer's disease are very diverse. Particular attention is given to the search for inhibitors (see picture for two examples) of the proteolytic enzyme ?- and ?-secretase, which inhibits the cleavage of the amyloid precursor proteins into amyloid?? peptides, from which the disease-defining deposits of plaque in the brains of Alzheimer's patients originates. Research on senile dementia and Alzheimer's disease covers an extremely broad range of scientific activities. At the recent international meeting of the Alzheimer's Association (ICAD 2008, Chicago) more than 2200 individual scientific contributions were presented. The aim of this Review is to give an overview of the field and to outline its main areas, starting from behavioral abnormalities and visible pathological findings and then focusing on the molecular details of the pathology. The ?amyloid hypothesis? of Alzheimer's disease is given particular attention, since the majority of the ongoing therapeutic approaches are based on its theoretical framework.
+ER  - 

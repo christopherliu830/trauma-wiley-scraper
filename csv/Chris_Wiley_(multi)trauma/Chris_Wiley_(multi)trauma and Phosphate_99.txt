@@ -1,0 +1,340 @@
+
+TY  - JOUR
+TI  - Basic science: The cutting edge in optical diagnostics and therapeutics of tissues and cells
+JO  - Lasers in Surgery and Medicine
+JA  - Lasers Surg. Med.
+VL  - 38
+IS  - S18
+SN  - 0196-8092
+UR  - https://doi.org/10.1002/lsm.20312
+DO  - doi:10.1002/lsm.20312
+SP  - 1
+EP  - 16
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts-part VII (Continue in Part VIII)
+JO  - Proceedings of the International Society for Magnetic Resonance in Medicine
+JA  - Proc. Soc. Magn. Reson. Med.
+VL  - 1988
+IS  - S1
+SN  - 1065-9889
+UR  - https://doi.org/10.1002/mrmp.22419880109
+DO  - doi:10.1002/mrmp.22419880109
+SP  - 351
+EP  - 400
+PY  - 1988
+ER  - 
+
+AU  - Ouellette, Sarah
+C7  - pp. 233-294
+TI  - Clinical Pathology
+SN  - 9780813816210
+UR  - https://doi.org/10.1002/9781119421368.ch7
+DO  - doi:10.1002/9781119421368.ch7
+SP  - 233-294
+KW  - blood chemistry tests
+KW  - blood collection
+KW  - blood smear
+KW  - complete blood count
+KW  - laboratory medicine
+KW  - microbiology collection
+KW  - patient's hematologic status
+KW  - veterinary medicine
+PY  - 1988
+AB  - Summary This chapter covers all aspects of laboratory medicine including collection, handling, storage, and transport of specimens, as well as procedures and normal ranges. It gives information to understand and perform laboratory medicine. Blood chemistry tests are extremely useful diagnostic tools in veterinary medicine. They are used to evaluate various blood substances to help portray certain body and organ functions. Although many hospitals prefer to send out samples to reference laboratories for evaluation, the knowledge of how to perform a manual complete blood count can be very useful in certain situations, for example, when time is crucial during emergencies, when an automated machine is not functioning properly, or when an automated machine is not at hand. Having rapid results can give the veterinarian insight into the patient's hematologic status or provide information on certain types of anemia, organ functions, and neoplasia. The chapter describes the handling and collection techniques needed to obtain a proper microbial sample.
+ER  - 
+
+C7  - pp. 58-146
+TI  - Ferrets
+SN  - 9780813818313
+UR  - https://doi.org/10.1002/9781118969601.ch2
+DO  - doi:10.1002/9781118969601.ch2
+SP  - 58-146
+KW  - adrenal gland disease
+KW  - cardiovascular conditions
+KW  - endocrine conditions
+KW  - eosinophilic gastroenteritis
+KW  - ferrets
+KW  - gastrointestinal conditions
+KW  - musculoskeletal conditions
+KW  - nonspecific lymphoplasmacytic hepatitis
+KW  - respiratory conditions
+PY  - 1988
+AB  - Summary Ferrets are commonly used as an animal model for influenza virus research, as well as other disease conditions, such as Helicobacter-induced gastropathy. Eosinophilic gastroenteritis is a distinct idiopathic inflammatory condition of young adult ferrets. Affected animals may present with vomiting, diarrhea, and lethargy, and a marked eosinophilia may be noted during routine hematologic evaluation. Hematologic changes may include nonregenerative anemia, hypergammaglobulinemia, hypoalbuminemia, and thrombocytopenia. Differential diagnoses for hypergammaglobulinemia and/or abdominal masses include Aleutian disease, lymphosarcoma, chronic infection (e.g., proliferative colitis, helicobacteriosis), idiopathic splenomegaly, multiple myeloma, other neoplasms, and inflammatory bowel disease. Hepatic coccidiosis and toxoplasmosis are seen sporadically in ferrets. Similarly, systemic viral disease caused by infection with canine distemper virus, influenza virus, Aleutian disease (a parvovirus infection), and coronavirus may induce foci of hepatic necrosis and inflammation. Nonspecific lymphoplasmacytic hepatitis may be seen with moderate regularity in surgical biopsies or tissue sections from adult ferrets as an extension of gastrointestinal inflammatory conditions.
+ER  - 
+
+TY  - JOUR
+AU  - Ju, Yanqin
+AU  - Ren, Xudong
+AU  - Zhao, Shouliang
+TI  - Distal C-terminus of Cav1.2 is indispensable for the chondrogenic differentiation of rat dental pulp stem cells
+JO  - Cell Biology International
+JA  - Cell Biol Int
+VL  - 44
+IS  - 2
+SN  - 9780813818313
+UR  - https://doi.org/10.1002/cbin.11251
+DO  - doi:10.1002/cbin.11251
+SP  - 512
+EP  - 523
+KW  - Cav1.2
+KW  - dental pulp stem cells
+KW  - differentiation
+KW  - distal C-terminus
+KW  - L-type calcium channel
+PY  - 2020
+AB  - Abstract The α1 subunit (Cav1.2) of the L-type calcium channel (LTCC), which is presently existing in both excitatory cells and non-excitatory cells, is involved in the differentiation and proliferation of mesenchymal stem cells (MSCs). Dental pulp stem cells (DPSCs), MSCs derived from dental pulp, exhibit multipotent characteristics similar to those of MSCs. The aim of the present study was to examine the contribution of Cav1.2 and its distal C-terminus (DCT) to the commitment of rat DPSCs (rDPSCs) toward chondrocytes and adipocytes in vitro. The expression of Cav1.2 was obviously elevated in chondrogenic differentiation but did not differ significantly in adipogenic differentiation. The chondrogenic differentiation but not adipogenic of rDPSCs was inhibited by either blocking LTCC using nimodipine or knockdown of Cav1.2 via short hairpin RNA (shRNA). Overexpression of DCT rescued the inhibition by Cav1.2-shRNA during chondrogenic differentiation, indicating that DCT is essential for the chondrogenic differentiation of rDPSCs. However, the protein level of DCT decreased after chondrogenic differentiation in wild-type cells, and overexpression of DCT in rDPSCs inhibited the phenotype. These data suggest that DCT is indispensable for chondrogenic differentiation of rDPSCs but that superfluous DCT inhibits this process. Through the analysis of differentially expressed genes using RNA-seq data, we speculated that the regulation of DCT might be mediated by the mitogen-activated protein kinase/extracellular-regulated kinase and c-Jun N-terminal kinase signaling pathways, or Chondromodulin-1.
+ER  - 
+
+TY  - JOUR
+AU  - Rahman, Shafiur
+AU  - Gulati, Karan
+AU  - Kogawa, Masakazu
+AU  - Atkins, Gerald J.
+AU  - Pivonka, Peter
+AU  - Findlay, David M.
+AU  - Losic, Dusan
+TI  - Drug diffusion, integration, and stability of nanoengineered drug-releasing implants in bone ex-vivo
+JO  - Journal of Biomedical Materials Research Part A
+JA  - J. Biomed. Mater. Res.
+VL  - 104
+IS  - 3
+SN  - 9780813818313
+UR  - https://doi.org/10.1002/jbm.a.35595
+DO  - doi:10.1002/jbm.a.35595
+SP  - 714
+EP  - 725
+KW  - local drug delivery
+KW  - bone therapy
+KW  - titania nanotubes
+KW  - drug-releasing implants
+KW  - drug diffusion
+PY  - 2016
+AB  - Abstract To treat skeletal conditions such as bone infections, osteoporotic fractures, and osteosarcoma, it would be ideal to introduce drugs directly to the affected site. Localized drug delivery from the bone implants is a promising alternative to systemic drug administration. In this study we investigated electrochemically nanoengineered Ti wire implants with titania nanotubes (TNTs), as minimally invasive drug-releasing implants for the delivery of drugs directly into the bone tissue. Since trabecular bone in vivo contains a highly interconnected bone marrow, we sought to determine the influence of marrow on drug release and diffusion. Electrochemical anodization of Ti wires (length 10 mm) was performed to create an oxide layer with TNTs on the surface, followed by loading with a fluorescent model drug, Rhodamine B (RhB). Cores of bovine trabecular bone were generated from the sternum of a young steer, and were processed to have an intact bone marrow, or the marrow was removed. RhB-loaded TNTs/Ti wires were inserted into the bone cores, which were then cultured ex vivo using the ZetOS? bioreactor system to maintain bone viability. Release and diffusion of RhB inside the bone was monitored using fluorescence imaging and different patterns of drug transport in the presence or absence of marrow were observed. Scanning electron microscopy of the implants after retrieval from bone cores confirmed survival of the TNTs structures. Histological investigation showed the presence of bone cells adherent on the implants. This study shows a potential of Ti drug-releasing implants based on TNTs technology towards localized bone therapy. ? 2015 Wiley Periodicals, Inc. J Biomed Mater Res Part A: 104A: 714?725, 2016.
+ER  - 
+
+TY  - JOUR
+AU  - Zhao, Xing
+AU  - Hwang, Nathaniel S.
+AU  - Bichara, David A.
+AU  - Saris, Daniel B.
+AU  - Malda, Jos
+AU  - Vacanti, Joseph P.
+AU  - Pomerantseva, Irina
+AU  - Sundback, Cathryn A.
+AU  - Langer, Robert
+AU  - Anderson, Daniel G.
+AU  - Randolph, Mark A.
+C8  - TERM-15-0189.R2
+TI  - Chondrogenesis by bone marrow-derived mesenchymal stem cells grown in chondrocyte-conditioned medium for auricular reconstruction
+JO  - Journal of Tissue Engineering and Regenerative Medicine
+JA  - J Tissue Eng Regen Med
+VL  - 11
+IS  - 10
+SN  - 9780813818313
+UR  - https://doi.org/10.1002/term.2171
+DO  - doi:10.1002/term.2171
+SP  - 2763
+EP  - 2773
+KW  - cartilage
+KW  - chondrogenesis
+KW  - bone marrow-mesenchymal stem cells
+KW  - chondrocyte-conditioned medium
+KW  - TGF-β3
+PY  - 2017
+AB  - Abstract Bone marrow-derived mesenchymal stem cells (BMSCs) can be obtained by minimally invasive means and would be a favourable source for cell-based cartilage regeneration. However, controlling the differentiation of the BMSCs towards the desired chondrogenic pathway has been a challenge hampering their application. The major aim of the present study was to determine if conditioned medium collected from cultured auricular chondrocytes could promote chondrogenic differentiation of BMSCs. Auricular chondrocytes were isolated and grown in BMSC standard culture medium (SM) that was collected and used as chondrocyte-conditioned medium (CCM). The BMSCs were expanded in either CCM or SM for three passages. Cells were seeded onto fibrous collagen scaffolds and precultured for 2 weeks with or without transforming growth factor-beta 3 (TGF-?3). After preculture, constructs were implanted subcutaneously in nude mice for 6 and 12 weeks and evaluated with real-time polymerase chain reaction, histology, immunohistochemistry and biochemistry. Real-time polymerase chain reaction results showed upregulation of COL2A1 in the constructs cultured in CCM compared with those in SM. After 12 weeks in vivo, abundant neocartilage formation was observed in the implants that had been cultured in CCM, with or without TGF-?3. In contrast, very little cartilage matrix formation was observed within the SM groups, regardless of the presence of TGF-?3. Osteogenesis was only observed in the SM group with TGF-?3. In conclusion, CCM even had a stronger influence on chondrogenesis than the supplementation of the standard culture medium with TGF-?3, without signs of endochondral ossification. Efficient chondrogenic differentiation of BMSCs could provide a promising alternative cell population for auricular regeneration. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - Paper Abstracts
+JO  - Journal of the American Geriatrics Society
+VL  - 54
+IS  - S4
+SN  - 9780813818313
+UR  - https://doi.org/10.1111/j.1532-5415.2006.00783.x
+DO  - doi:10.1111/j.1532-5415.2006.00783.x
+SP  - S1
+EP  - S203
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+TI  - Poster Sessions
+JO  - Clinical Microbiology and Infection
+VL  - 18
+IS  - s3
+SN  - 9780813818313
+UR  - https://doi.org/10.1111/j.1469-0691.2012.03802.x
+DO  - doi:10.1111/j.1469-0691.2012.03802.x
+SP  - 114
+EP  - 715
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+TI  - ABSTRACTS FOR INVITED PRESENTATIONS
+JO  - Artificial Organs
+VL  - 21
+IS  - 6
+SN  - 9780813818313
+UR  - https://doi.org/10.1111/j.1525-1594.1997.tb00507.x
+DO  - doi:10.1111/j.1525-1594.1997.tb00507.x
+SP  - 473
+EP  - 577
+PY  - 1997
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Pharmacoepidemiology and Drug Safety
+JA  - Pharmacoepidemiol Drug Saf
+VL  - 28
+IS  - S2
+SN  - 9780813818313
+UR  - https://doi.org/10.1002/pds.4864
+DO  - doi:10.1002/pds.4864
+SP  - 5
+EP  - 586
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts
+JO  - Transplant International
+JA  - Transpl Int
+VL  - 28
+IS  - S2
+SN  - 9780813818313
+UR  - https://doi.org/10.1111/tri.12646
+DO  - doi:10.1111/tri.12646
+SP  - 22
+EP  - 59
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - International Journal of Rheumatic Diseases
+JA  - Int J Rheum Dis
+VL  - 16
+IS  - s1
+SN  - 9780813818313
+UR  - https://doi.org/10.1111/1756-185X.12173
+DO  - doi:10.1111/1756-185X.12173
+SP  - 1
+EP  - 122
+PY  - 2013
+ER  - 
+
+AU  - Steele, Andrea M.
+C7  - pp. 177-196
+TI  - Urogenital Emergencies
+SN  - 9780813810577
+UR  - https://doi.org/10.1002/9781118785690.ch9
+DO  - doi:10.1002/9781118785690.ch9
+SP  - 177-196
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - 9th Clinical Congress Abstracts Short Paper Sessions
+JO  - Journal of Parenteral and Enteral Nutrition
+JA  - Journal of Parenteral and Enteral Nutrition
+VL  - 9
+IS  - 1
+SN  - 9780813810577
+UR  - https://doi.org/10.1177/014860718500900119
+DO  - doi:10.1177/014860718500900119
+SP  - 106
+EP  - 124
+PY  - 1985
+ER  - 
+
+TY  - JOUR
+TI  - Abstract
+JO  - Clinical Endocrinology
+JA  - Clin Endocrinol
+VL  - 89
+IS  - S1
+SN  - 9780813810577
+UR  - https://doi.org/10.1111/cen.13727
+DO  - doi:10.1111/cen.13727
+SP  - 4
+EP  - 94
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - Abstract
+JO  - Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy
+VL  - 22
+IS  - 3
+SN  - 9780813810577
+UR  - https://doi.org/10.1592/phco.22.5.403.33194
+DO  - doi:10.1592/phco.22.5.403.33194
+SP  - 403
+EP  - 432
+PY  - 2002
+ER  - 
+
+TY  - JOUR
+AU  - Song, Peiyi
+AU  - Tng, Danny Jian Hang
+AU  - Hu, Rui
+AU  - Lin, Guimiao
+AU  - Meng, Ellis
+AU  - Yong, Ken-Tye
+TI  - An Electrochemically Actuated MEMS Device for Individualized Drug Delivery: an In Vitro Study
+JO  - Advanced Healthcare Materials
+JA  - Advanced Healthcare Materials
+VL  - 2
+IS  - 8
+SN  - 9780813810577
+UR  - https://doi.org/10.1002/adhm.201200356
+DO  - doi:10.1002/adhm.201200356
+SP  - 1170
+EP  - 1178
+KW  - MEMS
+KW  - drug delivery
+KW  - pancreatic cancer
+KW  - electrolysis actuator
+KW  - PDMS
+PY  - 2013
+AB  - Abstract Individualized disease treatment is a promising branch for future medicine. In this work, we introduce an implantable microelectromechanical system (MEMS) based drug delivery device for programmable drug delivery. An in vitro study on cancer cell treatment has been conducted to demonstrate a proof-of-concept that the engineered device is suitable for individualized disease treatment. This is the first study to demonstrate that MEMS drug delivery devices can influence the outcome of cancer drug treatment through the use of individualized disease treatment regimes, where the strategy for drug dosages is tailored according to different individuals. The presented device is electrochemically actuated through a diaphragm membrane and made of polydimethylsiloxane (PDMS) for biocompatibility using simple and cost-effective microfabrication techniques. Individualized disease treatment was investigated using the in vitro programmed delivery of a chemotherapy drug, doxorubicin, to pancreatic cancer cell cultures. Cultured cell colonies of two pancreatic cancer cell lines (Panc-1 and MiaPaCa-2) were treated with three programmed schedules and monitored for 7 days. The result shows that the colony growth has been successfully inhibited for both cell lines among all the three treatment schedules. Also, the different observations between the two cell lines under different schedules reveal that MiaPaCa-2 cells are more sensitive to the drug applied. These results demonstrate that further development on the device will provide a promising novel platform for individualized disease treatment in future medicine as well as for automatic in vitro assays in drug development industry.
+ER  - 
+
+AU  - El Askary, Abd El Salam
+C7  - pp. 13-78
+TI  - Diagnostic Considerations for Esthetic Implant Therapy
+SN  - 9780813814483
+UR  - https://doi.org/10.1002/9780470376423.ch2
+DO  - doi:10.1002/9780470376423.ch2
+SP  - 13-78
+KW  - esthetic implant therapy
+KW  - oral implantology
+KW  - dental implantology
+KW  - diagnostic radiography
+KW  - osseous site management
+PY  - 2013
+AB  - Summary This chapter contains section titled: Medical Evaluation Study Cast Diagnostic Radiography Osseous Site Management Anatomical Considerations Peri-implant Soft Tissue Optimization Soft Tissue Biocharacterization and Influence Fabricating Optimal Surgical Guides Modern Provisionalization in Esthetic Implantology Establishing Esthetic Subgingival Profiles Orthodontic, Periodontic, and Endodontic Factors Decision Making in Esthetic Implantology Cases Diagnostic Checklist References
+ER  - 
+
+TY  - JOUR
+AU  - Messer, Jeannette S.
+AU  - Kegge, Samantha J.
+AU  - Cooper, Edward S.
+AU  - Colitz, Carmen M.H.
+AU  - Abramson, Carley J.
+TI  - Meningoencephalomyelitis Caused by Pasteurella multocida in a Cat
+JO  - Journal of Veterinary Internal Medicine
+VL  - 20
+IS  - 4
+SN  - 9780813814483
+UR  - https://doi.org/10.1111/j.1939-1676.2006.tb01825.x
+DO  - doi:10.1111/j.1939-1676.2006.tb01825.x
+SP  - 1033
+EP  - 1036
+PY  - 2006
+ER  - 

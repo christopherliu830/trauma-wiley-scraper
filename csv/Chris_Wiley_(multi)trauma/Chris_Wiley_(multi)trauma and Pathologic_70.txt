@@ -1,0 +1,428 @@
+
+TY  - JOUR
+AU  - Dasu, Mohan R. K.
+AU  - Herndon, David N.
+AU  - Spies, Marcus
+AU  - Perez-Polo, J. Regino
+TI  - Genomic analysis of insulin-like growth factor-I gene transfer in thermally injured rats
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.012114.x
+DO  - doi:10.1111/j.1067-1927.2004.012114.x
+SP  - 217
+EP  - 224
+PY  - 2004
+AB  - Thermal trauma causes tissue damage by membrane destabilization and energy depletion at the cellular level, resulting in tissue necrosis and inflammation leading to delayed cell death. One therapeutic approach is to block the immediate triggering of the inflammatory cascade that results in prolonged hypermetabolic responses and immune dysfunction while promoting the expression of growth factors. In the present study, we determined hepatic gene expression responses to insulin-like growth factors-i (IGF-I) gene transfer to burned rats using high-density DNA microarray assays. The expression of 123 out of ~8,800 genes assyed (1.4% of total) were significantly altered. Of these, 42 genes were altered irrespective of treatment by burn trauma (p < 0.05). Changes in gene expression were confirmed by measuring mRNA levels using reverse transcription-polymerase chain reaction and protein levels by Western blot assays. DNA microarray analyses showed two major mechanisms that mediated beneficial outcomes after IGF-I gene transfer in the burned rat livers. These mechanisms were the stimulation of IGF binding protein potentiation of peripheral IGF-I and the inhibition of the burn-augmented pro-apoptotic and oxidative mitochondrial metabolites stimulated by thermal trauma.
+ER  - 
+
+TY  - JOUR
+AU  - Kurdziel, Michael D.
+AU  - Moravek, James E.
+AU  - Wiater, Brett P.
+AU  - Davidson, Abigail
+AU  - Seta, Joseph
+AU  - Maerz, Tristan
+AU  - Baker, Kevin C.
+AU  - Wiater, J. Michael
+TI  - The impact of rotator cuff deficiency on structure, mechanical properties, and gene expression profiles of the long head of the biceps tendon (LHBT): Implications for management of the LHBT during primary shoulder arthroplasty
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+VL  - 33
+IS  - 8
+SN  - 0736-0266
+UR  - https://doi.org/10.1002/jor.22895
+DO  - doi:10.1002/jor.22895
+SP  - 1158
+EP  - 1164
+KW  - long head of the biceps tendon
+KW  - rotator cuff pathology
+KW  - tendon biomechanics
+KW  - target gene expression
+KW  - tendon histologic analysis
+PY  - 2015
+AB  - ABSTRACT The long head of the biceps tendon (LHBT) occupies a unique proximal intra-articular and distal extra-articular position within the human shoulder. In the presence of a rotator cuff (RC) tear, the LHBT is recruited into an accelerated role undergoing potential mechanical and biochemical degeneration. Intra-articular sections of the LHBT were harvested during primary shoulder arthroplasty from patients with an intact or deficient RC. LHBTs were stained (H&E, Alcian Blue) and subjected to histologic analysis using the semiquantitative Bonar scale and measurement of collagen orientation. LHBTs (n?=?12 per group) were also subjected to gene-expression analyses via an RT2-PCR Profiler Array quantifying 84 genes associated with cell-cell and cell-matrix interactions. LHBTs (n?=?18 per group) were biomechanically tested with both stress-relaxation and load-to-failure protocols and subsequently modeled with the Quasilinear Viscoelastic (QLV) and Structural-Based Elastic (SBE) models. While no histologic differences were observed, significant differences in mechanical testing, and viscoelastic modeling parameters were found. PCR arrays identified five genes that were differentially expressed between RC-intact and RC-deficient LHBT groups. LHBTs display signs of pathology regardless of RC status in the arthroplasty population, which may be secondary to both glenohumeral joint arthritis and the additional mechanical role of the LHBT in this population. ? 2015 Orthopaedic Research Society. Published by Wiley Periodicals, Inc. J Orthop Res 33:1158?1164, 2015.
+ER  - 
+
+AU  - Budoff, Matthew J.
+AU  - Taylor, Allen J.
+C7  - pp. 336-346
+TI  - Cardiac CT Imaging
+SN  - 9781405184632
+UR  - https://doi.org/10.1002/9781444303476.ch20
+DO  - doi:10.1002/9781444303476.ch20
+SP  - 336-346
+KW  - coronary artery calcified plaque (CACP)
+KW  - cardiac CT imaging
+KW  - coronary calcium scanning
+KW  - CT heart scanning and CACP scoring
+KW  - comparison with European Guidelines
+KW  - cardiac CT angiography – Scientific Statement 2006
+KW  - hybrid imaging with CT and nuclear imaging
+KW  - multi-ethnic study of atherosclerosis
+KW  - calcium scoring for risk-assessment of asymptomatic individual
+PY  - 2015
+AB  - Summary This chapter contains sections titled: Scientific Statement on Cardiac CT - 2006 [1] Coronary calcium scanning Coronary calcium scanning Comparison with European Guidelines Cardiac CT Angiography - Scientific Statement 2006 Hybrid imaging with CT and nuclear imaging 2008 Statement on noninvasive coronary artery imaging: MR angiography and multi-detector CT angiography [15] ACCF/AHA 2007 clinical competence statement on vascular imaging with computed tomography and magnetic resonance [16]
+ER  - 
+
+TY  - JOUR
+AU  - Sharp, Stacey
+AU  - Palmer, Michelle
+AU  - Dullaway, Simone L
+AU  - Fortnum, Kristy
+AU  - Jane, Michelle-Renee
+AU  - Kwiecien, Inger
+AU  - Vivanti, Angela
+AU  - McPhail, Steven M
+TI  - External validation of the Rapid Assessment Prioritisation and Referral Tool for multidisciplinary teams in medical assessment and planning units
+JO  - Emergency Medicine Australasia
+JA  - Emergency Medicine Australasia
+VL  - 30
+IS  - 6
+SN  - 9781405184632
+UR  - https://doi.org/10.1111/1742-6723.12988
+DO  - doi:10.1111/1742-6723.12988
+SP  - 785
+EP  - 793
+KW  - allied health
+KW  - assessment
+KW  - complexity
+KW  - multidisciplinary
+KW  - referral
+PY  - 2018
+AB  - Abstract Objective The Rapid Assessment Prioritisation and Referral Tool (RAPaRT) was developed for identifying appropriate referrals to allied members of the multidisciplinary team in hospital medical assessment and planning units (MAPUs). This study examined the performance of the RAPaRT for identifying appropriate referrals as well as predicting requirement for admission to hospital and length of stay. Methods A prospective cohort study was conducted. The RAPaRT, inclusive of seven mandatory items, was completed by nurses for 195 patients presenting to a hospital ED and assessed in a MAPU external to the instrument development site. Members of the multidisciplinary team (dietetics, occupational therapy, physiotherapy, social work and speech pathology) assessed participants to determine whether a referral to their profession was warranted and this was compared to RAPaRT responses. Results All health professionals reviewed n?=?175/195 (90%) participants, with n?=?117/195 (60%) considered appropriate for referral to an allied health professional. At least one positive response to the RAPaRT items was recorded for n?=?123 (63%) participants. Patterns of sensitivity and specificity for each item, and the instrument as a whole were consistent with the development study. The RAPaRT also predicted which patients required admission to an acute hospital ward (odds ratio?=?1.22; 95% CI 1.01, 1.47) and their length of stay in hospital (coefficient?=?0.18; 95% CI 0.14, 0.22). Conclusion Findings supported the external validation of the RAPaRT. In addition, this investigation made a novel contribution in demonstrating that positive RAPaRT responses were associated with requirement for admission to an acute hospital ward and length of stay.
+ER  - 
+
+TY  - JOUR
+AU  - Liu, Zhikun
+AU  - Guo, Haijun
+AU  - Gao, Feng
+AU  - Shan, Qiaonan
+AU  - Li, Jie
+AU  - Xie, Haiyang
+AU  - Zhou, Lin
+AU  - Xu, Xiao
+AU  - Zheng, Shusen
+C8  - HEPRES-16-0875.R1
+TI  - Fibrinogen and D-dimer levels elevate in advanced hepatocellular carcinoma: High pretreatment fibrinogen levels predict poor outcomes
+JO  - Hepatology Research
+JA  - Hepatol Res
+VL  - 47
+IS  - 11
+SN  - 9781405184632
+UR  - https://doi.org/10.1111/hepr.12848
+DO  - doi:10.1111/hepr.12848
+SP  - 1108
+EP  - 1117
+KW  - D-dimer
+KW  - fibrinogen
+KW  - HCC
+KW  - prognosis
+PY  - 2017
+AB  - Aim Plasma fibrinogen and D-dimer have been reported to predict survival in several types of malignancies. The aim of this study is to investigate their predictive value in patients with hepatocellular carcinoma (HCC). Methods We retrospectively analyzed plasma fibrinogen and D-dimer levels from 252 subjects: control (n?=?20), hepatitis (n?=?20), cirrhosis (n?=?20), and HCC (n?=?192) subjects. The clinical involvement and prognostic value of fibrinogen and D-dimer was analyzed in HCC subjects. To confirm the effects of tumor on hypercoagulability and fibrinolysis, fibrinogen and D-dimer levels were measured in nude mice following HCC inoculation. Results Fibrinogen decreased and D-dimer increased in cirrhosis subjects relative to other groups. In HCC subjects, elevated fibrinogen and D-dimer levels were significantly associated with adverse tumor features (increased size, stage, and grade) and systemic inflammation. Patients with HCC with either elevated fibrinogen or D-dimer levels had significantly higher 3-year tumor recurrence rates (65% vs. 41%, P?< 0.001 for fibrinogen; 67% vs. 40%, P?=?0.011 for D-dimer) and significantly lower 3-year overall survival rates (57% vs. 79%, P?< 0.001 for fibrinogen; 56% vs. 80%, P?=?0.001 for D-dimer). After multivariate analysis, elevated fibrinogen levels remained an independent predictor of poor prognosis in HCC patients. Finally, elevated levels of fibrinogen and D-dimer were confirmed in nude mice following tumor inoculation. Conclusion The fibrinogen and D-dimer levels, elevating after carcinogenesis, may serve as simple but effective predictors of adverse tumor profiles and outcomes in HCC.
+ER  - 
+
+TY  - JOUR
+AU  - Chandra, P.
+AU  - Velazquez, E.
+TI  - Differential Diagnosis of Bullous Skin Lesions in the Pediatric Population
+JO  - Journal of Cutaneous Pathology
+VL  - 32
+IS  - 1
+SN  - 9781405184632
+UR  - https://doi.org/10.1111/j.0303-6987.2005.320am.x
+DO  - doi:10.1111/j.0303-6987.2005.320am.x
+SP  - 80
+EP  - 80
+PY  - 2005
+AB  - We present a case of a male infant born to a 21 year-old mother without significant past medical history. Clinically, he presented with diffuse bullae and thickened patches of yellow to brown skin exhibiting Darier?s Sign. This condition affected the infant?s entire integument. There was also mild hepatosplenomegaly, detected radiologically. Blood tests and a bone marrow biopsy were normal. The differential diagnosis, clinically, included diffuse cutaneous mastocytosis, bullous genodermatosis, epidermolysis bullosa, epidermolytic hyperkeratosis, incontinentia pigmenti, and staphylococcal scalded skin syndrome. Histologically, there was a proliferation of mast cells within the papillary and reticular dermis, which exhibited positivity with Leder staining, thereby confirming the diagnosis of diffuse cutaneous mastocytosis. Mastocytosis is a condition characterized by mast cell hyperplasia in the bone marrow, liver, spleen, lymph nodes, gastrointestinal tract, and skin. Diffuse cutaneous matocytosis is a rare subset limited to the skin. It occurs in about two percent of cases of mastocytosis and usually affects children before the age of three. This case, although extremely rare, gives an excellent overview of the differential diagnosis of bullous lesions in the pediatric population.
+ER  - 
+
+TY  - JOUR
+AU  - Rao, Mala V.
+AU  - Campbell, Jabbar
+AU  - Palaniappan, Arti
+AU  - Kumar, Asok
+AU  - Nixon, Ralph A.
+TI  - Calpastatin inhibits motor neuron death and increases survival of hSOD1G93A mice
+JO  - Journal of Neurochemistry
+JA  - J. Neurochem.
+VL  - 137
+IS  - 2
+SN  - 9781405184632
+UR  - https://doi.org/10.1111/jnc.13536
+DO  - doi:10.1111/jnc.13536
+SP  - 253
+EP  - 265
+KW  - Calpain
+KW  - Caspase-3
+KW  - neurofilament
+KW  - oligomers
+KW  - Spectrin
+KW  - Transgenic mice
+PY  - 2016
+AB  - Abstract Amyotrophic lateral sclerosis (ALS) is a progressive motor neuron disease with a poorly understood cause and no effective treatment. Given that calpains mediate neurodegeneration in other pathological states and are abnormally activated in ALS, we investigated the possible ameliorative effects of inhibiting calpain over-activation in hSOD1G93A transgenic (Tg) mice in vivo by neuron-specific over-expression of calpastatin (CAST), the highly selective endogenous inhibitor of calpains. Our data indicate that over-expression of CAST in hSOD1G93A mice, which lowered calpain activation to levels comparable to wild-type mice, inhibited the abnormal breakdown of cytoskeletal proteins (spectrin, MAP2 and neurofilaments), and ameliorated motor axon loss. Disease onset in hSOD1G93A/CAST mice compared to littermate hSOD1G93A mice is delayed, which accounts for their longer time of survival. We also find that neuronal over-expression of CAST in hSOD1G93A transgenic mice inhibited production of putative neurotoxic caspase-cleaved tau and activation of Cdk5, which have been implicated in neurodegeneration in ALS models, and also reduced the formation of SOD1 oligomers. Our data indicate that inhibition of calpain with CAST is neuroprotective in an ALS mouse model. CAST (encoding calpastatin) inhibits hyperactivated calpain to prevent motor neuron disease operating through a cascade of events as indicated in the schematic, with relevance to amyotrophic lateral sclerosis (ALS). We propose that over-expression of CAST in motor neurons of hSOD1G93A mice inhibits activation of CDK5, breakdown of cytoskeletal proteins (NFs, MAP2 and Tau) and regulatory molecules (Cam Kinase IV, Calcineurin A), and disease-causing proteins (TDP-43, α-Synuclein and Huntingtin) to prevent neuronal loss and delay neurological deficits. In our experiments, CAST could also inhibit cleavage of Bid, Bax, AIF to prevent mitochondrial, ER and lysosome-mediated cell death mechanisms. Similarly, CAST over-expression in neurons attenuated pathological effects of TDP-43, α-synuclein and Huntingtin. These results suggest a potential value of specific small molecule inhibitors of calpains in delaying the development of ALS. Read the Editorial Highlight for this article on page 140.
+ER  - 
+
+TY  - JOUR
+AU  -             Van Klaveren, N. J.
+AU  - Grinwis, G. C. M.
+AU  - Brocks, B. A. W.
+AU  - Kirpensteijn, J.
+TI  - Collapse following gastrointestinal bleeding secondary to a congenital duodenal diverticulum in two littermate boxer pups
+JO  - Journal of Small Animal Practice
+VL  - 49
+IS  - 2
+SN  - 9781405184632
+UR  - https://doi.org/10.1111/j.1748-5827.2007.00438.x
+DO  - doi:10.1111/j.1748-5827.2007.00438.x
+SP  - 103
+EP  - 106
+PY  - 2008
+AB  - Two littermates, a young male and female boxer, were admitted to the Utrecht University?s Department of Clinical Sciences of Companion Animals within a three month period. Both dogs suffered from anaemia caused by chronic intestinal blood loss, vomiting and weight loss. In both cases, there was no response to conservative medical management. Eventually, the dogs suffered significant gastrointestinal haemorrhage that resulted in collapse. Gastroduodenoscopy and exploratory surgery showed a duodenal diverticulum in both dogs. This is the first report that describes this congenital anomaly in two siblings.
+ER  - 
+
+TY  - JOUR
+AU  - Tamura, S.
+AU  - Tamura, Y.
+AU  - Uchida, K.
+TI  - Magnetic resonance imaging findings of neuroaxonal dystrophy in a papillon puppy
+JO  - Journal of Small Animal Practice
+VL  - 48
+IS  - 8
+SN  - 9781405184632
+UR  - https://doi.org/10.1111/j.1748-5827.2006.00304.x
+DO  - doi:10.1111/j.1748-5827.2006.00304.x
+SP  - 458
+EP  - 461
+PY  - 2007
+AB  - A 3·5-month-old papillon puppy was brought to our clinic with chief complaints of progressive quadriparesis, ataxia and head tremor. Lesions in the cerebellum, brainstem and spinal cord were suspected on the basis of a neurological examination. No abnormality was found in a clinicopathological examination or on magnetic resonance imaging. On the basis of these results differential diagnoses including an inflammatory disease, a degenerative condition or a storage disorder were considered. Subsequently, the signs progressed and glossoplegia and dysphagia developed at six months of age. At a second magnetic resonance imaging, severe atrophy of the entire brain was found. After these examinations, the puppy was euthanased and histopathologically diagnosed with neuroaxonal dystrophy. Because magnetic resonance imaging detected abnormal features that were characteristic of neuroaxonal dystrophy in this case, we speculate that magnetic resonance imaging can assist in the pre-mortem diagnosis of this disease.
+ER  - 
+
+TY  - JOUR
+AU  - Qiu, Jingxin
+AU  - Hu, Xiaoming
+AU  - Nesic, Olivera
+AU  - Grafe, Marjorie R.
+AU  - Rassin, David K.
+AU  - Wood, Thomas G.
+AU  - Perez-Polo, J. Regino
+TI  - Effects of NF-κB oligonucleotide “Decoys” on gene expression in P7 rat hippocampus after hypoxia/ischemia
+JO  - Journal of Neuroscience Research
+JA  - J. Neurosci. Res.
+VL  - 77
+IS  - 1
+SN  - 9781405184632
+UR  - https://doi.org/10.1002/jnr.20156
+DO  - doi:10.1002/jnr.20156
+SP  - 108
+EP  - 118
+KW  - hypoxia/ischemia
+KW  - decoy
+KW  - NF-κB
+KW  - Bcl-xL, inflammation
+PY  - 2004
+AB  - Abstract ?Decoy? oligonucleotides can be used as gene-specific nuclear factor (NF-?B) inhibitors to regulate gene expression. We applied two different decoy oligonucleotides that contained the NF-?B binding consensus sequences present in the immunoglobulin G (IgG)-?B and Bcl-x promoter into 7-day-old (P7) rat lateral ventricles before hypoxia/ischemia (HI) and compared their effects on gene expression in hippocampi to saline-treated, scrambled decoy-treated, or untreated hippocampi exposed to HI. Left hippocampi were collected at 12 hr after HI. Electrophoretic mobility shift assays (EMSAs) showed that the two decoy treatments had different effects on NF-?B binding to the IgG-?B and Bcl-x promoter-specific consensus sequences, respectively. We assessed the decoys' effects on gene expression 12 hr after HI using ribonuclease protection assays (RPAs) and Affymetrix DNA microarrays. RPAs showed that both decoys significantly decreased interleukin (IL)-1α mRNA levels but had no impact on IL-1?, IL-6, and IL-10 mRNA levels. IgG-?B decoys significantly decreased tumor necrosis factor (TNF)-α and TNF-? mRNA levels compared to minimal changes after treatment with Bcl-x decoys. DNA microarray analyses showed that Bcl-x decoy treatment significantly decreased Bcl-xL mRNA levels. The decreased Bcl-xL mRNA levels after Bcl-x decoy treatment was confirmed by RPA analysis. DNA microarray data also indicated that several other genes were affected by both decoys. Our results suggest that different NF-?B decoy treatments could differentially regulate transcriptional responses to central nervous system trauma. Careful design of decoy sequences, however, is essential to acquire selective effects on cell death outcome. ? 2004 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+TI  - Book reviews
+JO  - Histopathology
+VL  - 12
+IS  - 5
+SN  - 9781405184632
+UR  - https://doi.org/10.1111/j.1365-2559.1988.tb01980.x
+DO  - doi:10.1111/j.1365-2559.1988.tb01980.x
+SP  - 563
+EP  - 565
+PY  - 1988
+AB  - Book reviews in this article Fetal and Neonatal Pathology Edited by Jean W. Keeling Subcellular Pathology of Systemic Diseases Edited by T. J. Peters Cancer Biology 2nd edition. R. W. Ruddon Pathology Annual Edited by P. P. Rosen & R. E. Fechner
+ER  - 
+
+TY  - JOUR
+AU  - Pannu, Ravinder
+AU  - Barbosa, Ernest
+AU  - Singh, Avtar K.
+AU  - Singh, Inderjit
+TI  - Attenuation of acute inflammatory response by atorvastatin after spinal cord injury in rats
+JO  - Journal of Neuroscience Research
+JA  - J. Neurosci. Res.
+VL  - 79
+IS  - 3
+SN  - 9781405184632
+UR  - https://doi.org/10.1002/jnr.20345
+DO  - doi:10.1002/jnr.20345
+SP  - 340
+EP  - 350
+KW  - atorvastatin
+KW  - SCI
+KW  - inflammation
+PY  - 2005
+AB  - Abstract Spinal cord injury (SCI) is a devastating and complex clinical condition involving proinflammatory cytokines and nitric oxide toxicity that produces a predictable pattern of progressive injury entailing neuronal loss, axonal destruction, and demyelination at the site of impact. The involvement of proinflammatory cytokines and inducible nitric oxide synthase (iNOS) in exacerbation of SCI pathology is well documented. We have reported previously the antiinflammatory properties and immunomodulatory activities of statins (3-hydroxy-3-methylglutaryl [HMG]-CoA reductase inhibitors) in the animal model of multiple sclerosis, experimental allergic encephalitis (EAE). The present study was undertaken to investigate the efficacy of atorvastatin (Lipitor; LP) treatment in attenuating SCI-induced pathology. Immunohistochemical detection and real-time PCR analysis showed increased expression of iNOS, tumor necrosis factor α (TNFα) and interleukin 1? (IL-1?) after SCI. In addition, neuronal apoptosis was detected 24 hr after injury followed by a profound increase in ED1-positive inflammatory infiltrates, glial fibrillary acidic protein (GFAP)-positive reactive astrocytes, and oligodendrocyte apoptosis by 1 week after SCI relative to control. LP treatment attenuated the SCI-induced iNOS, TNFα, and IL-1? expression. LP also provided protection against SCI-induced tissue necrosis, neuronal and oligodendrocyte apoptosis, demyelination, and reactive gliosis. Furthermore, rats treated with LP scored much higher on the locomotor rating scale after SCI (19.13 ± 0.53) than did untreated rats (9.04 ± 1.22). This study therefore reports the beneficial effect of atorvastatin for the treatment of SCI-related pathology and disability. ? 2004 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Khoury, Thaer
+AU  - Wallace, Paul
+AU  - Sait, Sheila
+AU  - Richard
+AU  - Cheney, T.
+TI  - Nodular Clear Cell Hidradenoma: A Case Report with Immunohistochemistry, Cytogenetics and Flow Cytometry
+JO  - Journal of Cutaneous Pathology
+VL  - 32
+IS  - 1
+SN  - 9781405184632
+UR  - https://doi.org/10.1111/j.0303-6987.2005.320do.x
+DO  - doi:10.1111/j.0303-6987.2005.320do.x
+SP  - 97
+EP  - 97
+PY  - 2005
+AB  - Background: Nodular Hidradenoma (NH) is an uncommon neoplasm with controversial cell origin (myoepithelial, eccrine and more recently apocrine), and few cytogenetic and DNA flow Cytometry data. Material and Methods: We report a case of NH on the left ankle of a 77 year-old man. The tumor was located subcutaneously and measured 2.5???2.0?cm, with no throbbing, tenderness, edema, or groin lymphadenopathy. A wide local excision was performed. Immunohistochemistry using monoclonal antibodies to Smooth Muscle Actin (SMA), S-100 protein, p63 and Calponin were examined. A fresh central portion of the tumor was examined for karyotyping and DNA flow cytometry. Six months later the patient was healthy without local recurrence. Results: The tumor was positive for SMA, Calponin and p63 with focal staining for S-100. The karyotype showed four aberrant, unrelated clones, t(1;8)(p22;p23), del(11)(q14q23), t(1;10)(p13;q22) and del (6)(q23q26). DNA flow cytometry and cell cycle analysis showed that the tumor is 100% diploid with 6.55% S-phase. Conclusions: Expression of SMA, p63, Calponin, and S-100, which are myoepithelial markers, support a myoepithelial origin of this tumor. The multiclonal pattern observed in this neoplasm seems to reflect cytogenetic divergence during neoplastic progression. DNA diploidy with a low S-phase predicts a benign clinical course.
+ER  - 
+
+TY  - JOUR
+AU  - Chow, Louis T.C.
+TI  - Fibular giant cell-rich osteosarcoma virtually indistinguishable radiographically and histopathologically from giant cell tumor—analysis of subtle differentiating features
+JO  - APMIS
+JA  - APMIS
+VL  - 123
+IS  - 6
+SN  - 9781405184632
+UR  - https://doi.org/10.1111/apm.12382
+DO  - doi:10.1111/apm.12382
+SP  - 530
+EP  - 539
+KW  - Giant cell tumor
+KW  - osteosarcoma
+KW  - giant cell-rich osteosarcoma
+KW  - fibula
+KW  - metaphysis
+KW  - skeletal immature bone
+PY  - 2015
+AB  - Giant cell-rich osteosarcoma by its abundance of osteoclastic giant cells and paucity of tumor osteoid, leads to its easy confusion with giant cell tumor during biopsy interpretation. In this report, we describe a unique case of upper fibular metaphyseal giant cell-rich osteosarcoma in a 12-year-old boy; the radiographic and histopathologic features of the biopsy and initial resected tumor are virtually indistinguishable from conventional giant cell tumor. The tumor rapidly recurred 7 months after resection with metastasis to the groin lymph nodes, was resistant to first-line chemotherapy and pursued an aggressive course, developing disseminated metastasis to the lung, liver, pelvis, scapula and clavicle, and resulted in the death of the patient 21 months after initial presentation. The subtle features alerting one to the possibility of giant cell-rich osteosarcoma are retrospectively evaluated in comparison with cases of metaphyseal conventional giant cell tumors, four from our records and those from literature review. We conclude that the occurrence of a giant cell-rich lesion in the metaphysis of a skeletally immature individual merits careful assessment for the presence of periosteal reaction, permeative infiltrative margins, lacelike osteoid formation, high mitotic activity or Ki67 proliferative index, and extra-tumoral lymphovascular permeation, since the possibility of an aggressive lesion notably giant cell-rich osteosarcoma probably increases with the number of such features.
+ER  - 
+
+TY  - JOUR
+AU  - Nofal, Ahmad
+AU  - Assaf, Magda
+AU  - Nassar, Amani
+AU  - Nofal, Eman
+AU  - Shehab, Marwa
+AU  - El-Kabany, Moustafa
+TI  - Nonmutilating palmoplantar and periorificial kertoderma: a variant of Olmsted syndrome or a distinct entity?
+JO  - International Journal of Dermatology
+VL  - 49
+IS  - 6
+SN  - 9781405184632
+UR  - https://doi.org/10.1111/j.1365-4632.2009.04429.x
+DO  - doi:10.1111/j.1365-4632.2009.04429.x
+SP  - 658
+EP  - 665
+PY  - 2010
+AB  - Abstract Background? Olmsted syndrome is a rare keratinization disorder characterized by mutilating palmoplantar and periorificial keratoderma as the two major diagnostic features. Some authors believe that atypical cases without this standard combination may not really belong to Olmsted syndrome. Herein, we describe two familial cases with congenital nonmutilating palmoplantar and periorificial keratoderma, and discuss their similarities and differences with Olmsted syndrome. Patients? The study included two sisters who presented with focal and punctate nonmutilating palmoplantar keratoderma (PPK), periorificial hyperkeratotic plaques, and widely distributed keratotic lesions. Fragile denuded areas of the skin were found in sites exposed to trauma. Fingernails showed a characteristic form of leukonychia. Results? Histopathology of plantar keratoderma showed psoriasiform hyperplasia with marked compact hyperkeratosis, while vicinity of denuded skin revealed thin parakeratotic zone and dissolution of the granular cell layer. Immunohistochemistry demonstrated suprabasal staining pattern for acidic keratin (AE1) and uniform positivity, starting four to six layers above the basal layer, for cytokeratin 10. Electron microscopy showed defective keratinization. Cytogenetic studies revealed normal karyotype and no chromosomal breakage. Conclusion? Our cases share Olmsted syndrome in the early onset, and the presence of symmetrical PPK, periorificial keratoderma and keratotic lesions. However, the striking nonmutilating nature of PPK and the presence of unique features in our patients suggest a newly described keratinization disorder.
+ER  - 
+
+TY  - JOUR
+AU  - Dhar, Puneet
+AU  - Tomey, Sudhir
+AU  - Jain, Pradeep
+AU  - Azfar, Mohammed
+AU  - Sachdev, Ajay
+AU  - Chaudhary, Adarsh
+TI  - INTERNAL PANCREATIC FISTULAE WITH SEROUS EFFUSIONS IN CHRONIC PANCREATITIS
+JO  - Australian and New Zealand Journal of Surgery
+VL  - 66
+IS  - 9
+SN  - 9781405184632
+UR  - https://doi.org/10.1111/j.1445-2197.1996.tb00830.x
+DO  - doi:10.1111/j.1445-2197.1996.tb00830.x
+SP  - 608
+EP  - 611
+KW  - ascites
+KW  - chronic pancreatitis
+KW  - pancreatography
+KW  - pleural effusion
+KW  - surgery.
+PY  - 1996
+AB  - Background: Serous effusions in chronic pancreatitis are infrequent but persistent. These occur usually as a consequence of internal pancreatic fistulae and commonly involve the pleural cavity or peritoneum. Methods: To assess strategies in operative management, the records of 12 patients who underwent surgery for internal pancreatic fistula with underlying chronic pancreatitis were reviewed retrospectively. Seven patients had pancreatic ductal calculi. Three cases underwent external drainage. Three cases with leaking pseudocysts underwent cystojejunostomy-en-Y. Three cases with ductal dilatation or calculi underwent lateral pancreaticojejunostomy and three patients had caudal pancreatectomy for distal disease. Results: Eight patients were completely controlled of all symptoms, with no sequelae. One case each had recurrent pancreatitis and ascites but did not require re-operation. There were two deaths: one with massive haematemesis and one with pre-existent multi-organ failure and sepsis. Conclusions: Pancreatic duct stones may be causally associated with internal pancreatic fistulae. Delineation of ductal anatomy and pathological aberrations of the pancreas, including determination of the leak site, was of paramount importance in planning surgery. Peroperative ductography proved the most useful in this regard.
+ER  - 
+
+TY  - JOUR
+AU  - Garcia, Fernanda Cristina P.
+AU  - Poubel, Déborah L. N.
+AU  - Almeida, Júlio César F.
+AU  - Toledo, Isabela P.
+AU  - Poi, Wilson R.
+AU  - Guerra, Eliete N. S.
+AU  - Rezende, Liliana V. M. L.
+TI  - Tooth fragment reattachment techniques—A systematic review
+JO  - Dental Traumatology
+JA  - Dent Traumatol
+VL  - 34
+IS  - 3
+SN  - 9781405184632
+UR  - https://doi.org/10.1111/edt.12392
+DO  - doi:10.1111/edt.12392
+SP  - 135
+EP  - 143
+KW  - crown fracture
+KW  - dental trauma
+KW  - treatment
+PY  - 2018
+AB  - Abstract Background/Aim Several strategies have been developed for tooth fragment reattachment following fracture. Although many techniques have been reported, there is no consensus on which one has the best results in terms of the bond strength between the fragment and the dentin over time. The aim of this study was to assess the currently reported tooth fragment reattachment techniques for fractured crowns of anterior teeth. Materials and Methods The PubMed, LILACS, Web of Science, Cochrane, and Scopus databases were searched in October 2016, and the search was updated in February 2017. A search of the gray literature was performed in Google Scholar and OpenGrey. Reference lists of eligible studies were cross-checked to identify additional studies; gray literature and ongoing trials were investigated. Two authors assessed studies to determine inclusion and undertook data extraction. Case reports/series of three or more cases, cross-sectional studies, cohort studies, and in vivo clinical trials in all languages were included. Results Five articles remained after screening. These studies predominantly reported on fragment reattachment with composite resin and resin cement. There was little consistency among the studies in regard to the technique used for tooth fragment reattachment and length of the follow-up period. Conclusions According to the evidence found in the studies included in this review, simple tooth fragment reattachment was the preferred reattachment technique. An increase in the bond strength between tooth fragment and dentin was observed when an intermediate material was used. Further investigation is needed, using standard follow-up periods and larger samples.
+ER  - 
+
+TY  - JOUR
+AU  - Cohen, J.
+AU  - Gill, M.
+AU  - Renwick, N.
+AU  - Silvers, D. N.
+AU  - Celebi, J. T.
+TI  - BRAF V599E Mutation is Not Age Dependent: It is Present in Common Melanocytic Nevi in Both Children and Adults
+JO  - Journal of Cutaneous Pathology
+VL  - 32
+IS  - 1
+SN  - 9781405184632
+UR  - https://doi.org/10.1111/j.0303-6987.2005.320ax.x
+DO  - doi:10.1111/j.0303-6987.2005.320ax.x
+SP  - 82
+EP  - 82
+PY  - 2005
+AB  - BRAF encodes a serine-threonine kinase, which acts in the RAS/RAF/MAPK pathway transducing regulatory signals from RAS to MEK1/2. Somatic mutations in BRAF have been identified in 53?80% of primary melanomas and 70?90% of common melanocytic nevi. More than 90% of these mutations consist of a valine to glutamate substitution at codon 599 (V599E) of exon 15. While a high prevalence of BRAF mutations in common melanocytic nevi has been reported in adults, nevi in children have not been studied. Of interest, we have previously shown that Spitz nevi in children do not harbor mutations in BRAF. To investigate the association of BRAF mutations with patient age, we studied common melanocytic nevi in children for the V599E activating mutation. Tumor cells were microdissected from 6 common melanocytic nevi in children 10 years of age or younger, and analyzed for the V599E mutation in BRAF by allele-specific PCR and gel electrophoresis. In 6 of 6 (100%) nevi, the V599E mutant allele was observed. Our data suggest that similar genetic pathways are involved in the development of common melanocytic nevi in children and adults. The absence of BRAF mutations in Spitz nevi in children is therefore associated with tumor type, not patient age.
+ER  - 
+
+TY  - JOUR
+AU  - Kortegaard, H. E.
+AU  - Eriksen, T.
+AU  - Baelum, V.
+TI  - Periodontal disease in research beagle dogs – an epidemiological study
+JO  - Journal of Small Animal Practice
+VL  - 49
+IS  - 12
+SN  - 9781405184632
+UR  - https://doi.org/10.1111/j.1748-5827.2008.00609.x
+DO  - doi:10.1111/j.1748-5827.2008.00609.x
+SP  - 610
+EP  - 616
+PY  - 2008
+AB  - Objectives: To estimate the prevalence and describe the extent and severity of periodontal disease and associated periodontal parameters in beagle dogs. Methods: A full-mouth, site-specific examination was performed in 98 beagle dogs. Focus was placed on clinical attachment loss, pocket depth and bleeding on probing. Results: The prevalence of clinical attachment loss greater than equal to 1 mm was 20 per cent in the one-year-old dogs, increasing to 84 per cent of the dogs aged more than three years. The number of sites affected with clinical attachment loss greater than equal to 1 mm showed a skewed distribution. The prevalence of clinical attachment loss greater than equal to 4 mm was only seven per cent. A probing pocket depth of 4+ mm was observed in 44 to 81 per cent of the dogs, depending on age. Also, the distribution of the number of deepened pockets/dog was skewed. The teeth most prone to clinical attachment loss greater than equal to 1 mm were the P2, the P3 and the P4 of the maxilla. The teeth most prone to pocket depth greater than equal to 4 mm were the maxillary canines. Clinical Significance: Periodontal disease in terms of clinical attachment loss greater than equal to 1 mm and pocket depth greater than equal to 4 mm is common in beagle dogs, but the major disease burden is carried by only a few dogs. The prevalence increases with increased age but is high already at the age of two years.
+ER  - 
+
+TY  - JOUR
+AU  - Deng, April
+AU  - Sina, Bahram
+AU  - Strobel, David
+AU  - Gaspari, Anthony
+TI  - Anti-TNF-Alpha Antibody Induced Interstitial Granulomatous Dermatitis
+JO  - Journal of Cutaneous Pathology
+VL  - 32
+IS  - 1
+SN  - 9781405184632
+UR  - https://doi.org/10.1111/j.0303-6987.2005.320bg.x
+DO  - doi:10.1111/j.0303-6987.2005.320bg.x
+SP  - 84
+EP  - 84
+PY  - 2005
+AB  - With the advance of our knowledge and understanding of the molecular basis of the immune system and inflammatory process, biological modulators, such as anti-TNF-alpha antibodies, are increasingly used in the treatment of immune disorders and hematogenous neoplasm. Side effects of those biological modulators, such as leukocytoclastic vasculitis, lichenoid drug reaction, acute folliculitis, and superficial granuloma annulare, have been reported. Recently, we encountered two patients who developed interstitial granulomatous drug reaction while receiving anti-TNF-alpha antibodies. The patients, a 48 year-old male and a 54 year-old female, both have severe rheumatoid arthritis and responded poorly to conventional therapies, received Remicade (Infliximab). Pruritic erythematous skin eruptions developed on the trunk and extremities one month after starting the therapy. The lesions are multiple irritated papules and plaques; some are targetoid, measuring several centimeters, with raised borders. Skin biopsies showed an interstitial granulomatous infiltrate in the mid- and deep dermis. The infiltrate is composed of lymphocytes, histiocytes, multinucleated giant cells, and eosinophils, palisade around degenerating collagen. Pathological diagnosis was drug-induced interstitial granulomatous dermatitis. Discontinuation of Remicade led to resolution of the skin lesions in both patients. To our knowledge, this is the first report of such a drug eruption caused by anti-TNF-alpha antibodies.
+ER  - 

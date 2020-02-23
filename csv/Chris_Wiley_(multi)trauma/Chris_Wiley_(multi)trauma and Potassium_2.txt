@@ -1,0 +1,552 @@
+
+TY  - JOUR
+AU  - Mehdizadeh, Mehdi
+AU  - Slimany, Mansoureh
+AU  - Pasouki, Hammid
+AU  - Joghataei, Mohammad Taghi
+TI  - P4–164: Neuroprotective role of ATP dependent potassium channel regulators following ischemia–reperfusion in parietal cerebral cortex of rat
+JO  - Alzheimer's & Dementia
+JA  - Alzheimer's & Dementia
+VL  - 2
+IS  - 3S_Part_18
+SN  - 1552-5260
+UR  - https://doi.org/10.1016/j.jalz.2006.05.1903
+DO  - doi:10.1016/j.jalz.2006.05.1903
+SP  - S564
+EP  - S564
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+AU  - Singla, Neil
+AU  - Rock, Amy
+AU  - Pavliv, Leo
+TI  - A Multi-Center, Randomized, Double-Blind Placebo-Controlled Trial of Intravenous-Ibuprofen (IV-Ibuprofen) for Treatment of Pain in Post-Operative Orthopedic Adult Patients
+JO  - Pain Medicine
+VL  - 11
+IS  - 8
+SN  - 1526-2375
+UR  - https://doi.org/10.1111/j.1526-4637.2010.00896.x
+DO  - doi:10.1111/j.1526-4637.2010.00896.x
+SP  - 1284
+EP  - 1293
+KW  - Ibuprofen
+KW  - Pain
+KW  - Analgesic
+KW  - NSAID
+KW  - Opioid
+KW  - Post-Operative
+PY  - 2010
+AB  - Abstract Objective.? To determine whether pre- and post-operative administration of intravenous ibuprofen (IV-ibuprofen) can significantly decrease pain and morphine use when compared with placebo in adult orthopedic surgical patients. Design.? This was a multi-center, randomized, double-blind placebo-controlled trial. Setting.? This study was completed at eight hospitals; six in the United States and two in South Africa. Patients.? A total of 185 adult patients undergoing elective orthopedic surgery. Interventions.? Patients were randomized to receive either 800?mg IV-ibuprofen or placebo every 6 hours, with the first dose administered pre-operatively. Additionally, all patients had access to intravenous morphine for rescue. Outcome Measures.? Efficacy of IV-ibuprofen was demonstrated by measuring the patient's self assessment of pain using a visual analog scale (VAS; assessed with movement and at rest) and a verbal response scale (VRS). Morphine consumption during the post-operative period was also assessed. Results.? In the immediate post-operative period, there was a 25.8% reduction in mean area under the curve-VAS assessed with movement (AUC-VASM) in patients receiving IV-ibuprofen (P?<?0.001); a 31.8% reduction in mean AUC-VAS assessed at rest (AUC-VASR; P?<?0.001) and a 20.2% reduction in mean VRS (P?<?0.001) compared to those receiving placebo. Patients receiving IV-ibuprofen used 30.9% less morphine (P?<?0.001) compared to those receiving placebo. Similar treatment emergent adverse events occurred in both study groups and there were no significant differences in the incidence of serious adverse events. Conclusion.? Pre- and post-operative administration of IV-ibuprofen significantly reduced both pain and morphine use in orthopedic surgery patients in this prospective randomized placebo-controlled trial.
+ER  - 
+
+TY  - JOUR
+AU  - Beltran, E.
+AU  - Platt, S.R.
+AU  - McConnell, J.F.
+AU  - Dennis, R.
+AU  - Keys, D.A.
+AU  - De Risio, L.
+TI  - Prognostic Value of Early Magnetic Resonance Imaging in Dogs after Traumatic Brain Injury: 50 Cases
+JO  - Journal of Veterinary Internal Medicine
+JA  - J Vet Intern Med
+VL  - 28
+IS  - 4
+SN  - 0891-6640
+UR  - https://doi.org/10.1111/jvim.12368
+DO  - doi:10.1111/jvim.12368
+SP  - 1256
+EP  - 1262
+KW  - Dogs
+KW  - MRI
+KW  - Prognostic
+KW  - Traumatic brain injury
+PY  - 2014
+AB  - Background The prognostic value of early magnetic resonance imaging (MRI) in dogs after traumatic brain injury (TBI) remains unclear. Objectives Determine whether MRI findings are associated with prognosis after TBI in dogs. Animals Fifty client-owned dogs. Methods Retrospective study of dogs with TBI that underwent 1.5T MRI within 14 days after head trauma. MRI evaluators were blinded to the clinical presentation, and all images were scored based on an MRI grading system (Grade I [normal brain parenchyma] to Grade VI [bilateral lesions affecting the brainstem with or without any lesions of lesser grade]). Skull fractures, percentage of intraparenchymal lesions, degree of midline shift, and type of brain herniation were evaluated. MGCS was assessed at presentation. The presence of seizures was recorded. Outcome was assessed at 48 h (alive or dead) and at 3, 6, 12, and 24 months after TBI. Results Sixty-six percent of the dogs had abnormal MRI findings. MRI grade was negatively correlated (P < .001) with MGCS. A significant negative correlation of MRI grade, degree of midline shift, and percentage of intraparenchymal lesions with follow-up scores was identified. The MGCS was lower in dogs with brain herniation (P = .0191). Follow-up scores were significantly lower in dogs that had brain herniation or skull fractures. The possibility of having seizures was associated with higher percentage of intraparenchymal lesions (P = 0.0054) and 10% developed PTE. Conclusions and Clinical Importance Significant associations exist between MRI findings and prognosis in dogs with TBI. MRI can help to predict prognosis in dogs with TBI.
+ER  - 
+
+TY  - JOUR
+AU  - Lehto, Lauri Juhani
+AU  - Sierra, Alejandra
+AU  - Gröhn, Olli
+C7  - e3678
+C8  - NBM-16-0152.R1
+TI  - Magnetization transfer SWIFT MRI consistently detects histologically verified myelin loss in the thalamocortical pathway after a traumatic brain injury in rat
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 30
+IS  - 2
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.3678
+DO  - doi:10.1002/nbm.3678
+SP  - e3678
+KW  - magnetization transfer
+KW  - myelin
+KW  - sweep imaging with Fourier transformation
+KW  - traumatic brain injury
+PY  - 2017
+AB  - Traumatic brain injury (TBI) is associated with various neurocognitive deficits, and rapid assessment of the damage is potentially important for the prevention and treatment of these deficits. Imaging assessment of mild or moderate damage outside the primary lesion area after TBI, however, remains challenging. Magnetization transfer (MT) has clearly been underutilized in imaging the damage caused by TBI. Here, we applied the MT ratio (MTR) using sweep imaging with Fourier transformation (SWIFT) to study microstructural tissue damage in the thalamocortical pathway outside the primary lesion in a lateral fluid percussion injury rat model of TBI, 5 months after injury. MTR was decreased in layers VIb-IV of the barrel cortex and related subcortical areas, mainly indicating demyelination, which was verified by histology. The largest MTR change in the cortex was in layer VIb (?8.2%, pFDR = 0.01), and the largest MTR change in the subcortical areas was in the caudal-most portion of the internal capsule (?11.0%, pFDR < 0.005). These areas exhibited the greatest demyelination and substantial cellularity attributed to gliosis. Correlation analysis of group-averaged results from the subcortical areas revealed an excellent correlation of MTR with myelin (r2 = 0.94, p < 0.001), but no correlation with increased cellularity as detected by Nissl staining. Thus, MTR using SWIFT can be a valuable tool for the assessment of subtle changes after TBI in both cortical and subcortical areas.
+ER  - 
+
+TY  - JOUR
+AU  - Crowe Jr., Dennis T. (Tim)
+TI  - Assessment and management of the severely polytraumatized small animal patient
+JO  - Journal of Veterinary Emergency and Critical Care
+VL  - 16
+IS  - 4
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/j.1476-4431.2006.00187.x
+DO  - doi:10.1111/j.1476-4431.2006.00187.x
+SP  - 264
+EP  - 275
+KW  - hemorrhage control
+KW  - primary survey
+KW  - trauma resuscitation
+KW  - trauma surgery
+PY  - 2006
+AB  - Abstract Objective: To review the current recommendations for the care of the seriously injured polytraumatized small animal patient, including team organization and facility readiness; scene assessment and care; transport; and hospital assessment and care. Data sources: Original research articles, scientific reviews, book chapters, and clinical experience. Human data synthesis: The care of the seriously injured patient is demanding and requires adequate preparation, rapid access to organized resources and equipment, and skilled personnel. Second in urgency only to stabilization of the airway and breathing is shock. In many, surgical intervention to provide improved and continued stability is required. Evidence is provided by data published comparing survival for humans with high injury scores being cared for at level I trauma centers compared with small rural hospitals. Personal experience as a member of an emergency medical team in the care of multiple injured human patients in both level I trauma centers and small hospitals is also used in this review. Veterinary data synthesis: Publications reporting large clinical series of seriously injured dogs and cats are minimal. Experimental animal models of shock caused by blood loss and the study of various organ injuries and their management are numerous. These and 35 years of the author's experience in managing severely injured dogs and cats (estimated to be >750) is also used in this review for generation of guidelines. Conclusions: Guidelines for care of severe multiple injury patients are presented and are recommended to be used in clinical veterinary medical practice to improve outcome.
+ER  - 
+
+TY  - JOUR
+AU  - Lynch, A.M.
+AU  - Respess, M.
+AU  - Boll, A.E.
+AU  - Bozych, M.
+AU  - McMichael, M.
+AU  - Fletcher, D.J.
+AU  - De Laforcade, A.M.
+AU  - Rozanski, E.A.
+TI  - Hospital-acquired Anemia in Critically Ill Dogs and Cats: A Multi-Institutional Study
+JO  - Journal of Veterinary Internal Medicine
+JA  - J Vet Intern Med
+VL  - 30
+IS  - 1
+SN  - 0891-6640
+UR  - https://doi.org/10.1111/jvim.13650
+DO  - doi:10.1111/jvim.13650
+SP  - 141
+EP  - 146
+KW  - Canine
+KW  - Clinical pathology
+KW  - Feline
+KW  - Hematology
+KW  - Intensive care
+KW  - Transfusion medicine
+PY  - 2016
+AB  - Background Hospital-acquired anemia is commonly described in people but limited information currently is available regarding its prevalence in animals. Hypothesis/objectives Assess the prevalence of hospital-acquired anemia in hospitalized critically ill dogs and cats, and examine its relationship with phlebotomy practices, transfusion administration, and survival to discharge. Animals Eight hundred and fifty-one client-owned animals (688 dogs and 163 cats). Methods A multicenter, observational study was conducted in which packed cell volume (PCV) was recorded at the time of admission and on subsequent hospitalization days. Signalment, number of blood samples obtained, underlying disease, whether or not blood products were administered, duration of hospitalization, and survival to discharge were recorded. Results Admission anemia prevalence was 32%, with overall prevalence during the hospitalization period of 56%. The last recorded PCV was significantly lower than the admission PCV for both dogs (admission PCV, 42% [range, 6?67%]; last recorded PCV, 34% [range, 4?64%], P < .0001) and cats (admission PCV, 31% [range, 6?55%]; last recorded PCV, 26% [range, 10?46%], P < .0001). Patients that developed anemia had significantly more blood samples obtained (nonanemic, 5 blood samples [range, 2?54]; anemic, 7 blood samples [range, 2?49], P < .0001). Hospitalized cats were significantly more likely to develop anemia compared to dogs (P < .0001), but anemic dogs were significantly less likely to survive to discharge (P = .0001). Surgical patients were at higher risk of developing hospital-acquired anemia compared to medical patients (OR, 0.63; 95% CI, 0.4?0.9; P = .01). Conclusions and Clinical Relevance Hospital-acquired anemia occurred frequently, especially in surgical patients. Additional studies focused on the direct effect of phlebotomy practices on the likelihood of anemia development in hospitalized animals are warranted.
+ER  - 
+
+TY  - JOUR
+AU  - Sebastiani, Anne
+AU  - Greve, Frederik
+AU  - Gölz, Christina
+AU  - Förster, Carola Y.
+AU  - Koepsell, Hermann
+AU  - Thal, Serge C.
+TI  - RS1 (Rsc1A1) deficiency limits cerebral SGLT1 expression and delays brain damage after experimental traumatic brain injury
+JO  - Journal of Neurochemistry
+JA  - J. Neurochem.
+VL  - 147
+IS  - 2
+SN  - 0022-3042
+UR  - https://doi.org/10.1111/jnc.14551
+DO  - doi:10.1111/jnc.14551
+SP  - 190
+EP  - 203
+KW  - controlled cortical impact
+KW  - Na+-D-glucose cotransporter
+KW  - RS1
+KW  - Rsc1A1
+KW  - SGLT1
+KW  - traumatic brain injury
+PY  - 2018
+AB  - Abstract Acute cerebral lesions are associated with dysregulation of brain glucose homeostasis. Previous studies showed that knockdown of Na+-D-glucose cotransporter SGLT1 impaired outcome after middle cerebral artery occlusion and that widely expressed intracellular RS1 (RSC1A1) is involved in transcriptional and post-translational down-regulation of SGLT1. In the present study, we investigated whether SGLT1 is up-regulated during traumatic brain injury (TBI) and whether removal of RS1 in mice (RS1-KO) influences SGLT1 expression and outcome. Unexpectedly, brain SGLT1 mRNA in RS1-KO was similar to wild-type whereas it was increased in small intestine and decreased in kidney. One day after TBI, SGLT1 mRNA in the ipsilateral cortex was increased 160% in wild-type and 40% in RS1-KO. After RS1 removal lesion volume 1 day after TBI was reduced by 12%, brain edema was reduced by 28%, and motoric disability determined by a beam walking test was improved. In contrast, RS1 removal did neither influence glucose and glycogen accumulation 1 day after TBI nor up-regulation of inflammatory cytokines TNF-α, IL-1? and IL-6 or microglia activation 1 or 5 days after TBI. The data provide proof of principle that inhibition or down-regulation of SGLT1 by targeting RS1 in brain could be beneficial for early treatment of TBI.
+ER  - 
+
+AU  - McGuire, Dawn
+C7  - pp. 591-618
+TI  - Traumatic Brain Injury and Neurodegenerative Disease
+SN  - 9781118771778
+UR  - https://doi.org/10.1002/9781118772034.ch26
+DO  - doi:10.1002/9781118772034.ch26
+SP  - 591-618
+KW  - chronic traumatic encephalopathy
+KW  - Institute of Medicine
+KW  - neurodegenerative disease
+KW  - professional contact sports
+KW  - traumatic brain injury
+PY  - 2018
+AB  - Summary Moderate or severe traumatic brain injury (TBI) is a risk factor for several diseases of the aging brain, including Alzheimer's disease (AD), Parkinson's disease (PD) and amyotrophic lateral sclerosis (ALS). While advancing age is the primary risk factor for several neurodegenerative diseases, onset and progression can be strongly influenced by genetics, comorbid conditions, and environmental exposures. Cumulative subconcussive blows, such as those sustained in amateur or professional contact sports, may be a risk factor for cognitive impairment or chronic traumatic encephalopathy (CTE). Despite gaps in knowledge, the Committee on Long Term Consequences of Traumatic Brain Injury of the Institute of Medicine (IOM) concluded, after an exhaustive review of hundreds of studies, that there was sufficient evidence to support an association between severe TBI and dementia, and a ?suggestive? association between moderate TBI and dementia.
+ER  - 
+
+TY  - JOUR
+AU  - Seago, Meghan
+AU  - Shumaker, Peter R.
+AU  - Spring, Leah K.
+AU  - Alam, Murad
+AU  - Al-Niaimi, Firas
+AU  - Rox Anderson, R.
+AU  - Artzi, Ofir
+AU  - Bayat, Ardeshir
+AU  - Cassuto, Daniel
+AU  - Chan, Henry HL
+AU  - Dierickx, Christine
+AU  - Donelan, Matthias
+AU  - Gauglitz, Gerd G.
+AU  - Leo Goo, Boncheol
+AU  - Goodman, Greg J.
+AU  - Gurtner, Geoffrey
+AU  - Haedersdal, Merete
+AU  - Krakowski, Andrew C.
+AU  - Manuskiatti, Woraphong
+AU  - Norbury, William B.
+AU  - Ogawa, Rei
+AU  - Ozog, David M.
+AU  - Paasch, Uwe
+AU  - Victor Ross, E.
+AU  - Tretti Clementoni, Matteo
+AU  - Waibel, Jill
+TI  - Laser Treatment of Traumatic Scars and Contractures: 2020 International Consensus Recommendations
+JO  - Lasers in Surgery and Medicine
+JA  - Lasers Surg. Med.
+VL  - 52
+IS  - 2
+SN  - 9781118771778
+UR  - https://doi.org/10.1002/lsm.23201
+DO  - doi:10.1002/lsm.23201
+SP  - 96
+EP  - 116
+KW  - laser
+KW  - scar
+KW  - traumatic scar
+KW  - burn scar
+KW  - fractional
+KW  - vascular
+PY  - 2020
+AB  - Background and Objectives There is currently intense multidisciplinary interest and a maturing body of literature regarding laser treatments for traumatic scars, but international treatment guidelines and reimbursement schemes have not yet caught up with current knowledge and practice in many centers. The authors intend to highlight the tremendous potential of laser techniques, offer recommendations for safe and efficacious treatment, and promote wider patient access guided by future high-quality research. Study Design/Materials and Methods An international panel of 26 dermatologists and plastic and reconstructive surgeons from 13 different countries and a variety of practice backgrounds was self-assembled to develop updated consensus recommendations for the laser treatment of traumatic scars. A three-step modified Delphi method took place between March 2018 and March 2019 consisting of two rounds of emailed questionnaires and supplementary face-to-face meetings. The panel members approved the final manuscript via email correspondence, and the threshold for consensus was at least 80% concurrence among the panel members. Results The manuscript includes extensive detailed discussion regarding a variety of laser platforms commonly used for traumatic scar management such as vascular lasers and ablative and non-ablative fractional lasers, special considerations such as coding and laser treatments in skin of color, and 25 summary consensus recommendations. Conclusions Lasers are a first-line therapy in the management of traumatic scars and contractures, and patients without access to these treatments may not be receiving the best available care after injury. Updated international treatment guidelines and reimbursement schemes, additional high-quality research, and patient access should reflect this status. Lasers Surg. Med. ? 2019 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Schwerin, Susan C.
+AU  - Chatterjee, Mitali
+AU  - Imam-Fulani, Aminat O.
+AU  - Radomski, Kryslaine L.
+AU  - Hutchinson, Elizabeth B.
+AU  - Pierpaoli, Carlo M.
+AU  - Juliano, Sharon L.
+TI  - Progression of histopathological and behavioral abnormalities following mild traumatic brain injury in the male ferret
+JO  - Journal of Neuroscience Research
+JA  - J Neuro Res
+VL  - 96
+IS  - 4
+SN  - 9781118771778
+UR  - https://doi.org/10.1002/jnr.24218
+DO  - doi:10.1002/jnr.24218
+SP  - 556
+EP  - 572
+KW  - astrocytes
+KW  - astrogliosis
+KW  - attention
+KW  - behavior
+KW  - brain
+KW  - cerebral cortex
+KW  - cognitive impairment
+KW  - GFAP
+KW  - gray matter
+KW  - mammals
+KW  - memory
+KW  - neuroinflammation
+KW  - reactive microglia
+KW  - TBI (traumatic brain injury)
+KW  - white matter
+PY  - 2018
+AB  - Abstract White matter damage is an important consequence of traumatic brain injury (TBI) in humans. Unlike rodents, ferrets have a substantial amount of white matter and a gyrencephalic brain; therefore, they may represent an ideal small mammal model to study human-pertinent consequences of TBI. Here we report immunohistochemical and behavioral results after a controlled cortical impact (CCI) injury to the sensorimotor cortex of adult male ferrets. We assessed inflammation in the neocortex and white matter, and behavior at 1 day post injury and 1, 4, and 16 weeks post injury (WPI). CCI in the ferret produced inflammation that originated in the neocortex near the site of the injury and progressed deep into the white matter with time. The density of microglia and astrocytes increased in the neocortex near the injury, peaking at 4WPI and remaining elevated at 16WPI. Microglial morphology in the neocortex was significantly altered in the first 4 weeks, but showed a return toward normal at 16 weeks. Clusters of microglial cells in the white matter persisted until 16WPI. We assessed motor and cognitive behavior using the open field, novel object recognition, T-maze, and gait tests. A transient deficit in memory occurred at 4WPI, with a reduction of rearing and motor ability at 12 and 16WPI. Behavioral impairments coincide with features of the inflammatory changes in the neocortex revealed by immunohistochemistry. The ferret represents an important animal model to explore ongoing damage in the white matter and cerebral cortex after TBI.
+ER  - 
+
+TY  - JOUR
+AU  - ÖST, M.
+AU  - NYLÉN, K.
+AU  - CSAJBOK, L.
+AU  - BLENNOW, K.
+AU  - ROSENGREN, L.
+AU  - NELLGÅRD, B.
+TI  - Apolipoprotein E polymorphism and gender difference in outcome after severe traumatic brain injury
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 52
+IS  - 10
+SN  - 9781118771778
+UR  - https://doi.org/10.1111/j.1399-6576.2008.01675.x
+DO  - doi:10.1111/j.1399-6576.2008.01675.x
+SP  - 1364
+EP  - 1369
+KW  - Apolipoprotein E
+KW  - brain injuries
+KW  - child
+KW  - female
+KW  - Glasgow outcome scale
+KW  - male
+KW  - survival rate
+PY  - 2008
+AB  - Background: Traumatic brain injury (TBI) is one of the most common causes of death and dismal outcome among children and young adults. The morbidity and mortality differ but more aggressive monitoring and more designated neuro intensive care units have improved the results. Studies have demonstrated a connection between apolipoprotein E (APOE) genotype and outcome after TBI, but few are prospective and none is from northern Europe. APOE has three alleles: ?2, ?3 and ?4. Methods: A total of 96 patients with Glasgow coma score (GCS) ≤8 were prospectively and consecutively included. APOE genotypes were all analyzed at the same laboratory from blood samples by polymerase chain reaction-restriction fragment length polymorphism. Results: All patients were assessed at 1 year with Glasgow outcome scale extended (GOSE), National Institute of Health Stroke Scale (NIHSS) and the Barthel daily living index. The genotype was available in all patients. Twenty-six patients expressed APOE ?4 while 70 patients did not. Outcome demonstrated that patients with APOE ?4 had worse outcome vs. those lacking this allele. When subdividing patients into gender, males with APOE ?4 did worse, a difference not detected among female patients. Conclusions: APOE ?4 correlated to worse outcome in TBI patients. We also found that males with APOE ?4 had poor outcome while females did not. Thus, the results indicate that genetic polymorphism may influence outcome after TBI.
+ER  - 
+
+TY  - JOUR
+AU  - Charalambous, Marios
+AU  - Volk, Holger A.
+AU  - Tipold, Andrea
+AU  - Erath, Johannes
+AU  - Huenerfauth, Enrice
+AU  - Gallucci, Antonella
+AU  - Gandini, Gualtiero
+AU  - Hasegawa, Daisuke
+AU  - Pancotto, Theresa
+AU  - Rossmeisl, John H.
+AU  - Platt, Simon
+AU  - De Risio, Luisa
+AU  - Coates, Joan R.
+AU  - Musteata, Mihai
+AU  - Tirrito, Federica
+AU  - Cozzi, Francesca
+AU  - Porcarelli, Laura
+AU  - Corlazzoli, Daniele
+AU  - Cappello, Rodolfo
+AU  - Vanhaesebrouck, An
+AU  - Broeckx, Bart J.G.
+AU  - Van Ham, Luc
+AU  - Bhatti, Sofie F.M.
+TI  - Comparison of intranasal versus intravenous midazolam for management of status epilepticus in dogs: A multi-center randomized parallel group clinical study
+JO  - Journal of Veterinary Internal Medicine
+JA  - J Vet Intern Med
+VL  - 33
+IS  - 6
+SN  - 9781118771778
+UR  - https://doi.org/10.1111/jvim.15627
+DO  - doi:10.1111/jvim.15627
+SP  - 2709
+EP  - 2717
+KW  - benzodiazepines
+KW  - canine
+KW  - emergency
+KW  - epilepsy
+KW  - nasal
+PY  - 2019
+AB  - Abstract Background The intranasal (IN) route for rapid drug administration in patients with brain disorders, including status epilepticus, has been investigated. Status epilepticus is an emergency, and the IN route offers a valuable alternative to other routes, especially when these fail. Objectives To compare IN versus IV midazolam (MDZ) at the same dosage (0.2?mg/kg) for controlling status epilepticus in dogs. Animals Client-owned dogs (n = 44) with idiopathic epilepsy, structural epilepsy, or epilepsy of unknown origin manifesting as status epilepticus. Methods Randomized parallel group clinical trial. Patients were randomly allocated to the IN-MDZ (n = 21) or IV-MDZ (n = 23) group. Number of successfully treated cases (defined as seizure cessation within 5?minutes and lasting for ≥10?minutes), seizure cessation time, and adverse effects were recorded. Comparisons were performed using the Fisher's exact and Wilcoxon rank sum tests with statistical significance set at α?<?.05. Results IN-MDZ and IV-MDZ successfully stopped status epilepticus in 76% and 61% of cases, respectively (P = .34). The median seizure cessation time was 33 and 64?seconds for IN-MDZ and IV-MDZ, respectively (P = .63). When the time to place an IV catheter was taken into account, IN-MDZ (100?seconds) was superior (P = .04) to IV-MDZ (270?seconds). Sedation and ataxia were seen in 88% and 79% of the dogs treated with IN-MDZ and IV-MDZ, respectively. Conclusions and Clinical Importance Both routes are quick, safe, and effective for controlling status epilepticus. However, the IN route demonstrated superiority when the time needed to place an IV catheter was taken into account.
+ER  - 
+
+TY  - JOUR
+AU  - Fischl, Matthew J.
+AU  - Ueberfuhr, Margarete A.
+AU  - Drexl, Markus
+AU  - Pagella, Sara
+AU  - Sinclair, James L.
+AU  - Alexandrova, Olga
+AU  - Deussing, Jan M.
+AU  - Kopp-Scheinpflug, Conny
+TI  - Urocortin 3 signalling in the auditory brainstem aids recovery of hearing after reversible noise-induced threshold shift
+JO  - The Journal of Physiology
+JA  - J Physiol
+VL  - 597
+IS  - 16
+SN  - 9781118771778
+UR  - https://doi.org/10.1113/JP278132
+DO  - doi:10.1113/JP278132
+SP  - 4341
+EP  - 4355
+KW  - acoustic trauma
+KW  - neuropeptide
+KW  - urocortin
+KW  - Corticotropin-releasing hormone receptor
+KW  - auditory brainstem responses
+KW  - ageing
+KW  - DPOAEs
+KW  - stress recovery
+PY  - 2019
+AB  - Key points Ongoing, moderate noise exposure does not instantly damage the auditory system but may cause lasting deficits, such as elevated thresholds and accelerated ageing of the auditory system. The neuromodulatory peptide urocortin-3 (UCN3) is involved in the body's recovery from a stress response, and is also expressed in the cochlea and the auditory brainstem. Lack of UCN3 facilitates age-induced hearing loss and causes permanently elevated auditory thresholds following a single 2 h noise exposure at moderate intensities. Outer hair cell function in mice lacking UCN3 is unaffected, so that the observed auditory deficits are most likely due to inner hair cell function or central mechanisms. Highly specific, rather than ubiquitous, expression of UCN3 in the brain renders it a promising candidate for designing drugs to ameliorate stress-related auditory deficits, including recovery from acoustic trauma. Abstract Environmental acoustic noise is omnipresent in our modern society, with sound levels that are considered non-damaging still causing long-lasting or permanent changes in the auditory system. The small neuromodulatory peptide urocortin-3 (UCN3) is the endogenous ligand for corticotropin-releasing factor receptor type 2 and together they are known to play an important role in stress recovery. UCN3 expression has been observed in the auditory brainstem, but its role remains unclear. Here we describe the detailed distribution of UCN3 expression in the murine auditory brainstem and provide evidence that UCN3 is expressed in the synaptic region of inner hair cells in the cochlea. We also show that mice with deficient UCN3 signalling experience premature ageing of the auditory system starting at an age of 4.7 months with significantly elevated thresholds of auditory brainstem responses (ABRs) compared to age-matched wild-type mice. Following a single, 2 h exposure to moderate (84 or 94 dB SPL) noise, UCN3-deficient mice exhibited significantly larger shifts in ABR thresholds combined with maladaptive recovery. In wild-type mice, the same noise exposure did not cause lasting changes to auditory thresholds. The presence of UCN3-expressing neurons throughout the auditory brainstem and the predisposition to hearing loss caused by preventing its normal expression suggests UCN3 as an important neuromodulatory peptide in the auditory system's response to loud sounds.
+ER  - 
+
+TY  - JOUR
+AU  - Turtzo, L. Christine
+AU  - Budde, Matthew D.
+AU  - Gold, Eric M.
+AU  - Lewis, Bobbi K.
+AU  - Janes, Lindsay
+AU  - Yarnell, Angela
+AU  - Grunberg, Neil E.
+AU  - Watson, William
+AU  - Frank, Joseph A.
+TI  - The evolution of traumatic brain injury in a rat focal contusion model
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 26
+IS  - 4
+SN  - 9781118771778
+UR  - https://doi.org/10.1002/nbm.2886
+DO  - doi:10.1002/nbm.2886
+SP  - 468
+EP  - 479
+KW  - traumatic brain injury
+KW  - controlled cortical impact
+KW  - MRI
+KW  - hemorrhage
+KW  - autofluorescence
+PY  - 2013
+AB  - Serial MRI facilitates the in vivo analysis of the intra- and intersubject evolution of traumatic brain injury lesions. Despite the availability of MRI, the natural history of experimental focal contusion lesions in the controlled cortical impact (CCI) rat model has not been well described. We performed CCI on rats and MRI during the acute to chronic stages of cerebral injury to investigate the time course of changes in the brain. Female Wistar rats underwent CCI of their left motor cortex with a flat impact tip driven by an electromagnetic piston. In vivo MRI was performed at 7?T serially over 6?weeks post-CCI. The appearances of CCI-induced lesions and lesion-associated cortical volumes were variable on MRI, with the percentage change in cortical volume of the CCI ipsilateral side relative to the contralateral side ranging from 18% within 2?h of injury on day 0 to a peak of 35% on day 1, and a trough of ?28% by week 5/6, with an average standard deviation of ±14% at any given time point. In contrast, the percentage change in cortical volume of the ipsilateral side relative to the contralateral side in control rats was not significant (1?±?2%). Hemorrhagic conversion within and surrounding the CCI lesion occurred between days 2 and 9 in 45% of rats, with no hemorrhage noted on the initial scan. Furthermore, hemorrhage and hemosiderin within the lesion were positive for Prussian blue and highly autofluorescent on histological examination. Although some variation in injuries may be technique related, the divergence of similar lesions between initial and final scans demonstrates the inherent biological variability of the CCI rat model. Published 2012. This article is a US Government work and is in the public domain in the USA.
+ER  - 
+
+TY  - JOUR
+AU  - Cook, Aaron M.
+AU  - Peppard, Amy
+AU  - Magnuson, Barbara
+TI  - Nutrition Considerations in Traumatic Brain Injury
+JO  - Nutrition in Clinical Practice
+JA  - Nutr Clin Pract
+VL  - 23
+IS  - 6
+SN  - 9781118771778
+UR  - https://doi.org/10.1177/0884533608326060
+DO  - doi:10.1177/0884533608326060
+SP  - 608
+EP  - 620
+KW  - enteral nutrition
+KW  - nutritional support
+KW  - brain injuries
+KW  - critical illness
+PY  - 2008
+AB  - The provision of adequate nutrition support for patients with traumatic brain injury (TBI) has been a clinical challenge for decades. The primary and secondary injuries create unique metabolic derangements along with accompanying issues such as optimal timing and route of nutrition, appropriate fluid and electrolytes, drug administration, rehabilitation, and dysphagia. Enteral nutrition is clearly established as the preferential route of nutrition support for this population vs parenteral nutrition. There appears to be a consensus on early initiation of enteral nutrition, but less definitive are recommendations on advancement timing and formula components. Nutrition therapies should include exact fluid resuscitation goals specific for TBI and strict electrolyte monitoring to avoid extreme fluid, electrolyte, or glucose shifts that could be detrimental to the patient. While the critical care patient often tolerates small bowel feeding, the long-term rehabilitation patient should transition to and tolerate gastric feeding. Drug-nutrient and adverse drug reactions such as diarrhea should be routinely evaluated in patients receiving enteral nutrition. Monitoring for dysphagia is critical to avoid the costly negative aspects associated with aspiration and to capitalize on quality of life and appropriate oral nutrition. Emphasizing the priority of early nutrition support within a multi-disciplinary team may be the critical key for successful provision and tolerance of nutrition support in the TBI population.
+ER  - 
+
+TY  - JOUR
+AU  - METZNER, RALF
+AU  - THORPE, MICHAEL R.
+AU  - BREUER, UWE
+AU  - BLÜMLER, PETER
+AU  - SCHURR, ULRICH
+AU  - SCHNEIDER, HEIKE U.
+AU  - SCHROEDER, WALTER H.
+TI  - Contrasting dynamics of water and mineral nutrients in stems shown by stable isotope tracers and cryo-SIMS
+JO  - Plant, Cell & Environment
+VL  - 33
+IS  - 8
+SN  - 9781118771778
+UR  - https://doi.org/10.1111/j.1365-3040.2010.02157.x
+DO  - doi:10.1111/j.1365-3040.2010.02157.x
+SP  - 1393
+EP  - 1407
+KW  - calcium
+KW  - frozen-hydrated
+KW  - magnesium
+KW  - potassium
+KW  - stable isotopes
+KW  - ToF-SIMS
+KW  - transport
+KW  - xylem
+PY  - 2010
+AB  - ABSTRACT Lateral exchange of water and nutrients between xylem and surrounding tissues helps to de-couple uptake from utilization in all parts of a plant. We studied the dynamics of these exchanges, using stable isotope tracers for water (H218O), magnesium (26Mg), potassium (41K) and calcium (44Ca) delivered via a cut stem for various periods to the transpiration stream of bean shoots (Phaseolus vulgaris cv. Fardenlosa Shiny). Tracers were subsequently mapped in stem cross-sections with cryo-secondary ion mass spectrometry. The water tracer equilibrated within minutes across the entire cross-section. In contrast, the nutrient tracers showed a very heterogeneous exchange between xylem vessels and the different stem tissues, even after 4?h. Dynamics of nutrients in the tissues revealed a fast and extensive exchange of nutrients in the xylem parenchyma, with, for example, calcium being completely replaced by tracer in less than 5?min. Dilution of potassium tracer during its 30?s transit in xylem sap through the stem showed that potassium concentration was up-regulated over many hours, to the extent that some of it was probably supplied by phloem recirculation from the shoot.
+ER  - 
+
+TY  - JOUR
+AU  - Jiang, Quan
+AU  - Qu, Changsheng
+AU  - Chopp, Michael
+AU  - Ding, Guang Liang
+AU  - Davarani, Siamak P. Nejad-
+AU  - Helpern, Joseph A.
+AU  - Jensen, Jens H.
+AU  - Zhang, Zheng Gang
+AU  - Li, Lian
+AU  - Lu, Mei
+AU  - Kaplan, David
+AU  - Hu, Jiani
+AU  - Shen, Yimin
+AU  - Kou, Zhifeng
+AU  - Li, Qingjiang
+AU  - Wang, Shiyang
+AU  - Mahmood, Asim
+TI  - MRI evaluation of axonal reorganization after bone marrow stromal cell treatment of traumatic brain injury
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 24
+IS  - 9
+SN  - 9781118771778
+UR  - https://doi.org/10.1002/nbm.1667
+DO  - doi:10.1002/nbm.1667
+SP  - 1119
+EP  - 1128
+KW  - MRI
+KW  - DTI
+KW  - traumatic brain injury
+KW  - rat brain
+PY  - 2011
+AB  - Abstract We treated traumatic brain injury (TBI) with human bone marrow stromal cells (hMSCs) and evaluated the effect of treatment on white matter reorganization using MRI. We subjected male Wistar rats (n?=?17) to controlled cortical impact and either withheld treatment (controls; n?=?9) or inserted collagen scaffolds containing hMSCs (n?=?8). Six weeks later, the rats were sacrificed and MRI revealed selective migration of grafted neural progenitor cells towards the white matter reorganized boundary of the TBI-induced lesion. Histology confirmed that the white matter had been reorganized, associated with increased fractional anisotropy (FA; p?<?0.01) in the recovery regions relative to the injured core region in both treated and control groups. Treatment with hMSCs increased FA in the recovery regions, lowered T2 in the core region, decreased lesion volume and improved functional recovery relative to untreated controls. Immunoreactive staining showed axonal projections emanating from neurons and extruding from the corpus callosum into the ipsilateral cortex at the boundary of the lesion. Fiber tracking (FT) maps derived from diffusion tensor imaging confirmed the immunohistological data and provided information on axonal rewiring. The apparent kurtosis coefficient (AKC) detected additional axonal remodeling regions with crossing axons, confirmed by immunohistological staining, compared with FA. Our data demonstrate that AKC, FA, FT and T2 can be used to evaluate treatment-induced white matter recovery, which may facilitate restorative therapy in patients with TBI. Copyright ? 2011 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Fleischer, Wiebke
+AU  - Theiss, Stephan
+AU  - Slotta, Johannes
+AU  - Holland, Christine
+AU  - Schnitzler, Alfons
+C7  - e12400
+TI  - High-frequency voltage oscillations in cultured astrocytes
+JO  - Physiological Reports
+JA  - Physiol Rep
+VL  - 3
+IS  - 5
+SN  - 9781118771778
+UR  - https://doi.org/10.14814/phy2.12400
+DO  - doi:10.14814/phy2.12400
+SP  - e12400
+KW  - Calcium channels
+KW  - extracellular recording
+KW  - Glia
+KW  - HFO
+KW  - MEA
+KW  - multi-electrode array
+KW  - P2X channels
+KW  - voltage oscillations
+PY  - 2015
+AB  - Abstract Because of their close interaction with neuronal physiology, astrocytes can modulate brain function in multiple ways. Here, we demonstrate a yet unknown astrocytic phenomenon: Astrocytes cultured on microelectrode arrays (MEAs) exhibited extracellular voltage fluctuations in a broad frequency spectrum (100?600 Hz) after electrical stimulation. These aperiodic high-frequency oscillations (HFOs) could last several seconds and did not spread across the MEA. The voltage-gated calcium channel antagonist cilnidipine dose-dependently decreased the power of the oscillations. While intracellular calcium was pivotal, incubation with bafilomycin A1 showed that vesicular release of transmitters played only a minor role in the emergence of HFOs. Gap junctions and volume-regulated anionic channels had just as little functional impact, which was demonstrated by the addition of carbenoxolone (100 ?mol/L) and NPPB (100 ?mol/L). Hyperpolarization with low potassium in the extracellular solution (2 mmol/L) dramatically raised oscillation power. A similar effect was seen when we added extra sodium (+50 mmol/L) or if we replaced it with NMDG+ (50 mmol/L). The purinergic receptor antagonist PPADS suppressed the oscillation power, while the agonist ATP (100 ?mol/L) had only an increasing effect when the bath solution pH was slightly lowered to pH 7.2. From these observations, we conclude that astrocytic voltage oscillations are triggered by activation of voltage-gated calcium channels and driven by a downstream influx of cations through channels that are permeable for large ions such as NMDG+. Most likely candidates are subtypes of pore-forming P2X channels with a low affinity for ATP.
+ER  - 
+
+C7  - pp. 107-115
+TI  - Clinical considerations for adults
+SN  - 9781119144922
+UR  - https://doi.org/10.1002/9781119144953.ch15
+DO  - doi:10.1002/9781119144953.ch15
+SP  - 107-115
+KW  - adults
+KW  - cardiology
+KW  - interventional radiology
+KW  - level 3 transfers
+KW  - nephrology
+KW  - neurosurgery
+KW  - obstetric patient
+KW  - systematic ACCEPT approach
+KW  - trauma
+KW  - vascular surgery
+PY  - 2015
+AB  - Summary This chapter describes how the systematic ACCEPT approach enables movements of ill and injured patients between or within hospitals. Centralisation of specialist services means more transfers for clinical reasons. Many of these transfers will be time critical, some will be intensive, and some will be both. The chapter provides an overview of the patient groups that typically will need to be transferred to specialist centres, some of their characteristics and associated specific clinical management. Some of these broad categories of patients includes: neurosurgery (traumatic brain injury, cerebral bleeds), trauma, burns, vascular surgery (abdominal aortic aneurysm, thoracic aortic dissection, acute limb ischaemia), interventional radiology, cardiology (primary coronary intervention), nephrology (acute renal failure), obstetric, and level 3 transfers. However, early and effective communication between centres is essential to ensure that any specific treatments are administered before or during the transfer to optimise patient care.
+ER  - 
+
+TY  - JOUR
+AU  - Jansen, J. O.
+AU  - Morrison, J. J.
+AU  - Midwinter, M. J.
+AU  - Doughty, H.
+TI  - Changes in blood transfusion practices in the UK role 3 medical treatment facility in Afghanistan, 2008–2011
+JO  - Transfusion Medicine
+JA  - Transfusion Med
+VL  - 24
+IS  - 3
+SN  - 9781119144922
+UR  - https://doi.org/10.1111/tme.12093
+DO  - doi:10.1111/tme.12093
+SP  - 154
+EP  - 161
+KW  - haemostatic resuscitation
+KW  - military transfusion
+KW  - tranexamic acid
+KW  - trauma resuscitation
+PY  - 2014
+AB  - SUMMARY Objective To document blood component usage in the UK medical treatment facility, Afghanistan, over a period of 4 years; and to examine the relationship with transfusion capability, injury pattern and survival. Background Haemostatic resuscitation is now firmly established in military medical practice, despite the challenges of providing such therapy in austere settings. Materials and Methods Retrospective study of blood component use in service personnel admitted for trauma. Data were extracted from the UK Joint Theatre Trauma Registry. Results A total of 2618 patients were identified. Survival increased from 76 to 84% despite no change in injury severity. The proportion of patients receiving blood components increased from 13 to 32% per annum; 417 casualties received massive transfusion (≥10 units of RCC), the proportion increasing from 40 to 62%. Use of all blood components increased significantly in severely injured casualties, to a median (IQR) of 16 (9?25) units of red cell concentrate (P?=?0·006), 15 (8?24) of plasma (P?=?0·002), 2 (0?5) of platelets (P?<?0·001) and 1 (0?3) of cryoprecipitate (P?<?0·001). Cryoprecipitate (P?=?0·009) and platelet use (P?=?0·005) also increased in moderately injured casualties. Conclusions The number of blood components transfused to individual combat casualties increased during the 4-year period, despite no change in injury severity or injury pattern. Survival also increased. Combat casualties requiring massive transfusion have a significantly higher chance of survival than civilian patients. Survival is the product of the entire system of care. However, we propose that the changes in military transfusion practice and capability have contributed to increased combat trauma survival.
+ER  - 

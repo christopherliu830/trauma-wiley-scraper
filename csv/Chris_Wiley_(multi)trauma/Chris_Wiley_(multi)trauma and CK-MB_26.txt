@@ -1,0 +1,418 @@
+
+TY  - JOUR
+AU  - Verdegaal, E
+AU  - Jonas, S
+AU  - Caraguel, C
+AU  - Franklin, S
+TI  - Real-Time Monitoring of the Core Body Temperature of Endurance Horses During Field Exercise
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_59
+DO  - doi:10.1111/evj.12267_59
+SP  - 19
+EP  - 20
+PY  - 2014
+AB  - Introduction Continuous monitoring of core body temperature may provide useful information about the thermal response to metabolic heat load and environmental challenges. The aim of this study was to evaluate a telemetric gastrointestinal (GI) pill (Equivital?) measuring gastrointestinal temperature (GT) during endurance exercise. It was hypothesised that a temperature and metabolic heat profile could be established. Methods The GI pill was administered to 6 horses by nasogastric tube (n?=?3) or modified-drench gun (n?=?3), the day before competition. During competition, GT, skin temperature and heart rate (HR) were recorded (by Equivital? belt). Other data collected included body weight and rectal temperature (RT), GPS/HR monitor information, and environmental conditions using a data logger. Metabolic heat production was calculated [1] and GT correlations were explored using simple correlation estimates (P<0.05). Results Data were collected from 6 horses during 80?km (n?=?4 horses) and 100?km (n?=?2) competition days with mean data loss of 7.4% (±2.4%). GT profiles showed increasing temperature with cumulative metabolic heat production, and time to reach maximum GT was 2.14?6.29?h (maximum GT range: 38.4?39.5°C). During exercise (7?h 6?min?±?1?h 3?min duration), mean and maximum speeds ranged from 10.1?14.5?km/h and 23.5?30.8?km/h, respectively. No correlation was found between GT and HR, skin, or environment temperature. Maximum GT increased with bodyweight (r?=?0.775, P?=?0.08). GT was systematically higher than RT (mean difference +0.46°C). Conclusions GT was recorded successfully during competition with minimal data loss. The GI pill has great potential as a method to further investigate thermoregulation in horses under field conditions. Ethical Animal Research All studies were performed under the Adelaide Animal Ethics Committee, University of Adelaide. Explicit owner informed consent for participation in this study is not stated. Sources of funding:?The equipment for the project was funded by the Faculty of Science ?Grant for minor equipment?, University of Adelaide, Australia. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Depecker, M
+AU  - Leleu, C
+AU  - Richard, E
+AU  - Couroucé-Malblanc, A
+TI  - Longitudinal Follow-Up of Bronchoalveolar Lavage Cytology in Standardbred Racehorses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_64
+DO  - doi:10.1111/evj.12267_64
+SP  - 21
+EP  - 21
+PY  - 2014
+AB  - Introduction Bronchoalveolar lavage (BAL) fluid cytology is a major diagnostic method for detecting exercise-induced pulmonary haemorrhage (EIPH) and inflammatory airway disease (IAD) in racehorses. Our hypothesis was that training and racing would increase the incidence of IAD and EIPH. Methods On three different occasions (day-1, ?30 and ?60), BAL fluid was obtained from both lungs of 14 Standardbred trotters with similar age and training level. Cytological inclusion criteria were neutrophils >10%, and/or mast cells ≥5%, and/or eosinophils ≥5% for IAD, and haemosiderophage/macrophage (H/M) ratio >20% for EIPH. Since previously found not to be equivalent, both samples from each horse were independently investigated. Horse status (?IAD?,?EIPH?, ?mixed?, or ?control?) at each time point was based on cytological profiles from both lungs. Cell proportions were compared by repeated measures ANOVA. Results Haemosiderophage proportions and H/M were significantly higher on day-60 compared to day-1. No significant difference was observed for other cell proportions. On day-1, 5 horses were ?control?, 2 ?IAD?, 2 ?EIPH, and 5 were ?mixed?. On day-30, 3 horses were ?control?, 4 ?IAD?, 2 ?EIPH?, and 5 were ?mixed?. On day-60, 3 horses were ?control?, 0 ?IAD?, 3 ?EIPH?, and 8 ?mixed?. Despite the different horses? distribution within each category, an overall increase in EIPH was observed. Five of the 7 horses classified ?control? or ?IAD? on day-1 presented EIPH on day-30 and/or ?60. EIPH was detected in 11/14 horses (78.6%) on day-60, versus 7/14 horses (50%) on day-1. Conclusions The incidence of EIPH, but not IAD, significantly increased during a racing season. This evolution should be considered when assessing BAL fluid cytology in racehorses. Ethical Animal Research The study was approved by the regional Animal Ethics Committee (n°CEEA.2012.179) and all owners signed a consent form. Sources of funding:?IFCE (National Studs) and SECF (French Trotters Racing Association). Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+TI  - Posters on Display
+JO  - Pediatric Diabetes
+JA  - Pediatr Diabetes
+VL  - 18
+IS  - S25
+SN  - 1399-543X
+UR  - https://doi.org/10.1111/pedi.12588
+DO  - doi:10.1111/pedi.12588
+SP  - 138
+EP  - 177
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+AU  - Younes, M
+AU  - Robert, C
+AU  - Cottin, F
+AU  - Barrey, E
+TI  - Genetic Component of Endurance Ability
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_46
+DO  - doi:10.1111/evj.12267_46
+SP  - 15
+EP  - 15
+PY  - 2014
+AB  - Introduction Arabian horses have the best records in long distance endurance racing (80?160?km). The endurance horses are interesting models to calculate the heritability (h2) of exercise ability. Heritability indicates the percentage of trait transmitted by parents to their descendants (h2?=?Genetic variance/Total variance). In human athletes, heritability of physiological traits calculated using twin design were 0.12, 0.72 and 0.32 for VO2max, Heart Rate max and endurance capacity respectively. Heritabilities of 0.28 and 0.06 for speed and placing respectively are reported in endurance horses. The aim of this study was to calculate the heritability of recovery heart rate, cardiac recovery time and average speed in long distance endurance racing. Methods The results of 132 endurance races (80?160?km) from 2007 to 2011 were analyzed. The database included 4421 horses of known pedigrees representing 655 sires with a mean of 18.5 products per sire. The data were analyzed using Restricted Estimator of Maximal Likelihood (REML, VCE6) method with animal mixed model including country, ride distance, age, gender, common environment as fixed effects and animal genetic as random effect. Results Heritabilities (SE) were 0.12 (0.06), 0.15 (0.02) and 0.46 (0.08) for speed, recovery heart rate and cardiac recovery time respectively. Conclusions The speed and heart rate recovery seem more influenced by training and environmental effects than the cardiac recovery time which is more influenced by genetics. This high heritability is consistent with heritability of V200 found in French Trotter population previously and may indicate a putative quantitative trait linkage. Ethical Animal Research Explicit owner informed consent for participation in this study is not stated. Sources of funding:?National Studs (IFCE) and the Arabian Horse Association (ACA). Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Pacing and Clinical Electrophysiology
+VL  - 22
+IS  - 6
+SN  - 0147-8389
+UR  - https://doi.org/10.1111/j.1540-8159.1999.tb06804.x
+DO  - doi:10.1111/j.1540-8159.1999.tb06804.x
+SP  - A1
+EP  - A216
+PY  - 1999
+ER  - 
+
+TY  - JOUR
+AU  - Walker, V
+AU  - Tranquille, C
+AU  - McEwen, J
+AU  - Spalding, V
+AU  - Cnockaert, R
+TI  - Jumping Technique Alters Limb Kinematics in Showjumping Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_155
+DO  - doi:10.1111/evj.12267_155
+SP  - 51
+EP  - 51
+PY  - 2014
+AB  - Introduction Showjumping (SJ) horses are at increased risk of distal forelimb soft tissue injuries; generally attributed to limb loading on landing. This study investigated relationships between the back, trailing limb angles at take-off, in flight and at landing. Methods Eight showjumpers jumped a 140?cm vertical obstacle (part of a 15-fence course). Two-dimensional high-speed motion-capture (250?Hz) was used to measure limb and regional back kinematics in the dorsoventral plane from markers placed at predetermined locations. Pearson's correlation tests were used to determine associations between limb and back angles at take-off, in flight and upon landing. Results All markers were clearly visible throughout. Greater head-neck ventroflexion at take-off was associated with decreased hock flexion (r?=?-0.81, P?=?0.0141), and decreased neck-trunk angle on landing (r?=?0.77, P?=?0.03). Greater head-neck ventroflexion at landing, 50% and 75% flight was associated with decreased carpal extension on landing (r?=?0.81, 0.84, 0.73; P?=?0.02, 0.01, 0.04 respectively). Increased thoracolumbar and lumbosacral flexion at take-off was associated with decreased metatarsophalangeal joint extension upon landing (r?=?0.78, 0.75; P?=?0.03). Greater lumbosacral flexion at 50 and 75% flight (r?=?-0.73, ?0.77; P?=?0.04, 0.03 respectively) and greater thoracolumbar flexion at 25, 50 and 75% flight was associated with decreased elbow flexion on landing (r?=?-0.87, ?0.78, ?0.76; P?=?0.01, 0.02, 0.03 respectively). Conclusions Decreasing head-neck angle and increasing thoracolumbar and lumbosacral flexion at take-off and in flight appeared to alter peak joint flexion and extension on landing. This suggests that optimising jumping technique in training may be beneficial to reduce the strain placed on the limbs at landing, which could potentially be valuable given the risk of distal limb soft tissue injuries in SJ horses. Ethical Animal Research The Royal College of Veterinary Surgeons confirmed that the procedures carried out were not Controlled Procedures under UK animal experimentation legislation. Explicit owner informed consent for participation in this study is not stated. Sources of funding:?The World Class Development Programme is funded by the Department for Culture, Media and Sport, through Exchequer and National Lottery funds, via UK Sport. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Brito, HCD
+AU  - Charlie-Silva, I
+AU  - Faria, CCS
+AU  - Queiroz-Neto, A
+AU  - Ferraz, GC
+TI  - Acid-Base Alterations in Barrel Racing Quarter Horses of Different Fitness Levels Assessed Via The Simplified Strong Ion Approach
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_48
+DO  - doi:10.1111/evj.12267_48
+SP  - 48
+EP  - 48
+PY  - 2014
+AB  - Introduction The evaluation of acid-base balance of horses is important because it detects alterations that affect their performance and health. There are studies relating these changes with endurance type effort, but few regarding sprint exercise. The purpose of this study was to determine whether the fitness level of Quarter Horses performing barrel racing could be differentiated by quantitative acid-base analysis. Methods For this purpose, 10 horses were distributed into two groups: high (HF) and lower (LF) fitness as defined by the trainer. GPS and frequency meter were used for the measurements. Venous blood gas analysis was performed using a portable analyzer (I-stat) before and after exercise. Strong ion difference (SID), anion gap (AG), strong ion gap (SIG) and concentration of non-volatile buffers (Atot) were determined. Variables before and after exercise were compared within and between groups by t-test (P<0.05). Results The average track distance was 125?m. There were no differences between maximum or average velocity and heart rate, which were 30.76?±?0.53?km/h, 22.85?±?0.28?km/h, 206?bpm?±?3.91 versus 27.7?±?2.4?km/h, 21.94?±?0.3?km/h and 203?bpm?±?5.77 for the HF and LF groups, respectively. SID values before exercise were significantly lower for the LF group. Both groups showed a significant increase in Atot and AG, while pH, HCO3-, SIG and SID decreased significantly after exercise. Conclusions Metabolic acidosis was observed using both the traditional and the quantitative approach. It was not possible to differentiate the fitness level of horses in the study. Ethical Animal Research All procedures were approved by the institutional animal care and use committee of the university (CEUA, Process: 008481/11). Explicit owner informed consent for participation in this study is not stated. Sources of funding:?UNESP Reitoria (PIBIC). Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Martin, P
+AU  - Chateau, H
+AU  - Pourcelot, P
+AU  - Duray, L
+AU  - Cheze, L
+TI  - Comparison Between Inertial Sensors and Motion Capture System to Quantify Flexion-Extension Motion in the Back of a Horse
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_131
+DO  - doi:10.1111/evj.12267_131
+SP  - 43
+EP  - 43
+PY  - 2014
+AB  - Introduction The development of miniaturized inertial sensor technology (IMU) opens new possibilities to assess equine back motion in real-life situations. The consistency of IMU for measuring dorsoventral displacement of the back has been assessed but orientation has not. The aim of this study was to assess accuracy and consistency of miniaturized inertial sensors for quantification of flexion-extension of the equine back, compared to motion capture (mocap) as a gold standard. Methods One sound horse was trotted (3.5?m/s) and cantered (9?m/s) on a treadmill with synchronized mocap and IMU data collection. The amplitudes of two flexion-extension angles were calculated between 3 IMUs (T12-T16-L2) and with a triad of markers linked to each IMU during 15 consecutive strides for two recordings at each gait. Consistency of sensor measurements was assessed using Lin correlation coefficient. Results Thoracic and thoracolumbar angles showed respectively a Lin correlation coefficient of 0.96 (excellent) and 0.87 (good). The difference (mean?±?SD) between IMU and mocap were, respectively for the thoracic and thoracolumbar angles, 0.57?±?0.44 and 0.65?±?0.47 degrees during trotting, and 0.83?±?0.67 and 0.63?±?0.44 degrees during canter. Conclusions Angle values calculated with IMU data showed acceptable accuracy consistency for quantification of flexion-extension movement in a horse's back. These results are encouraging for future development of the method in real-life situations where mocap systems are unsuited for the quantification of back movements. Ethical Animal Research None declared. Sources of funding:?The authors thank the Institut Français du Cheval et de l?Equitation, the Association Nationale de la Recherche et de la Technologie and the Conseil Régional d?Aquitaine for financial support, the Pôle Hippolia for logistical support, and CIRALE for loaning the treadmill and the horse. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Pitman, Martha Bishop
+AU  - Lewandrowski, Kent
+AU  - Shen, Jian
+AU  - Sahani, Dushyant
+AU  - Brugge, William
+AU  - Fernandez-del Castillo, Carlos
+TI  - Pancreatic cysts
+JO  - Cancer Cytopathology
+JA  - Cancer Cytopathology
+VL  - 118
+IS  - 1
+SN  - 1934-662X
+UR  - https://doi.org/10.1002/cncy.20059
+DO  - doi:10.1002/cncy.20059
+SP  - 1
+EP  - 13
+KW  - pancreas
+KW  - endoscopic ultrasound
+KW  - fine-needle aspiration biopsy
+KW  - endoscopic ultrasound fine-needle aspiration
+KW  - intraductal papillary mucinous neoplasm
+KW  - mucinous cyst
+KW  - pancreatic cysts
+KW  - cyst fluid analysis
+KW  - carcinoembryonic antigen
+KW  - molecular analysis
+KW  - KRAS
+PY  - 2010
+AB  - Abstract Preoperative diagnosis of pancreatic cysts benefits from integrating the clinical, radiological, and cytological features. As patient management algorithms evolve to increasingly nonsurgical options, accuracy in distinguishing mucinous from nonmucinous and benign from malignant mucinous cysts is important. This review focuses on pseudocysts, serous cystadenomas, intraductal papillary mucinous neoplasms (IPMNs), and mucinous cystic neoplasms. Patients with pseudocysts almost always present with pancreatitis and are usually medically managed. Radiological studies reveal a unilocular cyst mostly in the pancreatic tail. Cyst fluid is thin, with high amylase but low carcinoembryonic antigen (CEA) levels. DNA mutations are absent. Serous cystadenomas are benign and do not require resection. Patients are usually asymptomatic and have microcystic or macrocystic masses anywhere in the pancreas. Cytology is frequently nondiagnostic. CEA and amylase levels are low. DNA analysis may reveal loss of heterozygosity (LOH) at 3p if associated with Von Hippel-Lindau disease. Neoplastic mucinous cysts are highly variable in their presentation. Most are resected. Mucinous cystic neoplasms typically arise in the body or tail of the pancreas of middle-aged women and demonstrate a septated cyst without dilatation of the main pancreatic duct. Branch duct IPMNs are more common in the pancreatic head of elderly men. Main duct dilatation correlates with main duct or combined type IPMN. Both types of mucinous cysts produce variable amounts of mucin. Cytologically nonmalignant but atypical epithelial cells, even when scant, are an indication of a high risk for malignancy. High CEA level supports a mucinous cyst, as do KRAS mutation and good quality DNA levels. KRAS mutation and multiple LOH support malignancy. Cancer (Cancer Cytopathol) 2010. ? 2009 American Cancer Society.
+ER  - 
+
+TY  - JOUR
+TI  - 2015 ACR/ARHP Annual Meeting Abstract Supplement
+JO  - Arthritis & Rheumatology
+JA  - Arthritis & Rheumatology
+VL  - 67
+IS  - S10
+SN  - 2326-5191
+UR  - https://doi.org/10.1002/art.39448
+DO  - doi:10.1002/art.39448
+SP  - 1
+EP  - 4046
+PY  - 2015
+AB  - For a searchable version of these abstracts, please visit www.acrabstracts.org. Please Note: It may take several minutes for this file to download.
+ER  - 
+
+TY  - JOUR
+AU  - Cui, Cheng
+AU  - Lansford, Rusty
+AU  - Filla, Mike B.
+AU  - Little, Charles D.
+AU  - Cheuvront, Tracey J.
+AU  - Rongish, Brenda J.
+TI  - Electroporation and EGFP labeling of gastrulating quail embryos
+JO  - Developmental Dynamics
+JA  - Dev. Dyn.
+VL  - 235
+IS  - 10
+SN  - 1058-8388
+UR  - https://doi.org/10.1002/dvdy.20895
+DO  - doi:10.1002/dvdy.20895
+SP  - 2802
+EP  - 2810
+KW  - gastrulation
+KW  - embryogenesis
+KW  - electroporation
+PY  - 2006
+AB  - Abstract Labeling embryonic cells to trace their motion is a classical experimental approach with a host of techniques being used to mark live cells and tissues. Genetically engineered fluorescent protein vectors (DNA plasmids) are a recent technology well suited to time-resolved studies of cellular motion in live embryos. DNA plasmids encoding fluorescent proteins can be introduced into cells using several methods, including electroporation, a technique used widely for analysis of tissue culture and embryonic cells. Here we describe a technique designed to introduce DNA plasmids into early gastrulation stage quail embryos, ex ovo. The method is effective, and with practice enables an investigator to direct the vectors to relatively confined regions of gastrulating embryos. The required electroporation chamber can be fabricated from common laboratory materials. We anticipate that using this method of labeling cells in a warm-blooded embryo, during gastrulation, will be a fruitful means of studying subsequent embryogenesis. Developmental Dynamics 235:2802?2810, 2006. ? 2006 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Hart, A.
+AU  - Smith, J. M.
+AU  - Skeans, M. A.
+AU  - Gustafson, S. K.
+AU  - Stewart, D. E.
+AU  - Cherikh, W. S.
+AU  - Wainright, J. L.
+AU  - Kucheryavaya, A.
+AU  - Woodbury, M.
+AU  - Snyder, J. J.
+AU  - Kasiske, B. L.
+AU  - Israni, A. K.
+TI  - OPTN/SRTR 2015 Annual Data Report: Kidney
+JO  - American Journal of Transplantation
+JA  - American Journal of Transplantation
+VL  - 17
+IS  - S1
+SN  - 1600-6135
+UR  - https://doi.org/10.1111/ajt.14124
+DO  - doi:10.1111/ajt.14124
+SP  - 21
+EP  - 116
+PY  - 2017
+AB  - Abstract The first full year of data after implementation of the new kidney allocation system reveals an increase in deceased donor kidney transplants among black candidates and those with calculated panel-reactive antibodies 98%?100%, but a decrease among candidates aged 65 years or older. Data from 2015 also demonstrate ongoing positive trends in graft and patient survival for both deceased and living donor kidney transplants, but the challenges of a limited supply of kidneys in the setting of increasing demand remain evident. While the total number of patients on the waiting list decreased for the first time in a decade, this was due to a combination of a decrease in the number of candidates added to the list and an increase in the number of candidates removed from the list due to deteriorating medical condition, as well as an increase in total transplants. Deaths on the waiting list remained flat, but this was likely because of an increasing trend toward removing inactive candidates too sick to undergo transplant.
+ER  - 
+
+TY  - JOUR
+AU  - Ch’ng, S.
+AU  - Tan, S. T.
+TI  - PR08 LYMPHATIC MALFORMATIONS AND THE MOLECULAR BASIS OF LYMPHANGIOGENESIS
+JO  - ANZ Journal of Surgery
+VL  - 77
+IS  - s1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/j.1445-2197.2007.04127_8.x
+DO  - doi:10.1111/j.1445-2197.2007.04127_8.x
+SP  - A63
+EP  - A63
+PY  - 2007
+AB  - This paper reviews the clinical features of lymphatic malformations and the molecular basis of embryonic lymphangiogenesis. Lymphatic malformations are classified as microcystic, macrocystic, or combined. Most commonly found in the axilla/chest and cervicofacial region, they can be localised or diffuse. The commonest complications are intralesional bleeding and infection. Other significant complications are due mainly to their mass effect on nearby anatomic structures including the airway and eyeball, and soft tissue and skeletal overgrowth including macrocheilia, macroglossia, macrotia, macromala and mandibular prognathism, resulting in functional problems in feeding, speech, occlusion, oral hygiene, and disfigurement. The characteristic radiological finding of a LM on gadolinium-enhanced T1-weighted MRI is a low-density lesion with septation or rim enhancement. Histologically, LMs are cystic lesions that contain eosinophilic proteinaceous fluid whose walls are composed of smooth and skeletal muscle fibres, collagen and lymphocytes. Management options range from observation, comfort cares, empirical antibiotic treatment for LM cellulitis to sclerotherapy, surgical excision and Nd:YAG laser for selected cases. Lymphangiogenesis is believed to occur in four sequential but overlapping stages: lymphatic endothelial cell competence, bias and specification, and finally lymphatic vessel terminal differentiation and maturation. Multiple genes are involved in this process including Lyve1, Nrp2, podoplanin, Prox1, VEGFR3, VEGFC and Ang2. Developmental defects during embryonic lymphangiogenesis result in lymphatic malformations.
+ER  - 
+
+C7  - pp. 129-165
+TI  - Tumors Arising from the Soft Tissues
+SN  - 9781119221258
+UR  - https://doi.org/10.1002/9781119221296.ch8
+DO  - doi:10.1002/9781119221296.ch8
+SP  - 129-165
+KW  - cats
+KW  - dogs
+KW  - fibrosarcoma
+KW  - melanocytic tumors
+KW  - mesenchymal lesion
+KW  - oral lymphoma
+KW  - oral squamous cell carcinoma
+KW  - papillomavirus
+KW  - soft tissues
+PY  - 2007
+AB  - Summary Melanocytic tumors of the oral cavity, melanoma and melanocytoma, are frequently diagnosed in the dog and are diagnosed far less often in other species. Melanomas invade soft tissues and bone and may be associated with extensive local tissue destruction. Although fibrous tissue-based lesions can share substantial histological overlap, these lesions can vary in their biological behavior and long-term prognosis. The canine biologically high-grade/histologically low-grade fibrosarcoma (H/L FSA) is an interesting and problematic mesenchymal lesion, first reported in 1994 by Ciekot et al. The chapter discusses the neoplastic entities fibroma and FSA. Some equine oral squamous cell carcinoma (OSCC) lesions are so poorly differentiated, it is difficult to determine if they have an epithelial or mesenchymal histogenesis. As for dogs, investigations have rarely identified papillomavirus DNA sequences in feline OSCC lesions. Although lymphoma occurs in many different veterinary species, oral lymphoma most often occurs in dogs and cats and less often in horses, cattle, and goats.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentations
+JO  - Acta Paediatrica
+VL  - 99
+IS  - s462
+SN  - 9781119221258
+UR  - https://doi.org/10.1111/j.1651-2227.2010.02035.x
+DO  - doi:10.1111/j.1651-2227.2010.02035.x
+SP  - 47
+EP  - 120
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - Kazak, Anne E.
+AU  - Abrams, Annah N.
+AU  - Banks, Jaime
+AU  - Christofferson, Jennifer
+AU  - DiDonato, Stephen
+AU  - Grootenhuis, Martha A.
+AU  - Kabour, Marianne
+AU  - Madan-Swain, Avi
+AU  - Patel, Sunita K.
+AU  - Zadeh, Sima
+AU  - Kupst, Mary Jo
+TI  - Psychosocial Assessment as a Standard of Care in Pediatric Cancer
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr Blood Cancer
+VL  - 62
+IS  - S5
+SN  - 9781119221258
+UR  - https://doi.org/10.1002/pbc.25730
+DO  - doi:10.1002/pbc.25730
+SP  - S426
+EP  - S459
+KW  - pediatric oncology
+KW  - psychosocial assessment
+KW  - screening
+KW  - standards of care
+PY  - 2015
+AB  - This paper presents the evidence for a standard of care for psychosocial assessment in pediatric cancer. An interdisciplinary group of investigators utilized EBSCO, PubMed, PsycINFO, Ovid, and Google Scholar search databases, focusing on five areas: youth/family psychosocial adjustment, family resources, family/social support, previous history/premorbid functioning, and family structure/function. Descriptive quantitative studies, systematic reviews, and meta-analyses (n?=?149) were reviewed and evaluated using grading of recommendations, assessment development, and evaluation (GRADE) criteria. There is high quality evidence to support a strong recommendation for multifaceted, systematic assessments of psychosocial health care needs of youth with cancer and their families as a standard of care in pediatric oncology. Pediatr Blood Cancer ? 2015 Wiley Periodicals, Inc.
+ER  - 
+
+AU  - Liptak, Julius M.
+AU  - Dernell, William S.
+AU  - Farese, James P.
+AU  - Worley, Deanna R.
+C7  - pp. 491-568
+TI  - Musculoskeletal System
+SN  - 9780813805429
+UR  - https://doi.org/10.1002/9781118729038.ch16
+DO  - doi:10.1002/9781118729038.ch16
+SP  - 491-568
+KW  - Benign tumors of bone
+KW  - Chondrosarcoma (CSA)
+KW  - Hemangiosarcoma and fibrosarcoma
+KW  - Hemipelvectomy
+KW  - Joint and muscle tumors
+KW  - Limb amputation
+KW  - Multilobular osteochondrosarcoma (MLO)
+KW  - Musculoskeletal system
+KW  - Scapulectomy
+KW  - Skeletal tumors
+PY  - 2015
+AB  - Summary This chapter contains sections titled: Skeletal Tumors Joint Tumors Muscle Tumors Adjuvant and Other Therapies References
+ER  - 
+
+TY  - JOUR
+AU  - Altman, R.
+AU  - Alarcon, G.
+AU  - Appelrouth, D.
+AU  - Bloch, D.
+AU  - Borenstein, D.
+AU  - Brandt, K.
+AU  - Brown, C.
+AU  - Cooke, T. D.
+AU  - Daniel, W.
+AU  - Gray, R.
+AU  - Greenwald, R.
+AU  - Hochberg, M.
+AU  - Howell, D.
+AU  - Ike, R.
+AU  - Kapila, P.
+AU  - Kaplan, D.
+AU  - Koopman, W.
+AU  - Longley, S.
+AU  - Mcshane, D. J.
+AU  - Medsger, T.
+AU  - Michel, B.
+AU  - Murphy, W.
+AU  - Osial, T.
+AU  - Ramsey-Goldman, R.
+AU  - Rothschild, B.
+AU  - Stark, K.
+AU  - Wolfe, F.
+TI  - The American College of Rheumatology criteria for the classification and reporting of osteoarthritis of the hand
+JO  - Arthritis & Rheumatism
+JA  - Arthritis & Rheumatism
+VL  - 33
+IS  - 11
+SN  - 9780813805429
+UR  - https://doi.org/10.1002/art.1780331101
+DO  - doi:10.1002/art.1780331101
+SP  - 1601
+EP  - 1610
+PY  - 1990
+AB  - Abstract Clinical criteria for the classification of symptomatic idiopathic (primary) osteoarthritis (OA) of the hands were developed from data collected in a multi-center study. Patients with OA were compared with a group of patients who had hand symptoms from other causes, such as rheumatoid arthritis and the spondylar-thropathies. Variables from the medical history, physical examination, laboratory tests, and radiographs were analyzed. All patients had pain, aching, or stiffness in the hands. Patients were classified as having clinical OA if on examination there was hard tissue enlargement involving at least 2 of 10 selected joints, swelling of fewer than 3 metacarpophalangeal joints, and hard tissue enlargement of at least 2 distal interphalangeal (DIP) joints. If the patient had fewer than 2 enlarged DIP joints, then deformity of at least 1 of the 10 selected joints was necessary in order to classify the symptoms as being due to OA. The 10 selected joints were the second and third DIP, the second and third proximal interphalangeal, and the trapeziometacarpal (base of the thumb) joints of both hands. Criteria derived using the ?classification tree? method were 92% sensitive and 98% specific. The ?traditional format? classification method required that at least 3 of these 4 criteria be present to classify a patient as having OA of the hand. The latter sensitivity was 94% and the specificity was 87%. Radiography was of less value than clinical examination in the classification of symptomatic OA of the hands.
+ER  - 
+
+TY  - JOUR
+TI  - THE CARDIAC SOCIETY OF AUSTRALIA AND NEW ZEALAND Thirty-Seventh Annual Scientific Meeting
+JO  - Australian and New Zealand Journal of Medicine
+VL  - 19
+IS  - S1
+SN  - 9780813805429
+UR  - https://doi.org/10.1111/imj.1989.19.s1.529
+DO  - doi:10.1111/imj.1989.19.s1.529
+SP  - 529
+EP  - 578
+PY  - 1989
+ER  - 
+
+TY  - JOUR
+AU  - Pratt, Vera C.
+AU  - Tappenden, Kelly A.
+AU  - McBurney, Michael I.
+AU  - Field, Catherine J.
+TI  - Short-Chain Fatty Acid-Supplemented Total Parenteral Nutrition Improves Nonspecific Immunity After Intestinal Resection in Rats
+JO  - Journal of Parenteral and Enteral Nutrition
+JA  - Journal of Parenteral and Enteral Nutrition
+VL  - 20
+IS  - 4
+SN  - 9780813805429
+UR  - https://doi.org/10.1177/0148607196020004264
+DO  - doi:10.1177/0148607196020004264
+SP  - 264
+EP  - 271
+PY  - 1996
+AB  - Background: Total parenteral nutrition (TPN) alters both specific and nonspecific immune functions, resulting in immunosuppression. Short-chain fatty acids have been shown to improve the adaptive responses of the gut after surgery. The following study investigates the effects of adding short-chain fatty acids to TPN on the immune system after an 80% small bowel resection. Methods: Rats (237 ± 3 g) were infused with either TPN (n = 25) or TPN supplemented with short-chain fatty acids (n = 26) for 3 or 7 days. Hematologic analysis was performed on peripheral blood and splenocytes were isolated to characterize cell phenotypes, natural killer cell cytotoxicity and to estimate proliferative response. Results: The relative percent of T (CD3+) cells increased (p <.05) and the relative percent of macrophages decreased (p <.001, n = 13) in the spleens of the 3-day TPN-fed rats. By day 7, these differences disappeared. The natural killer cells from rats that were supplemented with short-chain fatty acids had higher (p <.0001) cytotoxic activity than the TPN groups at day 3. Mitogenic response did not differ between groups but were depressed compared with sham-treated rats. By day 7, rats on standard TPN had larger (p <.0001) spleens than all other groups. This group also had a higher total white blood cell count because of increased numbers of macrophages and neutrophils (p <.02). Conclusion: Short-chain fatty acids improve components of nonspecific immune responses and may be beneficial in reducing certain aspects of TPNassociated immunosuppression after major surgery. (Journal of Parenteral and Enteral Nutrition 20:264?271, 1996)
+ER  - 

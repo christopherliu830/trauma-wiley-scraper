@@ -1,0 +1,321 @@
+
+TY  - JOUR
+AU  - Thakor, Devang K.
+AU  - Wang, Lei
+AU  - Benedict, Darcy
+AU  - Kabatas, Serdar
+AU  - Zafonte, Ross D.
+AU  - Teng, Yang D.
+C7  - e58
+TI  - Establishing an Organotypic System for Investigating Multimodal Neural Repair Effects of Human Mesenchymal Stromal Stem Cells
+JO  - Current Protocols in Stem Cell Biology
+JA  - Current Protocols in Stem Cell Biology
+VL  - 47
+IS  - 1
+SN  - 1941-7322
+UR  - https://doi.org/10.1002/cpsc.58
+DO  - doi:10.1002/cpsc.58
+SP  - e58
+KW  - human mesenchymal stem cells
+KW  - spinal cord injury
+KW  - dorsal root ganglion
+KW  - polymer
+KW  - organotypic culture
+PY  - 2018
+AB  - Abstract Human mesenchymal stromal stem cells (hMSCs) hold regenerative medicine potential due to their availability, in vitro expansion readiness, and autologous feasibility. For neural repair, hMSCs show translational value in research on stroke, spinal cord injury (SCI), and traumatic brain injury. It is pivotal to establish multimodal in vitro systems to investigate molecular mechanisms underlying neural actions of hMSCs. Here, we describe a platform protocol on how to set up organotypic co-cultures of hMSCs (alone or polymer-scaffolded) with explanted adult rat dorsal root ganglia (DRGs) to determine neural injury and recovery events for designing implants to counteract neurotrauma sequelae. We emphasize in vitro hMSC propagation, polymer scaffolding, hMSC stemness maintenance, hMSC-DRG interaction profiling, and analytical formulas of neuroinflammation, trophic factor expression, DRG neurite outgrowth and tropic tracking, and in vivo verification of tailored implants in rodent models of SCI. ? 2018 by John Wiley & Sons, Inc.
+ER  - 
+
+AU  - Valli, Victor E.
+AU  - Bienzle, Dorothee
+AU  - Meuten, Donald J.
+C7  - pp. 203-321
+TI  - Tumors of the Hemolymphatic System
+SN  - 9780813821795
+UR  - https://doi.org/10.1002/9781119181200.ch7
+DO  - doi:10.1002/9781119181200.ch7
+SP  - 203-321
+KW  - bone marrow
+KW  - cytological characteristics
+KW  - hemolymphatic system
+KW  - lymphoblastic tumors
+KW  - molecular diagnostic tests
+KW  - myeloid leukemias
+KW  - neoplastic cells
+KW  - veterinary medicine
+PY  - 2018
+AB  - Summary The two general groups for tumors of the hemolymphatic system are lymphoid (lymphoma and leukemia) and myeloid leukemias. The tumors in each can be characterized by their anatomic distribution in the body, histologic distribution within hemolymphatic organs, morphology of cells, immunophenotype, cytopenias, and, when known, their biologic behavior and molecular characteristics. Lymphoblastic tumors are some of the most aggressive neoplasms in veterinary medicine with survival times measured in weeks to months. Lymphomas arise in lymphoid tissues outside of the bone marrow and leukemias arise in bone marrow or spleen. Classification of lymphomas has progressed through criteria largely related to cytological characteristics (Kiel) to one based on distinct diseases encompassing the total information related to that neoplasm. The Kiel and WHO/REAL classifications use multiple parameters to subdivide lymphomas into many diagnoses. Molecular techniques complement these classifications and additionally further subdivide lymphomas and leukemias, demonstrating how heterogeneous phenotypically similar tumors are.
+ER  - 
+
+TY  - JOUR
+AU  - Sonar, Sandip Ashok
+AU  - Lal, Girdhari
+TI  - Blood–brain barrier and its function during inflammation and autoimmunity
+JO  - Journal of Leukocyte Biology
+JA  - J Leukoc Biol
+VL  - 103
+IS  - 5
+SN  - 9780813821795
+UR  - https://doi.org/10.1002/JLB.1RU1117-428R
+DO  - doi:10.1002/JLB.1RU1117-428R
+SP  - 839
+EP  - 853
+KW  - autoimmunity
+KW  - blood–brain barriers
+KW  - CNS
+KW  - endothelial cells
+KW  - neuroinflammation
+PY  - 2018
+AB  - Abstract The blood?brain barrier (BBB) is an important physiologic barrier that separates CNS from soluble inflammatory mediators and effector immune cells from peripheral circulation. The optimum function of the BBB is necessary for the homeostasis, maintenance, and proper neuronal function. The clinical and experimental findings have shown that BBB dysfunction is an early hallmark of various neurologic disorders ranging from inflammatory autoimmune, neurodegenerative, and traumatic diseases to neuroinvasive infections. Significant progress has been made in the understanding of the regulation of BBB function under homeostatic and neuroinflammatory conditions. Several neurologic disease-modifying drugs have shown to improve the BBB function. However, they have a broad-acting immunomodulatory function and can increase the risk of life-threatening infections. The recent development of in vitro multicomponent 3-dimensional BBB models coupled with fluidics chamber as well as a cell-type specific reporter and knockout mice gave a new boost to our understanding of the dynamics of the BBB. In the review, we discuss the current understanding of BBB composition and recent findings that illustrate the critical regulatory elements of the BBB function under physiologic and inflammatory conditions, and also suggested the strategies to control BBB structure and function.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts presented at the 49th Annual Meeting of the American Society of Dermatopathology October 11-14,2012 Chicago, Illinois USA
+JO  - Journal of Cutaneous Pathology
+JA  - J Cutan Pathol
+VL  - 40
+IS  - 1
+SN  - 9780813821795
+UR  - https://doi.org/10.1111/cup.12062
+DO  - doi:10.1111/cup.12062
+SP  - 70
+EP  - 201
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts of the papers presented at the 43rd Annual Meeting of The American Society of Dermatopathology
+JO  - Journal of Cutaneous Pathology
+VL  - 34
+IS  - 1
+SN  - 9780813821795
+UR  - https://doi.org/10.1111/j.1600-0560.2006.00691.x
+DO  - doi:10.1111/j.1600-0560.2006.00691.x
+SP  - 79
+EP  - 138
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Swiss Society of Surgery
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 95
+IS  - S2
+SN  - 9780813821795
+UR  - https://doi.org/10.1002/bjs.6206
+DO  - doi:10.1002/bjs.6206
+SP  - 1
+EP  - 26
+PY  - 2008
+AB  - Abstract The following abstracts were presented at the 95th Annual Congress of the Swiss Society of Surgery. The meeting, held in Basel 28?30 May 2008, is organized for the sixth time in collaboration with the Swiss Society of Thoracic, Heart and Vascular Surgery. To view the abstracts from this meeting, please click the pdf link on this page. Copyright ? 2008 British Journal of Surgery Society Ltd. Published by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - Abstract Presentations from the AABB Annual Meeting Orlando, FL, October 22–25, 2016
+JO  - Transfusion
+JA  - Transfusion
+VL  - 56
+IS  - S4
+SN  - 9780813821795
+UR  - https://doi.org/10.1111/trf.13807
+DO  - doi:10.1111/trf.13807
+SP  - 3A
+EP  - 262A
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - Oral Sessions
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 98
+IS  - S5
+SN  - 9780813821795
+UR  - https://doi.org/10.1002/bjs.7577
+DO  - doi:10.1002/bjs.7577
+SP  - 1
+EP  - 48
+PY  - 2011
+AB  - Abstract The 46th Congress of the European Society for Surgical Research takes place this year in Aachen, Germany, 25?28 May. Copyright ? 2011 British Journal of Surgery Society Ltd. Published by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Musciano, Ayla R.
+AU  - Lanza, Matthew R.
+AU  - Dubielzig, Richard R.
+AU  - Teixeira, Leandro B. C.
+AU  - Durham, Amy C.
+TI  - Clinical and histopathological classification of feline intraocular lymphoma
+JO  - Veterinary Ophthalmology
+JA  - Vet Ophthalmol
+VL  - 23
+IS  - 1
+SN  - 9780813821795
+UR  - https://doi.org/10.1111/vop.12692
+DO  - doi:10.1111/vop.12692
+SP  - 77
+EP  - 89
+KW  - eye
+KW  - feline
+KW  - lymphoma
+KW  - ocular neoplasia
+PY  - 2020
+AB  - Abstract This retrospective study aimed to describe and classify cats with intraocular lymphoma, determine the proportion of cases with presumed solitary ocular lymphoma (PSOL) compared with ocular manifestations of multicentric disease and assess the clinical outcomes of these patients. One hundred seventy-two cases identified through biopsy submissions were reviewed histologically; 163 of these cases were subtyped according to the WHO classification system. Cases were categorized as having PSOL or ocular lymphoma with suspected systemic involvement (SSI) based on submission forms and follow-up data. The majority of cases exhibited concurrent uveitis (75%) and secondary glaucoma (58%). Diffuse large B-cell lymphoma was the most common subtype (n = 86; 53%), followed by peripheral T-cell lymphoma (n = 44; 27%). Other subtypes included anaplastic large T- (n = 8; 5%) and B-cell (n = 4; 2.5%) lymphomas, and 15 cases (9%) were negative for all immunohistochemical markers. In sixty-nine cases (40%), adequate clinical data and sufficient survival data were obtained to distinguish PSOL from SSI. PSOL comprised the majority of cases (64%), while 36% had SSI. When covarying for age at diagnosis, the median survival time was significantly higher (P = 0.003) for cases of PSOL (154 days) versus those with SSI (69 days); hazards ratio of 0.47 for PSOL (95% CI: 0.241-0.937). The subtype of lymphoma did not affect survival time. Cats with PSOL represent a greater proportion of the disease population, and this subset of cats with intraocular lymphoma has a better clinical outcome.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts
+JO  - Immunology
+JA  - Immunology
+VL  - 143
+IS  - s2
+SN  - 9780813821795
+UR  - https://doi.org/10.1111/imm.12406
+DO  - doi:10.1111/imm.12406
+SP  - 62
+EP  - 176
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - European Society of Veterinary Clinical Pathology (ESVCP) 8th Annual Congress
+JO  - Veterinary Clinical Pathology
+VL  - 35
+IS  - 4
+SN  - 9780813821795
+UR  - https://doi.org/10.1111/j.1939-165X.2006.tb00169.x
+DO  - doi:10.1111/j.1939-165X.2006.tb00169.x
+SP  - 474
+EP  - 488
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+TI  - Poster Sessions
+JO  - European Journal of Immunology
+JA  - Eur. J. Immunol.
+VL  - 39
+IS  - S1
+SN  - 9780813821795
+UR  - https://doi.org/10.1002/eji.200990184
+DO  - doi:10.1002/eji.200990184
+SP  - S332
+EP  - S555
+PY  - 2009
+AB  - Abstract No Abtract
+ER  - 
+
+TY  - JOUR
+AU  - Moore, J. K.
+AU  - MacKinnon, A. C.
+AU  - Man, T. Y.
+AU  - Manning, J. R.
+AU  - Forbes, S. J.
+AU  - Simpson, K. J.
+TI  - Patients with the worst outcomes after paracetamol (acetaminophen)-induced liver failure have an early monocytopenia
+JO  - Alimentary Pharmacology & Therapeutics
+JA  - Aliment Pharmacol Ther
+VL  - 45
+IS  - 3
+SN  - 9780813821795
+UR  - https://doi.org/10.1111/apt.13878
+DO  - doi:10.1111/apt.13878
+SP  - 443
+EP  - 454
+PY  - 2017
+AB  - Summary Background Acute liver failure (ALF) is associated with significant morbidity and mortality. Studies have implicated the immune response, especially monocyte/macrophages as being important in dictating outcome. Aim To investigate changes in the circulating monocytes and other immune cells serially in patients with ALF, relate these with cytokine concentrations, monocyte gene expression and patient outcome. Methods In a prospective case?control study in the Scottish Liver Transplant Unit, Royal Infirmary Edinburgh, 35 consecutive patients admitted with paracetamol-induced liver failure (POD-ALF), 10 patients with non-paracetamol causes of ALF and 16 controls were recruited. The peripheral blood monocyte phenotype was analysed by flow cytometry, circulating cytokines quantified by protein array and monocyte gene expression array performed and related to outcome. Results On admission, patients with worst outcomes after POD-ALF had a significant monocytopenia, characterised by reduced classical and expanded intermediate monocyte population. This was associated with reduced circulating lymphocytes and natural killer cells, peripheral cytokine patterns suggestive of a ?cytokine storm? and increased concentrations of cytokines associated with monocyte egress from the bone marrow. Gene expression array did not differentiate patient outcome. At day 4, there was no significant difference in monocyte, lymphocyte or natural killer cells between survivors and the patients with adverse outcomes. Conclusions Severe paracetamol liver failure is associated with profound changes in the peripheral blood compartment, particularly in monocytes, related with worse outcomes. This is not seen in patients with non-paracetamol-induced liver failure. Significant monocytopenia on admission may allow earlier clarification of prognosis, and it highlights a potential target for therapeutic intervention.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts presented at the 47th Annual Meeting of the American Society of Dermatopathology October 7–10, 2010 Atlanta, Georgia USA
+JO  - Journal of Cutaneous Pathology
+VL  - 38
+IS  - 1
+SN  - 9780813821795
+UR  - https://doi.org/10.1111/j.1600-0560.2010.01646.x
+DO  - doi:10.1111/j.1600-0560.2010.01646.x
+SP  - 81
+EP  - 177
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts Poster
+JO  - American Journal of Transplantation
+VL  - 9
+IS  - s2
+SN  - 9780813821795
+UR  - https://doi.org/10.1111/j.1600-6143.2009.02659.x
+DO  - doi:10.1111/j.1600-6143.2009.02659.x
+SP  - 384
+EP  - 729
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+TI  - XIX International Congress of Neuropathology
+JO  - Brain Pathology
+JA  - Brain Pathol
+VL  - 29
+IS  - S1
+SN  - 9780813821795
+UR  - https://doi.org/10.1111/bpa.12675
+DO  - doi:10.1111/bpa.12675
+SP  - 3
+EP  - 198
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - ISLH Poster Abstracts
+JO  - International Journal of Laboratory Hematology
+VL  - 30
+IS  - s1
+SN  - 9780813821795
+UR  - https://doi.org/10.1111/j.1751-553X.2008.01062.x
+DO  - doi:10.1111/j.1751-553X.2008.01062.x
+SP  - 58
+EP  - 147
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+TI  - Belfast Pathology 2017. 10th Joint Meeting of the British Division of the International Academy of Pathology and the Pathological Society of Great Britain & Ireland, 20–23 June 2017
+JO  - The Journal of Pathology
+JA  - J. Pathol.
+VL  - 243
+IS  - S1
+SN  - 9780813821795
+UR  - https://doi.org/10.1002/path.4984
+DO  - doi:10.1002/path.4984
+SP  - S1
+EP  - S41
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+TI  - Poster abstracts
+JO  - American Journal of Transplantation
+VL  - 10
+IS  - s4
+SN  - 9780813821795
+UR  - https://doi.org/10.1111/j.1600-6143.2010.03108.x
+DO  - doi:10.1111/j.1600-6143.2010.03108.x
+SP  - 213
+EP  - 571
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Abstract Presentations from the AABB Annual Meeting Anaheim, CA, October 24–27, 2015
+JO  - Transfusion
+JA  - Transfusion
+VL  - 55
+IS  - S3
+SN  - 9780813821795
+UR  - https://doi.org/10.1111/trf.13294
+DO  - doi:10.1111/trf.13294
+SP  - 3A
+EP  - 245A
+PY  - 2015
+ER  - 

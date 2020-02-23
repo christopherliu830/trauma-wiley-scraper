@@ -1,0 +1,269 @@
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Basic & Clinical Pharmacology & Toxicology
+JA  - Basic Clin Pharmacol Toxicol
+VL  - 121
+IS  - S2
+SN  - 1742-7835
+UR  - https://doi.org/10.1111/bcpt.12824
+DO  - doi:10.1111/bcpt.12824
+SP  - 3
+EP  - 90
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts
+JO  - Fundamental & Clinical Pharmacology
+JA  - Fundam Clin Pharmacol
+VL  - 27
+IS  - s1
+SN  - 0767-3981
+UR  - https://doi.org/10.1111/fcp.12026
+DO  - doi:10.1111/fcp.12026
+SP  - 46
+EP  - 127
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+AU  - Lucca, Liliana E.
+AU  - Hafler, David A.
+TI  - Co-inhibitory blockade while preserving tolerance: checkpoint inhibitors for glioblastoma
+JO  - Immunological Reviews
+JA  - Immunol Rev
+VL  - 276
+IS  - 1
+SN  - 0105-2896
+UR  - https://doi.org/10.1111/imr.12529
+DO  - doi:10.1111/imr.12529
+SP  - 9
+EP  - 25
+KW  - coinhibitory receptor
+KW  - glioblastoma
+KW  - T-cell exhaustion
+KW  - tolerance
+PY  - 2017
+AB  - Summary The introduction of immunotherapy with checkpoint receptor blockade has changed the treatment of advanced cancers, at times inducing prolonged remission. Nevertheless, the success rate of the approach is variable across patients and different tumor types, and treatment is often accompanied by severe immune-related side effects, suggesting the importance of co-inhibitory pathway for both prevention of autoimmunity and failure of tumor rejection. A better understanding of how to uncouple anti-tumor activity from loss of self-tolerance is necessary to increase the therapeutic efficacy of checkpoint immunotherapy. In this review, we describe basic concepts of T-cell exhaustion that occur in cancer, highlighting the role of co-inhibitory receptors in contributing to this process while preventing immunopathology. By providing an overview of the current therapeutic success and immune-related burden of secondary effects of checkpoint immunotherapy, we illustrate the ?double-edged sword? related to interference with immune-regulatory pathways. Finally, since achieving tumor rejection while preserving self-tolerance is particularly important for the central nervous system, we analyze the case for checkpoint immunotherapy in glioblastoma, the most common adult brain tumor.
+ER  - 
+
+AU  - Duzic, Emir
+AU  - Marino, Michael J.
+AU  - Williams, Michael
+C7  - pp. 499-548
+TI  - Receptor Targets in Drug Discovery
+SN  - 9780470278154
+UR  - https://doi.org/10.1002/0471266949.bmc029.pub2
+DO  - doi:10.1002/0471266949.bmc029.pub2
+SP  - 499-548
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+TI  - Breast Pathology (7–19)
+JO  - Pathology International
+VL  - 57
+IS  - s1
+SN  - 9780470278154
+UR  - https://doi.org/10.1111/j.1440-1827.2007.02113_2.x
+DO  - doi:10.1111/j.1440-1827.2007.02113_2.x
+SP  - A2
+EP  - A6
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Gastrointestinal Pathology (37–57)
+JO  - Pathology International
+VL  - 57
+IS  - s1
+SN  - 9780470278154
+UR  - https://doi.org/10.1111/j.1440-1827.2007.02113_5.x
+DO  - doi:10.1111/j.1440-1827.2007.02113_5.x
+SP  - A11
+EP  - A17
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Infectious Diseases (83–84)
+JO  - Pathology International
+VL  - 57
+IS  - s1
+SN  - 9780470278154
+UR  - https://doi.org/10.1111/j.1440-1827.2007.02113_9.x
+DO  - doi:10.1111/j.1440-1827.2007.02113_9.x
+SP  - A24
+EP  - A25
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Molecular Pathology (85–89)
+JO  - Pathology International
+VL  - 57
+IS  - s1
+SN  - 9780470278154
+UR  - https://doi.org/10.1111/j.1440-1827.2007.02113_10.x
+DO  - doi:10.1111/j.1440-1827.2007.02113_10.x
+SP  - A25
+EP  - A26
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Pulmonary Pathology (112–116)
+JO  - Pathology International
+VL  - 57
+IS  - s1
+SN  - 9780470278154
+UR  - https://doi.org/10.1111/j.1440-1827.2007.02113_13.x
+DO  - doi:10.1111/j.1440-1827.2007.02113_13.x
+SP  - A33
+EP  - A35
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Cytopathology (20–34)
+JO  - Pathology International
+VL  - 57
+IS  - s1
+SN  - 9780470278154
+UR  - https://doi.org/10.1111/j.1440-1827.2007.02113_3.x
+DO  - doi:10.1111/j.1440-1827.2007.02113_3.x
+SP  - A6
+EP  - A10
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Dermatopathology (35–36)
+JO  - Pathology International
+VL  - 57
+IS  - s1
+SN  - 9780470278154
+UR  - https://doi.org/10.1111/j.1440-1827.2007.02113_4.x
+DO  - doi:10.1111/j.1440-1827.2007.02113_4.x
+SP  - A10
+EP  - A11
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Others (91–111)
+JO  - Pathology International
+VL  - 57
+IS  - s1
+SN  - 9780470278154
+UR  - https://doi.org/10.1111/j.1440-1827.2007.02113_12.x
+DO  - doi:10.1111/j.1440-1827.2007.02113_12.x
+SP  - A27
+EP  - A33
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Invited Speaker Abstracts
+JO  - Respirology
+VL  - 14
+IS  - s3
+SN  - 9780470278154
+UR  - https://doi.org/10.1111/j.1440-1843.2009.01656.x
+DO  - doi:10.1111/j.1440-1843.2009.01656.x
+SP  - A93
+EP  - A124
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+TI  - Neuropathology (90)
+JO  - Pathology International
+VL  - 57
+IS  - s1
+SN  - 9780470278154
+UR  - https://doi.org/10.1111/j.1440-1827.2007.02113_11.x
+DO  - doi:10.1111/j.1440-1827.2007.02113_11.x
+SP  - A26
+EP  - A27
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Renal Pathology (117–118)
+JO  - Pathology International
+VL  - 57
+IS  - s1
+SN  - 9780470278154
+UR  - https://doi.org/10.1111/j.1440-1827.2007.02113_14.x
+DO  - doi:10.1111/j.1440-1827.2007.02113_14.x
+SP  - A35
+EP  - A35
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Urologic Pathology (119–127)
+JO  - Pathology International
+VL  - 57
+IS  - s1
+SN  - 9780470278154
+UR  - https://doi.org/10.1111/j.1440-1827.2007.02113_15.x
+DO  - doi:10.1111/j.1440-1827.2007.02113_15.x
+SP  - A35
+EP  - A38
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Hematolymphoid Pathology (63–78)
+JO  - Pathology International
+VL  - 57
+IS  - s1
+SN  - 9780470278154
+UR  - https://doi.org/10.1111/j.1440-1827.2007.02113_7.x
+DO  - doi:10.1111/j.1440-1827.2007.02113_7.x
+SP  - A19
+EP  - A23
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Bone and Soft Tissue Pathology (1–6)
+JO  - Pathology International
+VL  - 57
+IS  - s1
+SN  - 9780470278154
+UR  - https://doi.org/10.1111/j.1440-1827.2007.02113_1.x
+DO  - doi:10.1111/j.1440-1827.2007.02113_1.x
+SP  - A1
+EP  - A2
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Gynecologic Pathology (58–62)
+JO  - Pathology International
+VL  - 57
+IS  - s1
+SN  - 9780470278154
+UR  - https://doi.org/10.1111/j.1440-1827.2007.02113_6.x
+DO  - doi:10.1111/j.1440-1827.2007.02113_6.x
+SP  - A17
+EP  - A18
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Hepatobiliary Pathology (79–82)
+JO  - Pathology International
+VL  - 57
+IS  - s1
+SN  - 9780470278154
+UR  - https://doi.org/10.1111/j.1440-1827.2007.02113_8.x
+DO  - doi:10.1111/j.1440-1827.2007.02113_8.x
+SP  - A23
+EP  - A24
+PY  - 2007
+ER  - 

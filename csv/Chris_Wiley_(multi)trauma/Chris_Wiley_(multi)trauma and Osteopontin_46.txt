@@ -1,0 +1,327 @@
+
+TY  - JOUR
+AU  - Petreaca, M.L.
+AU  - Yao, M. 
+AU  - Martins-Green, M. 
+TI  - 060  Signal Transduction Mechanisms of IL-8-Induced Endothelial Permeability
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bh.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bh.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Permeability of the endothelium occurs early in the angiogenic process, resulting from the initial loss or disruption of endothelial cell-cell adhesions, which is followed by endothelial cell contraction, forming paracellular gaps. We are interested in the angiogenesis and endothelial permeability induced by inflammation; thus, we have chosen to study mechanisms involved in the endothelial permeability stimulated by the angiogenic chemokine Interleukin-8 (IL-8/CXCL8). We have found that IL-8 induces permeability in a receptor-dependent process requiring the activation of Gαi and the regulation of PKA activity. Pertussis toxin abolishes the effect of IL-8 on endothelial permeability, while a PKA inhibitor, H89, results in a similar effect. Thus, regulation of the level of PKA activity appears critical in IL-8-induced permeability, potentially due to the differential regulation of molecules downstream of PKA, such as SREBP and RhoA. PKA and cAMP are thought to inhibit the activation of SREBP, a protein involved in lipid metabolism; we have also found, using inhibitors of SREBP that this molecule is likewise necessary for the permeability stimulated by IL-8. Furthermore, SREBP inhibitors block IL-8-induced activation of RhoA, a GTPase that has been implicated in permeability induced by multiple factors. Taken together, our results indicate a possible signal transduction pathway downstream of the IL-8 receptors, in which the inhibition of cAMP production, and, thus, of PKA activation, by Gαi increases SREBP activity, resulting in increased RhoA activity, leading to endothelial cell contraction and gap formation, increasing endothelial permeability. Because IL-8 plays important roles in the permeability observed in inflammatory disorders, knowledge of the signaling mechanisms induced by this chemokine during permeability increases may be used to identify targets for drug development. This project has been funded by the American Heart Association.
+ER  - 
+
+TY  - JOUR
+AU  - Janis,             A.D.
+AU  - Ernst, D.M.J
+AU  - Sherman, D.M.
+AU  - Hodde, J.P.
+TI  - 068 Structural and Biochemical Characterization of Renal Capsule Matrix (RCM) Biomaterial
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bp.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bp.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Cellular interaction with biomaterials determines the fate of the implant. Naturally derived biomaterials such as small intestinal submucosa (SIS) and renal capsule matrix (RCM) may provide optimal structure and composition for cellular repopulation in certain wound healing applications. Porcine renal capsule matrix (RCM) is an acellular, naturally occurring extracellular matrix undergoing characterization and preclinical investigation for the treatment of soft tissue injury. Early studies have demonstrated that RCM constructs induce host tissue infiltration, tissue-specific remodeling, and repair. RCM consists primarily of collagen, although the other proteins have been detected, including the growth factors basic FGF, VEGF, and CTGF. Transmission and scanning electron microscopy were used to envision the cellular environment provided by this biomaterial. Comparison of the images utilizing cryo and traditional preparation techniques show that RCM is a dense, heterogeneous matrix consisting of textured fibers of mixed size. Although the matrix architecture shows signs of collapse following lyophilization, much of the native structure seen in the hydrated isolate is preserved. These differences are maintained following rehydration in normal saline. The effects of these structural changes on cellular reaction and infiltration are unknown, but the naturally complex architecture likely facilitates host interaction at the cellular level. Further compositional characterization is under way. This work was supported by Cook Biotech Incorporated, West Lafayette, IN.
+ER  - 
+
+TY  - JOUR
+AU  - Mansbridge, Jonathan
+AU  - Loryman, Chris
+TI  - 070 Reduction of IL-8 Secretion in Senescent Fibroblasts: Role in Chronic Wound Formation.
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215br.x
+DO  - doi:10.1111/j.1067-1927.2005.130215br.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Fibroblasts in chronic wounds, and in skin in which ulcers develop, have been reported to show characteristics of senescence, presumably induced by conditions predisposing to chronic wounds or the wound environment. In monolayer culture, secretion of IL-8 declines to zero as the cells approach senescence (at about generations 50?55 in the cells tested). In three-dimensional scaffold-based tissue culture, fibroblasts, at about 30?35 population doublings, upregulate the IL-8 gene by comparison with monolayer cultures and secrete large amounts of IL-8 (30?50?ng/106 cells/day). However, it is inferred that a decline in secretion, similar to that seen in monolayer also occurs in three-dimensional culture and in the senescent fibroblasts of chronic wounds. This will result in decreased influx and activation of neutrophils. The hypothesis is proposed that chronic wounds arise because fibroblasts, following injury to ulcer-prone skin, do not recruit and activate neutrophils sufficiently to prevent bacterial colonization. As the result of the persistent presence of live bacteria, inflammatory cells or keratinocytes in a wound site may be expected to trigger mechanisms to inhibit keratinocyte migration and reepithelialization, leading to chronic ulceration.
+ER  - 
+
+TY  - JOUR
+AU  - Gregory,             Sarah J.
+AU  - Rennison, Tracy
+AU  - Cullen, Breda M.
+TI  - 078 An ORC/Collagen Matrix ConTaining Silver and Microbial Imbalances in the Chronic Wound
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bz.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bz.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Delayed healing can result for a number of reasons; however, one important factor in the wound healing process is the role of bacteria. An imbalance in the wound bioburden may lead to infection, and thereby severely delay healing. Thus to ensure healing progresses in a timely manner, it is necessary to maintain a healthy microbial balance and prevent any impending infection. Dermal cells such as fibroblasts and keratinocytes generate numerous chemokines and growth factors that regulate the immune response and the phases of healing. While topical antiseptics and antimicrobials can kill bacteria and are therefore used to help manage infection in wounds, they may also be cytotoxic to these important cell types. Cytotoxicity is acceptable when overt clinical infection is present, due to a greater need for bacterial balance. However, clinical signs of infection in chronic wounds may not be present, making it difficult to correctly determine diagnosis and appropriate use of these antimicrobial products. In these cases, a product which addresses both the antibacterial action of topical antiseptics/antimicrobials and their impact on key healing factors, (i.e., cytotoxicity to host cells), could help reduce the incidence of wound infection without impacting the rate of healing. In this study we investigated the effect of silver-ORC and an ORC/collagen matrix containing silver-ORC on human dermal fibroblast proliferation. The antimicrobial properties of the dressing was also investigated, in in vitro studies using common bacterial wound pathogens. While other silver-releasing dressings address the bioburden of nonhealing wounds, their in vitro cytotoxicity suggests that the rate of healing may not be optimal if the presence of infection is questionable. In contrast this in vitro work suggests the ORC/collagen matrix containing silver-ORC is not cytotoxic, but is still capable of controlling wound pathogens, suggesting it may be used on a broad spectrum of wounds independent of their bacterial bioburden.
+ER  - 
+
+TY  - JOUR
+AU  - Lam,             K.
+AU  - Telgenhoff, D.
+AU  - Cooper, M.
+AU  - Posadas, K.
+AU  - Ramsay, S.
+AU  - Vasquez, V.
+AU  - Attar, P.
+AU  - Shroot, B.
+TI  - 080 The Effects of Papain-Urea-Copper Chlorophyllin Ointment on Healing of Wounds in an Acute Infected Full Thickness Porcine Model
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215cb.x
+DO  - doi:10.1111/j.1067-1927.2005.130215cb.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Removal of necrotic tissue is essential for wound-bed preparation for the treatment of chronic wounds. Enzymatic debridement appears to be most useful in the removal of eschar when surgical techniques cannot be utilized. The purpose of this study is to determine the efficacy of papain?urea chlorophyllin ointment compared to moist wound care using an infected, acute, porcine full thickness wound model. Twenty full thickness wounds were created on the dorsum of domestic pigs. Following hemostasis, the wounds were contaminated with wound-isolated bacteria then treated with test articles and dressed with moisture-retentive dressing. All the wounds were evaluated 1, 4, 8, 11, 14,18, and 21 days postsurgery for epithelialization and biopsies were obtained for microscopic evaluation. The results showed no adverse effect in reepithelialization in acute wounds when using papain?urea chlorophyllin 'ointment compared to moist wound care, TEWL measurements also showed no adverse affects from the treatment. Microscopic examination reveals an increase in the number of keratinocytes present in the epidermis of the treated pigs as well as an increase in the depth of rete pegs. New blood vessel formation was increased at all examined time points in the papain?urea chlorophyllin ointment treated pigs, which was verified with CD31 and von Willebrand Factor staining. VEGF was increased after 1 week in the wound fluid from treated wounds compared to moist control. While the reepithelialization rate does not appear to be inhibited by papain?urea-chlorophyllin combination in acute wounds, the healing appears to be more complete based on the number of keratinocytes present in the epidermis and the extensive rete peg formation. The wounds also appear to have enhanced vascularization which is vital in supplying nutrients to the newly healed wound.
+ER  - 
+
+TY  - JOUR
+AU  - Bassiri,             M.
+AU  - Wang, L.
+AU  - Najafi, K.
+AU  - Khosrovi, B.
+AU  - Najafi, R.
+TI  - 081 A New Antiseptic Solution with Potential Applications in Wound Care
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215cc.x
+DO  - doi:10.1111/j.1067-1927.2005.130215cc.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Despite the use of antibiotics, antiseptics, and improved sterile techniques, infection remains one of the most frequent complications of wound healing. Infection must be avoided to permit proper wound healing. Systemic and topical antibiotics and antiseptics with broad antimicrobial spectra have been used. Antiseptics have not generally been reported to develop bacterial resistance like antibiotics. Several reports have suggested that antiseptics exhibit significant cytotoxicity toward wound bed cells and may interfere with the normal wound healing process. Thus, for chronic ulcers, the standard of care is debridment and moist dressing with saline. We will describe the properties of a new topical antimicrobial solution, NVC-101. These include its broad-spectrum antimicrobial activities against gram positive, gram negative bacteria, yeast and fungi pathogens, and its lower toxicity as compared to commonly used topical antiseptics. In addition, we will describe the in vivo safety profile of NVC-101 in the rabbit eye and guinea pig sensitization models, as well as 28-day application to full thickness wounds in rats and mini-pigs. Based on these findings, multicenter Phase II clinical trials on infected chronic ulcers are under way.
+ER  - 
+
+TY  - JOUR
+AU  - Li,             J.
+AU  - Zhang, Y.P.
+AU  - Zhu, L.
+AU  - Mertz, P.M.
+AU  - Cazzaniga, A.L.
+AU  - Ricotti, C.
+AU  - Eaglstein, W.H.
+AU  - Davis, S.C.
+TI  - 090 Extracellular Matrix Regulation and Dermal Repair in Burn Wound
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215cl.x
+DO  - doi:10.1111/j.1067-1927.2005.130215cl.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - To better understand the mechanisms of dermal restoration in burn wound we examined the mRNA expressions, using a porcine secondary-degree burn wound model, of major dermal matrices including type I, III collagens and elastin, basement membrane components of collagen IV and laminins, regulatory Matrix Metalloproteinase MMP 1 and MMP 9, as well as growth factors of bFGF, CTGF, TGF?, and VEGF. Fresh skin burn wound samples from six pigs were collected at days 0, 1, 4, 7, 10, 14, and 21. Semiquantitative Reverse Transcription and Polymerase Chain Reactions (RT-PCR) were used with gene-specific primers. RT-PCR products were run on ethidium bromide gel and analyzed under UV light with Bio-Rad Gel Document 2000 system. One-way analysis of variance was used for statistical analysis. The results showed:'1) There were increases of all dermal extracellular matrices and growth factors tested; 2) A significant increase of type IV collagen occurred the earliest, while expressions of type I collagen and elastin increased at the latest; 3) A dramatic induction of MMP 1 and MMP 9 was observed shortly after wounding, which lasted through entire experiment; 4) The increased expression of VEGF, which is critical to angiogenesis, occurred early with peak at days 1 and 4, respectively. The expression pattern of bFGF, which has strong promoting effects on both endothelial cells and fibroblasts, is similar to that of VEGF; 5) For growth factors important for matrix deposition, both TGF beta 1 and 3 expressions increased gradually with sustained high level during entire experiment. The expression of CTGF, which is important in matrix production and remodeling, increased in later stage. This study showed the correlation between growth factor expression and dermal matrix deposition, which may have implications in developing strategies to improve burn wound healing. This study was supported by grants from DOD/DARPA and the Dermatology Foundation of South Florida.
+ER  - 
+
+TY  - JOUR
+TI  - Proceedings of the 31st Conference of the European Association of Veterinary Anatomists Vienna, Austria 27-30 July 2016
+JO  - Anatomia, Histologia, Embryologia
+JA  - Blackwell Verlag GmbH
+VL  - 45
+IS  - S1
+SN  - 0340-2096
+UR  - https://doi.org/10.1111/ahe.12236
+DO  - doi:10.1111/ahe.12236
+SP  - 5
+EP  - 98
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts List
+JO  - Journal of Tissue Engineering and Regenerative Medicine
+JA  - J Tissue Eng Regen Med
+VL  - 7
+IS  - s1
+SN  - 1932-6254
+UR  - https://doi.org/10.1002/term.1822
+DO  - doi:10.1002/term.1822
+SP  - 6
+EP  - 52
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - American Association of Anatomists 106th meeting—abstracts
+JO  - The Anatomical Record
+JA  - Anat. Rec.
+VL  - 237
+IS  - S1
+SN  - 0003-276X
+UR  - https://doi.org/10.1002/ar.1092370503
+DO  - doi:10.1002/ar.1092370503
+SP  - 30
+EP  - 124
+PY  - 1993
+ER  - 
+
+TY  - JOUR
+TI  - Author index
+JO  - BJU International
+VL  - 98
+IS  - 6
+SN  - 1464-4096
+UR  - https://doi.org/10.1111/j.1464-410X.2006.06632.x
+DO  - doi:10.1111/j.1464-410X.2006.06632.x
+SP  - 1349
+EP  - 1363
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+C7  - e25187
+TI  - HIV Glasgow 2018, 28–31 October 2018, Glasgow, UK
+JO  - Journal of the International AIDS Society
+JA  - J Intern AIDS Soc
+VL  - 21
+IS  - S8
+SN  - 1758-2652
+UR  - https://doi.org/10.1002/jia2.25187
+DO  - doi:10.1002/jia2.25187
+SP  - e25187
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts of the 2009 Joint Meeting of the International Pancreas and Islet Transplant Association (IPITA) and the International Xenotransplantation Association (IXA)
+JO  - Xenotransplantation
+VL  - 16
+IS  - 5
+SN  - 0908-665X
+UR  - https://doi.org/10.1111/j.1399-3089.2009.00539_4.x
+DO  - doi:10.1111/j.1399-3089.2009.00539_4.x
+SP  - 390
+EP  - 441
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Nephrology
+VL  - 8
+IS  - s1
+SN  - 1320-5358
+UR  - https://doi.org/10.1046/j.1440-1797.8.s1.3.x
+DO  - doi:10.1046/j.1440-1797.8.s1.3.x
+SP  - A1
+EP  - A53
+PY  - 2003
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Anatomia, Histologia, Embryologia
+JA  - Anat Histol Embryol
+VL  - 47
+IS  - S1
+SN  - 0340-2096
+UR  - https://doi.org/10.1111/ahe.12369
+DO  - doi:10.1111/ahe.12369
+SP  - 5
+EP  - 83
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - Abstract
+JO  - Experimental Dermatology
+JA  - Exp Dermatol
+VL  - 24
+IS  - 3
+SN  - 0906-6705
+UR  - https://doi.org/10.1111/exd.12623
+DO  - doi:10.1111/exd.12623
+SP  - E1
+EP  - E50
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+AU  - Sousa, Bruna R.
+AU  - Parreira, Ricardo C.
+AU  - Fonseca, Emerson A
+AU  - Amaya, Maria J.
+AU  - Tonelli, Fernanda M. P.
+AU  - Lacerda, Samyra M. S. N.
+AU  - Lalwani, Pritesh
+AU  - Santos, Anderson K.
+AU  - Gomes, Katia N.
+AU  - Ulrich, Henning
+AU  - Kihara, Alexandre H.
+AU  - Resende, Rodrigo R.
+TI  - Human adult stem cells from diverse origins: An overview from multiparametric immunophenotyping to clinical applications
+JO  - Cytometry Part A
+JA  - Cytometry
+VL  - 85
+IS  - 1
+SN  - 1552-4922
+UR  - https://doi.org/10.1002/cyto.a.22402
+DO  - doi:10.1002/cyto.a.22402
+SP  - 43
+EP  - 77
+KW  - umbilical cord blood
+KW  - bone marrow
+KW  - adipose-derived
+KW  - placental and amniotic fluid
+KW  - menstrual blood stem cells
+KW  - differentiation
+PY  - 2014
+AB  - Abstract Stem cells are known for their capacity to self-renew and differentiate into at least one specialized cell type. Mesenchymal stem cells (MSCs) were isolated initially from bone marrow but are now known to exist in all vascularized organ or tissue in adults. MSCs are particularly relevant for therapy due to their simplicity of isolation and cultivation. The International Society for Cellular Therapy (ISCT) has proposed a set of standards to define hMSCs for laboratory investigations and preclinical studies: adherence to plastic in standard culture conditions; in vitro differentiation into osteoblasts, adipocytes, and chondroblasts; specific surface antigen expression in which ≥95% of the cells express the antigens recognized by CD105, CD73, and CD90, with the same cells lacking (≤2% positive) the antigens CD45, CD34, CD14 or CD11b, CD79a or CD19, and HLA-DR. In this review we will take an historical overview of how umbilical cord blood, bone marrow, adipose-derived, placental and amniotic fluid, and menstrual blood stem cells, the major sources of human MSC, can be obtained, identified and how they are being used in clinical trials to cure and treat a very broad range of conditions, including heart, hepatic, and neurodegenerative diseases. An overview of protocols for differentiation into hepatocytes, cardiomyocytes, neuronal, adipose, chondrocytes, and osteoblast cells are highlighted. We also discuss a new source of stem cells, induced pluripotent stem cells (iPS cells) and some pathways, which are common to MSCs in maintaining their pluripotent state. ? 2013 International Society for Advancement of Cytometry
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Congenital Anomalies
+VL  - 43
+IS  - 3
+SN  - 0914-3505
+UR  - https://doi.org/10.1111/j.1741-4520.2003.tb01046.x
+DO  - doi:10.1111/j.1741-4520.2003.tb01046.x
+SP  - 205
+EP  - 250
+PY  - 2003
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentations
+JO  - The FEBS Journal
+VL  - 277
+IS  - s1
+SN  - 1742-464X
+UR  - https://doi.org/10.1111/j.1742-4658.2010.07680.x
+DO  - doi:10.1111/j.1742-4658.2010.07680.x
+SP  - 37
+EP  - 271
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - POSTER SESSION: BASIC SCIENCE
+JO  - European Journal of Heart Failure
+JA  - European Journal of Heart Failure
+VL  - 12
+IS  - S1
+SN  - 1388-9842
+UR  - https://doi.org/10.1093/eurjhf/hst008
+DO  - doi:10.1093/eurjhf/hst008
+SP  - S36
+EP  - S72
+PY  - 2013
+ER  - 

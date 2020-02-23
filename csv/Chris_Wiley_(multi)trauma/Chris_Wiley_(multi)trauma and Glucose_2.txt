@@ -1,0 +1,470 @@
+
+TY  - JOUR
+AU  - Baksi, Arun
+AU  - Kraydashenko, Oleg
+AU  - Zalevkaya, Alsu
+AU  - Stets, Roman
+AU  - Elliott, Peter
+AU  - Haddad, Jonathan
+AU  - Hoffmann, Ethan
+AU  - Vlasuk, George P.
+AU  - Jacobson, Eric W.
+TI  - A phase II, randomized, placebo-controlled, double-blind, multi-dose study of SRT2104, a SIRT1 activator, in subjects with type 2 diabetes
+JO  - British Journal of Clinical Pharmacology
+JA  - Br J Clin Pharmacol
+VL  - 78
+IS  - 1
+SN  - 0306-5251
+UR  - https://doi.org/10.1111/bcp.12327
+DO  - doi:10.1111/bcp.12327
+SP  - 69
+EP  - 77
+KW  - glucose homeostasis
+KW  - insulin
+KW  - SIRT1
+KW  - sirtuin
+KW  - SRT2104
+KW  - type 2 diabetes mellitus
+PY  - 2014
+AB  - Aim SRT2104 is a selective activator of SIRT1. In animal models, SRT2104 improves glucose homeostasis and increases insulin sensitivity. We evaluated the tolerability and pharmacokinetics of SRT2104, and its effects on glycaemic control, in adults with type 2 diabetes mellitus. Method Type 2 diabetics with glycosylated haemoglobin (HbA1c) ≥ 7.5% and ≤10.5%, fasting glucose ≥160 and ≤240?mg?dl?1, and on stable doses of metformin were evenly randomized to placebo or SRT2104 0.25?g, 0.5?g, 1.0?g or 2.0?g, administered orally once daily for 28?days. Changes in fasting and post-prandial glucose and insulin were analyzed. Results Safety evaluation found no major differences between groups in the frequency of adverse events. SRT2104 concentrations did not increase in a dose-proportional fashion. Significant variability in exposure was observed. Treatment with SRT2104 did not lead to any consistent, dose-related changes in glucose or insulin. Day 28 change from baseline (mean (SD)): fasting glucose (mmol?l?1) = ?1.17 (2.42), ?1.11 (3.45), ?0.52 (2.60), ?0.97 (2.83) and ?0.15 (2.38) for placebo, 0.25?g, 0.5?g, 1.0?g and 2.0?g, respectively. Day 28 change from baseline (mean (SD)): fasting insulin (mmol?l?1) = 1.0 (51.66), 8.9 (95.04), ?6.9 (41.45), 4.1 (57.16) and 15.2 (138.79) for placebo, 0.25?g, 0.5?g, 1.0?g and 2.0?g, respectively) Treatment with SRT2104 was associated with improvement in lipid profiles. Conclusion Treatment with SRT2104 for 28?days did not result in improved glucose or insulin control which is likely due to the observed pharmacokinetics which were not dose proportional and had large between subject variability.
+ER  - 
+
+TY  - JOUR
+AU  - BJÖRKELUND, K. B.
+AU  - HOMMEL, A.
+AU  - THORNGREN, K.-G.
+AU  - GUSTAFSON, L.
+AU  - LARSSON, S.
+AU  - LUNDBERG, D.
+TI  - Reducing delirium in elderly patients with hip fracture: a multi-factorial intervention study
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 54
+IS  - 6
+SN  - 0001-5172
+UR  - https://doi.org/10.1111/j.1399-6576.2010.02232.x
+DO  - doi:10.1111/j.1399-6576.2010.02232.x
+SP  - 678
+EP  - 688
+PY  - 2010
+AB  - Background: There is an evident need for improved management of elderly patients with trauma in order to avoid common and troublesome complications such as delirium. The aim of this study was to investigate whether an implementation of a multi-factorial program including intensified pre-hospital and perioperative treatment and care could reduce the incidence of delirium in elderly patients with hip fracture, cognitively intact at admission to the hospital. In addition, we explored the factors that characterize patients who developed delirium. Methods: A prospective, quasi-experimental design was used. A total of 263 patients with hip fracture (≥65 years), cognitively intact at admission, were consecutively included between April 2003 and April 2004. On 1 October 2003, a new program was introduced. All patients were screened for cognitive impairment within 30?min after admission to the emergency department using The Short Portable Mental Status Questionnaire (SPMSQ). To screen for delirium, patients were tested within 4?h of admission and thereafter daily, using the Organic Brain Syndrome scale. Results: The number of patients who developed delirium during hospitalization was 74 (28.1%), with a decrease from 34% (45 of 132) in the control group to 22% (29 of 131) in the intervention group (P=0.031). Patients who developed delirium were statistically older, more often had >4 prescribed drugs at admission and scored less well in the SPMSQ test. Conclusion: The use of a multi-factorial intervention program in elderly hip fracture patients, lucid at admission, reduced the incidence of delirium during hospitalization by 35%.
+ER  - 
+
+TY  - JOUR
+AU  - Li, H.
+AU  - Xu, Y.
+AU  - Guan, R.
+AU  - Matheu, M.
+AU  - Lei, H.
+AU  - Tian, W.
+AU  - Gao, Z.
+AU  - Lin, G.
+AU  - Guo, Y.
+AU  - Xin, Z.
+AU  - Song, W.
+TI  - Icariside II prevents high-glucose-induced injury on human cavernous endothelial cells through Akt-eNOS signaling pathway
+JO  - Andrology
+JA  - Andrology
+VL  - 3
+IS  - 2
+SN  - 2047-2919
+UR  - https://doi.org/10.1111/andr.303
+DO  - doi:10.1111/andr.303
+SP  - 408
+EP  - 416
+KW  - cavernous endothelial cells
+KW  - cell proliferation
+KW  - cellular signaling pathways
+KW  - high glucose
+KW  - Icariside II
+PY  - 2015
+AB  - Summary Dysfunction of human cavernous endothelial cells (HCECs) is a common pathological alteration caused by elevated high blood glucose levels associated with diabetes. To explore the protective effects of Icariside II (ICA II) on human cavernous endothelial cells, HCECs were isolated from non-diabetic human donors, cultured under high glucose (HG) conditions and treated with ICA II. The cell apoptosis and proliferation, expression of Ki67 and Erk1/2, antioxidant capacity, and expression of Akt and eNOS were examined. Changes in cell apoptosis and proliferation indicated that HG treatment inhibited HCEC proliferation with lower percentage of Ki67-positive cells and lower expression and phosphorylation of Erk1/2. Furthermore, the total antioxidant capacity (T-AOC) of HCECs was reduced under HG conditions. In line with these findings, both expression and phosphorylation of Akt as well as eNOS was down regulated after HG treatment. The reduction in proliferative capacity, p-Erk1/2, p-Akt, and p-eNOS were partially prevented by ICA II in a concentration-dependent manner. The protective effects of ICA II rescued HCEC from injury and dysfunction induced by HG in vitro. ICA II may be a candidate for prevention of the development of diabetic erectile dysfunction.
+ER  - 
+
+TY  - JOUR
+AU  - Rudolf, J.
+AU  - Sobesky, J.
+AU  - Ghaemi, M.
+AU  - Heiss, W.-D.
+TI  - The correlation between cerebral glucose metabolism and benzodiazepine receptor density in the acute vegetative state
+JO  - European Journal of Neurology
+VL  - 9
+IS  - 6
+SN  - 1351-5101
+UR  - https://doi.org/10.1046/j.1468-1331.2002.00468.x
+DO  - doi:10.1046/j.1468-1331.2002.00468.x
+SP  - 671
+EP  - 677
+KW  - acute vegetative state
+KW  - 11C-flumazenil
+KW  - positron emission tomography
+KW  - post-anoxic syndromes
+KW  - prognosis
+PY  - 2002
+AB  - This paper compares the results of parallel positron emission tomography (PET) studies of regional cerebral glucose metabolism with the radiotracer 18F-fluorodeoxyglucose (FDG) and benzodiazepine receptor (BZR) density by PET using the BZR ligand 11C-flumazenil (FMZ), a tracer of neuronal integrity, in nine patients with acute vegetative state (AVS, duration <1?month). Overall glucose utilization was significantly reduced in AVS in comparison with age-matched controls (global metabolic rate for glucose 26??mol/100?g/min in AVS vs. 31??mol/100?g/min in controls). FMZ-PET demonstrated a considerable reduction of BZR binding sites in all cortical regions that grossly corresponded to the extent of reduction of cerebral glucose metabolism assessed with FDG-PET, whilst the cerebellum was spared from neuronal loss. In controls, cortical relative flumazenil binding was not lower than five times the average white matter activity, whilst in AVS, nearly all values were below this threshold. There was no relevant overlap of the data of relative flumazenil binding between both groups. The comparison of FDG- and FMZ-PET findings in AVS demonstrates that alterations of cerebral glucose consumption do not represent mere functional inactivation, but irreversible structural brain damage.
+ER  - 
+
+TY  - JOUR
+AU  - Kotanen, Christian N.
+AU  - Guiseppi-Elie, Anthony
+TI  - Bioactive Electroconductive Hydrogels Yield Novel Biotransducers for Glucose
+JO  - Macromolecular Symposia
+JA  - Macromol. Symp.
+VL  - 317-318
+IS  - 1
+SN  - 1022-1360
+UR  - https://doi.org/10.1002/masy.201100164
+DO  - doi:10.1002/masy.201100164
+SP  - 187
+EP  - 197
+KW  - biosensors
+KW  - conductive polymers
+KW  - electrodes
+KW  - enzymes
+KW  - hydrogels
+KW  - microarrays
+PY  - 2012
+AB  - Abstract A class of bioactive, stimuli-responsive co-joined interpenetrating networks of inherently conductive polymers and highly hydrated hydrogels are being developed for implantable biodevice interfaces and for electric field induced release of elutable drugs. A novel microfabricated multidisc electrode array biotransducer intended for trauma management has been coated with poly(HEMA)-polypyrrole and characterized by cyclic voltammetry and chronoamperometry using ferrocene monocarboxylic acid (FcCOOH) as a probe molecule. Electrodeposition of polypyrrole (700?mV vs. Ag/AgCl) to 100 mC/cm2 onto the hydrogel coated microdisc electrode array resulted in large and unstable background currents relative to uncoated electrodes. Overoxidation of polypyrrole (0?1.2?V vs. Ag/AgCl, 20 cylces, 100?mV/s) eliminates background current. Dose-response curves with FcCOOH showed that the transducer has good reproducibility with molecules of facile electrochemical properties. Polypyrrole provides interference screening of endogenous interferents in biosensor applications with a 12:1 rejection ratio. GOx was immobilized via electropolymerization of polypyrrole into hydrogel coated MDEA 5037s to yield biotransducers with sensitivity of 0.045?µA?mM?1 cm?2. Changes to improve biotransducer sensitivity are proposed.
+ER  - 
+
+TY  - JOUR
+AU  - Steven, James
+AU  - Nicolson, Susan
+TI  - Perioperative management of blood glucose during open heart surgery in infants and children
+JO  - Pediatric Anesthesia
+VL  - 21
+IS  - 5
+SN  - 1155-5645
+UR  - https://doi.org/10.1111/j.1460-9592.2011.03587.x
+DO  - doi:10.1111/j.1460-9592.2011.03587.x
+SP  - 530
+EP  - 537
+KW  - adverse events
+KW  - complications, fluids, morbidity
+KW  - outcomes, function
+KW  - brain, systematic reviews/meta-analysis
+KW  - clinical trials, surgery
+KW  - cardiac
+PY  - 2011
+AB  - Summary The perioperative management of blood glucose has been controversial since clinical associations between hyperglycemia and adverse outcomes were first reported more than two decades ago. Despite some early evidence supporting a causal relationship between hyperglycemia and adverse outcomes, prospective trials of tight glycemic control have been inconclusive, except in selected populations, like adult diabetics. These trials have consistently reported dramatic increases in the incidence and severity of hypoglycemia, which may also have associated adverse outcomes. Bedside glucose monitors typically used to manage glucose have increasingly been found to introduce systematic inaccuracies. Relevant studies of infants and children undergoing cardiac surgery are considerably fewer in number, requiring clinicians to extrapolate from other clinical conditions and patient populations.
+ER  - 
+
+TY  - JOUR
+AU  - Ibrahim, M.A.
+AU  - Labib, B.
+AU  - Sallam, T.
+AU  - Sarhan, I.
+AU  - El-Damasy, H.
+TI  - Effect of dialyzer reprocessing on glucose homeostasis
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121z.x
+DO  - doi:10.1111/j.1492-7535.2005.1121z.x
+SP  - 79
+EP  - 79
+PY  - 2005
+AB  - This study was designed to investigate the possible effect of dialyzer re-use on glucose hemostasis. Twenty patients with end stage renal failure (including ten non insulin dependent diabetes mellitus [NIDDM]) on thrice weekly hemodialysis (using glucose free dialysate), were studied by serial assessment of blood glucose, C-peptide, interleukin 1-B (IL-IB), Ca, Na and K at zero, 1 and 4 hours (end of dialysis) during hemodialysis on new, and then on re-used (first) cuprophane dialyzers. Our results showed significant rise of C-peptide, IL-1B with drop of blood glucose in first hour sample (and was symptomatic in some diabetics) in both groups when using new dialyzers but these changes were less marked and totally asymptomatic when using reprocessed dialyzers. In addition there was a significant positive correlation between IL-1B level and C-peptide at 1 and 4 hour samples and negative correlation between IL-1B and blood glucose at 1 and 4 hour samples. Conclusion: Through the effect of IL-1B on insulin release curophane dialyzers can affect glucose homeostasis especially in diabetics and hypoglycemia might be part of the first use syndrome. It may be recommended that measurement of glucose effect of dialysis membrane on glucose homeostasis might be an important parameter of membrane bioincompatibility.
+ER  - 
+
+TY  - JOUR
+AU  - Nathanson, M. H.
+AU  - Andrzejowski, J.
+AU  - Dinsmore, J.
+AU  - Eynon, C.A.
+AU  - Ferguson, K.
+AU  - Hooper, T.
+AU  - Kashyap, A.
+AU  - Kendall, J.
+AU  - McCormack, V.
+AU  - Shinde, S.
+AU  - Smith, A.
+AU  - Thomas, E.
+TI  - Guidelines for safe transfer of the brain-injured patient: trauma and stroke, 2019
+JO  - Anaesthesia
+JA  - Anaesthesia
+VL  - 75
+IS  - 2
+SN  - 0003-2409
+UR  - https://doi.org/10.1111/anae.14866
+DO  - doi:10.1111/anae.14866
+SP  - 234
+EP  - 246
+KW  - brain injury
+KW  - guidelines
+KW  - stroke
+KW  - transfer
+PY  - 2020
+AB  - Summary The location of care for many brain-injured patients has changed since 2012 following the development of major trauma centres. Advances in management of ischaemic stroke have led to the urgent transfer of many more patients. The basis of care has remained largely unchanged, however, with emphasis on maintaining adequate cerebral perfusion as the key to preventing secondary injury. Organisational aspects and training for transfers are highlighted, and we have included an expanded section on paediatric transfers. We have also provided a table with suggested blood pressure parameters for the common types of brain injury but acknowledge that there is little evidence for many of our recommendations. These guidelines remain a mix of evidence-based and consensus-based statements. We have received assistance from many organisations representing clinicians who care for these patients, and we believe our views represent the best of current thinking and opinion. We encourage departments to review their own practice using our suggestions for audit and quality improvement.
+ER  - 
+
+TY  - JOUR
+AU  - Driessen, Bernd
+AU  - Brainard, Benjamin
+TI  - Fluid therapy for the traumatized patient
+JO  - Journal of Veterinary Emergency and Critical Care
+VL  - 16
+IS  - 4
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/j.1476-4431.2006.00184.x
+DO  - doi:10.1111/j.1476-4431.2006.00184.x
+SP  - 276
+EP  - 299
+KW  - colloid
+KW  - crystalloid
+KW  - fluid resuscitation
+KW  - goals and endpoints of resuscitation
+KW  - hemoglobin-based oxygen carrier (HBOC)
+KW  - hemorrhagic shock
+KW  - hypotensive resuscitation
+KW  - hypovolemic resuscitation
+KW  - trauma
+PY  - 2006
+AB  - Abstract Objective: To review the rationale behind and experiences with traditional and newly evolving concepts of fluid therapy in the traumatized patient, and to review conventional and novel fluid preparations for use in trauma resuscitation. Data sources: Human and veterinary clinical and research studies. Human data synthesis: Current treatment guidelines recommend aggressive fluid resuscitation with lactated ringers solution (LRS) or saline as optimum management of hemorrhagic shock in trauma, regardless of whether bleeding is controlled or not. The rationale behind this strategy is to restore intravascular volume as rapidly as possible to ensure adequate vital organ perfusion. Recently, this strategy has been challenged, especially in patients with uncontrolled hemorrhage, as neither laboratory evidence nor clinical trials support this practice. Current research indicates that vigorous fluid infusion may exacerbate bleeding and cause severe hemodilution, both impairing resuscitation outcome. As a result, a new line of thinking is emerging that balances the risks and benefits of intravenous volume infusion by offering the clinician alternative treatment strategies and emphasizes continuous endpoint-oriented monitoring. ?Hypotensive? or ?hypovolemic? resuscitation techniques as well as initial volume replacement with fluids other than LRS or saline (e.g., hypertonic saline [HTS], HTS with dextran 70 [HTS-D]) have been introduced in human medical practice as additional options for treatment of victims of trauma under certain circumstances. Clinical studies evaluating the use of hemoglobin-based oxygen carriers (HBOCs) in the trauma setting are underway and may soon lead to an expansion of the fluid arsenal available to the clinician for treatment of trauma patients. Veterinary data synthesis: Based on available animal data, neither strict guidelines nor a clear fluid preference for resuscitation of traumatic shock have been defined. Although systematic clinical trials are missing, combinations of crystalloid and colloid (natural or artificial) appear to be as effective for resuscitation as crystalloid alone. Judicious use of an HBOC (e.g., Oxyglobin?) as a substitute for blood/red blood cells may be recommended in situations where whole blood or pRBCs are not or not yet available. Conclusions: The search for optimal methods of fluid resuscitation in trauma is ongoing. At this point the best solution is a differentiated approach to fluid therapy, one that tailors type and volume of resuscitation solution(s) used to the type and severity of injury in an individual patient and uses monitoring of perfusion and oxygenation parameters to guide resuscitation. Crystalloid fluids are effective for resuscitation but may need to be combined with or replaced by colloidal fluids in certain clinical situations.
+ER  - 
+
+TY  - JOUR
+AU  - Dahlin, L. B.
+AU  - Thrainsdottir, S.
+AU  - Cederlund, R.
+AU  - Thomsen, N. O. B.
+AU  - Eriksson, K. F.
+AU  - Rosén, I.
+AU  - Speidel, T.
+AU  - Sundqvist, G.
+TI  - Vibrotactile sense in median and ulnar nerve innervated fingers of men with Type 2 diabetes, normal or impaired glucose tolerance
+JO  - Diabetic Medicine
+VL  - 25
+IS  - 5
+SN  - 0742-3071
+UR  - https://doi.org/10.1111/j.1464-5491.2008.02433.x
+DO  - doi:10.1111/j.1464-5491.2008.02433.x
+SP  - 543
+EP  - 549
+KW  - median nerve
+KW  - neuropathy
+KW  - Type 2 diabetes
+KW  - ulnar nerve
+KW  - vibrotactile sense
+PY  - 2008
+AB  - Abstract Aims? To investigate vibrotactile sense (large fibre neuropathy) at different frequencies in index and little fingers (median and ulnar nerves, respectively) of subjects with diabetes, or impaired (IGT) or normal glucose tolerance (NGT). Methods? Vibration thresholds (tactilometry at seven frequencies (8, 16, 32, 64, 125, 250 and 500 Hz)) and median nerve function (electrophysiology) were examined in men (age 73.4 ± 0.12 years; n = 58, mean ± sd) with persistent NGT (n = 28) or IGT (n = 7) or with Type 2 diabetes mellitus (T2DM) (n = 23) for > 15 years. Results? HbA1c was increased and vibrotactile sense (sensibility index) was impaired in index and little fingers in men with T2DM. Vibration thresholds were particularly increased at 16, 250 and 500 Hz in the little finger (ulnar nerve). T2DM subjects showed electrophysiological (gold standard) signs of neuropathy in the median nerve. Although subjects with persistent IGT had higher HbA1c, vibrotactile sensation and electrophysiology remained normal. HbA1c did not correlate with vibrotactile sense or electrophysiology, but the latter two correlated with respect to Z-score (sign of neuropathy) in forearm (NGT) and at wrist level (NGT and DM). Conclusions? Vibration thresholds are increased in the finger pulps in T2DM subjects, particularly at specific frequencies in ulnar nerve innervated finger pulps. Neuropathy is not present in IGT. Tactilometry, with a multi-frequency approach, is a sensitive technique to screen for large fibre neuropathy in T2DM. Frequency-related changes may mirror dysfunction of various receptors.
+ER  - 
+
+TY  - JOUR
+AU  - Seo, Sang Won
+AU  - Cho, Sang Soo
+AU  - Park, Aram
+AU  - Chin, Juhee
+AU  - Na, Duk L.
+TI  - Subcortical Vascular versus Amnestic Mild Cognitive Impairment: Comparison of Cerebral Glucose Metabolism
+JO  - Journal of Neuroimaging
+VL  - 19
+IS  - 3
+SN  - 1051-2284
+UR  - https://doi.org/10.1111/j.1552-6569.2008.00292.x
+DO  - doi:10.1111/j.1552-6569.2008.00292.x
+SP  - 213
+EP  - 219
+KW  - Small vessel disease
+KW  - MCI
+KW  - PET
+PY  - 2009
+AB  - ABSTRACT BACKGROUND AND PURPOSE Most studies on mild cognitive impairment (MCI) have been focused on amnestic MCI (aMCI) that is the preclinical stage of Alzheimer's disease (AD). In contrast, only a few studies have involved patients in the preclinical stages of subcortical vascular dementia (subcortical vascular MCI, svMCI). We tried to compare the overall glucose metabolism in patients with svMCI with that of patients with aMCI. METHODS We compared the regional metabolic patterns shown on 18 F-FDG (fluro deoxy glucose) positron emission tomography (PET) images from 18 patients with svMCI with those from 25 aMCI patients matched for age, sex, education, and mini-mental state examination (MMSE) score and with those from 35 healthy subjects using a voxel-wise analysis. SPM 2 was used for statistical analysis. RESULTS Relative to normal controls, the hypometabolic regions in the aMCI patients were in the bilateral parahippocampal, bilateral posterior cingulate, left superior temporal gyri, left inferior parietal lobule, and right inferior frontal gyrus while those in the svMCI patients were located in the thalamus, insula, superior temporal gyrus, anterior cingulate gyrus, cingulum, right basal ganglia, cerebellum, and brainstem. A direct comparison of glucose metabolism between svMCI and aMCI showed that the glucose hypometabolism in patients with svMCI was more severe in the thalamus, brainstem, and cerebellum. CONCLUSION Our study suggested that svMCI was distinct from aMCI in terms of neuropsychological and PET findings, which may explain their clinical manifestations.
+ER  - 
+
+TY  - JOUR
+AU  - Zhou, Zhuang
+AU  - Chen, Qingsong
+AU  - Wan, Lei
+AU  - Zheng, Daofeng
+AU  - Li, Zhongtang
+AU  - Wu, Zhongjun
+TI  - Dexmedetomidine protects hepatic cells against oxygen-glucose deprivation/reperfusion injury via lncRNA CCAT1
+JO  - Cell Biology International
+JA  - Cell Biol Int
+VL  - 42
+IS  - 9
+SN  - 1065-6995
+UR  - https://doi.org/10.1002/cbin.10996
+DO  - doi:10.1002/cbin.10996
+SP  - 1250
+EP  - 1258
+KW  - cell apoptosis
+KW  - dexmedetomidine
+KW  - HL7702 cells
+KW  - lncRNA CCAT1
+KW  - oxygen-glucose deprivation/reperfusion injury
+PY  - 2018
+AB  - Abstract Dexmedetomidine (Dex) protects different cell types during hypoxia or ischemia-reperfusion injury by inhibiting cell apoptosis. However, the underlying mechanism and its impact on hepatic ischemia reperfusion injury are still not known. In this study, we established a model of oxygen-glucose deprivation/reperfusion (OGD/R) injury in hepatocyte HL7702 cells, and studied the impact of Dex on cell proliferation, apoptosis, and cell cycle during OGD/R. In addition, we explored the role of CCAT1 in this process. We found that Dex increased cell proliferation and inhibited cell apoptosis during OGD/R, in a concentration-dependent manner. Dex partially reversed the OGD-inhibited expression of lncRNA CCAT1. Knockdown of CCAT1 by siRNA inhibited Dex-mediated protection against OGD/R-induced injury and promoted cell apoptosis, caspase-3 expression and cell cycle arrest in the G0/G1 phase, and inhibited cell proliferation and cyclin D1 expression. In contrast, overexpression of CCAT1 by pcDNA3.0-CCAT1 enhanced Dex-mediated protection against OGD/R-induced cell injury. Thus, Dex protects hepatocytes against OGD/R injury by upregulating lncRNA CCAT1. This study suggests a novel role of CCAT1 in ischemia reperfusion injury, and lays the framework for future studies.
+ER  - 
+
+TY  - JOUR
+AU  - Wu, Xing
+AU  - Chen, Hui
+AU  - Wang, Yongliang
+AU  - Li, Hongwei
+TI  - The relationship between coronary risk factors and elevated 1-h postload plasma glucose levels in patients with established coronary heart disease
+JO  - Clinical Endocrinology
+JA  - Clin Endocrinol
+VL  - 78
+IS  - 1
+SN  - 0300-0664
+UR  - https://doi.org/10.1111/j.1365-2265.2012.04362.x
+DO  - doi:10.1111/j.1365-2265.2012.04362.x
+SP  - 67
+EP  - 72
+PY  - 2013
+AB  - Summary Objective Recent studies have shown that an elevated 1-h postload plasma glucose (1hPG) is able to identify subjects with normal glucose tolerance (NGT) at high risk for future type 2 diabetes and atherosclerotic cardiovascular disease. However, clinical studies about the characteristics of coronary heart disease (CHD) patients with elevated 1hPG are lacking. The aim of this study was to analyse the 1hPG level in CHD patients with NGT. Methods A total of 204 CHD patients with NGT were recruited. Subjects underwent an oral glucose tolerance test, echocardiography and coronary angiography. Demographic data were recorded and blood samples obtained. According to the 1hPG cut-off point of 8·6 mm, patients were divided into two groups: 1hPG ≥ 8·6 mm (n = 65) and 1hPG < 8·6 mm (n = 139). Results Compared with the 1hPG < 8·6 mm group, subjects with 1hPG ≥ 8·6 mm had a worse metabolic profile, exhibiting significantly higher body mass index, systolic blood pressure, triglyceride level and lower HDL-cholesterol level. Plasma high-sensitivity CRP (hsCRP) levels were higher in the 1hPG ≥ 8·6 mm group than in the 1hPG < 8·6 mm group. Coronary angiography revealed that single-vessel changes were more frequent in the 1hPG < 8·6 mm group, but there were no significant differences in the Gensini score. Conclusions Patients with CHD with 1hPG ≥ 8·6 mm have a worse metabolic profile, higher levels of hsCRP and multi-vessel coronary atherosclerosis. These findings suggest that, in patients with CHD, elevated 1hPG increases coronary risk factors and may be a marker for early-stage glucose intolerance.
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Qin
+AU  - Yang, Lin
+AU  - Wang, Yaping
+TI  - Enhanced differentiation of neural stem cells to neurons and promotion of neurite outgrowth by oxygen–glucose deprivation
+JO  - International Journal of Developmental Neuroscience
+JA  - International Journal of Developmental Neuroscience
+VL  - 43
+IS  - C
+SN  - 0736-5748
+UR  - https://doi.org/10.1016/j.ijdevneu.2015.04.009
+DO  - doi:10.1016/j.ijdevneu.2015.04.009
+SP  - 50
+EP  - 57
+KW  - Neural stem cells
+KW  - Oxygen–glucose deprivation
+KW  - Proliferation
+KW  - Differentiation
+PY  - 2015
+AB  - Abstract Stroke has become the leading cause of mortality worldwide. Hypoxic or ischemic insults are crucial factors mediating the neural damage in the brain tissue of stroke patients. Neural stem cells (NSCs) have been recognized as a promising tool for the treatment of ischemic stroke and other neurodegenerative diseases due to their inducible pluripotency. In this study, we aim to mimick the cerebral hypoxic-ischemic injury in vitro using oxygen?glucose deprivation (OGD) strategy, and evaluate the effects of OGD on the NSC's neural differentiation, as well as the differentiated neurite outgrowth. Our data showed that NSCs under the short-term 2 h OGD treatment are able to maintain cell viability and the capability to form neurospheres. Importantly, this moderate OGD treatment promotes NSC differentiation to neurons and enhances the performance of the mature neuronal networks, accompanying increased neurite outgrowth of differentiated neurons. However, long-term 6 h and 8 h OGD exposures in NSCs lead to decreased cell survival, reduced differentiation and diminished NSC-derived neurite outgrowth. The expressions of neuron-specific microtubule-associated protein 2 (MAP-2) and growth associated protein 43 (GAP-43) are increased by short-term OGD treatments but suppressed by long-term OGD. Overall, our results demonstrate that short-term OGD exposure in vitro induces differentiation of NSCs while maintaining their proliferation and survival, providing valuable insights of adopting NSC-based therapy for ischemic stroke and other neurodegenerative disorders.
+ER  - 
+
+TY  - JOUR
+AU  - Martin, W. G.
+AU  - Galligan, J.
+AU  - Simpson Jr, S.
+AU  - Greenaway, T.
+AU  - Burgess, J.
+TI  - Admission blood glucose predicts mortality and length of stay in patients admitted through the emergency department
+JO  - Internal Medicine Journal
+JA  - Intern Med J
+VL  - 45
+IS  - 9
+SN  - 1444-0903
+UR  - https://doi.org/10.1111/imj.12841
+DO  - doi:10.1111/imj.12841
+SP  - 916
+EP  - 924
+KW  - diabetes
+KW  - stress hyperglycaemia
+KW  - glycaemic variability
+KW  - length of stay
+KW  - mortality
+PY  - 2015
+AB  - Abstract Background Hyperglycaemia has been associated with adverse outcomes in several different hospital populations. Aim The aim of this study was to investigate the relationship between admission blood glucose level (BGL) and outcomes in all patients admitted through the emergency department. Methods This study was a retrospective observational cohort study from an Australian tertiary referral hospital. Patients admitted in the first week of each month from April to October 2012 had demographic data, co-morbidities, BGL, intensive care unit admission, length of stay and dates of death recorded. Factors associated with outcomes were assessed by multi-level mixed-effects linear regression. Results Admission BGL was recorded for 601 admissions with no diagnosis of diabetes and for 219 admissions diagnosed with type 2 diabetes (T2DM). In patients with no diagnosis of diabetes, admission BGL was associated with in-hospital and 90-day mortality (P < 0.001). After multivariate analysis, BGL greater than 11.5?mmol/L was significantly associated with increased mortality at 90 days (P < 0.05). In patients with T2DM increased BGL on admission was not associated with in-hospital or 90-day mortality but was associated with length of hospital stay (?: 0.22 days/mmol/L; 95% confidence interval 0.09?0.35; P < 0.001), although this association was lost on multivariable analysis. In patients with T2DM, increased coefficient of variation of BGL was also positively associated with length of hospital stay in an almost dose-dependent fashion (P < 0.001). Conclusion Admission BGL was independently associated with increased mortality in patients with no diagnosis of diabetes. Glycaemic variability was associated with increased length of hospital stay in patients with T2DM.
+ER  - 
+
+TY  - JOUR
+AU  - Elnour, Asim Ahmed
+AU  - McElnay, James C.
+TI  - Antenatal oral glucose-tolerance test values and pregnancy outcomes
+JO  - International Journal of Pharmacy Practice
+VL  - 16
+IS  - 3
+SN  - 0961-7671
+UR  - https://doi.org/10.1211/ijpp.16.3.0009
+DO  - doi:10.1211/ijpp.16.3.0009
+SP  - 189
+EP  - 197
+PY  - 2008
+AB  - Abstract Objective The aim of the present study was to explore the impact of individual blood glucose values (n = 4; i.e. fasting and 1, 2 and 3 h following oral glucose administration) obtained during antenatal oral glucose-tolerance testing, together with two different sets of criteria used for diagnosis of gestational diabetes mellitus (GDM) ? Carpenter and Coustan Criteria (CCC) and National Diabetes Data Group (NDDG) criteria ? in predicting pregnancy outcomes and maternal insulin need. Setting Al Ain Hospital, United Arab Emirates. Results The maternal and neonatal outcomes indicated that the number of abnormally elevated antenatal OGTT values obtained during the diagnosis of GDM was significantly correlated with development of a number of pregnancy complications. Data analysis also indicated that the number of abnormal diagnostic antenatal OGTT values using CCC was significantly correlated with development of postpartum diabetes mellitus (P = 0.044) within 6months of delivery. The number of abnormal OGTT values significantly contributed to insulin need during the index pregnancy (P < 0.05). The CCC approach was more sensitive than the NDDG methodology for predicting the onset of GDM and a number of the associated complications. Conclusions The study highlighted the importance of abnormal values for antenatal OGTT in identifying the need for insulin management in women with GDM.
+ER  - 
+
+TY  - JOUR
+AU  - Krunic, Aleksandar L.
+AU  - Carag, Henry
+AU  - Medenica, Maria M.
+AU  - Lorincz, Allan L.
+TI  - A Case of Primary Cutaneous Histoplasmosis in a Patient with Diabetes and Multi-Infarct Dementia
+JO  - The Journal of Dermatology
+JA  - The Journal of Dermatology
+VL  - 29
+IS  - 12
+SN  - 0385-2407
+UR  - https://doi.org/10.1111/j.1346-8138.2002.tb00226.x
+DO  - doi:10.1111/j.1346-8138.2002.tb00226.x
+SP  - 797
+EP  - 802
+KW  - histoplasmosis
+KW  - primary
+KW  - skin
+KW  - diabetes
+PY  - 2002
+AB  - Abstract We report a case of primary cutaneous histoplasmosis in a fifty-year-old African-American woman with diabetes and multi-infarct dementia. The patient developed fever and crusted, nodulo-ulcerative lesions of the skin after accidental superficial trauma to the forehead. The biopsy revealed suppurative granulomatous inflammation with intracellular and extracellular yeast-like cells with associated clear halo measuring 3?4 ?m in size. Systemic involvement was not found. The lesions cleared after treatment with itraconazole 200 mg twice a day for 3 weeks. The medication was continued for a total period of 3 months, with no signs of recurrence after one-year of follow-up.
+ER  - 
+
+TY  - JOUR
+AU  - Stefani, Marco A.
+AU  - Modkovski, Rafael
+AU  - Hansel, Gisele
+AU  - Zimmer, Eduardo R.
+AU  - Kopczynski, Afonso
+AU  - Muller, Alexandre P.
+AU  - Strogulski, Nathan R.
+AU  - Rodolphi, Marcelo S.
+AU  - Carteri, Randhall K.
+AU  - Schmidt, André P.
+AU  - Oses, Jean P.
+AU  - Smith, Douglas H.
+AU  - Portela, Luis V.
+TI  - Elevated glutamate and lactate predict brain death after severe head trauma
+JO  - Annals of Clinical and Translational Neurology
+JA  - Ann Clin Transl Neurol
+VL  - 4
+IS  - 6
+SN  - 2328-9503
+UR  - https://doi.org/10.1002/acn3.416
+DO  - doi:10.1002/acn3.416
+SP  - 392
+EP  - 402
+KW  - glutamate
+KW  - lactate
+KW  - Traumatic brain injury
+PY  - 2017
+AB  - Abstract Objective Clinical neurological assessment is challenging for severe traumatic brain injury (TBI) patients in the acute setting. Waves of neurochemical abnormalities that follow TBI may serve as fluid biomarkers of neurological status. We assessed the cerebrospinal fluid (CSF) levels of glutamate, lactate, BDNF, and GDNF, to identify potential prognostic biomarkers of neurological outcome. Methods This cross-sectional study was carried out in a total of 20 consecutive patients (mean [SD] age, 29 [13] years; M/F, 9:1) with severe TBI Glasgow Coma Scale ≤ 8 and abnormal computed tomography scan on admission. Patients were submitted to ventricular drainage and had CSF collected between 2 and 4 h after hospital admission. Patients were then stratified according to two clinical outcomes: deterioration to brain death (nonsurvival, n = 6) or survival (survival, n = 14), within 3 days after hospital admission. CSF levels of brain-derived substances were compared between nonsurvival and survival groups. Clinical and neurological parameters were also assessed. Results Glutamate and lactate are significantly increased in nonsurvival relative to survival patients. We tested the accuracy of both biomarkers to discriminate patient outcome. Setting a cutoff of >57.75, glutamate provides 80.0% of sensitivity and 84.62% of specificity (AUC: 0.8214, 95% CL: 54.55?98.08%; and a cutoff of >4.65, lactate has 100% of sensitivity and 85.71% of specificity (AUC: 0.8810, 95% CL: 54.55?98.08%). BDNF and GDNF did not discriminate poor outcome. Interpretation This early study suggests that glutamate and lactate concentrations at hospital admission accurately predict death within 3 days after severe TBI.
+ER  - 
+
+TY  - JOUR
+AU  - Sarin, Ankit
+AU  - Chen, Lee-lynn
+AU  - Wick, Elizabeth C.
+TI  - Enhanced recovery after surgery—Preoperative fasting and glucose loading—A review
+JO  - Journal of Surgical Oncology
+JA  - J Surg Oncol
+VL  - 116
+IS  - 5
+SN  - 0022-4790
+UR  - https://doi.org/10.1002/jso.24810
+DO  - doi:10.1002/jso.24810
+SP  - 578
+EP  - 582
+KW  - fasting
+KW  - glucose
+KW  - preoperative
+KW  - review
+PY  - 2017
+AB  - In this review, we explore the rationale and history behind the practice of preoperative fasting in elective surgery including the gradual move toward longer fasting and the more recent change in direction of practice. Gastric emptying physiology and the metabolic effects of prolonged fasting and carbohydrate loading are examined. Most recent guidelines related to these topics are discussed and practical recommendations for implementing these guidelines are suggested.
+ER  - 
+
+TY  - JOUR
+TI  - Trauma Surgery Program Abstracts
+JO  - ANZ Journal of Surgery
+VL  - 80
+IS  - s1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/j.1445-2197.2010.05298_22.x
+DO  - doi:10.1111/j.1445-2197.2010.05298_22.x
+SP  - A92
+EP  - A95
+PY  - 2010
+ER  - 

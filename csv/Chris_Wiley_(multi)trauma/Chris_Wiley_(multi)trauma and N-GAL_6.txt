@@ -1,0 +1,503 @@
+
+TY  - JOUR
+AU  - Yılmaz Karapınar, Deniz
+AU  - Patıroğlu, Türkan
+AU  - Metin, Ayşe
+AU  - Çalışkan, Ümran
+AU  - Celkan, Tiraje
+AU  - Yılmaz, Barış
+AU  - Karakaş, Zeynep
+AU  - Karapınar, Tuba H.
+AU  - Akıncı, Burcu
+AU  - Özkınay, Ferda
+AU  - Onay, Hüseyin
+AU  - Yeşilipek, Mehmet Akif
+AU  - Akar, Himmet Haluk
+AU  - Tüysüz, Gülen
+AU  - Tokgöz, Hüseyin
+AU  - Özdemir, Gül Nihal
+AU  - Aslan Kıykım, Ayça
+AU  - Karaman, Serap
+AU  - Kılınç, Yurdanur
+AU  - Oymak, Yeşim
+AU  - Küpesiz, Alphan
+AU  - Olcay, Lale
+AU  - Keskin Yıldırım, Zuhal
+AU  - Aydoğan, Gönül
+AU  - Gökçe, Müge
+AU  - İleri, Talia
+AU  - Aral, Yusuf Ziya
+AU  - Bay, Ali
+AU  - Atabay, Berna
+AU  - Kaya, Zuhre
+AU  - Söker, Murat
+AU  - Özdemir Karadaş, Nihal
+AU  - Özbek, Uğur
+AU  - Özsait Selçuk, Bilge
+AU  - Özdemir, Hamiyet Hekimci
+AU  - Uygun, Vedat
+AU  - Tezcan Karasu, Gülsün
+AU  - Yılmaz, Şebnem
+C7  - e27923
+TI  - Homozygous c.130–131 ins A (pW44X) mutation in the HAX1 gene as the most common cause of congenital neutropenia in Turkey: Report from the Turkish Severe Congenital Neutropenia Registry
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr Blood Cancer
+VL  - 66
+IS  - 10
+SN  - 1545-5009
+UR  - https://doi.org/10.1002/pbc.27923
+DO  - doi:10.1002/pbc.27923
+SP  - e27923
+KW  - CSF3R
+KW  - ELANE
+KW  - HAX1
+KW  - SCN registry
+KW  - severe congenital neutropenia
+PY  - 2019
+AB  - Abstract Background Severe congenital neutropenia is a rare disease, and autosomal dominantly inherited ELANE mutation is the most frequently observed genetic defect in the registries from North America and Western Europe. However, in eastern countries where consanguineous marriages are common, autosomal recessive forms might be more frequent. Method Two hundred and sixteen patients with severe congenital neutropenia from 28 different pediatric centers in Turkey were registered. Results The most frequently observed mutation was HAX1 mutation (n = 78, 36.1%). A heterozygous ELANE mutation was detected in 29 patients (13.4%) in our cohort. Biallelic mutations of G6PC3 (n = 9, 4.3%), CSF3R (n = 6, 2.9%), and JAGN1 (n = 2, 1%) were also observed. Granulocyte colony-stimulating factor treatment was given to 174 patients (80.6%). Two patients died with infectious complications, and five patients developed myelodysplastic syndrome/acute myeloblastic leukemia. The mean (± mean standard error) follow-up period was 129.7 ± 76.3 months, and overall survival was 96.8% (CI, 94.4?99.1%) at the age of 15 years. In Turkey, severe congenital neutropenia mostly resulted from the p W44X mutation in the HAX1 gene. Conclusion In Turkey, mutation analysis should be started with HAX1, and if this is negative, ELANE and G6PC3 should be checked. Because of the very high percentage of consanguineous marriage, rare mutations should be tested in patients with a negative mutation screen.
+ER  - 
+
+TY  - JOUR
+AU  - Moyron, Ron B.
+AU  - Gonda, Amber
+AU  - Selleck, Matthew J.
+AU  - Luo-Owen, Xian
+AU  - Catalano, Richard D
+AU  - O'Callahan, Thomas
+AU  - Garberoglio, Carlos
+AU  - Turay, David
+AU  - Wall, Nathan R.
+C7  - 1700061
+TI  - Differential protein expression in exosomal samples taken from trauma patients
+JO  - PROTEOMICS – Clinical Applications
+JA  - Prot. Clin. Appl.
+VL  - 11
+IS  - 9-10
+SN  - 1862-8346
+UR  - https://doi.org/10.1002/prca.201700061
+DO  - doi:10.1002/prca.201700061
+SP  - 1700061
+KW  - Exosome
+KW  - Exo-Proteomics
+KW  - TBI
+KW  - Trauma biomarker discovery
+PY  - 2017
+AB  - Abstract Traumatic brain injuries (TBI) are among the most misdiagnosed and underreported types of head trauma. The potential long-term impact of undiagnosed or incorrectly identified concussions and other head injuries are potentially devastating, as evidenced by the increasing societal burden exhibited by soldiers returning from combat and athletes in contact sports. Concussions and TBI are notoriously difficult to correctly diagnose and prognosis for these injuries is poorly understood. In order to increase the likelihood of successful diagnosis, treatment, and prediction of outcomes, a definitive differential diagnosis will need to be established. The establishment of a ?trauma?specific profile? or a panel of known trauma markers will significantly aid in this goal. Small membrane vesicles called exosomes have been shown to contain proteins and injury-specific biomarkers. In the future it is possible that they could become an important tool, utilized for their diagnostic and therapeutic potential.
+ER  - 
+
+TY  - JOUR
+AU  - Jones, D R
+TI  - Measuring midkine: the utility of midkine as a biomarker in cancer and other diseases
+JO  - British Journal of Pharmacology
+JA  - Br J Pharmacol
+VL  - 171
+IS  - 12
+SN  - 0007-1188
+UR  - https://doi.org/10.1111/bph.12601
+DO  - doi:10.1111/bph.12601
+SP  - 2925
+EP  - 2939
+KW  - midkine
+KW  - heparin-binding growth factor
+KW  - biomarker
+KW  - cancer
+KW  - diagnostic
+PY  - 2014
+AB  - Midkine (MK) is a pleiotropic growth factor prominently expressed during embryogenesis but down-regulated to neglible levels in healthy adults. Many published studies have demonstrated striking MK overexpression compared with healthy controls in various pathologies, including ischaemia, inflammation, autoimmunity and, most notably, in many cancers. MK expression is detectable in biopsies of diseased, but not healthy, tissues. Significantly, because it is a soluble cytokine, elevated MK is readily apparent in the blood and other body fluids such as urine and CSF, making MK a relatively convenient, accessible, non-invasive and inexpensive biomarker for population screening and early disease detection. The first diagnostic tests that quantify MK are just now receiving regulatory clearance and entering the clinic. This review examines the current state of knowledge pertaining to MK as a biomarker and highlights promising indications and clinical settings where measuring MK could make a difference to patient treatment. I also raise outstanding questions about reported variants of MK as well as MK's bio-distribution in vivo. Answering these questions in future studies will enhance our understanding of the significance of measured MK levels in both patients and healthy subjects, and may reveal further opportunities for measuring MK to diagnose disease. MK has already proven to be a biomarker that can significantly improve detection, management and treatment of cancer, and there is significant promise for developing further MK-based diagnostics in the future. Linked Article This article is part of a recent themed section on Midkine, published in volume 171 issue 4. To view the other articles in this section visit http://dx.doi.org/10.1111/bph.2014.171.issue-4
+ER  - 
+
+TY  - JOUR
+AU  - Winchenne, Anaïs
+AU  - Cecchini, Jérôme
+AU  - Deux, Jean-François
+AU  - De Prost, Nicolas
+AU  - Razazi, Keyvan
+AU  - Carteaux, Guillaume
+AU  - Galacteros, Frederic
+AU  - Habibi, Anoosha
+AU  - Bartolucci, Pablo
+AU  - Melica, Giovanna
+AU  - Khellaf, Mehdi
+AU  - Michel, Marc
+AU  - Maitre, Bernard
+AU  - Mekontso Dessap, Armand
+TI  - A clinical risk score for pulmonary artery thrombosis during acute chest syndrome in adult patients with sickle cell disease
+JO  - British Journal of Haematology
+JA  - Br J Haematol
+VL  - 179
+IS  - 4
+SN  - 0007-1048
+UR  - https://doi.org/10.1111/bjh.14914
+DO  - doi:10.1111/bjh.14914
+SP  - 627
+EP  - 634
+KW  - sickle cell disease
+KW  - sickle cell disease complications
+KW  - acute chest syndrome
+KW  - pulmonary artery thrombosis
+KW  - multidetector computed tomography
+PY  - 2017
+AB  - Summary Pulmonary artery thrombosis (PAT) is involved in lung vascular dysfunction during acute chest syndrome (ACS) complicating sickle cell disease (SCD). No clinical score is available to identify patients eligible for multi-detector computed tomography (MDCT) angiography during ACS. This retrospective study aimed to develop a risk score for PAT during ACS (PAT-ACS risk score). Patients with SCD were investigated by MDCT during ACS. A logistic regression was performed to determine independent risks factors for PAT and to build the PAT-ACS risk score. A total of 43 episodes (11·9%) of PAT were diagnosed in 361 episodes of ACS. Multivariate analysis identified four risk factors, which were included in the PAT-ACS risk score: a baseline haemoglobin >82 g/l, the lack of a triggering factor for ACS, a platelet count >440 ? 109/l and a PaCO2 <38 mmHg at ACS diagnosis. The area under the receiver operating characteristic curve for the PAT-ACS risk score was 0·74 (95% confidence interval [CI] 0·69?0·79) and differed from that of the revised Geneva score (0·63 (95% CI 0·58?0·69); P = 0·04). The negative predictive value of a PAT-ACS risk score ≥2 was 94%. In conclusion, we propose a simple clinical risk score to identify SCD patients at high risk of PAT during ACS.
+ER  - 
+
+TY  - JOUR
+TI  - Saturday 21 October 2017
+JO  - Journal of Medical Imaging and Radiation Oncology
+JA  - J Med Imaging Radiat Oncol
+VL  - 61
+IS  - S1
+SN  - 1754-9477
+UR  - https://doi.org/10.1111/1754-9485.2_12656
+DO  - doi:10.1111/1754-9485.2_12656
+SP  - 71
+EP  - 125
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+AU  - Roy, Nakshatra K.
+AU  - Jia, Sheng-Xian
+AU  - Mustoe, Thomas A.
+TI  - 106 Lentivirus and Adeno-Associated Virus Mediated Targeted Gene Transfection in Low-Oxygen Environment
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractcz.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractcz.x
+SP  - A28
+EP  - A28
+PY  - 2004
+AB  - A critical limitation of using retroviral vectors for gene therapy is their inability to infect non-dividing cells. Although, the adenoviral vectors have the advantage of being able to infect both dividing and non-dividing cells, they elicit inflammatory response, thus making the interpretation of in vivo experiments harder. Adeno-associated virus (AAV) and Lentiviral vectors do not have those limitations, however, scant information is available about their transfection efficiency under low-oxygen tension. To determine if low-oxygen microenvironment affects viral vector-mediated gene transfection, we have used two other viral vectors, Adeno-associated virus (AAV) and Lentiviral constructs in vitro and in vivo to express foreign genes in hypoxic cultured human dermal fibroblasts and ischemic rat wounds. Both cultured normoxic and hypoxic (1% O2) human dermal fibroblasts were identically transfected by the AAV vector. A lenti6-LacZ construct was injected onto the periphery of rat ischemic and non-ischemic wound (106 pfu/wound) at the time of wounding. Wounds were harvested at post-operative day 7. Frozen sections of the wounds were fixed in cold acetone and stained with a in situ ?-gal staining kit. Intense expression of ?-gal was observed without any inflammatory response. No significant difference of transfection efficiency was observed between the ischemic and non-ischemic wounds. Thus our data indicates that both AAV and Lentiviral vectors are suitable to use in gene-therapy experiments in both ischemic and non-ischemic cells and tissues in vitro and in vivo.
+ER  - 
+
+TY  - JOUR
+AU  - Li, Zhongchi
+AU  - Xu, Kang
+AU  - Guo, Yannan
+AU  - Ping, Lu
+AU  - Gao, Yuqi
+AU  - Qiu, Ying
+AU  - Ni, Jianquan
+AU  - Liu, Qingfei
+AU  - Wang, Zhao
+C7  - e13104
+TI  - A high-fat diet reverses metabolic disorders and premature aging by modulating insulin and IGF1 signaling in SIRT6 knockout mice
+JO  - Aging Cell
+JA  - Aging Cell
+VL  - n/a
+IS  - n/a
+SN  - 1474-9718
+UR  - https://doi.org/10.1111/acel.13104
+DO  - doi:10.1111/acel.13104
+SP  - e13104
+KW  - fatty acid
+KW  - glycolysis
+KW  - high-fat diet
+KW  - insulin/IGF1 signaling
+KW  - organ atrophy
+KW  - SIRT6
+AB  - Abstract Mammalian sirtuin 6 (SIRT6) is involved in the regulation of many essential processes, especially metabolic homeostasis. SIRT6 knockout mice undergo premature aging and die at age ~4 weeks. Severe glycometabolic disorders have been found in SIRT6 knockout mice, and whether a dietary intervention can rescue SIRT6 knockout mice remains unknown. In our study, we found that at the same calorie intake, a high-fat diet dramatically increased the lifespan of SIRT6 knockout mice to 26 weeks (males) and 37 weeks (females), reversed multi-organ atrophy, and reduced body weight, hypoglycemia, and premature aging. Furthermore, the high-fat diet partially but significantly normalized the global gene expression profile in SIRT6 knockout mice. Regarding the mechanism, excessive glucose uptake and glycolysis induced by the SIRT6 deficiency were attenuated in skeletal muscle through inhibition of insulin and IGF1 signaling by the high-fat diet. Similarly, fatty acids but not ketone bodies inhibited glucose uptake, glycolysis, and senescence in SIRT6 knockout fibroblasts, whereas PI3K inhibition antagonized the effects of a high-fatty-acid medium in vitro. Overall, the high-fat diet dramatically reverses numerous consequences of SIRT6 deficiency through modulation of insulin and IGF1 signaling, providing a new basis for elucidation of SIRT6 and fatty-acid functions and supporting novel therapeutic approaches against metabolic disorders and aging-related diseases.
+ER  - 
+
+TY  - JOUR
+AU  - Roy,             Nakshatra K.
+AU  - Jia, Sheng-Xian
+AU  - Kloeters, Oliver
+AU  - Sull, Alan
+AU  - Mustoe, Thomas A.
+TI  - 066 Direct Comparison of Adenoviral and Adeno-Associated Viral Vectors for Efficiency of Gene Transfer in Ischemic Wound
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bn.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bn.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Tissue ischemia is a common occurrence in many disease processes including chronic wounds, stroke, solid tumors, and myocardial infarction. The application of gene delivery for healing of wounds has demonstrated increasing therapeutic promises in animal models. Adenoviral vectors have been successfully used for gene delivery to the ischemic wound. However, these vectors typically demonstrate short, transient transgene expression while eliciting significant cytotoxic immune response. Adeno-associated viral vectors (AAV) do not have those limitations; however, scant information is available about their transfection efficiency under low-oxygen tension. The goal of this study was to compare AAV vector with adenoviral vector in terms of relative efficiency of gene delivery and cytotoxic immune response in ischemic wounds. Reporter constructs Ad5-LacZ and AAV-LacZ (108?pfu/wound) were injected onto the dermis of rabbit ear prior to creation of ischemic wounds. Wounds were harvested at postoperative day 10. Frozen sections of the wounds were fixed in cold acetone and stained with an in situ ?-gal staining kit. Intense expression of ?-gal was observed with both vectors; however, transduction rates with AAV vector was approximately 10-fold lower than Adenovirus. Unlike Adenovirus, no noticeable inflammatory cell infiltration was observed with AAV injection. Even when the dosage of AAV was increased to 109?pfu/wound inflammatory cell infiltration remained negligible. Thus our data indicates that both AAV and adenoviral vectors are suitable to use in gene-therapy experiments in ischemic tissues. The particular advantage of AAV is the ability to transfect with higher doses while at lower dose maximal transfection rate seems to be more with Adenovirus.
+ER  - 
+
+TY  - JOUR
+AU  - Zampetti, A.
+AU  - Orteu, C.H.
+AU  - Antuzzi, D.
+AU  - Bongiorno, M.R.
+AU  - Manco, S.
+AU  - Gnarra, M.
+AU  - Morrone, A.
+AU  - Cardinali, G.
+AU  - Kovacs, D.
+AU  - Aspite, N.
+AU  - Linder, D.
+AU  - Parini, R.
+AU  - Feliciani, C.
+AU  - the Interdisciplinary Study Group on Fabry Disease (ISGF)
+TI  - Angiokeratoma: decision-making aid for the diagnosis of Fabry disease
+JO  - British Journal of Dermatology
+VL  - 166
+IS  - 4
+SN  - 0007-0963
+UR  - https://doi.org/10.1111/j.1365-2133.2012.10742.x
+DO  - doi:10.1111/j.1365-2133.2012.10742.x
+SP  - 712
+EP  - 720
+PY  - 2012
+AB  - Summary Isolated angiokeratomas are common benign cutaneous lesions, generally deemed unworthy of further investigation. In contrast, diffuse angiokeratomas should alert the physician to a possible diagnosis of Fabry disease, a rare X-linked lysosomal storage disorder, characterized by α-galactosidase deficiency. Glycosphingolipids accumulate in cells throughout the body resulting in progressive multi-organ failure. Difficulties are encountered when trying to interpret the significance of angiokeratomas because they may also occur in other lysosomal storage disorders and rarely in an isolated manner in Fabry disease. We present an algorithm for the classification of angiokeratomas which might prove useful for the diagnosis and management of Fabry disease. Assessment of the clinical features and location of the lesions, personal and family history, skin biopsy, dermoscopy and electron microscopy imaging are sequential steps in the diagnostic process. Assessing the deficiency of α-galactosidase enzyme activity is essential to confirm the diagnosis in males, while mutation analysis is always needed in females. Potentially this algorithm can change the current approach to patients when Fabry disease is suspected, thus improving the diagnostic strategy and management of this disorder. It remains to be decided whether the use of an algorithm might reduce the number of genetic consultations. As evidence has shown the efficacy of enzyme replacement therapy in halting progression of the disease before the onset of irreversible organ damage, it is advisable to aim at an early diagnosis in order to achieve timely initiation of effective treatment with benefits for patients and appropriate use of medical resources.
+ER  - 
+
+TY  - JOUR
+AU  - Hughes, A. D.
+AU  - Coady, E.
+AU  - Raynor, S.
+AU  - Mayet, J.
+AU  - Wright, A. R.
+AU  - Shore, A. C.
+AU  - Kooner, J. S.
+AU  - Thom, S. A. McG.
+AU  - Chaturvedi, N.
+TI  - Reduced endothelial progenitor cells in European and South Asian men with atherosclerosis
+JO  - European Journal of Clinical Investigation
+VL  - 37
+IS  - 1
+SN  - 0014-2972
+UR  - https://doi.org/10.1111/j.1365-2362.2007.01743.x
+DO  - doi:10.1111/j.1365-2362.2007.01743.x
+SP  - 35
+EP  - 41
+KW  - Atherosclerosis
+KW  - coronary calcification
+KW  - endothelial progenitor cells
+KW  - ethnicity
+KW  - intima-media thickness
+PY  - 2007
+AB  - Abstract Background? Circulating endothelial progenitor cells (EPCs) play a role in the repair and regeneration of the endothelium and may represent a novel cardiovascular risk factor. South Asian subjects have an increased risk of cardiovascular disease which is not fully explained by known risk factors. This study examined associations of EPCs with atherosclerosis and possible ethnic differences in EPCs. Materials and methods? A population sample of 58 European and South Asian adult men was enriched with the recruitment of an additional 59 European and South Asian men with known coronary disease. The coronary artery calcification score was measured by multi-slice computerized tomography (CT), carotid and femoral intima-media thickness (IMT), and femoral plaques were measured by ultrasound. The subjects were further subdivided into three categories of coronary artery disease on the basis of coronary artery calcification score and clinical history. Total EPCs and non-senescent EPCs (ns-EPCs) were quantified after 5 days cell culture and the number of late outgrowth colonies was measured over a 6-week test period. Circulating CD34+ haematopoietic precursor cells were measured by flow cytometry. Results? Individuals with femoral plaques had reduced total and ns-EPCs. The number of ns-EPCs were reduced in individuals with the most coronary atheroma and were inversely related to the coronary calcification score and femoral IMT. These relationships persisted after multivariate adjustment for other risk factors. The numbers of late outgrowth colonies or circulating CD34+ cells were unrelated to the presence of atherosclerosis. There were no differences in the number of EPCs between European and South Asian subjects. Conclusion? The number of EPCs are reduced in subjects with atherosclerosis independent of other risk factors. Reduction in EPC numbers may be an independent risk factor for atherosclerosis but does not explain ethnic differences in cardiovascular risk.
+ER  - 
+
+TY  - JOUR
+AU  - Simpson, N.C.
+TI  - Modeling of residential structure fire response: Exploring the hyper-project
+JO  - Journal of Operations Management
+JA  - Journal of Operations Management
+VL  - 24
+IS  - 5
+SN  - 0272-6963
+UR  - https://doi.org/10.1016/j.jom.2005.11.010
+DO  - doi:10.1016/j.jom.2005.11.010
+SP  - 530
+EP  - 541
+KW  - Case/field study
+KW  - Project management
+KW  - Service operations
+KW  - Simulation/quant methods
+PY  - 2006
+AB  - Abstract Emergency service systems such as community fire departments respond to and resolve unplanned events within a given service area. A review of the literature addressing such systems indicates that existing research is almost exclusively focused on higher level planning issues such as facility location and resource allocation. In contrast, this study addresses the operational level of such a system, an existing fire department's response to residential structure fire. Such a response exhibits many of the elements of traditional project management, such as distinctly defined tasks and significant predecessor relationships. However, the defining characteristic of these projects is not simply expediency, but the fact that the structure of the project can change if the preceding project structure does not complete some aspect of its task sequence within an interval of time dictated by some external pacing function. What emerges is a unique and intriguing class of project, dubbed the hyper-project in this study. The concept of the hyper-project is discussed both in its general form and with respect to the aforementioned case study example. Readily transferable to non-emergency applications, the hyper-project typifies and unites a heretofore unrecognized family of operations, highlighting the opportunities for future research.
+ER  - 
+
+TY  - JOUR
+AU  - Hallatschek, Werner
+AU  - Fiedler, Gesa
+AU  - Kirschning, Carsten J.
+AU  - Creutzburg, Fränzi
+AU  - Lamping, Norbert
+AU  - Nüssler, Andreas
+AU  - Schumann, Ralf R.
+TI  - Inhibition of hepatic transcriptional induction of lipopolysaccharide-binding protein by transforming-growth-factor β1
+JO  - European Journal of Immunology
+JA  - Eur. J. Immunol.
+VL  - 34
+IS  - 5
+SN  - 0014-2980
+UR  - https://doi.org/10.1002/eji.200324874
+DO  - doi:10.1002/eji.200324874
+SP  - 1441
+EP  - 1450
+KW  - LPS-binding protein
+KW  - LBP
+KW  - Acute phase
+KW  - TGF-beta
+KW  - AP-1
+KW  - Smad
+PY  - 2004
+AB  - Abstract LPS-binding protein (LBP) is an acute-phase protein with the ability to bind and transfer LPS of Gram-negative bacteria, as well as cell wall compounds of other pathogenic bacteria. This soluble pattern-recognition molecule is present in high concentrations in serum and represents an important defense mechanism of the host. Regulation of the hepatic acute-phase response and its termination are important mechanisms for limiting systemic inflammatory activity of the host organism. We show here that TGF-?1, in a dose-dependent fashion, is able to inhibit LBP transcript accumulation and LBP protein synthesis induced by IL-6, IL-1? and dexamethasone in hepatoma cell lines. These data were confirmed employing primary human hepatocytes, where TGF-?1 also inhibited LBP protein synthesis. We identified and analyzed several Smad-binding sites (Smads are major regulatory elements of TGF-?1) within the LBP promoter, and found that one of them was active. We furthermore identified an AP-1-binding site clearly conferring inhibitory effects of TGF-?1 towards LBP promoter activity, shown by gel shift and promoter mutagenesis experiments. Further elucidating the mechanism of transcriptional regulation of proteins involved in innate immune responses may potentially help to develop novel intervention strategies for the acute-phase response, sepsis, and septic shock.
+ER  - 
+
+TY  - JOUR
+AU  - Nautrup, C. P.
+TI  - Real-time Three-dimensional Echocardiography, a New Approach to Cardiac Anatomy in Live Dogs and Cats
+JO  - Anatomia, Histologia, Embryologia
+VL  - 34
+IS  - s1
+SN  - 0340-2096
+UR  - https://doi.org/10.1111/j.1439-0264.2005.00669_90.x
+DO  - doi:10.1111/j.1439-0264.2005.00669_90.x
+SP  - 40
+EP  - 40
+PY  - 2005
+AB  - Macroscopic anatomy of the heart is evaluated best in living animals, because postmortal changes and the lack of the normal heart motion lead to misinterpretation. For the last 15?years functional cardiac imaging of animals has been performed by two-dimensional ultrasonography. However, three-dimensional echocardiography has multiple advantages over two-dimensional ultrasonography such as an improved assessment of the endocardial structures and the possibility of precise determination of the sonographic views for measurement. For these reasons the ultrasound system SONOS 7500 of Philips has been used for examinations since December 2003. These examinations were performed in healthy adult dogs of different sizes as well as in European Short Hair cats. Using a recently developed multi-frequent matrix array probe all regions of interest were directly on-line volume-rendered or represented in two exactly defined orthogonal views. Although the used matrix array probe was large, transthoracic left and right parasternal sonograms could be carried out without any problems in all small animals without sedation. For the first time the cardiac structures in dogs and cats such as the opening and closing of the left atrioventricular and aortic valves were represented within a 60?degrees?(15 or 30?degrees pyramidal volume. The morphology and the function of the atrioventricular leaflets could be evaluated exactly. For representation of a larger pyramidal volume or the three-dimensional simultaneous colour flow imaging, careful ECG gating is required. Unfortunately, the distinct respiratory arrhythmia in quiet dogs had a negative effect on the registration of four or eight heart cycles of the same length. Using biplane echocardiography the commonly represented sonographs for measurement were exactly determined. Additionally these techniques enabled the registration of new views for evaluation and measurements, which were not available from two-dimensional ultrasonography. This study has demonstrated for the first time that real time transthoracic three-dimensional echocardiography is feasible in dogs and cats and that it provides comprehensive visualization of the intracardiac anatomy in unique projections in living animals.
+ER  - 
+
+TY  - JOUR
+AU  - Elwood, C.
+AU  - Devauchelle, P.
+AU  - Elliott, J.
+AU  - Freiche, V.
+AU  - German, A. J.
+AU  - Gualtieri, M.
+AU  - Hall, E.
+AU  - den Hertog, E.
+AU  - Neiger, R.
+AU  - Peeters, D.
+AU  - Roura, X.
+AU  - Savary-Bataille, K.
+TI  - Emesis in dogs: a review
+JO  - Journal of Small Animal Practice
+VL  - 51
+IS  - 1
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/j.1748-5827.2009.00820.x
+DO  - doi:10.1111/j.1748-5827.2009.00820.x
+SP  - 4
+EP  - 22
+PY  - 2010
+AB  - Emesis is a common presenting sign in small animal practice. It requires a rational approach to management that is based upon a sound understanding of pathophysiology combined with logical decision making. This review, which assesses the weight of available evidence, outlines the physiology of the vomiting reflex, causes of emesis, the consequences of emesis and the approach to clinical management of the vomiting dog. The applicability of diagnostic testing modalities and the merit of traditional approaches to management, such as dietary changes, are discussed. The role and usefulness of both traditional and novel anti-emetic drugs is examined, including in specific circumstances such as following cytotoxic drug treatment. The review also examines areas in which common clinical practice is not necessarily supported by objective evidence and, as such, highlights questions worthy of further clinical research.
+ER  - 
+
+TY  - JOUR
+AU  - Langmann, Gabrielle A.
+AU  - Perera, Subashan
+AU  - Ferchak, Mary A.
+AU  - Nace, David A.
+AU  - Resnick, Neil M.
+AU  - Greenspan, Susan L.
+TI  - Inflammatory Markers and Frailty in Long-Term Care Residents
+JO  - Journal of the American Geriatrics Society
+JA  - J Am Geriatr Soc
+VL  - 65
+IS  - 8
+SN  - 0002-8614
+UR  - https://doi.org/10.1111/jgs.14876
+DO  - doi:10.1111/jgs.14876
+SP  - 1777
+EP  - 1783
+KW  - frailty
+KW  - long-term care
+KW  - inflammation
+KW  - cytokines
+KW  - falls
+KW  - gait speed
+KW  - zoledronic acid
+PY  - 2017
+AB  - Objectives To determine whether proinflammatory biomarkers are associated with frailty assessed according to functional status, mobility, mental health, and falls over 24 months. Design Secondary analysis of a 2-year double-blind clinical trial for osteoporosis. Setting Nursing homes and assisted living facilities. Participants Women aged 65 and older with osteoporosis in long-term care (LTC) (N = 178). Measurements Baseline serum concentrations of proinflammatory cytokines and soluble receptors (high sensitivity C-reactive protein (hs-CRP), tumor necrosis factor alpha (TNFα) and its two receptors (TNFα-R1 and TNFα-R2), interleukin-6 (IL-6), soluble IL-6 receptor (sIL-6R), IL-10), functional status assessed according to activities of daily living, the Nursing Home Physical Performance Test, gait speed, cognitive status, mental health, and falls. Results At baseline, older age was moderately associated with higher serum concentrations of hs-CRP (correlation coefficient (r) = 0.22), TNFα-R1 (r = 0.36), TNFα-R2 (r = 0.34), and IL-10 (r = 0.16) (all P < .05). Frail participants had significantly higher hs-CRP, TNFα-R1, TNFα-R2, IL-6, and IL-6-sR levels (all P < .05) than those nonfrail participants. Higher baseline hs-CRP and IL-6 levels were associated with worse physical performance and gait speed at 12 months independent of age, zoledronic acid use, and comorbidity (|r| = 0.25?0.30; all P < .05). Inflammatory markers were not significantly associated with incident falls. Conclusions Higher proinflammatory biomarker levels are associated with frailty and poorer function and mobility in older women residing in LTC facilities.
+ER  - 
+
+TY  - JOUR
+AU  - Subramaniam, Noeline
+AU  - Petrik, James J.
+AU  - Vickaryous, Matthew K.
+TI  - VEGF, FGF-2 and TGFβ expression in the normal and regenerating epidermis of geckos: implications for epidermal homeostasis and wound healing in reptiles
+JO  - Journal of Anatomy
+JA  - J. Anat.
+VL  - 232
+IS  - 5
+SN  - 0021-8782
+UR  - https://doi.org/10.1111/joa.12784
+DO  - doi:10.1111/joa.12784
+SP  - 768
+EP  - 782
+KW  - cytokine
+KW  - keratinocytes
+KW  - lizard
+KW  - scar-free wound healing
+KW  - skin
+PY  - 2018
+AB  - Abstract The skin is a bilayered organ that serves as a key barrier between an organism and its environment. In addition to protecting against microbial invasion, physical trauma and environmental damage, skin participates in maintaining homeostasis. Skin is also capable of spontaneous self-repair following injury. These functions are mediated by numerous pleiotrophic growth factors, including members of the vascular endothelial growth factor (VEGF), fibroblast growth factor (FGF), and transforming growth factor ? (TGF?) families. Although growth factor expression has been well documented in mammals, particularly during wound healing, for groups such as reptiles less is known. Here, we investigate the spatio-temporal pattern of expression of multiple growth factors in normal skin and following a full-thickness cutaneous injury in the representative lizard Eublepharis macularius, the leopard gecko. Unlike mammals, leopard geckos can heal cutaneous wounds without scarring. We demonstrate that before, during and after injury, keratinocytes of the epidermis express a diverse panel of growth factor ligands and receptors, including: VEGF, VEGFR1, VEGFR2, and phosphorylated VEGFR2; FGF-2 and FGFR1; and phosphorylated SMAD2, TGF?1, and activin ?A. Unexpectedly, only the tyrosine kinase receptors VEGFR1 and FGFR1 were dynamically expressed, and only during the earliest phases of re-epithelization; otherwise all the proteins of interest were constitutively present. We propose that the ubiquitous pattern of growth factor expression by keratinocytes is associated with various roles during tissue homeostasis, including protection against ultraviolet photodamage and coordinated body-wide skin shedding.
+ER  - 
+
+TY  - JOUR
+AU  - Greeson, Johanna K. P.
+AU  - Weiler, Lindsey M.
+AU  - Thompson, Allison E.
+AU  - Taussig, Heather N.
+TI  - A FIRST LOOK AT NATURAL MENTORING AMONG PREADOLESCENT FOSTER CHILDREN
+JO  - Journal of Community Psychology
+JA  - J. Community Psychol.
+VL  - 44
+IS  - 5
+SN  - 0090-4392
+UR  - https://doi.org/10.1002/jcop.21788
+DO  - doi:10.1002/jcop.21788
+SP  - 586
+EP  - 601
+PY  - 2016
+AB  - This study describes natural mentoring among preadolescent children placed in out-of-home care and examines the association between natural mentoring and demographic, maltreatment, placement, and psychosocial characteristics. Cross-sectional data from a sample of 263 children and their out-of-home caregivers were analyzed. Caregivers rated children's social skills, and children reported on their perceived opportunities and attachment to peers and adults, including natural mentors. About half the sample endorsed having natural mentors, with school personnel being the most common type of mentor. Children with natural mentors were older, more likely to be living in congregate care, and had stronger attachment to friends. Marginally significant findings suggested that children with natural mentors had been in out-of-home care for fewer months, and children who were sexually abused were less likely to have natural mentors with whom they had current contact. Future research is needed that examines the longitudinal course of natural mentoring among this population.
+ER  - 
+
+TY  - JOUR
+AU  - Smith, Christopher A
+AU  - Gaffney, John J
+AU  - Seal, Len H
+AU  - Nicholas, Gordon A
+AU  - Freemont, Anthony J
+TI  - Glycoprotein biochemistry — Some clinical aspects of interest to biochemistry students
+JO  - Biochemical Education
+JA  - Biochem. Educ.
+VL  - 19
+IS  - 3
+SN  - 0307-4412
+UR  - https://doi.org/10.1016/0307-4412(91)90048-D
+DO  - doi:10.1016/0307-4412(91)90048-D
+SP  - 106
+EP  - 116
+PY  - 1991
+ER  - 
+
+TY  - JOUR
+AU  - Nakassis, Constantine V.
+TI  - Linguistic Anthropology in 2015: Not the Study of Language
+JO  - American Anthropologist
+JA  - American Anthropologist
+VL  - 118
+IS  - 2
+SN  - 0002-7294
+UR  - https://doi.org/10.1111/aman.12528
+DO  - doi:10.1111/aman.12528
+SP  - 330
+EP  - 345
+KW  - linguistic anthropology
+KW  - indexicality
+KW  - language ideology
+KW  - chronotope
+KW  - superdiversity
+KW  - authenticity
+KW  - political economy
+KW  - mass mediation
+KW  - year in review
+KW  - antropología lingüística
+KW  - indexicalidad
+KW  - ideología del lenguaje
+KW  - cronotopo
+KW  - superdiversidad
+KW  - autenticidad
+KW  - economía política
+KW  - meditación masiva
+KW  - año en revisión
+PY  - 2016
+AB  - ABSTRACT The thesis of this essay is that linguistic anthropology is not the study of language. Rather, ?language? functions as a permanently problematic, if indispensable, object for linguistic anthropological analysis and thought. This is because, as I suggest, the critical intervention of linguistic anthropology over the last 40 years has been its ethnographic focus on indexicality, in particular, the ways that indexical processes undermine language as an autonomous object, entangling it with other semiotic modalities and thereby displacing it beyond its putative borders. Reviewing linguistic anthropological scholarship from 2015, I argue that it is the study of this displacement and its more general semiotic implications?and the entangled and mutually informing analytics that have been developed to theorize them, for example, language ideology, entextualization, interdiscursivity, chronotope?that centers the field. Focusing on a set of such analytics, I illustrate how recent linguistic anthropological scholarship has elaborated the reflexive, dialectical nature of social life, theorizing what I call total semiotic facts. I explore these dialectics by discussing three thematic clusters that occupied the attention of the field in 2015: diversity and authenticity, political economy, and mass mediation.
+ER  - 
+
+TY  - JOUR
+AU  - Pereira, N. Monteiro
+AU  - Cuzin, B.
+TI  - MP-05 General Issues in Sexual Medicine
+JO  - The Journal of Sexual Medicine
+VL  - 4
+IS  - s2
+SN  - 1743-6095
+UR  - https://doi.org/10.1111/j.1743-6109.2007.00390_12.x
+DO  - doi:10.1111/j.1743-6109.2007.00390_12.x
+SP  - 147
+EP  - 151
+PY  - 2007
+ER  - 

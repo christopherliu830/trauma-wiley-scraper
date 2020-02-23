@@ -1,0 +1,526 @@
+
+TY  - JOUR
+AU  - Lin, Zixuan
+AU  - Li, Yang
+AU  - Su, Pan
+AU  - Mao, Deng
+AU  - Wei, Zhiliang
+AU  - Pillai, Jay J.
+AU  - Moghekar, Abhay
+AU  - van Osch, Matthias
+AU  - Ge, Yulin
+AU  - Lu, Hanzhang
+TI  - Non-contrast MR imaging of blood-brain barrier permeability to water
+JO  - Magnetic Resonance in Medicine
+JA  - Magn. Reson. Med.
+VL  - 80
+IS  - 4
+SN  - 0740-3194
+UR  - https://doi.org/10.1002/mrm.27141
+DO  - doi:10.1002/mrm.27141
+SP  - 1507
+EP  - 1520
+KW  - arterial-spin-labeling
+KW  - blood-brain barrier
+KW  - permeability
+KW  - phase-contrast
+KW  - superior sagittal sinus
+KW  - water extraction
+PY  - 2018
+AB  - Purpose Many brain diseases are associated with an alteration in blood-brain barrier (BBB) and its permeability. Current methods using contrast agent are primarily sensitive to major leakage of BBB to macromolecules, but may not detect subtle changes in BBB permeability. The present study aims to develop a novel non-contrast MRI technique for the assessment of BBB permeability to water. Methods The central principle is that by measuring arterially labeled blood spins that are drained into cerebral veins, water extraction fraction (E) and permeability-surface-area product (PS) of BBB can be determined. Four studies were performed. We first demonstrated the proof-of-principle using conventional ASL with very long post-labeling delays (PLD). Next, a new sequence, dubbed water-extraction-with-phase-contrast-arterial-spin-tagging (WEPCAST), and its Look-Locker (LL) version were developed. Finally, we demonstrated that the sensitivity of the technique can be significantly enhanced by acquiring the data under mild hypercapnia. Results By combining a strong background suppression with long PLDs (2500?4500 ms), ASL spins were reliably detected in the superior sagittal sinus (SSS), demonstrating the feasibility of measuring this signal. The WEPCAST sequence eliminated partial voluming effects of tissue perfusion and allowed quantitative estimation of E?=?95.5?±?1.1% and PS?=?188.9?±?13.4?mL/100?g/min, which were in good agreement with literature reports. LL-WEPCAST sequence shortened the scan time from 19?min to 5?min while providing results consistent with multiple single-PLD acquisitions. Mild hypercapnia increased SNR by 78?±?25% without causing a discomfort in participants. Conclusion A new non-contrast technique for the assessment of global BBB permeability was developed, which may have important clinical applications.
+ER  - 
+
+TY  - JOUR
+AU  - Mitra, Biswadev
+AU  - Carter, Annie
+AU  - Smit, De Villiers
+AU  - Rahman, Fatima
+AU  - O'Donovan, Shane
+AU  - Olaussen, Alexander
+AU  - Pui, Jiun Kae
+AU  - Abetz, Jeremy
+AU  - Hunter, Peter
+AU  - Cameron, Peter A
+TI  - Proactive review by the emergency department before inter-hospital transfer (the PREVENT study)
+JO  - Emergency Medicine Australasia
+JA  - Emergency Medicine Australasia
+VL  - 32
+IS  - 1
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/1742-6723.13338
+DO  - doi:10.1111/1742-6723.13338
+SP  - 61
+EP  - 66
+KW  - aged care
+KW  - emergency
+KW  - transfers
+KW  - wounds and injuries
+PY  - 2020
+AB  - Abstract Objectives To determine the population of patients where patient transfer may be prevented by assessment of a senior ED registrar at the referring hospital. Methods Patients transferred from Caulfield Hospital, specialising in community services, rehabilitation, aged care and aged mental health to The Alfred Emergency and Trauma Centre, an adult major referral centre within the same clinical network were identified from 1 July 2016 to 31 December 2016. Medical records were reviewed independently by two clinicians to determine preventability of transfer and whether attendance by a senior ED registrar could have prevented the transfer. Results There were 221 patients included with a mean age of 73.6(15.1) years. The median time spent in the ED was 4 h (interquartile range 2?8) and 197 (89.1%) were admitted. There were 107 (48.6%) transfers deemed preventable or potentially preventable, with 104 preventable by attendance of a senior ED registrar. The most common indication for transfer was acute trauma (n =?55; 24.9%), and the odds of a case being preventable or potentially preventable if transferred for the primary indication of trauma was 3.9 (95% confidence interval 2.1?7.1; P < 0.001). Among the preventable cases, the total cost of transfer was AU$105?984 over 6 months, not accounting for the costs of duplication of care. Conclusions This proof-of-concept study suggests that strategies to expand the provision of acute care to outreach within specialist networks and reduce patient transfers should be further explored. An outreach programme for improved acute assessment of patients at the referring hospital particularly after acute trauma may prevent transfers, improving care pathways.
+ER  - 
+
+TY  - JOUR
+AU  - Carvello, M.
+AU  - de Groof, E. J.
+AU  - de Buck van Overstraeten, A.
+AU  - Sacchi, M.
+AU  - Wolthuis, A. M.
+AU  - Buskens, C. J.
+AU  - D'Hoore, A.
+AU  - Bemelman, W. A.
+AU  - Spinelli, A.
+TI  - Single port laparoscopic ileocaecal resection for Crohn's disease: a multicentre comparison with multi-port laparoscopy
+JO  - Colorectal Disease
+JA  - Colorectal Dis
+VL  - 20
+IS  - 1
+SN  - 1462-8910
+UR  - https://doi.org/10.1111/codi.13777
+DO  - doi:10.1111/codi.13777
+SP  - 53
+EP  - 58
+KW  - SILS
+KW  - Crohn's disease
+KW  - laparoscopy
+PY  - 2018
+AB  - Abstract Aim Single port (SP) ileocaecal resection (ICR) is an established technique but there are no large studies comparing SP and multi-port (MP) laparoscopic surgery in Crohn's disease (CD). The aim of this study was to compare postoperative pain scores and analgesia requirements after SP and MP laparoscopic ICR for CD. Method This was a retrospective study of patients undergoing SP or MP ICR for CD in three tertiary referral centres from February 1999 to October 2014. Baseline characteristics (age, sex, body mass index and indication for surgery) were compared. Primary end-points were postoperative pain scores, analgesia requirements and short-term postoperative outcomes. Results SP ICR (n = 101) and MP ICR (n = 156) patients were included in the study. Visual analogue scale scores were significantly lower after SP ICR on postoperative day 1 (P = 0.016) and day 2 (P = 0.04). Analgesia requirements were significantly reduced on postoperative day 2 in the SP group compared with the MP group (P = 0.007). Duration of surgery, conversion to open surgery and stoma rates were comparable between the two groups. Surgery was more complex in terms of additional procedures when MP was adopted (P = 0.001). There were no differences in postoperative complication rates, postoperative food intake, length of stay and readmissions. Conclusion These data suggest that in comparison to standard laparoscopic surgery SP ICR might be less painful and patients might require less opioid analgesia.
+ER  - 
+
+TY  - JOUR
+AU  - Kesper, K.
+AU  - Kornblum, C.
+AU  - Reimann, J.
+AU  - Lutterbey, G.
+AU  - Schröder, R.
+AU  - Wattjes, M. P.
+TI  - Pattern of skeletal muscle involvement in primary dysferlinopathies: a whole-body 3.0-T magnetic resonance imaging study
+JO  - Acta Neurologica Scandinavica
+VL  - 120
+IS  - 2
+SN  - 0001-6314
+UR  - https://doi.org/10.1111/j.1600-0404.2008.01129.x
+DO  - doi:10.1111/j.1600-0404.2008.01129.x
+SP  - 111
+EP  - 118
+KW  - dysferlin
+KW  - dysferlinopathies
+KW  - high-field magnetic resonance imaging
+KW  - limb girdle muscular dystrophy type 2B
+KW  - Miyoshi myopathy
+PY  - 2009
+AB  - Objectives and methods??? Mutations in the gene encoding dysferlin cause limb girdle muscular dystrophy type 2B (LGMD2B), distal Miyoshi myopathy (MM), and a rare form of distal anterior compartment myopathy. To study the correlations between clinical manifestations and muscle imaging changes we conducted a 3.0-T magnetic resonance imaging (MRI) study in six German patients with primary dysferlinopathies defined by absence of dysferlin expression in muscle (MM, n?=?3; LGMD2B, n?=?2; hyperCKemia without clinical symptoms, n?=?1). Results??? Patients with manifest myopathy had widespread muscular pathology. In analogy to previous imaging studies, we confirmed an involvement of the anterior and posterior thigh compartments and a predominant involvement of posterior lower legs. However, our whole-body MRI study further provided evidence of signal alterations in the glutei, erector spinae and shoulder girdle muscles. Correlation of clinical findings with imaging demonstrated the potential of MRI to detect subclinical muscle pathology. Conclusions??? Whole-body 3.0-T MRI is a non-invasive method to demonstrate various degrees of skeletal muscle alterations and disease progression in muscular dystrophies. Furthermore, whole-body high-field MRI may serve as a helpful diagnostic tool in differentiating primary dysferlinopathies from other forms of LGMD and distal myopathies.
+ER  - 
+
+TY  - JOUR
+AU  - Tallapragada, Krishna
+AU  - Peddada, Ratna Soundarya
+AU  - Dexter, Mark
+TI  - Paediatric mild head injury: is routine admission to a tertiary trauma hospital necessary?
+JO  - ANZ Journal of Surgery
+JA  - ANZ Journal of Surgery
+VL  - 88
+IS  - 3
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/ans.14175
+DO  - doi:10.1111/ans.14175
+SP  - 202
+EP  - 206
+KW  - paediatric epidural haematoma
+KW  - paediatric mild head injury
+KW  - paediatric skull fracture(s)
+KW  - paediatric traumatic brain injury
+PY  - 2018
+AB  - Background Previous studies have shown that children with isolated linear skull fractures have excellent clinical outcomes and low risk of surgery. We wish to identify other injury patterns within the spectrum of paediatric mild head injury, which need only conservative management. Children with low risk of evolving neurosurgical lesions could be safely managed in primary hospitals. Methods We retrospectively analysed all children with mild head injury (i.e. admission Glasgow coma score 13?15) and skull fracture or haematoma on a head computed tomography scan admitted to Westmead Children's Hospital, Sydney over the years 2009?2014. Data were collected regarding demographics, clinical findings, mechanism of injury, head computed tomography scan findings, neurosurgical intervention, outcome and length of admission. Wilcoxon paired test was used with P value <0.05 considered significant. Results Four hundred and ten children were analysed. Three hundred and eighty-one (93%) children were managed conservatively, 18 (4%) underwent evacuation of extradural haematoma (TBI surgery) and 11 (3%) needed fracture repair surgery. Two children evolved a surgical lesion 24 h post-admission. Only 17 of 214 children transferred from peripheral hospitals needed neurosurgery. Overall outcomes: zero deaths, one needed brain injury rehabilitation and 63 needed child protection unit intervention. Seventy-five percentage of children with non-surgical lesions were discharged within 2 days. Eighty-three percentage of road transfers were discharged within 3 days. Conclusions Children with small intracranial haematomas and/or skull fractures who need no surgery only require brief inpatient symptomatic treatment and could be safely managed in primary hospitals. Improved tertiary hospital transfer guidelines with protocols to manage clinical deterioration could have cost benefit without risking patient safety.
+ER  - 
+
+TY  - JOUR
+AU  - Nakano, H.
+AU  - Satoh, S.
+TI  - WS09: Adnexal masses WS09-01Role of imaging modalities in pelvic tumor practice
+JO  - Ultrasound in Obstetrics & Gynecology
+VL  - 16
+IS  - s1
+SN  - 0960-7692
+UR  - https://doi.org/10.1046/j.1469-0705.2000.00009-1-54.x
+DO  - doi:10.1046/j.1469-0705.2000.00009-1-54.x
+SP  - 17
+EP  - 18
+PY  - 2000
+AB  - Background To clarify the diagnostic usefulness of imaging modalities in pelvic tumor practice, inpatients having pelvic neoplastic disorders in our Institute were reviewed. Methods For a total of 1506 cases undergoing ultrasonography (US) only, those receiving a combined usage of computed tomography (CT) and US, magnetic resonance imaging (MRI) and US, and all three modalities, we compared the indications and selected imaging modalities in relation to the stream of therapeutic procedure. Results 324 cases (21.5%) judged to have no structural disease through imaging techniques at previous Hospitals underwent no further imaging examination. 420 cases (27.9%), most of which underwent surgery and/or radiation due to malignant lesions in the ovary and/or uterus, had US alone, and 564 cases (37.5%) had CT in addition to US. The main indications for ordering additional CT were suspected distant metastasis, including pelvic and paraaortic lymphnodes. 95 patients (6.3%) had US and MRI under indication of tissue characterization in tumors. 103 cases (6.8%) with difficulties in diagnosis had all modalities; US, CT and MRI. In 324 cases without imaging modalities, 60 cases (18.5%) undergoing operative procedure were those with cervical neoplasm, and 70.0% of the cases followed by chemotherapy were for ovarian cancer. Such will be further discussed in detail.
+ER  - 
+
+TY  - JOUR
+AU  - Sharma, Ashish K
+AU  - Toussaint, Nigel D
+TI  - Is there a practical role for a virtual bone biopsy using high-resolution imaging of bone in patients with chronic kidney disease?
+JO  - Nephrology
+JA  - Nephrology
+VL  - 22
+IS  - S2
+SN  - 1320-5358
+UR  - https://doi.org/10.1111/nep.13018
+DO  - doi:10.1111/nep.13018
+SP  - 27
+EP  - 30
+KW  - bone mineral density
+KW  - chronic kidney disease
+KW  - fracture
+KW  - high-resolution magnetic resonance imaging
+KW  - peripheral quantitative high-resolution computed tomography
+KW  - renal osteodystrophy
+PY  - 2017
+AB  - Abstract Renal osteodystrophy (ROD) refers to alterations in bone turnover, mineralisation, mass and microarchitecture in patients with chronic kidney disease (CKD) and represents the skeletal component of ?CKD?mineral and bone disorder?. Changes in bone structure lead to impaired bone quality, compromised bone strength and increased susceptibility to fractures with associated significant morbidity, mortality and financial cost. Diagnosis and management of ROD is hindered by the inadequacy of currently available diagnostic methods to interpret the complex pathophysiology. Bone biopsy, the perceived gold standard test to assess ROD, is invasive and suboptimal for disease screening and management in routine clinical practice. High-resolution imaging, such as high-resolution peripheral quantitative computed tomography and high-resolution magnetic resonance imaging provide accurate non-invasive quantification of bone microarchitecture and facilitate assessment of mechanical competence of bone, correlating with skeletal fragility. We discuss the potential for these imaging techniques in patients with CKD to provide quantification and assessment of bone structure and strength. When used in conjunction with serum biomarkers, these investigative tools may provide a non-invasive diagnostic virtual bone biopsy.
+ER  - 
+
+TY  - JOUR
+AU  - Aoki, Ichio
+AU  - Naruse, Shoji
+AU  - Tanaka, Chuzo
+TI  - Manganese-enhanced magnetic resonance imaging (MEMRI) of brain activity and applications to early detection of brain ischemia
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 17
+IS  - 8
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.941
+DO  - doi:10.1002/nbm.941
+SP  - 569
+EP  - 580
+KW  - functional MRI
+KW  - manganese-enhanced MRI
+KW  - activity-induced manganese-dependent contrast, AIM
+KW  - brain activity
+KW  - somatosensory stimulation
+KW  - ischemia
+KW  - stroke
+PY  - 2004
+AB  - Abstract Divalent manganese ion (Mn2+) has been reported to be a useful contrast agent for functional MRI, through a technique named activity-induced manganese-dependent MRI (AIM). In AIM, signal enhancement is related to functional increases in calcium influx, and therefore AIM is, thus far, the only MRI method able to map brain activation in vivo independently of the surrogate hemodynamic changes used in functional MRI. Because of its high signal-to-noise ratio (SNR) and high sensitivity, AIM allows the use of multi-slice or three-dimensional MRI techniques to map functional activity at high spatial resolution. In the present review, we define AIM as a functional MRI tool based on the administration of divalent ionized manganese through an open or disrupted blood?brain barrier (BBB). The adequacy and efficacy of AIM in detecting neural activation is described in light of supporting experiments on inhibition of calcium channels, FOS expression, and on direct comparison to BOLD- and perfusion-based functional MRI. Two main applications of AIM, mapping brain activation in rat somatosensory cortex, as well stroke research based on the well-established middle cerebral artery occlusion model, are described in detail. Methodological problems associated with a strong dependence on anesthetic conditions, potential corruption due to disruption of the BBB, and unspecific increase of the baseline signal due to acoustical noise are discussed. Finally, recommended preparation methods and experimental protocols for AIM are introduced. Copyright ? 2004 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Paja, L.
+AU  - Coqueugniot, H.
+AU  - Dutour, O.
+AU  - Willmon, R.
+AU  - Farkas, G. L.
+AU  - Palkó, A.
+AU  - Pálfi, G.
+TI  - Knee Ankyloses Associated with Tuberculosis from the Medieval Hungary – Differential Diagnosis Based on Medical Imaging Techniques
+JO  - International Journal of Osteoarchaeology
+JA  - Int. J. Osteoarchaeol.
+VL  - 25
+IS  - 3
+SN  - 1047-482X
+UR  - https://doi.org/10.1002/oa.2284
+DO  - doi:10.1002/oa.2284
+SP  - 352
+EP  - 360
+KW  - computed tomography
+KW  - knee ankylosis
+KW  - medical imaging
+KW  - paleopathology
+KW  - paleoradiology
+KW  - tuberculosis
+PY  - 2015
+AB  - Abstract Osseous ankylosis of large joints that occurs secondary to infection is rarely described in developed countries, thanks to diagnostic techniques that allow early detection and treatment of the underlying infection. Evidence of the natural history and progression of the disease is now primarily studied through the observation and analysis of osteoarcheological specimens, and medical reports or books dating from the pre-antibiotic era. This report illustrates several cases where modern medical imaging techniques and ancient medical literature were successfully interpreted to diagnose rare, advanced-stage tuberculous alterations in osteoarcheological specimens. Two skeletons from the Bátmonostor cemetery (Hungary) demonstrate complete unilateral ankylosis of the knee. Macroscopic and radiographic examinations were undertaken to assess the extent of skeletal changes and determine their cause. Data obtained from computed tomography (CT) were constructed in 2D and 3D. The 2D CT images revealed cavities involving both the metaphyses and the epiphyses. The 3D reconstructions allowed us to reconstruct the more precise volumetric morphology of the circumscribed lytic lesions, as well as clear ?image-mirror? lacunar volumes. On the basis of the macroscopic and radiological analyses, extra-spinal tuberculous infection seems to have been the most probable etiology of these two cases. Copyright ? 2012 John Wiley & Sons, Ltd.
+ER  - 
+
+AU  - Azarpazhooh, Amir
+AU  - Lai, Jim Yuan
+C7  - pp. 177-189
+TI  - Radiographic Imaging in Implant Dentistry
+SN  - 9780470958490
+UR  - https://doi.org/10.1002/9781119421689.ch12
+DO  - doi:10.1002/9781119421689.ch12
+SP  - 177-189
+KW  - abutment
+KW  - bitewing radiographs
+KW  - bone volume
+KW  - implant dentistry
+KW  - implant surgery
+KW  - intraoral radiography
+KW  - panoramic radiography
+KW  - periapical radiography
+KW  - single tooth replacement
+KW  - topography
+PY  - 2015
+AB  - Summary This chapter specifically focuses on radiographic imaging of implant therapy for single tooth replacement or for a small partially edentulous span. The key to the successful outcome of implant dentistry is osseointegration, where vital bone is in direct and intimate contact with the titanium surface of the dental implant. Use of periapical and bitewing radiographs is often adequate to assess the quality and quantity of bone around the implants that have been restored and are in function. When planning for surgical placement of dental implants, it is crucial to obtain information on bone volume and quality, topography, and adjacent anatomical structures (nerves, vessels, roots, nasal floor, and sinus cavities). The chapter provides a brief overview of the imaging modalities utilized in implant planning, placement, and evaluation for single tooth replacement or small partially edentulous span. Radiographic imaging is used during treatment planning, during the stage I surgery, abutment connection, and monitoring of osseointegrated implants.
+ER  - 
+
+TY  - JOUR
+AU  - Sharman, M.
+AU  - Paul, A.
+AU  - Davies, D.
+AU  - MacKay, B.
+AU  - Swinney, G.
+AU  - Barrs, V.
+AU  - Arteaga, A.
+AU  - Robertson, I. D.
+AU  - Mansfield, C.
+TI  - Multi-centre assessment of mycotic rhinosinusitis in dogs: a retrospective study of initial treatment success (1998 to 2008)
+JO  - Journal of Small Animal Practice
+VL  - 51
+IS  - 8
+SN  - 9780470958490
+UR  - https://doi.org/10.1111/j.1748-5827.2010.00957.x
+DO  - doi:10.1111/j.1748-5827.2010.00957.x
+SP  - 423
+EP  - 427
+PY  - 2010
+AB  - Objectives: To retrospectively review the first treatment response of dogs with mycotic rhinosinusitis to commonly utilised treatment techniques. Methods: Medical records of dogs treated for mycotic rhinosinusitis were obtained retrospectively via a manual review of the clinical databases of six veterinary referral centres for the period of January 1998 to June 2008, and first treatment outcome was evaluated. Historical and clinicopathological findings were also reviewed to evaluate their impact on treatment success or failure. Results: There was no significant difference in first treatment outcome between treatment groups (P=0·21). When all topical treatments were considered together (n=85), 39 dogs (45·8%) had a successful first treatment. Initial treatment success was associated with a younger age (56·3 versus 75·8 months; P=0·02) and was 2·7 times more likely in dogs with unilateral disease, although this was not significant (P=0·07). Adjunctive therapy with systemic antifungal agents was associated with treatment failure (PÄ0·01). Fifty-nine dogs (69·4%) responded successfully following multiple treatments. Clinical Significance: Treatment of mycotic rhinosinusitis remains challenging, and multiple treatments are frequently required for adequate treatment. Reasons for first treatment failure are likely multifactorial in origin, making it difficult to predict those dogs that are likely to have a superior prognosis, regardless of the treatment type used.
+ER  - 
+
+TY  - JOUR
+AU  - Oegema, Renske
+AU  - Hulst, Jessie M.
+AU  - Theuns-Valks, Sabine D.M.
+AU  - van Unen, Leontine M.A.
+AU  - Schot, Rachel
+AU  - Mancini, Grazia M.S.
+AU  - Schipper, Marguerite E.I.
+AU  - de Wit, Marie C.Y.
+AU  - Sibbles, Barbara J.
+AU  - de Coo, Irenaeus F.M.
+AU  - Nanninga, Veerle
+AU  - Hofstra, Robert M.W.
+AU  - Halley, Dicky J.J.
+AU  - Brooks, Alice S.
+TI  - Novel no-stop FLNA mutation causes multi-organ involvement in males
+JO  - American Journal of Medical Genetics Part A
+JA  - Am. J. Med. Genet.
+VL  - 161
+IS  - 9
+SN  - 9780470958490
+UR  - https://doi.org/10.1002/ajmg.a.36109
+DO  - doi:10.1002/ajmg.a.36109
+SP  - 2376
+EP  - 2384
+KW  - periventricular nodular heterotopia
+KW  - congenital short bowel
+KW  - Filamin A
+KW  - intestinal malrotation
+PY  - 2013
+AB  - ABSTRACT Mutations in FLNA (Filamin A, OMIM 300017) cause X-linked periventricular nodular heterotopia (XL-PNH). XL-PNH-associated mutations are considered lethal in hemizygous males. However, a few males with unusual mutations (including distal truncating and hypomorphic missense mutations), and somatic mosaicism have been reported to survive past infancy. Two brothers had an atypical presentation with failure to thrive and distinct facial appearance including hypertelorism. Evaluations of these brothers and their affected cousin showed systemic involvement including severe intestinal malfunction, malrotation, congenital short bowel, PNH, pyloric stenosis, wandering spleen, patent ductus arteriosus, atrial septal defect, inguinal hernia, and vesicoureteral reflux. The unanticipated finding of PNH led to FLNA testing and subsequent identification of a novel no-stop FLNA mutation (c.7941_7942delCT, p.(*2648Serext*100)). Western blotting and qRT-PCR of patients' fibroblasts showed diminished levels of protein and mRNA. This FLNA mutation, the most distal reported so far, causes in females classical XL-PNH, but in males an unusual, multi-organ phenotype, providing a unique insight into the FLNA-associated phenotypes. ? 2013 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Gillies, Donna
+AU  - Taylor, Fiona
+AU  - Gray, Carl
+AU  - O'Brien, Louise
+AU  - D'Abrew, Natalie
+TI  - Psychological therapies for the treatment of post-traumatic stress disorder in children and adolescents (Review)
+JO  - Evidence-Based Child Health: A Cochrane Review Journal
+JA  - Evid.‐Based Child Health
+VL  - 8
+IS  - 3
+SN  - 9780470958490
+UR  - https://doi.org/10.1002/ebch.1916
+DO  - doi:10.1002/ebch.1916
+SP  - 1004
+EP  - 1116
+KW  - Cognitive Therapy
+KW  - Psychotherapy [*methods]
+KW  - Randomized Controlled Trials as Topic
+KW  - Stress Disorders, Post-Traumatic [psychology; *therapy]
+KW  - Adolescent
+KW  - Child
+KW  - Child, Preschool
+KW  - Female
+KW  - Humans
+KW  - Male
+PY  - 2013
+AB  - Abstract Background Post-traumatic stress disorder (PTSD) is highly prevalent in children and adolescents who have experienced trauma and has high personal and health costs. Although a wide range of psychological therapies have been used in the treatment of PTSD there are no systematic reviews of these therapies in children and adolescents. Objectives To examine the effectiveness of psychological therapies in treating children and adolescents who have been diagnosed with PTSD. Search methods We searched the Cochrane Depression, Anxiety and Neurosis Review Group's Specialised Register (CCDANCTR) to December 2011. The CCDANCTR includes relevant randomised controlled trials from the following bibliographic databases: CENTRAL (the Cochrane Central Register of Controlled Trials) (all years), EMBASE (1974 -), MEDLINE (1950 -) and PsycINFO (1967 -). We also checked reference lists of relevant studies and reviews. We applied no date or language restrictions. Selection criteria All randomised controlled trials of psychological therapies compared to a control, pharmacological therapy or other treatments in children or adolescents exposed to a traumatic event or diagnosed with PTSD. Data collection and analysis Two members of the review group independently extracted data. If differences were identified, they were resolved by consensus, or referral to the review team. We calculated the odds ratio (OR) for binary outcomes, the standardised mean difference (SMD) for continuous outcomes, and 95% confidence intervals (CI) for both, using a fixed-effect model. If heterogeneity was found we used a random-effects model. Main results Fourteen studies including 758 participants were included in this review. The types of trauma participants had been exposed to included sexual abuse, civil violence, natural disaster, domestic violence and motor vehicle accidents. Most participants were clients of a trauma-related support service. The psychological therapies used in these studies were cognitive behavioural therapy (CBT), exposure-based, psychodynamic, narrative, supportive counselling, and eye movement desensitisation and reprocessing (EMDR). Most compared a psychological therapy to a control group. No study compared psychological therapies to pharmacological therapies alone or as an adjunct to a psychological therapy. Across all psychological therapies, improvement was significantly better (three studies, n = 80, OR 4.21, 95% CI 1.12 to 15.85) and symptoms of PTSD (seven studies, n = 271, SMD -0.90, 95% CI -1.24 to -0.42), anxiety (three studies, n = 91, SMD -0.57, 95% CI -1.00 to -0.13) and depression (five studies, n = 156, SMD -0.74, 95% CI -1.11 to -0.36) were significantly lower within a month of completing psychological therapy compared to a control group. The psychological therapy for which there was the best evidence of effectiveness was CBT. Improvement was significantly better for up to a year following treatment (up to one month: two studies, n = 49, OR 8.64, 95% CI 2.01 to 37.14; up to one year: one study, n = 25, OR 8.00, 95% CI 1.21 to 52.69). PTSD symptom scores were also significantly lower for up to one year (up to one month: three studies, n = 98, SMD -1.34, 95% CI -1.79 to -0.89; up to one year: one study, n = 36, SMD -0.73, 95% CI -1.44 to -0.01), and depression scores were lower for up to a month (three studies, n = 98, SMD -0.80, 95% CI -1.47 to -0.13) in the CBT group compared to a control. No adverse effects were identified. No study was rated as a high risk for selection or detection bias but a minority were rated as a high risk for attrition, reporting and other bias. Most included studies were rated as an unclear risk for selection, detection and attrition bias. Authors' conclusions There is evidence for the effectiveness of psychological therapies, particularly CBT, for treating PTSD in children and adolescents for up to a month following treatment. At this stage, there is no clear evidence for the effectiveness of one psychological therapy compared to others. There is also not enough evidence to conclude that children and adolescents with particular types of trauma are more or less likely to respond to psychological therapies than others. The findings of this review are limited by the potential for methodological biases, and the small number and generally small size of identified studies. In addition, there was evidence of substantial heterogeneity in some analyses which could not be explained by subgroup or sensitivity analyses. More evidence is required for the effectiveness of all psychological therapies more than one month after treatment. Much more evidence is needed to demonstrate the relative effectiveness of different psychological therapies or the effectiveness of psychological therapies compared to other treatments. More details are required in future trials in regards to the types of trauma that preceded the diagnosis of PTSD and whether the traumas are single event or ongoing. Future studies should also aim to identify the most valid and reliable measures of PTSD symptoms and ensure that all scores, total and sub-scores, are consistently reported. Plain Language Summary Psychological therapies for the treatment of post-traumatic stress disorder in children and adolescents Post-traumatic stress disorder (PTSD) is highly prevalent in children and adolescents who have experienced trauma and has high personal and health costs. The aim of this review was to examine the effectiveness of all psychological therapies for the treatment of PTSD in children and adolescents.  We searched for all randomised controlled trials comparing psychological therapies to a control, other psychological therapies or other therapies for the treatment of PTSD in children and adolescents aged 3 to 18 years. We identified 14 studies with a total of 758 participants. The types of trauma related to the PTSD were sexual abuse, civil violence, natural disaster, domestic violence and motor vehicle accidents. Most participants were clients of a trauma-related support service. The psychological therapies used in the included studies were cognitive behavioural therapy (CBT), exposure-based, psychodynamic, narrative, supportive counselling, and eye movement desensitisation and reprocessing (EMDR). Most included studies compared a psychological therapy to a control group. No study compared psychological therapies to medications or medications in combination with a psychological therapy. There was fair evidence for the effectiveness of psychological therapies, particularly CBT, for the treatment of PTSD in children and adolescents for up to a month following treatment. More evidence is required for the effectiveness of psychological therapies in the longer term and to be able to compare the effectiveness of one psychological therapy to another. The findings of this review are limited by the potential for bias in the included studies, possible differences between studies which could not be identified, the small number of identified studies and the low number of participants in most studies.
+ER  - 
+
+TY  - JOUR
+AU  - Redfern, R. C.
+AU  - Judd, M. A.
+AU  - DeWitte, S. N.
+C8  - OA-16-0079.R1
+TI  - Multiple Injury and Health in Past Societies: An Analysis of Concepts and Approaches, and Insights from a Multi-Period Study
+JO  - International Journal of Osteoarchaeology
+JA  - Int. J. Osteoarchaeol.
+VL  - 27
+IS  - 3
+SN  - 9780470958490
+UR  - https://doi.org/10.1002/oa.2565
+DO  - doi:10.1002/oa.2565
+SP  - 418
+EP  - 429
+KW  - health
+KW  - injury recidivism
+KW  - mortality
+KW  - multiple injury
+KW  - polytrauma
+PY  - 2017
+AB  - Abstract Earlier clinical and bioarchaeological studies found that injury recidivists were most likely to be young adult males. Since then, the clinical meaning of the injury recidivist has expanded to include all individuals with multiple injuries, and other aspects of health have been considered. Our study sought to apply these advances to paleopathology and place multiple injuries in a wider context by investigating: the age and sex distribution of those with single and multiple fractures, and if people with multiple injuries had poorer general health. The sample of 213 males and 190 females (≥18?years old) from six populations in England, Siberia, and Sudan ranged in date from the 3rd century BC to the mid-19th century AD. Health variables included cribra orbitalia, porotic hyperostosis, periostitis, Schmorl's nodes, enamel hypoplasias, dental caries, and periodontitis. Ante-mortem injuries were: fractures (0/1/≥2), myositis ossificans, dental trauma, and sharp-force injuries. The data were analysed using chi-square and hierarchical loglinear analyses (P?=?0.05). No significant three-way association between age, sex, and injury was found. There was no difference between the sexes when individuals with single versus multiple injuries were compared. There were significant differences in the age-distribution of people with 0 and 1/≥2 fractures. Males and those 26?35?years old were most likely to have fractures and multiple injuries. Porotic hyperostosis was significantly associated with fractures. There was no significant relationship between general poor health and multiple injuries. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Ganggang
+AU  - Brion, Alice
+AU  - Willemin, Anne-Sophie
+AU  - Piet, Marie-Hélène
+AU  - Moby, Vanessa
+AU  - Bianchi, Arnaud
+AU  - Mainard, Didier
+AU  - Galois, Laurent
+AU  - Gillet, Pierre
+AU  - Rousseau, Marthe
+TI  - Nacre, a natural, multi-use, and timely biomaterial for bone graft substitution
+JO  - Journal of Biomedical Materials Research Part A
+JA  - J. Biomed. Mater. Res.
+VL  - 105
+IS  - 2
+SN  - 9780470958490
+UR  - https://doi.org/10.1002/jbm.a.35939
+DO  - doi:10.1002/jbm.a.35939
+SP  - 662
+EP  - 671
+KW  - nacre
+KW  - bone graft substitute
+KW  - biomineralization
+KW  - biomaterial
+KW  - clinical applications
+PY  - 2017
+AB  - Abstract During the past two decades, with a huge and rapidly increasing clinical need for bone regeneration and repair, bone substitutes are more and more seen as a potential solution. Major innovation efforts are being made to develop such substitutes, some having advanced even to clinical practice. It is now time to turn to natural biomaterials. Nacre, or mother-of-pearl, is an organic matrix-calcium carbonate coupled shell structure produced by molluscs. In vivo and in vitro studies have revealed that nacre is osteoinductive, osteoconductive, biocompatible, and biodegradable. With many other outstanding qualities, nacre represents a natural and multi-use biomaterial as a bone graft substitute. This review aims at summarising the current needs in orthopaedic clinics and the challenges for the development of bone substitutes; most of all, we systematically review the physiological characteristics and biological evidence of nacre's effects centred on osteogenesis, and finally we put forward the potential use of nacre as a bone graft substitute. ? 2016 Wiley Periodicals, Inc. J Biomed Mater Res Part A: 105A: 662?671, 2017.
+ER  - 
+
+TY  - JOUR
+AU  - Pollard, James A.
+AU  - Rose, David C.
+TI  - Lightning Rods, Earthquakes, and Regional Identities: Towards a Multi-Scale Framework of Assessing Fracking Risk Perception
+JO  - Risk Analysis
+JA  - Risk Analysis
+VL  - 39
+IS  - 2
+SN  - 9780470958490
+UR  - https://doi.org/10.1111/risa.13167
+DO  - doi:10.1111/risa.13167
+SP  - 473
+EP  - 487
+KW  - Hydraulic fracturing
+KW  - risk perception
+KW  - social license to operate
+PY  - 2019
+AB  - Abstract Hydraulic fracturing has provided a persistent, polarizing, and highly politicized source of controversy internationally and in numerous national contexts for just under a decade. This research uses hydraulic fracturing (i.e., fracking) operations in New Zealand as a vignette through which to understand the underlying causes of controversy and the appropriateness of attempts to address them. A multi-method approach using interviews (n = 25), diagrammatic analysis, and newsprint media was applied to evidence two major findings. First, previous attempts to explain fracking controversy based on social constructivist theory lack a multi-scalar approach to the assessment of factors that influence risk perceptions. It is found that risk perception surrounding fracking in New Zealand reflects intra-scalar interactions between factors originating at the international, national, regional, and local scale. Second, there is a concerning absence of critique pertaining to the concept of ?social license to operate? (SLO), which has been advocated both internationally and nationally as an appropriate form of stakeholder engagement. This article contributes to the SLO outcomes literature by establishing a need to consider multi-scalar influences on risk perception when explaining diverse SLO outcomes in communities where fracking operations are prospective or already taking place.
+ER  - 
+
+TY  - JOUR
+AU  - Niele, Nicky
+AU  - van Houten, Marlies A.
+AU  - Boersma, Bart
+AU  - Biezeveld, Maarten H.
+AU  - Douma, Matthijs
+AU  - Heitink, Katja
+AU  - ten Tusscher, Gavin W.
+AU  - Tromp, Ellen
+AU  - van Goudoever, Johannes B.
+AU  - Plötz, Frans B.
+TI  - Multi-centre study found that strict adherence to guidelines led to computed tomography scans being overused in children with minor head injuries
+JO  - Acta Paediatrica
+JA  - Acta Paediatr
+VL  - 108
+IS  - 9
+SN  - 9780470958490
+UR  - https://doi.org/10.1111/apa.14742
+DO  - doi:10.1111/apa.14742
+SP  - 1695
+EP  - 1703
+KW  - Clinical decision rules
+KW  - Computed tomography scan
+KW  - Minor head injuries
+KW  - National guidelines
+KW  - Paediatrics
+PY  - 2019
+AB  - Abstract Aim Our primary aim was to calculate the head computed tomography (CT) scan rate in children with a minor head injury (MHI) when the Dutch National guidelines were followed in clinical practice. The secondary aim was to determine the incidence of CT abnormalities and the guideline predictors associated with traumatic abnormalities. Methods We performed a multi-centre, prospective observational cross-sectional study in the emergency departments of six hospitals in The Netherlands between 1 April 2015 and 31 December 2016. Results Data on 1002 patients were studied and 69% of cases complied with the guidelines. The overall CT rate was 44% and the incidence of traumatic abnormal CT findings was 13%. CT scans were performed in 19% of children under two years of age, 48% of children between two and five years and 63% of children aged six years or more. Multivariate regression analysis for all age categories showed that CT abnormalities were predicted by a Glasgow Coma Scale of less than 15, suspicion of a basal skull fracture, vomiting and scalp haematomas or external lesions of the skull. Conclusion Strict adherence to the Dutch national guidelines resulted in CT overuse. New guidelines are needed to safely reduce CT scan indications.
+ER  - 
+
+TY  - JOUR
+AU  - DiGiacomo, Phillip
+AU  - Maclaren, Julian
+AU  - Aksoy, Murat
+AU  - Tong, Elizabeth
+AU  - Carlson, Mackenzie
+AU  - Lanzman, Bryan
+AU  - Hashmi, Syed
+AU  - Watkins, Ronald
+AU  - Rosenberg, Jarrett
+AU  - Burns, Brian
+AU  - Skloss, Timothy W.
+AU  - Rettmann, Dan
+AU  - Rutt, Brian
+AU  - Bammer, Roland
+AU  - Zeineh, Michael
+TI  - A within-coil optical prospective motion-correction system for brain imaging at 7T
+JO  - Magnetic Resonance in Medicine
+JA  - Magn Reson Med
+VL  - n/a
+IS  - n/a
+SN  - 9780470958490
+UR  - https://doi.org/10.1002/mrm.28211
+DO  - doi:10.1002/mrm.28211
+KW  - neuroimaging
+KW  - optical motion correction
+KW  - prospective motion correction
+KW  - ultrahigh field MRI
+AB  - Purpose Motion artifact limits the clinical translation of high-field MR. We present an optical prospective motion correction system for 7 Tesla MRI using a custom-built, within-coil camera to track an optical marker mounted on a subject. Methods The camera was constructed to fit between the transmit?receive coils with direct line of sight to a forehead-mounted marker, improving upon prior mouthpiece work at 7 Tesla MRI. We validated the system by acquiring a 3D-IR-FSPGR on a phantom with deliberate motion applied. The same 3D-IR-FSPGR and a 2D gradient echo were then acquired on 7 volunteers, with/without deliberate motion and with/without motion correction. Three neuroradiologists blindly assessed image quality. In 1 subject, an ultrahigh-resolution 2D gradient echo with 4 averages was acquired with motion correction. Four single-average acquisitions were then acquired serially, with the subject allowed to move between acquisitions. A fifth single-average 2D gradient echo was acquired following subject removal and reentry. Results In both the phantom and human subjects, deliberate and involuntary motion were well corrected. Despite marked levels of motion, high-quality images were produced without spurious artifacts. The quantitative ratings confirmed significant improvements in image quality in the absence and presence of deliberate motion across both acquisitions (P < .001). The system enabled ultrahigh-resolution visualization of the hippocampus during a long scan and robust alignment of serially acquired scans with interspersed movement. Conclusion We demonstrate the use of a within-coil camera to perform optical prospective motion correction and ultrahigh-resolution imaging at 7 Tesla MRI. The setup does not require a mouthpiece, which could improve accessibility of motion correction during 7 Tesla MRI exams.
+ER  - 
+
+TY  - JOUR
+AU  - Sheth, Vipul R.
+AU  - Duran, Pamela
+AU  - Wong, Jonathan
+AU  - Shah, Sameer
+AU  - Du, Jiang
+AU  - Christman, Karen L.
+AU  - Chang, Eric Y.
+AU  - Alperin, Marianna
+TI  - Multimodal imaging assessment and histologic correlation of the female rat pelvic floor muscles’ anatomy
+JO  - Journal of Anatomy
+JA  - J. Anat.
+VL  - 234
+IS  - 4
+SN  - 9780470958490
+UR  - https://doi.org/10.1111/joa.12943
+DO  - doi:10.1111/joa.12943
+SP  - 543
+EP  - 550
+KW  - anatomy
+KW  - magnetic resonance imaging
+KW  - pelvic floor muscles
+KW  - rat
+KW  - ultrasound
+PY  - 2019
+AB  - Abstract Pelvic floor disorders negatively impact millions of women worldwide. Although there is a strong epidemiological association with childbirth, the mechanisms leading to the dysfunction of the integral constituents of the female pelvic floor, including pelvic floor skeletal muscles, are not well understood. This is in part due to the constraints associated with directly probing these muscles, which are located deep in the pelvis. Thus, experimental models and non-invasive techniques are essential for advancing knowledge of various phenotypes of pelvic floor muscle injury and pathogenesis of muscle dysfunction, as well as developing minimally invasive approaches for the delivery of novel therapeutics. The most widely used animal model for pelvic floor disorders is the rat. However, the radiological anatomy of rat pelvic floor muscles has not been described. To remedy this gap, the current study provides the first detailed description of the female rat pelvic floor muscles? radiological appearance on MR and ultrasound images, validated by correlation with gross anatomy and histology. We also demonstrate that ultrasound guidance can be used to target rat pelvic floor muscles for possible interventional therapies.
+ER  - 
+
+TY  - JOUR
+AU  - Slade, Pauline
+AU  - West, Helen
+AU  - Thomson, Gill
+AU  - Lane, Steven
+AU  - Spiby, Helen
+AU  - Edwards, Rhiannon Tudor
+AU  - Charles, Joanna M
+AU  - Garrett, Charlotte
+AU  - Flanagan, Beverley
+AU  - Treadwell, Maureen
+AU  - Hayden, Emma
+AU  - Weeks, Andrew
+TI  - STRAWB2 (Stress and Wellbeing After Childbirth): a randomised controlled trial of targeted self-help materials to prevent post-traumatic stress disorder (PTSD) following childbirth
+JO  - BJOG: An International Journal of Obstetrics & Gynaecology
+JA  - BJOG: Int J Obstet Gy
+VL  - n/a
+IS  - n/a
+SN  - 9780470958490
+UR  - https://doi.org/10.1111/1471-0528.16163
+DO  - doi:10.1111/1471-0528.16163
+KW  - Post traumatic stress disorder
+KW  - postnatal
+KW  - childbirth
+KW  - prevention
+KW  - randomised controlled trial
+AB  - Abstract Background Post-traumatic stress disorder (PTSD) can develop after a traumatic childbirth. Objective To test if providing psychological self-help materials would significantly lower the incidence of PTSD at 6-12 weeks postnatally. Design Open label, randomised controlled trial, blinded outcome assessment. Setting Community midwifery services in two North West NHS Trusts. Sample 2419 women receiving usual NHS postnatal care. Methods Midwives screened women for traumatic birth experience. 678 women who screened positive (28.1%) were randomly allocated to self-help with usual care (n=336) or usual care alone (n=342). Self-help materials, were a leaflet and on-line film designed to prevent the development of PTSD after trauma exposure through how to manage early psychological responses. Main Outcome Measure The primary outcome was a composite of diagnostic and sub-diagnostic PTSD at 6-12 weeks postnatally using the gold standard Clinician Administered PTSD Interview (CAPS-5). Results 478 of 678 (70.5%) correctly randomised women and 9 randomised in error were followed up. Diagnostic or sub-diagnostic PTSD rates at follow-up did not differ between groups who received self-help (26.7%, 65/243) or usual care alone (26.2%, 64/244) (ITT analysis: relative risk (RR) 1.02, 95% confidence interval (CI) 0.68 to 1.53). Findings remained consistent in the per protocol analysis (RR 1.04, 95% CI 0.85 to 1.27). Women viewed the materials very positively. There were no adverse effects. Health economic micro-costing indicated implementation would be very low cost. Conclusions Many women experience a traumatic birth and risk developing PTSD, but self-help strategies without professional support are insufficient and should not be routinely introduced.
+ER  - 

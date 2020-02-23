@@ -1,0 +1,428 @@
+
+TY  - JOUR
+AU  - Paddle, A. M.
+AU  - Morrison, W. A.
+TI  - PR45P SURGICAL MANAGEMENT FOLLOWING SEAT-BELT INJURY TO THE FEMALE BREAST
+JO  - ANZ Journal of Surgery
+VL  - 79
+IS  - s1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/j.1445-2197.2009.04927_45.x
+DO  - doi:10.1111/j.1445-2197.2009.04927_45.x
+SP  - A63
+EP  - A63
+PY  - 2009
+AB  - Background:?? With the use of the three-point lap-diagonal seat belt restraint there has been a reduction in the number of deaths caused by automobile trauma. However, with the use of a restraint, a new pattern of injuries has emerged. The ?seat-belt syndrome? comprises a constellation of injuries including soft tissue injury to the breast. Given that seat-belt legislation is becoming more widespread, it is likely that the incidence and reporting of these injuries will become more common. In this paper, we provide an overview of the reported literature regarding three-point lap-diagonal seat belt injury to the female breast. We then discuss the previously unreported area of breast reconstruction in a breast deformed as a result of blunt trauma, using a specific case as an example. Methods:?? A Medline search was undertaken and all available reported literature, related to seat-belt associated breast trauma, reviewed. Results:?? A concise summary of the varied clinical and radiological presentations is given, as is their suggested management. Subsequently highlighted is the paucity of literature discussing the breast reconstruction options for a breast deformed by blunt trauma and thus, this issue is discussed using a specific case as an example. Conclusions:?? Blunt breast trauma secondary to seat-belt restraint is not only likely to become more common, but can be severe in its functional, psycho-social and aesthetic impact. This paper provides a new adjunct to the currently reported literature, especially in the area of plastic surgical reconstruction of a breast deformed by blunt trauma.
+ER  - 
+
+TY  - JOUR
+AU  - Vinayak, A.
+AU  - Frank, C. B.
+AU  - Gardiner, D. W.
+AU  - Thieman-Mankin, K. M.
+AU  - Worley, D. R.
+C8  - JSAP-2015-0448.R2
+TI  - Malignant anal sac melanoma in dogs: eleven cases (2000 to 2015)
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 58
+IS  - 4
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/jsap.12637
+DO  - doi:10.1111/jsap.12637
+SP  - 231
+EP  - 237
+PY  - 2017
+AB  - Objectives To report the signalment, clinical presentation, treatments pursued and outcomes of dogs with malignant anal sac melanoma. Methods Medical records from five institutions from January 2000 through December 2015 were reviewed and dogs with cytologically- or histologically-confirmed malignant anal sac melanoma were identified. Signalment, clinical signs, staging, cytology, histopathologic analysis, surgical and non-surgical treatments were extracted from the medical records. The referring veterinarians and owners were contacted for follow-up data. Results Eleven dogs were included and survival data was available for all. The most common clinical signs were bloody anal sac discharge and perianal licking. Initial treatments pursued included surgery (n=8), chemotherapy (n=1), and palliative treatment with pain medications and stool softeners (n=2). In an adjuvant setting, melanoma vaccine was pursued following surgery in three dogs and chemotherapy in one dog. Regardless of treatment, progression-free survival (mean 92 · 5?days) and overall survival times (median 107?days) were short. Clinical Significance Dogs in this case series had a guarded to poor prognosis regardless of treatment. Ten of 11 dogs were euthanased due to local or distant disease progression. Only 1 of 11 dogs was alive one year after diagnosis. An understanding of tumour behaviour in this location could lead to improved survival times with earlier diagnosis and treatment.
+ER  - 
+
+TY  - JOUR
+AU  - Xing, Xiaodan
+AU  - Jin, Lili
+AU  - Li, Qingfeng
+AU  - Yang, Qiong
+AU  - Han, Hongying
+AU  - Xu, Chuanyong
+AU  - Wei, Zhen
+AU  - Zhan, Yiqiang
+AU  - Zhou, Xiang Sean
+AU  - Xue, Zhong
+AU  - Chu, Xu
+AU  - Peng, Ziwen
+AU  - Shi, Feng
+C7  - e01499
+TI  - Modeling essential connections in obsessive–compulsive disorder patients using functional MRI
+JO  - Brain and Behavior
+JA  - Brain Behav
+VL  - 10
+IS  - 2
+SN  - 2162-3279
+UR  - https://doi.org/10.1002/brb3.1499
+DO  - doi:10.1002/brb3.1499
+SP  - e01499
+KW  - classification
+KW  - global brain functional connectivity
+KW  - obsessive–compulsive disorder
+PY  - 2020
+AB  - Abstract Object Obsessive?compulsive disorder (OCD) is a mental disease in which people experience uncontrollable and repetitive thoughts or behaviors. Clinical diagnosis of OCD is achieved by using neuropsychological assessment metrics, which are often subjectively affected by psychologists and patients. In this study, we propose a classification model for OCD diagnosis using functional MR images. Methods Using functional connectivity (FC) matrices calculated from brain region of interest (ROI) pairs, a novel Riemann Kernel principal component analysis (PCA) model is employed for feature extraction, which preserves the topological information in the FC matrices. Hierarchical features are then fed into an ensemble classifier based on the XGBoost algorithm. Finally, decisive features extracted during classification are used to investigate the brain FC variations between patients with OCD and healthy controls. Results The proposed algorithm yielded a classification accuracy of 91.8%. Additionally, the well-known cortico?striatal?thalamic?cortical (CSTC) circuit and cerebellum were found as highly related regions with OCD. To further analyze the cerebellar-related function in OCD, we demarcated cerebellum into three subregions according to their anatomical and functional property. Using these three functional cerebellum regions as seeds for brain connectivity computation, statistical results showed that patients with OCD have decreased posterior cerebellar connections. Conclusions This study provides a new and efficient method to characterize patients with OCD using resting-state functional MRI. We also provide a new perspective to analyze disease-related features. Despite of CSTC circuit, our model-driven feature analysis reported cerebellum as an OCD-related region. This paper may provide novel insight to the understanding of genetic etiology of OCD.
+ER  - 
+
+TY  - JOUR
+AU  - Schildberg, Frank A.
+AU  - Donnenberg, Vera S.
+TI  - Stromal cells in health and disease
+JO  - Cytometry Part A
+JA  - Cytometry
+VL  - 93
+IS  - 9
+SN  - 1552-4922
+UR  - https://doi.org/10.1002/cyto.a.23600
+DO  - doi:10.1002/cyto.a.23600
+SP  - 871
+EP  - 875
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Suri, Sana
+AU  - Mackay, Clare E.
+AU  - Kelly, Michael E.
+AU  - Germuska, Michael
+AU  - Tunbridge, Elizabeth M.
+AU  - Frisoni, Giovanni B.
+AU  - Matthews, Paul M.
+AU  - Ebmeier, Klaus P.
+AU  - Bulte, Daniel P.
+AU  - Filippini, Nicola
+TI  - Reduced cerebrovascular reactivity in young adults carrying the APOE ε4 allele
+JO  - Alzheimer's & Dementia
+JA  - Alzheimer's & Dementia
+VL  - 11
+IS  - 6
+SN  - 1552-5260
+UR  - https://doi.org/10.1016/j.jalz.2014.05.1755
+DO  - doi:10.1016/j.jalz.2014.05.1755
+SP  - 648
+EP  - 657.e1
+KW  - APOE gene
+KW  - Alzheimer's disease
+KW  - BOLD
+KW  - Cerebrovascular reactivity
+KW  - fMRI
+PY  - 2015
+AB  - Abstract Background Functional magnetic resonance imaging (MRI) studies have shown that APOE ε2- and ε4-carriers have similar patterns of blood-oxygenation-level-dependent (BOLD) activation suggesting that we need to look beyond the BOLD signal to link APOE's effect on the brain to Alzheimer's disease (AD)-risk. Methods We evaluated APOE-related differences in BOLD activation in response to a memory task, cerebrovascular reactivity using a CO2-inhalation challenge (CO2-CVR), and the potential contribution of CO2-CVR to the BOLD signal. Results APOE ε4-carriers had the highest task-related hippocampal BOLD signal relative to non-carriers. The largest differences in CO2-CVR were between ε2- and ε4-carriers, with the latter having the lowest values. Genotype differences in CO2-CVR accounted for ?70% of hippocampal BOLD differences between groups. Conclusion Because CO2-CVR gauges vascular health, the differential effect of APOE in young adults may reflect a vascular contribution to the vulnerability of ε4-carriers to late-life pathology. Studies confirming our findings are warranted.
+ER  - 
+
+AU  - Troccaz, Jocelyne
+C7  - pp. 69-100
+TI  - Inter-operative Sensors and Registration
+SN  - 9781848213340
+UR  - https://doi.org/10.1002/9781118562147.ch3
+DO  - doi:10.1002/9781118562147.ch3
+SP  - 69-100
+KW  - image registration
+KW  - Intra-operative sensors
+PY  - 2015
+AB  - Summary This chapter presents diverse tools and concepts which enable the definition of the relation between these reference frames as well as their implementation in certain tangible products of the state of the art. It presents certain basic notions relative to connecting reference frames. The chapter then provides an overview of the different types of intra-operative sensors available giving access to this information. These include imaging sensors, position sensors and surface sensors. The chapter provides the details of 3D/3D rigid registration with different methods. It presents cases with different categories of problems varying from the most simple, in terms of reference frames brought into play, to the most complex, when certain connections between the reference frames vary with time. Controlled Vocabulary Terms image registration; pressure sensors
+ER  - 
+
+TY  - JOUR
+AU  - Hsieh, Te-Chun
+AU  - Wu, Yu-Chin
+AU  - Yen, Kuo-Yang
+AU  - Chen, Shan-Wen
+AU  - Kao, Chia-Hung
+TI  - Early Changes in Brain FDG Metabolism during Anticancer Therapy in Patients with Pharyngeal Cancer
+JO  - Journal of Neuroimaging
+JA  - J Neuroimaging
+VL  - 24
+IS  - 3
+SN  - 9781848213340
+UR  - https://doi.org/10.1111/jon.12006
+DO  - doi:10.1111/jon.12006
+SP  - 266
+EP  - 272
+KW  - Brain FDG metabolism
+KW  - anticancer therapy
+KW  - pharyngeal cancer
+PY  - 2014
+AB  - ABSTRACT BACKGROUND The current study aimed to evaluate whether therapy-related changes occurred in brain metabolism at an earlier stage during the course of anticancer therapy. METHODS We recruited 14 non-diabetic male patients with newly diagnosed pharyngeal squamous cell carcinoma. We analyzed the patients? serial brain FDG PET/CT scans by SPM8 to establish whether any therapy-related changes had occurred in brain FDG metabolism, either during or after the course of therapy. RESULTS Decreased metabolism was noted during the anticancer therapy, displaying a symmetric pattern involving bilateral basal ganglia and bilateral occipital lobes. The decrease in FDG metabolism in these regions persisted after the anticancer therapy had terminated. However, relative recovery of the metabolism was noted in the bilateral occipital lobes, whereas further deterioration was noted in bilateral basal ganglia. CONCLUSIONS The current study revealed that unappreciable changes in brain metabolism can occur during the early course of anticancer therapy, and persist even after therapy has terminated. Although the exact mechanism remains unclear, these changes may be related to the systemic effects of chemotherapy or radiotherapy as well as subclinical cancer-related depressive or adjustment mood disorder.
+ER  - 
+
+C7  - pp. 113-161
+TI  - Dental Radiography
+SN  - 9781118986615
+UR  - https://doi.org/10.1002/9781118986646.ch4
+DO  - doi:10.1002/9781118986646.ch4
+SP  - 113-161
+KW  - dental hard tissues
+KW  - dental radiography
+KW  - digital intraoral imaging
+KW  - patient assessment
+KW  - personnel radiation monitoring
+KW  - x-ray generator
+PY  - 2014
+AB  - Summary Dental radiography plays an integral part in patient assessment. Intraoral imaging is indicated for evaluation of apparent pathology, as a way to monitor progression or resolution of treated disease, and as part of the periodic professional oral prevention, assessment, and treatment visit. Intraoral radiography offers the capability of viewing pathology below the gingival margin and inside the tooth. Two types of radiation apply to operator safety: primary and secondary. Primary radiation comes from direct exposure to the radiograph beam. Secondary radiation comes from scatter, which reflects from areas that have been irradiated by the primary beam. Personnel radiation monitoring devices are required in most states. Digital intraoral imaging is a major technical advancement in companion animal dental radiography. Skull films exposed with the whole-body veterinary X-ray generator are rarely diagnostic due to superimposition of dental hard tissues.
+ER  - 
+
+TY  - JOUR
+AU  - Decloedt, A
+AU  - Ven, S
+AU  - Van Der Vekens, N
+AU  - De Clercq, D
+AU  - van Loon, G
+TI  - Differentiating Pathological from Physiological Left Ventricular Hypertrophy by Quantifying Myocardial Function
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 9781118986615
+UR  - https://doi.org/10.1111/evj.12267_63
+DO  - doi:10.1111/evj.12267_63
+SP  - 21
+EP  - 21
+PY  - 2014
+AB  - Introduction Differentiating left ventricular (LV) dilatation caused by aortic regurgitation (AR) from athletic eccentric LV hypertrophy can be challenging. In human medicine, tissue Doppler imaging (TDI) and 2D speckle tracking (2DST) are used to distinguish ?athlete's heart? from pathological conditions. Methods 40 healthy horses (group 1) were compared to 13 horses with moderate AR (group 2) and 11 horses with severe AR (group 3), all with an end diastolic LV internal diameter (LVIDd) within maximal reference limits (≤14.2?cm). Fractional shortening (FS) was measured from a short-axis M-mode at chordal level. Peak TDI velocities during systole (S), early (E) and late (A) diastole were measured in the LV free wall (LVFW) and interventricular septum (IVS). Global longitudinal strain was measured by 2DST. Groups were compared by a one-way ANOVA with Bonferroni correction. Results The study included Warmbloods (n?=?52), trotters (n?=?9) and Thoroughbreds (n?=?3), used for jumping, dressage, racing and eventing. Group 2 (15?±?5 years; P<0.001) and 3 (20?±?4 years; P<0.001) were older than group 1 (8?±?4 years). LVIDd in group 3 (13.1?±?0.7 cm) was higher compared to group 1 (11.5?±?0.8?cm; P<0.001) and 2 (12.0?±?0.8?cm; P?=?0.003) but FS was not different. Peak S in IVS was higher in group 2 (6.6?±?1.5?cm/s; P?=?0.001) and 3 (9.0?±?1.7?cm/s; P<0.001) compared to group 1 (4.4?±?1.8?cm/s), indicating hyperkinetic septal motion. Peak E in LVFW was lower in group 2 (18.6?±?5.2?cm/s;P?=?0.001) and 3 (19.3?±?3.9?cm/s; P?=?0.006) compared to group 1 (24.4?±?4.6?cm/s), indicating decreased early filling velocity. Longitudinal strain was not different between groups. Conclusions TDI shows potential for differentiating AR-induced LV remodeling from athletic eccentric hypertrophy in horses. Ethical Animal Research Horses with aortic regurgitation were examined in a prospective clinical study with owner informed consent. Sources of funding:?The corresponding author is a postdoctoral research fellow of the Research Foundation Flanders. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+TI  - Friday 29 March, 2019
+JO  - Journal of Medical Radiation Sciences
+JA  - J Med Radiat Sci
+VL  - 66
+IS  - S1
+SN  - 9781118986615
+UR  - https://doi.org/10.1002/jmrs.324
+DO  - doi:10.1002/jmrs.324
+SP  - 3
+EP  - 35
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+AU  - Maguire, Sabine
+AU  - Cowley, Laura
+AU  - Mann, Mala
+AU  - Kemp, Alison
+TI  - What does the recent literature add to the identification and investigation of fractures in child abuse: an overview of review updates 2005–2013
+JO  - Evidence-Based Child Health: A Cochrane Review Journal
+JA  - Evid.‐Based Child Health
+VL  - 8
+IS  - 5
+SN  - 9781118986615
+UR  - https://doi.org/10.1002/ebch.1941
+DO  - doi:10.1002/ebch.1941
+SP  - 2044
+EP  - 2057
+KW  - fractures
+KW  - child abuse
+KW  - skeletal survey
+KW  - repeat imaging
+KW  - meta-analysis
+KW  - oblique views
+PY  - 2013
+AB  - Abstract Background: Fractures are a manifestation of physical abuse and common accidental injuries. Distinguishing which fractures are indicative of abuse and optimizing the identification of occult fractures are the challenges. Objectives: To identify additional studies published since our original systematic reviews to address these two issues. Methods: An all-language literature search of 14 databases was conducted for the years 2005?2013, using revised keywords. All studies underwent standardized critical appraisal by two independent reviewers, applying quality criteria relating to the confirmation of child abuse, exclusion of abuse and quality of skeletal survey conducted. A meta-analysis, stratified by age, was conducted to determine the predictive value for abuse of specific fractures by fitting a random effects model. Results: Twenty-three studies addressed ?radiological investigations?, and nine studies ?fractures indicative of abuse?. Radiological studies reiterated that a single investigation (skeletal survey or radionuclide imaging ) will miss some abusive fractures; in 8.4?37.6% of children, the repeat skeletal survey added new information that influenced the child protection procedures. Debate continues as to the optimal images to include in the repeat skeletal survey. A meta-analysis of femoral and humeral fractures by age highlighted that children younger than 18?months are significantly more likely to have sustained their fracture as a consequence of abuse, than those aged 1?4?years. Authors' Conclusions: Recent literature validates the original conclusions that repeat skeletal imaging adds important information on fractures. Comparative studies of femoral, humeral, rib and skull fractures enabled a meta-analysis by age, however further comparative studies are needed.
+ER  - 
+
+TY  - JOUR
+AU  - LANKIEWICZ, M. W.
+AU  - HAYS, J.
+AU  - FRIEDMAN, K. D.
+AU  - TINKOFF, G.
+AU  - BLATT, P. M.
+TI  - Urgent reversal of warfarin with prothrombin complex concentrate
+JO  - Journal of Thrombosis and Haemostasis
+VL  - 4
+IS  - 5
+SN  - 9781118986615
+UR  - https://doi.org/10.1111/j.1538-7836.2006.01815.x
+DO  - doi:10.1111/j.1538-7836.2006.01815.x
+SP  - 967
+EP  - 970
+KW  - anticoagulation reversal
+KW  - bleeding
+KW  - prothrombin complex concentrate
+KW  - warfarin
+PY  - 2006
+AB  - Summary.? Background:?When life-threatening bleeding occurs in patients on warfarin, timely reversal becomes imperative. In the USA, warfarin effect is commonly reversed with fresh frozen plasma (FFP). The use of FFP is complicated by delays in correction, volume overload and often, inadequate correction. Objective:?Evaluate the feasibility and efficacy of a protocol for rapid administration of prothrombin complex concentrate (PCC) in the setting of the urgent need for reversal of warfarin. Methods/patients:?We instituted a policy for rapid delivery and administration of PCC. Appropriate patients received 25?50?U?kg?1 of PCC. The prothrombin time (PT)/International Normalized Ratios (INR) was recorded before and immediately after dosing, and 24?h postdosing. Patients requiring surgical interventions were cleared for the operating room (OR) immediately. Fifty-eight patients were treated, with a median age of 75.5?years (range 26?92). Results:?The median INR on presentation was 3.8 (1.4?52.8). Immediately following PCC administration the median INR was 1.3 (0.9?5.7), only two patients with INRs exceeding 2.0. The benefit was maintained at 24?h with a median INR of 1.5 (1.1?3.4). Four patients experienced thrombotic events during their hospitalization, (two deep vein thrombosis, two non-q-wave myocardial infarction) although none was attributed to PPC therapy. Conclusions:?PCC administration is an effective treatment modality for the correction of warfarin anticoagulation in the urgent setting. Advantages over FFP include more timely correction, absence of volume overload and potentially more complete correction. Broader use of PCC in this setting appears to be appropriate.
+ER  - 
+
+TY  - JOUR
+AU  - Reddy, C.
+AU  - Hardman, A. D.
+AU  - Tharion, J.
+TI  - TS16P TUBE THORACOSTOMY: THE IMPORTANCE OF SWING
+JO  - ANZ Journal of Surgery
+VL  - 77
+IS  - s1
+SN  - 9781118986615
+UR  - https://doi.org/10.1111/j.1445-2197.2007.04133_16.x
+DO  - doi:10.1111/j.1445-2197.2007.04133_16.x
+SP  - A96
+EP  - A96
+PY  - 2007
+AB  - Intercostal catheter placement is common practice in the management of haemothorax and pneumothorax, with over 12,000 being inserted per year (1) in Australian hospitals. It is however an invasive procedure with the potential for significant iatrogenic injury. This is even more pertinent in the trauma setting where stress levels are high and time may be limited. Historically, complications that have been associated with intercostal catheter placement include: lung parenchymal laceration, bleeding from intercostal vessel injury, cardiac injury, ectopic tube placement, empyema, diaphragmatic and intra-abdominal organ laceration. In an attempt to minimise and avoid these complications, there has been a shift in the teaching of the method of tube placement from that of a trocar technique to the blunt dissection (EMST) approach (2). While this will hopefully reduce the rate of procedural complications, it still may not guarantee clinical practice free of complications. Furthermore when these complications are suspected, there is a need for repeated clinical assessment (at times, independent of imaging) in order to allow the early identification any such iatrogenic injury. The presentation will provide a review of the literature and outline the various forms of iatrogenic injury associated with tube thoracostomy; highlight the importance of clinical reassessment following intercostal catheter placement, with particular reference to a case presentation; and discuss techniques to avoid and minimise potential complications.
+ER  - 
+
+TY  - JOUR
+TI  - Current Awareness in NMR in Biomedicine
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 23
+IS  - 7
+SN  - 9781118986615
+UR  - https://doi.org/10.1002/nbm.1455
+DO  - doi:10.1002/nbm.1455
+SP  - 897
+EP  - 904
+PY  - 2010
+AB  - Abstract In order to keep subscribers up-to-date with the latest developments in their field, John Wiley  2 General; 3 Technology; 4 Contrast Agents; 5 Brain and Nerves; 6 Neuropathology; 7 Cancer; 8 Cardiac, Vascular and Respiratory Systems; 9 Liver, Kidney and Other Organs; 10 Muscle and Orthopaedic; 11 Plants, Micro-organisms and Parasites; 12 Others. Within each section, articles are listed in alphabetical order with respect to author. If, in the preceding period, no publications are located relevant to any one of these headings, that section will be omitted.
+ER  - 
+
+TY  - JOUR
+AU  - Rishniw, M.
+AU  - Caivano, D.
+AU  - Dickson, D.
+AU  - Swift, S.
+AU  - Rouben, C.
+AU  - Dennis, S.
+AU  - Sammarco, C.
+AU  - Lustgarten, J.
+AU  - Ljungvall, I.
+TI  - Breed does not affect the association between murmur intensity and disease severity in dogs with pulmonic or subaortic stenosis
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 60
+IS  - 8
+SN  - 9781118986615
+UR  - https://doi.org/10.1111/jsap.13015
+DO  - doi:10.1111/jsap.13015
+SP  - 493
+EP  - 498
+PY  - 2019
+AB  - Objectives To determine whether breed affects the ability of murmur intensity to predict the severity of stenosis in dogs with pulmonic stenosis or subaortic stenosis. Materials and Methods Retrospective multi-investigator study of dogs with pulmonic stenosis or subaortic stenosis. Murmur intensity, assessed by a four-level classification scheme, was compared with echocardiographically-determined pressure gradient across the affected valve. Breeds represented by at least 10 dogs at any murmur intensity were compared to determine the effect, if any, of breed. Results A total of 1088 dogs (520 with pulmonic stenosis and 568 with subaortic stenosis, representing 106 breeds and the mixed breed group) were included; 208 dogs had soft, 210 had moderate, 283 had loud and 387 had palpable murmurs. Fifteen breeds were represented by at least 10 dogs: five breeds with at least 10 dogs had soft murmurs (132 dogs), nine breeds had moderate murmurs (149 dogs), 10 breeds had loud murmurs (188 dogs), and 11 breeds had palpable murmurs (286 dogs). No breeds differed in stenosis severity from any other breeds within any murmur grade. Post hoc power calculations suggested that we would have been able to detect at least a moderate or large effect size, had one existed. Several dogs with soft murmurs had more-than-mild disease severity. Clinical Significance Despite anecdotally perceived differences in the detection of heart murmurs between breeds, which have been proposed to potentially affect the interpretation of stenosis severity, we found no obvious breed effect in the ability to predict severity of stenosis.
+ER  - 
+
+TY  - JOUR
+AU  - Wengler, Kenneth
+AU  - Wang, Jinhong
+AU  - Serrano Sosa, Mario
+AU  - Gumus, Serter
+AU  - He, Andrea
+AU  - Hussain, Shahid
+AU  - Huang, Chuan
+AU  - Tae Bae, Kyong
+AU  - He, Xiang
+TI  - Mapping hepatic blood oxygenation by quantitative BOLD (qBOLD) MRI
+JO  - Magnetic Resonance in Medicine
+JA  - Magn Reson Med
+VL  - 81
+IS  - 5
+SN  - 9781118986615
+UR  - https://doi.org/10.1002/mrm.27642
+DO  - doi:10.1002/mrm.27642
+SP  - 3272
+EP  - 3282
+KW  - hepatic deoxygenated blood volume
+KW  - hepatic venous blood oxygen saturation
+KW  - Liver
+KW  - quantitative BOLD (qBOLD)
+PY  - 2019
+AB  - Purpose Abnormalities in hepatic oxygen delivery and oxygen consumption may serve as a significant indicator of hepatic cellular dysfunction and may predict treatment response. However, conventional and oxygen-enhanced hepatic BOLD MRI can only provide semiquantitative assessment of hepatic oxygenation. Methods A hepatic quantitative BOLD (qBOLD) model was proposed for noninvasive mapping of hepatic venous blood oxygen saturation (Yv) and deoxygenated blood volume (DBV) in human subjects. The validity and the estimation bias of the proposed model were evaluated by Monte Carlo simulations. Eight healthy subjects were scanned after written consent with institutional review board approval. Results Monte Carlo simulations demonstrated that the proposed single-compartment hepatic qBOLD model leads to significant deviation of the predicted T2* decay profile from the simulated signal due to high hepatic blood volume fraction. Small relative estimation bias for hepatic Yv and significant overestimation for hepatic DBV were observed, which can be corrected by applying the calibration curves established from simulations. After correction, the mean hepatic Yv in human subjects was 56.8 ± 6.8%, and the mean hepatic DBV was 0.190 ± 0.035, consistent with measurements from other invasive approaches. Except in regions with significant vascular contamination, the maps for hepatic Yv and DBV were relatively homogenous. Conclusions With estimation bias correction, the hepatic qBOLD approach enables noninvasive mapping of hepatic blood volume and oxygenation in human subjects. The established protocol may be used to quantitatively assess hepatic tissue hypoxia in multiple liver diseases.
+ER  - 
+
+TY  - JOUR
+AU  - Valley, Verena T.
+AU  - Stahmer, Sarah A.
+TI  - Targeted Musculoarticular Sonography in the Detection of Joint Effusions
+JO  - Academic Emergency Medicine
+VL  - 8
+IS  - 4
+SN  - 9781118986615
+UR  - https://doi.org/10.1111/j.1553-2712.2001.tb02114.x
+DO  - doi:10.1111/j.1553-2712.2001.tb02114.x
+SP  - 361
+EP  - 367
+KW  - ultrasonography
+KW  - bedside sonography
+KW  - joint effusions
+KW  - pain
+KW  - imaging
+PY  - 2001
+AB  - Abstract. This article describes an advanced application for an established technology, specifically the use of bedside sonography in the assessment of the acutely painful joint in the emergency department. The sonographic windows for each of the axial synovial joints are outlined, with a brief discussion of commonly encountered pathologic conditions.
+ER  - 
+
+TY  - JOUR
+AU  - Hirata, Yasuhide
+AU  - Inaba, Yutaka
+AU  - Kobayashi, Naomi
+AU  - Ike, Hiroyuki
+AU  - Yukizawa, Yohei
+AU  - Fujimaki, Hiroshi
+AU  - Tezuka, Taro
+AU  - Tateishi, Ukihide
+AU  - Inoue, Tomio
+AU  - Saito, Tomoyuki
+TI  - Correlation between mechanical stress by finite element analysis and 18F-fluoride PET uptake in hip osteoarthritis patients
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+VL  - 33
+IS  - 1
+SN  - 9781118986615
+UR  - https://doi.org/10.1002/jor.22717
+DO  - doi:10.1002/jor.22717
+SP  - 78
+EP  - 83
+KW  - mechanical stress
+KW  - finite element analysis
+KW  - 18F-fluoride PET
+KW  - hip osteoarthritis
+KW  - bone formation
+PY  - 2015
+AB  - Abstract 18F-fluoride positron emission tomography (18F-fluoride PET) is a functional imaging modality used primarily to detect increased bone metabolism. Increased 18F-fluoride PET uptake suggests an association between increased bone metabolism and load stress at the subchondral level. This study therefore examined the relationship between equivalent stress distribution calculated by finite element analysis and 18F-fluoride PET uptake in patients with hip osteoarthritis. The study examined 34 hips of 17 patients who presented to our clinic with hip pain, and were diagnosed with osteoarthritis or pre-osteoarthritis. The hips with trauma, infection, or bone metastasis of cancer were excluded. Three-dimensional models of each hip were created from computed tomography data to calculate the maximum equivalent stress by finite element analysis, which was compared with the maximum standardized uptake value (SUVmax) examined by 18F-fluoride PET. The SUVmax and equivalent stress were correlated (Spearman's rank correlation coefficient ??=?0.752), and higher equivalent stress values were noted in higher SUVmax patients. The correlation between SUVmax and maximum equivalent stress in osteoarthritic hips suggests the possibility that 18F-fluoride PET detect increased bone metabolism at sites of stress concentration. This study demonstrates the correlation between mechanical stress and bone remodeling acceleration in hip osteoarthritis. ? 2014 Orthopaedic Research Society. Published by Wiley Periodicals, Inc. J Orthop Res 33:78?83, 2015.
+ER  - 
+
+TY  - JOUR
+AU  - Gardner-Thorpe, C.
+AU  - Pearn, J.
+TI  - The Cotard syndrome. Report of two patients: with a review of the extended spectrum of ‘délire des négations’
+JO  - European Journal of Neurology
+VL  - 11
+IS  - 8
+SN  - 9781118986615
+UR  - https://doi.org/10.1111/j.1468-1331.2004.00832.x
+DO  - doi:10.1111/j.1468-1331.2004.00832.x
+SP  - 563
+EP  - 566
+KW  - arteriovenous malformation
+KW  - Cotard
+KW  - delusions
+KW  - history of neurology
+KW  - Marfan syndrome
+KW  - multiple sclerosis
+KW  - Paris
+PY  - 2004
+AB  - The Cotard syndrome is characterized by the delusion where an individual insists that he has died or part of his body has decayed. Although described classically in schizophrenia and bipolar disorder, physical disorders including migraine, tumour and trauma have also been associated with the syndrome. Two new cases are described here, the one associated with arteriovenous malformations and the other with probable multiple sclerosis. The delusion has been embarrassing to each patient. Study of such cases may have wider implications for the understanding of the psychotic interpretation of body image, for example that occurring in anorexia nervosa.
+ER  - 
+
+TY  - JOUR
+AU  - Fujioka, Toru
+AU  - Nakata, Kohei
+AU  - Nishida, Hidetaka
+AU  - Sugawara, Taku
+AU  - Konno, Naoyuki
+AU  - Maeda, Sadatoshi
+AU  - Kamishina, Hiroaki
+TI  - A novel patient-specific drill guide template for stabilization of thoracolumbar vertebrae of dogs: cadaveric study and clinical cases
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 48
+IS  - 3
+SN  - 9781118986615
+UR  - https://doi.org/10.1111/vsu.13140
+DO  - doi:10.1111/vsu.13140
+SP  - 336
+EP  - 342
+PY  - 2019
+AB  - Abstract Objective To evaluate the accuracy and safety of a novel patient-specific drill guide template for stabilizing the thoracolumbar vertebrae of dogs. Study design Cadaveric experimental study and prospective case series. Sample population Cadaveric canine thoracolumbar vertebral specimens (n?=?3) and clinical cases of thoracolumbar spinal instability (n?=?4). Methods Computed tomography data of the thoracolumbar spines were obtained before surgery, and images were imported into imaging software. Optimum screw trajectories were selected for each vertebra, and drill guide templates were designed and fabricated with a 3-dimensional printing system. Drill guide templates were applied to cadaveric spine and clinical cases. Computed tomography imaging was performed after surgery, and planned and postoperative trajectories were compared to estimate the accuracy and safety of the drill guide templates. Results Twenty-two drill holes were made in cadaveric spinal specimens. All drill holes were completely located in the bone. The overall mean screw deviation was 0.88?±?0.36?mm. In clinical cases, 29 screws were placed in thoracolumbar vertebrae. Most (89.6%) of these screws were placed without evidence of vertebral canal invasion. One (3.5%) screw perforated the bone structure. The overall mean screw deviation was 1.16?±?0.56?mm. Conclusion Drill guide templates were useful for accurate intraoperative screw navigation in thoracolumbar fixation in small dogs. Clinical significance The use of drill guide templates can be considered as an aid to safety and accuracy of screw placement in canine thoracolumbar instabilities.
+ER  - 

@@ -1,0 +1,358 @@
+
+TY  - JOUR
+AU  - An, Gary
+AU  - Bartels, John
+AU  - Vodovotz, Yoram
+TI  - In silico augmentation of the drug development pipeline: examples from the study of acute inflammation
+JO  - Drug Development Research
+JA  - Drug Dev. Res.
+VL  - 72
+IS  - 2
+SN  - 0272-4391
+UR  - https://doi.org/10.1002/ddr.20415
+DO  - doi:10.1002/ddr.20415
+SP  - 187
+EP  - 200
+KW  - inflammation
+KW  - mathematical model
+KW  - sepsis
+KW  - trauma
+KW  - rational drug design
+KW  - in silico clinical trial
+PY  - 2011
+AB  - Abstract The clinical translation of promising basic biomedical findings, whether derived from reductionist studies in academic laboratories or as the product of extensive high-throughput and high-content screens in the biotechnology and pharmaceutical industries, has reached a period of stagnation in which ever higher research and development costs are yielding ever fewer new drugs. Systems biology and computational modeling have been touted as potential avenues by which to break through this logjam. However, few mechanistic computational approaches are used in a manner that is fully cognizant of the inherent clinical realities in which the drugs developed through this ostensibly rational process will be ultimately used. This article presents a translational systems biology approach to inflammation. This approach is based on the use of mechanistic computational modeling centered on inherent clinical applicability, namely that a unified suite of models can be applied to generate in silico clinical trials, individualized computational models as tools for personalized medicine, and rational drug and device design based on disease mechanism. Drug Dev Res 72: 187?200, 2011. ??? 2010 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+TI  - PROCEEDINGS 25th Symposium ESVN-ECVN GHENT, BELGIUM 13th–15th September 2012
+JO  - Journal of Veterinary Internal Medicine
+JA  - J Vet Intern Med
+VL  - 27
+IS  - 2
+SN  - 0891-6640
+UR  - https://doi.org/10.1111/jvim.12068
+DO  - doi:10.1111/jvim.12068
+SP  - 390
+EP  - 420
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - Vascular 13–22
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 90
+IS  - S1
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.4247
+DO  - doi:10.1002/bjs.4247
+SP  - 37
+EP  - 41
+PY  - 2003
+ER  - 
+
+TY  - JOUR
+TI  - Open Posters: Adhesion molecules
+JO  - Immunology
+VL  - 104
+IS  - s1
+SN  - 0019-2805
+UR  - https://doi.org/10.1046/j.1365-2567.2001.1040s1070.x
+DO  - doi:10.1046/j.1365-2567.2001.1040s1070.x
+SP  - 70
+EP  - 132
+PY  - 2001
+ER  - 
+
+TY  - JOUR
+AU  - Tedeschi, Andrea
+AU  - Bradke, Frank
+TI  - The DLK signalling pathway—a double-edged sword in neural development and regeneration
+JO  - EMBO reports
+VL  - 14
+IS  - 7
+SN  - 1469-221X
+UR  - https://doi.org/10.1038/embor.2013.64
+DO  - doi:10.1038/embor.2013.64
+SP  - 605
+EP  - 614
+KW  - DLK
+KW  - neural development
+KW  - degeneration
+KW  - axon regeneration
+PY  - 2013
+AB  - Dual leucine zipper kinase (DLK), a mitogen-activated protein kinase kinase kinase, controls axon growth, apoptosis and neuron degeneration during neural development, as well as neurodegeneration after various insults to the adult nervous system. Interestingly, recent studies have also highlighted a role of DLK in promoting axon regeneration in diverse model systems. Invertebrates and vertebrates, cold- and warm-blooded animals, as well as central and peripheral mammalian nervous systems all differ in their ability to regenerate injured axons. Here, we discuss how DLK-dependent signalling regulates apparently contradictory functions during neural development and regeneration in different species. In addition, we outline strategies to fine-tune DLK function, either alone or together with other approaches, to promote axon regeneration in the adult mammalian central nervous system.
+ER  - 
+
+TY  - JOUR
+AU  - Carreño-Müller, Eloisa
+AU  - Herrera, Antonio J.
+AU  - De Pablos, Rocio M.
+AU  - Tomás-Camardiel, Mayka
+AU  - Venero, José L.
+AU  - Cano, Josefina
+AU  - Machado, Alberto
+TI  - Thrombin induces in vivo degeneration of nigral dopaminergic neurones along with the activation of microglia
+JO  - Journal of Neurochemistry
+VL  - 84
+IS  - 5
+SN  - 0022-3042
+UR  - https://doi.org/10.1046/j.1471-4159.2003.01634.x
+DO  - doi:10.1046/j.1471-4159.2003.01634.x
+SP  - 1201
+EP  - 1214
+KW  - dopamine
+KW  - inflammation
+KW  - microglia
+KW  - neuronal cell death
+KW  - Parkinson's disease
+KW  - thrombin
+PY  - 2003
+AB  - Abstract Seven days after the injection of different concentrations of thrombin into the nigrostriatal pathway, a strong macrophage/microglial reaction was observed in the substantia nigra (SN), indicated by immunostaining, using OX-42 and OX-6 antibodies, and by the induction of iNOS, IL-1α, Il-1? and TNF-α. Moreover, selective damage to dopaminergic neurones was produced after thrombin injection, evidenced by loss of tyrosine hydroxylase immunostaining and tyrosine hydroxylase mRNA-expressing cell bodies, and the unaltered transcription of glutamic acid decarboxylase mRNA in the SN and striatum. These thrombin effects could be produced by its ability to induce the activation of microglia described in in vitro studies, and are in agreement with the effects described for other proinflammatory compounds. Thrombin effects are produced by its biological activity since they almost disappeared when thrombin was heat-inactivated or injected along with its inhibitor α-NAPAP. Thrombin is a multi-functional serine protease rapidly produced from prothrombin at the sites of tissue injury, and also upon breakdown of the blood?brain barrier, which strongly suggests it could easily enter into the CNS. These results could have special importance in some degenerative processes of the nigrostriatal dopaminergic system.
+ER  - 
+
+TY  - JOUR
+TI  - Posters
+JO  - Glia
+JA  - Glia
+VL  - 57
+IS  - S13
+SN  - 0894-1491
+UR  - https://doi.org/10.1002/glia.20915
+DO  - doi:10.1002/glia.20915
+SP  - S26
+EP  - S171
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+AU  - Darbari, Deepika S.
+AU  - Ballas, Samir K.
+AU  - Clauw, Daniel J.
+TI  - Thinking beyond sickling to better understand pain in sickle cell disease
+JO  - European Journal of Haematology
+JA  - Eur J Haematol
+VL  - 93
+IS  - 2
+SN  - 0902-4441
+UR  - https://doi.org/10.1111/ejh.12340
+DO  - doi:10.1111/ejh.12340
+SP  - 89
+EP  - 95
+KW  - sickle cell disease
+KW  - pain
+KW  - central sensitization
+KW  - pain perception
+PY  - 2014
+AB  - Abstract Painful vaso-occlusive crises (VOCs) are the hallmark of sickle cell disease (SCD); however, many patients experience frequent daily pain that does not follow the pattern of typical VOCs. This pain of variable severity, also referred as persistent pain in the SCD literature, contributes to significant morbidity and poor quality of life and often fails to respond adequately to standard SCD therapies. In this article, we briefly describe types of pain encountered in SCD with a special emphasis on persistent pain. We discuss altered pain processing as a potential contributing mechanism, which may lead to development and maintenance of persistent pain. We describe the advances in the non-SCD pain field that may help improve the understanding of SCD pain. We highlight the need for further investigation in this area because some of these patients with persistent pain may benefit from receiving adjuvant mechanism-based therapies used successfully in other non-SCD chronic pain conditions.
+ER  - 
+
+TY  - JOUR
+TI  - CLINICAL NUTRITION WEEK 2007 Abstracts
+JO  - Journal of Parenteral and Enteral Nutrition
+JA  - JPEN J Parenter Enteral Nutr
+VL  - 31
+IS  - 2
+SN  - 0148-6071
+UR  - https://doi.org/10.1177/0148607107031002S1
+DO  - doi:10.1177/0148607107031002S1
+SP  - S1
+EP  - S70
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - ASBMR 19th annual meeting
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 12
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.5650120103
+DO  - doi:10.1002/jbmr.5650120103
+SP  - S1
+EP  - S531
+PY  - 1997
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts Oral
+JO  - American Journal of Transplantation
+VL  - 8
+IS  - s2
+SN  - 1600-6135
+UR  - https://doi.org/10.1111/j.1600-6143.2008.02254.x
+DO  - doi:10.1111/j.1600-6143.2008.02254.x
+SP  - 177
+EP  - 336
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts of the 2012 PNS/Inflammatory Neuropathy Consortium Meeting June 24–27, 2012 Rotterdam, The Netherlands
+JO  - Journal of the Peripheral Nervous System
+VL  - 17
+IS  - 2
+SN  - 1085-9489
+UR  - https://doi.org/10.1111/j.1529-8027.2012.00410.x
+DO  - doi:10.1111/j.1529-8027.2012.00410.x
+SP  - 229
+EP  - 282
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+AU  - Tsung, A.
+AU  - Tohme, S.
+AU  - Billiar, T. R.
+TI  - High-mobility group box-1 in sterile inflammation
+JO  - Journal of Internal Medicine
+JA  - J Intern Med
+VL  - 276
+IS  - 5
+SN  - 0954-6820
+UR  - https://doi.org/10.1111/joim.12276
+DO  - doi:10.1111/joim.12276
+SP  - 425
+EP  - 443
+KW  - damage-associated molecular pattern
+KW  - HMGB1
+KW  - immune system
+KW  - inflammation
+PY  - 2014
+AB  - Abstract High-mobility group box 1 (HMGB1) was originally defined as a ubiquitous nuclear protein, but it was later determined that the protein has different roles both inside and outside of cells. Nuclear HMGB1 regulates chromatin structure and gene transcription, whereas cytosolic HMGB1 is involved in inflammasome activation and autophagy. Extracellular HMGB1 has drawn attention because it can bind to related cell signalling transduction receptors, such as the receptor for advanced glycation end products, Toll-like receptor (TLR)2, TLR4 and TLR9. It also participates in the development and progression of a variety of diseases. HMGB1 is actively secreted by stimulation of the innate immune system, and it is passively released by ischaemia or cell injury. This review focuses on the important role of HMGB1 in the pathogenesis of acute and chronic sterile inflammatory conditions. Strategies that target HMGB1 have been shown to significantly decrease inflammation in several disease models of sterile inflammation, and this may represent a promising clinical approach for treatment of certain conditions associated with sterile inflammation.
+ER  - 
+
+TY  - JOUR
+TI  - Symposium session summaries
+JO  - Pediatric Pulmonology
+JA  - Pediatr. Pulmonol.
+VL  - 18
+IS  - S10
+SN  - 8755-6863
+UR  - https://doi.org/10.1002/ppul.1950180706
+DO  - doi:10.1002/ppul.1950180706
+SP  - 72
+EP  - 178
+PY  - 1994
+ER  - 
+
+TY  - JOUR
+TI  - Selected Abstracts from Pharmacology 2018
+JO  - British Journal of Pharmacology
+JA  - Br J Pharmacol
+VL  - 176
+IS  - 16
+SN  - 0007-1188
+UR  - https://doi.org/10.1111/bph.14681
+DO  - doi:10.1111/bph.14681
+SP  - 2977
+EP  - 3081
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Danish Association for Cancer Research Annual meeting 2006
+JO  - APMIS
+VL  - 114
+IS  - 3
+SN  - 0903-4641
+UR  - https://doi.org/10.1111/j.1600-0463.2006..x
+DO  - doi:10.1111/j.1600-0463.2006..x
+SP  - 163
+EP  - 191
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+AU  - Livingstone, Callum
+TI  - Zinc
+JO  - Nutrition in Clinical Practice
+JA  - Nutrition in Clinical Practice
+VL  - 30
+IS  - 3
+SN  - 0884-5336
+UR  - https://doi.org/10.1177/0884533615570376
+DO  - doi:10.1177/0884533615570376
+SP  - 371
+EP  - 382
+KW  - deficiency
+KW  - total parenteral nutrition
+KW  - zinc
+KW  - nutrition
+PY  - 2015
+AB  - The essential trace element zinc (Zn) has a large number of physiologic roles, in particular being required for growth and functioning of the immune system. Adaptive mechanisms enable the body to maintain normal total body Zn status over a wide range of intakes, but deficiency can occur because of reduced absorption or increased gastrointestinal losses. Deficiency impairs physiologic processes, leading to clinical consequences that include failure to thrive, skin rash, and impaired wound healing. Mild deficiency that is not clinically overt may still cause nonspecific consequences, such as susceptibility to infection and poor growth. The plasma Zn concentration has poor sensitivity and specificity as a test of deficiency. Consequently, diagnosis of deficiency requires a combination of clinical assessment and biochemical tests. Patients receiving parenteral nutrition (PN) are susceptible to Zn deficiency and its consequences. Nutrition support teams should have a strategy for assessing Zn status and optimizing this by appropriate supplementation. Nutrition guidelines recommend generous Zn provision from the start of PN. This review covers the physiology of Zn, the consequences of its deficiency, and the assessment of its status, before discussing its role in PN.
+ER  - 
+
+AU  - Borsella, Elisabetta
+AU  - Falconieri, Mauro
+AU  - Herlin, Nathalie
+AU  - Loschenov, Victor
+AU  - Miserocchi, Guiseppe
+AU  - Nie, Yaru
+AU  - Rivolta, Iparia
+AU  - Ryabova, Anastasia
+AU  - Wang, Dayang
+C7  - pp. 507-536
+TI  - Biomedical and Sensor Applications of Silicon Nanoparticles
+SN  - 9783527321605
+UR  - https://doi.org/10.1002/9783527629954.ch18
+DO  - doi:10.1002/9783527629954.ch18
+SP  - 507-536
+KW  - autofluorescence
+KW  - bioconjugation
+KW  - fluorophore
+KW  - hydrosilylation
+KW  - photobleaching
+KW  - pyrolysis
+KW  - quantum dots
+PY  - 2015
+AB  - Summary This chapter contains sections titled: Introduction Synthesis and Surface Engineering of Si Nanoparticles for Bioapplications Biointeraction of Si-Based Nanoparticles Applications of Si NPs in Biomedicine Si Nanoparticle-Based Sensors Conclusions References
+ER  - 
+
+TY  - JOUR
+AU  - Scheinkestel, Carlos D
+AU  - Jones, Kerry
+AU  - Myles, Paul S
+AU  - Cooper, D Jamie
+AU  - Millar, Ian L
+AU  - Tuxen, David V
+TI  - Where to now with carbon monoxide poisoning?
+JO  - Emergency Medicine
+VL  - 16
+IS  - 2
+SN  - 9783527321605
+UR  - https://doi.org/10.1111/j.1742-6723.2004.00567.x
+DO  - doi:10.1111/j.1742-6723.2004.00567.x
+SP  - 151
+EP  - 154
+KW  - carbon-monoxide poisoning
+KW  - hyperbaric oxygen
+PY  - 2004
+AB  - Abstract The controversy regarding the role of hyperbaric oxygen (HBO) in the treatment of carbon monoxide (CO) poisoning has been re-ignited following the publication of a further randomized controlled trial by Weaver et al., the results of which appear to conflict with our findings. Comparative analysis suggests that the apparent outcome differences may be secondary to the design, analysis and interpretation of the results of the two studies. Following careful analysis of these two papers and further results from a study by Raphael et al on 385 CO-poisoned patients, we can still find no convincing evidence favouring HBO therapy. Pending further research to determine optimal oxygen therapy for CO-poisoning, current therapy should involve stratifying patients for risk of a poor outcome. This stratification may be aided by the evolving availability of biochemical markers of brain injury and the finding that patients with transient loss of consciousness and poor performance on neuropsychological tests of the supervisory attention system are at higher risk of neuropsychological sequelae. We propose that those patients most at risk be admitted and receive more prolonged normobaric oxygen therapy whilst those with more minor CO-poisoning should be provided with normobaric oxygen of no less than 6 h duration and certainly until sign and symptom free.
+ER  - 
+
+TY  - JOUR
+AU  - Richardson, Paul G.
+AU  - Mitsiades, Constantine S.
+AU  - Laubach, Jacob P.
+AU  - Lonial, Sagar
+AU  - Chanan-Khan, Asher A.
+AU  - Anderson, Kenneth C.
+TI  - Inhibition of heat shock protein 90 (HSP90) as a therapeutic strategy for the treatment of myeloma and other cancers
+JO  - British Journal of Haematology
+VL  - 152
+IS  - 4
+SN  - 9783527321605
+UR  - https://doi.org/10.1111/j.1365-2141.2010.08360.x
+DO  - doi:10.1111/j.1365-2141.2010.08360.x
+SP  - 367
+EP  - 379
+KW  - cancer
+KW  - heat shock protein 90
+KW  - myeloma
+KW  - peripheral neuropathy
+KW  - tanespimycin
+PY  - 2011
+AB  - Summary Heat shock protein 90 (HSP90) is a molecular chaperone that is induced in response to cellular stress and stabilizes client proteins involved in cell cycle control and proliferative/anti-apoptotic signalling. HSP90 is overexpressed in a range of cancers, and may contribute to tumour cell survival by stabilizing aberrant signalling proteins and by interfering with apoptosis. Tanespimycin, an HSP90 inhibitor, reduces tumour cell survival in vitro. In multiple myeloma (MM), HSP90 inhibition affects multiple client proteins that contribute to tumour cell survival, including the IGF1 receptor and the IL-6 receptor, and elements of the PI3/Akt, STAT3, and MAPK signalling pathways. HSP90 inhibition also abrogates the protective effect of bone marrow stromal cells and inhibits angiogenesis and osteoclastogenesis. Tanespimycin acts synergistically with the proteasome inhibitor bortezomib in MM cells and tumour explants, possibly reducing their ability to resist bortezomib-induced stress to the endoplasmic reticulum. The combination of tanespimycin and bortezomib has demonstrated significant and durable responses with acceptable toxicity in a phase I/II study in patients with relapsed and relapsed/refractory MM. HSP90 inhibition is a promising strategy in MM especially in combination with bortezomib; additional studies will further evaluate optimal dosings of candidate drugs and schedules, as well as confirm efficacy in comparative phase III trials.
+ER  - 

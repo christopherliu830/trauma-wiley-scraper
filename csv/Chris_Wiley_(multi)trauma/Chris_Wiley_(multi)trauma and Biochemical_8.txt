@@ -1,0 +1,407 @@
+
+TY  - JOUR
+AU  - Parsons, K. J.
+AU  - Owen, L. J.
+AU  - Lee, K.
+AU  - Tivers, M. S.
+AU  - Gregory, S. P.
+TI  - A retrospective study of surgically treated cases of septic peritonitis in the cat (2000–2007)
+JO  - Journal of Small Animal Practice
+VL  - 50
+IS  - 10
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/j.1748-5827.2009.00790.x
+DO  - doi:10.1111/j.1748-5827.2009.00790.x
+SP  - 518
+EP  - 524
+PY  - 2009
+AB  - Objectives: To review aetiology, clinical signs and outcome of cats surgically treated for septic peritonitis (2000-2007). Methods: A retrospective study. Inclusion criteria were the identification of intracellular bacteria and degenerate neutrophils and/or a positive culture from abdominal fluid and exploratory coeliotomy. Aetiology, clinical signs, haematological and biochemical parameters, surgical treatment and outcome were recorded and analysed. Results: Twenty-six cats fulfilled the inclusion criteria. Abdominal pain was reported in 10 (38 per cent) and vomiting was reported in 11 (42 per cent) of the cats. The most common aetiology was trauma (31 per cent). The principal source of contamination was the gastrointestinal tract. Hyperlactataemia, hypoproteinaemia and hyperglycaemia were reported in 9, 13 and 14 of the 26 cases, respectively. Non-survivors had significantly higher blood lactate concentrations than survivors (P=0·02). Nineteen cats were managed with primary closure, two with closed suction drains and three with open peritoneal drainage. Twelve (46 per cent) cats survived to discharge. Clinical Significance: In cats, lethargy, depression and anorexia were more common clinical signs than abdominal pain. Lactate level at the time of diagnosis may be a useful prognostic indicator in cats. The proportion of cats that survived was lower than previously reported and owners should be given a guarded prognosis.
+ER  - 
+
+TY  - JOUR
+AU  - McArthur, David L.
+AU  - Chute, Dennis J.
+AU  - Villablanca, J. Pablo
+TI  - Moderate and Severe Traumatic Brain Injury: Epidemiologic, Imaging and Neuropathologic Perspectives
+JO  - Brain Pathology
+VL  - 14
+IS  - 2
+SN  - 1015-6305
+UR  - https://doi.org/10.1111/j.1750-3639.2004.tb00052.x
+DO  - doi:10.1111/j.1750-3639.2004.tb00052.x
+SP  - 185
+EP  - 194
+PY  - 2004
+AB  - This article examines 3 contexts in which moderate or severe traumatic brain injury can be approached. The epidemiologic background of moderate and severe traumatic brain injury is presented, with particular attention paid to new findings from the study of a national hospital inpatient database. We review aspects of neuroimaging and how new imaging modalities can reveal fine detail about traumatic brain injury. Finally we examine the current state of neuropathologic evaluation of, and recent developments in, understanding of the neural disruptions that occur following traumatic brain injury, together with cellular reactions to these disruptions.
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Joseph
+AU  - Katz, Evgeny
+TI  - Digital Biosensors with Built-in Logic for Biomedical Applications
+JO  - Israel Journal of Chemistry
+JA  - Isr. J. Chem.
+VL  - 51
+IS  - 1
+SN  - 0021-2148
+UR  - https://doi.org/10.1002/ijch.201000069
+DO  - doi:10.1002/ijch.201000069
+SP  - 141
+EP  - 150
+KW  - biocomputing
+KW  - biomedical application
+KW  - biosensor
+KW  - enzyme
+KW  - injury
+KW  - logic gate
+KW  - logic network
+PY  - 2011
+AB  - Abstract This article overviews recent advances in biomedical applications of enzyme-based logic systems, particularly for the analysis of pathophysiological conditions associated with various injuries. Novel biosensors digitally processing multiple biomarker signals produce a final output in the form of YES/NO response through Boolean logic networks composed of biomolecular systems. The biocomputing approach applied to biosensors leads to high-fidelity biosensing compared to traditional single-analyte sensing devices. By processing complex patterns of multiple physiological biomarkers, such multi-signal digital biosensors should have a profound impact on the rapid diagnosis and treatment of diseases, and particularly can provide timely detection and alert of medical emergencies (along with immediate therapeutic intervention). The novel biosensing concept has been exemplified with the systems for logic analysis of various injuries, including soft tissue injury, traumatic brain injury, liver injury, abdominal trauma, hemorrhagic shock, and oxidative stress.
+ER  - 
+
+AU  - Threlfall, C. J.
+C7  - pp. 127-144
+TI  - Intermediary Carbohydrate Metabolism in Injured Rat Liver in Relation to Heat Production
+SN  - 9780470662823
+UR  - https://doi.org/10.1002/9780470719770.ch7
+DO  - doi:10.1002/9780470719770.ch7
+SP  - 127-144
+KW  - glucose tolerance
+KW  - negative nitrogen balance
+KW  - energy requirement
+KW  - fuel
+KW  - metabolism
+PY  - 2011
+AB  - Summary The prelims comprise: The Redox State Adenine Nucleotides Summary
+ER  - 
+
+TY  - JOUR
+AU  - Prins, M. L.
+AU  - Lee, S. M.
+AU  - Fujima, L. S.
+AU  - Hovda, D. A.
+TI  - Increased cerebral uptake and oxidation of exogenous βHB improves ATP following traumatic brain injury in adult rats
+JO  - Journal of Neurochemistry
+VL  - 90
+IS  - 3
+SN  - 9780470662823
+UR  - https://doi.org/10.1111/j.1471-4159.2004.02542.x
+DO  - doi:10.1111/j.1471-4159.2004.02542.x
+SP  - 666
+EP  - 672
+KW  - alternative substrates
+KW  - β-hydroxybutyrate
+KW  - metabolism
+KW  - traumatic brain injury
+PY  - 2004
+AB  - Abstract There is growing evidence of the brain's ability to increase its reliance on alternative metabolic substrates under conditions of energy stress such as starvation, hypoxia and ischemia. We hypothesized that following traumatic brain injury (TBI), which results in immediate changes in energy metabolism, the adult brain increases uptake and oxidation of the alternative substrate ?-hydroxybutyrate (?HB). Arterio-venous differences were used to determine global cerebral uptake of ?HB and production of 14CO2 from [14C]3-?HB 3?h after controlled cortical impact (CCI) injury. Quantitative bioluminescence was used to assess regional changes in ATP concentration. As expected, adult sham and CCI animals with only endogenously available ?HB showed no significant increase in cerebral uptake of ?HB or 14CO2 production. Increasing arterial ?HB concentrations 2.9-fold with 3?h of ?HB infusion failed to increase cerebral uptake of ?HB or 14CO2 production in adult sham animals. Only CCI animals that received a 3-h ?HB infusion showed an 8.5-fold increase in cerebral uptake of ?HB and greater than 10.7-fold increase in 14CO2 production relative to sham ?HB-infused animals. The TBI-induced 20% decrease in ipsilateral cortical ATP concentration was alleviated by 3?h of ?HB infusion beginning immediately after CCI injury.
+ER  - 
+
+TY  - JOUR
+AU  - Corona, Benjamin T.
+AU  - Flanagan, Kate E.
+AU  - Brininger, Christian M.
+AU  - Goldman, Stephen M.
+AU  - Call, Jarrod A.
+AU  - Greising, Sarah M.
+TI  - Impact of volumetric muscle loss injury on persistent motoneuron axotomy
+JO  - Muscle & Nerve
+JA  - Muscle Nerve
+VL  - 57
+IS  - 5
+SN  - 9780470662823
+UR  - https://doi.org/10.1002/mus.26016
+DO  - doi:10.1002/mus.26016
+SP  - 799
+EP  - 807
+KW  - innervated muscle units
+KW  - motor unit
+KW  - muscle fiber
+KW  - neuromuscular strength
+KW  - neuromusculoskeletal injury
+KW  - orthopedic trauma
+PY  - 2018
+AB  - ABSTRACT Introduction Volumetric muscle loss (VML) occurs following significant traumatic injury or surgical removal of skeletal muscle, resulting in nonrecoverable loss of tissue and long-term dysfunction. Perhaps less recognized is that VML injuries inherently disrupt the neuromuscular unit, resulting in fiber denervation and presumptive motor unit rearrangement, expansion, and/or loss. To characterize neural dysfunction we quantified motoneuron axotomy, in efforts to understand how this relates to the temporal coordination of neuromuscular and morphological alterations due to injury. Methods In an established rat tibialis anterior (TA) VML injury model, we examined the motoneuron, skeletal muscle, and maximal isometric torque at 3, 7, 14, and 21 days postinjury. Results Significant axotomy of 57?79% of all TA muscle motoneurons was observed through 21 days postinjury, which was coupled with a 45?90% TA maximal torque deficit. Discussion A ?20% partial ablation of the TA muscle causes disproportionate damage across the motor unit acutely postinjury. Muscle Nerve 57: 799?807, 2018
+ER  - 
+
+AU  - Bohlmann, Jörg
+AU  - Croteau, Rodney
+C7  - pp. 132-149
+TI  - Diversity and Variability of Terpenoid Defences in Conifers: Molecular Genetics, Biochemistry and Evolution of the Terpene Synthase Gene Family in Grand Fir (Abies Grandis)
+SN  - 9780471988151
+UR  - https://doi.org/10.1002/9780470515679.ch9
+DO  - doi:10.1002/9780470515679.ch9
+SP  - 132-149
+KW  - diversity
+KW  - terpenoid defences
+KW  - molecular genetics
+KW  - biochemistry
+KW  - terpene synthase gene family
+PY  - 2018
+AB  - Summary This review focuses on the molecular genetics, biochemistry and evolution of terpenoid synthases relevant to terpenoid defences in conifers. In grand fir (Abies grandis) biosynthesis of terpenoids of the three classes of monoterpenes, sesquiterpenes and diterpenes is inducible t y stem wounding at the level of gene activation and increase of enzyme activity of the respective terpene synthases. The monoterpene, sesquiterpene and diterpene synthases utilize prenyl diphosphates of appropriate size as substrates to generate the large diversity of carbon skeletons characteristic of the terpenoid resin of conifers. A large and diverse gene family of grand fir terpene synthases has been cloned and cDNAs arc actively expressed in Escherichia coli for enzyme characterization. The monophyletic group of grand fir monoterpene, sesquiterpene and diterpene synthases represents both constitutively expressed and inducible genes encoding single product and multiple product enzymes. Several events of gene duplication and functional specialization of new synthases occurred during the evolution of terpenoid biosynthesis in grand fir, and gave rise to the enormous diversity and variability of this ancient and successful plant defence against herbivores and pathogens. The review concludes with a perspective of the biotechnological applications of terpenoid synthases for the genetic engineering of agricultural crops and forest trees.
+ER  - 
+
+AU  - Latifi, Rifat
+C7  - pp. 172-180
+TI  - Nutrition
+SN  - 9780470654613
+UR  - https://doi.org/10.1002/9781118274231.ch18
+DO  - doi:10.1002/9781118274231.ch18
+SP  - 172-180
+KW  - nutrition
+KW  - stress and injury, ebb, catabolic, anabolic flow phase
+KW  - IL-1, IL-6, and TNF, in acute phase proteins
+KW  - glutamine, and gram-negative bacteremia decrease
+KW  - prealbumin, retinol-binding protein, transferrin, negative acute phase
+KW  - protein synthesis, on ribosome, multiprotein, multi-RNA
+KW  - arginine, in cell mediated immunity
+KW  - TPN, indicated in high output eneterocutaneous fistulas
+KW  - early nutritional support via TPN, reducing disease severity
+KW  - patients fulfilling ARDS, and immune-modulating formulas
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Bas, Esperanza
+AU  - Dinh, Christine T.
+AU  - Garnham, Carolyn
+AU  - Polak, Marek
+AU  - Van de Water, Thomas R.
+TI  - Conservation of hearing and protection of hair cells in cochlear implant patients' with residual hearing
+JO  - The Anatomical Record
+JA  - Anat Rec
+VL  - 295
+IS  - 11
+SN  - 9780470654613
+UR  - https://doi.org/10.1002/ar.22574
+DO  - doi:10.1002/ar.22574
+SP  - 1909
+EP  - 1927
+KW  - cochlear implantation
+KW  - trauma
+KW  - oxidative stress
+KW  - inflammation
+KW  - programmed cell death
+KW  - hearing conservation
+KW  - hair cell protection
+KW  - otoprotective drugs
+PY  - 2012
+AB  - Abstract This review covers the molecular mechanisms involved in hair cell and hearing losses which can result from trauma generated during the process of cochlear implantation and the contributions of both the intrinsic and extrinsic cell death signaling pathways in producing these trauma/inflammation induced losses. Application of soft surgical techniques to conserve hearing and protect auditory sensory cells during the process of cochlear implantation surgery and insertion of the electrode array during the process of cochlear implantation are reviewed and discussed. The role of drug therapy and mode of drug delivery for the conservation of a cochlear implant patient's residual hearing is presented and discussed. Anat Rec, 2012. ? 2012 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Preston, Graeme
+AU  - Kirdar, Faisal
+AU  - Kozicz, Tamas
+TI  - The role of suboptimal mitochondrial function in vulnerability to post-traumatic stress disorder
+JO  - Journal of Inherited Metabolic Disease
+JA  - J Inherit Metab Dis
+VL  - 41
+IS  - 4
+SN  - 9780470654613
+UR  - https://doi.org/10.1007/s10545-018-0168-1
+DO  - doi:10.1007/s10545-018-0168-1
+SP  - 585
+EP  - 596
+PY  - 2018
+AB  - Abstract Post-traumatic stress disorder remains the most significant psychiatric condition associated with exposure to a traumatic event, though rates of traumatic event exposure far outstrip incidence of PTSD. Mitochondrial dysfunction and suboptimal mitochondrial function have been increasingly implicated in several psychopathologies, and recent genetic studies have similarly suggested a pathogenic role of mitochondria in PTSD. Mitochondria play a central role in several physiologic processes underlying PTSD symptomatology, including abnormal fear learning, brain network activation, synaptic plasticity, steroidogenesis, and inflammation. Here we outline several potential mechanisms by which inherited (genetic) or acquired (environmental) mitochondrial dysfunction or suboptimal mitochondrial function, may contribute to PTSD symptomatology and increase susceptibility to PTSD. The proposed pathogenic role of mitochondria in the pathophysiology of PTSD has important implications for prevention and therapy, as antidepressants commonly prescribed for patients with PTSD have been shown to inhibit mitochondrial function, while alternative therapies shown to improve mitochondrial function may prove more efficacious.
+ER  - 
+
+TY  - JOUR
+AU  - Ottens, Andrew K.
+AU  - Kobeissy, Firas H.
+AU  - Golden, Erin C.
+AU  - Zhang, Zhiqun
+AU  - Haskins, William E.
+AU  - Chen, Su-Shing
+AU  - Hayes, Ronald L.
+AU  - Wang, Kevin K.W.
+AU  - Denslow, Nancy D.
+TI  - Neuroproteomics in neurotrauma
+JO  - Mass Spectrometry Reviews
+JA  - Mass Spectrom. Rev.
+VL  - 25
+IS  - 3
+SN  - 9780470654613
+UR  - https://doi.org/10.1002/mas.20073
+DO  - doi:10.1002/mas.20073
+SP  - 380
+EP  - 408
+KW  - neurotrauma
+KW  - neuroproteomics
+KW  - brain injury
+KW  - protein separations
+KW  - mass spectrometry
+PY  - 2006
+AB  - Abstract Neurotrauma in the form of traumatic brain injury (TBI) afflicts more Americans annually than Alzheimer's and Parkinson's disease combined, yet few researchers have used neuroproteomics to investigate the underlying complex molecular events that exacerbate TBI. Discussed in this review is the methodology needed to explore the neurotrauma proteome?from the types of samples used to the mass spectrometry identification and quantification techniques available. This neuroproteomics survey presents a framework for large-scale protein research in neurotrauma, as applied for immediate TBI biomarker discovery and the far-reaching systems biology understanding of how the brain responds to trauma. Ultimately, knowledge attained through neuroproteomics could lead to clinical diagnostics and therapeutics to lessen the burden of neurotrauma on society. ? 2006 Wiley Periodicals, Inc., Mass Spec Rev 25:380?408, 2006
+ER  - 
+
+TY  - JOUR
+AU  - Richter, Monique
+AU  - Negro-Demontel, María Luciana
+AU  - Blanco-Ocampo, Daniela
+AU  - Taranto, Eliseo
+AU  - Lago, Natalia
+AU  - Peluffo, Hugo
+TI  - Thy1-YFP-H Mice and the Parallel Rod Floor Test to Evaluate Short- and Long-Term Progression of Traumatic Brain Injury
+JO  - Current Protocols in Immunology
+JA  - Current Protocols in Immunology
+VL  - 120
+IS  - 1
+SN  - 9780470654613
+UR  - https://doi.org/10.1002/cpim.42
+DO  - doi:10.1002/cpim.42
+SP  - 24.1.1
+EP  - 24.1.25
+KW  - axonal damage
+KW  - long-term
+KW  - neurological test
+KW  - TBI
+KW  - Thy1-YFP-H mice
+PY  - 2018
+AB  - Abstract Traumatic brain injury (TBI) is a leading cause of death and disability and is a risk factor for the later development of neuropsychiatric disorders and neurodegenerative diseases. Many models of TBI have been developed, but their further refinement and a more detailed long-term follow-up is needed. We have used the Thy1-YFP-H transgenic mouse line and the parallel rod floor test to produce an unbiased and robust method for the evaluation of the multiple effects of a validated model of controlled cortical injury. This approach reveals short- and long-term progressive changes, including compromised biphasic motor function up to 85 days post-lesion, which correlates with neuronal atrophy, dendrite and spine loss, and long-term axonal pathology evidenced by axon spheroids and fragmentation. Here we present methods for inducing a controlled cortical injury in the Thy1-YFP-H transgenic mouse line and for evaluating the resulting deficits in the parallel rod floor test. This technique constitutes a new, unbiased, and robust method for the evaluation of motor and behavioral alterations after TBI. ? 2018 by John Wiley & Sons, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Jose-Cunilleras, E.
+AU  - Viu, J.
+AU  - McKenzie, E.
+TI  - Science in brief: Clinical news from the 8th ICEEP conference 2010: What more can we learn from haematology and serum biochemistry in athletic horses?
+JO  - Equine Veterinary Journal
+VL  - 44
+IS  - 2
+SN  - 9780470654613
+UR  - https://doi.org/10.1111/j.2042-3306.2011.00460.x
+DO  - doi:10.1111/j.2042-3306.2011.00460.x
+SP  - 130
+EP  - 132
+PY  - 2012
+ER  - 
+
+AU  - Yau, Mabel
+AU  - Sperling, Mark A.
+C7  - pp. 110-128
+TI  - Endocrine and Metabolic Emergencies in Transitional Care
+SN  - 9781119374732
+UR  - https://doi.org/10.1002/9781119374800.ch6
+DO  - doi:10.1002/9781119374800.ch6
+SP  - 110-128
+KW  - adrenal crisis
+KW  - diabetic ketoacidosis
+KW  - hyperglycemic hyperosmolar state
+KW  - hypoglycemia
+KW  - hypopituitarism
+KW  - secondary hypertension
+KW  - transitional care
+KW  - traumatic brain injury
+KW  - type 1 diabetes
+KW  - type 2 diabetes
+PY  - 2012
+AB  - Summary The transition of care for adolescents and young adults from a pediatric, family-centered model to an adult, patient-centered model marks an important milestone in the lives of patients with chronic disorders managed from a young age. The timing and tempo of transition require special consideration to physical, psychological and social changes occurring during young adulthood. Poor glycemic control is a common finding among adolescents with type 1 diabetes and places these young adults at increased risk of diabetic ketoacidosis, knowledge that should alert clinicians to carefully manage diabetes during concurrent acute illnesses. Other chronic endocrine disorders, such as primary adrenal deficiencies, congenital or autoimmune hypothyroidism and hyperthyroidism, and hypopituitarism may follow a similar model of care. In addition to continued management of existing defects, patients with disorders such as autoimmune polyglandular syndromes will require continued surveillance for manifestations of new endocrinopathies through adulthood. The onset of adrenal insufficiency with adrenoleukodystrophy, x-linked adrenal hypoplasia and triple A syndrome is variable and patients may present in adrenal crisis as the initial manifestation of adrenal insufficiency during an acute illness. Endocrine causes account for a high proportion of cases of secondary hypertension, including acute onset of hypertension due to hyperaldosteronism, pheochromocytomas, ganglioneuromas, Cushing's syndrome, and hyperthyroidism. Head trauma is common in young adults associated with risky behaviors and motor vehicle accidents. Patients with traumatic brain injuries are at risk for developing anterior and posterior pituitary defects. This chapter discusses transitional care of diabetes and chronic and evolving endocrine disorders, as well as the management, including emergency care, of endocrine disorders that commonly present in young adulthood.
+ER  - 
+
+TY  - JOUR
+AU  - Ducrou, W.
+AU  - Harding, P. E.
+AU  - Kimbel, R. J.
+AU  - Kutkaite, D.
+TI  - Traumatic Haemolysis after Heart Valve Replacement: a Comparison of Haematological Investigations
+JO  - Australian and New Zealand Journal of Medicine
+VL  - 2
+IS  - 2
+SN  - 9781119374732
+UR  - https://doi.org/10.1111/j.1445-5994.1972.tb03919.x
+DO  - doi:10.1111/j.1445-5994.1972.tb03919.x
+SP  - 118
+EP  - 123
+PY  - 1972
+AB  - Summary: Thirty-three patients whc had had prosthetic valves inserted in the preceding four years were investigated to estimate the value of various laboratory tests in the assessment of traumatic red cell destruction. A combination of the findings of an elevation in serum lactic acid dehydrogenase (LDH) and a fall in serum haptoglobir levels, was found to be a reliable and accurate pointer to the presence of red cell damage. This study indicates that the commonly used parameters of an increased reticulocyte count, a rise it serum bilirubin levels, the presence ol methaemalbumin (positive Schumm's test) and fragmented red cells in the peripheral blood, although very valuable in more severe cases, are not sufficiently accurate to be used as indicators ol minor degrees of red cell damage. Milc and clinically insignificant red cell destruction is very common in patients with artificial valves and only one case of the thirty-three studied showed no laboratory evidence of traumatic haemolysis.
+ER  - 
+
+C7  - pp. 117-140
+TI  - Specific Clinical Conditions
+SN  - 9780727918550
+UR  - https://doi.org/10.1002/9780470757437.ch12
+DO  - doi:10.1002/9780470757437.ch12
+SP  - 117-140
+KW  - uK
+KW  - variety
+KW  - movements
+KW  - hospitals
+KW  - medicine
+PY  - 1972
+AB  - Summary This chapter contains sections titled: Introduction Transfers for Medical and Non-Trauma Surgical Conditions Trauma Transfers Obstetrics Summary
+ER  - 
+
+TY  - JOUR
+AU  - Mitchell, A. R.
+TI  - Using the laboratory as an instrument of medicine: Veterinary Laboratory Medicine: Clinical Biochemistry and Haematology M. G. Kerr.
+JO  - Journal of Small Animal Practice
+VL  - 30
+IS  - 7
+SN  - 9780727918550
+UR  - https://doi.org/10.1111/j.1748-5827.1989.tb01596.x
+DO  - doi:10.1111/j.1748-5827.1989.tb01596.x
+SP  - 416
+EP  - 416
+PY  - 1989
+ER  - 
+
+TY  - JOUR
+AU  - Zulak, Katherine G.
+AU  - Bohlmann, Jörg
+TI  - Terpenoid Biosynthesis and Specialized Vascular Cells of Conifer Defense
+JO  - Journal of Integrative Plant Biology
+VL  - 52
+IS  - 1
+SN  - 9780727918550
+UR  - https://doi.org/10.1111/j.1744-7909.2010.00910.x
+DO  - doi:10.1111/j.1744-7909.2010.00910.x
+SP  - 86
+EP  - 97
+PY  - 2010
+AB  - Abstract Defense-related terpenoid biosynthesis in conifers is a dynamic process closely associated with specialized anatomical structures that allows conifers to cope with attack from many potential pests and pathogens. The constitutive and inducible terpenoid defense of conifers involves several hundred different monoterpenes, sesquiterpenes and diterpenes. Changing arrays of these many compounds are formed from the general isoprenoid pathway by activities of large gene families for two classes of enzymes, the terpene synthases and the cytochrome P450-dependent monooxygenases of the CYP720B group. Extensive studies have been conducted on the genomics, proteomics and molecular biochemical characterization of these enzymes. Many of the conifer terpene synthases are multi-product enzymes, and the P450 enzymes of the CYP720B group are promiscuous in catalyzing multiple oxidations, along homologous series of diterpenoids, from a broad spectrum of substrates. The terpene synthases and CYP720B genes respond to authentic or simulated insect attack with increased transcript levels, protein abundance and enzyme activity. The constitutive and induced oleoresin terpenoids for conifer defense accumulate in preformed cortical resin ducts and in xylem trauma-associated resin ducts. Formation of these resin ducts de novo in the cambium zone and developing xylem, following insect attack or treatment of trees with methyl jasmonate, is a unique feature of the induced defense of long-lived conifer trees.
+ER  - 
+
+TY  - JOUR
+AU  - Stowe, Cindy D.
+AU  - Lee, Kelley R.
+AU  - Storgion, Stephanie A.
+AU  - Phelps, Stephanie J.
+TI  - Altered Phenytoin Pharmacokinetics in Children with Severe, Acute Traumatic Brain Injury
+JO  - The Journal of Clinical Pharmacology
+VL  - 40
+IS  - 12
+SN  - 9780727918550
+UR  - https://doi.org/10.1177/009127000004001216
+DO  - doi:10.1177/009127000004001216
+SP  - 1452
+EP  - 1461
+PY  - 2000
+AB  - The purpose of this study was to determine if phenytoin protein binding and metabolism were altered in prepubescent pediatric patients within the first 10 days following severe, acute traumatic brain injury. Patients (n = 10) received phenytoin loading doses (15?20 mg/kg) followed by a maintenance regimen (7 mg/kg/day) initiated within 12 hours of the loading dose. Phenytoin serum concentrations were measured serially on days 1, 2, 3, 5, 7, 9, and 10 at 1, 6, and 12 hours. Time-invariant and time-variant Michaelis-Menten pharmacokinetic models were fit to the unbound phenytoin concentration-time data (ADAPT II?). Albumin concentrations significantly decreased over time (p < 0.001) and were predictive of the phenytoin binding ratio (r2 = 0.373, p < 0.0001). The time-variant model provided a superior fit of the data in 7 patients with no difference between models in 3 patients. Rapid inhibition of metabolism (Vmaxbaseline = 2.82 ± 2.35 mg/kg/day) was observed initially following injury. This was followed by induction of metabolism as reflected by a Vmaxinduced of 20.79 ± 13.71 mg/kg/day, which was approximately twofold higher than reported values for nonstressed children. Children with severe, acute neurotrauma were found to have markedly altered protein binding and phenytoin metabolism.
+ER  - 
+
+TY  - JOUR
+AU  - Belopolskaya, O. B.
+AU  - Smelaya, T. V.
+AU  - Moroz, V. V.
+AU  - Golubev, A. M.
+AU  - Salnikova, L. E.
+TI  - Clinical associations of host genetic variations in the genes of cytokines in critically ill patients
+JO  - Clinical & Experimental Immunology
+JA  - Clin Exp Immunol
+VL  - 180
+IS  - 3
+SN  - 9780727918550
+UR  - https://doi.org/10.1111/cei.12592
+DO  - doi:10.1111/cei.12592
+SP  - 531
+EP  - 541
+KW  - adult respiratory distress sybdrome
+KW  - cytokines
+KW  - genetic association studies
+KW  - sepsis
+KW  - single nucleotide polymorphism
+PY  - 2015
+AB  - Summary Host genetic variations may influence a changing profile of biochemical markers and outcome in patients with trauma/injury. The objective of this study was to assess clinical associations of single nucleotide polymorphisms (SNPs) in the genes of cytokines in critically ill patients. A total of 430 patients were genotyped for SNPs in the genes of pro- (IL1B, IL6, IL8) and anti-inflammatory (IL4, IL10, IL13) cytokines. The main end-points were sepsis, mortality and adult respiratory distress syndrome (ARDS). We evaluated the dynamic levels of bilirubin, blood urea nitrogen, creatine kinase, creatinine and lactate dehydrogenase in five points of measurements (between 1 and 14 days after admission) and correlated them with SNPs. High-producing alleles of proinflammatory cytokines protected patients against sepsis (IL1B ?511A and IL8 ?251A) and mortality (IL1B ?511A). High-producing alleles of anti-inflammatory cytokines IL4 ?589T and IL13 431A (144Gln) were less frequent in ARDS patients. The carriers of IL6 ?174C/C genotypes were prone to the increased levels of biochemical markers and acute kidney and liver insufficiency. Genotype-dependent differences in the levels of biochemical indicators gradually increased to a maximal value on the 14th day after admission. These findings suggest that genetic variability in pro- and anti-inflammatory cytokines may contribute to different clinical phenotypes in patients at high risk of critical illness.
+ER  - 

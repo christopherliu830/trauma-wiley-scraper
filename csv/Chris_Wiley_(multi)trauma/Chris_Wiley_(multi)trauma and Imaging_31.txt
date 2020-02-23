@@ -1,0 +1,478 @@
+
+TY  - JOUR
+AU  - Skaribas, Ioannis
+AU  - Aló, Kenneth
+TI  - Ultrasound imaging and occipital nerve stimulation
+JO  - Neuromodulation: Technology at the Neural Interface
+VL  - 13
+IS  - 2
+SN  - 1094-7159
+UR  - https://doi.org/10.1111/j.1525-1403.2009.00254.x
+DO  - doi:10.1111/j.1525-1403.2009.00254.x
+SP  - 126
+EP  - 130
+KW  - Electrode placement
+KW  - headache
+KW  - occipital nerve stimulation
+KW  - occipital neuralgia
+KW  - peripheral nerve stimulation
+KW  - PNS
+KW  - technical report
+PY  - 2010
+AB  - Objectives:? Occipital nerve stimulation (ONS) is a peripheral nerve stimulation (PNS) technique that has been used with success in the management of intractable chronic daily headaches (CDHs) and occipital neuralgia (ON). The technique involves the placement of a stimulating surgical or percutaneous electrode over the occipital nerves within the subcutaneous tissues at the skull base. Until recently, procedures involving the occipital nerves were based on identifying bony or arterial landmarks with direct palpation or fluoroscopy. Although universally accepted as an imaging technique, fluoroscopy does not provide real-time imaging of the occipital nerves or vessels. Furthermore, therapeutic efficacy of ONS is directly related to the ability of the stimulating electrode to produce peripheral nerve dermatomal paresthesia, emphasizing the need for precision placement. Materials and Methods:? A total of six patients, diagnosed with refractory CDH and ON, after failing extensive medical management, were diagnosed as potential candidates for ONS. Subsequently, all underwent successful percutaneous trials of bilateral octopolar (Advanced Neuromodulation Systems, Plano, TX, USA) ONS under ultrasound guidance, followed by permanent surgical implantation. Results:? In this case series, ultrasound provided accurate, real-time placement of introducer needles and stimulating electrodes by allowing visualization of tissue planes (epidermis, dermis, subcutaneous fat, and trapezious muscle), as well as vessels and nervous structures. Conclusions:? Ultrasound imaging has been used increasingly for peripheral nerve blockade in surgical anesthesia and in chronic pain management as it allows real-time localization of both nervous and vascular structures (color flow Doppler) and, thus, a method for increasing blockade precision and safety. As an adjunct to ONS, the position of the introducer needles and electrodes can be visualized in relation to the occipital nerves and vasculature. This reproducible positioning allows accurate depth of placement (assuring production of the prerequisite PNS dermatomal paresthesia required for ONS efficacy) and limits the risk of injury to the occipital artery or nerve(s). In this case series, ultrasonography provided real-time, safe, and reliable placement of ONS electrodes. It also allowed identification of nervous and vascular structures unable to be seen with fluoroscopy, The portable nature of modern ultrasound machines, together with an ever improving pixelation of the Doppler color flow images/real-time measurements, and a lack of radiation exposure make this technology an attractive emerging modality in the field of Neuromodulation.
+ER  - 
+
+TY  - JOUR
+AU  - Scherrer, Benoit
+AU  - Schwartzman, Armin
+AU  - Taquet, Maxime
+AU  - Sahin, Mustafa
+AU  - Prabhu, Sanjay P.
+AU  - Warfield, Simon K.
+TI  - Characterizing brain tissue by assessment of the distribution of anisotropic microstructural environments in diffusion-compartment imaging (DIAMOND)
+JO  - Magnetic Resonance in Medicine
+JA  - Magn. Reson. Med.
+VL  - 76
+IS  - 3
+SN  - 0740-3194
+UR  - https://doi.org/10.1002/mrm.25912
+DO  - doi:10.1002/mrm.25912
+SP  - 963
+EP  - 977
+KW  - diffusion-weighted MRI
+KW  - tissue microstructure
+KW  - statistical distribution model
+KW  - non-monoexponential decay
+KW  - diffusion compartment imaging
+PY  - 2016
+AB  - Purpose To develop a statistical model for the tridimensional diffusion MRI signal at each voxel that describes the signal arising from each tissue compartment in each voxel. Theory and Methods In prior work, a statistical model of the apparent diffusion coefficient was shown to well-characterize the diffusivity and heterogeneity of the mono-directional diffusion MRI signal. However, this model was unable to characterize the three-dimensional anisotropic diffusion observed in the brain. We introduce a new model that extends the statistical distribution representation to be fully tridimensional, in which apparent diffusion coefficients are extended to be diffusion tensors. The set of compartments present at a voxel is modeled by a finite sum of unimodal continuous distributions of diffusion tensors. Each distribution provides measures of each compartment microstructural diffusivity and heterogeneity. Results The ability to estimate the tridimensional diffusivity and heterogeneity of multiple fascicles and of free diffusion is demonstrated. Conclusion Our novel tissue model allows for the characterization of the intra-voxel orientational heterogeneity, a prerequisite for accurate tractography while also characterizing the overall tridimensional diffusivity and heterogeneity of each tissue compartment. The model parameters can be estimated from short duration acquisitions. The diffusivity and heterogeneity microstructural parameters may provide novel indicator of the presence of disease or injury. Magn Reson Med 76:963?977, 2016. ? 2015 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Perosky, Joseph E.
+AU  - Peterson, Jonathan R.
+AU  - Eboda, Owulatobi N.
+AU  - Morris, Michael D.
+AU  - Wang, Stewart C.
+AU  - Levi, Benjamin
+AU  - Kozloff, Kenneth M.
+TI  - Early detection of heterotopic ossification using near-infrared optical imaging reveals dynamic turnover and progression of mineralization following Achilles tenotomy and burn injury
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+VL  - 32
+IS  - 11
+SN  - 0736-0266
+UR  - https://doi.org/10.1002/jor.22697
+DO  - doi:10.1002/jor.22697
+SP  - 1416
+EP  - 1423
+KW  - heterotopic Ossification
+KW  - molecular imaging
+KW  - microCT
+KW  - biomarkers
+PY  - 2014
+AB  - ABSTRACT Heterotopic ossification (HO) is the abnormal formation of bone in soft tissue. Current diagnostics have low sensitivity or specificity to incremental progression of mineralization, especially at early time points. Without accurate and reliable early diagnosis and intervention, HO progression often results in incapacitating conditions of limited range of motion, nerve entrapment, and pain. We hypothesized that non-invasive near-infrared (NIR) optical imaging can detect HO at early time points and monitor heterotopic bone turnover longitudinally. C57BL6 mice received an Achilles tenotomy on their left hind limb in combination with a dorsal burn or sham procedure. A calcium-chelating tetracycline derivative (IRDye 680RD BoneTag) was injected bi-weekly and imaged via NIR to measure accumulative fluorescence for 11?wk and compared to in vivo microCT images. Percent retention of fluorescence was calculated longitudinally to assess temporal bone resorption. NIR detected HO as early as five days and revealed a temporal response in HO formation and turnover. MicroCT could not detect HO until 5?wk. Confocal microscopy confirmed fluorophore localization to areas of HO. These findings demonstrate the ability of a near-infrared optical imaging strategy to accurately and reliably detect and monitor HO in a murine model. ? 2014 Orthopaedic Research Society. Published by Wiley Periodicals, Inc. J Orthop Res 32:1416?1423, 2014.
+ER  - 
+
+TY  - JOUR
+AU  - Furyk, Jeremy
+AU  - Banks, Colin
+TI  - Reducing imaging for pulmonary embolism diagnosis
+JO  - Emergency Medicine Australasia
+JA  - Emergency Medicine Australasia
+VL  - 32
+IS  - 1
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/1742-6723.13459
+DO  - doi:10.1111/1742-6723.13459
+SP  - 176
+EP  - 178
+PY  - 2020
+ER  - 
+
+TY  - JOUR
+AU  - Pretorius, D. H.
+AU  - Nelson, T. R.
+TI  - WS01-09Diagnostically critical fetal imaging artifacts: identification and management
+JO  - Ultrasound in Obstetrics & Gynecology
+VL  - 16
+IS  - s1
+SN  - 0960-7692
+UR  - https://doi.org/10.1046/j.1469-0705.2000.00009-1-9.x
+DO  - doi:10.1046/j.1469-0705.2000.00009-1-9.x
+SP  - 6
+EP  - 6
+PY  - 2000
+AB  - The purpose of this project was to identify sources and clinical significance of 3DUS artifacts on patient diagnosis and to increase clinician and sonographer awareness to reduce misdiagnosis in 3DUS studies. To accomplish this 3DUS data were acquired and reviewed interactively. Artifacts were cataloged according to origin: B-mode, color/power Doppler or unique to 3DUS (acquisition, rendering or volume editing). Original scan planes, re-sliced planes and rendered images were evaluated. Overall our results showed a variety of artifacts. B-mode artifacts included drop-out, shadowing, etc. and depending on relationships between slice and imaging plane orientation. Color/power Doppler artifacts were related to gain, aliasing, and flash and could add apparent structure or confusion to the volume images. Rendering artifacts were due to parameter adjustment, shadowing and motion. Important structures could be removed by improper editing. In conclusion 3DUS and 2DUS are prone to similar artifacts plus others unique to 3DUS. Diagnostically significant artifacts can mimick abnormal development, masses, or missing structures thus requiring careful study before reaching a diagnosis.
+ER  - 
+
+TY  - JOUR
+AU  - Wortzel, Hal S.
+AU  - Brenner, Lisa A.
+AU  - Arciniegas, David B.
+TI  - Traumatic Brain Injury and Chronic Traumatic Encephalopathy: A Forensic Neuropsychiatric Perspective
+JO  - Behavioral Sciences & the Law
+JA  - Behav. Sci. Law
+VL  - 31
+IS  - 6
+SN  - 0735-3936
+UR  - https://doi.org/10.1002/bsl.2079
+DO  - doi:10.1002/bsl.2079
+SP  - 721
+EP  - 738
+PY  - 2013
+AB  - Recent scientific reports and popular press describing chronic traumatic encephalopathy (CTE) collectively link this condition to a broad array of neuropsychiatric symptoms, including extremely rare and multi-determined behaviors such as murder-suicide. These reports are difficult to reconcile with several decades of research on the science of traumatic brain injury (TBI) and its consequences, especially the natural history and prognosis of mild TBI. This article attempts to reconcile these sources by reviewing the state of the science on CTE, with particular attention to case definitions and neuropathological criteria for this diagnosis. The evidence for links between TBI, CTE, and catastrophic clinical events is explored, and the complexity of attributing rare frequency behavioral events to CTE is highlighted. The clinical and medicolegal implications of the best available evidence are discussed, concluding with a cautionary note against prematurely generalizing current findings on CTE to entire populations of persons with, or at risk for, concussion exposures. Copyright ? 2013 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Cribari, Mary Kathryn
+TI  - Trauma – and a four foot - giant
+JO  - AORN Journal
+JA  - AORN Journal
+VL  - 13
+IS  - 2
+SN  - 0001-2092
+UR  - https://doi.org/10.1016/S0001-2092(07)60244-0
+DO  - doi:10.1016/S0001-2092(07)60244-0
+SP  - 83
+EP  - 88
+PY  - 1971
+ER  - 
+
+TY  - JOUR
+AU  - Ling, Josef
+AU  - Merideth, Flannery
+AU  - Caprihan, Arvind
+AU  - Pena, Amanda
+AU  - Teshiba, Terri
+AU  - Mayer, Andrew R.
+TI  - Head injury or head motion? Assessment and quantification of motion artifacts in diffusion tensor imaging studies
+JO  - Human Brain Mapping
+JA  - Hum. Brain Mapp.
+VL  - 33
+IS  - 1
+SN  - 1065-9471
+UR  - https://doi.org/10.1002/hbm.21192
+DO  - doi:10.1002/hbm.21192
+SP  - 50
+EP  - 62
+KW  - mild TBI
+KW  - DTI
+KW  - diffusion tensor imaging
+KW  - gradient sampling schemes
+KW  - motion
+KW  - simulations
+PY  - 2012
+AB  - Abstract The relationship between head motion and diffusion values such as fractional anisotropy (FA) and mean diffusivity (MD) is currently not well understood. Simulation studies suggest that head motion may introduce either a positive or negative bias, but this has not been quantified in clinical studies. Moreover, alternative measures for removing bias as result of head motion, such as the removal of problematic gradients, has been suggested but not carefully evaluated. The current study examined the impact of head motion on FA and MD across three common pipelines (tract-based spatial statistics, voxelwise, and region of interest analyses) and determined the impact of removing diffusion weighted images. Our findings from a large cohort of healthy controls indicate that while head motion was associated with a positive bias for both FA and MD, the effect was greater for MD. The positive bias was observed across all three analysis pipelines and was present following established protocols for data processing, suggesting that current techniques (i.e., correction of both image and gradient table) for removing motion bias are likely insufficient. However, the removal of images with gross artifacts did not fundamentally change the relationship between motion and DTI scalar values. In addition, Monte Carlo simulations suggested that the random removal of images increases the bias and reduces the precision of both FA and MD. Finally, we provide an example of how head motion can be quantified across different neuropsychiatric populations, which should be implemented as part of any diffusion tensor imaging quality assurance protocol. Hum Brain Mapp, 2012. ? 2011 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Repple, Jonathan
+AU  - Meinert, Susanne
+AU  - Grotegerd, Dominik
+AU  - Kugel, Harald
+AU  - Redlich, Ronny
+AU  - Dohm, Katharina
+AU  - Zaremba, Dario
+AU  - Opel, Nils
+AU  - Buerger, Christian
+AU  - Förster, Katharina
+AU  - Nick, Theresa
+AU  - Arolt, Volker
+AU  - Heindel, Walter
+AU  - Deppe, Michael
+AU  - Dannlowski, Udo
+TI  - A voxel-based diffusion tensor imaging study in unipolar and bipolar depression
+JO  - Bipolar Disorders
+JA  - Bipolar Disord
+VL  - 19
+IS  - 1
+SN  - 1398-5647
+UR  - https://doi.org/10.1111/bdi.12465
+DO  - doi:10.1111/bdi.12465
+SP  - 23
+EP  - 31
+KW  - bipolar disorder
+KW  - connectivity
+KW  - diffusion tensor imaging (DTI)
+KW  - major depressive disorder
+KW  - magnetic resonance imaging (MRI)
+KW  - white matter
+PY  - 2017
+AB  - Objective The absence of neurobiological diagnostic markers of bipolar disorder (BD) leads to its frequent misdiagnosis as unipolar depression (UD). We investigated if changes in fractional anisotropy (FA) could help to differentiate BD from UD in the state of depression. Methods Using diffusion tensor imaging (DTI) we employed a voxel-based analysis approach to examine fractional anisotropy (FA) in 86 patients experiencing an acute major depressive episode according to DSM-IV (N=39 BD, mean age 39.2 years; N=43 UD, mean age 39.0 years), and 42 healthy controls (HC, mean age 36.1 years). The groups did not differ in sex, age or total education time. FA was investigated in white matter (FA >.2) and hypothesis-driven anatomically defined tracts (region-of-interest [ROI] analysis). Additionally, an exploratory gray matter FA analysis was performed. Results White matter analysis showed decreased FA in the right corticospinal tract in UD vs HC and in the right corticospinal tract/superior longitudinal fascicle in BD vs HC and also in BD vs UD. ROI analysis revealed decreased FA in BD vs UD in the corpus callosum and in the cingulum. Gray matter exploratory analysis revealed decreased FA in the left middle frontal gyrus and in the right inferior frontal gyrus in UD vs HC, and in the left superior medial gyrus in BD vs HC. Conclusion This is one of very few studies directly showing differences in FA between BD and UD. Gray matter FA changes in prefrontal areas might be precursors for future prefrontal gray matter abnormalities in these disorders.
+ER  - 
+
+TY  - JOUR
+AU  - Liu, Yuxin
+AU  - Jia, Qi
+AU  - Zhou, Jing
+C7  - 1800055
+TI  - Recent Advance in Near-Infrared (NIR) Imaging Probes for Cancer Theranostics
+JO  - Advanced Therapeutics
+JA  - Adv. Therap.
+VL  - 1
+IS  - 8
+UR  - https://doi.org/10.1002/adtp.201800055
+DO  - doi:10.1002/adtp.201800055
+SP  - 1800055
+KW  - cancer theranostics
+KW  - luminescence
+KW  - near-infrared II
+KW  - photoacoustic
+KW  - photothermal
+PY  - 2018
+AB  - Abstract With the advantages of low biofluid scattering and minimal absorbance, light in a second near-infrared window (NIR II, 1000?1700 nm) either as a signal or as an excitation source is preferred for bioimaging and disease diagnosis, especially for cancer theranostics. Due to recent advances in chemical synthesis and imaging techniques, various NIR II probes have been evaluated for tumor luminescence image-guided cancer therapy and surgery. Furthermore, probes emitting optical, acoustic, or thermal signals under NIR II excitation have also been developed for upconversion luminescence, photoacoustic, and photothermal imaging of tumors. Herein, recent advances in the use of NIR II imaging probes in cancer theranostic applications are summarized along with future perspectives.
+ER  - 
+
+TY  - JOUR
+AU  - Liu, Wen P.
+AU  - Reaugamornrat, Sureerat
+AU  - Sorger, Jonathan M.
+AU  - Siewerdsen, Jeffrey H.
+AU  - Taylor, Russell H.
+AU  - Richmon, Jeremy D.
+C8  - RCS-14-0001.R2
+TI  - Intraoperative image-guided transoral robotic surgery: pre-clinical studies
+JO  - The International Journal of Medical Robotics and Computer Assisted Surgery
+JA  - Int J Med Robotics Comput Assist Surg
+VL  - 11
+IS  - 2
+SN  - 1478-5951
+UR  - https://doi.org/10.1002/rcs.1602
+DO  - doi:10.1002/rcs.1602
+SP  - 256
+EP  - 267
+KW  - transoral robotic surgery
+KW  - intraoperative image-guidance
+KW  - cone-beam CT
+KW  - stereo video augmentation
+KW  - base of tongue resection
+PY  - 2015
+AB  - Abstract Background Adequate resection of oropharyngeal neoplasms with transoral robotic surgery (TORS) poses multiple challenges, including difficulty with access, inability to palpate the tumor, loss of landmarks, and intraoperative patient positioning with mouth retractor and tongue extended creating significant tissue distortion from preoperative imaging. Methods This study evaluates a workflow integrating intraoperative cone beam computed tomography (CBCT) for image-guided TORS through robotic experimentation locating 8?10 embedded targets in five porcine tongues and a cadaveric head phantom, conducted under various modes of visualization and integration of preoperative/intraoperative imaging. Results A statistically significant improvement in mean target localization error was achieved for both the porcine tongue ((9.8?±?4.0) mm vs. (5.3?±?1.3) mm, P-value?=?0.0151) and cadaver ((11.2?±?5.0) mm vs. (5.8?±?2.5) mm P-value?=?0.0189) in experiments comparing scenarios simulating current standard-of-care practice and the proposed image guidance system. Conclusion Intraoperative image guidance with augmentation of critical surgical structures has the potential to improve target localization for TORS. Copyright ? 2014 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Brancu, Mira
+AU  - Wagner, H. Ryan
+AU  - Morey, Rajendra A.
+AU  - Beckham, Jean C.
+AU  - Calhoun, Patrick S.
+AU  - Tupler, Larry A.
+AU  - Marx, Christine E.
+AU  - Taber, Katherine H.
+AU  - Hurley, Robin A.
+AU  - Rowland, Jared
+AU  - McDonald, Scott D.
+AU  - Hoerle, Jeffrey M.
+AU  - Moore, Scott D.
+AU  - Kudler, Harold S.
+AU  - Weiner, Richard D.
+AU  - VA Mid-Atlantic MIRECC Workgroup
+AU  - Fairbank, John A.
+C7  - e1570
+C8  - IJMPR-Jul-2016-0084.R2
+TI  - The Post-Deployment Mental Health (PDMH) study and repository: A multi-site study of US Afghanistan and Iraq era veterans
+JO  - International Journal of Methods in Psychiatric Research
+JA  - Int J Methods Psychiatr Res
+VL  - 26
+IS  - 3
+SN  - 1049-8931
+UR  - https://doi.org/10.1002/mpr.1570
+DO  - doi:10.1002/mpr.1570
+SP  - e1570
+KW  - Afghanistan
+KW  - Iraq
+KW  - mental health
+KW  - post-deployment
+KW  - veterans
+PY  - 2017
+AB  - Abstract The United States (US) Department of Veterans Affairs (VA) Mid-Atlantic Mental Illness Research, Education, and Clinical Center (MIRECC) Post-Deployment Mental Health (PDMH) multi-site study examines post-deployment mental health in US military Afghanistan/Iraq-era veterans. The study includes the comprehensive behavioral health characterization of over 3600 study participants and the genetic, metabolomic, neurocognitive, and neuroimaging data for many of the participants. The study design also incorporates an infrastructure for a data repository to re-contact participants for follow-up studies. The overwhelming majority (94%) of participants consented to be re-contacted for future studies, and our recently completed feasibility study indicates that 73?83% of these participants could be reached successfully for enrollment into longitudinal follow-up investigations. Longitudinal concurrent cohort follow-up studies will be conducted (5?10+ years post-baseline) to examine predictors of illness chronicity, resilience, recovery, functional outcome, and other variables, and will include neuroimaging, genetic/epigenetic, serum biomarker, and neurocognitive studies, among others. To date, the PDMH study has generated more than 35 publications from the baseline data and the repository has been leveraged in over 20 publications from follow-up studies drawing from this cohort. Limitations that may affect data collection for a longitudinal follow-up study are also presented.
+ER  - 
+
+TY  - JOUR
+AU  - Welsch, Goetz H.
+AU  - Mamisch, Tallal C.
+AU  - Zak, Lukas
+AU  - Mauerer, Andreas
+AU  - Apprich, Sebastian
+AU  - Stelzeneder, David
+AU  - Marlovits, Stefan
+AU  - Trattnig, Siegfried
+TI  - Morphological and biochemical T2 evaluation of cartilage repair tissue based on a hybrid double echo at steady state (DESS-T2d) approach
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J. Magn. Reson. Imaging
+VL  - 34
+IS  - 4
+SN  - 1053-1807
+UR  - https://doi.org/10.1002/jmri.22677
+DO  - doi:10.1002/jmri.22677
+SP  - 895
+EP  - 903
+KW  - DESS
+KW  - T2 mapping
+KW  - T2d mapping
+KW  - MOCART
+KW  - cartilage repair
+PY  - 2011
+AB  - Abstract Purpose: To use a new approach which provides, based on the widely used three-dimensional double-echo steady-state (DESS) sequence, in addition to the morphological information, the generation of biochemical T2 maps in one hybrid sequence. Materials and Methods: In 50 consecutive MRIs at 3.0 Tesla (T) after matrix-associated autologous chondrocyte transplantation (MACT) of the knee, by the use this new DESS-T2d approach, the morphological Magnetic resonance Observation of CArtilage Repair Tissue (MOCART) score, as well as biochemical T2d values were assessed. Furthermore, these results were correlated to standard morphological sequences as well as to standard multi-echo spin-echo T2 mapping. Results: The MOCART score correlated (Pearson:0.945; P < 0.001) significantly as assessed with standard morphological sequences (68.8 ± 13.2) and the morphological images of the DESS T2d sequence (68.7 ± 12.6). T2 and T2d relaxation times (ms) were comparable in between the control cartilage (T2: 52.5 ± 11.4; T2d: 46.6 ± 10.3) and the repair tissue (T2: 54.4 ± 11.4; T2d: 47.5 ± 13.0) (T2: P = 0.157; T2d: P = 0.589). As expected, T2d values were lower than the standard-T2 values, however, both functional relaxation times correlated significantly (Pearson:0.429; P < 0.001). Conclusion: The presented hybrid approach provides the possibility to combine morphological and biochemical MRI in one fast 3D sequence, and thus, may attract for the clinical use of biochemical MRI. J. Magn. Reson. Imaging 2011;. ? 2011 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - GITIAUX, CYRIL
+AU  - KOSSOROTOFF, MANOELLE
+AU  - BERGOUNIOUX, JEAN
+AU  - ADJADJ, ELIAS
+AU  - LESAGE, FABRICE
+AU  - BODDAERT, NATHALIE
+AU  - HULLY, MARIE
+AU  - BRUGEL, DOMINIQUE
+AU  - DESGUERRE, ISABELLE
+AU  - BADER-MEUNIER, BRIGITTE
+TI  - Cerebral vasculitis in severe Kawasaki disease: early detection by magnetic resonance imaging and good outcome after intensive treatment
+JO  - Developmental Medicine & Child Neurology
+VL  - 54
+IS  - 12
+SN  - 0012-1622
+UR  - https://doi.org/10.1111/dmcn.12002
+DO  - doi:10.1111/dmcn.12002
+SP  - 1160
+EP  - 1163
+PY  - 2012
+AB  - Kawasaki disease is an acute vasculitis, that has a classic complication of acquired coronary artery aneurysm. Severe forms with multi-organ involvement or neurological dysfunction are rare. Cerebral vascular involvement has been related to large-vessel injury or cardioembolism, leading to focal brain infarction. A 4-year-old female presented with unusual, rapidly catastrophic Kawasaki disease with refractory shock, acute renal failure, and coma, requiring intensive haemodynamic management. The observation of diffuse micro-haemorrhages (T2*-weighted sequence) associated with white matter injury on brain magnetic resonance imaging (MRI) pointed towards lesions of the medium/small blood vessels. Cerebral vasculitis was suspected and the immunosuppressive treatment was increased Subsequently, the patient?s recovery was rapid. On follow-up severe, bilateral vitritis was evident and surgery improved visual outcome. Early recognition of severe or unusual forms of Kawasaki disease could lead to more favourable outcome using appropriate treatment strategies. Diffuse cerebral micro-haemorrhages on T2* brain MRI sequences might be a key sign for the diagnosis of medium or small cerebral vessel involvement.
+ER  - 
+
+TY  - JOUR
+AU  - Rodríguez, Maritza
+AU  - Pérez, Victoria
+AU  - García, Yennith
+TI  - Impact of traumatic experiences and violent acts upon response to treatment of a sample of Colombian women with eating disorders
+JO  - International Journal of Eating Disorders
+JA  - Int. J. Eat. Disord.
+VL  - 37
+IS  - 4
+SN  - 0276-3478
+UR  - https://doi.org/10.1002/eat.20091
+DO  - doi:10.1002/eat.20091
+SP  - 299
+EP  - 306
+KW  - eating disorders
+KW  - trauma
+KW  - prognosis
+PY  - 2005
+AB  - Abstract Objective The current article compared the impact of exposure to sexual trauma and other types of physical threats against the patient or the patient's family on response to treatment, relapse, and dropout rates in 160 Colombian women between 12 and 49 years of age with eating disorders. Method A comparison was made to 70 cases with unsatisfactory response to treatment and 90 controls with a better response to treatment goals. Results Forty-five percent had a history of sexual abuse, other violent traumas, or both. Significant statistical differences were observed between both groups in exposure variables. The highest probability of poor outcome was observed in patients with sexual abuse and exposure to other violent acts (odds ratio [OR] = 6.37, 95% confidence interval [CI] = 2.1?19.07). The risk of dropout or relapse was, respectively, 10 and 3 times greater among those exposed. Discussion Violent social conditions should be noted as another form of trauma with potential impact on outcome in Colombian women with eating disorders. ? 2005 by Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Lu, Shing-Hwa
+AU  - Yang, An-Hang
+AU  - Wei, Chou-Fu
+AU  - Chiang, Han Sun
+AU  - Chancellor, Michael B.
+TI  - Multi-potent differentiation of human purified muscle-derived cells: potential for tissue regeneration
+JO  - BJU International
+VL  - 105
+IS  - 8
+SN  - 1464-4096
+UR  - https://doi.org/10.1111/j.1464-410X.2009.08823.x
+DO  - doi:10.1111/j.1464-410X.2009.08823.x
+SP  - 1174
+EP  - 1180
+KW  - gene expression
+KW  - skeletal muscle
+KW  - muscle-derived cells
+KW  - differentiation
+PY  - 2010
+AB  - OBJECTIVE To investigate whether CD34+ purified human muscle-derived cells (hMDCs) are capable of multiple lineage differentiation. MATERIALS AND METHODS The hMDCs were isolated from human skeletal muscle and purified using a CD34+ cell selection system (Dynal Biotech, Oslo, Norway). Adherent populations of cells were expanded in culture and cell differentiation was induced using different kinds of growth factors and different differentiation-conditional media. The immunohistochemical properties of CD34+ hMDCs were examined after varying periods in culture. Reverse transcription-polymerase chain reaction (RT-PCR) and Western blotting were used to investigate the gene expression of the undifferentiated and differentiated hMDCs. RESULTS Using special differentiation conditions the CD34+ hMDCs could be differentiated into myogenic cells, adipocytes, osteocytes and chondrocytes. The differentiation was confirmed by immunohistochemistry. RT-PCR and Western blotting showed multiple-lineage gene-level expression in the different cultivation periods of the differentiated cells. CONCLUSIONS We confirmed the multi-lineage capacity of a population of stem cells, termed CD34+ hMDCs. Our findings showed that CD34+ hMDCs are capable of multiple mesodermal-lineage differentiation, as shown by the expression of several lineage-specific genes. They can be differentiated toward the myogenic, osteogenic, adipogenic and chondrogenic lineages. These cells might have potential for use in tissue regeneration.
+ER  - 
+
+TY  - JOUR
+AU  - Moule, AJ
+AU  - Moule, CA
+TI  - The endodontic management of traumatized permanent anterior teeth: a review
+JO  - Australian Dental Journal
+VL  - 52
+IS  - s1
+SN  - 0045-0421
+UR  - https://doi.org/10.1111/j.1834-7819.2007.tb00520.x
+DO  - doi:10.1111/j.1834-7819.2007.tb00520.x
+SP  - S122
+EP  - S137
+KW  - Dental trauma
+KW  - review
+PY  - 2007
+AB  - Abstract Despite the many journal articles and reviews that have been published regarding the treatment of trauma to teeth, the endodontic management of these injuries is often still not fully understood. The purpose of this review is to establish clear and up-to-date guidelines for practitioners who are faced with treating dental injuries on a day-to-day basis, based on an assessment of current available scientific information relating to the endodontic management of these injuries. Treatment is discussed under the headings: infractions, uncomplicated crown fractures, complicated crown fractures, crown-root fractures, root fractures, luxation injuries, avulsion, root resorption, pulp canal obliteration and open-apex teeth. Emphasis is placed on the treatment of traumatized immature teeth where maintenance of pulp blood supply is important to encourage continued development of the root system. Only the treatment of traumatized permanent anterior teeth is reviewed. Information contained in this article is based on a review of the literature on dental trauma which involved a MEDLINE search using the key words ?dental trauma? and the individual topics listed above. The guidelines produced by the International Association of Dental Traumatology, the American Academy of Pediatric Dentistry and the American Association of Endodontists were also reviewed and the recommendations contained in this paper are in concert with the major recommendations of these bodies.
+ER  - 
+
+TY  - JOUR
+AU  - Vaeggemose, Michael
+AU  - Pham, Mirko
+AU  - Ringgaard, Steffen
+AU  - Tankisi, Hatice
+AU  - Ejskjaer, Niels
+AU  - Heiland, Sabine
+AU  - Poulsen, Per L.
+AU  - Andersen, Henning
+TI  - Diffusion tensor imaging MR neurography for the detection of polyneuropathy in type 1 diabetes
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J. Magn. Reson. Imaging
+VL  - 45
+IS  - 4
+SN  - 1053-1807
+UR  - https://doi.org/10.1002/jmri.25415
+DO  - doi:10.1002/jmri.25415
+SP  - 1125
+EP  - 1134
+KW  - diffusion tensor imaging
+KW  - diabetes
+KW  - neuropathy
+KW  - magnetic resonance neurography
+KW  - reproducibility
+KW  - repeatability
+PY  - 2017
+AB  - Purpose To evaluate if diffusion tensor imaging MR neurography (DTI-MRN) can detect lesions of peripheral nerves in patients with type 1 diabetes. Materials and Methods Eleven type 1 diabetic patients with polyneuropathy (DPN), 10 type 1 diabetic patients without polyneuropathy (nDPN), and 10 healthy controls (HC) were investigated with a 3T MRI scanner. Clinical examinations, nerve-conduction studies, and vibratory-perception thresholds determined the presence of DPN. DTI-MRN (voxel size: 1.4 ? 1.4 ? 3?mm3; b-values: 0, 800 s/mm2) covered proximal (sciatic nerve) and distal regions of the lower extremity (tibial nerve). Fractional anisotropy (FA) and apparent diffusion coefficient (ADC) were calculated and compared to T2-relaxometry and proton-spin density obtained from a multiecho turbo spin echo (TSE) sequence. Furthermore, we evaluated DTI reproducibility, repeatability, and diagnostic accuracy. Results DTI-MRN could accurately discriminate between DPN, nDPN, and HC. The proximal FA was lowest in DPN (DPN 0.37?±?0.06; nDPN 0.47?±?0.03; HC 0.49?±?0.06; P < 0.01). In addition, distal FA was lowest in DPN (DPN 0.31?±?0.05; nDPN 0.41?±?0.07; HC 0.43?±?0.08; P < 0.01). Likewise, proximal ADC was highest in DPN (DPN 1.69?±?0.25 ? 10?3mm2/s; nDPN 1.50?±?0.06 ? 10?3mm2/s; HC 1.42?±?0.12 ? 10?3mm2/s; P < 0.01) as was distal ADC (DPN 1.87?±?0.45 ? 10?3mm2/s; nDPN 1.59?±?0.19 ? 10?3mm2/s; HC 1.57?±?0.26 ? 10?3mm2/s; P?=?0.09). The combined interclass-correlation (ICC) coefficient of DTI reproducibility and repeatability was high in the sciatic nerve (ICC: FA?=?0.86; ADC?=?0.85) and the tibial nerve (ICC: FA?=?0.78; ADC?=?0.66). T2-relaxometry and proton-spin-density did not enable detection of neuropathy. Conclusion DTI-MRN accurately detects DPN by lower nerve FA and higher ADC. These alterations are likely to reflect proximal and distal nerve fiber pathology. Level of Evidence: 1 J. Magn. Reson. Imaging 2017;45:1125?1134
+ER  - 
+
+TY  - JOUR
+AU  - Tucker, R. L.
+TI  - Magnetic resonance imaging of the equine head and neck region
+JO  - Equine Veterinary Education
+VL  - 20
+IS  - 6
+SN  - 0957-7734
+UR  - https://doi.org/10.2746/095777308X316374
+DO  - doi:10.2746/095777308X316374
+SP  - 294
+EP  - 296
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+AU  - Hughes, Michael
+AU  - Pauling, John D
+AU  - Jones, Jennifer
+AU  - Denton, Christopher P
+AU  - Domsic, Robyn T
+AU  - Frech, Tracy M
+AU  - Herrick, Ariane L
+AU  - Khanna, Dinesh
+AU  - Matucci-Cerinic, Marco
+AU  - McKenzie, Lorraine
+AU  - Saketkoo, Lesley Ann
+AU  - Gooberman-Hill, Rachael
+AU  - Moore, Andrew
+TI  - A Multi-Centre Qualitative Study Exploring the Patient Experience of Digital Ulcers in Systemic Sclerosis
+JO  - Arthritis Care & Research
+JA  - Arthritis Care Res
+VL  - n/a
+IS  - n/a
+SN  - 2151-464X
+UR  - https://doi.org/10.1002/acr.24127
+DO  - doi:10.1002/acr.24127
+KW  - Systemic Sclerosis
+KW  - Scleroderma
+KW  - Digital Ulcers
+KW  - Qualitative Research
+KW  - Patient Participation
+KW  - Patient Reported Outcomes
+AB  - Abstract Objectives Digital ulcers (DUs) are a major cause of disease-related morbidity and difficult to treat vascular complication of systemic sclerosis (SSc). Demonstrating treatment efficacy has traditionally focussed upon clinician assessment of DUs alone. No existing patient reported outcome (PRO) instrument captures the multi-faceted impact of SSc-DU. We report the findings of a multi-centre qualitative research study exploring the patient experience of SSc-DU. Methods Patient focus groups (FGs) were conducted across 3 scleroderma units, following a topic guide devised by SSc patients, experts and experienced qualitative researchers. A purposive sampling framework ensured the experiences of a diverse group of patients were captured. FGs were audio recorded, transcribed, anonymised, and analysed using inductive thematic analysis. We continued FGs until thematic saturation was achieved. Results Twenty-nine SSc patients with a history of DU disease participated in 4 FGs across the UK (Bath, Manchester and London). Five major inter-related themes (and sub-themes) were identified which encompass the patient experience of SSc-DUs: ?Disabling pain and hypersensitivity?, ?Deep and broad-ranging emotional impact?, ?Impairment of physical and social activity?, ?Factors aggravating occurrence, duration and impact? and ?Mitigating, managing and adapting?. Conclusion The patient experience of SSc-DU is multi-faceted and comprises a complex interplay of experiences associated with significant pain and morbidity. Patient experiences of SSc-DU are not captured using existing SSc-DU outcomes. Our findings shall inform the development of a novel PRO instrument to assess the severity and impact of SSc-DUs for use in future SSc-DU clinical trials.
+ER  - 

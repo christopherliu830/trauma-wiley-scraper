@@ -1,0 +1,371 @@
+
+TY  - JOUR
+AU  - Caner, C.
+AU  - Ozlem, S.
+AU  - Yavuz, Y.
+AU  - Ali Riza, S.
+AU  - Ozlen, P.
+AU  - Beyhan, I.
+AU  - Sema, O.
+TI  - The effects of exercise during hemodialysis on adequacy
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121r.x
+DO  - doi:10.1111/j.1492-7535.2005.1121r.x
+SP  - 77
+EP  - 77
+PY  - 2005
+AB  - Pedalling during hemodialysis (HD) has been shown to increase solute clearance in a previous study. In the present study, we aimed to test whether an easy to perform exercise program, not requiring a special device, could yield similar outcomes. Fifteen HD patients with the mean age of 48.4?±?3.8 years were enrolled into the study. Patients with significant access recirculation (>10%), moderate to severe coronary artery disease, moderate to severe heart failure, severe chronic obstructive lung disease, and history of lower extremity surgery during last three month period were excluded. All patients were studied on two consecutive HD sessions with identical prescriptions. At the first session, standard HD was applied without exercise, whereas in the second session lower extremity exercise of 30 minutes duration was added. Reduction rates and rebound for urea, creatinine, and potassium and Kt/V were calculated. Wilcoxon signed rank test was applied in analysis and p?<?0.05 was accepted as significance level. All patients completed the study. When both sessions were compared, mean arterial blood pressure (97?±?3?mmHg vs 120?±?4?mmHg, p?<?0.001) and heart rate (77?±?1 beats/min vs 92?±?3 beats/min, p?<?0.001) were higher in the exercise group. On the other hand, urea reduction rates, rebound values of urea, creatinine, and potassium were similar in both groups. Conclusion:?In the study, we did not observe any changes in solute rebound and clearance with the exercise. Shorter duration of the exercise may be the explanation of failure to achieve desired outcomes. Increasing patients? tolerance and fitness levels by means of steadily increasing exercise programs may be of help. Additionally, mode of exercise may also be responsible for different outcomes.
+ER  - 
+
+TY  - JOUR
+AU  - Sridhar, N.
+AU  - Hurst, C.
+AU  - Hayes, P.
+TI  - Tandem dialyzers with dual monitors to meet Kt/V targets
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121w.x
+DO  - doi:10.1111/j.1492-7535.2005.1121w.x
+SP  - 78
+EP  - 78
+PY  - 2005
+AB  - Objective:? A large body mass and/or a poorly functioning vascular access predispose to inadequate Kt/V. Double dialyzers in parallel and tandem have been shown to enhance Kt/V to levels recommended by K/DOQI. We experienced difficulties with unintended excessive ultrafitration (UF), positive transmembrane pressure (TMP)-triggered pump stoppage, need for large volume saline infusion (inflating Kt/V), and a high incidence of clotting of the second dialyzer in tandem. Since blood and dialysate flow rates are higher in the tandem configuration, Kt/V should be theoretically higher. We developed a technique of using the tandem configuration with two monitors in which all the UF could be limited to the second dialyzer, the TMP of the two dialyzers independently controlled, TMP reversal eliminated, and saline infusion and unintended UF minimized. Methods:?3 large male patients with AV grafts (AVG) and 2 with tunneled catheters (TC) had 7 treatments (with Kt/V and URR calculated using the stop-flow technique in the last 5) sessions of each of single, double parallel, and tandem configurations. Blood (Qb) and dialysate-flow (Qd) were halved with Y-connectors in the parallel configuration. Qb through both dialyzers and Qd through the second were controlled with the first monitor and Qd (TMP set to near zero) through the first dialyzer controlled with the second monitor using recirculating saline through its blood pump (with the ?venous? pressure adjusted using an air-filled syringe) in the tandem configuration. The patient's blood did not circulate through the blood-pump of the first machine. Qd was 500?ml/min through each dialyzer in the single and tandem and 250?ml/min in the parallel configurations. Processed blood volume (dialysis time) was exactly 85?L with AVG and 60?L with TC. Heparin dosage was constant. ANOVA, 2???k tables, and Neuman-Keuls test were used in analyzing data. Results:?Mean Kt/V (%URR) increased from 1.15 (62) with single to 1.35 (68) with parallel (p?<?0.02) and 1.48 (71) with tandem (p?<?0.001) dialyzers in patients with AVG but not TC [1.05 (58), 1.02 (55), and 1.25 (64) with single, parallel, and tandem, respectively]. Tandem dialyzers met targets for URR (p?<?0.001) and Kt/V ( p?<?0.05) more frequently than parallel with AVG but not TC. Conclusions:?Tandem dialyzers with 2 monitors are more successful than parallel dialyzers in delivering target Kt/V and URR when Qb is not compromised.
+ER  - 
+
+TY  - JOUR
+AU  - Eloot, S.
+AU  - De Vos, J.Y.
+AU  - Hombrouckx, R.
+AU  - Verdonck, P.
+TI  - Impact of flow and surface area on middle molecule clearance
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121x.x
+DO  - doi:10.1111/j.1492-7535.2005.1121x.x
+SP  - 78
+EP  - 79
+PY  - 2005
+AB  - Urea is still clinically applied as standard marker to quantify dialysis adequacy. The removal of middle molecules has however been proven in some studies to have a long-term effect on mortality. Therefore, the present study is aimed at investigating the impact of blood and dialysate flow, and membrane surface area on middle molecule removal in low flux Fresenius F6HPS dialyzers. Blood and dialysate flows were varied within the clinical range of 300?500?mL/min and 500?800?mL/min, respectively, while ultrafiltration rate was kept constant at 0.1?L/h. Single pass tests were performed in vitro in a single dialyzer (3 tests) and in serially (5 tests) and parallel (3 tests) connected dialyzers. The blood substitution fluid consisted of bicarbonate dialysate in which radioactive labeled vitamin B12 (MW1355) was dissolved. Middle molecule concentrations of samples taken at the inlet and outlet blood line were derived from radioactivity measurements and were applied to calculate the dialyzer clearance as well as the reduction ratio. For the latter, the surrogate middle molecule vitamin B12 was assumed as distributed according to a two-pool kinetic model. Adding a second dialyzer in series or parallel ameliorates significantly overall dialyzer clearance and reduction ratio, except for the highest applied blood flow rate of 500?mL/min. Better solute removal is also obtained with higher dialysate flows, while the use of higher blood flows seemed only advantageous when using a single dialyzer. Analysis of the ultrafiltration profiles in the different configurations illustrated that enhancing the internal filtration rate ameliorates the convective transport of middle molecules. In conclusion, adequate solute removal results from a number of interactions, as there are, blood and dialysate flow rates, membrane surface area, filtration profile, and concentration profiles in the blood and dialysate compartment.
+ER  - 
+
+TY  - JOUR
+AU  - Eloot, S.
+AU  - De Vos, J.Y.
+AU  - Hombrouckx, R.
+AU  - Verdonck, P.
+TI  - Clearance of small molecules in different dialyzer flow configurations
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121aa.x
+DO  - doi:10.1111/j.1492-7535.2005.1121aa.x
+SP  - 79
+EP  - 80
+PY  - 2005
+AB  - To overcome problems of insufficient clearance, multiple dialyzers may be placed in series or in parallel. The present study aimed to investigate in vitro the overall clearance of small molecules in different dialyzer configurations in which mutual flow directions were changed. Single pass tests were performed with low flux Fresenius F6HPS dialyzers placed in series (12 tests), in parallel (6) and in single use (2). As blood substitute, either high concentrated (45?mS) bicarbonate dialysate (AB solution ? MW20-180) or a trisodiumphosphate (Na3PO4? MW395) concentration (30?mS) was used. Standard blood and dialysate flows of 250 and 500?mL/min, respectively, were applied. Furthermore, clearance was derived from conductivity measurements in the inlet and outlet bloodline, correcting for the overall ultrafiltration rate of 0.5?L/h (AB) and 0.1?L/h (Na3PO4). Compared to the standard setup using a single dialyzer with counter current flows, clearance increases by 3 to 8%(AB) and by 15 to 18%(Na3PO4) using two dialyzers in parallel and in series, respectively. With co-current flows in a serial dialyzer set up, clearance increases by 16%(AB) and 22%(Na3PO4) compared to the single dialyzer use. Changing subsequently the counter current flows to co-current in one and both dialyzers in series, the overall clearance decreases by 2 to 9%, respectively, for the AB solution, and by 8 to 15% for the Na3PO4 concentration. With respect to the parallel dialyzer setup, a split dialysate flow (250?mL/min in each dialyzer) counter current to the blood flow, increases the clearance by 4 and 12%, respectively. In conclusion, overall clearance is most ameliorated using two dialyzers in series with counter current flows.
+ER  - 
+
+TY  - JOUR
+AU  - Sav, T.
+AU  - Tokgoz, B
+AU  - Sipahioglu, M.H
+AU  - Mavili, E
+AU  - Oymak, O
+AU  - Utas, C.
+TI  - Extrapulmonary tuberculosis with multiple localizations in a patient with end-stage renal disease
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121am.x
+DO  - doi:10.1111/j.1492-7535.2005.1121am.x
+SP  - 84
+EP  - 84
+PY  - 2005
+AB  - The incidence of active tuberculosis among patients on long- term dialysis is higher than the rate in the general population. Case:?39-year-old male patient with ESRD was admitted to hospital with dyspnea, weight loss, cough without sputum and hemoptysis, and a palpable painless mass under the right areola. He was on maintenance hemodialysis three times a week for the last six months. PPD was negative. Chest X-ray examination revealed a hyperdense lesion. On the computerized tomography a cystic mass at the inferior lobe superior segment near the thorasic vertebra was detected. Fine needle aspiration from each of the mass lesions revealed granulomas and acido-resistant bacteria. Anti-tuberculous therapy was initiated. After eight months he came back with paraplegia. Magnetic resonance imaging (MRI) revealed that the lesion which previously has been described by CT was extending to the spinal duct and pressing on the spinal cord. After a biopsy, granuloma was seen; however, mycobacterium tuberculosis did not grow in the culture. Discussion:?Extrapulmonary tuberculosis is common in patients with ESRD. In the present case we established that the patient who presented a mass on the chest wall without pulmonary tuberculosis findings had indeed a tuberculous cavity mass. It is interesting to note that in this case this mass had no relationship to the tuberculous cavity in the lung tissue. Moreover, it is also interesting that paraspinal lesion occured during the period in which the patient was under treatment and it quickly progressed and led to paraplegia. Tissue biopsy with invasive procedures may be necessary. Thus, in areas with a high prevalence of tuberculosis, renal patients in high-risk group (renal transplant recipients, hemodialysis and CAPD patients) should be examined periodically to exclude silent infection and reduce morbidity and mortality.
+ER  - 
+
+TY  - JOUR
+AU  - Samaai, R.,
+AU  - Uys, H.
+TI  - Morbidity and mortality: Profile of patients on renal replacement therapy in the private sector
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121az.x
+DO  - doi:10.1111/j.1492-7535.2005.1121az.x
+SP  - 88
+EP  - 89
+PY  - 2005
+AB  - Introduction:? The aim of renal replacement therapy (RRT) is to achieve a reduction in morbid events and improve quality of life (QOL). Mortality means the condition of being subject to death. Morbidity is anything that is abnormal, atypical, exceptional, and/or aberrant. Morbidity usually occurs as a result of a treatment (side effects), when treatment is inappropriate or inadequate. Predictors that may be risk factors for mortality and morbidity in dialysis patients can be divided into patient-related and treatment-related categories (Khan, 2000:11). Purpose of the study:?The purpose of this retrospective study was to determine the morbidity and mortality profile of patients receiving RRT in the private sector. Research design and method:?This study was contextual and descriptive in nature, based on case analysis of patients receiving RRT in private dialysis facilities. A checklist was used that made provisions to record all patient- and treatment- related factors that might influence mortality and morbidity profiles of the target population. The target population included all hemodialysis and peritoneal dialysis patients receiving treatment in private dialysis facilities of a specific company. Results:?The results indicated the following factors have an influence on patient morbidity and mortality: ?? Patient related: Age, comorbid situations such as peripheral vascular, cerebrovascular, and cardiovascular disease and also diabetes mellitus. ?? Treatment related: Referral pattern, nutritional status, dialysis adequacy, anaemia, and blood pressure.
+ER  - 
+
+TY  - JOUR
+AU  - Kannaiyan, R.S.
+TI  - Extracorporeal RRT modalities: A systemic review
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121bd.x
+DO  - doi:10.1111/j.1492-7535.2005.1121bd.x
+SP  - 90
+EP  - 90
+PY  - 2005
+AB  - Objective:? Hemodialysis (HD), hemofiltration (HF), hemodiafiltration (HDF), and acetate free biofiltration (AFB) are renal replacement therapy (RRT) methods in which impurities are removed from the blood extracorporeally. It has been suggested that HF, HDF, and AFB may have fewer cardiovascular side-effects than HD and may reduce incidence of dialysis-related amyloid- associated complications due to more effective removal of ?2-microglobulin. Methods:?We performed a systematic review of randomized controlled trials (RCTs) comparing these RRT modalities. Out of 1672 abstracts identified by searching MEDLINE, EMBASE, and Cochrane Controlled Trials Registry, 18 trials (588 patients) were included. Our comparisons were convective modalities (HF/HDF/AFB) vs HD (16 trials); HDF/AFB vs HF (no trials); and HDF vs AFB (2 trials). Data were extracted by two reviewers independently on mortality, hypotension episodes, dialysis sessions associated with ?adverse symptoms?(headache, nausea, and vomiting), hospital admissions, adequacy of dialysis, number of patients with amyloid related complications, ?2-microglobulin removal, and quality of life (QOL). Results:?No significant difference was found with regards to mortality, hospitalization, dialysis-related hypotension, dialysis-related symptoms, Kt/V, predialysis ?2-microglobulin values between convective modalities (HF/HDF/AFB) and HD, and HDF and AFB. Quality of life was assessed only in two studies comparing HF/HDF/AFB and HD. One study that used an unvalidated scoring tool showed that patients on convective modalities scored significantly better than those on HD; whereas, another study using a validated scoring system, the Kidney Diseases Questionnaire, failed to show significant differences between the two groups. Conclusions:?While this review summarized the best available evidence, it is based on very few trials. The trials included in this review are small and are therefore inadequately powered to detect differences between effects of the relevant treatments. Overall, HF, HDF, and AFB have not been shown to have significant advantage over HD with regard to clinically important outcomes of mortality, dialysis-related hypotension and manifestations of dialysis-related amyloidosis, and therefore, it is not possible to recommend the use of one modality in preference to the other.
+ER  - 
+
+TY  - JOUR
+AU  - Akman, B.
+AU  - Colak, T.
+AU  - Ibis, A.
+AU  - Arat, Z.
+AU  - Ozdemir, F.N
+AU  - Haberal, M.
+TI  - Compliance, quality of life, and contributing factors in renal transplantation waiting list patients
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121bq.x
+DO  - doi:10.1111/j.1492-7535.2005.1121bq.x
+SP  - 95
+EP  - 95
+PY  - 2005
+AB  - Poor patient compliance is common during dialysis therapy. We aimed to study incidence of noncompliance, contributing factors, and effects on quality of life (QOL) among cadaveric renal transplantation waiting list patients. We included 86 renal transplantation waiting list patients (56M/30F). Dialysis duration, previous renal transplantation history, comorbid conditions, interdialytic weight gain, predialysis BUN, creatinine, potassium, and phosphate were recorded. Noncompliance criteria were skipping >1 dialysis session or shortening a dialysis session>10?min in 1 month, interdialytic weight gain>5.7% of body weight, predialysis serum potassium >6?mEq/L, and phosphate level >7.5?mg/dl. There were 49 noncompliant (age: 46.8?±?21.8 years, HD duration: 83.9?±?48.7 months) and 37 compliant (age: 42.8?±?12.1 years, HD duration: 96.5?±?45.2 months) patients. QOL was evaluated by short form 36 and depression levels by Beck Depression Inventory. Previous renal transplantation was present in 24.4% and comorbid diseases in 31.3% of all patients. In depressed patients, 77.8% had comorbid diseases. No difference was found between the groups considering age, gender, dialysis duration, previous transplantation history, and comorbid diseases (p?>?0.05). Noncompliant patients had lower QOL (p?<?0.04). Noncompliant patients had higher degree of depression (p?=?0.01). QOL and Beck scores were negatively correlated (p?=?0.001, r?=??0.561). Noncompliance to diet and dialysis therapy is associated with depression, which further decreases QOL in renal transplantation waiting list patients. Early diagnosis of depression, is possible by monitoring noncompliance, and therapeutic intervention may benefit during the transplantation-waiting period.
+ER  - 
+
+TY  - JOUR
+AU  - Hakkarainen, P.
+AU  - Kapanen, S.
+AU  - Honkanen, E.
+AU  - Löflund, E.
+TI  - Long slow night hemodialysis and quality of life
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121bw.x
+DO  - doi:10.1111/j.1492-7535.2005.1121bw.x
+SP  - 97
+EP  - 97
+PY  - 2005
+AB  - Background:? Long slow hemodialysis (LS-HD) improves many biochemical parameters compared with conventional HD. However, its influences on quality of life are less well known. Aims:?The objective of this study was to examine the quality of life of patients on LS-HD performed overnight compared to the patients on standard hemodialysis. This extends the previous study, conducted in 2001, which examined the LS-HD patients, quality of life. Patients and methods:?We sent questionnaires to 12 LS-HD (overnight, treatment time 8?h???3/wk) patients and 15 day HD (4.5?h???3/wk) patients, all being treated using the limited care method. Data was collected using two different structured questionnaires. One was constructed for a previous study (2001) and the other one was a standardized set of questionnaires (RAND-36). Research material was collected from patient documents, such as the essential biochemical parameters, blood pressure, weight gain, and weekly EPO doses were recorded. Ten of the LS-HD patients (83%) and 13/15 (87%) of day HD patients returned the questionnaires. Three day hemodialysis patients returned empty questionnaires, which were disqualified. Results:?Based on the medical facts, the results showed that the patients of LS-HD felt better than the patients in another group. Patients on the LS-HD had higher Kt/V (2.623 vs. 1.577) and Hb (118 vs. 111) and lower Pi (1.36 vs. 1.63) and EPO dose (epoietin-beta 2667?ky/week vs. 5833?ky/week; darbepoetin 16?ky/week vs. 37?ky/week). However, their predialysis BP as well as the weight gain between treatments and salt and fluid balances caused problems furthermore. The experiences of the therapy of the LS-HD patients were more positive than of the control group: they felt their medical condition was better than of the patients on day HD. However we didn?t observe significant differences in the replies showing physical or psychosocial conditions between the two groups. Conclusions:?The study suggests that when patients can themselves make the choice between treatment modalities, it improves the quality of life of the patients. Control of anemia is improved in LS-HD overnight patients with lower doses of EPO. The LS-HD gives the patients more freedom of diet. However, more attention must be paid to salt and fluid restriction. The LS-HD makes it possible for many patients to work normally.
+ER  - 
+
+TY  - JOUR
+AU  - Redman, N.
+AU  - Schweon, S.
+AU  - Tokars, J.
+AU  - Jahre, J.
+TI  - Effective interventions with chlorhexidine gluconate (CHG) to decrease hemodialysis (HD) tunneled catheter-related infections
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121f.x
+DO  - doi:10.1111/j.1492-7535.2005.1121f.x
+SP  - 72
+EP  - 73
+PY  - 2005
+AB  - Purpose:? Identify practices to reduce HD catheter access related bacteremias (ARB). Methods:?Data was collected per the CDC Dialysis Surveillance Network protocol. ARB was defined as a patient with a positive blood culture with no apparent source other than the vascular access catheter. ARB's were calculated in events per 100 patient months with 3 cohorts. Cohort 1 was observed for 12 months, Cohort 2 for the subsequent 10 months, and Cohort 3 for the final 10 months. Cohort 1 had weekly transparent dressing changes, cleansing of the skin and 5 minute soaking of the connection lines with 10% povidone-iodine (PI) solution, and HCW use of clean gloves and face shield without a mask. Cohort 2 changes consisted of thrice weekly gauze dressing changes, skin cleansing with ChloraPrep, a 2% CHG/70% isopropyl alcohol applicator, masks on the patients, adding a face mask to the shield, and application of 10% PI ointment to the exit site. Cohort 3 changes included weekly application of BioPatch (BioP), an antimicrobial dressing with CHG, sterile glove use, and replacing the PI line soaks with 4% CHG. Results:?The catheter-associated ARB rate per 100 patient months was 7.9 (17ARB/216 patient months) in Cohort 1, 8.6 (13/151) in Cohort 2, and 4.7 (5/107) in Cohort 3(p?=?0.31 compared with Cohorts 1 and 2 combined). During the last 2 months, in Cohort 3, 9 catheter lumen cracks occurred, with one of the patients having a bacteremia. Conclusions:?Addition of CHG line soaks and BioP reduced tunneled catheter infections, although this is not statistically significant. The increased number of catheter lumen cracks raises concern with the use of CHG line soaks. Further investigation with use of CHG line soaks and the BioP for decreasing ARB is needed.
+ER  - 
+
+TY  - JOUR
+AU  - Eloot, S.
+AU  - Vierendeels, J.
+AU  - Verdonck, P.
+TI  - Impact of geometrical fiber dimensions on dialyzer efficiency
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121y.x
+DO  - doi:10.1111/j.1492-7535.2005.1121y.x
+SP  - 79
+EP  - 79
+PY  - 2005
+AB  - While dialyzer manufacturers only provide information about their products as a black box, this study aimed at optimizing dialyzer geometry by looking in detail at transport processes and fluid properties inside the dialyzer using numerical modeling. A three-dimensional computer model of a single hollow fiber with its surrounding membrane and dialysate compartment was developed. Different equations govern blood and dialysate flow (Navier-Stokes), radial filtration flow (Darcy), and solute transport (convection-diffusion). Blood was modeled as a non- Newtonian fluid with a viscosity varying in radial and axial direction because of the influence of local hematocrit, diameter of the capillaries, and local shear rate. Dialysate flow was assumed as an incompressible, laminar Newtonian flow with a constant viscosity. The permeability characteristics of the asymmetrical polysulphone membrane were calculated from laboratory tests for forward and backfiltration. The influence of the oncotic pressure induced by the plasma proteins was implemented as well as the reduction of the overall permeability caused by the adhesion of a protein layer on the membrane. Urea (MW60) was used as a marker to simulate small molecule removal, while middle molecule transport was modeled using vitamin B12 (MW1355) and inulin (MW5200). The corresponding diffusion coefficients were determined by counting for the fluid and membrane characteristics. Fiber diameter and length were changed in a wide range for evaluation of solute removal efficiency. The presented model allowed us to investigate the impact of flow, hematocrit, and capillary dimensions on the presence and localization of backfiltration. Furthermore, mass transfer was found enhanced for increased fiber lengths and/or smaller diameters, most pronounced for the middle molecules compared to urea.
+ER  - 
+
+TY  - JOUR
+AU  - Barril, G.
+AU  - Castillo, I
+AU  - Arenas, D.
+AU  - Rodriguez-Inigo, E.
+AU  - Espinosa, M.
+AU  - Garcia Valdecases, J.
+AU  - Selgas, R.
+AU  - Carreno, V.
+TI  - High frequency of occult HCV infection in HD patients
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121aj.x
+DO  - doi:10.1111/j.1492-7535.2005.1121aj.x
+SP  - 83
+EP  - 83
+PY  - 2005
+AB  - Occult HCV infection in liver and peripheral blood mononuclear cells (PBMC) of patients with cryptogenic chronic hepatitis (anti-HCV, serum HCV RNA negative) and no renal diseases, has been reported (1). In this work we studied the existence of occult HCV infection in PBMC of HD patients. Inclusion criteria: high ALT (>28?IU/l) and/or gamma-GPT levels, negative serological HCV and HBV markers (anti-HCV, serum HCV-RNA and HBsAg negative), and exclusion of other causes of liver damage. Four Spanish HD units participated in the study and 40 patients were enrolled; 40 (25 males) fulfilled the inclusion criteria. HCV-RNA in PBMC was tested by RT-PCR and by in situ hybridization. Occult HCV infection was found in 24/40 (60%) patients by RT-PCR and all cases were confirmed by in situ hybridization. No differences were found regarding gender, etiology of renal disease, or fluctuant or persistent abnormal liver enzymes values. Among patients with occult HCV infection, 4/24 (16.7%) had only increased ALT levels; 7/24 (29.2.%) GGTP values; and both enzymes were elevated in 13/24 (54.2%). In our population, 60% HD patients with persistent or fluctuant ALT and/or GGTP values of unknown etiology and negative for serological viral markers (including serum HCV-RNA) have an occult HCV infection in PBMC and these patients could be potentially infectious. (1)J Infect Dis 2004;189: 7?14.
+ER  - 
+
+TY  - JOUR
+AU  - Bibb, J.
+AU  - Servilla, K.S.
+AU  - Tzamaloukas, A.H.
+TI  - Clinical and laboratory variables in Type 2 diabetic men with renal failure before and after initiation of hemodialysis
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121bh.x
+DO  - doi:10.1111/j.1492-7535.2005.1121bh.x
+SP  - 92
+EP  - 92
+PY  - 2005
+AB  - Control of certain clinical and laboratory parameters affects morbidity and mortality of type 2 diabetic patients with chronic renal failure (CRF) both before and after initiation of hemodialysis (HD). To identify areas and stage of renal failure where control of these critical variables needs improvement, we compared important clinical and laboratory parameters 6 months before (PRE) and 6 months after starting HD (POST) in 43 type 2 diabetic men with CRF, who were 69.3?±?10.7 years old at HD initiation. Differences, all at p?≤?0.05, were found in blood pressure, in mm Hg, at the physician's office, both systolic (PRE 154?±?16, POST 138?±?18) and diastolic (PRE 77?±?13, POST 69?±?11), serum cholesterol in mg/dL (PRE 206?±?61, POST 159?±?40), and serum creatinine in mg/dL (PRE 4.1?±?1.3, POST 7.0?±?1.8), while no differences were noted in blood hematocrit (PRE 36?±?7%, POST 34?±?9%), blood glycosylated hemoglobin (PRE 7.4?±?1.7%, POST 6.9?±?2.3%), serum glucose in mg/dL (PRE 151?±?67, POST 184?±?94), serum phosphorus in mg/dL (PRE 4.5?±?0.8, POST 4.6?±?1.5), serum calcium in mg/dL (PRE 8.7?±?0.5, POST 8.5?±?1.4), and serum albumin in g/dL (PRE 3.2?±?0.5, POST 3.4?±?0.6). Compared to the POST category, significantly (p?≤?0.05) higher percentages were found in the PRE category for systolic blood pressure >150?mm Hg (PRE 58.8%, POST 26.5%), blood glycosylated hemoglobin >8%(PRE 33.3%, POST 13.3%), serum cholesterol >200?mg/dL (PRE 48.4%, POST 19.4%). A lower percentage was found in the PRE category for serum phosphorus >5.5?mg/dL (PRE 13.2%, POST 31.6%), while the corresponding percentages for serum albumin <3.0?g/dL (PRE 21.6%, POST 18.9%) and serum calcium <8?mg/dL (PRE 7.9%, POST 13.2%) did not differ. In patients with type 2 diabetes mellitus and renal failure, control of blood pressure, glycemia, and serum lipids appears to be better; whereas, control of serum phosphorus is worse in the first year after starting chronic hemodialysis than in the preceding year. There is room for improvement, both before and after hemodialysis initiation, in the control of these variables, which affect the clinical outcomes of hemodialysis.
+ER  - 
+
+TY  - JOUR
+AU  - Riitta, M.-K.
+AU  - Meeri, K.
+AU  - Jyrki, H.
+AU  - Tuukka, T.
+AU  - Hannu, A.
+AU  - Eero, H.
+TI  - External gamma radiation caused by radon in water used for home haemodialysis (HHD)
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121bv.x
+DO  - doi:10.1111/j.1492-7535.2005.1121bv.x
+SP  - 97
+EP  - 97
+PY  - 2005
+AB  - Background:? Radon is a natural radioactive element found especially in drilled water wells. It may cause problems in HHD. In this study the occurrence and prevention of radiation exposure to radon among HHD patients was examined. Material and methods:?Since 1998, 103 patients have been trained for HHD and drilled wells were used in 7 patients. Apart from routine analyses, radon concentration was also determined. Results:?High radon concentration was observed in three drilled wells, in one of these 2000?Bq/L. Water was conducted into the HHD-equipment through a charcoal filter and reverse osmosis equipment. Radon concentration was less than 50?Bq/L in the purified water. It was thus considered acceptable for dialysis. As the charcoal filter adsorbs radon, its decay products build up in the filter and emit gamma radiation. Considering that the daily through-put of water is about 375 liters, the estimated dose rate for a radon concentration of 1,000?Bq/L is 0.4?microSv/h at one-meter distance. At this distance the annual dose would be 1.8?mSv, expecting a daily occupancy time of 12 hours. The average background gamma dose rate in Finnish dwellings is 0.1?microSv/h. National dose constraints of 3?mSv/year for adults and 1?mSv/year for children living in HHD-households have been recommended. Conclusions: Waterborne radon must be considered when planning of HHD in households where drilled wells are used. Elevated radon concentration should always be removed from household water. In addition, external gamma radiation from charcoal filters requires appropriate restrictions in order to achieve a safe treatment.
+ER  - 
+
+TY  - JOUR
+AU  - R.Z., Ismagilov
+AU  - T.A., Bapiev
+AU  - A.K., Zainalov
+AU  - T.B., Shynybaev
+AU  - T.I., Rahimbekov
+AU  - A.N., Syzganov‘s
+TI  - Experience of application maxipimi at patients with a terminal stage chronic renal insufficiency at allotransplantation of a kidney
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121cj.x
+DO  - doi:10.1111/j.1492-7535.2005.1121cj.x
+SP  - 102
+EP  - 102
+PY  - 2005
+AB  - The analysis of infectious complications in patients after allotransplantation of a donor kidney. For the dynamic analysis of frequency of infection-purulent complications, all patients were divided into 2 groups. The first, control group included 33 patients who were operated from 2000 to 2002 (men-21, women-12, adults-28, children-5). The second, basic group included 35 patients (men-22 and women-13, adult-28, children-7), after allotransplantations, which have transferred operation?transplantations of kidney with 2003 on 2004. In the first group purulent?septic complications were marked at 9 patients (27.2%), from them two (6%) have died of a sepsis on a background of antibacterial therapy (cephalosporini 3 generations). Duration of treatment made from 7 up to 15 days. In the second group in the postoperative period purulent ? septic complications were marked at 5 of 35 patients (14,2%). All 35 patients in the second group after allotransplantation of a donor kidney carried out preventive antibacterial therapy maxipimi (cephalosporini IV generations) on dosage 1 gram 2 times per day in a combination with amykini intravenously during 7 days. Cases of development of sepsis in this group of patients were not observed. Thus, estimating the received results, it is possible to draw the conclusion, application of antibiotics of a wide spectrum (cephalosporini IV generations) the patient with a terminal stage chronic renal insufficiency after allotransplantation of a donor kidney were lowered with quantity of suppurations of postoperative wounds and occurrence of infectious complications on 13%.
+ER  - 
+
+TY  - JOUR
+AU  - Kim, Y.O.
+AU  - Song, W.J.
+AU  - Park, J.A.
+AU  - Yoon, S.A.
+AU  - Kim, Y.S.
+AU  - Chang, Y.S.
+AU  - Bang, B.K.
+TI  - The effect of dialysis needle size on hemodialysis adequacy
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121o.x
+DO  - doi:10.1111/j.1492-7535.2005.1121o.x
+SP  - 76
+EP  - 76
+PY  - 2005
+AB  - Objective:? Dialysis adequacy indexed by Kt/V in hemodialysis (HD) patients is recommended as a single pool Kt/V at least 1.2 per session thrice weekly. But many patients cannot achieve this adequacy target. Although dialysis time is the most important factor influencing Kt/V, it is difficult to prolong dialysis time in practice because of its economic impact and poor patient compliance. This study was performed to investigate the effect of increasing dialysis needle size on dialysis adequacy in HD patients. Methods:?This study enrolled 73 patients receiving HD thrice weekly for more than 3 months with arteriovenous fistula (AVF) or graft in a single center. Dialysis blood flow rate was 200?ml/min in 12 patients, 250?ml/min in 32 patients, and 300?ml/min in 29 patients. Surface area of dialyzer was 1.2?m2 in 56 patients and 1.6?m2 in 17 patients. We first performed HD using a 16-gauge needle. Then we increased needle size up to 15-gauge without change of any other dialysis conditions such as blood and dialysate flow rates, dialysis time, or distance between needle insertion sites. We compared compression time after removing the needles, venous dialysis pressure (VDP), Kt/V, and urea reduction ratio (URR) between these two methods. Results:?The mean age was 54?±?13 years and the number of patients with diabetes mellitus was 27 (37%). Fifty-eight patients (79.5%) have native AVF. Mean Kt/V at HD method using a 15-gauge needle was higher than at HD method using a 16-gauge needle (1.30?±?0.18 vs. 1.23?± 0.18, p?<?0.001). URR at HD method using a 15-gauge needle was also higher than at HD method using a 16-gauge needle. In contrast, VDP at HD method using a 15-gauge needle was lower than at HD method using a 16-gauge needle (88?±?22?mmHg vs. 118?±?28?mmHg, p?<?0.001). There was no difference in compression time between the two methods. Conclusion:?This study suggests that increasing dialysis needle size is a safe and effective method in improving dialysis adequacy without increasing blood flow rate or dialysis time.
+ER  - 
+
+TY  - JOUR
+AU  - Sakaji, I.
+AU  - Kasahara, M.
+AU  - Ishida, Y.
+AU  - Yoshikawa, M.
+AU  - Nitta, T.
+AU  - Matsushima, Y.
+AU  - Iwatani, Y.
+AU  - Yoshimoto, A.
+AU  - Suzuki, T.
+TI  - A case of plasma component exchange using membrane plasma separator EVACURE™
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121q.x
+DO  - doi:10.1111/j.1492-7535.2005.1121q.x
+SP  - 76
+EP  - 76
+PY  - 2005
+AB  - Objective:? We report a patient with urosepsis, Lleptospira syndrome, TTP-HUS syndrome, fulminant hepatic failure, vasculitis syndrome and TSS treated with plasma component exchange. Methods:?Conditions for plasma component exchange were membrane plasma separator (Evacure EC-3A), substitute fluid (3?% albumin solution), blood flow rate (150?mL/min), filtration rate (30?mL/min), quantity of substitute fluid (4,600?mL) and anticoagulant (nafamostat mesilate 30?mg/hr). Result: Plasma component exchange in combination with hemodiafiltration induced a rapid remission of both hepatic toxicity and renal failure caused by streptococcal sepsis. Membrane plasma separator evacure EC-3A allowed the use of 3% albumin solution as substitute fluid. Colloid osmotic pressure temporarily increased after the treatment, but within 24 hours, returned to the same level as before the treatment. Conclusion:?Plasma component exchange using a membrane plasma separator may allow the use of albumin instead of fresh frozen plasma (FFP) as substitute fluid, which results in a lower risk of infection.
+ER  - 
+
+TY  - JOUR
+AU  - Reid, A.B.
+AU  - Mahadevan, K.
+AU  - Agar, J.W.M
+TI  - Beta-2-Microglobulin in nocturnal hemodialysis – A comparative study in low and high flux dialysers
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121ag.x
+DO  - doi:10.1111/j.1492-7535.2005.1121ag.x
+SP  - 82
+EP  - 82
+PY  - 2005
+AB  - In end-stage renal failure, impaired renal catabolism leads to retention of beta 2 microglobulin (ß2M), identified as the major constituent of hemodialysis (HD) related amyloidosis. It has been previously shown that, while using a high flux (HF) HD membrane, nocturnal hemodialysis (NHD) with its increased time and frequency provides a much higher clearance of ß2M compared to conventional HD. We compared serum ß2M levels between low flux (LF) and HF in a group of 9 NHD patients who dialyse 8 hours 6 nights/week. Fresenius polysulfone LF membrane size F6-F8 HPS dialyser were used for the first 15 months (mth) of NHD (SA 1.3?1.8?m2). Subsequently, polysulfone HF FX80 dialyzer were used (SA 1.8?m2). Blood flow and dialysate flow rates were unchanged throughout the study. ß2M levels were measured at 6, 12, 15?mth on LF and at 6, 12?mth on HF. Albumin, homocysteine (Hcy), and phosphate (Phos) levels were also recorded at these times. ß2M levels trended upwards during the 15?mth on LF (36.6?±?10.57 at 6?mth vs 47.1?±?11.7 at 15?mth). On introduction of HF, there was a significant fall in ß2M at 6?mth to 12.4?±?3.5 (p?<?0.003), while ß2M levels were unchanged at 12?mth of HF. A downward trend in Hcy levels with the use of HF was noted (12.9?±?2.9 at 0?mth Vs 11.1?±?3.7 at 12?mth). Plasma albumin and Phos levels remained unchanged as did the use of Phos supplementation. Levels of ß2M continued to rise on NHD with LF, indicating inadequate clearance. With the introduction of HF there was a significant fall in ß2M levels consistent with improved clearance. The implications of this are that ß2M clearance may be time and frequency dependent only if dialyser membrane flux is adequate.
+ER  - 
+
+TY  - JOUR
+AU  - Wald, R.
+AU  - Deshpande, R.
+AU  - Bell, C.M.
+AU  - Bargman, J.M.
+TI  - Survival to discharge among patients treated with CRRT
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121au.x
+DO  - doi:10.1111/j.1492-7535.2005.1121au.x
+SP  - 87
+EP  - 87
+PY  - 2005
+AB  - Continuous renal replacement therapy (CRRT) is widely used in critically ill patients with acute renal failure (ARF). The survival of patients who require CRRT and the factors predicting their outcomes are not well defined. We sought to identify clinical features to predict survival in patients treated with CRRT. We reviewed the charts of all patients who received CRRT at the Toronto General Hospital during the year 2002. Our cohort (n?=?85) represented 97% of patients treated with this modality in 3 critical care units. We identified demographic variables, underlying diagnoses, transplantation status, location (medical-surgical, coronary or cardiovascular surgery intensive care units), CRRT duration, baseline creatinine clearance (CrCl), and presence of oliguria (<400?ml/d) on the day of CRRT initiation. The principal outcome was survival to hospital discharge. Among those alive at discharge, we assessed whether there was an ongoing need for renal replacement therapy. Greater than one-third (38%, 32/85) of patients survived to hospital discharge. Three (9%) of the survivors remained dialysis-dependent at the time of discharge. Survivors were younger than non-survivors (mean age 56 vs 60?y.), were on CRRT for a shorter duration (7 vs 13?d.), and had a higher baseline CrCl (79 vs 68?ml/min). Patient survival varied among different critical care units (medical surgical 33%, coronary 38%, and cardiovascular surgery 45%). Multivariable logistic regression revealed that shorter duration of CRRT, non-oliguria, and baseline CrCl?>?60?ml/min were independently associated with survival to hospital discharge (p?<?0.05). Critically ill patients with ARF who require CRRT continue to have high in-hospital mortality. A shorter period of CRRT dependence, non-oliguria, and higher baseline renal function may predict a more favorable prognosis. The majority of CRRT patients who survive their critical illness are independent from dialysis at the time of hospital discharge.
+ER  - 
+
+TY  - JOUR
+AU  - Concepcion, L.A.
+TI  - Death in dialysis
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121aw.x
+DO  - doi:10.1111/j.1492-7535.2005.1121aw.x
+SP  - 87
+EP  - 88
+PY  - 2005
+AB  - Purpose:? To analyze all patients who died while on hemodialysis from a single institution 1995?2004 and determine factors that influence duration on HD (months). Material and Methods: Review of the EMR from the dialysis unit for demographics, treatment parameters, cause of death, laboratory data. Two main groups those who stop dialysis (SHD) vs non stop dialysis (NSHD) data as mean and SD. Observations done at the start/mid/end of the period on dialysis by Kaplan Meier analysis. Results:?348 deaths, reported SMR for 2000?93(0.36,0.48,0.72,0.79), average comorbidity index 7.1?16.4; 49.1% male; age 67.6(12.3); 58.2% DM, 117(33.6%) stop dialysis. Detail analysis from 2000?2004; 187 deaths; 33.6% catheter, 41.1% AV graft at the time of death; 26% on no BP meds at the end, 64% 1?2 BP meds at the end. Cause Stop No Stop CV 33(28%) 145(62.7%) Infection 10(8.5%) ?41(17.7%) Other 74(63.5%) ?45(19.6%) Most SHD deaths due to uremia (60%), Cancer 17%, occurred 36% CVA. SHD vs NSHD: older 70.8 (12.9) vs 65.9(12.9) p?<?0.001. No difference in average months in dialysis 41.2 (38.9) vs 48.7(47.7)NS, in URR (start/end), UF during Hd, predialysis MAP (start/end: 105(15) 196(15)/95 (20)?, 96(20)) albumin, phosphorous. Lower creatinine (at the end 6.2(1.5) 7.4(2.4)) higher Kt/V at end 1.47(0.4) vs 1.29(0.3). BMI lower at star/mid/end of the observation period. Conclusions:?A large proportion of deaths were due to discontinuation of dialysis, older patient discontinue dialysis more frequently, the length of time on dialysis (months) is related more to nutritional factors (creatinine, BMI)
+ER  - 

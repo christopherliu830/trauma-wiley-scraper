@@ -1,0 +1,254 @@
+(multi)trauma, (AFP), 943
+(multi)trauma, (ARG1) , 0
+(multi)trauma, (ASS), 1800
+(multi)trauma, (ATL), 730
+(multi)trauma, (CcK18), 4
+(multi)trauma, (CD3), 2146
+(multi)trauma, (CD4) , 16
+(multi)trauma, (CD8) , 14
+(multi)trauma, (EST-1), 1269
+(multi)trauma, (HLA)-DR, 2880
+(multi)trauma, (KIM-1), 6701
+(multi)trauma, (LDH), 2229
+(multi)trauma, (MCSFR), 10
+(multi)trauma, (MDH), 108
+(multi)trauma, (MODS) , 7
+(multi)trauma, (NO) , 241
+(multi)trauma, (NT-proBNP), 334
+(multi)trauma, (PaCO2) , 7
+(multi)trauma, (PAF) , 3
+(multi)trauma, (PAI), 1864
+(multi)trauma, (PaO2), 951
+(multi)trauma, (PaO2) , 12
+(multi)trauma, (PCT), 1054
+(multi)trauma, (PMN), 1110
+(multi)trauma, (ROC), 3076
+(multi)trauma, (SCr), 941
+(multi)trauma, (TFF3), 40
+(multi)trauma, (TTL), 127
+(multi)trauma, (VEGF), 3157
+(multi)trauma, (VPA), 532
+(multi)trauma, (VTE), 897
+(multi)trauma, (WBC), 2634
+(multi)trauma, 4-hydroxy-phenylpyruvate dioxygenase (HPD), 0
+(multi)trauma, 5 nucleotidase, 2
+(multi)trauma, Abbreviated Injury Scale, 14
+(multi)trauma, Active T lymphocytes , 0
+(multi)trauma, Albumin, 5669
+(multi)trauma, ALP alkaline phosphatase, 0
+(multi)trauma, Alpha fetoprotein, 3
+(multi)trauma, alpha-glutathioneS-transferase , 0
+(multi)trauma, ALT alanine aminotransferase, 2
+(multi)trauma, Amylase, 1563
+(multi)trauma, 5 nucleotidase, 2
+(multi)trauma, Amyloid A, 4
+(multi)trauma, APACHE II, 25
+(multi)trauma, Area under the receiver operating characteristic curve, 5
+(multi)trauma, Arginase-1, 505
+(multi)trauma, argininosuccinate synthetase , 0
+(multi)trauma, Arterial partial pressure of carbon dioxide, 0
+(multi)trauma, Arterial partial pressure of oxygen , 1
+(multi)trauma, Arterial Ph, 1
+(multi)trauma, Arterial pressure, 19
+(multi)trauma, AST aspartate aminotransferase, 0
+(multi)trauma, AUC, 2947
+(multi)trauma, AUROCs, 328
+(multi)trauma, B lymphocytes, 7
+(multi)trauma, Bilirubin , 20
+(multi)trauma, Biochemical, 10713
+(multi)trauma, Biochemical marker, 4
+(multi)trauma, Biochemical panel, 1
+(multi)trauma, Biochemical parameters, 14
+(multi)trauma, Biomarker panel, 3
+(multi)trauma, Biomarkers, 5220
+(multi)trauma, Blood pressure, 64
+(multi)trauma, Blood urine nitrogen, 0
+(multi)trauma, BNP, 898
+(multi)trauma, BUN , 8
+(multi)trauma, C3 complement, 0
+(multi)trauma, C5a, 519
+(multi)trauma, Cadherin-5, 1077
+(multi)trauma, Calcium , 47
+(multi)trauma, Caspase cleaved cytokeratin 18, 0
+(multi)trauma, CDH5, 27
+(multi)trauma, Ceruloplasmin , 1
+(multi)trauma, Chip , 17
+(multi)trauma, CK-MB, 3740
+(multi)trauma, Clinical factors, 19
+(multi)trauma, Clinical parameters, 17
+(multi)trauma, Clinical variable , 1
+(multi)trauma, Coagulation tests, 9
+(multi)trauma, Collagen IV, 2
+(multi)trauma, Complement, 11276
+(multi)trauma, Complement factor B, 2
+(multi)trauma, Complete blood counts, 4
+(multi)trauma, Computed tomogram, 1
+(multi)trauma, Computed tomographic scanning, 3
+(multi)trauma, Computed tomography  , 72
+(multi)trauma, C-reactive protein , 21
+(multi)trauma, Creatine kinase, 10
+(multi)trauma, Creatine kinase muscle and brain, 0
+(multi)trauma, Creatinine, 4728
+(multi)trauma, CRP, 3296
+(multi)trauma, CT scan, 73
+(multi)trauma, CTnI, 474
+(multi)trauma, CXCL10 , 1
+(multi)trauma, CXCR3, 746
+(multi)trauma, Cystatin C, 5
+(multi)trauma, Cytokeratin 18, 0
+(multi)trauma, D-Dimer , 14
+(multi)trauma, Diagnosis, 25925
+(multi)trauma, Diagnostic, 24847
+(multi)trauma, Diagnostic modelling, 0
+(multi)trauma, EGFR, 1824
+(multi)trauma, Estimated glomerular filtration rate, 7
+(multi)trauma, Estrogen sulfotransferase, 0
+(multi)trauma, F- Protein, 0
+(multi)trauma, FABP , 1
+(multi)trauma, FABP1, 27
+(multi)trauma, FABPs, 229
+(multi)trauma, Fatty Acid Binding Protein, 1
+(multi)trauma, FDP, 503
+(multi)trauma, Fibrin degradation products, 3
+(multi)trauma, Fibrin fibrinogen degradation products, 0
+(multi)trauma, Fibrinogen, 2857
+(multi)trauma, Fibtem, 124
+(multi)trauma, Full blood cell count, 0
+(multi)trauma, Gamma glutamyl transferase , 1
+(multi)trauma, Glasgow Coma Scale, 30
+(multi)trauma, GLDH, 74
+(multi)trauma, Glucose, 9109
+(multi)trauma, Glutamate dehydrogenase, 2
+(multi)trauma, Glutathione S-transferase alpha, 0
+(multi)trauma, Glutathione S-transferases (GST), 0
+(multi)trauma, GSTA, 12
+(multi)trauma, Heart rate, 44
+(multi)trauma, Helper T cells , 0
+(multi)trauma, Hematocrite, 45
+(multi)trauma, Hemoglobin, 4519
+(multi)trauma, High Mobility Group Box-1 , 3
+(multi)trauma, HMGB1, 464
+(multi)trauma, Howell-Jolly bodies, 0
+(multi)trauma, HPPD, 15
+(multi)trauma, ﻿(AFP), 943
+(multi)trauma, GSTα, 1
+(multi)trauma, hsCRP, 490
+(multi)trauma, hs-CRP, 1897
+(multi)trauma, Human leucocyte antigen, 1
+(multi)trauma, Hyaluronic Acid, 10
+(multi)trauma, I-FABP, 206
+(multi)trauma, IgA, 2472
+(multi)trauma, IgG , 18
+(multi)trauma, IgM , 13
+(multi)trauma, IL-10, 8143
+(multi)trauma, IL-18, 7458
+(multi)trauma, IL-6, 8196
+(multi)trauma, IL-8, 7935
+(multi)trauma, Imaging, 21836
+(multi)trauma, Immunoglobulins , 8
+(multi)trauma, Independent predictors   , 22
+(multi)trauma, Injury severity score, 44
+(multi)trauma, Intestinal-FABP, 194
+(multi)trauma, IP-10, 4779
+(multi)trauma, ISS, 39180
+(multi)trauma, Jolly bodies, 0
+(multi)trauma, K18, 63
+(multi)trauma, Kidney injury molecule-1, 1
+(multi)trauma, Laboratory parameters, 12
+(multi)trauma, Laboratory tests, 24
+(multi)trauma, Lactate, 5571
+(multi)trauma, Lactate dehydrogenase , 8
+(multi)trauma, LECT2, 10
+(multi)trauma, Leucocyte cell-derived chemotaxin-2, 0
+(multi)trauma, L-FABP, 204
+(multi)trauma, Lipase, 1449
+(multi)trauma, Lipocalin, 390
+(multi)trauma, Liver enzyme tests, 1
+(multi)trauma, Liver-FABP, 226
+(multi)trauma, Lymphocytes, 5451
+(multi)trauma, Macrophage colony stimulating factor receptor, 0
+(multi)trauma, malate dehydrogenase , 1
+(multi)trauma, Marker, 23239
+(multi)trauma, Mean arterial BP , 0
+(multi)trauma, microRNA-122 , 0
+(multi)trauma, MicroRNAs, 1224
+(multi)trauma, miR-122, 755
+(multi)trauma, miR-216a , 0
+(multi)trauma, miR-216b , 0
+(multi)trauma, miR-217, 587
+(multi)trauma, miRNAs, 1115
+(multi)trauma, Molecular biomarker, 0
+(multi)trauma, Molecular markers, 8
+(multi)trauma, Multiple organ dysfunction score, 2
+(multi)trauma, Myeloperoxidase, 1546
+(multi)trauma, Myoglobin, 716
+(multi)trauma, N-acetyl-β-D-glucosaminidase, 123
+(multi)trauma, Neutrophil Gelatinase-Associated Lipocalin, 3
+(multi)trauma, Neutrophils, 5578
+(multi)trauma, NGAL, 248
+(multi)trauma, N-GAL, 1476
+(multi)trauma, NISS, 59
+(multi)trauma, Nitric oxide, 21
+(multi)trauma, Novel markers, 2
+(multi)trauma, N-terminal pro-B-type natriuretic peptide , 2
+(multi)trauma, Nuclear fragments in circulating erythrocytes, 0
+(multi)trauma, Odd ratio, 8
+(multi)trauma, OPN, 673
+(multi)trauma, Osteopontin, 955
+(multi)trauma, PaO2 , 12
+(multi)trauma, Parameters , 78
+(multi)trauma, Paraoxonase 1 normalized to prothrombin protein, 0
+(multi)trauma, Paraxonase 1 , 0
+(multi)trauma, Pathogenic, 7973
+(multi)trauma, Pathologic, 19256
+(multi)trauma, Phosphate, 6936
+(multi)trauma, Physiologic , 29
+(multi)trauma, Plasminogen activator inhibitor, 6
+(multi)trauma, Platelet count, 22
+(multi)trauma, Platelet-activating factor, 2
+(multi)trauma, Platelets, 7309
+(multi)trauma, Platelets and pH-value, 0
+(multi)trauma, PNP, 409
+(multi)trauma, Point of care , 25
+(multi)trauma, Polymorphonuclear elastase, 0
+(multi)trauma, Polymorpho-nuclear neutrophil elastase, 0
+(multi)trauma, PON1, 124
+(multi)trauma, Potassium, 5014
+(multi)trauma, Procalcitonin, 490
+(multi)trauma, Properdin, 65
+(multi)trauma, Protein C, 11
+(multi)trauma, Prothrombin time, 16
+(multi)trauma, Purine nucleoside phosphorylase , 0
+(multi)trauma, Receiver operating characteristic curves, 9
+(multi)trauma, Red cell count, 1
+(multi)trauma, Respiration rate, 2
+(multi)trauma, Revised Trauma score, 8
+(multi)trauma, Risk factors, 68
+(multi)trauma, Screening methods, 10
+(multi)trauma, SDH, 434
+(multi)trauma, Sequential organ failure assessment, 16
+(multi)trauma, Sodium , 39
+(multi)trauma, SOFA, 545
+(multi)trauma, Sorbitol dehydrogenase, 0
+(multi)trauma, Suppressor T-cells, 1
+(multi)trauma, Temperature, 11741
+(multi)trauma, Test , 145
+(multi)trauma, Testing, 30240
+(multi)trauma, The post-traumatic plasma levels of soluble tumor necrosis factor receptors p55 and p75, 0
+(multi)trauma, Total and segmented leukocytes, 0
+(multi)trauma, Total T lymphocytes , 1
+(multi)trauma, Trauma scoring systems, 1
+(multi)trauma, Trefoil Factor 3, 0
+(multi)trauma, TRISS, 90
+(multi)trauma, Troponin, 1567
+(multi)trauma, Trypsin-2-a1antitrypsin complex , 0
+(multi)trauma, Trypsin-2-AAT, 163
+(multi)trauma, Trypsinogen-2 , 0
+(multi)trauma, Tuftsin, 30
+(multi)trauma, Ultrasound, 9334
+(multi)trauma, Urea, 3993
+(multi)trauma, Valproic acid, 5
+(multi)trauma, Vascular endothelial growth factor , 10
+(multi)trauma, Venous thromboembolism, 17
+(multi)trauma, White blood cell count , 17
+(multi)trauma, α-fetoprotein, 649

@@ -1,0 +1,418 @@
+
+TY  - JOUR
+AU  - Kirsch, Stefan
+AU  - Augath, Mark
+AU  - Seiffge, David
+AU  - Schilling, Lothar
+AU  - Schad, Lothar R.
+TI  - In vivo chlorine-35, sodium-23 and proton magnetic resonance imaging of the rat brain
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 23
+IS  - 6
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.1500
+DO  - doi:10.1002/nbm.1500
+SP  - 592
+EP  - 600
+KW  - magnetic resonance imaging
+KW  - in vivo
+KW  - chlorine
+KW  - sodium
+KW  - 23Na mri
+KW  - 35Cl mri
+KW  - chloride
+PY  - 2010
+AB  - Abstract In this study we demonstrate the feasibility of combined chlorine-35, sodium-23 and proton magnetic resonance imaging (MRI) at 9.4?Tesla, and present the first in vivo chlorine-35 images obtained by means of MRI. With the experimental setup used in this study all measurements could be done in one session without changing the setup or moving the subject. The multinuclear measurement requires a total measurement time of 2?h and provides morphological (protons) and physiological (sodium-23, chlorine-35) information in one scanning session. Chlorine-35, sodium-23 and high resolution proton images were acquired from a phantom, a healthy rat and from a rat displaying a focal cerebral infarction. Compared to the healthy tissue a signal enhancement of a factor of 2.2?±?0.2 in the chlorine-35 and a factor of 2.9?±?0.6 in the sodium-23 images is observed in the areas of infarction. Exemplary unlocalized measurement of the in vivo longitudinal and transversal relaxation time of chlorine-35 in a healthy rat showed multi-exponential behaviour. A biexponential fit revealed a fast and a slow relaxing component with T1,a?=?(1.7?±?0.4) ms, T1,b?=?(25.1?±?1.4) ms, amplitudes of A?=?0.26?±?0.02, (1?A)?=?0.74?±?0.02 and T2,a?=?(1.3?±?0.1) ms, T2,b?=?(11.8?±?1.1) ms, A?=?0.64?±?0.02, (1?A)?=?0.36?±?0.02. Combined proton, sodium-23 and chlorine-35 MRI may provide a new approach for non-invasive studies of ionic regulatory processes under physiological and pathological conditions in vivo. Copyright ? 2010 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Zhao, Xing
+AU  - Hwang, Nathaniel S.
+AU  - Bichara, David A.
+AU  - Saris, Daniel B.
+AU  - Malda, Jos
+AU  - Vacanti, Joseph P.
+AU  - Pomerantseva, Irina
+AU  - Sundback, Cathryn A.
+AU  - Langer, Robert
+AU  - Anderson, Daniel G.
+AU  - Randolph, Mark A.
+C8  - TERM-15-0189.R2
+TI  - Chondrogenesis by bone marrow-derived mesenchymal stem cells grown in chondrocyte-conditioned medium for auricular reconstruction
+JO  - Journal of Tissue Engineering and Regenerative Medicine
+JA  - J Tissue Eng Regen Med
+VL  - 11
+IS  - 10
+SN  - 1932-6254
+UR  - https://doi.org/10.1002/term.2171
+DO  - doi:10.1002/term.2171
+SP  - 2763
+EP  - 2773
+KW  - cartilage
+KW  - chondrogenesis
+KW  - bone marrow-mesenchymal stem cells
+KW  - chondrocyte-conditioned medium
+KW  - TGF-β3
+PY  - 2017
+AB  - Abstract Bone marrow-derived mesenchymal stem cells (BMSCs) can be obtained by minimally invasive means and would be a favourable source for cell-based cartilage regeneration. However, controlling the differentiation of the BMSCs towards the desired chondrogenic pathway has been a challenge hampering their application. The major aim of the present study was to determine if conditioned medium collected from cultured auricular chondrocytes could promote chondrogenic differentiation of BMSCs. Auricular chondrocytes were isolated and grown in BMSC standard culture medium (SM) that was collected and used as chondrocyte-conditioned medium (CCM). The BMSCs were expanded in either CCM or SM for three passages. Cells were seeded onto fibrous collagen scaffolds and precultured for 2 weeks with or without transforming growth factor-beta 3 (TGF-?3). After preculture, constructs were implanted subcutaneously in nude mice for 6 and 12 weeks and evaluated with real-time polymerase chain reaction, histology, immunohistochemistry and biochemistry. Real-time polymerase chain reaction results showed upregulation of COL2A1 in the constructs cultured in CCM compared with those in SM. After 12 weeks in vivo, abundant neocartilage formation was observed in the implants that had been cultured in CCM, with or without TGF-?3. In contrast, very little cartilage matrix formation was observed within the SM groups, regardless of the presence of TGF-?3. Osteogenesis was only observed in the SM group with TGF-?3. In conclusion, CCM even had a stronger influence on chondrogenesis than the supplementation of the standard culture medium with TGF-?3, without signs of endochondral ossification. Efficient chondrogenic differentiation of BMSCs could provide a promising alternative cell population for auricular regeneration. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Groen, Wilhelmina Margaretha
+AU  - Diloksumpan, Paweena
+AU  - van Weeren, Paul René
+AU  - Levato, Riccardo
+AU  - Malda, Jos
+TI  - From intricate to integrated: Biofabrication of articulating joints
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+VL  - 35
+IS  - 10
+SN  - 0736-0266
+UR  - https://doi.org/10.1002/jor.23602
+DO  - doi:10.1002/jor.23602
+SP  - 2089
+EP  - 2097
+KW  - articular cartilage
+KW  - osteochondral
+KW  - bioprinting
+KW  - additive manufacturing
+KW  - regenerative medicine
+PY  - 2017
+AB  - ABSTRACT Articulating joints owe their function to the specialized architecture and the complex interplay between multiple tissues including cartilage, bone and synovium. Especially the cartilage component has limited self-healing capacity and damage often leads to the onset of osteoarthritis, eventually resulting in failure of the joint as an organ. Although in its infancy, biofabrication has emerged as a promising technology to reproduce the intricate organization of the joint, thus enabling the introduction of novel surgical treatments, regenerative therapies, and new sets of tools to enhance our understanding of joint physiology and pathology. Herein, we address the current challenges to recapitulate the complexity of articulating joints and how biofabrication could overcome them. The combination of multiple materials, biological cues and cells in a layer-by-layer fashion, can assist in reproducing both the zonal organization of cartilage and the gradual transition from resilient cartilage toward the subchondral bone in biofabricated osteochondral grafts. In this way, optimal integration of engineered constructs with the natural surrounding tissues can be obtained. Mechanical characteristics, including the smoothness and low friction that are hallmarks of the articular surface, can be tuned with multi-head or hybrid printers by controlling the spatial patterning of printed structures. Moreover, biofabrication can use digital medical images as blueprints for printing patient-specific implants. Finally, the current rapid advances in biofabrication hold significant potential for developing joint-on-a-chip models for personalized medicine and drug testing or even for the creation of implants that may be used to treat larger parts of the articulating joint. ? 2017 The Authors. Journal of Orthopaedic Research Published by Wiley Periodicals, Inc. on behalf of the Orthopaedic Research Society. J Orthop Res 35:2089?2097, 2017.
+ER  - 
+
+TY  - JOUR
+TI  - SCIENTIFIC ABSTRACTS FROM THE ACVA ANNUAL MEETING
+JO  - Veterinary Surgery
+VL  - 18
+IS  - 3
+SN  - 0161-3499
+UR  - https://doi.org/10.1111/j.1532-950X.1989.tb01080.x
+DO  - doi:10.1111/j.1532-950X.1989.tb01080.x
+SP  - 247
+EP  - 254
+PY  - 1989
+ER  - 
+
+TY  - JOUR
+AU  - Li, Yanjing
+AU  - Zhang, Qi
+AU  - Xie, Xueping
+AU  - Xiao, Dexuan
+AU  - Lin, Yunfeng
+TI  - Review of craniofacial regeneration in China
+JO  - Journal of Oral Rehabilitation
+JA  - J Oral Rehabil
+VL  - n/a
+IS  - n/a
+SN  - 0305-182X
+UR  - https://doi.org/10.1111/joor.12793
+DO  - doi:10.1111/joor.12793
+KW  - adult stem cells
+KW  - bioactive factors
+KW  - biomaterials
+KW  - craniofacial regeneration
+KW  - tetrahedral DNA nanostructures
+AB  - Summary Aim Tissue engineering has been recognised as one of the most effective means to form a new viable tissue for medical purpose. Tissue engineering involves a combination of scaffolds, cells, suitable biochemical and physicochemical factors, and engineering and materials methods. This review covered some biomedicine, such as biomaterials, bioactive factors, and stem cells, and manufacturing technologies used in tissue engineering in the oral maxillofacial region, especially in China. Materials and Methods Data for this review were identified by searches of Web of Science and PubMed, and references from relevant articles using the search terms ?biomaterials?, ?oral tissue regeneration?, ?bioactive factors? and ?stem cells?. Only articles published in English between 2013 and 2018 were included. Conclusion The combination of stem cells, bioactive factors and 3D scaffolds could be of far-reaching significance for the future therapies in tissue repair or tissue regeneration. Furthermore, the review also mentions issues that need to be solved in the application of these biomedicines.
+ER  - 
+
+TY  - JOUR
+TI  - List of Best of the Best Oral Abstracts
+JO  - Asia-Pacific Journal of Clinical Oncology
+VL  - 8
+IS  - S1
+SN  - 1743-7555
+UR  - https://doi.org/10.1111/j.1743-7563.2012.01574.x
+DO  - doi:10.1111/j.1743-7563.2012.01574.x
+SP  - 20
+EP  - 20
+PY  - 2012
+ER  - 
+
+AU  - Kerr, David N. S.
+AU  - Ward, Michael K.
+AU  - Ellis, Hewett A.
+AU  - Simpson, William
+AU  - Parkinson, Ian S.
+C7  - pp. 123-141
+TI  - Aluminium Intoxication in Renal Disease
+SN  - 9780471934134
+UR  - https://doi.org/10.1002/9780470514306.ch8
+DO  - doi:10.1002/9780470514306.ch8
+SP  - 123-141
+KW  - aluminium intoxication
+KW  - renal disease
+KW  - encephalopathy
+KW  - subacute intoxication
+KW  - peritoneal dialysis
+PY  - 2012
+AB  - Summary Aluminium intoxication in renal failure occurred over weeks or months when dialysis fluid or parenteral solutions were heavily contaminated and over many years when the main source was oral administration of aluminium-containing phosphate binders. Encephalopathy was common during subacute intoxication but in slow aluminium poisoning the main brunt was borne by the bones. However, in both tempos of intoxication several organs or systems were involved. Encephalopathy was usually accompanied by bone disease, bone disease by parathyroid suppression and both by anaemia. The heart and the lymphocytes are probably damaged by aluminium overload. Among the many questions left unanswered 15 years after the incrimination of aluminium as the cause of this multi-system illness are: (1) does low level aluminium overload in renal failure cause gradual deterioration in cerebral function? And, if so, (2) does it resemble Alzheimer's disease or a slow-onset version of dialysis encephalopathy? The evidence we review suggests that the answer to (1) is ?yes? and to (2) ?probably the latter?.
+ER  - 
+
+TY  - JOUR
+AU  - Kahokehr, A. A.
+AU  - Sammour, T.
+AU  - Wang, K.
+AU  - Plank, L. D.
+AU  - Hill, A. G.
+TI  - GS06 NUTRITIONAL STATUS OF ACUTE SURGICAL PATIENTS-PREDICTOR OF HOSPITAL STAY
+JO  - ANZ Journal of Surgery
+VL  - 79
+IS  - s1
+SN  - 9780471934134
+UR  - https://doi.org/10.1111/j.1445-2197.2009.04917_6.x
+DO  - doi:10.1111/j.1445-2197.2009.04917_6.x
+SP  - A26
+EP  - A26
+PY  - 2009
+AB  - Background:?? Previous studies have shown that nutritional status affects recovery after elective surgery. The impact of nutritional status in the acute surgical setting has not been well defined. Methods:?? Over a 4?week period consecutive patients admitted for >24?hours under the general surgical service at a tertiary hospital were screened on admission using the subjective global assessment (SGA) nutritional assessment tool. Results:?? Of 332 eligible patients, 310 were screened. Diagnoses at discharge were: Colorectal pathology (28%), Infective (23%), Hepatopancreaticobiliary (15%), upper gastrointestinal (9%), Vascular (5%), trauma (5%), other (15%). 5% had a malignancy diagnosed during their admission. Mean age was 52?years (95% CI 18?84), mean BMI was 28.6?kg/m2 (95% CI 19.2?41.7), and 170 (55%) were female. 48% were deemed well nourished (SGA-A), 40% had moderate/suspected malnutrition (SGA-B) and 12% were severely malnourished (SGA-C). Median (range) hospital stay was 3 (1?20), 5 (1?30) and 7 (2?38)?days (p < 0.001 Kruskal Wallis) for SGA category A to C respectively. Cox regression revealed that SGA was an independent predictor of day stay after taking age, malignancy, sex, albumin, lymphocyte and diagnosis into consideration. Conclusion:?? Nutritional status in the acute surgical setting, as measured by a simple clinical tool predicts duration of hospital stay. Admission nutrition screening may be considered in order to determine nutritional requirements of acute surgical patients.
+ER  - 
+
+TY  - JOUR
+TI  - Symposia
+JO  - FEBS Open Bio
+JA  - FEBS Open Bio
+VL  - 8
+IS  - S1
+SN  - 9780471934134
+UR  - https://doi.org/10.1002/2211-5463.12449
+DO  - doi:10.1002/2211-5463.12449
+SP  - 10
+EP  - 79
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Peláez, M. Jiménez
+AU  - Jolliffe, C.
+TI  - Thoracoscopic foreign body removal and right middle lung lobectomy to treat pyothorax in a dog
+JO  - Journal of Small Animal Practice
+VL  - 53
+IS  - 4
+SN  - 9780471934134
+UR  - https://doi.org/10.1111/j.1748-5827.2011.01175.x
+DO  - doi:10.1111/j.1748-5827.2011.01175.x
+SP  - 240
+EP  - 244
+PY  - 2012
+AB  - A three-year-old, 30-kg, spayed female German wirehaired pointer was presented for coughing, pyrexia and lethargy. Thoracic radiographs showed mild right-sided pleural effusion, moderate pneumothorax and a pulmonary lesion in the right middle or caudal lung lobe. A diagnosis of pyothorax was established by fine needle aspiration of the pleural effusion. Thoracoscopic exploration was performed using one-lung ventilation. A vegetal foreign body (grass awn) and an abscess were observed in the distal part of the right middle lung lobe. The foreign body was removed and a right middle lung lobectomy was performed, both thoracoscopically. No complications were noted. The dog was discharged 48 hours after surgery, and no recurrence of the clinical signs was observed during the follow-up time period (three years and three months). Thoracoscopy is a minimally invasive alternative to thoracotomy to explore and successfully treat some non-chronic pyothoraces in dogs, including lesions affecting the right middle lung lobe.
+ER  - 
+
+TY  - JOUR
+AU  - Golini, Lorenzo
+AU  - Kircher, Patrick R.
+AU  - Lewis, Fraser I.
+AU  - Steffen, Frank
+TI  - Transarticular Fixation With Cortical Screws Combined With Dorsal Laminectomy and Partial Discectomy as Surgical Treatment of Degenerative Lumbosacral Stenosis in 17 Dogs: Clinical and Computed Tomography Follow-Up
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 43
+IS  - 4
+SN  - 9780471934134
+UR  - https://doi.org/10.1111/j.1532-950X.2014.12117.x
+DO  - doi:10.1111/j.1532-950X.2014.12117.x
+SP  - 405
+EP  - 413
+PY  - 2014
+AB  - Objective To describe clinical outcome and technical outcome assessed using computed tomography (CT) in dogs with degenerative lumbosacral stenosis (DLSS) treated by dorsal laminectomy, partial discectomy, and transarticular screw fixation. Study Design Retrospective observational case series. Animals Dogs with DLSS (n?=?17). Methods Dogs with neurologic and magnetic resonance imaging (MRI) findings compatible with DLSS treated by dorsal laminectomy, partial discectomy and transarticular screw fixation were enrolled. Pre- and postoperative neurologic status was compared. Lumbosacral (LS) angle in extension and misalignment in preoperative MRI were compared with the postoperative CT. Residual mobility of the LS joint after fixation was also evaluated. Status of screws, presence of new bone formation over screw heads/articular facets and presence of adjacent segment disease (ASD) were assessed. Results Median CT follow-up was 12 months. Clinical improvement was seen in 13 dogs, 2 dogs had intermittent LS pain, and 2 dogs needed revision surgery. In 5 dogs, screws were either pulled out or broken. Reduction of LS angle in extension and misalignment was achieved. Residual mobility of the LS segment was present and ASD was not recognized. Conclusions Transarticular screw fixation in dogs with DLSS is associated with a considerable number of technical failures and does not result in rigid stabilization; however, this did not significantly adversely influence clinical outcome.
+ER  - 
+
+TY  - JOUR
+AU  - Bianchi, Christian
+AU  - Tettelbach, William
+AU  - Istwan, Niki
+AU  - Hubbs, Brandon
+AU  - Kot, Kimberly
+AU  - Harris, Stan
+AU  - Fetterolf, Donald
+TI  - Variations in study outcomes relative to intention-to-treat and per-protocol data analysis techniques in the evaluation of efficacy for treatment of venous leg ulcers with dehydrated human amnion/chorion membrane allograft
+JO  - International Wound Journal
+JA  - Int Wound J
+VL  - 16
+IS  - 3
+SN  - 9780471934134
+UR  - https://doi.org/10.1111/iwj.13094
+DO  - doi:10.1111/iwj.13094
+SP  - 761
+EP  - 767
+KW  - dehydrated human amnion/chorion membrane
+KW  - EpiFix
+KW  - intention-to-treat
+KW  - venous leg ulcers
+PY  - 2019
+AB  - Statistical interpretation of data collected in a randomised controlled trial (RCT) is conducted on the intention-to-treat (ITT) and/or the per-protocol (PP) study populations. ITT analysis is a comparison of treatment groups including all patients as originally allocated after randomisation regardless if treatment was initiated or completed. PP analysis is a comparison of treatment groups including only those patients who completed the treatment as originally allocated, although it is often criticised because of its potential to instil bias. A previous report from an RCT conducted to evaluate the efficacy of dehydrated human amnion/chorion membrane allograft (EpiFix) as an adjunct to standard comprehensive wound therapy consisting of moist dressings and multi-layer compression in the healing of venous leg ulcers (VLUs) only reported PP study results (n?=?109, 52 EpiFix and 57 standard care patients), although there were 128 patients randomised: 64 to the EpiFix group and 64 to the standard care group. Primary study outcome was the incidence of healing at 12?weeks. The purpose of the present study is to report ITT results on all 128 randomised subjects and assess if both ITT and PP data analyses arrive at the same conclusion of the efficacy of EpiFix as a treatment for VLU. Rates of healing for the ITT and PP populations were, respectively, 50% and 60% for those receiving EpiFix and 31% and 35% for those in the standard care cohort. Within both ITT and PP analyses, these differences were statistically significant; P = 0.0473, ITT and P = 0.0128, PP. The Kaplan-Meier plot of time to heal within 12?weeks for the ITT and PP populations demonstrated a superior wound-healing trajectory for EpiFix compared with VLUs treated with standard care alone. These data provide clinicians and health policymakers an additional level of assurance regarding the effectiveness of EpiFix.
+ER  - 
+
+TY  - JOUR
+AU  - Power, M.J.
+AU  - Schmidt, S.
+TI  - Emotion-focused treatment of unipolar and bipolar mood disorders
+JO  - Clinical Psychology & Psychotherapy
+JA  - Clin. Psychol. Psychother.
+VL  - 11
+IS  - 1
+SN  - 9780471934134
+UR  - https://doi.org/10.1002/cpp.391
+DO  - doi:10.1002/cpp.391
+SP  - 44
+EP  - 57
+PY  - 2004
+AB  - Abstract An outline is presented of the SPAARS approach to emotion and emotional disorder. The model is then applied in general to issues of therapy, in particular, how Cognitive Behavioural approaches need to be adapted and to further issues in relation to mood disorders. Next is presented an account of unipolar depression together with a review of some of the implications of multi-level theories of emotion for working with individuals with unipolar depression. An account is presented of bipolar disorders together with an outline of how psychological approaches can be adapted to working in an emotion-focused manner with such disorders. A case study is included of someone with a bipolar disorder, which illustrates a number of relevant points for working with an emotion-focus.?Copyright ? 2004 John Wily & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Dursun, Erbil
+AU  - Dursun, Nigar
+AU  - Ural, Canan Eksi
+AU  -             Çakci:, Aytül
+TI  - Physical Medicine and Rehabilitation (85)
+JO  - Pain Practice
+JA  - Pain Practice
+VL  - 1
+IS  - 1
+SN  - 9780471934134
+UR  - https://doi.org/10.1111/j.1533-2500.2001.1011-85.x
+DO  - doi:10.1111/j.1533-2500.2001.1011-85.x
+SP  - 112
+EP  - 113
+PY  - 2001
+AB  - Glenohumeral joint subluxation and reflex sympathetic dystrophy in hemiplegic patients. (Kocaeli University, Kocaeli, Turkey) Arch Phys Med Rehabil 1999; 81:944?946. This is a case-controlled study of the relationship between glenohumeral joint subluxation and reflex sympathetic dystrophy (RSD) in hemiplegic patients set in an inpatient rehabilitation hospital. Thirty-five hemiplegic patients with RSD (RSD group) and 35 hemiplegic patients without RSD (non-RSD group) were included in this study. Patients with rotator cuff rupture, brachial plexus injury, or spasticity greater than stage 2 on the Ashworth scale were excluded. Both the RSD and non-RSD groups were assessed for presence and grade of subluxation from radiographs using a 5-point categorization. The degree of shoulder pain of the non-RSD group was assessed by a visual analogue scale of 10 points. Glenohumeral subluxation was found in 74.3% of the RSD group and 40% of the non-RSD group (P = 0.004). In the non-RSD group, 78.6% of the patients with subluxation and 38.1% of the patients without subluxation reported shoulder pain (P = 0.019). No correlation was found between the degree of shoulder pain and grade of subluxation in the non-RSD group (P = 0.152). Conclude that the findings suggest that shoulder subluxation may be a causative factor for RSD. Therefore, prevention and appropriate treatment of glenohumeral joint subluxation should be included in rehabilitation of hemiplegic patients. Comment by Miles Day, MD. The purpose of this study was to examine the relationship between shoulder subluxation in hemiplegic patients and reflex sympathetic dystrophy. They also examined if subluxation is associated with shoulder pain and the grade of subluxation in patients with subluxation and no reflex sympathetic dystrophy (RSD). Patients with injuries to the rotator cuff of the brachial plexus, marked spasticity, and major trauma to joint structures were excluded as these can be precipitating factors for RSD. The study noted a significantly higher presence of shoulder subluxation within the RSD group and the presence of pain was significantly high in patients with shoulder subluxation in the non-RSD group. The take home message of this article is that any measure or treatment that can be applied to the glenohumeral joint should be performed to eliminate the possibility of the patient developing RSD and subsequently hindering further rehabilitation in these patients.
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Presentation Abstracts: 2019 VETERINARY ENDOSCOPY SOCIETY 16TH ANNUAL SCIENTIFIC MEETING, April 29–May 1, Lake Tahoe, California, USA
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 48
+IS  - S2
+SN  - 9780471934134
+UR  - https://doi.org/10.1111/vsu.13213
+DO  - doi:10.1111/vsu.13213
+SP  - O143
+EP  - O152
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+AU  - Tredici, Peter Del
+TI  - NATURAL REGENERATION OF GINKGO BILOBA FROM DOWNWARD GROWING COTYLEDONARY BUDS (BASAL CHICHI)
+JO  - American Journal of Botany
+JA  - American Journal of Botany
+VL  - 79
+IS  - 5
+SN  - 9780471934134
+UR  - https://doi.org/10.1002/j.1537-2197.1992.tb14588.x
+DO  - doi:10.1002/j.1537-2197.1992.tb14588.x
+SP  - 522
+EP  - 530
+PY  - 1992
+AB  - This study describes the origin and early development of a distinct organ of clonal regeneration in Ginkgo biloba, the basal chichi. These aggregates of suppressed shoot buds originate from superficial meristems located in the cotyledonary axils of all Ginkgo seedlings as part of their normal ontogeny. Within 6 wk of germination these buds become embedded in the cortex of the stem, and their subsequent growth and development occurs below the surface of the bark. When stimulated by some traumatic event that damages the seedling axis, one of these embedded cotyledonary buds usually grows down from the trunk to form a woody, rhizomelike basal chichi which, under appropriate conditions, is capable of generating both aerial shoots and adventitious roots. Vegetative regeneration by means of basal chichi has not only contributed to the long-term persistence of G. biloba in the forests of China, but may also have played a role in the remarkable survival of the genus since the Cretaceous.
+ER  - 
+
+TY  - JOUR
+AU  - Taghiyar, Leila
+AU  - Hosseini, Samaneh
+AU  - Safari, Fatemeh
+AU  - Bagheri, Fatemeh
+AU  - Fani, Nesa
+AU  - Stoddart, Martin J.
+AU  - Alini, Mauro
+AU  - Eslaminejad, Mohamadreza Baghaban
+C8  - TERM-17-0218.R1
+TI  - New insight into functional limb regeneration: A to Z approaches
+JO  - Journal of Tissue Engineering and Regenerative Medicine
+JA  - J Tissue Eng Regen Med
+VL  - 12
+IS  - 9
+SN  - 9780471934134
+UR  - https://doi.org/10.1002/term.2727
+DO  - doi:10.1002/term.2727
+SP  - 1925
+EP  - 1943
+KW  - amputation
+KW  - clinical applications
+KW  - gene therapy
+KW  - limb regeneration
+KW  - stem cell therapy
+KW  - tissue engineering
+PY  - 2018
+AB  - Abstract Limb/digit amputation is a common event in humans caused by trauma, medical illness, or surgery. Although the loss of a digit is not lethal, it affects quality of life and imposes high costs on amputees. In recent years, the increasing interest in limb regeneration has led to enhanced scientific knowledge. However, the limited ability to develop functional limb regeneration in the clinical setting suggests that a challenging issue remains in limb regeneration. Recently, the emergence of regenerative engineering is a promising field to address this challenge and close the gap between science and clinical applications. Cell signalling and molecular mechanisms involved in the limb regeneration process have been extensively studied; however, there is still insufficient data on cell therapy and tissue engineering for limb regeneration. In this review, we intend to focus on therapeutic approaches for limb regeneration that are closely related to gene, immune, and stem cell therapies, as well as tissue engineering approaches that take into consideration the peculiar developmental properties of the limbs. In addition, we attempt to identify the challenges of these strategies for limb regeneration studies in terms of clinical settings and as a road map to accomplish the goal of functional human limb regeneration.
+ER  - 
+
+TY  - JOUR
+AU  - Bruhn, P.
+AU  - Arlien-Søborg, P.
+AU  - Gyldensted, C.
+AU  - Christensen, E. L.
+TI  - Prognosis in chronic toxic encephalopathy
+JO  - Acta Neurologica Scandinavica
+VL  - 64
+IS  - 4
+SN  - 9780471934134
+UR  - https://doi.org/10.1111/j.1600-0404.1981.tb04405.x
+DO  - doi:10.1111/j.1600-0404.1981.tb04405.x
+SP  - 259
+EP  - 272
+KW  - Cerebral atrophy
+KW  - follow-up study
+KW  - house painters
+KW  - intellectual impairment
+KW  - irreversible chronic brain syndrome
+KW  - mineral turpentine
+KW  - toxic encephalopathy
+PY  - 1981
+AB  - The prognosis of chronic toxic encephalopathy in former house painters was examined in a prospective study with a two-year observation period. Twenty-six patients, who at the initial examination had cerebral atrophy and/or intellectual impairment, were selected for the follow-up study. No competitive etiological factors (including alcohol) to the encephalopathy were suspected. During the two-year follow-up interval these patients were not professionally exposed to organic solvents. At the follow-up examination neurological, biochemical, neuropsychological, and neuroradiological parameters were reassessed and compared to the original findings. Generally the condition was unchanged. Slight improvements with regard to headache and dizziness were reported by some. However, the neurological status, the neuropsychological impairment, and the cerebral atrophy, did not change significantly. In three patients further deterioration was observed. It is argued that our patients suffered from a brain disorder different from presenile dementia of the Pick-Alzheimer type. Other alternative etiological entities were also excluded. Our findings indicate that long-term exposure to organic solvents may lead to a chronic brain syndrome. Once intellectual impairment and/or cerebral atrophy has developed, reversibility is not observed. Nor is further progression to be expected if exposure is stopped. Occupational exposure to organic solvents should be maximally restricted as it represents a risk of inducing invalidating brain syndromes.
+ER  - 
+
+TY  - JOUR
+AU  - Shaheen, Ghazala
+AU  - Akram, Muhammad
+AU  - Jabeen, Farhat
+AU  - Ali Shah, Syed Muhammad
+AU  - Munir, Naveed
+AU  - Daniyal, Muhammad
+AU  - Riaz, Muhammad
+AU  - Tahir, Imtiaz Mahmood
+AU  - Ghauri, Aymen Owais
+AU  - Sultana, Sabira
+AU  - Zainab, Rida
+AU  - Khan, Muslim
+TI  - Therapeutic potential of medicinal plants for the management of urinary tract infection: A systematic review
+JO  - Clinical and Experimental Pharmacology and Physiology
+JA  - Clin Exp Pharmacol Physiol
+VL  - 46
+IS  - 7
+SN  - 9780471934134
+UR  - https://doi.org/10.1111/1440-1681.13092
+DO  - doi:10.1111/1440-1681.13092
+SP  - 613
+EP  - 624
+KW  - chemical constituents
+KW  - Escherichia coli
+KW  - herbal medicines
+KW  - microbes
+KW  - natural remedy
+KW  - nutraceuticals
+KW  - safety
+KW  - uropathogens
+KW  - UTI
+PY  - 2019
+AB  - Abstract Urinary tract infection (UTI) is one of the most severe public health problem affecting both sexes but females are more susceptible due to the differences in urogenital and reproductive anatomy, physiology and lifestyle. As in UTI, different parts of the urinary tract are affected and morbidity due to UTI is more common in women of all ages and older men. Due to multi-drug resistant strains and high recurrence rate, UTI has become a major socioeconomic burden. The current review article was aimed to describe the natural therapeutic strategies to manage and cure the UTI. For this purpose, different databases including Google Scholar, Cochrane database, and PubMed etc. were explored. Inclusion criteria were any research article investigating the current therapy of UTI. It was found that microbial infections including Escherichia coli, Enterococcus faecalis and Klebsiella species are the major causes of UTI with different signs and symptoms including painful urination or dysuria, hematuria, urinary urgency, burning micturition, frequent urination, nausea, and vomiting. Antibiotics like trimethoprim, sulfamethoxazole, quinolone etc. as the first choice of the drug are used worldwide. However, due to microbial resistance, several life-threatening side effects, repeated high doses, high cost and low efficacy of these antibiotics motivated the researchers to explore natural remedies for the treatment of UTI. Herbal medicines are effective to combat bacterial resistance with high efficacy, and easy availability with minimal or no side effects. For these reasons it has attained the attention of researchers wanting to explore the herbal treatment of UTI. Vaccinium macrocarpon, Tribulus terrestris, Trachyspermum copticum, Cinnamomum verum and Hybanthusenn easpermus are some common medicinal plants reported to have therapeutic potential for the management and cure of the UTI. Although herbal medicines have more potential over conventional medicine but more discoveries are required to explore the phytoconstituents and their mechanism of action responsible for the management and cure of UTI.
+ER  - 
+
+TY  - JOUR
+AU  - Rosenthal, Mark
+TI  - Geriatrics: A Selected Up-to-date Bibliography
+JO  - Journal of the American Geriatrics Society
+VL  - 33
+IS  - 1
+SN  - 9780471934134
+UR  - https://doi.org/10.1111/j.1532-5415.1985.tb02863.x
+DO  - doi:10.1111/j.1532-5415.1985.tb02863.x
+SP  - 69
+EP  - 85
+PY  - 1985
+AB  - This is the second annual revision of the Geriatrics Bibliography. Approximately two thirds of the old references have been replaced by more current or more detailed articles. The bibliography has been expanded to include several additional topics and over 200 new references. Since the literature pertinent to geriatrics is growing ever more rapidly, it has been necessary to omit many informative articles from the bibliography. Almost all of the references date from the past four years. Preference is given to recent publications, since they provide a list of the important earlier articles. Some articles were selected to highlight current controversies or changes in viewpoint. An occasional review article is cited to amplify geriatric aspects of common diseases. Most of the references deal specifically with an elderly patient population, studies of which, it will be noted, are confounded by questions of ?normal? aging as opposed to the concomitants of aging frequent in our society: inactivity, obesity, malnutrition, and psychosocial trauma. A few articles concern diseases remarkably common in the aged but for which no adequate study specifically from a geriatric viewpoint exists; e.g., monoclonal gammopathy, Paget's disease, pulmonary emboli. The references are divided into categories. The first (I) set deals with some possible causes of aging, the second (II) with physiologic decline accompanying aging, the third (III) with the atypical and nonspecific characteristics of illness among geriatric patients, and the fourth (IV) with non-physician services available to the elderly, including ethical quandaries. The remainder of the references are cited by pertinent medical specialty. Within each category, references are divided by disease process. Articles are further subgrouped by aspects of those diseases such as evaluation or therapy.
+ER  - 

@@ -1,0 +1,433 @@
+
+TY  - JOUR
+AU  - Hong, Yi
+AU  - O'Donnell, Lauren J.
+AU  - Savadjiev, Peter
+AU  - Zhang, Fan
+AU  - Wassermann, Demian
+AU  - Pasternak, Ofer
+AU  - Johnson, Hans
+AU  - Paulsen, Jane
+AU  - Vonsattel, Jean-Paul
+AU  - Makris, Nikos
+AU  - Westin, Carl F.
+AU  - Rathi, Yogesh
+TI  - Genetic load determines atrophy in hand cortico-striatal pathways in presymptomatic Huntington's disease
+JO  - Human Brain Mapping
+JA  - Hum. Brain. Mapp.
+VL  - 39
+IS  - 10
+SN  - 1065-9471
+UR  - https://doi.org/10.1002/hbm.24217
+DO  - doi:10.1002/hbm.24217
+SP  - 3871
+EP  - 3883
+KW  - CAG-repeats
+KW  - cortico-striatal pathways
+KW  - diffusion MRI
+KW  - isotropic volume fraction
+KW  - prodromal-HD
+PY  - 2018
+AB  - Abstract Huntington's disease (HD) is an inherited neurodegenerative disorder that causes progressive breakdown of striatal neurons. Standard white matter integrity measures like fractional anisotropy and mean diffusivity derived from diffusion tensor imaging were analyzed in prodromal-HD subjects; however, they studied either a whole brain or specific subcortical white matter structures with connections to cortical motor areas. In this work, we propose a novel analysis of a longitudinal cohort of 243 prodromal-HD individuals and 88 healthy controls who underwent two or more diffusion MRI scans as part of the PREDICT-HD study. We separately trace specific white matter fiber tracts connecting the striatum (caudate and putamen) with four cortical regions corresponding to the hand, face, trunk, and leg motor areas. A multi-tensor tractography algorithm with an isotropic volume fraction compartment allows estimating diffusion of fast-moving extra-cellular water in regions containing crossing fibers and provides quantification of a microstructural property related to tissue atrophy. The tissue atrophy rate is separately analyzed in eight cortico-striatal pathways as a function of CAG-repeats (genetic load) by statistically regressing out age effect from our cohort. The results demonstrate a statistically significant increase in isotropic volume fraction (atrophy) bilaterally in hand fiber connections to the putamen with increasing CAG-repeats, which connects the genetic abnormality (CAG-repeats) to an imaging-based microstructural marker of tissue integrity in specific white matter pathways in HD. Isotropic volume fraction measures in eight cortico-striatal pathways are also correlated significantly with total motor scores and diagnostic confidence levels, providing evidence of their relevance to HD clinical presentation.
+ER  - 
+
+TY  - JOUR
+AU  - CANFIELD, P. J.
+AU  - WATSON, A. D. J.
+AU  - BEGG, A. P.
+AU  - DILL-MACKY, E.
+TI  - Myeloproliferative disorder in four dogs involving derangements of erythropoiesis, myelopoiesis and megakaryopoiesis
+JO  - Journal of Small Animal Practice
+VL  - 27
+IS  - 1
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/j.1748-5827.1986.tb02238.x
+DO  - doi:10.1111/j.1748-5827.1986.tb02238.x
+SP  - 7
+EP  - 16
+PY  - 1986
+AB  - ABSTRACT The clinical findings, laboratory data, ultrastructure, and autopsy findings are reported for four Greyhounds with a myeloproliferative disorder. In all dogs abnormalities were found in the granulocytic, erythroid and megakaryocytic cell lines, resulting in granulocytic leukaemia, impaired erythropoiesis and megakaryocytic dysplasia. The presence in blood of many small platelet producing cells (micromegakaryocytes) led to initial diagnostic confusion in three dogs with two of them suspected of having lymphatic leukaemia. An approach to the diagnosis of myeloproliferative disease, including the awareness of other clinical possibilities, is presented. The significance of the presence of micromegakaryocytes in the peripheral blood stream is discussed with reference to other veterinary reports and similar findings in man.
+ER  - 
+
+TY  - JOUR
+AU  - Byrne, C. A.
+AU  - Lumsden, J. M.
+AU  - Lang, H. M.
+AU  - O'Sullivan, C. B.
+TI  - Synovial sepsis of unknown origin in the adult Thoroughbred racehorse
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 52
+IS  - 1
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.13127
+DO  - doi:10.1111/evj.13127
+SP  - 91
+EP  - 97
+KW  - horse
+KW  - haematogenous
+KW  - arthritis
+KW  - tenosynovitis
+KW  - bursitis
+PY  - 2020
+AB  - Summary Background Synovial sepsis of unknown origin is a rare cause of lameness in the adult horse, and a haematogenous pathogenesis has been proposed in previous cases. Objectives To describe the features and outcome of synovial sepsis of unknown origin in adult Thoroughbred racehorses. Study design Retrospective case series. Methods Hospital records for admissions between 2005 and 2015 were reviewed to identify adult horses diagnosed with synovial sepsis of unknown origin. Presentation, clinicopathological, microbiological and diagnostic imaging findings were recorded. Treatment methods, surgical findings, complications and long-term outcome were evaluated. Results Eleven cases were identified over the study period. Diagnosis was established from clinical examination and clinicopathologic findings, which were comparable to other aetiologies of synovial sepsis. Affected structures included synovial joints, tendon sheaths and bursae. Concurrent osteochondritis dissecans or articular cartilage lesions were evident during arthroscopic surgery in three cases. Significant intrasynovial haemorrhage was not identified. Microbial culture of synovial fluid or synovial biopsy was positive in 6/11 of cases, with all isolates being Gram-positive cocci. Of the 6 positive microbial cultures, all isolates demonstrated in vitro sensitivity to a cephalosporin antimicrobial agent. A concurrent remote wound was present in a single case. No other potential origins of bacteraemia were identified. Treatment methods included endoscopic surgery, standing multineedle lavage, intravenous regional limb perfusion, intrasynovial medication and/or systemic antimicrobial administration. All horses survived to hospital discharge. For the 6/11 cases that raced following synovial sepsis, the median period for return to racing was 221 days. Main limitations A small study population, which was retrospectively reviewed. Conclusions Synovial sepsis of unknown origin is rare in the adult Thoroughbred racehorse and can affect a range of synovial structures. A concurrent potential source of bacteraemia is rarely identified. With appropriate management, the prognosis to return to racing is fair.
+ER  - 
+
+TY  - JOUR
+AU  - Moore, S. A.
+AU  - Early, P. J.
+AU  - Hettlich, B. F.
+TI  - Practice patterns in the management of acute intervertebral disc herniation in dogs
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 57
+IS  - 8
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/jsap.12496
+DO  - doi:10.1111/jsap.12496
+SP  - 409
+EP  - 415
+PY  - 2016
+AB  - Objectives Acute intervertebral disc herniation is commonly managed by veterinary neurologists and surgeons. Anecdote suggests that patterns of management vary considerably and there is controversy surrounding many aspects of treatment. The goal of this study was to document patterns in management of acute spinal cord injury caused by acute intervertebral disc herniation among these two groups to aid in future discussions on best practices. Methods A survey querying diagnostic, medical and surgical practices for dogs with acute intervertebral disc herniation was distributed to diplomates on the databases of the American College of Veterinary Surgeons and the American College of Veterinary Internal Medicine (Neurology). Results Responses were received from 314 board-certified veterinary surgeons and neurologists. Both groups handled timing of decompression, surgical approach, and most postoperative recommendations in a similar fashion. Case volume differed between groups, with 77% of neurologists and 18% of surgeons managing ≥50 cases of acute intervertebral disc herniation per year. MRI was used most frequently as a diagnostic tool by neurologists (75%), while CT was used most commonly by surgeons (58%). Corticosteroids were routinely administered as a neuroprotective strategy by 34% of surgeons and 11% of neurologists. Disc fenestration was performed ?always? or ?most of the time? by 69% of neurologists and 36% of surgeons. Clinical Importance Understanding the common practices in the management of canine acute intervertebral disc herniation can provide a springboard for future discussions regarding the best practices in diagnosing and treating this disease.
+ER  - 
+
+TY  - JOUR
+AU  - Smith, S.
+AU  - Dukes-McEwan, J.
+TI  - Clinical signs and left atrial size in cats with cardiovascular disease in general practice
+JO  - Journal of Small Animal Practice
+VL  - 53
+IS  - 1
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/j.1748-5827.2011.01143.x
+DO  - doi:10.1111/j.1748-5827.2011.01143.x
+SP  - 27
+EP  - 33
+PY  - 2012
+AB  - Objectives: To evaluate population characteristics, clinical signs and simple echocardiographic measurements of a general practice population of cats, in identifying characteristics that reliably distinguish cats with heart disease from others, including those with respiratory disease, using widely available techniques. Methods: Cats presented with heart disease (n=103), respiratory disease (n=19) and a normal group (n=29) were prospectively recruited. All cats were subject to full clinical examination, echocardiography and additional diagnostic procedures as appropriate to establish definitive diagnosis. Cats were classified as Group 1: no heart disease ± respiratory disease; Group 2: heart disease with no clinical signs; Group 3: heart disease with clinical signs. Murmur, gallop sound and arrhythmia prevalence and left atrial size were compared between the groups. Results: Low heart rates prevailed in Group 3. Murmurs were prevalent in Group 2, but in Group 3 prevalence was significantly lower. Dyspnoea, gallop sounds, arrhythmias and left atrial diameter were significantly different between groups. Clinical Significance: Heart rate is unreliable for diagnosing heart failure in cats. Absence of murmur is prevalent in cats with clinical signs of heart failure, but arrhythmia and gallop sounds are prevalent. Echocardiographic measurement of left atrial diameter >16.5 mm may distinguish heart failure from respiratory disease in general practice.
+ER  - 
+
+TY  - JOUR
+AU  - Arslan, S. Y.
+AU  - Leung, K. P.
+AU  - Wu, C. D.
+TI  - The effect of lactoferrin on oral bacterial attachment
+JO  - Oral Microbiology and Immunology
+VL  - 24
+IS  - 5
+SN  - 0902-0055
+UR  - https://doi.org/10.1111/j.1399-302X.2009.00537.x
+DO  - doi:10.1111/j.1399-302X.2009.00537.x
+SP  - 411
+EP  - 416
+KW  - iron
+KW  - iron chelator
+KW  - lactoferrin
+KW  - oral bacterial attachment
+KW  - oral biofilm
+PY  - 2009
+AB  - Introduction:? Lactoferrin (Lf), an iron-binding salivary glycoprotein, plays an important role in human innate defense against local mucosal infection. We hypothesized that Lf interferes with initial oral bacterial attachment to surfaces by iron sequestration, so inhibiting subsequent biofilm formation. The objective was to investigate the effect of Lf on the early stages of single-species and multi-species oral biofilm development. Methods:? Streptococcus gordonii, Streptococcus mutans, Fusobacterium nucleatum and Porphyromonas gingivalis were used in this study. Glass disks of a two-track flow cell coated with flowing artificial saliva (0.3?ml/min) with and without Lf (100??g/ml) were used for studying bacterial attachment (3?h, 37°C). Attachment was also examined by incubating single or multiple species of test bacteria (107?colony-forming units/ml) with Lf-coated (20?100??g/ml) and uncoated glass slides. The effects of ?-lactoglobulin, 2,2?-dipyridyl (25?100??g/ml), an iron chelator, and FeCl3 on attachment were also examined. Results:? Lf inhibited the initial attachment of S. gordonii (50.3%, P?<?0.05) but not that of F. nucleatum and P. gingivalis. However, the attachment of a dual-species biofilm containing S. gordonii (i.e. S. gordonii/F. nucleatum or S. gordonii/P. gingivalis) was significantly reduced (48.7% or 62.1%, respectively, P?<?0.05) in the presence of Lf. ?-Lactoglobulin did not affect the attachment of S. gordonii. In the presence of 100??m 2,2?-dipyridyl, attachment of S. gordonii was reduced by 53.87%. No reduction in attachment was noted in S. gordonii pretreated with Lf (100??g/ml) and FeCl3 (20?200??m). Conclusion:? Lf suppresses initial attachment of S. gordonii and S. gordonii coaggregates by iron sequestration. This may lead to subsequent inhibition of oral biofilm development.
+ER  - 
+
+TY  - JOUR
+AU  - Chawla, Jasneek
+AU  - Seear, Michael
+AU  - Zhang, Tingting
+AU  - Smith, Anne
+AU  - Carleton, Bruce
+TI  - Fifty years of pediatric asthma in developed countries: How reliable are the basic data sources?
+JO  - Pediatric Pulmonology
+JA  - Pediatr. Pulmonol.
+VL  - 47
+IS  - 3
+SN  - 8755-6863
+UR  - https://doi.org/10.1002/ppul.21537
+DO  - doi:10.1002/ppul.21537
+SP  - 211
+EP  - 219
+KW  - asthma epidemic
+KW  - respiratory questionnaires
+KW  - diagnostic error
+KW  - children
+PY  - 2012
+AB  - Abstract Given the difficulties in diagnosing, or even defining, asthma in children, claims of a pediatric asthma epidemic in Canada and other developed countries are accepted with surprisingly little critical examination. We reviewed a broad range of data sources to understand how the epidemic evolved during the last 50 years and also to assess the reliability of the conclusions drawn from that data. We obtained Canadian National and Provincial data from Statistics Canada National Population Health Survey, and the British Columbia Ministry of Health respiratory database. International data were obtained by extensive review of pediatric asthma epidemiological surveys published during the last 50 years. In many developed countries, there have been three separate epidemics involving different aspects of pediatric asthma during the last 50 years: a double peaked mortality epidemic (1960s and 1980s), a hospital admission epidemic (peaked around 1990) and a steadily growing epidemic of children who report asthmatic symptoms on questionnaires. Canadian pediatric rates for asthma mortality (1?2/million/year) and hospital admission (1?2/thousand/year) are low and have fallen for the last 20 years. Rates based on questionnaire studies are high (10?15/hundred) and rose steadily over the same period. Objective reductions in asthma deaths and hospital admission likely reflect improved education and treatment programmes. Current claims of an epidemic based largely on subjective self-reported symptoms require more careful analysis. The possibility that symptom misperception, disease fashions, and poor recall, may be part of the explanation for the current high levels of self-reported symptoms deserves more attention. Pediatr Pulmonol. 2012; 47:211?219. ? 2011 Wiley Periodicals, Inc.
+ER  - 
+
+AU  - McMurran, Mary
+AU  - Howard, Richard C.
+C7  - pp. 265-281
+TI  - Personality Disorders and Offending
+SN  - 9781119139683
+UR  - https://doi.org/10.1002/9781119139980.ch17
+DO  - doi:10.1002/9781119139980.ch17
+SP  - 265-281
+KW  - Diagnostic and Statistical Manual, Fifth Edition
+KW  - International Classification of Diseases
+KW  - offending
+KW  - personality disorders
+KW  - randomized controlled trials
+KW  - treatment programs
+PY  - 2012
+AB  - Summary Personality disorders are typified by relatively enduring, inflexible, and pervasive disturbances in how individuals experience and interpret themselves, others, and the world around them. The field of personality disorders is currently in a state of flux, with the recent transition from the fourth to the fifth edition of the American Psychiatric Association's (APA's) Diagnostic and Statistical Manual, Fifth Edition (DSM-5) and the arrival of the 11th edition of the World Health Organization's International Classification of Diseases (ICD-11). A better understanding of the relationship between personality disorder and crime is clearly required if effective prevention and treatment programs are to be developed. Outcome studies of treatments specifically for personality disorder in offender populations are scarce, and few randomized controlled trials (RCTs) have been conducted. In practice, both mental health and criminal justice psychologists offer treatments that aim to ameliorate the symptoms of personality disorder and reduce the risk of offending.
+ER  - 
+
+TY  - JOUR
+AU  - Takehara, Yasuo
+AU  - Kaneko, Masao
+TI  - Magnetic resonance cholangiopancreatography: Objectives and future
+JO  - Journal of Hepato-Biliary-Pancreatic Surgery
+JA  - Journal of Hepato‐Biliary‐Pancreatic Surgery
+VL  - 4
+IS  - 2
+SN  - 9781119139683
+UR  - https://doi.org/10.1007/BF02489787
+DO  - doi:10.1007/BF02489787
+SP  - 192
+EP  - 200
+KW  - magnetic resonance imaging
+KW  - pancreas
+KW  - pancreatic duct
+KW  - pancreatitis
+KW  - pancreatic neoplasms
+KW  - cholangiopancreatography
+KW  - secretin
+PY  - 1997
+AB  - Abstract Magnetic resonance cholangiopancreatography (MRCP) is a rapidly developing non-invasive imaging method that can depict the biliopancreatic ducts. Compared to direct methods such as endoscopic retrograde cholangiopancreatography (ERCP), MRCP is not painful, does not require contrast media, and its success does not depend, to any great extent, on the operator's skill. It uses three-dimensional data sets for projection images, as well as arbitrary cross-sectional iamges. Faster data acquisition techniques are expanding its indications as a diagnostic tool. MRCP is undoubtedly the method of choice when ERCP is contraindicated or fails. Imaging after the injection of secretin improves pancreatic duct delineation, and may also add functional information to MRCP. Adequate diagnostic evaluation of acute pancreatitis, pancreatic trauma, and mucinous ductal ectasia may also be feasible. Further development and optimization of MRCP will substantially limit the indications for diagnostic endoscopic pancreatography.
+ER  - 
+
+TY  - JOUR
+AU  - Rapp, Hilde
+TI  - The four chambers of the heart of peace: four key tasks for peacebuilders working to heal a hurting world
+JO  - Psychotherapy and Politics International
+JA  - Psychother. Politics Int.
+VL  - 5
+IS  - 2
+SN  - 9781119139683
+UR  - https://doi.org/10.1002/ppi.132
+DO  - doi:10.1002/ppi.132
+SP  - 82
+EP  - 102
+KW  - conflict
+KW  - transformation
+KW  - peacebuilding
+KW  - sustainable development
+KW  - trauma healing
+KW  - violence
+PY  - 2007
+AB  - Abstract This is the continuation of an article that presents a generic four-quadrant ground map for working with conflict. Four key tasks of conflict transformation and proactive peacebuilding are explored: Q1.?Personal resources Q2.?Interpersonal and intercultural issues Q3.?Bio-psycho-social determinants Q4.?Organizational and systemic dimensions Quadrant 1, which maps personal resources, and Quadrant 2, which deals with the interpersonal and intercultural dimensions of conflict, were covered in the previous issue of this journal. In this issue I present the remaining two quadrants of the ground map: Quadrant 3, which addresses bio-psycho-social determinants of conflict, and Quadrant 4, which covers the systemic and organizational dimensions of conflict. This concludes the first conceptual part of this four-quadrant framework for understanding and working with conflict. In Part Two of this framework this conceptual ground map is applied to generate four practical steps towards transforming conflict on the road to peace: Step 1.?Diagnosis: what is going on here ? both good and bad? Step 2.?Prognosis: what are the options for change? Step 3.?'Treatment': what are the real-time possibilities for change? Step 4.?Maintenance: what will be needed to maintain these gains (stability under stress)? Part Three of this four-quadrant framework sets out common topics in a curriculum for peace work that addresses the theory and practice of conflict transformation by peaceful means. This includes: 1. Understanding root causes of conflict and other conflict contributing factors. 2. Theoretical approaches to understanding violence: structural, cultural and direct violence. 3. Mapping conflict positions, interests, needs, attitudes and behaviours of the actors, stakeholders and ?conflict entrepreneurs? involved in the conflict. 4. ?Multi-track diplomacy?, conflict settlement, management, and sustainable reintegration of conflict actors, (re)construction of infrastructure and sustainable development through institution building and wealth creation. I conclude by outlining four essential qualities for peace builders: The capacity to: 1 witness pain, distress and suffering. 2 hear complaints made by either party, connect emotionally with their pain and offer listening and understanding in a compassionate and intelligent way. 3 target those peacebuilding interventions that have the greatest leverage. 4 implement coherent partnership working across all four conflict quadrants. In the Appendix I introduce the recent international initiative for creating ministries or departments for peace in government. Copyright ? 2007 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Dinh, Michael M
+AU  - Berendsen Russell, Saartje
+AU  - Bein, Kendall J
+AU  - Chalkley, Dane
+AU  - Muscatello, David
+AU  - Paoloni, Richard
+AU  - Ivers, Rebecca
+C8  - EMA-2015-266.R1
+TI  - Understanding drivers of Demand for Emergency Service Trends in Years 2010–2014 in New South Wales: An initial overview of the DESTINY project
+JO  - Emergency Medicine Australasia
+JA  - Emergency Medicine Australasia
+VL  - 28
+IS  - 2
+SN  - 9781119139683
+UR  - https://doi.org/10.1111/1742-6723.12542
+DO  - doi:10.1111/1742-6723.12542
+SP  - 179
+EP  - 186
+KW  - demand
+KW  - emergency department
+KW  - population
+PY  - 2016
+AB  - Abstract Objective This study aims to describe the general characteristics and data definitions used in a population-based data set of ED presentations in New South Wales (NSW), used to form the basis of future-trend analyses. Methods Retrospective analysis of the Emergency Department Data Collection registry, which provided clinical and demographic information of ED presentations across all EDs in NSW between 2010 and 2014. Presenting problems and ED diagnoses were classified using broad clinical categories including injury/musculoskeletal, respiratory, cardiovascular, ear nose and throat, and mental health. Presentations were linked by patient to allow for analysis of representations, and population data were obtained from the Australian Bureau of Statistics. Results There were 11.8 million presentations that were analysed from 150 EDs (80.6% of all EDs). The rate of ED presentations was highest in those aged 85?years and older and appears to increase across all age groups between 2010 and 2014. The most common ED diagnosis categories were injury/musculoskeletal (27.5%) followed by abdominal/gastrointestinal (12.3%), respiratory (9%) and cardiovascular (8%). Both the Systematised Nomenclature of Medicine Clinical Terms (66%) and the International Classification of Diseases (24%) were used to code ED diagnoses. Conclusions The elderly population had the highest rate of ED attendances. The use of diverse diagnosis classifications and source information systems may present problems with further analysis. Patterns and characteristics of ED presentations in NSW were broadly consistent with those reported in other states in Australia.
+ER  - 
+
+TY  - JOUR
+AU  - Hulbert, Carol A.
+AU  - Jennings, Tarni C.
+AU  - Jackson, Henry J.
+AU  - Chanen, Andrew M.
+TI  - Attachment style and schema as predictors of social functioning in youth with borderline features
+JO  - Personality and Mental Health
+VL  - 5
+IS  - 3
+SN  - 9781119139683
+UR  - https://doi.org/10.1002/pmh.169
+DO  - doi:10.1002/pmh.169
+SP  - 209
+EP  - 221
+PY  - 2011
+AB  - ABSTRACT Theorized associations between adverse attachment experience, maladaptive core schema (EMS) and the interpersonal dysfunction seen as characteristic of borderline personality disorder were investigated in two groups of outpatient youth aged between 15 and 25?years. Patients with sub-syndromal (meeting at least 3 DSM-IV criteria) and full syndrome BPD (n?=?30) and patients with major depressive disorder completed self-report measures of adult attachment style, EMS and interpersonal functioning. Results for both groups indicated a level of disadvantage for each of the domains assessed. Contrary to prediction, mean scores for the two groups did not differ for anxious or avoidant attachment style or for 13 or the 15 EMS assessed. BPD participants scored at a significantly higher level for the Mistrust/abuse and Entitlement schema. Consistent with results reported for adult samples, the BDP group acknowledged a predominantly anxious attachment style, a wide range of EMS and poor interpersonal functioning. Hierarchical multiple regression analyses undertaken for each EMS domain in turn indicated that an anxious attachment style and endorsement of the Social Isolation EMS were the strongest predictors of social functioning. Against, prediction, there was limited evidence supporting the specificity of theorized relationships between BPD diagnosis and attachment style and prominence of Disconnection and Rejection domain EMS. Copyright ? 2011 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - D'ottavio, G.
+AU  - Paduano, L.
+AU  - Rustico, M. A.
+AU  - Meir, Y. J.
+AU  - Lenardon, P.
+AU  - Rosadini, A.
+AU  - Mandruzzato, G. P.
+TI  - WS01-07Borderline urinary tract malformations
+JO  - Ultrasound in Obstetrics & Gynecology
+VL  - 16
+IS  - s1
+SN  - 9781119139683
+UR  - https://doi.org/10.1046/j.1469-0705.2000.00009-1-7.x
+DO  - doi:10.1046/j.1469-0705.2000.00009-1-7.x
+SP  - 6
+EP  - 6
+PY  - 2000
+AB  - Background Ultrasonography is an effective diagnostic tool for identifying fetal urinary tract anomalies (UTA). Serious obstructive or dysgenetic abnormalities are often clearly detected and their implications well known. Less clear is the meaning of borderline (asymptomatic at birth) UTA, including: mild pyelectasis (MP), unilateral renal agenesis (URA), unilateral multicystic kidney (UMK) and ectopic kidney (EK). Method We determined the outcome of pregnancies and long-term renal function in 120 cases of prenatally detected borderline UTA. A prospective protocol was proposed to the parents which comprised ultrasound evaluation every 3?months until the age of 24?months, and renal function assessment in case of suspected worsening of prenatal findings. Results A total of 120 fetuses had a borderline UTA (MP n?=?58, URA n?=?14, UMK n?=?32, EK n?=?16). Eighteen of them showed some postnatal complication including: associated anomalies (3 cases), need for surgical intervention (6 cases), vesico-ureteral reflux (VUR, 5 cases) and repeated infection (4 cases). Conclusions Fetal pyelectasis, rarely requires neonatal intervention if the diameter of pelvis is included between 5 and 10?mm in the second trimester. Nevertheless, the risk of associated chromosome abnormalities should be ruled out if other risk factors are present. Unilateral multicystic kidney carries a high risk of nephrectomy and contralateral VUR, whereas unilateral agenesis or ectopic kidneys seem to carry limited, if any, negative implications, with the exception of possible undetected, associated anomalies.
+ER  - 
+
+TY  - JOUR
+AU  - Kim, Won-Hyoung
+AU  - Kim, Byung-Soo
+AU  - Kim, Shyn-Kyum
+AU  - Chang, Sung-Man
+AU  - Lee, Dong-Woo
+AU  - Cho, Maeng-Je
+AU  - Bae, Jae Nam
+TI  - Restless legs syndrome in older people: a community-based study on its prevalence and association with major depressive disorder in older Korean adults
+JO  - International Journal of Geriatric Psychiatry
+JA  - Int J Geriatr Psychiatry
+VL  - 27
+IS  - 6
+SN  - 9781119139683
+UR  - https://doi.org/10.1002/gps.2754
+DO  - doi:10.1002/gps.2754
+SP  - 565
+EP  - 572
+KW  - Restless legs syndrome (RLS)
+KW  - major depressive disorder (MDD)
+KW  - quality of sleep
+KW  - medical disease
+KW  - older people
+PY  - 2012
+AB  - Objective The prevalence of restless legs syndrome (RLS) and its relationship with the demographic variables in an older Korean population were examined. Methods A face-to-face household survey was conducted in five different regions of Korea from June 2008 to August 2008. Among a total of 3074 individuals who were aged more than 65, 1990 participants were interviewed, and the response rate was 64.7%. The diagnosis of RLS was made using an RLS questionnaire. The medical review of systems was assessed by a self-report questionnaire containing 15 items. Depression was diagnosed with the diagnostic section of depressive disorder of the Korean version of the Composite International Diagnostic Interview (CIDI) and the short form of the Geriatric Depression Scale (GDS). Results The prevalence of RLS in the older Korean population was 9.5% (men, 7.1%; women, 11.3%). RLS had a significant association with anemia (odds ratio (OR), 1.66; 95% confidence interval (CI), 1.29?2.12; P?<?0.001) and renal diseases (OR, 2.57; 95% CI, 1.95?3.38; P?<?0.001). RLS seemed to have a significant relationship with depression by using the CIDI (adjusted OR 2.01; 95% CI, 1.45?2.79. P?<?0.001) and GDS (adjusted OR, 1.62; 95% CI, 1.34?1.94; P?<?0.001). Conclusions Restless legs syndrome might be a risk factor for major depressive disorder in older Koreans. Future investigations should focus on the causality and mechanism underlying the relationship between RLS and major depressive disorder. Copyright ? 2011 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Leslie, D. R.
+TI  - POST-TRAUMATIC CYST IN THE GLUTEAL MUSCLES.
+JO  - Australian and New Zealand Journal of Surgery
+VL  - 21
+IS  - 3
+SN  - 9781119139683
+UR  - https://doi.org/10.1111/j.1445-2197.1952.tb03346.x
+DO  - doi:10.1111/j.1445-2197.1952.tb03346.x
+SP  - 233
+EP  - 235
+PY  - 1952
+ER  - 
+
+TY  - JOUR
+AU  - Egger, Helen Link
+AU  - Angold, Adrian
+TI  - Common emotional and behavioral disorders in preschool children: presentation, nosology, and epidemiology
+JO  - Journal of Child Psychology and Psychiatry
+VL  - 47
+IS  - 3‐4
+SN  - 9781119139683
+UR  - https://doi.org/10.1111/j.1469-7610.2006.01618.x
+DO  - doi:10.1111/j.1469-7610.2006.01618.x
+SP  - 313
+EP  - 337
+KW  - Diagnosis
+KW  - comorbidity
+KW  - preschoolers
+KW  - nosology
+KW  - epidemiology
+KW  - prevalence
+PY  - 2006
+AB  - We review recent research on the presentation, nosology and epidemiology of behavioral and emotional psychiatric disorders in preschool children (children ages 2 through 5?years old), focusing on the five most common groups of childhood psychiatric disorders: attention deficit hyperactivity disorders, oppositional defiant and conduct disorders, anxiety disorders, and depressive disorders. We review the various approaches to classifying behavioral and emotional dysregulation in preschoolers and determining the boundaries between normative variation and clinically significant presentations. While highlighting the limitations of the current DSM-IV diagnostic criteria for identifying preschool psychopathology and reviewing alternative diagnostic approaches, we also present evidence supporting the reliability and validity of developmentally appropriate criteria for diagnosing psychiatric disorders in children as young as two years old. Despite the relative lack of research on preschool psychopathology compared with studies of the epidemiology of psychiatric disorders in older children, the current evidence now shows quite convincingly that the rates of the common child psychiatric disorders and the patterns of comorbidity among them in preschoolers are similar to those seen in later childhood. We review the implications of these conclusions for research on the etiology, nosology, and development of early onset of psychiatric disorders, and for targeted treatment, early intervention and prevention with young children.
+ER  - 
+
+AU  - Hollis, Rachel
+AU  - Denton, Sharon
+AU  - Chapman, Gill
+C7  - pp. 187-217
+TI  - General Surgery
+SN  - 9780470058671
+UR  - https://doi.org/10.1002/9780470988145.ch15
+DO  - doi:10.1002/9780470988145.ch15
+SP  - 187-217
+KW  - radical surgical excision of a malignant tumour
+KW  - Wilms' tumour (or nephroblastoma)
+KW  - challenge of surgical care in paediatric oncology
+KW  - surgery as a diagnostic tool and treatment modality
+KW  - preparing the child and family for surgery
+KW  - post-operative nursing care and discharge planning
+KW  - late effects of surgical treatment
+KW  - surgery in supportive care and management of infection
+KW  - surgery to avoid complications of radiotherapy
+KW  - future trends in surgery
+PY  - 2006
+AB  - Summary This chapter contains sections titled: Introduction The challenge of surgical care in paediatric oncology Surgery as a diagnostic tool Surgery as a treatment modality Preparing the child and the family for surgery Post-operative nursing care Discharge planning Late effects of surgical treatment Surgery in supportive care Management of infection Surgery to avoid the complications of radiotherapy Future trends in surgery References
+ER  - 
+
+AU  - Le Dudal, Marine
+AU  - Bretagne, Stéphane
+AU  - Hardy, David
+AU  - Chrétien, Fabrice
+AU  - Jouvion, Grégory
+AU  - Johnson, Edward S.
+C7  - pp. 475-502
+TI  - Helminth Infections of the CNS
+SN  - 9781119467762
+UR  - https://doi.org/10.1002/9781119467748.ch48
+DO  - doi:10.1002/9781119467748.ch48
+SP  - 475-502
+KW  - Helminths
+KW  - worms
+KW  - larvae
+KW  - eggs
+KW  - histopathological diagnosis
+KW  - life cycle
+KW  - zoonosis
+KW  - animal models
+KW  - genetic susceptibility
+PY  - 2006
+AB  - Summary Helminth infections of the CNS are often accidental during migration of larvae or eggs. The lesions can be severe and rapidly fatal. These diseases are common to humans and animals, transmitted by a great variety of vectors or intermediate hosts, and have diverse modes of transmission. Clinical signs depend on the number and location of the parasites in the CNS and on the host immune response. Because there are no specific clinical signs, diagnosis can be difficult and histopathological identification of the parasites remains the gold standard of diagnosis. This chapter highlights the diversity of Helminths infecting humans, their importance in public health, their morphological characteristics, life cycle, epidemiologic data, pathologic characteristics, and diagnostic criteria.
+ER  - 
+
+TY  - JOUR
+AU  - Shear, M. Katherine
+AU  - Bjelland, Ingvar
+AU  - Beesdo, Katja
+AU  - Gloster, Andrew T.
+AU  - Wittchen, Hans-Ulrich
+TI  - Supplementary dimensional assessment in anxiety disorders
+JO  - International Journal of Methods in Psychiatric Research
+JA  - Int. J. Methods Psychiatr. Res.
+VL  - 16
+IS  - S1
+SN  - 9781119467762
+UR  - https://doi.org/10.1002/mpr.215
+DO  - doi:10.1002/mpr.215
+SP  - S52
+EP  - S64
+KW  - anxiety disorders
+KW  - dimensional assessment
+KW  - DSM-V
+KW  - illness staging
+PY  - 2007
+AB  - Abstract Anxiety disorders, as defined in the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV), comprise a relatively heterogeneous group of clinical conditions that range from specific phobias to obsessive compulsive disorder (OCD) and post-traumatic stress disorder (PTSD). The grouping under one heading refers to the fact that these seemingly heterogeneous disorders share a number of common psychopathological features and also share at least some common principles in treatment. Among the shared elements are broadly defined prototypical anxiety reactions, panic attacks, anticipatory anxiety, avoidance behaviour, a predominantly early onset, and relatively high persistence rates over time. Many of the shared diagnostic features of anxiety disorders are by their nature dimensional, and hundreds of psychometric scales have been developed to measure these diagnostic constructs across anxiety disorder and for specific diagnostic classes. This paper explores different types of dimensional approaches used in the literature and discusses how an integrated categorical/dimensional strategy might enhance the usefulness of the DSM-V. We suggest the use of cross-cutting dimensional ratings that might ultimately lead to an improved classification model. We also suggest that a staging approach to illness, based upon supplementary dimensional rating could provide useful information for clinical and research purposes. Copyright ? 2007 John Wiley & Sons, Ltd.
+ER  - 
+
+C7  - pp. 160-208
+TI  - Psycho-Educational Interventions
+SN  - 9781405108102
+UR  - https://doi.org/10.1002/9781444308075.ch8
+DO  - doi:10.1002/9781444308075.ch8
+SP  - 160-208
+KW  - psycho-educational interventions
+KW  - interventions based on emotional disclosure
+KW  - social support interventions
+KW  - multi-component interventions, focusing on exercise
+KW  - multi-component self-management interventions
+PY  - 2007
+AB  - Summary This chapter contains sections titled: Cognitive Behavioural Interventions Interventions Based on Emotional Disclosure Social Support Interventions Multi-Component Interventions Focused Primarily on Exercise Multi-Component Self-Management Interventions Personal Development Interventions Interventions for Enhancing Employment Potential Interventions in JIA Effectiveness of Psycho-Educational Interventions Chapter Summary
+ER  - 

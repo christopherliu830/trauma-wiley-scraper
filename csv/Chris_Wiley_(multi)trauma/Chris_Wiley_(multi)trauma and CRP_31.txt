@@ -1,0 +1,375 @@
+
+TY  - JOUR
+AU  - Kim, Y.o.
+AU  - Kim, J.i.
+AU  - Ku, Y.m.
+AU  - Choi, Y.j.
+AU  - Song, H.c.
+AU  - Jin, D.c.
+AU  - Kim, S.y.
+AU  - Choi, E.j.
+AU  - Chang, Y.s.
+AU  - Bang, B.k.
+TI  - Accuracy of Doppler Ultrasonography in Measuring Radial Artery Wall Thickness in Hemodialysis Patients: Comparison with Histologic Examination
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085g.x
+DO  - doi:10.1111/j.1492-7535.2004.0085g.x
+SP  - 80
+EP  - 80
+PY  - 2004
+AB  - Increased radial artery wall thickness (RAWT) is considered to be associated with early failure of radiocephalic arteriovenous fistula (AVF) as well as coronary artery atherosclerosis in hemodialysis patients. Therefore, exact measurement of RAWT by noninvasive method before the operation is very important. Objective:? This study was designed to evaluate accuracy of Doppler ultrasonography in measuring RAWT in hemodialysis patients. Methods:? This study enrolled 21 hemodialysis patients undergoing radiocephalic AVF operation for the first time. We measured RAWT (intima-media thickness) using high-resolution Doppler ultrasonography at the wrist before the AVF operation. We obtained specimens of the radial artery during the AVF operation and then measured RAWT by histologic examination. Results:? Mean age of the patients was 60?±?13 years and the number of females was 7 (33.3%). Mean values of RAWT measured by Doppler ultrasonography and histologic examination were 485?±?93??m (300?700??m) and 426?±?106??m (300?700??m), respectively. The value of RAWT of Doppler sonographic measurement well correlated with that of histologic measurement (r?=?0.800, p?<?0.001). Conclusion:? Our data suggest that Doppler ultrasonography is an effective tool in measuring RAWT in hemodialysis patients before AVF operation.
+ER  - 
+
+TY  - JOUR
+AU  - Cigarrán, S.
+AU  - Coronel, F.
+AU  - Torrente, J.
+AU  - Sevilla, M.
+AU  - Baylón, J.C.D.
+TI  - Accuracy of Online Conductivity Monitor Compared with Daugirdas (dPVV/Kt/V) Model. Use in the Clinical Field
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085m.x
+DO  - doi:10.1111/j.1492-7535.2004.0085m.x
+SP  - 82
+EP  - 83
+PY  - 2004
+AB  - The influence of dialysis prescription on outcome is well established. Hemodialysis dose has been shown to have a distinct impact upon the morbidity and mortality rate in patients on regular treatment therapy. Hence, adequacy of dialysis should be guaranteed. New devices based in online conductivity measures have been developed to achieve an adequate dialysis dose. The aim of this study was to compare online conductivity monitor (OCM) with dialysis dose standard methods (Daugirdas Kt/V). 24 anuric patients were included in a cross-sectional study: 20.8% were diabetics, mean age 64.7?±?18.2 years; 16% females. Access blood were AVFi and the effective dialyzed blood flow was set at 350?mL/min, with recirculation <5%. BMI was 25.4?±?3.8?kg/m2 and body weight was 69.7?±?12?kg. All patients were dialyzed thrice weekly (245?±?21?min) with dialysis machine 4008H (Fresenius Medical Care) equipped with OCM monitor and the hollow fiber high-flux polysulfone membrane (HF-80 1.8?m2) and helixone (Fx-60, 1.6?m2). Dialysate flow was maintained at 500?mL/min, with standard dialysate liquid. Drug therapy was not varied. Each patient was subjected to OCM on midweek day, during 3 consecutive weeks on the same day that blood Kt/V samples were taken as well. Each patient got 3 OCM measurements and Kt/V samples. Data were processed and statistically analyzed with SPSS 11.0 software package. Kt/V OCM relation to other baseline characteristics was assessed by using contingency tables, t-tests, analysis of variance, and linear regression, as appropriate. All the tests were performed for a 0.05 significance level. Descriptives (n?=?24) Mean SD Age (year) ??64.75 ??18.243 Dry weight ??69.7125 ??12.01178 Interdialysis weight gain 2266.67 1016.673 BMI ??25.4155 ???3.83630 HD time ?245.21 ??21.340 OCM ???1.29921 ???0.201072 Daugirdas Kt/V ???1.3287 ???0.21043 Watson volume (L) ??36.833 ???6.3095 Linear regression analysis: Kt/V OCM relationship Variable Regression coefficient (?) r2 p Age (year) ?0.631 0.398 <0.001 Daugirdas Kt/V ?0.981 0.962 <0.001 BMI ?0.327 0.107 NS Watson volume (L) ?0.833 0.694 <0.001 The OCM option correlates well with Daugirdas Kt/V obtained from blood samples, in 96.2%, and provides a safe and accurate tool for hemodialysis, adding efficiency to dialysis adequacy monitoring in clinical practice. Also, OCM allows for an individualized dialysis dose. Furthers studies are required to evaluate its influence on patients' evolution.
+ER  - 
+
+TY  - JOUR
+AU  - Yamashita, A.C.
+AU  - Kawanishi, H.
+TI  - Kinetic Analysis of Daily Hemofiltration
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085t.x
+DO  - doi:10.1111/j.1492-7535.2004.0085t.x
+SP  - 86
+EP  - 86
+PY  - 2004
+AB  - Daily hemofiltration (D-HF) is a new treatment modality that shows unique solute removal characteristics and possibly provides high quality of life for patients with end-stage renal disease. Objective:? To evaluate solute-removal characteristics of D-HF by kinetic modeling analysis. Methods:? Five HD patients with normal 4?h???3 times/week were switched to D-HF (2?h???6 times/week). Ultrafiltration rates (QF) or small solute clearances were approximately 100?mL/min. All the necessary kinetic parameters were determined from patients' physical data and HD portion of the clinical measurements. The two-compartment kinetic model predicted the concentration changes after switching from normal HD to D-HF. Results:? Concentrations of small solutes such as urea?nitrogen (UN) increased, whereas that of ?2-microglobulin (?2-MG) decreased after switching from normal HD to D-HF (Figure?1). Predicted solute concentrations for UN as well as ?2-MG correlated well with the clinical results. The model predicted that QF?=?140?mL/min may be required for time-averaged concentration (TAC) of UN to be unchanged. The model also predicted that the 7-times/week D-HF may not increase the TAC of UN very much even after switching from normal HD to D-HF. Conclusion:? D-HF is suitable for removing larger solutes but may not be good enough for removing small solutes. A 7-day treatment (7 times/week) may greatly improve the solute removal capacity of the so-called daily treatment (6 times/week) not only for larger solutes but also for small solutes.
+ER  - 
+
+TY  - JOUR
+TI  - American Society of Transplant Surgeons: 18th Annual State of the Art Winter Symposium
+JO  - American Journal of Transplantation
+VL  - 18
+IS  - S2
+SN  - 1600-6135
+UR  - https://doi.org/10.1111/ajt.14572
+DO  - doi:10.1111/ajt.14572
+SP  - 13
+EP  - 99
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - PACKER, LESTER
+AU  - BLUMBERG, JEFFREY
+AU  - JIALAL, ISHWARLAL
+AU  - LUNEC, JOE
+AU  - MEYDANI, SIMIN
+AU  - VIOLI, FRANCESCO
+AU  - WILLETT, WALTER
+TI  - Future Directions in Clinical Vitamin E Research: Panel Discussion B
+JO  - Annals of the New York Academy of Sciences
+VL  - 1031
+IS  - 1
+SN  - 0077-8923
+UR  - https://doi.org/10.1196/annals.1331.071
+DO  - doi:10.1196/annals.1331.071
+SP  - 313
+EP  - 323
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+AU  - Vachharajani, T.J.
+AU  - Atray, N.K.
+TI  - Nephrology Ethics: “No Dialysis” As a Treatment Option
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085ao.x
+DO  - doi:10.1111/j.1492-7535.2004.0085ao.x
+SP  - 94
+EP  - 94
+PY  - 2004
+AB  - Background:? Renal failure in elderly patients often generates an ethical question ?should dialysis be initiated?? The nephrologists are faced with the dilemma of conveying the prognosis of renal failure in elderly patients and also explain the pros and cons of offering a renal replacement therapy (RRT). Methods:? We report a retrospective study conducted between 6/2001 and 6/2003 to evaluate the clinical situations where initiating RRT was considered inappropriate. All patients who opted for not initiating/withdrawal of RRT were included in the study. Results:? Twenty-four patients were included in the study. All patients were males with average age 70.7 years. 17/24 were in the intensive care unit. Complex medical illnesses with poor quality of life were the major reasons for opting out of RRT. 20/24 patients opted for not initiating RRT and 3/24 patients opted for withdrawal. 1/24 opted for a trial of RRT before taking long-term decisions. 3/20 who opted against initiating RRT had advanced directives. 18/20 who opted for not initiating RRT died within 3 days of the need for RRT, 2/20 are alive without RRT after 6 and 4 months with estimated GFR of 14 and 12?mL/min, respectively. Patient who opted for a trial of RRT died eventually, 4 months after a prolonged bedridden stay in a nursing home. 3/3 ESRD patients died within a week after withdrawing dialysis. Conclusion:? The decision to initiate RRT should be made considering the overall prognosis. A decision to not initiate or withdraw RRT is possible in critically ill patients and if taken judiciously can reduce physical and mental stress of both patient and their family members.
+ER  - 
+
+TY  - JOUR
+AU  - Mineshima, M.
+AU  - Sato, Y.
+AU  - Akiba, I.i.t
+AU  - Sunohara, T.
+AU  - Masuda, T.
+TI  - Estimation of Internal Filtration Flow Rate in a Dialyzer by a Doppler Ultrasonography
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085az.x
+DO  - doi:10.1111/j.1492-7535.2004.0085az.x
+SP  - 98
+EP  - 98
+PY  - 2004
+AB  - Several types of dialyzers with enhanced internal filtration have been introduced in order to increase solute clearance, especially in relatively larger molecular solutes. In these dialyzers, enhanced internal filtration increased convective transport of the solute in addition to diffusive transport. The internal filtration flow rate (QIF) has not, however, been measured in clinical situations, because none of monitoring techniques can measure this value. Herein, the QIF value was estimated during an experimental and an analytical study. Namely, we measured blood flow velocity in a cross-sectional plane of the dialyzer by pulse Doppler ultrasonography. An in vitro study with bovine blood was carried out to determine the local blood flow velocity profile with a newly designed probe slider that enables parallel movement of the probe along the dialyzer. Furthermore, an analytical model was newly introduced to calculate changes in flow rate and pressure of blood and dialysate streams and solute concentrations along the dialyzer. The QIF value could be estimated by a simulation analysis to the experimental data using the analytical model.
+ER  - 
+
+TY  - JOUR
+AU  - Christopoulou,             S.
+TI  - Hemodialysis in the Elderly
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085bv.x
+DO  - doi:10.1111/j.1492-7535.2004.0085bv.x
+SP  - 106
+EP  - 106
+PY  - 2004
+AB  - During the last decade, the number of patients starting renal replacement therapy has increased for all ages, but the increase for patients over 65 years old has been particularly dramatic. Objective:? The aim of our study was the analysis of the outcome of all the patients who were over 65 years of age at the time they started chronic hemodialysis, in our Center (n, 52). Methods:? A total of 76 patients were treated by the chronic hemodialysis program of 251 Hellenic Air Force and VA General Hospital, between 1992 and 2002, while totally 309 patients were offered dialysis at this time. We found that 52 of them (68.4%) were over 65 years old [40 male (76.9%), 12 female (23.1%)]. Results:? Elderly patients manifest more often intradialytic complications, such as hypotensive episodes (28.8%) and arrhythmias (23.1%), due to their hemodynamic instability. Polypharmacy is a big deal for dialysis patients, especially elderly ones. Each patient was taking 9.1 PO and 1.9 IV medications on average, per day. Most of them (84.6%) required recombinant human erythropoietin. The most common co-morbid factors we observed in this population were cardiovascular diseases (36.5%), neurological problems, respiratory failure, bone disease, malignancy (17.3%), depression, malnutrition, and infections (30.8%). Deaths were often associated with more than one morbid factors. Survival and the quality of life in the elderly patients on hemodialysis are frequently acceptable. The 1, 3 and 5-year patient survival rates during 1990?2000 were 63.4%, 56.1%, and 26.8%. Conclusion:? We believe that if there are no extracontraindications, elderly patients can benefit from hemodialysis, taking into consideration that we should adapt the therapy to the geriatric special needs.
+ER  - 
+
+TY  - JOUR
+AU  - Fischbach, M.
+AU  - Terzic, J.
+AU  - Laugel, V.
+AU  - Helms, P.
+AU  - Livolsi, A.
+TI  - Daily Online Hemodiafiltration: Rescue Dialysis Modality for Children?
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085by.x
+DO  - doi:10.1111/j.1492-7535.2004.0085by.x
+SP  - 107
+EP  - 107
+PY  - 2004
+AB  - There is a growing interest in the use of daily dialysis since long-term experiences have shown good results. Online hemodiafiltration (OL-HDF) is an HDF technique that combines diffusion with high convection in which the ultrapure dialysis fluid itself is used as a reinfusion solution. The aim of this study was to demonstrate the beneficial effect of the more effective dialysis schedule (daily dialysis) with the dialysis modality that offers the highest uremic toxin removal (OL-HDF). Five children with left ventricular hypertrophy, mean age 12.3?±?6.2 years, on standard 3??4?h 3 times a week OL-HDF at least during the last 6 months, were switched to D-OL-HDF, 3??4?h 6 times per week with a minimal follow up of 6 months. Dialysis parameters were similar during both periods and only frequency of each session was changed. Tolerance, anemia control, phosphatemia, and phosphate binders, need of blood pressure medications, and left ventricular hypertrophy were evaluated. Only 3 of the 5 enrolled children could be followed 12 months, 1 was transplanted after 3 months, the other after 5 months D-OL-HDF. For all the children the disappearance of postdialysis fatigue was rapidly reported. There was a significant decrease in predialysis levels of phosphatemia (from 1.67±0.23 to 1.28±0.29?mmol/L) despite phosphate binders reduction of more than 50%. Hemoglobin significantly increased (from 11.8±0.9 to 13.4±1.3?g percentage ml) allowing EPO doses reduction. Left ventricular hypertrophy disappeared after 6 months D-OL-HDF, fractional shortening increased, allowing registration on transplantation list for 1 child. Our results clearly demonstrate that daily online HDF is able to offer to children on chronic dialysis a marked reduction of the cardiovascular risk factors. Is it ethical to reserve this dialysis modality only to selected children?
+ER  - 
+
+TY  - JOUR
+AU  - Özdemir, F.N.
+AU  - Atac, F.B.
+AU  - Akçay, A.
+AU  - Ozbek, N.
+AU  - Haberal, M.
+TI  - Role of Genetic Factors in Vascular Access Thrombosis in Hemodialysis Patients
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085k.x
+DO  - doi:10.1111/j.1492-7535.2004.0085k.x
+SP  - 81
+EP  - 82
+PY  - 2004
+AB  - Vascular access thrombosis is a frequent complication in hemodialysis (HD) patients. Genetic mutations, inflammation, and changes in the vascular wall are some factors that are thought to increase thrombosis risk. In this study, we tested for possible relationships between vascular thrombosis and some known thrombophilic mutation/polymorphisms in coagulation factors [factor V Leiden (FVL), prothrombin (Pt) G20210A, methylene tetrahydrofolate reductase (MTHFR C677T), factor XIII (F-XIII) Val34Leu, alpha-fibrinogen (AF) Thr312Ala, factor VII (F-VII) R353Q] and angiotensin I converting enzyme (ACE) gene in our HD patients. Patients who had experienced at least 3 episodes of AVF thrombosis composed of the study group, and patients who had never encountered this complication composed of the control group. None of the patients in either group had a history of diabetes mellitus, atherosclerosis, dialysis-related amyloidosis, or vasculitis. In order to find the frequency of F-XIII Val34Leu, AF Thr312Ala, and F-VII R353Q polymorphisms in our population, we also searched persons without renal disease or history of thrombosis (normal group). Results are summarized in Table. There was a tendency toward thrombotic mutation/polymorphisms in the study group for FVL, Pt G20210A, ACE I/D, and AF Thr312Ala. We suggest that patients who develop recurrent AVF thrombosis should be screened for the above-mentioned factors and investigated for other possible risk factors. This screening would allow more effective focus on prophylaxis. Genetic mutation/ polymorphism Study group Normal group Control group FVL/heterozygous 13 (n?=?46) ?7 (n?=?81) 24.5 (n?=?44) Pt G20210A/??heterozygous ?8.7 (n?=?46) ?2.7 (n?=?182) 20 (n?=?44) MTHFR C677T/??heterozygous ?0 (n?=?44) 28.8 (n?=?66) 22.3 (n?=?44) ACE I/DD/D 44.5 (n?=?44) 28.8 (n?=?138) 26.2 (n?=?29) I/D 36.3 (n?=?44) 47.2 (n?=?138) 23.1 (n?=?29) I/I 18.2 (n?=?44) 15.4 (n?=?138) 27 (n?=?29) F-XIII/??Val34LeuVal/Val 44.8 (n?=?29) 71.5 (n?=?112) 52 (n?=?25) ?Val/Leu 51.8 (n?=?29) 27.6 (n?=?112) 48 (n?=?25) ?Leu/Leu ?3.4 (n?=?29) ?0.9 (n?=?112) ?0 (n?=?25) AF Thr312AlaAla/Thr 83 (n?=?24) 58 (n?=?119) 83.3 (n?=?30) ?Thr/Thr 12.5 (n?=?24) 32.6 (n?=?119) 10 (n?=?30) ?Ala/Ala ?4.5 (n?=?24) ?8.4 (n?=?119) ?6.7 (n?=?30) F-VII R353QR/R 39 (n?=?18) 74.5 (n?=?98) 31.8 (n?=?22) ?R/Q 34 (n?=?18) 23.5 (n?=?98) 68.2 (n?=?22) ?Q/Q 27 (n?=?18) ?2 (n?=?98) ?0 (n?=?22) Values are percentages and numbers in parenthesis represent the number of patients/persons studied.
+ER  - 
+
+TY  - JOUR
+AU  - Maiza, H.a.
+AU  - Thomas, M.j.
+AU  - Dorcely, A.
+TI  - Survival of End-Stage Renal Disease Diabetic Patients on Hemodialysis
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085w.x
+DO  - doi:10.1111/j.1492-7535.2004.0085w.x
+SP  - 87
+EP  - 88
+PY  - 2004
+AB  - Purpose:? To analyze survival and causes of mortality in end-stage renal disease (ESRD) diabetic patients treated by hemodialysis. Methods:? Data of 1203 ESRD hemodialyzed patients between 1975 and 2002 were analyzed, 116 patients were excluded and 1087 patients included in the study. We studied the prevalence of the diabetic nephropathy, the rate of survival and causes of death by comparing diabetic patients with a control group of patients without diabetes. Results:? Among the 1087 patients requiring dialysis, 272 (25%) were diabetic and 815 non-diabetic whose causal nephropathy was nephroangiosclerosis 32%, glomerulonephritis 15%, chronic interstitial nephropathy 14%, and others 14%. The diabetics were older at the beginning of dialysis than non-diabetic patients: 60.33?±?11.39 years vs. 52.23?±?17.20 years, p?<?0.001. Average time on dialysis is more important in non-diabetic than diabetic group [5.90?±?5.73 years vs. 2.71.?±?2.48 years, p?<?0.001]. The rate of death was higher in diabetics than in control group [71.7% vs. 55.8%, respectively, p?<?0.003]. The difference in survival between the two groups remains significant for the same age. Death caused by cardiovascular disorders is higher in diabetics (68.8%) than non-diabetics (31.2%) (p?<?0.05). Among death causes, stroke is the most frequent cause in diabetics (18.4% vs. 11.6%) in non-diabetics, p?<?0.05. Death by heart failure and infections is higher in diabetics but the difference is not statistically significant (12.3% in diabetics vs. 9.4% in non-diabetics for heart failure and 13.8% vs. 11.4% for infections). Death due to neoplasms is higher in non-diabetics (4.39% vs. 1.02% in diabetics, p?<?0.05). Conclusion:? In our cohort, mortality in diabetic patients is higher than in non-diabetic patients. Cardio-vascular disorders are the most cause of death in diabetics and above all stroke, whereas mortality due to neoplasms is higher in non-diabetic patients. Diabetes is an important risk factor of mortality in hemodialysis patients.
+ER  - 
+
+TY  - JOUR
+AU  - Yoshimoto, A.
+AU  - Matsushima, Y.
+AU  - Sakaji, I.
+AU  - Yoshikawa, M.
+AU  - Nitta, T.
+AU  - Okuno, M.
+AU  - Ishida, Y.
+AU  - Kasahara, M.
+AU  - Suzuki, T.
+TI  - Significance of Measurement for Colloid Osmotic Pressure during Hemodialysis
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085aa.x
+DO  - doi:10.1111/j.1492-7535.2004.0085aa.x
+SP  - 89
+EP  - 89
+PY  - 2004
+AB  - Background and Purpose:? Colloid osmotic pressure (COP) in plasma rises by ultrafiltration during hemodialysis, and it consequently causes plasma refilling in which water moves from interstitial tissue to capillary space. Although hemodynamic stability is one of the important factors for good dialysis outcome, no informative and convenient indicators are available other than monitoring of blood pressure. Thus, we measured COP during hemodialysis whether COP can be used as an indicator for the hemodynamic status in comparison with hematocrit (Ht). Plasma osmolality, ultrafiltration volume, and the alteration of blood pressure were also measured to examine whether COP is associated with them. Method:? Sixteen patients hospitalized in this hospital were examined. Amongst them, 10 patients underwent both dialysis and ultrafiltration, while 4 patients received only dialysis and 2 patients were with ultrafiltration only by extracorporeal ultrafiltration method. Ultrafiltration was performed with constant speed to the dry weight for 4?h. The measurements of COP, plasma osmolality, Ht levels, and blood pressure were performed at 30?min (12.5% of the total water removal), 1?h (25%), 2?h (50%), and 3?h (75%) after the start of hemodialysis and also at the end of dialysis (100%). Result:? COP markedly rose by 26.0% (±13.3%) in the patients who received both dialysis and ultrafiltration, whereas Ht rose by only 13.6% (±5.21%). And the curve for COP increase was sigmoid shape, whereas that for Ht showed linear change. On the other hand, in the patients whose Ht levels showed low values, the curves for both COP and Ht showed similar pattern. Conclusion:? These results suggest that COP is a more sensitive indicator to be monitored for the hemodynamic status than Ht during hemodialysis.
+ER  - 
+
+TY  - JOUR
+AU  - Nakai, T.
+AU  - Masuhara, K.
+AU  - Yamasaki, S.
+AU  - Fuji, T.
+AU  - Kanbara, N.
+TI  - Low Serum Parathyroid Hormone Is a Predictor of Early Death after Hip Arthroplasty in Hemodialysis Patients
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085ab.x
+DO  - doi:10.1111/j.1492-7535.2004.0085ab.x
+SP  - 89
+EP  - 89
+PY  - 2004
+AB  - A high mortality rate after hip arthroplasty has been reported in hemodialysis patients; however, there has been no previous study on predictors of mortality after hip arthroplasty so far. Objectives:? The purpose of the present study was to identify any risk factors associated with early death in hemodialysis patients undergoing hip arthroplasty. Methods:? We retrospectively reviewed 34 patients on hemodialysis who underwent hip arthroplasty between 1994 and 2001. The average age was 60 years, and the average hemodialysis duration was 116 months at the time of operation. Body mass index (BMI), operating time, and total blood loss were reviewed. Serum levels of albumin (Alb), calcium (Ca), phosphorus (P), alkaline phosphatase (Alp), and intact parathyroid hormone (PTH) were measured preoperatively. Results:? Of these 34 patients, 9 died (26%). There were 2 perioperative deaths and 7 during follow-up period between 2 and 19 months. No significant difference was found with respect to patient age, hemodialysis duration, Alb, Ca, P, Alp, operating time, and total blood loss. Patients with lower BMI and PTH levels had an earlier mortality than patients with higher BMI and PTH levels (p?<?0.05 and p?<?0.01). Conclusion:? We conclude that despite an intensive care directed to our hemodialysis patients, the incidence of early death after hip arthroplasty is still high. If low BMI and serum levels of low PTH were detected before operation, we should pay special attention to early mortality after hip arthroplasty.
+ER  - 
+
+TY  - JOUR
+AU  - Foley, R.n.
+AU  - Fan, Q.
+AU  - Gilbertson, D.t.
+AU  - Ebben, J.p.
+AU  - Weinhandl, E.
+AU  - Collins, A.J.
+TI  - Mortality Risk between For-Profit and Not-For-Profit Dialysis Facilities
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085aj.x
+DO  - doi:10.1111/j.1492-7535.2004.0085aj.x
+SP  - 92
+EP  - 92
+PY  - 2004
+AB  - Background:? A recent meta-analysis suggested that the relative risk of mortality is 8% higher in private for-profit hemodialysis (HD) centers than private not-for-profit HD centers (Devereaux et al. JAMA 2002; 288: 2449). Objective:? To assess the association between dialysis center profit status and mortality using USRDS data in the current era under DOQI guidelines. Methods:? We studied incident HD patients from 1995 to 2000 who had Medicare as primary payer during the 4th through 6th month after ESRD initiation. Patients who died or underwent transplant during the 6 months after initiation were excluded. Primary dialysis provider was determined from the majority provider during the 6 months after initiation. Patient mortality for the following 12 months was evaluated via Cox regression, which adjusted for age, gender, primary cause of ESRD, race, cumulative hospital days, and comorbidity measures, which were assessed through both Medicare claims during the entry period and the Medicare Evidence form 2728. Patients were followed up until transplantation, death, or completion of the 12 months. Results:? 189,932 patients receiving HD during 1995?2000 were included in our analysis. The adjusted mortality rate was 271.6 per 1000 person-years at the private for-profit centers and 272.2 at the private not-for-profit centers. The mortality risk relative to private for-profit vs. not-for-profit centers was 1.009 (95% CI, 0.978?1.042; p?=?0.558). Sub-analyses that excluded hospital-based facilities showed similar results. Although public not- for-profit facilities were excluded from the analysis, a sub-analysis performed with these also showed similar results. Conclusion:? Our results suggest that dialysis center profit status was not associated with mortality. This lack of association was found in the combined 1995?2000 population and in separate models for each year. Freestanding vs. hospital-based and public vs. non-public facility had no impact on the results.
+ER  - 
+
+TY  - JOUR
+AU  - Sreenarasimhaiah, V.
+AU  - Brown, W.
+AU  - Gellens, M.
+AU  - Philipneri, M.
+AU  - Flynn, L.
+AU  - Joseph, A.
+AU  - Bastani, B.
+TI  - A Report on 4 New Cases of Nephrogenic Fibrosing Dermopathy in Chronic Hemodialysis Patients
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085at.x
+DO  - doi:10.1111/j.1492-7535.2004.0085at.x
+SP  - 96
+EP  - 96
+PY  - 2004
+AB  - Nephrogenic fibrosing dermopathy (NFD) is a rare entity affecting patients with renal failure, often on chronic dialysis or after transplantation (TXP). The patient profile at risk for this debilitating condition is yet undefined as is the role of renal failure in its etiology. We diagnosed 4 chronic hemodialysis (HD) patients with NFD. A 55-year-old Caucasian male on HD for 5 years, secondary to diabetic nephropathy, developed woody, indurated skin of the extremities, decreased mobility, and wheelchair dependence. He died within 1 year. A 66-year-old African-American male with diabetes, hypertension, and pancreatic cancer developed thick indurated skin on his extremities after being on HD for approximately 20 months. He died 3 months later from sepsis. A 26-year-old Caucasian female on HD for approximately 10 years, secondary to hyperoxaluria-induced renal failure, had undergone combined liver and kidney TXP with primary nonfunction of the renal TXP. She succumbed to cholangitis approximately 1 year after progressive skin thickening and joint contractures were noted. A 75-year-old Caucasian female with renal failure secondary to recurrent hemolytic uremic syndrome and TXP failure was dialysis dependent for 6 years. Over a 3-month period, she developed skin changes consistent with NFD and entered hospice care secondary to marked deterioration in her quality of life. In all of these cases, skin changes were restricted to the extremities, sparing the trunk, face, and internal organs. Skin biopsy findings included thickened dermis with particularly thickened collagen bundles, mucin deposition, and fibroblast proliferation and were distinct from scleromyxedema and scleroderma. Autoimmune disease workup was negative. Indeed, NFD is a novel cutaneous fibrosing disorder of progressively debilitating nature in patients with renal failure that needs further clinical and pathological characterization.
+ER  - 
+
+TY  - JOUR
+AU  - Hryciw, E.
+AU  - Courtney, M.
+AU  - Herian, N.
+AU  - Wales, L.
+AU  - Bainey, C.
+AU  - Adams, C.
+AU  - Foster, J.
+TI  - Establishing a Home Nocturnal Hemodialysis Program: “Starting From Scratch”
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085ba.x
+DO  - doi:10.1111/j.1492-7535.2004.0085ba.x
+SP  - 98
+EP  - 98
+PY  - 2004
+AB  - Purpose:? In April 2001, the Northern Alberta Renal Program (NARP) in Edmonton, Alberta received a government grant to start a Home Nocturnal Hemodialysis program for 17 patients. At that time NARP did not have a home program, so the challenge was to develop and operationalize the program and to stay within the requirements related to the grant. Methods:? We describe our experience with specific reference to funding, infrastructure, human resources, monitoring, and the target population. Results:? Funding from the grant allowed space for one dialysis teaching station and clinic area. A multidisciplinary team of a nurse, technician, social worker, and dietitian were recruited. New procedures were written, and new manuals were prepared for teaching. Several new machines were evaluated. The Bellco Formula machine from Genpharm was chosen. This machine had very limited use in North America and had never been used in a home program or a nocturnal program with monitoring. Initiating the monitoring proved to be one of our main challenges. We initiated monitoring with Capital Health Link, the telephone health information line for our region, to provide the observers for the monitoring. Initially the program was intended to serve people who lived in remote areas not serviced by a satellite hemodialysis unit, but in a population of 600 dialysis patients we were having difficulty recruiting. We widened the criteria and expanded our marketing strategy. Based on a survey of other programs and a patient satisfaction survey, we discontinued the monitoring after one year as it did not prove clinically beneficial and patients viewed it as restrictive. Conclusion:? Through perseverance and teamwork we were able to establish this innovative program ?from scratch.? We received an award for innovation from our health authority in 2003. The program now has 15 patients at home enjoying the benefits of home nocturnal hemodialysis, and we are expecting to expand the program. The evaluation to date is encouraging with respect to this therapy being clinically more effective than conventional dialysis and an improved quality of life for the patients.
+ER  - 
+
+TY  - JOUR
+AU  - Rico, A.
+AU  - Mislang, J.
+TI  - The Unsung Heroes (RNS) Battle Against SARS in Hemodialysis Setting
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085bp.x
+DO  - doi:10.1111/j.1492-7535.2004.0085bp.x
+SP  - 104
+EP  - 104
+PY  - 2004
+AB  - In early 2003, cases of SARS had surfaced around the world. The vast majority happened in China, Hong Kong, and Canada. In Toronto, the individual who manifested symptoms of SARS after visiting China died on March 22, 2003. A few days later SARS was declared a provincial emergency. Corona virus, the causative agent, is not well known. Its transmission and mutation had to be researched. Shortly thereafter, clusters of people were showing symptoms of the virus. There were 258 probable cases of SARS by May 14. The Ontario Ministry of Health and health care providers took steps to contain the virus, isolating those who were exposed and adopting new infection control procedures. On May 17, the provincial emergency was lifted. On May 25, there was a new wave of SARS cases (2nd outbreak). This was traced back to an RN who worked in a non-SARS unit. Nurses working directly with SARS were faced with very challenging times. SARS was a huge concern and impacted all health care professionals. The hemodialysis unit was no exception. After all, dialysis patients are already immunocompromised, mostly elderly, and frequent visits to the hospital make them more susceptible to the virus. Objective:? To identify how hemodialysis nurses were impacted by the SARS outbreak and the nursing management to control the disease. Method:? Saint Michael's Hospital in Toronto took a leadership role and became one of the SARS Tertiary Response Team. Four hemodialysis nurses were designated as trainers to train the other staff regarding infection prevention and control. Measures were in place such as: (a) strict screening methods for patients, staff, and visitors; (b) mask fitting for all staff; (c) use of PPE (protective protection equipment) (d) use of Hospital ID bar code for staff to declare themselves free of SARS. Results/Conclusion:? On August 25, there was only one probable case and there was no evidence of transmission of the virus in the hemodialysis unit. As for the nurses and all the unsung heroes who always put the needs and safety of their patients ahead of themselves, they continue to be dedicated in maintaining quality patient care even in the face of crisis or in an environment of fear.
+ER  - 
+
+TY  - JOUR
+AU  - Kreuzer, M.
+AU  - Vester, U.
+AU  - Hörning, A.
+AU  - Bonzel, K-E.
+AU  - Hoyer, P.F.
+TI  - Regional Anticoagulation with Sodium Citrate in Pediatric Patients on Intermittent Hemodialysis Therapy with Bleeding Risks
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085ca.x
+DO  - doi:10.1111/j.1492-7535.2004.0085ca.x
+SP  - 108
+EP  - 108
+PY  - 2004
+AB  - Heparin-free anticoagulation in hemodialysis (HD) is advocated for patients with clotting abnormalities and risk of bleeding. Objective:? First publication on regional citrate anticoagulation (RCA) in children. RCA is free from systemic effects, guarantees excellent dialyzer life, but requires careful monitoring. Methods:? We report on 3 patients treated by intermittent RCA HD (4?h each, high-flux dialyzer F40, Fresenius): (1) 17-year-old boy (renal transplant failure, access via cubital Cimino fistula) after hypertensive intra-cerebral hemorrhage (2 sessions); (2) 13-year-old girl (hemolytic uremic syndrome, access via jugular vein Shaldon catheter) after abdominal surgery and bleeding (8 sessions); and (3) 7-year-old boy (hyperoxaluria, access via PermCath? jugular vein catheter) after renal transplant biopsy (3 sessions). Sodium citrate 30% was infused into the extra corporeal circuit (blood flow 150?mL/min) before dialyzer (initial flow 30?mL/min) and calcium gluconate 10% for antidote into venous line near of catheter or fistula (initial flow 40?mL/min). Post-dialyzer extracorporeal serum Ca++ (aim?<?0.3?mmol/L) and pre-dialyzer intra-corporeal Ca++ (aim?>?0.9) were measured for every 30?min. Serum Na+, K+, base excess (BE), blood flow, blood pressure, heart rate, and blood out-flow and in-flow pressure were also monitored. Results:? For adequate RCA (mean extracorporeal serum Ca++ 0.24?±?0.04?mmol/L), a mean citrate flow of 36.1?±?5.9?mL/h and a mean calcium substitution rate of 40.8?±?3.4?mL/h were needed. Intra-corporeal Ca++ was kept at 1.10?±?0.07?mmol/L. Extracorporeal activated clotting time (ACT) was 194?±?41 and intra-corporeal ACT 90?±?12?sec. Serum Na+, K+, and BE during HD were 138?±?2, 3.5?±?0.3, and ?0.6?±?1.1?mmol/L, respectively. Mean arterial blood pressures of patients 1?3 were 117?±?5, 103?±?5, and 102?±?6?mmHg. All patients were stable and without any bleeding during HD. The only adverse event was 1 episode of hypocalcemia (Ca++?<?0.6?mmol/L) cured by stopping dialysis. Conclusions:? Local anticoagulation with sodium citrate during intermittent HD can be applied safely in children and adolescents.
+ER  - 
+
+TY  - JOUR
+AU  - Kim, Y.o.
+AU  - Shin, S.j.
+AU  - Shin, Y.s.
+AU  - Lee, S.h.
+AU  - Yoon, S.a.
+AU  - Kim, Y.s.
+AU  - Chang, Y.s.
+AU  - Bang, B.k.
+TI  - Impact of Ischemic Heart Disease on Early Access Failure in Nondiabetic Hemodialysis Patients
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085d.x
+DO  - doi:10.1111/j.1492-7535.2004.0085d.x
+SP  - 79
+EP  - 79
+PY  - 2004
+AB  - Atherosclerotic lesion of coronary artery frequently accompanies intimal hyperplasia of radial artery. We have reported that the lesion of radial artery (intimal hyperplasia) in hemodialysis (HD) patients is associated with early access failure (EAF) as well as ischemic heart disease (IHD) (Am J Kidney Dis. 2003; 41: 422?428). Objective:? This study was designed to determine the impact of IHD on the EAF in nondiabetic HD patients. Methods:? This study enrolled 125 nondiabetic HD patients who received radiocephalic arteriovenous fistula operation for the first time. We evaluated IHD before the operation through clinical symptoms and electrocardiography and then investigated EAF within 1 year after the operation. We analyzed the access patency rates between the patients with and without IHD, using Kaplan?Meier method and log-rank test. Multiple regression analysis was performed to identify independent risk factors of the EAF. Results:? The mean age of the patients was 48?±?14 years, and the number of females was 54 (43.2%). Of the total 125 patients, 19 patients (15.4%) had IHD before the operation. The EAF developed in 23 patients (18.4%) within 1 years after the operation. The access patency rate in the patients with IHD was lower than that in the patients without IHD (39.7 vs. 88.3%, p?<?0.001). IHD and old age were independent risk factors of the EAF in nondiabetic HD patients. But sex, smoking history, hypertension, and the levels of hemoglobin, serum creatinine, albumin, and total cholesterol checked before the operation were not associated with the EAF. Conclusion:? This study suggests that IHD is closely associated with EAF in nondiabetic HD patients.
+ER  - 
+
+TY  - JOUR
+AU  - Troidle, L.
+AU  - Eisen, T.
+AU  - Finkelstein, F.o.
+TI  - Why Do So Many Patients Have a Dialysis Catheter and Not Arteriovenous Fistulae or Grafts?
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085h.x
+DO  - doi:10.1111/j.1492-7535.2004.0085h.x
+SP  - 80
+EP  - 81
+PY  - 2004
+AB  - The Dialysis Outcome and Quality Initiative has guidelines for vascular access and states that the dialysis catheter (DC) should be limited to less than 20% of the end-stage renal disease (ESRD) patients. Our center has found this target difficult to achieve. Objective:? We wondered what the reasons for use of a DC might be. Methods:? We noted the number of patients with a DC in place and assessed the reasons why the DC was being used on 8/1/03. Results:? 73 of the 170 (42.9%) patients had a DC on 8/1/03. 24 (32.9%) of the patients refused to have initial arteriovenous fistulae or grafts (AVF/G) or a secondary AVF/G revision or replacement procedure performed after initial AVF/G failure. 15 (20.5%) patients had a maturing AVF/G, 12 (16.4%) had significant medical and/or surgical contraindications for AVF/G placement, 9 (12.3%) patients were awaiting surgical thrombectomy, revision or placement of AVF/G, 6 patients (8.2%) were awaiting transfer to CPD therapy, 4 (5.5%) patients were undecided about having an AVF/G placed, and 1 (1.4%) had acute renal failure and early ESRD recovery was expected. Only 2 (2.7%) patients had no access plan by the nephrology team. Conclusions:? Patients' refusal for an AVF/G placement and patients with a maturing AVF/G or awaiting surgical revision or placement were the most common reasons for the use of a DC in our center. To significantly impact on the high use of the DC, it would be crucial to better understand the reasons for patients? refusals.
+ER  - 

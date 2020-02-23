@@ -1,0 +1,378 @@
+
+TY  - JOUR
+AU  - Gold, L.I.
+AU  - Michaels, J.
+AU  - Callaghan, M.J.
+AU  - Galiano, R.D.
+AU  - Rahman, M.
+AU  - Gurtner, G.C.
+AU  - Nanney, L.B.
+TI  - 145 Biological Effects of Calreticulin on Wound Repair
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstracten.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstracten.x
+SP  - A38
+EP  - A38
+PY  - 2004
+AB  - Calreticulin (CRT) is a major classic Ca-binding chaperone protein of the endoplasmic reticulum. Recently, CRT has been recognized to have widespread extracellular effects as well. In the current study we show that CRT increases both epithelial migration and granulation tissue formation in models of porcine and murine wound repair. Partial thickness wounds were created on the paravertebral area of pigs (n?=?4) and 0.1% and 0.5% CRT, and PDGF (positive control) applied for 4 consecutive days. In wounds harvested at 5 days, CRT induced a 28 and 22% greater extent of reepithelialization than PDGF and Tris/Ca buffer control, respectively (% healed?=?56/CRT; 40.5/PDGF; 44/control). In addition, CRT stimulated earlier granulation tissue formation in a dose-dependent manner (cumulative dermal depth, microns: 1615/CRT; 1250/PDGF; 1325/control). A similar granulation tissue inducing effect of CRT was also observed in a steroid-impaired pig model. As a diabetic model of wound repair, two 5?mm circular full-thickness wounds were created on the dorsum of db/db mice; the wounds were splinted open with silicone rings and covered with occlusive dressing (n?=?24). After 5 days of treatment with 0.1, 0.5, and 5% CRT, a dose-dependent 8-, 4.5-, and 2-fold increase in granulation tissue formation was observed (p?<?0.05). However, there was no apparent effect on wound closure. Tissue sections showed a highly cellular dermis in the CRT treated wounds. In addition, CRT (50?pg/ml) stimulated wound closure in a scratch plate assay using fibroblasts by 45%, in 48?hrs, compared to 2% for the control. Therefore, CRT may be a novel agent for wound healing by acting as a chemoattractant for cells involved in wound remodeling and in epithelial migration. Suppported by Calretex, LLC. NJ, USA (LIG) and the Alumni Fund, Alumni Association Downstate College of Medicine (MJC).
+ER  - 
+
+TY  - JOUR
+AU  - Mohan, R.K.Dasu
+AU  - Barrow, RE
+AU  - Hawkins, HK
+AU  - McCauley, RL
+AU  - Herndon, DN
+TI  - 152 Blocking IL-6 Receptors Increases Matrix Metalloproteinase-3 Production in Hypertrophic Scar Fibroblasts
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstracteu.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstracteu.x
+SP  - A40
+EP  - A40
+PY  - 2004
+AB  - Introduction: We hypothesize that interleukin-6 receptor (IL-6r) blockade with IL-6r antibody will increase matrix metalloproteinase-3 (MMP-3) production in hypertrophic scar fibroblasts. To test this hypothesis, MMP-3 protein levels were measured in fibroblasts cultured from normal skin and hypertrophic scar with and without IL-6 receptor blockade. Methods: Primary cell cultures of normal skin (NSF) and hypertrophic scar fibroblasts (HTS) were obtained from the same patient (n?=?5) and seeded into 6 well plates (40,000?cells/cm2) in complete media. Cells were treated with and without IL-6 receptor antibody and IgG (10?ng/ml) for 6 hours. Protein concentrations of MMP-3 are determined in equal volume of supernatants by ELISA. Statistical analysis was by unpaired t-test(*P?<?0.05). Results: Blocking IL-6 receptors with its antibody showed significant increase in MMP-3 protein concentration in HTS compared to NSF. MMP-3(ng/ml) MMP-3(ng/ml) NSF 1.6?±?0.13 HTS 0.7?±?0.37 NSF?+?IL-6r 0.3?±?0.15 HTS?+?IL-6r 2.3?±?0.5* NSF?+?IgG 0.26?±?0.16 HTS?+?IgG 0.75?±?0.14 Conclusion: IL-6 receptor mediated signaling is involved in the pathogenesis of hypertrophic scar formation and its blockade may reduce hypertrophic scar formation.
+ER  - 
+
+TY  - JOUR
+AU  - Kang, D.W.
+AU  - Bellocq, N.C.
+AU  - Schluep, T.
+AU  - Looper, L.D.
+AU  - Gu, D-L.
+AU  - Quijano, E.M.
+AU  - Wen, S.F.
+AU  - Wang, X.
+AU  - Jensen, G.S.
+AU  - Pun, S.H.
+AU  - Zepeda, M.L.
+AU  - Davis, M.E.
+TI  - 005 Cyclodextrin Polymer Based Biocompatible Matrix for Local Gene Delivery
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractf.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractf.x
+SP  - A4
+EP  - A4
+PY  - 2004
+AB  - Biocompatible matrices, such as bovine collagen, have demonstrated usefulness in delivering gene therapy vectors that express growth factors to local environments for tissue repair. Unlike animal derived matrices, we have developed a new synthetic matrix consisting of a linear cyclodextrin-polyethyleneglycol co-polymer that is non-covalently cross-linked with di-adamantane-polyethyleneglycol via inclusion complex formation between adamantane and cyclodextrin (CD-Ada). We performed both in vitro and in vivo experiments for biocompatibility and localized transgene expression using a recombinant adenovirus (rAd) vector containing either the reporter gene, GFP, or the therapeutic gene, PDGF-B. In vitro results demonstrated cell migration, adenoviral transduction, and gene expression with no visible signs of toxicity in human skin fibroblasts. Qualitative gene expression from the CD-Ada containing rAd was delayed by approximately two days when compared to collagen, but the level of expression was greater over a longer period of time. In vivo experiments demonstrated gene expression after local delivery to mouse skin using rAd-GFP in CD-Ada. Again, the expression was slightly delayed but duration of expression was comparable to collagen. Expression studies using rAd-PDGF-B, were performed in the rat polyvinyl alcohol sponge model and showed comparable quantitative DNA and RNA levels between CD-Ada and collagen (DNA: 4.1???1010 and 4.5???1010 MEQ of PDGF-B/assayed sponge, respectively; RNA: 7.0???108 and 3.2???108 MEQ of PDGF-B/assayed sponge, respectively). Additionally, we explored the use of plasmid DNA with the CD-Ada matrix and observed PDGF-B expression in vivo. Our results show that this new delivery system provides a safe, efficient, and adaptable medium for both viral and non-viral gene delivery.
+ER  - 
+
+TY  - JOUR
+AU  - Sese, N.
+AU  - Cole, M.
+AU  - Tawil, B.
+TI  - 008 Cross – Talk between Fibroblasts and Keratinocytes in 3-d Fibrin Clots. In Vitro Studies
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstracti.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstracti.x
+SP  - A4
+EP  - A4
+PY  - 2004
+AB  - Fibrin Sealant products such as TisseelR have been used over the last 25 years to reach hemostasis during surgery or to seal tissues. Moreover, there were many studies on the use of fibrin sealant in cell and bioactive substance delivery. Our In Vitro and In Vivo studies, over the last 2 years, have focused on the use of fibrin sealant to deliver human fibroblasts or keratinocytes to overcome the healing deficiency in chronic wounds. We have shown that some fibrin formulations supported a high fibroblast proliferation and other fibrin formulations supported a high proliferation of human keratinocytes. In this study, we examined the use of fibrin sealant in the co-delivery of both human ? derived keratinocytes and fibroblasts. The study report examined the cell proliferation of these two cell types in various formulations of fibrin sealant. Fibroblasts and keratinocytes were mixed with various dilutions of the Sealer Protein solution and added to culture plates before adding the Thrombin solution to form fibrin clots containing both cell types. We found that a low to medium sealer protein concentration (1?34?mG/mL) and a very low thrombin concentration (1?U/mL) in the final fibrin clots provided for an optimal cell proliferation for both cell types within these fibrin clots. This profile of proliferation was different from that seen when keratinocytes alone or fibroblasts alone were incorporated in the fibrin clots. Morphologically, it was difficult to determine the cell type from examining cell morphology, thus, it was difficult to determine the cell distribution. In conclusion, we found that various modified formulations of fibrin sealant may be chosen when co- delivering fibroblasts and keratinocytes. Moreover, there seems to be a positive feedback between keratinocytes and fibroblasts when they were co ? introduced in the fibrin clots. This feedback could be carried by growth factors. Future studies will determine his signaling process.
+ER  - 
+
+TY  - JOUR
+AU  - Janis, A.D.
+AU  - Sherman, D.M.
+TI  - 010 Structural Characterization of Small Intestinal Submucosa (SIS) using Cryo and Traditional Scanning Electron Microscopy (SEM)
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractk.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractk.x
+SP  - A5
+EP  - A5
+PY  - 2004
+AB  - Composition and structure determine the fate of biomaterials in the body, encouraging or discouraging acceptance, cellular infiltration, and degradation or incorporation into host tissue. Most biomaterials research has been focused on composition, while structure remains a relatively uninvestigated factor in biomaterial success. Naturally derived biomaterials may provide optimal structure for cellular repopulation in certain applications. Porcine small intestinal submucosa (SIS) is an acellular, naturally occurring extracellular matrix used in the clinical treatment of soft tissue injury, including pressure, venous, and diabetic ulcers. Numerous studies have demonstrated that SIS induces host tissue infiltration, tissue-specific remodeling, and repair. SIS consists primarily of collagen, although the presence of other proteins, growth factors, glycosaminoglycans, and proteoglycans has been reported. SEM was used to characterize the cellular environment provided by this biomaterial. Cryo-SEM was used to image mechanically isolated, oxidatively disinfected, lyophilized, sterilized, and rehydrated SIS. The fractured cross-sectional faces of intact intestine, oxidatively disinfected SIS, and lyophilized SIS were imaged with traditional SEM. Comparison of the images utilizing cryo and traditional preparation techniques show that SIS is a heterogeneous matrix consisting of textured fibers of mixed size. There are differences in the structure of the mucosal and serosal surfaces. Although the matrix architecture shows signs of collapse and delamination following lyophilization, much of the native structure is preserved. These changes are preserved following rehydration. The effects of these structural changes on cellular reaction and infiltration are unknown, but the naturally complex architecture-clearly facilitates host interaction on thecellular and subcellular levels. This work was supported by Cook Biotech Incorporated.
+ER  - 
+
+TY  - JOUR
+AU  - Jennings, J.A.
+AU  - Feldman, D.S.
+AU  - Andino, R.V.
+TI  - 024 Effects of an Electrical Stimulation Bandage on Wound Healing
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstracty.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstracty.x
+SP  - A8
+EP  - A8
+PY  - 2004
+AB  - Although electrical stimulation (ES) has been successful in the treatment of various types of wounds, the popularity of the treatment has waned due to a lack of optimal methods of administration. The goal of this study has been to develop and evaluate a method of delivering ES that is easy to use and suitable for delivery in a home-health environment.[0] Specifically, a novel bandage system developed to provide an electric field in a manner resembling the natural wound current was tested in vivo. In this study, a full-thickness wound model in New Zealand white rabbits was used to measure the effects of such a bandage system on healing of [0]skin defects. Different levels of current were evaluated initially, with 50 and 20??A selected for the focus of this study, along with a non-stimulated control. Using histomorphometry healing rates, cellularity, and blood vessels were quantified at one and two week time points. The study showed the ability of this ES bandage to speed the healing process. An increase in overall healing rate over non-stimulated wounds of 45%(p?=?0.04) was observed in wounds stimulated with 50??A of current for 1 week. In wounds treated for 2 weeks, contraction rate decreased as well as the ratio of contraction rate to epithelialization rate. The stimulated wounds also showed an increase in the amount of macrophages, with a 79% increase in number of macrophages in wounds stimulated with 20??A for 2 weeks and a 198% increase in macrophages in those stimulated with 50??A compared to non-stimulated wounds. The performance of the bandage in the animal model has led to a limited clinical study on pressure ulcer patients using the 50??A system. Acknowledgements: This project was funded through Biofisica and the CDC through NCIPC.
+ER  - 
+
+TY  - JOUR
+AU  - Schwartz, SB
+AU  - McCampbell, B
+AU  - Garone, R
+AU  - Vodslon, Z
+AU  - Tokarcsik, E
+AU  - Coico, J
+AU  - Staiano-Coico, L
+TI  - 025 Modulation of Wound Repair in the Obese Diabetic Mouse: a Role for VEGF Gene Transfer
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractz.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractz.x
+SP  - A9
+EP  - A9
+PY  - 2004
+AB  - Identifying molecular loci of impaired cutaneous healing in diabetes with an eye towards developing targeted therapy to ameliorate dysrepair continues to evolve as a promising area of study. By using an excisional wound model produced on the dorsum of female diabetic C57BL/KsJ db?+?/db+ mice as well as their normal (WT)  2)Adnull vector; 3)PBS. Postoperatively, wounds were examined & photographed on Days 3, 7, 10, 14, 21 & 28. Also, tissue was harvested for histology & immunohistochemistry (PECAM), and snap frozen for protein & RNA analysis. A scoring system was used to grade re-epithelialization, granulation tissue thickness, matrix density, inflammation, vascular density, epithelial maturity. AAV-VEGF exerted minimal effect on repair in WT and HZ mice. However, pronounced neovascularization, thickened granulation tissue & increased matrix deposition was noted after VEGF treatment in the db/db mice compared to those that received PBS or adnull vector at all timepoints. While the induction of angiogenesis in VEGF treated db/db mice lagged behind the unimpaired mice by 5?7 days, a global improvement in wound healng was observed. R Crystal, Dir Inst Genetic Medicine, Weill Med College-Cornell Univ
+ER  - 
+
+TY  - JOUR
+AU  - Boost, Maureen
+AU  - Cho, Pauline
+AU  - Wang, Zhaoran
+TI  - Disturbing the balance: effect of contact lens use on the ocular proteome and microbiome
+JO  - Clinical and Experimental Optometry
+JA  - Clin Exp Optom
+VL  - 100
+IS  - 5
+SN  - 0816-4622
+UR  - https://doi.org/10.1111/cxo.12582
+DO  - doi:10.1111/cxo.12582
+SP  - 459
+EP  - 472
+KW  - contact lens
+KW  - microbiome
+KW  - ocular infection
+KW  - proteome
+PY  - 2017
+AB  - Contact lens wear is a popular, convenient and effective method for vision correction. In recent years, contact lens practice has expanded to include new paradigms, including orthokeratology; however, their use is not entirely without risk, as the incidence of infection has consistently been reported to be higher in contact lens wearers. The explanations for this increased susceptibility have largely focused on physical damage, especially to the cornea, due to a combination of hypoxia, mechanical trauma, deposits and solution cytotoxicity, as well as poor compliance with care routines leading to introduction of pathogens into the ocular environment. However, in recent years, with the increasing availability and reduced cost of molecular techniques, the ocular environment has received greater attention with in-depth studies of proteins and other components. Numerous proteins were found to be present in the tears and their functions and interactions indicate that the tears are far more complex than formerly presumed. In addition, the concept of a sterile or limited microbial population on the ocular surface has been challenged by analysis of the microbiome. Ocular microbiome was not considered as one of the key sites for the Human Microbiome Project, as it was thought to be limited compared to other body sites. This was proven to be fallacious, as a wide variety of micro-organisms were identified in the analyses of human tears. Thus, the ocular environment is now recognised to be more complicated and interference with this ecological balance may lead to adverse effects. The use of contact lenses clearly changes the situation at the ocular surface, which may result in consequences which disturb the balance in the healthy eye.
+ER  - 
+
+TY  - JOUR
+AU  - Leong, M.
+AU  - Zhao, J.
+AU  - Gould, L.J.
+TI  - 034 Light-Emitting Diode Therapy Increases VEGF and no Production in Raw 264.7 Cells
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractag.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractag.x
+SP  - A10
+EP  - A10
+PY  - 2004
+AB  - Introduction: Low-energy laser photostimuation has been reported to affect the proliferative phase of wound healing and stimulate macrophages. Light-emitting diodes (LED) are an efficient, inexpensive source of low energy photons. We propose that LED therapy will stimulate macrophage production of VEGF and NO. Methods: Serum-starved RAW 264.7 cells (5???105cells/ml) were treated with or without LPS (10?ng/ml) and IFN-gamma (100?Units/ml) for 24 hours. Cells were divided into groups: 1) control ? no LED, 2) 670?nm, 3) 730?nm, 4) 880?nm, and 5) combination (880?nm/730?nm/670?nm) at 4?J/cm2 per wavelength. Twenty-four hours post-LED, conditioned media was analyzed for VEGF (ELISA) and nitrites (Greiss assay). Proliferation was assessed using BrDU incorporation. Data were analyzed using one-way ANOVA with Tukey post-test. Results: In serum-starved cells, proliferation was unchanged by LED. VEGF and nitrite levels were increased in groups 4 (VEGF?=?1057.1?+/??100.3?pg/ml; nitrites?=?11.13?+/? 0.79?uM) and 5 (VEGF?=?1148.9?+/??88.5?pg/ml; nitrites?=?10.72?+/??1.03?uM) compared to control (VEGF?=?812.2?+/??94.8?pg/ml; nitrites?=?7.32?+/??1.92?uM). LPS/IFN decreased proliferation 25 percent at all wavelengths compared to control?+?LPS/IFN (p?<?0.01). Nitrite and VEGF levels were markedly elevated in all five LPS/IFN-treated groups with no appreciable intergroup differences. Conclusions: LPS/IFN stimulation resulted in maximally elevated levels of nitrites and VEGF, possibly masking the effects of LED. Serum-starved RAW 264.7 cells responded to LED treatment at 880?nm and combined wavelengths with increased VEGF and NO production. These results suggest that LED treatment at 880?nm and 880?nm/730?nm/670?nm may upregulate the production of pro-angiogenic factors by macrophages in the wound bed.
+ER  - 
+
+TY  - JOUR
+AU  - Han, G.
+AU  - Li, A. G.
+AU  - Owens, P.
+AU  - Wang, X-J
+TI  - 036 Overexpression of Smad7 in Keratinocytes Accelerates Cutaneous Wound Healing
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractai.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractai.x
+SP  - A11
+EP  - A11
+PY  - 2004
+AB  - Transforming growth factor ?(TGF?) has both positive and negative effects on cutaneous wound healing. Smad7 acts as a major downstream antagonist of TGF? signaling in keratinocytes and its role in wound healing has not been defined. We have established a Smad7 transgenic mouse line using a keratin 5 (K5) promoter (K5.Smad7) which expresses Smad7 transgene at a mild level (?2 fold of the endogenous Smad7 in the skin). These mice did not have overt skin defects as shown from our previous Smad7 transgenic mice expressing much higher levels of the Smad7 transgene (EMBO J 2002, 21:2580?90). K5.Smad7 mice from the above low expressor line and non-transgenic littermates were subject to 6-mm full-thickness excisional wounding. K5.Smad7 mice exhibited early scab rejection, reduced inflammation, and accelerated re-epithelialization as compared to non-transgenic mice. To further determine the stage-specific effects of Smad7 on wound healing, we generated a transgenic model in which Smad7 transgene expression can be induced in the epidermis and hair follicles (gene-switch-Smad7) by topically RU486 application. Smad7 induction from day 3 to day 7 after excisional wounding reduced inflammatory responses through suppressing expression of a variety of inflammatory cytokines/chemokines in gene-switch-Smad7 mice as compared to control mice. Meanwhile, overexpression of Smad7 exhibited accelerated re-epithelialization, which correlated with increased expression of metalloproteinases and elevated Erk (extracellular signal-regulated kinases) signaling in the leading epidermal edges in gene-switch-Smad7 wounds compared to control wounds. Smad7 induction from day 7 to day 20 after excisional wounding reduced dermal fibrotic response and angiogenesis in the dermis, resulting in a better tissue repair. We conclude that the effectsof Smad7 on wound healing are likely due to blocking the negative effects of TGF? on cutaneous wound healing.
+ER  - 
+
+TY  - JOUR
+AU  - Looper, D.
+AU  - Kang, D.W.
+AU  - Gu, D-L.
+AU  - Maneval, D.
+AU  - Zepeda, M.
+TI  - 046 Characterization of Wound Repair Effects after rAd-p21 Treatment
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractas.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractas.x
+SP  - A13
+EP  - A13
+PY  - 2004
+AB  - Excessive scarring is a significant clinical problem, resulting in both adverse tissue form and function and the goal of therapeutic interventions is to reduce and prevent excessive scarring. We have demonstrated that a recombinant adenovirus containing the cyclin-dependent kinase inhibitor p21 (rAd-p21), inhibited scar formation by blocking cell cycle progression and attenuated cell proliferation at the wound site (Perkins et?al 2002). Recently, we have shown rAd-p21 specific antiproliferative effects on granulation tissue in vivo(Gu, et?al, manuscript submitted). Safety parameters using rAd-p21 for anti-scarring may include effects on wound strength and dehiscence of the wound. We tested effects of rAd-p21 on wound strength in vivo using tensile strength as an endpoint and included comparisons with other clinically relevant antiproliferative agents. Specifically, rAd-p21 at doses from 1???107 to 3.8???1010 particle (PN) per incision was administered intradermally to linear rat incisions and assayed 14?28 days post treatment. rAd-p21 mildly reduced tensile strength at high doses (≥3???1010PN), whereas low to moderate doses (1???107 to 1???1010PN) had no effect. Interestingly, all rAd-p21 treated wounds regained tensile strength indistinguishable from vehicle control, 4 weeks after treatment, suggesting that rAd-p21 wounds recover with time. An adenovirus control vector, not containing a gene (rAd-Empty), showed subtle reduction of tensile strength that was only statistically significant at day 21. This suggests that delivery of rAd-Empty alone in the wound has little effect on wound strength. Triamcinolone at 5?mg/mL/wound, 5-FU at 10?mg/mL/wound, and low doses of MMC did not significantly reduce tensile strength, although high doses of MMC (0.2?mg/mL/wound) severely reduced tensile strength which failed to recover after 28 days. Morphological analysis of all groups revealed necrosis only in the MMC treatment. This data suggests that rAd-p21 may reduce the hyperproliferative status in excessive scar formation with minimal effects on wound strength.
+ER  - 
+
+TY  - JOUR
+AU  - Michaels, J
+AU  - Dobryansky, M
+AU  - Galiano, RD
+AU  - Bhatt, KA
+AU  - Ashinoff, R
+AU  - Ceradini, DJ
+AU  - Levine, JP
+AU  - Gurnter, GC
+TI  - 050 The Angiogenesis Inhibitor Endostatin Impairs Wound Healing at Tumor-inhibiting Doses
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractaw.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractaw.x
+SP  - A14
+EP  - A14
+PY  - 2004
+AB  - Introduction: Angiogenesis is thought to be important for granulation tissue formation and for the delivery oxygen and other nutrients to the healing wound bed. We examined whether angiogenesis inhibitors (AI) such as endostatin decrease neovascularization in full-thickness wounds leading to impaired granulation tissue formation and delayed wound closure. Methods: Endostatin at tumor-inhibiting doses (20?mg/kg/BID) was injected daily starting three days prior to surgery. Two full-thickness wounds were created on the mouse dorsum using a novel wound healing model developed in our lab. A second experimental group had topical VEGF (10??g/QD) applied to these wounds. Both groups were compared to PBS-treated controls. Wounds were analyzed for closure time, granulation tissue formation, and wound vascularity using CD31. Results: Endostatin-treatment delayed wound closure compared to control mice (17.4d?±?1.51 vs. 12.8?±?0.89, P?<?0.05), resulted in decreased granulation tissue formation at all time points (P?<?0.05), and significantly reduced wound vascularity as measured by CD31+ vessel counts (P?<?0.05). VEGF application to the wound bed of endostatin-treated mice normalized wound closure despite endostatin treatment (13.8d?±?1.1 vs. 17.44d?±?1.51, P?<?0.05). Conclusion: Endostatin impairs wound angiogenesis, granulation tissue formation and delays full-thickness wound closure. Topical VEGF was able to reverse this effect and may represent a novel approach to improve wound healing in patients receiving AI. These findings may have serious implications for patients undergoing AI treatment that require surgery or who have wound healing complications. Acknowledgements: This project received no outside funding.
+ER  - 
+
+TY  - JOUR
+AU  - Yari, F.
+AU  - Hosseini, A. Zavaran
+AU  - Nemat-Gorgani, M.
+AU  - Mansouri, Parvin
+AU  - Khorramizadeh, M.R.
+TI  - 097 Comparative Analysis of HLA-G Expression by Keratinocytes Derived from Pemphigus Vulgaris Patients vs. Normal Individuals
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractcq.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractcq.x
+SP  - A26
+EP  - A26
+PY  - 2004
+AB  - Background: Human leukocyte antigen-G (HLA-G), is a non-classical HLA class I molecule. Over the past few years, HLA-G has been considered as a tolerogenic antigen and a tissue protective molecule in inflammatory diseases. Objectives: This study was performed to analyze HLA-G expression in pemphigus vulgaris (PV) patients and to assess its possible anti-inflammatory role in skin disorders. Methods: With observing ethical issues, skin biopsies from 4 normal subjects and 3 PV patients were prepared. The epidermal layer of these biopsies was separated using Dispase enzyme treatment. After trypsinization, single cell suspensions of keratinocytes were cultured in MCDB-153 serum-free medium. Three weeks supernatants were collected and applied for a sandwich ELISA to detect total soluble isoforms of HLA-G antigen. Two species of antibodies used for ELISA were made in our laboratory, i.e. anti-HLA-G polyclonal and 5E6H7 monoclonal. A reverse transcriptase polymerase chain reaction (RT-PCR) was developed for pan HLA-G transcript to assess the regulation level of HLA-G expression. Results: The data on ELISA experiments showed significant HLA-G expression by PV kertainocytes (p?<?0.001). No traces of HLA-G production were seen in normal cells. RT-PCR revealed, however, variation in HLA-G mRNA expression. These findings indicate that regulation of HLA-G gene might occur both at transcriptional and translational levels. Conclusions: Collectively, our data show the presence, and hence, advocate the possible protective contribution of HLA-G isoforms in skin inflammatory processes.
+ER  - 
+
+TY  - JOUR
+AU  - Serena, T.
+TI  - 128 Wound Healing Morphology in an Acute Wound Healing Study
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractdv.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractdv.x
+SP  - A33
+EP  - A33
+PY  - 2004
+AB  - Background: Physiological healing in acute wounds generally occurs by granulation from the wound base and by migration of epithelium from the wound edges toward the center of the wound in a uniform, concentric fashion. The Wound Healing Cooperative Group (WHCG) compared this phenomenon in acute wounds treated with standard care versus acute wounds pharmacologically stimulated with growth factor therapy. Methods: With informed consent, 20 normal healthy volunteers underwent four 6?mm biopsies of the flexor surface of both forearms. The biopsy sites were randomly assigned to a control arm (daily bacitracin) or to one of three treatment arms: i) rhPDGF-BB 0.01% gel Q.D., ii) rhPDGF-BB Q.O.D., iii) daily rhPDGF-BB (Q.D.???7 days followed by bacitracin alone daily). Wound morphology was carefully examined and photographed daily until complete healing was achieved. Results: There were distinct differences in the morphological pattern of healing seen between control wounds and growth factor-stimulated wounds. Acute wounds treated with bacitracin tended to heal in circumferential fashion, as predicted. Growth factor-stimulated wounds, by contrast, exhibited accentuated angiogenesis (granulation), with non-uniform epithelial islands streaming into the wound. Conclusion: This pilot study suggests that rhPDGF-BB influences acute wound healing by promoting accelerated granulation and epithelialization. Accelerated healing is manifest by different healing morphologies. The biological basis for these differences requires further histological and molecular analyses. Acknowledgements: Funding from The Angiogenesis Foundation.
+ER  - 
+
+TY  - JOUR
+AU  - Stout, E.I.
+TI  - 129 A Summary of Scientific Studies and Clinical Results with a Glycerine Based Dressing
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractdw.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractdw.x
+SP  - A34
+EP  - A34
+PY  - 2004
+AB  - The importance of controlling the bioburden in wounds can not be over emphasized. Glycerine based gel sheets have been used extensively to show their bacteriostatic/fungistatic properties. Hoekstra studied animal wounds and compared glycerine dressings with water based dressings and the glycerine showed superior bioburden reduction. Vandeputte showed similar results when comparing hydrogel and hydrocolloid dressings and looked at the histology of the wounds to find differences in the quantities of the types of cells present. The reduced scar formation of wounds are thought to be attributed to the influence of the glycerine on the healing process. Hoestra has reported the dramatic reduction in the inflammation reaction soon after application of the glycerine gel dressing. Studies by Oliveria-Gandia, Davis, and Mertz showed the glycerine dressings to be more effective than hydrogel or hydrocolloid dressings in reducing bioburden in animal wounds that were inoculated with microbes and also reducing biocounts in appropriate growth medium. Vandeputte conducted a diabetic study(no exclusions) that compared the glycerine dressing (n?=?15) with standard protocol(n?=?14) for diabetic foot wounds, that showed the test dressing to be far superior. He along with thousands of other nurses around the world have reported the use of glycerine dressings on superficial burns to reduce pain, reduce the chance for infection, reduce scar formation, and to protect the wound from friction and pressure. J. Baksa extensively used the glycerine gel sheets in his burn unit not only for the superficial wounds but also for 3rd and 4th degree burns on children as well as after surgical removal of hypertrophic and keloid scars to prevent reoccurrence. T.M. Baum and M.J. Busuito also reported the use of the glycerine dressing for scar prevention and treatment. The glycerine dressing has been used extensively for te treatment and prevention of pressure ulcers in hospitals, nursing homes, athletic fields, as well as, under casts, splints and braces. R. Horchner reported a >95% reduction in pressure ulcers in a direct comparison to the control and to hydrocolloids.
+ER  - 
+
+TY  - JOUR
+AU  - Sharma, A.
+AU  - Singh, A. K.
+AU  - Warren, J.
+AU  - Maheshwari, R. K
+TI  - 132 Differential Regulation of Osteopontin and Matrix Metalloproteinases During Diabetic Wound Healing
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractdz.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractdz.x
+SP  - A34
+EP  - A34
+PY  - 2004
+AB  - Delayed wound healing is a common complication of diabetes resulting in significant clinical morbidity. The diabetic wound exhibits impaired cellular infiltration and consequently inadequate granulation tissue formation. Additionally, altered patterns of apoptosis. In this study, we have evaluated the differential gene expression pattern in transgenic diabetic female mice, 5?6 weeks old, in a full thickness cutaneous punch wound model. We assessed the role of matrix metalloproteinases (MMPs) and differential gene expression pattern at 4th, 7th and 11th day post wounding. Supernatants obtained from diabetic wound tissue homogenates were subjected to zymogram analysis. The data showed that MMPs were expressed at higher level by 4th day post wounding, whereas expression of MMPs were down regulated towards the 11th day post wounding suggesting their role during early phase of wound healing. The pathway specific gene array data demonstrated differential regulation of several growth factors, transcription factors and other related genes such as fibroblast growth factors and their receptors, ID3 and restin respectively. The cytokine/extracellular matrix protein osteopontin (OPN), an important component of cellular immunity and inflammation also showed higher expression after 4 days post wounding. The expression of OPN remained at higher level after 11 days post wounding in diabetic mice, whereas the expression were down regulated to basal level in normal wounded animal suggesting that the expression of OPN was concomitant with the extent of healing. Other adhesion molecules such as integrin αV and PECAM-1 were also differentially regulated. Though a single gene may not be solely responsible for any defect or impairment in healing as it is a very tightly controlled and regulated process, however, a detailed study of these gene(s) may shed some light to the delayed healing in diabetic mice. Acknowledgements: (These studies are supported by NIH Grant G174KT.)
+ER  - 
+
+TY  - JOUR
+AU  - Harris, Scott M
+AU  - Zhang, Lijuan
+AU  - Parente, Jody
+AU  - Gallo, Richard L.
+AU  - Lee, Phillip H. A.
+AU  - Falla, Timothy J.
+TI  - 141 HB107: A Pre-Clinical Therapeutic Peptide
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractej.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractej.x
+SP  - A37
+EP  - A37
+PY  - 2004
+AB  - Peptides of the innate immune system play a vital role in the protection and repair of almost all biological systems. Such peptides have been implicated in a range of activities associated with prevention of disease and modulation of innate immunity. HB107 is a derivative of one such peptide, Cecropin B, that has demonstrated efficacy in enhancing wound healing in both burn and incision animal models. HB107 has been evaluated for efficacy in a mouse incision model and for safety and efficacy in a pig burn wound model. Topical application of the peptide gives RE50(time needed for 50% re-epithelialization) values of 10.28 days for 500?ug/mL and 12.72 days for 100?ug/mL compared to control 16.45 days. Additionally the peptide was well tolerated in terms of safety both topically and in an IV acute toxicity mouse model with no adverse effects observed. HB107 not only demonstrated efficacy and safety, but due to being a relatively short synthetic peptide, costs significantly less to manufacture than the current approved therapies.
+ER  - 
+
+TY  - JOUR
+AU  - Danon, David
+AU  - Zuloff-Shani, Adi
+AU  - Kachel, Erez
+AU  - Mohr, Raphael
+AU  - Shinar, Eilat
+AU  - Orenstein, Arie
+TI  - 014 Macrophage Suspensions Treatment of Infected Sternal Wounds Following Cabg Surgery
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractxo.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractxo.x
+SP  - A6
+EP  - A6
+PY  - 2004
+AB  - Macrophages serve as the coordinators of the wound healing process. Since 1998 following the Israeli Ministry of health authorization, macrophage suspensions have been used for the treatment of ulcers, in more than 800 elderly and paraplegic patients suffering from decubital chronic ulcers. As previously published, a significant number of genes showed increased levels of expression in hypo-osmotic shock activated cells, using DNA microarrays technique. The majority of these genes are considered to be directly involved in the macrophage function and in the wound healing process. Macrophge suspensions are prepared from a whole blood unit of healthy, young volunteer blood donors in a closed, sterile system, as previously described. The activated cells are applied to the wounds either by local injection or by direct deposition to the wound. Between January 2000 and October 2003, 112 patients with postoperative sternal wound infection were treated with macrophage suspension. Full closure of the wounds was achieved in 104 (93%) of the patients. Original wound surface area 8?175?cm2 (mean 93) Days until treatment 6?180 (mean 47) Days until 50% closure 6?60 (mean 21) Days until full closure 10?138 (mean 49) No side effects were noted. The use of macrophage suspension is a safe and effective therapeutic strategy that reduces risk of complications and morbidity and improves the quality of life for long -suffering patients. Length and cost of hospital stay may be reduced, as the treatment requires no hospitalization.
+ER  - 
+
+TY  - JOUR
+AU  - Han, Yuan-Ping
+AU  - Zhou, Ling
+AU  - Garner, Warren L.
+TI  - 016 TNF-alpha Mediated Induction of MMP-9 is Modulated by P21-activated Kinase (PAK)
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractxq.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractxq.x
+SP  - A6
+EP  - A6
+PY  - 2004
+AB  - Matrix metalloproteinase-9 (MMP-9) transiently expresses in acute wound. In non-healed wounds, MMP-9 together with other proteinases persistently elevate, which may lead excessive ECM degradation and failure of wound closure. To understand the molecular regulation of MMP-9 we investigated the signal transduction for TNF-alpha mediated induction of MMP-9 by dermal fibroblasts. TNF-alpha initiates three major signal pathways including NF-11B, JUN N-terminal kinase (JNK), and p38 MAPK. On the other hand, Rho-GTPase plays an important role in a variety of cellular functions including cell morphogenesis, motility, survival, angiogenesis, and mitosis. It remains unknown if the ?cross talk? of these signals having a role in regulation of matrix metalloproteinases (MMPs). In this study we found that over expression of the p21-activated kinase (PAK) specifically attenuates TNF-alpha mediated induction of MMP-9. However, TNF-alpha mediated induction of MMP-3 and proMMP-2 activation was intact. NF-?B signal is regarded as a common pathway for many MMPs. Indeed, PAK did not affect TNF-alpha mediated degradation of Ikappa B, suggesting additional signal is targeted by PAK. In contrast, MMP-3 but not MMP-9 expression is specifically blocked by p38 MAK. Thus TNF-alpha induced expression of multiple MMPs in wound healing may utilize different intracellular signal pathways.
+ER  - 
+
+TY  - JOUR
+AU  - Ricotti, Carlos
+AU  - Cazzaniga, Alex
+AU  - Chen, Halland
+AU  - Mertz, Patricia M.
+AU  - Davis, Stephen
+TI  - 057 Epifluorescent and light microscopic visualization of bacterial microcolonies in acute wound infections – Are these biofilms?
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractbd.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractbd.x
+SP  - A16
+EP  - A16
+PY  - 2004
+AB  - A biofilm is a formation of surface-associated microbial cells that are enclosed in a self produced extracellular polymeric substance matrix. This definition is acceptable for in-vitro research but a clear definition for biofilm-associated diseases has yet to be elucidated. A structural/morphological definition is currently used to define biofilms; additionally, physiological or molecular criteria will allow us to define biofilms in disease infection accurately. Our objective over the past several years has been to characterize and observe bacterial biofilms in wound infections using different wound models. To broaden our current understanding of biofilm morphology in wounds for this study we used epifluorescent and light microscopy to visualize wound pathogenic pseudomonas aeruginosa bacteria in a porcine partial thickness infection model. Three experimental animals were used for this study. After animal preparation, partial thickness wounds were created on the backs of 3 animals. Wounds were then inoculated with 106 colony forming units/ml (CFU/ml) of Pseudomonas aeruginosa and covered for 48 hours to allow bacteria to colonize and infect the wound. Biopsies were obtained from normal skin, wounds before inoculation, wounds at 48 hours and wounds 48 hours after inoculation. Biopsies were processed and stained with Hematoxylin and Eosin for light microscopy and Calcofluor White and Ethidium Bromide for epifluorescence microscopy. Images obtained using epifluorescent and light microscopy demonstrate that bacteria form aggregates of microcolonies. These structures are representative of bacterial biofilms and support the hypothesis that bacteria live as biofilms in wound infection. Although currently there is no established and accepted definition for biofilm associated diseases, we anticipate that more studies looking into physiological changes of these structures will clarify our current understanding of wound infection and treatment.
+ER  - 

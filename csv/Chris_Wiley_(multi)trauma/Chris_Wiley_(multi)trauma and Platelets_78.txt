@@ -1,0 +1,373 @@
+
+TY  - JOUR
+TI  - Rural Surgery Program Abstracts
+JO  - ANZ Journal of Surgery
+JA  - ANZ J Surg
+VL  - 84
+IS  - S1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/ans.12625
+DO  - doi:10.1111/ans.12625
+SP  - 170
+EP  - 174
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+AU  - Rothstein, David H.
+AU  - Cairo, Sarah B.
+AU  - Schaefer, Beverly A.
+AU  - Lautz, Timothy B.
+C7  - e27919
+TI  - Association of perioperative red blood cell transfusion with postoperative venous thromboembolism in pediatric patients: A propensity score matched analysis
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr Blood Cancer
+VL  - 66
+IS  - 10
+SN  - 1545-5009
+UR  - https://doi.org/10.1002/pbc.27919
+DO  - doi:10.1002/pbc.27919
+SP  - e27919
+KW  - hematology
+KW  - hemostasis
+KW  - surgery
+KW  - thrombosis
+KW  - transfusion
+PY  - 2019
+AB  - Abstract Objective To examine the association between perioperative red blood cell (RBC) transfusion and postoperative venous thromboembolism (VTE) in pediatric surgical patients. Methods Retrospective cohort study using the National Surgical Quality Improvement Project Pediatric, a validated registry of 118 United States children's hospitals. Patients under 19 years of age undergoing a surgical procedure between 2012 and 2017 were included, with the main exposure being RBC transfusion in the perioperative period (48 hours prior to operation to 72 hours after operation). The primary 30-day outcome of interest was a postoperative VTE requiring therapy. Risk-adjusted odds ratios (aOR) were calculated using multiple logistic regression. Subgroup analyses were performed across multiple surgical specialties. Sensitivity analyses were performed after (a) imputation for missing variables and (b) propensity score matching. Results During the study years, 482 867 pediatric patients (56.7% male; median age, 6 years [interquartile range, 1?12 years]) underwent an operation. Of these, 30 879 (6.4%) received at least one perioperative RBC transfusion. Postoperative VTE requiring therapy occurred in 618 patients (0.13%). After adjustment for multiple risk factors, perioperative RBC transfusion was associated with an increased risk of VTE (aOR 2.4; 95% CI, 1.9?3.0). The increased VTE risk persisted after imputation of missing demographic and clinical data as well as after 1:1 propensity score matching (29 811 matched pairs, aOR 2.2; 95% CI, 1.7?2.8). Conclusions Perioperative RBC transfusion is associated with an increased, albeit still very low, risk of postoperative VTE in pediatric patients. Patients receiving blood in the perioperative period may benefit from additional monitoring or VTE prophylaxis.
+ER  - 
+
+TY  - JOUR
+C7  - e12391
+TI  - The British Microcirculation Society
+JO  - Microcirculation
+JA  - Microcirculation
+VL  - 24
+IS  - 7
+SN  - 1073-9688
+UR  - https://doi.org/10.1111/micc.12391
+DO  - doi:10.1111/micc.12391
+SP  - e12391
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+AU  - Stowell, Sean R.
+AU  - Stowell, Christopher P.
+TI  - Biologic roles of the ABH and Lewis histo-blood group antigens part II: thrombosis, cardiovascular disease and metabolism
+JO  - Vox Sanguinis
+JA  - Vox Sang
+VL  - 114
+IS  - 6
+SN  - 0042-9007
+UR  - https://doi.org/10.1111/vox.12786
+DO  - doi:10.1111/vox.12786
+SP  - 535
+EP  - 552
+KW  - blood groups
+KW  - epidemiology
+KW  - transfusion medicine
+PY  - 2019
+AB  - The ABH and Lewis antigens were among the first of the human red blood cell polymorphisms to be identified and, in the case of the former, play a dominant role in transfusion and transplantation. But these two therapies are largely twentieth-century innovations, and the ABH and related carbohydrate antigens are not only expressed on a very wide range of human tissues, but were present in primates long before modern humans evolved. Although we have learned a great deal about the biochemistry and genetics of these structures, the biological roles that they play in human health and disease are incompletely understood. This review and its companion, which appeared in a previous issue of Vox Sanguinis, will focus on a few of the biologic and pathologic processes which appear to be affected by histo-blood group phenotype. The first of the two reviews explored the interactions of two bacteria with the ABH and Lewis glycoconjugates of their human host cells, and described the possible connections between the immune response of the human host to infection and the development of the AB-isoagglutinins. This second review will describe the relationship between ABO phenotype and thromboembolic disease, cardiovascular disease states, and general metabolism.
+ER  - 
+
+TY  - JOUR
+TI  - 17Th Clinical Congress Abstracts
+JO  - Journal of Parenteral and Enteral Nutrition
+JA  - Journal of Parenteral and Enteral Nutrition
+VL  - 17
+IS  - 1S
+SN  - 0148-6071
+UR  - https://doi.org/10.1177/0148607193017001011
+DO  - doi:10.1177/0148607193017001011
+SP  - 23S
+EP  - 36S
+PY  - 1993
+ER  - 
+
+TY  - JOUR
+AU  - Polson, Julie
+AU  - Lee, William M.
+TI  - AASLD position paper: The management of acute liver failure
+JO  - Hepatology
+JA  - Hepatology
+VL  - 41
+IS  - 5
+SN  - 0270-9139
+UR  - https://doi.org/10.1002/hep.20703
+DO  - doi:10.1002/hep.20703
+SP  - 1179
+EP  - 1197
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+AU  - Kim, Hae Won
+AU  - Greenburg, A. Gerson
+TI  - Artificial Oxygen Carriers as Red Blood Cell Substitutes: A Selected Review and Current Status
+JO  - Artificial Organs
+VL  - 28
+IS  - 9
+SN  - 0160-564X
+UR  - https://doi.org/10.1111/j.1525-1594.2004.07345.x
+DO  - doi:10.1111/j.1525-1594.2004.07345.x
+SP  - 813
+EP  - 828
+KW  - Hemoglobin-based oxygen carrier
+KW  - Perfluorocarbon-based oxygen carrier
+KW  - Blood substitute
+KW  - Hemoglobin
+KW  - Perfluorocarbon
+PY  - 2004
+AB  - Abstract:? Two distinct approaches are being explored in red blood cell substitute (RCS) development: hemoglobin-based oxygen carriers (HBOCs) and perfluorocarbon-based oxygen carriers (PFBOCs). HBOCs are based on intra- and/or intermolecularly ?engineered? human or animal hemoglobins (Hbs), optimized for O2 delivery and longer intravascular circulation. Some are currently being evaluated in Phase II/III clinical studies. PFBOCs are aqueous emulsions of perfluorocarbon derivatives that dissolve relatively large amounts of O2. A PFBOC based on a 60% (wt/vol) emulsion of perfluorooctyl bromide has been evaluated in Phase II/III clinical trials. Although current PFBOC products generally require patients to breathe O2 enriched air, they render certain advantages since they are totally synthetic. This article provides a short review of the basic principles, approaches, and current status of RCS development. Results of preclinical and clinical studies including recent Phase II/III clinical studies are discussed.
+ER  - 
+
+TY  - JOUR
+AU  - Shaz, Beth H.
+AU  - Young, Andrew
+AU  - Dente, Christopher J.
+AU  - Hillyer, Christopher D.
+TI  - In reply
+JO  - Transfusion
+VL  - 50
+IS  - 9
+SN  - 0041-1132
+UR  - https://doi.org/10.1111/j.1537-2995.2010.02761.x
+DO  - doi:10.1111/j.1537-2995.2010.02761.x
+SP  - 2067
+EP  - 2068
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - Zhou, Weichen
+AU  - Ma, Yanyun
+AU  - Zhang, Jun
+AU  - Hu, Jingyi
+AU  - Zhang, Menghan
+AU  - Wang, Yi
+AU  - Li, Yi
+AU  - Wu, Lijun
+AU  - Pan, Yida
+AU  - Zhang, Yitong
+AU  - Zhang, Xiaonan
+AU  - Zhang, Xinxin
+AU  - Zhang, Zhanqing
+AU  - Zhang, Jiming
+AU  - Li, Hai
+AU  - Lu, Lungen
+AU  - Jin, Li
+AU  - Wang, Jiucun
+AU  - Yuan, Zhenghong
+AU  - Liu, Jie
+TI  - Predictive model for inflammation grades of chronic hepatitis B: Large-scale analysis of clinical parameters and gene expressions
+JO  - Liver International
+JA  - Liver Int
+VL  - 37
+IS  - 11
+SN  - 1478-3223
+UR  - https://doi.org/10.1111/liv.13427
+DO  - doi:10.1111/liv.13427
+SP  - 1632
+EP  - 1641
+KW  - clinical predictive model
+KW  - gene expressions
+KW  - HBV infection
+KW  - inflammation grades
+PY  - 2017
+AB  - Abstract Background Liver biopsy is the gold standard to assess pathological features (eg inflammation grades) for hepatitis B virus-infected patients although it is invasive and traumatic; meanwhile, several gene profiles of chronic hepatitis B (CHB) have been separately described in relatively small hepatitis B virus (HBV)-infected samples. We aimed to analyse correlations among inflammation grades, gene expressions and clinical parameters (serum alanine amino transaminase, aspartate amino transaminase and HBV-DNA) in large-scale CHB samples and to predict inflammation grades by using clinical parameters and/or gene expressions. Methods We analysed gene expressions with three clinical parameters in 122 CHB samples by an improved regression model. Principal component analysis and machine-learning methods including Random Forest, K-nearest neighbour and support vector machine were used for analysis and further diagnosis models. Six normal samples were conducted to validate the predictive model. Results Significant genes related to clinical parameters were found enriching in the immune system, interferon-stimulated, regulation of cytokine production, anti-apoptosis, and etc. A panel of these genes with clinical parameters can effectively predict binary classifications of inflammation grade (area under the ROC curve [AUC]: 0.88, 95% confidence interval [CI]: 0.77-0.93), validated by normal samples. A panel with only clinical parameters was also valuable (AUC: 0.78, 95% CI: 0.65-0.86), indicating that liquid biopsy method for detecting the pathology of CHB is possible. Conclusions This is the first study to systematically elucidate the relationships among gene expressions, clinical parameters and pathological inflammation grades in CHB, and to build models predicting inflammation grades by gene expressions and/or clinical parameters as well.
+ER  - 
+
+AU  - Selwood, Karen
+C7  - pp. 35-71
+TI  - Side Effects of Chemotherapy
+SN  - 9780470058671
+UR  - https://doi.org/10.1002/9780470988145.ch4
+DO  - doi:10.1002/9780470988145.ch4
+SP  - 35-71
+KW  - mucositis and stomatitis
+KW  - taste alteration
+KW  - nausea and vomiting
+KW  - pharmacological interventions and non-pharmacological interventions
+KW  - extrapyramidal reactions
+KW  - anorexia/weight loss
+KW  - haematological problems
+KW  - compromised immune system
+KW  - viral infections
+KW  - cutaneous side effects
+PY  - 2017
+AB  - Summary This chapter contains sections titled: Introduction Gastrointestinal tract Taste alteration Nausea and vomiting Pharmacological interventions Anorexia/weight loss Haematological problems The compromised immune system Viral infections Cutaneous side effects Conclusion References
+ER  - 
+
+TY  - JOUR
+TI  - Home news and notices
+JO  - Anaesthesia
+VL  - 31
+IS  - 1
+SN  - 9780470058671
+UR  - https://doi.org/10.1111/j.1365-2044.1976.tb11780.x
+DO  - doi:10.1111/j.1365-2044.1976.tb11780.x
+SP  - 150
+EP  - 155
+PY  - 1976
+ER  - 
+
+TY  - JOUR
+TI  - Abstract
+JO  - Journal of Thrombosis and Haemostasis
+JA  - Journal of Thrombosis and Haemostasis
+VL  - 5
+IS  - S2
+SN  - 9780470058671
+UR  - https://doi.org/10.1111/j.1538-7836.2007.tb00033.x
+DO  - doi:10.1111/j.1538-7836.2007.tb00033.x
+SP  - P-W-001
+EP  - P-W-200
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+AU  - Telyshev, Dmitry
+AU  - Denisov, Maxim
+AU  - Pugovkin, Alexander
+AU  - Selishchev, Sergey
+AU  - Nesterenko, Igor
+TI  - The Progress in the Novel Pediatric Rotary Blood Pump Sputnik Development
+JO  - Artificial Organs
+JA  - Artificial Organs
+VL  - 42
+IS  - 4
+SN  - 9780470058671
+UR  - https://doi.org/10.1111/aor.13109
+DO  - doi:10.1111/aor.13109
+SP  - 432
+EP  - 443
+KW  - Congestive heart failure
+KW  - —Mechanical circulatory support
+KW  - —Mock circulatory loop
+KW  - —Pediatric rotary blood pump
+PY  - 2018
+AB  - Abstract In this work, the study results of an implantable pediatric rotary blood pump (PRBP) are presented. They show the results of the numerical simulation of fluid flow rates in the pump. The determination method of the backflows and stagnation regions is represented. The operating points corresponding to fluid flow rates of 1, 3, and 5 L/min for 75?80 mm Hg pressure head are investigated. The study results have shown that use of the pump in the 1 L/min operating point can potentially lead to the appearance of backflows and stagnation regions. In the case of using pumps in fluid flow rates ranging from 3 to 5 L/min, the number of stagnation regions decreases and the fluid flow rate changes marginally. Using the pump in this flow rate range is considered judicious. The study shows an increase in shear stress with an increase in fluid flow rates, while there is no increase in shear stress above the critical condition of 150 Pa (which does not allow us to reliably speak about the increased risk of blood cell damage). The aim of this work was to design, prototype, and study interaction of the Sputnik PRBP with the cardiovascular system. A three-dimensional model of Sputnik PRBP was designed with the following geometrical specifications: flow unit length of 51.5 mm, flow unit diameter of 10 mm, and spacing between the rotor and housing of 0.1 mm. Computational fluid dynamics studies were used to calculate head pressure-flow rate (H-Q) curves at rotor speeds ranging from 10 000 to 14 000 rpm (R2?=?0.866 between numerical simulation and experiment) and comparing flow patterns at various points of the flow rate operating range (1, 3, and 5 L/min) for operating pressures ranging from 75 to 80 mm Hg. It is noted that when fluid flow rate changes from 1 L/min to 3 L/min, significant changes are observed in the distribution of zero flow zones. At the inlet and outlet of the pump, when going to the operating point of 3 L/min, zones of stagnation become minuscule. The shear stress distribution was calculated along the pump volume. The volume in which shear stress exceed 150 Pa is less than 0.38% of the total pump volume at flow rates of 1, 3, and 5 L/min. In this study, a mock circulatory system (MCS) allowing simulation of physiological cardiovascular characteristics was used to investigate the interaction of the Sputnik PRBP with the cardiovascular system. MCS allows reproducing the Frank-Starling autoregulation mechanism of the heart. PRBP behavior was tested in the speed range of 6 000 to 15 000 rpm. Decreased contractility can be expressed in a stroke volume decrease approximately from 18 to 4 mL and ventricle systolic pressure decrease approximately from 92 to 20 mm Hg. The left ventricle becomes fully supported at a pump speed of 10 000 rpm. At a pump speed of 14 000 rpm, the left ventricle goes into a suction state in which fluid almost does not accumulate in the ventricle and only passes through it to the pump. The proposed PRBP showed potential for improved clinical outcomes in pediatric patients with a body surface area greater than 0.6 m2 and weight greater than 12 kg.
+ER  - 
+
+TY  - JOUR
+TI  - SUBJECT INDEX: VOLUME 45 (2005)
+JO  - Transfusion
+VL  - 45
+IS  - 12
+SN  - 9780470058671
+UR  - https://doi.org/10.1111/j.1537-2995.2005.00722.x
+DO  - doi:10.1111/j.1537-2995.2005.00722.x
+SP  - 1997
+EP  - 2007
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - Surgical Research Society abstracts
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 67
+IS  - 11
+SN  - 9780470058671
+UR  - https://doi.org/10.1002/bjs.1800671119
+DO  - doi:10.1002/bjs.1800671119
+SP  - 815
+EP  - 836
+PY  - 1980
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts for the Joint Conference of the Canadian Society for Transfusion Medicine, Canadian Blood Services and Héma-Québec, Calgary, Alberta, Canada, May 4–6, 2007
+JO  - Transfusion Medicine
+VL  - 17
+IS  - 3
+SN  - 9780470058671
+UR  - https://doi.org/10.1111/j.1365-3148.2007.00756.x
+DO  - doi:10.1111/j.1365-3148.2007.00756.x
+SP  - 225
+EP  - 249
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+AU  - Hotouras, A.
+AU  - Collins, P.
+AU  - Speake, W.
+AU  - Tierney, G.
+AU  - Lund, J. N.
+AU  - Thaha, M. A.
+TI  - Diagnostic yield and economic implications of endoscopic colonic biopsies in patients with chronic diarrhoea
+JO  - Colorectal Disease
+VL  - 14
+IS  - 8
+SN  - 9780470058671
+UR  - https://doi.org/10.1111/j.1463-1318.2011.02847.x
+DO  - doi:10.1111/j.1463-1318.2011.02847.x
+SP  - 985
+EP  - 988
+KW  - Chronic diarrhoea
+KW  - random biopsies
+KW  - microscopic colitis
+KW  - colonscopy
+KW  - cost-effectiveness
+PY  - 2012
+AB  - Abstract Aims? Random colonic biopsies are recommended to exclude microscopic colitis in patients with chronic diarrhoea especially when mucosa is macroscopically normal at endoscopy. This study aimed to assess the clinical outcome and economic impact of such a policy in an unselected group of patients with macroscopically normal mucosa. Methods? All new patients undergoing colonoscopy for investigation of chronic diarrhoea between April and December 2009 were included. Patients were divided into two groups: macroscopically normal mucosa and macroscopically inflamed mucosa. Endoscopic findings were correlated with histology of random biopsies and haematological parameters. Symptom status and any treatment were established from follow-up. The breakdown and overall cost of random biopsies for each patient with a macroscopically normal mucosa were determined, and cost incurred per diagnosis of microscopic colitis was established. Results? Altogether 137 (90.1%) of 152 patients with chronic diarrhoea had macroscopically normal mucosa at colonoscopy. Overall incidence of microscopic colitis in the study was 1.3% (2/152); both patients belonged to the macroscopically normal mucosa group. At follow-up, both these patients had spontaneous symptom resolution without any specific treatment. The policy of undertaking random biopsies in patients with macroscopically normal mucosa incurred an extra cost of £22?057 to diagnose two cases of microscopic colitis but did not alter medical treatment. Conclusions? In unselected patients with chronic diarrhoea and macroscopically normal mucosa, random colonic biopsies have a low diagnostic yield and incur a high cost. Continued research for predictive markers to improve patient selection for targeted biopsies is needed to develop a cost-effective investigative algorithm in chronic diarrhoea.
+ER  - 
+
+TY  - JOUR
+AU  - Senadeera, Sajith C.
+AU  - Vun, Simon V.
+AU  - Butterfield, Nicholas
+AU  - Eglinton, Tim W.
+AU  - Frizelle, Frank A.
+TI  - Role of super-selective embolization in lower gastrointestinal bleeding
+JO  - ANZ Journal of Surgery
+JA  - ANZ Journal of Surgery
+VL  - 88
+IS  - 9
+SN  - 9780470058671
+UR  - https://doi.org/10.1111/ans.14441
+DO  - doi:10.1111/ans.14441
+SP  - E644
+EP  - E648
+KW  - interventional radiology
+KW  - lower gastrointestinal bleeding
+KW  - mesenteric embolization
+PY  - 2018
+AB  - Background Lower gastrointestinal bleeding (LGIB) is a common acute general surgical condition that is typically self-limiting; however in refractory cases it can necessitate life-saving intervention. When bleeding is refractory, super-selective embolization (SSE) becomes an important management strategy. This study aims to evaluate outcomes of this procedure at our institution and identify predictors of clinical success. Methods A retrospective analysis of patients with positive computed tomography angiograms for LGIB at a tertiary centre between December 2007 and May 2017. Results Of 87 600 acute general surgical admissions, 2700 were for LGIB. Computed tomography angiography demonstrated active bleeding in 104 patients who then had mesenteric angiograms. SSE was performed in 77 patients of whom 66 (86%) demonstrated active bleeding. Technical success was achieved in 75 patients (97%). Clinical success was achieved in 63 patients (81%). Re-bleeding occurred in 14 patients (19%), with four requiring surgery. One patient went forward for re-embolization. Bowel ischaemia occurred in four patients (5.2%), with two requiring bowel resection. A 30-day mortality following SSE was 6.5%, with one death attributable to bowel ischaemia and four deaths from medical comorbidity. Median age (years) of those who had clinical success was 78 (interquartile range (IQR) 16.4) and those who did not was 65 (IQR 20.2) (P = 0.031). Clinical success was more common in those who had diverticular related bleeding (61.9%) compared to other pathologies (38.1%) (P = 0.036). Conclusion SSE was successful in a high proportion of patients in this series with low complication rates. Clinical success was higher in those who were older or with diverticular related bleeding.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Journal of Thrombosis and Haemostasis
+VL  - 3
+IS  - s1
+SN  - 9780470058671
+UR  - https://doi.org/10.1111/j.1538-7836.2005.0300f.x
+DO  - doi:10.1111/j.1538-7836.2005.0300f.x
+SP  - SOA01
+EP  - SOA36
+PY  - 2005
+ER  - 
+
+AU  - Nagaraja, Nandakumar
+AU  - Leira, Enrique C.
+C7  - pp. 483-522
+TI  - Cerebrovascular Disease and White Matter Disorders
+SN  - 9781118771778
+UR  - https://doi.org/10.1002/9781118772034.ch22
+DO  - doi:10.1002/9781118772034.ch22
+SP  - 483-522
+KW  - acute management
+KW  - acute neurological complications
+KW  - brain edema
+KW  - cerebrovascular disease
+KW  - clinical symptoms
+KW  - computer tomography
+KW  - ischemic stroke
+KW  - risk factor
+KW  - white matter disorders
+PY  - 2005
+AB  - Summary Stroke is the leading cause of disability and fifth major cause of mortality in US. Not all strokes result in observable clinical symptoms. The prevalence of silent strokes in the Framingham offspring study was about 10%. These ?silent? strokes, or perhaps less ?eloquent? strokes, are part of the white matter disorders related to cerebrovascular disease. The risk of stroke increases with age, doubling for each successive decade after 55 years of age. The goals of general emergency management in acute stroke are to stabilize the patient, facilitate cerebral perfusion, and prevent medical complications such as aspiration. A brain imaging study is performed in all patients with suspected stroke. Computer tomography (CT) is widely available, less expensive, and easy to perform, taking only a couple of minutes to scan the brain. The acute neurological complications of ischemic stroke include malignant brain edema, hemorrhagic transformation of ischemic stroke, and seizures.
+ER  - 

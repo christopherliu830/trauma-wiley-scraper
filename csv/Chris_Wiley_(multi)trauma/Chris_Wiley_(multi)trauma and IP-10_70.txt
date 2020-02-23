@@ -1,0 +1,355 @@
+
+TY  - JOUR
+AU  - Boskabady, Mohammad Hossein
+AU  - Farkhondeh, Tahereh
+C8  - PTR-16-0008.R1
+TI  - Antiinflammatory, Antioxidant, and Immunomodulatory Effects of Crocus sativus L. and its Main Constituents
+JO  - Phytotherapy Research
+JA  - Phytother. Res.
+VL  - 30
+IS  - 7
+SN  - 0951-418X
+UR  - https://doi.org/10.1002/ptr.5622
+DO  - doi:10.1002/ptr.5622
+SP  - 1072
+EP  - 1094
+KW  - Crocus sativus
+KW  - crocins
+KW  - crocetin
+KW  - safranal
+KW  - antiinflammatory
+KW  - antioxidant
+KW  - immunomodulation
+PY  - 2016
+AB  - Crocus sativus L. (C.?sativus), commonly known as saffron, is used as a food additive, preservative, and medicinal herb. Traditionally, it has been used as an alternative treatment for different diseases. C.?sativus' medicinal effects are related to its major constituents like crocins, crocetin, and safranal. According to the literature, C.?sativus and its constituents could be considered as an effective treatment for neurodegenerative disorders, coronary artery diseases, asthma, bronchitis, colds, fever, diabetes, and so on. Recently, numerous studies have reported such medicinal properties and found that the underlying mechanisms of action may be mediated by antioxidant, inflammatory, and immunomodulatory effects. C.?sativus enhances the antioxidant capacity and acts as a free radical scavenger. As an antiinflammatory and immunomodulatory agent, it modulates inflammatory mediators, humoral immunity, and cell-mediated immunity responses. This review highlights in vitro and animal findings regarding antiinflammatory, antioxidant, and immunomodulatory effects of C.?sativus and its constituents. Present review found that the C.?sativus and its main constituents such as safranal, crocins, and crocetin could be effective against various diseases because of their antioxidant, anti-inflammation, and immunomodulatory effects. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - Research Abstract Program of the 2009 ACVIM Forum & Canadian Veterinary Medical Association Convention
+JO  - Journal of Veterinary Internal Medicine
+VL  - 23
+IS  - 3
+SN  - 0891-6640
+UR  - https://doi.org/10.1111/j.1939-1676.2009.0316.x
+DO  - doi:10.1111/j.1939-1676.2009.0316.x
+SP  - 673
+EP  - 786
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+AU  - Gilliver, Stephen C.
+AU  - Emmerson, Elaine
+AU  - Bernhagen, Jürgen
+AU  - Hardman, Matthew J.
+TI  - MIF: a key player in cutaneous biology and wound healing
+JO  - Experimental Dermatology
+VL  - 20
+IS  - 1
+SN  - 0906-6705
+UR  - https://doi.org/10.1111/j.1600-0625.2010.01194.x
+DO  - doi:10.1111/j.1600-0625.2010.01194.x
+SP  - 1
+EP  - 6
+KW  - estrogen
+KW  - MIF
+KW  - skin
+KW  - wound healing
+PY  - 2011
+AB  - Abstract:? Owing to its implication in a range of pathological conditions, including asthma, rheumatoid arthritis, atherosclerosis, inflammatory bowel disease and cancer, the pleiotropic cytokine macrophage migration inhibitory factor (MIF) has been the subject of intensive recent investigation. In the field of dermatology, MIF is believed to be a detrimental factor in diseases such as systemic sclerosis, atopic dermatitis, psoriasis, eczema and UV radiation damage. However, its contribution to other aspects of cutaneous biology is currently unclear. Although its expression in intact skin is well characterized, little is known about MIF?s role in cutaneous homoeostasis. However, recent data do identify MIF as a key player in the immune privilege of hair follicles. Similarly, although MIF is rapidly released and its local expression significantly induced upon wounding, its primary role in the ensuing repair process remains a source of contention. MIF has been identified as being a key effector of the beneficial effects of estrogen on wound repair, yet studies employing Mif null mice, recombinant MIF, and neutralizing anti-MIF antibodies have failed to provide a consensus as to whether it benefits or inhibits healing. In fact MIF appears to be able to exert both positive and negative effects, with the cell-specific relevancy of MIF in wound healing still unclear. Thus, if MIF and/or its downstream targets are to be therapeutically useful in the context of cutaneous repair, more needs to be done to establish the nature and mechanism of action of MIF and its receptors in healing wounds.
+ER  - 
+
+TY  - JOUR
+AU  - Lazorthes, Yves
+AU  - Upton, Adrian R. M.
+TI  - NEW ADVANCES IN BIOSTIMULATION
+JO  - Clinical Progress in Electrophysiology and Pacing
+VL  - 4
+IS  - s3
+SN  - 8756-9264
+UR  - https://doi.org/10.1111/j.1540-8167.1986.tb01747.x
+DO  - doi:10.1111/j.1540-8167.1986.tb01747.x
+SP  - 87
+EP  - 93
+PY  - 1986
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Nephrology
+JA  - Nephrology
+VL  - 18
+IS  - S1
+SN  - 1320-5358
+UR  - https://doi.org/10.1111/nep.12121
+DO  - doi:10.1111/nep.12121
+SP  - 15
+EP  - 76
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - Paper Abstract
+JO  - Journal of the American Geriatrics Society
+JA  - J Am Geriatr Soc
+VL  - 62
+IS  - s1
+SN  - 0002-8614
+UR  - https://doi.org/10.1111/jgs.12870
+DO  - doi:10.1111/jgs.12870
+SP  - S1
+EP  - S331
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+AU  - Mansouri, Saeed
+AU  - Farahmand, Farzam
+AU  - Vossoughi, Gholamreza
+AU  - Ghavidel, Alireza Alizadeh
+C7  - e1975
+C8  - RCS-18-0106.R2
+TI  - A comprehensive multimodality heart motion prediction algorithm for robotic-assisted beating heart surgery
+JO  - The International Journal of Medical Robotics and Computer Assisted Surgery
+JA  - Int J Med Robotics Comput Assist Surg
+VL  - 15
+IS  - 2
+SN  - 1478-5951
+UR  - https://doi.org/10.1002/rcs.1975
+DO  - doi:10.1002/rcs.1975
+SP  - e1975
+KW  - beating heart surgery
+KW  - heart motion prediction
+KW  - respiratory volume
+KW  - biological signals
+KW  - animal test in vivo
+PY  - 2019
+AB  - Abstract Background An essential requirement for performing robotic-assisted surgery on a freely beating heart is a prediction algorithm that can estimate the future heart trajectory. Method Heart motion, respiratory volume (RV) and electrocardiogram (ECG) signal were measured from two dogs during thoracotomy surgery. A comprehensive multimodality prediction algorithm was developed based on the multivariate autoregressive model to incorporate the heart trajectory and cardiorespiratory data with multiple inherent measurement rates explicitly. Results Experimental results indicated strong relationships between the dominant frequencies of heart motion with RV and ECG. The prediction algorithm revealed a high steady state accuracy, with the root mean square (RMS) errors in the range of 82 to 162 ?m for a 300-second interval, less than half of that of the best competitor. Conclusion The proposed multimodality prediction algorithm is promising for practical use in robotic assisted beating heart surgery, considering its capability of providing highly accurate predictions in long horizons.
+ER  - 
+
+TY  - JOUR
+TI  - SUMMARY OF 2001 RSA ABSTRACTS
+JO  - Alcoholism: Clinical and Experimental Research
+VL  - 25
+IS  - s5
+SN  - 0145-6008
+UR  - https://doi.org/10.1111/j.1530-0277.2001.tb05850.x
+DO  - doi:10.1111/j.1530-0277.2001.tb05850.x
+SP  - 6A
+EP  - 153A
+PY  - 2001
+ER  - 
+
+TY  - JOUR
+AU  - Lau, Show Xuan
+AU  - Leong, Yin Yee
+AU  - Ng, Wai Hoe
+AU  - Ng, Albert Wee Po
+AU  - Ismail, Ida Shazrina
+AU  - Yusoff, Narazah Mohd
+AU  - Ramasamy, Rajesh
+AU  - Tan, Jun Jie
+TI  - Human mesenchymal stem cells promote CD34+ hematopoietic stem cell proliferation with preserved red blood cell differentiation capacity
+JO  - Cell Biology International
+JA  - Cell Biol Int
+VL  - 41
+IS  - 6
+SN  - 1065-6995
+UR  - https://doi.org/10.1002/cbin.10774
+DO  - doi:10.1002/cbin.10774
+SP  - 697
+EP  - 704
+KW  - hematopoietic stem cells
+KW  - mesenchymal stem cells
+KW  - red cell differentiation
+PY  - 2017
+AB  - Abstract Studies showed that co-transplantation of mesenchymal stem cells (MSCs) and cord blood-derived CD34+ hematopoietic stem cells (HSCs) offered greater therapeutic effects but little is known regarding the effects of human Wharton's jelly derived MSCs on HSC expansion and red blood cell (RBC) generation in vitro. This study aimed to investigate the effects of MSCs on HSC expansion and differentiation. HSCs were co-cultured with MSCs or with 10% MSCs-derived conditioned medium, with HSCs cultured under standard medium served as a control. Cell expansion rates, number of mononuclear cell post-expansion and number of enucleated cells post-differentiation were evaluated. HSCs showed superior proliferation in the presence of MSC with mean expansion rate of 3.5???108?±?1.8???107 after day 7 compared to the conditioned medium and the control group (8.9???107?±?1.1???108 and 7.0???107?±?3.3???106 respectively, P?<?0.001). Although no significant differences in RBC differentiation were observed between groups at passage IV, the number of enucleated cell was greater compared to earlier passages, indicating successful RBC differentiation. Cord blood-derived CD34+ HSCs can be greatly expanded by co-culturing with MSCs without affecting the RBC differentiation capability, suggesting the importance of direct MSC-HSCs contact in HSC expansion and RBC differentiation.
+ER  - 
+
+TY  - JOUR
+AU  - Dunlop, Sarah A.
+AU  - Tee, Lisa B.G.
+AU  - Goossens, Michel A.L.
+AU  - Stirling, R. Victoria
+AU  - Hool, Livia
+AU  - Rodger, Jenny
+AU  - Beazley, L.D.
+TI  - Regenerating optic axons restore topography after incomplete optic nerve injury
+JO  - Journal of Comparative Neurology
+JA  - J. Comp. Neurol.
+VL  - 505
+IS  - 1
+SN  - 0021-9967
+UR  - https://doi.org/10.1002/cne.21477
+DO  - doi:10.1002/cne.21477
+SP  - 46
+EP  - 57
+KW  - optic nerve regeneration
+KW  - incomplete optic nerve transection
+KW  - visual projections
+KW  - topography
+KW  - electrophysiological mapping
+KW  - axonal tracing
+KW  - reptiles
+PY  - 2007
+AB  - Abstract Following complete optic nerve injury in a lizard, Ctenophorus ornatus, retinal ganglion cell (RGC) axons regenerate but fail to restore retinotectal topography unless animals are trained on a visual task (Beazley et al. [ 1997] J Comp Neurol 370:105?120, [2003] J Neurotrauma 20:1263?1270). Here we show that incomplete injury, which leaves some RGC axons intact, restores normal topography. Strict RGC axon topography allowed us to preserve RGC axons on one side of the nerve (projecting to medial tectum) while lesioning those on the other side (projecting to lateral tectum). Topography and response properties for both RGC axon populations were assessed electrophysiologically. The majority of intact RGC axons retained appropriate topography in medial tectum and had normal, consistently brisk, reliable responses. Regenerate RGC axons fell into two classes: those that projected topographically to lateral tectum with responses that tended to habituate and those that lacked topography, responded weakly, and habituated rapidly. Axon tracing by localized retinal application of carbocyanine dyes supported the electrophysiological data. RGC soma counts were normal in both intact and axotomized RGC populations, contrasting with the 30% RGC loss after complete injury. Unlike incomplete optic nerve injury in mammals, where RGC axon regeneration fails and secondary cell death removes many intact RGC somata, lizards experience a ?win?win? situation: intact RGC axons favorably influence the functional outcome for regenerating ones and RGCs do not succumb to either primary or secondary cell death. J. Comp. Neurol. 505:46?57, 2007. ? 2007 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+TI  - 2011 Annual Meeting of the American Society for Bone and Mineral Research San Diego, CA September 16–20, 2011
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 26
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.564
+DO  - doi:10.1002/jbmr.564
+SP  - S1
+EP  - S527
+PY  - 2011
+AB  - Abstract Searchable abstracts may be found at http://www.asbmr.org/Meetings/PastAnnualMeetings.aspx.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts from the XIV World Meeting—International Society for Research on Aggression
+JO  - Aggressive Behavior
+JA  - Aggr. Behav.
+VL  - 27
+IS  - 3
+SN  - 0096-140X
+UR  - https://doi.org/10.1002/ab.1009
+DO  - doi:10.1002/ab.1009
+SP  - 153
+EP  - 267
+PY  - 2001
+ER  - 
+
+TY  - JOUR
+AU  - Li, Jiawei
+AU  - Wang, Qingqing
+AU  - Cai, Hanxiao
+AU  - He, Zili
+AU  - Wang, Haoli
+AU  - Chen, Jian
+AU  - Zheng, Zengming
+AU  - Yin, Jiayu
+AU  - Liao, Zhiyong
+AU  - Xu, Huazi
+AU  - Xiao, Jian
+AU  - Gong, Fanghua
+TI  - FGF1 improves functional recovery through inducing PRDX1 to regulate autophagy and anti-ROS after spinal cord injury
+JO  - Journal of Cellular and Molecular Medicine
+JA  - J Cell Mol Med
+VL  - 22
+IS  - 5
+SN  - 1582-1838
+UR  - https://doi.org/10.1111/jcmm.13566
+DO  - doi:10.1111/jcmm.13566
+SP  - 2727
+EP  - 2738
+KW  - autophagy
+KW  - fibroblast growth factor 1
+KW  - functional recovery
+KW  - spinal cord injury
+PY  - 2018
+AB  - Abstract Fibroblast growth factor 1 (FGF1) is thought to exert protective and regenerative effects on neurons following spinal cord injury (SCI), although the mechanism of these effects is not well understood. The use of FGF1 as a therapeutic agent is limited by its lack of physicochemical stability and its limited capacity to cross the blood-spinal cord barrier. Here, we demonstrated that overexpression of FGF1 in spinal cord following SCI significantly reduced tissue loss, protected neurons in the ventricornu, ameliorated pathological morphology of the lesion, dramatically improved tissue recovery via neuroprotection, and promoted axonal regeneration and remyelination both in vivo and in vivo. In addition, the autophagy and the expression levels of PRDX1 (an antioxidant protein) were induced by AAV-FGF1 in PC12 cells after H2O2 treatment. Furthermore, the autophagy levels were not changed in PRDX1-suppressing cells that were treated by AAV-FGF1. Taken together, these results suggest that FGF1 improves functional recovery mainly through inducing PRDX1 expression to increase autophagy and anti-ROS activity after SCI.
+ER  - 
+
+TY  - JOUR
+TI  - 22nd IEC Proceedings
+JO  - Epilepsia
+VL  - 38
+IS  - s3
+SN  - 0013-9580
+UR  - https://doi.org/10.1111/j.1528-1157.1997.tb02952.x
+DO  - doi:10.1111/j.1528-1157.1997.tb02952.x
+SP  - 1
+EP  - 284
+PY  - 1997
+ER  - 
+
+TY  - JOUR
+TI  - Poster Session 2, Monday 1 September
+JO  - European Journal of Neurology
+VL  - 10
+IS  - s1
+SN  - 1351-5101
+UR  - https://doi.org/10.1046/j.1468-1331.10.s1.5.x
+DO  - doi:10.1046/j.1468-1331.10.s1.5.x
+SP  - 125
+EP  - 204
+PY  - 2003
+ER  - 
+
+TY  - JOUR
+TI  - Friday 26 October 2018
+JO  - Journal of Medical Imaging and Radiation Oncology
+JA  - J Med Imaging Radiat Oncol
+VL  - 62
+IS  - S2
+SN  - 1754-9477
+UR  - https://doi.org/10.1111/1754-9485.1_12809
+DO  - doi:10.1111/1754-9485.1_12809
+SP  - 30
+EP  - 55
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Neurourology and Urodynamics
+JA  - Neurourol. Urodynam.
+VL  - 35
+IS  - S4
+SN  - 0733-2467
+UR  - https://doi.org/10.1002/nau.23074
+DO  - doi:10.1002/nau.23074
+SP  - S1
+EP  - S471
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - The abstracts of Eurosurgery 95
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 82
+IS  - S1
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.1800821302
+DO  - doi:10.1002/bjs.1800821302
+SP  - 1
+EP  - 144
+PY  - 1995
+ER  - 
+
+AU  - Dixon, Roger
+AU  - Goodman, Howard
+AU  - Noakes, Tony
+C7  - pp. 108-136
+TI  - Health Service Buildings
+SN  - 9780632039258
+UR  - https://doi.org/10.1002/9780470696194.ch12
+DO  - doi:10.1002/9780470696194.ch12
+SP  - 108-136
+KW  - health
+KW  - hospitals
+KW  - administration
+KW  - standardisation
+KW  - operating department
+PY  - 1995
+AB  - Summary This chapter contains section titled: The Acute Hospital Hospital Departments Hospital Support Services Community and Locality Hospitals Health Centres and General Medical Practice Premises Mental Health Services and their Buildings Nursing Homes
+ER  - 
+
+TY  - JOUR
+TI  - Scandinavian Congress of Physiology and Pharmacology, Odense, Denmark, October 11-14, 2003
+JO  - Acta Physiologica Scandinavica
+VL  - 181
+IS  - 1
+SN  - 9780632039258
+UR  - https://doi.org/10.1111/j.1365-201X.2004.1268.x
+DO  - doi:10.1111/j.1365-201X.2004.1268.x
+SP  - 43
+EP  - 163
+PY  - 2004
+ER  - 

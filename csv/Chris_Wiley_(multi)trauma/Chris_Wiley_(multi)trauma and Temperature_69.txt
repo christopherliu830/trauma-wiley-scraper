@@ -1,0 +1,413 @@
+
+TY  - JOUR
+AU  - Timpson, A.J.
+AU  - Elliott, J.
+AU  - Harris, P.A.
+AU  - Cheng, Z.
+AU  - Rainbow, L.
+AU  - de Mestre, A.M.
+AU  - Menzies-Gow, N.J.
+TI  - Changes in Adipose mRNA Expression between Previously Laminitic Ponies and Nonlaminitic Ponies in Summer and Winter
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_15
+DO  - doi:10.1111/evj.12323_15
+SP  - 7
+EP  - 8
+PY  - 2014
+AB  - Reasons for performing study Some ponies are predisposed to recurrent pasture-associated laminitis, but the mechanisms underlying this remain unclear. Adipose tissue is a highly metabolically active tissue that secretes mediators which affect vascular function, insulin signalling and inflammation, all of which are potentially implicated in the pathogenesis of laminitis. Objectives To determine whether the gene expression of adipose tissue from previously laminitic ponies (LP) differs from nonlaminitic ponies (NL). Study design Subcutaneous adipose tissue was collected by biopsy from the neck region of healthy LP and NL (n?=?6 each group) in the summer and winter. Methods Gene expression was determined using a 44?K equine expression microarray. Data were analysed using GeneSpring and Ingenuity Pathway Analysis. Genes with >2-fold difference, P<0.01 were considered significant using a t test to analyse group and/or season. Results The most significant differences in global gene expression in adipose tissue were observed between summer and winter in both groups, with 244 (NL) and 174 (LP) genes differentially expressed. There was a significant difference between LP and NL groups in the summer (141 genes differentially expressed), whereas the 2 groups were more similar in the winter (40 genes differentially expressed). Eight of the top 10 upregulated genes and 3 of the top 5 canonical pathways that differed between LP and NL in the summer were associated with inflammation and/or immunity. Conclusions Laminitic ponies appear to have a different adipose tissue gene expression profile to NL, particularly in the summer. Inflammatory genes and pathways were significantly upregulated in the LP group suggesting higher levels of inflammation or priming of inflammatory pathways which may contribute to a predisposition to laminitis. Ethical animal research:?The study was completed under Home Office Project Licence approved by the RVC Ethics and Welfare Committee. Sources of funding:?This study was funded by Waltham?. A. Timpson is funded by the Mellon Equine Endowment Fund. Competing interests:?Dr P. Harris is employed by Waltham. The other authors have declared no competing interests.
+ER  - 
+
+TY  - JOUR
+AU  - van Galen, G.
+AU  - Leblond, A.
+AU  - Tritz, P.
+AU  - Martinelle, L.
+AU  - Pronost, S.
+AU  - Saegerman, C.
+TI  - A Retrospective Study on Equine Herpesvirus-1 Associated Myeloencephalopathy in France (2008–2011)
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_26
+DO  - doi:10.1111/evj.12323_26
+SP  - 12
+EP  - 12
+PY  - 2014
+AB  - Reasons for performing study Diagnosis of equine herpesvirus-1 associated myeloencephalopathy (EHM) can be troublesome, but early recognition and knowledge of risk factors are primordial for prevention and control. Objectives 1) Improvement of early clinical recognition, and 2) identification of factors potentially of importance for spread. Study design Retrospective descriptive study of EHM cases and statistical comparison to acutely neurologically affected horses negative for EHM. Methods Files from a French epidemiosurveillance programme for equine infectious neurological diseases (2008?2011) were reviewed. Cases were considered EHM (n?=?26) based on presence of acute neurological signs and laboratory confirmation. Cases were considered control cases (n?=?29) when reported to be suffering from acute neurological diseases, but negative for EHM. A subgroup of controls was created that excluded cases with peripheral neuromuscular diseases (n?=?21). Univariate and multivariate analysis and classification and regression tree analysis between groups were performed to identify diagnostic markers and risk factors. Results EHM had a fatality rate of 46% and occurred often in isolated cases. They frequently showed ataxia, paresis and cauda equina affection, but the clinical picture was variable. Univariate analysis identified the following variables as more associated to EHM than to control groups: new horse introduced in herd, vaccination, cauda equina affection, larger herd size, and saddle horses. In the multivariate analysis, new horse introduced in herd and cauda equina affection could be retained. CART analyses identified herd size, month of occurrence, new horse introduced in herd and cauda equina affection as main predictors for EHM. Conclusions Isolated EHM cases occur frequently, accentuating the diagnostic difficulty. History and clinical examination of acutely neurologically affected horses can potentially improve early recognition of EHM. Risk factors were in accordance with other studies, although in a different geographic location and study setup, and therefore strengthen their importance for spread of EHM. Acknowledgements:?Christel Marcillaud-Pitel and Charlène Daix are gratefully acknowledged for their help with data collection. Ethical animal research:?Ethical committee oversight not currently required by this congress: retrospective study of clinical records. Explicit owner informed consent for participation in this study was not stated. Sources of funding:?RESPE. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Paillot, R.
+AU  - Lemaitre, L.
+AU  - Dancer, A.
+AU  - Thibault, J-C.
+AU  - Minke, J.
+TI  - Development and Efficacy of the Recombinant Canarypox-Based Equine Influenza (EI) Vaccine Updated According to the Last OIE Expert Surveillance Panel Recommendations
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_29
+DO  - doi:10.1111/evj.12323_29
+SP  - 14
+EP  - 14
+PY  - 2014
+AB  - Reasons for performing study Since 2010, the OIE expert surveillance panel (ESP) recommends that EI vaccines contain representative equine influenza virus (EIV) strains from the Florida clade 1 and 2 sub-lineages for optimal protection against EIV currently circulating worldwide. To date, no EI vaccine commercially available in the EU meets this recommendation. Objectives This report summarises the development process of a fully updated recombinant canarypox-based EI vaccine, including clinical efficacy results against EIV strain A/eq/Richmond/1/07. Study design The EI vaccine ProteqFlu containing 2 recombinant canarypox viruses expressing the haemagglutinin of EIV strains was updated by replacing the A/eq/Newmarket/2/93 strain with the A/eq/Richmond/1/07 isolate (Florida clade 2 sub-lineage) and keeping A/eq/Ohio/03 (Florida clade 1 sub-lineage), to meet the last OIE recommendations. The updated EI vaccine was tested for efficacy in the Welsh mountain pony model. Methods The mode of action, production steps and efficacy of the updated EI vaccine will be presented. Efficacy was tested in a group of 7 ponies vaccinated twice, 5 weeks apart. Protective antibody response were measured and challenged by experimental infection with the A/eq/Richmond/1/07 EIV strain. Clinical signs of disease and virus shedding were compared with control unvaccinated ponies (n?=?7). Results Significant protection was measured in vaccinated ponies, which supports the vaccine registration. Conclusions The recombinant canarypox-based EI vaccine was already the first EI vaccine to meet the 2004 OIE ESP recommendations and was successfully used in Australia during the 2007 EI outbreak. This new version will be the first fully updated EI vaccine available in the EU, which will help to minimise the increasing risk of vaccine breakdown due to constant EIV evolution through antigenic drift. EI vaccination remains one of the most effective tools to prevent or limit the impact of EI, as clearly illustrated by the limited frequency and scale of EI outbreaks. Ethical animal research:?All animal work received ethical approval. Sources of funding:?The study was funded by Merial SAS. Competing interests:?R.P. reports no conflict of interest. L.L., A.D., J-L.T. and J.M. are employed by the study sponsor.
+ER  - 
+
+TY  - JOUR
+AU  - Diakakis, N.
+AU  - Chaintoutis, S.C.
+AU  - Bouzalas, I.
+AU  - Brellou, G.D.
+AU  - Vlemmas, I.
+AU  - Papanastassopoulou, M.
+AU  - Dovas, C.I.
+TI  - Investigation of Equine Encephalitis Cases During the West Nile Virus (WNV) Epidemics in Greece
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_30
+DO  - doi:10.1111/evj.12323_30
+SP  - 14
+EP  - 14
+PY  - 2014
+AB  - Reasons for performing study Clinicopathological and laboratory investigation of horses showing severe neurological signs during the 2010 WNV-lineage 2 human epidemic in Central Macedonia (Northern Greece). Implementation of preventive measures was also addressed. Objectives To describe the clinical signs, supportive treatment and outcome in WNV cases and report the use of an inactivated WNV vaccine used for the protection of horses during the following epidemic periods. Study design Clinical study. Methods Laboratory testing included serology, real-time RT-PCR and histopathology. All affected animals received supportive treatment (furosemide, dexamethasone, B-complex vitamins and NSAIDs). The Equip WNV vaccine was used for immunisation of horses. Results WNV-specific IgM antibodies were detected in 17 horses with neurological signs. The specificity of the detected antibodies was confirmed by seroneutralisation tests. The maximum duration of IgM was determined to be 60 days. Clinical signs included weakness of hindlimbs, ataxia and tremors (17/17), altered mental state (10/17), hypersensitivity (7/17), inability to swallow (3/17), recumbency (3/17) and convulsions (3/17). Supportive treatment was successful in 14/17 horses. The 3 recumbent horses died as a result of the infection, or were subjected to euthanasia. Histopathological findings observed in the CNS were mild perivascular cuffing of mononuclear cells, axonal swelling, glial nodules, microhaemorrhages and neuronal necrosis. None of the vaccinated horses showed clinical signs. Three unvaccinated horses showed clinical signs and developed WNV-specific IgM antibodies. Conclusions The Nea Santa-Greece-lineage 2 strain responsible for the massive human epidemic of 2010 was also highly pathogenic for horses. Timely administration of supportive treatment is important to the prognosis of the cases. WNV infection should be included in the differential diagnosis of horses with encephalitis in Greece. Vaccinations can effectively protect horses, especially in areas of Greece where the virus seems to have become endemic. Ethical animal research:?All owners gave their consent prior to the commencement of the study. Sources of funding:?Funding for this project came from Zoetis. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Rose, B.
+AU  - Firth, M.
+AU  - Morris, B.
+AU  - Nicholson, C.
+AU  - Verheyen, K.
+AU  - Wathes, D.C.
+AU  - de Mestre, A.M.
+TI  - Incidence and Risk Factors Associated with Early Pregnancy Loss in Thoroughbreds
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_35
+DO  - doi:10.1111/evj.12323_35
+SP  - 16
+EP  - 16
+PY  - 2014
+AB  - Reasons for performing study Early pregnancy loss (EPL) between Days 15 and 65 of pregnancy occurs in 7?10% of Thoroughbred pregnancies causing substantial financial losses. Despite this, very little is known about risk factors associated with the condition. Objectives To determine the current incidence of EPL in Thoroughbred mares and to investigate risk factors associated with the condition. Study design A prospective cohort study was carried out on a population of 927 Thoroughbred mares in the Newmarket area during the 2013 breeding season. Methods Questionnaires were completed by clinicians from 2 veterinary hospitals and stud secretaries from 23 stud farms. Univariable risk factor analyses were conducted using Chi-squared and t tests. Results The incidence of pregnancy loss was 6.8% (95% confidence interval [CI] 5.3?8.6%) between Days 15?42 and 2% (95% CI 1.2?3.0%) between Days 43?65. Mares aged 11 years or over were 2.4 times more likely to suffer EPL than younger mares (95% CI 1.5?3.9): the risk of loss increased as mare age increased. Foaling, rested or barren mares had a 4.3 times increased risk of loss compared to maiden mares (95% CI 1.5?12.0). Mares receiving the preovulatory hormones deslorelin or hCG were shown to have a significantly reduced risk of EPL (P?=?0.03) compared with mares who had not received any preovulatory treatments. Pregnancies undergoing loss had a significantly smaller vesicle size (mean 1.7?cm, s.d. 0.51) at the initial (Day 14?17) pregnancy scan compared to pregnancies which were maintained throughout the study period (mean 2.0?cm, s.d. 0.49, P?=?0.01). Conclusions The incidence of EPL in 2013 was similar to that previously reported in the Newmarket area. Further multivariable risk factor analyses and investigations to discover novel causes of EPL are required to reduce the incidence of this condition. Acknowledgements:?Newmarket Equine Hospital, Rossdales Equine Practice. Ethical animal research:?This study was approved by the Royal Veterinary College's Ethics and Welfare Committee. Sources of funding:?Thoroughbred Breeders Association. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Hole, S.L.
+AU  - Manfredi, J.M.
+AU  - Clayton, H.M.
+TI  - Dimensions of 65 Extracted Equine First Premolar (Wolf) Teeth
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_39
+DO  - doi:10.1111/evj.12323_39
+SP  - 18
+EP  - 18
+PY  - 2014
+AB  - Reasons for performing study The maxillary first premolar (wolf tooth) is present in a significant proportion (13?40%) of horses and is frequently extracted. The size of these teeth has been reported to vary but the authors are not aware of published descriptions of the dimensions of these teeth. Objectives To measure the dimensions of a sample of equine first premolar teeth and to seek correlations between dimensions of the crown and the root. Study design A retrospective descriptive study. Methods Calipers were used to measure total length, root length, crown height, and crown width of 65 first premolar teeth extracted in their entirety from 2 populations of horses (UK population: n?=?30, USA population: n?=?35). Most of the variables were not normally distributed so nonparametric statistics (Spearman correlation coefficients) were used to describe tooth size and seek correlations between different measurements. Results Dimensions expressed as median (range) were total length: 21 (12?34) mm; root length: 13.2 (0?19.6) mm; crown height 7 (2?20) mm; and crown width 7 (2.6?16) mm. Root length was longer than crown height in 61/65 teeth. Total length was poorly correlated with crown height (r?=?0.443) but had a good correlation with root length (r?=?0.799). Crown height and crown width were poorly correlated with root length (r?=?-0.093 and r?=?0.463), respectively. Conclusions The dimensions of 65 first premolar teeth indicate that the root is usually longer than the crown but that the dimensions of the clinical crown of the tooth do not provide a good estimate of the length of the root. Ethical animal research:?Ethical committee oversight not currently required by this congress: material was collected as part of clinical procedures. Explicit owner informed consent for participation in this study was not stated. Sources of funding:?None. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Peffers, M.
+AU  - Riggs, C.
+AU  - McDermott, B.
+AU  - Clegg, P.
+TI  - Comprehensive Protein Profiling of Synovial Fluid in Osteoarthritis
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_42
+DO  - doi:10.1111/evj.12323_42
+SP  - 19
+EP  - 19
+PY  - 2014
+AB  - Reasons for performing study Synovial fluid (SF) is located in joint cavities, tendon sheaths and bursae. In joints it comprises a serum filtrate with additional contributions from articular cartilage, synovium and bone. It represents a potential source of disease specific proteins that could aid in the understanding of the pathogenesis of joint disease and be used in the early diagnosis of disease. Objectives To comprehensively profile the protein complement of SF in health and osteoarthritis (OA) using liquid chromatography mass spectrometry (LC-MS/MS) and identify potential OA biomarkers. Study design SF was used from the metacarpophalangeal joints of 9 normal and 9 OA Thoroughbred horses following macroscopic, microscopic and synovitis scoring. Methods Samples were analysed with LC-MS/MS using a NanoAcquity LC coupled to a LTQ Orbitrap Velos. ProgenesisTM LC-MS software was used for label-free quantification with data searched using Mascot in the Ensembl database for horse. Adjusted ANOVA values of P<0.05 and regulation of >2-fold were regarded as significant. Results 754 proteins were identified in SF. Thus ProteominerTM beads concentrated the lower abundance proteins enabling the most comprehensive SF proteome to date. Proteins identified included those relating to matrix proteins, inflammatory factors, complement activation proteins and proteases. A subset of 10 proteins was identified which were differentially expressed in OA SF. Conclusions A number of proteins were identified for the first time in SF which may be involved in the pathogenesis of OA. We identified a distinct set of proteins that may act as potential biomarkers to distinguish between normal and OA joints. S100-A10, a calcium binding protein has upregulated in OA. This may have a role in the synthesis and activation of matrix degrading proteases. CD109 is a TGF-? co-receptor, released from the chondrocyte cell surface that inhibits TGF-? signalling. Its contribution to the disregulation of TGF-? is unknown. Ethical animal research:?Ethical committee oversight not currently required by this congress: the study was performed on material collected during post mortem examination. Explicit owner informed consent for participation in this study was not stated. Sources of funding:?Horserace Betting Levy Board, Wellcome Trust. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Bates, A.
+AU  - Whiting, M.
+AU  - Witte, T.H.
+TI  - The Changing Costs of Hospital Treatment for Colic: A Preliminary Audit
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_51
+DO  - doi:10.1111/evj.12323_51
+SP  - 22
+EP  - 22
+PY  - 2014
+AB  - Reasons for performing study Treatment of colic can be expensive and may exceed the owners? financial limitations. This may result in premature euthanasia prior to treatment on rectifiable financial grounds rather than for welfare reasons. It is therefore important to ensure appropriate business model auditing to identify where costs may limit expected treatment options. Objectives This study investigated how the costs of treatment for equine colic at a single university referral hospital have changed over a 10-year period between 2003 and 2013. The aim was to analyse which costs have changed excessively or disproportionately between different treating services, consumables and professional fees, which may render treatment of colic financially prohibitive. Study design Retrospective study. Methods All charges billed against cases undergoing treatment for colic between 2003 and 2013 were accessed from hospital records. Horses were identified as having surgery or purely medical management. Charges were categorised by service (medicine, surgery, anaesthesia), type (consumable, livery, professional fee), and consumable type (e.g. NSAID, opiate, antibiotic, fluid therapy, lab fee, surgery consumables). Results There was a significant association between year and the frequency of medically and surgically treated colic (Chi-square test, P<0.001). Between 2003 and 2012, median total treatment costs increased in both medically (42%) and surgically treated (46%) cases. Costs attributable to consumables increased (surgical cases 28%, medical cases 14%), while those attributable to livery (surgical -19%, medical -21%) and professional fees decreased (surgical -22%, medical -8%). The greatest increase in consumable cost was attributable to fluids (surgical 94%, medical 182%). Conclusions This study demonstrates areas where the cost of colic treatment are disproportionately changing and thus highlights potential targets where business models may be optimised in the interest of patient survival. The substantial increase in costs attributable to fluids correlates with increasing emphasis on fluid therapy in the management of colic. Ethical animal research:?Ethical committee oversight not currently required by this congress: retrospective study of clinical records. Explicit owner informed consent for participation in this study was not stated. Sources of funding:?Not stated. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - DUNKEL, B.
+AU  - III, H. C. McKENZIE
+TI  - Severe hypertriglyceridaemia in clinically ill horses: diagnosis, treatment and outcome
+JO  - Equine Veterinary Journal
+VL  - 35
+IS  - 6
+SN  - 0425-1644
+UR  - https://doi.org/10.2746/042516403775467270
+DO  - doi:10.2746/042516403775467270
+SP  - 590
+EP  - 595
+KW  - horse
+KW  - hypertriglyceridaemia
+KW  - serum triglycerides
+KW  - critically ill
+KW  - intravenous dextrose
+PY  - 2003
+AB  - Summary Reasons for performing study: Sporadic measurement of serum triglycerides in depressed and inappetant clinically ill horses revealed severe hypertriglyceridaemia without visible evidence of lipaemia on several occasions, leading to the inclusion of serum triglyceride concentrations in the routine serum biochemistry evaluation of our hospital. Since then, more cases have been identified and treated for hypertriglyceridaemia, raising questions about the prevalence, predisposing factors and significance of these findings. Hypotheses: 1) Severe hypertriglyceridaemia without visible opacity of the serum occurs more commonly in clinically ill and inappetant horses than previously described and 2) appropriate treatment using i.v. dextrose and/or partial parenteral nutrition would decrease serum triglycerides to normal limits and might result in improved appetite and attitude of the patient. Methods: The laboratory computer database from 2000 and 2001 was searched for increased serum triglycerides (>5.65 mmol/l) in any horse breed, ponies and miniature breeds excluded. Data analysed included subject details, diagnosis, clinical and laboratory parameters, treatment, response to treatment and outcome. Results: Severe hypertriglyceridaemia was identified in 13 horses, with serum triglyceride concentrations 6.17?18.29 mmol/l, while none showed visible lipaemia. All horses had clinical and laboratory findings consistent with systemic inflammatory response syndrome and all but one had an increased serum creatinine concentration. Treatment with i.v. dextrose and/or partial parenteral nutrition resulted in decrease of the serum triglycerides to normal limits. Conclusions: Severe hypertriglyceridaemia occurs in inappetant and clinically ill horses without evidence of serum opacity more commonly than previously described. The presence of systemic inflammatory response syndrome might predispose horses to hypertriglyceridaemia, while the increased creatinine concentration might be a predisposing factor or result of the condition. Horses identified in our study readily responded to treatment and appetite and attitude improved coincident with decrease of the serum triglycerides to normal limits. Potential relevance: Hypertriglyceridaemia could perpetuate inappetance and depression in clinically ill horses and potentially predispose to fatty infiltration of the liver and other organ systems.
+ER  - 
+
+AU  - Rolfe, P.
+C7  - pp. 187-242
+TI  - Sensors for Fetal and Neonatal Monitoring
+SN  - 9783527295654
+UR  - https://doi.org/10.1002/9783527619252.ch7
+DO  - doi:10.1002/9783527619252.ch7
+SP  - 187-242
+KW  - fetal and neonatal monitoring
+KW  - sensor requirements
+KW  - safety and convenience
+KW  - antepartum
+KW  - intrapartum
+KW  - neonatal monitoring
+KW  - fECG analysis
+PY  - 2003
+AB  - Summary This chapter contains sections titled: Introduction The Clinical Demands General Sensor Requirements Considerations of Safety and Convenience Antepartum Fetal Assessment Ultrasound Techniques Antepartum Electronic Fetal Monitoring Intrapartum Monitoring Fetal Heart Rate and fECG Analysis Intrauterine Pressure (IUP) Fetal pH Transcutaneous Gases Pulse Oximetry Fetal Near Infrared Spectroscopy (NIRS) Neonatal Monitoring Temperature Monitoring Breathing pH and Blood Gases Cardiac Monitoring Cerebral Monitoring Conclusions References
+ER  - 
+
+AU  - Sellner, Kevin G.
+AU  - Rensel, J.E. (Jack)
+C7  - pp. 435-492
+TI  - Prevention, Control, and Mitigation of Harmful Algal Bloom Impacts on Fish, Shellfish, and Human Consumers
+SN  - 9781118994658
+UR  - https://doi.org/10.1002/9781118994672.ch12
+DO  - doi:10.1002/9781118994672.ch12
+SP  - 435-492
+KW  - fish mariculture
+KW  - Food and Drug Administration
+KW  - HAB control
+KW  - HAB mitigation
+KW  - HAB prevention
+KW  - human consumers
+KW  - shellfish
+PY  - 2003
+AB  - Harmful algae (HA) and their toxins present increasing obstacles to routine protein production in aquatic systems. Preventing, controlling, or mitigating harmful algal blooms (HAB) and cyanobacterial HAB (cyanoHAB) have become major foci for many geographic areas and systems of the world, from freshwater ponds to openocean fish cages, problems potentially exacerbated with continued anthropogenic loading and a changing climate selecting for some bloom-forming taxa. Worldwide, aquaculture production of aquatic food in inland waters exceeds that of marine waters, but use of the sea for fish and shellfish mariculture is rapidly increasing in many coastal oceans. Multi-step linear food webs have also been used, with fish, shellfish, phytoplankton, macroalgae, and abalone. The Food and Drug Administration (FDA) can test fish tissue for toxin content, generally in response to reported human illnesses or to identify whether newly identified toxins or other compounds might pose health risks to consumers.
+ER  - 
+
+TY  - JOUR
+AU  - Zhao, Danyang
+AU  - Zhou, Ruiqi
+AU  - Sun, Jianxing
+AU  - Li, Hongxia
+AU  - Jin, Yifei
+TI  - Experimental study of polymeric stent fabrication using homemade 3D printing system
+JO  - Polymer Engineering & Science
+JA  - Polym Eng Sci
+VL  - 59
+IS  - 6
+SN  - 9781118994658
+UR  - https://doi.org/10.1002/pen.25091
+DO  - doi:10.1002/pen.25091
+SP  - 1122
+EP  - 1131
+PY  - 2019
+AB  - Biodegradable polymeric stents have received extensive attention due to the high efficiency in interventional therapy. Fabrication of well-defined polymeric stents still poses a significant fabrication challenge. This study aims to investigate the feasibility of using a homemade three-dimensional (3D) printing system to directly print customized polymeric stents. In the proposed system, a rotating shaft with controllable temperature and rotating speed has been integrated into a fused deposition modeling-based 3D printing system to support the printed stents stably in situ. In addition, the effects of operating conditions including the rotating speed, printing temperature, printing speed, and step distance on the dimensions of the 3D printed stents have been investigated. Furthermore, orthogonal experiments have been designed and performed to comprehensively explore the significance of each processing parameter. Finally, based on the obtained knowledge, polymeric stents with various structures have been successfully 3D printed using the homemade 3D printing system with relatively high shape fidelity. POLYM. ENG. SCI., 59:1122?1131 2019. ? 2019 Society of Plastics Engineers
+ER  - 
+
+TY  - JOUR
+AU  - Peko Cohen, Lea
+AU  - Ovadia-Blechman, Zehava
+AU  - Hoffer, Oshrit
+AU  - Gefen, Amit
+TI  - Dressings cut to shape alleviate facial tissue loads while using an oxygen mask
+JO  - International Wound Journal
+JA  - Int Wound J
+VL  - 16
+IS  - 3
+SN  - 9781118994658
+UR  - https://doi.org/10.1111/iwj.13101
+DO  - doi:10.1111/iwj.13101
+SP  - 813
+EP  - 826
+KW  - finite element modelling
+KW  - medical device-related pressure ulcer
+KW  - non-invasive ventilation
+KW  - pressure injury
+KW  - prophylactic dressings
+PY  - 2019
+AB  - Non-invasive ventilation (NIV) masks are commonly used for respiratory support where intubation or a surgical procedure can be avoided. However, prolonged use of NIV masks involves risk to facial tissues, which are subjected to sustained deformations caused by tightening of the mask and microclimate conditions. The risk of developing such medical device-related pressure ulcers can be reduced by providing additional cushioning at the mask-face interface. In this work, we determined differences in facial tissue stresses while using an NIV mask with versus without using dressing cuts (Mepilex Lite; Mölnlycke Health Care, Gothenburg, Sweden). First, we developed a force measurement system that was used to experimentally determine local forces applied to skin at the bridge of the nose, cheeks, and chin in a healthy sample group while using a NIV mask. We further demonstrated facial temperature distributions after use of the mask using infrared thermography. Next, using the finite element method, we delivered the measured compressive forces per site of the face in the model and compared maximal effective stresses in facial tissues with versus without the dressing cuts. The dressings have shown substantial biomechanical effectiveness in alleviating facial tissues deformations and stresses by providing localised cushioning to the tissues at risk.
+ER  - 
+
+TY  - JOUR
+AU  - Egerod, Ingrid
+AU  - Almer, Glennie Marie
+AU  - Thomsen, Rasmus Risager
+TI  - A descriptive study of basic stimulation in Danish ICUs in 2006
+JO  - Scandinavian Journal of Caring Sciences
+VL  - 23
+IS  - 4
+SN  - 9781118994658
+UR  - https://doi.org/10.1111/j.1471-6712.2008.00664.x
+DO  - doi:10.1111/j.1471-6712.2008.00664.x
+SP  - 697
+EP  - 704
+KW  - basic stimulation
+KW  - intensive care
+KW  - key informant
+KW  - nursing
+KW  - qualitative research
+KW  - telephone interview
+PY  - 2009
+AB  - Basic stimulation (BS) is a multimodal approach used in the intensive care unit (ICU) to help patients to perceive, move, communicate and learn. The concept was developed in Germany in the 1970s to help multi-handicapped children. It was adapted to nursing in the 1980s, and to critical care nursing in the 1990s. Little is known about the use of BS outside of Germany although it has been gaining momentum in German-speaking countries as well as Scandinavia. The aim of the present study is to describe the extent and application of BS at Danish ICUs in 2006. The study had a prospective, descriptive, qualitative, multicentre design. Data were generated from key-informant telephone interviews (n?=?10). This study has shown that BS is dependent upon the personal interest of individual nurses. At most units the concept is rarely used, or used by only few practitioners, for only few patients, or only few of the elements of the technique are applied. The tenets of BS are similar to those of conventional nursing, and in some cases to health care in general. The concept shows promising potential for critical care nursing. It has, however, been introduced unsystematically at Danish ICUs and needs more management support, systematic implementation and clinical research.
+ER  - 
+
+AU  - Morales-Vidal, Sarkis
+AU  - Biller, José
+C7  - pp. 77-106
+TI  - Stroke due to Systemic Diseases
+SN  - 9781444335576
+UR  - https://doi.org/10.1002/9781118414019.ch5
+DO  - doi:10.1002/9781118414019.ch5
+SP  - 77-106
+KW  - Stroke
+KW  - Cerebrovascular disease
+KW  - Ischemic stroke
+KW  - Cerebral Venous Sinus Thrombosis
+KW  - Intracerebral hemorrhage
+KW  - Subarachnoid hemorrhage
+KW  - Vasculitides
+PY  - 2009
+AB  - Summary A wide array of systemic diseases increase stroke risk. This chapter reviews strokes due to endocrine disorders, electrolyte derangements, autoimmune disorders, single or multi-organ failure, neoplasias, paraneoplastic disorders, systemic infections, complications of organ transplantation, complications of critical medical illnesses, and a variety of drugs.
+ER  - 
+
+TY  - JOUR
+AU  - Hu, C.
+AU  - Lu, Y.
+AU  - Chen, X.
+AU  - Wu, Z.
+AU  - Zhang, Q.
+TI  - Gene transfer of a naked plasmid (pUDK-HGF) encoding human hepatocyte growth factor attenuates skin/muscle incision and retraction-induced chronic post-surgical pain in rats
+JO  - European Journal of Pain
+JA  - Eur J Pain
+VL  - 22
+IS  - 5
+SN  - 9781444335576
+UR  - https://doi.org/10.1002/ejp.1182
+DO  - doi:10.1002/ejp.1182
+SP  - 961
+EP  - 972
+PY  - 2018
+AB  - Abstract Background Chronic post-surgical pain (CPSP) remains a major clinical problem and is often refractory to current treatments. New analgesic medications and strategies for pain relief are needed. Hepatocyte growth factor (HGF) is known to be a multi-functional growth factor and regulates various biological activities. Methods We investigated the analgesic effect and underlying mechanism of plasmid pUDK-HGF encoding human HGF gene on CPSP induced by skin/muscle incision and retraction (SMIR) in rats. The possible changes of inflammatory factors, glial cell activation and pain sensitivity after pUDK-HGF administration were investigated by ELISA, western blot and Von Frey tests, respectively. Results In behavioural assays, we found that a single intramuscular or intrathecal injection of pUDK-HGF significantly attenuated mechanical hypersensitivity to von Frey stimulation of plantar ipsilateral hind paw after SMIR. Intramuscular injection of pUDK-HGF promoted blood flow and proliferation of satellite cells and inhibited inflammatory cells recruitment, collagen accumulation and expression of pronociceptive factors. Intrathecal injection of pUDK-HGF inhibited activation of spinal glial cells and production of inflammatory mediators induced by SMIR. Conclusions pUDK-HGF has a strong analgesic potency and efficacy in CPSP induced by SMIR in rats. This study highlights a new strategy for the treatment of CPSP. Significance The CPSP occurs following various surgical procedures and remains a major clinical problem due to the lack of study on the mechanisms of CPSP. Our findings provide the first evidence that pUDK-HGF attenuates SMIR-induced pain behaviuors through peripheral or central mechanisms. The peripheral analgesic effect of pUDK-HGF is associated with promoting tissue repair and inhibiting inflammatory response; furthermore, pUDK-HGF inhibits activation of spinal glial cells and overexpression of inflammatory mediators in spinal cord. Therefore, naked pUDK-HGF may be a potential therapeutic strategy for treatment of CPSP in clinic.
+ER  - 
+
+TY  - JOUR
+AU  - Villotte, S.
+AU  - Knüsel, C. J.
+TI  - Understanding Entheseal Changes: Definition and Life Course Changes
+JO  - International Journal of Osteoarchaeology
+JA  - Int. J. Osteoarchaeol.
+VL  - 23
+IS  - 2
+SN  - 9781444335576
+UR  - https://doi.org/10.1002/oa.2289
+DO  - doi:10.1002/oa.2289
+SP  - 135
+EP  - 146
+KW  - entheses
+KW  - enthesopathy
+KW  - musculoskeletal stress markers
+KW  - senescence
+KW  - activity
+KW  - hormones
+KW  - animal models
+KW  - clinical studies
+PY  - 2013
+AB  - ABSTRACT Over the past two decades, many articles have been published on entheseal changes (usually called ?Musculoskeletal Stress Markers?) as activity markers in past societies. Over-simplified methods and over-interpretation of past activities have generated strong critiques of research results in this area of enquiry. While some significant improvements regarding the recording systems for entheseal changes have been applied more recently, many bioarchaeologists appear not yet to be fully aware of the multi-factorial aetiology of these alterations. In this article, we review the anatomical and clinical literature to discuss some of the difficulties associated with the recording of entheseal changes and the multiple factors leading to their appearance in the human skeleton. Thus far, fibrocartilaginous entheses appear to hold more promise for activity-related reconstruction than do fibrous ones, but these relationships remain an area of active research interest. Copyright ? 2012 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Lance, Eboni I.
+AU  - Barron-Casella, Emily
+AU  - Everett, Allen D.
+AU  - Casella, James F.
+C7  - e28076
+TI  - Brain-derived neurotrophic factor levels in pediatric sickle cell disease
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr Blood Cancer
+VL  - 67
+IS  - 2
+SN  - 9781444335576
+UR  - https://doi.org/10.1002/pbc.28076
+DO  - doi:10.1002/pbc.28076
+SP  - e28076
+KW  - BDNF
+KW  - neurology
+KW  - sickle cell disease
+KW  - silent cerebral infarction
+KW  - stroke
+PY  - 2020
+AB  - Abstract Background Children with sickle cell disease (SCD) have an increased risk of neurological complications, particularly stroke and silent cerebral infarction (SCI). Brain-derived neurotrophic factor (BDNF) is a nerve growth factor associated with neuronal survival, synaptic plasticity, elevated transcranial Doppler (TCD) velocities and increased risk of stroke in patients with SCD. The objective of this study was to analyze plasma BDNF protein levels in children with SCD participating in the Silent Cerebral Infarct Transfusion Multi-Center Clinical Trial (SIT Trial), comparing plasma samples of children with SCD and SCI to plasma samples from children with SCD without SCI, as well as healthy pediatric control participants. Procedure Entry, exit, and longitudinal blood samples were collected from 190 SIT Trial participants with SCD and healthy pediatric controls over time. BDNF levels were measured by enzyme-linked immunosorbent assay. Sample collection was not optimized for measurements of BDNF, but factors affecting BDNF levels were accounted for in analyses. Results BDNF levels were significantly higher in children with SCD in comparison to healthy pediatric control subjects. BDNF levels significantly increased over time in SCD participants. BDNF levels did not show any significant associations with the presence or absence of SCI or new/progressive SCI/stroke or TCD velocities. Conclusions Plasma BDNF levels are elevated and increase over time in children with SCD. Additional studies with more longitudinal samples are needed to address the reasons for those increased levels.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts presented at the World Congress of Veterinary Anaesthesiology, September 12–16, 2006, Santos, Brazil
+JO  - Veterinary Anaesthesia and Analgesia
+VL  - 34
+IS  - 4
+SN  - 9781444335576
+UR  - https://doi.org/10.1111/j.1467-2995.2007.00371a.x
+DO  - doi:10.1111/j.1467-2995.2007.00371a.x
+SP  - 1
+EP  - 77
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+AU  - VANDEGRIFF, KIM D.
+AU  - YOUNG, MARK A.
+AU  - KEIPERT, PETER E.
+AU  - WINSLOW, ROBERT M.
+TI  - The safety profile of Hemospan®: a new oxygen therapeutic designed using maleimide poly(ethylene) glycol conjugation to human hemoglobin
+JO  - Transfusion Alternatives in Transfusion Medicine
+VL  - 9
+IS  - 4
+SN  - 9781444335576
+UR  - https://doi.org/10.1111/j.1778-428X.2007.00083.x
+DO  - doi:10.1111/j.1778-428X.2007.00083.x
+SP  - 213
+EP  - 225
+KW  - Clinical trials
+KW  - Hemoglobin
+KW  - Hemospan®
+KW  - Maleimide poly(ethylene) glycol
+KW  - MP4
+KW  - PEG
+KW  - Safety
+PY  - 2007
+AB  - SUMMARY Hemoglobin-based oxygen carriers have been under development for several decades, but so far none has completed clinical trials due to safety issues, including fundamental concerns regarding hemoglobin-induced vasoconstriction and oxidative reactions. The question becomes whether these attributes are inherent to the hemoglobin molecule itself, or if the molecule can be modified in such a way as to avoid untoward side effects. To this end, Sangart designed a new type of oxygen therapeutic, Hemospan?, based on site-specific, maleimide poly(ethylene) glycol conjugation chemistry. The product, also referred to as MP4, is neither vasoconstrictive nor does it promote oxidation in vivo. The design principles were three-fold: (i) increase hemoglobin molecular size to prolong intravascular retention; (ii) increase oxygen affinity to prevent premature unloading of oxygen in the arterioles, thus avoiding arteriolar vasoconstriction; and (iii) optimize colloidal osmotic pressure and viscosity to enhance blood flow. Preclinical studies with Hemospan in animal models of hemodilution and hemorrhage show maintenance of blood pressure and cardiac output, with improved oxygen delivery compared to early-generation products of cross-linked and polymerized hemoglobins. Four Phase I and II clinical trials have been completed, showing that Hemospan is generally well tolerated in humans, with additional evidence of efficacy through Hemospan's capacity to impart hemodynamic stability in surgical patients. Two multi-center Phase III trials of Hemospan in orthopedic surgery are now underway in Europe.
+ER  - 

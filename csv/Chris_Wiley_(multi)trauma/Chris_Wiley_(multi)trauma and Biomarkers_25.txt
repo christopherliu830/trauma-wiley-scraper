@@ -1,0 +1,959 @@
+
+TY  - JOUR
+AU  - Than, Martin
+AU  - Flaws, Dylan
+AU  - Sanders, Sharon
+AU  - Doust, Jenny
+AU  - Glasziou, Paul
+AU  - Kline, Jeffery
+AU  - Aldous, Sally
+AU  - Troughton, Richard
+AU  - Reid, Christopher
+AU  - Parsonage, William A
+AU  - Frampton, Christopher
+AU  - Greenslade, Jaimi H
+AU  - Deely, Joanne M
+AU  - Hess, Erik
+AU  - Sadiq, Amr Bin
+AU  - Singleton, Rose
+AU  - Shopland, Rosie
+AU  - Vercoe, Laura
+AU  - Woolhouse-Williams, Morgana
+AU  - Ardagh, Michael
+AU  - Bossuyt, Patrick
+AU  - Bannister, Laura
+AU  - Cullen, Louise
+TI  - Development and validation of the Emergency Department Assessment of Chest pain Score and 2 h accelerated diagnostic protocol
+JO  - Emergency Medicine Australasia
+JA  - Emerg Med Australas
+VL  - 26
+IS  - 1
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/1742-6723.12164
+DO  - doi:10.1111/1742-6723.12164
+SP  - 34
+EP  - 44
+KW  - accelerated diagnostic protocol
+KW  - acute coronary syndrome
+KW  - emergency department
+KW  - major adverse cardiac event
+KW  - risk score
+PY  - 2014
+AB  - Abstract Objective Risk scores and accelerated diagnostic protocols can identify chest pain patients with low risk of major adverse cardiac event who could be discharged early from the ED, saving time and costs. We aimed to derive and validate a chest pain score and accelerated diagnostic protocol (ADP) that could safely increase the proportion of patients suitable for early discharge. Methods Logistic regression identified statistical predictors for major adverse cardiac events in a derivation cohort. Statistical coefficients were converted to whole numbers to create a score. Clinician feedback was used to improve the clinical plausibility and the usability of the final score (Emergency Department Assessment of Chest pain Score [EDACS]). EDACS was combined with electrocardiogram results and troponin results at 0 and 2?h to develop an ADP (EDACS-ADP). The score and EDACS-ADP were validated and tested for reproducibility in separate cohorts of patients. Results In the derivation (n = 1974) and validation (n = 608) cohorts, the EDACS-ADP classified 42.2% (sensitivity 99.0%, specificity 49.9%) and 51.3% (sensitivity 100.0%, specificity 59.0%) as low risk of major adverse cardiac events, respectively. The intra-class correlation coefficient for categorisation of patients as low risk was 0.87. Conclusion The EDACS-ADP identified approximately half of the patients presenting to the ED with possible cardiac chest pain as having low risk of short-term major adverse cardiac events, with high sensitivity. This is a significant improvement on similar, previously reported protocols. The EDACS-ADP is reproducible and has the potential to make considerable cost reductions to health systems.
+ER  - 
+
+TY  - JOUR
+AU  - Tankel, Alan S
+AU  - Nagree, Yusuf
+AU  - Jones, Peter
+AU  - Mountain, David
+AU  - Macdonald, Stephen PJ
+AU  - Hill, Paul
+AU  - Than, Martin
+TI  - The VHOT (Vindaloo Hastens Outpouring of Troponins) Study
+JO  - Emergency Medicine Australasia
+JA  - Emergency Medicine Australasia
+VL  - 28
+IS  - 6
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/1742-6723.12679
+DO  - doi:10.1111/1742-6723.12679
+SP  - 654
+EP  - 657
+KW  - acute coronary syndrome
+KW  - high sensitivity troponin
+KW  - troponitis
+PY  - 2016
+AB  - Abstract Background Multiple cardiac and non-cardiac processes may cause an elevated highly sensitive troponin (hsTn). We postulated that the consumption of a seriously hot vindaloo could cause an increase in hsTn levels in seemingly healthy volunteers. Objective To determine whether eating a very hot curry can cause elevated hsTn. Methods This was a prospective observational cohort study. Participants had blood drawn for hsTn pre-ingestion and at 2 and 4 h post-ingestion of, first, a rather mild butter chicken and, 2 weeks later, a seriously hot lamb vindaloo. We assessed pre-curry tolerance and perception of curry hotness for both curries using the VHOT scale. Results Although no participant had a troponin above the reference range at any point in time, we found dramatic relative increases in troponin in many of our participants. In the vindaloo phase, 8/22 (36%) had a relative change >20%, whereas 5/22 (23%) had a relative change >50% at 4?h. However, these changes were not significantly different to those in the butter chicken phase. Based on biological variability alone, 15/22 (68%) had a relative change of >20%, and 11/22 (50%) had a relative change of >50% between the two sessions (pre-ingestion). Conclusions Eating a seriously hot vindaloo does not appear to be a risk factor for troponitis, and people may consume vindaloo safely with the knowledge that this is unlikely to result in significant damage to their myocardium. However, clinicians should be aware of the biological variability of hsTn and exercise caution when interpreting apparent changes within the normal range.
+ER  - 
+
+TY  - JOUR
+AU  - Roberts, Susanna
+AU  - Keers, Robert
+AU  - Breen, Gerome
+AU  - Coleman, Jonathan R. I.
+AU  - Jöhren, Peter
+AU  - Kepa, Agnieszka
+AU  - Lester, Kathryn J.
+AU  - Margraf, Jürgen
+AU  - Scheider, Silvia
+AU  - Teismann, Tobias
+AU  - Wannemüller, André
+AU  - Eley, Thalia C.
+AU  - Wong, Chloe C. Y.
+TI  - DNA methylation of FKBP5 and response to exposure-based psychological therapy
+JO  - American Journal of Medical Genetics Part B: Neuropsychiatric Genetics
+JA  - Am. J. Med. Genet.
+VL  - 180
+IS  - 2
+SN  - 1552-4841
+UR  - https://doi.org/10.1002/ajmg.b.32650
+DO  - doi:10.1002/ajmg.b.32650
+SP  - 150
+EP  - 158
+KW  - anxiety
+KW  - cognitive behavioral therapy
+KW  - epigenetics
+KW  - treatment response
+PY  - 2019
+AB  - Differential DNA methylation of the hypothalamic-pituitary-adrenal axis related gene FKBP5 has recently been shown to be associated with varying response to environmental influences and may play a role in how well people respond to psychological treatments. Participants (n?=?111) received exposure-based cognitive behavioural therapy (CBT) for agoraphobia with or without panic disorder, or specific phobias. Percentage DNA methylation levels were measured for the promoter region and intron 7 of FKBP5. The association between percentage reduction in clinical severity and change in DNA methylation was tested using linear mixed models. The effect of genotype (rs1360780) was tested by the inclusion of an interaction term. The association between change in DNA methylation and FKBP5 expression was examined. Change in percentage DNA methylation at one CpG site of intron 7 was associated with percentage reduction in severity (??=??4.26, p?=?3.90 ? 10?4), where a decrease in DNA methylation was associated with greater response to therapy. An interaction was detected between rs1360780 and changes in DNA methylation in the promoter region of FKBP5 on treatment outcome (p?=?.045) but did not survive correction for multiple testing. Changes in DNA methylation were not associated with FKBP5 expression. Decreasing DNA methylation at one CpG site of intron 7 of FKBP5 was strongly associated with decreasing anxiety severity following exposure-based CBT. In addition, there was suggestive evidence that allele-specific methylation at the promoter region may also be associated with treatment response. The results of this study add to the growing literature demonstrating the role of biological processes such as DNA methylation in response to environmental influences.
+ER  - 
+
+TY  - JOUR
+AU  - Keenan, Kathryn E.
+AU  - Ainslie, Maureen
+AU  - Barker, Alex J.
+AU  - Boss, Michael A.
+AU  - Cecil, Kim M.
+AU  - Charles, Cecil
+AU  - Chenevert, Thomas L.
+AU  - Clarke, Larry
+AU  - Evelhoch, Jeffrey L.
+AU  - Finn, Paul
+AU  - Gembris, Daniel
+AU  - Gunter, Jeffrey L.
+AU  - Hill, Derek L.G.
+AU  - Jack Jr., Clifford R.
+AU  - Jackson, Edward F.
+AU  - Liu, Guoying
+AU  - Russek, Stephen E.
+AU  - Sharma, Samir D.
+AU  - Steckner, Michael
+AU  - Stupic, Karl F.
+AU  - Trzasko, Joshua D.
+AU  - Yuan, Chun
+AU  - Zheng, Jie
+TI  - Quantitative magnetic resonance imaging phantoms: A review and the need for a system phantom
+JO  - Magnetic Resonance in Medicine
+JA  - Magn. Reson. Med
+VL  - 79
+IS  - 1
+SN  - 0740-3194
+UR  - https://doi.org/10.1002/mrm.26982
+DO  - doi:10.1002/mrm.26982
+SP  - 48
+EP  - 61
+KW  - phantom
+KW  - quantitative
+KW  - system consistency
+KW  - quality assurance
+PY  - 2018
+AB  - The MRI community is using quantitative mapping techniques to complement qualitative imaging. For quantitative imaging to reach its full potential, it is necessary to analyze measurements across systems and longitudinally. Clinical use of quantitative imaging can be facilitated through adoption and use of a standard system phantom, a calibration/standard reference object, to assess the performance of an MRI machine. The International Society of Magnetic Resonance in Medicine AdHoc Committee on Standards for Quantitative Magnetic Resonance was established in February 2007 to facilitate the expansion of MRI as a mainstream modality for multi-institutional measurements, including, among other things, multicenter trials. The goal of the Standards for Quantitative Magnetic Resonance committee was to provide a framework to ensure that quantitative measures derived from MR data are comparable over time, between subjects, between sites, and between vendors. This paper, written by members of the Standards for Quantitative Magnetic Resonance committee, reviews standardization attempts and then details the need, requirements, and implementation plan for a standard system phantom for quantitative MRI. In addition, application-specific phantoms and implementation of quantitative MRI are reviewed. Magn Reson Med 79:48?61, 2018. ? 2017 International Society for Magnetic Resonance in Medicine.
+ER  - 
+
+TY  - JOUR
+AU  - Peek, SF
+AU  - Slack, JA
+AU  - Darien, BJ
+AU  - Semrad, SD
+AU  - Marques, F
+AU  - Risberga, A
+AU  - Erb, HN
+AU  - Apple, FS
+AU  - McGuirk, SM
+TI  - BIOCHEMICAL MARKERS OF CARDIAC INJURY IN NORMAL AND SURVIVING VERSUS NON-SURVIVING SEPTICEMIC NEONATAL FOALS
+JO  - Journal of Veterinary Emergency and Critical Care
+VL  - 14
+IS  - S1
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/j.1476-4431.2004.t01-37-04035.x
+DO  - doi:10.1111/j.1476-4431.2004.t01-37-04035.x
+SP  - S1
+EP  - S17
+PY  - 2004
+AB  - Although myocardial injury can be a significant component of multiple organ dysfunction (MODS) in association with septicemia in critically ill human patients, it is as yet an undefined clinical entity in equine septicemia. With septicemia as the leading cause of death in neonatal foals, a better understanding of the pathophysiology, diagnosis and treatment of MODS will be important in further improving survival rates. We designed a prospective study to establish normal ranges for cardiac troponin I (cTnI), T (cTnT) and CKMB mass in healthy 24?48 hour old foals, as well as septicemic neonatal foals seen over a 2-year period in a teaching hospital. We also performed a comparison of these biomarkers in surviving and non-surviving septicemic foals. Sepsis was judged on the basis of the presence of any of the 3 following criteria: blood culture positive at admission, admission sepsis score ≥11, or 3 or more sites of infection during hospitalization in foals ≤14 days of age. cTnI was measured by the ACCESS? (Beckman Coulter), cTnT was measured using the Elecsys 2010? Immunoassay (Roche), and CKMB mass measurements were performed using the Elecsys 2010?. Each parameter was described using range and 95th and 50th percentile. Comparisons were made for each parameter between normal and septic foals as well as surviving and non-surviving septic foals using the non-parametric Wilcoxon's rank sum test. Significance was set at p<0.05. There were 52 control foals and 38 septic foals of which 22 survived. Significant differences were documented for CKMB between septicemic and normal foals, but not for cTnT or cTnI. However, CKMB and cTnT were significantly lower in surviving versus non-surviving septicemic foals. The 50th and 95th percentiles alongside the ranges for the normal foal population were 0.14, 0.49, (0.01?0.51)??g/L for cTnI, 0.009, 0.03, (0.009?0.04)??g/L for cTnT and 2.3, 7.4, (0.4?9.3)??g/L for CKMB. Our findings suggest that myocardial injury is a component of MODS during septicemia in foals, and that quantitatively significant increases in CKMB and cTnT are seen in non-surviving septicemic foals versus survivors.
+ER  - 
+
+TY  - JOUR
+AU  - Manini, Alex F.
+AU  - Nelson, Lewis S.
+AU  - Stimmel, Barry
+AU  - Vlahov, David
+AU  - Hoffman, Robert S.
+TI  - Incidence of Adverse Cardiovascular Events in Adults Following Drug Overdose
+JO  - Academic Emergency Medicine
+VL  - 19
+IS  - 7
+SN  - 1069-6563
+UR  - https://doi.org/10.1111/j.1553-2712.2012.01397.x
+DO  - doi:10.1111/j.1553-2712.2012.01397.x
+SP  - 843
+EP  - 849
+PY  - 2012
+AB  - ACADEMIC EMERGENCY MEDICINE 2012; 19:843?849 ? 2012 by the Society for Academic Emergency Medicine Abstract Objectives:? Drug overdose is a leading cause of cardiac arrest and is currently the second leading cause of overall injury-related fatality in the United States. Despite these statistics, the incidence of adverse cardiovascular events (ACVEs) in emergency department (ED) patients following acute drug overdose is unknown. With this study, we address the 2010 American Heart Association Emergency Cardiovascular Care update calling for research to characterize the incidence of in-hospital ACVE following drug overdose. Methods:? This was a prospective cohort study at two tertiary care hospitals over 12?months. Consecutive adult ED patients with acute drug overdose were prospectively followed to hospital discharge. The main outcome was occurrence of in-hospital ACVE, defined as the occurrence of one or more of the following: myocardial injury, shock, ventricular dysrhythmia, and cardiac arrest. Results:? There were 459 ED patients with suspected drug overdose, of whom 274 acute drug overdose qualified and were included for analysis (mean [±SE] age?=?40.3?[±1.0]?years; 63% male). Hospital course was complicated by ACVE in 16 patients (some had more than one): 12 myocardial injury, three shock, two dysrhythmia, and three cardiac arrest. The incidence of ACVE was 5.8% overall (95% confidence interval [CI]?=?3.6% to 9.3%) and 10.7% (95% CI?=?6.6% to 16.9%) among inpatient admissions, with all-cause mortality at 0.7% (95% CI?=?0.2% to 2.6%). Conclusions:? Based on this study of adult patients with acute drug overdose, ACVE may occur in up to 9.3% overall and up to 16.9% of hospital admissions. Implications for the evaluation and triage of ED patients with acute drug overdose require further study with regard to optimizing interventions to prevent adverse events.
+ER  - 
+
+TY  - JOUR
+AU  - Johnson, Victoria L.
+AU  - Guermazi, Ali
+AU  - Roemer, Frank W.
+AU  - Hunter, David J.
+TI  - Comparison in knee osteoarthritis joint damage patterns among individuals with an intact, complete and partial anterior cruciate ligament rupture
+JO  - International Journal of Rheumatic Diseases
+JA  - Int J Rheum Dis
+VL  - 20
+IS  - 10
+SN  - 1756-1841
+UR  - https://doi.org/10.1111/1756-185X.13003
+DO  - doi:10.1111/1756-185X.13003
+SP  - 1361
+EP  - 1371
+KW  - anterior cruciate ligament
+KW  - knee
+KW  - knee injury
+KW  - MRI
+KW  - osteoarthritis
+PY  - 2017
+AB  - Abstract Aim The aim of this study was to examine the difference in the pattern of articular damage in persons with either a partial anterior cruciate ligament (ACL) tear; a complete ACL tear or no ACL tear. Methods Our study included 600 individuals (of the 600 individuals, 25 with a partial, 12 with a complete ACL tear and 563 with no ACL tear) from the progression sub-cohort of the Osteoarthritis Initiative. Individuals had a mean age of 61.8 years (range 45?79 years). Chi-square tests were used to compare the location of meniscal pathology, bone marrow lesions (BMLs) and regional cartilage morphology between individuals with a partial or complete ACL tear, as seen on magnetic resonance imaging, as well as to a control group of 563 knees. Results Individuals with either a complete or partial ACL tear displayed predominantly medial tibiofemoral damage. Individuals with complete ACL tears were more likely to have cartilage lesions in the lateral posterior tibia (P = 0.03) and the medial anterior femur (P = 0.008) as well as BMLs in the medial posterior tibia (P = 0.007). However, no significant difference in meniscal morphology was found in either compartment. Individuals with no history of knee trauma or ACL injury displayed predominantly medial tibiofemoral compartment damage. Conclusion Individuals with prevalent ACL disruptions exhibited concomitant osteoarthritic changes in the medial tibiofemoral compartment, as seen on MRI. As the changes in joint tissues were predominantly located in the medial compartment, it is thought that these ACL tears may represent a manifestation of the overall disease process rather than the precipitant for osteoarthritis incidence.
+ER  - 
+
+TY  - JOUR
+AU  - Furyk, Jeremy
+AU  - Banks, Colin
+TI  - Reducing imaging for pulmonary embolism diagnosis
+JO  - Emergency Medicine Australasia
+JA  - Emergency Medicine Australasia
+VL  - 32
+IS  - 1
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/1742-6723.13459
+DO  - doi:10.1111/1742-6723.13459
+SP  - 176
+EP  - 178
+PY  - 2020
+ER  - 
+
+TY  - JOUR
+AU  - Taverna, Domenico
+AU  - Pollins, Alonda C.
+AU  - Sindona, Giovanni
+AU  - Caprioli, Richard M.
+AU  - Nanney, Lillian B.
+TI  - Imaging mass spectrometry for accessing molecular changes during burn wound healing
+JO  - Wound Repair and Regeneration
+JA  - Wound Rep and Reg
+VL  - 24
+IS  - 5
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/wrr.12450
+DO  - doi:10.1111/wrr.12450
+SP  - 775
+EP  - 785
+PY  - 2016
+AB  - ABSTRACT The spatiotemporal analysis of the proteomic profile during human wound healing is a critical investigative step that can establish the complex interplay of molecular events that comprise the local response to burn injury. Partial-thickness wound samples with adjacent ?normal? skin were collected from twenty-one patients with burn wounds and examined across a time spectrum ranging from the acute injury period at 3, 6, 11 days to the later hypertrophic scar period at 7 and 15 months. The techniques used for histology-directed tissue analyses highlighted inflammatory protein markers at the early time points after injury with diminished expression as burn wounds progressed into the proliferative phase. The datasets show the usefulness of MALDI MS and imaging mass spectrometry as discovery approaches to identify and map the cutaneous molecular sequence that is activated in response to the unique systemic inflammatory response following burn trauma. This information has the potential to define the unique factors that predispose human burn victims to disfiguring hypertrophic scar formation.
+ER  - 
+
+TY  - JOUR
+AU  - Livingstone, Callum
+TI  - Review of Copper Provision in the Parenteral Nutrition of Adults
+JO  - Nutrition in Clinical Practice
+JA  - Nutrition in Clinical Practice
+VL  - 32
+IS  - 2
+SN  - 0884-5336
+UR  - https://doi.org/10.1177/0884533616673190
+DO  - doi:10.1177/0884533616673190
+SP  - 153
+EP  - 165
+KW  - copper
+KW  - copper deficiency
+KW  - copper toxicity
+KW  - parenteral nutrition
+KW  - nutritional support
+PY  - 2017
+AB  - The essential trace element copper (Cu) is required for a range of physiologic processes, including wound healing and functioning of the immune system. The correct amount of Cu must be provided in parenteral nutrition (PN) if deficiency and toxicity are to be avoided. While provision in line with the standard recommendations should suffice for most patients, Cu requirements may be higher in patients with increased gastrointestinal losses and severe burns and lower in those with cholestasis. The tests of Cu status that are currently available for clinical use are unreliable. Serum Cu concentration is the most commonly ordered test but is insensitive to Cu deficiency and toxicity and is misleadingly increased during the acute phase response. These limitations make it difficult for prescribers to assess Cu status and to decide how much Cu to provide. There is a need for better tests of Cu status to be developed to decrease uncertainty and improve individualization of Cu dosing. More information is needed on Cu requirements in disease and Cu contamination of PN components and other intravenous fluids. New multi?trace element products should be developed that provide Cu doses in line with the 2012 American Society for Parenteral and Enteral Nutrition recommendations. This article discusses the evaluation and treatment of Cu deficiency and toxicity in patients treated with PN.
+ER  - 
+
+TY  - JOUR
+AU  - Colombo, Graziano
+AU  - Clerici, Marco
+AU  - Giustarini, Daniela
+AU  - Portinaro, Nicola M.
+AU  - Aldini, Giancarlo
+AU  - Rossi, Ranieri
+AU  - Milzani, Aldo
+AU  - Dalle-Donne, Isabella
+TI  - Pathophysiology of tobacco smoke exposure: Recent insights from comparative and redox proteomics
+JO  - Mass Spectrometry Reviews
+JA  - Mass Spec Rev
+VL  - 33
+IS  - 3
+SN  - 0277-7037
+UR  - https://doi.org/10.1002/mas.21392
+DO  - doi:10.1002/mas.21392
+SP  - 183
+EP  - 218
+KW  - tobacco smoke
+KW  - inflammation
+KW  - (redox) proteomics
+KW  - mass spectrometry
+KW  - oxidative modifications
+KW  - protein oxidation
+PY  - 2014
+AB  - Abstract First-hand and second-hand tobacco smoke are causally linked to a huge number of deaths and are responsible for a broad spectrum of pathologies such as cancer, cardiovascular, respiratory, and eye diseases as well as adverse effects on female reproductive function. Cigarette smoke is a complex mixture of thousands of different chemical species, which exert their negative effects on macromolecules and biochemical pathways, both directly and indirectly. Many compounds can act as oxidants, pro-inflammatory agents, carcinogens, or a combination of these. The redox behavior of cigarette smoke has many implications for smoke related diseases. Reactive oxygen and nitrogen species (both radicals and non-radicals), reactive carbonyl compounds, and other species may induce oxidative damage in almost all the biological macromolecules, compromising their structure and/or function. Different quantitative and redox proteomic approaches have been applied in vitro and in vivo to evaluate, respectively, changes in protein expression and specific oxidative protein modifications induced by exposure to cigarette smoke and are overviewed in this review. Many gel-based and gel-free proteomic techniques have already been used successfully to obtain clues about smoke effects on different proteins in cell cultures, animal models, and humans. The further implementation with other sensitive screening techniques could be useful to integrate the comprehension of cigarette smoke effects on human health. In particular, the redox proteomic approach may also help identify biomarkers of exposure to tobacco smoke useful for preventing these effects or potentially predictive of the onset and/or progression of smoking-induced diseases as well as potential targets for therapeutic strategies. ? 2013 Wiley Periodicals, Inc. Mass Spec Rev 33: 183?218, 2014.
+ER  - 
+
+TY  - JOUR
+AU  - Welton, Thomas
+AU  - Indja, Ben E.
+AU  - Maller, Jerome J.
+AU  - Fanning, Jonathon P.
+AU  - Vallely, Michael P.
+AU  - Grieve, Stuart M.
+TI  - Replicable brain signatures of emotional bias and memory based on diffusion kurtosis imaging of white matter tracts
+JO  - Human Brain Mapping
+JA  - Hum Brain Mapp
+VL  - n/a
+IS  - n/a
+SN  - 1065-9471
+UR  - https://doi.org/10.1002/hbm.24874
+DO  - doi:10.1002/hbm.24874
+KW  - brain
+KW  - cognition
+KW  - diffusion kurtosis imaging
+KW  - emotion
+KW  - magnetic resonance imaging
+AB  - Abstract Diffusion MRI (dMRI) is sensitive to anisotropic diffusion within bundles of nerve axons and can be used to make objective measurements of brain networks. Many brain disorders are now recognised as being caused by network dysfunction or are secondarily associated with changes in networks. There is therefore great potential in using dMRI measures that reflect network integrity as a future clinical tool to help manage these conditions. Here, we used dMRI to identify replicable, robust and objective markers that meaningfully reflect cognitive and emotional performance. Using diffusion kurtosis analysis and a battery of cognitive and emotional tests, we demonstrated strong relationships between white matter structure across networks of anatomically and functionally specific brain regions with both emotional bias and emotional memory performance in a large healthy cohort. When the connectivity of these regions was examined using diffusion tractography, the terminations of the identified tracts overlapped precisely with cortical loci relating to these domains, drawn from an independent spatial meta-analysis of available functional neuroimaging literature. The association with emotional bias was then replicated using an independently acquired healthy cohort drawn from the Human Connectome Project. These results demonstrate that, even in healthy individuals, white matter dMRI structural features underpin important cognitive and emotional functions. Our robust cross-correlation and replication supports the potential of structural brain biomarkers from diffusion kurtosis MRI to characterise early neurological changes and risk in individuals with a reduced threshold for cognitive dysfunction, with further testing required to demonstrate clinical utility.
+ER  - 
+
+TY  - JOUR
+AU  - Lee, Eun Joo
+AU  - Gusev, Yuriy
+AU  - Jiang, Jinmai
+AU  - Nuovo, Gerard J.
+AU  - Lerner, Megan R.
+AU  - Frankel, Wendy L.
+AU  - Morgan, Daniel L.
+AU  - Postier, Russell G.
+AU  - Brackett, Daniel J.
+AU  - Schmittgen, Thomas D.
+TI  - Expression profiling identifies microRNA signature in pancreatic cancer
+JO  - International Journal of Cancer
+JA  - Int. J. Cancer
+VL  - 120
+IS  - 5
+SN  - 0020-7136
+UR  - https://doi.org/10.1002/ijc.22394
+DO  - doi:10.1002/ijc.22394
+SP  - 1046
+EP  - 1054
+KW  - cancer
+KW  - noncoding RNA
+KW  - gene expression
+KW  - real-time PCR
+PY  - 2007
+AB  - Abstract microRNAs are functional, 22 nt, noncoding RNAs that negatively regulate gene expression. Disturbance of microRNA expression may play a role in the initiation and progression of certain diseases. A microRNA expression signature has been identified that is associated with pancreatic cancer. This has been accomplished with the application of real-time PCR profiling of over 200 microRNA precursors on specimens of human pancreatic adenocarcinoma, paired benign tissue, normal pancreas, chronic pancreatitis and nine pancreatic cancer cell lines. Hierarchical clustering was able to distinguish tumor from normal pancreas, pancreatitis and cell lines. The PAM algorithm correctly classified 28 of 28 tumors, 6 of 6 normal pancreas and 11 of 15 adjacent benign tissues. One hundred microRNA precursors were aberrantly expressed in pancreatic cancer or desmoplasia (p < 0.01), including microRNAs previously reported as differentially expressed in other human cancers (miR-155, miR-21, miR-221 and miR-222) as well as those not previously reported in cancer (miR-376a and miR-301). Most of the top aberrantly expressed miRNAs displayed increased expression in the tumor. Expression of the active, mature microRNA was validated using a real-time PCR assay to quantify the mature microRNA and Northern blotting. Reverse transcription in situ PCR showed that three of the top differentially expressed miRNAs (miR-221, -376a and -301) were localized to tumor cells and not to stroma or normal acini or ducts. Aberrant microRNA expression may offer new clues to pancreatic tumorigenesis and may provide diagnostic biomarkers for pancreatic adenocarcinoma. ? 2006 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Sauvé, V
+AU  - Parent, C
+AU  - Seiler, G
+AU  - French, A
+AU  - VanWinkle, TJ
+AU  - King, LG
+TI  - ACUTE LUNG INJURY AND ACUTE RESPIRATORY DISTRESS SYNDROME IN CATS: 65 CASES (1993–2003)
+JO  - Journal of Veterinary Emergency and Critical Care
+VL  - 14
+IS  - S1
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/j.1476-4431.2004.t01-11-04035.x
+DO  - doi:10.1111/j.1476-4431.2004.t01-11-04035.x
+SP  - S1
+EP  - S17
+PY  - 2004
+AB  - Objectives: 1) Describe the clinical course and diagnostic findings of cats with histopathologic evidence of acute lung injury (ALI) and acute respiratory distress syndrome (ARDS). 2) Identify risk factors for ALI/ARDS in cats. Animals: Sixty-five client-owned cats with moderate to severe interstitial pneumonia, pneumonitis or alveolitis consistent with ALI/ARDS on post-mortem examination and clinical evidence of respiratory compromise. Procedure: Retrospective evaluation of medical records, postmortem examination and radiographs. Results: Cats in this study tended to be middle aged (mean 6.5±4.9 years). They had a short duration of illness (median 4 days; range 0?120 days) and of dyspnea (median 1 day; range 1?7 days). On presentation, the cats were tachypneic (mean respiratory rate 53±23?bpm) and relatively bradycardic (mean heart rate 166±43?bpm). The majority of cats were dyspneic (n=39) at presentation; all others developed respiratory difficulties during hospitalization. The mean white blood cell count was within normal limits (14.6±14.0?k/?L); 8 cats had a leukocytosis and 7 were leucopenic. Clinical findings consistent with SIRS (n=39) and sepsis (n=10) were common. Thoracic radiographs were reviewed in 31 cats and alveolar disease was the most frequent pattern (105 lung lobes) followed by interstitial disease (86 lung lobes). No cat had normal thoracic radiographs throughout hospitalization. Underlying disease was not identified on post-mortem examination in 15 cats (23%), but in the remaining cats underlying diseases included infectious systemic disease (n=11), neoplasia (n=8), respiratory (n=8) and urinary (n=7) system disorders, acute pancreatitis (n=7), hepatic diseases (n=5), major trauma (n=4), sepsis (n=3), CNS (n=2) and other systems (n=5). Nine cats had more then one underlying process. Conclusions: This study describes a naturally-occurring syndrome of ALI/ARDS in cats analogous to that which occurs in dogs and humans. In cats, ALI/ARDS occurs as a sequela of a variety of underlying systemic diseases, but in approximately one-quarter of patients an underlying cause is not identified at necropsy. It is important to consider ALI/ARDS in systemically ill cats who become dyspneic; in cats with pulmonary disease with acute worsening of respiratory status and in cats with pulmonary infiltrates for which no other cause can be identified.
+ER  - 
+
+TY  - JOUR
+AU  - Yager, D.R.
+AU  - Cohen, I.K.
+AU  - Crossland, M.C.
+AU  - Shawler, L.G.
+AU  - Sommer, V.L.
+AU  - Boykin Jr., J.V.
+TI  - 172 Neutrophil Enzymes in Pressure Ulcers
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130216bx.x
+DO  - doi:10.1111/j.1067-1927.2005.130216bx.x
+SP  - A28
+EP  - A48
+PY  - 2005
+AB  - It has been speculated that a prolonged and elevated neutrophilic response has an important role in the pathogenesis of chronic wounds. This has raised the possibility that one or more of these proteases might be useful as a diagnostic or prognostic biomarker for chronic wounds. The purpose of this study was to examine several primarily neutrophil-derived proteases present in pressure ulcer tissues and to determine whether protease activity could be correlated with neutrophil levels. Biopsies of pressure ulcers were taken from consented subjects (n?=?13) and again after 3 months standard care. Mean wound volume decreased 2.4?cm3 per month; however, volumes of six wounds were increased at the end of the study. Levels of extractable myeloperoxidase (MPO), elastase, collagenase-2 (MMP-8), and gelatinase (MMP-9) activities were determined. Mean levels of MPO (n?=?11) at study initiation and after 3 months were nearly identical (2945 and 2845 milliunits per mg extract, respectively). Interestingly, these levels were similar to that previously found in healing open dermal wounds at 4 days postwounding. MPO levels increased in the extracts obtained from three subjects and declined in five subjects. Elastase (corr. 0.265 p?=?0.233) and MMP-8 (corr. ?0.05 p?=?0.835) activities correlated poorly with MPO. This is likely a reflection of differences in the access of protease inhibitors (e.g., alpha1-antitrypsin, TIMP, and alpha2?macroglobulin) to these wounds. As expected, a greater correlation level was observed between the proteases (MMP-8 vs. elastase corr. 0.362 p?=?0.097; MMP-8 vs. MMP-9 corr. 0.55 p?=?0.009). The results from this study highlight the high degree of variability that can be observed in the pressure ulcer environment. This further suggests that a combination of biomarkers will be required for making accurate diagnostic assessments of chronic wounds. This work was supported by NIH GM 58530.
+ER  - 
+
+TY  - JOUR
+AU  - Logan, Jeongok G
+AU  - Barksdale, Debra J
+TI  - Allostasis and allostatic load: expanding the discourse on stress and cardiovascular disease
+JO  - Journal of Clinical Nursing
+VL  - 17
+IS  - 7b
+SN  - 0962-1067
+UR  - https://doi.org/10.1111/j.1365-2702.2008.02347.x
+DO  - doi:10.1111/j.1365-2702.2008.02347.x
+SP  - 201
+EP  - 208
+KW  - allostasis
+KW  - allostatic load
+KW  - cardiovascular disease
+KW  - nursing
+KW  - resilience
+KW  - stress
+PY  - 2008
+AB  - Aim.? The aim of this discursive paper is to introduce allostasis and allostatic load, which are relatively new concepts proposed to explain physiological responses to stress, and to suggest ways in which allostasis theory can be applied to the development of clinical interventions to increase resilience for producing better health outcome. Background.? Common explanations of stress have failed adequately to explicate its association with health and chronic illness. Allostasis is the extension of the concept of homeostasis and represents the adaptation process of the complex physiological system to physical, psychosocial and environmental challenges or stress. Allostatic load is the long-term result of failed adaptation or allostasis, resulting in pathology and chronic illness. Discussion.? The concepts of allostasis and allostatic load introduced the idea that external challenges initiate allostasis and chronic stress causes allostatic load that can be measured with multiple biomarkers. Finding from several studies suggests that higher allostatic load is associated with worse health outcomes. Resilience represents successful allostasis and strategies can be implemented to enhance resilience and thereby improve health outcomes. Conclusions.? This theoretical model provides a comprehensive explanation of the human body?s adaptation processes in response to stress and the results of failed adaptation over time. In addition, combining the concepts of allostasis and resilience may help us to understand and implement clinical strategies better to reduce or prevent the debilitating physiological and psychological effects of chronic stress and chronic illness. Relevance to clinical practice.? Clinical practice should be based on a solid theoretical foundation to improve health outcomes. Strategies to manage stress and increase resilience along with clinical interventions to manage the physiological responses to chronic stress are necessary to assist in preventing and controlling the detrimental effects of chronic disease on human life.
+ER  - 
+
+TY  - JOUR
+AU  - Pardo, Luis
+AU  - Schlüter, Agatha
+AU  - Valor, Luis M.
+AU  - Barco, Angel
+AU  - Giralt, Mercedes
+AU  - Golbano, Arantxa
+AU  - Hidalgo, Juan
+AU  - Jia, Peilin
+AU  - Zhao, Zhongming
+AU  - Jové, Mariona
+AU  - Portero-Otin, Manuel
+AU  - Ruiz, Montserrat
+AU  - Giménez-Llort, Lydia
+AU  - Masgrau, Roser
+AU  - Pujol, Aurora
+AU  - Galea, Elena
+TI  - Targeted activation of CREB in reactive astrocytes is neuroprotective in focal acute cortical injury
+JO  - Glia
+JA  - Glia
+VL  - 64
+IS  - 5
+SN  - 0894-1491
+UR  - https://doi.org/10.1002/glia.22969
+DO  - doi:10.1002/glia.22969
+SP  - 853
+EP  - 874
+KW  - astrocytes
+KW  - CREB
+KW  - mitochondria
+KW  - neuroinflammation
+KW  - traumatic brain injury
+PY  - 2016
+AB  - The clinical challenge in acute injury as in traumatic brain injury (TBI) is to halt the delayed neuronal loss that occurs hours and days after the insult. Here we report that the activation of CREB-dependent transcription in reactive astrocytes prevents secondary injury in cerebral cortex after experimental TBI. The study was performed in a novel bitransgenic mouse in which a constitutively active CREB, VP16-CREB, was targeted to astrocytes with the Tet-Off system. Using histochemistry, qPCR, and gene profiling we found less neuronal death and damage, reduced macrophage infiltration, preserved mitochondria, and rescued expression of genes related to mitochondrial metabolism in bitransgenic mice as compared to wild type littermates. Finally, with meta-analyses using publicly available databases we identified a core set of VP16-CREB candidate target genes that may account for the neuroprotective effect. Enhancing CREB activity in astrocytes thus emerges as a novel avenue in acute brain post-injury therapeutics. GLIA 2016;64:853?874
+ER  - 
+
+TY  - JOUR
+AU  - Gorter, Jan A.
+AU  - van Vliet, Erwin A.
+AU  - Dedeurwaerdere, Stefanie
+AU  - Buchanan, Gordon F.
+AU  - Friedman, Daniel
+AU  - Borges, Karin
+AU  - Grabenstatter, Heidi
+AU  - Lukasiuk, Katarzyna
+AU  - Scharfman, Helen E.
+AU  - Nehlig, Astrid
+TI  - A companion to the preclinical common data elements for physiologic data in rodent epilepsy models. A report of the TASK3 Physiology Working Group of the ILAE/AES Joint Translational Task Force
+JO  - Epilepsia Open
+JA  - Epilepsia Open
+VL  - 3
+IS  - S1
+SN  - 2470-9239
+UR  - https://doi.org/10.1002/epi4.12261
+DO  - doi:10.1002/epi4.12261
+SP  - 69
+EP  - 89
+KW  - Preclinical
+KW  - Common data elements
+KW  - Rodent
+KW  - Epilepsy
+KW  - Model
+KW  - Physiology
+PY  - 2018
+AB  - Summary The International League Against Epilepsy/American Epilepsy Society (ILAE/AES) Joint Translational Task Force created the TASK3 working groups to create common data elements (CDEs) for various aspects of preclinical epilepsy research studies, which could help improve standardization of experimental designs. This article concerns the parameters that can be measured to assess the physiologic condition of the animals that are used to study rodent models of epilepsy. Here we discuss CDEs for physiologic parameters measured in adult rats and mice such as general health status, temperature, cardiac and respiratory function, and blood constituents. We provide detailed CDE tables and case report forms (CRFs), and with this companion manuscript we discuss the monitoring of different aspects of physiology of the animals. The CDEs, CRFs, and companion paper are available to all researchers, and their use will benefit the harmonization and comparability of translational preclinical epilepsy research. The ultimate hope is to facilitate the development of biomarkers and new treatments for epilepsy.
+ER  - 
+
+TY  - JOUR
+AU  - Heininger, Kurt
+TI  - A unifying hypothesis of Alzheimer's disease. III. Risk factors
+JO  - Human Psychopharmacology: Clinical and Experimental
+JA  - Hum. Psychopharmacol. Clin. Exp.
+VL  - 15
+IS  - 1
+SN  - 0885-6222
+UR  - https://doi.org/10.1002/(SICI)1099-1077(200001)15:1<1::AID-HUP153>3.0.CO;2-1
+DO  - doi:10.1002/(SICI)1099-1077(200001)15:1<1::AID-HUP153>3.0.CO;2-1
+SP  - 1
+EP  - 70
+KW  - Alzheimer's disease
+KW  - risk factors
+KW  - Down's syndrome
+KW  - APP
+KW  - presenilin
+KW  - apolipoprotein E
+KW  - traumatic brain injury
+KW  - cerebrovascular disease
+KW  - cardiovascular disease
+KW  - hypertension
+KW  - major depression
+KW  - stress
+KW  - education
+KW  - diet
+KW  - smoking
+KW  - physical activity
+KW  - trace metals
+PY  - 2000
+AB  - Abstract Normal ageing and Alzheimer's disease (AD) have many features in common and, in many respects, both conditions only differ by quantitative criteria. A variety of genetic, medical and environmental factors modulate the ageing-related processes leading the brain into the devastation of AD. In accordance with the concept that AD is a metabolic disease, these risk factors deteriorate the homeostasis of the Ca2+?energy?redox triangle and disrupt the cerebral reserve capacity under metabolic stress. The major genetic risk factors (APP and presenilin mutations, Down's syndrome, apolipoprotein E4) are associated with a compromise of the homeostatic triangle. The pathophysiological processes leading to this vulnerability remain elusive at present, while mitochondrial mutations can be plausibly integrated into the metabolic scenario. The metabolic leitmotif is particularly evident with medical risk factors which are associated with an impaired cerebral perfusion, such as cerebrovascular diseases including stroke, cardiovascular diseases, hypo- and hypertension. Traumatic brain injury represents another example due to the persistent metabolic stress following the acute event. Thyroid diseases have detrimental sequela for cerebral metabolism as well. Furthermore, major depression and presumably chronic stress endanger susceptible brain areas mediated by a host of hormonal imbalances, particularly the HPA-axis dysregulation. Sociocultural and lifestyle factors like education, physical activity, diet and smoking may also modulate the individual risk affecting both reserve capacity and vulnerability. The pathophysiological relevance of trace metals, including aluminum and iron, is highly controversial; at any rate, they may adversely affect cellular defences, antioxidant competence in particular. The relative contribution of these factors, however, is as individual as the pattern of the factors. In familial AD, the genetic factors clearly drive the sequence of events. A strong interaction of fat metabolism and apoE polymorphism is suggested by intercultural epidemiological findings. In cultures, less plagued by the ?blessings? of the ?cafeteria diet?sedentary? Western lifestyle, apoE4 appears to be not a risk factor for AD. This intriguing evidence suggests that, analogous to cardiovascular diseases, apoE4 requires a hyperlipidaemic lifestyle to manifest as AD risk factor. Overall, the etiology of AD is a key paradigm for a gene-environment interaction. Copyright ? 2000 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Cossarizza, Andrea
+AU  - Chang, Hyun-Dong
+AU  - Radbruch, Andreas
+AU  - Acs, Andreas
+AU  - Adam, Dieter
+AU  - Adam-Klages, Sabine
+AU  - Agace, William W.
+AU  - Aghaeepour, Nima
+AU  - Akdis, Mübeccel
+AU  - Allez, Matthieu
+AU  - Almeida, Larissa Nogueira
+AU  - Alvisi, Giorgia
+AU  - Anderson, Graham
+AU  - Andrä, Immanuel
+AU  - Annunziato, Francesco
+AU  - Anselmo, Achille
+AU  - Bacher, Petra
+AU  - Baldari, Cosima T.
+AU  - Bari, Sudipto
+AU  - Barnaba, Vincenzo
+AU  - Barros-Martins, Joana
+AU  - Battistini, Luca
+AU  - Bauer, Wolfgang
+AU  - Baumgart, Sabine
+AU  - Baumgarth, Nicole
+AU  - Baumjohann, Dirk
+AU  - Baying, Bianka
+AU  - Bebawy, Mary
+AU  - Becher, Burkhard
+AU  - Beisker, Wolfgang
+AU  - Benes, Vladimir
+AU  - Beyaert, Rudi
+AU  - Blanco, Alfonso
+AU  - Boardman, Dominic A.
+AU  - Bogdan, Christian
+AU  - Borger, Jessica G.
+AU  - Borsellino, Giovanna
+AU  - Boulais, Philip E.
+AU  - Bradford, Jolene A.
+AU  - Brenner, Dirk
+AU  - Brinkman, Ryan R.
+AU  - Brooks, Anna E. S.
+AU  - Busch, Dirk H.
+AU  - Büscher, Martin
+AU  - Bushnell, Timothy P.
+AU  - Calzetti, Federica
+AU  - Cameron, Garth
+AU  - Cammarata, Ilenia
+AU  - Cao, Xuetao
+AU  - Cardell, Susanna L.
+AU  - Casola, Stefano
+AU  - Cassatella, Marco A.
+AU  - Cavani, Andrea
+AU  - Celada, Antonio
+AU  - Chatenoud, Lucienne
+AU  - Chattopadhyay, Pratip K.
+AU  - Chow, Sue
+AU  - Christakou, Eleni
+AU  - Čičin-Šain, Luka
+AU  - Clerici, Mario
+AU  - Colombo, Federico S.
+AU  - Cook, Laura
+AU  - Cooke, Anne
+AU  - Cooper, Andrea M.
+AU  - Corbett, Alexandra J.
+AU  - Cosma, Antonio
+AU  - Cosmi, Lorenzo
+AU  - Coulie, Pierre G.
+AU  - Cumano, Ana
+AU  - Cvetkovic, Ljiljana
+AU  - Dang, Van Duc
+AU  - Dang-Heine, Chantip
+AU  - Davey, Martin S.
+AU  - Davies, Derek
+AU  - De Biasi, Sara
+AU  - Del Zotto, Genny
+AU  - Dela Cruz, Gelo Victoriano
+AU  - Delacher, Michael
+AU  - Della Bella, Silvia
+AU  - Dellabona, Paolo
+AU  - Deniz, Günnur
+AU  - Dessing, Mark
+AU  - Di Santo, James P.
+AU  - Diefenbach, Andreas
+AU  - Dieli, Francesco
+AU  - Dolf, Andreas
+AU  - Dörner, Thomas
+AU  - Dress, Regine J.
+AU  - Dudziak, Diana
+AU  - Dustin, Michael
+AU  - Dutertre, Charles-Antoine
+AU  - Ebner, Friederike
+AU  - Eckle, Sidonia B. G.
+AU  - Edinger, Matthias
+AU  - Eede, Pascale
+AU  - Ehrhardt, Götz R.A.
+AU  - Eich, Marcus
+AU  - Engel, Pablo
+AU  - Engelhardt, Britta
+AU  - Erdei, Anna
+AU  - Esser, Charlotte
+AU  - Everts, Bart
+AU  - Evrard, Maximilien
+AU  - Falk, Christine S.
+AU  - Fehniger, Todd A.
+AU  - Felipo-Benavent, Mar
+AU  - Ferry, Helen
+AU  - Feuerer, Markus
+AU  - Filby, Andrew
+AU  - Filkor, Kata
+AU  - Fillatreau, Simon
+AU  - Follo, Marie
+AU  - Förster, Irmgard
+AU  - Foster, John
+AU  - Foulds, Gemma A.
+AU  - Frehse, Britta
+AU  - Frenette, Paul S.
+AU  - Frischbutter, Stefan
+AU  - Fritzsche, Wolfgang
+AU  - Galbraith, David W.
+AU  - Gangaev, Anastasia
+AU  - Garbi, Natalio
+AU  - Gaudilliere, Brice
+AU  - Gazzinelli, Ricardo T.
+AU  - Geginat, Jens
+AU  - Gerner, Wilhelm
+AU  - Gherardin, Nicholas A.
+AU  - Ghoreschi, Kamran
+AU  - Gibellini, Lara
+AU  - Ginhoux, Florent
+AU  - Goda, Keisuke
+AU  - Godfrey, Dale I.
+AU  - Goettlinger, Christoph
+AU  - González-Navajas, Jose M.
+AU  - Goodyear, Carl S.
+AU  - Gori, Andrea
+AU  - Grogan, Jane L.
+AU  - Grummitt, Daryl
+AU  - Grützkau, Andreas
+AU  - Haftmann, Claudia
+AU  - Hahn, Jonas
+AU  - Hammad, Hamida
+AU  - Hämmerling, Günter
+AU  - Hansmann, Leo
+AU  - Hansson, Goran
+AU  - Harpur, Christopher M.
+AU  - Hartmann, Susanne
+AU  - Hauser, Andrea
+AU  - Hauser, Anja E.
+AU  - Haviland, David L.
+AU  - Hedley, David
+AU  - Hernández, Daniela C.
+AU  - Herrera, Guadalupe
+AU  - Herrmann, Martin
+AU  - Hess, Christoph
+AU  - Höfer, Thomas
+AU  - Hoffmann, Petra
+AU  - Hogquist, Kristin
+AU  - Holland, Tristan
+AU  - Höllt, Thomas
+AU  - Holmdahl, Rikard
+AU  - Hombrink, Pleun
+AU  - Houston, Jessica P.
+AU  - Hoyer, Bimba F.
+AU  - Huang, Bo
+AU  - Huang, Fang-Ping
+AU  - Huber, Johanna E.
+AU  - Huehn, Jochen
+AU  - Hundemer, Michael
+AU  - Hunter, Christopher A.
+AU  - Hwang, William Y. K.
+AU  - Iannone, Anna
+AU  - Ingelfinger, Florian
+AU  - Ivison, Sabine M
+AU  - Jäck, Hans-Martin
+AU  - Jani, Peter K.
+AU  - Jávega, Beatriz
+AU  - Jonjic, Stipan
+AU  - Kaiser, Toralf
+AU  - Kalina, Tomas
+AU  - Kamradt, Thomas
+AU  - Kaufmann, Stefan H. E.
+AU  - Keller, Baerbel
+AU  - Ketelaars, Steven L. C.
+AU  - Khalilnezhad, Ahad
+AU  - Khan, Srijit
+AU  - Kisielow, Jan
+AU  - Klenerman, Paul
+AU  - Knopf, Jasmin
+AU  - Koay, Hui-Fern
+AU  - Kobow, Katja
+AU  - Kolls, Jay K.
+AU  - Kong, Wan Ting
+AU  - Kopf, Manfred
+AU  - Korn, Thomas
+AU  - Kriegsmann, Katharina
+AU  - Kristyanto, Hendy
+AU  - Kroneis, Thomas
+AU  - Krueger, Andreas
+AU  - Kühne, Jenny
+AU  - Kukat, Christian
+AU  - Kunkel, Désirée
+AU  - Kunze-Schumacher, Heike
+AU  - Kurosaki, Tomohiro
+AU  - Kurts, Christian
+AU  - Kvistborg, Pia
+AU  - Kwok, Immanuel
+AU  - Landry, Jonathan
+AU  - Lantz, Olivier
+AU  - Lanuti, Paola
+AU  - LaRosa, Francesca
+AU  - Lehuen, Agnès
+AU  - LeibundGut-Landmann, Salomé
+AU  - Leipold, Michael D.
+AU  - Leung, Leslie Y.T.
+AU  - Levings, Megan K.
+AU  - Lino, Andreia C.
+AU  - Liotta, Francesco
+AU  - Litwin, Virginia
+AU  - Liu, Yanling
+AU  - Ljunggren, Hans-Gustaf
+AU  - Lohoff, Michael
+AU  - Lombardi, Giovanna
+AU  - Lopez, Lilly
+AU  - López-Botet, Miguel
+AU  - Lovett-Racke, Amy E.
+AU  - Lubberts, Erik
+AU  - Luche, Herve
+AU  - Ludewig, Burkhard
+AU  - Lugli, Enrico
+AU  - Lunemann, Sebastian
+AU  - Maecker, Holden T.
+AU  - Maggi, Laura
+AU  - Maguire, Orla
+AU  - Mair, Florian
+AU  - Mair, Kerstin H.
+AU  - Mantovani, Alberto
+AU  - Manz, Rudolf A.
+AU  - Marshall, Aaron J.
+AU  - Martínez-Romero, Alicia
+AU  - Martrus, Glòria
+AU  - Marventano, Ivana
+AU  - Maslinski, Wlodzimierz
+AU  - Matarese, Giuseppe
+AU  - Mattioli, Anna Vittoria
+AU  - Maueröder, Christian
+AU  - Mazzoni, Alessio
+AU  - McCluskey, James
+AU  - McGrath, Mairi
+AU  - McGuire, Helen M.
+AU  - McInnes, Iain B.
+AU  - Mei, Henrik E.
+AU  - Melchers, Fritz
+AU  - Melzer, Susanne
+AU  - Mielenz, Dirk
+AU  - Miller, Stephen D.
+AU  - Mills, Kingston H.G.
+AU  - Minderman, Hans
+AU  - Mjösberg, Jenny
+AU  - Moore, Jonni
+AU  - Moran, Barry
+AU  - Moretta, Lorenzo
+AU  - Mosmann, Tim R.
+AU  - Müller, Susann
+AU  - Multhoff, Gabriele
+AU  - Muñoz, Luis Enrique
+AU  - Münz, Christian
+AU  - Nakayama, Toshinori
+AU  - Nasi, Milena
+AU  - Neumann, Katrin
+AU  - Ng, Lai Guan
+AU  - Niedobitek, Antonia
+AU  - Nourshargh, Sussan
+AU  - Núñez, Gabriel
+AU  - O'Connor, José-Enrique
+AU  - Ochel, Aaron
+AU  - Oja, Anna
+AU  - Ordonez, Diana
+AU  - Orfao, Alberto
+AU  - Orlowski-Oliver, Eva
+AU  - Ouyang, Wenjun
+AU  - Oxenius, Annette
+AU  - Palankar, Raghavendra
+AU  - Panse, Isabel
+AU  - Pattanapanyasat, Kovit
+AU  - Paulsen, Malte
+AU  - Pavlinic, Dinko
+AU  - Penter, Livius
+AU  - Peterson, Pärt
+AU  - Peth, Christian
+AU  - Petriz, Jordi
+AU  - Piancone, Federica
+AU  - Pickl, Winfried F.
+AU  - Piconese, Silvia
+AU  - Pinti, Marcello
+AU  - Pockley, A. Graham
+AU  - Podolska, Malgorzata Justyna
+AU  - Poon, Zhiyong
+AU  - Pracht, Katharina
+AU  - Prinz, Immo
+AU  - Pucillo, Carlo E. M.
+AU  - Quataert, Sally A.
+AU  - Quatrini, Linda
+AU  - Quinn, Kylie M.
+AU  - Radbruch, Helena
+AU  - Radstake, Tim R. D. J.
+AU  - Rahmig, Susann
+AU  - Rahn, Hans-Peter
+AU  - Rajwa, Bartek
+AU  - Ravichandran, Gevitha
+AU  - Raz, Yotam
+AU  - Rebhahn, Jonathan A.
+AU  - Recktenwald, Diether
+AU  - Reimer, Dorothea
+AU  - Reis e Sousa, Caetano
+AU  - Remmerswaal, Ester B.M.
+AU  - Richter, Lisa
+AU  - Rico, Laura G.
+AU  - Riddell, Andy
+AU  - Rieger, Aja M.
+AU  - Robinson, J. Paul
+AU  - Romagnani, Chiara
+AU  - Rubartelli, Anna
+AU  - Ruland, Jürgen
+AU  - Saalmüller, Armin
+AU  - Saeys, Yvan
+AU  - Saito, Takashi
+AU  - Sakaguchi, Shimon
+AU  - Sala-de-Oyanguren, Francisco
+AU  - Samstag, Yvonne
+AU  - Sanderson, Sharon
+AU  - Sandrock, Inga
+AU  - Santoni, Angela
+AU  - Sanz, Ramon Bellmàs
+AU  - Saresella, Marina
+AU  - Sautes-Fridman, Catherine
+AU  - Sawitzki, Birgit
+AU  - Schadt, Linda
+AU  - Scheffold, Alexander
+AU  - Scherer, Hans U.
+AU  - Schiemann, Matthias
+AU  - Schildberg, Frank A.
+AU  - Schimisky, Esther
+AU  - Schlitzer, Andreas
+AU  - Schlosser, Josephine
+AU  - Schmid, Stephan
+AU  - Schmitt, Steffen
+AU  - Schober, Kilian
+AU  - Schraivogel, Daniel
+AU  - Schuh, Wolfgang
+AU  - Schüler, Thomas
+AU  - Schulte, Reiner
+AU  - Schulz, Axel Ronald
+AU  - Schulz, Sebastian R.
+AU  - Scottá, Cristiano
+AU  - Scott-Algara, Daniel
+AU  - Sester, David P.
+AU  - Shankey, T. Vincent
+AU  - Silva-Santos, Bruno
+AU  - Simon, Anna Katharina
+AU  - Sitnik, Katarzyna M.
+AU  - Sozzani, Silvano
+AU  - Speiser, Daniel E.
+AU  - Spidlen, Josef
+AU  - Stahlberg, Anders
+AU  - Stall, Alan M.
+AU  - Stanley, Natalie
+AU  - Stark, Regina
+AU  - Stehle, Christina
+AU  - Steinmetz, Tobit
+AU  - Stockinger, Hannes
+AU  - Takahama, Yousuke
+AU  - Takeda, Kiyoshi
+AU  - Tan, Leonard
+AU  - Tárnok, Attila
+AU  - Tiegs, Gisa
+AU  - Toldi, Gergely
+AU  - Tornack, Julia
+AU  - Traggiai, Elisabetta
+AU  - Trebak, Mohamed
+AU  - Tree, Timothy I.M.
+AU  - Trotter, Joe
+AU  - Trowsdale, John
+AU  - Tsoumakidou, Maria
+AU  - Ulrich, Henning
+AU  - Urbanczyk, Sophia
+AU  - van de Veen, Willem
+AU  - van den Broek, Maries
+AU  - van der Pol, Edwin
+AU  - Van Gassen, Sofie
+AU  - Van Isterdael, Gert
+AU  - van Lier, René A.W.
+AU  - Veldhoen, Marc
+AU  - Vento-Asturias, Salvador
+AU  - Vieira, Paulo
+AU  - Voehringer, David
+AU  - Volk, Hans-Dieter
+AU  - von Borstel, Anouk
+AU  - von Volkmann, Konrad
+AU  - Waisman, Ari
+AU  - Walker, Rachael V.
+AU  - Wallace, Paul K.
+AU  - Wang, Sa A.
+AU  - Wang, Xin M.
+AU  - Ward, Michael D.
+AU  - Ward-Hartstonge, Kirsten A
+AU  - Warnatz, Klaus
+AU  - Warnes, Gary
+AU  - Warth, Sarah
+AU  - Waskow, Claudia
+AU  - Watson, James V.
+AU  - Watzl, Carsten
+AU  - Wegener, Leonie
+AU  - Weisenburger, Thomas
+AU  - Wiedemann, Annika
+AU  - Wienands, Jürgen
+AU  - Wilharm, Anneke
+AU  - Wilkinson, Robert John
+AU  - Willimsky, Gerald
+AU  - Wing, James B.
+AU  - Winkelmann, Rieke
+AU  - Winkler, Thomas H.
+AU  - Wirz, Oliver F.
+AU  - Wong, Alicia
+AU  - Wurst, Peter
+AU  - Yang, Jennie H. M.
+AU  - Yang, Juhao
+AU  - Yazdanbakhsh, Maria
+AU  - Yu, Liping
+AU  - Yue, Alice
+AU  - Zhang, Hanlin
+AU  - Zhao, Yi
+AU  - Ziegler, Susanne Maria
+AU  - Zielinski, Christina
+AU  - Zimmermann, Jakob
+AU  - Zychlinsky, Arturo
+TI  - Guidelines for the use of flow cytometry and cell sorting in immunological studies (second edition)
+JO  - European Journal of Immunology
+JA  - Eur. J. Immunol.
+VL  - 49
+IS  - 10
+SN  - 0014-2980
+UR  - https://doi.org/10.1002/eji.201970107
+DO  - doi:10.1002/eji.201970107
+SP  - 1457
+EP  - 1973
+PY  - 2019
+AB  - Abstract These guidelines are a consensus work of a considerable number of members of the immunology and flow cytometry community. They provide the theory and key practical aspects of flow cytometry enabling immunologists to avoid the common errors that often undermine immunological data. Notably, there are comprehensive sections of all major immune cell types with helpful Tables detailing phenotypes in murine and human cells. The latest flow cytometry techniques and applications are also described, featuring examples of the data that can be generated and, importantly, how the data can be analysed. Furthermore, there are sections detailing tips, tricks and pitfalls to avoid, all written and peer-reviewed by leading experts in the field, making this an essential research companion.
+ER  - 

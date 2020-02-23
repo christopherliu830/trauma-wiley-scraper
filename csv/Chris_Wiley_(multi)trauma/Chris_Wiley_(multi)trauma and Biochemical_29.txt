@@ -1,0 +1,427 @@
+
+TY  - JOUR
+AU  - Küppers, Eva
+AU  - Gleiser, Corinna
+AU  - Brito, Veronica
+AU  - Wachter, Britta
+AU  - Pauly, Thorsten
+AU  - Hirt, Bernhard
+AU  - Grissmer, Stephan
+TI  - AQP4 expression in striatal primary cultures is regulated by dopamine – implications for proliferation of astrocytes
+JO  - European Journal of Neuroscience
+VL  - 28
+IS  - 11
+SN  - 0953-816X
+UR  - https://doi.org/10.1111/j.1460-9568.2008.06531.x
+DO  - doi:10.1111/j.1460-9568.2008.06531.x
+SP  - 2173
+EP  - 2182
+KW  - glia
+KW  - mouse
+KW  - proliferation
+KW  - water channels
+PY  - 2008
+AB  - Abstract Proliferation of astrocytes plays an essential role during ontogeny and in the adult brain, where it occurs following trauma and in inflammation and neurodegenerative diseases as well as in normal, healthy mammals. The cellular mechanisms underlying glial proliferation remain poorly understood. As dopamine is known to modulate proliferation in different cell populations, we investigated the effects of dopamine on the proliferation of striatal astrocytes in vitro. We found that dopamine reduced proliferation. As proliferation involves, among other things, a change in cell volume, which normally comes with water movement across the membrane, water channels might represent a molecular target of the dopamine effect. Therefore we studied the effect of dopamine on aquaporin?4 (AQP4) expression, the main aquaporin subtype expressed in glial cells, and observed a down-regulation of the AQP4-M23 isoform. This down-regulation was the cause of the dopamine-induced decrease in proliferation as knockdown of AQP4 using siRNA techniques mimicked the effects of dopamine on proliferation. Furthermore, stimulation of glial proliferation by basic fibroblast growth factor was also abolished by knocking down AQP4. In addition, blocking of AQP4 with 10??m tetraethylammonium inhibited osmotically induced cell swelling and stimulation of glial cell proliferation by basic fibroblast growth factor. These results demonstrate a clear-cut involvement of AQP4 in the regulation of proliferation and implicate that modulation of AQP4 could be used therapeutically in the treatment of neurodegenerative diseases as well as in the regulation of reactive astrogliosis by preventing or reducing the glia scar formation, thus improving regeneration following ischemia or other trauma.
+ER  - 
+
+TY  - JOUR
+AU  - Ben Assayag, Einor
+AU  - Korczyn, Amos D.
+AU  - Giladi, Nir
+AU  - Goldbourt, Uri
+AU  - Berliner, A. Sholmo
+AU  - Shenhar-Tsarfaty, Shani
+AU  - Kliper, Efrat
+AU  - Hallevi, Hen
+AU  - Shopin, Ludmila
+AU  - Hendler, Talma
+AU  - Baashat, Dafna Ben
+AU  - Aizenstein, Orna
+AU  - Soreq, Hermona
+AU  - Katz, Noomi
+AU  - Solomon, Zahava
+AU  - Mike, Anat
+AU  - Usher, Sali
+AU  - Hausdorff, Jeff M.
+AU  - Auriel, Eitan
+AU  - Shapira, Itzhak
+AU  - Bornstein, Natan M.
+TI  - Predictors for poststroke outcomes: the Tel Aviv Brain Acute Stroke Cohort (TABASCO) study protocol
+JO  - International Journal of Stroke
+VL  - 7
+IS  - 4
+SN  - 1747-4930
+UR  - https://doi.org/10.1111/j.1747-4949.2011.00652.x
+DO  - doi:10.1111/j.1747-4949.2011.00652.x
+SP  - 341
+EP  - 347
+KW  - cholinergic markers
+KW  - dementia
+KW  - depression
+KW  - genetics
+KW  - inflammation
+KW  - neuroimaging
+KW  - poststroke outcome
+KW  - stress
+KW  - vascular cognitive impairment
+PY  - 2012
+AB  - Background Recent studies have demonstrated that even survivors of mild stroke experience residual damage, which persists and in fact increases in subsequent years. About 45% of stroke victims remain with different levels of disability. Identifying factors associated with poststroke cognitive and neurological decline could potentially yield more effective therapeutic opportunities. Aims and hypothesis We hypothesize that data based on biochemical, neuroimaging, genetic and psychological measures can, in aggregate, serve as better predictors for subsequent disability, cognitive and neurological deterioration, and suggest possible interventions. Design The Tel-Aviv Brain Acute Stroke Cohort (TABASCO) study is an ongoing, prospective cohort study that will recruit approximately 1125 consecutive first-ever mild?moderate stroke patients. It is designed to evaluate the association between predefined demographic, psychological, inflammatory, biochemical, neuroimaging and genetic markers, measured during the acute phase, and long-term outcome: subsequent cognitive deterioration, vascular events (including recurrent strokes), falls, affect changes, functional everyday difficulties and mortality. Discussion This study is an attempt to comprehensively investigate the long-term outcome of mild?moderate strokes. Its prospective design will provide quantitative data on stroke recurrence, the incidence of other vascular events and the evaluation of cognitive, affective and functional decline. Identifying the factors associated with poststroke cognitive and functional decline could potentially yield more effective therapeutic approaches.
+ER  - 
+
+TY  - JOUR
+AU  - Chesher, Douglas
+AU  - Oddy, Michael
+AU  - Darbar, Ulpee
+AU  - Sayal, Parag
+AU  - Casey, Adrian
+AU  - Ryan, Aidan
+AU  - Sechi, Annalisa
+AU  - Simister, Charlotte
+AU  - Waters, Aoife
+AU  - Wedatilake, Yehani
+AU  - Lachmann, Robin H.
+AU  - Murphy, Elaine
+TI  - Outcome of adult patients with X-linked hypophosphatemia caused by PHEX gene mutations
+JO  - Journal of Inherited Metabolic Disease
+JA  - J Inherit Metab Dis
+VL  - 41
+IS  - 5
+SN  - 0141-8955
+UR  - https://doi.org/10.1007/s10545-018-0147-6
+DO  - doi:10.1007/s10545-018-0147-6
+SP  - 865
+EP  - 876
+PY  - 2018
+AB  - Abstract X-linked hypophosphatemia (XLH) is the most common monogenic disorder causing hypophosphatemia. This case-note review documents the clinical features and the complications of treatment in 59 adults (19 male, 40 female) with XLH. XLH is associated with a large number of private mutations; 37 different mutations in the PHEX gene were identified in this cohort, 14 of which have not been previously reported. Orthopaedic involvement requiring surgical intervention (osteotomy) was frequent. Joint replacement and decompressive laminectomy were observed in those older than 40 years. Dental disease (63%), nephrocalcinosis (42%), and hearing impairment (14%) were also common. The rarity of the disease and the large number of variants make it difficult to discern specific genotype-phenotype relationships. A new treatment, an anti-FGF23 antibody, that may affect the natural history of the disease is currently being investigated in clinical trials.
+ER  - 
+
+TY  - JOUR
+AU  - Wolf, Irene M.
+AU  - Heitzer, Marjet D.
+AU  - Grubisha, Melanie
+AU  - DeFranco, Donald B.
+TI  - Coactivators and nuclear receptor transactivation
+JO  - Journal of Cellular Biochemistry
+JA  - J. Cell. Biochem.
+VL  - 104
+IS  - 5
+SN  - 0730-2312
+UR  - https://doi.org/10.1002/jcb.21755
+DO  - doi:10.1002/jcb.21755
+SP  - 1580
+EP  - 1586
+KW  - nuclear receptor
+KW  - coactivator
+KW  - transcription
+KW  - chromatin
+KW  - histone
+PY  - 2008
+AB  - Abstract A variety of coregulator proteins serve as partners for nuclear receptors orchestrating the molecular events required for receptor-dependent transcriptional regulation. Some coregulators directly interact with nuclear receptors and provide a platform for recruitment of other factors that provide distinct biochemical activities that influence transcriptional efficiency. Coregulators can influence chromatin structure and activity via direct modification of histone proteins or by facilitating ATP-dependent chromatin remodeling. They also have the capacity to impact multiple steps in the transcription process including initiation, elongation, and mRNA splicing. Genetic analysis in humans and animal models are revealing the important cell and tissue-type specific actions of nuclear receptor coregulators as well and their role in human physiology and disease. J. Cell. Biochem. 104: 1580?1586, 2008. ? 2008 Wiley-Liss, Inc.
+ER  - 
+
+AU  - Drauz, Karlheinz
+AU  - Grayson, Ian
+AU  - Kleemann, Axel
+AU  - Krimmer, Hans-Peter
+AU  - Leuchtenberger, Wolfgang
+AU  - Weckbecker, Christoph
+TI  - Amino Acids
+SN  - 9783527303854
+UR  - https://doi.org/10.1002/14356007.a02_057.pub2
+DO  - doi:10.1002/14356007.a02_057.pub2
+PY  - 2008
+AB  - Abstract The article contains sections titled: 1. Introduction and History 2. Properties 2.1. Physical Properties and Structure 2.2. Chemical Properties 2.3. Important Amino Acids 2.3.1. Proteinogenic Amino Acids 2.3.2. Other Important Amino Acids 3. Industrial Production of Amino Acids 3.1. General Methods 3.2. Production of Specific Amino Acids 3.2.1. l-Alanine 3.2.2. l-Arginine 3.2.3. l-Aspartic Acid and Asparagine 3.2.4. l-Cystine and l-Cysteine 3.2.5. l-Glutamic Acid 3.2.6. l-Glutamine 3.2.7. l-Histidine 3.2.8. l-Hydroxyproline 3.2.9. l-Isoleucine 3.2.10. l-Leucine 3.2.11. l-Lysine 3.2.12. d,l-Methionine and l-Methionine 3.2.13. l-Phenylalanine 3.2.14. l-Proline 3.2.15. l-Serine 3.2.16. l-Threonine 3.2.17. l-Tryptophan 3.2.18. l-Tyrosine 3.2.19. l-Valine 4. Biochemical and Physiological Significance 5. Uses 5.1. Human Nutrition 5.1.1. Supplementation 5.1.2. Flavorings, Taste Enhancers, and Sweeteners 5.1.3. Other Uses in Foodstuff Technology 5.2. Animal Nutrition 5.3. Pharmaceuticals 5.3.1. Nutritive Agents 5.3.2. Therapeutic Agents 5.4. Cosmetics 5.5. Agrochemicals 5.5.1. Herbicides 5.5.2. Fungicides 5.5.3. Insecticides 5.5.4. Plant Growth Regulators 5.6. Industrial Uses 6. Chemical Analysis 7. Economic Significance 8. Toxicology
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts of the annual scientific meeting of the ACEM and ASEM 2002
+JO  - Emergency Medicine
+VL  - 15
+IS  - 2
+SN  - 9783527303854
+UR  - https://doi.org/10.1046/j.1442-2026.2003.00152.x
+DO  - doi:10.1046/j.1442-2026.2003.00152.x
+SP  - A1
+EP  - A28
+PY  - 2003
+ER  - 
+
+TY  - JOUR
+AU  - Wavreille, Vincent
+AU  - Boston, S. E.
+AU  - Souza, C.
+AU  - Ham, K.
+AU  - Chanoit, G.
+AU  - Rossetti, D.
+AU  - Takacs, J.
+AU  - Milner, R.
+TI  - Outcome After Pneumonectomy in 17 Dogs and 10 Cats: A Veterinary Society of Surgical Oncology Case Series
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 45
+IS  - 6
+SN  - 9783527303854
+UR  - https://doi.org/10.1111/vsu.12517
+DO  - doi:10.1111/vsu.12517
+SP  - 782
+EP  - 789
+PY  - 2016
+AB  - Objective To report the signalment, presenting clinical signs, surgical complications, histologic diagnosis, postoperative complications, and outcome of dogs and cats undergoing pneumonectomy. Study Design Retrospective case series; multicenter study. Animals Client-owned dogs (n=17) and cats (n=10). Methods Signalment, clinical signs, side affected, surgical data, preoperative diagnostic tests (including complete blood count, serum biochemistry, cytologic diagnosis, chest radiographs, and computed tomography), histologic diagnosis, surgical complications, adjunctive therapy, and date and cause of death were collected from records of dogs and cats that underwent pneumonectomy. Survival estimates and complication were assessed. Results Seventeen animals had a left-sided pneumonectomy performed (12 dogs, 5 cats) and 10 animals had a right-sided pneumonectomy (5 dogs, 5 cats). Fourteen animals were diagnosed with neoplasia (52%). The overall incidence of complications for dogs and cats were 76 and 80%, respectively, with major complications in 41 and 50%, respectively. Respiratory complications (persistent pleural effusion, oxygen dependence, persistent increased respiratory rate, or coughing) were the most frequent complications. No animals died or were euthanatized intraoperative or within the first 24 hours postoperative. One dog (6%) and 2 cats (20%) died, or were euthanatized in the first 2 weeks postoperative. Conclusion Based on this case series, right and left pneumonectomy can be performed with low perioperative mortality in dogs and cats, with some animals experiencing prolonged survival.
+ER  - 
+
+TY  - JOUR
+AU  - Devine, L.
+AU  - Armstrong, P. J.
+AU  - Whittemore, J. C.
+AU  - Sharkey, L.
+AU  - Bailiff, N.
+AU  - Huang, A.
+AU  - Rishniw, M.
+TI  - Presumed primary immune-mediated neutropenia in 35 dogs: a retrospective study
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 58
+IS  - 6
+SN  - 9783527303854
+UR  - https://doi.org/10.1111/jsap.12636
+DO  - doi:10.1111/jsap.12636
+SP  - 307
+EP  - 313
+PY  - 2017
+AB  - Objectives To describe, in a cohort of dogs with presumed primary immune-mediated neutropenia, the presenting clinical characteristics, haematology results, bone marrow characteristics, therapies used (drugs and doses), clinical response to treatment, relapse and outcome at six months and one year. Methods Multi-institutional recruited retrospective descriptive case series with voluntary submissions. Presumed immune-mediated neutropenia was diagnosed based on a neutrophil concentration <1·5?109 cells/L on a minimum of two complete blood counts, exclusion of other causes of neutropenia based on a diagnostic bone marrow aspirate or biopsy, and exclusion of secondary immune-mediated neutropenia. Dogs meeting these diagnostic criteria between 2006 and 2013, and that had a haematocrit of ≥29% and minimum of two complete blood clounts performed after initiation of therapy, were included. Results Information on 35 dogs was included. Neutropenia was less than 0·5?109 cells/L in most cases (21 dogs), 0·5 to ·99?109 cells/L in 11, and 1.0 to 1·49?109 cells/L in three. Eight dogs had thrombocytopenia, which was severe (<49·9?109 cells/L) in three. [Correction added on 23 May 2017, after first online publication: the cell numbers were incorrect due to errors in the conversion of cell measurements to international units. The numbers have been corrected throughout the article and Table 2.] Twenty-three dogs had myeloid hyperplasia, 10 dogs had myeloid hypoplasia and two dogs had normal myelopoiesis. Neutropenia resolved in 32 of 33 dogs within two weeks of starting corticosteroid therapy and in all dogs within one month. Relapse of neutropenia occurred in 12 cases within one year. Clinical Significance Initial response of presumed primary immune-mediated neutropenia cases to corticosteroid therapy can be excellent. Long-term monitoring for relapse is warranted because 34% of cases relapsed during or after taper of immunosuppressive medications.
+ER  - 
+
+TY  - JOUR
+AU  - Panteli, Michalis
+AU  - Pountos, Ippokratis
+AU  - Jones, Elena
+AU  - Giannoudis, Peter V.
+TI  - Biological and molecular profile of fracture non-union tissue: current insights
+JO  - Journal of Cellular and Molecular Medicine
+JA  - J. Cell. Mol. Med.
+VL  - 19
+IS  - 4
+SN  - 9783527303854
+UR  - https://doi.org/10.1111/jcmm.12532
+DO  - doi:10.1111/jcmm.12532
+SP  - 685
+EP  - 713
+KW  - non-union(s)
+KW  - human tissue
+KW  - bone morphogenic protein(s)
+KW  - mesenchymal stem cell(s)
+PY  - 2015
+AB  - Abstract Delayed bone healing and non-union occur in approximately 10% of long bone fractures. Despite intense investigations and progress in understanding the processes governing bone healing, the specific pathophysiological characteristics of the local microenvironment leading to non-union remain obscure. The clinical findings and radiographic features remain the two important landmarks of diagnosing non-unions and even when the diagnosis is established there is debate on the ideal timing and mode of intervention. In an attempt to understand better the pathophysiological processes involved in the development of fracture non-union, a number of studies have endeavoured to investigate the biological profile of tissue obtained from the non-union site and analyse any differences or similarities of tissue obtained from different types of non-unions. In the herein study, we present the existing evidence of the biological and molecular profile of fracture non-union tissue.
+ER  - 
+
+TY  - JOUR
+AU  - LAVERTY, SHEILA
+AU  - PASCOE, JOHN R.
+AU  - LING, GERALD V.
+AU  - LAVOIE, JEAN PIERRE
+AU  - RUBY, ANNETTE L.
+TI  - Urolithiasis in 68 Horses
+JO  - Veterinary Surgery
+VL  - 21
+IS  - 1
+SN  - 9783527303854
+UR  - https://doi.org/10.1111/j.1532-950X.1992.tb00011.x
+DO  - doi:10.1111/j.1532-950X.1992.tb00011.x
+SP  - 56
+EP  - 62
+PY  - 1992
+AB  - Medical records of 68 horses with urolithiasis were examined. Calculi were in the bladder in 47 horses, urethra in 11 horses, kidneys in 15 horses, and ureter in two horses. They occurred at several sites in six horses. Common clinical signs included hematuria, altered micturition (pollakiuria, dysuria, urinary incontinence), and tenesmus. Weight loss, possibly attributable to chronic renal failure and colic, was associated more commonly with renal and ureteral calculi. Weight loss also occurred in 13% of horses with cystic calculi only. In male horses, most cystic calculi were removed by perineal (ischial) urethrotomy under epidural anesthesia. Although there were few surgical complications with urethrotomy, seven of 15 horses with follow-up suffered recurrent urolithiasis.
+ER  - 
+
+AU  - Smith, Julian A.
+C7  - pp. 603-614
+TI  - Common topics in thoracic surgery
+SN  - 9781119468080
+UR  - https://doi.org/10.1002/9781119468189.ch62
+DO  - doi:10.1002/9781119468189.ch62
+SP  - 603-614
+KW  - bronchoscopy
+KW  - endobronchial ultrasound
+KW  - mediastinoscopy
+KW  - tracheostomy
+KW  - video-assisted thoracoscopic surgery (VATS)
+KW  - thoracotomy
+KW  - chest wall
+KW  - pleural effusion
+KW  - empyema
+KW  - pneumothorax
+KW  - lung carcinoma
+KW  - mediastinal tumour
+PY  - 1992
+AB  - Summary Thoracic surgery addresses the operative repair of the chest wall and organs within the chest cavity (principally the lungs and oesophagus) exclusive of the heart and great vessels. Common surgical conditions include chest trauma, chest wall deformities and tumours, pleural effusion and empyema, pneumothorax, gastro-oesophageal reflux and oesophageal carcinoma, lung carcinoma and mediastinal tumours. Minimally invasive techniques (video-assisted thoracoscopic surgery or VATS) or open thoracotomy may be employed to access and/or remove the pathology. Surgery is very effective in managing the majority of these conditions and patients with malignant tumours may receive radiotherapy and/or chemotherapy as an adjuvant or definitive therapy depending on tumour staging.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts of the Annual Scientific Meetings of the ACEM and ASEM 1996
+JO  - Emergency Medicine
+VL  - 9
+IS  - 1
+SN  - 9781119468080
+UR  - https://doi.org/10.1111/j.1442-2026.1997.tb00560.x
+DO  - doi:10.1111/j.1442-2026.1997.tb00560.x
+SP  - 56
+EP  - 75
+PY  - 1997
+ER  - 
+
+TY  - JOUR
+AU  - Ibrahim, Rami Mossad
+AU  - Krammer, Caspar Weel
+AU  - Hansen, Tom Giedsing
+AU  - Kristensen, Bjarne Winther
+AU  - Vutskits, Laszlo
+AU  - Sørensen, Jens Ahm
+TI  - Systemic physiology and neuroapoptotic profiles in young and adult rats exposed to surgery: A randomized controlled study comprising four different anaesthetic techniques
+JO  - International Journal of Developmental Neuroscience
+JA  - International Journal of Developmental Neuroscience
+VL  - 45
+IS  - C
+SN  - 9781119468080
+UR  - https://doi.org/10.1016/j.ijdevneu.2015.04.351
+DO  - doi:10.1016/j.ijdevneu.2015.04.351
+SP  - 11
+EP  - 18
+KW  - Anaesthesia
+KW  - Apoptosis
+KW  - Brain
+KW  - Dexmedetomidine
+KW  - Homeostasis
+KW  - Surgery
+KW  - Abstract
+PY  - 2015
+AB  - Abstract Background Experimental evidence indicates that general anaesthetics can induce apoptotic neurodegeneration in the developing brain. The majority of these studies have been performed in the absence of surgery and it currently remains unclear how the presence of surgical stimuli would influence neuroapoptosis as well as systemic homeostasis. Here we explored this possibility by performing dorsal skin flap surgery in young and adult rats under four distinct currently used anaesthesia regimens. Methods Young (21-days) and adult (2 months) male Sprague?Dawley rats were randomized to 150 min exposure to one of four anaesthetics regimens: (i) sevoflurane/dexmedetomidine, (ii) sevoflurane/fentanyl; (iii) propofol/dexmedetomidine, and (iv) propofol/fentanyl. Animals underwent a dorsal skin flap procedure while physiologic, metabolic and biochemical parameters were closely monitored. Neuroapoptotic profiles were evaluated in the cortex, thalamus and hippocampus (CA1 and CA3) at the end of the procedure in each experimental group. Results Significant perturbations of systemic homeostasis were found under all anaesthetic regimens. Hyperglycemia and decreased heart rate were particularly relevant in experimental groups receiving dexmedetomidine, while propofol administration was associated with increased systemic lactate levels and metabolic acidosis. A substantial difference in anaesthesia/surgery-induced neuroapoptosis was found between young and adult rats in several brain regions. Combination of sevoflurane and dexmedetomidine resulted in the highest number of caspase-3 positive cells, although the extent of cell death remained relatively low in all experimental groups. Conclusion Combination of anaesthesia and surgery induces significant perturbations of physiological parameters in both young and adult spontaneously breathing rats undergoing surgery. These observations further enlighten the need for detailed physiological monitoring under these experimental conditions. Although some statistically significant differences in activated caspase-3 profiles were detected between experimental groups, the overall extent of neuronal cell death remained very low under all conditions questioning, thereby, the physiological significance of apoptotic neurodegeneration in the context of anaesthesia and surgery.
+ER  - 
+
+TY  - JOUR
+TI  - 2011 American College of Veterinary Surgeons Veterinary Symposium November 3–5, Chicago, Illinois
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 40
+IS  - 7
+SN  - 9781119468080
+UR  - https://doi.org/10.1111/j.1532-950X.2011.00896.x
+DO  - doi:10.1111/j.1532-950X.2011.00896.x
+SP  - E17
+EP  - E42
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - 2006 American College of Veterinary Surgeons Symposium October 5–7, Washington, DC
+JO  - Veterinary Surgery
+VL  - 35
+IS  - 6
+SN  - 9781119468080
+UR  - https://doi.org/10.1111/j.1532-950X.2006.00194.x
+DO  - doi:10.1111/j.1532-950X.2006.00194.x
+SP  - E1
+EP  - E28
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+TI  - Table of Contents
+JO  - Alcoholism & Drug Abuse Weekly
+JA  - Alc. Drug Abuse Wkly.
+VL  - 17
+IS  - 21
+SN  - 9781119468080
+UR  - https://doi.org/10.1002/adaw.20201721
+DO  - doi:10.1002/adaw.20201721
+SP  - 1
+EP  - 8
+PY  - 2005
+AB  - Abstract Proposed Expansion of Services in Mass. Includes Recovery Schools Association Guidelines to Require Alcohol Screening in Trauma Centers Targeting Resources to Communities with Opiate Overdoses Recovery School Peer Groups a Key to Students Success Primary Care Physicians and the 4 A's Two Studies Offer Evidence of Dopamine Connection to Alcoholism Two Studies Show Effectiveness of Online Alcohol Prevention McLean Study Links Herb to Reduced Binge Drinking Resources Briefly Noted Coming Up?
+ER  - 
+
+TY  - JOUR
+AU  - Davis, Jonathan M.
+AU  - El-Haj, Nura
+AU  - Shah, Nimish N.
+AU  - Schwartz, Garry
+AU  - Block, Margaret
+AU  - Wall, James
+AU  - Tidswell, Mark
+AU  - DiNino, Ernest
+TI  - Use of the blood substitute HBOC-201 in critically ill patients during sickle crisis: a three-case series
+JO  - Transfusion
+JA  - Transfusion
+VL  - 58
+IS  - 1
+SN  - 9781119468080
+UR  - https://doi.org/10.1111/trf.14386
+DO  - doi:10.1111/trf.14386
+SP  - 132
+EP  - 137
+PY  - 2018
+AB  - BACKGROUND Red blood cell (RBC) transfusion is an important treatment modality during severe sickle cell crisis (SCC). SCC patients who refuse, or cannot accept, RBCs present a unique challenge. Acellular hemoglobin (Hb)-based oxygen carriers (HBOCs) might be an alternative for critically ill patients in SCC with multiorgan failure due to life-threatening anemia. HBOC-201 (HbO2 Therapeutics) has been administered to more than 800 anemic patients in 22 clinical trials, but use of any HBOCs in critically ill sickle cell patients with organ failure is exceedingly rare. In the United States, HBOC-201 is currently only available for expanded access. CASE REPORT We report three cases of HBOC-201 administered to critically ill sickle cell disease patients in SCC with multiorgan failure, either who refused RBCs (Jehovah's Witnesses) or for whom compatible RBCs were not available. RESULTS Two patients received more than 20 units of HBOC-201, while the other received 6. The 27 units used in the third case equals the largest volume a patient has successfully received to date. All three patients survived to hospital discharge. CONCLUSION These reports suggest that blood substitutes such as HBOC-201 can provide an oxygen bridge in SCC with multiorgan failure, until corpuscular Hb levels recover to meet metabolic demand, and highlight the compelling biochemical properties that warrant further investigation.
+ER  - 
+
+AU  - Wallimann, Theo
+AU  - Tokarska-Schlattner, Malgorzata
+AU  - Neumann, Dietbert
+AU  - Epand, Richard M.
+AU  - Epand, Raquel F.
+AU  - Andres, Robert H.
+AU  - Widmer, Hans Rudolf
+AU  - Hornemann, Thorsten
+AU  - Saks, Valdur
+AU  - Agarkova, Irina
+AU  - Schlattner, Uwe
+C7  - pp. 195-264
+TI  - The Phosphocreatine Circuit: Molecular and Cellular Physiology of Creatine Kinases, Sensitivity to Free Radicals, and Enhancement by Creatine Supplementation
+SN  - 9783527317875
+UR  - https://doi.org/10.1002/9783527621095.ch7
+DO  - doi:10.1002/9783527621095.ch7
+SP  - 195-264
+KW  - molecular system bioenergetics
+KW  - energy transfer networks
+KW  - metabolic feedback regulation
+KW  - modeling cellular energetics
+KW  - phosphocreatine circuit
+KW  - creatine kinases
+KW  - cell pathology
+KW  - oxidative damage
+KW  - brain functions
+KW  - neuroprotection
+PY  - 2018
+AB  - Summary This chapter contains sections titled: Abstract Phosphotransfer Enzymes: The Creatine Kinase System Microcompartments: A Principle of Life Subcellular Compartments and Microcompartments of CK Tissue-specific Expression of Creatine Kinase Isoenzymes Temporal and Spatial Buffering Functions of Creatine Kinases: The CK?Phosphocreatine Circuit A Closer Look at CK (Micro)Compartments and High-energy Phosphate Channeling Subcellular Compartmentation of CK at the Myofibrillar M-band: ATP Regeneration for Muscle Contraction Subcellular Localization of CK at the Sarcoplasmic Reticulum and Plasma Membrane Subcellular Compartments of CK at the Plasma Membrane and Functional Coupling with Na+/K+-ATPase Structural and Functional Coupling of Cytosolic CK with ATP-sensitive K+ Channels and KCC2 CK Interaction with the Golgi GM130 Protein Specific Compartments of Cytosolic CK with Insulin and Thrombin Signaling Pathways Subcellular Compartments of CK with Glycolytic Enzymes and Targeting of Glycolytic Multi-enzyme Complexes High-energy Phosphate Channeling by MtCK in Energy-transducing Mitochondrial Compartments Creatine Kinases and Cell Pathology Mitochondrial MtCK, the Mitochondrial Permeability Transition Pore, and Apoptosis Mitochondrial MtCK and Intramitochondrial Inclusions in Mitochondrial Myopathy Overexpression of MtCK in Certain Malignancies Novel Membrane-related Functions of MtCK Transfer of Lipids by Proteins That Bridge the Inner and Outer Mitochondrial Membrane Lipid Transfer at Contact Sites Cardiolipin Transfer and Apoptosis Cardiolipin Domains and Mitochondrial Kinases Perspectives: Relationship Between the Surface Exposure of Cardiolipin and Expression Levels of Mitochondrial Kinases Exquisite Sensitivity of the Creatine Kinase System to Oxidative Damage Molecular Damage of Creatine Kinase by Oxidative and Nitrosative Stress Molecular Basis of Creatine Kinase Damage Functional Consequences of Oxidative Damage in Creatine Kinase Enhancement of Brain Functions and Neuroprotection by Creatine Supplementation Creatine Metabolism and Brain Energetics Disturbance of the CK System or Creatine Metabolism in the Brain Body and Brain Creatine Metabolism Effects of Creatine on Memory, Mental Performance, and Complex Tasks Creatine Supplementation and Neurodegenerative Diseases Creatine Supplementation and Acute Neurological Disorders Inborn Errors of Metabolism Psychiatric Disorders Neurorestorative Strategies Future Prospects of Creatine Supplementation as Adjuvant Therapeutic Strategy Non-energy?related Effects of Creatine Creatine as a Safe Nutritional Supplement and Functional Food References
+ER  - 
+
+TY  - JOUR
+TI  - The Australasian College for Emergency Medicine Hobart, November, 1991
+JO  - Emergency Medicine
+VL  - 4
+IS  - 1
+SN  - 9783527317875
+UR  - https://doi.org/10.1111/j.1442-2026.1992.tb00308.x
+DO  - doi:10.1111/j.1442-2026.1992.tb00308.x
+SP  - 28
+EP  - 40
+PY  - 1992
+ER  - 
+
+AU  - Ostermann, Marlies
+AU  - Sprigings, David
+C7  - pp. 160-169
+TI  - Acute kidney injury
+SN  - 9781118644287
+UR  - https://doi.org/10.1002/9781119389613.ch25
+DO  - doi:10.1002/9781119389613.ch25
+SP  - 160-169
+KW  - acute kidney injury
+KW  - acute medicine
+KW  - CVP
+KW  - hypotension
+KW  - hypovolaemia
+KW  - renal failure
+KW  - stage-based management
+KW  - urinary tract obstruction
+PY  - 1992
+AB  - Summary Acute kidney injury (AKI) occurs in around10-20%of patients admitted to hospital, and is most often due to hypovolaemia/hypotension, sepsis and nephrotoxins. This chapter summarizes stage-based management of AKI. It also summarizes monitoring and supportive care in AKI. Three common scenarios are encountered: corrected hypovolaemia/hypotension, with improving renal function; persisting/worsening AKI despite correction of hypovolaemia/hypotension and removal of nephrotoxins; and suspected urinary tract obstruction. Prompt and vigorous correction of hypovolaemia and hypotension will often reverse AKI. If there is clinically obvious hypovolaemia, IV fluid is given. Treatment of the trigger of deterioration and avoidance of hypovolaemia (preferably by albumin administration) can help to decrease the incidence of AKI. A CVP line may be helpful (to avoid over-replacement of fluid), but the patient should be resuscitated first before this is placed. Ultrasonography of the inferior vena cava is one of the methods to assess the CVP.
+ER  - 

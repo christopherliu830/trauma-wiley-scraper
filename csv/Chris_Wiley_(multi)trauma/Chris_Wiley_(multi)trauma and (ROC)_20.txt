@@ -1,0 +1,307 @@
+
+TY  - JOUR
+AU  - King, Lesley G.
+AU  - Stevens, Martha T.
+AU  - Ostro, Ernest N. So.
+AU  - Diserens, Deborah
+AU  - Ravi Shankar, J.
+TI  - A Model For Prediction Of Survival In Critically III Dogs
+JO  - Journal of Veterinary Emergency and Critical Care
+VL  - 4
+IS  - 2
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/j.1476-4431.1994.tb00119.x
+DO  - doi:10.1111/j.1476-4431.1994.tb00119.x
+SP  - 85
+EP  - 99
+KW  - Key words
+KW  - Prediction
+KW  - survival
+KW  - dog
+KW  - outcome
+PY  - 1994
+AB  - Summary A system was developed for objective prediction of survival, which could be applied to all critically ill patients, regardless of disease, at an early stage of hospitaluation. Such a system would allow risk assessment of groups for experimental studies according to probability of survival and it might allow us to avoid expenditure of scarce clinical resources on animals with little chance of survival. The prospective study included 200 critically ill dogs: 93 females and 107 males, representing 62 breeds. With survival defined as alive 30 days after admisssion to ICU the overall mortality rate was 40.5% (81 of 200 dogs). Data collected included signalment and parameters that reflected vital organ function, the severity of physiologic derangement and the extent of physiologic reserve. We recorded the most abnormal value for each parameter within 24 hours of admission to ICU and logistic regression analysis was used to analyze four different weighting systems. The best model had a concordance 0f 86.5% with outcome, and it was then re-evaluated to determine whether individual variables could be eliminated without losing predictive accuracy. Fourvariables were eliminated, resulting in a final model with 18 variables which had 86.3% concordance with outcome. At a 0.5 cut-off for predicted risk, the model had sensitivity Of 69%, specificity ficity of 86% and positive predictive value of 77%. A Receiver Operating Curve was constructed using serial cut-offs for predicted outcome from 0.1 to 0.9, and the area under the curve was 0.89. Thus, an equation was generated that gives an estimate of the probability of survival.
+ER  - 
+
+TY  - JOUR
+TI  - Posters of Distinction
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 100
+IS  - s7
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.9238
+DO  - doi:10.1002/bjs.9238
+SP  - 98
+EP  - 114
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentation
+JO  - International Journal of Urology
+JA  - Int. J. Urol.
+VL  - 26
+IS  - S2
+SN  - 0919-8172
+UR  - https://doi.org/10.1111/iju.14063
+DO  - doi:10.1111/iju.14063
+SP  - 111
+EP  - 233
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Skin Research and Technology
+VL  - 1
+IS  - 3
+SN  - 0909-752X
+UR  - https://doi.org/10.1111/j.1600-0846.1995.tb00037.x
+DO  - doi:10.1111/j.1600-0846.1995.tb00037.x
+SP  - 153
+EP  - 162
+PY  - 1995
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentation Abstracts
+JO  - International Journal of Laboratory Hematology
+JA  - Int. Jnl. Lab. Hem.
+VL  - 36
+IS  - s1
+SN  - 1751-5521
+UR  - https://doi.org/10.1111/ijlh.12266
+DO  - doi:10.1111/ijlh.12266
+SP  - 30
+EP  - 131
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Exhibits
+JO  - Journal of Medical Imaging and Radiation Oncology
+JA  - J Med Imaging Radiat Oncol
+VL  - 61
+IS  - S1
+SN  - 1754-9477
+UR  - https://doi.org/10.1111/1754-9485.12657
+DO  - doi:10.1111/1754-9485.12657
+SP  - 138
+EP  - 197
+PY  - 2017
+ER  - 
+
+C7  - pp. 775-806
+TI  - Computer-Aided Diagnosis (CAD) and Image-Guided Decision Support
+SN  - 9780470373729
+UR  - https://doi.org/10.1002/9780470560525.ch25
+DO  - doi:10.1002/9780470560525.ch25
+SP  - 775-806
+KW  - Computer-Aided Diagnosis (CAD) and image-guided decision support
+KW  - computer-aided detection of small acute intracranial hemorrhage (AIH) on computer tomography, (CT) of brain
+KW  - CAD results based on training data and validation data
+PY  - 2017
+AB  - Summary This chapter contains sections titled: Computer-Aided Diagnosis (CAD) Computer-Aided Detection and Diagnosis (CAD) without PACS Conceptual Methods of Integrating CAD with DICOM PACS and MIII Computer-Aided Detection of Small Acute Intracranial Hemorrhage (AIH) on Computer Tomography (CT) of Brain Evaluation of the CAD for AIH From System Evaluation to Clinical Practice Summary of Computer-Assisted Diagnosis Reference
+ER  - 
+
+TY  - JOUR
+AU  - Knipper, Corina
+AU  - Fragata, Matthias
+AU  - Nicklisch, Nicole
+AU  - Siebert, Angelina
+AU  - Szécsényi-Nagy, Anna
+AU  - Hubensack, Vera
+AU  - Metzner-Nebelsick, Carola
+AU  - Meller, Harald
+AU  - Alt, Kurt W.
+TI  - A distinct section of the early bronze age society? Stable isotope investigations of burials in settlement pits and multiple inhumations of the Únětice culture in central germany
+JO  - American Journal of Physical Anthropology
+JA  - Am. J. Phys. Anthropol.
+VL  - 159
+IS  - 3
+SN  - 9780470373729
+UR  - https://doi.org/10.1002/ajpa.22892
+DO  - doi:10.1002/ajpa.22892
+SP  - 496
+EP  - 516
+KW  - Central Europe
+KW  - burial practices
+KW  - diet
+KW  - mobility
+KW  - strontium isotopes
+PY  - 2016
+AB  - ABSTRACT Objectives Inhumations in so-called settlement pits and multiple interments are subordinate burial practices of the Early Bronze Age ?n?tice culture in central Germany (2200?1700/1650 BC). The majority of the ?n?tice population was entombed as single inhumations in rectangular grave pits with a normative position of the body. The goal of the study was to test archaeological hypotheses that the deviant burials may represent socially distinct or nonlocal individuals. Materials and Methods The study comprised up to two teeth and one bone each of 74 human individuals from eight sites and faunal comparative samples. The inhumations included regular, deviant burials in so-called settlement or storage pits, and multiple burials. We investigated radiogenic strontium isotope compositions of tooth enamel (87Sr/86Sr) and light stable isotope ratios of carbon and nitrogen of bone collagen (δ13C, δ15N) aiming at the disclosure of residential changes and dietary patterns. Results Site-specific strontium isotope data ranges mirror different geological properties including calcareous bedrock, loess, and glacial till. Independent from burial types, they disclose low portions of nonlocal individuals of up to some 20% at the individual sites. The light stable isotope ratios of burials in settlement pits and rectangular graves overlap widely and indicate highly similar dietary habits. Discussion The analytical results let to conclude that inhumations in settlement pits and multiple burials were two of the manifold burial practices of the Early Bronze Age. The selection criteria of the individuals for the different forms of inhumation remained undisclosed. Am J Phys Anthropol 159:496?516, 2016. ? 2015 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+TI  - Program
+JO  - International Journal of Urology
+JA  - Int. J. Urol.
+VL  - 25
+IS  - S1
+SN  - 9780470373729
+UR  - https://doi.org/10.1111/iju.13771
+DO  - doi:10.1111/iju.13771
+SP  - 27
+EP  - 78
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - Abstract Journal Rural Surgery
+JO  - ANZ Journal of Surgery
+JA  - ANZ Journal of Surgery
+VL  - 88
+IS  - S1
+SN  - 9780470373729
+UR  - https://doi.org/10.1111/ans.14536
+DO  - doi:10.1111/ans.14536
+SP  - 170
+EP  - 177
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - E-Posters
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 104
+IS  - S6
+SN  - 9780470373729
+UR  - https://doi.org/10.1002/bjs.10634
+DO  - doi:10.1002/bjs.10634
+SP  - 83
+EP  - 243
+PY  - 2017
+ER  - 
+
+C7  - pp. 291-306
+TI  - Index
+SN  - 9781405160100
+UR  - https://doi.org/10.1002/9781444301724.index
+DO  - doi:10.1002/9781444301724.index
+SP  - 291-306
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+TI  - Clinical Radiology Scientific Exhibits
+JO  - Journal of Medical Imaging and Radiation Oncology
+JA  - J Med Imaging Radiat Oncol
+VL  - 62
+IS  - S2
+SN  - 9781405160100
+UR  - https://doi.org/10.1111/1754-9485.12811
+DO  - doi:10.1111/1754-9485.12811
+SP  - 115
+EP  - 142
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Walton, Rebecca A.L.
+AU  - Hansen, Bernie D.
+TI  - Venous oxygen saturation in critical illness
+JO  - Journal of Veterinary Emergency and Critical Care
+JA  - Journal of Veterinary Emergency and Critical Care
+VL  - 28
+IS  - 5
+SN  - 9781405160100
+UR  - https://doi.org/10.1111/vec.12749
+DO  - doi:10.1111/vec.12749
+SP  - 387
+EP  - 397
+KW  - early goal directed therapy
+KW  - hemodynamic monitoring
+KW  - oxygen consumption
+KW  - shock
+KW  - venous oxygenation
+PY  - 2018
+AB  - Abstract Objective To review clinically relevant features of systemic oxygen delivery and consumption and the technique and use of venous oxygenation monitoring in human and veterinary medicine. Data sources Veterinary and human peer-reviewed medical literature including scientific reviews, clinical and laboratory research articles, and authors? clinical research experience. Summary Measurement of venous hemoglobin oxygen saturation (venous oxygenation) provides insight into the balance between oxygen supply and tissue demand. In people, measurement of venous oxygen saturation can reveal decompensation that is missed by physical examination and other routinely monitored parameters. Therefore, measurement of mixed or central venous oxygenation measurement may help guide therapy and predict outcome of critically ill patients. In dogs, low central venous oxygen saturation has been associated with impaired cardiopulmonary function and poor outcome in several small studies of experimental shock or severe clinical illness, suggesting that monitoring this variable may assist the treatment of severe illness in this species as well. Conclusion Venous oxygenation reflects systemic oxygenation status and can be used to guide treatment and estimate prognosis in critically ill patients. Measurement of venous oxygenation in veterinary patients is feasible and is a potentially valuable tool in the management of patients with severe disease. This review is intended to increase the understanding and awareness of the potential role of venous oxygen measurement in veterinary patients.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Movement Disorders Clinical Practice
+JA  - Mov Disord Clin Pract
+VL  - 6
+IS  - S1
+SN  - 9781405160100
+UR  - https://doi.org/10.1002/mdc3.12744
+DO  - doi:10.1002/mdc3.12744
+SP  - S11
+EP  - S164
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Abstract Journal Paediatric Surgery
+JO  - ANZ Journal of Surgery
+JA  - ANZ Journal of Surgery
+VL  - 89
+IS  - S1
+SN  - 9781405160100
+UR  - https://doi.org/10.1111/ans.15195
+DO  - doi:10.1111/ans.15195
+SP  - 122
+EP  - 130
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Basic & Clinical Pharmacology & Toxicology
+JA  - Basic Clin Pharmacol Toxicol
+VL  - 124
+IS  - S3
+SN  - 9781405160100
+UR  - https://doi.org/10.1111/bcpt.13217
+DO  - doi:10.1111/bcpt.13217
+SP  - 3
+EP  - 379
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - ICS-IUGA 2010 Scientific Programme, Wednesday 25th August 2010
+JO  - Neurourology and Urodynamics
+JA  - Neurourol. Urodyn.
+VL  - 29
+IS  - 6
+SN  - 9781405160100
+UR  - https://doi.org/10.1002/nau.20973
+DO  - doi:10.1002/nau.20973
+SP  - 805
+EP  - 1255
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Swiss Society of Surgery
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 98
+IS  - S4
+SN  - 9781405160100
+UR  - https://doi.org/10.1002/bjs.7557
+DO  - doi:10.1002/bjs.7557
+SP  - 1
+EP  - 23
+PY  - 2011
+AB  - Abstract The following abstracts will be presented at the 98th Annual Congress of the Swiss Society of Surgery, held in Geneva 25?27 May 2011. Copyright ? 2011 British Journal of Surgery Society Ltd. Published by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - Short papers
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 102
+IS  - s1
+SN  - 9781405160100
+UR  - https://doi.org/10.1002/bjs.9729
+DO  - doi:10.1002/bjs.9729
+SP  - 9
+EP  - 118
+PY  - 2015
+ER  - 

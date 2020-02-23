@@ -1,0 +1,375 @@
+
+TY  - JOUR
+AU  - Lipman, Timothy O.
+TI  - Review: Bacterial Translocation and Enteral Nutrition in Humans: An Outsider Looks In
+JO  - Journal of Parenteral and Enteral Nutrition
+JA  - Journal of Parenteral and Enteral Nutrition
+VL  - 19
+IS  - 2
+SN  - 0148-6071
+UR  - https://doi.org/10.1177/0148607195019002156
+DO  - doi:10.1177/0148607195019002156
+SP  - 156
+EP  - 165
+PY  - 1995
+AB  - Purpose: To assess the literature documenting the existence of bacterial translocation in humans, the effects of enteral nutrition on bacterial translocation in humans, and the hypothesis that enteral nutrition prevents bacterial translocation in humans. Data Identification: Sources included Medline search, references from review articicles, and references from animal and human studies. Study selection: The goal was to include all animal and human studies directly addressing questions of bacterial translocation and nutritional status or nutritional support. Data Extraction: An attempt was made to briefly summarize methodology and findings of relevent studies. No general attempt was made to assess quality of individual studies. Results of Data Synthesis: Bacterial translocation is a well documented phenomenon in animal models. Starvation and malnutrition of themselves do not induce bacterial translocation, but may facilitate translocation in the presence of other systemic insults. Parenteral nutrition and many forms of enteral nutrition may induce and/or facilitate bacterial translocation. Chow and certain fiber sources seem protective. Moderate direct and several lines of indirect evidence support the existence of bacterial translocation in humans. There is no direct evidence and questionable indirect evidence suggesting that enteral nutrition prevents or modifies bacterial translocation in humans. Conclusions: The hypothesis relating enteral nutrition and bacterial translocation in critically ill patients remains attractive, but unproven. (Journal of Parenteral and Enteral Nutrition 19:156?165, 1995)
+ER  - 
+
+TY  - JOUR
+AU  - Stahl, Tobias
+AU  - Reimers, Christine
+AU  - Johne, Reimar
+AU  - Schliebs, Reinhard
+AU  - Seeger, Johannes
+TI  - Viral-induced inflammation is accompanied by β-amyloid plaque reduction in brains of amyloid precursor protein transgenic Tg2576 mice
+JO  - European Journal of Neuroscience
+VL  - 24
+IS  - 7
+SN  - 0953-816X
+UR  - https://doi.org/10.1111/j.1460-9568.2006.05069.x
+DO  - doi:10.1111/j.1460-9568.2006.05069.x
+SP  - 1923
+EP  - 1934
+KW  - Alzheimer's disease
+KW  - Borna disease virus
+KW  - cytokines
+KW  - microglia
+PY  - 2006
+AB  - Abstract Amyloid plaques, one of the neuropathological hallmarks of Alzheimer's disease, and their main constituent, the amyloid ?-peptide (A?), are triggers of the activation of innate inflammatory mechanisms involving the activation of microglia. To dissect the effects of a non-A?-specific microglial activation on the A? metabolism, we employed a viral infection-based model. Transgenic mice expressing a mutated form of the human amyloid precursor protein (Tg2576) were used. In preceding experiments, 2-week-old transgenic mice and non-transgenic littermates were infected intracerebrally with the neurotropic Borna disease virus and investigated at 2, 4 and 14?weeks post-infection. The Borna disease virus-inoculated mice showed a persisting, subclinical infection of cortical and limbic brain areas characterized by slight T-cell infiltrates, expression of cytokines and a massive microglial activation in the hippocampus and neocortex. Viral-induced effects reached their peak at 4?weeks post-infection. In 14-month-old Tg2576 mice, characterized by the deposition of diffuse and dense-core amyloid plaques in cortical brain regions, Borna disease virus-induced microglial activation in the vicinity of A? deposits was used to investigate the influence of a local inflammatory response on these deposits. At 4?weeks post-infection, histometric analyses employing A? immunohistochemistry revealed a decrease of the cortical and hippocampal A?-immunopositive area. This overall decrease was accompanied by a decrease of parenchymal thioflavin-S-positive amyloid deposits and an increase of such deposits in the walls of cerebral vessels, which indicates that the elicitation of a non-A?-specific microglial activation may contribute to a reduction of A? in the brain parenchyma.
+ER  - 
+
+TY  - JOUR
+AU  - Li-Weber, Min
+TI  - Molecular mechanisms and anti-cancer aspects of the medicinal phytochemicals rocaglamides (=flavaglines)
+JO  - International Journal of Cancer
+JA  - Int. J. Cancer
+VL  - 137
+IS  - 8
+SN  - 0020-7136
+UR  - https://doi.org/10.1002/ijc.29013
+DO  - doi:10.1002/ijc.29013
+SP  - 1791
+EP  - 1799
+KW  - anticancer therapy
+KW  - Rocaglamide
+KW  - Flavagline
+PY  - 2015
+AB  - Rocaglamides (= flavaglines) are potent natural anti-cancer phytochemicals that inhibit cancer growth at nanomolar concentrations by the following mechanisms: (1) inhibition of translation initiation via inhibition of phosphorylation of the mRNA cap-binding eukaryotic translation initiation factor eIF4E and stabilization of RNA-binding of the translation initiation factor eIF4A in the eIF4F complex; (2) blocking cell cycle progression by activation of the ATM/ATR-Chk1/Chk2 checkpoint pathway; (3) inactivation of the heat shock factor 1 (HSF1) leading to up-regulation of thioredoxin-interacting protein (TXNIP) and consequent reduction of glucose uptake and (4) induction of apoptosis through activation of the MAPK p38 and JNK and inhibition of the Ras-CRaf-MEK-ERK signaling pathway. Besides the anti-cancer activities, rocaglamides are also shown to protect primary cells from chemotherapy-induced cell death and alleviate inflammation- and drug-induced injury in neuronal tissues. This review will focus on the recently discovered molecular mechanisms of the actions of rocaglamides and highlights the benefits of using rocaglamides in cancer treatment.
+ER  - 
+
+TY  - JOUR
+AU  - Shaked, Iftach
+AU  - Zimmerman, Gabriel
+AU  - Soreq, Hermona
+TI  - Stress-induced Alternative Splicing Modulations in Brain and Periphery
+JO  - Annals of the New York Academy of Sciences
+VL  - 1148
+IS  - 1
+SN  - 0077-8923
+UR  - https://doi.org/10.1196/annals.1410.001
+DO  - doi:10.1196/annals.1410.001
+SP  - 269
+EP  - 281
+KW  - acetylcholinesterase
+KW  - alternative splicing
+KW  - neuro-immune dialogue
+KW  - stress responses
+PY  - 2008
+AB  - Mammalian stress responses present a case study for investigating alternative splicing reactions in general, and changes in acetylcholinesterase (AChE) gene expression in particular, under endangered homeostasis. Acetylcholine (ACh) is a major regulator of stress responses, which was recently found to function as an essential route by which neurons can ?talk? to immune cells. Therefore, chemical, physical, or psychological insults to the brain might all be traced in peripheral immune cells, which serve as key determinants in the physiological reactions to stress. Stress-induced changes in the alternative splicing patterns of AChE pre-mRNA give this gene and its different protein products diverse stress responsive functions that are associated with both the enzymatic and noncatalytic properties of AChE variants. Transgenic manipulations of AChE gene expression uncovered previously nonperceived aspects of stress responses, including brain-to-blood as well as immune-to-neuronal communication. Herein we discuss the newly gained understanding achieved by using genomic manipulations of AChE gene expression as tools for approaching the alternative splicing features of mammalian stress responses.
+ER  - 
+
+TY  - JOUR
+AU  - Krishnan, Venkatesh
+AU  - Vogler, Erwin A.
+AU  - Mastro, Andrea M.
+TI  - Three-Dimensional in Vitro Model to Study Osteobiology and Osteopathology
+JO  - Journal of Cellular Biochemistry
+JA  - J. Cell. Biochem.
+VL  - 116
+IS  - 12
+SN  - 0730-2312
+UR  - https://doi.org/10.1002/jcb.25250
+DO  - doi:10.1002/jcb.25250
+SP  - 2715
+EP  - 2723
+KW  - BONE REMODELING
+KW  - OSTEOBLASTS
+KW  - OSTEOCLASTS
+KW  - METASTATIC CANCER
+KW  - 3D CULTURE UNIT
+PY  - 2015
+AB  - ABSTRACT The bone is an amazing organ that grows and remodels itself over a lifetime. It is generally accepted that bone sculpting in response to stress and force is carried out by groups of cells contained within bone multicellular units that are coordinated to degrade existing bone and form new bone. Because of the nature of bone and the extensiveness of the skeleton, it is difficult to study bone remodeling in vivo. On the other hand, because the bone contains a complex environment of many cell types, is it possible to study bone remodeling in vitro? We propose that one can at minimum study the interaction between osteoblasts (bone formation) and osteoclasts (bone degradation) in a three dimensional (3D) ?bioreactor?. Furthermore, one can add bone degrading metastatic cancer cells, and study how they contribute to and take part in the bone degradation process. We have primarily cultured and differentiated MC3T3-E1 osteoblasts for long periods (2?10 months) before addition of bone marrow osteoclasts and/or metastatic (MDA-MB-231), metastasis suppressed (MDA-MB-231BRMS1) or non-metastatic (MCF-7) breast cancer cells. In the co-culture of osteoblasts and osteoclasts there was clear evidence of matrix degradation. Loss of matrix was also evident after co-culture with metastatic breast cancer cells. Tri?culture permitted an evaluation of the interaction of the three cell types. The 3D system holds promise for further studies of cancer dormancy, hormone, and cytokine effects and matrix manipulation. J. Cell. Biochem. 116: 2715?2723, 2015. ? 2015 Wiley Periodicals, Inc.
+ER  - 
+
+C7  - pp. 43-59
+TI  - Understanding the Immune System and the Nature and Pathogenesis of Infection
+SN  - 9780470059074
+UR  - https://doi.org/10.1002/9780470988091.ch5
+DO  - doi:10.1002/9780470988091.ch5
+SP  - 43-59
+KW  - immune system
+KW  - pathogenesis
+KW  - infection
+KW  - microorganisms
+KW  - surgical wounds
+PY  - 2015
+AB  - Summary This chapter contains section titled: Introduction Learning Outcomes The Immune System Understanding the Chain of Infection
+ER  - 
+
+TY  - JOUR
+TI  - Cytomics and the human cytome project
+JO  - Cytometry Part A
+JA  - Cytometry
+VL  - 71A
+IS  - 1
+SN  - 9780470059074
+UR  - https://doi.org/10.1002/cyto.a.20372
+DO  - doi:10.1002/cyto.a.20372
+SP  - 46
+EP  - 60
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Special Issue Abstracts From the American Society for Apheresis 40th Annual Meeting May 14–18, 2019 Portland, Oregon
+JO  - Journal of Clinical Apheresis
+JA  - J Clin Apher
+VL  - 34
+IS  - 2
+SN  - 9780470059074
+UR  - https://doi.org/10.1002/jca.21704
+DO  - doi:10.1002/jca.21704
+SP  - 79
+EP  - 166
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+AU  - Ondrésik, Marta
+AU  - Azevedo Maia, Fatima R.
+AU  - da Silva Morais, Alain
+AU  - Gertrudes, Ana C.
+AU  - Dias Bacelar, Ana H.
+AU  - Correia, Cristina
+AU  - Gonçalves, Cristiana
+AU  - Radhouani, Hajer
+AU  - Amandi Sousa, Rui
+AU  - Oliveira, Joaquim M.
+AU  - Reis, Rui L.
+TI  - Management of knee osteoarthritis. Current status and future trends
+JO  - Biotechnology and Bioengineering
+JA  - Biotechnol. Bioeng.
+VL  - 114
+IS  - 4
+SN  - 9780470059074
+UR  - https://doi.org/10.1002/bit.26182
+DO  - doi:10.1002/bit.26182
+SP  - 717
+EP  - 739
+KW  - osteoarthritis
+KW  - articular cartilage
+KW  - biomaterials
+KW  - scaffolds
+KW  - regeneration
+KW  - viscosupplementation
+KW  - gene therapy
+KW  - tissue engineering
+PY  - 2017
+AB  - ABSTRACT Osteoarthritis (OA) affects a large number of the population, and its incidence is showing a growing trend with the increasing life span. OA is the most prevalent joint condition worldwide, and currently, there is no functional cure for it. This review seeks to briefly overview the management of knee OA concerning standardized pharmaceutical and clinical approaches, as well as the new biotechnological horizons of OA treatment. The potential of biomaterials and state of the art of advanced therapeutic approaches, such as cell and gene therapy focused primarily on cartilage regeneration are the main subjects of this review. Biotechnol. Bioeng. 2017;114: 717?739. ? 2016 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Movement Disorders
+JA  - Mov Disord.
+VL  - 33
+IS  - S2
+SN  - 9780470059074
+UR  - https://doi.org/10.1002/mds.116
+DO  - doi:10.1002/mds.116
+SP  - S1
+EP  - S929
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Wright, Rohana J.
+AU  - Frier, Brian M.
+TI  - Vascular disease and diabetes: is hypoglycaemia an aggravating factor?
+JO  - Diabetes/Metabolism Research and Reviews
+JA  - Diabetes Metab. Res. Rev.
+VL  - 24
+IS  - 5
+SN  - 9780470059074
+UR  - https://doi.org/10.1002/dmrr.865
+DO  - doi:10.1002/dmrr.865
+SP  - 353
+EP  - 363
+KW  - diabetes
+KW  - hypoglycaemia
+KW  - coagulation
+KW  - inflammation
+KW  - vascular complications
+PY  - 2008
+AB  - Abstract Acute hypoglycaemia provokes profound physiological changes affecting the cardiovascular system and several haematological parameters, principally as a consequence of sympatho-adrenal activation and counter-regulatory hormonal secretion. Many of these responses have an important role in protecting the brain from neuroglycopenia, through altering regional blood flow and promoting metabolic changes that will restore blood glucose to normal. In healthy young adults the cardiovascular effects are transient and have no obvious detrimental consequences. However, some of the effected changes are potentially pathophysiological and in people with diabetes who have developed endothelial dysfunction, they may have an adverse impact on a vasculature that is already damaged. The acute haemodynamic and haematological changes may increase the risk of localized tissue ischaemia, and major vascular events can certainly be precipitated by acute hypoglycaemia. These include myocardial and cerebral ischaemia and occasionally infarction. Established diabetic retinopathy often deteriorates after strict glycaemic control is instituted, the latter being associated with a threefold increase in frequency of severe hypoglycaemia, and enhanced exposure to mild hypoglycaemia. The possible mechanisms underlying these hypoglycaemia-induced effects include haemorrheological changes, white cell activation, vasoconstriction, and the release of inflammatory mediators and cytokines. The concept that acute hypoglycaemia could aggravate vascular complications associated with diabetes is discussed in relation to evolving comprehension of the pathogenesis of atherosclerosis and blood vessel disease. Copyright ? 2008 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - McBRIDE, W. T.
+AU  - ARMSTRONG, M. A.
+AU  - McBRIDE, S. J.
+TI  - Immunomodulation: an important concept in modern anaesthesia
+JO  - Anaesthesia
+VL  - 51
+IS  - 5
+SN  - 9780470059074
+UR  - https://doi.org/10.1111/j.1365-2044.1996.tb07793.x
+DO  - doi:10.1111/j.1365-2044.1996.tb07793.x
+SP  - 465
+EP  - 473
+KW  - Immune response
+PY  - 1996
+AB  - Summary This review summarises evidence for immunomodulatory effect of drugs administered peri-operatively. The clinical significance of the balance of pro- and anti-inflammatory cytokines may be seen in certain disease states, for example, meningococcal meningitis and Lyme arthritis. This balance may be altered peri-operatively. Traditionally, these changes are considered to be due to the stress response of surgery, the response to cardiopulmonary bypass, or endotoxaemia. This review presents in vitro evidence suggesting that drugs modulating this cytokine balance include non-steroidal anti-inflammatory agents, phosphodiesterase inhibitors and opioids, acting through effects on intracellular cyclic nucleotide messenger systems. An important consequence of the pro-inflammatory cytokine activity is increased adhesion of neutrophils. Aspects of this process may be inhibited by avoiding low blood flow states, by reducing adhesion molecule expression (for example by use of pentoxifylline), or by use of negatively charged anions such as heparin. Neutrophil activity is generally depressed by intravenous anaesthetic induction agents, but is enhanced by opioids. Natural killer cell activity, which is involved in immunity against tumour cells and virally infected cells is transiently depressed by volatile anaesthetic agents and opioids. In contrast catecholamines enhance natural killer cell activity. Whereas decrease in immunoglobulin levels occur peri-operatively, this is not thought to be as a result of drugs at clinically used concentrations but rather due to haemodilution.
+ER  - 
+
+TY  - JOUR
+AU  - Cohn, Claudia S.
+AU  - Allen, Elizabeth S.
+AU  - Cushing, Melissa M.
+AU  - Dunbar, Nancy M.
+AU  - Friedman, David F.
+AU  - Goel, Ruchika
+AU  - Harm, Sarak K.
+AU  - Heddle, Nancy
+AU  - Hopkins, Courtney K.
+AU  - Klapper, Ellen
+AU  - Perumbeti, Ajay
+AU  - Ramsey, Glenn
+AU  - Raval, Jay S.
+AU  - Schwartz, Joseph
+AU  - Shaz, Beth H.
+AU  - Spinella, Philip C.
+AU  - Pagano, Monica B.
+TI  - Critical developments of 2018: A review of the literature from selected topics in transfusion. A committee report from the AABB's Clinical Transfusion Medicine Committee
+JO  - Transfusion
+JA  - Transfusion
+VL  - 59
+IS  - 8
+SN  - 9780470059074
+UR  - https://doi.org/10.1111/trf.15348
+DO  - doi:10.1111/trf.15348
+SP  - 2733
+EP  - 2748
+PY  - 2019
+AB  - BACKGROUND The AABB compiles an annual synopsis of the published literature covering important developments in the field of transfusion medicine. An abridged version of this work is being made available in TRANSFUSION, with the full-length report available as Appendix S1 (available as supporting information in the online version of this paper). STUDY DESIGN AND METHODS Papers published in late 2017 and 2018 are included, as well as earlier papers cited for background. Although this synopsis is comprehensive, it is not exhaustive, and some papers may have been excluded or missed. RESULTS The following topics are covered: ?big data? and ?omics? studies, emerging infections and testing, platelet transfusion and pathogen reduction, transfusion therapy and coagulation, transfusion approach to hemorrhagic shock and mass casualties, therapeutic apheresis, and chimeric antigen receptor T-cell therapy. CONCLUSION This synopsis may be a useful educational tool.
+ER  - 
+
+TY  - JOUR
+TI  - Poster abstracts
+JO  - International Journal of Laboratory Hematology
+VL  - 33
+IS  - s1
+SN  - 9780470059074
+UR  - https://doi.org/10.1111/j.1751-553X.2011.01329.x
+DO  - doi:10.1111/j.1751-553X.2011.01329.x
+SP  - 53
+EP  - 136
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - European Society of Veterinary Clinical Pathology (ESVCP) 8th Annual Congress
+JO  - Veterinary Clinical Pathology
+VL  - 35
+IS  - 4
+SN  - 9780470059074
+UR  - https://doi.org/10.1111/j.1939-165X.2006.tb00169.x
+DO  - doi:10.1111/j.1939-165X.2006.tb00169.x
+SP  - 474
+EP  - 488
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+AU  - Masini, Matilde
+AU  - Martino, Luisa
+AU  - Marselli, Lorella
+AU  - Bugliani, Marco
+AU  - Boggi, Ugo
+AU  - Filipponi, Franco
+AU  - Marchetti, Piero
+AU  - De Tata, Vincenzo
+C7  - e2894
+C8  - DMRR-16-RES-365.R2
+TI  - Ultrastructural alterations of pancreatic beta cells in human diabetes mellitus
+JO  - Diabetes/Metabolism Research and Reviews
+JA  - Diabetes Metab Res Rev
+VL  - 33
+IS  - 6
+SN  - 9780470059074
+UR  - https://doi.org/10.1002/dmrr.2894
+DO  - doi:10.1002/dmrr.2894
+SP  - e2894
+KW  - diabetes
+KW  - endoplasmic reticulum stress
+KW  - human pancreatic islets
+KW  - insulin granules
+KW  - mitochondria
+KW  - pancreatic beta cells
+PY  - 2017
+AB  - Abstract Background Both types of diabetes are characterized by beta-cell failure and death, leading to insulin insufficiency. Very limited information is currently available about the ultrastructural alterations of beta cells in human diabetes. Our aim was to provide a comprehensive ultrastructural analysis of human pancreatic islets in type 1 (T1D) and type 2 (T2D) diabetic patients. Methods We performed a morphometric electron microscopy evaluation of beta cells obtained from the pancreas of 8 nondiabetic (ND), 5 T1D, and 8 T2D organ donors. Results A lower amount of beta cells was found in both T1D and T2D than in ND islets, whereas alpha cells were increased only in T2D. An increased number of bi-hormonal cells (showing both insulin and glucagon granules in their cytoplasm) were found in T1D. Insulin granules were less represented in T2D than in ND beta cells, whereas no significant changes were found in T1D. Volume density of the endoplasmic reticulum was increased in T2D and unchanged in T1D; mitochondria number and volume were significantly higher in T2D than in ND beta cells, whereas no significant differences were found in T1D. In both T1D and T2D, more beta cells showed signs of apoptosis than in ND. Conclusions Our results show that in each type of diabetes, beta cells exhibit specific ultrastructural alterations, whose better understanding might improve therapeutic strategies.
+ER  - 
+
+TY  - JOUR
+TI  - Keyword index
+JO  - Transplant International
+VL  - 18
+IS  - 12
+SN  - 9780470059074
+UR  - https://doi.org/10.1111/j.1432-2277.2005.00239.x
+DO  - doi:10.1111/j.1432-2277.2005.00239.x
+SP  - 1400
+EP  - 1404
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - Short Papers
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 103
+IS  - S6
+SN  - 9780470059074
+UR  - https://doi.org/10.1002/bjs.10265
+DO  - doi:10.1002/bjs.10265
+SP  - 11
+EP  - 103
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - APDW 2018 E-poster Exhibitions – Surgery
+JO  - Journal of Gastroenterology and Hepatology
+JA  - Journal of Gastroenterology and Hepatology
+VL  - 33
+IS  - S4
+SN  - 9780470059074
+UR  - https://doi.org/10.1111/jgh.14492
+DO  - doi:10.1111/jgh.14492
+SP  - 557
+EP  - 565
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - Author Index
+JO  - Clinical & Experimental Immunology
+VL  - 145
+IS  - 3
+SN  - 9780470059074
+UR  - https://doi.org/10.1111/j.1365-2249.2006.03201.x
+DO  - doi:10.1111/j.1365-2249.2006.03201.x
+SP  - 573
+EP  - 578
+PY  - 2006
+ER  - 

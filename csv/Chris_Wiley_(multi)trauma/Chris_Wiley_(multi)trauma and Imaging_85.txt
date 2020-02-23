@@ -1,0 +1,464 @@
+
+AU  - Ryan, Jason
+AU  - Gelfand, Eli V.
+C7  - pp. 123-140
+TI  - Special Considerations in Acute Coronary Syndromes
+SN  - 9780470725573
+UR  - https://doi.org/10.1002/9780470745465.ch5
+DO  - doi:10.1002/9780470745465.ch5
+SP  - 123-140
+KW  - acute coronary syndromes - special considerations
+KW  - glycemic control in diabetics with ACS
+KW  - sample insulin sliding scale for diabetics with ACS
+KW  - metabolic syndrome (MetS) and ACS
+KW  - chronic kidney disease (CKD)
+KW  - preventative measures for contrast-induced nephropathy
+KW  - myocardial ischemia and infarction - cocaine use complications
+KW  - ACS in patients with normal coronary arteries or mild CAD
+KW  - myocarditis - for inflammation of myocardium
+PY  - 2009
+AB  - Summary This chapter contains sections titled: Secondary unstable angina Acute coronary syndrome in patients with diabetes mellitus Metabolic syndrome and ACS Chronic kidney disease in ACS Young patients with ACS ACS in the setting of cocaine use ACS in patients with normal coronary arteries or mild CAD Myocarditis Acute transient apical ballooning syndrome Postoperative ACS ACS in a pregnant woman Hyperthyroidism and ACS ACS in patients exposed to radiation Trauma and ACS References
+ER  - 
+
+TY  - JOUR
+AU  - Niu, Xin
+AU  - Zhang, Fengqing
+AU  - Kounios, John
+AU  - Liang, Hualou
+TI  - Improved prediction of brain age using multimodal neuroimaging data
+JO  - Human Brain Mapping
+JA  - Hum Brain Mapp
+VL  - n/a
+IS  - n/a
+SN  - 9780470725573
+UR  - https://doi.org/10.1002/hbm.24899
+DO  - doi:10.1002/hbm.24899
+KW  - bias correction
+KW  - brain age prediction
+KW  - machine learning
+KW  - multimodal brain imaging
+AB  - Abstract Brain age prediction based on imaging data and machine learning (ML) methods has great potential to provide insights into the development of cognition and mental disorders. Though different ML models have been proposed, a systematic comparison of ML models in combination with imaging features derived from different modalities is still needed. In this study, we evaluate the prediction performance of 36 combinations of imaging features and ML models including deep learning. We utilize single and multimodal brain imaging data including MRI, DTI, and rs-fMRI from a large data set with 839 subjects. Our study is a follow-up to the initial work (Liang et al., 2019. Human Brain Mapping) to investigate different analytic strategies to combine data from MRI, DTI, and rs-fMRI with the goal to improve brain age prediction accuracy. Additionally, the traditional approach to predicting the brain age gap has been shown to have a systematic bias. The potential nonlinear relationship between the brain age gap and chronological age has not been thoroughly tested. Here we propose a new method to correct the systematic bias of brain age gap by taking gender, chronological age, and their interactions into consideration. As the true brain age is unknown and may deviate from chronological age, we further examine whether various levels of behavioral performance across subjects predict their brain age estimated from neuroimaging data. This is an important step to quantify the practical implication of brain age prediction. Our findings are helpful to advance the practice of optimizing different analytic methodologies in brain age prediction.
+ER  - 
+
+TY  - JOUR
+TI  - Friday 16 March 2018
+JO  - Journal of Medical Radiation Sciences
+JA  - J Med Radiat Sci
+VL  - 65
+IS  - S1
+SN  - 9780470725573
+UR  - https://doi.org/10.1002/jmrs.259
+DO  - doi:10.1002/jmrs.259
+SP  - 3
+EP  - 31
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Fenty, Matthew C.
+AU  - Dodge, George R.
+AU  - Kassey, Victor Babu
+AU  - Witschey, Walter R.T.
+AU  - Borthakur, Arijitt
+AU  - Reddy, Ravinder
+TI  - Quantitative cartilage degeneration associated with spontaneous osteoarthritis in a guinea pig model
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J. Magn. Reson. Imaging
+VL  - 35
+IS  - 4
+SN  - 9780470725573
+UR  - https://doi.org/10.1002/jmri.22867
+DO  - doi:10.1002/jmri.22867
+SP  - 891
+EP  - 898
+KW  - osteoarthritis
+KW  - T1ρ MRI
+KW  - animal model
+KW  - quantitative
+PY  - 2012
+AB  - Abstract Purpose: To determine (i) the feasibility and intra- and inter-scan reproducibility of T1? MRI in assessing cartilage degeneration in a guinea pig model with naturally occurring joint disease that closely mimics human osteoarthritis (OA), (ii) demonstrate the sensitivity of T1? MRI in assessing the age dependent cartilage degeneration in OA progression as compared to histopathological changes. Materials and Methods: Duncan-Hartley guinea pigs were obtained at various ages and maintained under an IACUC approved protocol. The left hind stifle joint was imaged using T1? MRI on a 9.4 Tesla Varian horizontal 20 cm bore scanner using a custom surface coil. Reproducibility of T1? MRI was assessed using 4-month-old guinea pigs (N = 3). Three age cohorts; 3 month (N = 8), 5 month (N = 6), and 9 month (N = 5), were used to determine the age-dependent osteoarthritic changes as measured by T1? MRI. Validation of age-dependent cartilage degeneration was confirmed by histology and Safranin-O staining. Results: T1? values obtained in the cartilage of the stifle joint in guinea pigs were highly reproducible with an inter-scan mean coefficient of variation (CV) of 6.57% and a maximum intra-scan CV of 9.29%. Mean cartilage T1? values in animals with late stage cartilage degeneration were 56.3?56.9 ms (5?9 month cohorts) were both significantly (P < 0.01) higher than that obtained from 3-month-old cohort (44 ms) demonstrating an age-dependent variation. T1? was shown to be significantly greater than T2. T1? dispersion was observed in this animal model for the first time showing an increase of 45% between 500 Hz and 1500 Hz spin-locking frequency. Cartilage thickness measurements were calculated from single mid-coronal histology sections from same animals used for T1? MRI. Thickness calculations showed insignificant differences between 3- and 5-month cohorts and was significantly decreased by 9 months of age (P < 0.01). A moderate correlation (R2 = 0.45) existed between T1? values and signal intensity of Safranin-O stain. Conclusion: The data presented demonstrate that T1? MRI is highly reproducible in this spontaneous model of OA and may serve as a noninvasive tool to characterize joint cartilage degeneration during OA. Age-dependent changes, verified with histological measurements of proteoglycan loss, correlated with T1? across different age groups. T1? has adequate dynamic range and is sensitive to detect and track the progression of cartilage degeneration in the guinea pig model before gross anatomical changes such as cartilage thinning has occurred. This study presents a technological advancement that would permit longitudinal studies of evaluating disease-modifying therapies useful for treating human OA. J. Magn. Reson. Imaging 2012;35:891?898. ? 2011 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Mullins, Ronan A.
+AU  - Stanley, Bryden J.
+AU  - Flanders, James A.
+AU  - López, Pablo Pérez
+AU  - Collivignarelli, Francesco
+AU  - Doyle, Ronan S.
+AU  - Schuenemann, Riccarda
+AU  - Oechtering, Gerhard
+AU  - Steffey, Michele A.
+AU  - Lipscomb, Victoria J.
+AU  - Hardie, Robert J.
+AU  - Kirby, Barbara M.
+AU  - McAlinden, Aidan B.
+TI  - Intraoperative and major postoperative complications and survival of dogs undergoing surgical management of epiglottic retroversion: 50 dogs (2003-2017)
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 48
+IS  - 5
+SN  - 9780470725573
+UR  - https://doi.org/10.1111/vsu.13226
+DO  - doi:10.1111/vsu.13226
+SP  - 803
+EP  - 819
+PY  - 2019
+AB  - Abstract Objective To report intraoperative and major postoperative complications in dogs treated surgically for epiglottic retroversion (ER), compare the incidence of major postoperative complications between procedures, and report survival of surgically treated dogs. Study design Multi-institutional retrospective study. Sample population Fifty dogs treated with 78 procedures. Methods Medical records of dogs diagnosed and surgically treated for ER from 2003 to 2017 at 11 institutions were reviewed. Complications were divided into intraoperative and major postoperative complications. Results Intraoperative complications occurred during 2 of 78 (2.6%) procedures. Thirty-six major postoperative complications were documented in 22 dogs after 36 of 74 (48.7%) procedures. Postoperative complications occurred after 7 of 12 (58.3%) nonincisional epiglottopexy, 23 of 43 (53.5%) incisional epiglottopexy, 2 of 4 (50%) partial epiglottectomy, 2 of 12 (16.7%) subtotal epiglottectomy, and 2 of 3 (66.7%) other surgical procedures. Epiglottopexy failure was the most common major postoperative complication. The incidence of major postoperative complications did not differ between procedures (P = .1239), although, when combined, epiglottopexy procedures (30/55) had a higher incidence of complications than epiglottectomy procedures (4/16; P = .048). Thirty (60%) dogs were alive at a median of 928 days (range, 114-2805), 8 (16%) were lost to follow-up after 411 days (range, 43-1158), and 12 (24%) were dead/euthanized after 301.5 days (range, 3-1212). Median survival time was not reached after a median of 716 days. Conclusion Although intraoperative complications were uncommon, major postoperative complications were common, especially after epiglottopexy procedures. Clinical significance Although surgical treatment of ER is associated with a high rate of major postoperative complications, especially epiglottopexy procedures, long-term survival can be achieved.
+ER  - 
+
+TY  - JOUR
+AU  - McKenzie, E
+AU  - Esser, M
+AU  - Payton, E
+TI  - Serum Immunoglobulin Concentrations in Racing Endurance Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 9780470725573
+UR  - https://doi.org/10.1111/evj.12267_54
+DO  - doi:10.1111/evj.12267_54
+SP  - 18
+EP  - 18
+PY  - 2014
+AB  - Introduction Serum immunoglobulin fractions were evaluated in horses participating in multi-day endurance exercise. Methods Serum IgGa, IgGb, IgG(T), IgA, and IgM were measured using horse-specific ELISA kits in 44 trained horses prior to racing, after each day of racing 50 miles per day and in 15 untrained matched control horses. Data were analyzed via repeated measures ANOVA (P<0.05). Results 44, 18 and 9 horses completed one, two and three days of racing, respectively. Serum IgA before racing (1.97?±?0.14?mg/dL) was similar to controls (1.48?±?0.19) and after one, two or three days of racing (1.98?±?0.13, 1.80?±?0.15 and 1.76?±?0.26). Serum IgM before racing (1.02?±?0.05?mg/dL) was similar to controls (1.08?±?0.12) and after one, two or three days of racing (1.03?±?0.06, 0.91?±?0.08 and 0.89?±?0.11). Serum IgG(T) before racing (6.10?±?0.41?mg/dL) was similar to controls (6.29?±?0.58) and after racing one, two or three days (6.23?±?0.45, 6.62?±?0.63, and 6.65?±?1.34). Serum IgGa was 2.41?±?0.10?mg/dL before racing, and was similar to controls (2.45?±?0.22) and each day of racing (2.58?±?0.14, 2.39?±?0.20, and 2.61?±?0.22, on days one, two and three of racing). Resting serum IgGb concentration was significantly lower in control (5.71?±?0.54?mg/dL) than trained horses (7.65?±?0.41). Conclusions Serum IgGb is higher in trained endurance horses, perhaps reflecting immune stimulation related to disease exposure or more frequent vaccination. Ethical Animal Research All procedures were approved by the Oregon State University Institutional Animal Care and Use Committee. Owner informed consent was obtained for all horses in the study. Sources of funding:?Department of Biomedical Sciences at Oregon State University. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Lindsay, Fred W.
+AU  - Mullin, David
+AU  - Keefe, Michael A.
+TI  - Subacute Hypoglossal Nerve Paresis with Internal Carotid Artery Dissection
+JO  - The Laryngoscope
+JA  - The Laryngoscope
+VL  - 113
+IS  - 9
+SN  - 9780470725573
+UR  - https://doi.org/10.1097/00005537-200309000-00022
+DO  - doi:10.1097/00005537-200309000-00022
+SP  - 1530
+EP  - 1533
+KW  - hypoglossal nerve paresis
+KW  - internal carotid artery dissection
+KW  - dysarthria
+KW  - hemiparesis
+PY  - 2003
+AB  - Abstract Objectives To describe a case of an isolated hypoglossal nerve palsy in a patient with a spontaneous internal carotid artery dissection (ICAD). This condition is a well-recognized cause of cerebral ischemic stroke in patients younger than 45 years of age. Isolated cranial nerve neuropathy is a rare presentation. More common manifestations include incomplete hemiparesis, hemicrania, Horner syndrome, cervical bruit, pulsatile tinnitus, and multiple cranial nerve palsies. Methods A comprehensive literature search (Ovid, MEDLINE) for the presentation, diagnostic evaluation, treatment, and outcome of patients with internal carotid artery dissection was performed. Results A 43-year-old man presented with a 3-week history of mild dysarthria. There was no history of craniocervical trauma. The physical examination revealed an isolated left hypoglossal nerve paresis. Magnetic resonance imaging and angiography findings were consistent with a left skull base ICAD. The patient was successfully treated with anticoagulation therapy. The current rate of cranial nerve involvement is estimated at 10% of all ICADs. This is the second report of isolated hypoglossal nerve palsy without hemicrania in a case of atraumatic ICAD. Conclusions Patients with an ICAD infrequently present to the otolaryngologist because of its head and neck manifestations. It is crucial to recognize atypical findings and to perform an accurate and prompt diagnostic evaluation. The foundation of treatment is aggressive anticoagulation, with surgical or radiologic intervention reserved for cases demonstrating life-threatening progression.
+ER  - 
+
+TY  - JOUR
+AU  - Carter, Andrew J.
+AU  - Lee, David P.
+AU  - Suzuki, Takeshi
+AU  - Bailey, Lynn
+AU  - Lansky, Alexandra
+AU  - Jones, Russ
+AU  - Virmani, Renu
+TI  - Experimental evaluation of a short transitional edge protection balloon for intracoronary stent deployment
+JO  - Catheterization and Cardiovascular Interventions
+JA  - Cathet. Cardiovasc. Intervent.
+VL  - 51
+IS  - 1
+SN  - 9780470725573
+UR  - https://doi.org/10.1002/1522-726X(200009)51:1<112::AID-CCD26>3.0.CO;2-H
+DO  - doi:10.1002/1522-726X(200009)51:1<112::AID-CCD26>3.0.CO;2-H
+SP  - 112
+EP  - 119
+KW  - stents
+KW  - restenosis
+KW  - arterial injury
+PY  - 2000
+AB  - Abstract The purpose of this study was to determine if balloon injury to the adjacent arterial wall during intracoronary stent deployment influences late in-stent neointimal formation. Stent design and deployment techniques are considered important factors in determining acute and long-term success with intracoronary stenting. Experimental and clinical studies support that the extent of neointimal formation and the probability for restenosis are influenced by the magnitude of arterial trauma induced with stenting. Nineteen 18-mm-long balloon-expandable stainless steel stents (MULTI-LINK Duet) were implanted at a 1:1 stent-to-artery ratio in the coronary arteries of swine with a conventional noncompliant balloon (n = 10) or a novel noncompliant balloon with short tapered shoulders to prevent edge dissection (n = 9). Quantitative coronary angiography and histology were used to evaluate balloon and artery interactions and the chronic vascular responses to the stents. Nineteen stents were implanted in the coronary arteries of seven swines at an inflation pressure of 14 atm using a standard noncompliant (n = 10) or a unique short transitional edge protection (n = 9) balloon. Histologic analysis at 28 days demonstrated balloon-associated barotrauma in 13 of 20 (65%) of adjacent nonstented arterial segments with the conventional balloon and only 3 of 18 (17%) of the adjacent nonstented arterial segments with the short transition edge protection balloon (P = 0.022). In-stent neointimal area and % stenosis correlated with the severity of peristent arterial injury (r = 0.43, P = 0.01). In-stent vessel injury scores were similar for stents with peristent injury (1.0 ± 0.3) versus stents without peristent injury (1.0 ± 0.03, P = 0.73). In-stent neointimal area and % stenosis were greater for stents with peristent injury (2.36 ± 0.74 mm2, 32% ± 9%) as compared to stents without peristent injury (1.39 ± 0.70 mm2, 20% ± 10%, P = 0.01). Arterial wall injury adjacent to a stent after high-pressure deployment contributes to late in-stent neointimal hyperplasia in this model. These experimental data suggest that further study is warranted to refine stent implantation techniques and that modifications of balloon shape or material may be useful to optimize stent deployment and reduce arterial trauma. Cathet. Cardiovasc. Intervent. 51:112?119, 2000. ? 2000 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Mackay, P.
+AU  - King, K.
+AU  - Mackenzie, S.
+AU  - McDougall, D.
+AU  - Evans, J.
+AU  - Balogh, Z.
+TI  - TS04 THE EPIDEMIOLOGY OF PELVIC FRACTURES: THE WHOLE PICTURE
+JO  - ANZ Journal of Surgery
+VL  - 77
+IS  - s1
+SN  - 9780470725573
+UR  - https://doi.org/10.1111/j.1445-2197.2007.04133_4.x
+DO  - doi:10.1111/j.1445-2197.2007.04133_4.x
+SP  - A93
+EP  - A93
+PY  - 2007
+AB  - Purpose? The comprehensive describtion of the epidemiology of pelvic ring fractures (PRF) including high-energy PRF, low-energy PRF and those who die during the prehospital phase (pre-H). Methods? 12-month prospective population based study was performed in a trauma system with one Level-1 trauma centre and seven referring hospitals (population: 0.6 million). Data were collected on all PRF from the trauma system including high-energy, low energy fractures and pre-H deaths with PRF. Patient demographics, injury severity score (ISS), mortality (%) and PRF-related mortality were recorded prospectively. All high-energy deaths had autopsy at the same forensic pathology department. Data presented as percentages (%) or mean +/? SEM. Results? During the 12-month period 138 patients suffered PRF (45% male, 59+/?2 years, ISS 20+/?2, 21% mortality and 8% PRF-related mortality). Sixty-four % of the low-energy and 92% of the high-energy patients were transferred directly to the trauma center. There were 57 high-energy (71% male, 41+/?3 years, ISS 23+/?3, 14% mortality, 7% PRF-related mortality) 63 low-energy (20% male, 81+/?1 years, ISS 6+/?1, 5% mortality, 2% PRF-related mortality) and 18 pre-H died patients with PRF (47% male, 41+/?6 years, ISS 61+/?4, 100% mortality, 33% PRF-related mortality). PRF-related mortality was always due to bleeding. Conclusions? The majority of PRF-related mortality occurs pre-H. Half of the multiple-injured high-energy PRF patients still die because of the pelvic bleeding. Further preventive measures and optimization of the care of PRF patients is required. Trauma centre admission of 2/3 of the low-energy PRF is a significant load and should be further investigated in an inclusive trauma system.
+ER  - 
+
+TY  - JOUR
+AU  - Grover, V. P. B.
+AU  - Pavese, N.
+AU  - Koh, S.-B.
+AU  - Wylezinska, M.
+AU  - Saxby, B. K.
+AU  - Gerhard, A.
+AU  - Forton, D. M.
+AU  - Brooks, D. J.
+AU  - Thomas, H. C.
+AU  - Taylor-Robinson, S. D.
+TI  - Cerebral microglial activation in patients with hepatitis c: in vivo evidence of neuroinflammation
+JO  - Journal of Viral Hepatitis
+VL  - 19
+IS  - 2
+SN  - 9780470725573
+UR  - https://doi.org/10.1111/j.1365-2893.2011.01510.x
+DO  - doi:10.1111/j.1365-2893.2011.01510.x
+SP  - e89
+EP  - e96
+KW  - cognitive function
+KW  - hepatitis C
+KW  - magnetic resonance spectroscopy
+KW  - positron emission tomography
+PY  - 2012
+AB  - Summary.? Patients with chronic hepatitis C infection may exhibit neuropsychological symptoms and cognitive impairment. Post-mortem studies of hepatitis C virus HCV quasispecies and replicative intermediates indicate that the brain might act as a separate compartment for viral replication and microglia may be the locus for infection and subsequent neuroinflammatory activity. We sought to use two independent in vivo imaging techniques to determine evidence of neuroinflammation in patients with histologically mild chronic hepatitis C. Using positron emission tomography (PET) with a ligand for microglial/brain macrophage activation, 11C-(R)-PK11195 (PK11195) and cerebral proton magnetic resonance spectroscopy, we determined whether there was evidence of neuroinflammation in a pilot study of 11 patients with biopsy-proven mild chronic hepatitis C, compared to healthy volunteers. Patients were characterized by cognitive testing and the fatigue impact scale to assess for CNS impairment. PK11195 binding potential was significantly increased in the caudate nucleus of patients, compared to normal controls (P?=?0.03). The caudate and thalamic binding potential were more significantly increased in six patients with genotype 1 infection (P?=?0.007) and positively correlated with viraemia (r?=?0.77, P?=?0.005). Basal ganglia myo-inositol/creatine and choline/creatine ratios were also significantly elevated in patients with chronic hepatitis C compared to normal controls (P?=?0.0004 and P?=?0.01, respectively). Using PET, we demonstrated evidence of microglial activation, which positively correlated with HCV viraemia and altered cerebral metabolism in the brains of patients with mild hepatitis C. This provides further in vivo evidence for a neurotropic role for HCV.
+ER  - 
+
+TY  - JOUR
+AU  - De Pasquale, Maria Debora
+AU  - De Ioris, Maria Antonietta
+AU  - Serra, Annalisa
+AU  - Pessolano, Rosanna
+AU  - Donfrancesco, Alberto
+AU  - De Sio, Luigi
+TI  - Pancreatitis as an unusual presentation of rhabdomyosarcoma
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr. Blood Cancer
+VL  - 52
+IS  - 7
+SN  - 9780470725573
+UR  - https://doi.org/10.1002/pbc.21901
+DO  - doi:10.1002/pbc.21901
+SP  - 879
+EP  - 880
+KW  - pancreatic metastasis
+KW  - pancreatitis
+KW  - rhabdomyosarcoma
+PY  - 2009
+AB  - Abstract The most common etiologies of acute pancreatitis in children are trauma, multi-system disease, drugs, infections, idiopathic and congenital anomalies of the pancreaticobiliary system. Acute pancreatitis is rarely associated with underlying childhood malignancies. We report a 12-year-old male with acute pancreatitis as the presenting symptom of an alveolar metastatic rhabdomyosarcoma. Pediatr Blood Cancer 2009;52:879?880. ? 2009 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Paschalis-Trela, K.
+AU  - Cywińska, A.
+AU  - Witkowski, L.
+AU  - Czopowicz, M.
+AU  - Trela, J.
+AU  - Kita, J.
+TI  - The Prevalence of Ocular Diseases in Arabian Horses in Poland
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 9780470725573
+UR  - https://doi.org/10.1111/evj.12323_25
+DO  - doi:10.1111/evj.12323_25
+SP  - 12
+EP  - 12
+PY  - 2014
+AB  - Reasons for performing study Ocular diseases in horses often require long-lasting and costly therapies. Without proper treatment they may lead to partial or full blindness, excluding horses from intended use, and thus pose a serious veterinary and economic problem. Objectives No epidemiological data on equine ocular pathologies in Poland was available. The aim of this study was to evaluate their type and prevalence in pure-bred Arabian horses. Study design The study involved 615 horses (15% of Arabian population) bred and owned by 3 Arabian state stud farms in Poland. All horses underwent standard clinical and ophthalmic examination and medical history from the previous 5 years was analysed. Methods The medical history was based on the data from farms? veterinary archives in the stables and epidemiological interview given by the resident veterinarian. Every horse underwent general clinical and ophthalmic examination. Results The prevalence of ocular diseases was 9.8% (95% CI: 7.7?12.4%). The following pathologies were diagnosed: equine recurrent uveitis (ERU) ? prevalence of 5.5% (95% CI: 4.0?7.6%), non-ERU related cataract ? 3.3% (95% CI: 1.9?4.7%), post traumatic lesions ? 0.8% (95% CI: 0.4?1.9%), glaucoma ? one case. Seven horses had one nonvisual eye, one was bilaterally blind. Conclusions Equine recurrent uveitis was the most common ocular disease in this Polish population of Arabian horses. Its prevalence is lower than usually reported in Europe (8?10%) and in the United States (8?25%). However, severe ocular pathologies were observed confirming that they remain an important clinical problem. Ethical animal research:?The study was approved by the Local Ethics Committee. Explicit owner informed consent for participation in this study was not stated. Sources of funding:?The research was supported by a grant from National Science Centre on the basis of the decision No DEC-2011/03/B/NZ6/04682. Competing interests:?None.
+ER  - 
+
+C7  - pp. 305-314
+TI  - Index
+SN  - 9780470906255
+UR  - https://doi.org/10.1002/9781118484852.index
+DO  - doi:10.1002/9781118484852.index
+SP  - 305-314
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+AU  - Bulluck, Heerajnarain
+AU  - Chan, Mervyn H. H.
+AU  - Bryant, Jennifer A.
+AU  - Chai, Ping
+AU  - Chawla, Ashish
+AU  - Chua, Terrance S.
+AU  - Chung, Yiu-Cho
+AU  - Fei, Gao
+AU  - Ho, Hee H.
+AU  - Ho, Andrew F. W.
+AU  - Hoe, Andrew J.
+AU  - Imran, Syed S.
+AU  - Lee, Chi-Hang
+AU  - Lim, Swee H.
+AU  - Liew, Boon W.
+AU  - Yun, Patrick L. Z.
+AU  - Hock, Marcus O. E.
+AU  - Paradies, Valeria
+AU  - Roe, Matthew T.
+AU  - Teo, Lynette
+AU  - Wong, Aaron S.
+AU  - Wong, Evelyn
+AU  - Wong, Philip E.
+AU  - Watson, Timothy
+AU  - Chan, Mark Y.
+AU  - Tan, Jack W.
+AU  - Hausenloy, Derek J.
+TI  - Platelet inhibition to target reperfusion injury trial: Rationale and study design
+JO  - Clinical Cardiology
+JA  - Clin Cardiol
+VL  - 42
+IS  - 1
+SN  - 9780470906255
+UR  - https://doi.org/10.1002/clc.23110
+DO  - doi:10.1002/clc.23110
+SP  - 5
+EP  - 12
+KW  - cangrelor
+KW  - cardiovascular magnetic resonance imaging
+KW  - microvascular obstruction
+KW  - myocardial infarct size
+KW  - primary percutaneous coronary intervention
+KW  - reperfusion injury
+KW  - ST-segment elevation myocardial infarction
+PY  - 2019
+AB  - Background In ST-segment elevation myocardial infarction (STEMI) patients treated with primary percutaneous coronary intervention (PPCI), current oral P2Y12 platelet inhibitors do not provide maximal platelet inhibition at the time of reperfusion. Furthermore, administration of cangrelor prior to reperfusion has been shown in pre-clinical studies to reduce myocardial infarct (MI) size. Therefore, we hypothesize that cangrelor administered prior to reperfusion in STEMI patients will reduce the incidence of microvascular obstruction (MVO) and limit MI size in STEMI patients treated with PPCI. Methods The platelet inhibition to target reperfusion injury (PITRI) trial, is a phase 2A, multi-center, double-blinded, randomized controlled trial, in which 210 STEMI patients will be randomized to receive either an intravenous (IV) bolus of cangrelor (30 ?g/kg) followed by a 120-minute infusion (4 ?g/kg/min) or matching saline placebo, initiated prior to reperfusion (NCT03102723). Results The study started in October 2017 and the anticipated end date would be July 2020. The primary end-point will be MI size quantified by cardiovascular magnetic resonance (CMR) on day 3 post-PPCI. Secondary endpoints will include markers of reperfusion, incidence of MVO, MI size, and adverse left ventricular remodeling at 6 months, and major adverse cardiac and cerebrovascular events. Summary The aim of the PITRI trial is to assess whether cangrelor administered prior to reperfusion would reduce acute MI size and MVO, as assessed by CMR.
+ER  - 
+
+TY  - JOUR
+TI  - Saturday 6 September 2014
+JO  - Journal of Medical Radiation Sciences
+JA  - J Med Radiat Sci
+VL  - 61
+IS  - S1
+SN  - 9780470906255
+UR  - https://doi.org/10.1002/jmrs.72
+DO  - doi:10.1002/jmrs.72
+SP  - 113
+EP  - 165
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+AU  - Ding, Miao
+AU  - Zhang, Erlong
+AU  - He, Rong
+AU  - Wang, Xingyong
+TI  - Newly developed strategies for improving sensitivity to radiation by targeting signal pathways in cancer therapy
+JO  - Cancer Science
+JA  - Cancer Sci
+VL  - 104
+IS  - 11
+SN  - 9780470906255
+UR  - https://doi.org/10.1111/cas.12252
+DO  - doi:10.1111/cas.12252
+SP  - 1401
+EP  - 1410
+PY  - 2013
+AB  - Inherent and acquired resistance of cancer cells is increasingly recognized as a significant impediment to effective radiation cancer treatment. As important intracellular factors, aberrant tumor transmembrane signal transduction pathways, which include the prosurvival cascades (PI3K/Akt, MAPK/ERK and JAK/STAT) and the proapoptosis pathways (Wnt, p53 and TNF-α/NF-?B), have been proved to be crucial determinants of the probability of cell sensitivity to radiation in malignant lesions. There is increasing evidence that targeting the abnormal pathways that can regulate the activity of the DNA damage response and further influence the response of tumor cells to radiation may be suitable for improving radiation sensitization. Preclinical and clinical evidence suggest that agents targeting aberrant tumor signals can effectively improve the therapeutic effect of ionizing radiation. Therefore, in this review, we discuss the intricate interplay between tumor responses to radiation with the aberrant signal pathways, and the potential druggable targets within the pathways to sensitize tumors without significant collateral damage to normal tissues. The application of novel targeting compounds to manipulate the aberrant signal of tumor cells in clinical treatments is also addressed.
+ER  - 
+
+TY  - JOUR
+AU  - Marin-Valencia, Isaac
+AU  - Cho, Steve K.
+AU  - Rakheja, Dinesh
+AU  - Hatanpaa, Kimmo J.
+AU  - Kapur, Payal
+AU  - Mashimo, Tomoyuki
+AU  - Jindal, Ashish
+AU  - Vemireddy, Vamsidhara
+AU  - Good, Levi B.
+AU  - Raisanen, Jack
+AU  - Sun, Xiankai
+AU  - Mickey, Bruce
+AU  - Choi, Changho
+AU  - Takahashi, Masaya
+AU  - Togao, Osamu
+AU  - Pascual, Juan M.
+AU  - DeBerardinis, Ralph J.
+AU  - Maher, Elizabeth A.
+AU  - Malloy, Craig R.
+AU  - Bachoo, Robert M.
+TI  - Glucose metabolism via the pentose phosphate pathway, glycolysis and Krebs cycle in an orthotopic mouse model of human brain tumors
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 25
+IS  - 10
+SN  - 9780470906255
+UR  - https://doi.org/10.1002/nbm.2787
+DO  - doi:10.1002/nbm.2787
+SP  - 1177
+EP  - 1186
+KW  - intermediary metabolism
+KW  - mouse model
+KW  - 13C NMR
+KW  - brain
+KW  - glioblastoma
+KW  - renal cell carcinoma
+PY  - 2012
+AB  - It has been hypothesized that increased flux through the pentose phosphate pathway (PPP) is required to support the metabolic demands of rapid malignant cell growth. Using orthotopic mouse models of human glioblastoma (GBM) and renal cell carcinoma metastatic to brain, we estimated the activity of the PPP relative to glycolysis by infusing [1,2-13C2]glucose. The [3-13C]lactate/[2,3-13C2]lactate ratio was similar for both the GBM and brain metastasis and their respective surrounding brains (GBM, 0.197?±?0.011 and 0.195?±?0.033, respectively (p?=?1); metastasis: 0.126 and 0.119?±?0.033, respectively). This suggests that the rate of glycolysis is significantly greater than the PPP flux in these tumors, and that the PPP flux into the lactate pool is similar in both tumors. Remarkably, 13C?13C coupling was observed in molecules derived from Krebs cycle intermediates in both tumor types, denoting glucose oxidation. In the renal cell carcinoma, in contrast with GBM, 13C multiplets of ?-aminobutyric acid (GABA) differed from its precursor glutamate, suggesting that GABA did not derive from a common glutamate precursor pool. In addition, the orthotopic renal tumor, the patient's primary renal mass and brain metastasis were all strongly immunopositive for the 67-kDa isoform of glutamate decarboxylase, as were 84% of tumors on a renal cell carcinoma tissue microarray of the same histology, suggesting that GABA synthesis is cell autonomous in at least a subset of renal cell carcinomas. Taken together, these data demonstrate that 13C-labeled glucose can be used in orthotopic mouse models to study tumor metabolism in vivo and to ascertain new metabolic targets for cancer diagnosis and therapy. Copyright ? 2012 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - HUISMAN, M.V.
+AU  - KLOK, F.A.
+TI  - Diagnostic management of clinically suspected acute pulmonary embolism
+JO  - Journal of Thrombosis and Haemostasis
+VL  - 7
+IS  - s1
+SN  - 9780470906255
+UR  - https://doi.org/10.1111/j.1538-7836.2009.03386.x
+DO  - doi:10.1111/j.1538-7836.2009.03386.x
+SP  - 312
+EP  - 317
+KW  - clinical decision rule
+KW  - CT scan
+KW  - D-dimer
+KW  - diagnosis
+KW  - pulmonary embolism
+PY  - 2009
+AB  - Summary.? Current diagnostic management of hemodynamically stable patients with clinically suspected acute pulmonary embolism (PE) consists of the accurate and rapid distinction between the approximate 20?25% of patients who have acute PE and require anticoagulant treatment, and the overall majority of patients who do not have the disease in question. Clinical outcome studies have demonstrated that, using algorithms with sequential diagnostic tests, PE can be safely ruled out in patients with a clinical probability indicating PE to be unlikely and a normal D-dimer test result. This obviates the need for additional radiological imaging tests in 20?40% of patients. CT pulmonary angiography (CTPA) has become the first line tool to confirm or exclude the diagnosis of PE in patients with a likely probability of PE or an elevated D-dimer blood concentration. While single-row-detector technology CTPA has a low sensitivity for PE and bilateral compression ultrasound (CUS) of the lower limbs is considered necessary to rule out PE, multi-row-detector CTPA is safe to exclude PE without the confirmatory use of CUS.
+ER  - 
+
+TY  - JOUR
+AU  - Kashiwagi, Yuto
+AU  - Rokugawa, Takemi
+AU  - Yamada, Tomomi
+AU  - Obata, Atsushi
+AU  - Watabe, Hiroshi
+AU  - Yoshioka, Yoshichika
+AU  - Abe, Kohji
+TI  - Pharmacological MRI response to a selective dopamine transporter inhibitor, GBR12909, in awake and anesthetized rats
+JO  - Synapse
+JA  - Synapse
+VL  - 69
+IS  - 4
+SN  - 9780470906255
+UR  - https://doi.org/10.1002/syn.21803
+DO  - doi:10.1002/syn.21803
+SP  - 203
+EP  - 212
+KW  - pharmacological MRI
+KW  - GBR12909
+KW  - DAT inhibitor
+KW  - dopamine
+KW  - isoflurane
+PY  - 2015
+AB  - ABSTRACT Pharmacological magnetic resonance imaging (phMRI) is a powerful tool for imaging the effects of drugs on brain activity. In preclinical phMRI studies, general anesthesia used for minimizing head movements is thought to influence the phMRI responses to drugs. In this study we investigated the phMRI responses to a selective dopamine transporter (DAT) inhibitor, GBR12909, and a dopamine (DA) releaser, d-amphetamine (AMPH), in the isoflurane anesthetized and awake rats using a relative cerebral blood volume (rCBV) method. AMPH (1 mg/kg i.p.) caused an increase in rCBV in the dopaminergic circuitry in the both anesthetized and awake rats. The striatal rCBV change was correlated with the change of the striatal DA concentration induced by AMPH in the both anesthetized and awake rats. GBR12909 (10 mg/kg i.p.) caused a positive rCBV response and showed a similar regional pattern of rCBV response to AMPH in the awake rats, and the correlation between the change of the striatal rCBV and the striatal DA concentration was observed. However, in the anesthetized rats, GBR12909 induced a widespread negative rCBV response, whereas an increase in striatal DA concentration was observed. These findings indicate that phMRI responses to activation of DA neurotransmission by GBR12909 or AMPH are overall identical in the awake state, while the phMRI response to a DAT inhibitor, GBR12909 but not to AMPH was changed by isoflurane anesthesia. For the evaluation of neuroactive drugs using phMRI, isoflurane anesthesia might be complicated the interpretation of pharmacodynamic effects of drugs in preclinical studies. Synapse, 69:203?212, 2015. ? 2015 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Heng, H. G.
+AU  - Ruth, J. D.
+AU  - Lee, K.
+TI  - Venous air embolism detected on computed tomography of small animals
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 55
+IS  - 8
+SN  - 9780470906255
+UR  - https://doi.org/10.1111/jsap.12238
+DO  - doi:10.1111/jsap.12238
+SP  - 420
+EP  - 423
+PY  - 2014
+AB  - Objective To describe the prevalence, location and clinical significance of abnormal gas accumulations in dogs and cats detected on computerised tomography images. Methods Retrospective evaluation of all canine and feline computed tomography examinations (292 pre-contrast and 219 post-contrast) performed in a 12-month time period. All studies were evaluated for the presence of venous air emboli. The location of intravenous gas was noted and the volume of intravenous air emboli was estimated visually. The medical records of animals with venous air embolism were reviewed for signs of cardiopulmonary complications. Results The overall prevalence of air embolism on pre- and incidence on post-contrast images was 4 · 5 and 2 · 3%, respectively. The prevalence of air embolism on pre-contrast and incidence on post-contrast thoracic images was 35 · 7 and 14 · 2%, respectively. The volume of venous air was generally small and the most common was in an axillary vein. None of the animals had any cardiopulmonary complications. Clinical Significance The presence of small volume venous air embolism on routine computed tomography examinations is a frequent incidental finding that does not appear to cause cardiopulmonary complications.
+ER  - 

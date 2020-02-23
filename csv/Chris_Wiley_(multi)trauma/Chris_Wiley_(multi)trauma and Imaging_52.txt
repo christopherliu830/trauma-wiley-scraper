@@ -1,0 +1,501 @@
+
+TY  - JOUR
+AU  - Hindle, Paul
+AU  - Hall, Andrew C.
+AU  - Biant, Leela C
+TI  - Viability of chondrocytes seeded onto a collagen I/III membrane for matrix-induced autologous chondrocyte implantation
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+VL  - 32
+IS  - 11
+SN  - 0736-0266
+UR  - https://doi.org/10.1002/jor.22701
+DO  - doi:10.1002/jor.22701
+SP  - 1495
+EP  - 1502
+KW  - MACI
+KW  - confocal microscopy
+KW  - cell viability
+KW  - knee
+KW  - chondrocyte
+PY  - 2014
+AB  - Abstract Cell viability is crucial for effective cell-based cartilage repair. The aim of this study was to determine the effect of handling the membrane during matrix-induced autologous chondrocyte implantation surgery on the viability of implanted chondrocytes. Images were acquired under five conditions: (i) Pre-operative; (ii) Handled during surgery; (iii) Cut edge; (iv) Thumb pressure applied; (v) Heavily grasped with forceps. Live and dead cell stains were used. Images were obtained for cell counting and morphology. Mean cell density was 6.60???105 cells/cm2 (5.74?7.11???105) in specimens that did not have significant trauma decreasing significantly in specimens that had been grasped with forceps (p?<?0.001) or cut (p?=?0.004). Cell viability on delivery grade membrane was 75.1%(72.4?77.8%). This dropped to 67.4%(64.1?69.7%) after handling (p?=?0.002), 56.3%(51.5?61.6%) after being thumbed (p?<?0.001) and 28.8%(24.7?31.2%) after crushing with forceps (p?<?0.001). When cut with scissors there was a band of cell death approximately 275?µm in width where cell viability decreased to 13.7%(10.2?18.2%, p?<?0.001). Higher magnification revealed cells without the typical rounded appearance of chondrocytes. We found that confocal laser-scanning microscope (CLSM) can be used to quantify and image the fine morphology of cells on a matrix-induced autologous chondrocyte implantation (MACI) membrane. Careful handling of the membrane is essential to minimise chondrocyte death during surgery. ? 2014 Orthopaedic Research Society. Published by Wiley Periodicals, Inc. J Orthop Res 32:1495?1502, 2014.
+ER  - 
+
+TY  - JOUR
+AU  - Lakshmanan, Karthik
+AU  - Brown, Ryan
+AU  - Madelin, Guillaume
+AU  - Qian, Yongxian
+AU  - Boada, Fernando
+AU  - Wiggins, Graham C.
+C7  - e3867
+C8  - NBM-17-0082.R3
+TI  - An eight-channel sodium/proton coil for brain MRI at 3 T
+JO  - NMR in Biomedicine
+JA  - NMR in Biomedicine
+VL  - 31
+IS  - 2
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.3867
+DO  - doi:10.1002/nbm.3867
+SP  - e3867
+KW  - coil decoupling
+KW  - degenerate mode birdcage
+KW  - dual-nuclei MRI
+KW  - floret
+KW  - phased-array coil
+PY  - 2018
+AB  - The purpose of this work is to illustrate a new coil decoupling strategy and its application to a transmit/receive sodium/proton phased array for magnetic resonance imaging (MRI) of the human brain. We implemented an array of eight triangular coils that encircled the head. The ensemble of coils was arranged to form a modified degenerate mode birdcage whose eight shared rungs were offset from the z-axis at interleaved angles of ±30°. This key geometric modification resulted in triangular elements whose vertices were shared between next-nearest neighbors, which provided a convenient location for counter-wound decoupling inductors, whilst nearest-neighbor decoupling was addressed with shared capacitors along the rungs. This decoupling strategy alleviated the strong interaction that is characteristic of array coils at low frequency (32.6 MHz in this case) and allowed the coil to operate efficiently in transceive mode. The sodium array provided a 1.6-fold signal-to-noise ratio advantage over a dual-nuclei birdcage coil in the center of the head and up to 2.3-fold gain in the periphery. The array enabled sodium MRI of the brain with 5-mm isotropic resolution in approximately 13 min, thus helping to overcome low sodium MR sensitivity and improving quantification in neurological studies. An eight-channel proton array was integrated into the sodium array to enable anatomical imaging.
+ER  - 
+
+TY  - JOUR
+AU  - Caruso, Settimo
+AU  - Crino’, Francesca
+AU  - Milazzo, Mariapina
+AU  - Vitulo, Patrizio
+AU  - Bertani, Alessandro
+AU  - Marrone, Gianluca
+AU  - Mamone, Giuseppe
+AU  - Maruzzelli, Luigi
+AU  - Miraglia, Roberto
+AU  - Carollo, Vincenzo
+AU  - Luca, Angelo
+AU  - Gridelli, Bruno
+TI  - Thoracic complications following lung transplantation: 64-MDCT findings
+JO  - Clinical Transplantation
+VL  - 25
+IS  - 5
+SN  - 0902-0063
+UR  - https://doi.org/10.1111/j.1399-0012.2011.01439.x
+DO  - doi:10.1111/j.1399-0012.2011.01439.x
+SP  - 673
+EP  - 684
+KW  - airway complications
+KW  - bronchiolitis obliterans syndrome
+KW  - lung transplantation
+KW  - multi-detector computed tomography
+KW  - rejection
+KW  - respiratory infections
+KW  - vascular complications
+PY  - 2011
+AB  - Caruso S, Crino? F, Milazzo M, Vitulo P, Bertani A, Marrone G, Mamone G, Maruzzelli L, Miraglia R, Carollo V, Luca A, Gridelli B. Thoracic complications following lung transplantation: 64-MDCT findings.?Clin Transplant 2011: 25: 673?684. ? 2011 John Wiley & Sons A/S. Abstract:? The aim of this review is to present the wide spectrum of common and uncommon thoracic complications that can affect the lung after transplantation. These complications were analyzed using 64 multi-detector row helical CT (MDCT). Sixty-four MDCT techniques and parameters are illustrated. Correlations of imaging findings and pathologic and histologic specimens obtained by transbronchial biopsy and broncoalveolar lavage are illustrated in representative cases.
+ER  - 
+
+TY  - JOUR
+AU  - Jensen, Lisbeth Lund
+AU  - Banner, Jytte
+AU  - Ulhøi, Benedicte Parm
+AU  - Byard, Roger W
+TI  - β-Amyloid precursor protein staining of the brain in sudden infant and early childhood death
+JO  - Neuropathology and Applied Neurobiology
+JA  - Neuropathol Appl Neurobiol
+VL  - 40
+IS  - 4
+SN  - 0305-1846
+UR  - https://doi.org/10.1111/nan.12109
+DO  - doi:10.1111/nan.12109
+SP  - 385
+EP  - 397
+KW  - β-APP
+KW  - APP
+KW  - head trauma
+KW  - immunohistochemistry
+KW  - SIDS
+KW  - sudden infant death
+PY  - 2014
+AB  - Aims To develop and validate a scoring method for assessing ?-amyloid precursor protein (APP) staining in cerebral white matter and to investigate the occurrence, amount and deposition pattern based on the cause of death in infants and young children. Methods Archival cerebral tissue was examined from a total of 176 cases (0 to 3 years of age). Each of the APP-stained sections was graded according to a simple scoring system based on the number and type of changes in eight anatomical regions. Results Examination of the sections revealed some degree of APP staining in 95% of the cases. The highest mean APP scores were found in cases of head trauma, and the lowest scores were found in the cases of drowning. APP staining, although sometimes minimal, was found in all 48 cases of and sudden infant death syndrome (SIDS). Patterns of APP staining (the amount and distribution) were different in cases of head trauma, infection and SIDS but were similar in the SIDS and asphyxia groups. Conclusion This study demonstrates the use of an integrated scoring system that was developed to assess APP staining in the brain. APP staining was seen in a high proportion of cases, including relatively sudden deaths. The amount of APP was significantly higher in cases of trauma than in nontraumatic deaths. However, APP was detected within all groups. The pattern of APP staining was similar in infants who had died of SIDS and from mechanical asphyxia.
+ER  - 
+
+TY  - JOUR
+AU  - Ahmed, Waqas
+AU  - Kulikowska, Marta
+AU  - Ahlmann, Trine
+AU  - Berg, Lise C.
+AU  - Harrison, Adrian P.
+AU  - Elbrønd, Vibeke Sødring
+TI  - A comparative multi-site and whole-body assessment of fascia in the horse and dog: a detailed histological investigation
+JO  - Journal of Anatomy
+JA  - J. Anat.
+VL  - 235
+IS  - 6
+SN  - 0021-8782
+UR  - https://doi.org/10.1111/joa.13064
+DO  - doi:10.1111/joa.13064
+SP  - 1065
+EP  - 1077
+KW  - deep fascia
+KW  - dog
+KW  - histology
+KW  - horse
+KW  - hypodermis
+KW  - myofascial kinetic lines
+KW  - superficial fascia
+PY  - 2019
+AB  - Abstract Fascia in the veterinary sciences is drawing attention, such that physiotherapists and animal practitioners are now applying techniques based on the concept of fascia studies in humans. A comprehensive study of fascia is therefore needed in animals to understand the arrangement of the fascial layers in an unguligrade horse and a digitigrade dog. This study has examined the difference between the horse and the dog fascia at specific regions, in terms of histology, and has compared it with the human model. Histological examinations show that in general the fascia tissue of the horse exhibits a tight and dense composition, while in the dog it is looser and has non-dense structure. Indeed, equine fascia appears to be different from both canine fascia and the human fascia model, whilst canine fascia is very comparable to the human model. Although regional variations were observed, the superficial fascia (fascia superficialis) in the horse was found to be trilaminar in the trunk, yet multilayered in the dog. Moreover, crimping of collagen fibers was more visible in the horse than the dog. Blood vessels and nerves were present in the loose areolar tissue of the superficial and the profound compartment of hypodermis. The deep fascia (fascia profunda) in the horse was thick and tightly attached to the underlying muscle, while in the dog the deep fascia was thin and loosely attached to underlying structures. Superficial and deep fascia fused in the extremities. In conclusion, gross dissection and histology have revealed species variations that are related to the absence or presence of the superficial adipose tissue, the retinacula cutis superficialis, the localization and amount of elastic fibers, as well as the ability to slide and glide between the different layers. Further research is now needed to understand in more detail whether these differences have an influence on the biomechanics, movements and proprioception of these animals.
+ER  - 
+
+TY  - JOUR
+AU  - Brandes, Steven
+AU  - Coburn, Michael
+AU  - Armenakas, Noel
+AU  - McAninch, Jack
+TI  - Diagnosis and management of ureteric injury: an evidence-based analysis
+JO  - BJU International
+VL  - 94
+IS  - 3
+SN  - 1464-4096
+UR  - https://doi.org/10.1111/j.1464-410X.2004.04978.x
+DO  - doi:10.1111/j.1464-410X.2004.04978.x
+SP  - 277
+EP  - 289
+KW  - ureter
+KW  - trauma
+KW  - injury
+KW  - external
+KW  - iatrogenic 
+PY  - 2004
+AB  - The Consensus on Genitourinary Trauma continues this month with an evidence-based analysis, by a team of experts under the chairmanship of Dr Jack McAninch, of current reports on the diagnosis and management of ureteric trauma. This is quite a unique document, and of interest to all urologists; not only as a consensus on how this condition should be managed, but also as a model of how to review current publications.
+ER  - 
+
+TY  - JOUR
+AU  - Lee, Sang Yang
+AU  - Miwa, Masahiko
+AU  - Sakai, Yoshitada
+AU  - Kuroda, Ryosuke
+AU  - Matsumoto, Tomoyuki
+AU  - Iwakura, Takashi
+AU  - Fujioka, Hiroyuki
+AU  - Doita, Minoru
+AU  - Kurosaka, Masahiro
+TI  - In vitro multipotentiality and characterization of human unfractured traumatic hemarthrosis-derived progenitor cells: A potential cell source for tissue repair
+JO  - Journal of Cellular Physiology
+JA  - J. Cell. Physiol.
+VL  - 210
+IS  - 3
+SN  - 0021-9541
+UR  - https://doi.org/10.1002/jcp.20890
+DO  - doi:10.1002/jcp.20890
+SP  - 561
+EP  - 566
+PY  - 2007
+AB  - Abstract Mesenchymal progenitor cells (MPCs) are a very attractive tool in the context of repair and regeneration of musculoskeletal tissue damaged by trauma. The most common source of MPCs to date has been the bone marrow, but aspirating bone marrow from the patient is an invasive procedure. In an attempt to search for alternative sources of MPCs that could be obtained with minimal invasion, we looked into traumatic hemarthrosis of the knee. In this study, we determined whether a population of multipotent MPCs could be isolated from acute traumatic knee hemarthrosis in the absence of intra-articular fractures. Mononuclear cells were isolated from the aspirated hemarthrosis by density gradient separation, and cultured. We were able to obtain plastic adherent fibroblast-like cells from the mononuclear cell fractions. Flow cytometry analysis revealed that the adherent fibroblast-like cells were consistently positive for CD29, CD44, CD105, and CD166, and were negative for CD14, CD34, and CD45. These were similar to control bone marrow stromal cells. These cells could differentiate in vitro into osteogenic, adipogenic, and chondrogenic cells in the presence of lineage-specific induction factors. In conclusion, acute unfractured traumatic hemarthrosis of the knee contains MPCs with multipotentiality. Because knee hemarthrosis is easy to harvest with minimal pain and without unnecessary invasion, we regard hemarthrosis-derived cells as an additional progenitor cell source for future tissue engineering and cell-based therapy in knee injuries. J. Cell. Physiol. 210: 561?566, 2007. ? 2006 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Hinton, Ladson
+C8  - Hilton's_Paper
+TI  - Temporality and the torments of time
+JO  - Journal of Analytical Psychology
+JA  - J Anal Psychol
+VL  - 60
+IS  - 3
+SN  - 0021-8774
+UR  - https://doi.org/10.1111/1468-5922.12155
+DO  - doi:10.1111/1468-5922.12155
+SP  - 353
+EP  - 370
+KW  - cave art
+KW  - nachträglichkeit
+KW  - neuroscience
+KW  - remembering
+KW  - temporality
+KW  - time travel
+KW  - trauma
+KW  - Art rupestre
+KW  - mémoire
+KW  - Nachträglichkeit
+KW  - neuroscience
+KW  - passage du temps
+KW  - temporalité
+KW  - trauma
+KW  - Höhlenmalerei
+KW  - Zeitlichkeit
+KW  - Erinnern
+KW  - Trauma
+KW  - Nachträglichkeit
+KW  - Zeitreisen
+KW  - Neurowissenschaft
+KW  - arte delle caverne
+KW  - temporalità
+KW  - rimembrare
+KW  - trauma
+KW  - viaggio nel tempo
+KW  - neuroscienze
+KW  - пещерное искусство
+KW  - темпоральность
+KW  - воспоминания
+KW  - травма
+KW  - nachträglichkeit
+KW  - путешествие во времени
+KW  - нейронаука
+KW  - arte de las cavernas
+KW  - temporalidad
+KW  - trauma
+KW  - nachträglichkeit (après-coup)
+KW  - viaje en el tiempo
+KW  - neurociencia
+PY  - 2015
+AB  - Abstract Immersion in time gives birth to consciousness, as well as conflict and torment. When human beings developed a sense of future, they also gained the ability to anticipate threats from nature or their fellow beings. They thereby created cultures that are bastions of survival, as well as places of poetry, art and religion where they could band together and reflect upon their common plight. The practice of psychoanalysis is in many ways a temporal process, a process of remembering, for owning and elaborating a past that gives us substance, thereby providing a basis for reflective consciousness. Stimulated by Freud's early writings, Lacan, Laplanche and their successors in particular have focussed extensively on time and psychoanalysis, and their views are a central point of this discussion. A substantial case study is offered that provides concrete examples of these perspectives. A multi-faceted view of temporality emerges, one that is more syncopated than linear or teleological. In conclusion, I will briefly discuss recent findings in the neuroscience of memory and ?time travel? that underpin contemporary psychoanalytic ideas in surprising ways. It is important to remember that acceptance of the contradictory nature of temporal experience can open space for increased freedom and playfulness.
+ER  - 
+
+TY  - JOUR
+AU  - Cruwys, Tegan
+AU  - O'Kearney, Richard
+TI  - Implications of neuroscientific evidence for the cognitive models of post-traumatic stress disorder
+JO  - Clinical Psychologist
+VL  - 12
+IS  - 2
+SN  - 1328-4207
+UR  - https://doi.org/10.1080/13284200802356820
+DO  - doi:10.1080/13284200802356820
+SP  - 67
+EP  - 76
+KW  - Cognitive models
+KW  - memory
+KW  - neuroscience
+KW  - post-traumatic stress disorder
+KW  - treatment
+PY  - 2008
+AB  - Abstract Brewin's dual representation theory, Ehlers and Clark's cognitive appraisal model, and Dalgleish's schematic, propositional, analogue and associative representational systems model are considered in the light of recent evidence on the neural substrates of post-traumatic stress disorder (PTSD). The models' proposals about the cognitive mechanism of memory dysfunction in PTSD are described and evaluated against current knowledge about the neural pathways and functions disrupted in PTSD. A dual pathway model of memory is consistent with neuroscience of memory. The appraisal model also provides an account of the top-down modulation of memory and arousal problems consistent with current neuroscientific evidence of PTSD. Dalgleish's model is less consistent with the evidence because it relies upon assumptions that cannot yet be tested neuroscientifically. All three models under-specify the causal and maintaining influence of hyperarousal relative to the role it plays in current neuroscientific models of PTSD. Implications of the evidence for improving treatment and prevention are discussed.
+ER  - 
+
+TY  - JOUR
+AU  - Neelamegam, Ramesh
+AU  - Yokell, Daniel L.
+AU  - Rice, Peter A.
+AU  - Furumoto, Shozo
+AU  - Kudo, Yukitsuka
+AU  - Okamura, Nobuyuki
+AU  - El Fakhri, Georges
+C8  - JLCR-16-0116.R1
+TI  - A report of the automated radiosynthesis of the tau positron emission tomography radiopharmaceutical, [18F]-THK-5351
+JO  - Journal of Labelled Compounds and Radiopharmaceuticals
+JA  - J. Label Compd. Radiopharm
+VL  - 60
+IS  - 2
+SN  - 0362-4803
+UR  - https://doi.org/10.1002/jlcr.3482
+DO  - doi:10.1002/jlcr.3482
+SP  - 140
+EP  - 146
+KW  - fluorine-18
+KW  - PET
+KW  - Tau
+KW  - THK-5351
+PY  - 2017
+AB  - The radiotracer, [18F]-THK-5351, is a highly selective and high-binding affinity PET imaging agent for aggregates of hyper-phosphorylated tau protein. Our report is a simplified 1-pot, 2-step radiosynthesis of [18F]-THK-5351. This report is broadly applicable for routine clinical production and multi-center trials on account of favorable half-life of flourine-18 and the use of a commercially available radiosynthesis module, the GE TRACERlab? FXFN. First, the O-THP protected tosyl precursor underwent nucleophilic fluorinating reaction with potassium cryptand fluoride ([18F] fluoride (K[18F]/K222)) in Dimethyl sulfoxide at 110°C for 10 minutes followed by O-THP removal by using diluted hydrochloric acid (HCl) at same temperature. [18F]-THK-5351 was purified via semi-preparative high-performance liquid chromatography and formulated by using 10% EtOH, United States Pharmacopeia (USP) in 0.9% sodium chloride for injection, USP and an uncorrected radiochemical yield of 21 ± 3.5%, with a specific activity of 153.11 ± 25.9 GBq/?mol (4138 ± 700 mCi/?mol) at the end of synthesis (63 minutes; n = 3).
+ER  - 
+
+TY  - JOUR
+AU  - Zembylas, Michalinos
+TI  - Theorizing “Difficult Knowledge” in the Aftermath of the “Affective Turn”: Implications for Curriculum and Pedagogy in Handling Traumatic Representations
+JO  - Curriculum Inquiry
+JA  - Curriculum Inquiry
+VL  - 44
+IS  - 3
+SN  - 0362-6784
+UR  - https://doi.org/10.1111/curi.12051
+DO  - doi:10.1111/curi.12051
+SP  - 390
+EP  - 412
+PY  - 2014
+AB  - Abstract This essay draws on the concept of ?difficult knowledge? to think with some of the interventions and arguments of affect theory and discusses the implications for curriculum and pedagogy in handling traumatic representations. The author makes an argument that affect theory enables the theorization of difficult knowledge as an intersection of language, desire, power, bodies, social structure, materiality, and trauma. To show the possibilities of this theorization of difficult knowledge, the essay puts in conversation Judith Butler's work on vulnerability, affect, and grievable lives with scholarship on difficult knowledge. The essay leans on Butler's work and affect theory to make a political and pedagogical intervention into the terrain of learning and acting in the face of difficult knowledge. This intervention offers a conceptual, curricular, and pedagogical way out of dilemmas of representation and it is rooted in a political project of social action that does not disavow the psychical problematics residing therein.
+ER  - 
+
+C7  - pp. 399-443
+TI  - M
+SN  - 9780470110065
+UR  - https://doi.org/10.1002/9781118269947.ch13
+DO  - doi:10.1002/9781118269947.ch13
+SP  - 399-443
+KW  - malingering
+KW  - posttraumatic stress disorder
+KW  - traumatic stress
+KW  - personal injury claimants
+KW  - mental disorders
+PY  - 2014
+AB  - Summary This chapter contains sections titled: Malingering Marital Relationships Marital Therapy Media Reporting of Trauma Medical Illness, Adult Medical Illness, Child Meditation Memories of Traumatic Experiences Memory Military Personnel Mindfulness Minnesota Multiphasic Personality Inventory-2 (MMPI-2) Mississippi Civilian Scale for PTSD-Revised Mississippi Combat PTSD Scale MMPI-2 Mortuary Workers Motor Vehicle Collisions Movie Depictions of Psychological Trauma Multiple Personality Disorder (MPD) Myers, Charles Samuel (1873?1946)
+ER  - 
+
+TY  - JOUR
+AU  - Dibbern, Kevin
+AU  - Kempton, Laurence B.
+AU  - Higgins, Thomas F.
+AU  - Morshed, Saam
+AU  - McKinley, Todd O.
+AU  - Marsh, J. Lawrence
+AU  - Anderson, Donald D.
+TI  - Fractures of the tibial plateau involve similar energies as the tibial pilon but greater articular surface involvement
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+VL  - 35
+IS  - 3
+SN  - 9780470110065
+UR  - https://doi.org/10.1002/jor.23359
+DO  - doi:10.1002/jor.23359
+SP  - 618
+EP  - 624
+KW  - tibial plateau
+KW  - tibial pilon
+KW  - fracture severity
+KW  - post-traumatic OA
+PY  - 2017
+AB  - ABSTRACT Patients with tibial pilon fractures have a higher incidence of post-traumatic osteoarthritis than those with fractures of the tibial plateau. This may indicate that pilon fractures present a greater mechanical insult to the joint than do plateau fractures. We tested the hypothesis that fracture energy and articular fracture edge length, two independent indicators of severity, are higher in pilon than plateau fractures. We also evaluated whether clinical fracture classification systems accurately reflect severity. Seventy-five tibial plateau fractures and 52 tibial pilon fractures from a multi-institutional study were selected to span the spectrum of severity. Fracture severity measures were calculated using objective CT-based image analysis methods. The ranges of fracture energies measured for tibial plateau and pilon fractures were 3.2?33.2?Joules (J) and 3.6?32.2?J, respectively, and articular fracture edge lengths were 68.0?493.0?mm and 56.1?288.6?mm, respectively. There were no differences in the fracture energies between the two fracture types, but plateau fractures had greater articular fracture edge lengths (p?<?0.001). The clinical fracture classifications generally reflected severity, but there was substantial overlap of fracture severity measures between different classes. Similar fracture energies with different degrees of articular surface involvement suggest a possible explanation for dissimilar rates of post-traumatic osteoarthritis for fractures of the tibial plateau compared to the tibial pilon. The substantial overlap of severity measures between different fracture classes may well have confounded prior clinical studies relying on fracture classification as a surrogate for severity. ? 2016 Orthopaedic Research Society. Published by Wiley Periodicals, Inc. J Orthop Res 35:618?624, 2017.
+ER  - 
+
+TY  - JOUR
+AU  - CREZE, MAUD
+AU  - NYANGOH TIMOH, KRYSTEL
+AU  - GAGEY, OLIVIER
+AU  - ROCHER, LAURENCE
+AU  - BELLIN, MARIE-FRANCE
+AU  - SOUBEYRAND, MARC
+TI  - Feasibility assessment of shear wave elastography to lumbar back muscles
+JO  - Clinical Anatomy
+JA  - Clin. Anat.
+VL  - 30
+IS  - 6
+SN  - 9780470110065
+UR  - https://doi.org/10.1002/ca.22903
+DO  - doi:10.1002/ca.22903
+SP  - 774
+EP  - 780
+KW  - anatomy
+KW  - elastic modulus
+KW  - elasticity imaging techniques
+KW  - dissection
+KW  - paraspinal muscles
+PY  - 2017
+AB  - Low back pain is often associated with tensional changes in the paraspinal muscles detected by palpatory procedures. Shear wave elastography (SWE), recently introduced, allows the stiffness of muscles to be assessed noninvasively. The aim of this work was to study the feasibility of using SWE on the three main lumbar back muscles (multifidus, longissimus, and iliocostalis) in vivo after analyzing their muscular architecture ex vivo. We determined the orientation of fibers in the multifidus, longissimus, and iliocotalis muscles in seven fresh cadavers using gross anatomy and B-Mode ultrasound imaging. We then quantified the stiffness of these three muscles at the L3 level ex vivo and in 16 healthy young adults. Little pennation was observed in the longissimus and iliocostalis, in which the direction of fibers was almost parallel to the line of spinous processes. The multifidus appeared as a multiceps and multipennate muscle. Given the random layering of millimetric fascicles, tendons, and fatty spaces, the multifidus had multiple fiber orientations. Muscular fascicles and fibers were oriented from 9° to 22° to the line of spinous processes. The shear moduli related to stiffness were 6.9?±?2.7 kPa for the longissimus, 4.9?±?1.4 kPa for the iliocostalis, and 5.4?±?1.6 kPa for the multifidus. SWE is a feasible method for quantifying the stiffness of the lumbar back muscles. Clin. Anat. 30:774?780, 2017. ? 2017Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Tamaki, Keisuke
+AU  - Yamada, Kiyofumi
+AU  - Nakamichi, Noritaka
+AU  - Taniura, Hideo
+AU  - Yoneda, Yukio
+TI  - Transient suppression of progenitor cell proliferation through NMDA receptors in hippocampal dentate gyrus of mice with traumatic stress experience
+JO  - Journal of Neurochemistry
+VL  - 105
+IS  - 5
+SN  - 9780470110065
+UR  - https://doi.org/10.1111/j.1471-4159.2008.05253.x
+DO  - doi:10.1111/j.1471-4159.2008.05253.x
+SP  - 1642
+EP  - 1655
+KW  - dentate gyrus
+KW  - flashback
+KW  - glutamate
+KW  - neural progenitor
+KW  - NMDA receptors
+KW  - post-traumatic stress disorder
+PY  - 2008
+AB  - Abstract Post-traumatic stress disorder is a long-lasting psychiatric disease after the traumatic experience of severe fatal stress with the consequence of hippocampal atrophy. Freezing behaviors were more than quintupled on the fear-conditioning test in mice previously subjected to water immersion restrain stress (WIRS) with metronome tones when determined 1?28?days after WIRS, while these mice exhibited the increased immobility time on the forced swimming test with the increased spontaneous locomotion. Prior experience of WIRS led to a transient decrease in subsequent 5-bromo-2?-deoxyuridine (BrdU) incorporation into proliferating cells in the hippocampal dentate gyrus. These behavioral and neurochemical alterations were significantly prevented by the daily injection of the tricyclic antidepressant imipramine and the selective serotonin reuptake inhibitor fluvoxamine, respectively. Moreover, WIRS significantly decreased the number of cells holding BrdU without affecting the differentiation ratio to astroglial and neuronal lineages 28?days later. Prior administration of an NMDA receptor antagonist significantly prevented the aforementioned changes by WIRS. These results suggest that NMDA receptors may play a role in mechanisms underlying the crisis of a variety of psychiatric symptoms relevant to post-traumatic stress disorder through transient suppression of neural progenitor cell proliferation in the murine hippocampal dentate gyrus.
+ER  - 
+
+TY  - JOUR
+AU  - Schwartz, M.
+AU  - Lamb, C. R.
+AU  - Brodbelt, D. C.
+AU  - Volk, H. A.
+TI  - Canine intracranial neoplasia: clinical risk factors for development of epileptic seizures
+JO  - Journal of Small Animal Practice
+VL  - 52
+IS  - 12
+SN  - 9780470110065
+UR  - https://doi.org/10.1111/j.1748-5827.2011.01131.x
+DO  - doi:10.1111/j.1748-5827.2011.01131.x
+SP  - 632
+EP  - 637
+PY  - 2011
+AB  - Objectives: To identify clinical risk factors for seizures in dogs with intracranial neoplasia. Methods: A cross-sectional retrospective study of 68 dogs with histopathologically confirmed primary or secondary intracranial neoplasia, complete clinical history and magnetic resonance imaging of the brain was conducted. Signalment and clinical history were retrieved from clinical records and magnetic resonance images of the brain were re-evaluated. Prevalence of findings was compared between dogs with and without seizures. Results: Forty-two dogs had tumour-related seizures, the remaining 26 were seizure-free. Tumour types included meningioma (23 dogs with and 5 without seizures), glioma (9 dogs with and 6 without seizures), choroid plexus tumour (2 dogs without seizures), neuroblastoma (1 dog with seizures) and metastatic/invasive tumours including lymphoma (9 dogs with and 13 without seizures). On the basis of multi-variable logistic regression analysis, risk factors for seizures associated with intracranial neoplasia were magnetic resonance imaging findings consistent with the presence of neoplastic tissue in frontal lobe [odds ratio (OR) 9·61; 95% confidence interval (CI) 2·59 to 35·61], marked gadolinium enhancement (OR 10·41; 95% CI 2·07 to 52·30) and magnetic resonance imaging findings of subfalcine and/or subtentorial herniation (OR 3·88; 95% CI 1·10 to 13·71). Clinical Significance: Dogs with primary or secondary intracranial neoplasia are at risk of seizures, particularly those with tumours that affect the frontal lobe, enhance markedly with gadolinium, or cause subfalcine and/or subtentorial herniation.
+ER  - 
+
+TY  - JOUR
+AU  - Tiryaki, Volkan Müjdat
+AU  - Adia-Nimuwa, Usienemnfon
+AU  - Ayres, Virginia M.
+AU  - Ahmed, Ijaz
+AU  - Shreiber, David I.
+TI  - Texture-based segmentation and a new cell shape index for quantitative analysis of cell spreading in AFM images
+JO  - Cytometry Part A
+JA  - Cytometry
+VL  - 87
+IS  - 12
+SN  - 9780470110065
+UR  - https://doi.org/10.1002/cyto.a.22739
+DO  - doi:10.1002/cyto.a.22739
+SP  - 1090
+EP  - 1100
+KW  - cell spreading
+KW  - stellation
+KW  - immunoreactivity
+KW  - texture-based cell segmentation
+KW  - floating feature selection
+KW  - cell–material interactions
+PY  - 2015
+AB  - Abstract A new cell shape index is defined for use with atomic force microscopy height images of cell cultures. The new cell shape index reveals quantitative cell spreading information not included in a conventional cell shape index. A supervised learning-based cell segmentation algorithm was implemented by texture feature extraction and a multi-layer neural network classifier. The texture feature sets for four different culture surfaces were determined from the gray level co-occurrence matrix and local statistics texture models using two feature selection algorithms and by considering computational cost. The quantitative morphometry of quiescent-like and reactive-like cerebral cortical astrocytes cultured on four different culture environments was investigated using the new and conventional cell shape index. Inclusion of cell spreading with stellation information through use of the new cell shape index was shown to change biomedical conclusions derived from conventional cell shape analysis based on stellation alone. The new CSI results showed that the quantitative astrocyte spreading and stellation behavior was induced by both the underlying substrate and the immunoreactivity of the astrocytes. ? 2015 International Society for Advancement of Cytometry
+ER  - 
+
+TY  - JOUR
+AU  - Serena,             T.
+AU  - Li, V.W.
+AU  - on behalf of the Wound Healing Cooperative Group
+TI  - 145 Interval Analysis of a Randomized, Open Label, Multi-Center Study Comparing Apligraf Vs. Standard Multilayer Compression in the Reduction of Pain Associated WItH Venous Leg Ulcerations
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 9780470110065
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130216aw.x
+DO  - doi:10.1111/j.1067-1927.2005.130216aw.x
+SP  - A28
+EP  - A48
+PY  - 2005
+AB  - Background:? According to The American Pain Society, pain should be considered a fifth vital sign. Pain is a prominent feature of venous leg ulcerations (VLUs). Sixty-five percent of VLU patients complain of severe pain. In several multicenter clinical trials, Apligraf, a bioengineered living skin construct, has been shown to accelerate healing in venous leg ulcerations. Anecdotal clinical observations suggest that Apligraf treatment is associated with pain relief. A treatment modality which promotes healing and reduces pain would significantly improve the quality of life in patients with VLU. Methods:? VLU patients with pain scores greater than 5/10 on a numerical scale or requiring narcotic analgesia were randomized to receive either Apligraf and compression or compression alone. There was a 3-week ?wash-out? period to ensure that pain was not due to other factors such as inadequate compression or infection. Patients were enrolled only after a negative quantitative biopsy. The intensity of pain was self-scored and a quality-of-life questionnaire was completed at each visit. Weekly wound area measurements were obtained with digital planimetry. Results:? Thus far in the enrollment period we have already seen a trend toward a significant reduction in pain in the Apligraf group. This pain relief occurs shortly after application indicating that a mechanism distinct from clinical healing. The Apligraf group also demonstrated acceleration in wound healing as well as a decreased time-to-complete closure. Conclusion:? Interval analysis of this multicenter trial suggests that Apligraf accelerates wound healing and reduces the pain associated with venous leg ulcerations. Acknowledgment:? Unrestricted Educational grant, Organogenesis Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Deistung, Andreas
+AU  - Schweser, Ferdinand
+AU  - Reichenbach, Jürgen R.
+C7  - e3569
+C8  - NBM-15-0326.R2
+TI  - Overview of quantitative susceptibility mapping
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 30
+IS  - 4
+SN  - 9780470110065
+UR  - https://doi.org/10.1002/nbm.3569
+DO  - doi:10.1002/nbm.3569
+SP  - e3569
+KW  - magnetic susceptibility
+KW  - quantitative susceptibility mapping
+KW  - susceptibility tensor imaging
+KW  - functional MRI
+KW  - multiple sclerosis
+PY  - 2017
+AB  - Magnetic susceptibility describes the magnetizability of a material to an applied magnetic field and represents an important parameter in the field of MRI. With the recently introduced method of quantitative susceptibility mapping (QSM) and its conceptual extension to susceptibility tensor imaging (STI), the non-invasive assessment of this important physical quantity has become possible with MRI. Both methods solve the ill-posed inverse problem to determine the magnetic susceptibility from local magnetic fields. Whilst QSM allows the extraction of the spatial distribution of the bulk magnetic susceptibility from a single measurement, STI enables the quantification of magnetic susceptibility anisotropy, but requires multiple measurements with different orientations of the object relative to the main static magnetic field. In this review, we briefly recapitulate the fundamental theoretical foundation of QSM and STI, as well as computational strategies for the characterization of magnetic susceptibility with MRI phase data. In the second part, we provide an overview of current methodological and clinical applications of QSM with a focus on brain imaging. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+AU  - Altun, Ersan
+AU  - Semelka, Richard C.
+C7  - pp. 63-72
+TI  - Safety of MRI and CT
+SN  - 9780470906255
+UR  - https://doi.org/10.1002/9781118484852.ch3
+DO  - doi:10.1002/9781118484852.ch3
+SP  - 63-72
+KW  - breast milk
+KW  - cancer
+KW  - CT
+KW  - diagnostic imaging safety
+KW  - Gadolinium-based contrast agents (GBCAs)
+KW  - iodine-based contrast agents (IBCAs)
+KW  - ionizing radiation
+KW  - MRI
+PY  - 2017
+AB  - Summary Diagnostic imaging safety has garnered considerable interest in medical literature because of concerns of health risks attributable to imaging investigation. Perhaps the greatest concern is the likelihood of cancer development, secondary to the use of increasing numbers and exposures of medical radiation, especially resulting from the increasing use of multislice CT scanners. Additional health concerns are the toxicity of iodine-based contrast agents (IBCAs) that are used in CT, and gadolinium-based contrast agents (GBCAs) that are used in MRI. The literature on the excretion of GBCAs and IBCAs into breast milk, and the gastro-intestinal absorption of these agents from breast milk is very limited. A review of the literature, however, reveals important facts: less than 1% of the administered maternal dose of contrast agent is excreted into breast milk; and less than 1% of the contrast medium in breast milk ingested by an infant is absorbed from the gastro-intestinal tract.
+ER  - 

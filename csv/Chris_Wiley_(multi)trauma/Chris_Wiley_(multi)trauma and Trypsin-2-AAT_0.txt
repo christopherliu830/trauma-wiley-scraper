@@ -1,0 +1,439 @@
+
+TY  - JOUR
+AU  - Moretti, Raffaella
+AU  - Chhor, Vibol
+AU  - Bettati, Donatella
+AU  - Banino, Elena
+AU  - De Lucia, Silvana
+AU  - Le Charpentier, Tifenn
+AU  - Lebon, Sophie
+AU  - Schwendimann, Leslie
+AU  - Pansiot, Julien
+AU  - Rasika, Sowmyalakshmi
+AU  - Degos, Vincent
+AU  - Titomanlio, Luigi
+AU  - Gressens, Pierre
+AU  - Fleiss, Bobbi
+TI  - Contribution of mast cells to injury mechanisms in a mouse model of pediatric traumatic brain injury
+JO  - Journal of Neuroscience Research
+JA  - Journal of Neuroscience Research
+VL  - 94
+IS  - 12
+SN  - 0360-4012
+UR  - https://doi.org/10.1002/jnr.23911
+DO  - doi:10.1002/jnr.23911
+SP  - 1546
+EP  - 1560
+KW  - neuroinflammation
+KW  - histamine
+KW  - apoptosis
+KW  - myelin
+KW  - neuron
+KW  - microglia
+PY  - 2016
+AB  - The cognitive and behavioral deficits caused by traumatic brain injury (TBI) to the immature brain are more severe and persistent than injuries to the adult brain. Understanding this developmental sensitivity is critical because children under 4 years of age of sustain TBI more frequently than any other age group. One of the first events after TBI is the infiltration and degranulation of mast cells (MCs) in the brain, releasing a range of immunomodulatory substances; inhibition of these cells is neuroprotective in other types of neonatal brain injury. This study investigates for the first time the role of MCs in mediating injury in a P7 mouse model of pediatric contusion-induced TBI. We show that various neural cell types express histamine receptors and that histamine exacerbates excitotoxic cell death in primary cultured neurons. Cromoglycate, an inhibitor of MC degranulation, altered the inflammatory phenotype of microglia activated by TBI, reversing several changes but accentuating others, when administered before TBI. However, without regard to the time of cromoglycate administration, inhibiting MC degranulation did not affect cell loss, as evaluated by ventricular dilatation or cleaved caspase-3 labeling, or the density of activated microglia, neurons, or myelin. In double-heterozygous cKit mutant mice lacking MCs, this overall lack of effect was confirmed. These results suggest that the role of MCs in this model of pediatric TBI is restricted to subtle effects and that they are unlikely to be viable neurotherapeutic targets. ? 2016 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Sandhu, Jagdeep K.
+AU  - Sikorska, Marianna
+AU  - Walker, P. Roy
+TI  - Characterization of astrocytes derived from human NTera-2/D1 embryonal carcinoma cells
+JO  - Journal of Neuroscience Research
+JA  - J. Neurosci. Res.
+VL  - 68
+IS  - 5
+SN  - 0360-4012
+UR  - https://doi.org/10.1002/jnr.10236
+DO  - doi:10.1002/jnr.10236
+SP  - 604
+EP  - 614
+KW  - astroglia
+KW  - protoplasmic
+KW  - stellate
+KW  - reactive response
+KW  - glial filaments
+PY  - 2002
+AB  - Abstract Astrocytes are the predominant cell type in the vicinity of glutamatergic synapses, where they monitor and maintain low levels of glutamate. Synaptic homeostasis of glutamate involves its removal from the synaptic cleft via high-affinity glutamate transporters, glutamate transporter-1 (GLT-1)/excitatory amino acid transporters (EAAT)2 and glutamate and aspartate transporter (GLAST)/EAAT1, and glutamate-catabolizing enzyme, glutamine synthase. Glutamate transporters have been mostly characterized in rodent astrocytes, due to the lack of a convenient human cell system. We report here that NTera-2 (NT2/D1, a cell line derived from a human teratocarcinoma and known to differentiate into neurons) can also be differentiated by a 4-week treatment with retinoic acid into functional astrocytes (NT2/A). Differentiation was accompanied by decreased cell proliferation and cell-cycle arrest, as measured by flow cytometry, immunostaining for Ki67 and incorporation of 5-bromo-2?deoxyuridine (BrdU). Immunocytochemistry and Western blot analysis showed that NT2/A expressed glial fibrillary acidic protein, vimentin and S100?. Reverse transcription polymerase chain reaction (PCR) detected mRNA encoding glutamate transporters GLT-1/EAAT2 and GLAST/EAAT1. The expression level of GLAST/EAAT1 was higher than that of GLT-1/EAAT2, which is a typical expression pattern for primary astrocytes. Functionality of the transporters was demonstrated by the uptake of 3H-glutamate. NT2/A also expressed active glutamine synthase, and treatment with glutamate (up to 1 mM for 24 hr) was non-toxic, suggesting that these cells were capable of converting it to non-toxic metabolites. NT2/A and NT2-derived neurons could be grown as mixed cultures and this may prove to be a useful experimental model to study molecular mechanisms underlying glutamate excitotoxicity. ? 2002 Government of Canada. Exclusive worldwide publication rights in the article have been transferred to Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+TI  - P02. Posters 2
+JO  - Australasian Journal of Dermatology
+VL  - 38
+IS  - S2
+SN  - 0004-8380
+UR  - https://doi.org/10.1111/ajd.1997.38.s2.125
+DO  - doi:10.1111/ajd.1997.38.s2.125
+SP  - 125
+EP  - 191
+PY  - 1997
+ER  - 
+
+TY  - JOUR
+AU  - Uynuk-Ool, Tatiana
+AU  - Rothdiener, Miriam
+AU  - Walters, Brandan
+AU  - Hegemann, Miriam
+AU  - Palm, Julian
+AU  - Nguyen, Phong
+AU  - Seeger, Tanja
+AU  - Stöckle, Ulrich
+AU  - Stegemann, Jan P.
+AU  - Aicher, Wilhelm K.
+AU  - Kurz, Bodo
+AU  - Hart, Melanie L.
+AU  - Klein, Gerd
+AU  - Rolauffs, Bernd
+C8  - TERM-15-0453.R1
+TI  - The geometrical shape of mesenchymal stromal cells measured by quantitative shape descriptors is determined by the stiffness of the biomaterial and by cyclic tensile forces
+JO  - Journal of Tissue Engineering and Regenerative Medicine
+JA  - J Tissue Eng Regen Med
+VL  - 11
+IS  - 12
+SN  - 1932-6254
+UR  - https://doi.org/10.1002/term.2263
+DO  - doi:10.1002/term.2263
+SP  - 3508
+EP  - 3522
+KW  - mesenchymal stromal cell
+KW  - MSC
+KW  - shape
+KW  - shape descriptor
+KW  - compacted collagen
+KW  - cyclic stretch
+KW  - roundness
+KW  - aspect ratio
+KW  - circularity
+KW  - solidity
+KW  - nanoscale stiffness
+KW  - myogenic differentiation
+KW  - biomaterial
+KW  - silicone
+PY  - 2017
+AB  - Abstract Controlling mesenchymal stromal cell (MSC) shape is a novel method for investigating and directing MSC behaviour in vitro. it was hypothesized that specifigc MSC shapes can be generated by using stiffness-defined biomaterial surfaces and by applying cyclic tensile forces. Biomaterials used were thin and thick silicone sheets, fibronectin coating, and compacted collagen type I sheets. The MSC morphology was quantified by shape descriptors describing dimensions and membrane protrusions. Nanoscale stiffness was measured by atomic force microscopy and the expression of smooth muscle cell (SMC) marker genes (ACTA2, TAGLN, CNN1) by quantitative reverse-transcription polymerase chain reaction. Cyclic stretch was applied with 2.5% or 5% amplitudes. Attachment to biomaterials with a higher stiffness yielded more elongated MSCs with fewer membrane protrusions compared with biomaterials with a lower stiffness. For cyclic stretch, compacted collagen sheets were selected, which were associated with the most elongated MSC shape across all investigated biomaterials. As expected, cyclic stretch elongated MSCs during stretch. One hour after cessation of stretch, however, MSC shape was rounder again, suggesting loss of stretch-induced shape. Different shape descriptor values obtained by different stretch regimes correlated significantly with the expression levels of SMC marker genes. Values of approximately 0.4 for roundness and 3.4 for aspect ratio were critical for the highest expression levels of ACTA2 and CNN1. Thus, specific shape descriptor values, which can be generated using biomaterial-associated stiffness and tensile forces, can serve as a template for the induction of specific gene expression levels in MSC. Copyright ? 2017 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Park, Jung
+AU  - Gelse, Kolja
+AU  - Frank, Susi
+AU  - von der Mark, Klaus
+AU  - Aigner, Thomas
+AU  - Schneider, Holm
+TI  - Transgene-activated mesenchymal cells for articular cartilage repair: a comparison of primary bone marrow-, perichondrium/periosteum- and fat-derived cells
+JO  - The Journal of Gene Medicine
+JA  - J. Gene Med.
+VL  - 8
+IS  - 1
+SN  - 1099-498X
+UR  - https://doi.org/10.1002/jgm.826
+DO  - doi:10.1002/jgm.826
+SP  - 112
+EP  - 125
+KW  - gene transfer
+KW  - mesenchymal cells
+KW  - cartilage repair
+KW  - bone marrow
+KW  - periosteum
+KW  - fat
+PY  - 2006
+AB  - Abstract Background Adult primary mesenchymal cells of different origin which can be obtained with minor donor site morbidity are considered for articular cartilage repair. This study aims at a comparison of their chondrogenic potential. Methods Mesenchymal cells were isolated from perichondrium/periosteum, bone marrow or fat of adult rats and found to be positive for the stem-cell-related antigens Sca-1, c-Kit, CD10, CD13 and CD90 by reverse transcription polymerase chain reaction (RT-PCR). Chondrogenic differentiation was induced by applying recombinant bone morphogenetic protein-2 (BMP-2) or adenoviral vectors carrying BMP-2 cDNA, followed by micromass culture. The stimulated cells were characterized by RT-PCR, cell proliferation and apoptosis assays. Expression of aggrecan, collagen type I, II, IX and X and alkaline phosphatase genes was analyzed by RT-PCR, immunofluorescence and immunohistochemistry in comparison with unstimulated control cells. Adenovirally stimulated cells were transplanted into mechanically generated partial-thickness cartilage lesions in the patellar groove of the rat femur. Quality and integration of the repair tissues were assessed by histochemical and immunohistochemical methods. Results Stimulation with BMP-2 or AdBMP-2 led to an up-regulation of cartilage-specific gene expression in all three cell populations studied, most rapidly and prominently in the perichondrial/periosteal cells, which showed a 3200-fold increase of type II collagen mRNA and reached the highest absolute levels of type II and IX collagen transcripts after stimulation. Similar results were obtained for the bone marrow stromal cells (BMSC), while the respective transcript levels in fat stromal cells declined after an initial more than 30-fold elevation. Following transplantation in vivo, AdBMP-2-infected perichondrial/periosteal cells produced a proteoglycan-rich, type II collagen-positive matrix with only faint staining for type I collagen. The repair tissue originating from AdBMP-2-infected BMSC showed less intense type II collagen staining, but a relatively proteoglycan-rich matrix, weakly positive for type I collagen. Transgene-activated fat stromal cells formed rather fibrous tissue mainly composed of type I collagen. Unstimulated cells of the three different populations gave only rise to fibrous tissue. Conclusions Perichondrium/periosteum-derived cells and BMSC seem superior to cells isolated from fat with respect to forming hyaline cartilaginous tissue. A chondrogenic stimulus, e.g. by transfer of BMP-2 cDNA, appears to be required for initiation and support of chondrogenic differentiation. Copyright ? 2005 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Stern-Straeter, J.
+AU  - Bach, A.D.
+AU  - Stangenberg, L.
+AU  - Foerster, V.T.
+AU  - Horch, R.E.
+AU  - Stark, G.B.
+AU  - Beier, J.P.
+TI  - Impact of electrical stimulation on three-dimensional myoblast cultures - a real-time RT-PCR study
+JO  - Journal of Cellular and Molecular Medicine
+VL  - 9
+IS  - 4
+SN  - 1582-1838
+UR  - https://doi.org/10.1111/j.1582-4934.2005.tb00386.x
+DO  - doi:10.1111/j.1582-4934.2005.tb00386.x
+SP  - 883
+EP  - 892
+KW  - skeletal muscle tissue engineering
+KW  - electrical stimulation
+KW  - real-time RT-PCR
+KW  - 3-D cell culture
+KW  - fibrin
+KW  - myoblast differentiation
+PY  - 2005
+AB  - Abstract Several focal skeletal muscle diseases, including tumours and trauma lead to a limited loss of functional muscle tissue. There is still no suitable clinical approach for treating such defects. A promising approach could be the tissue engineering of skeletal muscle. However, a clinically reliable differentiation stimulus for three-dimensional (3-D) cultures is necessary for this process, and this condition has not yet been established. In order to qunantify and analyze the differentiation potential of electrical cell stimulation, primary myoblasts were stimulated within a 3-D fibrin-matrix. Gene expression of MyoD, myogenin and AChR were measured by real-time RT-PCR over a time period of eight days, showing immediate down-regulation of all marker genes. For tissue engineering approaches, cell multiplication is crucial for acquisition of sufficient tissue volumes for reconstruction. Therefore, all experiments were performed with high and low passaged myoblasts, demonstrating higher transcript rates of marker genes in lowpassage cells. Our findings strongly suggest a reconsideration of electrical stimulation in muscle tissue engineering.
+ER  - 
+
+AU  - Baez, Julio
+C7  - pp. 833-892
+TI  - Biopharmaceuticals Derived from Transgenic Plants and Animals
+SN  - 9783527311842
+UR  - https://doi.org/10.1002/9783527620982.ch35
+DO  - doi:10.1002/9783527620982.ch35
+SP  - 833-892
+KW  - transgenic
+KW  - antithrombin
+KW  - glycoprotein
+KW  - aprotinin
+KW  - pulmonary
+PY  - 2005
+AB  - Summary This chapter contains sections titled: Introduction Advantages and Disadvantages of Transgenic Systems for the Production of Biopharmaceuticals Commercial Biopharmaceuticals with Human Clinical Experience for Therapeutic, Immunoprophylactic, and Medical Device Use derived from Transgenic Systems Conclusions
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts Presented at the 2010 ISDE Congress
+JO  - Diseases of the Esophagus
+VL  - 23
+IS  - s1
+SN  - 9783527311842
+UR  - https://doi.org/10.1111/j.1442-2050.2010.01101.x
+DO  - doi:10.1111/j.1442-2050.2010.01101.x
+SP  - 1A
+EP  - 134A
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - A001–A193
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 95
+IS  - S6
+SN  - 9783527311842
+UR  - https://doi.org/10.1002/bjs.6310
+DO  - doi:10.1002/bjs.6310
+SP  - 1
+EP  - 104
+PY  - 2008
+AB  - Abstract The following abstracts were presented at the 43rd Congress of the European Society for Surgical Research (ESSR), which was held from May 21?24, 2008, in Warsaw, Poland (Congress President: Grzegorz Szcz?sny). More information can be found on Congress website: www.essr2008.pl. To view all the abstracts from this meeting, please click the pdf link on this page. Copyright ? 2008 British Journal of Surgery Society Ltd. Published by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Pannu, Ravinder
+AU  - Barbosa, Ernest
+AU  - Singh, Avtar K.
+AU  - Singh, Inderjit
+TI  - Attenuation of acute inflammatory response by atorvastatin after spinal cord injury in rats
+JO  - Journal of Neuroscience Research
+JA  - J. Neurosci. Res.
+VL  - 79
+IS  - 3
+SN  - 9783527311842
+UR  - https://doi.org/10.1002/jnr.20345
+DO  - doi:10.1002/jnr.20345
+SP  - 340
+EP  - 350
+KW  - atorvastatin
+KW  - SCI
+KW  - inflammation
+PY  - 2005
+AB  - Abstract Spinal cord injury (SCI) is a devastating and complex clinical condition involving proinflammatory cytokines and nitric oxide toxicity that produces a predictable pattern of progressive injury entailing neuronal loss, axonal destruction, and demyelination at the site of impact. The involvement of proinflammatory cytokines and inducible nitric oxide synthase (iNOS) in exacerbation of SCI pathology is well documented. We have reported previously the antiinflammatory properties and immunomodulatory activities of statins (3-hydroxy-3-methylglutaryl [HMG]-CoA reductase inhibitors) in the animal model of multiple sclerosis, experimental allergic encephalitis (EAE). The present study was undertaken to investigate the efficacy of atorvastatin (Lipitor; LP) treatment in attenuating SCI-induced pathology. Immunohistochemical detection and real-time PCR analysis showed increased expression of iNOS, tumor necrosis factor α (TNFα) and interleukin 1? (IL-1?) after SCI. In addition, neuronal apoptosis was detected 24 hr after injury followed by a profound increase in ED1-positive inflammatory infiltrates, glial fibrillary acidic protein (GFAP)-positive reactive astrocytes, and oligodendrocyte apoptosis by 1 week after SCI relative to control. LP treatment attenuated the SCI-induced iNOS, TNFα, and IL-1? expression. LP also provided protection against SCI-induced tissue necrosis, neuronal and oligodendrocyte apoptosis, demyelination, and reactive gliosis. Furthermore, rats treated with LP scored much higher on the locomotor rating scale after SCI (19.13 ± 0.53) than did untreated rats (9.04 ± 1.22). This study therefore reports the beneficial effect of atorvastatin for the treatment of SCI-related pathology and disability. ? 2004 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts
+JO  - Immunology
+JA  - Immunology
+VL  - 140
+IS  - s1
+SN  - 9783527311842
+UR  - https://doi.org/10.1111/imm.12184
+DO  - doi:10.1111/imm.12184
+SP  - 39
+EP  - 184
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - Poster Session Abstracts
+JO  - Pediatric Pulmonology
+JA  - Pediatr. Pulmonol.
+VL  - 42
+IS  - S30
+SN  - 9783527311842
+UR  - https://doi.org/10.1002/ppul.20700
+DO  - doi:10.1002/ppul.20700
+SP  - 202
+EP  - 412
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+AU  - Yuan, Dongtang
+AU  - Liu, Beibei
+AU  - Liu, Kaixiang
+AU  - Zhu, Guotai
+AU  - Dai, Zhitang
+AU  - Xie, Yue
+TI  - Overexpression of fibroblast activation protein and its clinical implications in patients with osteosarcoma
+JO  - Journal of Surgical Oncology
+JA  - J. Surg. Oncol.
+VL  - 108
+IS  - 3
+SN  - 9783527311842
+UR  - https://doi.org/10.1002/jso.23368
+DO  - doi:10.1002/jso.23368
+SP  - 157
+EP  - 162
+KW  - osteosarcoma
+KW  - fibroblast activation protein
+KW  - prognosis
+KW  - overall survival
+KW  - disease-free survival
+PY  - 2013
+AB  - Abstract Background and Objectives Fibroblast activation protein (FAP) expression has been detected in fibroblastic component of osteosarcomas. The aim of this study was to analyze the correlation of FAP expression with the clinicopathological features of osteosarcoma. Methods FAP mRNA and protein expression levels in human osteosarcoma tissues were, respectively detected by RT-PCR, Western blot, and immunohistochemistry assays. Results FAP mRNA and protein expression were both higher in osteosarcoma than in corresponding noncancerous bone tissues (both P?<?0.001). In addition, the immunohistochemistry assay found that all patients showed positive FAP expression. Higher FAP expression was significantly correlated with advanced clinical stage (P?=?0.006), high histological grade (P?=?0.02), positive metastatic status (P?=?0.01), shorter overall (P?<?0.001), and disease-free (P?<?0.001) survival in osteosarcoma patients. Furthermore, Cox multivariate analysis showed that FAP overexpression was an independent prognostic factor for predicting both overall and disease-free survival of osteosarcoma patients. Conclusion Expression of FAP in osteosarcoma could be adopted as a candidate biomarker for the diagnosis of clinical stage, histological grade and metastasis, and for assessing prognosis, indicating for the first time that FAP may play an important role in tumor development and progression in osteosarcoma. FAP might be considered as a novel therapeutic target against this cancer. J. Surg. Oncol. 2013; 108:157?162. ? 2013 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Madhurakkat Perikamana, Sajeesh Kumar
+AU  - Lee, Sang Min
+AU  - Lee, Jinkyu
+AU  - Ahmad, Taufiq
+AU  - Lee, Min Suk
+AU  - Yang, Hee Seok
+AU  - Shin, Heungsoo
+C7  - 1800392
+TI  - Oxidative Epigallocatechin Gallate Coating on Polymeric Substrates for Bone Tissue Regeneration
+JO  - Macromolecular Bioscience
+JA  - Macromol. Biosci.
+VL  - 19
+IS  - 4
+SN  - 9783527311842
+UR  - https://doi.org/10.1002/mabi.201800392
+DO  - doi:10.1002/mabi.201800392
+SP  - 1800392
+KW  - bone tissue engineering
+KW  - multifunctionality
+KW  - plant polyphenols
+KW  - surface modification
+PY  - 2019
+AB  - Abstract Plant derived flavonoids have not been well explored in tissue engineering applications due to difficulties in efficient formulations with biomaterials for controlled presentation. Here, the authors report that surface coating of epigallocatechin gallate (EGCG) on polymeric substrates including poly (L-lactic acid) (PLLA) nanofibers can be performed via oxidative polymerization of EGCG in the presence of cations, enabling regulation of biological functions of multiple cell types implicated in bone regeneration. EGCG coating on the PLLA nanofiber promotes osteogenic differentiation of adipose-derived stem cells (ADSCs) and is potent to suppress adipogenesis of ADSCs while significantly reduces osteoclastic maturation of murine macrophages. Moreover, EGCG coating serves as a protective layer for ADSCs against oxidative stress caused by hydrogen peroxide. Finally, the in vivo implantation of EGCG-coated nanofibers into a mouse calvarial defect model significantly promotes the bone regeneration (61.52 ± 28.10%) as compared to defect (17.48 ± 11.07%). Collectively, the results suggest that EGCG coating is a simple bioinspired surface modification of polymeric biomaterials and importantly can thus serve as a promising interface for tuning activities of multiple cell types associated with bone fracture healing.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Journal of Neurochemistry
+JA  - J. Neurochem.
+VL  - 142
+IS  - S2
+SN  - 9783527311842
+UR  - https://doi.org/10.1111/jnc.13925
+DO  - doi:10.1111/jnc.13925
+SP  - 188
+EP  - 225
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+TI  - Abstract
+JO  - Research and Practice in Thrombosis and Haemostasis
+JA  - Res Pract Thromb Haemost
+VL  - 2
+IS  - S1
+SN  - 9783527311842
+UR  - https://doi.org/10.1002/rth2.12125
+DO  - doi:10.1002/rth2.12125
+SP  - 1
+EP  - 368
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Siddiqui, Nadeem
+AU  - Pramanik, Krishna
+TI  - Development of fibrin conjugated chitosan/nano β-TCP composite scaffolds with improved cell supportive property for bone tissue regeneration
+JO  - Journal of Applied Polymer Science
+JA  - J. Appl. Polym. Sci.
+VL  - 132
+IS  - 9
+SN  - 9783527311842
+UR  - https://doi.org/10.1002/app.41534
+DO  - doi:10.1002/app.41534
+KW  - biocompatibility
+KW  - biodegradable
+KW  - biomaterials
+KW  - composites
+KW  - degradation
+PY  - 2015
+AB  - ABSTRACT In the present study, an attempt has been made to improve cell supportive property of chitosan/nano beta tri-calcium phosphate (?-TCP) composite scaffolds by modification of scaffold surface with fibrin using ethyl-3-(3-dimethylaminopropyl) carbodimide (EDC) as crosslinking agent. The developed fibrin conjugated chitosan/nano ?-TCP composite scaffolds possess desired pore size and porosity in the range of 45?151 µm and 81.4?±?4.1%, respectively. No significant change in compressive strength of scaffolds was observed before and after fibrin conjugation. The calculated compressive strength of fibrin conjugated and non-conjugated chitosan/nano ?-TCP scaffolds are 2.71?±?0.14 MPa and 2.67?±?0.11 MPa, respectively. Results of cell culture study have further shown an enhanced cell attachment, cell number, proliferation, differentiation, and mineralization on fibrin conjugated chitosan/nano ?-TCP scaffold. The uniform cell distribution over the scaffold surface and cell infiltration into the scaffold pores were assessed by confocal laser scanning microscopy. Furthermore, higher expression of osteogenic specific genes such as bone sialo protein, osteonectin, alkaline phosphatase, and osteocalcin (OC) on fibrin conjugated scaffolds was observed when compared to scaffolds without fibrin. Altogether, results indicate the potentiality of developed fibrin conjugated composite scaffolds for bone tissue engineering applications. ? 2014 Wiley Periodicals, Inc. J. Appl. Polym. Sci. 2015, 132, 41534.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts of the IPITA-IXA-CTS 2015 Joint Congress November 15–19, 2015, Melbourne, Australia
+JO  - Xenotransplantation
+JA  - Xenotransplantation
+VL  - 22
+IS  - S1
+SN  - 9783527311842
+UR  - https://doi.org/10.1111/xen.12206
+DO  - doi:10.1111/xen.12206
+SP  - S121
+EP  - S184
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+AU  - Drabik, Anna
+AU  - Bierczynska-Krzysik, Anna
+AU  - Bodzon-Kulakowska, Anna
+AU  - Suder, Piotr
+AU  - Kotlinska, Jolanta
+AU  - Silberring, Jerzy
+TI  - Proteomics in neurosciences
+JO  - Mass Spectrometry Reviews
+JA  - Mass Spectrom. Rev.
+VL  - 26
+IS  - 3
+SN  - 9783527311842
+UR  - https://doi.org/10.1002/mas.20131
+DO  - doi:10.1002/mas.20131
+SP  - 432
+EP  - 450
+KW  - neurodegenerative disorders
+KW  - cancer
+KW  - addiction
+KW  - sample preparation
+KW  - proteomic
+KW  - techniques
+PY  - 2007
+AB  - Abstract This review provides an outline of the most important proteomic applications in the study of neurodegenerative disorders including Alzheimer's (AD), Parkinson's (PD), Huntington's (HD), and prion diseases, and also discusses advances in cancer and addiction. One of the scopes is to illustrate the potential of proteomics in the biomarkers discovery of these diseases. Finally, this article comments the advantages and drawbacks of the most commonly used techniques and methods for samples preparation. ? 2007 Wiley Periodicals, Inc., Mass Spec Rev
+ER  - 
+
+TY  - JOUR
+AU  - Sestili, Piero
+AU  - Barbieri, Elena
+AU  - Martinelli, Chiara
+AU  - Battistelli, Michela
+AU  - Guescini, Michele
+AU  - Vallorani, Luciana
+AU  - Casadei, Lucia
+AU  - D'Emilio, Alessandra
+AU  - Falcieri, Elisabetta
+AU  - Piccoli, Giovanni
+AU  - Agostini, Deborah
+AU  - Annibalini, Giosuè
+AU  - Paolillo, Marco
+AU  - Gioacchini, Anna Maria
+AU  - Stocchi, Vilberto
+TI  - Creatine supplementation prevents the inhibition of myogenic differentiation in oxidatively injured C2C12 murine myoblasts
+JO  - Molecular Nutrition & Food Research
+JA  - Mol. Nutr. Food Res.
+VL  - 53
+IS  - 9
+SN  - 9783527311842
+UR  - https://doi.org/10.1002/mnfr.200800504
+DO  - doi:10.1002/mnfr.200800504
+SP  - 1187
+EP  - 1204
+KW  - Antioxidants
+KW  - Creatine
+KW  - Myogenesis
+KW  - Nutritional supplements
+KW  - Oxidative stress
+PY  - 2009
+AB  - Abstract Creatine (Cr), one of the most popular nutritional supplements among athletes, has been recently shown to prevent the cytotoxicity caused by different oxidative stressors in various mammalian cell lines, including C2C12 myoblasts, via a direct antioxidant activity. Here, the effect of Cr on the differentiating capacity of C2C12 cells exposed to H2O2 has been investigated. Differentiation into myotubes was monitored using morphological, ultrastructural, and molecular techniques. Treatment with H2O2 (1 h) not only caused a significant (30%) loss of cell viability, but also abrogated the myogenic ability of surviving C2C12. Cr-supplementation (24 h prior to H2O2 treatment) was found to prevent these effects. Interestingly, H2O2-challenged cells preconditioned with the established antioxidants trolox or N-acetyl-cysteine, although cytoprotected, did not display the same differentiating ability characterizing oxidatively-injured, Cr-supplemented cells. Besides acting as an antioxidant, Cr increased the level of muscle regulatory factors and IGF1 (an effect partly refractory to oxidative stress), the cellular availability of phosphocreatine and seemed to exert some mitochondrially-targeted protective activity. It is concluded that Cr preserves the myogenic ability of oxidatively injured C2C12 via a pleiotropic mechanism involving not only its antioxidant capacity, but also the contribution to cell energy charge and effects at the transcriptional level which common bona fide antioxidants lack.
+ER  - 

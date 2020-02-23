@@ -1,0 +1,433 @@
+
+TY  - JOUR
+TI  - 一般演題（ポスター）
+JO  - Nihon Kyukyu Igakukai Zasshi: Journal of Japanese Association for Acute Medicine
+JA  - Nihon Kyukyu Igakukai Zasshi: Japanese Journal of Japanese Association for Acute Medicine
+VL  - 28
+IS  - 9
+SN  - 1883-3772
+UR  - https://doi.org/10.1002/jja2.12265
+DO  - doi:10.1002/jja2.12265
+SP  - 623
+EP  - 736
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+TI  - 一般演題（口演）
+JO  - Nihon Kyukyu Igakukai Zasshi: Journal of Japanese Association for Acute Medicine
+JA  - Nihon Kyukyu Igakukai Zasshi: Japanese Journal of Japanese Association for Acute Medicine
+VL  - 27
+IS  - 9
+SN  - 1883-3772
+UR  - https://doi.org/10.1002/jja2.12147
+DO  - doi:10.1002/jja2.12147
+SP  - 415
+EP  - 500
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+AU  - Hartung, Anke
+AU  - Sieber, Christina
+AU  - Knaus, Petra
+TI  - Yin and Yang in BMP signaling: Impact on the pathology of diseases and potential for tissue regeneration
+JO  - Signal Transduction
+JA  - Signal Transduction
+VL  - 6
+IS  - 5
+SN  - 1615-4053
+UR  - https://doi.org/10.1002/sita.200600098
+DO  - doi:10.1002/sita.200600098
+SP  - 314
+EP  - 328
+KW  - BMP
+KW  - GDF
+KW  - BMP receptor
+KW  - Smad
+KW  - stem cells
+KW  - tissue regeneration
+PY  - 2006
+AB  - Abstract Bone morphogenetic proteins (BMPs) are multi-functional growth factors belonging to the transforming growth factor ? (TGF?) superfamily. BMPs are expressed in a large variety of tissues and organs, where they exhibit pleiotropic functions during development as well as in the adult organism. Thus maintenance of the BMP signaling pathways requires strict control and regulation by antagonists, co-receptors and inhibitors. BMPs exert their signals by binding to hetero-oligomeric signaling complexes composed of type I and type II receptors with serine/threonine kinase activity. They play a decisive role in the development of several diseases but are also involved in self-renewal of stem cells and tissue regeneration. These insights may lead to the design of future therapeutic treatments. This review focuses on the differential BMP signaling pathways initiated at distinct oligomerized signaling complexes as well as on the pathological aspects of BMP signaling in diseases and their potential for tissue regeneration.
+ER  - 
+
+TY  - JOUR
+AU  - Harris, Scott M
+AU  - Zhang, Lijuan
+AU  - Parente, Jody
+AU  - Rodeheaver, George T.
+AU  - Falla, Timothy J.
+TI  - 111 HB-50: A Pre-Clinical Study of a Prophylactic for Wound Infection
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractde.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractde.x
+SP  - A29
+EP  - A29
+PY  - 2004
+AB  - Topical prophylaxis against wound infection by an agent that is active against multi-resistant bacteria does not generate resistance and is rapidly cidal would be of great clinical benefit. Peptides of the innate immune system have long been known to protect a wide range of organisms from attack by bacterial and fungal pathogens. Helix BioMedix Inc. has developed a short bioactive peptide antimicrobial modeled after these peptides. HB-50 is an amphipathic cationic alpha-helical peptide that has broad spectrum activity and is rapidly microbicidal. These attributes make HB-50 an ideal candidate for wound infection prophylaxis. In vitro studies have demonstrated HB-50 to be active against both gram-positive and gram-negative bacteria killing 5?7 log orders of bacteria within minutes. In addition, this peptide has potent activity against Vancomycin and Mupirocin resistant S. aureus. Preliminary testing of the peptide in a rat abraded skin infection model has shown the peptide?s effectiveness in preventing wound infection while not inhibiting wound healing. Additionally, the HB-50 sequence has been specifically developed to be cost effective to manufacture and therefore is well suited for use as a topical antimicrobial agent.
+ER  - 
+
+AU  - Rees, Jeremy
+AU  - Bradford, Robert
+AU  - Brandner, Sebastian
+AU  - Fersht, Naomi
+AU  - Jäger, Rolf
+AU  - Wilson, Elena
+C7  - pp. 849-904
+TI  - Neuro-Oncology
+SN  - 9781118486177
+UR  - https://doi.org/10.1002/9781118486160.ch21
+DO  - doi:10.1002/9781118486160.ch21
+SP  - 849-904
+KW  - brain tumours
+KW  - cancer
+KW  - central nervous system tumours
+KW  - chemotherapy
+KW  - neuro-oncology
+KW  - neurological complications
+KW  - radiotherapy
+PY  - 2004
+AB  - Summary Neuro-oncology covers both the scientific and clinical aspects of central nervous system (CNS) tumours and neurological complications of cancer. Improvements in radiological and histological diagnosis and surgical technique, advances in molecular neuro-oncology, the application of new biological agents and increasing use of combined radiotherapy and chemotherapy for tumours such as gliomas have led to small but definite improvements in survival. This chapter provides a clinically dominated guide to the key issues in neuro-oncology. It reflects the highly specialised nature of disciplines within neuro-oncology. The chapter outlines the multi-disciplinary aspects of care on clinical management. Brain tumours include primary tumours arising from intracranial structures and metastases from outside the CNS. There are a number of other rarer tumours in childhood that often present with seizures and behave in a benign fashion. They are usually treated with surgery alone.
+ER  - 
+
+AU  - Mullin, Christine
+AU  - Clifford, Craig A.
+C7  - pp. 29-40
+TI  - Oncology for the Interventionalist
+SN  - 9781118378281
+UR  - https://doi.org/10.1002/9781118910924.ch3
+DO  - doi:10.1002/9781118910924.ch3
+SP  - 29-40
+KW  - chemotherapy
+KW  - interventional oncology (IO)
+KW  - radiation therapy (RT)
+KW  - tumor response assessment criteria
+KW  - tumor staging systems
+KW  - tyrosine kinase inhibitors
+PY  - 2004
+AB  - Summary This chapter provides the interventional oncology (IO) clinician with the basics of veterinary oncology in regards to the current tumor staging systems for relevant tumors. The most common staging system is the World Health Organization (WHO) TNM staging system. Specifically this is based on the size and/or extent of the primary tumor (T), presence or absence of lymph node involvement (N), and whether metastasis (M), has occurred. The chapter presents an understanding of the chemotherapy basics, including commonly used drugs, proper administration, disposal, toxicities and their associated grading schemes, and the basics of radiation therapy (RT). RT may be used in the adjuvant or neoadjuvant setting, as well as a single modality or concurrently to chemotherapy. The chapter also provides an introduction to tyrosine kinase inhibitors and their expanding use in veterinary medicine, and standard criteria for defining responses in an effort to further standardize studies that evaluate cancer therapies.
+ER  - 
+
+TY  - JOUR
+AU  - Muroma-Karttunen, Riitta
+C7  - 21264
+TI  - ALMOST ANYONE CAN HAVE HOME THERAPY BUT CAN WE OVERCOME THE BARRIERS?
+JO  - Journal of the International AIDS Society
+JA  - Journal of Renal Care
+VL  - 19
+IS  - 6S5
+SN  - 9781118378281
+UR  - https://doi.org/10.7448/IAS.19.6.21264
+DO  - doi:10.7448/IAS.19.6.21264
+SP  - 21264
+KW  - Home haemodialysis
+KW  - Multi-professional team
+KW  - Pre-dialysis education
+PY  - 2016
+AB  - SUMMARY Background Home dialysis, including both peritoneal and haemodialysis, has been shown to improve patient wellbeing as well as being an economically beneficial alternative to hospital-based therapies. Objectives This paper discusses the major barriers to home therapies, particularly in relation to home haemodialysis (HHD) and systems that can be used to overcome them. Results The use of HHD varies considerably between and within countries. The major limitation is lack of experience and education. A well-planned pre-dialysis education programme seems to be one essential key to the growth of home therapies. Conclusions Key points in providing a successful home therapy programme are a highly motivated multidisciplinary team including a dedicated nephrologist and high-level nursing expertise. In addition, an effective pre-dialysis education programme for identifying suitable patients is required.
+ER  - 
+
+TY  - JOUR
+AU  - Yamakawa, Michael
+AU  - Doh, Susan J.
+AU  - Santosa, Samuel M.
+AU  - Montana, Mario
+AU  - Qin, Ellen C.
+AU  - Kong, Hyunjoon
+AU  - Han, Kyu-Yeon
+AU  - Yu, Charles
+AU  - Rosenblatt, Mark I.
+AU  - Kazlauskas, Andrius
+AU  - Chang, Jin-Hong
+AU  - Azar, Dimitri T.
+TI  - Potential lymphangiogenesis therapies: Learning from current antiangiogenesis therapies—A review
+JO  - Journal of Renal Care
+JA  - Med Res Rev
+VL  - 39
+IS  - S1
+SN  - 9781118378281
+UR  - https://doi.org/10.1111/j.1755-6686.2013.00331.x
+DO  - doi:10.1111/j.1755-6686.2013.00331.x
+SP  - 22
+EP  - 27
+KW  - angiogenesis
+KW  - lymphangiogenesis
+PY  - 2013
+AB  - Abstract In recent years, lymphangiogenesis, the process of lymphatic vessel formation from existing lymph vessels, has been demonstrated to have a significant role in diverse pathologies, including cancer metastasis, organ graft rejection, and lymphedema. Our understanding of the mechanisms of lymphangiogenesis has advanced on the heels of studies demonstrating vascular endothelial growth factor C as a central pro-lymphangiogenic regulator and others identifying multiple lymphatic endothelial biomarkers. Despite these breakthroughs and a growing appreciation of the signaling events that govern the lymphangiogenic process, there are no FDA-approved drugs that target lymphangiogenesis. In this review, we reflect on the lessons available from the development of antiangiogenic therapies (26 FDA-approved drugs to date), review current lymphangiogenesis research including nanotechnology in therapeutic drug delivery and imaging, and discuss molecules in the lymphangiogenic pathway that are promising therapeutic targets.
+ER  - 
+
+TY  - JOUR
+AU  - Morales-Vidal, Sarkis
+AU  - Biller, José
+TI  - Stroke due to Systemic Diseases
+JO  - Medicinal Research Reviews
+JA  - Lewis/Neurological Disorders due to Systemic Disease
+VL  - 38
+IS  - 6
+SN  - 9781118378281
+UR  - https://doi.org/10.1002/med.21496
+DO  - doi:10.1002/med.21496
+SP  - 1769
+EP  - 1798
+KW  - Stroke
+KW  - Cerebrovascular disease
+KW  - Ischemic stroke
+KW  - Cerebral Venous Sinus Thrombosis
+KW  - Intracerebral hemorrhage
+KW  - Subarachnoid hemorrhage
+KW  - Vasculitides
+PY  - 2018
+AB  - Summary A wide array of systemic diseases increase stroke risk. This chapter reviews strokes due to endocrine disorders, electrolyte derangements, autoimmune disorders, single or multi-organ failure, neoplasias, paraneoplastic disorders, systemic infections, complications of organ transplantation, complications of critical medical illnesses, and a variety of drugs.
+ER  - 
+
+AU  - Parikh, Sahil A.
+AU  - Shishehbor, Mehdi H.
+AU  - Gray, Bruce H.
+AU  - White, Christopher J.
+AU  - Jaff, Michael R.
+C7  - pp. 77-106
+TI  - SCAI expert consensus statement for renal artery stenting appropriate use
+SN  - 9781444335576
+UR  - https://doi.org/10.1002/9781118414019.ch5
+DO  - doi:10.1002/9781118414019.ch5
+SP  - 77-106
+KW  - renovascular hypertension
+KW  - renal artery stenosis
+KW  - stent
+PY  - 2018
+AB  - The pathophysiology of atherosclerotic renal artery stenosis (RAS) includes activation of the renin-angiotensin-aldosterone axis with resultant renovascular hypertension. Renal artery stenting has emerged as the primary revascularization strategy in most patients with hemodynamically significant atherosclerotic RAS. Despite the frequency with which hemodynamically significant RAS is observed and high rates of technical success of renal artery stenting, there remains considerable debate among experts regarding the role of medical therapy versus revascularization for renovascular hypertension. Modern, prospective, multicenter registries continue to demonstrate improvement in systolic and diastolic blood pressure with excellent safety profiles in patients with RAS. Modern randomized, controlled clinical trials of optimal medical therapy versus renal stenting particularly designed to demonstrate preservation in renal function after renal artery stenting have demonstrated limited benefit. However, these trials frequently excluded patients that may benefit from renal artery stenting. This document was developed to guide physicians in the modern practical application of renal stenting, to highlight the current limitations in the peer-reviewed literature, to suggest best-practices in the performance of renal stenting and to identify opportunities to advance the field. ? 2014 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Beg, Sarwar
+AU  - Rizwan, Mohammad
+AU  - Sheikh, Asif M.
+AU  - Hasnain, M. Saquib
+AU  - Anwer, Khalid
+AU  - Kohli, Kanchan
+TI  - Advancement in carbon nanotubes: basics, biomedical applications and toxicity
+JO  - Catheterization and Cardiovascular Interventions
+VL  - 84
+IS  - 7
+SN  - 9781444335576
+UR  - https://doi.org/10.1002/ccd.25559
+DO  - doi:10.1002/ccd.25559
+SP  - 1163
+EP  - 1171
+KW  - biomedical application
+KW  - carbon nanotubes
+KW  - nanocarrier
+KW  - nanomedicine
+KW  - targeted drug delivery
+PY  - 2014
+AB  - Abstract Objectives? Carbon nanotubes (CNTs) have attracted much attention by researchers worldwide in recent years for their small dimensions and unique architecture, and for having immense potential in nanomedicine as biocompatible and supportive substrates, as a novel tool for the delivery of therapeutic molecules including peptides, RNA and DNA, and also as sensors, actuators and composites. Key findings? CNTs have been employed in the development of molecular electronic, composite materials and others due to their unique atomic structure, high surface area-to-volume ratio and excellent electronic, mechanical and thermal properties. Recently they have been exploited as novel nanocarriers in drug delivery systems and biomedical applications. Their larger inner volume as compared with the dimensions of the tube and easy immobilization of their outer surface with biocompatible materials make CNTs a superior nanomaterial for drug delivery. Literature reveals that CNTs are versatile carriers for controlled and targeted drug delivery, especially for cancer cells, because of their cell membrane penetrability. Summary? This review enlightens the biomedical application of CNTs with special emphasis on utilization in controlled and targeted drug delivery, as a diagnostics tool and other possible uses in therapeutic systems. The review also focuses on the toxicity aspects of CNTs, and revealed that genotoxic potential, mutagenic and carcinogenic effects of different types of CNTs must be explored and overcome by formulating safe biomaterial for drug delivery. The review also describes the regulatory aspects and clinical and market status of CNTs.
+ER  - 
+
+TY  - JOUR
+AU  - Chopra, V.
+AU  - Kaatz, S.
+AU  - Conlon, A.
+AU  - Paje, D.
+AU  - Grant, P. J.
+AU  - Rogers, M. A. M.
+AU  - Bernstein, S. J.
+AU  - Saint, S.
+AU  - Flanders, S. A.
+TI  - The Michigan Risk Score to predict peripherally inserted central catheter-associated thrombosis
+JO  - Journal of Pharmacy and Pharmacology
+JA  - J Thromb Haemost
+VL  - 63
+IS  - 2
+SN  - 9781444335576
+UR  - https://doi.org/10.1111/j.2042-7158.2010.01167.x
+DO  - doi:10.1111/j.2042-7158.2010.01167.x
+SP  - 141
+EP  - 163
+KW  - deep vein thrombosis
+KW  - peripherally inserted central catheter
+KW  - thrombosis
+KW  - upper extremity
+KW  - venous thromboembolism
+PY  - 2011
+AB  - Essentials How best to quantify thrombosis risk with peripherally inserted central catheters (PICC) is unknown. Data from a registry were used to develop the Michigan Risk Score (MRS) for PICC thrombosis. Five risk factors were associated with PICC thrombosis and used to develop a risk score. MRS was predictive of the risk of PICC thrombosis and can be useful in clinical practice. Summary Background Peripherally inserted central catheters (PICCs) are associated with upper extremity deep vein thrombosis (DVT). We developed a score to predict risk of PICC-related thrombosis. Methods Using data from the Michigan Hospital Medicine Safety Consortium, image-confirmed upper-extremity DVT cases were identified. A logistic, mixed-effects model with hospital-specific random intercepts was used to identify factors associated with PICC-DVT. Points were assigned to each predictor, stratifying patients into four classes of risk. Internal validation was performed by bootstrapping with assessment of calibration and discrimination of the model. Results Of 23 010 patients who received PICCs, 475 (2.1%) developed symptomatic PICC-DVT. Risk factors associated with PICC-DVT included: history of DVT; multi-lumen PICC; active cancer; presence of another CVC when the PICC was placed; and white blood cell count greater than 12 000. Four risk classes were created based on thrombosis risk. Thrombosis rates were 0.9% for class I, 1.6% for class II, 2.7% for class III and 4.7% for class IV, with marginal predicted probabilities of 0.9% (0.7, 1.2), 1.5% (1.2, 1.9), 2.6% (2.2, 3.0) and 4.5% (3.7, 5.4) for classes I, II, III, and IV, respectively. The risk classification rule was strongly associated with PICC-DVT, with odds ratios of 1.68 (95% CI, 1.19, 2.37), 2.90 (95% CI, 2.09, 4.01) and 5.20 (95% CI, 3.65, 7.42) for risk classes II, III and IV vs. risk class I, respectively. Conclusion The Michigan PICC-DVT Risk Score offers a novel way to estimate risk of DVT associated with PICCs and can help inform appropriateness of PICC insertion.
+ER  - 
+
+TY  - JOUR
+AU  - Dang, Howard
+AU  - Elliott, James J.
+AU  - Lin, Alan L.
+AU  - Zhu, Bing
+AU  - Katz, Michael S.
+AU  - Yeh, Chih-Ko
+TI  - Mitogen-activated protein kinase up-regulation and activation during rat parotid gland atrophy and regeneration: role of epidermal growth factor and β2-adrenergic receptors
+JO  - Journal of Thrombosis and Haemostasis
+VL  - 15
+IS  - 10
+SN  - 9781444335576
+UR  - https://doi.org/10.1111/jth.13794
+DO  - doi:10.1111/jth.13794
+SP  - 1951
+EP  - 1962
+KW  - salivary gland
+KW  - extracellular signal-regulated kinase
+KW  - p38
+KW  - tissue regeneration
+PY  - 2017
+AB  - Abstract The rat secretory ductal obstruction model has been widely used to assess salivary gland injury, growth, and differentiation. In this study, a novel ductal obstruction and release procedure was used to explore the signaling pathways leading to salivary gland regeneration. Rats underwent bilateral parotid ductal obstruction in which the duct was occluded against a plastic disk subcutaneously and released by external ligature removal. This ductal obstruction/release procedure was validated to produce glandular atrophy and regeneration with histological analysis and periodic acid-Schiff staining. Immunoblot analysis indicated that during ductal obstruction and the early post-release period (day 7), expression of immunoreactive proliferating cell nuclear antigen and vimentin was increased in the parotid glands compared with sham-operated animals. Immunohistochemical staining and immunoblots revealed up-regulation of the mitogen-activated protein kinases (MAPKs), extracellular signal-regulated receptor kinase (ERK)1/2, and p38 during the atrophic and regeneration phases of ductal obstruction/release. Similarly, increases in activated, i.e., phosphorylated, ERK1/2 (pERK1/2) and p38 (phospho-p38) were demonstrable in both ductal and recovering acinar cells, with pERKs expressed predominantly in the nuclei and phospho-p38 distributed throughout the cells. Furthermore, levels of epidermal growth factor (EGF) receptor and ?2-adrenergic receptor (?2-AR) were elevated in the ligated glands and at day 7 post-release; ?1-AR levels did not change over the same time period. These results support the view that cell proliferation is involved in duct ligation-induced atrophy of the rat parotid gland and gland recovery upon ligature removal. Up-regulation of ERKs and p38, and the activation of these MAPKs by up-regulated EGF and ?2-ARs, may be important signaling components underlying glandular atrophy and subsequent regeneration.
+ER  - 
+
+TY  - JOUR
+AU  - Killick, D. R.
+AU  - Stell, A. J.
+AU  - Catchpole, B.
+TI  - Immunotherapy for canine cancer – Is it time to go back to the future?
+JO  - Differentiation
+JA  - J Small Anim Pract
+VL  - 76
+IS  - 5
+SN  - 9781444335576
+UR  - https://doi.org/10.1111/j.1432-0436.2007.00251.x
+DO  - doi:10.1111/j.1432-0436.2007.00251.x
+SP  - 546
+EP  - 557
+PY  - 2008
+AB  - Over the last 50 years, the significance of the immune system in the development and control of cancer has been much debated. However, recent discoveries provide evidence for a role of immunological mechanisms in the detection and destruction of cancer cells. Forty years ago veterinary oncologists were already investigating the feasibility of treating neoplasia by enhancing anticancer immunity. Unfortunately, this research was hindered by lack of a detailed understanding of cancer immunology, this limited the specificity and success of these early approaches. The great forward strides made in our understanding of onco-immunology in recent years have provided the impetus for a resurgence of interest in anticancer immunotherapy for canine patients. In this article both these initial trials and the exciting novel immunotherapeutics currently in development are reviewed.
+ER  - 
+
+TY  - JOUR
+AU  - Dahm, Anders E. A.
+AU  - Bezemer, Irene D.
+AU  - Bergrem, Astrid
+AU  - Jacobsen, Anne F.
+AU  - Jacobsen, Eva M.
+AU  - Skretting, Grethe
+AU  - Rosendaal, Frits R.
+AU  - Sandset, Per Morten
+TI  - Candidate gene polymorphisms and the risk for pregnancy-related venous thrombosis
+JO  - Journal of Small Animal Practice
+JA  - Br J Haematol
+VL  - 56
+IS  - 4
+SN  - 9781444335576
+UR  - https://doi.org/10.1111/jsap.12336
+DO  - doi:10.1111/jsap.12336
+SP  - 229
+EP  - 241
+KW  - pregnancy
+KW  - venous thrombosis
+KW  - single nucleotide polymorphisms
+KW  - epidemiology
+PY  - 2015
+AB  - Summary Venous thrombosis (VT) is one of the leading causes of maternal death in the western world, but the genetic causes of pregnancy-related VT are insufficiently understood. The aim of this study was to investigate the association between common genetic variations in candidate genes and pregnancy-related VT. We undertook a hospital based case?control study of women with VT during pregnancy or puerperium; controls were women giving birth without having VT. Single nucleotide polymorphisms (SNPs) were selected in 49 pre-specified candidate genes involved in coagulation, inflammation, and hormonal metabolism in 313 cases and 353 controls. We found new associations between SNPs and total pregnancy-related VT in the genes encoding coagulation factors V and VIII, and p-selectin. Additional new associations between SNPs and antenatal VT were found in the genes encoding the epidermal growth factor receptor, the pregnane X receptor, and protein S. Of 21 SNPs previously associated with thrombotic disease, rs2289252 in F11 and rs3917643 in F3 were associated with pregnancy-related VT, while rs4524 in F5 was associated with antenatal VT.
+ER  - 
+
+TY  - JOUR
+AU  - Okada, Yasunobu
+AU  - Sato, Kaori
+AU  - Numata, Tomohiro
+TI  - Pathophysiology and puzzles of the volume-sensitive outwardly rectifying anion channel
+JO  - British Journal of Haematology
+VL  - 157
+IS  - 6
+SN  - 9781444335576
+UR  - https://doi.org/10.1111/j.1365-2141.2012.09121.x
+DO  - doi:10.1111/j.1365-2141.2012.09121.x
+SP  - 753
+EP  - 761
+PY  - 2012
+AB  - Cell swelling activates or upregulates a number of anion channels. Of the volume-activated or -regulated anion channels (VAACs or VRACs), the volume-sensitive outwardly rectifying anion channel (VSOR) is most prominently activated and ubiquitously expressed. This channel is known to be involved in a variety of physiological processes including cell volume regulation, cell proliferation, differentiation and cell migration as well as cell turnover involving apoptosis. Recent studies have shown that VSOR activity is also involved in a number of pathophysiological processes including the acquisition of cisplatin resistance by cancer cells, ischaemia?reperfusion-induced death of cardiomyocytes and hippocampal neurons, glial necrosis under lactacidosis as well as neuronal necrosis under excitotoxicity. Moreover, VSOR serves as the pathway for glutamate release from astrocytes under ischaemic conditions and when stimulated by bradykinin, an initial mediator of inflammation. So far, many signalling molecules including the EGF receptor, PI3K, Src, PLC? and Rho/Rho kinase have been implicated in the regulation of VSOR activity. However, our pharmacological studies suggest that these signals are not essential components of the swelling-induced VSOR activation mechanism even though some of these signals may play permissive or modulatory roles. Molecular identification of VSOR is required to address the question of how cells sense volume expansion and activate VSOR.
+ER  - 
+
+TY  - JOUR
+AU  - Jiang, Yamei
+AU  - Song, Turun
+AU  - Liu, Jinpeng
+AU  - Wang, Zhiling
+AU  - Wang, Xianding
+AU  - Huang, Zhongli
+AU  - Fan, Yu
+AU  - Lin, Tao
+TI  - Single kidney transplantation from donors with acute kidney injury: A single-center experience
+JO  - The Journal of Physiology
+JA  - Pediatr Transplant
+VL  - 587
+IS  - 10
+SN  - 9781444335576
+UR  - https://doi.org/10.1113/jphysiol.2008.165076
+DO  - doi:10.1113/jphysiol.2008.165076
+SP  - 2141
+EP  - 2149
+KW  - acute kidney injury
+KW  - pediatric donors
+KW  - single kidney transplantation
+PY  - 2009
+AB  - Abstract Introduction Despite a severe shortage of organ supply, patients are reluctant to accept organs from deceased donors with AKI, let alone from pediatric AKI donors. Methods We assessed 70 patients who received kidneys from donors with AKI (10 with pediatric and 60 with adult donors) and 176 contemporaneous patients who received kidneys from non-AKI donors (41 with pediatric and 135 with adult donors) between March 2012 and February 2017 for retrospectively evaluating the clinical outcomes. Results AKI was defined and staging by the RIFLE criteria and pediatric-modified RIFLE criteria. Median age was 11.00 years IQR (4.50-14.00 years), and median weight was 25.00 kg (IQR, 17.00-45.00 kg) for all pediatric donors. Median follow-up was 8 months (range, 1-49 months). Adult AKI group had the highest incidence of DGF (35.0% vs 10%, 9.8%, and 19.3%, P = 0.011). There was a significant increase in DGF in higher AKI stages (Risk: 20.7%, Injury: 46.7%, Failure: 50.0%; P = 0.014) among patients with adult donors. No significant differences were noted in 1-year (100.0%, 95.1%, 98.3%, and 97.8%; P = 0.751) and 3-year (100.0%, 95.1%, 98.3%, and 97.8%; P = 0.751) patient survival, and 1-year (90.0%, 97.6%, 98.3%, and 95.6%; P = 0.535) and 3-year (90.0%, 97.6%, 98.3%, and 95.6%; P = 0.535) graft survival. Conclusion Transplants procured from donors with AKI, particularly pediatric ones, could achieve excellent intermediate-term clinical outcomes and thus potentially expand the donor pool.
+ER  - 
+
+TY  - JOUR
+AU  - Kramann, Rafael
+AU  - DiRocco, Derek P
+AU  - Humphreys, Benjamin D
+C7  - e13326
+TI  - Understanding the origin, activation and regulation of matrix-producing myofibroblasts for treatment of fibrotic disease
+JO  - Pediatric Transplantation
+JA  - J. Pathol.
+VL  - 23
+IS  - 3
+SN  - 9781444335576
+UR  - https://doi.org/10.1111/petr.13326
+DO  - doi:10.1111/petr.13326
+SP  - e13326
+KW  - pericyte
+KW  - myofibroblast
+KW  - fibrosis
+KW  - interstitium
+PY  - 2019
+AB  - Abstract Fibrosis and scar formation results from chronic progressive injury in virtually every tissue and affects a growing number of people around the world. Myofibroblasts drive fibrosis, and recent work has demonstrated that mesenchymal cells, including pericytes and perivascular fibroblasts, are their main progenitors. Understanding the cellular mechanisms of pericyte/fibroblast-to-myofibroblast transition, myofibroblast proliferation and the key signalling pathways that regulate these processes is essential to develop novel targeted therapeutics for the growing patient population suffering from solid organ fibrosis. In this review, we summarize the current knowledge about different progenitor cells of myofibroblasts, discuss major pathways that regulate their transdifferentiation and discuss the current status of novel targeted anti-fibrotic therapeutics in development. Copyright ? 2013 Pathological Society of Great Britain and Ireland. Published by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Vellanki, Priyathama
+AU  - Rasouli, Neda
+AU  - Baldwin, David
+AU  - Alexanian, Sara
+AU  - Anzola, Isabel
+AU  - Urrutia, Maria
+AU  - Cardona, Saumeth
+AU  - Peng, Limin
+AU  - Pasquel, Francisco J.
+AU  - Umpierrez, Guillermo E.
+AU  - Linagliptin Inpatient Research Group
+TI  - Glycaemic efficacy and safety of linagliptin compared to a basal-bolus insulin regimen in patients with type 2 diabetes undergoing non-cardiac surgery: A multicentre randomized clinical trial
+JO  - The Journal of Pathology
+JA  - Diabetes Obes Metab
+VL  - 231
+IS  - 3
+SN  - 9781444335576
+UR  - https://doi.org/10.1002/path.4253
+DO  - doi:10.1002/path.4253
+SP  - 273
+EP  - 289
+KW  - DPP-IV inhibitor
+KW  - glycaemic control
+KW  - incretin therapy
+KW  - randomised trial
+PY  - 2013
+AB  - Aims The use of incretin-based therapy, rather than or complementary to, insulin therapy is an active area of research in hospitalized patients with type 2 diabetes (T2D). We determined the glycaemic efficacy and safety of linagliptin compared to a basal-bolus insulin regimen in hospitalized surgical patients with T2D. Materials and Methods This prospective open-label multicentre study randomized T2D patients undergoing non-cardiac surgery with admission blood glucose (BG) of 7.8 to 22.2 mmol/L who were under treatment with diet, oral agents or total insulin dose (TDD) ≤ 0.5 units/kg/day to either linagliptin (n = 128) daily or basal-bolus (n = 122) with glargine once daily and rapid-acting insulin before meals. Both groups received supplemental insulin for BG > 7.8 mmol/L. The primary endpoint was difference in mean daily BG between groups. Results Mean daily BG was higher in the linagliptin group compared to the basal-bolus group (9.5 ± 2.6 vs 8.8 ± 2.3 mmol/L/dL, P = 0.03) with a mean daily BG difference of 0.6 mmol/L (95% confidence interval 0.04, 1.2). In patients with randomization BG < 11.1 mmol/L (63% of cohort), mean daily BG was similar in the linagliptin and basal-bolus groups (8.9 ± 2.3 vs 8.7 ± 2.3 mmol/L, P = 0.43); however, patients with BG ≥ 11.1 mmol/L who were treated with linagliptin had higher BG compared to the basal-bolus group (10.9 ± 2.6 vs 9.2 ± 2.2 mmol/L, P < 0.001). Linagliptin resulted in fewer hypoglycaemic events (1.6% vs 11%, P = 0.001; 86% relative risk reduction), with similar supplemental insulin and fewer daily insulin injections (2.0 ± 3.3 vs 3.1 ± 3.3, P < 0.001) compared to the basal-bolus group. Conclusions For patients with T2D undergoing non-cardiac surgery who presented with mild to moderate hyperglycaemia (BG < 11.1 mmol/L), daily linagliptin is a safe and effective alternative to multi-dose insulin therapy, resulting in similar glucose control with lower hypoglycaemia.
+ER  - 
+
+TY  - JOUR
+TI  - Glycaemic efficacy and safety of linagliptin compared to a basal‐bolus insulin regimen in patients with type 2 diabetes undergoing non‐cardiac surgery: A multicentre randomized clinical trial
+JO  - Diabetes, Obesity and Metabolism
+VL  - 21
+IS  - 4
+SN  - 9781444335576
+UR  - https://doi.org/10.1111/dom.13587
+DO  - doi:10.1111/dom.13587
+SP  - 837
+EP  - 843
+PY  - 2019
+ER  - 

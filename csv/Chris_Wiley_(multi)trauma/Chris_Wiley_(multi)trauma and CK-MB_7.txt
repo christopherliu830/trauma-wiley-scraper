@@ -1,0 +1,790 @@
+
+TY  - JOUR
+AU  - Mehta, D.
+AU  - Bruenig, D.
+AU  - Carrillo-Roa, T.
+AU  - Lawford, B.
+AU  - Harvey, W.
+AU  - Morris, C. P.
+AU  - Smith, A. K.
+AU  - Binder, E. B.
+AU  - Young, R. McD
+AU  - Voisey, J.
+TI  - Genomewide DNA methylation analysis in combat veterans reveals a novel locus for PTSD
+JO  - Acta Psychiatrica Scandinavica
+JA  - Acta Psychiatr Scand
+VL  - 136
+IS  - 5
+SN  - 0001-690X
+UR  - https://doi.org/10.1111/acps.12778
+DO  - doi:10.1111/acps.12778
+SP  - 493
+EP  - 505
+KW  - post-traumatic stress disorder
+KW  - stress
+KW  - trauma
+KW  - neuropsychiatry
+PY  - 2017
+AB  - Objective Epigenetic modifications such as DNA methylation may play a key role in the aetiology and serve as biomarkers for post-traumatic stress disorder (PTSD). We performed a genomewide analysis to identify genes whose DNA methylation levels are associated with PTSD. Method A total of 211 individuals comprising Australian male Vietnam War veterans (n = 96) and males from a general population belonging to the Grady Trauma Project (n = 115) were included. Genomewide DNA methylation was performed from peripheral blood using the Illumina arrays. Data analysis was performed using generalized linear regression models. Results Differential DNA methylation of 17 previously reported PTSD candidate genes was associated with PTSD symptom severity. Genomewide analyses revealed CpG sites spanning BRSK1, LCN8, NFG and DOCK2 genes were associated with PTSD symptom severity. We replicated the findings of DOCK2 in an independent cohort. Pathway analysis revealed that among the associated genes, genes within actin cytoskeleton and focal adhesion molecular pathways were enriched. Conclusion These data highlight the role of DNA methylation as biomarkers of PTSD. The results support the role of previous candidates and uncover novel genes associated with PTSD, such as DOCK2. This study contributes to our understanding of the biological underpinnings of PTSD.
+ER  - 
+
+TY  - JOUR
+AU  - Cossarizza, Andrea
+AU  - Chang, Hyun-Dong
+AU  - Radbruch, Andreas
+AU  - Acs, Andreas
+AU  - Adam, Dieter
+AU  - Adam-Klages, Sabine
+AU  - Agace, William W.
+AU  - Aghaeepour, Nima
+AU  - Akdis, Mübeccel
+AU  - Allez, Matthieu
+AU  - Almeida, Larissa Nogueira
+AU  - Alvisi, Giorgia
+AU  - Anderson, Graham
+AU  - Andrä, Immanuel
+AU  - Annunziato, Francesco
+AU  - Anselmo, Achille
+AU  - Bacher, Petra
+AU  - Baldari, Cosima T.
+AU  - Bari, Sudipto
+AU  - Barnaba, Vincenzo
+AU  - Barros-Martins, Joana
+AU  - Battistini, Luca
+AU  - Bauer, Wolfgang
+AU  - Baumgart, Sabine
+AU  - Baumgarth, Nicole
+AU  - Baumjohann, Dirk
+AU  - Baying, Bianka
+AU  - Bebawy, Mary
+AU  - Becher, Burkhard
+AU  - Beisker, Wolfgang
+AU  - Benes, Vladimir
+AU  - Beyaert, Rudi
+AU  - Blanco, Alfonso
+AU  - Boardman, Dominic A.
+AU  - Bogdan, Christian
+AU  - Borger, Jessica G.
+AU  - Borsellino, Giovanna
+AU  - Boulais, Philip E.
+AU  - Bradford, Jolene A.
+AU  - Brenner, Dirk
+AU  - Brinkman, Ryan R.
+AU  - Brooks, Anna E. S.
+AU  - Busch, Dirk H.
+AU  - Büscher, Martin
+AU  - Bushnell, Timothy P.
+AU  - Calzetti, Federica
+AU  - Cameron, Garth
+AU  - Cammarata, Ilenia
+AU  - Cao, Xuetao
+AU  - Cardell, Susanna L.
+AU  - Casola, Stefano
+AU  - Cassatella, Marco A.
+AU  - Cavani, Andrea
+AU  - Celada, Antonio
+AU  - Chatenoud, Lucienne
+AU  - Chattopadhyay, Pratip K.
+AU  - Chow, Sue
+AU  - Christakou, Eleni
+AU  - Čičin-Šain, Luka
+AU  - Clerici, Mario
+AU  - Colombo, Federico S.
+AU  - Cook, Laura
+AU  - Cooke, Anne
+AU  - Cooper, Andrea M.
+AU  - Corbett, Alexandra J.
+AU  - Cosma, Antonio
+AU  - Cosmi, Lorenzo
+AU  - Coulie, Pierre G.
+AU  - Cumano, Ana
+AU  - Cvetkovic, Ljiljana
+AU  - Dang, Van Duc
+AU  - Dang-Heine, Chantip
+AU  - Davey, Martin S.
+AU  - Davies, Derek
+AU  - De Biasi, Sara
+AU  - Del Zotto, Genny
+AU  - Dela Cruz, Gelo Victoriano
+AU  - Delacher, Michael
+AU  - Della Bella, Silvia
+AU  - Dellabona, Paolo
+AU  - Deniz, Günnur
+AU  - Dessing, Mark
+AU  - Di Santo, James P.
+AU  - Diefenbach, Andreas
+AU  - Dieli, Francesco
+AU  - Dolf, Andreas
+AU  - Dörner, Thomas
+AU  - Dress, Regine J.
+AU  - Dudziak, Diana
+AU  - Dustin, Michael
+AU  - Dutertre, Charles-Antoine
+AU  - Ebner, Friederike
+AU  - Eckle, Sidonia B. G.
+AU  - Edinger, Matthias
+AU  - Eede, Pascale
+AU  - Ehrhardt, Götz R.A.
+AU  - Eich, Marcus
+AU  - Engel, Pablo
+AU  - Engelhardt, Britta
+AU  - Erdei, Anna
+AU  - Esser, Charlotte
+AU  - Everts, Bart
+AU  - Evrard, Maximilien
+AU  - Falk, Christine S.
+AU  - Fehniger, Todd A.
+AU  - Felipo-Benavent, Mar
+AU  - Ferry, Helen
+AU  - Feuerer, Markus
+AU  - Filby, Andrew
+AU  - Filkor, Kata
+AU  - Fillatreau, Simon
+AU  - Follo, Marie
+AU  - Förster, Irmgard
+AU  - Foster, John
+AU  - Foulds, Gemma A.
+AU  - Frehse, Britta
+AU  - Frenette, Paul S.
+AU  - Frischbutter, Stefan
+AU  - Fritzsche, Wolfgang
+AU  - Galbraith, David W.
+AU  - Gangaev, Anastasia
+AU  - Garbi, Natalio
+AU  - Gaudilliere, Brice
+AU  - Gazzinelli, Ricardo T.
+AU  - Geginat, Jens
+AU  - Gerner, Wilhelm
+AU  - Gherardin, Nicholas A.
+AU  - Ghoreschi, Kamran
+AU  - Gibellini, Lara
+AU  - Ginhoux, Florent
+AU  - Goda, Keisuke
+AU  - Godfrey, Dale I.
+AU  - Goettlinger, Christoph
+AU  - González-Navajas, Jose M.
+AU  - Goodyear, Carl S.
+AU  - Gori, Andrea
+AU  - Grogan, Jane L.
+AU  - Grummitt, Daryl
+AU  - Grützkau, Andreas
+AU  - Haftmann, Claudia
+AU  - Hahn, Jonas
+AU  - Hammad, Hamida
+AU  - Hämmerling, Günter
+AU  - Hansmann, Leo
+AU  - Hansson, Goran
+AU  - Harpur, Christopher M.
+AU  - Hartmann, Susanne
+AU  - Hauser, Andrea
+AU  - Hauser, Anja E.
+AU  - Haviland, David L.
+AU  - Hedley, David
+AU  - Hernández, Daniela C.
+AU  - Herrera, Guadalupe
+AU  - Herrmann, Martin
+AU  - Hess, Christoph
+AU  - Höfer, Thomas
+AU  - Hoffmann, Petra
+AU  - Hogquist, Kristin
+AU  - Holland, Tristan
+AU  - Höllt, Thomas
+AU  - Holmdahl, Rikard
+AU  - Hombrink, Pleun
+AU  - Houston, Jessica P.
+AU  - Hoyer, Bimba F.
+AU  - Huang, Bo
+AU  - Huang, Fang-Ping
+AU  - Huber, Johanna E.
+AU  - Huehn, Jochen
+AU  - Hundemer, Michael
+AU  - Hunter, Christopher A.
+AU  - Hwang, William Y. K.
+AU  - Iannone, Anna
+AU  - Ingelfinger, Florian
+AU  - Ivison, Sabine M
+AU  - Jäck, Hans-Martin
+AU  - Jani, Peter K.
+AU  - Jávega, Beatriz
+AU  - Jonjic, Stipan
+AU  - Kaiser, Toralf
+AU  - Kalina, Tomas
+AU  - Kamradt, Thomas
+AU  - Kaufmann, Stefan H. E.
+AU  - Keller, Baerbel
+AU  - Ketelaars, Steven L. C.
+AU  - Khalilnezhad, Ahad
+AU  - Khan, Srijit
+AU  - Kisielow, Jan
+AU  - Klenerman, Paul
+AU  - Knopf, Jasmin
+AU  - Koay, Hui-Fern
+AU  - Kobow, Katja
+AU  - Kolls, Jay K.
+AU  - Kong, Wan Ting
+AU  - Kopf, Manfred
+AU  - Korn, Thomas
+AU  - Kriegsmann, Katharina
+AU  - Kristyanto, Hendy
+AU  - Kroneis, Thomas
+AU  - Krueger, Andreas
+AU  - Kühne, Jenny
+AU  - Kukat, Christian
+AU  - Kunkel, Désirée
+AU  - Kunze-Schumacher, Heike
+AU  - Kurosaki, Tomohiro
+AU  - Kurts, Christian
+AU  - Kvistborg, Pia
+AU  - Kwok, Immanuel
+AU  - Landry, Jonathan
+AU  - Lantz, Olivier
+AU  - Lanuti, Paola
+AU  - LaRosa, Francesca
+AU  - Lehuen, Agnès
+AU  - LeibundGut-Landmann, Salomé
+AU  - Leipold, Michael D.
+AU  - Leung, Leslie Y.T.
+AU  - Levings, Megan K.
+AU  - Lino, Andreia C.
+AU  - Liotta, Francesco
+AU  - Litwin, Virginia
+AU  - Liu, Yanling
+AU  - Ljunggren, Hans-Gustaf
+AU  - Lohoff, Michael
+AU  - Lombardi, Giovanna
+AU  - Lopez, Lilly
+AU  - López-Botet, Miguel
+AU  - Lovett-Racke, Amy E.
+AU  - Lubberts, Erik
+AU  - Luche, Herve
+AU  - Ludewig, Burkhard
+AU  - Lugli, Enrico
+AU  - Lunemann, Sebastian
+AU  - Maecker, Holden T.
+AU  - Maggi, Laura
+AU  - Maguire, Orla
+AU  - Mair, Florian
+AU  - Mair, Kerstin H.
+AU  - Mantovani, Alberto
+AU  - Manz, Rudolf A.
+AU  - Marshall, Aaron J.
+AU  - Martínez-Romero, Alicia
+AU  - Martrus, Glòria
+AU  - Marventano, Ivana
+AU  - Maslinski, Wlodzimierz
+AU  - Matarese, Giuseppe
+AU  - Mattioli, Anna Vittoria
+AU  - Maueröder, Christian
+AU  - Mazzoni, Alessio
+AU  - McCluskey, James
+AU  - McGrath, Mairi
+AU  - McGuire, Helen M.
+AU  - McInnes, Iain B.
+AU  - Mei, Henrik E.
+AU  - Melchers, Fritz
+AU  - Melzer, Susanne
+AU  - Mielenz, Dirk
+AU  - Miller, Stephen D.
+AU  - Mills, Kingston H.G.
+AU  - Minderman, Hans
+AU  - Mjösberg, Jenny
+AU  - Moore, Jonni
+AU  - Moran, Barry
+AU  - Moretta, Lorenzo
+AU  - Mosmann, Tim R.
+AU  - Müller, Susann
+AU  - Multhoff, Gabriele
+AU  - Muñoz, Luis Enrique
+AU  - Münz, Christian
+AU  - Nakayama, Toshinori
+AU  - Nasi, Milena
+AU  - Neumann, Katrin
+AU  - Ng, Lai Guan
+AU  - Niedobitek, Antonia
+AU  - Nourshargh, Sussan
+AU  - Núñez, Gabriel
+AU  - O'Connor, José-Enrique
+AU  - Ochel, Aaron
+AU  - Oja, Anna
+AU  - Ordonez, Diana
+AU  - Orfao, Alberto
+AU  - Orlowski-Oliver, Eva
+AU  - Ouyang, Wenjun
+AU  - Oxenius, Annette
+AU  - Palankar, Raghavendra
+AU  - Panse, Isabel
+AU  - Pattanapanyasat, Kovit
+AU  - Paulsen, Malte
+AU  - Pavlinic, Dinko
+AU  - Penter, Livius
+AU  - Peterson, Pärt
+AU  - Peth, Christian
+AU  - Petriz, Jordi
+AU  - Piancone, Federica
+AU  - Pickl, Winfried F.
+AU  - Piconese, Silvia
+AU  - Pinti, Marcello
+AU  - Pockley, A. Graham
+AU  - Podolska, Malgorzata Justyna
+AU  - Poon, Zhiyong
+AU  - Pracht, Katharina
+AU  - Prinz, Immo
+AU  - Pucillo, Carlo E. M.
+AU  - Quataert, Sally A.
+AU  - Quatrini, Linda
+AU  - Quinn, Kylie M.
+AU  - Radbruch, Helena
+AU  - Radstake, Tim R. D. J.
+AU  - Rahmig, Susann
+AU  - Rahn, Hans-Peter
+AU  - Rajwa, Bartek
+AU  - Ravichandran, Gevitha
+AU  - Raz, Yotam
+AU  - Rebhahn, Jonathan A.
+AU  - Recktenwald, Diether
+AU  - Reimer, Dorothea
+AU  - Reis e Sousa, Caetano
+AU  - Remmerswaal, Ester B.M.
+AU  - Richter, Lisa
+AU  - Rico, Laura G.
+AU  - Riddell, Andy
+AU  - Rieger, Aja M.
+AU  - Robinson, J. Paul
+AU  - Romagnani, Chiara
+AU  - Rubartelli, Anna
+AU  - Ruland, Jürgen
+AU  - Saalmüller, Armin
+AU  - Saeys, Yvan
+AU  - Saito, Takashi
+AU  - Sakaguchi, Shimon
+AU  - Sala-de-Oyanguren, Francisco
+AU  - Samstag, Yvonne
+AU  - Sanderson, Sharon
+AU  - Sandrock, Inga
+AU  - Santoni, Angela
+AU  - Sanz, Ramon Bellmàs
+AU  - Saresella, Marina
+AU  - Sautes-Fridman, Catherine
+AU  - Sawitzki, Birgit
+AU  - Schadt, Linda
+AU  - Scheffold, Alexander
+AU  - Scherer, Hans U.
+AU  - Schiemann, Matthias
+AU  - Schildberg, Frank A.
+AU  - Schimisky, Esther
+AU  - Schlitzer, Andreas
+AU  - Schlosser, Josephine
+AU  - Schmid, Stephan
+AU  - Schmitt, Steffen
+AU  - Schober, Kilian
+AU  - Schraivogel, Daniel
+AU  - Schuh, Wolfgang
+AU  - Schüler, Thomas
+AU  - Schulte, Reiner
+AU  - Schulz, Axel Ronald
+AU  - Schulz, Sebastian R.
+AU  - Scottá, Cristiano
+AU  - Scott-Algara, Daniel
+AU  - Sester, David P.
+AU  - Shankey, T. Vincent
+AU  - Silva-Santos, Bruno
+AU  - Simon, Anna Katharina
+AU  - Sitnik, Katarzyna M.
+AU  - Sozzani, Silvano
+AU  - Speiser, Daniel E.
+AU  - Spidlen, Josef
+AU  - Stahlberg, Anders
+AU  - Stall, Alan M.
+AU  - Stanley, Natalie
+AU  - Stark, Regina
+AU  - Stehle, Christina
+AU  - Steinmetz, Tobit
+AU  - Stockinger, Hannes
+AU  - Takahama, Yousuke
+AU  - Takeda, Kiyoshi
+AU  - Tan, Leonard
+AU  - Tárnok, Attila
+AU  - Tiegs, Gisa
+AU  - Toldi, Gergely
+AU  - Tornack, Julia
+AU  - Traggiai, Elisabetta
+AU  - Trebak, Mohamed
+AU  - Tree, Timothy I.M.
+AU  - Trotter, Joe
+AU  - Trowsdale, John
+AU  - Tsoumakidou, Maria
+AU  - Ulrich, Henning
+AU  - Urbanczyk, Sophia
+AU  - van de Veen, Willem
+AU  - van den Broek, Maries
+AU  - van der Pol, Edwin
+AU  - Van Gassen, Sofie
+AU  - Van Isterdael, Gert
+AU  - van Lier, René A.W.
+AU  - Veldhoen, Marc
+AU  - Vento-Asturias, Salvador
+AU  - Vieira, Paulo
+AU  - Voehringer, David
+AU  - Volk, Hans-Dieter
+AU  - von Borstel, Anouk
+AU  - von Volkmann, Konrad
+AU  - Waisman, Ari
+AU  - Walker, Rachael V.
+AU  - Wallace, Paul K.
+AU  - Wang, Sa A.
+AU  - Wang, Xin M.
+AU  - Ward, Michael D.
+AU  - Ward-Hartstonge, Kirsten A
+AU  - Warnatz, Klaus
+AU  - Warnes, Gary
+AU  - Warth, Sarah
+AU  - Waskow, Claudia
+AU  - Watson, James V.
+AU  - Watzl, Carsten
+AU  - Wegener, Leonie
+AU  - Weisenburger, Thomas
+AU  - Wiedemann, Annika
+AU  - Wienands, Jürgen
+AU  - Wilharm, Anneke
+AU  - Wilkinson, Robert John
+AU  - Willimsky, Gerald
+AU  - Wing, James B.
+AU  - Winkelmann, Rieke
+AU  - Winkler, Thomas H.
+AU  - Wirz, Oliver F.
+AU  - Wong, Alicia
+AU  - Wurst, Peter
+AU  - Yang, Jennie H. M.
+AU  - Yang, Juhao
+AU  - Yazdanbakhsh, Maria
+AU  - Yu, Liping
+AU  - Yue, Alice
+AU  - Zhang, Hanlin
+AU  - Zhao, Yi
+AU  - Ziegler, Susanne Maria
+AU  - Zielinski, Christina
+AU  - Zimmermann, Jakob
+AU  - Zychlinsky, Arturo
+TI  - Guidelines for the use of flow cytometry and cell sorting in immunological studies (second edition)
+JO  - European Journal of Immunology
+JA  - Eur. J. Immunol.
+VL  - 49
+IS  - 10
+SN  - 0014-2980
+UR  - https://doi.org/10.1002/eji.201970107
+DO  - doi:10.1002/eji.201970107
+SP  - 1457
+EP  - 1973
+PY  - 2019
+AB  - Abstract These guidelines are a consensus work of a considerable number of members of the immunology and flow cytometry community. They provide the theory and key practical aspects of flow cytometry enabling immunologists to avoid the common errors that often undermine immunological data. Notably, there are comprehensive sections of all major immune cell types with helpful Tables detailing phenotypes in murine and human cells. The latest flow cytometry techniques and applications are also described, featuring examples of the data that can be generated and, importantly, how the data can be analysed. Furthermore, there are sections detailing tips, tricks and pitfalls to avoid, all written and peer-reviewed by leading experts in the field, making this an essential research companion.
+ER  - 
+
+AU  - Kumbhani, Dharam J.
+AU  - Bhatt, Deepak L.
+C7  - pp. 205-242
+TI  - Percutaneous Coronary Intervention
+SN  - 9781405162159
+UR  - https://doi.org/10.1002/9781118399378.ch8
+DO  - doi:10.1002/9781118399378.ch8
+SP  - 205-242
+KW  - PCI, referring broadly to PTCA, or balloon angioplasty
+KW  - PTCA versus medical therapy trials
+KW  - PTCA alone, current indications of decrease and stent placement
+KW  - randomized controlled trials of BMS versus PTCA
+KW  - EESs, representing the second generation of DESs
+KW  - biodegradable/bioabsorbable stents, in PCI as third-generation DES
+KW  - CBA and non-compliant balloon with microsurgical atherotomes
+KW  - ELCA and photoacoustic effects of laser energy in tissue absorption
+KW  - radial access for diagnostic angiography, PCI minimizing bleeding
+KW  - CTO revascularization
+PY  - 2019
+AB  - Summary This chapter contains sections titled: Introduction Balloon PTCA Bare metal stents Drug-eluting stents Local antiproliferative treatment for in-stent restenosis Directional coronary atherectomy Cutting balloon angioplasty Rotational atherectomy Excimer laser angioplasty Mechanical thrombectomy Special issues Conclusions References
+ER  - 
+
+TY  - JOUR
+AU  - Burke, David C.
+AU  - Burley, Henry T.
+AU  - Ungar, Gerald H.
+TI  - DATA ON SPINAL INJURIES—PART II. OUTCOME OF THE TREATMENT OF 352 CONSECUTIVE ADMISSIONS
+JO  - Australian and New Zealand Journal of Surgery
+VL  - 55
+IS  - 4
+SN  - 9781405162159
+UR  - https://doi.org/10.1111/j.1445-2197.1985.tb00904.x
+DO  - doi:10.1111/j.1445-2197.1985.tb00904.x
+SP  - 377
+EP  - 382
+KW  - spinal cord injuries, data collection
+KW  - treatment
+KW  - rehabilitation
+PY  - 1985
+AB  - The data collection system described in a previous study has been used to analyze some of the results of treatment of 352 consecutive admissions to the Spinal Injuries Unit, Austin Hospital. The results indicate that the basically conservative approach to the management of the spinal injury, supplemented by surgery in selected cases, appears to be vindicated by the low rate of instability of the spine, and good neurological sequelae of the spinal cord injury. An intermittent catheter regimen for management of the neurogenic bladder has resulted in a low rate of permanent indwelling catheterization on discharge from hospital and a low rate of urinary infections. The survival rate of patients in a well integrated unit, with a multi-disciplinary team, is high. The relatively long periods of hospitalization are justified by the return to the community of a high proportion of independent, healthy, disabled people.
+ER  - 
+
+TY  - JOUR
+TI  - Radiology
+JO  - Journal of Medical Imaging and Radiation Oncology
+VL  - 54
+IS  - s1
+SN  - 9781405162159
+UR  - https://doi.org/10.1111/j.1754-9485.2010.02191.x
+DO  - doi:10.1111/j.1754-9485.2010.02191.x
+SP  - A84
+EP  - A147
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - McArthur, David L.
+AU  - Chute, Dennis J.
+AU  - Villablanca, J. Pablo
+TI  - Moderate and Severe Traumatic Brain Injury: Epidemiologic, Imaging and Neuropathologic Perspectives
+JO  - Brain Pathology
+VL  - 14
+IS  - 2
+SN  - 9781405162159
+UR  - https://doi.org/10.1111/j.1750-3639.2004.tb00052.x
+DO  - doi:10.1111/j.1750-3639.2004.tb00052.x
+SP  - 185
+EP  - 194
+PY  - 2004
+AB  - This article examines 3 contexts in which moderate or severe traumatic brain injury can be approached. The epidemiologic background of moderate and severe traumatic brain injury is presented, with particular attention paid to new findings from the study of a national hospital inpatient database. We review aspects of neuroimaging and how new imaging modalities can reveal fine detail about traumatic brain injury. Finally we examine the current state of neuropathologic evaluation of, and recent developments in, understanding of the neural disruptions that occur following traumatic brain injury, together with cellular reactions to these disruptions.
+ER  - 
+
+TY  - JOUR
+AU  - Serena,             T.
+AU  - Li, V.W.
+AU  - on behalf of the Wound Healing Cooperative Group
+TI  - 145 Interval Analysis of a Randomized, Open Label, Multi-Center Study Comparing Apligraf Vs. Standard Multilayer Compression in the Reduction of Pain Associated WItH Venous Leg Ulcerations
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 9781405162159
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130216aw.x
+DO  - doi:10.1111/j.1067-1927.2005.130216aw.x
+SP  - A28
+EP  - A48
+PY  - 2005
+AB  - Background:? According to The American Pain Society, pain should be considered a fifth vital sign. Pain is a prominent feature of venous leg ulcerations (VLUs). Sixty-five percent of VLU patients complain of severe pain. In several multicenter clinical trials, Apligraf, a bioengineered living skin construct, has been shown to accelerate healing in venous leg ulcerations. Anecdotal clinical observations suggest that Apligraf treatment is associated with pain relief. A treatment modality which promotes healing and reduces pain would significantly improve the quality of life in patients with VLU. Methods:? VLU patients with pain scores greater than 5/10 on a numerical scale or requiring narcotic analgesia were randomized to receive either Apligraf and compression or compression alone. There was a 3-week ?wash-out? period to ensure that pain was not due to other factors such as inadequate compression or infection. Patients were enrolled only after a negative quantitative biopsy. The intensity of pain was self-scored and a quality-of-life questionnaire was completed at each visit. Weekly wound area measurements were obtained with digital planimetry. Results:? Thus far in the enrollment period we have already seen a trend toward a significant reduction in pain in the Apligraf group. This pain relief occurs shortly after application indicating that a mechanism distinct from clinical healing. The Apligraf group also demonstrated acceleration in wound healing as well as a decreased time-to-complete closure. Conclusion:? Interval analysis of this multicenter trial suggests that Apligraf accelerates wound healing and reduces the pain associated with venous leg ulcerations. Acknowledgment:? Unrestricted Educational grant, Organogenesis Inc.
+ER  - 
+
+AU  - Garvey, Erin M.
+AU  - Egan, J. Craig
+C7  - pp. 227-238
+TI  - Pediatric Critical Care
+SN  - 9781119317920
+UR  - https://doi.org/10.1002/9781119317913.ch24
+DO  - doi:10.1002/9781119317913.ch24
+SP  - 227-238
+KW  - acute respiratory distress syndrome
+KW  - nosocomial infections
+KW  - packed red blood cells
+KW  - pediatric critical care
+KW  - pediatric intensivists
+KW  - pediatric trauma patient
+PY  - 2005
+AB  - Summary This is a unique question-and-answer chapter for surgical residents and trainees, concentrating on the pediatric critical care. The Transfusion Requirements in Pediatric Intensive Care Units study randomized to either transfusion threshold 9.5?g/dL or 7?g/dL using leukocyte-reduced packed red blood cells (PRBC). Deaths, Multiple organ dysfunction syndrome (MODS), adverse events, ventilator days, and nosocomial infections were not significantly different in the two groups. When split into subgroups of pediatric cardiac surgery patients and pediatric general surgery patients, the restrictive PRBC transfusion strategy showed no increase in MODS. PRBC transfusions appear to be independently linked to increased risk of morbidity and mortality in critically ill pediatric patients. Pediatric intensivists have recognized that acute respiratory distress syndrome (ARDS) in children is different from ARDS in adults. Recurrent hypotension in a pediatric trauma patient occurs late and may be an ominous sign.
+ER  - 
+
+TY  - JOUR
+TI  - PLENARY LECTURES
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 49
+IS  - s117
+SN  - 9781119317920
+UR  - https://doi.org/10.1111/j.1399-6576.2005.00830_7.x
+DO  - doi:10.1111/j.1399-6576.2005.00830_7.x
+SP  - 140
+EP  - 152
+PY  - 2005
+ER  - 
+
+AU  - Bond, Michael C.
+AU  - Butler, Kenneth H.
+C7  - pp. 351-362
+TI  - Elder abuse and neglect
+SN  - 9781118753347
+UR  - https://doi.org/10.1002/9781118753262.ch23
+DO  - doi:10.1002/9781118753262.ch23
+SP  - 351-362
+KW  - aging
+KW  - elder abuse
+KW  - elder abuse suspicion index
+KW  - elder neglect
+KW  - elderly patient
+KW  - emergency medical services
+KW  - wandering
+PY  - 2005
+AB  - Summary This chapter presents a case of 83-year-old woman who brought to the emergency department (ED) via emergency medical services (EMSs) after being found wandering the streets in her nightgown. With the aging of world's population, the prevalence of elder abuse and neglect will increase. Increased educational efforts for healthcare providers, leading to increased awareness of this societal problem, are needed to protect our elderly patients. Treat the presenting condition and then mobilize the support services to ensure that the elderly person will be cared for appropriately when discharged. The difficult part is recognizing that the elderly patient's condition is due to abuse or neglect. One of the important points in the recognition of elder abuse is that there is no stereotypical victim. There are several screening tools to facilitate the detection of elder abuse. One that is easy to complete in the ED is the Elder Abuse Suspicion Index (EASI).
+ER  - 
+
+TY  - JOUR
+AU  - (Futoshi Nagashima), 永嶋 太
+AU  - (Satoshi Inoue), 井上 聡
+AU  - (Yuuichirou Sakamoto), 阪本 雄一郎
+AU  - (Kazuyuki Oka), 岡 和幸
+AU  - (Yuki Bansyoutani), 番匠谷 友紀
+AU  - (Makoto Kobayashi), 小林 誠人
+AU  - (Masayoshi Miura), 三浦 正善
+TI  - 心停止時の胸骨圧迫による胸骨骨折によって引き起こされた心筋，冠動脈および内胸動脈複合損傷の1例(A case of myocardium, coronary artery and internal mammary artery injury caused by a sternal bone fracture due to chest compression during cardiac arrest resuscitation)
+JO  - Nihon Kyukyu Igakukai Zasshi: Journal of Japanese Association for Acute Medicine
+JA  - Nihon Kyukyu Igakukai Zasshi: Japanese Journal of Japanese Association for Acute Medicine
+VL  - 28
+IS  - 3
+SN  - 9781118753347
+UR  - https://doi.org/10.1002/jja2.12166
+DO  - doi:10.1002/jja2.12166
+SP  - 112
+EP  - 117
+KW  - 経皮的心肺補助装置
+KW  - 心タンポナーデ
+KW  - 血気胸
+KW  - percutaneous cardiopulmonary support
+KW  - cardiac tamponade
+KW  - hemopneumothorax
+PY  - 2017
+AB  - ?? ???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????61??????????????????????pulseless electrical activity?????????ventricular fibrillation?Vf???????????????????????Vf??????????????????????????????????????????????????????????????????????????????CT???????????????????????????????????????????????????????????????????????????????????????????????Deadly triad?????????????????????????????????????????????????????????4???????????????????????????????????????????????????????????
+ER  - 
+
+TY  - JOUR
+TI  - 2004 SAEM ANNUAL MEETING ABSTRACTS
+JO  - Academic Emergency Medicine
+VL  - 11
+IS  - 5
+SN  - 9781118753347
+UR  - https://doi.org/10.1197/j.aem.2004.02.011
+DO  - doi:10.1197/j.aem.2004.02.011
+SP  - 435
+EP  - 607
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+TI  - ORAL PROGRAMME ABSTRACTS
+JO  - Emergency Medicine Australasia
+VL  - 23
+IS  - s1
+SN  - 9781118753347
+UR  - https://doi.org/10.1111/j.1742-6723.2011.01364.x
+DO  - doi:10.1111/j.1742-6723.2011.01364.x
+SP  - 1
+EP  - 29
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+AU  - Martinez-Clavera, Clara
+AU  - James, Sarah
+AU  - Bowditch, Eva
+AU  - Kuruvilla, Tarun
+TI  - Delayed-onset post-traumatic stress disorder symptoms in dementia
+JO  - Progress in Neurology and Psychiatry
+JA  - Prog. Neurol. Psychiatry
+VL  - 21
+IS  - 3
+SN  - 9781118753347
+UR  - https://doi.org/10.1002/pnp.477
+DO  - doi:10.1002/pnp.477
+SP  - 26
+EP  - 31
+PY  - 2017
+AB  - Post-traumatic stress disorder (PTSD) is commonly associated with working-age adults and remains largely unrecognised in the elderly. In this review, Clara Martinez-Clavera et al consider three examples of delayed-onset PTSD and its frequent association, or misdiagnosis, as one of the numerous manifestations of the behavioural and psychological symptoms of dementia (BPSD). Finally, recommendations for pharmacological and psychological interventions are suggested.
+ER  - 
+
+TY  - JOUR
+AU  - Katz, L
+AU  - Gough, K
+AU  - Herdan, C
+AU  - McGivney, B
+AU  - Bayly, W
+AU  - Sides, R
+AU  - Hill, E
+TI  - Evaluation of a Portable System Designed to Measure Ventilatory Parameters and Oxygen Consumption in Unridden Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 9781118753347
+UR  - https://doi.org/10.1111/evj.12267_68
+DO  - doi:10.1111/evj.12267_68
+SP  - 23
+EP  - 23
+PY  - 2014
+AB  - Introduction Measurement of maximal oxygen consumption (VO2max) is the gold standard for assessing aerobic capacity, but in horses requires use of stationary equipment and a high-speed treadmill. Study objectives were to evaluate a portable system designed to measure VO2 in a field setting and to describe these measurements in a cohort of untrained Thoroughbreds. Methods Ventilatory parameters and VO2 were measured in 41 untrained Thoroughbreds (16 colts, 25 fillies, 19.8?±?1.4 months) using an ergospirometry and oximetry mask with customized software validated for horses galloping on a treadmill with an open-circuit flow-through gas collection system. Horses were instrumented with a GPS-HR monitor, light-weight mask and data-capture equipment. Data was collected as horses travelled riderless up a 2% inclined woodchip track. Pre- and 5 minute post-exercise plasma lactate ([La5]), HRpeak, maximal velocity (Vmax) and exercise distance were recorded and analysed by unpaired t-test and Pearson's correlation (P ≤ 0.05). Results All horses tolerated the mask and saddle pad. Exercise distance was 1700.5?±?33.4?m, Vmax 15.0?±?1.4?m/s, HRpeak 221.2?±?9.6?bpm and [La5] 22.7?±?5.5?mmol/l. Average VO2peak, based on 6 breaths, was 117.7?±?24.1?ml/kg/min, breathing frequency 125.8?±?7.1?bpm, inspiratory volume 13.2?±?1.7?L, expiratory volume 13.4?±?1.9?L and minute ventilation 1669.3?±?193.3?L/min. VO2peak was not significantly different between colts (112.2?±?27.7?ml/kg/min) and fillies (121.4?±?21.3?ml/kg/min). There were no correlations between VO2peak and other measured parameters. There was a positive linear correlation between VO2peak and HRpeak (P?=?0.046, R2?=?0.16). Conclusions VO2peak values were similar to published reports for yearling Thoroughbreds. The high exercise intensity and linear relationship between VO2peak and HRpeak provides confidence in the system for field studies of aerobic capacity in untrained, unridden horses. Ethical Animal Research Institutional Animal Research Ethics Committee approval was obtained. Sources of funding:?Science Foundation Ireland (11-P1- 1166). Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts from the Fourth Chinese Congress on Gerontology and Health Industry
+JO  - Journal of the American Geriatrics Society
+JA  - J Am Geriatr Soc
+VL  - 63
+IS  - S2
+SN  - 9781118753347
+UR  - https://doi.org/10.1111/jgs.13704
+DO  - doi:10.1111/jgs.13704
+SP  - S323
+EP  - S410
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - SAEM Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+JA  - Acad Emerg Med
+VL  - 25
+IS  - S1
+SN  - 9781118753347
+UR  - https://doi.org/10.1111/acem.13424
+DO  - doi:10.1111/acem.13424
+SP  - S8
+EP  - S284
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - Monday, December 3, 2007 Strategic Approaches to Pediatric Epilepsy Surgery 7:00 p.m.-9:00 p.m.
+JO  - Epilepsia
+VL  - 48
+IS  - s6
+SN  - 9781118753347
+UR  - https://doi.org/10.1111/j.1528-1167.2007.01252_12.x
+DO  - doi:10.1111/j.1528-1167.2007.01252_12.x
+SP  - 410
+EP  - 410
+PY  - 2007
+AB  - Elaine Wyllie 1 and Michael Duchowny 2 ( 1 Cleveland Clinic Foundation, Cleveland, OH and 2 Brain Institute, Miami Children's Hospital, Miami, FL ) Summary: Epilepsy surgery is accepted as an appropriate intervention for children with medically refractory epilepsy. Key elements for surgical candidacy include a localized epileptogenic zone and a low risk for new postoperative neurological deficits. The strategies for identifying these elements for surgical candidacy are in evolution. This Symposium will examine current worldwide variations in pediatric epilepsy surgical practice, based on an international multicenter survey. Faculty will also examine age-related aspects to selection for surgery including lesion timing and type and functional plasticity, and strategies for surgery when MRI is normal or shows multiple lesions. Pediatric neurology and neurosurgery speakers will emphasize the tactics involved in designing a safe and effective plan for surgery for selected infants and children with intractable epilepsy.
+ER  - 
+
+TY  - JOUR
+TI  - Posters on Display
+JO  - Pediatric Diabetes
+JA  - Pediatr Diabetes
+VL  - 18
+IS  - S25
+SN  - 9781118753347
+UR  - https://doi.org/10.1111/pedi.12588
+DO  - doi:10.1111/pedi.12588
+SP  - 138
+EP  - 177
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+AU  - Houben, R
+AU  - Leleu, C
+AU  - Fraipont, A
+AU  - Serteyn, D
+AU  - Votion, D
+TI  - High-Resolution Respirometry May Identify Early Indicators for Exertional Rhabdomyolysis in Standardbred Racehorses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 9781118753347
+UR  - https://doi.org/10.1111/evj.12267_84
+DO  - doi:10.1111/evj.12267_84
+SP  - 28
+EP  - 28
+PY  - 2014
+AB  - Introduction During racing, mitochondrial oxidative phosphorylation (OXPHOS) is a major source of energy for muscle contraction. Assessment of muscle OXPHOS capacity by high-resolution respirometry (HRR) might identify animals with altered energy metabolism and consequently increased risk of exertional rhabdomyolysis (ER). Methods Prospective cohort study. Ten healthy French Standardbreds in active training, aged 4?7 years, recruited at the start of a competitive racing season, underwent a standardised field exercise test with determination of speed at onset of lactate accumulation (VLa4) and measurement of serum creatine kinase activity (CK) two hours post-exercise. Triceps brachii muscle microbiopsies were obtained for determination of OXPHOS and electron transfer system (ETS) capacities with HRR. Associations between HRR variables and occurrence of ER over the following four months of racing were analysed using univariate logistic regression. Results Two horses developed ER during the study period: one within one month of recruitment, another presented multiple minor episodes over the season. For these ER horses OXPHOS/ETS ratio was lower, and Complex I/Complex I?+?II ratio and Complex I /Complex II ratio were higher than non-affected horses in the study (perfect prediction of occurrence of ER with ratio of ≤0.74, ≥0.60 and ≥0.715 respectively). VLa4 for ER horses was within the range of non-affected horses. Post-exercise CK was within normal limits for all horses in the study. Conclusions OXPHOS and ETS capacities and their derived ratios indicate dysfunctional muscle energy metabolism whereas VLa4 and CK were unremarkable in horses subsequently affected by ER. Ethical Animal Research The study was approved by Liège University's Animal Ethics Committee (agreement N° 07-629); owner informed consent was obtained. Sources of funding:?Part of the study protocol was funded by Les Haras Nationaux (France). Competing interests:?The Oxygraph-2k HRR apparatus was provided on loan by OROBOROS Instruments (Innsbruck, Austria); there are no patents, products in development or marketed products to declare.
+ER  - 

@@ -1,0 +1,397 @@
+
+TY  - JOUR
+AU  - Alghetaa, Hasan
+AU  - Mohammed, Amira
+AU  - Sultan, Muthanna
+AU  - Busbee, Philip
+AU  - Murphy, Angela
+AU  - Chatterjee, Saurabh
+AU  - Nagarkatti, Mitzi
+AU  - Nagarkatti, Prakash
+TI  - Resveratrol protects mice against SEB-induced acute lung injury and mortality by miR-193a modulation that targets TGF-β signalling
+JO  - Journal of Cellular and Molecular Medicine
+JA  - J Cell Mol Med
+VL  - 22
+IS  - 5
+SN  - 1582-1838
+UR  - https://doi.org/10.1111/jcmm.13542
+DO  - doi:10.1111/jcmm.13542
+SP  - 2644
+EP  - 2655
+KW  - 3,4,5-trihydroxy-trans-stilbene
+KW  - acute lung injury
+KW  - death receptor 6
+KW  - microRNA (miRNA/miR)
+KW  - miR-193
+KW  - pulmonary disease
+KW  - resveratrol
+KW  - staphylococcal enterotoxin B
+KW  - transforming growth factor-beta
+PY  - 2018
+AB  - Abstract Staphylococcal enterotoxin B (SEB) is a potent superantigen produced by Staphylococcus aureus that triggers a strong immune response, characterized by cytokine storm, multi-organ failure, and often death. When inhaled, SEB can cause acute lung injury (ALI) and respiratory failure. In this study, we investigated the effect of resveratrol (RES), a phytoallexin, on SEB-driven ALI and mortality in mice. We used a dual-exposure model of SEB in C3H/HeJ mice, which caused 100% mortality within the first 5 days of exposure, and treatment with RES resulted in 100% survival of these mice up to 10 days post-SEB exposure. RES reduced the inflammatory cytokines in the serum and lungs, as well as T cell infiltration into the lungs caused by SEB. Treatment with RES also caused increased production of transforming growth factor-beta (TGF-?) in the blood and lungs. RES altered the miRNA profile in the immune cells isolated from the lungs. Of these, miR-193a was strongly induced by SEB and was down-regulated by RES treatment. Furthermore, transfection studies and pathway analyses revealed that miR-193a targeted several molecules involved in TGF-? signalling (TGF?2, TGF?R3) and activation of apoptotic pathways death receptor-6 (DR6). Together, our studies suggest that RES can effectively neutralize SEB-mediated lung injury and mortality through potential regulation of miRNA that promote anti-inflammatory activities.
+ER  - 
+
+TY  - JOUR
+AU  - Kiernan, Elizabeth A.
+AU  - Smith, Stephanie M. C.
+AU  - Mitchell, Gordon S.
+AU  - Watters, Jyoti J.
+TI  - Mechanisms of microglial activation in models of inflammation and hypoxia: Implications for chronic intermittent hypoxia
+JO  - The Journal of Physiology
+JA  - J Physiol
+VL  - 594
+IS  - 6
+SN  - 0022-3751
+UR  - https://doi.org/10.1113/JP271502
+DO  - doi:10.1113/JP271502
+SP  - 1563
+EP  - 1577
+PY  - 2016
+AB  - Abstract Chronic intermittent hypoxia (CIH) is a hallmark of sleep apnoea, a condition associated with diverse clinical disorders. CIH and sleep apnoea are characterized by increased reactive oxygen species formation, peripheral and CNS inflammation, neuronal death and neurocognitive deficits. Few studies have examined the role of microglia, the resident CNS immune cells, in models of CIH. Thus, little is known concerning their direct contributions to neuropathology or the cellular mechanisms regulating their activities during or following pathological CIH. In this review, we identify gaps in knowledge regarding CIH-induced microglial activation, and propose mechanisms based on data from related models of hypoxia and/or hypoxia?reoxygenation. CIH may directly affect microglia, or may have indirect effects via the periphery or other CNS cells. Peripheral inflammation may indirectly activate microglia via entry of pro-inflammatory molecules into the CNS, and/or activation of vagal afferents that trigger CNS inflammation. CIH-induced release of damage-associated molecular patterns from injured CNS cells may also activate microglia via interactions with pattern recognition receptors expressed on microglia. For example, Toll-like receptors activate mitogen-activated protein kinase/transcription factor pathways required for microglial inflammatory gene expression. Although epigenetic effects from CIH have not yet been studied in microglia, potential epigenetic mechanisms in microglial regulation are discussed, including microRNAs, histone modifications and DNA methylation. Epigenetic effects can occur during CIH, or long after it has ended. A better understanding of CIH effects on microglial activities may be important to reverse CIH-induced neuropathology in patients with sleep disordered breathing.
+ER  - 
+
+TY  - JOUR
+AU  - Chen, Lang
+AU  - Xiong, Yuan
+AU  - Yan, Chenchen
+AU  - Zhou, Wu
+AU  - Endo, Yori
+AU  - Xue, Hang
+AU  - Hu, Yiqiang
+AU  - Hu, Liangcong
+AU  - Leng, Xingzhu
+AU  - Liu, Jing
+AU  - Lin, Ze
+AU  - Mi, Bobin
+AU  - Liu, Guohui
+TI  - LncRNA KCNQ1OT1 accelerates fracture healing via modulating miR-701-3p/FGFR3 axis
+JO  - The FASEB Journal
+JA  - The FASEB Journal
+VL  - n/a
+IS  - n/a
+SN  - 0892-6638
+UR  - https://doi.org/10.1096/fj.201901864RR
+DO  - doi:10.1096/fj.201901864RR
+KW  - apoptosis
+KW  - FGFR3
+KW  - lncRNA
+KW  - migration
+KW  - miRNA
+KW  - osteoblast proliferation
+AB  - Abstract Emerging evidence highlights the role of the long noncoding RNA (lncRNA) KCNQ1OT1 in fracture healing. Osteoblast proliferation, migration, and survival are pivotal during this process. In this study, we aimed to improve our understanding of the regulatory role of lncRNA KCNQ1OT1 during osteoblast proliferation, migration, and survival. We searched the gene expression omnibus databases and LncBase Experimental V.2 to identify key microRNAs (miRNAs) targets of KCNQ1OT1. MiR-701-3p was selected as a differentially expressed miRNA and RNA immunoprecipitation assays were performed to verify its interaction with KCNQ1OT1. Fibroblast growth factor receptor 3 (FGFR3) was also identified as a target of miR-701-3p. We further identified KCNQ1OT1 as a competing endogenous RNA of miR-701-3p that could influence osteoblast proliferation, migration, and apoptosis in vitro and in vivo. Taken together, our results indicate that the KCNQ1OT1/miR-701-3p/FGFR3 axis is an important regulator of osteoblast proliferation, migration, and apoptosis, and provide a new therapeutic avenue for fracture healing.
+ER  - 
+
+TY  - JOUR
+AU  - Ding, Miao
+AU  - Zhang, Erlong
+AU  - He, Rong
+AU  - Wang, Xingyong
+TI  - Newly developed strategies for improving sensitivity to radiation by targeting signal pathways in cancer therapy
+JO  - Cancer Science
+JA  - Cancer Sci
+VL  - 104
+IS  - 11
+SN  - 1347-9032
+UR  - https://doi.org/10.1111/cas.12252
+DO  - doi:10.1111/cas.12252
+SP  - 1401
+EP  - 1410
+PY  - 2013
+AB  - Inherent and acquired resistance of cancer cells is increasingly recognized as a significant impediment to effective radiation cancer treatment. As important intracellular factors, aberrant tumor transmembrane signal transduction pathways, which include the prosurvival cascades (PI3K/Akt, MAPK/ERK and JAK/STAT) and the proapoptosis pathways (Wnt, p53 and TNF-α/NF-?B), have been proved to be crucial determinants of the probability of cell sensitivity to radiation in malignant lesions. There is increasing evidence that targeting the abnormal pathways that can regulate the activity of the DNA damage response and further influence the response of tumor cells to radiation may be suitable for improving radiation sensitization. Preclinical and clinical evidence suggest that agents targeting aberrant tumor signals can effectively improve the therapeutic effect of ionizing radiation. Therefore, in this review, we discuss the intricate interplay between tumor responses to radiation with the aberrant signal pathways, and the potential druggable targets within the pathways to sensitize tumors without significant collateral damage to normal tissues. The application of novel targeting compounds to manipulate the aberrant signal of tumor cells in clinical treatments is also addressed.
+ER  - 
+
+TY  - JOUR
+TI  - SAEM Abstracts, Plenary Session
+JO  - Academic Emergency Medicine
+VL  - 19
+IS  - s1
+SN  - 1069-6563
+UR  - https://doi.org/10.1111/j.1553-2712.2012.01332.x
+DO  - doi:10.1111/j.1553-2712.2012.01332.x
+SP  - S4
+EP  - S393
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+TI  - SAEM Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+JA  - Acad Emerg Med
+VL  - 21
+IS  - s1
+SN  - 1069-6563
+UR  - https://doi.org/10.1111/acem.12365
+DO  - doi:10.1111/acem.12365
+SP  - S5
+EP  - S327
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Presentation Abstracts: 2016 European College Veterinary Surgeons 25th Annual Scientific Meeting, July 7–9, 2016—Lisbon, Portugal, Centro Cultural de Belem
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 45
+IS  - 6
+SN  - 0161-3499
+UR  - https://doi.org/10.1111/vsu.12500
+DO  - doi:10.1111/vsu.12500
+SP  - E1
+EP  - E22
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Congcong
+AU  - Miao, Pei
+AU  - Sun, Mingyuan
+AU  - Yan, Mei
+AU  - Liu, Hong
+C7  - 1901867
+TI  - Progress in miRNA Detection Using Graphene Material–Based Biosensors
+JO  - Small
+JA  - Small
+VL  - 15
+IS  - 38
+SN  - 1613-6810
+UR  - https://doi.org/10.1002/smll.201901867
+DO  - doi:10.1002/smll.201901867
+SP  - 1901867
+KW  - electrochemical biosensors
+KW  - graphene and its derivatives
+KW  - miRNA detection
+KW  - optical biosensors
+KW  - supramolecular nanoassemblies
+PY  - 2019
+AB  - Abstract MicroRNAs (miRNAs) are short, endogenous, noncoding RNAs that play critical roles in physiologic and pathologic processes and are vital biomarkers for several disease diagnostics and therapeutics. Therefore, rapid, low-cost, sensitive, and selective detection of miRNAs is of paramount importance and has aroused increasing attention in the field of medical research. Among the various reported miRNA sensors, devices based on graphene and its derivatives, which form functional supramolecular nanoassemblies of π-conjugated molecules, have been revealed to have great potential due to their extraordinary electrical, chemical, optical, mechanical, and structural properties. This Review critically and comprehensively summarizes the recent progress in miRNA detection based on graphene and its derivative materials, with an emphasis on i) the underlying working principles of these types of sensors, and the unique roles and advantages of graphene materials; ii) state-of-the-art protocols recently developed for high-performance miRNA sensing, including representative examples; and iii) perspectives and current challenges for graphene sensors. This Review intends to provide readers with a deep understanding of the design and future of miRNA detection devices.
+ER  - 
+
+TY  - JOUR
+AU  - Fu, Lijuan
+AU  - Jiang, Ge
+AU  - Weng, Hope
+AU  - Dick, Gregory M.
+AU  - Chang, Yanzhong
+AU  - Kassab, Ghassan S.
+TI  - Cerebrovascular miRNAs correlate with the clearance of Aβ through perivascular route in younger 3xTg-AD mice
+JO  - Brain Pathology
+JA  - Brain Pathol
+VL  - 30
+IS  - 1
+SN  - 1015-6305
+UR  - https://doi.org/10.1111/bpa.12759
+DO  - doi:10.1111/bpa.12759
+SP  - 92
+EP  - 105
+KW  - 3xTg-AD mice
+KW  - Alzheimer's disease (AD)
+KW  - amyloid-β (Aβ)
+KW  - perivascular drainage
+KW  - vascular miRNAs
+PY  - 2020
+AB  - Abstract The ?two-hit vascular hypothesis for Alzheimer's disease (AD)? and amyloid-? (A?) oligomer hypothesis suggest that impaired soluble A? oligomers clearance through the cerebral vasculature may be an initial step of the AD process. Soluble A? oligomers are driven into perivascular spaces from the brain parenchyma and toward peripheral blood flow. The underlying vascular-based mechanism, however, has not been defined. Given that microRNAs (miRNAs), emerging as novel modulators, are involved in numerous physiological and pathological processes, we hypothesized that cerebrovascular miRNAs may regulate the activities of brain blood vessels, which further affects the concentration of A? in the AD brain. In this study, perivascular A? deposits, higher vascular activation, increased pericyte coverage and up-regulated capillaries miRNAs at 6 months old (6 mo) were found to correlate with the lower A? levels of middle AD stage (9 mo) in 3xTg-AD (3xTg) mice. It is implicated that at the early stage of AD when intracellular A? appeared, higher expression of vessel-specific miRNAs, elevated pericyte coverage, and activated endothelium facilitate A? oligomer clearance through the perivascular route, resulting in a transient reduction of A? oligomers at 9 mo. Additionally, ghrelin-induced upregulation of capillary miRNAs and increased pericyte coverage attenuated A? burden at 9 mo, in further support of the relationship between vascular miRNAs and A? clearance. This work suggests a cerebral microvessel miRNA may boost endothelial highly activated phenotypes to promote elimination of A? oligomers through the perivascular drainage pathway and contribute to AD progression. The targeting of brain vessel-specific miRNAs may provide a new rationale for the development of innovative therapeutic strategies for AD treatment.
+ER  - 
+
+TY  - JOUR
+AU  - McG. Argo, C.
+AU  - Dugdale, A.H.A.
+AU  - McGowan, C.M.
+TI  - Soaked-Hay: It's Not All Sweetness – Mass Matters!
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_18
+DO  - doi:10.1111/evj.12323_18
+SP  - 9
+EP  - 9
+PY  - 2014
+AB  - Reasons for performing study Soaked grass hays are recommended for the nutritional-management of equine metabolic syndrome (EMS). Forage provision is commonly restricted to promote weight-loss and insulin-sensitivity. When EMS animals were fed hay at ?1.25% body mass (BM) as daily dry matter (DM) (presoaking) animals lost weight at 1.1% of outset BM weekly. This doubled weight-losses recorded when horses were fed fresh/?un-soaked? hay to the same level [1]. Objectives To compare the composition and digestibility of fresh/soaked grass-hays to improve nutritional-guidance for the management of EMS. Study design Following 6 weeks of dietary restriction to 1.25%BM as hay-DM, 6/12 horses which had participated in an earlier study [2], were used to determine the digestibility of the soaked (n?=?3) and fresh (n?=?3) hays. Methods Samples of fresh grass-hay (n?=?6) and hay from the same batch which had been water-soaked overnight (16?h, n?=?6) or by day (7?h, n?=?6) were dried for the measurement of DM content, pooled and ground. Nutrient and gross energy (GE) compositions were determined by proximate analyses. Animals were fed hay as 2 daily meals. Soaked-hay was equal-parts long/short-soaked. Apparent digestibilities were determined after total faecal collection for 72?h. Results Soaking hay; did not alter GE (17.6?MJ/kg DM), increased acid detergent fibre (ADF) (30?35%), neutral detergent fibre (NDF) (68?74%) and crude protein (CP, 8.4?10.6%), decreased water soluble carbohydrate (WSC, 18.2?12.2%), and mineral contents (5.7?4.2%). Digestibilities of GE, DM, ash, NDF and WSC were unaltered by soaking. Conversely, soaking increased CP (55.6?66.8%) and ADF (37.5?50%) digestibility. However, hay-soaking elicits un-quantified losses of DM. Previous studies report hay ADF and CP as ?water-insoluble?. When DM losses were retrospectively calculated from the ADF and CP content of fresh and soaked-hays, daily DM provision decreased from 1.25 to 1.14%. Consequently DE decreased by 25% (119.5?89.7?kj/kg BM/day). Conclusions Dry matter losses from hay-soaking have marked impacts on energy/nutrient provision and increase the severity of dietary restriction. Ethical animal research:?The study was approved by the University of Liverpool, Veterinary Research Ethics Committee. Owners gave informed consent for their horses? inclusion in the study. Sources of funding:?Personal research account. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Journée, S.L.
+AU  - Delesalle, C.J.G.
+AU  - de Bruijn, C.M.
+AU  - Bergmann, W.
+AU  - Journée, H.L.
+TI  - Transcranial Electrical Stimulation (TES) as a Possible Novel Alternative to Transcranial Magnetic Stimulation (TMS) to Assess the Motor Function of the Spinal Cord for Clinical Diagnosis in Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_20
+DO  - doi:10.1111/evj.12323_20
+SP  - 10
+EP  - 10
+PY  - 2014
+AB  - Reasons for performing study To introduce and assess the feasibility of multipulse transcranial electrical stimulation (TES) in horses. Objectives To assess latency times of muscular motor evoked potentials (MEP) in the m. extensor carpi radialis (ECR) and the m. tibialis cranialis (TC), elicited by transcranially applied multipulse stimulation in 12 healthy horses. Study design Prospective observational study applied in 12 healthy horses. Methods Horses with a mean age of 11.0 (range 3.6?20.5) years and a height of 160 (s.d.?±?10.0) cm were studied. Horses were sedated with detomidin (1.5??g/kg bwt) and butorphanol (1.5??g/kg bwt) i.v. A subcutaneous ring block with lidocaine 2%?+?adrenaline was placed on the forehead. TES was performed using biphasic high frequency multipulse voltage trains (pulse width: 0.1?ms, interpulse interval: 1.3?ms, 3 pulses/train) applied to 2 subcutaneous needle electrodes bilateral from the centre of the forehead. Latency times (30?V above motor threshold (MT) and amplitude of MEP were recorded bilaterally at the ECR and the TC muscles. Motor latency times are expressed as mean?±?2?s.d. Results Mean latency times (at MT?+?30?V) for the ECR muscles were respectively 20.18?±?1.85?ms (left side) and 19.7?±?1.69?ms (right side) and for the TC muscles respectively: 34.6?±?2.01?ms (left) and 34.9?±?2.43?ms (right). Conclusions TES is well tolerated. Interestingly, recorded motor latency times at the level of front and hind legs appear to be shorter for TES when compared to TMS from literature data [1]. Ethical animal research:?Ethical approval was granted by the animal ethics committee of the Groningen University. Sources of funding:?JS Center and Wolvega Equine Clinic. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Hainisch, E.K.
+AU  - Harnacker, J.
+AU  - Shafti-Keramat, S.
+AU  - Kirnbauer, R.
+AU  - Brandt, S.
+TI  - Vaccination with Virus-Like Particles Induces Long Lasting Protection from Experimentally Induced Sarcoid-Like Tumours in Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_33
+DO  - doi:10.1111/evj.12323_33
+SP  - 15
+EP  - 16
+PY  - 2014
+AB  - Reasons for performing study We have already demonstrated that vaccination with empty BPV1 capsids termed virus-like particles (VLP) protects horses from experimental infection with BPV1 virion. Long-term monitoring of antibody titres in experimental horses and data from other species suggest that this protection is long lasting. Objectives To test protection against experimental infection with BPV-1 virion in horses that were vaccinated with BPV-1 L1 VLP approximately 5 years earlier. Study design Controlled experiment. Methods Seven horses, vaccinated 3 times (boosters after 4 weeks and 6 months) in 2007/2008 with doses of BPV1 L1 VLP ranging from 50??g to 150??g/dose and 3 unvaccinated control horses were challenged by intra-dermal inoculation with cow wart derived BPV1 virion (5???107 BPV-1 virions per wheal, 10 wheals per horse). Inoculation sites were monitored for 10 weeks. Blood for serum antibody titre determination by pseudovirion neutralisation assay was taken on the day of challenge and after 6 months. Results Six of 7 vaccinated horses had measurable serum antibody titres (1:50 to 1:400). These titres were boosted by inoculation (about one step of dilution). Two of 3 unvaccinated controls remained sero-negative. One control horse showed sero-conversion. All control horses developed tumours at all 10 inoculation sites. Tumours appeared approximately 2 weeks after inoculation and reached maximum sizes of up to 8?mm. Regression was complete by 8 weeks after their first appearance in all horses. All vaccinated horses remained completely free from tumours. No influence of dose rate or antibody titre on the level of protection could be determined. Conclusions BPV-1 L1 VLP vaccination proves to be fully effective in protecting horses from experimental infection and tumour formation 5 years post immunisation. The protection was complete even in horses with low or unmeasurable antibody titres. This is another step towards establishing a vaccination against equine sarcoids. Ethical animal research:?This experiment was approved by the institutional ethics committee and the national authority under license No: GZ: 68.205/0144-II/3b/2012. Sources of funding:?Veterinary University Vienna, Austrian Research Fund (FWF). Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Riemersma, D.J.
+TI  - Ligation in Castration of the Male Horse Using a TA-30 Stapler
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_36
+DO  - doi:10.1111/evj.12323_36
+SP  - 16
+EP  - 17
+PY  - 2014
+AB  - Reasons for performing the study Most complications in equine castrations result from insufficient ligation and contamination. Objectives Stapling instruments reduce tissue handling, decrease surgical time, minimise contamination and provide secure visceral and vascular closure when used correctly. Using a stapler device might therefore increase ligation security and decrease contamination, and by this, reduce the complication rate seen in routine castration. Study design The applicability and safety of a TA-30 premium stapler as a ligation method in castration of the horse was tested in 15 horses under general anaesthesia in dorsal recumbency. Three horses were cryptorchids, one horse suffered a scirrous chord, and one horse suffered an infectious orchitis. Methods The vaginal process was approached inguinally. A noncutting emasculator was applied to compress the closed vaginal process. Consecutively a TA-30 Premium stapler was applied to the compressed site. The distal part of the vaginal process was then removed, the stapler device was released and the incision was closed. The TA-30 stapler accommodates 3 different staple cartridges of 30?mm width, accommodating 1.0 to 2.5?mm tissue thickness. The thickness of the vaginal process after compression was measured to be 1.0?mm (0.9?1.1?mm) in 10 fresh specimens. The 30-V3 cartridges (triple row, 1?mm closed diameter) were chosen in 9 horses with smaller vaginal processes and the 30-3.5 cartridges (double row 1.5?mm closed diameter) in 6 other horses with larger vaginal processes. Results All horses recovered without intra- or post operative complications. Conclusions A TA-30 stapler is a safe ligation instrument in equine castrations. The use of titanium staples may reduce infection rate in routine castrations, even more in ligation of precontaminated vaginal processes in cases of post operative haemorrhage control after practice castrations or in closing the vaginal process after the removal of an infected testis or scirrous chord. Ethical animal research:?Ethical committee oversight not currently required by this congress: procedures were performed as part of clinical investigations. Explicit owner informed consent for participation in this study was not stated. Sources of funding:?None. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Starke, S.D.
+AU  - Pfau, T.
+AU  - May, S.A.
+TI  - How do Students Approach Lameness? A Case Study
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_41
+DO  - doi:10.1111/evj.12323_41
+SP  - 18
+EP  - 19
+PY  - 2014
+AB  - Reasons for performing study It is unknown how students develop lameness assessment skills. Objectives To quantify student performance, visual approaches and attitudes to lameness evaluation. Study design Comparison of student cohorts. Methods Twenty 3rd year (inexperienced cohort) and thirteen 4th to 5th year (experienced cohort) students evaluated 30 video clips showing horses on the straight line or circle, followed by a general questionnaire. Eyetracking records (Tobii X102) were collected in parallel. The percentage of correctly evaluated horses was calculated based on verified expert opinion. From the eyetracking records on the straight line, the percentage time spent on different regions on the horse was calculated and compared between cohorts. Results For both cohorts, while the correct detection of lameness per se was high (median ≥92%), detection of the correct limb was lower (median 40?80% depending on quarters and cohort) and detection of sound horses was at chance level (median?=?50%). The correct limb was indicated significantly more often by the experienced cohort (P?≤?0.032) except for forelimb lameness on the circle (P?=?0.053). The inexperienced cohort dedicated more time to looking at limb movement, while the experienced cohort focused on head and pelvis movement. Students judged their expected task performance realistically, on average underestimating themselves slightly by around 8%. The task difficulty was rated as a mean (s.d.) of 4.10 (0.48) out of 5 by the inexperienced and 3.35 (0.47) by the experienced cohort. Conclusions Lameness detection skills evolve and improve over the course of the curriculum, with a shift from limb assessment to upper body assessment. Students must learn to reliably determine soundness, and hindlimb lameness proved more difficult than forelimb lameness. Students find lameness detection comparatively difficult, but have a realistic understanding of their skill level, suggesting that they can determine their needs for further practice. Ethical animal research:?No animals were used in the study. Video recordings were selected from the archive of R.K. Smith collected during clinical investigations. Explicit owner informed consent for participation in this study was not stated. Sources of funding:?S.D. Starke's PhD was funded by the Mellon Trust via the Royal Veterinary College. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Naylor, R.J.
+AU  - Smith, K.
+AU  - Blake, V.
+AU  - Rankin, D.
+AU  - Atherton, P.
+AU  - Piercy, R.J.
+TI  - Validation of a Technique for Measuring Muscle Protein Synthesis In Vivo in the Horse
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_43
+DO  - doi:10.1111/evj.12323_43
+SP  - 19
+EP  - 19
+PY  - 2014
+AB  - Reasons for performing the study Measurement of incorporation of stable isotope-containing amino acids into muscle is the gold-standard technique for measuring muscle protein synthesis (MPS), but its use in horses has not been evaluated. Objectives 1) To establish a technique for measuring MPS?in vivo in the horse using a labelled amino acid tracer and 2) to determine basal MPS in the horse using this technique. Methods Three mature Thoroughbred geldings received 0.1?mg/kg bwt D5-phenylalanine (D5-Phe) i.v. and plasma D5-Phe enrichment was measured over 3?h. Pharmacokinetic modelling determined the rate of appearance and phenylalanine pool size, from which a loading dose and infusion rate that would achieve a steady 5?10% plasma enrichment were calculated. Subsequently, steady-state was confirmed by measuring plasma enrichment during 6?h of infusion and the effect of treadmill exercise and sedation (0.4?mg/kg bwt) were also determined. Horses subsequently received the calculated D5-Phe infusion rate and skeletal muscle biopsy samples were collected after 1 and 3?h, allowing basal MPS to be calculated. Precursor intramuscular phe labelling was measured by GC-MS and tracer phe incorporation into muscle myofibrillar protein was determined using GC-pyrolysis-IRMS to calculate fractional synthetic rate. Results The mean rate of whole body phenylalanine appearance in the horse was 56??mol/kg bwt/h (s.d. 24) and mean phenylalanine pool size 41??mol/kg bwt (s.d. 8.8). From this a priming dose of 3.3??mol/kg bwt and an infusion rate of 4.5??mol/kg bwt/h D5-Phenylalanine was calculated and subsequently confirmed to achieve steady state tracer enrichment from 5.6?9.1 APE in sedentary horses. Exercise caused a transitory, and sedation a more prolonged reduction in plasma enrichment (up to 20%). D5-Phe incorporation revealed a basal FSR of 0.029%/h (s.d. 0.013) in the horse. Conclusions D5-Phenylalanine is a suitable amino acid tracer for measurement of MPS in the horse yielding rates of MPS in line with other large mammals. Ethical animal research:?The study was performed with local Ethics Committee approval and Home Office project license (PPL 70/7523) under the UK A(SP)A Act 1986. Sources of funding:?This work was generously funded by Boehringer Ingelheim. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Al Mohamad, Z.A.
+AU  - Voute, L.C.
+AU  - Marshall, J.F.
+TI  - Ultra-High Field MRI Clinical Anatomy of the Equine Fetlock to Aid Clinical Image Interpretation
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_55
+DO  - doi:10.1111/evj.12323_55
+SP  - 24
+EP  - 24
+PY  - 2014
+AB  - Reasons for performing study Interpretation of clinical diagnostic imaging of the equine musculoskeletal system requires accurate reference anatomical materials. In the case of MRI, this includes images acquired from low and high field systems. Using ultra-high field MRI, higher resolution images with small slice thickness and gap suitable for reconstruction in any anatomical plane can be produced. Objectives To describe the normal equine metacarpophalangeal joint using ultra-high field MRI and compare ultra-high and high field MR images. Study design Limbs (n?=?14) from horses (n?=?5) with no history of orthopaedic disease were frozen at -20°C until imaging. Fetlock joints were scanned using an ultra-high field (7T) MRI unit. T1 (280 slices, thickness?=?0.356?mm) and T2 (140 slices, thickness?=?0.713?mm) weighted sequences were acquired. Limbs were scanned using a 1.5T MRI unit in transverse, sagittal, and dorsal planes using T1 (60 slices, thickness 2.2?3.5?mm) and T2 (60 slices, thickness 2.2?3.5?mm) sequences. Images were analysed using OsiriX software. Results Ultra-high field MR images visualised the fine detail of trabecular and subchondral bone, the articular cartilage surface of P1 and McIII, the short, oblique, straight and oblique sesamoidean ligaments including origins and insertions, the fasicular structure of superficial digital flexor tendon, deep digital flexor tendon and ligaments and the regional neurovascular structures. Whilst T1 high field images visualised the majority of tissues, structural detail was reduced compared to ultra-high field imaging, margins were less well defined in some instances, e.g. articular cartilage, and a number of smaller structures were indistinct, e.g. short and cruciate sesamoidean ligaments. Conclusions 7T MRI produced images of the fetlock with excellent anatomical detail. Future publication of open-source ultra-high field MRI files could aid the interpretation of 0.3T and 1.5T field MR images, especially with the capacity to reconstruct image slices orientated exactly to match those of interest. Ethical animal research:?The study was approved by the Ethics Committee of the School of Veterinary and Life Sciences, University of Glasgow. Explicit owner informed consent for participation in this study was not stated but permission was given for post mortem examination and the use of materials in research. Sources of funding:?The Royal Saudi Arabia Cultural Bureau. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Scantlebury, C.E.
+AU  - Perkins, E.
+AU  - McGowan, C.
+AU  - Pinchbeck, G.L.
+AU  - Christley, R.M.
+AU  - Archer, D.C.
+TI  - ‘Riding the Rollercoaster’: Veterinary Experiences of Managing Laminitis in Practice
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_19
+DO  - doi:10.1111/evj.12323_19
+SP  - 9
+EP  - 9
+PY  - 2014
+AB  - Reasons for performing study Little is reported about the successes and challenges experienced by veterinary surgeons while managing cases of laminitis. Such information could enhance the effectiveness of communication of management and preventive health strategies for laminitis. Objectives To explore veterinary surgeons? experiences of dealing with laminitis and examine how veterinary?client communication influences the treatment and management of cases. Study design Focus group discussions conducted among first-opinion equine veterinary surgeons. Methods First-opinion ambulatory veterinary practices from Cheshire (n?=?15), Lancashire (n?=?14) and the Rutland region (n?=?14) were identified. Letters of invitation were sent and all practices were telephoned to invite veterinary surgeons to participate in the study. Key questions relating to laminitis were explored within semi-structured focus group discussions: veterinary perceptions of laminitis information, reasons for horse-owners? seeking veterinary advice, veterinary perceptions of horse-owners? knowledge, attitudes and practices, situations where the advice of other professionals may be sought. All discussions were recorded and transcribed verbatim. A thematic analysis was conducted using NVivo software. Results Three focus group discussions were held with veterinary surgeons with a range of experience; 2 in the North West (9 vets) and one in Rutland (4 vets). Emerging themes relating to veterinary surgeons? experience of dealing with laminitis included; veterinary?client communication, challenges faced by vets, managing clients perceptions and expectations, client recognition and management of laminitis, feeding and obesity management, issues of compliance, causes of laminitis, strategies to prevent laminitis, diagnosing, treating and prognosticating in laminitis cases, sources of veterinary information and collaboration with other professionals. Conclusions The findings illustrate key features of the veterinary?client relationship in supporting owners through the variable course of this disease. This study demonstrates the complexity of issues that veterinary surgeons may encounter when managing cases of laminitis and communicating healthcare messages to the client. Ethical animal research:?This project was approved by the University of Liverpool Ethics for Research Committee. Sources of funding:?The authors gratefully acknowledge support and funding from the BVA Animal Welfare Foundation charitable trust. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Parker, R.A.
+AU  - Hollis, R.A.
+TI  - Clinical Experiences with Desflurane Inhalational Anaesthesia in Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_4
+DO  - doi:10.1111/evj.12323_4
+SP  - 3
+EP  - 3
+PY  - 2014
+AB  - Reasons for performing study Equine general anaesthesia carries a higher risk of perioperative fatality compared with humans and companion animals. Multiple studies have examined the risk factors associated with general anaesthesia, most notably the ongoing confidential enquiry into perioperative equine fatalities (CEPEF) studies initially published by Johnston et?al. [1]. Desflurane is a modern inhalational anaesthetic with low solubility and potentially beneficial reduced cardiorespiratory effects, but its use in a large number of horses has not been investigated. Objectives To evaluate the perioperative mortality rates of horses undergoing general anaesthesia maintained using desflurane. Study design Retrospective analysis. Methods Anaesthetic records of all horses undergoing general anaesthesia over a 4-year period at a single hospital were retrospectively examined. Horses were excluded if general anaesthesia was not maintained using inhaled desflurane. Outcome variables of dead (anaesthetic related), alive or euthanased (for other reasons) were recorded consistent with previous CEPEF studies. Results 427 horses met the inclusion criteria, of which 406 (95.1%) were alive at 7 days post operatively, 16 (3.7%) were euthanased and 5 (1.2%) died. Four of the perioperative fatalities suffered cardiac arrest, one suffered a catastrophic fracture. Mean age was 7.6 years (range 1 month?26 years), mean weight was 503.3?kg (range 60?828?kg). Mean duration of anaesthesia was 63.0?min (range 15?200?min). Mean recovery time to standing was 28.3?min (range 5?70?min) with mean recovery score 1.4/5 (range 1?4). Conclusions Use of desflurane led to comparable mortality rates to other inhalational anaesthetics in this small number of horses at a single hospital. Further multicentre studies with larger numbers are warranted to examine any potential benefits. Ethical animal research:?Ethical committee approval not currently required by this congress: retrospective study of clinical records. Explicit owner informed consent for participation in this study was not stated. Sources of funding:?None. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Uprichard, K.L.
+AU  - Boden, L.A.
+AU  - Marshall, J.F.
+TI  - An Online Survey to Characterise Spending Patterns of Horse Owners and to Quantify the Impact of Equine Lameness on a Pleasure Horse Population
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_7
+DO  - doi:10.1111/evj.12323_7
+SP  - 4
+EP  - 4
+PY  - 2014
+AB  - Reasons for performing study Treatment of equine lameness frequently requires a period of rest and restricted exercise. The financial impact of restricted exercise should be considered when making investigation and treatment decisions. Objectives To describe and quantify the cost and time commitment associated with horse maintenance in the UK and to quantify the incidence of lameness and number of days of exercise lost. Study design Online survey of UK horse owners. Methods An online survey was performed between June and November 2013. The questionnaire contained 35 open and closed questions related to 1) owner age, gender, geographical location; and 2) type and use of horse, purchase price, location, travel, healthcare and maintenance costs; and 3) lameness episodes within the last 12 months. Results 560 respondents fully completed the questionnaire, 98.2% were female aged between 16 and 54 years old. Horses (62.5% geldings, 37.1% mares, 0.8% stallions) were of mixed breed with a median age of 13 years. Horses were predominantly used for general purpose riding. Most horses were kept on or within 5 miles of the owner's residence (77.4%) and 65% of owners spent >10?h per week on horse maintenance. Median basic maintenance cost was £2660 per year or £7.29 per day including routine healthcare, dentistry, farriery, feed, housing, and insurance fees. Most horses (71.3%) experienced an episode of lameness within the previous 12 months. The median duration of restricted exercise (days wasted) was 70 (range 0?880) days. Conclusions This unique dataset quantifies the financial and time outlay required with horse ownership. Determining the number of wasted days and basic average cost per day has allowed us to quantify the cost of inactivity. Considerable cost is associated with a period of inactivity following an episode of lameness, which should be taken into account when considering investigation and treatment options. Ethical animal research:?The study was approved by the Ethics Committee of the College of Medical, Veterinary and Life Sciences, University of Glasgow. Sources of funding:?The Geoffrey Serth Charitable Trust. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Lizarraga, I.
+AU  - Castillo-Alcala, F.
+TI  - Winner of Voorjaarsdagen Award 2014: Sedation and Mechanical Hypoalgesia Induced by Four Different Dosages of Butorphanol in Xylazine-Premedicated Donkeys
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_1
+DO  - doi:10.1111/evj.12323_1
+SP  - 2
+EP  - 2
+PY  - 2014
+AB  - Reasons for performing study Combinations of α2-adrenoceptor and opioid agonists are commonly used in equines, but there is little scientific information on this topic in donkeys. Objectives To compare the sedative and hypoalgesic effects of 4 dosages of butorphanol in xylazine-premedicated donkeys. Study design In vivo experiment. Methods Six donkeys received intravenous treatments: saline and saline (S-S); xylazine (0.5?mg/kg bwt) and saline (X-S); xylazine and butorphanol 10??g/kg bwt (X-B10); xylazine and butorphanol 20??g/kg bwt (X-B20); xylazine and butorphanol 30??g/kg bwt (X-B30); and xylazine and butorphanol 40??g/kg bwt (X-B40). Sedation score (0?3), head height above ground (HHAG), and mechanical nociceptive thresholds (MNT) of the left metacarpus were assessed before and for 120?min after treatment. Areas under the curve (AUC) for 0?30, 30?60 and 60?120?min post treatment were computed for sedation scores (SS-AUC), HHAG (HHAG-AUC) and MNT (MNT-AUC). Differences between treatments were analysed using the Friedman test followed by Dunn's test and repeated measures one-way ANOVA followed by Tukey's test. Results All treatments except S-S induced sedation. Butorphanol treatments induced significantly greater SS-AUC0?30 values than those for S-S (P<0.05), but S-S and X-S SS-AUC0?30 values were not significantly different. The HHAG-AUC0?30 values for all treatments were smaller than corresponding values for S-S (P<0.001). For HHAG-AUC30-60, only X-B40 values were significantly smaller than corresponding values for S-S (P<0.05). Compared to S-S, all treatments increased MNT and yielded significantly higher MNT-AUC0?30 values (P<0.001). Treatment X-S yielded significantly lower MNT-AUC0?30 values than those for X-B30 and X-B40 (P<0.05). Only MNT-AUC30?60 values for X-B30 and X-B40 were higher than those for S-S and X-S (P<0.05). Conclusions Xylazine induced sedation and mechanical hypoalgesia that were enhanced by adding butorphanol at 40??g/kg bwt. This drug combination may be suitable for chemical restraint of donkeys undergoing clinical procedures. Ethical animal research:?The study was approved by the Ross University School of Veterinary Medicine Institutional Animal Care and Use Committee. Sources of funding:?Ross University School of Veterinary Medicine intramural grant. Competing interests:?None.
+ER  - 

@@ -1,0 +1,382 @@
+
+TY  - JOUR
+TI  - Concurrent Session
+JO  - The Journal of Dermatology
+VL  - 39
+IS  - s1
+SN  - 0385-2407
+UR  - https://doi.org/10.1111/j.1346-8138.2012.01623.x
+DO  - doi:10.1111/j.1346-8138.2012.01623.x
+SP  - 12
+EP  - 52
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+AU  - Guillot, Adrien
+AU  - Tacke, Frank
+TI  - Liver Macrophages: Old Dogmas and New Insights
+JO  - Hepatology Communications
+JA  - Hepatol Commun
+VL  - 3
+IS  - 6
+SN  - 2471-254X
+UR  - https://doi.org/10.1002/hep4.1356
+DO  - doi:10.1002/hep4.1356
+SP  - 730
+EP  - 743
+PY  - 2019
+AB  - Inflammation is a hallmark of virtually all liver diseases, such as liver cancer, fibrosis, nonalcoholic steatohepatitis, alcoholic liver disease, and cholangiopathies. Liver macrophages have been thoroughly studied in human disease and mouse models, unravelling that the hepatic mononuclear phagocyte system is more versatile and complex than previously believed. Liver macrophages mainly consist of liver-resident phagocytes, or Kupffer cells (KCs), and bone marrow-derived recruited monocytes. Although both cell populations in the liver demonstrate principal functions of macrophages, such as phagocytosis, danger signal recognition, cytokine release, antigen processing, and the ability to orchestrate immune responses, KCs and recruited monocytes retain characteristic ontogeny markers and remain remarkably distinct on several functional aspects. While KCs dominate the hepatic macrophage pool in homeostasis (?sentinel function?), monocyte-derived macrophages prevail in acute or chronic injury (?emergency response team?), making them an interesting target for novel therapeutic approaches in liver disease. In addition, recent data acquired by unbiased large-scale techniques, such as single-cell RNA sequencing, unraveled a previously unrecognized complexity of human and murine macrophage polarization abilities, far beyond the old dogma of inflammatory (M1) and anti-inflammatory (M2) macrophages. Despite tremendous progress, numerous challenges remain in deciphering the full spectrum of macrophage activation and its implication in either promoting liver disease progression or repairing injured liver tissue. Being aware of such heterogeneity in cell origin and function is of crucial importance when studying liver diseases, developing novel therapeutic interventions, defining macrophage-based prognostic biomarkers, or designing clinical trials. Growing knowledge in gene expression modulation and emerging technologies in drug delivery may soon allow shaping macrophage populations toward orchestrating beneficial rather than detrimental inflammatory responses.
+ER  - 
+
+TY  - JOUR
+AU  - Matusiak, Magdalena
+AU  - Van Opdenbosch, Nina
+AU  - Lamkanfi, Mohamed
+TI  - CARD- and pyrin-only proteins regulating inflammasome activation and immunity
+JO  - Immunological Reviews
+JA  - Immunol Rev
+VL  - 265
+IS  - 1
+SN  - 0105-2896
+UR  - https://doi.org/10.1111/imr.12282
+DO  - doi:10.1111/imr.12282
+SP  - 217
+EP  - 230
+KW  - CARD-only proteins
+KW  - Pyrin-only proteins
+KW  - caspase
+KW  - NF-κB
+KW  - virus
+KW  - infection
+KW  - inflammasome
+KW  - inflammation
+PY  - 2015
+AB  - Summary Membrane-bound and intracellular immune receptors respond to microbial pathogens by initiating signaling cascades that result in production of inflammatory cytokines and antimicrobial factors. These host responses need to be tightly regulated to prevent tissue damage and other harmful consequences of excessive inflammation. CARD-only proteins (COPs) and Pyrin-only proteins (POPs) are human- and primate-specific dominant negative inhibitors that modulate inflammatory and innate immune responses. In addition, several poxviruses encode POPs that interfere with inflammatory and host defense responses. COPs and POPs modulate inflammatory signaling at several checkpoints by sequestering key components of the inflammasome and NF-?B signaling cascades, thus hampering downstream signal transduction. Here, we review and discuss current understanding of the evolutionary history and molecular mechanisms by which roles of host- and virus-encoded COPs and POPs may regulate inflammatory and immune responses. In addition, we address their (patho)physiological roles and highlight topics for further research.
+ER  - 
+
+TY  - JOUR
+AU  - Perkel, Kayla J.
+AU  - Tscherner, Allison
+AU  - Merrill, Casandra
+AU  - Lamarre, Jonathan
+AU  - Madan, Pavneesh
+TI  - The ART of selecting the best embryo: A review of early embryonic mortality and bovine embryo viability assessment methods
+JO  - Molecular Reproduction and Development
+JA  - Mol. Reprod. Dev.
+VL  - 82
+IS  - 11
+SN  - 1040-452X
+UR  - https://doi.org/10.1002/mrd.22525
+DO  - doi:10.1002/mrd.22525
+SP  - 822
+EP  - 838
+PY  - 2015
+AB  - SUMMARY Animal reproductive biotechnology is continually evolving. Significant advances have been made in our understanding of early embryonic mortality and embryo development in domestic animals, which has improved the selection and success of in vitro technologies. Yet our knowledge is still relatively limited such that identifying a single embryo with the highest chance of survival and development for transfer remains challenging. While invasive methods such as embryo biopsy can provide useful information regarding the genetic status of the embryos, morphological assessment remains the most common evaluation. A recent shift, however, favors alternative, adjunct approaches for non-invasive assessment of an embryo's viability and developmental potential. Various analytical techniques have facilitated the evaluation of cellular health through the metabolome, the assessment of end products of cellular metabolism, or by analyzing spent media for small RNAs. This review discusses the application of noninvasive approaches for ascertaining the health and viability of in vitro-produced bovine embryos. A comparative analysis of noninvasive techniques for embryo assessment currently being investigated in cattle and humans is also discussed. Mol. Reprod. Dev. 82: 822?838, 2015. ? 2015 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Zhu, Yueqi
+AU  - Zhang, Hongbo
+AU  - Zhang, Yiran
+AU  - Wu, Huayin
+AU  - Wei, Liming
+AU  - Zhou, Gen
+AU  - Zhang, Yuezhou
+AU  - Deng, Lianfu
+AU  - Cheng, Yingsheng
+AU  - Li, Minghua
+AU  - Santos, Hélder A.
+AU  - Cui, Wenguo
+C7  - 1805452
+TI  - Endovascular Metal Devices for the Treatment of Cerebrovascular Diseases
+JO  - Advanced Materials
+JA  - Adv. Mater.
+VL  - 31
+IS  - 8
+SN  - 0935-9648
+UR  - https://doi.org/10.1002/adma.201805452
+DO  - doi:10.1002/adma.201805452
+SP  - 1805452
+KW  - biodegradable
+KW  - cerebrovascular disease
+KW  - drug elution
+KW  - flexible endovascular devices
+KW  - metal-based stents
+PY  - 2019
+AB  - Abstract Cerebrovascular disease involves various medical disorders that obstruct brain blood vessels or deteriorate cerebral circulation, resulting in ischemic or hemorrhagic stroke. Nowadays, platinum coils with or without biological modification have become routine embolization devices to reduce the risk of cerebral aneurysm bleeding. Additionally, many intracranial stents, flow diverters, and stent retrievers have been invented with uniquely designed structures. To accelerate the translation of these devices into clinical usage, an in-depth understanding of the mechanical and material performance of these metal-based devices is critical. However, considering the more distal location and tortuous anatomic characteristics of cerebral arteries, present devices still risk failing to arrive at target lesions. Consequently, more flexible endovascular devices and novel designs are under urgent demand to overcome the deficiencies of existing devices. Herein, the pros and cons of the current structural designs are discussed when these devices are applied to the treatment of diseases ranging broadly from hemorrhages to ischemic strokes, in order to encourage further development of such kind of devices and investigation of their use in the clinic. Moreover, novel biodegradable materials and drug elution techniques, and the design, safety, and efficacy of personalized devices for further clinical applications in cerebral vasculature are discussed.
+ER  - 
+
+TY  - JOUR
+TI  - ASBMR 27th Annual Meeting SU001–SU527
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 20
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.5650201305
+DO  - doi:10.1002/jbmr.5650201305
+SP  - S190
+EP  - S313
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - SARS ORAL 2011
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 98
+IS  - S2
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.7521
+DO  - doi:10.1002/bjs.7521
+SP  - 6
+EP  - 39
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - ASGBI abstracts 2012
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 99
+IS  - S6
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.8798
+DO  - doi:10.1002/bjs.8798
+SP  - 1
+EP  - 82
+PY  - 2012
+AB  - Abstract The International Surgical Congress of the Association of Surgeons of Great Britain and Ireland takes place this year in Liverpool, UK (9?11 May 2012). Copyright ? 2012 British Journal of Surgery Society Ltd. Published by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - Oral Sessions
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 98
+IS  - S5
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.7577
+DO  - doi:10.1002/bjs.7577
+SP  - 1
+EP  - 48
+PY  - 2011
+AB  - Abstract The 46th Congress of the European Society for Surgical Research takes place this year in Aachen, Germany, 25?28 May. Copyright ? 2011 British Journal of Surgery Society Ltd. Published by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - Abstract Journal Endocrine Surgery
+JO  - ANZ Journal of Surgery
+JA  - ANZ Journal of Surgery
+VL  - 88
+IS  - S1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/ans.14521
+DO  - doi:10.1111/ans.14521
+SP  - 48
+EP  - 53
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Mintz, Rachel L.
+AU  - Gao, Madeleine A.
+AU  - Lo, Kahmun
+AU  - Lao, Yeh-Hsing
+AU  - Li, Mingqiang
+AU  - Leong, Kam W.
+C7  - 1800132
+TI  - CRISPR Technology for Breast Cancer: Diagnostics, Modeling, and Therapy
+JO  - Advanced Biosystems
+JA  - Adv. Biosys.
+VL  - 2
+IS  - 11
+SN  - 2366-7478
+UR  - https://doi.org/10.1002/adbi.201800132
+DO  - doi:10.1002/adbi.201800132
+SP  - 1800132
+KW  - breast cancer
+KW  - CRISPR
+KW  - precision medicine
+KW  - targeted therapeutics
+PY  - 2018
+AB  - Abstract Molecularly, breast cancer represents a highly heterogenous family of neoplastic disorders, with substantial interpatient variations regarding genetic mutations, cell composition, transcriptional profiles, and treatment response. Consequently, there is an increasing demand for alternative diagnostic approaches aimed at the molecular annotation of the disease on a patient-by-patient basis and the design of more personalized treatments. The clustered regularly interspaced short palindromic repeats (CRISPR)/CRISPR-associated (Cas) technology enables the development of such novel approaches. For instance, in diagnostics, the use of the RNA-specific C2c2 system allows ultrasensitive nucleic acid detection and could be used to characterize the mutational repertoire and transcriptional breast cancer signatures. In disease modeling, CRISPR/Cas9 technology can be applied to selectively engineer oncogenes and tumor-suppressor genes involved in disease pathogenesis. In treatment, CRISPR/Cas9 can be used to develop gene-therapy, while its catalytically-dead variant (dCas9) can be applied to reprogram the epigenetic landscape of malignant cells. As immunotherapy becomes increasingly prominent in cancer treatment, CRISPR/Cas9 can engineer the immune cells to redirect them against cancer cells and potentiate antitumor immune responses. In this review, CRISPR strategies for the advancement of breast cancer diagnostics, modeling, and treatment are highlighted, culminating in a perspective on developing a precision medicine-based approach against breast cancer.
+ER  - 
+
+TY  - JOUR
+TI  - Invited Lectures
+JO  - International Journal of Andrology
+VL  - 33
+IS  - s1
+SN  - 0105-6263
+UR  - https://doi.org/10.1111/j.1365-2605.2010.01105.x
+DO  - doi:10.1111/j.1365-2605.2010.01105.x
+SP  - 21
+EP  - 38
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - Aronica, Eleonora
+AU  - Bauer, Sebastian
+AU  - Bozzi, Yuri
+AU  - Caleo, Matteo
+AU  - Dingledine, Raymond
+AU  - Gorter, Jan A.
+AU  - Henshall, David C.
+AU  - Kaufer, Daniela
+AU  - Koh, Sookyong
+AU  - Löscher, Wolfgang
+AU  - Louboutin, Jean-Pierre
+AU  - Mishto, Michele
+AU  - Norwood, Braxton A.
+AU  - Palma, Eleonora
+AU  - Poulter, Michael O.
+AU  - Terrone, Gaetano
+AU  - Vezzani, Annamaria
+AU  - Kaminski, Rafal M.
+TI  - Neuroinflammatory targets and treatments for epilepsy validated in experimental models
+JO  - Epilepsia
+JA  - Epilepsia
+VL  - 58
+IS  - S3
+SN  - 0013-9580
+UR  - https://doi.org/10.1111/epi.13783
+DO  - doi:10.1111/epi.13783
+SP  - 27
+EP  - 38
+KW  - Inflammation
+KW  - Immune response
+KW  - Drug development
+KW  - Anti-ictogenesis
+KW  - Antiepileptogenesis
+KW  - Disease modification
+KW  - Epilepsy
+PY  - 2017
+AB  - Summary A large body of evidence that has accumulated over the past decade strongly supports the role of inflammation in the pathophysiology of human epilepsy. Specific inflammatory molecules and pathways have been identified that influence various pathologic outcomes in different experimental models of epilepsy. Most importantly, the same inflammatory pathways have also been found in surgically resected brain tissue from patients with treatment-resistant epilepsy. New antiseizure therapies may be derived from these novel potential targets. An essential and crucial question is whether targeting these molecules and pathways may result in anti-ictogenesis, antiepileptogenesis, and/or disease-modification effects. Therefore, preclinical testing in models mimicking relevant aspects of epileptogenesis is needed to guide integrated experimental and clinical trial designs. We discuss the most recent preclinical proof-of-concept studies validating a number of therapeutic approaches against inflammatory mechanisms in animal models that could represent novel avenues for drug development in epilepsy. Finally, we suggest future directions to accelerate preclinical to clinical translation of these recent discoveries.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts–Posters
+JO  - Alcoholism: Clinical and Experimental Research
+JA  - Alcohol Clin Exp Res
+VL  - 37
+IS  - s2
+SN  - 0145-6008
+UR  - https://doi.org/10.1111/acer.12162
+DO  - doi:10.1111/acer.12162
+SP  - 11A
+EP  - 253A
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+AU  - Jozwiak, Sergiusz
+AU  - Becker, Albert
+AU  - Cepeda, Carlos
+AU  - Engel Jr, Jerome
+AU  - Gnatkovsky, Vadym
+AU  - Huberfeld, Gilles
+AU  - Kaya, Mehmet
+AU  - Kobow, Katja
+AU  - Simonato, Michele
+AU  - Loeb, Jeffrey A.
+TI  - WONOEP appraisal: Development of epilepsy biomarkers—What we can learn from our patients?
+JO  - Epilepsia
+JA  - Epilepsia
+VL  - 58
+IS  - 6
+SN  - 0013-9580
+UR  - https://doi.org/10.1111/epi.13728
+DO  - doi:10.1111/epi.13728
+SP  - 951
+EP  - 961
+KW  - Epileptogenesis
+KW  - Human studies
+KW  - Animal models
+KW  - Electroencephalography
+KW  - MRI
+PY  - 2017
+AB  - Summary Objective Current medications for patients with epilepsy work in only two of three patients. For those medications that do work, they only suppress seizures. They treat the symptoms, but do not modify the underlying disease, forcing patients to take these drugs with significant side effects, often for the rest of their lives. A major limitation in our ability to advance new therapeutics that permanently prevent, reduce the frequency of, or cure epilepsy comes from a lack of understanding of the disease coupled with a lack of reliable biomarkers that can predict who has or who will get epilepsy. Methods The main goal of this report is to present a number of approaches for identifying reliable biomarkers from observing patients with brain disorders that have a high probability of producing epilepsy. Results A given biomarker, or more likely a profile of biomarkers, will have both a quantity and a time course during epileptogenesis that can be used to predict who will get the disease, to confirm epilepsy as a diagnosis, to identify coexisting pathologies, and to monitor the course of treatments. Significance Additional studies in patients and animal models could identify common and clinically valuable biomarkers to successfully translate animal studies into new and effective clinical trials.
+ER  - 
+
+TY  - JOUR
+TI  - ASBMR 31st Annual Meeting MO0001–MO0445
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 24
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.5650241305
+DO  - doi:10.1002/jbmr.5650241305
+SP  - S370
+EP  - S496
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+TI  - Short papers
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 102
+IS  - s1
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.9729
+DO  - doi:10.1002/bjs.9729
+SP  - 9
+EP  - 118
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts—Posters
+JO  - Alcoholism: Clinical and Experimental Research
+JA  - Alcohol Clin Exp Re
+VL  - 43
+IS  - S1
+SN  - 0145-6008
+UR  - https://doi.org/10.1111/acer.14059
+DO  - doi:10.1111/acer.14059
+SP  - 27A
+EP  - 258A
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Poster Sessions Sunday/Monday
+JO  - Journal of Neurochemistry
+JA  - J. Neurochem.
+VL  - 125
+IS  - s1
+SN  - 0022-3042
+UR  - https://doi.org/10.1111/jnc.12185
+DO  - doi:10.1111/jnc.12185
+SP  - 106
+EP  - 193
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+AU  - Litman, Thomas
+TI  - Personalized medicine—concepts, technologies, and applications in inflammatory skin diseases
+JO  - APMIS
+JA  - APMIS
+VL  - 127
+IS  - 5
+SN  - 0903-4641
+UR  - https://doi.org/10.1111/apm.12934
+DO  - doi:10.1111/apm.12934
+SP  - 386
+EP  - 424
+KW  - Atopic dermatitis
+KW  - endotypes
+KW  - immunology
+KW  - inflammatory skin diseases
+KW  - personalized medicine
+KW  - precision medicine
+KW  - psoriasis
+KW  - targeted therapy
+PY  - 2019
+AB  - The current state, tools, and applications of personalized medicine with special emphasis on inflammatory skin diseases like psoriasis and atopic dermatitis are discussed. Inflammatory pathways are outlined as well as potential targets for monoclonal antibodies and small-molecule inhibitors.
+ER  - 

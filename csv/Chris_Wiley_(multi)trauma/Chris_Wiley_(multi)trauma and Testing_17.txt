@@ -1,0 +1,418 @@
+
+TY  - JOUR
+AU  - Ratanatharathorn, Andrew
+AU  - Boks, Marco P.
+AU  - Maihofer, Adam X.
+AU  - Aiello, Allison E.
+AU  - Amstadter, Ananda B.
+AU  - Ashley-Koch, Allison E.
+AU  - Baker, Dewleen G.
+AU  - Beckham, Jean C.
+AU  - Bromet, Evelyn
+AU  - Dennis, Michelle
+AU  - Garrett, Melanie E.
+AU  - Geuze, Elbert
+AU  - Guffanti, Guia
+AU  - Hauser, Michael A.
+AU  - Kilaru, Varun
+AU  - Kimbrel, Nathan A.
+AU  - Koenen, Karestan C.
+AU  - Kuan, Pei-Fen
+AU  - Logue, Mark W.
+AU  - Luft, Benjamin J.
+AU  - Miller, Mark W.
+AU  - Mitchell, Colter
+AU  - Nugent, Nicole R.
+AU  - Ressler, Kerry J.
+AU  - Rutten, Bart P. F.
+AU  - Stein, Murray B.
+AU  - Vermetten, Eric
+AU  - Vinkers, Christiaan H.
+AU  - Youssef, Nagy A.
+AU  - VA Mid-Atlantic MIRECC Workgroup
+AU  - PGC PTSD Epigenetics Workgroup
+AU  - Uddin, Monica
+AU  - Nievergelt, Caroline M.
+AU  - Smith, Alicia K.
+TI  - Epigenome-wide association of PTSD from heterogeneous cohorts with a common multi-site analysis pipeline
+JO  - American Journal of Medical Genetics Part B: Neuropsychiatric Genetics
+JA  - Am J Med Genet
+VL  - 174
+IS  - 6
+SN  - 1552-4841
+UR  - https://doi.org/10.1002/ajmg.b.32568
+DO  - doi:10.1002/ajmg.b.32568
+SP  - 619
+EP  - 630
+KW  - EWAS
+KW  - meta-analysis
+KW  - stress
+KW  - trauma
+PY  - 2017
+AB  - Compelling evidence suggests that epigenetic mechanisms such as DNA methylation play a role in stress regulation and in the etiologic basis of stress related disorders such as Post traumatic Stress Disorder (PTSD). Here we describe the purpose and methods of an international consortium that was developed to study the role of epigenetics in PTSD. Inspired by the approach used in the Psychiatric Genomics Consortium, we brought together investigators representing seven cohorts with a collective sample size of N?=?1147 that included detailed information on trauma exposure, PTSD symptoms, and genome-wide DNA methylation data. The objective of this consortium is to increase the analytical sample size by pooling data and combining expertise so that DNA methylation patterns associated with PTSD can be identified. Several quality control and analytical pipelines were evaluated for their control of genomic inflation and technical artifacts with a joint analysis procedure established to derive comparable data over the cohorts for meta-analysis. We propose methods to deal with ancestry population stratification and type I error inflation and discuss the advantages and disadvantages of applying robust error estimates. To evaluate our pipeline, we report results from an epigenome-wide association study (EWAS) of age, which is a well-characterized phenotype with known epigenetic associations. Overall, while EWAS are highly complex and subject to similar challenges as genome-wide association studies (GWAS), we demonstrate that an epigenetic meta-analysis with a relatively modest sample size can be well-powered to identify epigenetic associations. Our pipeline can be used as a framework for consortium efforts for EWAS.
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Baimeng
+AU  - Wieslander, Jan B.
+TI  - Influence of early fibrinolysis inhibition on thrombus formation following microvascular trauma
+JO  - Microsurgery
+JA  - Microsurgery
+VL  - 17
+IS  - 5
+SN  - 0738-1085
+UR  - https://doi.org/10.1002/(SICI)1098-2752(1996)17:5<278::AID-MICR8>3.0.CO;2-F
+DO  - doi:10.1002/(SICI)1098-2752(1996)17:5<278::AID-MICR8>3.0.CO;2-F
+SP  - 278
+EP  - 285
+PY  - 1996
+AB  - Abstract The effect of the fibrinolysis inhibitor tranexamic acid on early thrombus formation following microvascular trauma was investigated in the central arteries of ears in 86 rabbits (in all 172 vessels), divided into four separate blind randomised studies. In the first part a common end-to-end anastomosis was done and in the last three studies a severe trauma-arteriotomy/intimectomy was performed. Parameters studied were vessel bleeding times, patency rates, weights of intraluminal thrombotic material, haematocrit and plasma fibrinolytic activity. In the first study consisting of 14 control animals and 18 animals treated with 14 mg/kg bw of tranexamic acid, end-to-end anastomosis was performed on the central artery of one ear and on the central vein of the other ear. In the second, third, and fourth studies consisting of 18, 20, and 16 control vessels and the same number of corresponding vessels in treated animals a 7-mm longitudinal arteriotomy followed by a deep 5-mm-long intimectomy was performed. The second and third treated groups were given 14 mg/kg bw of tranexamic acid 5 min and 1 h, respectively, before reflow and the fourth group 28 mg/kg bw 5 min before reflow. The difference between the second and third studies was the addition, to mimic clinical situations, of 8.5 ml saline/kg bw 2 h before reflow in the third study. In conclusion, treatment with a single clinical dose, 14 mg/kg of tranexamic acid, did not influence vessel bleeding times or thrombus formation in the anastomotic or severe trauma models and seems safe to use. Not even a double clinical dose, 28 mg/kg, influenced thrombus formation in a statistically significant way. ? 1997 Wiley-Liss, Inc. MICROSURGERY 17:278?285 1996
+ER  - 
+
+TY  - JOUR
+AU  - Braune, Steffen
+AU  - Latour, Robert A.
+AU  - Reinthaler, Markus
+AU  - Landmesser, Ulf
+AU  - Lendlein, Andreas
+AU  - Jung, Friedrich
+C7  - 1900527
+TI  - In Vitro Thrombogenicity Testing of Biomaterials
+JO  - Advanced Healthcare Materials
+JA  - Adv. Healthcare Mater.
+VL  - 8
+IS  - 21
+SN  - 2192-2640
+UR  - https://doi.org/10.1002/adhm.201900527
+DO  - doi:10.1002/adhm.201900527
+SP  - 1900527
+KW  - biomaterials
+KW  - blood tests
+KW  - implants
+KW  - in vitro
+KW  - thrombogenicity
+PY  - 2019
+AB  - Abstract The short- and long-term thrombogenicity of implant materials is still unpredictable, which is a significant challenge for the treatment of cardiovascular diseases. A knowledge-based approach for implementing biofunctions in materials requires a detailed understanding of the medical device in the biological system. In particular, the interplay between material and blood components/cells as well as standardized and commonly acknowledged in vitro test methods allowing a reproducible categorization of the material thrombogenicity requires further attention. Here, the status of in vitro thrombogenicity testing methods for biomaterials is reviewed, particularly taking in view the preparation of test materials and references, the selection and characterization of donors and blood samples, the prerequisites for reproducible approaches and applied test systems. Recent joint approaches in finding common standards for a reproducible testing are summarized and perspectives for a more disease oriented in vitro thrombogenicity testing are discussed.
+ER  - 
+
+TY  - JOUR
+AU  - Yang, L.
+AU  - Guo, Y.
+AU  - Wen, D.
+AU  - Yang, L.
+AU  - Chen, Y.
+AU  - Zhang, G.
+AU  - Fan, Z.
+TI  - Bone Fracture Enhances Trauma Brain Injury
+JO  - Scandinavian Journal of Immunology
+JA  - Scand J Immunol
+VL  - 83
+IS  - 1
+SN  - 0300-9475
+UR  - https://doi.org/10.1111/sji.12393
+DO  - doi:10.1111/sji.12393
+SP  - 26
+EP  - 32
+PY  - 2016
+AB  - Abstract Traumatic brain injury (TBI) is one of the leading causes of mortality and morbidity in young individuals worldwide. However, the understanding of TBI at secondary phase remained obscure, and more knowledge of the pathophysiology of TBI is necessary. In this study, we examined the influence of bone fracture (BF) on TBI and investigated whether blocking high mobility group 1 (HMGB1) protein, an inflammatory mediator, could be effective to alleviate TBI. We found neurological severity was significantly increased by BF at 4 days post-TBI with longer removal time of adhesive tape and higher percentage of left turn in the corner test compared to TBI treatment alone. Additionally, higher brain lesion volume and severer brain oedema in TBI + BF mice supports the negative effect of BF on TBI. HMGB1 level was significantly stimulated by BF, suggesting the important role of HMGB1 in the development of secondary TBI. Notably, ablation of HMGB1 significantly reduced this negative influence of BF on TBI. These results suggest that HMGB1 can be massively induced by the systemic immune activation triggered by BF, which in turn aggravates inflammation. Blocking HMGB1 reduced the inflammatory effect of BF and therefore helps lessen the severity of secondary TBI. In conclusion, these results provided the evidence that anti-HMGB1 may be an effective and feasible method to alleviate TBI.
+ER  - 
+
+TY  - JOUR
+TI  - TRAUMA SURGERY
+JO  - ANZ Journal of Surgery
+VL  - 76
+IS  - s1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/j.1445-2197.2006.03821.x
+DO  - doi:10.1111/j.1445-2197.2006.03821.x
+SP  - A88
+EP  - A94
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+AU  - Nolff, M. C.
+AU  - Reese, S.
+AU  - Fehr, M.
+AU  - Dening, R.
+AU  - Meyer-Lindenberg, A.
+TI  - Assessment of wound bio-burden and prevalence of multi-drug resistant bacteria during open wound management
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 57
+IS  - 5
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/jsap.12476
+DO  - doi:10.1111/jsap.12476
+SP  - 255
+EP  - 259
+PY  - 2016
+AB  - Objective To describe the bacterial bio-burden of open-treated wounds and make comparisons with bite wounds. Design Retrospective multicentre study. Sample Microbial culture between 2011 and 2013 from open-treated wounds in dogs and cats (initiation of therapy n=88, follow-up n=52) were compared to those from bite wounds (n=184). Procedures Bacteria were identified and tested for antibiotic susceptibility by two accredited laboratories. Results In total, 77/88 (88%) of open-treated wounds yielded positive bacterial cultures at the beginning of treatment, decreasing to 27/52 (52%) during treatment. Upon initial evaluation, 42/88 (48 %) of open-treated wounds were considered infected with multi-drug-resistant bacteria, with a drop to 22/52 (41%) during therapy. Bite wounds yielded fewer positive cultures 88/184 (48%) with only 11/182 (6%) being affected by multi-drug-resistant bacteria. Bacteria found most commonly in open-treated wounds were Enterococcus subspecies, Escherichia coli, Staphylococcus pseudintermedius and Pseudomonas aeruginosa. Conclusion The bacterial populations of open-treated wounds differed markedly from the bite wounds. The high incidence of multi-drug-resistant strains in open wounds highlights the need for alternatives to antibiotics.
+ER  - 
+
+TY  - JOUR
+AU  - Tamaki, Tetsuro
+AU  - Akatsuka, Akira
+TI  - Appearance of complex branched fibers following repetitive muscle trauma in normal rat skeletal muscle
+JO  - The Anatomical Record
+JA  - Anat. Rec.
+VL  - 240
+IS  - 2
+SN  - 0003-276X
+UR  - https://doi.org/10.1002/ar.1092400208
+DO  - doi:10.1002/ar.1092400208
+SP  - 217
+EP  - 224
+KW  - Skeletal muscle
+KW  - Complex branched fiber
+KW  - Scanning electron microscopy
+KW  - normal rat
+PY  - 1994
+AB  - Abstract Background: To examine whether the complex branched fibers observed in mdx mutant mice were formed in normal skeletal muscles, long-term repetitive muscle trauma was applied to muscle of normal Wistar male rats. Methods: Three kinds of artificial muscle trauma?crush injury, bupivacaine hydrochloride treatment, and forced stretching of contracting muscle (eccentric contraction)?were performed once a week for 10 weeks to achieve a state of repetitive degeneration and regeneration in the muscles. Two weeks after the final treatment, numerical, histochemical, and three-dimensional analyses by scanning electron microscopy were performed. Results: Mean numbers of total branched fibers of the three groups were increased compared with normal control values, especially in the bupivacaine treatment group (three- to fivefold greater than in the other two groups). Aggregations of fibers of the same type which usually appear in mdx mice were observed in various parts of histological sections of the bupivacaine treatment group and only in a part of the crush injury group. No aggregations were observed in sections of the forced stretching group. In the three-dimensional analysis, complex branched fibers appearing as an ?anastomosing syncytial reticulum? were observed only in the bupivacaine treatment group. Conclusions: These findings suggest that the formation of an anastomosing syncytial reticulum is one of the adaptation mechanisms of normal skeletal muscle rather than a specific event in mdx mutant mice, and long-term repeated trauma of the same fiber is necessary for this formation. Adaptive changes in the muscles with the three different types of muscle trauma are discussed. ? 1994 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Bond, R.
+AU  - Loeffler, A.
+TI  - What’s happened to Staphylococcus intermedius? Taxonomic revision and emergence of multi-drug resistance
+JO  - Journal of Small Animal Practice
+VL  - 53
+IS  - 3
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/j.1748-5827.2011.01165.x
+DO  - doi:10.1111/j.1748-5827.2011.01165.x
+SP  - 147
+EP  - 154
+PY  - 2012
+AB  - Staphylococcus intermedius has been the predominant coagulase-positive Staphylococcus isolated from canine skin and mucosae and the most commonly reported staphylococcal pathogen in small animal practice for the last 35 years. Although microbiological tests have historically indicated variability in biochemical characteristics amongst S. intermedius isolates from animals, an acceptable level of diagnostic accuracy for clinical purposes was readily achievable with routine phenotypic testing. However, three recent developments have changed our understanding of the term ?S. intermedius? and have challenged veterinary bacteriologists to ensure correct species identification of pathogenic staphylococci from small animals. First, the increasing recognition of meticillin-resistant Staphylococcus aureus in small animal practice and its human health implications demand accurate species identification. Secondly, the application of molecular techniques to analysis of staphylococcal isolates has led to a revised taxonomy and canine isolates of S. intermedius being re-named S. pseudintermedius. Thirdly, the recent, rapid emergence of meticillin- and multi-drug-resistant strains of Staphylococcus pseudintermedius (MRSP) has become a major therapeutic challenge in veterinary practice worldwide, including the UK. This article discusses the background of the recent taxonomic changes within the genus Staphylococcus and reviews the key features of MRSP and its implications for day-to-day laboratory diagnosis and small animal practice.
+ER  - 
+
+TY  - JOUR
+AU  - Gruvberger, Birgitta
+AU  - Ahnlide, I
+AU  - Möller, H
+AU  - Bruze, M
+TI  - FS02.8 Patch testing with gold trichloride can give false test results
+JO  - Contact Dermatitis
+VL  - 50
+IS  - 3
+SN  - 0105-1873
+UR  - https://doi.org/10.1111/j.0105-1873.2004.0309z.x
+DO  - doi:10.1111/j.0105-1873.2004.0309z.x
+SP  - 132
+EP  - 132
+PY  - 2004
+AB  - Background:? Hydrochloric acid is formed in water solutions of gold trichloride. Hydrochloric acid in contact with aluminium generates hydrogen gas which can reduce and transform trivalent gold to elemental gold. Objective:? To investigate whether patch testing with aqueous gold trichloride can cause false positive (irritant) reactions in patients without contact allergy to gold and false negative reactions in patients with gold allergy. Methods:? 13 patients with and 13 patients without positive patch test reactions to gold sodium thiosulfate were tested with gold trichloride in 2 different vehicles, water and alkaline buffer, using 2 different test techniques, the Finn Chamber technique with aluminium chambers and van der Bend technique with polypropene chambers. Results:? Irritant patch test reactions were obtained with aqueous gold trichloride tested in van der Bend chambers in 10 patients without gold allergy. In gold-allergic patients no positive test reactions were obtained from aqueous gold trichloride in Finn chambers while 2 positive test reactions were obtained from gold trichloride in alkaline buffer tested in van der Bend chambers. Conclusion:? If gold trichloride is patch tested in wrong vehicle and with wrong test technique irritant test reactions may occur which can be misinterpreted as positive allergic reactions in patients without gold allergy as well as negative reactions in patients with gold allergy.
+ER  - 
+
+TY  - JOUR
+TI  - Trauma Surgery
+JO  - ANZ Journal of Surgery
+VL  - 74
+IS  - S1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/ans.2004.74.s1.a132
+DO  - doi:10.1111/ans.2004.74.s1.a132
+SP  - A132
+EP  - A136
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+AU  - FONAGY, PETER
+TI  - Early-Life Trauma and the Psychogenesis and Prevention of Violence
+JO  - Annals of the New York Academy of Sciences
+VL  - 1036
+IS  - 1
+SN  - 0077-8923
+UR  - https://doi.org/10.1196/annals.1330.012
+DO  - doi:10.1196/annals.1330.012
+SP  - 181
+EP  - 200
+KW  - violence
+KW  - child
+KW  - adolescent
+KW  - developmental approach
+KW  - trauma
+KW  - maltreatment
+KW  - prevention
+KW  - mentalization
+KW  - attachment
+PY  - 2004
+AB  - Abstract: This article considers the development of violence with particular reference to family factors in violence such as the quality of the parent-child relationship. In taking a developmental approach to violence, a link is established between the maltreatment of children in an attachment context and the risk of violence via the child's capacity to envision mental states in the other. Evidence from epidemiology and neuroscience is brought to bear on this link. Finally, some studies of prevention of violence that are likely to enhance attachment and mentalizing are considered.
+ER  - 
+
+TY  - JOUR
+AU  - Sachser, Cedric
+AU  - Keller, Ferdinand
+AU  - Goldbeck, Lutz
+TI  - Complex PTSD as proposed for ICD-11: validation of a new disorder in children and adolescents and their response to Trauma-Focused Cognitive Behavioral Therapy
+JO  - Journal of Child Psychology and Psychiatry
+JA  - J Child Psychol Psychiatr
+VL  - 58
+IS  - 2
+SN  - 0021-9630
+UR  - https://doi.org/10.1111/jcpp.12640
+DO  - doi:10.1111/jcpp.12640
+SP  - 160
+EP  - 168
+KW  - Complex posttraumatic stress disorder
+KW  - Trauma-Focused Cognitive Behavioral Therapy
+KW  - International Classification of Diseases
+KW  - diagnostic category
+PY  - 2017
+AB  - Background To evaluate whether the symptoms of children and adolescents with clinically significant posttraumatic stress symptoms (PTSS) form classes consistent with the diagnostic criteria of complex PTSD (CPTSD) as proposed for the ICD-11, and to relate the emerging classes with treatment outcome of Trauma-Focused Cognitive Behavioral Therapy (TF-CBT). Methods Latent classes analysis (LCA) was used to explore the symptom profiles of the clinical baseline assessment of N = 155 children and adolescents participating in a randomized controlled trial of TF-CBT. The treatment outcomes of patients with posttraumatic stress disorder (PTSD) and of patients with CPTSD were compared by a t-test for depended samples and a repeated-measures ANOVA. Results The LCA revealed two distinct classes: a PTSD class characterized by elevated core symptoms of PTSD (n = 62) and low symptoms of disturbances in self-organization versus a complex PTSD class with elevated PTSD core symptoms and elevated symptoms of disturbances in self-organization (n = 93). The Group ? Time interaction regarding posttraumatic stress symptoms was not significant. Pre?post effect sizes regarding posttraumatic stress symptoms were large for both groups (PTSD: d = 2.81; CPTSD: d = 1.37). For disturbances in self-organization in the CPTSD class, we found medium to large effect sizes (d = 0.40?1.16) after treatment with TF-CBT. Conclusions The results provide empirical evidence of the ICD-11 CPTSD and PTSD distinction in a clinical sample of children and adolescents. In terms of relative improvement from their respective baseline posttraumatic stress symptoms, patients with PTSD and CPTSD responded equally to TF-CBT; however, those with CPTSD ended treatment with clinically and statistically greater symptoms than those with PTSD.
+ER  - 
+
+TY  - JOUR
+AU  - Dust, Scott B.
+AU  - Ziegert, Jonathan C.
+TI  - Multi-Leader Teams in Review: A Contingent-Configuration Perspective of Effectiveness
+JO  - International Journal of Management Reviews
+JA  - International Journal of Management Reviews
+VL  - 18
+IS  - 4
+SN  - 1460-8545
+UR  - https://doi.org/10.1111/ijmr.12073
+DO  - doi:10.1111/ijmr.12073
+SP  - 518
+EP  - 541
+PY  - 2016
+AB  - Multi-leader teams are characterized by multiple leaders exhibiting mutual influence on each other while working towards a common team goal. An unexplored assumption in this literature is that increasing the number of leaders is related to heightened team effectiveness. The authors propose that this notion is oversimplified and suggest a contingency model of multi-leader team effectiveness. The authors suggest that the context determines the effectiveness of a particular multi-leader team configuration, because each formation has unique internal team mechanisms. To investigate this perspective, we review the multi-leader team literature (175 articles) by categorizing the extant theory and research as falling within nine multi-leader configurations along two key dimensions: (1) the proportion of leaders within a team; and (2) the dispersion of leadership through role co-enactment of team leaders. This framework enables a more coherent understanding as to the benefits and the costs of each specific multi-leader team configuration and a clearer evaluation of the contexts in which varying configurations are most effective. Four emerging themes related to configuration?contextualization are explained and theoretical implications for interpreting leadership effectiveness in multi-leader team settings are discussed.
+ER  - 
+
+AU  - Müller, Lutz
+AU  - Husar, Elisabeth
+C7  - pp. 42-81
+TI  - Preclinical Safety Testing
+SN  - 9780470659878
+UR  - https://doi.org/10.1002/9781118532331.ch3
+DO  - doi:10.1002/9781118532331.ch3
+SP  - 42-81
+KW  - toxicity testing of pharmaceuticals
+KW  - biologics
+KW  - safety pharmacology
+KW  - genetic toxicology
+KW  - reproductive toxicity
+KW  - carcinogenicity
+KW  - impurities
+KW  - juvenile toxicity
+PY  - 2016
+AB  - Summary Comprehensive preclinical safety testing in vitro and in animal models is mandatory when developing a potential new pharmaceutical compound. The primary objectives of such studies are to demonstrate that, under the conditions of human volunteer profiling and in therapy, the potential new drug is safe or its side effects can be monitored and managed. Hence, regulatory agencies need to be assured that the benefits of a new medicine outweigh the risks of therapy. Toxicologists have to assist clinicians in determining the likely range of safe exposures to the new pharmaceutical in appropriate animal and in vitro models and the possible consequences if these doses are exceeded. Early response surrogate biomarkers for toxicity can indicate when safety limits have been breached, but before significant damage has occurred. The chapter on preclinical safety describes the necessary experiments, their design and conduct versus the background of regulatory guideline expectations. The chapter also comprises expectations for animal safety testing of biologics, juvenile toxicity and describes new challenges for non-clinical safety studies such as the use of pluripotent stem cells.
+ER  - 
+
+TY  - JOUR
+AU  - Ho, K.K.
+TI  - TO REVIEW THE CARDIOTHORACIC TRAUMA AT QUEEN ELIZABETH HOSPITAL 1995–2000
+JO  - Annals of the College of Surgeons of Hong Kong
+VL  - 5
+IS  - 2
+SN  - 9780470659878
+UR  - https://doi.org/10.1111/j.1442-2034.2001.98-7.x
+DO  - doi:10.1111/j.1442-2034.2001.98-7.x
+SP  - A16
+EP  - A16
+PY  - 2001
+AB  - Purpose: All cardiothoracic consultations initiated at Accident and Emergency Department for period February 1995 to November 2000 were reviewed. Methods: Information was extracted from Trauma Registry of over 1000 cases. Results: 61 consultation was recorded. There were 33 blunt injury and 28 penetrating injury. 21 cases were of ISS 15 or less. Surgery for thoracic injury was performed in 13 cases of blunt injury (40%) and 20 cases of penetrating injury (70%). Majority of surgery was related to chest wall and lung injury. In addition there were 3 major intrathoracic vessel, 6 cardiac, 3 diaphragmatic and 1 major airway injury. 20 deaths were recorded with 4 deaths at A&E department. Mortality is related to severity of ISS and age >70. 4 ER-thoracotomy was performed with 3 deaths. There were related to heart and aorta injury with average ISS≥50. Conclusion: 1. Major cardiothoracic trauma is not common. 2. When present, it is associated with severe injury. 3. The outcome is related to severity of ISS and old age.
+ER  - 
+
+TY  - JOUR
+AU  - Yao, Henry H.-I.
+AU  - Esser, Max
+AU  - Grummet, Jeremy
+AU  - Atkins, Chris
+AU  - Royce, Peter
+AU  - Hanegbi, Uri
+TI  - Lower risk of pelvic metalware infection with operative repair of concurrent bladder rupture
+JO  - ANZ Journal of Surgery
+JA  - ANZ Journal of Surgery
+VL  - 88
+IS  - 6
+SN  - 9780470659878
+UR  - https://doi.org/10.1111/ans.14233
+DO  - doi:10.1111/ans.14233
+SP  - 560
+EP  - 564
+KW  - fracture fixation
+KW  - multiple trauma
+KW  - pelvic infection
+KW  - urinary bladder diseases
+KW  - urinary catheters
+PY  - 2018
+AB  - Background Patients with traumatic bladder rupture frequently have associated pelvic fracture. With increasing numbers of pelvic fractures fixed internally, there are concerns that conservative management of bladder rupture may increase the risk of pelvic metalware infection. This study aims to determine if operative repair of bladder rupture in comparison to conservative management with catheter drainage alone is associated with a lower rate of infection of internal fixation device for concurrent pelvic fracture. Methods This is a retrospective cohort study of level IV evidence. From July 2001 through June 2013, 45 multi-trauma patients at a level 1 trauma centre were identified to have sustained bladder rupture with concurrent pelvic fracture requiring internal fixation. Clinicopathological data were extracted from the TraumaNET database, medical records and health-coding database. Patients were stratified into two retrospective cohorts, management with surgical repair and management with catheter drainage alone. Fischer's exact test was used to determine whether the rate of pelvic metalware infection was different in the two cohorts. Results Of the 45 patients, 13 had intraperitoneal bladder rupture, 28 had extraperitoneal bladder rupture and four had combined intra-extraperitoneal bladder rupture. The median age for this cohort was 31. Bladder rupture was surgically repaired in 36 patients and managed conservatively with catheter drainage in nine patients. The rate of pelvic internal fixation device infection was lower in patients managed with surgical repair compared with conservative management (5.6% versus 33.3%, P = 0.047). Conclusion Operative repair of bladder rupture is associated with a lower rate of pelvic orthopaedic hardware infection in the presence of concurrent pelvic fracture requiring internal fixation.
+ER  - 
+
+TY  - JOUR
+AU  - Rosler, Nimrod
+AU  - Branscombe, Nyla R.
+TI  - Inclusivity of past collective trauma and its implications for current intractable conflict: The mediating role of moral lessons
+JO  - British Journal of Social Psychology
+JA  - Br. J. Soc. Psychol.
+VL  - 59
+IS  - 1
+SN  - 9780470659878
+UR  - https://doi.org/10.1111/bjso.12336
+DO  - doi:10.1111/bjso.12336
+SP  - 171
+EP  - 188
+KW  - Holocaust
+KW  - humanitarian and militaristic policy support
+KW  - Israeli
+KW  - moral entitlement
+KW  - moral obligation
+KW  - Palestinian conflict
+KW  - victimhood
+PY  - 2020
+AB  - How are perceptions of past collective trauma related to moral lessons derived, and how are those in turn associated with conflict-related policy preferences of those presently involved in intractable conflict? We hypothesized that inclusive conceptions of past trauma will be positively associated with moral obligations and negatively with moral entitlement, and that moral obligations will be positively associated with humanitarian policies and negatively with militaristic policies, while moral entitlement will be positively associated with militaristic policies and negatively with humanitarian policies. In a cross-sectional study with a representative sample of Jewish Israelis (N = 504), moral obligations mediated the association between higher inclusivity of past collective trauma and humanitarian policy support, while moral entitlement mediated between lower inclusivity and increased militant policy support. Inclusive perceptions of past trauma and its moral lessons may play a critical role in advancing conflict resolution in intractable conflicts settings unrelated to the initial trauma.
+ER  - 
+
+TY  - JOUR
+AU  - Powell, Mary Lucas
+TI  - In the Best of Health? Disease and Trauma Among the Mississippian Elite
+JO  - Archaeological Papers of the American Anthropological Association
+VL  - 3
+IS  - 1
+SN  - 9780470659878
+UR  - https://doi.org/10.1525/ap3a.1992.3.1.81
+DO  - doi:10.1525/ap3a.1992.3.1.81
+SP  - 81
+EP  - 97
+PY  - 1992
+AB  - Comparisons of skeletal data on diet, disease, and trauma in elite and non-elite population samples from Mississippian sites throughout the Southeast have yielded a variety of patterns, some contradictory and some paralleling expectations based upon ethnohistoric accounts of elite sumptuary behaviors. Although trace element analyses of human bone from Alabama and Tennessee sites suggest that elites ate relatively more meat than their presumed social inferiors, non-elite health does not seem particularly compromised. The high prevalence of trauma in elite males at Chucalissa may reflect the role of warfare in male status advancement. The lords of the Southeast and their families may have been in effect ?overnourished? relative to everyone else, but probably not to the extent of historically documented African and Polynesian chiefly lineages whose literally weighty embodiment of superior social status impressed visiting travellers and ethnographers alike.
+ER  - 
+
+TY  - JOUR
+AU  - De Wilde, Jean-Philippe
+AU  - Lebrun, Eric
+AU  - Bournonville, Bernadette
+AU  - Kinnaert, Paul
+TI  - Surgical trauma does not decrease resistance to infection
+JO  - European Journal of Surgery
+JA  - Eur J Surg
+VL  - 164
+IS  - 5
+SN  - 9780470659878
+UR  - https://doi.org/10.1080/110241598750004364
+DO  - doi:10.1080/110241598750004364
+SP  - 339
+EP  - 343
+PY  - 1998
+AB  - Abstract Objective: To investigate the effect on survival of two operations done at various intervals before the induction of monobacterial or multibacterial peritonitis in rats. Design: Laboratory study. Setting: Teaching hospital, Belgium. Material: Inbred male white wistar R/A rats. Interventions: Posterolateral laparotomy, hindleg amputation, or control (anaesthetic only) (n = 90 animals in each group), followed by induction of Escherichia coli or Staphylococcus aureus peritonitis at 1, 7 or 14 days. Further groups of rats were similarly operated on (50 in each group), but peritonitis was induced by caecal ligation and puncture. Main outcome measure: Survival 7 days after induction of peritonitis. Results: Of the rats in which E. coli was used to induce peritonitis 27/28 (96%), 29/29 (100%), and 21/30 (70%) had survived 7 days after induction of peritonitis in the group that underwent posterolateral laparotomy, compared with 18/30 (60%), 20/28 (71%), and 18/28 (64%) in the control group; p < 0.001, 0.002, and 0.78, respectively. The figures for hindleg amputation were 21/27 (78%), 23/27 (85%), and 17/30 (57%). The corresponding figures for S. aureus peritonitis were for posterolateral laparotomy 28/30 (93%), 20/30 (67%), and 24/29 (83%) compared with controls 21/30 (70%), 9/30 (30%), and 20/29 (69%); p < 0.04, 0.009, and 0.75, respectively. The figures for hindleg amputation were 21/30 (70%), 12/30 (40%), and 23/30 (77%). Similar results were obtained with peritonitis induced by caecal ligation and puncture. Conclusions: Althought surgical trauma may depress various aspects of the immune response in rats, it does not decrease their resistance to intraperitoneal microbial infections. The previous opening of the peritoneal cavity seemed to improve survival in our model. Copyright ? 1998 Taylor and Francis Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Nau, T. N.
+AU  - Dwyer, D. D.
+AU  - Glenn, D. G.
+TI  - TS05 WHOLE-BODY MULTISLICE CT-SCANNING AS PRIMARY IMAGING TOOL IN THE EMERGENCY MANAGEMENT OF SEVERE TRAUMA
+JO  - ANZ Journal of Surgery
+VL  - 77
+IS  - s1
+SN  - 9780470659878
+UR  - https://doi.org/10.1111/j.1445-2197.2007.04133_5.x
+DO  - doi:10.1111/j.1445-2197.2007.04133_5.x
+SP  - A94
+EP  - A94
+PY  - 2007
+AB  - Aim? Whole-body multislice CT-Scanning (MSCT) has become the primary imaging device in many European and North American trauma centres. We aim to present a new standardised protocol that has lead to a markedly improved diagnostic managment in an Australian metropolitan trauma centre. Methods? Based on growing evidence in the literature the MSCT is used as the primary imaging tool in severely injured patients and is routinely performed after completion of primary and secondary survey. The routine protocol consists of a non-contrast head and cervical spine CT, followed by a contrast chest, abdomen and pelvic CT. Apart from an initial chest X-Ray, routine X-ray trauma series are not performed anymore. The criteria for this whole-body MSCT are strictly limited to patients that required trauma team activation and can be sufficiently stabilised in the emergency room. Results? This adapted diagnostic algorithm has shown to be very fast and efficient. The average duration of initial management can be reduced significantly, in addition the number of initially missed injuries is markedly reduced. Conclusions? Primary whole-body MSCT has become a valuable diagnostic tool in the emergency management of severe trauma. A strictly followed protocol has been shown to be crucial to avoid overuse, in terms of radiation as well as exposing the unstable patient to an unnecessary high risk.
+ER  - 

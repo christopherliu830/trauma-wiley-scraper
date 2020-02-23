@@ -1,0 +1,661 @@
+
+TY  - JOUR
+AU  - Domínguez, J.
+AU  - Galí, N.
+AU  - Matas, L.
+AU  - Pedroso, P.
+AU  - Blanco, S.
+AU  - Giménez, M.
+AU  - Prat, C.
+AU  - Sopena, N.
+AU  - Sabrià, M.
+AU  - Ausina, V.
+TI  - PCR detection of Streptococcus pneumoniae DNA in serum samples for pneumococcal pneumonia diagnosis
+JO  - Clinical Microbiology and Infection
+VL  - 7
+IS  - 3
+SN  - 1198-743X
+UR  - https://doi.org/10.1046/j.1198-743x.2001.00228.x
+DO  - doi:10.1046/j.1198-743x.2001.00228.x
+SP  - 164
+EP  - 166
+PY  - 2001
+ER  - 
+
+TY  - JOUR
+AU  - Trastulli, S.
+AU  - Cirocchi, R.
+AU  - Listorti, C.
+AU  - Cavaliere, D.
+AU  - Avenia, N.
+AU  - Gullà, N.
+AU  - Giustozzi, G.
+AU  - Sciannameo, F.
+AU  - Noya, G.
+AU  - Boselli, C.
+TI  - Laparoscopic vs open resection for rectal cancer: a meta-analysis of randomized clinical trials
+JO  - Colorectal Disease
+VL  - 14
+IS  - 6
+SN  - 1462-8910
+UR  - https://doi.org/10.1111/j.1463-1318.2012.02985.x
+DO  - doi:10.1111/j.1463-1318.2012.02985.x
+SP  - e277
+EP  - e296
+KW  - Rectal neoplasm
+KW  - laparoscopic
+KW  - meta-analysis
+KW  - surgery
+PY  - 2012
+AB  - Abstract Aim? Laparoscopic and open rectal resection for cancer were compared by analysing a total of 26 end points which included intraoperative and postoperative recovery, short-term morbidity and mortality, late morbidity and long-term oncological outcomes. Method? We searched for published randomized clinical trials, presenting a comparison between laparoscopic and open rectal resection for cancer using the following electronic databases: PubMed, OVID, Medline, Cochrane Database of Systematic Reviews, EBM Reviews, CINAHL and EMBASE. Results? Nine randomized clinical trials (RCTs) were included in the meta-analysis incorporating a total of 1544 patients, having laparoscopic (N?=?841) and open rectal resection (N?=?703) for cancer. Laparoscopic surgery for rectal cancer was associated with a statistically significant reduction in intraoperative blood loss and in the number of blood transfusions, earlier resuming solid diet, return of bowel function and a shorter duration of hospital stay. We also found a significant advantage for laparoscopy in the reduction of post-operative abdominal bleeding, late intestinal adhesion obstruction and late morbidity. No differences were found in terms of intra-operative and late oncological outcomes. Conclusion? The meta-analysis indicates that laparoscopy benefits patients with shorter hospital stay, earlier return of bowel function, reduced blood loss and number of blood transfusions and lower rates of abdominal postoperative bleeding, late intestinal adhesion obstruction and other late morbidities.
+ER  - 
+
+TY  - JOUR
+AU  - Kacar, Turgay
+AU  - Zin, Melvin T.
+AU  - So, Christopher
+AU  - Wilson, Brandon
+AU  - Ma, Hong
+AU  - Gul-Karaguler, Nevin
+AU  - Jen, Alex K.-Y.
+AU  - Sarikaya, Mehmet
+AU  - Tamerler, Candan
+TI  - Directed self-immobilization of alkaline phosphatase on micro-patterned substrates via genetically fused metal-binding peptide
+JO  - Biotechnology and Bioengineering
+JA  - Biotechnol. Bioeng.
+VL  - 103
+IS  - 4
+SN  - 0006-3592
+UR  - https://doi.org/10.1002/bit.22282
+DO  - doi:10.1002/bit.22282
+SP  - 696
+EP  - 705
+KW  - inorganic binding peptides
+KW  - enzymes
+KW  - oriented-immobilization
+KW  - genetic fusion
+KW  - self-assembly
+PY  - 2009
+AB  - Abstract Current biotechnological applications such as biosensors, protein arrays, and microchips require oriented immobilization of enzymes. The characteristics of recognition, self-assembly and ease of genetic manipulation make inorganic binding peptides an ideal molecular tool for site-specific enzyme immobilization. Herein, we demonstrate the utilization of gold binding peptide (GBP1) as a molecular linker genetically fused to alkaline phosphatase (AP) and immobilized on gold substrate. Multiple tandem repeats (n?=?5, 6, 7, 9) of gold binding peptide were fused to N-terminus of AP (nGBP1-AP) and the enzymes were expressed in E. coli cells. The binding and enzymatic activities of the bi-functional fusion constructs were analyzed using quartz crystal microbalance spectroscopy and biochemical assays. Among the multiple-repeat constructs, 5GBP1-AP displayed the best bi-functional activity and, therefore, was chosen for self-immobilization studies. Adsorption and assembly properties of the fusion enzyme, 5GBP1-AP, were studied via surface plasmon resonance spectroscopy and atomic force microscopy. We demonstrated self-immobilization of the bi-functional enzyme on micro-patterned substrates where genetically linked 5GBP1-AP displayed higher enzymatic activity per area compared to that of AP. Our results demonstrate the promising use of inorganic binding peptides as site-specific molecular linkers for oriented enzyme immobilization with retained activity. Directed assembly of proteins on solids using genetically fused specific inorganic-binding peptides has a potential utility in a wide range of biosensing and bioconversion processes. Biotechnol. Bioeng. 2009;103: 696?705. ? 2009 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Hongchang
+AU  - Cai, Biao
+AU  - Pankhurst, Matthew James
+AU  - Zhou, Tunhe
+AU  - Kashyap, Yogesh
+AU  - Atwood, Robert
+AU  - Le Gall, Nolwenn
+AU  - Lee, Peter
+AU  - Drakopoulos, Michael
+AU  - Sawhney, Kawal
+C8  - HF5358
+TI  - X-ray phase-contrast imaging with engineered porous materials over 50 keV
+JO  - Journal of Synchrotron Radiation
+JA  - J. Synchrotron Rad.
+VL  - 25
+IS  - 4
+SN  - 1600-5775
+UR  - https://doi.org/10.1107/S1600577518005623
+DO  - doi:10.1107/S1600577518005623
+SP  - 1182
+EP  - 1188
+KW  - X-ray phase imaging
+KW  - speckle technique
+KW  - hard X-rays
+KW  - random attenuation masks
+KW  - high-energy regions
+KW  - porous materials
+PY  - 2018
+AB  - X-ray phase-contrast imaging can substantially enhance image contrast for weakly absorbing samples. The fabrication of dedicated optics remains a major barrier, especially in high-energy regions (i.e. over 50?keV). Here, the authors perform X-ray phase-contrast imaging by using engineered porous materials as random absorption masks, which provides an alternative solution to extend X-ray phase-contrast imaging into previously challenging higher energy regions. The authors have measured various samples to demonstrate the feasibility of the proposed engineering materials. This technique could potentially be useful for studying samples across a wide range of applications and disciplines.
+ER  - 
+
+TY  - JOUR
+AU  - Morley, John Edward
+AU  - Niehoff, Michael L.
+AU  - Bergin, Michael W.
+AU  - Roesler, Elizabeth C.
+AU  - Shah, Gul N.
+AU  - Price, Tulin O.
+AU  - Farr, Susan A.
+TI  - P2-021: METFORMIN AND TOPIRAMATE IMPROVE LEARNING AND MEMORY IN DIABETIC MICE AND SAMP8 MICE MODEL OF ALZHEIMER'S DISEASE
+JO  - Alzheimer's & Dementia
+JA  - Alzheimer's & Dementia
+VL  - 10
+IS  - 4S_Part_12
+SN  - 1552-5260
+UR  - https://doi.org/10.1016/j.jalz.2014.05.694
+DO  - doi:10.1016/j.jalz.2014.05.694
+SP  - P477
+EP  - P478
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+AU  - Darves-Bornoz, Jean-Michel
+AU  - Alonso, Jordi
+AU  - de Girolamo, Giovanni
+AU  - Graaf, Ron de
+AU  - Haro, Josep-Maria
+AU  - Kovess-Masfety, Viviane
+AU  - Lepine, Jean-Pierre
+AU  - Nachbaur, Gaëlle
+AU  - Negre-Pages, Laurence
+AU  - Vilagut, Gemma
+AU  - Gasquet, Isabelle
+TI  - Main traumatic events in Europe: PTSD in the European study of the epidemiology of mental disorders survey
+JO  - Journal of Traumatic Stress
+JA  - J. Traum. Stress
+VL  - 21
+IS  - 5
+SN  - 0894-9867
+UR  - https://doi.org/10.1002/jts.20357
+DO  - doi:10.1002/jts.20357
+SP  - 455
+EP  - 462
+PY  - 2008
+AB  - Abstract A potentially traumatic event (PTE) contributes to trauma through its frequency, conditional probability of posttraumatic stress disorder (PTSD), and experience of other PTEs. A cross-sectional survey was conducted, enrolling 21,425 adults nationally representative of six European countries. Using the WHO-Composite International Diagnostic Interview, 8,797 were interviewed on 28 PTEs and PTSD. Prevalence of 12-month PTSD was 1.1%. When PTSD was present, the mean number of PTEs experienced was 3.2. In a multivariate analysis on PTEs and gender, six PTEs were found to be more traumatic, and to explain a large percentage of PTSD, as estimated by their attributable risk of PTSD: rape, undisclosed private event, having a child with serious illness, beaten by partner, stalked, beaten by caregiver.
+ER  - 
+
+TY  - JOUR
+AU  - Raiol, Tainá
+AU  - Wyant, Patrícia Soares
+AU  - de Amorim, Regina Maria Santos
+AU  - Cerqueira, Daniela Marreco
+AU  - Milanezi, Natália von Gal
+AU  - Brígido, Marcelo de Macedo
+AU  - Sichero, Laura
+AU  - Martins, Cláudia Renata Fernandes
+TI  - Genetic variability and phylogeny of the high-risk HPV-31, -33, -35, -52, and -58 in central Brazil
+JO  - Journal of Medical Virology
+JA  - J. Med. Virol.
+VL  - 81
+IS  - 4
+SN  - 0146-6615
+UR  - https://doi.org/10.1002/jmv.21432
+DO  - doi:10.1002/jmv.21432
+SP  - 685
+EP  - 692
+KW  - HPV
+KW  - molecular variants
+KW  - viral phylogeny
+KW  - central Brazil
+KW  - genetic variability
+PY  - 2009
+AB  - Abstract More than 100 HPV types have been described, 13 of which are classified as high-risk due to their association with the development of cervical cancer. The intratype genomic diversity of HPV-16 and -18 has been studied extensively, while little data have been generated for other less common high-risk types. The present study explores the nucleotide variability and phylogeny of the high-risk HPV-31, -33, -35, -52, and -58, in samples from Central Brazil. For this purpose, the LCR and the E6 and L1 genes were sequenced. Several variants of these HPV types were detected, some of which have been detected in other parts of the world. Furthermore, new variants of all types examined were characterized in a total of 13 new variants. Based on the E6 and L1 sequences, variants were described comprising conservative and non-conservative amino acid changes. For phylogenetic tree construction, samples characterized in this study were compared to others described and submitted to GenBank previously. The phylogenetic analysis of HPV-31, -33, -35, and -58 isolates did not reveal ethnic or geographical clustering as observed previously for HPV-16 and -18. HPV-35 analysis showed a dichotomic branching characteristic of viral subtypes. Interestingly, four clusters relative to the analysis of HPV-52 isolates were identified, two of which could be classified as Asian and European branches. The genomic characterization of HPV variants is crucial for understanding the intrinsic geographical relatedness and biological differences of these viruses and contributes further to studies on their infectivity and pathogenicity. J. Med. Virol. 81:685?692, 2009 ? 2009 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Munawar, Muhammad Azeem
+AU  - Khan, Shahzad Maqsood
+AU  - Gull, Nafisa
+AU  - Shafiq, Muhammad
+AU  - Islam, Atif
+AU  - Zia, Saba
+AU  - Sabir, Aneela
+AU  - Ghouri, Awais Sattar
+AU  - Butt, Muhammad Taqi Zahid
+AU  - Jamil, Tahir
+TI  - Fabrication and characterization of novel zirconia filled glass fiber reinforced polyester hybrid composites
+JO  - Journal of Applied Polymer Science
+JA  - J. Appl. Polym. Sci.
+VL  - 133
+IS  - 27
+SN  - 0021-8995
+UR  - https://doi.org/10.1002/app.43615
+DO  - doi:10.1002/app.43615
+KW  - composites
+KW  - differential scanning calorimetry
+KW  - mechanical properties
+KW  - polyesters
+KW  - properties and characterization
+PY  - 2016
+AB  - ABSTRACT Novel hybrid glass fiber reinforced polyester composites (GFRPCs) filled with 1-5 wt % microsized zirconia (ZrO2) particles, were fabricated by hand lay-up process followed by compression molding and evaluated their physical, mechanical and thermal behaviors. The consumption of styrene in cured GFRPCs was confirmed by Fourier transform infrared spectroscopy. The potential implementation of ZrO2 particles lessened the void contents marginally and substantially enhanced the mechanical and thermal properties in the resultant hybrid composites. The GFRPCs filled with 4 wt % ZrO2 illustrated noteworthy improvement in tensile strength (66.672 MPa) and flexural strength (67.890 MPa) while with 5 wt % ZrO2 showed 63.93% rise in hardness, respectively, as compared to unfilled GFRPCs. Physical nature of polyester matrix for composites and an improved glass transition temperature (Tg) from 103 to 112?°C was perceived by differential scanning calorimetry thermograms. Thermogravimetric analysis revealed that the thermal stability of GFRPCs was remarkably augmented with the addition of ZrO2. ? 2016 Wiley Periodicals, Inc. J. Appl. Polym. Sci. 2016, 133, 43615.
+ER  - 
+
+TY  - JOUR
+AU  - Nicolas, Gaël
+AU  - Acuña-Hidalgo, Rocío
+AU  - Keogh, Michael J.
+AU  - Quenez, Olivier
+AU  - Steehouwer, Marloes
+AU  - Lelieveld, Stefan
+AU  - Rousseau, Stéphane
+AU  - Richard, Anne-Claire
+AU  - Oud, Manon S.
+AU  - Marguet, Florent
+AU  - Laquerrière, Annie
+AU  - Morris, Chris M.
+AU  - Attems, Johannes
+AU  - Smith, Colin
+AU  - Ansorge, Olaf
+AU  - Al Sarraj, Safa
+AU  - Frebourg, Thierry
+AU  - Campion, Dominique
+AU  - Hannequin, Didier
+AU  - Wallon, David
+AU  - Gilissen, Christian
+AU  - Chinnery, Patrick F.
+AU  - Veltman, Joris A.
+AU  - Hoischen, Alexander
+TI  - Somatic variants in autosomal dominant genes are a rare cause of sporadic Alzheimer's disease
+JO  - Alzheimer's & Dementia
+JA  - Alzheimer's & Dementia
+VL  - 14
+IS  - 12
+SN  - 1552-5260
+UR  - https://doi.org/10.1016/j.jalz.2018.06.3056
+DO  - doi:10.1016/j.jalz.2018.06.3056
+SP  - 1632
+EP  - 1639
+KW  - Mosaicism
+KW  - Post-zygotic
+KW  - Mutation
+KW  - Alzheimer
+KW  - Prion-like
+PY  - 2018
+AB  - Abstract Introduction A minority of patients with sporadic early-onset Alzheimer's disease (AD) exhibit de novo germ line mutations in the autosomal dominant genes such as APPPSEN1, or PSEN2. We hypothesized that negatively screened patients may harbor somatic variants in these genes. Methods We applied an ultrasensitive approach based on single-molecule molecular inversion probes followed by deep next generation sequencing of 11 genes to 100 brain and 355 blood samples from 445 sporadic patients with AD (>80% exhibited an early onset, <66 years). Results We identified and confirmed nine somatic variants (allele fractions: 0.2%?10.8%): two APP, five SORL1, one NCSTN, and one MARK4 variants by independent amplicon-based deep sequencing. Discussion Two of the SORL1 variant might have contributed to the disease, the two APP variants were interpreted as likely benign and the other variants remained of unknown significance. Somatic variants in the autosomal dominant AD genes may not be a common cause of sporadic AD, including early onset cases.
+ER  - 
+
+TY  - JOUR
+AU  - Anjum, Farheen
+AU  - Gull, Nafisa
+AU  - Khan, Shahzad M.
+AU  - Munawar, Muhammad A.
+AU  - Islam, Atif
+AU  - Niazi, Sajid I.
+AU  - Zia, Saba
+AU  - Shafiq, Muhammad
+AU  - Butt, Muhammad T. Z.
+AU  - Jamil, Tahir
+TI  - Mechanical, Thermal, and Microscopic Profile of Novel Glass Fiber-Reinforced Polyester Composites as a Function of Barium Sulfate Loading
+JO  - Advances in Polymer Technology
+JA  - Adv Polym Technol
+VL  - 37
+IS  - 3
+SN  - 0730-6679
+UR  - https://doi.org/10.1002/adv.21739
+DO  - doi:10.1002/adv.21739
+SP  - 929
+EP  - 936
+KW  - Mechanical properties
+KW  - Polymer composites
+KW  - Reinforcements
+KW  - Thermal properties
+PY  - 2018
+AB  - Abstract The objective of this work was to fabricate laminated glass fiber-reinforced polyester composites using different loadings of barium sulfate (BaSO4) to enhance their mechanical and thermal properties. Dispersion of BaSO4 in unsaturated polyester resin was prepared before impregnating it on glass fibers. These laminated composites were then subjected to analyze different mechanical and thermal properties. Mechanical properties of the composites were observed to be increased by increasing the BaSO4 loading up to 4 wt.%, beyond this a decreasing trend was observed. Flexural strength and flexural modulus of BaSO4-infused glass fiber-reinforced polyester composites increased up to 70.9% and 67.9% at 4 wt.% of BaSO4, respectively. Tensile strength (77 MPa) and tensile modulus (2023.4 MPa) of these composites were also augmented up to 4 wt.% of BaSO4, after that concentration these properties were also observed to be decreased. Impact strength and hardness of these composites have also been improved significantly in the same trend as compared to the control sample. Thermal stability as a function of temperature was also enhanced by increasing the BaSO4 concentration up to 4 wt.% after which thermal stability decreased. Fractography of these composites was evaluated by optical microscopy. Hence, BaSO4 in optimum concentration was proved a striking filler for the improvement of mechanical and thermal properties of glass fiber-reinforced polyester composites for high strength and high temperature applications.
+ER  - 
+
+TY  - JOUR
+AU  - Uçar, Ahmet
+AU  - Erol, Oğuz Bulent
+AU  - Yekeler, Ensar
+AU  - Yildiz, Ismail
+AU  - Bozlak, Serdar
+AU  - Saka, Nurçin
+AU  - BaŞ, Firdevs
+AU  - Poyrazoğlu, Şükran
+AU  - Bundak, Rüveyde
+AU  - Kubat Uzum, Ayse
+AU  - Gul, Nurdan
+AU  - Darendeliler, Feyza
+TI  - Pelvic ultrasound findings in prepubertal girls with precocious adrenarche born appropriate for gestational age
+JO  - Clinical Endocrinology
+JA  - Clin Endocrinol
+VL  - 80
+IS  - 5
+SN  - 0300-0664
+UR  - https://doi.org/10.1111/cen.12355
+DO  - doi:10.1111/cen.12355
+SP  - 699
+EP  - 705
+PY  - 2014
+AB  - Summary Background Precocious adrenarche (PA) refers to the clinical onset of excess androgen in girls before the age of 8. It is associated with an increased risk of functional ovarian hyperandrogenism after puberty. PA may be associated with polycystic ovary syndrome (PCOS). We compared pelvic ultrasound (US) findings of girls with PA born appropriate for gestational age (AGA) to healthy body mass index (BMI)-matched peers to determine whether US findings in AGA-born PA girls are associated with PCOS antecedents. Subjects and methods We conducted a cross-sectional study on 56 AGA-born girls with PA (6·9 ± 0·6 years) and 33 BMI-matched prepubertal AGA-born peers (7·1 ± 1·0 years). Hormonal data, homeostasis model assessment of insulin resistance (HOMA-IR), insulin sensitivity index (ISIcomp) and pelvic US findings were compared. Associations of pelvic US findings with clinical and metabolic data were investigated. Results Precocious adrenarche girls had greater height and bone age-adjusted uterine length (UL; P = 0·01) and UL standard deviation score (SDS) (P = 0·02) than BMI-matched peers. Mean ovarian volume (MOV), MOV SDS, uterine volume, uterine cross-sectional area and ovarian morphology were similar between the groups (P > 0·05). MOV and MOV SDS correlated with ISIcomp (r = ?0·683, P < 0·001; r = ?0·760, P < 0·001; respectively). Correlations of pelvic US findings with other biochemical data did not reach significance (P > 0·05). Multivariate regression analysis revealed that in girls with PA, ISIcomp had the most significant effect on MOV SDS (R2 = 0·731, ? = ?4·784, P = 0·001). Conclusions Appropriate for gestational age-born PA girls have greater UL measurements than AGA-born BMI-matched peers. In AGA-born girls with PA, decreasing insulin sensitivity is strongly and independently associated with an increase in MOV. Longitudinal follow-up of our cohort after menarche will allow us to establish how many AGA-born girls with PA will ultimately develop PCOS.
+ER  - 
+
+TY  - JOUR
+AU  - Lemos, Roberta R.
+AU  - Ramos, Eliana M.
+AU  - Legati, Andrea
+AU  - Nicolas, Gaël
+AU  - Jenkinson, Emma M.
+AU  - Livingston, John H.
+AU  - Crow, Yanick J.
+AU  - Campion, Dominique
+AU  - Coppola, Giovanni
+AU  - Oliveira, João R. M.
+TI  - Update and Mutational Analysis of SLC20A2: A Major Cause of Primary Familial Brain Calcification
+JO  - Human Mutation
+JA  - Human Mutation
+VL  - 36
+IS  - 5
+SN  - 1059-7794
+UR  - https://doi.org/10.1002/humu.22778
+DO  - doi:10.1002/humu.22778
+SP  - 489
+EP  - 495
+KW  - SLC20A2
+KW  - brain calcification
+KW  - basal ganglia
+KW  - Fahr's disease
+PY  - 2015
+AB  - ABSTRACT Primary familial brain calcification (PFBC) is a heterogeneous neuropsychiatric disorder, with affected individuals presenting a wide variety of motor and cognitive impairments, such as migraine, parkinsonism, psychosis, dementia, and mood swings. Calcifications are usually symmetrical, bilateral, and found predominantly in the basal ganglia, thalamus, and cerebellum. So far, variants in three genes have been linked to PFBC: SLC20A2, PDGFRB, and PDGFB. Variants in SLC20A2 are responsible for most cases identified so far and, therefore, the present review is a comprehensive worldwide summary of all reported variants to date. SLC20A2 encodes an inorganic phosphate transporter, PiT-2, widely expressed in various tissues, including brain, and is part of a major family of solute carrier membrane transporters. Fifty variants reported in 55 unrelated patients so far have been identified in families of diverse ethnicities and only few are recurrent. Various types of variants were detected (missense, nonsense, frameshift) including full or partial SLC20A2 deletions. The recently reported SLC20A2 knockout mouse will enhance our understanding of disease mechanism and allow for screening of therapeutic compounds. In the present review, we also discuss the implications of these recent exciting findings and consider the possibility of treatments based on manipulation of inorganic phosphate homeostasis.
+ER  - 
+
+TY  - JOUR
+AU  - Marguet, Florent
+AU  - Laquerrière, Annie
+AU  - Goldenberg, Alice
+AU  - Guerrot, Anne-Marie
+AU  - Quenez, Olivier
+AU  - Flahaut, Philippe
+AU  - Vanhulle, Catherine
+AU  - Dumant-Forest, Clémentine
+AU  - Charbonnier, Françoise
+AU  - Vezain, Myriam
+AU  - Bekri, Soumeya
+AU  - Tournier, Isabelle
+AU  - Frébourg, Thierry
+AU  - Nicolas, Gaël
+TI  - Clinical and pathologic features of Aicardi–Goutières syndrome due to an IFIH1 mutation: A pediatric case report
+JO  - American Journal of Medical Genetics Part A
+JA  - Am. J. Med. Genet.
+VL  - 170
+IS  - 5
+SN  - 1552-4825
+UR  - https://doi.org/10.1002/ajmg.a.37577
+DO  - doi:10.1002/ajmg.a.37577
+SP  - 1317
+EP  - 1324
+KW  - calcifying encephalopathy
+KW  - Aicardi–Goutières syndrome
+KW  - neuropathology
+KW  - exome
+KW  - IFIH1
+KW  - type I-interferonopathies
+KW  - trio
+KW  - calcification
+PY  - 2016
+AB  - We describe the case of a young patient with calcifying encephalopathy, born to asymptomatic parents. An extensive hypothesis-driven etiological assessment was performed and failed to detect the precise etiology during many years. We therefore decided to perform whole exome sequencing of the child?unaffected parents trio. A de novo pathogenic variant in the IFIH1 gene which has recently been shown to cause autosomal dominant forms of Aicardi?Goutières syndrome was identified. This child presented with a severe form with neonatal thrombocytopenia and hepatomegaly, the latter having been detected during late gestation. Although first milestones were uneventful, he progressively lost motor skills from the age of 12 months and developed severe spastic paraplegia. Brain imaging revealed white matter abnormalities and extensive calcifications. He also presented atypical skin lesions, different from chilblains. His medical history was marked by two episodes of acute pancreatitis. We provide herein the results of pathological examination including detailed description of the neuropathological hallmarks. To our knowledge, this the first detailed clinico-pathological description of a patient with an IFIH1 pathogenic variant. ? 2016 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Thornton, K.A.
+AU  - Chen, A.R.
+AU  - Trucco, M.M.
+AU  - Shah, P.
+AU  - Wilky, B.A.
+AU  - Gul, N.
+AU  - Carrera-Haro, M.A.
+AU  - Ferreira, M. Fogle
+AU  - Shafique, U.
+AU  - Powell, J.D.
+AU  - Meyer, C.F.
+AU  - Loeb, D.M.
+TI  - A dose-finding study of temsirolimus and liposomal doxorubicin for patients with recurrent and refractory bone and soft tissue sarcoma
+JO  - International Journal of Cancer
+JA  - Int. J. Cancer
+VL  - 133
+IS  - 4
+SN  - 0020-7136
+UR  - https://doi.org/10.1002/ijc.28083
+DO  - doi:10.1002/ijc.28083
+SP  - 997
+EP  - 1005
+KW  - mTOR
+KW  - cancer stem cell
+KW  - chemoresistance
+KW  - sarcoma
+KW  - clinical trial
+PY  - 2013
+AB  - There are few effective therapies for high-risk sarcomas. Initial chemosensitivity is often followed by relapse. In vitro, mammalian target of rapamycin (mTOR) inhibition potentiates the efficacy of chemotherapy on resistant sarcoma cells. Although sarcoma trials using mTOR inhibitors have been disappointing, these drugs were used as maintenance. We conducted a Phase I/II clinical trial to test the ability of temsirolimus to potentiate the cytotoxic effect of liposomal doxorubicin and present here the dose-finding portion of this study. Adult and pediatric patients with recurrent or refractory sarcomas were treated with increasing doses of liposomal doxorubicin and temsirolimus using a continual reassessment method for escalation, targeting a dose-limiting toxicity rate of 20%. Blood samples were drawn before and after the first dose of temsirolimus in Cycles 1 and 2 for pharmacokinetic analysis. The maximally tolerated dose combination was liposomal doxorubicin 30 mg/m2 monthly with temsirolimus 20 mg/m2 weekly. Hematologic toxicity was common but manageable. Dose-limiting toxicities were primarily renal. Concurrent administration of liposomal doxorubicin resulted in increased exposure to sirolimus, the active metabolite of temsirolimus. Thus, the combination of liposomal doxorubicin and temsirolimus is safe for heavily pretreated sarcoma patients. Co-administration with liposomal doxorubicin did not alter temsirolimus pharmacokinetics, but increased exposure to its active metabolite.
+ER  - 
+
+TY  - JOUR
+AU  - Fan, Xing
+AU  - Khaki, Leila
+AU  - Zhu, Thant S.
+AU  - Soules, Mary E.
+AU  - Talsma, Caroline E.
+AU  - Gul, Naheed
+AU  - Koh, Cheryl
+AU  - Zhang, Jiangyang
+AU  - Li, Yue-Ming
+AU  - Maciaczyk, Jarek
+AU  - Nikkhah, Guido
+AU  - DiMeco, Francesco
+AU  - Piccirillo, Sara
+AU  - Vescovi, Angelo L.
+AU  - Eberhart, Charles G.
+TI  - NOTCH Pathway Blockade Depletes CD133-Positive Glioblastoma Cells and Inhibits Growth of Tumor Neurospheres and Xenografts
+JO  - STEM CELLS
+JA  - STEM CELLS
+VL  - 28
+IS  - 1
+SN  - 1066-5099
+UR  - https://doi.org/10.1002/stem.254
+DO  - doi:10.1002/stem.254
+SP  - 5
+EP  - 16
+KW  - Cancer Stem Cell
+KW  - NOTCH
+KW  - Glioblastoma
+KW  - γ-Secretase inhibitor
+PY  - 2010
+AB  - Abstract Cancer stem cells (CSCs) are thought to be critical for the engraftment and long-term growth of many tumors, including glioblastoma (GBM). The cells are at least partially spared by traditional chemotherapies and radiation therapies, and finding new treatments that can target CSCs may be critical for improving patient survival. It has been shown that the NOTCH signaling pathway regulates normal stem cells in the brain, and that GBMs contain stem-like cells with higher NOTCH activity. We therefore used low-passage and established GBM-derived neurosphere cultures to examine the overall requirement for NOTCH activity, and also examined the effects on tumor cells expressing stem cell markers. NOTCH blockade by ?-secretase inhibitors (GSIs) reduced neurosphere growth and clonogenicity in vitro, whereas expression of an active form of NOTCH2 increased tumor growth. The putative CSC markers CD133, NESTIN, BMI1, and OLIG2 were reduced following NOTCH blockade. When equal numbers of viable cells pretreated with either vehicle (dimethyl sulfoxide) or GSI were injected subcutaneously into nude mice, the former always formed tumors, whereas the latter did not. In vivo delivery of GSI by implantation of drug-impregnated polymer beads also effectively blocked tumor growth, and significantly prolonged survival, albeit in a relatively small cohort of animals. We found that NOTCH pathway inhibition appears to deplete stem-like cancer cells through reduced proliferation and increased apoptosis associated with decreased AKT and STAT3 phosphorylation. In summary, we demonstrate that NOTCH pathway blockade depletes stem-like cells in GBMs, suggesting that GSIs may be useful as chemotherapeutic reagents to target CSCs in malignant gliomas. STEM CELLS 2010;28:5?16
+ER  - 
+
+TY  - JOUR
+AU  - Lecoquierre, François
+AU  - Bonnevalle, Antoine
+AU  - Chadie, Alexandra
+AU  - Gayet, Claire
+AU  - Dumant-Forest, Clémentine
+AU  - Renaux-Petel, Mariette
+AU  - Leca, Jean-Baptiste
+AU  - Hazelzet, Tristan
+AU  - Brasseur-Daudruy, Marie
+AU  - Louillet, Ferielle
+AU  - Muraine, Marc
+AU  - Coutant, Sophie
+AU  - Quenez, Olivier
+AU  - Boland, Anne
+AU  - Deleuze, Jean-François
+AU  - Frebourg, Thierry
+AU  - Goldenberg, Alice
+AU  - Saugier-Veber, Pascale
+AU  - Guerrot, Anne-Marie
+AU  - Nicolas, Gaël
+TI  - Confirmation and further delineation of the SMG9-deficiency syndrome, a rare and severe developmental disorder
+JO  - American Journal of Medical Genetics Part A
+JA  - Am J Med Genet
+VL  - 179
+IS  - 11
+SN  - 1552-4825
+UR  - https://doi.org/10.1002/ajmg.a.61317
+DO  - doi:10.1002/ajmg.a.61317
+SP  - 2257
+EP  - 2262
+KW  - heart and brain malformation
+KW  - nonsense mediated decay
+KW  - SMG9
+PY  - 2019
+AB  - Abstract Introduction SMG9 deficiency is an extremely rare autosomal recessive condition originally described in three patients from two families harboring homozygous truncating SMG9 variants in a context of severe syndromic developmental disorder. To our knowledge, no additional patient has been described since this first report. Methods We performed exome sequencing in a patient exhibiting a syndromic developmental delay and in her unaffected parents and report the phenotypic features. Results Our patient presented with a syndromic association of severe global developmental delay and diverse malformations, including cleft lip and palate, facial dysmorphic features, brain abnormalities, heart defect, growth retardation, and severe infections. She carried a novel SMG9 homozygous variant NM_019108.3:c.1177C>T, p.(Gln393*), while her unaffected parents were both heterozygous. Conclusions We confirm that bi-allelic truncating SMG9 variants cause a severe developmental syndrome including brain and heart malformations associated with facial dysmorphic features, severe growth and developmental delay with or without ophthalmological abnormalities, severe feeding difficulties, and life-threatening infections.
+ER  - 
+
+TY  - JOUR
+AU  - Morris, S.
+AU  - Ridley, S.
+AU  - Munro, V.
+AU  - Christensen, M. C.
+AU  - the NovoSeven® Trauma Study Group
+TI  - Cost effectiveness of recombinant activated factor VII for the control of bleeding in patients with severe blunt trauma injuries in the United Kingdom
+JO  - Anaesthesia
+VL  - 62
+IS  - 1
+SN  - 0003-2409
+UR  - https://doi.org/10.1111/j.1365-2044.2006.04896.x
+DO  - doi:10.1111/j.1365-2044.2006.04896.x
+SP  - 43
+EP  - 52
+PY  - 2007
+AB  - Summary The aim of this study was to assess the lifetime cost effectiveness of recombinant activated factor VII vs placebo as adjunctive therapy for control of bleeding in patients with severe blunt trauma in the UK. We developed a cost-effectiveness model based on patient level data from a 30-day international, randomised, placebo-controlled Phase II trial. The data were supplemented with secondary data from UK sources to estimate lifetime costs and benefits. The model produced a baseline estimate of the incremental cost per life year gained with recombinant activated factor VII relative to placebo of £12?613. The incremental cost per quality adjusted life year gained was £18?825. These estimates are sensitive to the choice of discount rate and health state utility values used. Preliminary results suggest that relative to placebo, recombinant activated factor VII may be a cost-effective therapy to the UK National Health Service.
+ER  - 
+
+TY  - JOUR
+AU  - Coussens, Nathan P.
+AU  - Sittampalam, G. Sitta
+AU  - Guha, Rajarshi
+AU  - Brimacombe, Kyle
+AU  - Grossman, Abigail
+AU  - Chung, Thomas D. Y.
+AU  - Weidner, Jeffrey R.
+AU  - Riss, Terry
+AU  - Trask, O. Joseph
+AU  - Auld, Douglas
+AU  - Dahlin, Jayme L.
+AU  - Devanaryan, Viswanath
+AU  - Foley, Timothy L.
+AU  - McGee, James
+AU  - Kahl, Steven D.
+AU  - Kales, Stephen C.
+AU  - Arkin, Michelle
+AU  - Baell, Jonathan
+AU  - Bejcek, Bruce
+AU  - Gal-Edd, Neely
+AU  - Glicksman, Marcie
+AU  - Haas, Joseph V.
+AU  - Iversen, Philip W.
+AU  - Hoeppner, Marilu
+AU  - Lathrop, Stacy
+AU  - Sayers, Eric
+AU  - Liu, Hanguan
+AU  - Trawick, Bart
+AU  - McVey, Julie
+AU  - Lemmon, Vance P.
+AU  - Li, Zhuyin
+AU  - McManus, Owen
+AU  - Minor, Lisa
+AU  - Napper, Andrew
+AU  - Wildey, Mary Jo
+AU  - Pacifici, Robert
+AU  - Chin, William W.
+AU  - Xia, Menghang
+AU  - Xu, Xin
+AU  - Lal-Nag, Madhu
+AU  - Hall, Matthew D.
+AU  - Michael, Sam
+AU  - Inglese, James
+AU  - Simeonov, Anton
+AU  - Austin, Christopher P.
+TI  - Assay Guidance Manual: Quantitative Biology and Pharmacology in Preclinical Drug Discovery
+JO  - Clinical and Translational Science
+JA  - Clinical And Translational Science
+VL  - 11
+IS  - 5
+SN  - 1752-8054
+UR  - https://doi.org/10.1111/cts.12570
+DO  - doi:10.1111/cts.12570
+SP  - 461
+EP  - 470
+PY  - 2018
+AB  - Abstract The Assay Guidance Manual (AGM) is an eBook of best practices for the design, development, and implementation of robust assays for early drug discovery. Initiated by pharmaceutical company scientists, the manual provides guidance for designing a ?testing funnel? of assays to identify genuine hits using high-throughput screening (HTS) and advancing them through preclinical development. Combined with a workshop/tutorial component, the overall goal of the AGM is to provide a valuable resource for training translational scientists.
+ER  - 
+
+TY  - JOUR
+AU  - Chatron, Nicolas
+AU  - Cassinari, Kevin
+AU  - Quenez, Olivier
+AU  - Baert-Desurmont, Stéphanie
+AU  - Bardel, Claire
+AU  - Buisine, Marie-Pierre
+AU  - Calpena, Eduardo
+AU  - Capri, Yline
+AU  - Corominas Galbany, Jordi
+AU  - Diguet, Flavie
+AU  - Edery, Patrick
+AU  - Isidor, Bertrand
+AU  - Labalme, Audrey
+AU  - Le Caignec, Cedric
+AU  - Lévy, Jonathan
+AU  - Lecoquierre, François
+AU  - Lindenbaum, Pierre
+AU  - Pichon, Olivier
+AU  - Rollat-Farnier, Pierre-Antoine
+AU  - Simonet, Thomas
+AU  - Saugier-Veber, Pascale
+AU  - Tabet, Anne-Claude
+AU  - Toutain, Annick
+AU  - Wilkie, Andrew O. M.
+AU  - Lesca, Gaetan
+AU  - Sanlaville, Damien
+AU  - Nicolas, Gaël
+AU  - Schluth-Bolard, Caroline
+TI  - Identification of mobile retrocopies during genetic testing: Consequences for routine diagnosis
+JO  - Human Mutation
+JA  - Human Mutation
+VL  - 40
+IS  - 11
+SN  - 1059-7794
+UR  - https://doi.org/10.1002/humu.23845
+DO  - doi:10.1002/humu.23845
+SP  - 1993
+EP  - 2000
+KW  - copy number gain
+KW  - genetic testing pitfalls
+KW  - genome mobility
+KW  - retrocopies
+PY  - 2019
+AB  - Abstract Human retrocopies, that is messenger RNA transcripts benefitting from the long interspersed element 1 machinery for retrotransposition, may have specific consequences for genomic testing. Next genetration sequencing (NGS) techniques allow the detection of such mobile elements but they may be misinterpreted as genomic duplications or be totally overlooked. We report eight observations of retrocopies detected during diagnostic NGS analyses of targeted gene panels, exome, or genome sequencing. For seven cases, while an exons-only copy number gain was called, read alignment inspection revealed a depth of coverage shift at every exon-intron junction where indels were also systematically called. Moreover, aberrant chimeric read pairs spanned entire introns or were paired with another locus for terminal exons. The 8th retrocopy was present in the reference genome and thus showed a normal NGS profile. We emphasize the existence of retrocopies and strategies to accurately detect them at a glance during genetic testing and discuss pitfalls for genetic testing.
+ER  - 
+
+TY  - JOUR
+AU  - Lecoquierre, François
+AU  - Brehin, Anne-Claire
+AU  - Coutant, Sophie
+AU  - Coursimault, Juliette
+AU  - Bazin, Anne
+AU  - Finck, Wilfrid
+AU  - Benoist, Guillaume
+AU  - Begorre, Marianne
+AU  - Beneteau, Claire
+AU  - Cailliez, Daniel
+AU  - Chenal, Pierre
+AU  - De Jong, Mirjam
+AU  - Degré, Sophie
+AU  - Devisme, Louise
+AU  - Francannet, Christine
+AU  - Gérard, Bénédicte
+AU  - Jeanne, Corinne
+AU  - Joubert, Madeleine
+AU  - Journel, Hubert
+AU  - Laurichesse Delmas, Hélène
+AU  - Layet, Valérie
+AU  - Liquier, Alain
+AU  - Mangione, Raphaele
+AU  - Patrier, Sophie
+AU  - Pelluard, Fanny
+AU  - Petit, Florence
+AU  - Tillouche, Nadia
+AU  - van Ravenswaaij-Arts, Conny
+AU  - Frebourg, Thierry
+AU  - Saugier-Veber, Pascale
+AU  - Gruchy, Nicolas
+AU  - Nicolas, Gaël
+AU  - Gerard, Marion
+TI  - Exome sequencing identifies the first genetic determinants of sirenomelia in human
+JO  - Human Mutation
+JA  - Human Mutation
+VL  - n/a
+IS  - n/a
+SN  - 1059-7794
+UR  - https://doi.org/10.1002/humu.23998
+DO  - doi:10.1002/humu.23998
+KW  - caudal dysgenesis
+KW  - CDX2
+KW  - de novo mutation
+KW  - exome sequencing
+KW  - Sirenomelia
+AB  - ABSTRACT Sirenomelia is a rare severe malformation sequence of unknown cause characterized by fused legs and severe visceral abnormalities. We present a series of 9 families including two rare familial aggregations of sirenomelia investigated by a trio-based exome sequencing strategy. This approach identified CDX2 variants in the two familial aggregations, both fitting an autosomal dominant pattern of inheritance with variable expressivity. CDX2 is a major regulator of caudal development in vertebrate and mouse heterozygotes are a previously described model of sirenomelia. Remarkably, the p.(Arg237His) variant has already been reported in a patient with persistent cloaca. Analysis of the sporadic cases revealed 6 additional candidate variants including a de novo frameshift variant in the genetically constrained NKD1 gene, encoding a known interactor of CDX2. We provide the first insights for a genetic contribution in human sirenomelia and highlight the role of Cdx and Wnt signaling pathways in the development of this disorder. This article is protected by copyright. All rights reserved.
+ER  - 

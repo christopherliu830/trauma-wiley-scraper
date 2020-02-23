@@ -1,0 +1,342 @@
+
+TY  - JOUR
+AU  - Pampaloni, Niccolò P.
+AU  - Rago, Ilaria
+AU  - Calaresu, Ivo
+AU  - Cozzarini, Luca
+AU  - Casalis, Loredana
+AU  - Goldoni, Andrea
+AU  - Ballerini, Laura
+AU  - Scaini, Denis
+TI  - Transparent carbon nanotubes promote the outgrowth of enthorino-dentate projections in lesioned organ slice cultures
+JO  - Developmental Neurobiology
+JA  - Develop Neurobiol
+VL  - n/a
+IS  - n/a
+SN  - 1932-8451
+UR  - https://doi.org/10.1002/dneu.22711
+DO  - doi:10.1002/dneu.22711
+KW  - hippocampus
+KW  - injured brain
+KW  - nanomaterials
+KW  - neural interfaces
+KW  - regeneration
+KW  - synaptic enhancement
+AB  - Abstract The increasing engineering of carbon-based nanomaterials as components of neuroregenerative interfaces is motivated by their dimensional compatibility with subcellular compartments of excitable cells, such as axons and synapses. In neuroscience applications, carbon nanotubes (CNTs) have been used to improve electronic device performance by exploiting their physical properties. Besides, when manufactured to interface neuronal networks formation in vitro, CNT carpets have shown their unique ability to potentiate synaptic networks formation and function. Due to the low optical transparency of CNTs films, further developments of these materials in neural prosthesis fabrication or in implementing interfacing devices to be paired with in vivo imaging or in vitro optogenetic approaches are currently limited. In the present work, we exploit a new method to fabricate CNTs by growing them on a fused silica surface, which results in a transparent CNT-based substrate (tCNTs). We show that tCNTs favor dissociated primary neurons network formation and function, an effect comparable to the one observed for their dark counterparts. We further adopt tCNTs to support the growth of intact or lesioned entorhinal?hippocampal complex organotypic cultures (EHCs). Through immunocytochemistry and electrophysiological field potential recordings, we show here that tCNTs platforms are suitable substrates for the growth of EHCs and we unmask their ability to significantly increase the signal synchronization and fiber sprouting between the cortex and the hippocampus with respect to Controls. tCNTs transparency and ability to enhance recovery of lesioned brain cultures, make them optimal candidates to implement implantable devices in regenerative medicine and tissue engineering.
+ER  - 
+
+TY  - JOUR
+AU  - Kim, Su-Young
+AU  - Cho, Hyoung-Soo
+AU  - Yang, Seung-Ha
+AU  - Shin, Jin-Young
+AU  - Kim, Jung-Sik
+AU  - Lee, Soon-Tae
+AU  - Chu, Kon
+AU  - Roh, Jae-Kyu
+AU  - Kim, Seung U.
+AU  - Park, Chung-Gyu
+TI  - Soluble mediators from human neural stem cells play a critical role in suppression of T-cell activation and proliferation
+JO  - Journal of Neuroscience Research
+JA  - J. Neurosci. Res.
+VL  - 87
+IS  - 10
+SN  - 0360-4012
+UR  - https://doi.org/10.1002/jnr.22050
+DO  - doi:10.1002/jnr.22050
+SP  - 2264
+EP  - 2272
+KW  - human neural stem cells (hNSCs)
+KW  - HB1.F3
+KW  - soluble mediator
+KW  - T-cell suppression
+KW  - apoptosis
+PY  - 2009
+AB  - Abstract Human neural stem cells (hNSCs) can control inflammation in the central nervous system, although the underlying mechanisms are not understood fully. We investigated the immunomodulatory effect of hNSCs on human T cells and the underlying mechanisms. Culture supernatant from an immortalized hNSC cell line, HB1.F3, which has a therapeutic effect on acute stroke and intracerebral hemorrhage, suppressed the proliferation of allogeneically or mitogenically stimulated human peripheral T cells, including the CD3+CD103+ subpopulation. CFSE labeling and flow cytometry showed that the suppression of proliferation was caused by cell cycle arrest and induction of apoptosis. The lack of significant change in caspase-8 levels and the significant reduction in Bcl-2 expression in the affected T cells suggest that the intrinsic pathway plays a major role in soluble-factor-mediated T-cell apoptosis. The addition of culture supernatant from hNSCs to activated T cells reduced the expression of the activation markers CD69 and CD25 at 24 hr after activation, but at 48 hr only CD69 was down-regulated. A cytometry bead assay showed that the secretion of interleukin (IL)-2 decreased significantly, whereas that of IL-4, IL-10, tumor necrosis factor-α, and interferon-? increased. These results show that hNSCs can negatively affect human peripheral T cells by suppressing their activation and proliferation through soluble mediators, suggesting that hNSCs have a bystander immunomodulatory effect on T cells. ? 2009 Wiley-Liss, Inc.
+ER  - 
+
+C7  - pp. 149-188
+TI  - Clinical Applications
+SN  - 9780470661246
+UR  - https://doi.org/10.1002/9781119941354.ch5
+DO  - doi:10.1002/9781119941354.ch5
+SP  - 149-188
+KW  - clinical applications
+KW  - DSS deployment
+KW  - smart sensors, miniaturised actuators
+KW  - clinical surgery, technology intensive
+KW  - sensors, and invasive intervention
+KW  - smart and DSS-style sensor
+KW  - smart sensors in AAAs
+KW  - Mayo's BIR success, and DSA
+KW  - RFID, for dental retainer solution
+KW  - WHMS, and sensor enabled EMS
+PY  - 2009
+AB  - Summary This chapter contains sections titled: Surgical Applications Dental Applications Scalp Applications Post-Operative Applications Emergency Case Studies
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Anaesthesia
+JA  - Anaesthesia
+VL  - 70
+IS  - S3
+SN  - 9780470661246
+UR  - https://doi.org/10.1111/anae.13136
+DO  - doi:10.1111/anae.13136
+SP  - 11
+EP  - 101
+PY  - 2015
+ER  - 
+
+AU  - Dunning, Trisha
+C7  - pp. 135-188
+TI  - Long-Term Complications of Diabetes
+SN  - 9781405123648
+UR  - https://doi.org/10.1002/9780470774991.ch5
+DO  - doi:10.1002/9780470774991.ch5
+SP  - 135-188
+KW  - older people
+KW  - quality of life
+KW  - mortality
+KW  - hyperglycaemia
+KW  - cardiac diseases
+PY  - 2015
+AB  - Summary This chapter contains section titled: Introduction Cardiovascular Disease Hypertension Cerebrovascular Disease Intercurrent Illness Diabetes and Renal Disease in Older People Eye Disease and Older People with Diabetes Diabetic Neuropathy Diabetes and Osteoporosis Falls Diabetes and Wound Management References
+ER  - 
+
+TY  - JOUR
+TI  - Free Paper Abstracts
+JO  - Anaesthesia
+JA  - Anaesthesia
+VL  - 71
+IS  - S4
+SN  - 9781405123648
+UR  - https://doi.org/10.1111/anae.13637
+DO  - doi:10.1111/anae.13637
+SP  - 9
+EP  - 79
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+AU  - REGELSON, WILLIAM
+AU  - HARKINS, S. W.
+TI  - “Amyloid Is Not a Tombstone”— A Summation
+JO  - Annals of the New York Academy of Sciences
+VL  - 826
+IS  - 1
+SN  - 9781405123648
+UR  - https://doi.org/10.1111/j.1749-6632.1997.tb48485.x
+DO  - doi:10.1111/j.1749-6632.1997.tb48485.x
+SP  - 348
+EP  - 374
+PY  - 1997
+AB  - ABSTRACT: This paper represents our summary interpretation of this symposium and provides our own suggestions as to cause and therapeutic approaches that could modulate the cerebrovascular and CSF dynamics that might reverse the pathology of Alzheimer's dementia.
+ER  - 
+
+TY  - JOUR
+AU  - Rahman
+AU  - Hodgson
+TI  - Review article: liver support systems in acute hepatic failure
+JO  - Alimentary Pharmacology & Therapeutics
+VL  - 13
+IS  - 10
+SN  - 9781405123648
+UR  - https://doi.org/10.1046/j.1365-2036.1999.00597.x
+DO  - doi:10.1046/j.1365-2036.1999.00597.x
+SP  - 1255
+EP  - 1272
+PY  - 1999
+AB  - The treatment of acute hepatic failure has developed rapidly over the last 40 years, reducing morbidity and mortality from this syndrome. Whilst this has been partly attributed to significant improvements in the specialist medical management of these patients, advances in surgical techniques and pharmaceutical developments have led to the establishment of successful liver transplantation programmes, which have improved mortality significantly. This review will examine the clinical impact of alternative methods that have been used to provide extra-corporeal hepatic support. Non-biological, bio- logical and hybrid hepatic extra-corporeal support will be explored, offering a comprehensive historical overview and an appraisal of present and future advances.
+ER  - 
+
+TY  - JOUR
+AU  - Sjøvold, T.
+TI  - Fractures of Ossified Rib Cartilages in the Horse – a Concern of Veterinarians?
+JO  - Anatomia, Histologia, Embryologia
+VL  - 34
+IS  - s1
+SN  - 9781405123648
+UR  - https://doi.org/10.1111/j.1439-0264.2005.00669_108.x
+DO  - doi:10.1111/j.1439-0264.2005.00669_108.x
+SP  - 47
+EP  - 47
+PY  - 2005
+AB  - In connection with an osteological study of more than one hundred complete, disarticulated skeletons of the Norwegian Fjord and D?le horse breeds in the collection of the University Museum of Bergen, attention was drawn to the ossified parts of the rib cartilages because of frequent healed fractures transverse to the cartilages. Unossified cartilage had been removed, so the ossified cartilages were available as dry specimens. The skeletons derive from pedigreed stallions as well as some few mares, so both name, year of birth and age are known. Most often the age was between 15 and 30?years, but some few horses were younger, the youngest 5-year-old. Ocular inspection of each skeleton revealed that healed fractures occurred in ossified rib cartilages of every horse, varying from some few instances to >30. Skeletons of horses of other races in the museum collection corroborated this. Healing of the fractures was obvious. Four kinds were observed: The first, and probably least sincere fracture appeared as a visible transverse ring, the second displayed callus elevation around the fracture, the third showed dislocation and callus formation, and the fourth concerns pseudoarthrosis, when fractured parts fail to unite during healing. Even a fifth kind may be considered, with circumferential callus formation leaving the interior healed but unfused. X-ray displays the fractures as white, cross-sectional bands of bone repair. However, such fractures appear not to be considered in contemporary veterinary pathology, but the large number of fractures observed in some cases, callus formation and dislocation of fractures in others, indicates that some period following these fractures is likely to have been traumatic to the horse, so that fracture of ossified rib cartilages should not be ruled out concerning horses showing unexplained symptoms of pain.
+ER  - 
+
+TY  - JOUR
+TI  - 9th Clinical Congress Abstracts Short Paper Sessions
+JO  - Journal of Parenteral and Enteral Nutrition
+JA  - Journal of Parenteral and Enteral Nutrition
+VL  - 9
+IS  - 1
+SN  - 9781405123648
+UR  - https://doi.org/10.1177/014860718500900119
+DO  - doi:10.1177/014860718500900119
+SP  - 106
+EP  - 124
+PY  - 1985
+ER  - 
+
+TY  - JOUR
+AU  - Flegel, Willy A.
+AU  - Natanson, Charles
+AU  - Klein, Harvey G.
+TI  - Does prolonged storage of red blood cells cause harm?
+JO  - British Journal of Haematology
+JA  - Br J Haematol
+VL  - 165
+IS  - 1
+SN  - 9781405123648
+UR  - https://doi.org/10.1111/bjh.12747
+DO  - doi:10.1111/bjh.12747
+SP  - 3
+EP  - 16
+KW  - red cell units
+KW  - red blood cells
+KW  - storage
+KW  - therapy
+KW  - adverse effects
+PY  - 2014
+AB  - Summary Red blood cells (RBCs) degrade progressively during the weeks of refrigerated storage. No universally accepted definition of ?fresh? or ?old? RBCs exists. While practices vary from country to country, preservative solutions permitting shelf life as long as 7 weeks have been licenced. Transfusion of stored RBCs, particularly those at the end of the approved shelf life, has been implicated in adverse clinical outcomes. The results of observational analyses, animal models and studies in volunteers have proved provocative, controversial and contradictory. A recently completed randomized controlled trial (RCT) in premature infants exemplifies the difficulties with moderately sized clinical studies. Several other RCTs are in progress. The effect of RBC storage may well vary according to the clinical setting. Resolution of the importance of the storage lesion may require large pragmatic clinical trials. In the meantime, institutions involved in blood collection and transfusion should explore strategies that assure blood availability, while limiting the use of the oldest RBCs currently approved by regulation.
+ER  - 
+
+TY  - JOUR
+TI  - POSTERS
+JO  - Diabetic Medicine
+VL  - 23
+IS  - s2
+SN  - 9781405123648
+UR  - https://doi.org/10.1111/j.1466-5468.2006.01875.x
+DO  - doi:10.1111/j.1466-5468.2006.01875.x
+SP  - 31
+EP  - 138
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+TI  - AUGIS abstracts 2017
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 104
+IS  - S7
+SN  - 9781405123648
+UR  - https://doi.org/10.1002/bjs.10691
+DO  - doi:10.1002/bjs.10691
+SP  - 5
+EP  - 68
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+AU  - Hermann, Robert
+AU  - Derendorf, Hartmut
+AU  - von Richter, Oliver
+AU  - Rostami-Hodjegan, Amin
+TI  - Core Entrustable Professional Activities in Clinical Pharmacology: Pearls for Clinical Practice
+JO  - The Journal of Clinical Pharmacology
+JA  - The Journal of Clinical Pharmacology
+VL  - 58
+IS  - 6
+SN  - 9781405123648
+UR  - https://doi.org/10.1002/jcph.1088
+DO  - doi:10.1002/jcph.1088
+SP  - 704
+EP  - 716
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Thompson, J. F.
+AU  - Bell, R.
+AU  - Bookallil, M. J.
+AU  - Sheil, A. G. R.
+TI  - EFFECTS OF TOTAL HEPATECTOMY: STUDIES IN A PORCINE MODEL
+JO  - Australian and New Zealand Journal of Surgery
+VL  - 64
+IS  - 8
+SN  - 9781405123648
+UR  - https://doi.org/10.1111/j.1445-2197.1994.tb02287.x
+DO  - doi:10.1111/j.1445-2197.1994.tb02287.x
+SP  - 560
+EP  - 564
+KW  - blood chemical analysis
+KW  - blood coagulation factors
+KW  - haemodynamics
+KW  - hepatectomy
+PY  - 1994
+AB  - The effects of total hepatectomy in a porcine model were studied. A portacaval shunt was constructed prior to hepatectomy, and the excised segment of inferior vena cava was replaced with a Dacron graft as soon as the liver had been removed. While the vena cava was clamped, venous return from the lower body to the heart was maintained using an extracorporeal veno-venous bypass system. The results of the study revealed that surprisingly few haemodynamic, biochemical or coagulation disturbances occur within the first 5 h following total hepatectomy in the pig, an animal with remarkably close anatomical and physiological similarities to man. In the anhepatic period which follows total hepatectomy during clinical liver transplantation, the situation is more complex, because pre-existing liver disease and portal hypertension, as well as major blood loss, often provide other reasons for metabolic and haemodynamic instability and coagulation disorders. The possible relevance of the findings in this large animal model to events that occur following total hepatectomy in the clinical situation is discussed.
+ER  - 
+
+TY  - JOUR
+TI  - Symposium Summaries
+JO  - Pediatric Pulmonology
+JA  - Pediatr Pulmonol
+VL  - 54
+IS  - S2
+SN  - 9781405123648
+UR  - https://doi.org/10.1002/ppul.22494
+DO  - doi:10.1002/ppul.22494
+SP  - S38
+EP  - S154
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - 2017 Annual Meeting of the American Society for Bone and Mineral Research, Colorado Convention Center, Denver, CO, USA — September 8–11, 2017
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 32
+IS  - S1
+SN  - 9781405123648
+UR  - https://doi.org/10.1002/jbmr.3363
+DO  - doi:10.1002/jbmr.3363
+SP  - S1
+EP  - S432
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+TI  - Thursday, 31 August 2017 - Free Communication Sessions 49–72 and Poster Sessions 48–67
+JO  - International Dental Journal
+JA  - Int Dent J
+VL  - 67
+IS  - S1
+SN  - 9781405123648
+UR  - https://doi.org/10.1111/idj.12340
+DO  - doi:10.1111/idj.12340
+SP  - 135
+EP  - 198
+PY  - 2017
+ER  - 
+
+C7  - pp. 462-508
+TI  - Diagnostic Tests
+SN  - 9781405120395
+UR  - https://doi.org/10.1002/9780470753118.ch15
+DO  - doi:10.1002/9780470753118.ch15
+SP  - 462-508
+KW  - diagnostic tests
+KW  - EEG
+KW  - eosinophilia
+KW  - dystrophin test
+KW  - patients
+PY  - 2017
+AB  - Summary This chapter contains section titled: EEG Evoked potentials Peripheral electrodiagnostics Lumbar puncture Blood/serum tests Other clinical tests
+ER  - 
+
+TY  - JOUR
+TI  - THE ABSTRACTS BELOW APPEAR IN PROGRAM ORDER VIEW THE CONGRESS PROGRAM
+JO  - Australian Psychologist
+JA  - Aust Psychol
+VL  - 53
+IS  - S1
+SN  - 9781405120395
+UR  - https://doi.org/10.1111/ap.12372
+DO  - doi:10.1111/ap.12372
+SP  - 4
+EP  - 99
+PY  - 2018
+ER  - 

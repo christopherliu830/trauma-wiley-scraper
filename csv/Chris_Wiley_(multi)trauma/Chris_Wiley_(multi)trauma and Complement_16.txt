@@ -1,0 +1,429 @@
+
+TY  - JOUR
+AU  - Cullen, Louise
+AU  - Than, Martin
+AU  - Brown, Anthony FT
+AU  - Richards, Mark
+AU  - Parsonage, William
+AU  - Flaws, Dylan
+AU  - Hollander, Judd E
+AU  - Christenson, Robert H
+AU  - Kline, Jeffrey A
+AU  - Goodacre, Steven
+AU  - Jaffe, Allan S
+TI  - Comprehensive standardized data definitions for acute coronary syndrome research in emergency departments in Australasia
+JO  - Emergency Medicine Australasia
+VL  - 22
+IS  - 1
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/j.1742-6723.2010.01256.x
+DO  - doi:10.1111/j.1742-6723.2010.01256.x
+SP  - 35
+EP  - 55
+KW  - acute coronary syndrome
+KW  - chest pain
+KW  - data reporting
+KW  - emergency
+KW  - research design
+PY  - 2010
+AB  - Abstract Patients with chest discomfort or other symptoms suggestive of acute coronary syndrome are one of the most common categories seen in many Emergency Departments (EDs). Although the recognition of patients at high risk of acute coronary syndrome has improved steadily, identifying the majority of chest pain presentations who fall into the low-risk group remains a challenge. Research in this area needs to be transparent, robust, applicable to all hospitals from large tertiary centres to rural and remote sites, and to allow direct comparison between different studies with minimum patient spectrum bias. A standardized approach to the research framework using a common language for data definitions must be adopted to achieve this. The aim was to create a common framework for a standardized data definitions set that would allow maximum value when extrapolating research findings both within Australasian ED practice, and across similar populations worldwide. Therefore a comprehensive data definitions set for the investigation of non-traumatic chest pain patients with possible acute coronary syndrome was developed, specifically for use in the ED setting. This standardized data definitions set will facilitate?knowledge translation? by allowing extrapolation of useful findings into the real-life practice of emergency medicine.
+ER  - 
+
+TY  - JOUR
+AU  - An, Gary
+AU  - Bartels, John
+AU  - Vodovotz, Yoram
+TI  - In silico augmentation of the drug development pipeline: examples from the study of acute inflammation
+JO  - Drug Development Research
+JA  - Drug Dev. Res.
+VL  - 72
+IS  - 2
+SN  - 0272-4391
+UR  - https://doi.org/10.1002/ddr.20415
+DO  - doi:10.1002/ddr.20415
+SP  - 187
+EP  - 200
+KW  - inflammation
+KW  - mathematical model
+KW  - sepsis
+KW  - trauma
+KW  - rational drug design
+KW  - in silico clinical trial
+PY  - 2011
+AB  - Abstract The clinical translation of promising basic biomedical findings, whether derived from reductionist studies in academic laboratories or as the product of extensive high-throughput and high-content screens in the biotechnology and pharmaceutical industries, has reached a period of stagnation in which ever higher research and development costs are yielding ever fewer new drugs. Systems biology and computational modeling have been touted as potential avenues by which to break through this logjam. However, few mechanistic computational approaches are used in a manner that is fully cognizant of the inherent clinical realities in which the drugs developed through this ostensibly rational process will be ultimately used. This article presents a translational systems biology approach to inflammation. This approach is based on the use of mechanistic computational modeling centered on inherent clinical applicability, namely that a unified suite of models can be applied to generate in silico clinical trials, individualized computational models as tools for personalized medicine, and rational drug and device design based on disease mechanism. Drug Dev Res 72: 187?200, 2011. ??? 2010 Wiley-Liss, Inc.
+ER  - 
+
+AU  - Franklin, Samuel P.
+AU  - Pozzi, Antonio
+AU  - Steffen, Frank
+C7  - pp. 404-424
+TI  - Biological Therapies in Canine Sports Medicine
+SN  - 9781119380382
+UR  - https://doi.org/10.1002/9781119380627.ch16
+DO  - doi:10.1002/9781119380627.ch16
+SP  - 404-424
+KW  - regenerative medicine
+KW  - platelet-rich plasma
+KW  - stem cells
+KW  - orthobiologics
+PY  - 2011
+AB  - Summary Orthobiologics have emerged as new treatment options in human and animal athletes. Musculoskeletal disorders such as tendinopathies, desmopathies, and osteoarthritis are common in competition and working dogs because of stresses induced by their repetitive activities. Several therapies, such as anti-inflammatory drugs, corticosteroids, shockwave therapy, and surgery have been used to treat these disorders, but variable levels of evidence and success have been reported. Tendon and ligament healing potential is limited, especially in chronic injuries, which are commonly seen in athletes. Therefore, novel regenerative treatment approaches are of great interest in sports medicine. There are two goals of this chapter. First, the definitions and proposed mechanisms of action for different orthobiologics are reviewed; second, the clinical applications and the evidence for efficacy of these novel treatments are discussed. The chapter focuses on two major topics. Platelet-rich plasma is reviewed in detail, as this is the most commonly used orthobiologic in veterinary medicine. Stem cell applications are also presented, focusing on musculoskeletal and spinal injuries. The chapter is not intended to provide a thorough review of the literature on these topics, but aims to introduce the sports medicine and rehabilitation therapist to the growing area of regenerative medicine.
+ER  - 
+
+TY  - JOUR
+AU  - Foldager, Casper Bindzus
+AU  - Pedersen, Michael
+AU  - Ringgaard, Steffen
+AU  - Bünger, Cody
+AU  - Lind, Martin
+TI  - Chondrocyte gene expression is affected by very small iron oxide particles-labeling in long-term in vitro MRI tracking
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J. Magn. Reson. Imaging
+VL  - 33
+IS  - 3
+SN  - 9781119380382
+UR  - https://doi.org/10.1002/jmri.22470
+DO  - doi:10.1002/jmri.22470
+SP  - 724
+EP  - 730
+KW  - superparamagnetic iron oxide
+KW  - chondrocytes
+KW  - cell labeling
+KW  - cell tracking
+KW  - gene expression, MRI
+PY  - 2011
+AB  - Abstract Purpose: To investigate the effect and dose response of very small iron oxide particles (VSOP) labeling of human chondrocytes for long-term in vitro MRI tracking. Materials and Methods: Chondrocytes were isolated from cartilage biopsies from four patients. The cells for the dose?response study were labeled with 25, 50, or 100 ?g/mL VSOP. Quantitative gene expression and cellular proliferation were compared with unlabeled controls at day 1, 3, and 7. The cells suited for MRI tracking were labeled with 50 ?g/mL VSOP and embedded in alginate beads, followed by MRI (using T2-weighted sequences) at day 0, 1, 3, 7, 14, 21, 28, and histology was performed at each time-point. Results: Histology revealed that VSOP particles were intracellularly confined at all time-points, whereas no extracellular VSOPs were observed. A mean reduction in T2-value of 25.1 ms (±SD 3.5 ms) was found on T2-maps. The chondrocyte-specific genes aggrecan, collagen type 2, and sox9 were all affected by labeling, the two latter in a dose-dependent manner. VSOPs had no effect on proliferation. Conclusion: VSOP labeling of chondrocytes affected gene expression but not proliferation. The labeled chondrocytes could be recognized by MRI for 4 weeks without significant changes in the T2 relaxation time. J. Magn. Reson. Imaging 2011;33:724?730. ? 2011 Wiley-Liss, Inc.
+ER  - 
+
+C7  - pp. 135-196
+TI  - Economic and Sociological Implications of Smart Grids
+SN  - 9781848216129
+UR  - https://doi.org/10.1002/9781119058694.ch5
+DO  - doi:10.1002/9781119058694.ch5
+SP  - 135-196
+KW  - domestic setting
+KW  - economic implications
+KW  - energy management
+KW  - multi-actor commercial building
+KW  - prosumers
+KW  - smart grids
+KW  - social acceptability
+KW  - social implications
+PY  - 2011
+AB  - Summary One of the main elements of the evolution of smart grids is the shift from consumers to ?prosumers?. This evolution concerns consumers with their own local renewable production sources and/or storage systems of any size, or who, more generally, possess storage capacity. The motivations involved may vary according to socio-economic profiles, including economic, ecological and technological aspects; some actors remain indifferent, whereas others are strongly opposed to these developments. The chapter considers the different rationalities of actors in smart grids, which may vary widely and affect whole groups. It discusses the economic and social implications of smart grids, including changes to the chain of value, contract models, the socio-economic profiles of consumers or prosumers and regulation. The chapter also considers the social acceptability of participation in energy management, specifically in the context of energy balancing in a multi-actor commercial building (shopping mall) and in a domestic setting (households in residential buildings).
+ER  - 
+
+TY  - JOUR
+AU  - Liew, Hui
+AU  - Taylor, David McD
+AU  - Tjipto, Alwie
+AU  - Bailey, Michael
+TI  - Investigation of the variables that impact upon the knowledge of cardiac risk factors
+JO  - Emergency Medicine Australasia
+VL  - 18
+IS  - 3
+SN  - 9781848216129
+UR  - https://doi.org/10.1111/j.1742-6723.2006.00848.x
+DO  - doi:10.1111/j.1742-6723.2006.00848.x
+SP  - 252
+EP  - 258
+KW  - cardiac risk
+KW  - emergency department
+KW  - knowledge
+KW  - prevention
+PY  - 2006
+AB  - Abstract Objective:? Awareness of cardiac disease risk factors is required before they can be modified. The present study aimed to investigate risk factor knowledge and the variables that impact upon this knowledge. Methods:? We undertook an analytical, cross-sectional survey of 226 patients attending an ED. Patients were asked to recall as many cardiac risk factors as possible and to rate the risk of nine given risk factors. Data relating to sources of risk factor information were collected. Uni- and multivariate (multiple linear regression) analyses determined variables that impacted upon the risk factor knowledge score. Results:? Mean patient age was 60.2?±?15 years, 55.3% (95% confidence interval 48.6?61.9) were male and 19.9% (95% confidence interval 15.0?25.8) had known cardiac disease. The mean risk factor knowledge score of 2.5?±?1.5 out of a possible 12 (median 3) was indicative of poor knowledge. Smoking, poor diet and stress/worry/tension were the most common factors reported. Variables impacting significantly on the knowledge score were English as a first language (P?<?0.001), age (negative correlation, P?<?0.001) and the receipt of information relating to cardiac health (P?<?0.001). The patients? general practitioner and the media were the most important sources of information. Conclusions:? Patients? knowledge of cardiac risk factors is generally poor and education strategies are indicated. At the individual level, the general practitioner is likely to remain as an important influence on knowledge. However, complementary media education programs are indicated at the community level. Patient subgroups at ?high risk? through poor knowledge should be specifically targeted.
+ER  - 
+
+C7  - pp. 1-26
+TI  - Photographic Equipment
+SN  - 9781119312086
+UR  - https://doi.org/10.1002/9781119312161.ch1
+DO  - doi:10.1002/9781119312161.ch1
+SP  - 1-26
+KW  - cameras
+KW  - dental photography
+KW  - lenses
+KW  - lighting
+KW  - macrophotography
+KW  - multi-card reader
+KW  - photographic equipment
+KW  - portraiture
+KW  - UV bulbs
+PY  - 2006
+AB  - Summary Photography should be regarded as an integral part of daily clinical practice, and photographic equipment as part of the dental armamentarium, no different to a dental handpiece. However, the common consensus is that a camera is an extraneous apparatus, exclusively reserved for specialists, or clinicians with a penchant for taking pictures. The technical requirements of a lens for dental photography is that it serves a dual-purpose, first for portraiture and second for close-up or macrophotography. Many cameras have built-in flashes that pop-up when the lighting conditions are less than optimal. This is satisfactory for general photography but ill-advised for macrophotography. Some relatively inexpensive items are also useful for completing the photographic equipment arsenal. These include rechargeable batteries, a multi-card reader for transferring images to a computer, UV bulbs for visualising fluorescence of natural teeth and artificial prostheses, or porosity defects in porcelain restorations.
+ER  - 
+
+TY  - JOUR
+AU  - van Dijk, Jacintha G. B.
+AU  - Fouchier, Ron A. M.
+AU  - Klaassen, Marcel
+AU  - Matson, Kevin D.
+TI  - Minor differences in body condition and immune status between avian influenza virus-infected and noninfected mallards: a sign of coevolution?
+JO  - Ecology and Evolution
+JA  - Ecol Evol
+VL  - 5
+IS  - 2
+SN  - 9781119312086
+UR  - https://doi.org/10.1002/ece3.1359
+DO  - doi:10.1002/ece3.1359
+SP  - 436
+EP  - 449
+KW  - Anas platyrhynchos
+KW  - infectious disease
+KW  - body mass
+KW  - migrant
+KW  - pathogen
+KW  - shedding
+KW  - wild birds
+PY  - 2015
+AB  - Abstract Wildlife pathogens can alter host fitness. Low pathogenic avian influenza virus (LPAIV) infection is thought to have negligible impacts on wild birds; however, effects of infection in free-living birds are largely unstudied. We investigated the extent to which LPAIV infection and shedding were associated with body condition and immune status in free-living mallards (Anas platyrhynchos), a partially migratory key LPAIV host species. We sampled mallards throughout the species' annual autumn LPAIV infection peak, and we classified individuals according to age, sex, and migratory strategy (based on stable hydrogen isotope analysis) when analyzing data on body mass and five indices of immune status. Body mass was similar for LPAIV-infected and noninfected birds. The degree of virus shedding from the cloaca and oropharynx was not associated with body mass. LPAIV infection and shedding were not associated with natural antibody (NAbs) and complement titers (first lines of defense against infections), concentrations of the acute phase protein haptoglobin (Hp), ratios of heterophils to lymphocytes (H:L ratio), and avian influenza virus (AIV)-specific antibody concentrations. NAbs titers were higher in LPAIV-infected males and local (i.e., short distance) migrants than in infected females and distant (i.e., long distance) migrants. Hp concentrations were higher in LPAIV-infected juveniles and females compared to infected adults and males. NAbs, complement, and Hp levels were lower in LPAIV-infected mallards in early autumn. Our study demonstrates weak associations between infection with and shedding of LPAIV and the body condition and immune status of free-living mallards. These results may support the role of mallards as asymptomatic carriers of LPAIV and raise questions about possible coevolution between virus and host.
+ER  - 
+
+AU  - Budsberg, Steven C.
+C7  - pp. 333-341
+TI  - Medical Therapy for Stifle Osteoarthritis
+SN  - 9781119261711
+UR  - https://doi.org/10.1002/9781119261728.ch41
+DO  - doi:10.1002/9781119261728.ch41
+SP  - 333-341
+KW  - additional analgesics
+KW  - adjunctive therapy
+KW  - canine cranial cruciate ligament
+KW  - medical management
+KW  - nonsteroidal anti-inflammatory drugs
+KW  - nutritional supplementation
+KW  - stifle osteoarthritis
+KW  - weight management
+PY  - 2015
+AB  - Abstract Osteoarthritis (OA) of the stifle joint is a progressive degenerative disease in dogs, which can have a profound impact on quality of life. The clinical signs of stifle OA include discomfort, limited joint range of motion, loss of muscle mass and muscle tone, and decreased overall limb use. The importance of weight management in the prevention and treatment of OA cannot be over-estimated. Nonsteroidal anti-inflammatory drugs (NSAIDs) are the most commonly prescribed class of medications to alleviate the clinical signs of OA and are the mainstay in any medical management. A multi-modal approach incorporating additional analgesics with differing mechanisms and sites of action is often indicated for improved pain control while lowering the therapeutically effective dose, thereby minimizing the adverse effects of NSAIDs. Nutritional supplementation with omega-3 (n-3) fatty acids has been proposed as an adjunctive therapy for the management of OA.
+ER  - 
+
+AU  - Moskowitz, Andrew
+AU  - Montirosso, Rosario
+C7  - pp. 117-140
+TI  - Childhood Experiences and Delusions
+SN  - 9781119952855
+UR  - https://doi.org/10.1002/9781118585948.ch8
+DO  - doi:10.1002/9781118585948.ch8
+SP  - 117-140
+KW  - delusions
+KW  - disorganized attachment
+KW  - double bind theory
+KW  - infantile amnesia
+KW  - Jaspers' Wahnstimmung
+KW  - schizophrenia
+PY  - 2015
+AB  - Summary For most of human history, the experience of delusions has been synonymous with madness. This chapter considers research and theory from a variety of domains to grapple with the nature of delusions. These will involve theory and research on delusions, including a discussion of Jaspers' Wahnstimmung, multiple memory systems, and early childhood experiences, particularly those associated with disorganized attachment. There is abundant evidence that memory systems, particularly autobiographical forms of episodic and semantic memory, and 'working' memory, are impaired in schizophrenia. The double bind theory claims that a regular pattern of disturbed communication between mother (typically) and child, from infancy on, leads to later disturbed 'schizophrenic' thinking and behaviour. While 'double bind' interactions, or disrupted maternal-child communication patterns, may provide the memorial foundation for psychosis in later life, it is also possible that delusions may serve as a creative solution for, or escape from, the double bind.
+ER  - 
+
+TY  - JOUR
+AU  - Dolbeault, S.
+AU  - Cayrou, S.
+AU  - Brédart, A.
+AU  - Viala, A. L.
+AU  - Desclaux, B.
+AU  - Saltel, P.
+AU  - Gauvain-Piquard, A.
+AU  - Hardy, P.
+AU  - Dickes, P.
+TI  - The effectiveness of a psycho-educational group after early-stage breast cancer treatment: results of a randomized French study
+JO  - Psycho-Oncology
+JA  - Psycho‐Oncology
+VL  - 18
+IS  - 6
+SN  - 9781119952855
+UR  - https://doi.org/10.1002/pon.1440
+DO  - doi:10.1002/pon.1440
+SP  - 647
+EP  - 656
+KW  - group therapy
+KW  - psycho-education
+KW  - randomized controlled trial
+KW  - breast cancer
+KW  - oncology
+PY  - 2009
+AB  - Abstract Background: Many women with breast cancer need psychological help to cope more effectively after treatment. Cognitive and behavioural techniques are not yet well established in France. A multi-site randomized study was conducted to evaluate the effects of a psycho-educational group intervention in this population. Methods: Two hundred and three patients, recruited after primary treatment, were randomly assigned either to a treatment group (psycho-educational intervention) or to a waiting-list control group. The 8-week programme of 2?h sessions comprised of thematic discussions, information and training in stress management techniques. Evaluation at baseline, after 8 sessions, and 1 month after programme completion, included evaluations using the STAI, POMS, MAC, EORTC QLQ-C30 and EORTC QLQ-BR23 breast module scales. Results: We observed a significant reduction in anxiety (STAI, POMS) among group participants, a reduction in anger, depression and fatigue (POMS), a significant improvement in vigor and interpersonal relationships (POMS), in emotional and role functioning, in health status and fatigue level (EORTC QLQ-C30). In contrast, coping strategies (MAC) were not significantly different between groups. No group-related negative effects were observed and the global satisfaction levels were very high. Conclusion: This study demonstrates the feasibility and effectiveness of a psycho-educational intervention, which can accelerate the reduction of those negative affects which are present at the end of treatment. It represents an excellent complement or an alternative to individual psycho-oncologic therapeutic support, widely proposed in France, and should now be tested in groups with other types of cancer and at other disease phases. Copyright ? 2008 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Joshi, D.
+AU  - Webster, G. J. M.
+TI  - Review article: biliary and hepatic involvement in IgG4-related disease
+JO  - Alimentary Pharmacology & Therapeutics
+JA  - Aliment Pharmacol Ther
+VL  - 40
+IS  - 11-12
+SN  - 9781119952855
+UR  - https://doi.org/10.1111/apt.12988
+DO  - doi:10.1111/apt.12988
+SP  - 1251
+EP  - 1261
+PY  - 2014
+AB  - Summary Background IgG4-related disease (IgG4-RD) is a multi-systemic disorder. IgG4-related sclerosing cholangitis (IgG4-SC) is the biliary manifestation of the disease, often in association with autoimmune pancreatitis (AIP). Hepatic manifestations of IgG4-RD are less well described within the literature. Aim To examine and present an overview of IgG4-RD with a focus on the biliary and hepatic manifestations. Methods An electronic search using Medline was performed. Search items included ?IgG4 multi-system disease, IgG4 associated cholangitis, IgG4 associated liver disease and autoimmune pancreatitis (AIP)?. Results IgG4-RD is characterised by an IgG4-positive lymphoplasmacytic tissue infiltrate, storiform fibrosis and an obliterative phlebitis. The HISORt criteria may be used to establish the diagnosis and incorporate a multi-disciplinary approach involving histology, radiology, serum IgG4 levels and response to steroid therapy. IgG4-SC is the commonest extrapancreatic manifestation of type-1 AIP, while the hepatic manifestations remain poorly defined. Important differential diagnoses include primary sclerosing cholangitis, secondary sclerosing cholangitis, cholangiocarcinoma and pancreatic carcinoma. Current treatment regimens remain ill defined although steroid therapy is used first line unless contraindicated. Patients with relapsing disease or multifocal disease should be considered for azathioprine. Available data would also suggest a role for rituximab. Conclusions IgG4-related sclerosing cholangitis is a common manifestation of IgG4-related disease which requires a multi-disciplinary approach to establish the diagnosis. Differentiating IgG4-related sclerosing cholangitis from other conditions, both benign and malignant, is challenging, but vital. Steroids remain the mainstay of treatment. Our understanding of the pathogenesis of the hepatic manifestations of IgG4-related disease continues to evolve.
+ER  - 
+
+TY  - JOUR
+AU  - Andreasen, Frances M.
+TI  - Pulpal healing after luxation injuries and root fracture in the permanent dentition
+JO  - Dental Traumatology
+VL  - 5
+IS  - 3
+SN  - 9781119952855
+UR  - https://doi.org/10.1111/j.1600-9657.1989.tb00348.x
+DO  - doi:10.1111/j.1600-9657.1989.tb00348.x
+SP  - 111
+EP  - 131
+KW  - dental luxation
+KW  - mobility testing
+KW  - multi-variate statistical analysis
+KW  - periapical radiolucency
+KW  - prognosis
+KW  - proportional hazards regression model
+KW  - pulpal healing
+KW  - pulp canal obliteration
+KW  - pulp necrosis
+KW  - pulpal sensibility
+KW  - root fracture healing
+KW  - root resorption
+KW  - tooth discoloration
+PY  - 1989
+AB  - Abstract Pulpal healing patterns were studied in a clinical material of 637 luxated and 95 root-fractured permanent incisors followed routinely for up to 11 years. It was found that pulpal healing patterns could generally be divided into 3 groups according to the degree of injury sustained by the pulp: little, moderate or severe. Thus after luxation injuries, pulp survival could be without radiographic change (PS), with pulp canal obliteration (PCO) or nonhealing (pulp necrosis (PN)). After root fracture, similar healing patterns could be observed: healing by hard tissue union of fragments (HT), by connective tissue union of fragments (CT) or by nonunion due to interposition of granulation tissue between fragments (GT) resulting from PN of the coronal fragment. In both trauma situations, healing or nonhealing could be determined by type of luxation injury, stage of root development and type of fixation used (forceful application of orthodontic bands vs. passively applied acid-etch fixation). Pulpal healing complications (PN or GT) were based on clinical findings (coronal discoloration, loss of pulpal sensibility) and radiographic findings (resorption processes of the lamina dura at the root apex or at the level of the root fracture). However, in both injury groups the same changes could also be seen to be intermediate steps in the pulpal healing process. Based on findings from these studies, hypotheses for the mechanics of pulpal healing are proposed as well as guidelines for acute and later treatment of dental luxations, root fractures and the diagnosis of healing complications.
+ER  - 
+
+TY  - JOUR
+AU  - García-Mejido, José A.
+AU  - Fernández-Palacín, Ana
+AU  - Bonomi Barby, María J.
+AU  - Castro, Laura
+AU  - Aquise, Adriana
+AU  - Sainz, José A.
+TI  - A comparable rate of levator ani muscle injury in operative vaginal delivery (forceps and vacuum) according to the characteristics of the instrumentation
+JO  - Acta Obstetricia et Gynecologica Scandinavica
+JA  - Acta Obstet Gynecol Scand
+VL  - 98
+IS  - 6
+SN  - 9781119952855
+UR  - https://doi.org/10.1111/aogs.13544
+DO  - doi:10.1111/aogs.13544
+SP  - 729
+EP  - 736
+KW  - forceps delivery
+KW  - levator ani muscle
+KW  - ultrasound transperineal (three-dimensional) 
+KW  - vacuum delivery
+PY  - 2019
+AB  - Abstract Introduction Forceps delivery is associated with a high rate of levator ani muscle (LAM) trauma (avulsion) at 35%-65% whereas data on avulsion rates after vacuum delivery vary greatly. Nevertheless, a common characteristic of all previous studies carried out to evaluate the association between instrumental deliveries (forceps and vacuum) and LAM avulsion, is the fact that characteristics of the instrumentation have not been described or evaluated. The objective of this study is to compare the rate of LAM avulsion between forceps and vacuum deliveries according to the characteristics of the instrumentation. Material and methods Prospective, observational study, including 263 nulliparous women, who underwent an instrumental delivery with either Malmström vacuum or Kielland forceps. The characteristics of the instrumentation, position (anterior position and other position) and height of the fetal head at the moment of instrumentation (low instrumentation [vertex at +2 station] and mid-instrumentation [head is involved but leading part above +2 station]) were assessed. Evaluation of LAM avulsion was performed at 6 months postpartum by three-/four-dimensional transperineal ultrasound. Using the multi-view mode, a complete avulsion was diagnosed when the abnormal muscle insertion was identified in all three central slices, that is, in the plane of minimal hiatal dimensions and the 2.5-mm and 5.0-mm slices cranial to this one. To detect a 30% or 15% difference in the LAM injury rate, with 80% power and 5% α-error, we needed, respectively 42 and 99 women per study group. Results In all, 263 nulliparous individuals have been evaluated (162 vacuum deliveries, 101 forceps deliveries). Instrumentation in an occipito-anterior position was more frequent in vacuum deliveries (75.3% vs 56.4%, P = .002), whereas other positions were more frequent in the forceps deliveries group (24.7% vs 43.6%). No statistically significant differences were noted regarding the height of the fetal head at the moment of instrumentation. No statistically significant differences were found in the presence of LAM avulsion (41.4% vs 38.6%) between vacuum and forceps deliveries. The univariate analysis of the crude odds ratio was 1.17, 95% CI 0.67-1.98, P = .70 for the avulsion of the LAM and the multivariate of the adjusted OR 0.90, 95% CI; 0.53-1.55, P = .71. Conclusions We consider that, in our population, LAM avulsion rate should not be a factor taken into account when choosing the type of instrumentation (Malmström vacuum or Kielland forceps) in an operative delivery.
+ER  - 
+
+TY  - JOUR
+TI  - Book Reviews
+JO  - The Australian Journal of Anthropology
+VL  - 15
+IS  - 3
+SN  - 9781119952855
+UR  - https://doi.org/10.1111/j.1835-9310.2004.tb00103.x
+DO  - doi:10.1111/j.1835-9310.2004.tb00103.x
+SP  - 344
+EP  - 364
+PY  - 2004
+AB  - Book reviewed in this article: Chadwick Allen. Blood Narrative: Indigenous Identity in American Indian and Maori Literary and Activist Texts. Alex Argenti-Pillen. Masking Terror: How Women Contain Violence in Southern Sri Lanka. Judy Atkinson. Trauma Trials, Recreating Song Lines: The Transgenerational Effects of Trauma in Indigenous Australia. Susan Debra Blum and Lionel M. Jensen (eds.). China Off Center: Mapping the Margins of the Middle Kingdom. William Cummings. Making Blood White: Historical Transformations in Early Modern Makassar. Tony Day. Fluid Iron: State Formation in Southeast Asia. Greg Gow. The Oromo in Exile: From the Horn of Africa to the Suburbs of Australia. Susanna M. Hoffman and Anthony Oliver-Smith (eds). Catastrophe and Culture: The Anthropology of Disaster. 2002. Helen Morton Lee. Tongans Overseas: Between Two Shores. Valentina Napolitano. Migration, Mujercitas, and Medicine Men: Living In Urban Mexico. Jean Marc Pidjo. Le Mwa Teâma Mwalebeng et Le Fils du Soleil. Stephen Pyne. Burning Bush: A Fire History of Australia. Wilfried Schröder. Ich reiste wie ein Buschmann. (Zum Leben und Wirken des Australienforschers Erhard Eylmann). Life and Scientific Work of the Pioneer of Australian Culture Erhard Eylmann. Michael French Smith. Village on the Edge: Changing Times in Papua New Guinea.
+ER  - 
+
+TY  - JOUR
+AU  - Smallman-Raynor, Matthew
+AU  - Cliff, Andrew D.
+TI  - Epidemics in semi-isolated communities: statistical perspectives on acute childhood diseases in English public boarding schools, 1930–1939
+JO  - Journal of the Royal Statistical Society: Series A (Statistics in Society)
+VL  - 176
+IS  - 2
+SN  - 9781119952855
+UR  - https://doi.org/10.1111/j.1467-985X.2012.01040.x
+DO  - doi:10.1111/j.1467-985X.2012.01040.x
+SP  - 321
+EP  - 346
+KW  - Boarding schools
+KW  - Common acute childhood diseases
+KW  - History of medical statistics
+KW  - Medical Research Council School Epidemics Committee
+KW  - Semi-isolated populations
+PY  - 2013
+AB  - Summary.? The work of the Medical Research Council School Epidemics Committee?established in 1929 to undertake a study of ?droplet infections? in the ?semi-isolated? populations of England's public schools?represents a little-known chapter in the historical development of applied medical statistics. Drawing on documents in the National Archives, London, we trace the original scheme for the Committee to Miss Ethel Newbold (1882?1933), a Fellow and Council member of the Royal Statistical Society and the first woman to be awarded the Society's Guy Medal (1928, in silver). Using the Committee's surviving records, databases of disease incidence are constructed for a multicentre cohort of 27 boarding schools, 1930?1939. Exploratory analysis of the data is illustrated by applying non-metric multi-dimensional scaling and Poisson regression to the themes of disease comorbidity and frequency of outbreak. Prompted by the emerging epidemiological concepts of pathogen?pathogen interaction and syndemicity, the multi-dimensional scaling analysis highlights the apparent epidemiological independence of common acute childhood infections (including chickenpox, measles, mumps, rubella, scarlet fever and whooping cough) in the disease system. Poisson regression reveals a complex pattern of controls on the frequency of school epidemics that vary by disease. The results that are obtained underscore the continuing relevance of the historical disease records of semi-isolated institutions, such as boarding schools, to an epidemiological understanding of common acute childhood infections and other ailments.
+ER  - 
+
+AU  - Kramer, Amy
+AU  - Hesbach, Amie Lamoreaux
+AU  - Sprague, Shari
+C7  - pp. 96-119
+TI  - Introduction to Canine Rehabilitation
+SN  - 9781119380382
+UR  - https://doi.org/10.1002/9781119380627.ch5
+DO  - doi:10.1002/9781119380627.ch5
+SP  - 96-119
+KW  - Canine rehabilitation
+KW  - sports medicine
+KW  - collaboration
+KW  - interdisciplinary
+KW  - physical rehabilitation
+KW  - practice
+PY  - 2013
+AB  - Summary As the practice of canine rehabilitation and sports medicine continues to evolve, roles of practitioners are more specialized as approaches become more advanced. Clinical reasoning, care pathways, and specific applied interventions are adopted from the interprofessional practice of human sports medicine, requiring knowledge and understanding of the art and science of physical rehabilitation and related medical sciences. Contributing to a multifaceted team, the rehabilitation professional must be able to synthesize information related to the integrity and efficiency of the neuromusculoskeletal system, in coordination with other body systems, to affect the functional abilities of the patient. This is accomplished through the examination and evaluation of the patient with the purpose of identifying medical comorbidities, specific impairments, functional limitations, and disabilities. Understanding the interplay between the objective information collected during the rehabilitation examination and evaluation, patient-specific factors, and knowledge of basic sciences, physics, and biomechanics will guide the therapist in establishing a treatment plan that will ultimately contribute to the patient's return to an optimal level of function following injury, illness, or onset of a medical disorder or disease. The purpose of this introductory chapter is to: Define the practice of canine rehabilitation. Describe various contributions of the different members of the interprofessional canine rehabilitation team. Discuss the history and evolution of the practice of canine rehabilitation in the United States and internationally. Describe the practice of physical therapy as it pertains to the management of the canine rehabilitation patient. Discuss specific physiological considerations for the canine rehabilitation therapist when planning rehabilitation interventions. Describe patient management and treatment planning methods by which the canine rehabilitation therapist coordinates the implementation of treatment strategies and interventions.
+ER  - 
+
+TY  - JOUR
+AU  - Curtis, L.
+AU  - Bayes, T.C.
+AU  - England, G.C.W.
+AU  - Burford, J.H.
+AU  - Freeman, S.L.
+TI  - Systematic Review of Risk Factors for Equine Colic
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 9781119380382
+UR  - https://doi.org/10.1111/evj.12323_47
+DO  - doi:10.1111/evj.12323_47
+SP  - 21
+EP  - 21
+PY  - 2014
+AB  - Reasons for performing the study There are several epidemiological studies that have reported on risk factors for colic, this data has not been systematically reviewed. Objectives To systematically review the current evidence on risk factors for colic in the horse. Study design Systematic review in compliance with PRISMA guidelines. Methods The primary literature search was conducted in CAB Winner of Voorjaarsdagen Award 2014 (1910?2012), Web of Science (1950?2012) and MEDLINE (1946?2012) (between 23?26 November 2012), using the following terms: (horses OR horse OR equine OR equines OR equus OR equidae OR equids OR equid) AND colic. Publications were assessed independently against inclusion criteria (peer-reviewed articles relating to risk, causes, aetiology or predictors of colic) and exclusion criteria (nongastrointestinal or specific conditions, <3 cases) by LC and SF. Those selected were reviewed using a specifically developed quality assessment criteria (QAC) scoring system. Articles were ranked according to the QAC with those scoring greater than a specific critical threshold considered to be of the highest level of evidence. Results The search identified 1385 publications; 90 related to risk factors, 36 met the inclusion criteria and were assessed using the QAC. Nine publications were selected for final evaluation. Eight studies were based in the USA, and one multi-centre study in Europe. Individual papers identified risk factors pertaining to signalment, use of horse, clinical history, diet and other management details; however, there was inconclusive agreement for the majority of factors investigated. Consistent consensus between ≥3 studies identified increasing age, Arab and Thoroughbred breeds, recent change in diet or housing and a previous history of colic as significant risk factors for colic. Conclusions Evidence for many risk factors is weak and inconsistent, with a variety of confounders and interactions across the studies. There is strong evidence for age, breed, management changes and recent clinical history as risk factors. Ethical animal research:?The study was reviewed and approved by the School of Veterinary Medicine and Science, University of Nottingham Ethics Committee. Sources of funding:?Laila Curtis was funded by the School of Veterinary Medicine and Science, University of Nottingham. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Sinnerbrink, Ingrid
+AU  - Silove, Derrick M
+AU  - Steel, Zachary
+AU  - Manicavasagar, Vijaya L
+AU  - Field, Annette
+TI  - Asylum seekers: general health status and problems with access to health care
+JO  - Medical Journal of Australia
+JA  - Medical Journal of Australia
+VL  - 165
+IS  - 11-12
+SN  - 9781119380382
+UR  - https://doi.org/10.5694/j.1326-5377.1996.tb138671.x
+DO  - doi:10.5694/j.1326-5377.1996.tb138671.x
+SP  - 634
+EP  - 637
+PY  - 1996
+AB  - ObjectiveTo investigate the general health status of asylum seekers and their access to health services. DesignProspective questionnaire survey. SettingA community-based asylum seeker centre in Sydney from March to September 1994, before the Limited Health Care Assistance Scheme had taken effect. ParticipantsForty of 57 eligible asylum seekers from 21 different countries attending English language classes. Main outcome measuresResults on the traumatic events section of the Harvard Trauma Questionnaire, a postmigratory problem checklist, the COOP Functional Health Assessment charts, the Duke-University of Northern Carolina Health Profile, and a structured interview to assess difficulties in accessing health care in Australia. ResultsMore than 30 of the 40 participants reported exposure to past trauma. Asylum seekers were more impaired in their emotional health than a normative group of patients with minor (P< 0.001) and serious (P< 0.001) medical illnesses, and more impaired in role functioning than those with minor medical illnesses (P<0.001). Twenty or more reported symptoms of nervousness, headache, and/or depression; ConclusionsAlthough a selective sample, the asylum seekers in our study appeared to be suffering substantial levels of emotional and somatic symptoms, yet, for most, access to health care was a major problem. The effectiveness of recent sequential changes to the provisions covering welfare and health care for asylum seekers needs to be closely monitored.
+ER  - 
+
+TY  - JOUR
+AU  - Ernst, Edzard
+TI  - Does regular cannabis use cause schizophrenia?
+JO  - Focus on Alternative and Complementary Therapies
+VL  - 7
+IS  - 4
+SN  - 9781119380382
+UR  - https://doi.org/10.1211/fact.2002.00435
+DO  - doi:10.1211/fact.2002.00435
+SP  - 334
+EP  - 336
+KW  - Cannabis
+KW  - Schizophrenia
+KW  - Safety
+KW  - Herbal medicine
+PY  - 2002
+ER  - 

@@ -1,0 +1,758 @@
+
+TY  - JOUR
+AU  - Cossarizza, Andrea
+AU  - Chang, Hyun-Dong
+AU  - Radbruch, Andreas
+AU  - Acs, Andreas
+AU  - Adam, Dieter
+AU  - Adam-Klages, Sabine
+AU  - Agace, William W.
+AU  - Aghaeepour, Nima
+AU  - Akdis, Mübeccel
+AU  - Allez, Matthieu
+AU  - Almeida, Larissa Nogueira
+AU  - Alvisi, Giorgia
+AU  - Anderson, Graham
+AU  - Andrä, Immanuel
+AU  - Annunziato, Francesco
+AU  - Anselmo, Achille
+AU  - Bacher, Petra
+AU  - Baldari, Cosima T.
+AU  - Bari, Sudipto
+AU  - Barnaba, Vincenzo
+AU  - Barros-Martins, Joana
+AU  - Battistini, Luca
+AU  - Bauer, Wolfgang
+AU  - Baumgart, Sabine
+AU  - Baumgarth, Nicole
+AU  - Baumjohann, Dirk
+AU  - Baying, Bianka
+AU  - Bebawy, Mary
+AU  - Becher, Burkhard
+AU  - Beisker, Wolfgang
+AU  - Benes, Vladimir
+AU  - Beyaert, Rudi
+AU  - Blanco, Alfonso
+AU  - Boardman, Dominic A.
+AU  - Bogdan, Christian
+AU  - Borger, Jessica G.
+AU  - Borsellino, Giovanna
+AU  - Boulais, Philip E.
+AU  - Bradford, Jolene A.
+AU  - Brenner, Dirk
+AU  - Brinkman, Ryan R.
+AU  - Brooks, Anna E. S.
+AU  - Busch, Dirk H.
+AU  - Büscher, Martin
+AU  - Bushnell, Timothy P.
+AU  - Calzetti, Federica
+AU  - Cameron, Garth
+AU  - Cammarata, Ilenia
+AU  - Cao, Xuetao
+AU  - Cardell, Susanna L.
+AU  - Casola, Stefano
+AU  - Cassatella, Marco A.
+AU  - Cavani, Andrea
+AU  - Celada, Antonio
+AU  - Chatenoud, Lucienne
+AU  - Chattopadhyay, Pratip K.
+AU  - Chow, Sue
+AU  - Christakou, Eleni
+AU  - Čičin-Šain, Luka
+AU  - Clerici, Mario
+AU  - Colombo, Federico S.
+AU  - Cook, Laura
+AU  - Cooke, Anne
+AU  - Cooper, Andrea M.
+AU  - Corbett, Alexandra J.
+AU  - Cosma, Antonio
+AU  - Cosmi, Lorenzo
+AU  - Coulie, Pierre G.
+AU  - Cumano, Ana
+AU  - Cvetkovic, Ljiljana
+AU  - Dang, Van Duc
+AU  - Dang-Heine, Chantip
+AU  - Davey, Martin S.
+AU  - Davies, Derek
+AU  - De Biasi, Sara
+AU  - Del Zotto, Genny
+AU  - Dela Cruz, Gelo Victoriano
+AU  - Delacher, Michael
+AU  - Della Bella, Silvia
+AU  - Dellabona, Paolo
+AU  - Deniz, Günnur
+AU  - Dessing, Mark
+AU  - Di Santo, James P.
+AU  - Diefenbach, Andreas
+AU  - Dieli, Francesco
+AU  - Dolf, Andreas
+AU  - Dörner, Thomas
+AU  - Dress, Regine J.
+AU  - Dudziak, Diana
+AU  - Dustin, Michael
+AU  - Dutertre, Charles-Antoine
+AU  - Ebner, Friederike
+AU  - Eckle, Sidonia B. G.
+AU  - Edinger, Matthias
+AU  - Eede, Pascale
+AU  - Ehrhardt, Götz R.A.
+AU  - Eich, Marcus
+AU  - Engel, Pablo
+AU  - Engelhardt, Britta
+AU  - Erdei, Anna
+AU  - Esser, Charlotte
+AU  - Everts, Bart
+AU  - Evrard, Maximilien
+AU  - Falk, Christine S.
+AU  - Fehniger, Todd A.
+AU  - Felipo-Benavent, Mar
+AU  - Ferry, Helen
+AU  - Feuerer, Markus
+AU  - Filby, Andrew
+AU  - Filkor, Kata
+AU  - Fillatreau, Simon
+AU  - Follo, Marie
+AU  - Förster, Irmgard
+AU  - Foster, John
+AU  - Foulds, Gemma A.
+AU  - Frehse, Britta
+AU  - Frenette, Paul S.
+AU  - Frischbutter, Stefan
+AU  - Fritzsche, Wolfgang
+AU  - Galbraith, David W.
+AU  - Gangaev, Anastasia
+AU  - Garbi, Natalio
+AU  - Gaudilliere, Brice
+AU  - Gazzinelli, Ricardo T.
+AU  - Geginat, Jens
+AU  - Gerner, Wilhelm
+AU  - Gherardin, Nicholas A.
+AU  - Ghoreschi, Kamran
+AU  - Gibellini, Lara
+AU  - Ginhoux, Florent
+AU  - Goda, Keisuke
+AU  - Godfrey, Dale I.
+AU  - Goettlinger, Christoph
+AU  - González-Navajas, Jose M.
+AU  - Goodyear, Carl S.
+AU  - Gori, Andrea
+AU  - Grogan, Jane L.
+AU  - Grummitt, Daryl
+AU  - Grützkau, Andreas
+AU  - Haftmann, Claudia
+AU  - Hahn, Jonas
+AU  - Hammad, Hamida
+AU  - Hämmerling, Günter
+AU  - Hansmann, Leo
+AU  - Hansson, Goran
+AU  - Harpur, Christopher M.
+AU  - Hartmann, Susanne
+AU  - Hauser, Andrea
+AU  - Hauser, Anja E.
+AU  - Haviland, David L.
+AU  - Hedley, David
+AU  - Hernández, Daniela C.
+AU  - Herrera, Guadalupe
+AU  - Herrmann, Martin
+AU  - Hess, Christoph
+AU  - Höfer, Thomas
+AU  - Hoffmann, Petra
+AU  - Hogquist, Kristin
+AU  - Holland, Tristan
+AU  - Höllt, Thomas
+AU  - Holmdahl, Rikard
+AU  - Hombrink, Pleun
+AU  - Houston, Jessica P.
+AU  - Hoyer, Bimba F.
+AU  - Huang, Bo
+AU  - Huang, Fang-Ping
+AU  - Huber, Johanna E.
+AU  - Huehn, Jochen
+AU  - Hundemer, Michael
+AU  - Hunter, Christopher A.
+AU  - Hwang, William Y. K.
+AU  - Iannone, Anna
+AU  - Ingelfinger, Florian
+AU  - Ivison, Sabine M
+AU  - Jäck, Hans-Martin
+AU  - Jani, Peter K.
+AU  - Jávega, Beatriz
+AU  - Jonjic, Stipan
+AU  - Kaiser, Toralf
+AU  - Kalina, Tomas
+AU  - Kamradt, Thomas
+AU  - Kaufmann, Stefan H. E.
+AU  - Keller, Baerbel
+AU  - Ketelaars, Steven L. C.
+AU  - Khalilnezhad, Ahad
+AU  - Khan, Srijit
+AU  - Kisielow, Jan
+AU  - Klenerman, Paul
+AU  - Knopf, Jasmin
+AU  - Koay, Hui-Fern
+AU  - Kobow, Katja
+AU  - Kolls, Jay K.
+AU  - Kong, Wan Ting
+AU  - Kopf, Manfred
+AU  - Korn, Thomas
+AU  - Kriegsmann, Katharina
+AU  - Kristyanto, Hendy
+AU  - Kroneis, Thomas
+AU  - Krueger, Andreas
+AU  - Kühne, Jenny
+AU  - Kukat, Christian
+AU  - Kunkel, Désirée
+AU  - Kunze-Schumacher, Heike
+AU  - Kurosaki, Tomohiro
+AU  - Kurts, Christian
+AU  - Kvistborg, Pia
+AU  - Kwok, Immanuel
+AU  - Landry, Jonathan
+AU  - Lantz, Olivier
+AU  - Lanuti, Paola
+AU  - LaRosa, Francesca
+AU  - Lehuen, Agnès
+AU  - LeibundGut-Landmann, Salomé
+AU  - Leipold, Michael D.
+AU  - Leung, Leslie Y.T.
+AU  - Levings, Megan K.
+AU  - Lino, Andreia C.
+AU  - Liotta, Francesco
+AU  - Litwin, Virginia
+AU  - Liu, Yanling
+AU  - Ljunggren, Hans-Gustaf
+AU  - Lohoff, Michael
+AU  - Lombardi, Giovanna
+AU  - Lopez, Lilly
+AU  - López-Botet, Miguel
+AU  - Lovett-Racke, Amy E.
+AU  - Lubberts, Erik
+AU  - Luche, Herve
+AU  - Ludewig, Burkhard
+AU  - Lugli, Enrico
+AU  - Lunemann, Sebastian
+AU  - Maecker, Holden T.
+AU  - Maggi, Laura
+AU  - Maguire, Orla
+AU  - Mair, Florian
+AU  - Mair, Kerstin H.
+AU  - Mantovani, Alberto
+AU  - Manz, Rudolf A.
+AU  - Marshall, Aaron J.
+AU  - Martínez-Romero, Alicia
+AU  - Martrus, Glòria
+AU  - Marventano, Ivana
+AU  - Maslinski, Wlodzimierz
+AU  - Matarese, Giuseppe
+AU  - Mattioli, Anna Vittoria
+AU  - Maueröder, Christian
+AU  - Mazzoni, Alessio
+AU  - McCluskey, James
+AU  - McGrath, Mairi
+AU  - McGuire, Helen M.
+AU  - McInnes, Iain B.
+AU  - Mei, Henrik E.
+AU  - Melchers, Fritz
+AU  - Melzer, Susanne
+AU  - Mielenz, Dirk
+AU  - Miller, Stephen D.
+AU  - Mills, Kingston H.G.
+AU  - Minderman, Hans
+AU  - Mjösberg, Jenny
+AU  - Moore, Jonni
+AU  - Moran, Barry
+AU  - Moretta, Lorenzo
+AU  - Mosmann, Tim R.
+AU  - Müller, Susann
+AU  - Multhoff, Gabriele
+AU  - Muñoz, Luis Enrique
+AU  - Münz, Christian
+AU  - Nakayama, Toshinori
+AU  - Nasi, Milena
+AU  - Neumann, Katrin
+AU  - Ng, Lai Guan
+AU  - Niedobitek, Antonia
+AU  - Nourshargh, Sussan
+AU  - Núñez, Gabriel
+AU  - O'Connor, José-Enrique
+AU  - Ochel, Aaron
+AU  - Oja, Anna
+AU  - Ordonez, Diana
+AU  - Orfao, Alberto
+AU  - Orlowski-Oliver, Eva
+AU  - Ouyang, Wenjun
+AU  - Oxenius, Annette
+AU  - Palankar, Raghavendra
+AU  - Panse, Isabel
+AU  - Pattanapanyasat, Kovit
+AU  - Paulsen, Malte
+AU  - Pavlinic, Dinko
+AU  - Penter, Livius
+AU  - Peterson, Pärt
+AU  - Peth, Christian
+AU  - Petriz, Jordi
+AU  - Piancone, Federica
+AU  - Pickl, Winfried F.
+AU  - Piconese, Silvia
+AU  - Pinti, Marcello
+AU  - Pockley, A. Graham
+AU  - Podolska, Malgorzata Justyna
+AU  - Poon, Zhiyong
+AU  - Pracht, Katharina
+AU  - Prinz, Immo
+AU  - Pucillo, Carlo E. M.
+AU  - Quataert, Sally A.
+AU  - Quatrini, Linda
+AU  - Quinn, Kylie M.
+AU  - Radbruch, Helena
+AU  - Radstake, Tim R. D. J.
+AU  - Rahmig, Susann
+AU  - Rahn, Hans-Peter
+AU  - Rajwa, Bartek
+AU  - Ravichandran, Gevitha
+AU  - Raz, Yotam
+AU  - Rebhahn, Jonathan A.
+AU  - Recktenwald, Diether
+AU  - Reimer, Dorothea
+AU  - Reis e Sousa, Caetano
+AU  - Remmerswaal, Ester B.M.
+AU  - Richter, Lisa
+AU  - Rico, Laura G.
+AU  - Riddell, Andy
+AU  - Rieger, Aja M.
+AU  - Robinson, J. Paul
+AU  - Romagnani, Chiara
+AU  - Rubartelli, Anna
+AU  - Ruland, Jürgen
+AU  - Saalmüller, Armin
+AU  - Saeys, Yvan
+AU  - Saito, Takashi
+AU  - Sakaguchi, Shimon
+AU  - Sala-de-Oyanguren, Francisco
+AU  - Samstag, Yvonne
+AU  - Sanderson, Sharon
+AU  - Sandrock, Inga
+AU  - Santoni, Angela
+AU  - Sanz, Ramon Bellmàs
+AU  - Saresella, Marina
+AU  - Sautes-Fridman, Catherine
+AU  - Sawitzki, Birgit
+AU  - Schadt, Linda
+AU  - Scheffold, Alexander
+AU  - Scherer, Hans U.
+AU  - Schiemann, Matthias
+AU  - Schildberg, Frank A.
+AU  - Schimisky, Esther
+AU  - Schlitzer, Andreas
+AU  - Schlosser, Josephine
+AU  - Schmid, Stephan
+AU  - Schmitt, Steffen
+AU  - Schober, Kilian
+AU  - Schraivogel, Daniel
+AU  - Schuh, Wolfgang
+AU  - Schüler, Thomas
+AU  - Schulte, Reiner
+AU  - Schulz, Axel Ronald
+AU  - Schulz, Sebastian R.
+AU  - Scottá, Cristiano
+AU  - Scott-Algara, Daniel
+AU  - Sester, David P.
+AU  - Shankey, T. Vincent
+AU  - Silva-Santos, Bruno
+AU  - Simon, Anna Katharina
+AU  - Sitnik, Katarzyna M.
+AU  - Sozzani, Silvano
+AU  - Speiser, Daniel E.
+AU  - Spidlen, Josef
+AU  - Stahlberg, Anders
+AU  - Stall, Alan M.
+AU  - Stanley, Natalie
+AU  - Stark, Regina
+AU  - Stehle, Christina
+AU  - Steinmetz, Tobit
+AU  - Stockinger, Hannes
+AU  - Takahama, Yousuke
+AU  - Takeda, Kiyoshi
+AU  - Tan, Leonard
+AU  - Tárnok, Attila
+AU  - Tiegs, Gisa
+AU  - Toldi, Gergely
+AU  - Tornack, Julia
+AU  - Traggiai, Elisabetta
+AU  - Trebak, Mohamed
+AU  - Tree, Timothy I.M.
+AU  - Trotter, Joe
+AU  - Trowsdale, John
+AU  - Tsoumakidou, Maria
+AU  - Ulrich, Henning
+AU  - Urbanczyk, Sophia
+AU  - van de Veen, Willem
+AU  - van den Broek, Maries
+AU  - van der Pol, Edwin
+AU  - Van Gassen, Sofie
+AU  - Van Isterdael, Gert
+AU  - van Lier, René A.W.
+AU  - Veldhoen, Marc
+AU  - Vento-Asturias, Salvador
+AU  - Vieira, Paulo
+AU  - Voehringer, David
+AU  - Volk, Hans-Dieter
+AU  - von Borstel, Anouk
+AU  - von Volkmann, Konrad
+AU  - Waisman, Ari
+AU  - Walker, Rachael V.
+AU  - Wallace, Paul K.
+AU  - Wang, Sa A.
+AU  - Wang, Xin M.
+AU  - Ward, Michael D.
+AU  - Ward-Hartstonge, Kirsten A
+AU  - Warnatz, Klaus
+AU  - Warnes, Gary
+AU  - Warth, Sarah
+AU  - Waskow, Claudia
+AU  - Watson, James V.
+AU  - Watzl, Carsten
+AU  - Wegener, Leonie
+AU  - Weisenburger, Thomas
+AU  - Wiedemann, Annika
+AU  - Wienands, Jürgen
+AU  - Wilharm, Anneke
+AU  - Wilkinson, Robert John
+AU  - Willimsky, Gerald
+AU  - Wing, James B.
+AU  - Winkelmann, Rieke
+AU  - Winkler, Thomas H.
+AU  - Wirz, Oliver F.
+AU  - Wong, Alicia
+AU  - Wurst, Peter
+AU  - Yang, Jennie H. M.
+AU  - Yang, Juhao
+AU  - Yazdanbakhsh, Maria
+AU  - Yu, Liping
+AU  - Yue, Alice
+AU  - Zhang, Hanlin
+AU  - Zhao, Yi
+AU  - Ziegler, Susanne Maria
+AU  - Zielinski, Christina
+AU  - Zimmermann, Jakob
+AU  - Zychlinsky, Arturo
+TI  - Guidelines for the use of flow cytometry and cell sorting in immunological studies (second edition)
+JO  - European Journal of Immunology
+JA  - Eur. J. Immunol.
+VL  - 49
+IS  - 10
+SN  - 0014-2980
+UR  - https://doi.org/10.1002/eji.201970107
+DO  - doi:10.1002/eji.201970107
+SP  - 1457
+EP  - 1973
+PY  - 2019
+AB  - Abstract These guidelines are a consensus work of a considerable number of members of the immunology and flow cytometry community. They provide the theory and key practical aspects of flow cytometry enabling immunologists to avoid the common errors that often undermine immunological data. Notably, there are comprehensive sections of all major immune cell types with helpful Tables detailing phenotypes in murine and human cells. The latest flow cytometry techniques and applications are also described, featuring examples of the data that can be generated and, importantly, how the data can be analysed. Furthermore, there are sections detailing tips, tricks and pitfalls to avoid, all written and peer-reviewed by leading experts in the field, making this an essential research companion.
+ER  - 
+
+TY  - JOUR
+TI  - Radiology
+JO  - Journal of Medical Imaging and Radiation Oncology
+VL  - 54
+IS  - s1
+SN  - 1754-9477
+UR  - https://doi.org/10.1111/j.1754-9485.2010.02191.x
+DO  - doi:10.1111/j.1754-9485.2010.02191.x
+SP  - A84
+EP  - A147
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - McArthur, David L.
+AU  - Chute, Dennis J.
+AU  - Villablanca, J. Pablo
+TI  - Moderate and Severe Traumatic Brain Injury: Epidemiologic, Imaging and Neuropathologic Perspectives
+JO  - Brain Pathology
+VL  - 14
+IS  - 2
+SN  - 1015-6305
+UR  - https://doi.org/10.1111/j.1750-3639.2004.tb00052.x
+DO  - doi:10.1111/j.1750-3639.2004.tb00052.x
+SP  - 185
+EP  - 194
+PY  - 2004
+AB  - This article examines 3 contexts in which moderate or severe traumatic brain injury can be approached. The epidemiologic background of moderate and severe traumatic brain injury is presented, with particular attention paid to new findings from the study of a national hospital inpatient database. We review aspects of neuroimaging and how new imaging modalities can reveal fine detail about traumatic brain injury. Finally we examine the current state of neuropathologic evaluation of, and recent developments in, understanding of the neural disruptions that occur following traumatic brain injury, together with cellular reactions to these disruptions.
+ER  - 
+
+TY  - JOUR
+AU  - Serena,             T.
+AU  - Li, V.W.
+AU  - on behalf of the Wound Healing Cooperative Group
+TI  - 145 Interval Analysis of a Randomized, Open Label, Multi-Center Study Comparing Apligraf Vs. Standard Multilayer Compression in the Reduction of Pain Associated WItH Venous Leg Ulcerations
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130216aw.x
+DO  - doi:10.1111/j.1067-1927.2005.130216aw.x
+SP  - A28
+EP  - A48
+PY  - 2005
+AB  - Background:? According to The American Pain Society, pain should be considered a fifth vital sign. Pain is a prominent feature of venous leg ulcerations (VLUs). Sixty-five percent of VLU patients complain of severe pain. In several multicenter clinical trials, Apligraf, a bioengineered living skin construct, has been shown to accelerate healing in venous leg ulcerations. Anecdotal clinical observations suggest that Apligraf treatment is associated with pain relief. A treatment modality which promotes healing and reduces pain would significantly improve the quality of life in patients with VLU. Methods:? VLU patients with pain scores greater than 5/10 on a numerical scale or requiring narcotic analgesia were randomized to receive either Apligraf and compression or compression alone. There was a 3-week ?wash-out? period to ensure that pain was not due to other factors such as inadequate compression or infection. Patients were enrolled only after a negative quantitative biopsy. The intensity of pain was self-scored and a quality-of-life questionnaire was completed at each visit. Weekly wound area measurements were obtained with digital planimetry. Results:? Thus far in the enrollment period we have already seen a trend toward a significant reduction in pain in the Apligraf group. This pain relief occurs shortly after application indicating that a mechanism distinct from clinical healing. The Apligraf group also demonstrated acceleration in wound healing as well as a decreased time-to-complete closure. Conclusion:? Interval analysis of this multicenter trial suggests that Apligraf accelerates wound healing and reduces the pain associated with venous leg ulcerations. Acknowledgment:? Unrestricted Educational grant, Organogenesis Inc.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Pacing and Clinical Electrophysiology
+VL  - 11
+IS  - 6
+SN  - 0147-8389
+UR  - https://doi.org/10.1111/j.1540-8159.1988.tb06032.x
+DO  - doi:10.1111/j.1540-8159.1988.tb06032.x
+SP  - 790
+EP  - 976
+PY  - 1988
+ER  - 
+
+TY  - JOUR
+AU  - Caza, Brianna Barker
+AU  - Vough, Heather
+AU  - Puranik, Harshad
+C8  - JOB-16-0837.R3
+TI  - Identity work in organizations and occupations: Definitions, theories, and pathways forward
+JO  - Journal of Organizational Behavior
+JA  - J Organ Behav
+VL  - 39
+IS  - 7
+SN  - 0894-3796
+UR  - https://doi.org/10.1002/job.2318
+DO  - doi:10.1002/job.2318
+SP  - 889
+EP  - 910
+KW  - identity work
+KW  - identity
+KW  - self
+KW  - self-concept
+PY  - 2018
+AB  - Summary Understanding how, why, and when individuals create particular self-meanings has preoccupied scholars for decades, leading to an explosion of research on identity work. We conducted a wide-ranging review of this literature with the aim of presenting an overarching framework that comprehensively summarizes and integrates the vast amount of recent research in this domain. Drawing on our analysis of the empirical literature, we present an enhanced conceptual understanding of identity work. We then summarize the four dominant theoretical approaches researchers have used to explain how, when, and why individuals engage in identity work. This side-by-side comparison of these theoretical perspectives allows us to parse out the unique contribution of each theoretical lens and highlights how these theories can be integrated into a holistic view of an inherently multifaceted concept. Lastly, we critically analyze the state of the field and lay a detailed roadmap for future researchers to draw from to expand our current understanding of how individuals work on their identities in occupations and organizations.
+ER  - 
+
+TY  - JOUR
+TI  - 2007 SAEM Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+VL  - 14
+IS  - s1
+SN  - 1069-6563
+UR  - https://doi.org/10.1197/j.aem.2007.03.704
+DO  - doi:10.1197/j.aem.2007.03.704
+SP  - S7
+EP  - S211
+PY  - 2007
+AB  - The editors of Academic Emergency Medicine are pleased and privileged to present the Original Research Abstracts from the Annual Meeting of the Society for Academic Emergency Medicine, May 16?19, 2007, in Chicago. The exciting trends of emergency medicine research are reflected in these brief summaries as are the talent, creativity, and enthusiasm of novice as well as more experienced academicians. This year, 1,172 research abstracts were submitted and 545 were selected for presentation at the Meeting (not including the 78 Innovations in Emergency Medicine Education Exhibits, which were submitted sepa-rately). Each abstract was independently reviewed by up to six designated topics experts who were blinded to the authors. Final determination for scientific presentation was made by the Scientific Subcommittee, chaired by O. John Ma, MD, and the SAEM Program Committee, chaired by Debra Houry, MD, MPH. The decision for presentation was based on the final review score and the space available for presentation at the meeting. We present these abstracts as they were received electronically from the authors, who are solely responsible for their content. They appear as they were received; we have done only minimal proofreading of these abstracts. Any questions you may have on their content should be directed to their authors. Presentation numbers precede the abstract titles. An index of key words and authors begins on page S220. Abstracts marked as late breakers (numbers 462 and 527) are prospective research projects, such as a clinical trial still in the midst of data collection or patient enrollment at the January 8 abstract deadline, but that will be completed, including analysis, by April 15, 2007. On behalf of the membership of SAEM, the editorial board of AEM, and the leadership of our specialty, we express our sincere gratitude to these academicians and the SAEM Program Committee for their continuing efforts to improve our patients' care by advancing emergency medicine research and education.
+ER  - 
+
+AU  - Garvey, Erin M.
+AU  - Egan, J. Craig
+C7  - pp. 227-238
+TI  - Pediatric Critical Care
+SN  - 9781119317920
+UR  - https://doi.org/10.1002/9781119317913.ch24
+DO  - doi:10.1002/9781119317913.ch24
+SP  - 227-238
+KW  - acute respiratory distress syndrome
+KW  - nosocomial infections
+KW  - packed red blood cells
+KW  - pediatric critical care
+KW  - pediatric intensivists
+KW  - pediatric trauma patient
+PY  - 2007
+AB  - Summary This is a unique question-and-answer chapter for surgical residents and trainees, concentrating on the pediatric critical care. The Transfusion Requirements in Pediatric Intensive Care Units study randomized to either transfusion threshold 9.5?g/dL or 7?g/dL using leukocyte-reduced packed red blood cells (PRBC). Deaths, Multiple organ dysfunction syndrome (MODS), adverse events, ventilator days, and nosocomial infections were not significantly different in the two groups. When split into subgroups of pediatric cardiac surgery patients and pediatric general surgery patients, the restrictive PRBC transfusion strategy showed no increase in MODS. PRBC transfusions appear to be independently linked to increased risk of morbidity and mortality in critically ill pediatric patients. Pediatric intensivists have recognized that acute respiratory distress syndrome (ARDS) in children is different from ARDS in adults. Recurrent hypotension in a pediatric trauma patient occurs late and may be an ominous sign.
+ER  - 
+
+TY  - JOUR
+TI  - SCANDINAVIAN PRIZE FOR RESEARCH – RADIOMETER PRIZE COMPETITION
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 49
+IS  - s117
+SN  - 9781119317920
+UR  - https://doi.org/10.1111/j.1399-6576.2005.00830_4.x
+DO  - doi:10.1111/j.1399-6576.2005.00830_4.x
+SP  - 49
+EP  - 53
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - REFRESHER COURSES
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 49
+IS  - s117
+SN  - 9781119317920
+UR  - https://doi.org/10.1111/j.1399-6576.2005.00830_5.x
+DO  - doi:10.1111/j.1399-6576.2005.00830_5.x
+SP  - 54
+EP  - 65
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - SYMPOSIA
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 49
+IS  - s117
+SN  - 9781119317920
+UR  - https://doi.org/10.1111/j.1399-6576.2005.00830_6.x
+DO  - doi:10.1111/j.1399-6576.2005.00830_6.x
+SP  - 66
+EP  - 139
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - HONORARY LECTURES
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 49
+IS  - s117
+SN  - 9781119317920
+UR  - https://doi.org/10.1111/j.1399-6576.2005.00830_8.x
+DO  - doi:10.1111/j.1399-6576.2005.00830_8.x
+SP  - 153
+EP  - 154
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+AU  - Curtis, Andrew
+AU  - Mills, Jacqueline W.
+AU  - Kennedy, Barrett
+AU  - Fotheringham, Stewart
+AU  - McCarthy, Timothy
+TI  - Understanding the Geography of Post-Traumatic Stress: An Academic Justification for Using a Spatial Video Acquisition System in the Response to Hurricane Katrina
+JO  - Journal of Contingencies and Crisis Management
+VL  - 15
+IS  - 4
+SN  - 9781119317920
+UR  - https://doi.org/10.1111/j.1468-5973.2007.00522.x
+DO  - doi:10.1111/j.1468-5973.2007.00522.x
+SP  - 208
+EP  - 219
+PY  - 2007
+AB  - In the aftermath of a disaster like Hurricane Katrina, remote-sensing methods are often employed in an effort to assess damage. However, their utility may be limited by the aerial perspective and image resolution. The Spatial Video Acquisition System (SVAS), in conjunction with a Geographic Information System (GIS), has the potential to be a complementary methodology for obtaining damage assessment information as well as capturing recovery related geographies associated with post-traumatic stress. An example is provided from the Lower 9th Ward of New Orleans with data that could be used to predict neighborhood post-traumatic stress. Results reveal six dimensions in which a SVAS can improve existing disaster-related data collection approaches: organization, archiving, transferability, evaluation, objectivity, and feasibility.
+ER  - 
+
+TY  - JOUR
+TI  - 2004 SAEM ANNUAL MEETING ABSTRACTS
+JO  - Academic Emergency Medicine
+VL  - 11
+IS  - 5
+SN  - 9781119317920
+UR  - https://doi.org/10.1197/j.aem.2004.02.011
+DO  - doi:10.1197/j.aem.2004.02.011
+SP  - 435
+EP  - 607
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+AU  - Hill, E
+AU  - McGivney, B
+AU  - Herdan, C
+AU  - Gough, K
+AU  - Katz, L
+TI  - Investigation of MSTN Genotype Association with VO2peak in Untrained Yearlings
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 9781119317920
+UR  - https://doi.org/10.1111/evj.12267_104
+DO  - doi:10.1111/evj.12267_104
+SP  - 34
+EP  - 34
+PY  - 2014
+AB  - Introduction In Thoroughbreds, genetic variation in myostatin (MSTN g.66493737C/T) is highly predictive of optimum race distance and influences mRNA expression, precocity, skeletal muscle development, two-year-old earnings, speed variables and skeletal muscle fibre type. The aim of this study was to investigate MSTN variation associations with VO2peak in untrained yearling Thoroughbreds. Methods Peak oxygen consumption (VO2peak) was measured in 41 untrained Thoroughbred yearlings (16 colts, 25 fillies, 19.8?±?1.4 months) from one flat racing yard (November-December). Data was collected as horses freely travelled up an all-weather gallop (2% incline) with no rider. VO2 was measured using an ergospirometry and oximetry mask and associated customized software validated for field testing. Horses were instrumented with a GPS-HR monitor, light-weight mask and data-capture equipment. HRpeak, maximal velocity (Vmax) and exercise distance were recorded. MSTN genotypes were determined using a customised Taqman SNP genotyping assay. Tests of association between genotype and phenotype were performed using PLINK software. Results Average exercise distance was 1700.5?±?33.4?m, Vmax 15.0?±?1.4?m/s, and HRpeak 221.2?±?9.6?bpm. MSTN genotypes and VO2peak based on 6 breaths were n?=?16 CC, VO2peak?=?119.49?±?21.8; n?=?22 CT, VO2peak?=?116.40?±?-27.2; n?=?3 TT, 115.08?±?20.2.There was no association (P>0.05) between genotype and VO2peak. Conclusions In yearling Thoroughbreds no association between MSTN genotype and untrained peak oxygen consumption was observed. This may be a function of the small number of TT genotype individuals evaluated or a reflection of a requirement for MSTN-associated skeletal muscle entrainment in VO2peak changes resulting from a period of exercise training. Such changes may be associated with MSTN genotype and this requires further investigation. Ethical Animal Research Institutional Animal Research Ethics Committee approval was obtained. Explicit owner informed consent for participation in this study is not stated. Sources of funding:?Science Foundation Ireland under Grant Number 11/PI/1166. Competing interests:?Dr Hill is a co-founder and Chairman of Equinome Ltd.
+ER  - 
+
+AU  - Ho, Cathy
+AU  - Kulvatunyou, Narong
+C7  - pp. 393-402
+TI  - Liver and Spleen
+SN  - 9781119317920
+UR  - https://doi.org/10.1002/9781119317913.ch39
+DO  - doi:10.1002/9781119317913.ch39
+SP  - 393-402
+KW  - angiographic embolization
+KW  - arterio-venous fistula
+KW  - hematologic disorder
+KW  - liver injuries
+KW  - post-injury biloma
+KW  - spleen injury
+KW  - splenic artery aneurysm
+PY  - 2014
+AB  - Summary This is a unique question-and-answer chapter for surgical residents and trainees, concentrating on the injuries of liver and spleen. In a nonoperative patient, angiographic embolization (AE) can be an adjunct in liver injuries that contains an arterio-venous fistula or have ongoing bleeding. Nonoperative management of blunt liver injuries in patients with normal hemodynamics is recommended with greater than 90% success. Hydatid disease of the liver is uncommon. It is caused by parasitic Echinococcus, which has dogs as its definitive hosts. Patients with high-grade liver injuries have an increased risk of developing post-injury biloma as a complication. The accessory spleen is a common anomaly, occurring in up to 20% of the population. However, it can occur in up to 30% of patients with a hematologic disorder. Splenic artery aneurysm is very uncommon, but it is the third most frequent abdominal artery to undergo aneurismal changes.
+ER  - 
+
+TY  - JOUR
+AU  - Brace, Megan A.
+AU  - Weisse, Chick
+AU  - Berent, Allyson
+TI  - Preliminary Experience With Stenting for Management of Non-Urolith Urethral Obstruction in Eight Cats
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 43
+IS  - 2
+SN  - 9781119317920
+UR  - https://doi.org/10.1111/j.1532-950X.2013.12089.x
+DO  - doi:10.1111/j.1532-950X.2013.12089.x
+SP  - 199
+EP  - 208
+PY  - 2014
+AB  - Objective To (1) describe minimally invasive transurethral antegrade and retrograde techniques for the placement of self-expanding metallic stents (SEMS) to reestablish urethral patency in cats with non-urolith urethral obstructions and (2) to report the procedural complications, incontinence rates, and long-term effectiveness in maintaining a patent urethra. Study Design Case series. Animals Cats (n?=?8). Methods Signalment, history, clinical signs, physical examination, severity of stranguria and incontinence, clinicopathologic data, diagnostic procedures performed, diagnosis, interventional technique, type and dimensions of stent placed, complications and final outcome of 8 cats treated with SEMS for the management of urethral strictures or masses are presented. Each cat was followed for ≥12 months. Follow-up information was obtained from the medical record or by telephone interview of the owner and/or referring veterinarian. Results Four cats were continent after stent placement, 2 were moderately incontinent, and 2 were severely incontinent. Long-term follow-up (median, 462 days) was available. At follow-up, 5 cats were alive and 3 had been euthanatized at 88, 233, and 305 days. Long-term outcome, as assessed by the authors, was good (1) to excellent (3) in 4 cats, and fair (2) to poor (2) in 4 cats. Owner reported outcomes were excellent in 3/8, good to excellent in 1/8, good in 2/8, and poor in 2/8. Conclusion Palliative stenting of urethral obstructions is a minimally invasive method to re-establish urethral patency in cats.
+ER  - 
+
+TY  - JOUR
+TI  - ORAL PROGRAMME ABSTRACTS
+JO  - Emergency Medicine Australasia
+VL  - 23
+IS  - s1
+SN  - 9781119317920
+UR  - https://doi.org/10.1111/j.1742-6723.2011.01364.x
+DO  - doi:10.1111/j.1742-6723.2011.01364.x
+SP  - 1
+EP  - 29
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+AU  - Bollella, Paolo
+AU  - Sharma, Sanjiv
+AU  - Cass, Anthony Edward George
+AU  - Antiochia, Riccarda
+TI  - Minimally-invasive Microneedle-based Biosensor Array for Simultaneous Lactate and Glucose Monitoring in Artificial Interstitial Fluid
+JO  - Electroanalysis
+JA  - Electroanalysis
+VL  - 31
+IS  - 2
+SN  - 9781119317920
+UR  - https://doi.org/10.1002/elan.201800630
+DO  - doi:10.1002/elan.201800630
+SP  - 374
+EP  - 382
+KW  - Microneedles
+KW  - Lactate; Glucose
+KW  - Simultaneous monitoring
+KW  - Artificial interstitial fluid
+KW  - Minimally invasive sensor
+PY  - 2019
+AB  - Abstract Here we report the first mediated pain free microneedle-based biosensor array for the continuous and simultaneous monitoring of lactate and glucose in artificial interstitial fluid (ISF). The gold surface of the microneedles has been modified by electrodeposition of Au-multiwalled carbon nanotubes (MWCNTs) and successively by electropolymerization of the redox mediator, methylene blue (MB). Functionalization of the Au-MWCNTs/polyMB platform with the lactate oxidase (LOX) enzyme (working electrode 1) and with the FAD-Glucose dehydrogenase (FADGDH) enzyme (working electrode 2) enabled the continuous monitoring of lactate and glucose in the artificial ISF. The lactate biosensor exhibited a high sensitivity (797.4±38.1??A?cm?2?mM?1), a good linear range (10?100??M) with a detection limit of 3??M. The performance of the glucose biosensor were also good with a sensitivity of 405.2±24.1??A?cm?2?mM?1, a linear range between 0.05 and 5?mM and a detection limit of 7??M. The biosensor array was tested to detect the amount of lactate generated after 100?minutes of cycling exercise (12?mM) and of glucose after a normal meal for a healthy patient (10?mM). The results reveal that the new microneedles-based biosensor array seems to be a promising tool for the development of real-time wearable devices with a variety of sport medicine and clinical care applications.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Journal of the Peripheral Nervous System
+JA  - J Peripher Nerv Syst
+VL  - 23
+IS  - S1
+SN  - 9781119317920
+UR  - https://doi.org/10.1111/jns.12255
+DO  - doi:10.1111/jns.12255
+SP  - S3
+EP  - S48
+PY  - 2018
+ER  - 

@@ -1,0 +1,382 @@
+
+TY  - JOUR
+AU  - Martin, C
+AU  - Merritt, J
+AU  - Davies, H
+TI  - Track Surface Identification Using an Instrumented Horseshoes
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_130
+DO  - doi:10.1111/evj.12267_130
+SP  - 43
+EP  - 43
+PY  - 2014
+AB  - Introduction Track conditions in Thoroughbred racing significantly impact performance and injury. However, surface effects on limb biomechanics at racing speeds are poorly understood. Methods A racing shoe was modified to contain inertial transducers and a strain gauge to provide motion kinematics and a measure of hoof/surface interaction load. A two-phase non-linear surface reaction model was defined to represent the hoof deceleration phase, and the hoof penetration phase where the surface reaction force was represented by a quartic stiffness profile and a fixed damping term. Model parameters were determined using an ?output error? iteration method for 25 strides at medium gallop. Parameters were compared using a standard t-test. Results The sand track had a significantly greater (P<0.0001) maximum penetration of 61?±?10?mm (mean?±?SD), than the grass track (41?±?0.5?mm). Both stiffness parameters were significantly different between the two tracks (P<0.0001), but damping parameters did not differ significantly. Hoof impact at high speed involved decelerations of over 100 ?g? occurring within milliseconds. Conclusions This study demonstrated that a surface reaction model using data acquired from an instrumented horseshoe, distinguished between surface reaction profiles of a sand track and a grass track, as a step towards improving track rating methods. A further challenge will be to develop independent checks on instrument calibrations. Ethical Animal Research The study was approved by the University of Melbourne Animal Ethics Committee. Sources of funding:?This study was funded by the Rural Industries Research and Development Corporation under project PRJ-006479, and by a University of Melbourne Research Collaboration Grant. Competing interests:?Colin Martin is the Director of SPERERO Pty. Ltd. a consulting and innovations company.
+ER  - 
+
+TY  - JOUR
+AU  - Sleutjens, J
+AU  - Cooley, A
+AU  - Sampson, S
+AU  - Wijnberg, I
+AU  - Back, W
+AU  - van der Kolk, J
+AU  - Swiderski, C
+TI  - The Equine Cervical Spine: Comparing MRI and Contrast-Enhanced CT Images with Anatomic Slices in the Sagittal, Dorsal and Transverse Plane
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_146
+DO  - doi:10.1111/evj.12267_146
+SP  - 48
+EP  - 48
+PY  - 2014
+AB  - Introduction The impact of cervical pathology on performance is of great importance to the equine industry. Accurate diagnosis of cervical disease with imaging modalities, including CT and MRI, requires thorough appreciation of normal cervical anatomy. The objectives of this study were to describe in detail the 3-dimensional anatomy of the equine cervical spine by comparing anatomical sections with corresponding MR and contrast-enhanced CT images in the sagittal, dorsal, and transverse plane and to determine the ability of MR and contrast-enhanced CT imaging to visualize anatomical structures in the cervical spine. Methods Three cervical spines of young adults (3?8 years), were collected immediately after humane euthanasia. The spine was stabilized on a frame in a natural flexed position with an angle of 20-degrees. MR and contrast-enhanced CT imaging was performed within 6 hours after euthanasia. Anatomical sections of 1?cm were made in the sagittal, dorsal, and transverse plane and compared with corresponding CT and MR images. The intervertebral disk thickness, facet joint angle, amount of cerebrospinal fluid and amount of synovial fluid within each facet joint were quantified. Results The anatomical locations of clinically important structures including the facet joints, spinal cord, cervical nerve roots and intervertebral disks were reliably identified in the anatomical sections and their corresponding MR images. Contrast-enhanced CT images depicted all osseous borders; MR images were superior for soft tissue structures. Conclusions This study enhances the understanding of normal cervical spine anatomy and the diagnostic usefulness of cervical MRI and contrast-enhanced CT in the horse. Ethical animal research This study was approved by the animal care and use committee of the Mississippi State University, MS, USA. Explicit owner informed consent for participation in this study is not stated. Sources of funding:?Office of Graduate Research and the Department of Clinical Sciences of the College of Veterinary Medicine, Mississippi State University. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Starke, S
+AU  - Merritt, J
+AU  - Stubbs, N
+AU  - Pfau, T
+AU  - Clayton, H
+TI  - Is Foot Placement Related to Body Movement Asymmetry During Circular Locomotion?
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_148
+DO  - doi:10.1111/evj.12267_148
+SP  - 48
+EP  - 49
+PY  - 2014
+AB  - Introduction The mechanics of circular locomotion are relevant to equine training and lameness evaluation. Circular trotting is associated with asymmetries in upper body movement. This study investigated whether changes in foot placement explain upper body asymmetry and whether this asymmetry is dependent on centripetal force. Methods Six functionally sound horses walked and trotted on a 6?m diameter circle and straight line at their preferred speed. Optical motion capture (Motion Analysis Corp.) recorded foot position in 3D space. For each limb, horizontal foot placement was calculated in a body-based reference system. Vertical displacement asymmetry (Vector Sum, VS) was calculated from inertial sensors (Xsens, The Netherlands) attached above poll, withers, sacrum and tubera coxae. Variables were compared across movement directions and gaits using repeated measures ANOVA (parametric datasets) or Friedman Test (non-parametric datasets). Results Changes in foot placement relative to body position and orientation were small for both gaits in cranio-caudal and medio-lateral direction (maximum effect size at walk/trot: 66/102?mm). The amount of systematic movement asymmetry on the circle was comparable between walk (mean VS head/sacrum: 36/15?mm) and trot (30/15?mm, respectively), despite a 3-fold higher centripetal force during trot. Conclusions Foot placement relative to body position and line of travel does not differ markedly between straight line and circle and cannot solely account for the observed upper body movement asymmetry. Since movement asymmetry was comparable at walk and trot (despite differences in adopted movement pattern), centripetal force may not be the primary variable responsible for movement asymmetry on the circle. Ethical Animal Research The study was approved by the MSU Institutional Animal Care and Use Committee, protocol #06/11-112-00. Sources of funding:?Sandra Starke's collaborative research visit for this project was funded by the British Society for Animal Science (BSAS), Murray Black Award. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Thomsen, MH
+AU  - Sahl-Tjørnholm, C
+AU  - Sørensen, H
+AU  - Tolver, A
+TI  - Effect of Lungeing and Circle Size on Movement Symmetry in Sound Riding Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_151
+DO  - doi:10.1111/evj.12267_151
+SP  - 49
+EP  - 50
+PY  - 2014
+AB  - Introduction Evaluation of the movement during trot in circles is commonly used in clinical equine lameness examinations to exacerbate mild or bilateral lameness. Sound horses trotting in a straight line have a high degree of movement symmetry, which decreases with lameness. The aim of this study was to investigate the effect of lungeing and circle size on movement symmetry in sound horses. Methods Twenty five riding horses categorized sound by inspection on straight line and lungeing were trotted in a straight line and in circles of 8, 10, 12, 14 and 16 metres diameter on both reins. Overall symmetry (S), symmetry of diagonal limb pair loading (A), and symmetry of diagonal limb pair timing (W) were calculated from trunk accelerations measured over the 13th thoracic vertebrae (T13) with a 3-axis accelerometer. Data were analysed via ANOVA with horse as random effect. Results S, A, and W showed high degree of symmetry of straight line trot with mean?±?SE?= ?6.0?±?0.1, 0.01?±?0.02 and ?0.001?±?0.003, respectively, that decreased with circular trot (P<0.02 in pairwise tests). S and A showed decreasing symmetry with decreasing circle size. For 16 and 8 metres, respectively; S?= ?5.2?±?0.1 and ?4.7?±?0.1; A?= 0.10?±?0.01 and 0.16?±?0.01; W?= ?0.009?±?0.002 and ?0.012?±?0.002. Conclusions In sound horses, movement symmetry measured over T13 decreased with circular trot and decreasing circle size as shown in earlier studies of movement of the poll and sacrum. The asymmetry mimicked inside diagonal lameness. Effect of circular movement and circle size should be considered in interpretation of lameness signs and asymmetry measured during circular trot. Ethical Animal Research The study was approved by the department ethical committee. The horses belonged to the Danish army, who gave their informed consent. As no invasive procedures were applied approval from the Danish Animal Experimental board was not needed. Sources of funding:?Foreningen KUSTOS af 1861. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Davie, A
+AU  - Yao, M
+AU  - Wang, Y
+AU  - Huang, L
+AU  - Zhou, S
+TI  - Comparison of Cumulative Effects of Four Days of Alternate or Continuous Training on Expression of Selected Mitochondrial Genes in Rat Skeletal Muscle
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_16
+DO  - doi:10.1111/evj.12267_16
+SP  - 6
+EP  - 6
+PY  - 2014
+AB  - Introduction Adaptations to training include the accumulation of specific proteins. The ideal stimulus that alters gene transcriptive response that initiates changes in protein concentration is important for adaptations. Methods Fifty-four male Sprague-Dawley rats were randomly divided into 9 experimental groups, with six rats in each group. The groups consisted of: control (group 1); one day of training (2); continuous training groups who trained for a further two to four days followed by three days recovery (3,4,5,6); alternate-day training consisting of a further two to four sessions (7,8,9) finishing on the 7th day. On each training day, the animals ran on a motor driven treadmill at a slope of 10° and a speed of 19.3?m/min (?76%VO2max) for 90 minutes. Gastrocnemius muscle specimens were obtained from the respective groups 1 hour after training ceased. Real-time PCR was performed to determine the changes (in fold) in mRNA of PGC1α, COXIV, CaMKIV, NRF1, AMPKα1 and α2, and mtTFA. One-way ANOVA was used in comparisons of the mean values between groups. Results The results showed that mRNA expression was significantly different between the training groups for AMPkα1 after the 3rd training session, PGC1α after the 4th training session, with CaMKIV significantly different following three days of recovery. COXIV and mtTFA were not significantly different at any point. Conclusions Training design has differing effects on expression of the selected genes. This data has provided insight into the importance of training design and recovery intervals which warrants a need for further research. Ethical Animal Research The study was approved by the Southern Cross University Animal Care and Ethics Committee. Sources of funding:?None declared. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Rombach, N
+AU  - Pease, A
+AU  - Stubbs, N
+TI  - Cross-Sectional Area Measurement of Cervical Spinal Muscles
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_165
+DO  - doi:10.1111/evj.12267_165
+SP  - 54
+EP  - 54
+PY  - 2014
+AB  - Introduction In people with neck pain, ultrasonography (US) can measure atrophy and response to physiotherapy in peri-vertebral muscles of the cervical spine, i.e. m. multifidus and m. longus colli. This study compared the reproducibility of muscle cross-sectional area (CSA) measurements made by US and MRI (the gold standard) at different levels in the equine cervical spine. Methods From US and MRI images of three mature pony cadavers, CSA was calculated at vertebral levels C3-C6 (m. multifidus) and C2-C5 (m. longus colli). ANOVA analysis compared US and MRI image acquisition reliability (n?=?360) and CSA (n?=?1080) among subjects and vertebral levels. Results For image acquisition of m. multifidus (C3-C5), the ICC (95% CI) for MRI and US was 99% and 61%, respectively. Image acquisition was unreliable at C6. CSA calculation did not differ between MRI and US. For m. longus colli (C3-C5), the ICC for image acquisition was 100% and 88% for MRI and US, respectively. Image acquisition was unreliable at C2. The ICC for CSA calculation was 98% for MRI and 100% for US. For both muscles, the mean CSA was largest at C4 and C5. Conclusions Based on these results, ultrasonography could be used in the live horse for reliable CSA measurement of m. multifidus and m. longus colli in the mid-cervical spine. This technique may advance knowledge of causes and effects of neck pain in horses. Ethical Animal Research Approval for this study was obtained under Institutional Animal Care and Use Committee number 02-11/020-00. The study was performed on material collected during post-mortem examination. Explicit owner informed consent for participation in this study is not stated. Sources of funding:?Michigan State University CVM Endowed Research Funds. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Jansson, A
+AU  - Hedenström, U
+AU  - Ragnarsson, S
+TI  - A Questionnaire on Training of the Icelandic Pace Horse
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_18
+DO  - doi:10.1111/evj.12267_18
+SP  - 6
+EP  - 7
+PY  - 2014
+AB  - Introduction The Icelandic horse is popular and can be found in more than 30 countries. The breed is used for a variety of competitions but mounted pace competitions have the longest history. Despite this, pace training strategies have not been well documented. The aim of this study was to describe training strategies used by experienced trainers of Icelandic pace horses. Methods The study is based on the response to a questionnaire answered by nine trainers (age 42?±?13 years and 23?±?12 years of experience as pace trainers). The trainers selected were living in Iceland or Sweden, were on the world ranking list in 250?m pace races (FEIF, August 2013) and had a minimum of 12 years of experience in pace training. The questionnaire was sent to the trainers by e-mail and answers were obtained in text or during a phone interview. The questionnaire included open questions about training strategies, the development of the horse and physical health problems. Data is presented as mean?±?SD. Results Training commenced at an age of 5.4?±?1.0 years. Horses were trained five times per week (4.8?±?0.7) and pace training was performed less than twice per week (1.6?±?0.9). The average time to achieve competitive condition was 1.9?±?0.8 years. Horses were considered to be at their best at 13.8?±?4.6 years of age. Wounds after cross-firing (n?=?3) and reactions within the suspensory ligament (n?=?2) were the most common health problems mentioned. Conclusions In Icelandic pace horses, training appears to commence at mature age and although they are trained most week days, training in pace is limited. Ethical Animal Research No animals were used in the study. Sources of funding:?Holar University College, Iceland and the Swedish National Trotting School in Wången, Alsen, Sweden. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Madsen, MF
+AU  - Kanters, JK
+AU  - Buhl, R
+TI  - Heart Rate Recovery Time in Exercise Testing of Endurance Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_19
+DO  - doi:10.1111/evj.12267_19
+SP  - 7
+EP  - 7
+PY  - 2014
+AB  - Introduction Endurance horses must attain heart rates below a certain limit (usually 64 beats/min) to pass veterinary inspections in endurance rides. The time necessary for heart rate recovery is therefore important in this equestrian discipline. The objective was to determine heart rate (HR) and heart rate recovery time (HRtime) of endurance horses exercised at various velocities. Methods Twelve Arabian endurance horses completed an incremental field exercise test with concurrent ECG-recording. Horses were actively competing at distances of 80?160?km. The exercise protocol defined five intervals with intended velocity range of 11?13?km/h, 15?17?km/h, 18?20?km/h, 21?25?km/h, and >25?km/h, respectively. Each interval was terminated by a halt lasting until HR declined to 64 beats/min. Velocity was determined by a global positioning system, while HR and HRtime were calculated from the ECG. Descriptive statistics was performed. Results Velocity, HR and HRtime (as mean?±?SD); Interval 1: 12.4?±?0.9?km/h, 104?±?11 beats/min, 50?±?34?s; Interval 2: 15.9?±?0.5?km/h, 120?±?9 beats/min, 128?±?81?s; Interval 3: 20.0?±?0.6?km/h, 133?±?10 beats/min, 202?±?120?s; Interval 4: 22.9?±?1.0?km/h, 140?±?11 beats/min, 264?±?170?s; and Interval 5: 29.3?±?3.8?km/h, 171?±?15 beats/min, 341?±?187?s. HR showed linear correlation with velocity. HRtime varied between horses especially after greater velocities, with a tendency of being shortest in the best performing horses. Four outliers of HRtime were excluded from horses reluctant to stand still during the halt due to anticipatory excitement. Conclusions Heart rate recovery time shows great individuality and could potentially be used as a performance indicator in endurance horses. Possible fluctuations of HR due to anticipatory excitement during the halt may prolong HRtime and must be accounted for. Ethical Animal Research Explicit owner informed consent for participation in this study is not stated. Sources of funding:?University of Copenhagen. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Tranquille, C
+AU  - Walker, V
+AU  - Hodgins, D
+AU  - Goosen, T
+AU  - McEwen, J
+TI  - Quantifying Warm-Up in Showjumping Horses Over 3 Consecutive Days
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_31
+DO  - doi:10.1111/evj.12267_31
+SP  - 10
+EP  - 11
+PY  - 2014
+AB  - Introduction The objective was to quantify warm-up (WU) jumping patterns/duration in showjumping horses. Methods Ten mixed breed horses (9.1?±?1.9?yrs) were assessed at a British Equestrian Federation (BEF) World Class Performance three day training session. Riders received coaching during WU and after jumping a 15 fence (1.35?1.45?m) course once on day-1 and twice on day-2; on day-3 the second round was an 8 fence jump-off. Fence type/height, number of jumping efforts (JE) and lead take-off/landing limbs during WU were recorded. Rider global-positioning-system recorded speed. Inertial motion sensors fixed to the lateral aspect of metatarsal/metacarpal bones, recorded time spent in each pace/rein plus stride length (SL) during WU and course. Paired Students T-tests were used to compare variables between days, as well as WU and course. Results Mean WU duration, time in each pace and on each rein did not differ within rider between days, however there were inter-rider differences (mean WU duration?=?18?mins; range?=?12?27?mins). Number of JE and fence type/height did not differ between days. During WU, there was marked canter lead, jump landing and leaving lead limb asymmetry (left canter lead predominating in all cases). There was no preference in canter lead when approaching WU fences. Horses cantered slower and with a shorter SL during WU compared to when jumping the course (speed-WU:4.21?±?0.09?m/sec; course:5.53?±?0.15?m/sec; SL- WU:2.59?±?0.06?m; course:3.16?±?0.08?m). Conclusions Results provide preliminary information on WU duration, and suggest that showjumping horses may WU asymmetrically, predominately on the left rein, at competitions and during training. This could have implications for injury risk to a particular forelimb or hindlimb in showjumping horses. Ethical Animal Research Explicit owner informed consent for participation in this study is not stated. Sources of funding:?The World Class Development Programme is funded by the Department for Culture, Media and Sport, through Exchequer and National Lottery funds, via UK Sport. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Fortier, J
+AU  - Goachet, A
+AU  - Deley, G
+AU  - Julliand, V
+TI  - Quantification of Energy Expenditure in Field Conditions: Comparison of Direct VO2 Versus VO2 Estimation from Heart Rate Measurements
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_36
+DO  - doi:10.1111/evj.12267_36
+SP  - 12
+EP  - 12
+PY  - 2014
+AB  - Introduction In humans, oxygen consumption (VO2) and heart rate (HR) are commonly used to assess energy expenditure (EE) during exercise in field conditions. We hypothesized that the estimation of EE from HR measurements could be a relevant parameter to estimate EE during submaximal field exercise. This study aimed to compare the EE from VO2 and HR measurements in exercising trotters. Methods Six harnessed French Trotters were submitted to a continuous field incremental test (FIT) at trot to establish their individual VO2/HR relationship. Then they undertook a submaximal exercise bout (EX) over 2375?m during 3.41?±?0.47?min at 70% of maximal velocity. VO2 and HR were recorded continuously (equine K4b2, COSMED, Rome, Italy) throughout FIT and EX. EE of EX was calculated by multiplying the total VO2 (Liters), either directly measured or predicted from HR, with its caloric equivalent (4.86?kcal/liter). Means were compared using a Student's t test. Results EE of EX was estimated at 2422?±?390?kcal and 2630?±?706?kcal from direct VO2 and HR methods respectively (P?=?0.54). Conclusions We found no significant difference between the two methods for estimating EE of submaximal exercise. This suggests that the prediction of EE from HR monitoring might be used to evaluate EE of moderate intensity workouts. Ethical Animal Research The project was conducted under the ethics committee approval B1110. Sources of funding:?INRA PHASE, the Burgundy Region and AgroSup Dijon. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Spooner, H
+AU  - Schott II, H
+AU  - Nielsen, B
+AU  - O′Connor-Robison, C
+AU  - Harris, P
+TI  - Changes in Abdominal Circumference during Endurance Exercise: A Pilot Study
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_40
+DO  - doi:10.1111/evj.12267_40
+SP  - 13
+EP  - 13
+PY  - 2014
+AB  - Introduction Horses have a large intestinal reserve of water and electrolytes that can be absorbed to replace sweat fluid losses during endurance exercise. As a consequence, the abdomen develops a ?tucked-up? appearance; however, data documenting changes in abdominal circumference during endurance exercise are lacking. Methods Abdominal circumference was measured directly (in triplicate with a measurement tape to nearest cm) every 15-km at three sites (front, middle, and back) in six 2-year-old Arabian horses that completed four 60-km bouts of treadmill exercise. Data were analyzed by repeated measures ANOVA and compared to body weight (BW) loss by correlation analysis. Results Abdominal circumference decreased at all three sites during the exercise test (1.8?±?0.7, 1.4?±?0.7, and 3.1?±?1.3?cm for front, middle, and back, respectively, [representing 1?2% of total circumference]) with the greatest decrease (>50% of total) occurring during the initial 15-km of the exercise test. Changes in abdominal circumference during each step of the exercise test were significantly correlated with BW changes (R values 0.18?0.39, P<0.05 for all). Conclusions These data support the clinical observation that the abdomen decreases in size during endurance exercise and that the largest changes are observed in the earlier stages of exercise, similar to the initial greater decrease in BW that has been documented in several studies during the initial half of endurance competitions. Ethical Animal Research This study was approved by the Animal Use Committee of Michigan State University. Sources of funding:?WALTHAM Centre for Pet Nutrition. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - De Mello Costa, M
+AU  - Ivanow, A
+AU  - MGB Silva, A
+AU  - Ronchi, F
+AU  - Casarini, D
+TI  - Post-Race Plasma Angiotensin Converting Enzyme in Thoroughbred Horses with or without Furosemide
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_49
+DO  - doi:10.1111/evj.12267_49
+SP  - 16
+EP  - 16
+PY  - 2014
+AB  - Introduction Exercise-Induced Pulmonary Haemorrhage (EIPH) results from hypertensive episodes associated with intense exercise and can negatively impact athletic performance. Angiotensin converting enzyme (ACE) secretion from pulmonary endothelium is increased during pulmonary disease. This study investigated the effects of furosemide administration on ACE activity, and hypothesised a positive association between EIPH and post-race plasma ACE. Methods Blood samples from 73 horses were collected after racing. ACE activity was measured using a fluorometric method. Respiratory endoscopy determined occurrence and grade of EIPH. Comparison of horses treated or not with furosemide before racing and the occurrence of EIPH were conducted by independent sample t-tests. In addition, regression analysis was used to investigate the association between ACE activity and EIPH grade for all horses. Other variables analysed included time to endoscopy and haematocrit. Results Mean ACE activity in horses not treated with furosemide (n?= 47; 91.7?±?15.9) was significantly higher (P?=?0.002) than in treated horses (n?=?26; 79.6?±?13.9). When EIPH positive horses were analysed separately, those treated with furosemide (n?=?20; ACE 78.2?±?11.9) had significantly lower ACE (P?=?0.009) than non-treated horses (n?=?17; ACE 90.9?±?15.9). Regression analysis indicated a polynomial relationship between mean ACE activity and EIPH grade (0, 1, 2 or 3?+?4?+?5; adjusted r2?=?0.99; P<0.001). No other comparisons were statistically significant. Conclusions Results indicated associations between ACE activity, EIPH grade and furosemide administration and investigation of the potential use of ACE as a biomarker for EIPH severity in controlled studies are warranted. Ethical Animal Research This research was conducted with approval from The Animal Ethics Committee at WINTEC, and informed owner consent was obtained for horses included in this study. Sources of funding:?partially funded by a Research Grant from WINTEC. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Foreman, C
+AU  - Foreman, J
+AU  - Bergstrom, B
+TI  - Efficacy of Intravenous Dexamethasone Versus Placebo in Experimental Foot Lameness in Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_7
+DO  - doi:10.1111/evj.12267_7
+SP  - 3
+EP  - 3
+PY  - 2014
+AB  - Introduction There are no refereed blinded controlled documentations of the skeletal analgesic efficacy of intravenous dexamethasone. The objective was to test the hypothesis that intravenous dexamethasone is more efficacious in alleviating lameness than placebo in a reversible adjustable heart bar shoe model of equine foot pain. Methods Eight healthy horses (7 Thoroughbreds, 1 Warmblood, aged 6.5?±?3.3 years, age range 2?11 years) underwent weekly intravenous treatments 1 hour after lameness induction. Treatments were isotonic saline placebo at 1?ml/45?kg bwt, or dexamethasone (2?mg/ml in polyethylene glycol) at 0.045?mg/kg bwt, a typical dose used twice daily in the USA for anti-inflammatory effect. Treatments were randomly assigned and administered by a co-investigator who had no input on Heart Rate (HR) and Lameness Score (LS) measurements. Another investigator unaware of treatment assignments monitored HR and LS every 20?min for 5 hours after lameness induction and then hourly through 12 hours post-treatment. One week later treatment assignments were reversed and the experiment was repeated. Repeated measures ANOVA and post hoc Tukey's test were used to identify significant effects at P<0.05. Results After treatment, mean HR and LS were not different between treatments (P>0.05). HR and LS remained elevated over pre-lameness values throughout the 13-hour post-lameness monitoring period (P<0.05). Conclusions It was concluded that intravenous dexamethasone was no more effective than saline placebo. Neither treatment was effective at alleviating lameness over a 12-hour post-treatment period in this model. Dexamethasone at 0.045?mg/kg bwt should not affect acute foot lameness during equine exercise or performance. Ethical Animal Research The study was approved by the University of Illinois Institutional Animal Care and Use Committee. Sources of funding:?Fédération Equestre Internationale. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Kenny, J
+AU  - Nielsen, B
+AU  - Robison, C
+AU  - Larson, C
+AU  - Schott II, H
+TI  - Does Phenylbutazone Administration Contribute to Gastric Permeability and Ulceration in Horses?
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_9
+DO  - doi:10.1111/evj.12267_9
+SP  - 4
+EP  - 4
+PY  - 2014
+AB  - Introduction Gastric ulcers are commonly found in equine athletes and there is evidence suggesting phenylbutazone may increase the incidence. In human athletes, gastric permeability has been shown to increase with non-steroidal anti-inflammatory use with potential to negatively affect performance and recovery. The aim of this study was to examine the effects of phenylbutazone on gastric mucosa and permeability. Methods 18 Arabian horses were examined via gastroscopy on day 0, 42, 49, 56, and 63, with ulceration in both the squamous and glandular regions scored from 0 to 4. For seven days commencing after the day 42 evaluation, horses received 4.4?mg/kg BW phenylbutazone twice daily PO. On day 49, sucrose (1?g/kg bwt) was administered via nasogastric tube, with blood and urine samples collected for 90?min and 4?h, respectively, to assess gastric permeability. Data were analyzed using SAS 9.2 with Proc MIXED. Results Ulcer scores increased from day 42 to day 49 (P<0.0001) with prevalence of grade 2 or greater ulceration being 33% on day 42 compared with 94% on day 49. Scores decreased from day 49 to 56 and, though continuing to decrease, had not returned to baseline scores by day 63. Squamous scores increased from day 0 to day 49 and remained elevated through day 63, while glandular scores were highest on day 49 but had decreased by day 56 (P<0.05). Sucrose concentration increased (P<0.0001) in both plasma and urine after phenylbutazone administration. Conclusions Besides exacerbating gastric ulcers, phenylbutazone contributes to gastric permeability and, particularly when combined with strenuous exercise, may impair recovery and increase illness susceptibility. Ethical Animal Research All methods were approved by the Michigan State University Institutional Animal Care and Use Committee (approval number 10/11-216-00). Sources of funding:?Zinpro Corporation. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Goachet, A
+AU  - Loriers, A
+AU  - Le Floch, E
+AU  - Julliand, V
+TI  - Energy Expenditure During a 160 km Endurance Race
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_96
+DO  - doi:10.1111/evj.12267_96
+SP  - 32
+EP  - 32
+PY  - 2014
+AB  - Introduction In endurance racing, horses are required to complete distances of up to 160?km in a single day. To date, the energy expenditure (EE) of such effort has not been quantified. This study aimed to evaluate EE during a 160?km endurance race from heart rate (HR) monitoring. Methods Three weeks before competing, two endurance horses (H1 and H2) were submitted to a field exercise test to determine their individual VO2-HR relationship. VO2 and HR were recorded simultaneously at trot (13?14?km/h for 10?min), and at canter (18?19?km/h for 10?min, and 22?23?km/h for 5?min), using the equine K4b2, a portable metabolic measurement system. H1 was then enrolled in Monpazier CEI and H2 in Florac CEI. HR was monitored from 2 minutes before the start to the finishing line of each loop. EE of exercise was calculated from individual VO2-HR relationship and caloric equivalent of oxygen. Results H1 and H2 completed the race at an average speed of 17.02 and 14.46?km/h, respectively. Mean HR was 108?±?8 and 124?±?24 and peak HR was 169 and 204 for H1 and H2, respectively. The proportion of time spent at HR≥180 was 0 and 2.7% for H1 and H2 respectively. EE of exercise was evaluated at 177 and 240?MJ for H1 and H2 respectively. Conclusions A 160-km endurance race might present a considerable energy cost, at least 5 times the EE of non-working state. Ethical Animal Research The project was conducted under license from the Department of Health and Animal Care of the French Veterinary Authority (no. A21002) and ethics committee approval n° B0710. Sources of funding:?Burgundy Region and AgroSup Dijon. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Jansson, A
+AU  - Ringmark, S
+TI  - A Comparison of Racing Results Between Standardbred Horses Fed a Forage-Only Diet and Their Siblings
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_97
+DO  - doi:10.1111/evj.12267_97
+SP  - 32
+EP  - 32
+PY  - 2014
+AB  - Introduction High concentrate diets increase the risk of several health problems and high energy forage diets could therefore be an alternative. The aim of this study was to compare the number of horses and the number of races performed at the age of three by a group of 16 Standardbred horses fed a forage only-diet from the age of 1.5 years (F) with the results of their siblings (S). Methods To F-horses, a forage diet was offered ad libitum (10.2?11.7?MJ metabolisable energy, 10?16% crude protein/kg dry matter) and supplemented daily with minerals and vitamins to meet requirements. F-horses were trained by pupils at the National Trotting School during supervision of professional trainers. For each individual in the F-group, the mean racing results from a maximum of five older siblings (same mother) were used for the S-group (5 siblings, n?=?9; 4-3 siblings, n?=?4 and 1?2 siblings, n?=?3). The siblings selected were born closest in time in relation to the F individual. S-horses were trained by different trainers and it was assumed that they had been fed a conventional high concentrate diet. Racing results were obtained from the Swedish Trotting Association. ANOVA and a Tukey test were used to analyse differences between groups. Results There was no difference in the number of horses that competed (F: 56% vs S: 54%, SE 10) and in the number of races performed (F: 1.6 vs S: 2.9, SE 0.5). Conclusions The study indicates that a forage-only diet may not be a limitation to achieve conventional training results and could therefore be an alternative to conventional diets. Ethical Animal Research The study was approved by the local ethics committee in Umeå, Sweden. Sources of funding:?Swedish University of Agricultural Sciences, the Swedish National Trotting School at Wången, the Swedish Trotting Association, The Swedish Horse Council Foundation, the Swedish Horse Racing Totalisator Board (ATG), Trioplast AB and Dow Chemicals. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Melo, S
+AU  - Wanderley, E
+AU  - Diniz, I
+AU  - Manso, H
+AU  - Manso Filho, H
+TI  - Oil Supplementation Produces an Increase in Antioxidant Biomarkers in Four-Beat Gaited Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_98
+DO  - doi:10.1111/evj.12267_98
+SP  - 32
+EP  - 33
+PY  - 2014
+AB  - Introduction Marcha is typically a low intensity/medium duration exercise that has the potential to induce oxidative stress. The objective of the present study was to test the hypothesis that supplementation with oil would alter biomarkers of oxidative stress in four-beat gaited horses during marcha training. Methods Eleven gaited horses underwent training for 60?min (?60% consisting of marcha at ?3.5?m/s) 3?d/wk for eight weeks. Subjects were fed elephant grass (?15?kg/day) and concentrate (?5?kg/day). They were also supplemented with 300?mL of oil per os (vitamin E: 300?IU/kg, omega-3: 300?g/kg; omega-6: 80?g/kg) and had free access to water and salt. Blood samples were collected before and after four and eight weeks of supplementation for the measurement of GPx, SOD, RBC, hemoglobin, hematocrit, WBC, TPP, urea, creatinine and uric acid. ANOVA and Tukey tests were used for statistical analysis (P<0.05). Results Increases in GPx (?12%), SOD (?51%) and uric acid (?19%) were observed after 8 week of supplementation (P<0.05). There were changes (P<0.05) in [urea] and [creatinine]; however, there were no changes (P>0.05) in RBC, hemoglobin, hematocrit or WBC. Published research has demonstrated that administration of supplements with antioxidants enhances the antioxidant system and protects against oxidative stress during exercise. Supplementation with oil, rich in vitamin E, omega-3 and -6, produced a beneficial increase in antioxidant capacity in gaited horses during training. Conclusions The elevation in [GPx], [SOD] and [uric acid] in the present study offers a strategy to counterbalance the physiologic processes that overwhelm endogenous antioxidants during training. Ethical Animal Research Methods were approved by UFRPE Animal Care Unit (#026/2013). Sources of funding:?INTEGRALMIX Animal Nutrition (Fortaleza-CE), Haras Cascatinha (Camaragibe-PE) and CAPES. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Vergine, Marzia
+AU  - Frati, Maurizio
+AU  - Pozzo, Sergio
+AU  - Bertazzolo, Walter
+TI  - What is your diagnosis?
+JO  - Journal of Small Animal Practice
+VL  - 47
+IS  - 3
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/j.1748-5827.2006.00023.x
+DO  - doi:10.1111/j.1748-5827.2006.00023.x
+SP  - 165
+EP  - 167
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+AU  - Jose-Cunilleras, E.
+AU  - Viu, J.
+AU  - McKenzie, E.
+TI  - Science in brief: Clinical news from the 8th ICEEP conference 2010: What more can we learn from haematology and serum biochemistry in athletic horses?
+JO  - Equine Veterinary Journal
+VL  - 44
+IS  - 2
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/j.2042-3306.2011.00460.x
+DO  - doi:10.1111/j.2042-3306.2011.00460.x
+SP  - 130
+EP  - 132
+PY  - 2012
+ER  - 
+
+AU  - Rees, Jeremy
+AU  - Bradford, Robert
+AU  - Brandner, Sebastian
+AU  - Fersht, Naomi
+AU  - Jäger, Rolf
+AU  - Wilson, Elena
+C7  - pp. 849-904
+TI  - Neuro-Oncology
+SN  - 9781118486177
+UR  - https://doi.org/10.1002/9781118486160.ch21
+DO  - doi:10.1002/9781118486160.ch21
+SP  - 849-904
+KW  - brain tumours
+KW  - cancer
+KW  - central nervous system tumours
+KW  - chemotherapy
+KW  - neuro-oncology
+KW  - neurological complications
+KW  - radiotherapy
+PY  - 2012
+AB  - Summary Neuro-oncology covers both the scientific and clinical aspects of central nervous system (CNS) tumours and neurological complications of cancer. Improvements in radiological and histological diagnosis and surgical technique, advances in molecular neuro-oncology, the application of new biological agents and increasing use of combined radiotherapy and chemotherapy for tumours such as gliomas have led to small but definite improvements in survival. This chapter provides a clinically dominated guide to the key issues in neuro-oncology. It reflects the highly specialised nature of disciplines within neuro-oncology. The chapter outlines the multi-disciplinary aspects of care on clinical management. Brain tumours include primary tumours arising from intracranial structures and metastases from outside the CNS. There are a number of other rarer tumours in childhood that often present with seizures and behave in a benign fashion. They are usually treated with surgery alone.
+ER  - 

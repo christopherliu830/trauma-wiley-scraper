@@ -1,0 +1,373 @@
+
+TY  - JOUR
+AU  - Halker, R.
+AU  - Agraharkar, M.
+TI  - Sickle Cell Ulcer in Hand Attributable to Arterio-Venous Fistula
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085j.x
+DO  - doi:10.1111/j.1492-7535.2004.0085j.x
+SP  - 81
+EP  - 81
+PY  - 2004
+AB  - Introduction:? Sickle cell ulcers are a frequent dermatologic manifestation of sickle cell disease. They are almost exclusively described in the legs near the malleoli and are often bilateral. Such ulcers in the upper extremities are not described. We report a case of sickle cell ulcer in hand presumably related to arterio-venous fistula in the forearm placed for hemodialysis in a patient with chronic kidney disease. Case:? A 45-year-old African-American man with a history of sickle cell disease, hypertension, and kidney failure treated with hemodialysis presented with a painful wound in his left hand near the base of his thumb, which had been present for 6 weeks prior to presentation. There was no history of trauma. 6 months prior to the development of the ulcer, the patient had an arterio-venous fistula placed in the affected hand. The ulcer did not improve with use of antibiotics. Venous ultrasound of the left upper extremity showed occlusion of the cephalic vein and enlargement of the basilic vein. Subsequently, biopsy of the ulcer showed vascular proliferation with thickening of the vessel and obliteration of the vascular lumen. The blood vessels were plugged with sickled red blood cells, characteristic of sickle cell disease. Histological features of the lesion were indicative of vaso-occlusive disease, suggesting sickle cell ulcer. Patient was treated with surgical débridement and skin grafting after hyperbaric oxygen therapy that only resulted in partial recovery of the lesion. Discussion:? The pathogenesis of sickle cell ulcer is presumed to be related to a vaso-occlusive process, leading to tissue necrosis resulting in skin ulcers. Ulcers can occur spontaneously or with local trauma. Low oxygen-carrying capacity of the blood, impaired venous hemodynamics, and low hemoglobin are recognized contributing factors. The arterio-venous fistula causing diversion of arterial blood probably contributed to the development of sickle cell ulcer. Conclusion:? Sickle cell ulcers in the hand, although extremely rare, can occur in sickle cell patients with chronic kidney disease on hemodialysis with arterio-venous fistula. This results from the altered local vascular hemodynamics that predispose to vaso-occlusive conditions, eventually leading to ulceration.
+ER  - 
+
+TY  - JOUR
+TI  - ASBMR 2010 Annual Meeting MO0001–MO0484
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 25
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.5650251305
+DO  - doi:10.1002/jbmr.5650251305
+SP  - S363
+EP  - S502
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - Jin, Yan
+AU  - Wee, Chong-Yaw
+AU  - Shi, Feng
+AU  - Thung, Kim-Han
+AU  - Ni, Dong
+AU  - Yap, Pew-Thian
+AU  - Shen, Dinggang
+TI  - Identification of infants at high-risk for autism spectrum disorder using multiparameter multiscale white matter connectivity networks
+JO  - Human Brain Mapping
+JA  - Hum. Brain Mapp.
+VL  - 36
+IS  - 12
+SN  - 1065-9471
+UR  - https://doi.org/10.1002/hbm.22957
+DO  - doi:10.1002/hbm.22957
+SP  - 4880
+EP  - 4896
+KW  - Autism spectrum disorder
+KW  - classification
+KW  - connectivity networks
+KW  - diffusion weighted imaging
+KW  - infant
+PY  - 2015
+AB  - Abstract Autism spectrum disorder (ASD) is a wide range of disabilities that cause life-long cognitive impairment and social, communication, and behavioral challenges. Early diagnosis and medical intervention are important for improving the life quality of autistic patients. However, in the current practice, diagnosis often has to be delayed until the behavioral symptoms become evident during childhood. In this study, we demonstrate the feasibility of using machine learning techniques for identifying high-risk ASD infants at as early as six months after birth. This is based on the observation that ASD-induced abnormalities in white matter (WM) tracts and whole-brain connectivity have already started to appear within 24 months after birth. In particular, we propose a novel multikernel support vector machine classification framework by using the connectivity features gathered from WM connectivity networks, which are generated via multiscale regions of interest (ROIs) and multiple diffusion statistics such as fractional anisotropy, mean diffusivity, and average fiber length. Our proposed framework achieves an accuracy of 76% and an area of 0.80 under the receiver operating characteristic curve (AUC), in comparison to the accuracy of 70% and the AUC of 70% provided by the best single-parameter single-scale network. The improvement in accuracy is mainly due to the complementary information provided by multiparameter multiscale networks. In addition, our framework also provides the potential imaging connectomic markers and an objective means for early ASD diagnosis. Hum Brain Mapp 36:4880?4896, 2015. ? 2015 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+TI  - ASBMR 27th Annual Meeting M001–M525
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 20
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.5650201306
+DO  - doi:10.1002/jbmr.5650201306
+SP  - S313
+EP  - S437
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+AU  - Garaicoa, Jorge L.
+AU  - Fischer, Carol L.
+AU  - Bates, Amber M.
+AU  - Holloway, Julie
+AU  - Avila-Ortiz, Gustavo
+AU  - Guthmiller, Janet M.
+AU  - Johnson, Georgia K.
+AU  - Stanford, Clark
+AU  - Brogden, Kim A.
+TI  - Promise of Combining Antifungal Agents in Denture Adhesives to Fight Candida Species Infections
+JO  - Journal of Prosthodontics
+JA  - Journal of Prosthodontics
+VL  - 27
+IS  - 8
+SN  - 1059-941X
+UR  - https://doi.org/10.1111/jopr.12565
+DO  - doi:10.1111/jopr.12565
+SP  - 755
+EP  - 762
+KW  - Antimicrobial peptides
+KW  - antimicrobial lipids
+KW  - antifungal agents
+KW  - denture prosthesis
+KW  - denture adhesive
+KW  - Candida
+KW  - stomatitis
+KW  - keratinocyte
+PY  - 2018
+AB  - Abstract Purpose Several complications may arise in patients wearing complete prosthetic appliances, including denture-associated infections and mucosal stomatitis due to Candida species. This study evaluated the activity of anti-Candida agents in denture adhesive and the cytotoxicities of these preparations for primary human gingival epithelial (GE) keratinocytes. Materials and Methods The anti-Candida activities of antimicrobial peptides, antimicrobial lipids, and antifungal agents against C. albicans ATCC 64124 or HMV4C were assessed in microdilution assays containing water or 1% denture adhesive. The minimal inhibitory concentrations (MIC) and the minimal bactericidal concentrations (MBC) were determined. The cytotoxicities of denture adhesive compounded with these agents were assessed in 1.0 ? 105 primary GE keratinocytes in LGM-3 media with resazurin. Results Lactoferricin B, SMAP28, sphingosine, dihydrosphingosine, and phytosphingosine in 1% denture adhesive lost antimicrobial activity for C. albicans (p < 0.05). Amphotericin B, chlorhexidine dihydrochloride, chlorhexidine gluconate, fluconazole, and nystatin in 1% denture adhesive or compounded directly into denture adhesive and then diluted to 1% adhesive, did not lose antimicrobial activity. Compounded formulations were not cytotoxic (LD50 > 100.0 ?g/ml) against primary human GE keratinocytes. Conclusions Antimicrobial peptides and antimicrobial lipids had diminished activities in 1% adhesive, suggesting that components in adhesives may inactivate local innate immune factors in the oral cavity, possibly predisposing denture wearers to Candida species infections. More importantly, antifungal agents retained their anti-C. albicans activities in denture adhesive, strongly suggesting that antifungal agents could be candidates for inclusion in adhesive formulations and used as prescribed topical treatments for individuals with denture stomatitis.
+ER  - 
+
+TY  - JOUR
+TI  - 4th Congress of the International Pediatric Transplant Association Abstracts
+JO  - Pediatric Transplantation
+VL  - 11
+IS  - s1
+SN  - 1397-3142
+UR  - https://doi.org/10.1111/j.1399-3046.2007.00684.x
+DO  - doi:10.1111/j.1399-3046.2007.00684.x
+SP  - 35
+EP  - 114
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+AU  - Ishimine, Paul
+AU  - Adelgais, Kathleen
+AU  - Barata, Isabel
+AU  - Klig, Jean
+AU  - Kou, Maybelle
+AU  - Mahajan, Prashant
+AU  - Merritt, Chris
+AU  - Stoner, Michael J.
+AU  - Cloutier, Robert
+AU  - Mistry, Rakesh
+AU  - Denninghoff, Kurt R.
+TI  - Executive Summary: The 2018 Academic Emergency Medicine Consensus Conference: Aligning the Pediatric Emergency Medicine Research Agenda to Reduce Health Outcome Gaps
+JO  - Academic Emergency Medicine
+JA  - Acad Emerg Med
+VL  - 25
+IS  - 12
+SN  - 1069-6563
+UR  - https://doi.org/10.1111/acem.13667
+DO  - doi:10.1111/acem.13667
+SP  - 1317
+EP  - 1326
+PY  - 2018
+AB  - Abstract Emergency care providers share a compelling interest in developing an effective patient-centered, outcomes-based research agenda that can decrease variability in pediatric outcomes. The 2018 Academic Emergency Medicine Consensus Conference ?Aligning the Pediatric Emergency Medicine Research Agenda to Reduce Health Outcome Gaps (AEMCC)? aimed to fulfill this role. This conference convened major thought leaders and stakeholders to introduce a research, scholarship, and innovation agenda for pediatric emergency care specifically to reduce health outcome gaps. Planning committee and conference participants included emergency physicians, pediatric emergency physicians, pediatricians, and researchers with expertise in research dissemination and translation, as well as comparative effectiveness, in collaboration with patients, patient and family advocates from national advocacy organizations, and trainees. Topics that were explored and deliberated through subcommittee breakout sessions led by content experts included 1) pediatric emergency medical services research, 2) pediatric emergency medicine (PEM) research network collaboration, 3) PEM education for emergency medicine providers, 4) workforce development for PEM, and 5) enhancing collaboration across emergency departments (PEM practice in non?children's hospitals). The work product of this conference is a research agenda that aims to identify areas of future research, innovation, and scholarship in PEM.
+ER  - 
+
+TY  - JOUR
+AU  - Kim, Hyeonjin
+AU  - McGrath, Brent M.
+AU  - Silverstone, Peter H.
+TI  - A review of the possible relevance of inositol and the phosphatidylinositol second messenger system (PI-cycle) to psychiatric disorders—focus on magnetic resonance spectroscopy (MRS) studies
+JO  - Human Psychopharmacology: Clinical and Experimental
+JA  - Hum. Psychopharmacol. Clin. Exp.
+VL  - 20
+IS  - 5
+SN  - 0885-6222
+UR  - https://doi.org/10.1002/hup.693
+DO  - doi:10.1002/hup.693
+SP  - 309
+EP  - 326
+KW  - myo-inositol
+KW  - magnetic resonance spectroscopy
+KW  - bipolar disorder
+KW  - major depressive disorder
+KW  - panic disorder
+KW  - anxiety
+KW  - obsessive-compulsive disorder
+KW  - anorexia nervosa
+KW  - bulimia nervosa
+KW  - schizophrenia
+PY  - 2005
+AB  - Abstract Myo-inositol is an important part of the phosphatidylinositol second messenger system (PI-cycle). Abnormalities in nerve cell myo-inositol levels and/or PI-cycle regulation has been suggested as being involved in the pathophysiology and/or treatment of many psychiatric disorders including bipolar disorder, major depressive disorder, panic disorder, obsessive-compulsive disorder, eating disorders and schizophrenia. This review examines the metabolism and biochemical importance of myo-inositol and the PI-cycle. It relates this to the current in vivo evidence for myo-inositol and PI-cycle involvement in these psychiatric disorders, particularly focusing upon the magnetic resonance spectroscopy (MRS) findings in patient studies to date. From this review it is concluded that while the evidence suggests probable relevance to the pathophysiology and/or treatment of bipolar disorder, there is much less support for a significant role for the PI-cycle or myo-inositol in any other psychiatric disorder. More definitive investigation is required before PI-cycle dysfunction can be considered specific to bipolar disorder. Copyright ? 2005 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - 2001 SAEM ANNUAL MEETING ABSTRACTS
+JO  - Academic Emergency Medicine
+VL  - 8
+IS  - 5
+SN  - 1069-6563
+UR  - https://doi.org/10.1111/j.1553-2712.2001.tb00169.x
+DO  - doi:10.1111/j.1553-2712.2001.tb00169.x
+SP  - 414
+EP  - 588
+PY  - 2001
+ER  - 
+
+TY  - JOUR
+AU  - Kim, Hae Won
+AU  - Greenburg, A. Gerson
+TI  - Artificial Oxygen Carriers as Red Blood Cell Substitutes: A Selected Review and Current Status
+JO  - Artificial Organs
+VL  - 28
+IS  - 9
+SN  - 0160-564X
+UR  - https://doi.org/10.1111/j.1525-1594.2004.07345.x
+DO  - doi:10.1111/j.1525-1594.2004.07345.x
+SP  - 813
+EP  - 828
+KW  - Hemoglobin-based oxygen carrier
+KW  - Perfluorocarbon-based oxygen carrier
+KW  - Blood substitute
+KW  - Hemoglobin
+KW  - Perfluorocarbon
+PY  - 2004
+AB  - Abstract:? Two distinct approaches are being explored in red blood cell substitute (RCS) development: hemoglobin-based oxygen carriers (HBOCs) and perfluorocarbon-based oxygen carriers (PFBOCs). HBOCs are based on intra- and/or intermolecularly ?engineered? human or animal hemoglobins (Hbs), optimized for O2 delivery and longer intravascular circulation. Some are currently being evaluated in Phase II/III clinical studies. PFBOCs are aqueous emulsions of perfluorocarbon derivatives that dissolve relatively large amounts of O2. A PFBOC based on a 60% (wt/vol) emulsion of perfluorooctyl bromide has been evaluated in Phase II/III clinical trials. Although current PFBOC products generally require patients to breathe O2 enriched air, they render certain advantages since they are totally synthetic. This article provides a short review of the basic principles, approaches, and current status of RCS development. Results of preclinical and clinical studies including recent Phase II/III clinical studies are discussed.
+ER  - 
+
+TY  - JOUR
+TI  - 2004 SAEM ANNUAL MEETING ABSTRACTS
+JO  - Academic Emergency Medicine
+VL  - 11
+IS  - 5
+SN  - 1069-6563
+UR  - https://doi.org/10.1197/j.aem.2004.02.011
+DO  - doi:10.1197/j.aem.2004.02.011
+SP  - 435
+EP  - 607
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+AU  - Choi, S.Y.
+AU  - Seok, J.
+AU  - Kwon, H.J.
+AU  - Kwon, T.R.
+AU  - Kim, B.J.
+TI  - Hyaluronic acid injection via a pneumatic microjet device to improve forehead wrinkles
+JO  - Journal of the European Academy of Dermatology and Venereology
+JA  - J Eur Acad Dermatol Venereol
+VL  - 31
+IS  - 3
+SN  - 0926-9959
+UR  - https://doi.org/10.1111/jdv.13900
+DO  - doi:10.1111/jdv.13900
+SP  - e164
+EP  - e166
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+AU  - Bauernfeind, Franz
+AU  - Hornung, Veit
+TI  - Of inflammasomes and pathogens – sensing of microbes by the inflammasome
+JO  - EMBO Molecular Medicine
+JA  - EMBO Mol Med
+VL  - 5
+IS  - 6
+SN  - 1757-4676
+UR  - https://doi.org/10.1002/emmm.201201771
+DO  - doi:10.1002/emmm.201201771
+SP  - 814
+EP  - 826
+KW  - caspase-1
+KW  - inflammasome
+KW  - NLRC4
+KW  - NLRP3
+KW  - pathogens
+PY  - 2013
+AB  - Abstract Inflammasomes are signalling platforms that sense a diverse range of microbial products and also a number of stress and damage associated endogenous signals. Inflammasome complexes can be formed by members of the Nod-like receptor family or the PYHIN family member AIM2. Upon formation, inflammasomes trigger proteolysis of caspase-1, which subsequently leads to a potent inflammatory response through the maturation and secretion of IL-1 family cytokines, which can be accompanied by an inflammatory cell death termed pyroptosis. Here, we review the sensing mechanisms of the currently characterized inflammasome complexes and discuss how they are involved in the innate immune response against microbial pathogens. We especially highlight recent advances in the molecular understanding of how microbial patterns are detected and discriminated from endogenous compounds by inflammasome sensors. Further, we review how inflammasomes contribute to the anti microbial host defense by cytokine-dependent and cell autonomous mechanisms. This review is part of the review series on host-pathogen interactions. See more reviews from this series..
+ER  - 
+
+AU  - Heil, Peggy
+AU  - English, Kim
+C7  - pp. 181-216
+TI  - Sex Offender Polygraph Testing in the United States: Trends and Controversies
+SN  - 9780470742242
+UR  - https://doi.org/10.1002/9780470743232.ch10
+DO  - doi:10.1002/9780470743232.ch10
+SP  - 181-216
+KW  - containment model
+KW  - polygraph testing
+KW  - sex offenders
+KW  - United States
+PY  - 2013
+AB  - Summary This chapter reviews a myriad of issues that often overshadow polygraph testing generally and post-conviction polygraph testing specifically. First the history of the post-conviction polygraph examination is reviewed and this is followed by discussions of the value and controversies that surround its use. The use of the polygraph in the United States is common. Polygraph testing is typically used in the military, employment screening and law enforcement interrogation. Research has established that, in combination with treatment, polygraph testing provides significant information about sex offenders that can be used to effectively treat and supervise them. Criminal justice supervision is also important, as it provides the incentive for compliance with treatment and polygraph testing. The Containment Model is a relatively new approach to dealing with sex offenders, and there are few studies evaluating its effectiveness.
+ER  - 
+
+TY  - JOUR
+TI  - SAEM Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+JA  - Acad Emerg Med
+VL  - 25
+IS  - S1
+SN  - 9780470742242
+UR  - https://doi.org/10.1111/acem.13424
+DO  - doi:10.1111/acem.13424
+SP  - S8
+EP  - S284
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Shrimpton, Sandra
+AU  - Oates, Kim
+AU  - Hayes, Susan
+TI  - Children's memory of events: effects of stress, age, time delay and location of interview
+JO  - Applied Cognitive Psychology
+JA  - Appl. Cognit. Psychol.
+VL  - 12
+IS  - 2
+SN  - 9780470742242
+UR  - https://doi.org/10.1002/(SICI)1099-0720(199804)12:2<133::AID-ACP502>3.0.CO;2-E
+DO  - doi:10.1002/(SICI)1099-0720(199804)12:2<133::AID-ACP502>3.0.CO;2-E
+SP  - 133
+EP  - 143
+PY  - 1998
+AB  - Abstract To examine the ability of children aged between 4 and 12 years to recall a stressful event (venipuncture) compared with a non-stressful event (demonstration of venipuncture), recall was tested after 6?8 weeks. Half also had recall tested after 2?7 days. Testing took place where the stressful event occurred (n=122) or at a neutral location (n=127). Children who experienced the stressful event were less likely to give inaccurate responses in free recall or to acquiesce to suggestive misleading questions. Apart from incorrect responses in free recall, correct responses increased and incorrect responses decreased with increasing age. Recall after 2?7 days was superior to recall after 6?8 weeks. Those who had an early and a late interview had better recall at the late interview than those who had a late interview only. The location of interview showed no effects on recall. ? 1998 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - Authors and Key Words
+JO  - Academic Emergency Medicine
+JA  - Acad Emerg Med
+VL  - 25
+IS  - S1
+SN  - 9780470742242
+UR  - https://doi.org/10.1111/acem.13425
+DO  - doi:10.1111/acem.13425
+SP  - S299
+EP  - S319
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts Presented at the Summer Meeting of the British Association of Clinical Anatomists, Laboratory of Human Anatomy, University of Glasgow, Glasgow, United Kingdom from 21st to 22nd of July, 2010†
+JO  - Clinical Anatomy
+JA  - Clin. Anat.
+VL  - 24
+IS  - 3
+SN  - 9780470742242
+UR  - https://doi.org/10.1002/ca.21162
+DO  - doi:10.1002/ca.21162
+SP  - 381
+EP  - 397
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+AU  - PARK, HYUNG-WOOK
+AU  - CHO, SANG-HEE
+AU  - KIM, KYE-HUN
+AU  - CHO, JEONG-GWAN
+TI  - Disseminated Intravascular Coagulation as a Complication of Radiofrequency Catheter Ablation of Atrial Fibrillation
+JO  - Journal of Cardiovascular Electrophysiology
+VL  - 16
+IS  - 9
+SN  - 9780470742242
+UR  - https://doi.org/10.1111/j.1540-8167.2005.40800.x
+DO  - doi:10.1111/j.1540-8167.2005.40800.x
+SP  - 1011
+EP  - 1013
+KW  - atrial fibrillation
+KW  - catheter ablation
+KW  - disseminated intravascular coagulation
+PY  - 2005
+AB  - Since Haissaguerre and his colleagues demonstrated the importance of the pulmonary veins in the generation of atrial fibrillation (AF) in 1998, a variety of different ablative interventions have been performed to eliminate AF. Various complications related to catheterization, ablation itself including pulmonary vein stenosis, pericardial effusion, stroke, and atrioesophageal fistula have been reported. Disseminated intravascular coagulation (DIC) is a systemic syndrome characterized by enhanced activation of coagulation with some intravascular fibrin formation and deposition. This is the first report, to our knowledge, of a patient whose condition was complicated by DIC after segmental ostial isolation of pulmonary veins for persistent AF. The patient has completely recovered from the DIC by hemodialysis, administration of blood constituents for 15 days.
+ER  - 
+
+TY  - JOUR
+AU  - Centurion, S.A.
+AU  - Li, H.
+AU  - Kim, M.J.
+AU  - Lambert, W. C.
+TI  - Atypical Response of Xeroderma Pigmentosum to 5-Fluorouracil: A Histopathological Image Analysis Study Reveals New Insight into Etiopathogenesis
+JO  - Journal of Cutaneous Pathology
+VL  - 32
+IS  - 1
+SN  - 9780470742242
+UR  - https://doi.org/10.1111/j.0303-6987.2005.320ak.x
+DO  - doi:10.1111/j.0303-6987.2005.320ak.x
+SP  - 79
+EP  - 79
+PY  - 2005
+AB  - Xeroderma pigmentosum (XP) is a recessively inherited genodermatosis associated with extreme sun sensitivity, defective repair of several types of sunlight induced adducts in cellular DNA, and numerous, early-onset skin cancers. The dry, rough skin corresponds to progressive cytologic atypia and loss of polarity in the underlying epidermis. Associated with these changes are immune deficiencies against ultraviolet radiation-induced skin cancer. 5-Fluorouracil (5-FU) is a DNA synthesis antimetabolite used against several types of cancers. Applied topically in normal subjects it is associated with moderate to severe inflammation in areas where actinic keratoses have arisen followed by ablation of the actinic keratoses which is dependent on the inflammation. We applied 5-FU to the sun-exposed skin of two patients with XP, a 14 year-old light complected black male and a 14 year-old Caucasian female. No inflammation was observed, but marked improvement in the clinical presentation of the skin was seen, as well as an absence of new malignancies. This change was confirmed histopathologically and correlated with normalization of polarity and cytologic changes in the epidermal cells. These histologic findings were quantitated using computerized image analysis. These results may be due to activation of alternative DNA repair pathways in these nucleotide excision repair deficient cells.
+ER  - 

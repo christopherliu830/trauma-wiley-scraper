@@ -1,0 +1,412 @@
+
+TY  - JOUR
+AU  - Tambaschi, M.
+AU  - Dunkel, B.
+AU  - Mullard, J.
+AU  - Wood, R.
+AU  - Piercy, R.J.
+AU  - Weller, R.
+TI  - Latero-Oblique Radiography as a Diagnostic Tool for Equine Cervical Osteoarthritis
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_22
+DO  - doi:10.1111/evj.12323_22
+SP  - 10
+EP  - 11
+PY  - 2014
+AB  - Reasons for performing study Equine cervical osteoarthritis is a common disease known to contribute to both neck pain and cervical vertebral compressive myelopathy. There are no published studies demonstrating the usefulness of latero-oblique radiography as a diagnostic tool for cervical osteoarthritis. Objectives To determine the sensitivity, specificity and positive and negative predictive values of latero-oblique radiography as a diagnostic tool for cervical articular process joint osteoarthritis. Study design Prospective cadaver study. Methods Latero-oblique radiographs and CT images were collected, and post mortem examinations performed, on 27 cadaver necks from Thoroughbred-type horses of various ages and sexes. Two equine clinicians independently reviewed each set of images for the presence of osteoarthritis. The authors, under the guidance of a veterinary pathologist, reviewed all articular process joints for bony changes indicative of osteoarthritis. Results The prevalence of osteoarthritis identified on CT images was 57.9% (Assessor A) and 23% (Assessor B). The prevalence of lesions identified on post mortem examination was 25.6%. Latero-oblique radiography showed a low sensitivity for identifying osteoarthritis when compared to both CT imaging (6.3?16.1%) and post mortem examination (2.2?4.4%). However, it showed a high specificity when compared to both CT imaging (92.1?97.8%) and post mortem examination (87.2?95.0%). The positive predictive value for identifying osteoarthritis was moderate (40.9?80.0%) when compared to CT imaging and poor (4.2?18.2%) when compared to post mortem examination. The negative predictive value was moderate when compared to both CT imaging (42.9?76.3%) and post mortem examination (78.0?79.8%). Conclusions Latero-oblique radiography has low sensitivity, but high specificity for the detection of cervical osteoarthritis when compared to both CT imaging and post mortem examination. Further investigation comparing the sensitivity, specificity and positive and negative predictive values of latero-oblique radiography vs. laterolateral radiography would determine whether taking latero-oblique radiographs, which can be more difficult to obtain and interpret, is necessary for the diagnosis of cervical osteoarthritis in practice. Ethical animal research:?Ethical committee oversight not currently required by this congress: The study was performed on material obtained from an abattoir. Sources of funding:?None. Competing interests:?None.
+ER  - 
+
+C7  - pp. 445-487
+TI  - Pattern Classification and Diagnostic Decision
+SN  - 9780471208112
+UR  - https://doi.org/10.1109/9780470544204.ch9
+DO  - doi:10.1109/9780470544204.ch9
+SP  - 445-487
+KW  - biomedical signal analysis
+KW  - decision-making process
+KW  - computer algorithms
+KW  - computer-aided diagnosis
+KW  - bundle-branch block
+PY  - 2014
+AB  - Summary This chapter contains sections titled: Problem Statement Illustration of the Problem with Case-studies Pattern Classification Supervised Pattern Classification Unsupervised Pattern Classification Probabilistic Models and Statistical Decision Logistic Regression Analysis The Training and Test Steps Neural Networks Measures of Diagnostic Accuracy and Cost Reliability of Classifiers and Decisions Application: Normal versus Ectopic ECG Beats Application: Detection of Knee-joint Cartilage Pathology Remarks Study Questions and Problems Laboratory Exercises and Projects
+ER  - 
+
+TY  - JOUR
+AU  - Benuto, Lorraine
+AU  - Singer, Jonathan
+AU  - Cummings, Caroline
+AU  - Ahrendt, Andrew
+TI  - The Vicarious Trauma Scale: Confirmatory factor analysis and psychometric properties with a sample of victim advocates
+JO  - Health & Social Care in the Community
+JA  - Health Soc Care Community
+VL  - 26
+IS  - 4
+SN  - 9780471208112
+UR  - https://doi.org/10.1111/hsc.12554
+DO  - doi:10.1111/hsc.12554
+SP  - 564
+EP  - 571
+KW  - factor analysis
+KW  - vicarious trauma
+KW  - victim advocates
+PY  - 2018
+AB  - Abstract Vicarious trauma is referred to as the detrimental change in the manner that professionals understand and interpret material, as a result of exposure to second-hand traumatic material (McCann  however, after examining the goodness of fit of the two-factor model using a confirmatory factor analysis (CFA) approach, this study concluded that the two-dimensional model was not a good fit. Due to the poor goodness of fit of the two-factor model and the post hoc EFA resulting in a one-factor model, our data do not support the findings of Aparicio et al. (2013). Further, the findings suggest the VTS is an acceptable measure of vicarious trauma, as demonstrated by the high internal consistency and the single-factor loading.
+ER  - 
+
+TY  - JOUR
+AU  - Curtis, L.
+AU  - Cullen, T.E.
+AU  - England, G.C.W.
+AU  - Burford, J.H.
+AU  - Freeman, S.L.
+TI  - Appraisal of the Current Evidence for Diagnostic Tests That Differentiate Medical and Surgical Colic
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 47
+IS  - S48
+SN  - 9780471208112
+UR  - https://doi.org/10.1111/evj.12486_10
+DO  - doi:10.1111/evj.12486_10
+SP  - 5
+EP  - 5
+PY  - 2015
+AB  - Reasons for performing study Early identification of surgical cases of colic is critical to improving outcome and welfare. There have been a number of studies on diagnostic tests for colic, evaluating a range of tests to differentiate between medical and surgical cases. Objectives To systematically review and appraise the evidence on diagnostic tests for identifying surgical colic. Study design Systematic review. Methods The primary literature search was conducted in CAB Abstracts (1910?2014), WEB of Science (1950?2014) and MEDLINE (1946?2014) using search terms relating to equine colic. Publications were assessed against inclusion and exclusion criteria, and then reviewed using the QUADAS quality assessment tool. Results The primary search identified 5508 publications relating to equine colic; 976 related to diagnostic tests, 29 met the inclusion criteria and were assessed using the QUADAS tool. Of these, 16 papers reported on peritoneal fluid parameters, 21 on blood parameters, 10 on blood and peritoneal parameters, 3 on physical and blood parameters and one study on urine parameters. A range of different parameters were evaluated, with the majority of tests only being evaluated in single studies. None of the studies met QUADAS criteria 1 (representative spectrum of patients), 7/29 studies met criteria 2 (description of selection criteria) and 10/29 studies met criteria 9 (description of reference standard). Conclusions There are currently no published studies which use appropriate methodology to assess the accuracy of a diagnostic test in differentiating medical and surgical colic. This made direct application of the QUADAS tool challenging; predominantly due to the lack of a pre mortem ?gold standard? reference diagnostic test for colic. Very few studies enrolled a randomised selection of patients and there was also a propensity to case?control study design, both increasing the risk of bias and under/overestimating diagnostic accuracy. Ethical animal research:?Not applicable. Sources of funding:?Laila Curtis' studentship is funded by the School of Veterinary Medicine and Science, University of Nottingham. Tom Cullen is a Junior Clinical Training Scholar funded by the School of Veterinary Medicine and Science, University of Nottingham and Oakham Veterinary Hospital. Competing interests:?None declared.
+ER  - 
+
+TY  - JOUR
+AU  - Fischer, Harry W.
+TI  - Communication in Diagnostic Radiology
+JO  - Australasian Radiology
+VL  - 16
+IS  - 1
+SN  - 9780471208112
+UR  - https://doi.org/10.1111/j.1440-1673.1972.tb01316.x
+DO  - doi:10.1111/j.1440-1673.1972.tb01316.x
+SP  - 12
+EP  - 22
+PY  - 1972
+AB  - Summary Communication in the diagnostic radiology department in regard to the current work load has been discussed with certain recommendations being made to increase efficiency. The need for improvement in communication equipment and techniques is necessitated by problems facing diagnostic radiology today.
+ER  - 
+
+TY  - JOUR
+AU  - Gleissner, Christian A
+AU  - Klingenberg, Roland
+AU  - Nottmeyer, Winfried
+AU  - Zipfel, Stephan
+AU  - Sack, Falk-Udo
+AU  - Schnabel, Philipp A
+AU  - Haass, Markus
+AU  - Dengler, Thomas J
+TI  - Diagnostic efficiency of rejection monitoring after heart transplantation with cardiac troponin T is improved in specific patient subgroups
+JO  - Clinical Transplantation
+VL  - 17
+IS  - 3
+SN  - 9780471208112
+UR  - https://doi.org/10.1034/j.1399-0012.2003.00050.x
+DO  - doi:10.1034/j.1399-0012.2003.00050.x
+SP  - 284
+EP  - 291
+KW  - diagnosis
+KW  - heart transplantation
+KW  - non-invasive
+KW  - rejection
+KW  - troponin T
+PY  - 2003
+AB  - Abstract: Cardiac troponin T (cTnT) is a cardio-specific myofibrillar protein known to be elevated early after heart transplantation and during cardiac allograft rejection. cTnT determination in heart allograft recipients showed elevated levels in patients with higher degrees of graft rejection (International Society for Heart and Lung Transplantation grades?≥3A?4). Subgroup analyses revealed demographic patient characteristics markedly improving the diagnostic efficiency of cTnT measurement for rejection monitoring, including male recipient gender, recipient age <60 yr, female donor gender and donor age?≥?33 yr. The clinical utility of these parameters was confirmed by longitudinal patient data and may help to select recipients most likely to benefit from cTnT rejection surveillance.
+ER  - 
+
+TY  - JOUR
+AU  - Beasley, Spencer W.
+AU  - Auldist, Alex W.
+TI  - MANAGEMENT OF SPLENIC TRAUMA IN CHILDHOOD
+JO  - Australian and New Zealand Journal of Surgery
+VL  - 55
+IS  - 2
+SN  - 9780471208112
+UR  - https://doi.org/10.1111/j.1445-2197.1985.tb00884.x
+DO  - doi:10.1111/j.1445-2197.1985.tb00884.x
+SP  - 199
+EP  - 202
+KW  - splenic injury
+KW  - non-operative management
+KW  - splenic repair
+KW  - childhood trauma
+PY  - 1985
+AB  - The management of splenic trauma at the Royal Children's Hospital from January 1973 to January 1984 is reviewed. During the period studied there was a trend toward non-operative management in uncomplicated cases, and where laparotomy was required splenic repair rather than splenectomy was performed. Guidelines are given for the selection of patients who can be treated in safety without operation.
+ER  - 
+
+AU  - Igreja, Victor
+AU  - Baines, Erin
+C7  - pp. 249-270
+TI  - Social Trauma and Recovery
+UR  - https://doi.org/10.1002/9781119251521.ch11
+DO  - doi:10.1002/9781119251521.ch11
+SP  - 249-270
+KW  - mass-media technologies
+KW  - political violence
+KW  - social recovery
+KW  - state actors
+KW  - war trauma
+KW  - war violence
+PY  - 1985
+AB  - Summary This chapter discusses the social dimensions of war trauma and recovery through the examples of Mozambique, with a detailed focus on the Gorongosa, a district in the center of the country, and Uganda, specifically, Gulu district. Both countries are exemplary of how state actors and civilians struggle to come to terms with experiences of mass political violence as the result of prolonged conflict. The chapter briefly describes the dynamics of war violence and the human toll of violence in both countries. It analyzes changes in processes of social recovery over time through the introduction and consumption of new mass-media technologies as well as in response to emergent challenges in the post-war era. The chapter demonstrates that social recovery is a long-term negotiated endeavor and women, while being seriously persecuted and wronged by the various factions in war violence, also appear as central actors in diverse recovery mechanisms and collective actions.
+ER  - 
+
+TY  - JOUR
+AU  - Magee, Fraser
+AU  - Wilson, Anthony
+AU  - Bailey, Michael J
+AU  - Pilcher, David
+AU  - Secombe, Paul J
+AU  - Young, Paul
+AU  - Bellomo, Rinaldo
+TI  - Trauma-related admissions to intensive care units in Australia: the influence of Indigenous status on outcomes
+JO  - Medical Journal of Australia
+JA  - Med. J. Aust.
+VL  - 210
+IS  - 11
+UR  - https://doi.org/10.5694/mja2.12028
+DO  - doi:10.5694/mja2.12028
+SP  - 493
+EP  - 498
+KW  - Trauma surgery
+KW  - Intensive care
+PY  - 2019
+AB  - Abstract Objectives To investigate the admission characteristics and hospital outcomes for Indigenous and non-Indigenous patients admitted to intensive units (ICUs) after major trauma. Design, setting Retrospective analysis of Australian and New Zealand Intensive Care Society (ANZICS) Adult Patient Database data from 92 Australian ICUs for the 6-year period, 2010?2015. Participants Patients older than 17 years of age admitted to public hospital ICUs with a primary diagnosis of trauma. Main outcome measures ICU and overall hospital lengths of stay, hospital discharge destination, and ICU and overall hospital mortality rates for Indigenous and non-Indigenous patients. Results 23 804 people were admitted to Australian public hospital ICUs after major trauma; 1754 (7.4%) were Indigenous Australians. The population-standardised incidence of admissions was consistently higher for Indigenous Australians than for non-Indigenous Australians (847 per million v 251 per million population; incidence ratio, 3.37; 95% CI, 3.19?3.57). Overall hospital mortality rates were similar for Indigenous and non-Indigenous patients (adjusted odds ratio [aOR], 1.04; 95% CI, 0.82?1.31). Indigenous patients were more likely than non-Indigenous patients to be discharged to another hospital (non-Indigenous v Indigenous: aOR, 0.84; 95% CI, 0.72?0.96) less likely to be discharged home (non-Indigenous v Indigenous: aOR, 1.17; 95% CI, 1.04?1.31). Conclusion The population rate of trauma-related ICU admissions was substantially higher for Indigenous than non-Indigenous patients, but hospital mortality rates after ICU admission were similar. Indigenous patients were more likely to be discharged to a another hospital and less likely to be discharged home than non-Indigenous patients.
+ER  - 
+
+TY  - JOUR
+AU  - Sgan-Cohen, Harold D
+AU  - Yassin, Hillal
+AU  - Livny, Alon
+TI  - Dental trauma among 5th and 6th grade Arab schoolchildren in Eastern Jerusalem
+JO  - Dental Traumatology
+VL  - 24
+IS  - 4
+UR  - https://doi.org/10.1111/j.1600-9657.2008.00601.x
+DO  - doi:10.1111/j.1600-9657.2008.00601.x
+SP  - 458
+EP  - 461
+PY  - 2008
+AB  - Abstract??? Dental trauma is an irreversible pathology which after occurrence is characterized by life long debilitating effects. The objective of the study was to measure the prevalence of trauma in anterior permanent teeth among children and associations with independent variables. A total of 453 5th and 6th grade Arab Eastern Jerusalem schoolchildren participated. Trauma, incisal overjet and lip competence were measured by one examiner in the schools. Reasons and location of trauma were assessed by telephone interviews with the parents. The total prevalence of dental trauma was 33.8%. Severe trauma prevalence (involving dentine) was 12.6%. Severe trauma was more prevalent among boys (OR?=?2.03, P?=?0.026); children with lip incompetence (OR?=?2.71, P?=?0.001); and those with an overjet of 4mm or more (OR?=?3.73, P?<?0.001). The main reported causes for dental trauma were falling (29.1%), sports (16.4%), violence (20%) and playing (20%). According to the parents? reports, more fall-related injuries were reported at home, more sport injuries at school, more ?playing? injuries ?outside? (P?<?0.001). Combination of results with a previous study among Jewish schoolchildren demonstrated: severe dental trauma was related to overjet (OR?=?1.73, P?=?0.002), lip incompetence (OR?=?2.19, P?<?0.001), gender (OR for males?=?1.54, P?=?0.005), but not to ethnicity (Arab or Jewish). The reasons for trauma observed in this study were potentially preventable. A community effort should therefore be pursued, with the aim of educating sports teachers, teachers, health personnel and schoolchildren regarding awareness of dental trauma prevention, with emphasis on utilizing mouthguards and early orthodontic intervention, when financially possible.
+ER  - 
+
+TY  - JOUR
+AU  - Beghi, Ettore
+AU  - Sasanelli, Franco
+AU  - Spagnoli, Alberto
+AU  - Tognoni, Gianni
+TI  - Quality of Care of Epilepsy in Italy: A Multi-hospital Survey of Diagnosis and Treatment of 1104 Epileptic Patients
+JO  - Epilepsia
+VL  - 23
+IS  - 2
+UR  - https://doi.org/10.1111/j.1528-1157.1982.tb05061.x
+DO  - doi:10.1111/j.1528-1157.1982.tb05061.x
+SP  - 133
+EP  - 148
+KW  - Epilepsy
+KW  - Quality of care
+KW  - Anticonvulsant drugs
+KW  - Therapeutic audit.
+PY  - 1982
+AB  - Summary: We surveyed the treatment of 1 04 patients admitted to 27 out of the 46 departments of neurology (64.5%), neurosurgery (23.0%), and child neurology (12.5%) of Lombardy, the largest Italian Region (population, 9,000,000). Our main aim was to assess the penetration of correct diagnostic and clinicopharmacological information into routine practice. A detailed analysis and discussion are given of data concerning reasons for hospital admission (therapeutic adjustment accounting for 27.3%; diagnostic ascertainment, 53.8%); characteristics of the disease, in terms of duration, clinical manifestations, and pattern of seizures; associated disorders; prevalence and criteria for the use of instrumental diagnostic procedures (EEG, brain scan, computed tomography, etc.); pattern of prescriptions of anticonvulsant drugs at admission and at discharge, with particular emphasis on specific drug choices by specialty; prevalence of single-drug therapy (41% at admission and 47.0% at discharge) versus polytherapy; degree of correspondence between recommended and observed dosage regimens (undertreatment being a more common problem than excessive dosing); and reporting of side effects. Although some of the findings of some recent studies are confirmed, this report documents the feasibility of a regular audit program of the performance of an entire health care system in the treatment of epilepsy. RÉSUMÉ 1104 Patients admis dans 27 des 46 départements de neurologie (64,5%), de neurochirurgie (23,0%) et neurologie pédiatrique (12,5%), de Lombardie, la plus grande région d'ltalie (9.000.000 d'habitants), ont été inclus dans une enquête dont le but principal était d'apprécier la pénétration d'un diagnostic et d'une information clinico-pharmacologique corrects dans la pratique de routine. Une analyse detaillee et une discussion des donnees suivantes sont rapportees: les raisons de 1'hospitalisation (ajustement therapeutique, 27,3%, affirmation du diagnostic, 53,8%); les caracteristiques de la maladie, selon sa duree, ses manifestations cliniques et le type des crises; les troubles as-socies; la prevalence et les criteres d'utilisation des procedes instrumentaux de diagnostic (EEG, radio du crane, scanographie, etc ?); les modalites de prescription des medicaments antiepileptiques à l'entree et à la sortie, en mettant l'accent sur les choix par specialite; la fréquence de la monothérapie (41%à l'entrée, 47,0% a la sortie) par rapport à la polythérapie; le degré de correspondance entre les doses prescrites et les doses prises par le patient (les patients tendent plus souvent à diminuer les doses qu'à les augmenter); l'observation des effets collatéraux. Tout en confirmant certains résultats d'études récentes, ce travail illustre la possibilite de mise au point d'un programme régulier de contrôle des résultats de l'ensemble d'un systeme sanitaire dans le traitement de l'épilepsie. RESUMEN Con el fin de determinar la penetración de la información clinica y clinicofarmacológica correcta en el ejercicio médico rutinario se ha realizado un análisis en 1104 pacientes ingresados en 27 de los 46 Departamentos de Neurologia (64.5%), Neurocirugia (23.0%) y Neurología Infantil (12.5%) de Lombardia, la región italiana más poblada (población: 9.000.000). Se muestra un detallado análisis y discusión de la información que se refiere a las razones que motivaron el ingreso hospitalario: ajuste terapeiitico (27.3%); certeza diagnostica (53.8%); caracteristicas de la en-fermedad (segiin la duracion, las manifestaciones clfnicas y patron de los ataques); procesos asociados; prevalencia y criterios para uso de procedimientos diagnosticos instrumentales (EEG, isotopos radiac-tivos, CAT, etc.); patron de las recetas de anticonvulsivos en el ingreso y en el aita con enfasis particular en la seleccion especifica de la medicacion segiin la especialidad; prevalencia de medicacion unica (41% en ingreso y 47.0% en alta) en relacion a politerapia; grado de correspondencia entre dosis re-comendadas y cumplidas (siendo el infratratamiento mas comiin que la sobredosis); registrar los efectos secundarios. Este trabajo, a la vez que confirma al-gunos de los datos que, en estudios recientes, documentan que es factible llevar a cabo un programa regular de auditoria sobre los resultados de sistemas sanitarios completes concernientes al tratamiento de la epilepsia. ZUSAMMENFASSUNG 1104 Patienten, die zu 27 von 46 neurologischen (64,5%), neurochirurgischen (23%) und kinderneuro-logischen (12,5%) Abteilungen der Lombardei, der größten italienischen Provinz (9 Millionen Einwohner) überwiesen wurden, wurden in dieser Übersicht zusammengefasst, deren Hauptanliegen die Feststel-lung der Weitergabe von korrekter Diagnose und klin-isch pharmakologischer Information in die Routine-praxis war. Es wird eine detaillierte Analyse und Dis-kussion der Griinde dargestellt, die zur Uberweisung in ein Krankenhaus führten: Therapeutische Einstel-lung 37,3%, die diagnostische Uberpriifung in 53,8%, Charakteristika der Erkrankung bezuglich Dauer, klinischer Manifestation, Art der Anfalle, assoziierte Erkrankungen; Prävalenz und Kriterien für den Ge-brauch von diagnostischen Hilfsmitteln wie EEG, Komputertomogramm usw.; Art der medikamentosen Behandlung bei Einweisung und bei Entlassung mit spezieller Beriicksichtigung von spezifischer Medi-kamentenwahl; Pravalenz von Monotherapie-Behand-lung (41% bei Aufnahme, 47% bei Entlassung) gegen Polytherapie; Ubereinstimmung zwischen empfohlener und tatsachlichen Medikamenteneinnahme, wobei Unterdosierung ein häufigeres Problem als Über-dosierung war; Bericht über Nebenwirkungen. Die Ergebnisse stimmen mit anderen Untersuchungen liberein, so daß dieser Bericht die Durchführbarkeit eines regulären Priifprogrammes für das Funktionieren eines Gesundheitssystems bei der Behandlung der Epilepsie dokumentiert.
+ER  - 
+
+TY  - JOUR
+AU  - Carrico, C. James
+AU  - Holcomb, John B.
+AU  - Chaudry, Irshad H.
+TI  - Scientific Priorities and Strategic Planning for Resuscitation Research and Life Saving Therapy Following Traumatic Injury: Report of the PULSE Trauma Work Group
+JO  - Academic Emergency Medicine
+VL  - 9
+IS  - 6
+UR  - https://doi.org/10.1197/aemj.9.6.621
+DO  - doi:10.1197/aemj.9.6.621
+SP  - 621
+EP  - 626
+KW  - funding
+KW  - clinical care
+KW  - research strategies
+KW  - animal models
+KW  - technologies
+KW  - system organization
+KW  - organ systems
+PY  - 2002
+AB  - Traumatic injury and its sequelae remain a major, unrecognized public health problem in North America. Traumatic injury is the principal cause of death in patients aged 1-44 years and the overall leading cause of life-years lost in the United States. Recognizing this, the National Heart, Lung, and Blood Institute (NHLBI), in conjunction with other federal agencies, organized a conference in June 2000 to discuss the basic and clinical research needs that could lead to improved outcomes following cardiopulmonary or post injury resuscitation. The Post Resuscitative and Initial Utility of Life Saving Efforts (PULSE) Workshop resulted and eight work groups were established to focus on various aspects, including organ systems, pharmacology, epidemiology, and trauma. The Trauma Work Group recommendations are presented in this article. Despite the recognition of improved survival and outcome through advancements in trauma systems and trauma care, the National Institutes of Health (NIH) support ratio for trauma research is only 0.10, compared with 1.65 for cancer research and a remarkable 3.51 for AIDS and HIV infection research. The successful federal HIV research program has significantly decreased the morbidity and mortality over the last ten years at a cost of $1.4 billion per year. A coordinated trauma research program should aim to replicate the success achieved by such programs; however, a centralized federal ?home? for trauma research does not exist. Consequently, the existing limited research support is derived from NIH institutes in addition to other federal and state agencies. This report serves to describe some of the obstacles and outline various strategies and priorities for basic science, clinical, and translational trauma resuscitation research.
+ER  - 
+
+AU  - Binks, Simon
+AU  - Benger, Jonathan R.
+C7  - pp. 161-184
+TI  - Assessing and Managing the Patient with Chest Pain Due to Trauma
+SN  - 9781405144223
+UR  - https://doi.org/10.1002/9780470775127.ch11
+DO  - doi:10.1002/9780470775127.ch11
+SP  - 161-184
+KW  - chest pain
+KW  - trauma
+KW  - chest injuries
+KW  - world health organization
+KW  - hypoxia
+PY  - 2002
+AB  - Summary This chapter contains section titled: Introduction Aim Learning Outcomes Background Causes of Chest Trauma Physiology Clinical Presentation History Taking Physical Examination Injuries Initial Investigations in the Patient with Chest Pain Due to Trauma Interpretation of a Chest X-Ray Following Trauma Key Learning Points References Useful Websites
+ER  - 
+
+TY  - JOUR
+AU  - Davis, D. A.
+AU  - Donahue, J.P.
+AU  - Bost, J.E.
+AU  - Horn, T.D.
+TI  - The Diagnostic Concordance of Actinic Keratosis and Squamous Cell Carcinoma
+JO  - Journal of Cutaneous Pathology
+VL  - 32
+IS  - 1
+SN  - 9781405144223
+UR  - https://doi.org/10.1111/j.0303-6987.2005.320bf.x
+DO  - doi:10.1111/j.0303-6987.2005.320bf.x
+SP  - 84
+EP  - 84
+PY  - 2005
+AB  - Diagnostic concordance of intraepithelial malignancy is generally only fair. Because the diagnosis of actinic keratosis and squamous cell carcinoma is not uniform and because such terms are not consonant with the nomenclature of other human epithelial malignancies, nomenclature revisions have been attempted. One hundred dermatopathologists were solicited to review 15 tissue sections representing a spectrum of varying thickness epidermal malignancy and to choose either actinic keratosis or squamous cell carcinoma as the diagnosis. Among the 77 participating dermatopathologists intraclass correlation was high for what was perceived as actinic keratosis, squamous cell carcinoma and their differentiation. Development of a two-tiered diagnostic system that retains our present diagnostic capabilities, but better fits the pathobiology of superficial epidermal malignancy is suggested.
+ER  - 
+
+TY  - JOUR
+AU  - Nau, T. N.
+AU  - Dwyer, D. D.
+AU  - Glenn, D. G.
+TI  - TS05 WHOLE-BODY MULTISLICE CT-SCANNING AS PRIMARY IMAGING TOOL IN THE EMERGENCY MANAGEMENT OF SEVERE TRAUMA
+JO  - ANZ Journal of Surgery
+VL  - 77
+IS  - s1
+SN  - 9781405144223
+UR  - https://doi.org/10.1111/j.1445-2197.2007.04133_5.x
+DO  - doi:10.1111/j.1445-2197.2007.04133_5.x
+SP  - A94
+EP  - A94
+PY  - 2007
+AB  - Aim? Whole-body multislice CT-Scanning (MSCT) has become the primary imaging device in many European and North American trauma centres. We aim to present a new standardised protocol that has lead to a markedly improved diagnostic managment in an Australian metropolitan trauma centre. Methods? Based on growing evidence in the literature the MSCT is used as the primary imaging tool in severely injured patients and is routinely performed after completion of primary and secondary survey. The routine protocol consists of a non-contrast head and cervical spine CT, followed by a contrast chest, abdomen and pelvic CT. Apart from an initial chest X-Ray, routine X-ray trauma series are not performed anymore. The criteria for this whole-body MSCT are strictly limited to patients that required trauma team activation and can be sufficiently stabilised in the emergency room. Results? This adapted diagnostic algorithm has shown to be very fast and efficient. The average duration of initial management can be reduced significantly, in addition the number of initially missed injuries is markedly reduced. Conclusions? Primary whole-body MSCT has become a valuable diagnostic tool in the emergency management of severe trauma. A strictly followed protocol has been shown to be crucial to avoid overuse, in terms of radiation as well as exposing the unstable patient to an unnecessary high risk.
+ER  - 
+
+TY  - JOUR
+AU  - AHVENJÄRVI, L. K.
+AU  - LAURILA, J. J.
+AU  - JARTTI, A.
+AU  - YLIPALOSAARI, P.
+AU  - ALA-KOKKO, T. I.
+AU  - SYRJÄLÄ, H. P.
+TI  - Multi-detector computed tomography in critically ill patients
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 52
+IS  - 4
+SN  - 9781405144223
+UR  - https://doi.org/10.1111/j.1399-6576.2007.01559.x
+DO  - doi:10.1111/j.1399-6576.2007.01559.x
+SP  - 547
+EP  - 552
+KW  - Abdomen
+KW  - critical care
+KW  - decision-making
+KW  - diagnosis
+KW  - spiral computed tomography
+KW  - thorax
+PY  - 2008
+AB  - Background: There is a lack of studies showing the overall impact of multi-detector computed tomography (MDCT) on the treatment of critically ill patients in a general intensive care unit (ICU) setting. Methods: A prospective observational study on the effects of MDCT on the treatment of patients in a 12-bed medical?surgical ICU in a university hospital providing tertiary care. Results: During the 9-month study period, there were 343 admissions with ICU length of stay longer than 48?h. Of these patients, 64 (19%) had had inconclusive findings with other modalities of radiological imaging, and they underwent altogether 82 MDCT examinations. Fifty examinations (61%) resulted in a change of treatment. The changes included 22 surgical interventions, 16 percutaneous or paranasal interventions, 15 changes of antimicrobial therapy, three withdrawals of active treatment, and four other changes of treatment. Eight patients underwent two and one patient underwent three changes of treatment. Twenty examinations (24%) were regarded as otherwise necessary for clinical decision-making, although no change in the treatment was indicated. Twelve examinations (15%) failed to provide any additional information relevant to the patient's treatment. Conclusion: Sixty-one percent of the MDCT examinations led to a change of treatment, and 24% of them otherwise contributed to or supported clinical decision-making, suggesting that MDCT examination is helpful in the case of general ICU patients, with inconclusive findings with other imaging modalities.
+ER  - 
+
+TY  - JOUR
+AU  - Kelly, J. M.
+AU  - Rizoli, S.
+AU  - Veigas, P.
+AU  - Hollands, S.
+AU  - Min, A.
+TI  - Using rotational thromboelastometry clot firmness at 5 minutes (ROTEM® EXTEM A5) to predict massive transfusion and in-hospital mortality in trauma: a retrospective analysis of 1146 patients
+JO  - Anaesthesia
+JA  - Anaesthesia
+VL  - 73
+IS  - 9
+SN  - 9781405144223
+UR  - https://doi.org/10.1111/anae.14297
+DO  - doi:10.1111/anae.14297
+SP  - 1103
+EP  - 1109
+KW  - bleeding
+KW  - massive transfusion
+KW  - ROTEM
+KW  - trauma, coagulation
+PY  - 2018
+AB  - Summary Viscoelastic assays such as TEG? and ROTEM? are increasingly used to guide transfusion of blood products. The EXTEM assay maximum clot firmness (MCF) is a ROTEM measure available after 25?29 min used to guide early decisions. EXTEM A10, the clot firmness at 10 min, is an accepted early surrogate, but investigators differ on whether A5, the clot firmness at 5 min, is acceptable. We re-examined this in a retrospective observational analysis of 1146 trauma patients in one centre who had ROTEM data recorded. A5 and A10 both correlated well with maximum clot firmness, with Pearson coefficients of r = 0.92 and r = 0.96, respectively. The correlations of A5, A10 and maximum clot firmness with requirement for massive transfusion were all similarly high, with c-stats of 0.87, 0.89 and 0.90, respectively. The correlations with mortality were also similar but weaker, with c-stats of 0.67, 0.69 and 0.69, respectively. Using a previously validated cut-off of A5 < 35 mm to predict massive transfusion gave a sensitivity of 95%, specificity 83%, positive predictive value 9.3% and negative predictive value 100%. Using a value of A5 < 29 mm, for a pragmatic positive predictive value of 20%, gave a sensitivity of 67%, specificity 95% and negative predictive value 99%. Whether aiming for a high sensitivity or a strong predictive value, A5 was non-inferior to A10 and actually missed fewer cases needing massive transfusion. A5 has similar utility to both A10 and maximum clot firmness as an early measure of clot firmness, and a low A5 value is strongly predictive of the need for massive transfusion.
+ER  - 
+
+AU  - Wall Jr, Matthew J.
+AU  - Jaroszewski, Dawn E.
+AU  - Mattox, Kenneth L.
+C7  - pp. 297-306
+TI  - Trauma
+SN  - 9781405133616
+UR  - https://doi.org/10.1002/9781444300512.ch29
+DO  - doi:10.1002/9781444300512.ch29
+SP  - 297-306
+KW  - trauma
+KW  - CT arteriography (CTA) and three-dimensional CT reconstruction
+KW  - transesophageal echocardiography
+KW  - aortogram with blunt injury of proximal innominate artery
+KW  - correct arteriographic injury diagnosis and multiple views
+KW  - operative therapy issues
+KW  - grafts and perfusion adjuncts
+KW  - descending thoracic aortic disruption repair and vascular isolation management
+KW  - endovascular repair and endograft tolerance
+PY  - 2018
+AB  - Summary This chapter contains sections titled: Introduction Pre-hospital issues Emergency center considerations Imaging issues Stratification of injuries/timing of repair Pre-operative issues Operative therapy issues Post-operative care and rehabilitation New technologies Medicolegal issues Summary References
+ER  - 
+
+TY  - JOUR
+AU  - Toccaceli, Andrea
+AU  - Giampaoletti, Andrea
+AU  - Dignani, Lucia
+AU  - Lucertini, Carla
+AU  - Petrucci, Cristina
+AU  - Lancia, Loreto
+TI  - The role of shock index as a predictor of multiple-trauma patients' pathways
+JO  - Nursing in Critical Care
+JA  - Nurs Crit Care
+VL  - 21
+IS  - 2
+SN  - 9781405133616
+UR  - https://doi.org/10.1111/nicc.12152
+DO  - doi:10.1111/nicc.12152
+SP  - e12
+EP  - e19
+KW  - Intensive care unit
+KW  - Multiple trauma
+KW  - Shock index
+PY  - 2016
+AB  - ABSTRACT Objectives This research was conducted with the aim of investigating the accuracy of the shock index (SI) in distinguishing which multiple-trauma patients should be admitted to an intensive care unit (ICU) after treatment in an emergency room (ER). Background The SI is an easily obtained indicator, as it corresponds to an arithmetic ratio between the two parameters that are always measured during the first-aid treatment of multiple-trauma patients: heart rate (HR) and systolic blood pressure (SBP). There are many studies examining the SI in the multiple-trauma patients as a possible predictor of the destination unit. The SI is evaluated both at the trauma scene (pre-hospital SI-pH) and in the emergency room (SI-ER). Design and methods An observational study with a retrospective approach was conducted on 158 adult patients with multiple trauma. Results The mean SI-pH and SI-ER values were higher in ICU patients than in-patients discharged or admitted to a normal ward, but the difference between these two patient groups was significant only for the SI-ER. Analysis of the receiver operating characteristic (ROC) curves confirmed that only the SI-ER is significant as a reliable indicator for ICU admission with a best cut-off of 1·05. However, a threshold value of 0·75 was still able to establish the correct type of destination for multiple-trauma patients, with a sensitivity of 57·3% and a specificity of 62·5%. Conclusions This research showed that the SI-pH and SI-ER values are correlated, but only the SI-ER has shown statistical significance in terms of distinguishing the type of destination of multiple-trauma patient (ICU, ordinary ward or discharge) after initial treatment in the ER. Relevance to clinical practice The results of this study suggest the possibility of using SI in multiple-trauma patients as a triage indicator to assess the patients' care complexity and to guide the choice of proper clinical paths.
+ER  - 
+
+TY  - JOUR
+AU  - Loyd, Jenna M.
+AU  - Ehrkamp, Patricia
+AU  - Secor, Anna J.
+TI  - A geopolitics of trauma: Refugee administration and protracted uncertainty in Turkey
+JO  - Transactions of the Institute of British Geographers
+JA  - Trans Inst Br Geogr
+VL  - 43
+IS  - 3
+SN  - 9781405133616
+UR  - https://doi.org/10.1111/tran.12234
+DO  - doi:10.1111/tran.12234
+SP  - 377
+EP  - 389
+KW  - mental health
+KW  - Middle East
+KW  - migration management
+KW  - political geography
+KW  - post-traumatic stress disorder
+KW  - refugees
+PY  - 2018
+AB  - In this paper we map out what we are calling a ?geopolitics of trauma? by examining the role of trauma in transnational refugee regimes and the individualisation of geopolitical relations through mental health diagnosis and service provision. Focusing on one site of entry into the international regime of refugee administration, we present findings from fieldwork that we conducted in August, 2015 in Turkey with NGOs and IGOs involved in the protection, mental health and psychosocial service provision, and resettlement of refugees. The findings that we present demonstrate the challenges of refugee care and management on the front lines in Turkey and the significance of mental health diagnosis, treatment and documentation in the early stages of refugee administration. We suggest that practices of refugee screening and resettlement are imbued with traumatic stressors and trace how trauma intersects with the administration of refugees in different sites and at different times. We argue that the protracted situation of refugees in Turkey (many of whom will wait eight years for their Refugee Status Determination interview) and the multiple interviews and demands for documentation through which a displaced person applies for refugee status and third-country resettlement become sites of ongoing traumatisation for the refugee subject. Further, in the practices of screening and documentation, we can trace the medicalisation of the refugee subject as not only a question of care but also a practice of legibility on which the state and international organisations base their decisions about inclusion and exclusion. The geopolitics of trauma thus emerges not only in cartographies of war, displacement and resettlement, but also in the minute details and performative demands of the refugee determination and resettlement process.
+ER  - 

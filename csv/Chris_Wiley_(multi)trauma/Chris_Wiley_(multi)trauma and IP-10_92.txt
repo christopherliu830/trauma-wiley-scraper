@@ -1,0 +1,363 @@
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Epilepsia
+JA  - Epilepsia
+VL  - 56
+IS  - S1
+SN  - 0013-9580
+UR  - https://doi.org/10.1111/epi.13241
+DO  - doi:10.1111/epi.13241
+SP  - 3
+EP  - 263
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - Association of Surgeons of Great Britain and Ireland (Edinburgh 2006) posters
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 93
+IS  - S1
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.5595
+DO  - doi:10.1002/bjs.5595
+SP  - 101
+EP  - 250
+PY  - 2006
+AB  - Abstract The Annual Scientific Meeting of the Association of Surgeons takes place this year at the Edinburgh International Conference Centre (3rd - 5th May 2006), under the presidency of Mr Denis Wilkins. To view all posters from this meeting, please click the pdf link on this page.
+ER  - 
+
+TY  - JOUR
+AU  - Goobie, Susan M.
+AU  - Cladis, Franklyn P.
+AU  - Glover, Chris D.
+AU  - Huang, Henry
+AU  - Reddy, Srijaya K.
+AU  - Fernandez, Allison M.
+AU  - Zurakowski, David
+AU  - Gries, Heike
+AU  - Stricker, Paul A.
+AU  - the Pediatric Craniofacial Collaborative Group
+TI  - Safety of antifibrinolytics in cranial vault reconstructive surgery: a report from the pediatric craniofacial collaborative group
+JO  - Pediatric Anesthesia
+JA  - Paediatr Anaesth
+VL  - 27
+IS  - 3
+SN  - 1155-5645
+UR  - https://doi.org/10.1111/pan.13076
+DO  - doi:10.1111/pan.13076
+SP  - 271
+EP  - 281
+KW  - antifibrinolytics
+KW  - tranexamic acid
+KW  - aminocaproic acid
+KW  - craniofacial surgery
+KW  - craniosynostosis
+KW  - safety
+PY  - 2017
+AB  - Summary Background Antifibrinolytic therapy significantly decreases blood loss and transfusion in pediatric cranial vault reconstructive surgery; however, concern regarding the side effects profile limits clinical use. Aims The aim was to utilize the Pediatric Craniofacial Surgery Perioperative Registry database to identify the safety profile of antifibrinolytic therapy for cranial vault reconstructive surgery by reporting the incidence of adverse events as they relate to exposure to tranexamic acid and aminocaproic acid compared to no exposure to antifibrinolytics. Methods The database was queried for cases of open cranial vault reconstructive surgery. Less invasive procedures such as neuro-endoscopic and spring-mediated cranioplasties were excluded. The outcomes evaluated included any perioperative neurological adverse event including seizures or seizure-like movements and thromboembolic events. Results Thirty-one institutions reported a total of 1638 cases from 2010 to 2015. Total antifibrinolytic administration accounted for 59.5% (tranexamic acid, 36.1% and aminocaproic acid, 23.4%), with 40.5% not receiving any antifibrinolytic. The overall incidence of postoperative seizures or seizure-like movements was 0.6%. No significant difference was detected in the incidence of postoperative seizures between patients receiving tranexamic acid and those receiving aminocaproic acid [the odds ratio for seizures being 0.34 (95% confidence interval: 0.07?1.85) controlling for American Society of Anesthesia (ASA) physical class] nor in patients receiving antifibrinolytics compared to those not administered antifibrinolytics (the odds ratio for seizures being 1.02 (confidence interval 0.29?3.63) controlling for ASA physical class). One complicated patient in the antifibrinolytic group with a femoral venous catheter had a postoperative deep venous thrombosis. Conclusions This is the first report of an incidence of postoperative seizures of 0.6% in pediatric cranial vault reconstructive surgery. There was no significant difference in postoperative seizures or seizure-like events in those patients who received the tranexamic acid or aminocaproic acid vs those that did not. This report provides evidence of the safety profile of antifibrinolytic in children having noncardiac major surgery. Caution should prevail however in using antifibrinolytic in high-risk patients. Antifibrinolytic dosage regimes should be based on pharmacokinetic data avoiding high doses.
+ER  - 
+
+TY  - JOUR
+AU  - McCaul, Margaret
+AU  - Porter, Adam
+AU  - Barrett, Ruairi
+AU  - White, Paddy
+AU  - Stroiescu, Florien
+AU  - Wallace, Gordon
+AU  - Diamond, Dermot
+TI  - Wearable Platform for Real-time Monitoring of Sodium in Sweat
+JO  - ChemPhysChem
+JA  - ChemPhysChem
+VL  - 19
+IS  - 12
+SN  - 1439-4235
+UR  - https://doi.org/10.1002/cphc.201701312
+DO  - doi:10.1002/cphc.201701312
+SP  - 1531
+EP  - 1536
+KW  - passive fluidics
+KW  - real-time monitoring
+KW  - sodium
+KW  - sweat
+KW  - wearable sensor
+PY  - 2018
+AB  - Abstract A fully integrated and wearable platform for harvesting and analysing sweat sodium concentration in real time during exercise has been developed and tested. The platform was largely produced using 3D printing, which greatly simplifies fabrication and operation compared to previous versions generated with traditional production techniques. The 3D printed platform doubles the capacity of the sample storage reservoir to about 1.3?ml, reduces the assembly time and provides simple and precise component alignment and contact of the integrated solid-state ion-selective and reference electrodes with the sorbent material. The sampling flowrate in the device can be controlled by introducing threads to enhance wicking of sweat from the skin, across the electrodes to the storage area. The platform was characterised in the lab and in exercise trials over a period of about 60 minutes continuous monitoring. Sweat sodium concentration was found to rise initially to approximately 17?mM and decline gradually over the period of the trial to about 11?12?mM.
+ER  - 
+
+TY  - JOUR
+AU  - Xing, Yiting
+AU  - Li, Ling
+AU  - Bi, Zhuming
+AU  - Wilamowska-Korsak, Marzena
+AU  - Zhang, Li
+TI  - Operations Research (OR) in Service Industries: A Comprehensive Review
+JO  - Systems Research and Behavioral Science
+JA  - Syst. Res.
+VL  - 30
+IS  - 3
+SN  - 1092-7026
+UR  - https://doi.org/10.1002/sres.2185
+DO  - doi:10.1002/sres.2185
+SP  - 300
+EP  - 353
+KW  - literature review
+KW  - operations research (OR)
+KW  - service industries
+KW  - systems science
+KW  - systems research
+PY  - 2013
+AB  - The share of gross domestic product from the service industry reflects the competitiveness of a nation; the service industry in the USA accounts for around 80% of its gross domestic product, and it has been increasing gradually. Continual innovations and advances in enabling technologies for the service industry are crucial for developed countries to sustain their leading positions in the globalized economy. To clarify future research directions of operations research (OR) in the service industry, the state of art of OR has been examined systematically, the new requirements of OR are identified for its applications in service industries in comparison with those in manufacturing industries, and the limitations of existing methodologies and tools have been discussed. This paper was intended to provide an updated review on how OR has been applied in the service sector in recent years and what directions the study of OR will be carried forward in the near future. Under a proposed research framework, recent OR-related articles were collected from 17 leading OR journals and classified into the five most active sectors, that is, transportation and warehousing, information and communication, human health and social assistance, retails and wholesales, and financial and insurance services. The conclusions on the limitations of existing studies and the demanding ORs in the service have been drawn from our summaries and observations from a comprehensive review in this field. Copyright ? 2013 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Krägeloh-Mann, Ingeborg
+AU  - Grodd, Wolfgang
+AU  - Schöning, Martin
+AU  - Marquard, Klaus
+AU  - Nägele, Thomas
+AU  - Ruitenbeek, Wim
+TI  - PROTON SPECTROSCOPY IN FIVE PATIENTS WITH LEIGH'S DISEASE AND MITOCHONDRIAL ENZYME DEFICIENCY
+JO  - Developmental Medicine & Child Neurology
+VL  - 35
+IS  - 9
+SN  - 0012-1622
+UR  - https://doi.org/10.1111/j.1469-8749.1993.tb11728.x
+DO  - doi:10.1111/j.1469-8749.1993.tb11728.x
+SP  - 769
+EP  - 776
+PY  - 1993
+AB  - SUMMARY Five children with Leigh's disease and progressive neurological symptoms were compared with 14 control children. In all patients, MRI showed bilateral lesions of the putamin and caudate heads. Serum lactate was normal for four of the children, and CSF lactate slightly elevated for three. Volume-selective proton MR spectroscopy (`H-MRS) of the basal ganglia in the Leigh patients revealed clevated lacrate, giving further evidence for a defect of energy merabolisrn In the brain. ?H-MRS is an important tool for non-invasive brain tissue analysis in Leigh's disease, particularly in the absence of peripheral lactate elevation. RÉSUMÉ Spectroscopie protonique chez cing patients utteints de maladie de Leigh avec déficience des enzymes mitochondriaux Cinq enfants atteints de rnaladie de Leigh avec sympto?mes neurologiques évolutifs ont été compares a 14 enfants contro?les. Dans tous les cas de maladie de Leigh, I'IRM montrait des lésions du putarnen et de la t?te des noyaus caudés. Les lactate sérique était normal chez quatre des enfanu et le lactate dans le LCR légérernent élevé dans trois cas. La spectroscopie protonique RM à volume sélectif (`H-MRS) des noyaux de la base chez les patients atteints de maladie de Leigh montrait un lactate élevé, donnant une évidence supplémentaire d'un défaut du métabolisme énergétique du cerveau. Le ?H-MRS est un outil important pour une analyse non invasive du tissu cérébral dans la maladie de Leigh, particulièrement en I'absence d'une élévation périphérique du lactate. ZUSAMMENFASSUNG Protonen Spekrroskopie bei fünf Patienten mit Leigh Syndrom und mitochondrialetm Enzymmangel Fünf Kinder mit Leigh Syndrom und progressiven neurologischen Symptomen wurden mit 14 Kontrollkindern verglichen. Bei allen fünf Leigh Patienten fanden sich im MRI bilaterale Läsionen im Bereich des Putamens und des Nucleus caudatus. Bei vier der Kinder war das Serumlaktat normal und das Liquorlaktat war bei drei Patienten ma?ig erhöht. Volurnen-selektive Protonen-MR-Spektroskopie (`H-MRS) der Basalganglien ergab bei den Leigh Patienten erhöte Laktatwerte und damit einen weiteren Hinweis auf eine Storung des Energiestoffwechsels im Gehirn. ?H-MRS ist eine wichtige Methode zur nicht invasiven Hirngewebsanalyse beirn Leigh Syndrom, besonders wenn eine periphere Laktaterhöhung fehlt. RESUMEN Espectroscopia con protones en cinco pacientes con enfermedad de Leigh y deficiencia enziamática mitocondrial Se cornpararon cinco niños con enfermedad de Leigh y sintomas neurológicos progresivos con 14 niños control. En todos los casos con enfermedad de Leigh la IRM nostró lesiones bilaterales en las cabezas del putarnen y del nucleo caudado. El lactato serico era normal en cuatro de los niños y el lactato del LCR estaba ligeramente elevado en tres. Las espectroscopias MR con protones de volumen selectivo (`H-MRS) des los ganglios de la base en los pacientes con enfermedad de Leigh mosttaron un lactato elevado, apoyando la idea de un defecto de energia metabólica en el cerebro. La ?H-MRS es una herramiente importante para el análisis no invasivo del cerebro en la enfermedad de Leigh, especialrnente en ausencia de una elevación del lactato periférico.
+ER  - 
+
+TY  - JOUR
+AU  - Matilainen, R
+AU  - Pitkanen, A
+AU  - Ruutiainen, T
+AU  - Mervaala, E
+AU  - Riekkinen, P
+TI  - Vigabatrin in epilepsy in mentally retarded patients.
+JO  - British Journal of Clinical Pharmacology
+JA  - British Journal of Clinical Pharmacology
+VL  - 27
+IS  - S1
+SN  - 0306-5251
+UR  - https://doi.org/10.1111/j.1365-2125.1989.tb03471.x
+DO  - doi:10.1111/j.1365-2125.1989.tb03471.x
+SP  - 113S
+EP  - 118S
+PY  - 1989
+AB  - 1. The anticonvulsant potency of vigabatrin (gamma-vinyl GABA, GVG) was studied in an open trial in a group of 21 mentally handicapped patients with drug-resistant epilepsy. 2. With this treatment one third of these patients had more than 50% reduction in seizure frequency. The anticonvulsant effect appeared during the first month of therapy and was maintained during a 7-month study. The side effects were mild: mainly tiredness, aggressiveness, and ataxia. Other anticonvulsant drugs remained at baseline levels during GVG therapy. GVG was not found to modulate EEG recordings. 3. According to our results, GVG is effective for treating intractable epilepsy in mentally handicapped patients.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Session 1, Sunday 11 September
+JO  - European Journal of Neurology
+VL  - 18
+IS  - s2
+SN  - 1351-5101
+UR  - https://doi.org/10.1111/j.1468-1331.2011.03551.x
+DO  - doi:10.1111/j.1468-1331.2011.03551.x
+SP  - 66
+EP  - 343
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+AU  - SEGAL, ROBERT J.
+AU  - JACOBS, PAUL H.
+TI  - SPOROTRICHOSIS
+JO  - International Journal of Dermatology
+VL  - 18
+IS  - 8
+SN  - 0011-9059
+UR  - https://doi.org/10.1111/j.1365-4362.1979.tb04682.x
+DO  - doi:10.1111/j.1365-4362.1979.tb04682.x
+SP  - 639
+EP  - 644
+PY  - 1979
+AB  - ABSTRACT: Five cases of cutaneous sporotrichosis were seen at the Stanford University Department of Dermatology from 1996 to 1977, where the disease was previously unreported. The possibility of sporotrichosis should be considered when suppurative cutaneous lesions do not respond to antibacterial agents. Skin biopsy of sporotrichotic lesion is often nonspecific, while culture is the best method of diagnosis.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Fundamental & Clinical Pharmacology
+VL  - 23
+IS  - s1
+SN  - 0767-3981
+UR  - https://doi.org/10.1111/j.1472-8206.2009.00689.x
+DO  - doi:10.1111/j.1472-8206.2009.00689.x
+SP  - 1
+EP  - 112
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+TI  - PROCEEDINGS FROM THE 15TH ANNUAL FALL SCIENTIFIC MEETING OF THE SEXUAL MEDICINE SOCIETY OF NORTH AMERICA SAN DIEGO, CA, NOVEMBER 19–21 2009
+JO  - The Journal of Sexual Medicine
+VL  - 7
+IS  - s1
+SN  - 1743-6095
+UR  - https://doi.org/10.1111/j.1743-6109.2009.01739.x
+DO  - doi:10.1111/j.1743-6109.2009.01739.x
+SP  - 6
+EP  - 49
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Free Paper Abstracts
+JO  - Anaesthesia
+VL  - 66
+IS  - s1
+SN  - 0003-2409
+UR  - https://doi.org/10.1111/j.1365-2044.2011.06921.x
+DO  - doi:10.1111/j.1365-2044.2011.06921.x
+SP  - 7
+EP  - 21
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - 2018 IERI International Conference on Medical Physics, Medical Engineering and Informatics
+JO  - Basic & Clinical Pharmacology & Toxicology
+JA  - Basic Clin Pharmacol Toxicol
+VL  - 123
+IS  - S3
+SN  - 1742-7835
+UR  - https://doi.org/10.1111/bcpt.13100
+DO  - doi:10.1111/bcpt.13100
+SP  - 3
+EP  - 111
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - 2019 Annual Meeting of the American Society for Bone and Mineral Research Orange County Convention Center, Orlando, Florida, USA September 20–23, 2019
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 34
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.3936
+DO  - doi:10.1002/jbmr.3936
+SP  - S1
+EP  - S442
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+AU  - Kloosterboer, Ellen
+AU  - Funke, Klaus
+TI  - Repetitive transcranial magnetic stimulation recovers cortical map plasticity induced by sensory deprivation due to deafferentiation
+JO  - The Journal of Physiology
+JA  - J Physiol
+VL  - 597
+IS  - 15
+SN  - 0022-3751
+UR  - https://doi.org/10.1113/JP277507
+DO  - doi:10.1113/JP277507
+SP  - 4025
+EP  - 4051
+KW  - rTMS
+KW  - iTBS
+KW  - sensory deprivation
+KW  - deafferentation
+KW  - barrel cortex
+KW  - cortical inhibition
+PY  - 2019
+AB  - Key points Partial sensory deprivation (deafferentation) by removing whiskers from the rat snout resulted in a reduced responsiveness of related cortical representations. Repetitive transcranial magnetic stimulation (three blocks of intermittent theta-burst) applied for 5 days in combination with sensory exploration restored the normal responsiveness level of the deafferented barrel cortex. However, intracortical inhibition (lateral and recurrent) appeared to be reduced after repetitive transcranial magnetic stimulation, probably as the cause of improved responsiveness. Repetitive transcranial magnetic stimulation also reduced the asymmetry of the lateral spread of sensory activity. Abstract Repetitive transcranial magnetic stimulation (rTMS) modulates human cortical excitability. It has the potential to support recovery to normal cortical function when the excitation?inhibition balance is altered (e.g. after a stroke or loss of sensory input). We tested cortical map plasticity on the basis of sensory responses (local field potentials, LFPs) and expression of neuronal activity marker proteins within the barrel cortex of rats receiving either active or sham rTMS after selective unilateral deafferentation by whiskers plucking. Rats received daily rTMS [intermittent theta-burst (iTBS), active or sham] for 5 days before exploring an enriched environment. Our previous studies indicated a disinhibitory effect of iTBS on cortical activity. Therefore, we also expected disinhibitory effects if deafferentation causes depression of sensory responses. Deafferentation resulted in an acute general reduction of sensory responsiveness and enhanced expression of inhibitory activity markers (GAD67, parvalbumin) in the deafferented hemisphere. Active but not sham-iTBS-rTMS normalized these measures. The stronger caudal-to-frontal horizontal spread of activity across barrels was reduced after deafferentation but not restored after active iTBS, despite generally increased responses. Fitting the LFP data with a computational model of different strengths and types of excitatory and inhibitory connections further revealed an iTBS-induced reduction of lateral and recurrent inhibition as the most probable scenario. Whether the disinhibitory effect of iTBS for the restoration of normal cortical function in the acute phase of depression after deafferentiation is also beneficial in humans remains to be demonstrated. As recently discussed, disinhibition appears to be required to open a window for neuronal plasticity.
+ER  - 
+
+TY  - JOUR
+TI  - AUGIS abstracts 2019
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 106
+IS  - S7
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.11421
+DO  - doi:10.1002/bjs.11421
+SP  - 5
+EP  - 94
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Association of Surgeons of Great Britain and Ireland (Edinburgh 2006) abstracts
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 93
+IS  - S1
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.5436
+DO  - doi:10.1002/bjs.5436
+SP  - 1
+EP  - 100
+PY  - 2006
+AB  - Abstract The Annual Scientific Meeting of the Association of Surgeons takes place this year at the Edinburgh International Conference Centre (3rd ? 5th May 2006), under the presidency of Mr Denis Wilkins. To view all abstracts from this meeting, please click the pdf link on this page.
+ER  - 
+
+TY  - JOUR
+TI  - COMMUNICATIONS
+JO  - The Journal of Physiology
+VL  - 313
+IS  - suppl
+SN  - 0022-3751
+UR  - https://doi.org/10.1113/jphysiol.1981.sp013684
+DO  - doi:10.1113/jphysiol.1981.sp013684
+SP  - 10
+EP  - 66
+PY  - 1981
+ER  - 
+
+TY  - JOUR
+AU  - Malchesky, Paul S.
+TI  - Artificial Organs 2017: A Year in Review
+JO  - Artificial Organs
+JA  - Artificial Organs
+VL  - 42
+IS  - 3
+SN  - 0160-564X
+UR  - https://doi.org/10.1111/aor.13137
+DO  - doi:10.1111/aor.13137
+SP  - 305
+EP  - 331
+KW  - Apheresis
+KW  - —Artificial blood
+KW  - —Bioengineering
+KW  - —Blood pumps
+KW  - —Cardiac support
+KW  - —Cardiopulmonary
+KW  - —Dermal
+KW  - —Dialysis
+KW  - —Functional electrical stimulation
+KW  - —Medical devices
+KW  - —Membrane oxygenation
+KW  - —Organ preservation
+KW  - —Orthopedic
+KW  - —Pulmonary
+KW  - —Renal
+KW  - —Tissue engineering
+KW  - —Transplantation
+KW  - —Valves
+KW  - —Vascular
+KW  - —Vision
+PY  - 2018
+AB  - Abstract In this Editor's Review, articles published in 2017 are organized by category and summarized. We provide a brief reflection of the research and progress in artificial organs intended to advance and better human life while providing insight for continued application of these technologies and methods. Artificial Organs continues in the original mission of its founders ?to foster communications in the field of artificial organs on an international level.? Artificial Organs continues to publish developments and clinical applications of artificial organ technologies in this broad and expanding field of organ Replacement, Recovery, and Regeneration from all over the world. Peer-reviewed Special Issues this year included contributions from the 12th International Conference on Pediatric Mechanical Circulatory Support Systems and Pediatric Cardiopulmonary Perfusion edited by Dr. Akif Undar, Artificial Oxygen Carriers edited by Drs. Akira Kawaguchi and Jan Simoni, the 24th Congress of the International Society for Mechanical Circulatory Support edited by Dr. Toru Masuzawa, Challenges in the Field of Biomedical Devices: A Multidisciplinary Perspective edited by Dr. Vincenzo Piemonte and colleagues and Functional Electrical Stimulation edited by Dr. Winfried Mayr and colleagues. We take this time also to express our gratitude to our authors for offering their work to this journal. We offer our very special thanks to our reviewers who give so generously of time and expertise to review, critique, and especially provide meaningful suggestions to the author's work whether eventually accepted or rejected. Without these excellent and dedicated reviewers the quality expected from such a journal could not be possible. We also express our special thanks to our Publisher, John Wiley & Sons for their expert attention and support in the production and marketing of Artificial Organs. We look forward to reporting further advances in the coming years.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts Not Accepted For Live Presentation
+JO  - Pediatric Dermatology
+JA  - Pediatr Dermatol
+VL  - 34
+IS  - S1
+SN  - 0736-8046
+UR  - https://doi.org/10.1111/pde.13196
+DO  - doi:10.1111/pde.13196
+SP  - S100
+EP  - S212
+PY  - 2017
+ER  - 

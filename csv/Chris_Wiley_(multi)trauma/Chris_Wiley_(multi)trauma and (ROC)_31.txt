@@ -1,0 +1,313 @@
+
+AU  - Nishikawa, Robert M.
+TI  - Computer-Assisted Detection and Diagnosis
+SN  - 9780471263586
+UR  - https://doi.org/10.1002/0471732877.emd310
+DO  - doi:10.1002/0471732877.emd310
+KW  - radiology
+KW  - computer
+KW  - radiography
+KW  - carcinoma
+KW  - diagnosis
+KW  - detection
+KW  - diagnostic errors
+KW  - computer-assisted
+KW  - algorithms
+KW  - mammography
+KW  - breast cancer
+KW  - technology assessment
+AB  - Abstract Computer-aided diagnosis (CAD) is defined as a diagnosis made by a radiologist who takes into account the output of a computerized analysis of a medical image. There are in general two different types of CAD schemes: one to locate suspicious regions in the image, computer-aided detection (CADe) and another to classify a suspicious region into one of two or more classes, computer-aided diagnosis (CADx). The goal of CAD is to improve the performance of radiologists, to reduce variation within and between radiologists, and to make radiologists more efficient. This article describes motivation for developing CAD, the basic principles, current issues in CAD research, and future areas for development.
+ER  - 
+
+TY  - JOUR
+AU  - Lee, Shao-Hsuan
+AU  - Yu, Jen-Fang
+AU  - Fang, Tuan-Jen
+AU  - Lee, Guo-She
+TI  - Vocal fold nodules: A disorder of phonation organs or auditory feedback?
+JO  - Clinical Otolaryngology
+JA  - Clin Otolaryngol
+VL  - 44
+IS  - 6
+SN  - 9780471263586
+UR  - https://doi.org/10.1111/coa.13417
+DO  - doi:10.1111/coa.13417
+SP  - 975
+EP  - 982
+PY  - 2019
+AB  - Abstract Objective Increasing evidence supports that auditory feedback of one's own voice closely relates to real-time adjustments of vocal control. Previous studies highlighted that the low-frequency modulations of below 3 Hz (LFM) embedded in vocal fundamental frequency (F0) showed a reflex-like response to altered auditory inputs. However, the auditory feedback control of different vocal disorders remains unclear. Design A cross-sectional, case-controlled study. Setting A tertiary medical centre. Participants Sustained vocalisations of vowel/a/ from adult healthy controls and patients with vocal fold nodules, vocal fold polyps and vocal fold cysts, respectively. The vocalisations were made at a comfortable pitch and at the intensity of 70 ~ 80 dBC under the following four auditory conditions: natural hearing, 90-dBC speech noise, 10-dBC enhanced feedback of self-produced voice and both the noise and voice feedback. Main outcome measures Power spectral analysis of F0 contour of sustained vowel. Results Patients with vocal fold nodules presented with different audio-vocal feedback behaviour and audio-vocal response to speech noise from the other two vocal pathologies of vocal fold polyp and vocal fold cyst as well as the healthy controls (P < .001, one-way ANOVA). Conclusion The vocal fold nodules may be not only a vocal fold disease but also a disease caused by abnormal audio-vocal feedback. Moreover, the distinct audio-vocal feedback of vocal fold nodules could be revealed by power spectral analysis of vocal fundamental frequencies. Although further investigations are necessary, adjustments of audio-vocal feedback behaviour may provide a new insight and benefit to the treatment of vocal fold nodules in the future.
+ER  - 
+
+TY  - JOUR
+TI  - Brief Orals
+JO  - Transplant International
+JA  - Transpl Int
+VL  - 30
+IS  - S2
+SN  - 9780471263586
+UR  - https://doi.org/10.1111/tri.13050
+DO  - doi:10.1111/tri.13050
+SP  - 165
+EP  - 346
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentations
+JO  - Movement Disorders
+JA  - Mov. Disord.
+VL  - 26
+IS  - S2
+SN  - 9780471263586
+UR  - https://doi.org/10.1002/mds.23764
+DO  - doi:10.1002/mds.23764
+SP  - S1
+EP  - S385
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - Poster Session 2, Monday 10 September
+JO  - European Journal of Neurology
+VL  - 19
+IS  - s1
+SN  - 9780471263586
+UR  - https://doi.org/10.1111/j.1468-1331.2012.03889.x
+DO  - doi:10.1111/j.1468-1331.2012.03889.x
+SP  - 458
+EP  - 807
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+AU  - Potocki, M.
+AU  - Breidthardt, T.
+AU  - Reichlin, T.
+AU  - Hartwiger, S.
+AU  - Morgenthaler, N. G.
+AU  - Bergmann, A.
+AU  - Noveanu, M.
+AU  - Freidank, H.
+AU  - Taegtmeyer, A. B.
+AU  - Wetzel, K.
+AU  - Boldanova, T.
+AU  - Stelzig, C.
+AU  - Bingisser, R.
+AU  - Christ, M.
+AU  - Mueller, C.
+TI  - Comparison of midregional pro-atrial natriuretic peptide with N-terminal pro-B-type natriuretic   peptide in the diagnosis of heart failure
+JO  - Journal of Internal Medicine
+VL  - 267
+IS  - 1
+SN  - 9780471263586
+UR  - https://doi.org/10.1111/j.1365-2796.2009.02135.x
+DO  - doi:10.1111/j.1365-2796.2009.02135.x
+SP  - 119
+EP  - 129
+KW  - dyspnoea
+KW  - emergency diagnosis
+KW  - heart failure
+KW  - MRproANP
+KW  - natriuretic peptides
+PY  - 2010
+AB  - Abstract. Objectives.? The concentration of atrial natriuretic peptide (ANP) in the circulation is approximately 10- to 50- fold higher than B-type natriuretic peptide (BNP). We sought to compare the accuracy of midregional pro-atrial natriuretic peptide (MRproANP) measured with a novel sandwich immunoassay with N-terminal pro-B-type natriuretic peptide (NTproBNP) in the diagnosis of heart failure. Design.? The diagnosis of heart failure was adjudicated by two independent cardiologists using all available clinical data (including BNP levels) in 287 consecutive patients presenting with dyspnoea to the emergency department (ED). MRproANP and NTproBNP levels were determined at presentation in a blinded fashion. Results.? Heart failure was the adjudicated final diagnosis in 154 patients (54%). Median MRproANP was significantly higher in patients with heart failure as compared to patients with other causes of dyspnoea (400 vs. 92?pmol?L?1, P?<?0.001). The diagnostic accuracy of MRproANP was very high with an area under the receiver operating characteristic curve of 0.92 and was comparable with that of NTproBNP (0.92, P?=?0.791). Moreover, MRproANP provided incremental diagnostic information to BNP and NTproBNP in patients presenting with BNP levels in the grey zone between 100 and 500?pg?mL?1. Conclusion.? Midregional pro-atrial natriuretic peptide is as accurate in the diagnosis of heart failure as NTproBNP. MRproANP seems to provide incremental information on top of BNP or NT-proBNP in some subgroups and should be further investigated in other studies.
+ER  - 
+
+TY  - JOUR
+AU  - Pitarch, Aida
+AU  - Nombela, César
+AU  - Gil, Concha
+TI  - Reliability of antibodies to Candida methionine synthase for diagnosis, prognosis and risk stratification in systemic candidiasis: A generic strategy for the prototype development phase of proteomic markers
+JO  - PROTEOMICS – Clinical Applications
+JA  - Prot. Clin. Appl.
+VL  - 1
+IS  - 10
+SN  - 9780471263586
+UR  - https://doi.org/10.1002/prca.200601036
+DO  - doi:10.1002/prca.200601036
+SP  - 1221
+EP  - 1242
+KW  - Capture ELISA
+KW  - Diagnostic accuracy
+KW  - Methionine synthase
+KW  - Systemic candidiasis
+KW  - TAP tag
+PY  - 2007
+AB  - Abstract To be able to diagnose systemic candidiasis (SC) and to predict outcomes in SC patients are still challenging tasks for physicians. Previous proteomic studies suggest that anti-Candida methionine synthase (Met6p) IgG antibodies may be a candidate marker for SC. To evaluate their reliability for diagnosis, prognosis and risk stratification in SC, we developed a generic prototype strategy for their measurement in SC. Receiver-operating-characteristic curve analyses revealed a high diagnostic accuracy for this prototype format, which was slightly better to that for the widely used Western blot assays. Multivariate logistic-regression models showed a positive association between serum anti-Met6p IgG antibody levels and SC risk that was independent from established SC risk factors and other baseline variables. After adjusting for and stratifying according to known prognostic factors, a significant trend toward a lower two-month mortality risk with increasing levels was evidenced in SC patients at presentation. We conclude that these antibodies may be useful in discriminating SC from non-SC patients and determining risk stratification in SC. These may also confer protection against SC and be valuable for the design of future immunotherapies. Furthermore, our prototype format has the potential to make impact on other infectious diseases, cancers, allergies or autoimmune disorders.
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Programme, 41st Annual Meeting of the International Continence Society (ICS) 29 August - 2 September 2011, Glasgow, UK
+JO  - Neurourology and Urodynamics
+JA  - Neurourol. Urodyn.
+VL  - 30
+IS  - 6
+SN  - 9780471263586
+UR  - https://doi.org/10.1002/nau.21185
+DO  - doi:10.1002/nau.21185
+SP  - 787
+EP  - 1206
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentation – Critical Care Medicine
+JO  - Respirology
+JA  - Respirology
+VL  - 19
+IS  - S3
+SN  - 9780471263586
+UR  - https://doi.org/10.1111/resp.12417_7
+DO  - doi:10.1111/resp.12417_7
+SP  - 129
+EP  - 139
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - Concurrent Sessions Posters
+JO  - HPB
+JA  - HPB
+VL  - 15
+IS  - s2
+SN  - 9780471263586
+UR  - https://doi.org/10.1111/hpb.12093
+DO  - doi:10.1111/hpb.12093
+SP  - 85
+EP  - 244
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - VASCULAR SURGERY
+JO  - ANZ Journal of Surgery
+VL  - 76
+IS  - s1
+SN  - 9780471263586
+UR  - https://doi.org/10.1111/j.1445-2197.2006.03822.x
+DO  - doi:10.1111/j.1445-2197.2006.03822.x
+SP  - A95
+EP  - A97
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+TI  - 2015 Annual Meeting of the American Society for Bone and Mineral Research Seattle, WA October 9–12, 2015
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 30
+IS  - S1
+SN  - 9780471263586
+UR  - https://doi.org/10.1002/jbmr.2763
+DO  - doi:10.1002/jbmr.2763
+SP  - S1
+EP  - S1
+PY  - 2015
+AB  - ABSTRACT Searchable abstracts may be found at http://www.asbmr.org/education/abstracts
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Drug and Alcohol Review
+VL  - 29
+IS  - s1
+SN  - 9780471263586
+UR  - https://doi.org/10.1111/j.1465-3362.2010.00261.x
+DO  - doi:10.1111/j.1465-3362.2010.00261.x
+SP  - 2
+EP  - 82
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts Poster
+JO  - American Journal of Transplantation
+VL  - 9
+IS  - s2
+SN  - 9780471263586
+UR  - https://doi.org/10.1111/j.1600-6143.2009.02659.x
+DO  - doi:10.1111/j.1600-6143.2009.02659.x
+SP  - 384
+EP  - 729
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+TI  - POSTER SESSION: CLINICAL
+JO  - European Journal of Heart Failure
+JA  - European Journal of Heart Failure
+VL  - 12
+IS  - S1
+SN  - 9780471263586
+UR  - https://doi.org/10.1093/eurjhf/hst009
+DO  - doi:10.1093/eurjhf/hst009
+SP  - S73
+EP  - S325
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - Paper Abstracts
+JO  - Journal of the American Geriatrics Society
+VL  - 58
+IS  - s1
+SN  - 9780471263586
+UR  - https://doi.org/10.1111/j.1532-5415.2010.02850.x
+DO  - doi:10.1111/j.1532-5415.2010.02850.x
+SP  - 1
+EP  - 246
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Internal Medicine Journal
+VL  - 38
+IS  - s3
+SN  - 9780471263586
+UR  - https://doi.org/10.1111/j.1445-5994.2008.01728.x
+DO  - doi:10.1111/j.1445-5994.2008.01728.x
+SP  - A37
+EP  - A70
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentations
+JO  - Acta Paediatrica
+VL  - 98
+IS  - s460
+SN  - 9780471263586
+UR  - https://doi.org/10.1111/j.1651-2227.2009.01482_2.x
+DO  - doi:10.1111/j.1651-2227.2009.01482_2.x
+SP  - 69
+EP  - 278
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts of The Movement Disorder Society's Eleventh International Congress of Parkinson's Disease and Movement Disorders
+JO  - Movement Disorders
+JA  - Mov. Disord.
+VL  - 22
+IS  - S16
+SN  - 9780471263586
+UR  - https://doi.org/10.1002/mds.21535
+DO  - doi:10.1002/mds.21535
+SP  - S1
+EP  - S325
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - 6th World Congress-World Institute of Pain
+JO  - Pain Practice
+VL  - 12
+IS  - s1
+SN  - 9780471263586
+UR  - https://doi.org/10.1111/j.1533-2500.2011.00528.x
+DO  - doi:10.1111/j.1533-2500.2011.00528.x
+SP  - 1
+EP  - 199
+PY  - 2012
+ER  - 

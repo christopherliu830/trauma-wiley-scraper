@@ -1,0 +1,502 @@
+
+TY  - JOUR
+AU  - Seago, Meghan
+AU  - Shumaker, Peter R.
+AU  - Spring, Leah K.
+AU  - Alam, Murad
+AU  - Al-Niaimi, Firas
+AU  - Rox Anderson, R.
+AU  - Artzi, Ofir
+AU  - Bayat, Ardeshir
+AU  - Cassuto, Daniel
+AU  - Chan, Henry HL
+AU  - Dierickx, Christine
+AU  - Donelan, Matthias
+AU  - Gauglitz, Gerd G.
+AU  - Leo Goo, Boncheol
+AU  - Goodman, Greg J.
+AU  - Gurtner, Geoffrey
+AU  - Haedersdal, Merete
+AU  - Krakowski, Andrew C.
+AU  - Manuskiatti, Woraphong
+AU  - Norbury, William B.
+AU  - Ogawa, Rei
+AU  - Ozog, David M.
+AU  - Paasch, Uwe
+AU  - Victor Ross, E.
+AU  - Tretti Clementoni, Matteo
+AU  - Waibel, Jill
+TI  - Laser Treatment of Traumatic Scars and Contractures: 2020 International Consensus Recommendations
+JO  - Lasers in Surgery and Medicine
+JA  - Lasers Surg. Med.
+VL  - 52
+IS  - 2
+SN  - 0196-8092
+UR  - https://doi.org/10.1002/lsm.23201
+DO  - doi:10.1002/lsm.23201
+SP  - 96
+EP  - 116
+KW  - laser
+KW  - scar
+KW  - traumatic scar
+KW  - burn scar
+KW  - fractional
+KW  - vascular
+PY  - 2020
+AB  - Background and Objectives There is currently intense multidisciplinary interest and a maturing body of literature regarding laser treatments for traumatic scars, but international treatment guidelines and reimbursement schemes have not yet caught up with current knowledge and practice in many centers. The authors intend to highlight the tremendous potential of laser techniques, offer recommendations for safe and efficacious treatment, and promote wider patient access guided by future high-quality research. Study Design/Materials and Methods An international panel of 26 dermatologists and plastic and reconstructive surgeons from 13 different countries and a variety of practice backgrounds was self-assembled to develop updated consensus recommendations for the laser treatment of traumatic scars. A three-step modified Delphi method took place between March 2018 and March 2019 consisting of two rounds of emailed questionnaires and supplementary face-to-face meetings. The panel members approved the final manuscript via email correspondence, and the threshold for consensus was at least 80% concurrence among the panel members. Results The manuscript includes extensive detailed discussion regarding a variety of laser platforms commonly used for traumatic scar management such as vascular lasers and ablative and non-ablative fractional lasers, special considerations such as coding and laser treatments in skin of color, and 25 summary consensus recommendations. Conclusions Lasers are a first-line therapy in the management of traumatic scars and contractures, and patients without access to these treatments may not be receiving the best available care after injury. Updated international treatment guidelines and reimbursement schemes, additional high-quality research, and patient access should reflect this status. Lasers Surg. Med. ? 2019 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Oliva Jr., Anthony A.
+AU  - Kang, Yuan
+AU  - Furones, Concepcion
+AU  - Alonso, Ofelia F.
+AU  - Bruno, Olga
+AU  - Dietrich, W. Dalton
+AU  - Atkins, Coleen M.
+TI  - Phosphodiesterase isoform-specific expression induced by traumatic brain injury
+JO  - Journal of Neurochemistry
+JA  - J. Neurochem.
+VL  - 123
+IS  - 6
+SN  - 0022-3042
+UR  - https://doi.org/10.1111/jnc.12049
+DO  - doi:10.1111/jnc.12049
+SP  - 1019
+EP  - 1029
+KW  - cAMP
+KW  - fluid-percussion
+KW  - inflammation
+KW  - isoform
+KW  - phosphodiesterase
+KW  - traumatic brain injury
+PY  - 2012
+AB  - Abstract Traumatic brain injury (TBI) results in significant inflammation which contributes to the evolving pathology. Previously, we have demonstrated that cyclic AMP (cAMP), a molecule involved in inflammation, is down-regulated after TBI. To determine the mechanism by which cAMP is down-regulated after TBI, we determined whether TBI induces changes in phosphodiesterase (PDE) expression. Adult male Sprague Dawley rats received moderate parasagittal fluid-percussion brain injury (FPI) or sham injury, and the ipsilateral, parietal cortex was analyzed by western blotting. In the ipsilateral parietal cortex, expression of PDE1A, PDE4B2, and PDE4D2, significantly increased from 30 min to 24 h post-injury. PDE10A significantly increased at 6 and 24 h after TBI. Phosphorylation of PDE4A significantly increased from 6 h to 7 days post-injury. In contrast, PDE1B, PD4A5, and PDE4A8 significantly decreased after TBI. No changes were observed with PDE1C, PDE3A, PDE4B1/3, PDE4B4, PDE4D3, PDE4D4, PDE8A, or PDE8B. Co-localization studies showed that PDE1A, PDE4B2, and phospho-PDE4A were neuronally expressed, whereas PDE4D2 was expressed in neither neurons nor glia. These findings suggest that therapies to reduce inflammation after TBI could be facilitated with targeted therapies, in particular for PDE1A, PDE4B2, PDE4D2, or PDE10A.
+ER  - 
+
+TY  - JOUR
+AU  - Karamzadeh, Nader
+AU  - Amyot, Franck
+AU  - Kenney, Kimbra
+AU  - Anderson, Afrouz
+AU  - Chowdhry, Fatima
+AU  - Dashtestani, Hadis
+AU  - Wassermann, Eric M.
+AU  - Chernomordik, Victor
+AU  - Boccara, Claude
+AU  - Wegman, Edward
+AU  - Diaz-Arrastia, Ramon
+AU  - Gandjbakhche, Amir H.
+C7  - e00541
+TI  - A machine learning approach to identify functional biomarkers in human prefrontal cortex for individuals with traumatic brain injury using functional near-infrared spectroscopy
+JO  - Brain and Behavior
+JA  - Brain Behav
+VL  - 6
+IS  - 11
+SN  - 2162-3279
+UR  - https://doi.org/10.1002/brb3.541
+DO  - doi:10.1002/brb3.541
+SP  - e00541
+KW  - classification
+KW  - feature selection
+KW  - machine learning
+KW  - near-infrared spectroscopy
+KW  - traumatic brain injury
+KW  - time series feature extraction
+KW  - wrapper method
+PY  - 2016
+AB  - Abstract Background We have explored the potential prefrontal hemodynamic biomarkers to characterize subjects with Traumatic Brain Injury (TBI) by employing the multivariate machine learning approach and introducing a novel task-related hemodynamic response detection followed by a heuristic search for optimum set of hemodynamic features. To achieve this goal, the hemodynamic response from a group of 31 healthy controls and 30 chronic TBI subjects were recorded as they performed a complexity task. Methods To determine the optimum hemodynamic features, we considered 11 features and their combinations in characterizing TBI subjects. We investigated the significance of the features by utilizing a machine learning classification algorithm to score all the possible combinations of features according to their predictive power. Results and Conclusions The identified optimum feature elements resulted in classification accuracy, sensitivity, and specificity of 85%, 85%, and 84%, respectively. Classification improvement was achieved for TBI subject classification through feature combination. It signified the major advantage of the multivariate analysis over the commonly used univariate analysis suggesting that the features that are individually irrelevant in characterizing the data may become relevant when used in combination. We also conducted a spatio-temporal classification to identify regions within the prefrontal cortex (PFC) that contribute in distinguishing between TBI and healthy subjects. As expected, Brodmann areas (BA) 10 within the PFC were isolated as the region that healthy subjects (unlike subjects with TBI), showed major hemodynamic activity in response to the High Complexity task. Overall, our results indicate that identified temporal and spatio-temporal features from PFC's hemodynamic activity are promising biomarkers in classifying subjects with TBI.
+ER  - 
+
+TY  - JOUR
+AU  - Vrijmoet-Wiersma, C. M. Jantien
+AU  - Hoekstra-Weebers, Josette E. H. M.
+AU  - Margreet de Peinder, W. M. G.
+AU  - Koopman, Hendrik M.
+AU  - Tissing, Wim J. E.
+AU  - Treffers, Philip D. A.
+AU  - Bierings, Marc B.
+AU  - Jansen, Nathalie C. A.
+AU  - Grootenhuis, Martha A.
+AU  - Egeler, R. Maarten
+TI  - Psychometric qualities of the Dutch version of the Pediatric Inventory for Parents (PIP): a multi-center study
+JO  - Psycho-Oncology
+JA  - Psycho‐Oncology
+VL  - 19
+IS  - 4
+SN  - 1057-9249
+UR  - https://doi.org/10.1002/pon.1571
+DO  - doi:10.1002/pon.1571
+SP  - 368
+EP  - 375
+KW  - childhood cancer
+KW  - parental stress
+KW  - assessment
+KW  - oncology
+KW  - PIP
+PY  - 2010
+AB  - Abstract Objectives: Diagnosis and treatment of childhood cancer are continuous stressors in the lives of the entire family involved. Disease-related tools for the assessment of parental stress and adaptation are scarce. For that reason, the Pediatric Inventory for Parents (PIP), a disease-related measure, was translated into Dutch and its psychometric qualities were determined to prove its value. Methods: The PIP and three other measures (State-Trait Anxiety Inventory, General Health Questionnaire and Parenting Stress Index, Short Form) were administered to 174 parents of 107 children diagnosed with cancer in three university medical centers in the Netherlands. Results: Internal consistency (Crohnbach's α=0.94 and 0.95) and test?retest reliability (Pearson's r between 0.67 and 0.87) of the Dutch PIP total scales are satisfactory. Validity was illustrated by a high correlation between PIP-scores and anxiety and general stress. Confirmatory factor analysis showed acceptable fit to the data for the original four-factor and the one-factor models; the four-factor model showed slightly better fit. Conclusion: The PIP can be used in clinical practice to assess disease-related parental stress. Further psychometric testing is highly recommended. Copyright ? 2009 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Meier, Raphael P. H.
+AU  - Andrey, Diego O.
+AU  - Sun, Pamela
+AU  - Niclauss, Nadja
+AU  - Bédat, Benoît
+AU  - Demuylder-Mischler, Sandrine
+AU  - Borot, Sophie
+AU  - Benhamou, Pierre-Yves
+AU  - Wojtusciszyn, Anne
+AU  - Buron, Fanny
+AU  - Pernin, Nadine
+AU  - Muller, Yannick D.
+AU  - Bosco, Domenico
+AU  - van Delden, Christian
+AU  - Berney, Thierry
+TI  - Pancreas preservation fluid microbial contamination is associated with poor islet isolation outcomes – a multi-centre cohort study
+JO  - Transplant International
+JA  - Transpl Int
+VL  - 31
+IS  - 8
+SN  - 0934-0874
+UR  - https://doi.org/10.1111/tri.13159
+DO  - doi:10.1111/tri.13159
+SP  - 917
+EP  - 929
+KW  - islet isolation
+KW  - islet transplantation
+KW  - microbial contamination
+KW  - type 1 diabetes mellitus
+PY  - 2018
+AB  - Summary The microbiological safety of islet preparations is paramount. Preservation medium contamination is frequent, and its impact on islet yield and function remains unclear. Microbiological samples collected during islet isolations from 2006 to 2016 were analyzed and correlated to isolation and allo- and autotransplantation outcomes. Microbial contamination of preservation medium was found in 64.4% of processed donor pancreases (291/452). We identified 464 microorganisms including Staphylococcus (253/464, 54.5%), Streptococcus (31/464, 6.7%), and Candida species (25/464, 5.4%). Microbial contamination was associated with longer warm and cold ischemia times and lower numbers of postpurification islet equivalents, purity, transplant rate, and stimulation index (all P < 0.05). Six percent of the preparations accepted for transplantation showed microbial contamination after isolation (12/200); 9 of 12 were Candida species. Six patients were transplanted with a sample with late microbial growth discovered after the infusion. Insulin independence rate was not affected. This risk of transplanting a contaminated islets preparation was reduced by half following the implementation of an additional sampling after 24 h of islet culture. Pancreas preservation fluid microbial contamination is associated with lower transplant rate and poorer in vitro function, but not with changes in graft survival. Culture medium testing 1 day after isolation reduces the risk of incidental transplantation with contaminated islets.
+ER  - 
+
+TY  - JOUR
+AU  - Armstrong, Richard A
+TI  - Visual problems associated with traumatic brain injury
+JO  - Clinical and Experimental Optometry
+JA  - Clin Exp Optom
+VL  - 101
+IS  - 6
+SN  - 0816-4622
+UR  - https://doi.org/10.1111/cxo.12670
+DO  - doi:10.1111/cxo.12670
+SP  - 716
+EP  - 726
+KW  - eye movement
+KW  - ocular rehabilitation
+KW  - traumatic brain injury
+KW  - visual signs and symptoms
+KW  - visual fields
+PY  - 2018
+AB  - Traumatic brain injury (TBI) and its associated concussion are major causes of disability and death. All ages can be affected but children, young adults and the elderly are particularly susceptible. A decline in mortality has resulted in many more individuals living with a disability caused by TBI including those affecting vision. This review describes: (1) the major clinical and pathological features of TBI; (2) the visual signs and symptoms associated with the disorder; and (3) discusses the assessment of quality of life and visual rehabilitation of the patient. Defects in primary vision such as visual acuity and visual fields, eye movement including vergence, saccadic and smooth pursuit movements, and in more complex aspects of vision involving visual perception, motion vision (?akinopsia?), and visuo-spatial function have all been reported in TBI. Eye movement dysfunction may be an early sign of TBI. Hence, TBI can result in a variety of visual problems, many patients exhibiting multiple visual defects in combination with a decline in overall health. Patients with chronic dysfunction following TBI may require occupational, vestibular, cognitive and other forms of physical therapy. Such patients may also benefit from visual rehabilitation, including reading-related oculomotor training and the prescribing of spectacles with a variety of tints and prism combinations.
+ER  - 
+
+TY  - JOUR
+AU  - Wray, C.
+AU  - Scovotti, J. C.
+AU  - Tobis, J.
+AU  - Niemann, C. U.
+AU  - Planinsic, R.
+AU  - Walia, A.
+AU  - Findlay, J.
+AU  - Wagener, G.
+AU  - Cywinski, J. B.
+AU  - Markovic, D.
+AU  - Hughes, C.
+AU  - Humar, A.
+AU  - Olmos, A.
+AU  - Sierra, R.
+AU  - Busuttil, R.
+AU  - Steadman, R. H.
+TI  - Liver Transplantation Outcome in Patients With Angiographically Proven Coronary Artery Disease: A Multi-Institutional Study
+JO  - American Journal of Transplantation
+JA  - American Journal of Transplantation
+VL  - 13
+IS  - 1
+SN  - 1600-6135
+UR  - https://doi.org/10.1111/j.1600-6143.2012.04293.x
+DO  - doi:10.1111/j.1600-6143.2012.04293.x
+SP  - 184
+EP  - 191
+KW  - Coronary artery disease
+KW  - end-stage liver disease
+KW  - liver transplantation
+KW  - mortality
+KW  - survival
+PY  - 2013
+AB  - Over the last decade the age of liver transplant (LT) recipients and the likelihood of coronary artery disease (CAD) in this population have increased. There are no multicenter studies that have examined the impact of CAD on LT outcomes. In this historical cohort study, we identified adult LT recipients who underwent angiography prior to transplantation at seven institutions over a 12-year period. For each patient we recorded demographic data, recipient and donor risk factors, duration of follow-up, the presence of angiographically proven obstructive CAD (≥50% stenosis) and post-LT survival. Obstructive CAD was present in 151 of 630 patients, the CAD(+) group. Nonobstructive CAD was found in 479 patients, the CAD(?) group. Patient survival was similar for the CAD(+) group (adjusted HR 1.13, CI = [0.79, 1.62], p = 0.493) compared to the CAD(?) group. The CAD(+) patients were further stratified into severe (CADsev, >70% stenosis, n = 96), and moderate CAD (CADmod, 50?70% stenosis, n = 55) groups. Survival for the CADsev (adjusted HR = 1.26, CI = [0.83, 1.91], p = 0.277) and CADmod (adjusted HR = 0.93, CI = [0.52, 1.66], p = 0.797) groups were similar to the CAD(?) group. We conclude that when current CAD treatment strategies are employed prior to transplant, post-LT survival is not significantly different between patients with and without obstructive CAD.
+ER  - 
+
+TY  - JOUR
+AU  - Llamas-Velasco, M.
+AU  - Hegyi, I.
+AU  - Hesterberg, U.
+AU  - Daudén, E.
+AU  - Requena, L.
+AU  - Kempf, W.
+TI  - Regorafenib-induced hand–foot skin reaction with striking epidermal dysmaturation – a new histopathological pattern associated with the use of multi-kinase inhibitors
+JO  - British Journal of Dermatology
+JA  - Br J Dermatol
+VL  - 175
+IS  - 1
+SN  - 0007-0963
+UR  - https://doi.org/10.1111/bjd.14417
+DO  - doi:10.1111/bjd.14417
+SP  - 216
+EP  - 217
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+AU  - Kwak, Minyoung
+AU  - Zebrack, Brad J.
+AU  - Meeske, Kathleen A.
+AU  - Embry, Leanne
+AU  - Aguilar, Christine
+AU  - Block, Rebecca
+AU  - Hayes-Lattin, Brandon
+AU  - Li, Yun
+AU  - Butler, Melissa
+AU  - Cole, Steven
+TI  - Prevalence and predictors of post-traumatic stress symptoms in adolescent and young adult cancer survivors: a 1-year follow-up study
+JO  - Psycho-Oncology
+JA  - Psycho‐Oncology
+VL  - 22
+IS  - 8
+SN  - 1057-9249
+UR  - https://doi.org/10.1002/pon.3217
+DO  - doi:10.1002/pon.3217
+SP  - 1798
+EP  - 1806
+KW  - cancer
+KW  - oncology
+KW  - adolescent
+KW  - young adults
+KW  - post-traumatic stress symptoms
+KW  - post-traumatic stress disorder
+PY  - 2013
+AB  - Abstract Objectives Post-traumatic stress symptoms (PTSS) have been identified as a meaningful indicator of distress in cancer survivors. Distinct from young adult survivors of childhood cancer, young people diagnosed with cancer as adolescents and young adults (AYAs) face unique psychosocial issues; however, there is little published research of PTSS in the AYA population. This study examines prevalence and predictors of PTSS among AYAs with cancer. Methods As part of a longitudinal study of AYAs with cancer, 151 patients aged 15?39?years completed mailed surveys at 6 and 12?months post-diagnosis. Severity of PTSS was estimated at 6 and 12?months post-diagnosis. Multiple regression analyses were conducted to investigate the predictive effects of socio-demographic and clinical characteristics on changes in PTSS over time. Results At 6 and 12?months, respectively, 39% and 44% of participants reported moderate to severe levels of PTSS; 29% had PTSS levels suggestive of post-traumatic stress disorder. No significant differences in severity of PTSS between 6 and 12?months were observed. Regression analyses suggested that a greater number of side effects were associated with higher levels of PTSS at 6?months. Currently receiving treatment, having surgical treatment, diagnosis of a cancer type with a 90?100% survival rate, remaining unemployed/not in school, and greater PTSS at 6?months were associated with higher levels of PTSS at 12?months. Conclusions Post-traumatic stress symptoms were observed as early as 6?months following diagnosis and remained stable at 12-month follow-up. The development of early interventions for reducing distress among AYA patients in treatment is recommended. Copyright ? 2012 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Arabpour, Zohreh
+AU  - Baradaran-Rafii, Alireza
+AU  - Bakhshaiesh, Nasrin L.
+AU  - Ai, Jafar
+AU  - Ebrahimi-Barough, Somayeh
+AU  - Esmaeili Malekabadi, Hossein
+AU  - Nazeri, Niloofar
+AU  - Vaez, Ahmad
+AU  - Salehi, Majid
+AU  - Sefat, Farshid
+AU  - Ostad, Seyed N.
+TI  - Design and characterization of biodegradable multi layered electrospun nanofibers for corneal tissue engineering applications
+JO  - Journal of Biomedical Materials Research Part A
+JA  - J Biomed Mater Res
+VL  - 107
+IS  - 10
+SN  - 1549-3296
+UR  - https://doi.org/10.1002/jbm.a.36742
+DO  - doi:10.1002/jbm.a.36742
+SP  - 2340
+EP  - 2349
+KW  - collagen
+KW  - corneal
+KW  - electrospinning
+KW  - human endometrial stem cells (hEnSCs)
+KW  - PLGA
+KW  - tissue engineering
+PY  - 2019
+AB  - Abstract Tissue engineering is one of the most promising areas for treatment of various ophthalmic diseases particularly for patients who suffer from limbal stem cell deficiency and this is due to the lack of existence of appropriate matrix for stem cell regeneration. The aim of this research project is to design and fabricate triple layered electrospun nanofibers as a suitable corneal tissue engineering scaffold and the objective is to investigate and perform various in vitro tests to find the most optimum and suitable scaffold for this purpose. Electrospun scaffolds were prepared in three layers. Poly(d, l-lactide-co-glycolide; PLGA, 50:50) nanofibers were electrospun as outer and inner layers of the scaffold and aligned type I collagen nanofibers were electrospun in the middle layer. Furthermore, the scaffolds were cross-linked by 1-ethyl-3-(3 dimethylaminopropyl) carbodiimide hydrochloride and glutaraldehyde. Structural, physical, and mechanical properties of scaffolds were investigated by using N2 adsorption/desorption isotherms, Fourier transform infrared spectroscopy, contact angle measurement, tensile test, degradation, shrinkage analysis, and scanning electron microscopy (SEM). In addition, capability to support cell attachment and viability were characterized by SEM, 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl tetrazolium bromide assay, and 4?,6-diamidino-2-phenylindole staining. According to the result of Brunauer?Emmett?Teller analysis, specific surface area of electrospun scaffold was about 23.7 m2 g-1. Tensile tests on cross-linked scaffolds represented more suitable hydrophilicity and tensile behavior. In addition, degradation rate analysis indicated that noncross-linked scaffolds degraded faster than cross-linked one and cross-linking led to controlled shrinkage in the scaffold. The SEM analysis depicted nano-sized fibers in good shape. Also, the in vitro study represented an improved cell attachment and proliferation in the presence of human endometrial stem cells for both cross-linked and noncross-linked samples. The current study suggests the possibility of producing an appropriate substrate for successful cornea tissue engineering with a novel design.
+ER  - 
+
+TY  - JOUR
+AU  - Vincent, Andrea L
+AU  - Kelly, Patrick
+TI  - Retinal haemorrhages in inflicted traumatic brain injury: the ophthalmologist in court
+JO  - Clinical & Experimental Ophthalmology
+VL  - 38
+IS  - 5
+SN  - 1442-6404
+UR  - https://doi.org/10.1111/j.1442-9071.2010.02324.x
+DO  - doi:10.1111/j.1442-9071.2010.02324.x
+SP  - 521
+EP  - 532
+KW  - child abuse
+KW  - medicolegal
+KW  - retinal haemorrhage
+KW  - shaken baby syndrome
+KW  - traumatic brain injury
+PY  - 2010
+AB  - Abstract Child abuse is a significant social and public health problem in many societies. One particular form of physical abuse is inflicted traumatic brain injury (ITBI) ? the so-called ?Shaken Baby Syndrome?. One of the key features associated with ITBI is characteristic ocular findings ? only observed on fundal examination. It is crucial not to miss the diagnosis of ITBI as there may be implications for the safety of the child. The ophthalmologist is one key contributor to the process required to make the diagnosis of ITBI accurately and on the basis of all the relevant evidence. This article discusses some medicolegal implications of examining a child with retinal haemorrhages in the context of suspected ITBI, with practical advice for the ophthalmologist to be as objective and prepared as possible. The scientific validity of some alternative explanations advanced in court is discussed, with a strong emphasis on the literature.
+ER  - 
+
+TY  - JOUR
+AU  - KANG, TIMOTHY
+AU  - KRUTTSCHNITT, CANDACE
+AU  - GOODMAN, PHILIP
+TI  - Multi-Method Synergy: Using the Life History Calendar and Life as a Film for Retrospective Narratives
+JO  - The Howard Journal of Crime and Justice
+JA  - The Howard Journal of Crime and Justice
+VL  - 56
+IS  - 4
+SN  - 2059-1098
+UR  - https://doi.org/10.1111/hojo.12231
+DO  - doi:10.1111/hojo.12231
+SP  - 532
+EP  - 553
+KW  - Life as a Film (LAAF)
+KW  - life course
+KW  - Life History Calendar (LHC)
+KW  - offender narratives
+PY  - 2017
+AB  - Abstract As scholars of crime increasingly use narratives elicited from people found guilty of committing crime, it is critical that we reflect methodologically and theoretically on exactly how researchers collect those narratives, and what scholars do with people's stories and conceptualisations of their past, present, and future. To contribute to these reflections, we examine the utility of the Life History Calendar (LHC) and the Life as a Film (LAAF) procedure for collecting retrospective life histories from incarcerated chronic offenders. We note the respective advantages of each method, particularly for capturing the dynamic social contexts and reflected appraisals during critical periods of the life course of offenders. Most importantly, we argue that using the LHC and the LAAF together not only supplements the deficiencies of each method, but they also work together synergistically to improve the breadth and depth of data collection and our ability to understand the interplay between narratives, context, and experience.
+ER  - 
+
+TY  - JOUR
+AU  - Tucker, W. G.
+AU  - Perrett, L. V.
+TI  - Traumatic Aneurysms and Traumatic Arteriovenous Fistulae
+JO  - Australasian Radiology
+VL  - 13
+IS  - 1
+SN  - 0004-8461
+UR  - https://doi.org/10.1111/j.1440-1673.1969.tb01213.x
+DO  - doi:10.1111/j.1440-1673.1969.tb01213.x
+SP  - 80
+EP  - 87
+PY  - 1969
+AB  - Summary The literature on traumatic aneurysms and traumatic arteriovenous fistulae has been reviewed, the aetiology and pathogenesis discussed. Seven cases are described illustrating various types, including an unusual complication of cervical disc surgery resulting in a vertebral arteriovenous fistula.
+ER  - 
+
+TY  - JOUR
+AU  - Kennedy, T.
+TI  - The management of trauma. Edited G. D. Zuidema, R. B. Rutherford and W. F. Ballinger II. Third edition; 278 × 190 mm. Pp. 849 + xiv. Illustrated. 1979. Eastbourne: Saunders. £25·75
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 67
+IS  - 8
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.1800670828
+DO  - doi:10.1002/bjs.1800670828
+SP  - 608
+EP  - 608
+PY  - 1980
+ER  - 
+
+TY  - JOUR
+AU  - Sharpley, C.F.
+AU  - Bitsika, V.
+AU  - Wootten, A.C.
+AU  - Christie, D.R.H.
+TI  - Does resilience ‘buffer’ against depression in prostate cancer patients? A multi-site replication study
+JO  - European Journal of Cancer Care
+JA  - Eur J Cancer Care (Engl)
+VL  - 23
+IS  - 4
+SN  - 0961-5423
+UR  - https://doi.org/10.1111/ecc.12170
+DO  - doi:10.1111/ecc.12170
+SP  - 545
+EP  - 552
+KW  - oncology
+KW  - cancer
+KW  - depression
+KW  - prostate
+KW  - resilience
+PY  - 2014
+AB  - Although psychological resilience has been shown to ?buffer? against depression following major stressors, no studies have reported on this relationship within the prostate cancer (PCa) population, many of whom are at elevated risk of depression, health problems and suicide. To investigate the effects of resilience upon anxiety and depression in the PCa population, postal surveys of 425 PCa patients were collected from two sites: 189 PCa patients at site 1 and 236 at site 2. Background data plus responses to depression and resilience scales were collected. Results indicated that total resilience score was a significant buffer against depression across both sites. Resilience had different underlying component factor structures across sites, but only one (common) factor significantly (inversely) predicted depression. Within that factor, only some specific items significantly predicted depression scores, suggesting a focused relationship between resilience and depression. It may be concluded that measures of resilience may be used to screen depression at-risk PCa patients. These patients might benefit from resilience training to enhance their ability to cope effectively with the stress of their diagnosis and treatment. A focus upon specific aspects of overall resilience may be of further benefit in both these processes.
+ER  - 
+
+TY  - JOUR
+AU  - Smith, Daniel Jordan
+TI  - Bird, S. Elizabeth & Fraser M. Ottanelli. The Asaba massacre: trauma, memory, and the Nigerian civil war. xviii, 239 pp., maps, illus., bibliogr. Cambridge: Univ. Press, 2017. £22.99 (paper)
+JO  - Journal of the Royal Anthropological Institute
+JA  - J R Anthropol Inst
+VL  - 26
+IS  - 1
+SN  - 1359-0987
+UR  - https://doi.org/10.1111/1467-9655.13189
+DO  - doi:10.1111/1467-9655.13189
+SP  - 191
+EP  - 192
+PY  - 2020
+ER  - 
+
+TY  - JOUR
+AU  - Beghi, Ettore
+AU  - Sasanelli, Franco
+AU  - Spagnoli, Alberto
+AU  - Tognoni, Gianni
+TI  - Quality of Care of Epilepsy in Italy: A Multi-hospital Survey of Diagnosis and Treatment of 1104 Epileptic Patients
+JO  - Epilepsia
+VL  - 23
+IS  - 2
+SN  - 0013-9580
+UR  - https://doi.org/10.1111/j.1528-1157.1982.tb05061.x
+DO  - doi:10.1111/j.1528-1157.1982.tb05061.x
+SP  - 133
+EP  - 148
+KW  - Epilepsy
+KW  - Quality of care
+KW  - Anticonvulsant drugs
+KW  - Therapeutic audit.
+PY  - 1982
+AB  - Summary: We surveyed the treatment of 1 04 patients admitted to 27 out of the 46 departments of neurology (64.5%), neurosurgery (23.0%), and child neurology (12.5%) of Lombardy, the largest Italian Region (population, 9,000,000). Our main aim was to assess the penetration of correct diagnostic and clinicopharmacological information into routine practice. A detailed analysis and discussion are given of data concerning reasons for hospital admission (therapeutic adjustment accounting for 27.3%; diagnostic ascertainment, 53.8%); characteristics of the disease, in terms of duration, clinical manifestations, and pattern of seizures; associated disorders; prevalence and criteria for the use of instrumental diagnostic procedures (EEG, brain scan, computed tomography, etc.); pattern of prescriptions of anticonvulsant drugs at admission and at discharge, with particular emphasis on specific drug choices by specialty; prevalence of single-drug therapy (41% at admission and 47.0% at discharge) versus polytherapy; degree of correspondence between recommended and observed dosage regimens (undertreatment being a more common problem than excessive dosing); and reporting of side effects. Although some of the findings of some recent studies are confirmed, this report documents the feasibility of a regular audit program of the performance of an entire health care system in the treatment of epilepsy. RÉSUMÉ 1104 Patients admis dans 27 des 46 départements de neurologie (64,5%), de neurochirurgie (23,0%) et neurologie pédiatrique (12,5%), de Lombardie, la plus grande région d'ltalie (9.000.000 d'habitants), ont été inclus dans une enquête dont le but principal était d'apprécier la pénétration d'un diagnostic et d'une information clinico-pharmacologique corrects dans la pratique de routine. Une analyse detaillee et une discussion des donnees suivantes sont rapportees: les raisons de 1'hospitalisation (ajustement therapeutique, 27,3%, affirmation du diagnostic, 53,8%); les caracteristiques de la maladie, selon sa duree, ses manifestations cliniques et le type des crises; les troubles as-socies; la prevalence et les criteres d'utilisation des procedes instrumentaux de diagnostic (EEG, radio du crane, scanographie, etc ?); les modalites de prescription des medicaments antiepileptiques à l'entree et à la sortie, en mettant l'accent sur les choix par specialite; la fréquence de la monothérapie (41%à l'entrée, 47,0% a la sortie) par rapport à la polythérapie; le degré de correspondance entre les doses prescrites et les doses prises par le patient (les patients tendent plus souvent à diminuer les doses qu'à les augmenter); l'observation des effets collatéraux. Tout en confirmant certains résultats d'études récentes, ce travail illustre la possibilite de mise au point d'un programme régulier de contrôle des résultats de l'ensemble d'un systeme sanitaire dans le traitement de l'épilepsie. RESUMEN Con el fin de determinar la penetración de la información clinica y clinicofarmacológica correcta en el ejercicio médico rutinario se ha realizado un análisis en 1104 pacientes ingresados en 27 de los 46 Departamentos de Neurologia (64.5%), Neurocirugia (23.0%) y Neurología Infantil (12.5%) de Lombardia, la región italiana más poblada (población: 9.000.000). Se muestra un detallado análisis y discusión de la información que se refiere a las razones que motivaron el ingreso hospitalario: ajuste terapeiitico (27.3%); certeza diagnostica (53.8%); caracteristicas de la en-fermedad (segiin la duracion, las manifestaciones clfnicas y patron de los ataques); procesos asociados; prevalencia y criterios para uso de procedimientos diagnosticos instrumentales (EEG, isotopos radiac-tivos, CAT, etc.); patron de las recetas de anticonvulsivos en el ingreso y en el aita con enfasis particular en la seleccion especifica de la medicacion segiin la especialidad; prevalencia de medicacion unica (41% en ingreso y 47.0% en alta) en relacion a politerapia; grado de correspondencia entre dosis re-comendadas y cumplidas (siendo el infratratamiento mas comiin que la sobredosis); registrar los efectos secundarios. Este trabajo, a la vez que confirma al-gunos de los datos que, en estudios recientes, documentan que es factible llevar a cabo un programa regular de auditoria sobre los resultados de sistemas sanitarios completes concernientes al tratamiento de la epilepsia. ZUSAMMENFASSUNG 1104 Patienten, die zu 27 von 46 neurologischen (64,5%), neurochirurgischen (23%) und kinderneuro-logischen (12,5%) Abteilungen der Lombardei, der größten italienischen Provinz (9 Millionen Einwohner) überwiesen wurden, wurden in dieser Übersicht zusammengefasst, deren Hauptanliegen die Feststel-lung der Weitergabe von korrekter Diagnose und klin-isch pharmakologischer Information in die Routine-praxis war. Es wird eine detaillierte Analyse und Dis-kussion der Griinde dargestellt, die zur Uberweisung in ein Krankenhaus führten: Therapeutische Einstel-lung 37,3%, die diagnostische Uberpriifung in 53,8%, Charakteristika der Erkrankung bezuglich Dauer, klinischer Manifestation, Art der Anfalle, assoziierte Erkrankungen; Prävalenz und Kriterien für den Ge-brauch von diagnostischen Hilfsmitteln wie EEG, Komputertomogramm usw.; Art der medikamentosen Behandlung bei Einweisung und bei Entlassung mit spezieller Beriicksichtigung von spezifischer Medi-kamentenwahl; Pravalenz von Monotherapie-Behand-lung (41% bei Aufnahme, 47% bei Entlassung) gegen Polytherapie; Ubereinstimmung zwischen empfohlener und tatsachlichen Medikamenteneinnahme, wobei Unterdosierung ein häufigeres Problem als Über-dosierung war; Bericht über Nebenwirkungen. Die Ergebnisse stimmen mit anderen Untersuchungen liberein, so daß dieser Bericht die Durchführbarkeit eines regulären Priifprogrammes für das Funktionieren eines Gesundheitssystems bei der Behandlung der Epilepsie dokumentiert.
+ER  - 
+
+TY  - JOUR
+AU  - Ongenaert, David
+AU  - Joye, Stijn
+TI  - Selling displaced people? A multi-method study of the public communication strategies of international refugee organisations
+JO  - Disasters
+JA  - Disasters
+VL  - 43
+IS  - 3
+SN  - 0361-3666
+UR  - https://doi.org/10.1111/disa.12353
+DO  - doi:10.1111/disa.12353
+SP  - 478
+EP  - 508
+KW  - critical discourse analysis
+KW  - cross-issue persuasion
+KW  - discursive regimes
+KW  - displaced people
+KW  - expert interviews
+KW  - public communication
+KW  - refugee organisations
+PY  - 2019
+AB  - The world has seen a major increase in forced displacement since 2011. As a growing number of states implement restrictive refugee policies, public communication has become essential for refugee organisations. This study analysed, therefore, three international refugee organisations? discursive strategies towards the recent Syrian crisis, as well as their production and the social context. A critical discourse analysis of international press releases (N=122) and six semi-structured interviews with press and regional officers revealed that the observed actors largely dehumanise displaced people and subordinate them to the ?Western self? and state interests; displaced people hardly ever acquire their own voice. The study found that the medium characteristics of press releases and the importance of media attention result in a depersonalising humanitarian discourse. In addition, there were indications of a post-humanitarian discourse that reproduced the humanitarian sector's ?marketisation?. Finally, the examined organisations use the political realist cross-issue persuasion strategy, displaying displaced people as resettlement objects.
+ER  - 
+
+TY  - JOUR
+AU  - Dewar, D. C.
+AU  - Balogh, Z.
+AU  - Mackay, P.
+TI  - TS18P POST INJURY MULTIPLE ORGAN FAILURE: THE AUSTRALIAN CONTEXT
+JO  - ANZ Journal of Surgery
+VL  - 77
+IS  - s1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/j.1445-2197.2007.04133_18.x
+DO  - doi:10.1111/j.1445-2197.2007.04133_18.x
+SP  - A96
+EP  - A97
+PY  - 2007
+AB  - Background? The epidemiology of post-injury multiple organ failure (MOF) is reported to go through changes during the last 15 years. The purpose of this study is to describe the epidemiology of post-injury MOF in Australia. Methods? A 12-month prospective epidemiological study was performed in a Major Trauma Service. Demographics, injury severity (ISS), physiological, MOF status and outcome data was prospectively collected on all trauma patients who met inclusion criteria (ICU admission; ISS?>?15; age?>?18, AIS head <3 and survival >48?hrs). MOF was defined by the Denver MOF score. Data are presented as % or Mean+/?SEM. Univariate statistical comparison was performed (Student t- and X-square tests), p?<?0.05 was considered significant. Results? Twenty-five patients met inclusion criteria (Age 39+/?5, ISS 27+/?3, Male 60%), three patients (12%) developed MOF. The maximum MOF score was 5.7 +/?1, with duration of 2.3+/?0.7 days. Two patients had respiratory and cardiac failure, while one patient had failure of respiratory, cardiac, hepatic and renal systems. All MOF patients survived. MOF patients tend to have longer ICU stays (18+/?5.5 vs 7+/?0.8 p?=?0.17), were older (54+/?17 vs 38+/?5 p?=?0.4). None of the previously described independent predictors (ISS, base deficit, lactate, transfusions) were different when the MOF patients were compared with the non-MOF patients. Conclusion? MOF is not as significant a cause of late trauma death as previously reported internationally. Our preliminary data challenges the timeliness of the 10-year-old independent predictors of post-injury MOF. The epidemiology, the clinical presentation and the independent predictors of post-injury MOF requires reassessment for the Australian context.
+ER  - 
+
+TY  - JOUR
+TI  - Young people with learning disabilities who sexually harm others: the role of criminal justice within a multi‐agency response
+JO  - British Journal of Learning Disabilities
+VL  - 35
+IS  - 3
+SN  - 1354-4187
+UR  - https://doi.org/10.1111/j.1468-3156.2007.00457.x
+DO  - doi:10.1111/j.1468-3156.2007.00457.x
+SP  - 181
+EP  - 186
+PY  - 2007
+ER  - 

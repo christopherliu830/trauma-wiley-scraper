@@ -1,0 +1,354 @@
+
+TY  - JOUR
+AU  - DEVARAJAN, PRASAD
+TI  - Review: Neutrophil gelatinase-associated lipocalin: A troponin-like biomarker for human acute kidney injury
+JO  - Nephrology
+VL  - 15
+IS  - 4
+SN  - 1320-5358
+UR  - https://doi.org/10.1111/j.1440-1797.2010.01317.x
+DO  - doi:10.1111/j.1440-1797.2010.01317.x
+SP  - 419
+EP  - 428
+KW  - acute kidney injury
+KW  - acute renal failure
+KW  - biomarkers
+KW  - neutrophil gelatinase-associated lipocalin
+KW  - nephrotoxicity
+KW  - predictive medicine
+PY  - 2010
+AB  - ABSTRACT Acute kidney injury (AKI) is a common and serious condition, the diagnosis of which currently depends on functional markers such as serum creatinine measurements. Unfortunately, creatinine is a delayed and unreliable indicator of AKI. The lack of early biomarkers of structural kidney injury (akin to troponin in acute myocardial injury) has hampered our ability to translate promising experimental therapies to human AKI. Fortunately, understanding the early stress response of the kidney to acute injuries has revealed a number of potential biomarkers. The discovery, translation and validation of neutrophil gelatinase-associated lipocalin (NGAL), possibly the most promising novel AKI biomarker, is reviewed. NGAL is emerging as an excellent stand-alone troponin-like structural biomarker in the plasma and urine for the early diagnosis of AKI, and for the prediction of clinical outcomes such as dialysis requirement and mortality in several common clinical scenarios. The approach of using NGAL as a trigger to initiate and monitor therapies for AKI, and as a safety biomarker when using potentially nephrotoxic agents, is also promising. In addition, it is hoped that the use of sensitive and specific biomarkers such as NGAL as endpoints in clinical trials will result in a reduction in required sample sizes, and hence the cost incurred. Furthermore, predictive biomarkers like NGAL may play a critical role in expediting the drug development process. However, given the complexity of AKI, additional biomarkers (perhaps a panel of plasma and urinary biomarkers) may eventually need to be developed and validated for optimal progress to occur.
+ER  - 
+
+TY  - JOUR
+AU  - König, Maya
+AU  - Nentwig, Alice
+AU  - Marti, Eliane
+AU  - Mirkovitch, Jelena
+AU  - Adamik, Katja-Nicole
+AU  - Schuller, Simone
+TI  - Evaluation of plasma angiopoietin-2 and vascular endothelial growth factor in healthy dogs and dogs with systemic inflammatory response syndrome or sepsis
+JO  - Journal of Veterinary Internal Medicine
+JA  - J Vet Intern Med
+VL  - 33
+IS  - 2
+SN  - 0891-6640
+UR  - https://doi.org/10.1111/jvim.15369
+DO  - doi:10.1111/jvim.15369
+SP  - 569
+EP  - 577
+KW  - APPLEfast score
+KW  - biomarker
+KW  - canine
+KW  - inflammation
+KW  - outcome
+KW  - prognostic
+PY  - 2019
+AB  - Background Angiopoietin-2 (Ang-2) and vascular endothelial growth factor (VEGF) are regulators of endothelial permeability. Objective Plasma concentrations of Ang-2 and VEGF are increased in dogs with systemic inflammatory response syndrome (SIRS) and sepsis and are correlated with disease severity and outcome. Animals Healthy dogs (n?=?18) and client-owned dogs with SIRS (n?=?34) or sepsis (n?=?25). Methods Prospective observational study. Ang-2 and VEGF concentrations in admission plasma samples were compared between healthy dogs and dogs with SIRS or sepsis, and between survivors and non-survivors. Correlations with the acute patient physiologic and laboratory evaluation (APPLEfast) disease severity score were examined. Results Median Ang-2 was significantly higher in dogs with SIRS (19.3; interquartile range [IQR]: 8.6-25.7?ng/mL) and sepsis (21.2; IQR: 10.3-30.1?ng/mL) compared to healthy dogs (7.6; IQR: 6.7-9.8?ng/mL). Ang-2 was significantly higher in non-survivors (24.1; IQR: 11.9-50.0?ng/mL) than survivors (10.2; IQR: 7.2-21.5?ng/mL) but did not correlate with the APPLEfast score. Admission Ang-2 predicted negative outcome in dogs with SIRS and sepsis with reasonable accuracy (area under the curve [AUC]: 0.75, confidence interval [CI]: 0.59-0.85; sensitivity: 0.5, CI: 0.29-0.71; specificity: 0.87, CI: 0.75-0.95); differentiation between sepsis and SIRS was poor (AUC: 0.58). Plasma VEGF was significantly higher in dogs with sepsis (45; IQR: 14-107.5?pg/mL) than in dogs with SIRS (3.3; IQR: 0-35.6?pg/mL) or healthy dogs (0; IQR: 0?pg/mL; P =?0.008). VEGF was significantly (P =?.0004) higher in non-survivors (34.5; IQR: 0-105.7?pg/mL) than in survivors (0; IQR: 0-55.2?pg/mL). The ability of VEGF to predict a negative outcome was poor. Conclusions and Clinical Importance Ang-2 may represent a useful additional prognostic marker in dogs with SIRS.
+ER  - 
+
+TY  - JOUR
+TI  - ASBMR 27th Annual Meeting SU001–SU527
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 20
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.5650201305
+DO  - doi:10.1002/jbmr.5650201305
+SP  - S190
+EP  - S313
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - Poster Session 4: Portal Hypertension - Experimental
+JO  - Hepatology
+JA  - Hepatology
+VL  - 62
+IS  - S1
+SN  - 0270-9139
+UR  - https://doi.org/10.1002/hep.28242
+DO  - doi:10.1002/hep.28242
+SP  - 1181A
+EP  - 1195A
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - ASBMR 27th Annual Meeting F002–F524
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 20
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.5650201303
+DO  - doi:10.1002/jbmr.5650201303
+SP  - S59
+EP  - S105
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+AU  - da Silva, S
+AU  - Hennebert, N
+AU  - Denis, R
+AU  - Wayenberg, J-L
+TI  - Clinical value of a single postnatal lactate measurement after intrapartum asphyxia
+JO  - Acta Paediatrica
+VL  - 89
+IS  - 3
+SN  - 0803-5253
+UR  - https://doi.org/10.1111/j.1651-2227.2000.tb01334.x
+DO  - doi:10.1111/j.1651-2227.2000.tb01334.x
+SP  - 320
+EP  - 323
+KW  - Asphyxia neonatorum
+KW  - hypoxic-ischaemic encephalopathy
+KW  - lactate
+KW  - metabolic acidosis
+PY  - 2000
+AB  - Our aim was to compare the respective values of base deficit and lactate in birth asphyxia. Methods: Base deficit and lactate levels were measured from radial artery blood samples taken at 30min of life in 115 term newborns suspected as having been asphyxiated during labour. Both base deficit and lactate levels were compared between patients who further developed moderate or severe encephalopathy and those who experienced no or only mild encephalopathy. Receiver operating characteristics curves and clinical values of both indicators were computed. Results: The correlation between base deficit and lactate was significant (r2= 0.51, p < 0.0001). Both indicators were significantly associated with neonatal outcome. Lactacidaemia lower than 5 mmol/l and/or base deficit level lower than 10 mEq/l were not followed by neurological complications. Plasma lactate concentration greater than 9 mmol/l was associated with moderate or severe encephalopathy with a sensitivity of 84% and a specificity of 67%. Base deficit and lactate had similar clinical values. Conclusions: Base deficit and lactate measurements in arterial blood at 30 min of life are equally valuable in assessing the severity of birth asphyxia.
+ER  - 
+
+TY  - JOUR
+AU  - Ogata, Kenichi
+AU  - Matsumura, Mayu
+AU  - Moriyama, Masafumi
+AU  - Katagiri, Wataru
+AU  - Hibi, Hideharu
+AU  - Nakamura, Seiji
+TI  - Cytokine Mixtures Mimicking Secretomes From Mesenchymal Stem Cells Improve Medication-Related Osteonecrosis of the Jaw in a Rat Model
+JO  - JBMR Plus
+JA  - JBMR Plus
+VL  - 2
+IS  - 2
+SN  - 2475-0328
+UR  - https://doi.org/10.1002/jbm4.10013
+DO  - doi:10.1002/jbm4.10013
+SP  - 69
+EP  - 80
+KW  - MEDICATION-RELATED OSTEONECROSIS OF THE JAW
+KW  - SECRETOME
+KW  - CYTOKINE
+KW  - OSTEOGENESIS
+KW  - CELL MIGRATION
+PY  - 2018
+AB  - ABSTRACT Recently, several studies have demonstrated that intravenous administration of mesenchymal stem cells (MSCs) improve medication-related osteonecrosis of the jaw (MRONJ), and paracrine effects of secretomes from MSCs have been hypothesized as the primary contributors. These secretomes in conditioned media from human MSCs (MSC-CM) were previously demonstrated to promote bone and tissue regeneration. Because MSC-CM contain cytokines monocyte chemoattractant protein (MCP)-1, insulin growth factor (IGF)-1, and vascular endothelial growth factor (VEGF) at relatively higher concentrations than other factors, these cytokines were considered as relevant active factors for tissue regeneration. By mixing the recombinant proteins of MCP-1, IGF-1, and VEGF, included at the same concentrations in MSC-CM, we prepared cytokine mixtures mimicking MSC-CM and then evaluated its therapeutic effects in a rat MRONJ model. In vitro, cytokine mixtures promoted osteogenic differentiation, migration, and proliferation of rat MSCs. In addition, these maintained osteoclastic function. In vivo, we used a rat MRONJ model to examine therapeutic effects of the cytokine mixtures through intravenous administration. In MSC-CM or cytokine mixture group, open alveolar sockets in 66% or 67% of the rats with MRONJ, respectively, healed with complete soft tissue coverage and socket bones, whereas in the other groups, the exposed necrotic bone with inflamed soft tissue remained. Histological analysis revealed new bone formation and the appearance of osteoclasts in MSC-CM or cytokine mixture group; however, osteoclasts were significantly reduced in the other groups. Thus, we concluded that intravenous administration of cytokine mixtures might be an effective therapeutic modality for treating patients with MRONJ. ? 2017 The Authors JBMR Plus published by Wiley Periodicals, Inc. on behalf of American Society for Bone and Mineral Research
+ER  - 
+
+TY  - JOUR
+TI  - Sunday 24 April 2016
+JO  - Journal of Medical Radiation Sciences
+JA  - J Med Radiat Sci
+VL  - 63
+IS  - S1
+SN  - 2051-3895
+UR  - https://doi.org/10.1002/jmrs.2_166
+DO  - doi:10.1002/jmrs.2_166
+SP  - 85
+EP  - 104
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+AU  - Chang, Yu-Chen
+AU  - ChenSea, Mei-Jin
+AU  - Jang, Yuh
+AU  - Wang, Jung-Der
+TI  - A simple self-rating assessment method of residual work capability for occupational permanent disabilities
+JO  - American Journal of Industrial Medicine
+JA  - Am. J. Ind. Med.
+VL  - 38
+IS  - 5
+SN  - 0271-3586
+UR  - https://doi.org/10.1002/1097-0274(200011)38:5<539::AID-AJIM6>3.0.CO;2-M
+DO  - doi:10.1002/1097-0274(200011)38:5<539::AID-AJIM6>3.0.CO;2-M
+SP  - 539
+EP  - 547
+KW  - work capability
+KW  - occupational injury
+KW  - occupational rehabilitation
+PY  - 2000
+AB  - Abstract Background To explore the validity, reliability, and determinants of a simple self-rating assessment method of residual work capability (RWC) after occupational permanent disabilities. Methods Five hundred and thirty-nine compensated permanent disability workers answered three consecutive visual analogue questionnaires wherein they self-rated their residual work capability in terms of speed (RWCS), quality (RWCQ) and a combination of speed and quality (RWCC). At two major hospitals in Taiwan, 169 of these subjects were evaluated with physical capacity assessment (PCA), cognition and sensation assessment (CSA), the work ability index (WAI), and the 12-item Chinese health questionnaire (CHQ-12). Results High test?retest reliability (Pearson's correlation coefficient 0.77) and satisfactory concurrent validity were shown for RWCS and RWCC. All PCA, CSA and WAI showed significant correlation with RWCs, while CHQ-12 displayed borderline correlation. Employment status after injury and status of the victim's salary as the main source of income for his/her family before injury, were the major determinants of RWCs, in addition to the scales of PCA, CSA and WAI. Conclusions The RWCC resulting from the self-rating method may be used as a simple assessment of a victim's residual work capability after occupational permanent disabilities. Am. J. Ind. Med. 38:539?547, 2000. ? 2000 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+TI  - 2006 Abstracts: Twenty-Eighth Annual Meeting of the American Society for Bone and Mineral Research: Pennsylvania Convention Convention Center Philadelphia, Pennsylvania, USA, September 15–19, 2006
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 21
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.5650211403
+DO  - doi:10.1002/jbmr.5650211403
+SP  - S52
+EP  - S101
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+AU  - Hilal, Moh’d Abu
+AU  - Ung, C Tsiang
+AU  - Westlake, Sarah
+AU  - Johnson, Colin D
+TI  - Carboxypeptidase-B activation peptide, a marker of pancreatic acinar injury, but not l-selectin, a marker of neutrophil activation, predicts severity of acute pancreatitis
+JO  - Journal of Gastroenterology and Hepatology
+VL  - 22
+IS  - 3
+SN  - 0815-9319
+UR  - https://doi.org/10.1111/j.1440-1746.2006.04550.x
+DO  - doi:10.1111/j.1440-1746.2006.04550.x
+SP  - 349
+EP  - 354
+KW  - carboxypeptidase B
+KW  - l-selectin
+KW  - pancreatitis
+KW  - severity markers
+PY  - 2007
+AB  - Abstract Background:? Severity prediction is difficult early in the course of acute pancreatitis. Markers of pancreatic injury, or inflammatory activation are candidate markers of severity. The aim of the present study was to assess predictive abilities of carboxypeptidase-B activation peptide (CAPAP-B) and soluble l-selectin (sL-selectin) using samples collected on admission to hospital. Methods:? Patients with acute pancreatitis and disease (acute abdomen) and normal controls were studied. Samples were collected at admission and daily for 5?days. There were significant differences between mild and severe pancreatitis in urinary and plasma CAPAP-B on admission, C-reactive protein on day 3 and acute physiology and chronic health evaluation (APACHE)-II scores. Prediction of severity with CAPAP-B on admission was as good as with APACHE-II score after 48?h. Carboxypeptidase-B activation peptide was not raised in disease controls. By contrast, sL-selectin was lowered in all cases of acute pancreatitis, and in disease controls. There was no difference between mild and severe pancreatitis. Conclusion:? Urinary CAPAP-B, a marker of acinar injury, can be used to predict severity of acute pancreatitis at the time of admission to hospital, but sL-selectin has no value in this regard. The extent of acinar injury may be a more important early marker of severity than markers of inflammatory activation.
+ER  - 
+
+TY  - JOUR
+TI  - 2009 Society for Academic Emergency Medicine (SAEM) Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+VL  - 16
+IS  - s1
+SN  - 1069-6563
+UR  - https://doi.org/10.1111/j.1553-2712.2009.00391.x
+DO  - doi:10.1111/j.1553-2712.2009.00391.x
+SP  - S5
+EP  - S273
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+AU  - Schopka, Simon
+AU  - Philipp, Alois
+AU  - Müller, Thomas
+AU  - Lubnow, Matthias
+AU  - Lunz, Dirk
+AU  - Unterbuchner, Christoph
+AU  - Rupprecht, Leopold
+AU  - Keyser, Andreas
+AU  - Schmid, Christof
+TI  - The impact of interleukin serum levels on the prognosis of patients undergoing venoarterial extracorporeal membrane oxygenation
+JO  - Artificial Organs
+JA  - Artif Organs
+VL  - n/a
+IS  - n/a
+SN  - 0160-564X
+UR  - https://doi.org/10.1111/aor.13666
+DO  - doi:10.1111/aor.13666
+KW  - cardiac failure
+KW  - extracorporeal life support
+KW  - intensive care
+KW  - resuscitation
+AB  - Abstract Objective Extracorporeal life support is increasingly used in the treatment of patients presenting with cardiogenic shock or in need of cardiopulmonary resuscitation. Identifying therapeutic targets and factors associated with the prognosis are highly desirable. The present study analysed the impact of interleukins 6 and 8 on the outcome of patients undergoing VA ECMO. Methods Interleukin 6 and 8 serum levels of 329 patients were analysed prior to, on day 1 and 5 of VA ECMO therapy. IL 6 and 8 serum levels of surviving and non-surviving patients were compared. At time points with significant differences, receiver operating characteristics and cut-off levels were analysed to determine the prognostic value of interleukin serum levels. Survival analysis was performed to compare patients above and below cut-off levels. Results Interleukin 6 serum levels were significantly elevated in non-surviving patients prior to VA ECMO initiation. Interleukin 6 and 8 serum levels in non-surviving patients were significantly elevated on day 1 of VA ECMO. Receiver operating characteristics analysis revealed significant prognostic impact of interleukins 6 and 8 on day 1 of VA ECMO (AUC 0.70 and 0.72). Survival analysis comparing patients above and below cut-off showed a 1 year survival of 32.6% for IL6 and 20.8% for IL8 above, as well as 66.9% for IL6 and 61.9% for IL8 below the cut-off (p<0.05). Conclusion Interleukin 6 and 8 serum levels demonstrated prognostic value early in VA ECMO therapy. The technical applicability of interleukin reduction raises interest in interleukin 6 and 8 as therapeutic targets.
+ER  - 
+
+TY  - JOUR
+TI  - ASBMR 25th Annual Meeting SU001–SU482
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 18
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.5650181305
+DO  - doi:10.1002/jbmr.5650181305
+SP  - S175
+EP  - S285
+PY  - 2003
+ER  - 
+
+C7  - pp. 481-517
+TI  - References
+SN  - 9780470183144
+UR  - https://doi.org/10.1002/9780470906514.refs
+DO  - doi:10.1002/9780470906514.refs
+SP  - 481-517
+PY  - 2003
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Neurourology and Urodynamics
+JA  - Neurourology and Urodynamics
+VL  - 37
+IS  - S3
+SN  - 9780470183144
+UR  - https://doi.org/10.1002/nau.23706
+DO  - doi:10.1002/nau.23706
+SP  - S4
+EP  - S79
+PY  - 2018
+ER  - 
+
+AU  - Frick, Paul J.
+AU  - Cornell, Amy H.
+C7  - pp. 262-283
+TI  - Child and Adolescent Assessment and Diagnosis Research
+SN  - 9780631226734
+UR  - https://doi.org/10.1002/9780470756980.ch13
+DO  - doi:10.1002/9780470756980.ch13
+SP  - 262-283
+KW  - diagnosis research
+KW  - clinical psychology
+KW  - validation process
+KW  - predictive utility estimates
+KW  - adolescents
+PY  - 2018
+AB  - Summary This chapter contains sections titled: Introduction Important Psychometric Issues Issues in Interpreting Comprehensive Batteries Conclusions
+ER  - 
+
+TY  - JOUR
+TI  - Friday 22 April 2016
+JO  - Journal of Medical Radiation Sciences
+JA  - J Med Radiat Sci
+VL  - 63
+IS  - S1
+SN  - 9780631226734
+UR  - https://doi.org/10.1002/jmrs.166
+DO  - doi:10.1002/jmrs.166
+SP  - 3
+EP  - 44
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - Posters
+JO  - Acta Anaesthesiologica Scandinavica
+JA  - Acta Anaesthesiol Scand
+VL  - 57
+IS  - S120
+SN  - 9780631226734
+UR  - https://doi.org/10.1111/aas.12153
+DO  - doi:10.1111/aas.12153
+SP  - 4
+EP  - 37
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+AU  - King, Lesley G.
+AU  - Stevens, Martha T.
+AU  - Ostro, Ernest N. So.
+AU  - Diserens, Deborah
+AU  - Ravi Shankar, J.
+TI  - A Model For Prediction Of Survival In Critically III Dogs
+JO  - Journal of Veterinary Emergency and Critical Care
+VL  - 4
+IS  - 2
+SN  - 9780631226734
+UR  - https://doi.org/10.1111/j.1476-4431.1994.tb00119.x
+DO  - doi:10.1111/j.1476-4431.1994.tb00119.x
+SP  - 85
+EP  - 99
+KW  - Key words
+KW  - Prediction
+KW  - survival
+KW  - dog
+KW  - outcome
+PY  - 1994
+AB  - Summary A system was developed for objective prediction of survival, which could be applied to all critically ill patients, regardless of disease, at an early stage of hospitaluation. Such a system would allow risk assessment of groups for experimental studies according to probability of survival and it might allow us to avoid expenditure of scarce clinical resources on animals with little chance of survival. The prospective study included 200 critically ill dogs: 93 females and 107 males, representing 62 breeds. With survival defined as alive 30 days after admisssion to ICU the overall mortality rate was 40.5% (81 of 200 dogs). Data collected included signalment and parameters that reflected vital organ function, the severity of physiologic derangement and the extent of physiologic reserve. We recorded the most abnormal value for each parameter within 24 hours of admission to ICU and logistic regression analysis was used to analyze four different weighting systems. The best model had a concordance 0f 86.5% with outcome, and it was then re-evaluated to determine whether individual variables could be eliminated without losing predictive accuracy. Fourvariables were eliminated, resulting in a final model with 18 variables which had 86.3% concordance with outcome. At a 0.5 cut-off for predicted risk, the model had sensitivity Of 69%, specificity ficity of 86% and positive predictive value of 77%. A Receiver Operating Curve was constructed using serial cut-offs for predicted outcome from 0.1 to 0.9, and the area under the curve was 0.89. Thus, an equation was generated that gives an estimate of the probability of survival.
+ER  - 

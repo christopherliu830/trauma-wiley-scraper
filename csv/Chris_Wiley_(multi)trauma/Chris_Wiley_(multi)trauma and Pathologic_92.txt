@@ -1,0 +1,394 @@
+
+TY  - JOUR
+AU  - Zhang, Weisan
+AU  - Zhang, Qiang
+AU  - Zhang, Mingpeng
+AU  - Zhang, Yun
+AU  - Li, Fengtan
+AU  - Lei, Ping
+TI  - Network analysis in the identification of special mechanisms between small cell lung cancer and non-small cell lung cancer
+JO  - Thoracic Cancer
+JA  - Thoracic Cancer
+VL  - 5
+IS  - 6
+SN  - 1759-7706
+UR  - https://doi.org/10.1111/1759-7714.12134
+DO  - doi:10.1111/1759-7714.12134
+SP  - 556
+EP  - 564
+KW  - Bioinformatics
+KW  - lung cancer
+KW  - pathology
+PY  - 2014
+AB  - Abstract Background To explore the similar and different pathogenesis between non-small cell lung cancer (NSCLC) and small cell lung cancer (SCLC). Methods This study used bioinformatics methods, including functional enrichment analysis, compared the topological features of SCLC and NSCLC in the human protein interaction network in a system aspect, and analyzed the highly intense modules from an integrated network. Results This study included 5082 and 2781 significantly different expression genes for NSCLC and SCLC, respectively. The differently expressed genes of NSCLC are mainly distributed in the extracellular region and synapse. By contrast, the genes of SCLC are located in the organelle, macromolecular complex, membrane-enclosed lumen, cell part, envelope, and synapse. Compared with SCLC, the differently expressed genes of NSCLC act in the biological regulation, multicellular organismal process, and viral reproduction and locomotion, which show that NSCLC is more likely to cause a wide range of cancer cell proliferation and virus infection than SCLC. The network topological properties of SCLC and NSCLC are similar, except the average shortest path length, which indicates that most of the genes of the two lung cancers play a similar function in the entire body. The commonly expressed genes show that all of the genes in the module may also cause NSCLC and SCLC, simultaneously. Conclusions The proteins in module will involve the same or similar biological functions and the interactions among them induce the occurrence of lung cancer. Moreover, a potential biomarker of SCLC is the interaction between APIP and apoptotic protease activating factor (APAF)1, which share a common module.
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Presentation Abstracts: 2016 ACVS Surgery Summit, October 6–8, Seattle, Washington
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 45
+IS  - 6
+SN  - 0161-3499
+UR  - https://doi.org/10.1111/vsu.12522
+DO  - doi:10.1111/vsu.12522
+SP  - E23
+EP  - E51
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+AU  - Brünisholz, Hervé P.
+AU  - Hagen, Regine
+AU  - Fürst, Anton E.
+AU  - Kuemmerle, Jan M.
+TI  - Radiographic and Computed Tomographic Configuration of Incomplete Proximal Fractures of the Proximal Phalanx in Horses Not Used for Racing
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 44
+IS  - 7
+SN  - 0161-3499
+UR  - https://doi.org/10.1111/vsu.12364
+DO  - doi:10.1111/vsu.12364
+SP  - 809
+EP  - 815
+PY  - 2015
+AB  - Objective To characterize the configuration of incomplete proximal fractures of the proximal phalanx (P1) in horses not used for racing and compare radiographic with computed tomography (CT) findings. Study Design Historical cohort. Animals Twenty-four horses with incomplete fractures of P1. Methods Medical records of horses not used for racing diagnosed with an incomplete proximal fracture of P1 based on clinical and radiographic examination and confirmed by CT between 2008 and 2013 were retrieved. Radiographs and CT studies of these horses were analyzed using a subjective grading system and by measuring variables that characterized fracture configuration. Results Twenty-four horses were included (20 Warmbloods) with a mean age of 9.5 years and mean body weight of 574?kg. Fourteen forelimbs and 10 hind limbs were affected. Mean duration of lameness was 8.7 weeks. Computed tomography was superior to radiography in both identifying the fracture and determining fracture size and location. On CT, 92% of fractures were located in the mid-sagittal plane. Mean proximodistal length of the fracture was 13?mm. Fractures were frequently not bicortical. Fractures in forelimbs were located significantly more dorsally than fractures in hind limbs. A distinct fracture pattern with 2 subchondral lines running parallel in close proximity to each other was identified in 54% of cases. Conclusion Incomplete proximal fractures of P1 have significant variation in their configurations, especially their dorsopalmar/-plantar location. Computed tomography examination allowed clear identification of the fracture configurations and was superior to radiography.
+ER  - 
+
+AU  - Jiménez-Yuste, Victor
+AU  - Rodríguez-Merchán, Emérito-Carlos
+AU  - Alvarez-Román, Maria-Teresa
+AU  - Martín-Salces, Mónica
+C7  - pp. 27-29
+TI  - Prophylaxis in Adults with Hemophilia
+SN  - 9780470670576
+UR  - https://doi.org/10.1002/9781119979401.ch6
+DO  - doi:10.1002/9781119979401.ch6
+SP  - 27-29
+KW  - hemophilia
+KW  - prophylaxis
+KW  - adults
+KW  - arthropathy
+KW  - compliance
+PY  - 2015
+AB  - Summary Joint hemorrhage is the most common manifestation of severe hemophilia and predisposes to arthropathy. The main goal of replacement therapy is to prevent this pathology. Although on-demand treatment can slow the progression of arthropathy, it does not seem to prevent it. Nevertheless, prophylaxis has been shown to be superior to aggressive (enhanced), episode-based therapy in preventing joint damage in boys. Primary prophylaxis is the standard of care for children in many countries and use of prophylaxis is becoming more common in adults. Some patients may continue routine prophylaxis after adolescence, or they may use intermittent prophylaxis for sporting activities and activities with potential risk for trauma or may start prophylaxis later in life. However, there is a lack of evidence-based recommendations for the use of prophylaxis in adults.
+ER  - 
+
+TY  - JOUR
+AU  - Beltran, E.
+AU  - Shelton, G. D.
+AU  - Guo, L. T.
+AU  - Dennis, R.
+AU  - Sanchez-Masian, D.
+AU  - Robinson, D.
+AU  - De Risio, L.
+TI  - Dystrophin-deficient muscular dystrophy in a Norfolk terrier
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 56
+IS  - 5
+SN  - 9780470670576
+UR  - https://doi.org/10.1111/jsap.12292
+DO  - doi:10.1111/jsap.12292
+SP  - 351
+EP  - 354
+PY  - 2015
+AB  - A six-month-old male entire Norfolk terrier was presented with a 3-month history of poor development, reluctance to exercise and progressive and diffuse muscle atrophy. Serum creatine kinase concentration was markedly elevated. Magnetic resonance imaging of the epaxial muscles revealed asymmetrical streaky signal changes aligned within the muscle fibres (hyperintense on T2-weighted images and short-tau inversion recovery with moderate contrast enhancement on T1-weighted images). Electromyography revealed pseudomyotonic discharges and fibrillation potentials localised at the level of the supraspinatus, epaxial muscles and tibial cranialis muscles. Muscle biopsy results were consistent with dystrophin-deficient muscular dystrophy. The dog remained stable 7 months after diagnosis with coenzyme Q10 and l-carnitine; however after that time, there was a marked deterioration and the owners elected euthanasia. This case report describes the clinical presentation, magnetic resonance imaging, electrodiagnostic and histopathological findings with immunohistochemical analysis in a Norfolk terrier with confirmed dystrophin-deficient muscular dystrophy, which has not been previously described in this breed.
+ER  - 
+
+TY  - JOUR
+AU  - Johnson, K. A.
+AU  - Cooley, A. J.
+AU  - Muir, P.
+AU  - Enkevort, B. A. Van
+TI  - Maxillary central giant cell granuloma in a dog
+JO  - Journal of Small Animal Practice
+VL  - 35
+IS  - 8
+SN  - 9780470670576
+UR  - https://doi.org/10.1111/j.1748-5827.1994.tb03872.x
+DO  - doi:10.1111/j.1748-5827.1994.tb03872.x
+SP  - 427
+EP  - 430
+PY  - 1994
+AB  - ABSTRACT A young labrador dog had a rapidly enlarging osteolytic lesion of the left maxillary bone. The histological diagnosis was central giant cell granuloma. This is a benign, non-neoplastic lesion that has some radiographic and histological similarities to malignant bone tumours of this region. The importance of biopsy in making the diagnosis is emphasised because surgical treatment of central giant cell granuloma by resection or curettage usually resolves these lesions.
+ER  - 
+
+TY  - JOUR
+AU  - Fuchs, J.
+AU  - Moritz, A.
+AU  - Grußendorf, E.
+AU  - Lechner, J.
+AU  - Neuerer, F.
+AU  - Nickel, R.
+AU  - Rieker, T.
+AU  - Schwedes, C.
+AU  - DeNicola, D. B.
+AU  - Russell, J.
+AU  - Bauer, N.
+TI  - Reticulocytosis in non-anaemic cats and dogs
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 59
+IS  - 8
+SN  - 9780470670576
+UR  - https://doi.org/10.1111/jsap.12831
+DO  - doi:10.1111/jsap.12831
+SP  - 480
+EP  - 489
+PY  - 2018
+AB  - Objective To evaluate the proportion of blood samples diagnosed with reticulocytosis without anaemia in cats and dogs and report the aetiology and mortality rate of affected animals. Materials and Methods Retrospective multicentre study including haematological examination of 3956 cats and 11,087 dogs admitted to seven German veterinary clinics (2012 to 2014). The proportion of blood samples with reticulocytosis without anaemia was calculated, and after exclusion of multiple measurements of the same animal, clinical data were evaluated. Animals with reticulocytosis without anaemia were classified as healthy or diseased, and diseased patients were assigned to 12 disease groups. Pretreatment (i.e. non-steroidal anti-inflammatory drugs, glucocorticoids, dipyrone) was recorded. Results The proportion of blood samples with reticulocytosis without anaemia was 3·1% (124/3956) in cats and 4·4% (492/11,087) in dogs. Overall, 1·8% (2/111) of cats and 1·5% (7/458) of dogs with reticulocytosis without anaemia were healthy. Blood loss/anaemia, cardiac/respiratory disorders, gastrointestinal disorders and inflammatory disorders as well as cancer were the most frequent underlying diseases. Pretreatment was noted in 39·5% (43/111) of cats and 42·4% (194/458) of dogs. The mortality rate was 37·8% (42/111) in cats and 29·7% (136/458) in dogs with reticulocytosis without anaemia; the median survival time in non-survivors was 1 day (range: 0 to 376 days in cats, 0 to 444 days in dogs). Clinical Significance In both species, reticulocytosis without anaemia was observed in a low proportion of blood samples (dogs>cat). Though a bias towards sick animals is possible in our sample, reticulocytosis without anaemia was mainly seen in diseased animals and associated with a mortality rate of approximately one-third of patients.
+ER  - 
+
+AU  - Fleminger, Simon
+C7  - pp. 165-279
+TI  - Head Injury
+SN  - 9781405118606
+UR  - https://doi.org/10.1002/9781444316803.ch4
+DO  - doi:10.1002/9781444316803.ch4
+SP  - 165-279
+KW  - specific disorders
+KW  - head injury and loss of consciousness and coma
+KW  - electroencephalogram after head injury
+KW  - neuroimaging and head injury
+KW  - confabulation and reduplicative paramnesia
+KW  - Glasgow Coma Scale (GCS)
+KW  - focal cognitive impairment
+KW  - whiplash injury - unexpected jolt to body
+KW  - sexuality, social adaptation and effects on family
+PY  - 2018
+AB  - Summary This chapter contains sections titled: Pathology and pathophysiology Acute effects of head injury Measuring head injury severity Chronic sequelae of head injury Categories of post-traumatic psychiatric disorder Whiplash injuries Head injuries in sport Helmets and headgear Head injury in childhood Medicolegal considerations Rehabilitation and psychological therapies Pharmacotherapy Acknowledgements References
+ER  - 
+
+AU  - Palm, Erin
+AU  - Inaba, Kenji
+C7  - pp. 109-119
+TI  - Transfusion, Hemostasis, and Coagulation
+SN  - 9781119317920
+UR  - https://doi.org/10.1002/9781119317913.ch11
+DO  - doi:10.1002/9781119317913.ch11
+SP  - 109-119
+KW  - disseminated intravascular coagulation
+KW  - fresh frozen plasma
+KW  - hemostasis
+KW  - massive transfusion
+KW  - packed red blood cell
+KW  - platelets
+KW  - respiratory complications
+PY  - 2018
+AB  - Summary This is a unique question-and-answer chapter for surgical residents and trainees, concentrating on the transfusion, hemostasis, and coagulation. In patients receiving massive transfusion, studies show a survival advantage in patients who received a high ratio of fresh frozen plasma (FFP) to packed red blood cell (PRBC) during initial resuscitation. Studies originating from the military and civilian experience found that the optimal ratio of FFP:PRBC transfusion may be as high as 1:1. A prospective, randomized controlled trial comparing a transfusion ratio of 1:1:1 FFP:platelet:PRBC versus a 1:1:2 ratio demonstrated improved hemostasis and fewer deaths from hemorrhage by 24 hours in the 1:1:1 group. There was no increase in respiratory complications in the 1:1:1 group, despite prior retrospective associations between increased FFP transfusion and acute respiratory distress syndrome (ARDS). Disseminated intravascular coagulation (DIC) is characterized by widespread microvascular thrombosis with activation of the coagulation system and impaired protein synthesis, leading to exhaustion of clotting factors and platelets.
+ER  - 
+
+C7  - pp. i-xxvi
+TI  - Front Matter
+SN  - 9780470974131
+UR  - https://doi.org/10.1002/9781119943242.fmatter
+DO  - doi:10.1002/9781119943242.fmatter
+SP  - i-xxvi
+PY  - 2018
+AB  - Summary The prelims comprise: Half-Title Page Title Page Copyright Page Table of Contents About the Editors List of Contributors
+ER  - 
+
+TY  - JOUR
+AU  - HEIM, M. 
+AU  - AZARIA, M. 
+AU  - HEIJNEN, L. 
+TI  - Lower limb prosthetic considerations in persons with coagulopathies
+JO  - Haemophilia
+VL  - 3
+IS  - 2
+SN  - 9780470974131
+UR  - https://doi.org/10.1046/j.1365-2516.1997.00052.x
+DO  - doi:10.1046/j.1365-2516.1997.00052.x
+SP  - 87
+EP  - 89
+KW  - artificial limb usage
+KW  - coagulopathies.
+PY  - 1997
+AB  - Most able-bodied amputees use artificial limbs for ambulation. Special considerations are required for persons with coagulopathies because excess pressure or friction may result in soft-tissue haemorrhages. Persons with haemophilia have multi-articular pathologies, hence the necessity to consider carefully the use of accessory walking aids. The use of walking aids results in biomechanical forces being applied through the upper limb joints and this may cause haemarthroses.
+ER  - 
+
+TY  - JOUR
+AU  - Lin, Sze-Kwan
+AU  - How, Shu-Wen
+AU  - Wang, Jeng-Tzung
+AU  - Liu, Bu-Yuan
+AU  - Chiang, Chun-Pin
+TI  - Oral post-radiation malignant fibrous histiocytoma: a clinicopathological study
+JO  - Journal of Oral Pathology & Medicine
+VL  - 23
+IS  - 7
+SN  - 9780470974131
+UR  - https://doi.org/10.1111/j.1600-0714.1994.tb00069.x
+DO  - doi:10.1111/j.1600-0714.1994.tb00069.x
+SP  - 324
+EP  - 329
+KW  - malignant fibrous histiocytoma
+KW  - oral cavity
+KW  - post-radiation sarcoma
+PY  - 1994
+AB  - Five cases of oral malignant fibrous histiocytoma (MFH) in patients who had previously received radiotherapy in the head or neck region were included in this study. There were 3 men and 2 women. Four patients had been irradiated for nasopharyngeal carcinoma (NPC) and the other for a squamous cell carcinoma (SCC) involving the tongue and mouth floor. The MFH developed 2.5?11 years after the initial radiotherapy. Two cases of MFH occurred in the maxilla, two in the mandible, and the remaining one in the tongue, floor of mouth and mandible. Clinically, the oral post-radiation MFH presented as tender, reddish, elastic, lobulated masses with surface ulceration. Radiographic examination of the involved jaws revealed a poorly defined radiolucent lesion without any periosteal or endosteal reaction. The prognosis of these tumors was very poor. Although aggressive multimodality treatment had been applied, 3 of 5 patients eventually died of the disease, with a mean survival time of 17 months after establishing the diagnosis of MFH. In order to ensure the early diagnosis and treatment of this radiation-induced second malignancy, close oral follow-up is mandatory for patients who have received radiotherapy for head and neck malignancies.
+ER  - 
+
+TY  - JOUR
+AU  - JOHANSSON, P. I.
+AU  - OSTROWSKI, S. R.
+AU  - SECHER, N. H.
+TI  - Management of major blood loss: An update
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 54
+IS  - 9
+SN  - 9780470974131
+UR  - https://doi.org/10.1111/j.1399-6576.2010.02265.x
+DO  - doi:10.1111/j.1399-6576.2010.02265.x
+SP  - 1039
+EP  - 1049
+PY  - 2010
+AB  - Haemorrhage remains a major cause of potentially preventable deaths. Trauma and massive transfusion are associated with coagulopathy secondary to tissue injury, hypoperfusion, dilution and consumption of clotting factors and platelets. Concepts of damage control surgery have evolved, prioritizing the early control of the cause of bleeding by non-definitive means, while haemostatic control resuscitation seeks early control of coagulopathy. Haemostatic resuscitation provides transfusions with plasma and platelets in addition to red blood cells (RBCs) in an immediate and sustained manner as part of the transfusion protocol for massively bleeding patients. Transfusion of RBCs, plasma and platelets in a similar proportion as in whole blood prevents both hypovolaemia and coagulopathy. Although an early and effective reversal of coagulopathy is documented, the most effective means of preventing coagulopathy of massive transfusion remains debated and randomized controlled studies are lacking. Results from recent before-and-after studies in massively bleeding patients indicate that trauma exsanguination protocols involving the early administration of plasma and platelets are associated with improved survival. Furthermore, viscoelastic whole blood assays, such as thrombelastography (TEG)/rotation thromboelastometry (ROTEM), appear advantageous for identifying coagulopathy in patients with severe haemorrhage, as opposed to conventional coagulation assays. In our view, patients with uncontrolled bleeding, regardless of its cause, should be treated with goal-directed haemostatic control resuscitation involving the early administration of plasma and platelets and based on the results of the TEG/ROTEM analysis. The aim of the goal-directed therapy should be to maintain a normal haemostatic competence until surgical haemostasis is achieved, as this appears to be associated with reduced mortality.
+ER  - 
+
+TY  - JOUR
+AU  - de la Torre, Jack C.
+TI  - Cerebral Perfusion Enhancing Interventions: A New Strategy for the Prevention of Alzheimer Dementia
+JO  - Brain Pathology
+JA  - Brain Pathology
+VL  - 26
+IS  - 5
+SN  - 9780470974131
+UR  - https://doi.org/10.1111/bpa.12405
+DO  - doi:10.1111/bpa.12405
+SP  - 618
+EP  - 631
+KW  - Alzheimer's
+KW  - mild cognitive impairment
+KW  - photobiomodulation
+KW  - brain hypoperfusion
+KW  - cerebral blood flow
+KW  - neuronal energy crisis
+KW  - ROCK inhibitors
+KW  - Sirtuins
+KW  - DMSO
+PY  - 2016
+AB  - Abstract Cardiovascular and cerebrovascular diseases are major risk factors in the development of cognitive impairment and Alzheimer's disease (AD). These cardio-cerebral disorders promote a variety of vascular risk factors which in the presence of advancing age are prone to markedly reduce cerebral perfusion and create a neuronal energy crisis. Long-term hypoperfusion of the brain evolves mainly from cardiac structural pathology and brain vascular insufficiency. Brain hypoperfusion in the elderly is strongly associated with the development of mild cognitive impairment (MCI) and both conditions are presumed to be precursors of Alzheimer dementia. A therapeutic target to prevent or treat MCI and consequently reduce the incidence of AD aims to elevate cerebral perfusion using novel pharmacological agents. As reviewed here, the experimental pharmaca include the use of Rho kinase inhibitors, neurometabolic energy boosters, sirtuins and vascular growth factors. In addition, a compelling new technique in laser medicine called photobiomodulation is reviewed. Photobiomodulation is based on the use of low level laser therapy to stimulate mitochondrial energy production non-invasively in nerve cells. The use of novel pharmaca and photobiomodulation may become important tools in the treatment or prevention of cognitive decline that can lead to dementia.
+ER  - 
+
+TY  - JOUR
+AU  - Ding, Miao
+AU  - Li, Rong
+AU  - He, Rong
+AU  - Wang, Xingyong
+AU  - Yi, Qijian
+AU  - Wang, Weidong
+TI  - p53 activated by AND gate genetic circuit under radiation and hypoxia for targeted cancer gene therapy
+JO  - Cancer Science
+JA  - Cancer Sci
+VL  - 106
+IS  - 9
+SN  - 9780470974131
+UR  - https://doi.org/10.1111/cas.12739
+DO  - doi:10.1111/cas.12739
+SP  - 1163
+EP  - 1173
+KW  - AND gate
+KW  - cancer
+KW  - hypoxia
+KW  - radiation
+KW  - targeted gene therapy
+PY  - 2015
+AB  - Radio-activated gene therapy has been developed as a novel therapeutic strategy against cancer; however, expression of therapeutic gene in peritumoral tissues will result in unacceptable toxicity to normal cells. To restrict gene expression in targeted tumor mass, we used hypoxia and radiation tolerance features of tumor cells to develop a synthetic AND gate genetic circuit through connecting radiation sensitivity promoter cArG6, heat shock response elements SNF1, HSF1 and HSE4 with retroviral vector plxsn. Their construction and dynamic activity process were identified through downstream enhanced green fluorescent protein and wtp53 expression in non-small cell lung cancer A549 cells and in a nude mice model. The result showed that AND gate genetic circuit could be activated by lower required radiation dose (6 Gy) and after activated, AND gate could induce significant apoptosis effects and growth inhibition of cancer cells in vitro and in vivo. The radiation- and hypoxia-activated AND gate genetic circuit, which could lead to more powerful target tumoricidal activity represented a promising strategy for both targeted and effective gene therapy of human lung adenocarcinoma and low dose activation character of the AND gate genetic circuit implied that this model could be further exploited to decrease side-effects of clinical radiation therapy.
+ER  - 
+
+AU  - David, Anthony S.
+C7  - pp. 1-27
+TI  - Basic Concepts in Neuropsychiatry
+SN  - 9781405118606
+UR  - https://doi.org/10.1002/9781444316803.ch1
+DO  - doi:10.1002/9781444316803.ch1
+SP  - 1-27
+KW  - concepts in neuropsychiatry
+KW  - psychological symptoms and assessment difficulties
+KW  - generalised versus focal cerebral disorder
+KW  - Clouding of consciousness - mildest stage of consciousness impairment
+KW  - organic personality change
+KW  - chronic amnesic syndrome
+KW  - motor behaviour diminishing progressively
+KW  - acute organic reactions from pathological processes
+KW  - mutism with catatonic signs - negativism, stereotypy, posturing or stupor
+PY  - 2015
+AB  - Summary This chapter contains sections titled: What is neuropsychiatry? Basic concepts and terminology Clinical picture in acute organic reactions (acute brain syndrome, acute confusional state, ?delirium?) Clinical picture in chronic organic reactions (chronic brain syndrome, chronic confusional state, ?dementia?) Clinical picture in focal cerebral disorder Differential diagnosis References
+ER  - 
+
+TY  - JOUR
+AU  - Reichel, M. P.
+AU  - Ellis, J. T.
+AU  - Dubey, J. P.
+TI  - Neosporosis and hammondiosis in dogs
+JO  - Journal of Small Animal Practice
+VL  - 48
+IS  - 6
+SN  - 9781405118606
+UR  - https://doi.org/10.1111/j.1748-5827.2006.00236.x
+DO  - doi:10.1111/j.1748-5827.2006.00236.x
+SP  - 308
+EP  - 312
+PY  - 2007
+AB  - The dog is a definitive host of the protozoan parasite Neospora caninum, and in many parts of the world, infection is relatively common as determined by serology. Reported seroprevalences usually range from 0 to 20 per cent, however, reports of clinically affected dogs are infrequent. Affected dogs are generally less than six months old and predominantly have signs of an ascending hindleg paralysis, with the associated lesions of polyradiculoneuritis and granulomatous polymyositis. Although any organ may be affected, infections are more common in the central nervous system, muscles, lungs and skin. Ante-mortem diagnosis is difficult but serology and cytology can aid diagnosis. The diagnosis can be confirmed by histology, immunohistochemistry, the use of molecular techniques on biopsy material, or on post-mortem examination. Neospora caninum oocysts are rarely found in faeces and must be differentiated from oocysts of related coccidians such as Hammondia heydorni and Toxoplasma gondii. Hammondia heydorni can cause diarrrhoea in immunosuppressed dogs. Neosporosis should be suspected in young pups with an ascending paralysis of the hindlegs. Treatment with clindamycin and potentiated sulphonamides may be useful in cases where muscular atrophy and fibrosis are absent. Feeding of raw meat is a potential risk factor for infection of dogs and should be discouraged.
+ER  - 
+
+TY  - JOUR
+AU  - Wright, John
+TI  - RELATING AND DISSOCIATING: A CONSIDERATION OF TWO VARIABLES IN EMOTIONAL DEVELOPMENT
+JO  - British Journal of Psychotherapy
+VL  - 17
+IS  - 4
+SN  - 9781405118606
+UR  - https://doi.org/10.1111/j.1752-0118.2001.tb00614.x
+DO  - doi:10.1111/j.1752-0118.2001.tb00614.x
+SP  - 518
+EP  - 529
+PY  - 2001
+AB  - ABSTRACT This paper will provide theoretical and clinical evidence for the significance of relating to and dissociating from the object in the development of a regulatory function. A selective review examines psychoanalytic views concerning the interactive nature of innate and environmental factors in development. The role of trauma is also considered as a contributing factor in individual differences. Relevant clinical material is described from two sessions in the treatment of a traumatized young woman with bulimia, focusing on the regulatory function in the therapeutic relationship. The patient frequently dissociated from the therapist as object and substituted the resulting loss of regulation with a pendulous movement between over-indulgence and deprivation. This created significant implications for treatment. The clinical findings suggest that the inclusion of these different aspects may be necessary factors in understanding the developmental pathway from intolerable frustration/impulsivity to an internal sense of containment.
+ER  - 
+
+TY  - JOUR
+AU  - Dugmore, Nicola
+TI  - FLEXING THE FRAME: CONTEMPLATING THE USE OF MULTIPLE PORTS OF ENTRY IN PARENT–INFANT PSYCHOTHERAPY
+JO  - Infant Mental Health Journal
+JA  - Infant Ment. Health J.
+VL  - 35
+IS  - 4
+SN  - 9781405118606
+UR  - https://doi.org/10.1002/imhj.21452
+DO  - doi:10.1002/imhj.21452
+SP  - 366
+EP  - 375
+PY  - 2014
+AB  - ABSTRACT Multirelational interventions are well described in the psychoanalytic parent?infant literature. Daniel Stern (1995) originally suggested and described five ?ports of entry? that may be employed to access the multiperson parent?infant clinical system. Other authors have elaborated and extended Stern's original list of ports of entry. The impact of using multiple ports of entry on the psychoanalytic frame, however, is largely neglected in the parent?infant psychotherapy literature. Danielle Quinodoz's (1992) four facets of the psychoanalytic setting are used to structure a discussion of how the multiplicities associated with parent?infant psychotherapy may impact the frame. The article argues strongly for a necessary flexing of the psychoanalytic frame to establish therapeutic alliances. A fifth facet, that of psychoanalytic mindfulness, is offered as a counterbalance to the risks associated with excessive flexing of the frame, particularly in relation to Quinodoz's fourth facet of ?refraining from ?doing.?? This article relies on case material to illustrate the issues under discussion. Further engagement and debate are invited.
+ER  - 
+
+TY  - JOUR
+AU  - Grosse, Pascal
+AU  - Edwards, M.
+AU  - Tijssen, M.A.J.
+AU  - Schrag, A.
+AU  - Lees, Andrew J.
+AU  - Bhatia, K.P.
+AU  - Brown, Peter
+TI  - Patterns of EMG–EMG coherence in limb dystonia
+JO  - Movement Disorders
+JA  - Mov. Disord.
+VL  - 19
+IS  - 7
+SN  - 9781405118606
+UR  - https://doi.org/10.1002/mds.20075
+DO  - doi:10.1002/mds.20075
+SP  - 758
+EP  - 769
+KW  - dystonia
+KW  - DYT1
+KW  - frequency analysis
+KW  - coherence
+PY  - 2004
+AB  - Abstract Dystonia of the limbs may be due to a wide range of aetiologies and may cause major functional limitation. We investigated whether the previously described pathological 4 to 7 Hz drive to muscles in cervical dystonia is present in patients with aetiologically different types of dystonia of the upper and lower limbs. To this end, we studied 12 symptomatic and 4 asymptomatic carriers of the DYT1 gene, 6 patients with symptomatic dystonia due to focal basal ganglia lesions, and 11 patients with fixed dystonia, a condition assumed to be mostly psychogenic in aetiology. We evaluated EMG?EMG coherence in the tibialis anterior (TA) of these and 15 healthy control subjects. Ten of 12 (83%) of symptomatic DYT1 patients had an excessive 4 to 7 Hz common drive to TA, evident as an inflated coherence in this band. This drive also involved the gastrocnemius, leading to co-contracting electromyographic bursts. In contrast, asymptomatic DYT1 carriers, patients with symptomatic dystonia, patients with fixed dystonia, and healthy subjects showed no evidence of such a drive or any other distinguishing electrophysiological feature. Moreover, the pathological 4 to 7 Hz drive in symptomatic DYT1 patients was much less common in the upper limb, where it was only present in 2 of 6 (33%) patients with clinical involvement of the arms. We conclude that the nature of the abnormal drive to dystonic muscles may vary according to the muscles under consideration and, particularly, with aetiology. ? 2004 Movement Disorder Society
+ER  - 

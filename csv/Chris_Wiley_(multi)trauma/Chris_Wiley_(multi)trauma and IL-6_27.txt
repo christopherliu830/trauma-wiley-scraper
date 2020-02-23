@@ -1,0 +1,354 @@
+
+TY  - JOUR
+TI  - ASBMR 18th Annual Meeting
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 11
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.5650111202
+DO  - doi:10.1002/jbmr.5650111202
+SP  - S1
+EP  - S500
+PY  - 1996
+ER  - 
+
+TY  - JOUR
+AU  - MacLaren, R.
+AU  - Gasper, J.
+AU  - Jung, R.
+AU  - Vandivier, R. W.
+TI  - Use of exogenous erythropoietin in critically ill patients
+JO  - Journal of Clinical Pharmacy and Therapeutics
+VL  - 29
+IS  - 3
+SN  - 0269-4727
+UR  - https://doi.org/10.1111/j.1365-2710.2004.00552.x
+DO  - doi:10.1111/j.1365-2710.2004.00552.x
+SP  - 195
+EP  - 208
+KW  - anaemia
+KW  - critical care
+KW  - erythropoietin
+KW  - hematocrit
+KW  - hemoglobin
+KW  - transfusion
+PY  - 2004
+AB  - Summary Objective:? Review the literature regarding the use of recombinant human erythropoietin (rHuEPO) to prevent red blood cell (RBC) transfusion in critically ill patients. Data sources:? A computerized search of MEDLINE and EMBASE from 1966 through June 2003 was conducted using the terms erythropoietin, anemia, hemoglobin, critical care, intensive care, surgery, trauma, burn, and transfusion. References of selected articles were reviewed. A manual search of critical care, surgery, trauma, burn, hematology, and pharmacy journals was conducted to identify relevant abstracts. Results:? Six randomized studies have evaluated exogenous administration of erythropoietin to prevent RBC transfusions in critically ill patients. Studies vary with respect to rHuEPO dosage regimens, dose of concurrently administered iron, patient characteristics, and transfusion thresholds. Administration of rHuEPO rapidly produces erythropoiesis to reduce the need for RBC transfusions. The largest study conducted to date used weekly rHuEPO administration and found a modest decrease in transfusion requirements although the time to first transfusion was delayed. Reduced intensive care unit (ICU) length of stay (LOS) was shown in only one study of surgical/trauma patients. Reduced LOS after ICU discharge was found in another study of severely ill patients (APACHE II score >22). Other clinical outcomes were not altered by rHuEPO use. No adverse events were associated with rHuEPO use although studies were not designed to evaluate safety. Conclusions:? rHuEPO reduces the need for transfusions. A cost-effectiveness analysis of rHuEPO for this indication is needed. Defining an optimal dosage regimen, identifying patients most likely to respond to rHuEPO, and determining risk factors for ICU associated anaemia would provide information for appropriate rHuEPO utilization.
+ER  - 
+
+AU  - Baldwin III, William M.
+AU  - Fairchild, Robert L.
+C7  - pp. 60-67
+TI  - Humoral Mechanisms of Adaptive Immunity
+SN  - 9781118870143
+UR  - https://doi.org/10.1002/9781118873434.ch6
+DO  - doi:10.1002/9781118873434.ch6
+SP  - 60-67
+KW  - basic (laboratory)research/science
+KW  - cellular biology
+KW  - immunobiology
+KW  - accommodation
+KW  - alloantibody
+KW  - antibody biology
+KW  - B cell biology
+KW  - complement biology
+KW  - plasma cells
+KW  - vascular biology
+PY  - 2004
+AB  - Summary Antibodies can cause hyperacute, acute, or chronic rejection of allografts. These different types of rejection involve additional humoral mediators, including complement, coagulation factors, and cytokines, which engage cells of the innate immune system, notably platelets, granulocytes, and monocyte/macrophages. In this chapter we discuss the functional properties of antibodies that influence which humoral and cellular mediators are activated. Then the effects of complement activation and regulation are considered. The mechanisms by which antibodies and complement modulate interactions between innate immune cells and the vascular endothelium are summarized as a basis for understanding the pathogenesis of different types of graft destruction.
+ER  - 
+
+TY  - JOUR
+TI  - Invited Speaker Abstracts
+JO  - American Journal of Reproductive Immunology
+VL  - 67
+IS  - s1
+SN  - 9781118870143
+UR  - https://doi.org/10.1111/j.1600-0897.2012.01129.x
+DO  - doi:10.1111/j.1600-0897.2012.01129.x
+SP  - 1
+EP  - 22
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+TI  - ISAC XXII International Congress
+JO  - Cytometry Part A
+JA  - Cytometry
+VL  - 59A
+IS  - 1
+SN  - 9781118870143
+UR  - https://doi.org/10.1002/cyto.a.20045.abs
+DO  - doi:10.1002/cyto.a.20045.abs
+SP  - 74
+EP  - 110
+PY  - 2004
+AB  - Abstract ISAC XXII International Congress (pages 74?110)
+ER  - 
+
+TY  - JOUR
+AU  - Simão, Márcio
+AU  - Gavaia, Paulo J.
+AU  - Camacho, António
+AU  - Porto, Graça
+AU  - Pinto, I. Jorge
+AU  - Ea, Hang-Korng
+AU  - Cancela, M. Leonor
+TI  - Intracellular iron uptake is favored in Hfe-KO mouse primary chondrocytes mimicking an osteoarthritis-related phenotype
+JO  - BioFactors
+JA  - BioFactors
+VL  - 45
+IS  - 4
+SN  - 9781118870143
+UR  - https://doi.org/10.1002/biof.1520
+DO  - doi:10.1002/biof.1520
+SP  - 583
+EP  - 597
+KW  - chondrocyte metabolism
+KW  - HFE-hemochromatosis
+KW  - Hfe-KO
+KW  - iron toxicity
+KW  - osteoarthritis
+PY  - 2019
+AB  - Abstract HFE-hemochromatosis is a disease characterized by a systemic iron overload phenotype mainly associated with mutations in the HFE protein (HFE) gene. Osteoarthritis (OA) has been reported as one of the most prevalent complications in HFE-hemochromatosis patients, but the mechanisms associated with its onset and progression remain incompletely understood. In this study, we have characterized the response to high iron concentrations of a primary culture of articular chondrocytes isolated from newborn Hfe-KO mice and compared the results with that of a similar experiment developed in cells from C57BL/6 wild-type (wt) mice. Our data provide evidence that both wt- and Hfe-KO-derived chondrocytes, when exposed to 50??M iron, develop characteristics of an OA-related phenotype, such as an increased expression of metalloproteases, a decreased extracellular matrix production, and a lower expression level of aggrecan. In addition, Hfe-KO cells also showed an increased expression of iron metabolism markers and MMP3, indicating an increased susceptibility to intracellular iron accumulation and higher levels of chondrocyte catabolism. Accordingly, upon treatment with 50??M iron, these chondrocytes were found to preferentially differentiate toward hypertrophy with increased expression of collagen I and transferrin and downregulation of SRY (sex-determining region Y)-box containing gene 9 (Sox9). In conclusion, high iron exposure can compromise chondrocyte metabolism, which, when simultaneously affected by an Hfe loss of function, appears to be more susceptible to the establishment of an OA-related phenotype.
+ER  - 
+
+TY  - JOUR
+AU  - Raychaudhuri, Smriti K.
+AU  - Raychaudhuri, Siba P.
+TI  - NGF and Its Receptor System
+JO  - Annals of the New York Academy of Sciences
+VL  - 1173
+IS  - 1
+SN  - 9781118870143
+UR  - https://doi.org/10.1111/j.1749-6632.2009.04652.x
+DO  - doi:10.1111/j.1749-6632.2009.04652.x
+SP  - 470
+EP  - 477
+KW  - NGF
+KW  - psoriasis
+KW  - psoriatic arthritis
+PY  - 2009
+AB  - A contributing role of nerve growth factor (NGF)-mediated neuroimmunologic mechanisms has provided a new dimension in the understanding of various cutaneous and systemic inflammatory diseases. Recent evidence implicates NGF as a key mediator of inflammation and pain. NGF influences an inflammatory reaction by regulating neuropeptides, angiogenesis, cell trafficking molecules, and T cell activation. All of these functions of NGF are relevant in maintenance or initiation of the critical biologic events in various rheumatologic conditions. The recognition of a pathologic role of NGF and its receptor system has provided an attractive opportunity to develop a novel class of therapeutics for inflammatory diseases and chronic pain syndromes. In this chapter we will discuss the role of NGF and its receptor system in psoriatic disease, inflammatory arthritis, and arthritic pain of osteoarthritis.
+ER  - 
+
+TY  - JOUR
+AU  - Mortensen, Brittany L.
+AU  - Skaar, Eric P.
+TI  - Host–microbe interactions that shape the pathogenesis of Acinetobacter baumannii infection
+JO  - Cellular Microbiology
+JA  - Cell Microbiol
+VL  - 14
+IS  - 9
+SN  - 9781118870143
+UR  - https://doi.org/10.1111/j.1462-5822.2012.01817.x
+DO  - doi:10.1111/j.1462-5822.2012.01817.x
+SP  - 1336
+EP  - 1344
+PY  - 2012
+AB  - Summary Acinetobacter baumannii is an opportunistic pathogen that has emerged as a prevalent source of nosocomial infections, most frequently causing ventilator-associated pneumonia. The emergence of pan-drug resistant strains magnifies the problem by reducing viable treatment options and effectively increasing the mortality rate associated with Acinetobacter infections. In light of this rising threat, research on A.?baumannii epidemiology, antibiotic resistance, and pathogenesis is accelerating. The recent development of both in vitro and in vivo models has enabled studies probing the host?Acinetobacter interface. Bacterial genetic screens and comparative genomic studies have led to the identification of several A.?baumannii virulence factors. Additionally, investigations into host defence mechanisms using animal models or cell culture have provided insight into the innate immune response to infection. This review highlights some of the key attributes of A.?baumannii virulence with an emphasis on bacterial interactions with the innate immune system.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Session
+JO  - European Journal of Immunology
+JA  - Eur. J. Immunol.
+VL  - 39
+IS  - S1
+SN  - 9781118870143
+UR  - https://doi.org/10.1002/eji.200990286
+DO  - doi:10.1002/eji.200990286
+SP  - S624
+EP  - S760
+PY  - 2009
+AB  - Abstract No Abtract
+ER  - 
+
+AU  - Fathke, Robert
+AU  - Peng, Ze
+AU  - Golding, Basil
+AU  - Kimchi-Sarfaty, Chava
+C7  - pp. 639-658
+TI  - Critical Role of the Liver in Coagulation
+SN  - 9780470723135
+UR  - https://doi.org/10.1002/9780470747919.ch41
+DO  - doi:10.1002/9780470747919.ch41
+SP  - 639-658
+KW  - role of liver in coagulation
+KW  - extrinsic pathway - tissue factor activity
+KW  - primary hemostasis - by adhesion of platelets to collagen fibers
+KW  - secondary hemostasis (coagulation)
+KW  - liver disease and hemostasis
+KW  - fibrinolysis - physiological breakdown of fibrin to limit and resolve blood clots
+KW  - von willebrand factor (VWF) compensating for platelet abnormalities in liver disease
+KW  - ADAMTS13 - VWF protease in liver disease
+KW  - liver infection and sepsis effect on coagulation
+KW  - Vitamin K role in coagulation
+PY  - 2009
+AB  - Summary This chapter contains sections titled: Introduction: How Blood Coagulates Hemostasis: the Process of Vascular Healing Liver Disease and Hemostasis Conclusion Acknowledgments References
+ER  - 
+
+AU  - McConachie, Erin L.
+AU  - Hart, Kelsey A.
+C7  - pp. 153-172
+TI  - Inflammation, Endotoxemia and Systemic Inflammatory Response Syndrome
+SN  - 9781118558874
+UR  - https://doi.org/10.1002/9781119086512.ch18
+DO  - doi:10.1002/9781119086512.ch18
+SP  - 153-172
+KW  - Corticosteroids
+KW  - Corticosteroids
+KW  - Endotoxemia
+KW  - immune system
+KW  - inflammation
+KW  - sepsis
+KW  - Systemic Inflammatory Response Syndrome
+PY  - 2009
+AB  - Summary Horses suffer from a long list of diseases in which inflammation is central to the pathogenesis of the primary disease process. When the inflammatory response extends beyond the local injured tissues, widespread systemic inflammation ensues and can generate the clinical syndrome known as the systemic inflammatory response syndrome (SIRS). The innate immune system is integral to the pathogenesis of the clinically recognized acute inflammatory disorders of SIRS, endotoxemia and sepsis syndromes. Coagulopathies are likely to exist in patients with moderate to severe systemic inflammation or endotoxemia, with variable clinicopathologic evidence of disordered hemostasis. Corticosteroids, theoretically, have many useful actions for fighting inflammation in endotoxemia, SIRS, and sepsis. Horses that recover from severe SIRS and sepsis are not necessarily at risk to have recurrent episodes of disease. However, inflammation-related end-organ damage might predispose them to organ failure or related complications in the future.
+ER  - 
+
+TY  - JOUR
+AU  - Holst, Otto
+AU  - Ulmer, Artur J.
+AU  - Brade, Helmut
+AU  - Flad, Hans-Dieter
+AU  - Rietschel, Ernst Th.
+TI  - Biochemistry and cell biology of bacterial endotoxins
+JO  - FEMS Immunology & Medical Microbiology
+VL  - 16
+IS  - 2
+SN  - 9781118558874
+UR  - https://doi.org/10.1111/j.1574-695X.1996.tb00126.x
+DO  - doi:10.1111/j.1574-695X.1996.tb00126.x
+SP  - 83
+EP  - 104
+KW  - Gram-negative bacteria
+KW  - Endotoxin
+KW  - Lipopolysaccharide
+KW  - Lipopolysaccharide structure
+KW  - Bioactivity of lipopolysaccharide
+PY  - 1996
+ER  - 
+
+TY  - JOUR
+AU  - Menu, P.
+AU  - Vince, J. E.
+TI  - The NLRP3 inflammasome in health and disease: the good, the bad and the ugly
+JO  - Clinical & Experimental Immunology
+VL  - 166
+IS  - 1
+SN  - 9781118558874
+UR  - https://doi.org/10.1111/j.1365-2249.2011.04440.x
+DO  - doi:10.1111/j.1365-2249.2011.04440.x
+SP  - 1
+EP  - 15
+KW  - infections
+KW  - inflammasome
+KW  - innate immunity
+KW  - interleukin-1
+KW  - NLRP3
+PY  - 2011
+AB  - Summary While interleukin (IL)-1? plays an important role in combating the invading pathogen as part of the innate immune response, its dysregulation is responsible for a number of autoinflammatory disorders. Large IL-1? activating platforms, known as inflammasomes, can assemble in response to the detection of endogenous host and pathogen-associated danger molecules. Formation of these protein complexes results in the autocatalysis and activation of caspase-1, which processes precursor IL-1? into its secreted biologically active form. Inflammasome and IL-1? activity is required to efficiently control viral, bacterial and fungal pathogen infections. Conversely, excess IL-1? activity contributes to human disease, and its inhibition has proved therapeutically beneficial in the treatment of a spectrum of serious, yet relatively rare, heritable inflammasomopathies. Recently, inflammasome function has been implicated in more common human conditions, such as gout, type II diabetes and cancer. This raises the possibility that anti-IL-1 therapeutics may have broader applications than anticipated previously, and may be utilized across diverse disease states that are linked insidiously through unwanted or heightened inflammasome activity.
+ER  - 
+
+TY  - JOUR
+AU  - Martel, P.
+AU  - Gilbert, D.
+AU  - Labeille, B.
+AU  - Kanitakis, J.
+AU  - Joly, P.
+TI  - A case of paraneoplastic pemphigus with antidesmoglein 1 antibodies as determined by immunoblotting
+JO  - British Journal of Dermatology
+VL  - 142
+IS  - 4
+SN  - 9781118558874
+UR  - https://doi.org/10.1046/j.1365-2133.2000.03433.x
+DO  - doi:10.1046/j.1365-2133.2000.03433.x
+SP  - 812
+EP  - 813
+PY  - 2000
+ER  - 
+
+TY  - JOUR
+TI  - Workshop Sessions
+JO  - Immunology
+VL  - 137
+IS  - s1
+SN  - 9781118558874
+UR  - https://doi.org/10.1111/imm.12001
+DO  - doi:10.1111/imm.12001
+SP  - 1
+EP  - 184
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+TI  - Liver and Pancreas Transplantation
+JO  - HPB
+VL  - 7
+IS  - S1
+SN  - 9781118558874
+UR  - https://doi.org/10.1080/16515320510036903
+DO  - doi:10.1080/16515320510036903
+SP  - 47
+EP  - 57
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - OLIV SIG 1 – ILD/PAH/Other
+JO  - Respirology
+VL  - 14
+IS  - s1
+SN  - 9781118558874
+UR  - https://doi.org/10.1111/j.1440-1843.2009.01503_10.x
+DO  - doi:10.1111/j.1440-1843.2009.01503_10.x
+SP  - A67
+EP  - A70
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+TI  - Cell Biology/Immunology SIG
+JO  - Respirology
+VL  - 14
+IS  - s1
+SN  - 9781118558874
+UR  - https://doi.org/10.1111/j.1440-1843.2009.01503_4.x
+DO  - doi:10.1111/j.1440-1843.2009.01503_4.x
+SP  - A46
+EP  - A51
+PY  - 2009
+ER  - 
+
+AU  - Kiang, Juliann G.
+C7  - pp. 288-302
+TI  - Characterization and Therapeutic Uses of Adult Mesenchymal Stem Cells
+SN  - 9781119135418
+UR  - https://doi.org/10.1002/9781119135449.ch15
+DO  - doi:10.1002/9781119135449.ch15
+SP  - 288-302
+KW  - stem cell
+KW  - survival
+KW  - repair
+KW  - radiation
+KW  - wound
+KW  - bacteria
+KW  - therapy
+PY  - 2009
+AB  - Summary In vivo and in vitro studies in the cellular and molecular signaling activations on adult mesenchymal stem cells (MSCs) have provided new insights into their potential clinical applications, particularly for tissue repair and regeneration. This review focuses on these advances, specifically in the context of characterizing MSCs and self-renewal for tissue repair and recovery after diseases. MSCs have been extensively characterized and demonstrated mitigation and therapy on different diseases in human clinical cases and experimental animal models. MSC-based technologies for treating diseases alone or in combination with adjuvants are foreseeable. Current challenges in MSC therapy are the need to overcome cell purity, bioengineering difficulties for tissue structures, optimization of MSC administration protocols, termination of MSC activation after repair and regeneration accomplished, and safety of long-term presence of MSCs in the body.
+ER  - 
+
+TY  - JOUR
+TI  - ABSTRACTS – Symposium
+JO  - International Journal of Rheumatic Diseases
+VL  - 11
+IS  - s1
+SN  - 9781119135418
+UR  - https://doi.org/10.1111/j.1479-8077.2008.00374.x
+DO  - doi:10.1111/j.1479-8077.2008.00374.x
+SP  - A1
+EP  - A83
+PY  - 2008
+ER  - 

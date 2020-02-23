@@ -1,0 +1,361 @@
+
+TY  - JOUR
+TI  - Medicolegal Reference Shelf
+JO  - The Journal of Law, Medicine & Ethics
+VL  - 8
+IS  - 5
+SN  - 1073-1105
+UR  - https://doi.org/10.1111/j.1748-720X.1980.tb00610.x
+DO  - doi:10.1111/j.1748-720X.1980.tb00610.x
+SP  - 24
+EP  - 36
+PY  - 1980
+ER  - 
+
+TY  - JOUR
+TI  - Monday, 6 July 1998
+JO  - British Journal of Haematology
+VL  - 102
+IS  - 1
+SN  - 0007-1048
+UR  - https://doi.org/10.1111/j.1365-2141.1998.tb08995.x
+DO  - doi:10.1111/j.1365-2141.1998.tb08995.x
+SP  - 2
+EP  - 139
+PY  - 1998
+ER  - 
+
+TY  - JOUR
+TI  - E-Posters
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 102
+IS  - s1
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.9730
+DO  - doi:10.1002/bjs.9730
+SP  - 127
+EP  - 301
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+AU  - Abolhassani, Niki
+AU  - Patel, Rajni V.
+TI  - Teleoperated master–slave needle insertion
+JO  - The International Journal of Medical Robotics and Computer Assisted Surgery
+JA  - Int. J. Med. Robotics Comput. Assist. Surg.
+VL  - 5
+IS  - 4
+SN  - 1478-5951
+UR  - https://doi.org/10.1002/rcs.269
+DO  - doi:10.1002/rcs.269
+SP  - 398
+EP  - 405
+KW  - robotic needle insertion
+KW  - needle deflection
+KW  - haptics
+KW  - teleoperated master–slave needle insertion
+PY  - 2009
+AB  - Abstract Background Accuracy of needle tip placement and needle tracking in soft tissue are of particular importance in many medical procedures. In recent years, developing autonomous and teleoperated systems for needle insertion has become an active area of research. Methods In this study, needle insertion was performed using a master?slave set-up with multi-degrees of freedom. The effect of force feedback on the accuracy of needle insertion was investigated. In addition, this study compared autonomous, teleoperated and semi-autonomous needle insertion. Results The results of this study show that incorporation of force feedback can improve teleoperated needle insertion. However, autonomous and semi-autonomous needle insertions, which use feedback from a deflection model, provide significantly better performance. Conclusions Development of a haptic master?slave needle insertion system, which is capable of performing some autonomous tasks based on feedback from tissue deformation and needle deflection models, can improve the performance of autonomous robotics-based insertions as well as non-autonomous teleoperated manual insertions. Copyright ? 2009 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - WHS 2019 Abstracts
+JO  - Wound Repair and Regeneration
+JA  - Wound Rep and Reg
+VL  - 27
+IS  - 3
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/wrr.12711
+DO  - doi:10.1111/wrr.12711
+SP  - A1
+EP  - A40
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+AU  - Hammarskjöld, F.
+AU  - Wallén, G.
+AU  - Malmvall, B. E.
+TI  - Central venous catheter infections at a county hospital in Sweden: a prospective analysis of colonization, incidence of infection and risk factors
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 50
+IS  - 4
+SN  - 0001-5172
+UR  - https://doi.org/10.1111/j.1399-6576.2006.00974.x
+DO  - doi:10.1111/j.1399-6576.2006.00974.x
+SP  - 451
+EP  - 460
+KW  - candida species
+KW  - catheter-related infection
+KW  - central venous catheter (CVC)
+KW  - nosocomial infection
+PY  - 2006
+AB  - Background:? Catheter-related infection (CRI) is one of the most serious complications of the use of central venous catheters (CVCs), with an incidence of 2?30/1000?days in different studies. No major prospective study has evaluated the rate of CRI in Scandinavia. Since 1999, we have had a thorough programme for the insertion and care of all CVCs used at our hospital and its outpatient clinics. The purpose of this survey was to study the incidence of catheter tip colonization and CRI and their risk factors, and to compare these data with previous non-Scandinavian studies. Methods:? We studied prospectively 605 CVCs in 456 patients in relation to insertion data, patient and catheter characteristics, catheterization time and microbiological cultures. Risk factors were analysed by multivariate analysis. Results:? Four hundred and ninety-five (82%) of all CVCs were assessed completely. The total catheterization time was 9010?days. The incidence of positive tip culture was 7.66/1000?days, and the predominant microorganism was coagulase-negative staphylococci. The incidence of CRI was 1.55/1000?days, and the only significant risk factor was the duration of catheterization with a relative risk of 1.009 per day [95% confidence interval (CI), 1.003?1.015]. Of the 14 cases with CRI, six were associated with candida species, and five of these were diagnosed in the intensive care unit. Conclusion:? In comparison with non-Scandinavian studies, our practice of strict basic hygiene routines for CVC insertion and care is associated with a low incidence of CRI. However, there was a high proportion of candida species amongst these infections. The only risk factor for CRI was the duration of catheterization.
+ER  - 
+
+TY  - JOUR
+AU  - Paravina, Rade D.
+AU  - Majkic, Goran
+AU  - Del Mar Perez, Maria
+AU  - Kiat-amnuay, Sudarat
+TI  - Color Difference Thresholds of Maxillofacial Skin Replications
+JO  - Journal of Prosthodontics
+VL  - 18
+IS  - 7
+SN  - 1059-941X
+UR  - https://doi.org/10.1111/j.1532-849X.2009.00465.x
+DO  - doi:10.1111/j.1532-849X.2009.00465.x
+SP  - 618
+EP  - 625
+KW  - Color
+KW  - skin
+KW  - maxillofacial
+KW  - prosthesis
+KW  - threshold
+KW  - visual
+KW  - spectrophotometer
+PY  - 2009
+AB  - Abstract Purpose: The purpose of this study was to determine perceptibility and acceptability thresholds for color differences in light and dark skin-colored maxillofacial elastomers. Materials and Methods: A total of 15 pairs of light specimens (mimicking white, Asian, and Hispanic skin) and 15 pairs of dark specimens (mimicking African-American skin) were made using skin-colored maxillofacial silicone elastomers, combined with opacifiers and pigments. Color match/mismatch and acceptable/unacceptable mismatch of each pair of specimens were visually evaluated by 45 evaluators under controlled conditions of a viewing booth. Color differences were calculated using CIELAB and CIEDE2000 formulae. After calculating the model parameters, receiver operating characteristics (ROC) curves and area under the ROC curve (AUC) were analyzed. Repeated measures ANOVA and Tukey's HSD test were used in a statistical analysis (α= 0.05) Results: CIELAB/CIEDE2000 perceptibility and acceptability thresholds for light specimens were 1.1/0.7 and 3.0/2.1, respectively. Corresponding values for dark specimens were 1.6/1.2 and 4.4/3.1, respectively. Differences in primary specimen color and type of threshold were found to be significant (p < 0.001). Only the primary specimen color effect was found to be significant in AUC comparisons. Conclusions: Within the limitations of this study, both main effects of threshold type (perceptibility and acceptability) and primary color (light and dark) on 50:50% color-difference thresholds of colored maxillofacial elastomers were found significant for both color-difference formulae used (CIELAB, CIEDE2000). In addition, significant interaction between the two main effects was found, indicating a stronger effect of skin type on acceptability than perceptibility thresholds. Primary specimen color (light vs. dark) was found to be the only significant main effect on the AUC of ROC curves constructed from logistic regression.
+ER  - 
+
+TY  - JOUR
+TI  - Concurrent Abstracts Session Four: Wednesday 25th May 0900‖1030
+JO  - Journal of Paediatrics and Child Health
+JA  - Journal of Paediatrics and Child Health
+VL  - 52
+IS  - S2
+SN  - 1034-4810
+UR  - https://doi.org/10.1111/jpc.13194_3
+DO  - doi:10.1111/jpc.13194_3
+SP  - 78
+EP  - 104
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+AU  - Bryant, Adam L.
+AU  - Clark, Ross A.
+AU  - Pua, Yong-Hao
+TI  - Morphology of hamstring torque-time curves following acl injury and reconstruction: mechanisms and implications
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+VL  - 29
+IS  - 6
+SN  - 0736-0266
+UR  - https://doi.org/10.1002/jor.21306
+DO  - doi:10.1002/jor.21306
+SP  - 907
+EP  - 914
+KW  - ACL deficiency
+KW  - ACL reconstruction
+KW  - hamstring force steadiness
+KW  - quadriceps antagonist activity
+KW  - single-limb long hop
+PY  - 2011
+AB  - Abstract The purposes of this study were (i) to examine the effects of anterior cruciate ligament (ACL) status on hamstring force steadiness, peak hamstring strength, quadriceps (antagonist) activation, and physical performance, and (ii) to evaluate the associations of physical performance with hamstring steadiness and hamstring strength. Thirteen subjects with unilateral deficiency of the ACL (ACLD), 39 matched subjects with unilateral reconstructed ACL (ACLR; n?=?25 with bone-patella tendon-bone (ACLR-PT) graft and n?=?14 with combined semitendinosus and gracilis tendon (ACLR-STGT) graft) and 33 control subjects participated. Each subject performed maximal-effort isokinetic knee flexion repetitions at 180°?s?1 with electromyography (EMG) electrodes attached to their medial and lateral quadriceps muscles. Physical performance was assessed using the single-limb long hop for distance. Wavelet-derived mean instantaneous frequency (Mif) of flexor torque-time curves was significantly (p?<?0.05) higher (i.e., less smooth) in ACLR-STGT subjects compared to the ACLD, ACLR-PT and control subjects. No significant differences existed for peak hamstrings strength (i.e., peak torque produced) or quadriceps antagonist EMG activity. Positive correlations were identified between hamstrings force steadiness and quadriceps antagonist activity for ACLD (r?=?0.797), ACLR-PT (r?=?0.467), and ACLR-STGT (r?=?0.628) subjects. For ACLR-STGT subjects, reduced hamstrings force steadiness associated with poorer long-hop performance (r?=??0.695). Reduced steadiness amongst ACLR-STGT subjects may reflect motor output variability of the antagonist (i.e., quadriceps dyskinesia) and/or agonist musculature?a maladaptive feature which potentially contributes to poorer single-limb hop performance. Measures of hamstring force steadiness in combination with traditional measures of peak hamstring strength provide valuable clinical information regarding knee joint function following ACL injury/ACLR. ? 2011 Orthopaedic Research Society Published by Wiley Periodicals, Inc. J Orthop Res 29:907?914
+ER  - 
+
+TY  - JOUR
+TI  - ASGBI abstracts 2010
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 97
+IS  - S2
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.7050
+DO  - doi:10.1002/bjs.7050
+SP  - 1
+EP  - 75
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Medicolegal Section Program Abstract
+JO  - ANZ Journal of Surgery
+VL  - 80
+IS  - s1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/j.1445-2197.2010.05298_11.x
+DO  - doi:10.1111/j.1445-2197.2010.05298_11.x
+SP  - A50
+EP  - A50
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Short Paper Sessions
+JO  - Journal of Parenteral and Enteral Nutrition
+JA  - Journal of Parenteral and Enteral Nutrition
+VL  - 8
+IS  - 1
+SN  - 0148-6071
+UR  - https://doi.org/10.1177/014860718400800121
+DO  - doi:10.1177/014860718400800121
+SP  - 84
+EP  - 103
+PY  - 1984
+ER  - 
+
+TY  - JOUR
+AU  - Ilmarinen, Taru
+AU  - Nissilä, Heljä
+AU  - Rihkanen, Heikki
+AU  - Roine, Risto P
+AU  - Pietarinen-Runtti, Petra
+AU  - Pitkäranta, Anne
+AU  - Aaltonen, Leena-Maija
+TI  - Clinical features, health-related quality of life, and adult voice in juvenile-onset recurrent respiratory papillomatosis
+JO  - The Laryngoscope
+JA  - The Laryngoscope
+VL  - 121
+IS  - 4
+SN  - 0023-852X
+UR  - https://doi.org/10.1002/lary.21332
+DO  - doi:10.1002/lary.21332
+SP  - 846
+EP  - 851
+KW  - Human papillomavirus
+KW  - laryngeal neoplasms
+KW  - papilloma
+KW  - voice quality
+KW  - Level of Evidence: 3a.
+PY  - 2011
+AB  - Abstract Objectives/Hypothesis: To determine clinical features, health-related quality of life, and adult voice in patients with a history of juvenile-onset recurrent respiratory papillomatosis (JORRP). Study Design: Case-control study. Methods: All 32 patients with JORRP treated at Helsinki University Hospital between 1975 and 1994 were invited to an outpatient visit in spring 2008, and 18 of them (56%) entered the study. Each patient had an age- and gender-matched control subject with similar smoking habits. Videolaryngostroboscopy was performed and voice quality determined by acoustic and perceptual analysis. Voice-quality characteristics of the whole patient group and the recurrence-free patients were examined separately. Subjective voice-related disability was studied with voice handicap index (VHI) and health-related quality of life with a 15D questionnaire. Results: Acoustic analysis showed that patients had statistically significantly higher values in percent jitter, percent shimmer, and noise-to-harmonics ratio. Perceptual analysis indicated higher scores for patients in overall grade, roughness, breathiness, and strain. Acoustic and perceptual values for recurrence-free patients (n = 14) were also significantly higher than those for their matched paired controls. No statistically significant differences emerged for handicap related to voice or to health-related quality of life. Four study patients (22%) had undergone tracheotomy, indicating severity of juvenile-onset disease. Conclusions: JORRP is a risk factor for permanent laryngeal pathology and voice-disturbances in adulthood. Laryngoscope, 2011
+ER  - 
+
+TY  - JOUR
+AU  - Shehata, E.M.
+AU  - Tomoum, M.O.
+AU  - Amer, M.A.
+AU  - Alarabawy, R.A.
+AU  - Eltomey, M.A.
+TI  - Olfactory bulb neuroplasticity: A prospective cohort study in patients with chronic rhinosinusitis with nasal polyps
+JO  - Clinical Otolaryngology
+JA  - Clin Otolaryngol
+VL  - 43
+IS  - 6
+SN  - 1749-4478
+UR  - https://doi.org/10.1111/coa.13202
+DO  - doi:10.1111/coa.13202
+SP  - 1528
+EP  - 1534
+KW  - Nasal polyps
+KW  - Olfactory bulb
+KW  - olfaction
+KW  - quality of life
+KW  - smell
+KW  - magnetic resonance imaging
+KW  - neural plasticity
+PY  - 2018
+AB  - Objectives To compare the olfactory bulb volumes (OBVs) in patients with chronic rhinosinusitis with nasal polyps (CRSwNP) to healthy individuals, and to assess the changes of the OBVs in patients with CRSwNP before and after the endoscopic sinus surgery (ESS) utilising magnetic resonance imaging (MRI) with specialised software. Design This is a prospective cohort study. Setting Tanta University hospital (tertiary referral hospital), Egypt. Participants Thirty patients with CRSwNP (Group A) were compared with thirty healthy individuals (Group B) as regards the OBVs. Patients with CRSwNP underwent ESS where the Smell Identification Test-40 (SIT-40) and the OBVs were assessed pre-operatively and at least 6 months postoperatively. Assessment of the OBVs was carried out using MRI with specialised software. Main outcome measures Assessment of the volumetric changes of the olfactory bulbs in patients with CRSwNP before and after endoscopic sinus surgery utilise magnetic resonance imaging. Results The OBVs were significantly smaller in Group A (58.94 ± 7.96 mm3 and 60.79 ± 8.14 mm3 on the right and left sides, respectively) as compared with the Group B (73.46 ± 8.54 mm3 and 72.96 ± 9.74 mm3 on the right and left sides, respectively). There was also a significant increase in the olfactory bulb volumes as well as improvement of the SIT-40 6 months postoperatively in the Group A. Conclusions The olfactory bulb is characterised by neural plasticity, and its volume may be affected by the peripheral olfactory function.
+ER  - 
+
+TY  - JOUR
+TI  - Calendar of International Congresses of Medical Sciences—1968*
+JO  - Australasian Radiology
+VL  - 12
+IS  - 2
+SN  - 0004-8461
+UR  - https://doi.org/10.1111/j.1440-1673.1968.tb03370.x
+DO  - doi:10.1111/j.1440-1673.1968.tb03370.x
+SP  - 179
+EP  - 185
+PY  - 1968
+ER  - 
+
+TY  - JOUR
+AU  - Chen, Tzu-Fei
+AU  - Chou, Kuei-Ru
+AU  - Liao, Yuan-Mei
+AU  - Ho, Cheng-Hsun
+AU  - Chung, Min-Huey
+TI  - Construct validity and reliability of the Chinese version of the Disaster Preparedness Evaluation Tool in Taiwan
+JO  - Journal of Clinical Nursing
+JA  - J Clin Nurs
+VL  - 24
+IS  - 7-8
+SN  - 0962-1067
+UR  - https://doi.org/10.1111/jocn.12721
+DO  - doi:10.1111/jocn.12721
+SP  - 1132
+EP  - 1143
+KW  - confirmatory factor analysis
+KW  - Disaster Preparedness Evaluation Tool
+KW  - reliability
+KW  - validity
+PY  - 2015
+AB  - Aims and objectives To develop a Chinese version of the Disaster Preparedness Evaluation Tool and validate its psychometric properties. Background An adequate disaster preparation programme for nurses has not been developed in Taiwan. To develop an exhaustive and effective educational programme on disaster preparation for nurses, a multidimensional instrument is required for assessing the disaster preparation level of nurses. Design A cross-sectional study was conducted. Methods In total, 1550 of 2226 public health nurses in 15 counties completed the self-administrated questionnaire. We randomly selected 805 samples to examine the factor structure and factor model by using exploratory factor analysis and confirmatory factor analysis. The convergent validity was measured using the average variance extracted and composite reliability. Results Five factors, namely postdisaster management, skills, knowledge of self-preparation in a disaster, knowledge to respond in the community, and knowledge to respond in the workplace, were extracted, and explained 65·13% of the total variance. An acceptable model fit was identified using confirmatory factor analysis. The Cronbach's α coefficient of the Chinese version of the Disaster Preparedness Evaluation Tool was 0·97. Significant values of the average variance extracted greater than 0·5 indicated convergent validity. Conclusion The Chinese version of the Disaster Preparedness Evaluation Tool is a reliable and valid instrument for measuring disaster preparation. Relevance to clinical practice The Chinese version of the Disaster Preparedness Evaluation Tool provides reliable and valid measures that can be used to evaluate the disaster preparedness of nurses. The items in the instrument can be used to identify the dimension of disaster management in all stages, and can form the essential foundation of an education and training programme for public health nurses to reduce the harm of disasters and promote community resilience.
+ER  - 
+
+TY  - JOUR
+AU  - Kearns, R.
+AU  - Macfarlane, A.
+AU  - Grant, A.
+AU  - Puxty, K.
+AU  - Harrison, P.
+AU  - Shaw, M.
+AU  - Anderson, K.
+AU  - Kinsella, J.
+TI  - A randomised, controlled, double blind, non-inferiority trial of ultrasound-guided fascia iliaca block vs. spinal morphine for analgesia after primary hip arthroplasty
+JO  - Anaesthesia
+JA  - Anaesthesia
+VL  - 71
+IS  - 12
+SN  - 0003-2409
+UR  - https://doi.org/10.1111/anae.13620
+DO  - doi:10.1111/anae.13620
+SP  - 1431
+EP  - 1440
+KW  - analgesia
+KW  - fascia iliaca block
+KW  - total hip replacement
+PY  - 2016
+AB  - Summary We performed a single centre, double blind, randomised, controlled, non-inferiority study comparing ultrasound-guided fascia iliaca block with spinal morphine for the primary outcome of 24-h postoperative morphine consumption in patients undergoing primary total hip arthroplasty under spinal anaesthesia with levobupivacaine. One hundred and eight patients were randomly allocated to receive either ultrasound-guided fascia iliaca block with 2 mg.kg?1 levobupivacaine (fascia iliaca group) or spinal morphine 100 ?g plus a sham ultrasound-guided fascia iliaca block using saline (spinal morphine group). The pre-defined non-inferiority margin was a median difference between the groups of 10 mg in cumulative intravenous morphine use in the first 24 h postoperatively. Patients in the fascia iliaca group received 25 mg more intravenous morphine than patients in the spinal morphine group (95% CI 9.0?30.5 mg, p < 0.001). Ultrasound-guided fascia iliaca block was significantly worse than spinal morphine in the provision of analgesia in the first 24 h after total hip arthroplasty. No increase in side-effects was noted in the spinal morphine group but the study was not powered to investigate all secondary outcomes.
+ER  - 
+
+TY  - JOUR
+TI  - Oral Sessions
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 98
+IS  - S5
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.7577
+DO  - doi:10.1002/bjs.7577
+SP  - 1
+EP  - 48
+PY  - 2011
+AB  - Abstract The 46th Congress of the European Society for Surgical Research takes place this year in Aachen, Germany, 25?28 May. Copyright ? 2011 British Journal of Surgery Society Ltd. Published by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - General Surgery
+JO  - ANZ Journal of Surgery
+VL  - 74
+IS  - S1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/ans.2004.74.s1.a49
+DO  - doi:10.1111/ans.2004.74.s1.a49
+SP  - A49
+EP  - A59
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+AU  - Abramaon, Michael J
+AU  - Walters, E Haydn
+TI  - The epidemic of asthma: too much allergen or not enough infection?
+JO  - Medical Journal of Australia
+JA  - Medical Journal of Australia
+VL  - 172
+IS  - 3
+SN  - 0025-729X
+UR  - https://doi.org/10.5694/j.1326-5377.2000.tb127935.x
+DO  - doi:10.5694/j.1326-5377.2000.tb127935.x
+SP  - 119
+EP  - 121
+PY  - 2000
+AB  - Asthma has generally been thought to result from exposure to allergens in infancy leading to atopy, and eventually to airway hyperresponsiveness. There is now evidence that implicates absence of childhood infections as a factor in development of asthma. Childhood infections seem to be important in normal maturation of the immune system, with asthma a manifestation of a persistent ?immature? immune system.
+ER  - 

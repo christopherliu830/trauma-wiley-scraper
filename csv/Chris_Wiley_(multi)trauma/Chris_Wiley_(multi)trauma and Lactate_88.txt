@@ -1,0 +1,309 @@
+
+TY  - JOUR
+TI  - Poster Presentations
+JO  - Journal of Tissue Engineering and Regenerative Medicine
+JA  - J Tissue Eng Regen Med
+VL  - 8
+IS  - s1
+SN  - 1932-6254
+UR  - https://doi.org/10.1002/term.1932
+DO  - doi:10.1002/term.1932
+SP  - 207
+EP  - 518
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - 2019 ACCP Annual Meeting
+JO  - JACCP:  JOURNAL OF THE AMERICAN COLLEGE OF CLINICAL PHARMACY
+JA  - J Am Coll Clin Pharm
+VL  - 3
+IS  - 1
+UR  - https://doi.org/10.1002/jac5.1204
+DO  - doi:10.1002/jac5.1204
+SP  - 145
+EP  - 391
+PY  - 2020
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts accepted for publication only
+JO  - Clinical Microbiology and Infection
+VL  - 18
+IS  - s3
+SN  - 1198-743X
+UR  - https://doi.org/10.1111/j.1469-0691.2012.03803.x
+DO  - doi:10.1111/j.1469-0691.2012.03803.x
+SP  - 716
+EP  - 844
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+C8  - TME-2019-0033.R1
+TI  - Abstracts-Speaker Sessions
+JO  - Transfusion Medicine
+JA  - Transfusion Med
+VL  - 29
+IS  - S2
+SN  - 0958-7578
+UR  - https://doi.org/10.1111/tme.12635
+DO  - doi:10.1111/tme.12635
+SP  - 3
+EP  - 24
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Annals of Neurology
+JA  - Ann Neurol.
+VL  - 34
+IS  - 3
+SN  - 0364-5134
+UR  - https://doi.org/10.1002/ana.410340333
+DO  - doi:10.1002/ana.410340333
+SP  - 442
+EP  - 508
+PY  - 1993
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Vox Sanguinis
+JA  - Vox Sang
+VL  - 112
+IS  - S2
+SN  - 0042-9007
+UR  - https://doi.org/10.1111/vox.12601
+DO  - doi:10.1111/vox.12601
+SP  - 5
+EP  - 191
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+TI  - Posters
+JO  - Glia
+JA  - Glia
+VL  - 57
+IS  - S13
+SN  - 0894-1491
+UR  - https://doi.org/10.1002/glia.20915
+DO  - doi:10.1002/glia.20915
+SP  - S26
+EP  - S171
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+AU  - Fan, Reuben H.
+AU  - Does, Mark D.
+TI  - Compartmental relaxation and diffusion tensor imaging measurements in vivo in λ-carrageenan-induced edema in rat skeletal muscle
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 21
+IS  - 6
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.1226
+DO  - doi:10.1002/nbm.1226
+SP  - 566
+EP  - 573
+KW  - diffusion tensor imaging
+KW  - muscle
+KW  - injury
+KW  - edema
+KW  - multiexponential T2
+KW  - apparent diffusion coefficient
+KW  - fractional anisotropy
+PY  - 2008
+AB  - Abstract Integrated diffusion tensor T2 measurements were made on normal and edematous rat muscle, and the data were fitted with one- and two-compartment models, respectively. Edematous muscle exhibited a short-lived component (T2?=?28?±?6?ms), with diffusion characteristics similar to that of normal muscle, and a long-lived component (T2?=?96?±?27?ms), with greater mean apparent diffusion coefficient (ADC) and lower fractional anisotropy (FA). With this two-component description of diffusion and relaxation, values of ADC and FA estimated with a conventional pulsed-gradient spin-echo sequence will depend on the echo time, relative fraction of short-lived and long-lived water signals, and the intrinsic ADC and FA values within the tissue. On the basis of the relative differences in water diffusion properties between long-lived and short-lived water signals, as well as the similarities between the short-lived component and normal tissue, it is postulated that these two signal components largely reflect intracellular and extracellular water. Copyright ? 2007 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts
+JO  - The Journal of Dermatology
+JA  - J Dermatol
+VL  - 41
+IS  - s1
+SN  - 0385-2407
+UR  - https://doi.org/10.1111/1346-8138.12686
+DO  - doi:10.1111/1346-8138.12686
+SP  - 17
+EP  - 114
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+AU  - Andrew, D.
+AU  - Greenspan, J. D.
+TI  - Modality-specific hyper-responsivity of regenerated cat cutaneous nociceptors
+JO  - The Journal of Physiology
+VL  - 516
+IS  - 3
+SN  - 0022-3751
+UR  - https://doi.org/10.1111/j.1469-7793.1999.0897u.x
+DO  - doi:10.1111/j.1469-7793.1999.0897u.x
+SP  - 897
+EP  - 906
+PY  - 1999
+AB  - 1 Experiments were performed on anaesthetized cats to investigate the receptive properties of regenerated cutaneous tibial nerve nociceptors, and to obtain evidence for coupling between them and other afferent fibres as being possible peripheral mechanisms involved in neuropathic pain. These properties were studied 6-7 months after nerve section and repair. 2 Recordings were made from 25 regenerated nociceptors; 14 were A fibres and the remainder were C fibres. Their receptive field sizes and conduction velocities were similar to controls. There was no significant difference between their mechanical thresholds and those of a control population of nociceptors. 3 Regenerated nociceptors were significantly more responsive to suprathreshold mechanical stimuli than were uninjured control fibres. This increase in mechanical sensitivity occurred in both A and C fibres, although A fibres showed a greater increase in mechano-sensitivity than C fibres. Over half of the regenerated nociceptors (13/25) showed after-discharge to mechanical stimuli which was never seen in controls; the mean firing rate during this period of after-discharge was significantly related to both stimulus intensity and stimulus area. 4 There was no significant difference between the heat encoding properties of regenerated nociceptors and control nociceptors. Cold sensitivity was similarly unchanged. Thus, abnormal peripheral sprouting was unlikely to account for the increased mechanical sensitivity of the regenerated fibres. None of the regenerated nociceptors were found to be coupled to other fibres. 5 These results suggest that the clinical observation of mechanical hyperalgesia in patients after nerve injury may have a peripheral basis. Based on this model, other signs of neuropathic pain (i.e. tactile or thermal allodynia) are more likely to be due to altered central processing.
+ER  - 
+
+AU  - Morgan, Judith
+AU  - Wood, Ian
+C7  - pp. 108-132
+TI  - Shock
+SN  - 9781444337167
+UR  - https://doi.org/10.1002/9781118702864.ch5
+DO  - doi:10.1002/9781118702864.ch5
+SP  - 108-132
+KW  - Airway and breathing
+KW  - Anaphylaxis
+KW  - Blood loss and dehydration
+KW  - Cardiogenic shock
+KW  - Exposure
+KW  - Hypovolaemic shock
+KW  - Neurological disability
+KW  - Nursing care
+KW  - Septic shock
+KW  - Shock
+PY  - 1999
+AB  - Summary This chapter contains sections titled: A: Hypovolaemic Shock B: Cardiogenic Shock C: Distributive Shock Septic Shock Anaphylactic Shock
+ER  - 
+
+TY  - JOUR
+TI  - Friday 30 October 2015
+JO  - Journal of Medical Imaging and Radiation Oncology
+JA  - Journal of Medical Imaging and Radiation Oncology
+VL  - 59
+IS  - S1
+SN  - 9781444337167
+UR  - https://doi.org/10.1111/1754-9485.12396
+DO  - doi:10.1111/1754-9485.12396
+SP  - 38
+EP  - 72
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+AU  - Chang, T.M.S.
+TI  - Modified Hemoglobin-based Blood Substitutes: Crosslinked, Recombinant and Encapsulated Hemoglobin
+JO  - Vox Sanguinis
+VL  - 74
+IS  - S2
+SN  - 9781444337167
+UR  - https://doi.org/10.1111/j.1423-0410.1998.tb05425.x
+DO  - doi:10.1111/j.1423-0410.1998.tb05425.x
+SP  - 233
+EP  - 241
+PY  - 1998
+AB  - Abstract Native hemoglobin in the form of stroma-free hemoglobin cannot be used as blood substitute. Hemoglobin has to be modified either molecularly or encapsulated. First generation molecularly modified ultrapure hemoglobins are now in clinical trial - some in Phase III. There are a number of these. Polyhemoglo- bin is formed by crosslinking hemoglobin molecules intermolecularly and intra- molecularly. A crosslinked single hemoglobin molecule is formed by crosslinking hemoglobin intramolecularly. Recombinant hemoglobin from E.coli is formed by fusion of the subunits of each hemoglobin molecule. Conjugated hemoglobin is formed by crosslinking each hemoglobin molecule to soluble polymers. A second generation system formed by crosslinking hemoglobin- superoxide dismutase-catalase is being developed. A third generation hemoglobin-based blood substitute is based on microencapsulated hemoglobin, artificial red blood cells, that more closely resemble a complete red blood cell.
+ER  - 
+
+AU  - Heneghan, Michael A.
+C7  - pp. 208-226
+TI  - Fulminant Hepatic Failure
+SN  - 9781405130325
+UR  - https://doi.org/10.1002/9780470751541.ch13
+DO  - doi:10.1002/9780470751541.ch13
+SP  - 208-226
+KW  - fulminant hepatic failure
+KW  - multiorgan failure
+KW  - jaundice
+KW  - geographical location
+KW  - acetaminophen
+PY  - 1998
+AB  - Summary This chapter contains section titled: INTRODUCTION DEFINITIONS CAUSES OF FULMINANT HEPATIC FAILURE MANAGEMENT OF FULMINANT HEPATIC FAILURE MAKING THE DIAGNOSIS PROGNOSIS WITHOUT LIVER TRANSPLANTATION MANAGEMENT ISSUES ORTHOTOPIC, AUXILIARY, AND LIVING-RELATED TRANSPLANTATION IN FHF STEPS IN REFERRAL PRIOR TO TRANSFER ROLE OF ARTIFICIAL LIVER SUPPORT
+ER  - 
+
+TY  - JOUR
+AU  - Anderson, Stasia A.
+AU  - Frank, Joseph A.
+TI  - MRI of mouse models of neurological disorders
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 20
+IS  - 3
+SN  - 9781405130325
+UR  - https://doi.org/10.1002/nbm.1167
+DO  - doi:10.1002/nbm.1167
+SP  - 200
+EP  - 215
+KW  - MRI
+KW  - mouse
+KW  - brain
+KW  - spinal cord
+KW  - central nervous system diseases
+PY  - 2007
+AB  - Abstract MRI has contributed to significant advances in the understanding of neurological diseases in humans. It has also been used to evaluate the spectrum of mouse models spanning from developmental abnormalities during embryogenesis, evaluation of transgenic and knockout models, through various neurological diseases such as stroke, tumors, degenerative and inflammatory diseases. The MRI techniques used clinically are technically more challenging in the mouse because of the size of the brain; however, mouse imaging provides researchers with the ability to explore cellular and molecular imaging that one day may translate into clinical practice. This article presents an overview of the use of MRI in mouse models of a variety of neurological disorders and a brief review of cellular imaging using magnetically tagged cells in the mouse central nervous system. Published in 2007 by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts
+JO  - Vox Sanguinis
+JA  - Vox Sang
+VL  - 105
+IS  - s1
+SN  - 9781405130325
+UR  - https://doi.org/10.1111/vox.12048
+DO  - doi:10.1111/vox.12048
+SP  - 65
+EP  - 299
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - Annual Meeting of the American Epilepsy Society New Orleans Louisiana, December 2–8, 1994
+JO  - Epilepsia
+VL  - 35
+IS  - s8
+SN  - 9781405130325
+UR  - https://doi.org/10.1111/j.1528-1157.1994.tb02941.x
+DO  - doi:10.1111/j.1528-1157.1994.tb02941.x
+SP  - 1
+EP  - 164
+PY  - 1994
+ER  - 
+
+TY  - JOUR
+TI  - Labour and Obstetric Complications (EP8)
+JO  - BJOG: An International Journal of Obstetrics & Gynaecology
+JA  - BJOG: Int J Obstet Gy
+VL  - 123
+IS  - S2
+SN  - 9781405130325
+UR  - https://doi.org/10.1111/1471-0528.14106
+DO  - doi:10.1111/1471-0528.14106
+SP  - 145
+EP  - 169
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Basic & Clinical Pharmacology & Toxicology
+JA  - Basic Clin Pharmacol Toxicol
+VL  - 117
+IS  - S4
+SN  - 9781405130325
+UR  - https://doi.org/10.1111/bcpt.12519
+DO  - doi:10.1111/bcpt.12519
+SP  - 1
+EP  - 45
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - Oral Presentations
+JO  - Journal of Inherited Metabolic Disease
+JA  - J Inherit Metab Dis
+VL  - 41
+IS  - S1
+SN  - 9781405130325
+UR  - https://doi.org/10.1007/s10545-018-0233-9
+DO  - doi:10.1007/s10545-018-0233-9
+SP  - 37
+EP  - 219
+PY  - 2018
+ER  - 

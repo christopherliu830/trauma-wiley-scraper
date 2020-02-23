@@ -1,0 +1,253 @@
+Kidney trauma, ﻿(AFP), 5
+Kidney trauma, (ARG1) , 0
+Kidney trauma, (ASS), 3
+Kidney trauma, (ATL), 1
+Kidney trauma, (CcK18), 0
+Kidney trauma, (CD3), 3
+Kidney trauma, (CD4) , 4
+Kidney trauma, (CD8) , 2
+Kidney trauma, (EST-1), 0
+Kidney trauma, (HLA)-DR, 0
+Kidney trauma, (KIM-1), 2
+Kidney trauma, (LDH), 6
+Kidney trauma, (MCSFR), 0
+Kidney trauma, (MDH), 0
+Kidney trauma, (MODS) , 3
+Kidney trauma, (NO) , 64
+Kidney trauma, (NT-proBNP), 0
+Kidney trauma, (PaCO2) , 1
+Kidney trauma, (PAF) , 0
+Kidney trauma, (PAI), 2
+Kidney trauma, (PaO2), 1
+Kidney trauma, (PaO2) , 1
+Kidney trauma, (PCT), 1
+Kidney trauma, (PMN), 0
+Kidney trauma, (ROC), 9
+Kidney trauma, (SCr), 3
+Kidney trauma, (TFF3), 1
+Kidney trauma, (TTL), 0
+Kidney trauma, (VEGF), 4
+Kidney trauma, (VPA), 0
+Kidney trauma, (VTE), 2
+Kidney trauma, (WBC), 5
+Kidney trauma, 4-hydroxy-phenylpyruvate dioxygenase (HPD), 0
+Kidney trauma, 5 nucleotidase, 1
+Kidney trauma, Abbreviated Injury Scale, 2
+Kidney trauma, Active T lymphocytes , 0
+Kidney trauma, Albumin, 14
+Kidney trauma, ALP alkaline phosphatase, 0
+Kidney trauma, Alpha fetoprotein, 3
+Kidney trauma, alpha-glutathioneS-transferase , 0
+Kidney trauma, ALT alanine aminotransferase, 0
+Kidney trauma, Amylase, 0
+Kidney trauma, Amyloid A, 0
+Kidney trauma, APACHE II, 1
+Kidney trauma, Area under the receiver operating characteristic curve, 1
+Kidney trauma, Arginase-1, 0
+Kidney trauma, argininosuccinate synthetase , 1
+Kidney trauma, Arterial partial pressure of carbon dioxide, 1
+Kidney trauma, Arterial partial pressure of oxygen , 1
+Kidney trauma, Arterial Ph, 0
+Kidney trauma, Arterial pressure, 5
+Kidney trauma, AST aspartate aminotransferase, 0
+Kidney trauma, AUC, 7
+Kidney trauma, AUROCs, 0
+Kidney trauma, B lymphocytes, 1
+Kidney trauma, Bilirubin , 4
+Kidney trauma, Biochemical, 12
+Kidney trauma, Biochemical marker, 0
+Kidney trauma, Biochemical panel, 0
+Kidney trauma, Biochemical parameters, 2
+Kidney trauma, Biomarker panel, 0
+Kidney trauma, Biomarkers, 8
+Kidney trauma, Blood pressure, 27
+Kidney trauma, Blood urine nitrogen, 0
+Kidney trauma, BNP, 1
+Kidney trauma, BUN , 6
+Kidney trauma, C3 complement, 0
+Kidney trauma, C5a, 0
+Kidney trauma, Cadherin-5, 0
+Kidney trauma, Calcium , 16
+Kidney trauma, Caspase cleaved cytokeratin 18, 0
+Kidney trauma, CDH5, 0
+Kidney trauma, Ceruloplasmin , 0
+Kidney trauma, Chip , 4
+Kidney trauma, CK-MB, 0
+Kidney trauma, Clinical factors, 5
+Kidney trauma, Clinical parameters, 6
+Kidney trauma, Clinical variable , 0
+Kidney trauma, Coagulation tests, 2
+Kidney trauma, Collagen IV, 1
+Kidney trauma, Complement, 3
+Kidney trauma, Complement factor B, 0
+Kidney trauma, Complete blood counts, 1
+Kidney trauma, Computed tomogram, 2
+Kidney trauma, Computed tomographic scanning, 1
+Kidney trauma, Computed tomography  , 27
+Kidney trauma, C-reactive protein , 7
+Kidney trauma, Creatine kinase, 0
+Kidney trauma, Creatine kinase muscle and brain, 0
+Kidney trauma, Creatinine, 20
+Kidney trauma, CRP, 4
+Kidney trauma, CT scan, 21
+Kidney trauma, CTnI, 0
+Kidney trauma, CXCL10 , 1
+Kidney trauma, CXCR3, 0
+Kidney trauma, Cystatin C, 1
+Kidney trauma, Cytokeratin 18, 0
+Kidney trauma, D-Dimer , 1
+Kidney trauma, Diagnosis, 50
+Kidney trauma, Diagnostic, 34
+Kidney trauma, Diagnostic modelling, 0
+Kidney trauma, EGFR, 7
+Kidney trauma, Estimated glomerular filtration rate, 6
+Kidney trauma, Estrogen sulfotransferase, 0
+Kidney trauma, F- Protein, 0
+Kidney trauma, FABP , 1
+Kidney trauma, FABP1, 0
+Kidney trauma, FABPs, 0
+Kidney trauma, Fatty Acid Binding Protein, 1
+Kidney trauma, FDP, 0
+Kidney trauma, Fibrin degradation products, 1
+Kidney trauma, Fibrin fibrinogen degradation products, 0
+Kidney trauma, Fibrinogen, 2
+Kidney trauma, Fibtem, 0
+Kidney trauma, Full blood cell count, 0
+Kidney trauma, Gamma glutamyl transferase , 0
+Kidney trauma, Glasgow Coma Scale, 2
+Kidney trauma, GLDH, 0
+Kidney trauma, Glucose, 16
+Kidney trauma, Glutamate dehydrogenase, 0
+Kidney trauma, Glutathione S-transferase alpha, 0
+Kidney trauma, Glutathione S-transferases (GST), 0
+Kidney trauma, GSTA, 0
+Kidney trauma, GSTα, 0
+Kidney trauma, Heart rate, 8
+Kidney trauma, Helper T cells , 0
+Kidney trauma, Hematocrite, 0
+Kidney trauma, Hemoglobin, 16
+Kidney trauma, High Mobility Group Box-1 , 0
+Kidney trauma, HMGB1, 1
+Kidney trauma, Howell-Jolly bodies, 0
+Kidney trauma, HPPD, 0
+Kidney trauma, hsCRP, 1
+Kidney trauma, hs-CRP, 0
+Kidney trauma, Human leucocyte antigen, 1
+Kidney trauma, Hyaluronic Acid, 4
+Kidney trauma, I-FABP, 0
+Kidney trauma, IgA, 3
+Kidney trauma, IgG , 3
+Kidney trauma, IgM , 1
+Kidney trauma, IL-10, 1
+Kidney trauma, IL-18, 1
+Kidney trauma, IL-6, 3
+Kidney trauma, IL-8, 1
+Kidney trauma, Imaging, 41
+Kidney trauma, Immunoglobulins , 0
+Kidney trauma, Independent predictors   , 6
+Kidney trauma, Injury severity score, 3
+Kidney trauma, Intestinal-FABP, 0
+Kidney trauma, IP-10, 1
+Kidney trauma, ISS, 5
+Kidney trauma, Jolly bodies, 0
+Kidney trauma, K18, 0
+Kidney trauma, Kidney injury molecule-1, 1
+Kidney trauma, Laboratory parameters, 2
+Kidney trauma, Laboratory tests, 5
+Kidney trauma, Lactate, 11
+Kidney trauma, Lactate dehydrogenase , 5
+Kidney trauma, LECT2, 0
+Kidney trauma, Leucocyte cell-derived chemotaxin-2, 0
+Kidney trauma, L-FABP, 1
+Kidney trauma, Lipase, 0
+Kidney trauma, Lipocalin, 2
+Kidney trauma, Liver enzyme tests, 0
+Kidney trauma, Liver-FABP, 0
+Kidney trauma, Lymphocytes, 4
+Kidney trauma, Macrophage colony stimulating factor receptor, 0
+Kidney trauma, malate dehydrogenase , 0
+Kidney trauma, Marker, 10
+Kidney trauma, Mean arterial BP , 0
+Kidney trauma, microRNA-122 , 0
+Kidney trauma, MicroRNAs, 3
+Kidney trauma, miR-122, 0
+Kidney trauma, miR-216a , 0
+Kidney trauma, miR-216b , 0
+Kidney trauma, miR-217, 0
+Kidney trauma, miRNAs, 3
+Kidney trauma, Molecular biomarker, 0
+Kidney trauma, Molecular markers, 1
+Kidney trauma, Multiple organ dysfunction score, 0
+Kidney trauma, Myeloperoxidase, 1
+Kidney trauma, Myoglobin, 2
+Kidney trauma, N-acetyl-β-D-glucosaminidase, 0
+Kidney trauma, Neutrophil Gelatinase-Associated Lipocalin, 2
+Kidney trauma, Neutrophils, 3
+Kidney trauma, NGAL, 2
+Kidney trauma, N-GAL, 0
+Kidney trauma, NISS, 0
+Kidney trauma, Nitric oxide, 7
+Kidney trauma, Novel markers, 0
+Kidney trauma, N-terminal pro-B-type natriuretic peptide , 0
+Kidney trauma, Nuclear fragments in circulating erythrocytes, 0
+Kidney trauma, Odd ratio, 3
+Kidney trauma, OPN, 2
+Kidney trauma, Osteopontin, 0
+Kidney trauma, PaO2 , 1
+Kidney trauma, Parameters , 12
+Kidney trauma, Paraoxonase 1 normalized to prothrombin protein, 0
+Kidney trauma, Paraxonase 1 , 0
+Kidney trauma, Pathogenic, 2
+Kidney trauma, Pathologic, 10
+Kidney trauma, Phosphate, 17
+Kidney trauma, Physiologic , 4
+Kidney trauma, Plasminogen activator inhibitor, 1
+Kidney trauma, Platelet count, 4
+Kidney trauma, Platelet-activating factor, 0
+Kidney trauma, Platelets, 5
+Kidney trauma, Platelets and pH-value, 0
+Kidney trauma, PNP, 0
+Kidney trauma, Point of care , 2
+Kidney trauma, Polymorphonuclear elastase, 0
+Kidney trauma, Polymorpho-nuclear neutrophil elastase, 0
+Kidney trauma, PON1, 0
+Kidney trauma, Potassium, 13
+Kidney trauma, Procalcitonin, 2
+Kidney trauma, Properdin, 0
+Kidney trauma, Protein C, 1
+Kidney trauma, Prothrombin time, 0
+Kidney trauma, Purine nucleoside phosphorylase , 0
+Kidney trauma, Receiver operating characteristic curves, 1
+Kidney trauma, Red cell count, 0
+Kidney trauma, Respiration rate, 0
+Kidney trauma, Revised Trauma score, 0
+Kidney trauma, Risk factors, 18
+Kidney trauma, Screening methods, 3
+Kidney trauma, SDH, 0
+Kidney trauma, Sequential organ failure assessment, 1
+Kidney trauma, Sodium , 19
+Kidney trauma, SOFA, 1
+Kidney trauma, Sorbitol dehydrogenase, 1
+Kidney trauma, Suppressor T-cells, 0
+Kidney trauma, Temperature, 24
+Kidney trauma, Test , 38
+Kidney trauma, Testing, 15
+Kidney trauma, The post-traumatic plasma levels of soluble tumor necrosis factor receptors p55 and p75, 0
+Kidney trauma, Total and segmented leukocytes, 0
+Kidney trauma, Total T lymphocytes , 0
+Kidney trauma, Trauma scoring systems, 0
+Kidney trauma, Trefoil Factor 3, 1
+Kidney trauma, TRISS, 0
+Kidney trauma, Troponin, 1
+Kidney trauma, Trypsin-2-a1antitrypsin complex , 0
+Kidney trauma, Trypsin-2-AAT, 0
+Kidney trauma, Trypsinogen-2 , 0
+Kidney trauma, Tuftsin, 0
+Kidney trauma, Ultrasound, 27
+Kidney trauma, Urea, 15
+Kidney trauma, Valproic acid, 1
+Kidney trauma, Vascular endothelial growth factor , 2
+Kidney trauma, Venous thromboembolism, 2
+Kidney trauma, White blood cell count , 3
+Kidney trauma, α-fetoprotein, 0
+Kidney trauma, , 0

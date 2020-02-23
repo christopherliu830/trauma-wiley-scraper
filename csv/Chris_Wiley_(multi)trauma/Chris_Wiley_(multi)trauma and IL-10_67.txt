@@ -1,0 +1,369 @@
+
+TY  - JOUR
+AU  - Ducale, A.E.
+AU  - Dechert, T.A.
+AU  - Ward, S.I.
+AU  - Yager, D.R.
+TI  - 030 Inhibition of Mitogen Activated Kinase-Mediated Hyaluronan Expression by Glucocorticoids
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215ad.x
+DO  - doi:10.1111/j.1067-1927.2005.130215ad.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Background and Objectives:? Hyaluronan (HA), a ubiquitous glycosaminoglycan is synthesized by one of three distinct hyaluronan synthases (HAS). The purposes of this study were to determine whether a cause-and-effect relationship exists between the proinflammatory cytokine, interleukin-1?(IL-1?), and hyaluronan expression in normal jejunum-derived mesenchymal cells (JDMCs), to identify possible mechanisms involved and to determine the effects of glucocorticoids, a common therapy for intestinal inflammatory pathologies including Crohn?s disease and ulcerative colitis (UC), on cytokine-mediated hyaluronan expression. Experimental Procedures:? JDMCs were stimulated with IL-1? for 20?hr with or without pretreatment for 1?hr with mitogen activated protein kinase (MAPK) inhibitors or dexamethasone. HA levels from culture media were quantified using a slot blotting approach. HAS transcript levels were quantified using RPA. Immunoblotting was used to detect and quantify activation of MAP kinases. Results:? Preliminary data of sample tissue from patients with Crohn?s or UC indicated increased HAS transcript levels. Similarly, IL-1? induced an approximate 18-fold increase in both HAS2 steady state transcripts and HA levels. These increases were blocked by dexamethasone (95%). Knockdown with siRNA demonstrated that IL-1? induction of HA expression occurred via HAS2. Immunoblot analysis indicated that IL-1? activated the ERK1/2, p38 and JNK pathways. Inhibitors of the p38 and ERK1/2, but not JNK, blocked the IL-1? induction of HA expression (80 and 90%, repectively). Similarly, dexamethasone was also found to block activation of the ERK1/2 and p38 pathways indicating a mechanism for glucocorticoid steroid regulation of HAS expression. Conclusion:? This study provides evidence for proinflammatory cytokine regulation of HA expression in JDMCs. Furthermore, this study provides support for the hypothesis that HA may be one of the targets involved in the treatment of steroid-dependent inflammatory bowel disease. Support:? This work was supported by NIH GM 58530.
+ER  - 
+
+TY  - JOUR
+AU  - Kryger,             Z.B.
+AU  - Sisco, M.
+AU  - Roy, N.K.
+AU  - Mustoe, T.A.
+TI  - 040  The Temporal Expression of the TGF-Beta Pathway in the Rabbit Ear Model of Hypertrophic Scarring
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215an.x
+DO  - doi:10.1111/j.1067-1927.2005.130215an.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Introduction:? There is extensive data implicating the role of the TGF-beta pathway in hypertrophic scarring. However, few studies have examined the temporal expression of the various TGF-beta cytokines and their receptors. Purpose:? This study sought to determine the temporal mRNA expression of TGF-beta1, TGF-beta2, TGF-beta3, TGFR-I, TGFR-II, Smad-3, and collagen I in a rabbit ear model of hypertrophic scarring compared to smaller, nonhypertrophic control scars. Methods:? In an established model of hypertrophic scarring, 7?mm (hypertrophic) and 5?mm (nonhypertrophic control) punch wounds were made on the ears of 12 rabbits. Wounds were harvested at days 7, 15, 28, and 40. Histologic evaluation was performed on all scars in order to validate the model. Real-time RT-PCR was performed to compare mRNA expression between the various time points. Results:? At day 7, the 5?mm wounds had epithelialized to a greater extent than the 7?mm wounds. At day 28 and 40, the 7?mm scars were hypertrophic compared to the 5?mm control scars. In both 7?mm and 5?mm scars, TGF-beta1 and beta3 levels declined over time. In 7?mm scars, TGF-beta2 peaked at day 28, TGFR-I levels peaked at day 15, and TGFR-II and Smad-3 remained stable over time. As expected, collagen I expression peaked at day 28. In the 5?mm scars, TGF-beta2 levels remained stable, TGFR-I levels peaked at day 28, while levels of TGFR-II and Smad-3 declined slightly over time. Collagen I expression peaked at day 15. Conclusions:? The up-regulation of TGF-beta2 mRNA expression in hypertrophic but not flat scars indicates that it may be important to scar hypertrophy. The sustained expression of TGFR-II and Smad-3 in hypertrophic scars compared to controls suggests that the role of the TGF-beta family in the process of hypertrophic scarring is complex. This study was supported by an NIH grant (5R01GM063825-03) awarded to T.A. Mustoe.
+ER  - 
+
+TY  - JOUR
+AU  - Okwueze,             M.I.
+AU  - Cardwell, N.L.
+AU  - Pollins, A.C.
+AU  - Nanney, L.B.
+TI  - 042 Role of Erbb3 and Epidermal Growth Factor-Like Ligands on Wound Healing
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215ap.x
+DO  - doi:10.1111/j.1067-1927.2005.130215ap.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - The role of the EGF superfamily of growth factors and their receptors during wound healing continues to unfold. The aim of the study was to determine the effect of overexpression of erbB3 in wound healing and whether topical application of its various ligands enhances repair. Partial thickness porcine wounds were transfected with recombinant adenoviral particles containing erbB3 receptor gene or a vehicle ?-galactosidase gene (Lac Z). Highly similar ligands: Epidermal growth factor (EGF), Epiregulin (EPR), Heparin-binding epidermal growth factor (HB-EGF), Heregulin (HER) were topically applied to wounds boosted with erbB3 receptors. Enhanced wound healing parameters were assessed 5 days after initial treatment for reepithelization, dermal depth, macrophage infiltration, proliferating cells, angiogenesis, and apoptotic cells. Treatment with EPR and HB-EGF promoted greater resurfacing of the epidermal layer than EGF, HER, erbB3 only or vehicle treated wounds. Neodermal formation as measured by dermal or granulation depth was significantly different in the EPR and HB-EGF treated wounds compared to EGF, HER, erbB3 only or vehicle. Numerous hallmarks of enhanced wound maturity (fewer infiltrating macrophages, significant reductions in neovascularization, fibroblastic proliferation) were noted in EPR- and HB-EGF-treated wounds transfected with erbB3 as compared to vehicle controls. Only erbB3 wounds treated with these particular ligands showed significant increases in apoptotic cells. Our results indicate that wounds treated with this erbB3 receptor form supplied with topical application of EPR and HB-EGF exhibit synergistic and accelerating reparative effects on porcine partial thickness wounds as compared to vehicle. These in vivo findings suggest the complexity and evidence of synergism between the erbB receptor and its various ligands on wound healing. (This research work was funded by the NIH GM40437.)
+ER  - 
+
+TY  - JOUR
+AU  - Stotts, N.A.
+AU  - Puntillo, K.
+AU  - Morris, A.B.
+AU  - Stanik-Hutt, J.
+AU  - Thompson, C.L.
+AU  - White, C.
+AU  - Wild, L.R.
+TI  - 002 How Painful is Wound Care?
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215b.x
+DO  - doi:10.1111/j.1067-1927.2005.130215b.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - This study examined adult hospitalized patients? responses to wound care pain and its treatment. Wound care included dressing change, packing, irrigation, and debridement. The subjective experience of pain intensity was measured with a numeric rating scale (NRS) prior to, immediately after, and 10 minutes after completion of the procedure. The sample was composed of 412 subjects. Most were male (52.3%), white (73.9%), had one wound (59.5%), and had undergone surgery (73.9%). When pain intensity was compared over time, pain intensity was greatest (NRS 4.4, SD 3.2) during the procedure (p?<?.023), and nonsurgical patients experienced significantly greater pain than surgical patients (p?=?.002)(NRS 5.3, SD 3.0, NRS 4.1, SD3.2, respectively). Most patients underwent multiple wound care procedures. When the pain intensity of undergoing only a dressing change (n?=?61), only packing (n?=?41), or ≥2 procedures (n?=?258) was examined by whether subjects had undergone surgery or no surgery, nonsurgical patients reported greater pain intensity with dressing change (p?<?.001) and ≥2 procedures (p?<?.001). Few subjects received analgesics (7.3% surgical patients 5.9% nonsurgical); there was no difference by group in the amount of opioid administered (p?=?.821). Sedatives and NSAIDS were rarely used. Treatment with pain medication was examined over time. Those with least pain received significantly less pain medication when compared with those who received premedication only and those who received medication prior to and during the procedure (p?<?.05). Findings show wound care is painful and wound care pain is undertreated. Further research is needed to address the effect of pain on wound-related patient outcomes and strategies to minimize pain. Acknowledgment:? Funded by the AACN, K. Puntillo, PI
+ER  - 
+
+TY  - JOUR
+AU  - Bodnar,             Richard J.
+AU  - Wells, Alan
+TI  - 057 Activation of CXCR 3 Inhibits Endothelial Tube Formation Through the Modulation of M-Calpain
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215be.x
+DO  - doi:10.1111/j.1067-1927.2005.130215be.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Angiogenesis plays a critical role in wound healing. In wound healing new blood vessels are generated, then later in scar-resolving stages of the repair process, these newly formed blood vessels undergo destabilization and significant regression. ELR-negative chemokines have been shown to have angiostatic properties and are produced in high concentration late in the granulation tissue and resolving stage of wound repair. The receptor for the ELR-negative chemokines, CXCR3, is expressed on endothelial cells but its function is not known. To understand the physiologic role CXCR3 plays in regulating endothelial function, we analyzed the ability of the CXCR3 ligand, IP-10, to inhibit endothelial cell tube formation. IP-10 was able to inhibit endothelial cell tube formation alone and prevent VEGF-induced tube formation on Matrigel?. Treatment of endothelial cells with IP-10 significantly inhibited endothelial motility. Thus, the ELR-negative chemokines inhibit angiogenesis by inhibiting endothelial motility. To identify the signaling pathway(s) mediated by CXCR3 that inhibit endothelial cell motility, we looked at the regulation of key processes. As CXCR3 is a receptor known to generate cAMP, as we show in these cells, we examined PKA-mediated inhibition of calpain. Treatment of endothelial cells with VEGF induced the activation of m-calpain but costimulation with IP-10 significantly decreased m-calpain activity. Using cAMP analogs, 8-Br-cAMP, a PKA activator, is able to inhibit VEGF- induced motility and Rp-8-Br-cAMP, a PKA inhibitor, is able to reverse the inhibitory effects of IP-10 on endothelial migration and calpain activation. To further demonstrate that m-calpain is important in endothelial motility we show that siRNA knockdown of m-calpain inhibited VEGF induced migration. These data indicate that activation of CXCR3 inhibits endothelial migration through the PKA-mediated inhibition of m-calpain. These findings provide new targets to modulate the resolution phase of wound repair.
+ER  - 
+
+TY  - JOUR
+AU  - Harunari, N
+AU  - Engrav, L.H.
+AU  - Armendariz, R.T.
+AU  - Zhu, K.Q.
+AU  - Deubner, H
+AU  - Muangman, P
+AU  - Carrougher, G.J.
+AU  - Gibran, N.S.
+TI  - 095 Comparison of Collagen Nodules and Mast Cells Between Human Hypertrophic Scar and Thick Scar of the Female Red Duroc Pig
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215cq.x
+DO  - doi:10.1111/j.1067-1927.2005.130215cq.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Introduction:? There are several proposed animal models of hypertrophic scarring. However, most are quite dissimilar from the actual human event. It has been shown that wounds on the female, red Duroc pig heal with thick scars. We are attempting to fully validate this model. A fourfold increase in mast cells and formation of collagen nodules have been described as characteristics of human hypertrophic scar. We hypothesized the occurrence of nodules and mast cells in Duroc scars is similar. Methods:? For nodules, we biopsied human hypertrophic scars (47 cases) taken 5 to 67 months from injury and Duroc scars (six animals) taken 0 to 5 months from injury. For mast cells, we biopsied human hypertrophic scar (five cases) taken 24 to 30 months from injury and Duroc scars (five animals) taken 5 months from injury. We stained the sections with hematoxylin and eosin (nodules) and Giemsa (mast cells) and counted intact mast cells in the upper papillary dermis in 20 and recorded nodules as present or absent. Results:? The results are included the table below. Tissue Month n Nodules mean?±?SD P Duroc Scar ?0?3 10 ?0 ?4?5 ?6 50% NODULES Human Hypertrophic ?5?12 ?9 33% 12?24 22 36% 24?67 16 81% MAST CELLS Duroc Scar ?4?5 ?5 ?41?±?26 <.05 Duroc Uninjured ?5 ?18?±?9 Human Hypertrophic 24?30 ?5 251?±?139 <.01 Human Uninjured ?5 ?60?±?24 Conclusion:? Collagen nodules and increased numbers of mast cells are present in Duroc scar giving further validity to the female, red Duroc pig as an animal model of hypertrophic scarring.
+ER  - 
+
+TY  - JOUR
+AU  - Weingarten, M.S.
+AU  - Papazoglou, E.S.
+AU  - Zubkov, L.
+AU  - Zhu, L.
+AU  - Prestrud, A.A.
+AU  - Saggar, S.
+AU  - Vorona, G.
+TI  - 010 Measurement of Optical Properties to Quantify Healing of Chronic Diabetic Wounds
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215j.x
+DO  - doi:10.1111/j.1067-1927.2005.130215j.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Background:? Both passive and active dressings and technologies are proposed for treatment of chronic diabetic wounds. A quantitative assessment of healing is needed. Measurement of scattering and absorption characteristics of healing tissue, by Diffuse Near Infrared Spectroscopy (NIR) may provide such a method. Methods:? 20 rats were divided into an induced diabetic and a control group (N?=?10 each). Full thickness wounds were made on the dorsal surface and biopsies sent for histologic analysis. Wounds were interrogated at twice per week intervals using a frequency domain near infrared device with three wavelengths of incident light. Amplitude and phase of scattered light were obtained at four different source-detector distances at each wavelength. The probe was positioned at six different locations. Tissue absorption and reduced scattering coefficients were calculated from amplitude and phase data. Wound dimensions were calculated by cross and parallel polarization. Results:? Thirty-eight wounds were evaluated during the experiment. Wound size decreased at twice the rate in control. Average absorption coefficient was higher, by a factor of 2, in diabetics. The average value of reduced scattering coefficient was 30% higher in diabetics as well. During healing, both scattering and absorption coefficient increased faster in diabetics. Discussion:? Higher absorption in diabetic rats suggest impaired blood flow. Scattering reflects tissue disorganization observed in delayed wound healing. Conclusion:? These data suggest that near-infrared spectroscopy can detect the difference in oxygen delivery to the wound and assess wound healing progression. Further analysis is planned to investigate pathologic correlates with spectroscopic data.
+ER  - 
+
+TY  - JOUR
+AU  - Supp,             Dorothy M.
+AU  - Smiley, Andrea K.
+AU  - Klingenberg, Jennifer
+AU  - Boyce, Steven T.
+TI  - 013 Gene Expression Profiling of Cultured Skin Substitutes
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215m.x
+DO  - doi:10.1111/j.1067-1927.2005.130215m.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Cultured skin substitutes (CSS) are used as an adjunctive treatment for closure of massive burn wounds. CSS are prepared with keratinocytes and fibroblasts combined with a collagen-based matrix. A cDNA microarray analysis was performed to characterize CSS at a molecular level. We hypothesized that combination of keratinocytes and fibroblasts in a three-dimensional organo typic culture system would result in changes in gene expression compared with cells grown in monolayer culture. Human skin samples were obtained from breast and abdominal tissue of healthy adult females. Fibroblasts and kera tinocytes were isolated and grown in monolayer cultures; CSS, prepared with cells from four independent donors, were cultured for 2?weeks in vitro. Microarray analysis was performed on RNA from fibroblasts, keratinocytes, and CSS using the Affymetrix Human Genome U133A gene chip representing over 22,000 human genes. Cluster analysis was performed to identify gene expression ?signatures? for each group, and further analysis was performed to identify genes that were significantly increased or decreased in CSS compared with either cell type. Microarray analysis revealed significant changes in gene expression upon combination of fibroblasts and keratinocytes in organotypic culture. Genes belonging to several classes were significantly increased in CSS compared with fibroblasts and keratinocytes. For example, genes associated with epidermal differentiation, including fillagrin, corneodesmosin, involucrin, and multiple keratins (1, 10, 13, 16, 23), were increased in CSS. Several genes that are overexpressed in psoriasis (S100A7, SERPINB3, PSORS1C1), as well as cytokines IL- 6 and IL-8, were also increased in CSS. Further, multiple MMP genes were up-regulated in CSS. The results suggest that epithelial-mesenchymal interactions contribute to morphogenesis of CSS, including the remodeling of the dermal layer and stratification and differentiation of the epidermal layer. This analysis reveals that CSS exhibit many characteristics of normal or inflamed human skin.
+ER  - 
+
+TY  - JOUR
+AU  - Gallant-Behm, C.L.
+AU  - Hart, D.A.
+TI  - 025 The Role of Genetics on Wound Contraction in a Porcine Model
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215y.x
+DO  - doi:10.1111/j.1067-1927.2005.130215y.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Pigs have been accepted as good models for skin wound healing research due to their anatomical similarities to humans. The healing response of excisional wounds in juvenile female Yorkshire (Y) pigs closely resembles normal healing in humans. In contrast, identical wounds in female red Duroc (RD) pigs contracted significantly more, resulting in an 80?90% reduction in wound area. This hypercontraction was associated with marked hyperpigmentation at the wound margins, and some features of the RD healing phenotype, such as increased collagen deposition, are similar to hypertrophic scar formation in humans. Recent investigations have begun to elucidate the genetic transmissibility of the RD healing phenotype. Skin wounds were created on Y???RD F1 female animals (N?=?8), and while hyperpigmentation was not observed, the hypercontraction prevalent in the RD persisted in 100% of animals studied. Further, the degree and kinetics of contraction observed in the F1 animals was significantly greater than in the RD. All F1 animals were subsequently bred to a single Yorkshire boar, producing a cohort of 20 female backcross animals. Healing in the backcross animals generally followed the Y phenotype with regard to wound contraction and pigmentation. However, between days 28 and 56, the backcross animals demonstrated significantly less contraction than the Yorkshire animals. These results suggest that the regulation of wound contraction is controlled by a restricted number of major genes and an unidentified number of other genes, which may positively or negatively modulate the influence of the major genes, as observed in the F1 and backcross animals. These studies have begun the process of elucidating the molecular basis for abnormal skin wound healing and scarring. Further ongoing studies are using genomic and proteomic approaches to further elucidate candidate genes potentially involved in the RD healing phenotype. Acknowledgments:? Funding provided by CIHR and NSERC
+ER  - 
+
+TY  - JOUR
+AU  - Mooney, R.G.
+AU  - Costales, C.
+AU  - Garner, W.
+AU  - Shaw, M.C.
+AU  - Tuan, T.-L.
+AU  - Wu, B.
+AU  - Tawil, B.
+TI  - 031 Mechanical Characteristics of Fibroblast – Fibrin Constructs: Effect of Fibrinogen and Thrombin Concentration
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215ae.x
+DO  - doi:10.1111/j.1067-1927.2005.130215ae.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Fibrin clot formation during normal wound healing is essential to hemostasis. Fibrin clots also serve as a scaffold for cells, such as fibroblasts, invading the wound bed. The mechanical characteristics of this fibrin ? fibroblast tissue over a period of time, as the fibrin is replaced with collagen, is not well understood. In this paper, we attempt to measure specific mechanical characteristics in these systems over a period of 10 days by using fibrin ? fibroblasts constructs prepared in a culture dish. We have also examined the effect of fibrinogen and thrombin concentration in the final fibrin clot on these characteristics. A well-established indentation protocol was used to determine the nominal elastic modulus of the cell-fibrin constructs at specified time points. Human fibroblast cell line CRL-2522 was used. Fibrin clots with different fibrinogen and thrombin concentration were prepared as described in Cox et al. (Tissue Engineering, Vol. 10 (5/6): 942) with cell concentration of 50,000 fibroblasts per fibrin clot. Four constructs were prepared for each of the following days 1, 5, and 10. 1?mL of a serum ? containing medium was added to each well, and plates were transferred to a 5% CO2 incubator at 37?°C. On days 1, 5, and 10, the fibrin ? fibroblast constructs were subject to a compressive indentation protocol. This involved applying a circular, flat-ended silica indenter to the surface of the cell/fibrin constructs through controlled displacements until reaching a specified maximum displacement, u*. An Instron 3365 Universal Testing Machine equipped with a 2.5?N load cell with a load resolution of 0.1?mN was used. Displacement rates in the range of 5?10?mm/min were used with peak displacements, u*?=?0.1?5?mm. The force required to maintain these displacements was automatically recorded and analyzed for indentation stiffness over the fixed displacement range of 1.0?1.5?mm at 50?msec intervals. Our results indicate that for the unpopulated fibrin, there was a linear (R?=?0.983) relationship between the indentation stiffness and fibrinogen concentration. Also, there was a nonlinear relationship between indentation stiffness and concentration of collagen in the fibrin/collagen constructs. Finally, we found in one of the cell-populated formulations a steady decrease in the indentation stiffness with increasing incubation time (1?10 days), suggesting that the cells exerted a significant effect on the construct structure and hence mechanical function.
+ER  - 
+
+TY  - JOUR
+AU  - Padgett,             D.A.
+AU  - Head, C.C.
+AU  - Farrow, M.J.
+AU  - Sheridan, J.F.
+TI  - 046  AntiGlucocorticoid Effects of Androstenediol During Cutaneous Wound Healing
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215at.x
+DO  - doi:10.1111/j.1067-1927.2005.130215at.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Wound healing involves many cell types whose functions are dependent upon the coordinated production of multiple cytokines, chemokines, and growth factors. Recent data show that behavioral stress disrupts the cytokine profile and slows wound closure. For example, in mice, restraint stress (RST) suppressed IL-1?, PDGF, and MCP-1 production, and delayed healing of a 3.5?mm circular wound by more than 3 days. The RST-induced delay in healing was due, in part, to elevated glucocorticoids (GC) and could be blocked by administration of the androgen hormone, androstenediol (AED). Therefore, it was hypothesized that AED would antagonize GC-mediated regulation of cytokine gene expression at the transcriptional level, prevent RST-mediated/GC-dependent suppression of cytokine expression at the tissue level, and restore healing to that of controls. Total wound RNA was collected after injury, cDNA was synthesized, and real-time PCR was used to quantify IL-1? RNA as a measure of proinflammatory gene expression and I?Bα RNA as a measure of NF-?B transcriptional activation. Compared to controls, RST delayed wound closure (P?<?0.001) and decreased IL-1?(P?=?0.021) and I?Bα expression within 12?24 hours of wounding (P?=?0.021). In contrast, treatment of RST animals with AED restored IL-1? gene expression and restored wound closure to that of controls. Additionally, AED enhanced I?Bα RNA postinjury (P?<?0.001) suggestive of enhanced NF-?B activation. Because of the macrophage?s ability to coordinate inflammatory responses during healing, RAW 264.7 murine macrophages were used to examine modulation of NF-?B activity in AED and GC-treated cells. The data showed that dexamethasone blocked translocation of active p65 which correlated with diminished cytokine gene expression. In contrast, AED restored cytokine gene expression and nuclear p65 levels in GC-treated cultures. In sum, these data suggest that AED antagonized GC-mediated regulation of cytokine gene expression at the transcriptional level and restored cutaneous wound healing to that of unstressed controls. Supported by MH5689, AG16321, DE14304, and DE14320
+ER  - 
+
+TY  - JOUR
+AU  - Sandulache,             V.C.
+AU  - Li-Korotky, H.S.
+AU  - Dohar, J.E.
+AU  - Hebda, P.A.
+TI  - 048 Interleukin-1β Regulates the Secretion of but not Expression of Receptors for Prostaglandin E2
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215av.x
+DO  - doi:10.1111/j.1067-1927.2005.130215av.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Background:? Activation of the cyclooxygenase-2 (COX-2) pathway and production of prostaglandin E2 (PGE2), have been linked to dermal wound healing in fetal and adult tissue. Activation of this pathway has been previously linked to interleukin (IL)-1? expression. This study addresses the mechanism by which IL-1? regulates both production of and response to PGE2 in cultured human fetal and adult dermal fibroblasts. Hypothesis:? IL-1? regulates fetal and adult dermal fibroblast PGE2 signaling. Methods:? Fetal and adult dermal fibroblasts were isolated from human skin explants. Secretion of soluble mediators was assayed using ELISA kits. Expression of COX-2 as well as the various PGE2 receptors (EP1, EP2, EP3, EP4) was analyzed at both the mRNA and protein levels. Results:? Compared to adult fibroblasts, fetal fibroblasts produced decreased levels of IL-6 and IL-8, but similar levels of PGE2. IL-1?1 caused up-regulation of COX-2 and increased PGE2 secretion in both fetal and adult fibroblasts. However, administration of IL-1?, tumor necrosis factor-α or interferon-? did not significantly alter the mRNA or protein levels of any PGE2 receptor subtype. Discussion:? Our hypothesis is partially supported by the results. IL-1? causes up-regulation of COX-2 and increased PGE2 secretion in fetal and adult dermal fibroblasts, but does not alter the expression of PGE2 receptors. Therefore, proinflammatory mediator-induced changes in both fetal and adult skin fibroblasts appear to act through increased production of the signal molecules and not through increased or altered receptor expression for PGE2. This finding raises the possibility of increased autocrine signaling in the context of dermal inflammation, such as that associated with a wound healing response. Acknowledgments:? The authors would like to thank Children?s Hospital of Pittsburgh for providing funding for this research.
+ER  - 
+
+TY  - JOUR
+AU  - Scott,             G.F.
+AU  - Reeves, R.E.
+TI  - 051 Topical Oxygen Alters Angiogenesis-Related Growth Factor Expression in Chronic Diabetic Foot Ulcers
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215ay.x
+DO  - doi:10.1111/j.1067-1927.2005.130215ay.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Objective:? Following tissue vascular and oxygen delivery disruption, normal wound healing is a complex process requiring restoration of supplies of oxygen and other nutrients through blood vessel regeneration, or angiogenesis. Angiogenesis is stimulated by synergistic interactions of growth factors and cytokines secreted by damaged cells in wound tissues exhibiting hypoxia, high lactate levels, and inflammation. Chronic wounds, often complications of diabetes, are characterized by chronic hypoxia, inflammation, and insufficient growth factor secretion. To test growth factor sensitivity to reversed hypoxia in chronic human wounds, we administered pure oxygen topically to chronic foot ulcers in diabetic humans and used molecular probes to measure growth factors previously found to regulate angiogenesis and improve delayed healing, i.e., VEGF et?al. Methods:? By multiplex ELISA assays of growth factor cytokines, we quantified pg/ug levels of total proteins detectable in fluids collected from human diabetic plantar wounds after exposure to topical oxygen delivered in 0?50?mm?Hg pulses during 90-minute treatments 4 days per week over a 5 week protocol. Wounds that had failed to heal for at least 4 weeks were infused with a maximum of 1.06 ATM of oxygen at 1 minute intervals in a lower limb enclosing chamber. Findings:? Our initial data show increased expression in angiogenesis-related growth factors (bFGF, HB-EGF, HGF, KGF, VEGF) in wound fluid from chronic diabetic foot ulcers using the Topical Hyperbaric Oxygen Chamber (Advanced Hyperbaric Technologies, Inc., Farmingdale, NJ). Secretion of the most crucial angiogenic factor, VEGF, was increased by 8-fold to well over 10-fold using the described protocol. Conclusions:? These data show evidence of a molecular mechanism for the scientific basis of topical hyperbaric oxygen-modulated growth factor expression in chronic diabetic wounds, previously unresponsive to standard wound care. We conclude that topically applied hyperbaric oxygen alters angiogenesis-related growth factor expression in wound fluids from chronic diabetic foot ulcers in a manner consistent with renewed healing. Acknowledgments:? Advanced Hyperbaric Technologies, Inc., Farmingdale, NJ.
+ER  - 
+
+TY  - JOUR
+AU  - Petreaca, M.L.
+AU  - Yao, M. 
+AU  - Martins-Green, M. 
+TI  - 060  Signal Transduction Mechanisms of IL-8-Induced Endothelial Permeability
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bh.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bh.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Permeability of the endothelium occurs early in the angiogenic process, resulting from the initial loss or disruption of endothelial cell-cell adhesions, which is followed by endothelial cell contraction, forming paracellular gaps. We are interested in the angiogenesis and endothelial permeability induced by inflammation; thus, we have chosen to study mechanisms involved in the endothelial permeability stimulated by the angiogenic chemokine Interleukin-8 (IL-8/CXCL8). We have found that IL-8 induces permeability in a receptor-dependent process requiring the activation of Gαi and the regulation of PKA activity. Pertussis toxin abolishes the effect of IL-8 on endothelial permeability, while a PKA inhibitor, H89, results in a similar effect. Thus, regulation of the level of PKA activity appears critical in IL-8-induced permeability, potentially due to the differential regulation of molecules downstream of PKA, such as SREBP and RhoA. PKA and cAMP are thought to inhibit the activation of SREBP, a protein involved in lipid metabolism; we have also found, using inhibitors of SREBP that this molecule is likewise necessary for the permeability stimulated by IL-8. Furthermore, SREBP inhibitors block IL-8-induced activation of RhoA, a GTPase that has been implicated in permeability induced by multiple factors. Taken together, our results indicate a possible signal transduction pathway downstream of the IL-8 receptors, in which the inhibition of cAMP production, and, thus, of PKA activation, by Gαi increases SREBP activity, resulting in increased RhoA activity, leading to endothelial cell contraction and gap formation, increasing endothelial permeability. Because IL-8 plays important roles in the permeability observed in inflammatory disorders, knowledge of the signaling mechanisms induced by this chemokine during permeability increases may be used to identify targets for drug development. This project has been funded by the American Heart Association.
+ER  - 
+
+TY  - JOUR
+AU  - Janis,             A.D.
+AU  - Ernst, D.M.J
+AU  - Sherman, D.M.
+AU  - Hodde, J.P.
+TI  - 068 Structural and Biochemical Characterization of Renal Capsule Matrix (RCM) Biomaterial
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bp.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bp.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Cellular interaction with biomaterials determines the fate of the implant. Naturally derived biomaterials such as small intestinal submucosa (SIS) and renal capsule matrix (RCM) may provide optimal structure and composition for cellular repopulation in certain wound healing applications. Porcine renal capsule matrix (RCM) is an acellular, naturally occurring extracellular matrix undergoing characterization and preclinical investigation for the treatment of soft tissue injury. Early studies have demonstrated that RCM constructs induce host tissue infiltration, tissue-specific remodeling, and repair. RCM consists primarily of collagen, although the other proteins have been detected, including the growth factors basic FGF, VEGF, and CTGF. Transmission and scanning electron microscopy were used to envision the cellular environment provided by this biomaterial. Comparison of the images utilizing cryo and traditional preparation techniques show that RCM is a dense, heterogeneous matrix consisting of textured fibers of mixed size. Although the matrix architecture shows signs of collapse following lyophilization, much of the native structure seen in the hydrated isolate is preserved. These differences are maintained following rehydration in normal saline. The effects of these structural changes on cellular reaction and infiltration are unknown, but the naturally complex architecture likely facilitates host interaction at the cellular level. Further compositional characterization is under way. This work was supported by Cook Biotech Incorporated, West Lafayette, IN.
+ER  - 
+
+TY  - JOUR
+AU  - Mansbridge, Jonathan
+AU  - Loryman, Chris
+TI  - 070 Reduction of IL-8 Secretion in Senescent Fibroblasts: Role in Chronic Wound Formation.
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215br.x
+DO  - doi:10.1111/j.1067-1927.2005.130215br.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Fibroblasts in chronic wounds, and in skin in which ulcers develop, have been reported to show characteristics of senescence, presumably induced by conditions predisposing to chronic wounds or the wound environment. In monolayer culture, secretion of IL-8 declines to zero as the cells approach senescence (at about generations 50?55 in the cells tested). In three-dimensional scaffold-based tissue culture, fibroblasts, at about 30?35 population doublings, upregulate the IL-8 gene by comparison with monolayer cultures and secrete large amounts of IL-8 (30?50?ng/106 cells/day). However, it is inferred that a decline in secretion, similar to that seen in monolayer also occurs in three-dimensional culture and in the senescent fibroblasts of chronic wounds. This will result in decreased influx and activation of neutrophils. The hypothesis is proposed that chronic wounds arise because fibroblasts, following injury to ulcer-prone skin, do not recruit and activate neutrophils sufficiently to prevent bacterial colonization. As the result of the persistent presence of live bacteria, inflammatory cells or keratinocytes in a wound site may be expected to trigger mechanisms to inhibit keratinocyte migration and reepithelialization, leading to chronic ulceration.
+ER  - 
+
+TY  - JOUR
+AU  - Gregory,             Sarah J.
+AU  - Rennison, Tracy
+AU  - Cullen, Breda M.
+TI  - 078 An ORC/Collagen Matrix ConTaining Silver and Microbial Imbalances in the Chronic Wound
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bz.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bz.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Delayed healing can result for a number of reasons; however, one important factor in the wound healing process is the role of bacteria. An imbalance in the wound bioburden may lead to infection, and thereby severely delay healing. Thus to ensure healing progresses in a timely manner, it is necessary to maintain a healthy microbial balance and prevent any impending infection. Dermal cells such as fibroblasts and keratinocytes generate numerous chemokines and growth factors that regulate the immune response and the phases of healing. While topical antiseptics and antimicrobials can kill bacteria and are therefore used to help manage infection in wounds, they may also be cytotoxic to these important cell types. Cytotoxicity is acceptable when overt clinical infection is present, due to a greater need for bacterial balance. However, clinical signs of infection in chronic wounds may not be present, making it difficult to correctly determine diagnosis and appropriate use of these antimicrobial products. In these cases, a product which addresses both the antibacterial action of topical antiseptics/antimicrobials and their impact on key healing factors, (i.e., cytotoxicity to host cells), could help reduce the incidence of wound infection without impacting the rate of healing. In this study we investigated the effect of silver-ORC and an ORC/collagen matrix containing silver-ORC on human dermal fibroblast proliferation. The antimicrobial properties of the dressing was also investigated, in in vitro studies using common bacterial wound pathogens. While other silver-releasing dressings address the bioburden of nonhealing wounds, their in vitro cytotoxicity suggests that the rate of healing may not be optimal if the presence of infection is questionable. In contrast this in vitro work suggests the ORC/collagen matrix containing silver-ORC is not cytotoxic, but is still capable of controlling wound pathogens, suggesting it may be used on a broad spectrum of wounds independent of their bacterial bioburden.
+ER  - 
+
+TY  - JOUR
+AU  - Lam,             K.
+AU  - Telgenhoff, D.
+AU  - Cooper, M.
+AU  - Posadas, K.
+AU  - Ramsay, S.
+AU  - Vasquez, V.
+AU  - Attar, P.
+AU  - Shroot, B.
+TI  - 080 The Effects of Papain-Urea-Copper Chlorophyllin Ointment on Healing of Wounds in an Acute Infected Full Thickness Porcine Model
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215cb.x
+DO  - doi:10.1111/j.1067-1927.2005.130215cb.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Removal of necrotic tissue is essential for wound-bed preparation for the treatment of chronic wounds. Enzymatic debridement appears to be most useful in the removal of eschar when surgical techniques cannot be utilized. The purpose of this study is to determine the efficacy of papain?urea chlorophyllin ointment compared to moist wound care using an infected, acute, porcine full thickness wound model. Twenty full thickness wounds were created on the dorsum of domestic pigs. Following hemostasis, the wounds were contaminated with wound-isolated bacteria then treated with test articles and dressed with moisture-retentive dressing. All the wounds were evaluated 1, 4, 8, 11, 14,18, and 21 days postsurgery for epithelialization and biopsies were obtained for microscopic evaluation. The results showed no adverse effect in reepithelialization in acute wounds when using papain?urea chlorophyllin 'ointment compared to moist wound care, TEWL measurements also showed no adverse affects from the treatment. Microscopic examination reveals an increase in the number of keratinocytes present in the epidermis of the treated pigs as well as an increase in the depth of rete pegs. New blood vessel formation was increased at all examined time points in the papain?urea chlorophyllin ointment treated pigs, which was verified with CD31 and von Willebrand Factor staining. VEGF was increased after 1 week in the wound fluid from treated wounds compared to moist control. While the reepithelialization rate does not appear to be inhibited by papain?urea-chlorophyllin combination in acute wounds, the healing appears to be more complete based on the number of keratinocytes present in the epidermis and the extensive rete peg formation. The wounds also appear to have enhanced vascularization which is vital in supplying nutrients to the newly healed wound.
+ER  - 
+
+TY  - JOUR
+AU  - Bassiri,             M.
+AU  - Wang, L.
+AU  - Najafi, K.
+AU  - Khosrovi, B.
+AU  - Najafi, R.
+TI  - 081 A New Antiseptic Solution with Potential Applications in Wound Care
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215cc.x
+DO  - doi:10.1111/j.1067-1927.2005.130215cc.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Despite the use of antibiotics, antiseptics, and improved sterile techniques, infection remains one of the most frequent complications of wound healing. Infection must be avoided to permit proper wound healing. Systemic and topical antibiotics and antiseptics with broad antimicrobial spectra have been used. Antiseptics have not generally been reported to develop bacterial resistance like antibiotics. Several reports have suggested that antiseptics exhibit significant cytotoxicity toward wound bed cells and may interfere with the normal wound healing process. Thus, for chronic ulcers, the standard of care is debridment and moist dressing with saline. We will describe the properties of a new topical antimicrobial solution, NVC-101. These include its broad-spectrum antimicrobial activities against gram positive, gram negative bacteria, yeast and fungi pathogens, and its lower toxicity as compared to commonly used topical antiseptics. In addition, we will describe the in vivo safety profile of NVC-101 in the rabbit eye and guinea pig sensitization models, as well as 28-day application to full thickness wounds in rats and mini-pigs. Based on these findings, multicenter Phase II clinical trials on infected chronic ulcers are under way.
+ER  - 
+
+TY  - JOUR
+AU  - Li,             J.
+AU  - Ma, Q.
+AU  - Wu, J.
+AU  - Tang, Y.
+AU  - Spiegel, M.
+TI  - 088 The Effects of an Electric Magnetic Field Stimulation on Skin Keratinocyte Migration
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215cj.x
+DO  - doi:10.1111/j.1067-1927.2005.130215cj.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - For at least 30 years it has been well known that very small electric currents applied to various kinds of trauma have a beneficial therapeutic result for wounds. The most effective methods so far utilized some form of direct current, by inserting an electric lead on each side of the wound and passing a weak electric current across the wound. The drawback of this method is invasive. In this study, we evaluated the effects of a noninvasive electric magnetic field device, Field Therapy Accelerator or FTA (Advatech Corp.), on cell migration of human skin keratinocytes in an in vitro incitional wound model. Normal human epidermal keratinocytes were maintained in growth media and grow into confluent. At time 0, a cross-shaped wound gap or cell-free zone was made among confluent monolayer cells in the center of the culture dish. Cells were treated with FTA for 1 hour immediately after wounding and 1 hour every 24 hours for a total of 4 hours in 4 days. The cell cultures were examined at time 0 and every 24 hours thereafter. A Zeiss Axiovert 200 inverted microscope with a digital camera system was used to capture the images and an AxioVision 3.0 image analysis software was used to measure the gap area. Cell migration was quantified by the time and percentage of the wound gap covered by the cells that migrated in and filled the gap. The results showed that the FTA treatment significantly accelerates skin keratinocyte migration. The wound gaps completely filled 6 days after wounding, 3 days earlier than control (no treatment) group (P?<?0.001). Cell migration is a key step leading to the reepithelialization or the restoration of skin structure. This study showed the strong effects of FTA on keratinocyte migration, suggesting one of mechanisms that electric magnetic field works on wound healing.
+ER  - 

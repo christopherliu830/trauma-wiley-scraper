@@ -1,0 +1,473 @@
+
+TY  - JOUR
+AU  - Apostolakis, Efstratios
+AU  - Akinosoglou, Karolina
+AU  - Koletsis, Efstratios
+AU  - Dougenis, Dimitrios
+TI  - Traumatic Chylothorax Following Blunt Thoracic Trauma: Two Conservatively Treated Cases
+JO  - Journal of Cardiac Surgery
+VL  - 24
+IS  - 2
+SN  - 0886-0440
+UR  - https://doi.org/10.1111/j.1540-8191.2009.00828.x
+DO  - doi:10.1111/j.1540-8191.2009.00828.x
+SP  - 220
+EP  - 222
+PY  - 2009
+AB  - Abstract? Chylothorax is rare following blunt thoracic trauma; its diagnosis is usually delayed until the puncture or drainage of posttraumatic pleural effusion and its cause is not clear. Mostly, it is attributed to injury or overstretching of major thoracic duct by fractures or other injury of neighboring thoracic spine. We describe of two cases, one unilateral and one bilateral, of chylothorax, both after blunt thoracic trauma. In the first case, there were associated fractures of lower thoracic vertebrae, whereas in the other there was no obvious cause, except striking osteophytic degeneration alongside the thoracic spine. Both cases were successfully treated after 16 and 23 days, respectively, with drainage, starvation, reexpansion of the lung(-s), and total parenteral nutrition. We believe that with the ?triad of RST? (?reexpansion, starvation diet, TPN?), conservative treatment will be successful in the majority of cases.
+ER  - 
+
+TY  - JOUR
+AU  - Levy, G. C.
+AU  - Dudewicz, E. J.
+AU  - Harner, T. J.
+AU  - Dudewicz, Edward J.
+AU  - Wehrli, F. W.
+AU  - Breger, R.
+TI  - A Logic Programming and Expert Statistical Systems Approach for Tissue Characterization in Magnetic Resonance Imaging
+JO  - Biometrical Journal
+JA  - Biom. J.
+VL  - 31
+IS  - 2
+SN  - 0323-3847
+UR  - https://doi.org/10.1002/bimj.4710310202
+DO  - doi:10.1002/bimj.4710310202
+SP  - 135
+EP  - 152
+KW  - Logic programming
+KW  - Expert systems
+KW  - Magnetic resonance imaging
+PY  - 1989
+AB  - Abstract The main research goal has been to evaluate significant factors affecting the in vivo magnetic resonance imaging (MRI) parameters T, T, T2, and 1H density. This approach differs significantly from other such projects in that the experimental data analysis is being performed while concurrently developing automated, computer-aided analysis software for such MRI tissue parameters. In the experimental portion of the project, statistical analyses, and a heuristic minimum/maximum discriminant analysis algorithm have been explored. Both methods have been used to classify tissue types from 1.5 Tesla transaxial MR images of the human brain. The developing program, written in the logic programming language Prolog, is similar in a number of ways to many existing expert systems now in use for other medical applications; inclusion of the underlying statistical data base and advanced statistical analyses is the main differentiating feature of the current approach. First results indicate promising classification accuracy of various brain tissues such as gray and white matter, as well as differentiation of different types of gray matter and white matter (e.g.: caudate-nucleus vs. thalamus, both representatives of gray matter; and, cortical white matter vs. internal capsule as representative of white matter). Taking all four tissue types together, the percentage of correct classifications ranges from 73 to 87%.
+ER  - 
+
+TY  - JOUR
+AU  - Tan, Ek T.
+AU  - Shih, Robert Y.
+AU  - Mitra, Jhimli
+AU  - Sprenger, Tim
+AU  - Hua, Yihe
+AU  - Bhushan, Chitresh
+AU  - Bernstein, Matt A.
+AU  - McNab, Jennifer A.
+AU  - DeMarco, J. Kevin
+AU  - Ho, Vincent B.
+AU  - Foo, Thomas K. F.
+TI  - Oscillating diffusion-encoding with a high gradient-amplitude and high slew-rate head-only gradient for human brain imaging
+JO  - Magnetic Resonance in Medicine
+JA  - Magn Reson Med
+VL  - n/a
+IS  - n/a
+SN  - 0740-3194
+UR  - https://doi.org/10.1002/mrm.28180
+DO  - doi:10.1002/mrm.28180
+KW  - diffusion imaging
+KW  - head-gradient
+KW  - microstructure
+AB  - Purpose We investigate the importance of high gradient-amplitude and high slew-rate on oscillating gradient spin echo (OGSE) diffusion imaging for human brain imaging and evaluate human brain imaging with OGSE on the MAGNUS head-gradient insert (200 mT/m amplitude and 500 T/m/s slew rate). Methods Simulations with cosine-modulated and trapezoidal-cosine OGSE at various gradient amplitudes and slew rates were performed. Six healthy subjects were imaged with the MAGNUS gradient at 3T with OGSE at frequencies up to 100 Hz and b = 450 s/mm2. Comparisons were made against standard pulsed gradient spin echo (PGSE) diffusion in vivo and in an isotropic diffusion phantom. Results Simulations show that to achieve high frequency and b-value simultaneously for OGSE, high gradient amplitude, high slew rates, and high peripheral nerve stimulation limits are required. A strong linear trend for increased diffusivity (mean: 8?19%, radial: 9?27%, parallel: 8?15%) was observed in normal white matter with OGSE (20 Hz to 100 Hz) as compared to PGSE. Linear fitting to frequency provided excellent correlation, and using a short-range disorder model provided radial long-term diffusivities of D∞,MD = 911 ± 72 µm2/s, D∞,PD = 1519 ± 164 µm2/s, and D∞,RD = 640 ± 111 µm2/s and correlation lengths of lc,MD = 0.802 ± 0.156 µm, lc,PD = 0.837 ± 0.172 µm, and lc,RD = 0.780 ± 0.174 µm. Diffusivity changes with OGSE frequency were negligible in the phantom, as expected. Conclusion The high gradient amplitude, high slew rate, and high peripheral nerve stimulation thresholds of the MAGNUS head-gradient enables OGSE acquisition for in vivo human brain imaging.
+ER  - 
+
+TY  - JOUR
+AU  - Dietrich, Olaf
+AU  - Geith, Tobias
+AU  - Reiser, Maximilian F.
+AU  - Baur-Melnyk, Andrea
+C7  - e3333
+C8  - NBM-15-0054.R1
+TI  - Diffusion imaging of the vertebral bone marrow
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 30
+IS  - 3
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.3333
+DO  - doi:10.1002/nbm.3333
+SP  - e3333
+KW  - diffusion-weighted MRI
+KW  - spinal column
+KW  - vertebral bodies
+KW  - vertebral bone marrow
+KW  - vertebral compression fractures
+PY  - 2017
+AB  - Diffusion-weighted MRI (DWI) of the vertebral bone marrow is a clinically important tool for the characterization of bone-marrow pathologies and, in particular, for the differentiation of benign (osteoporotic) and malignant vertebral compression fractures. DWI of the vertebral bone marrow is, however, complicated by some unique MR and tissue properties of vertebral bone marrow. Due to both the spongy microstructure of the trabecular bone and the proximity of the lungs, soft tissue, or large vessels, substantial magnetic susceptibility variations occur, which severely reduce the magnetic field homogeneity as well as the transverse relaxation time T*2, and thus complicate MRI in particular with echoplanar imaging (EPI) techniques. Therefore, alternative diffusion-weighting pulse sequence types such as single-shot fast-spin-echo sequences or segmented EPI techniques became important alternatives for quantitative DWI of the vertebral bone marrow. This review first describes pulse sequence types that are particularly important for DWI of the vertebral bone marrow. Then, data from 24 studies that made diffusion measurements of normal vertebral bone marrow are reviewed; summarizing all results, the apparent diffusion coefficient (ADC) of normal vertebral bone marrow is typically found to be between 0.2 and 0.6???10?3?mm2/s. Finally, DWI of vertebral compression fractures is discussed. Numerous studies demonstrate significantly greater ADCs in osteoporotic fractures (typically between 1.2 and 2.0???10?3?mm2/s) than in malignant fractures or lesions (typically 0.7?1.3???10?3?mm2/s). Alternatively, several studies used the (qualitative) image contrast of diffusion-weighted acquisitions for differentiation of lesion etiology: a very good lesion differentiation can be achieved, particularly with diffusion-weighted steady-state free precession sequences, which depict malignant lesions as hyperintense relative to normal-appearing vertebral bone marrow, in contrast to hypointense or isointense osteoporotic lesions. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Ouellette, Russell
+AU  - Mangeat, Gabriel
+AU  - Polyak, Ildiko
+AU  - Warntjes, Marcel
+AU  - Forslin, Yngve
+AU  - Bergendal, åsa
+AU  - Plattén, Michael
+AU  - Uppman, Martin
+AU  - Treaba, Constantina Andrada
+AU  - Cohen-Adad, Julien
+AU  - Piehl, Fredrik
+AU  - Wiberg, Maria Kristoffersen
+AU  - Fredrikson, Sten
+AU  - Mainero, Caterina
+AU  - Granberg, Tobias
+C8  - ANA-19-0673.R2
+TI  - Validation of rapid magnetic resonance myelin imaging in multiple sclerosis
+JO  - Annals of Neurology
+JA  - Ann Neurol
+VL  - n/a
+IS  - n/a
+SN  - 0364-5134
+UR  - https://doi.org/10.1002/ana.25705
+DO  - doi:10.1002/ana.25705
+KW  - Multiple Sclerosis
+KW  - Magnetic Resonance Imaging
+KW  - Myelin Imaging
+AB  - Abstract Objective MRI is essential for multiple sclerosis diagnostics but is not specific to demyelination. Myelin imaging is often hampered by long scanning times, complex post-processing or lack of clinical approval. This study aimed to assess the specificity, robustness and clinical value of Rapid Estimation of Myelin for Diagnostic Imaging, a new myelin imaging technique based on time-efficient simultaneous T1/T2-relaxometry and proton density mapping, in multiple sclerosis. Methods Rapid myelin imaging was applied using 3 Tesla MRI; ex vivo in three multiple sclerosis brain samples and in vivo in a prospective cohort of 71 multiple sclerosis patients and 21 age/sex-matched healthy controls, with scan-rescan repeatability in a subcohort. Disability in patients was assessed by the Expanded Disability Status Scale and the Symbol Digit Modalities Test at baseline and 2-year follow-up. Results Rapid myelin imaging correlated with myelin-related stains (proteolipid protein-immunostaining and Luxol fast blue) and demonstrated good precision. Multiple sclerosis patients had, relative to controls, lower normalized whole-brain and normal-appearing white matter myelin fractions, which correlated with baseline cognitive and physical disability. Longitudinally, these myelin fractions correlated with follow-up physical disability, even with correction for baseline disability. Interpretation Rapid Estimation of Myelin for Diagnostic Imaging provides robust myelin quantification that detects diffuse demyelination in normal-appearing tissue in multiple sclerosis, which is associated with both cognitive and clinical disability. Since the technique is fast with automatic post-processing and FDA/CE clinical approval, it can be a clinically feasible biomarker that may be suitable to monitor myelin dynamics and evaluate treatments aiming at remyelination. This article is protected by copyright. All rights reserved.
+ER  - 
+
+TY  - JOUR
+AU  - Yoshioka, Hiroshi
+AU  - Stevens, Kathryn
+AU  - Hargreaves, Brian A.
+AU  - Steines, Daniel
+AU  - Genovese, Mark
+AU  - Dillingham, Michael F.
+AU  - Winalski, Carl S.
+AU  - Lang, Philipp
+TI  - Magnetic resonance imaging of articular cartilage of the knee: Comparison between fat-suppressed three-dimensional SPGR imaging, fat-suppressed FSE imaging, and fat-suppressed three-dimensional DEFT imaging, and correlation with arthroscopy
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J. Magn. Reson. Imaging
+VL  - 20
+IS  - 5
+SN  - 1053-1807
+UR  - https://doi.org/10.1002/jmri.20193
+DO  - doi:10.1002/jmri.20193
+SP  - 857
+EP  - 864
+KW  - MRI
+KW  - cartilage
+KW  - arthroscopic correlation
+KW  - FSE
+KW  - SPGR
+KW  - DEFT
+PY  - 2004
+AB  - Abstract Purpose To compare signal-to-noise ratios (S/N) and contrast-to-noise ratios (C/N) in various MR sequences, including fat-suppressed three-dimensional spoiled gradient-echo (SPGR) imaging, fat-suppressed fast spin echo (FSE) imaging, and fat-suppressed three-dimensional driven equilibrium Fourier transform (DEFT) imaging, and to determine the diagnostic accuracy of these imaging sequences for detecting cartilage lesions in osteoarthritic knees, as compared with arthroscopy. Materials and Methods Two sagittal fat-suppressed FSE images (repetition time [TR] / echo time [TE], 4000/13 [FSE short TE] and 4000/39 [FSE long TE]), sagittal fat-suppressed three-dimensional SPGR images (60/5, 40° flip angle), and sagittal fat-suppressed echo-planar three-dimensional DEFT images (400/21.2) were acquired in 35 knees from 28 patients with osteoarthritis of the knee. The S/N efficiencies (S/Neffs) of cartilage, synovial fluid, muscle, meniscus, bone marrow, and fat tissue, and the C/N efficiencies (C/Neffs) of these structures were calculated. Kappa values, exact agreement, sensitivity, specificity, positive predictive value, and negative predictive value were determined by comparison of MR grading with arthroscopic results. Results The synovial fluid S/Neff on fat-suppressed FSE short TE images, fat-suppressed FSE long TE images, and fat-suppressed three-dimensional DEFT images showed similar values. Fat-suppressed three-dimensional DEFT images showed the highest fluid-cartilage C/Neff of all sequences. All images showed fair to good agreement with arthroscopy (kappa, 0.615 in FSE short TE, 0.601 in FSE long TE, 0.583 in three-dimensional SPGR, and 0.561 in three-dimensional DEFT). Although the sensitivity of all sequences was high (100% in FSE short TE, FSE long TE, and DEFT; 96.7% in SPGR), specificity was relatively low (67.6% in FSE short TE and FSE long TE; 85.3% in SPGR; 58.3% in DEFT). The peripheral area of bone marrow edema or whole area of bone marrow edema on fat-suppressed FSE images was demonstrated as low or iso-signal intensity on fat-suppressed three-dimensional DEFT images. Conclusion Fat-suppressed three-dimensional SPGR imaging and fat-suppressed FSE imaging showed high sensitivity and high negative predictive values, but relatively low specificity. The Kappa value and exact agreement was the highest on fat-suppressed FSE short TE images. Fat-suppressed three-dimensional DEFT images showed results similar to the conventional sequences. J. Magn. Reson. Imaging 2004;20:857?864. ? 2004 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Rovegno, Maximiliano
+AU  - Soto, Paola A.
+AU  - Sáez, Pablo J.
+AU  - Naus, Christian C.
+AU  - Sáez, Juan C.
+AU  - von Bernhardi, Rommy
+TI  - Connexin43 hemichannels mediate secondary cellular damage spread from the trauma zone to distal zones in astrocyte monolayers
+JO  - Glia
+JA  - Glia
+VL  - 63
+IS  - 7
+SN  - 0894-1491
+UR  - https://doi.org/10.1002/glia.22808
+DO  - doi:10.1002/glia.22808
+SP  - 1185
+EP  - 1199
+KW  - traumatic brain injury
+KW  - connexins
+KW  - P2 receptors
+KW  - astroglia
+KW  - apoptosis
+PY  - 2015
+AB  - The mechanism of secondary damage spread after brain trauma remains unsolved. In this work, we redirected the attention to astrocytic communication pathways. Using an in vitro trauma model that consists of a scratch injury applied to an astrocyte monolayer, we found a significant and transient induction of connexin43 (Cx43) hemichannel activity in regions distal from the injury, which was maximal ?1 h after scratch. Two connexin hemichannel blockers, La3+ and the peptide Gap26, abolished the increased activity, which was also absent in Cx43 KO astrocytes. In addition, the scratch-induced increase of hemichannel activity was prevented by inhibition of P2 purinergic receptors. Changes in hemichannel activity took place with a particular spatial distribution, with cells located at ?17 mm away from the scratch presenting the highest activity (dye uptake). In contrast, the functional state of gap junction channels (dye coupling) was not significantly affected. Cx43 hemichannel activity was also enhanced by the acute extracellular application of 60 mM K+. The increase in hemichannel activity was associated with an increment in apoptotic cells at 24 h after scratch that was totally prevented by Gap26 peptide. These findings suggest that Cx43 hemichannels could be a new approach to prevent or reduce the secondary cell damage of brain trauma. GLIA 2015;63:1185?1199
+ER  - 
+
+TY  - JOUR
+AU  - Chen, Zhiye
+AU  - Liu, Mengqi
+AU  - Liu, Mengyu
+AU  - Li, Jinfeng
+AU  - Shan, Han
+AU  - Liu, Shuangfeng
+AU  - Lou, Xin
+AU  - Shu, Siyun
+AU  - Ma, Lin
+TI  - Effect of normal aging on the structure of marginal division of neostriatum as measured by MR phase imaging and diffusion tensor imaging
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J. Magn. Reson. Imaging
+VL  - 45
+IS  - 5
+SN  - 1053-1807
+UR  - https://doi.org/10.1002/jmri.25446
+DO  - doi:10.1002/jmri.25446
+SP  - 1343
+EP  - 1351
+KW  - aging
+KW  - diffusion tensor imaging
+KW  - marginal division of neostriatum
+KW  - MRI
+KW  - phase image
+PY  - 2017
+AB  - Purpose To investigate the structural changes of marginal division (MrD) which is the high intensity zone between globus pallidus and putamen on phase image in the human brain. Materials and Methods The structural changes of MrD were investigated based on MR phase imaging and diffusion tensor imaging (DTI) data at 3.0 Tesla (T) MR scanner in 72 volunteers. Phase value, including high iron components (HIC), low iron components (LIC), LIC ratio, and average iron components (AIC), were obtained using histogram analysis about the head of caudate nucleus (CA), globus pallidus (GP), putamen (PU), and MrD. The structural measurement of MrD was applied on corrected phase images (CPIs). Average apparent diffusion coefficient (ADC) values and fractional anisotropy (FA) values were calculated based on DTI data. Results MrD showed negative correlation for LIC with aging, with the highest HIC (left/right 2149.3?±?19.6/2155.9?±?17.9) and LIC (left/right 1996.6?±?18.2/1999.6?±?20.7), the lowest LIC ratio (left/right 21.5%?±?7.9%/19.4%?±?8.0%), and the highest AIC (left/right 2116.4?±?21.4/2124.7?±?21.0). The width (Head: left/right 2.01?±?0.41?mm/1.86?±?0.36?mm; Body: left/right 1.84?±?0.38?mm/1.49?±?0.29?mm; Tail: left/right 1.17?±?0.36?mm/1.05?±?0.23?mm) and area (left/right 49.44?±?9.71?mm2/42.75?±?8.80?mm2) of MrD showed negative correlation with aging, presenting gradually narrower pattern based on CPIs. Average ADC value (left/right 0.69?±?0.04 10-3mm2/s / 0.71?±?0.03 10-3mm2/s) revealed negative correlation, while FA value (left/right 0.19?±?0.03/0.22?±?0.03) revealed positive correlation with aging. Conclusion The findings suggested that the structure measurements based on CPIs and DTI could provide a simple and effective tool for the evaluation of MrD in vivo in the human brain and for the assessment of the changes seen with aging. Level of Evidence: 1 J. MAGN. RESON. IMAGING 2017;45:1343?1351
+ER  - 
+
+TY  - JOUR
+AU  - ROCCO, M.
+AU  - CARBONE, I.
+AU  - MORELLI, A.
+AU  - BERTOLETTI, L.
+AU  - ROSSI, S.
+AU  - VITALE, M.
+AU  - MONTINI, L.
+AU  - PASSARIELLO, R.
+AU  - PIETROPAOLI, P.
+TI  - Diagnostic accuracy of bedside ultrasonography in the ICU: feasibility of detecting pulmonary effusion and lung contusion in patients on respiratory support after severe blunt thoracic trauma
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 52
+IS  - 6
+SN  - 0001-5172
+UR  - https://doi.org/10.1111/j.1399-6576.2008.01647.x
+DO  - doi:10.1111/j.1399-6576.2008.01647.x
+SP  - 776
+EP  - 784
+KW  - Lung ultrasound
+KW  - lung
+KW  - blunt thoracic trauma
+KW  - acute respiratory failure
+KW  - intensive care unit
+PY  - 2008
+AB  - Background: Blunt thoracic trauma is a major concern in critically ill patients. Repeated lung diagnostic evaluations are needed in order to follow up the clinical situation and the results of the therapeutic strategies. The aim of this prospective clinical study was to evaluate the possible role of lung ultrasound (LU) compared with bedside radiography (CXR) and computed tomography (CT) used as the gold standard in the evaluation of trauma patients admitted to the intensive care unit with acute respiratory failure. Method: A total of 15 thoracic trauma patients were studied at intensive care unit (ICU) arrival (T1) and 48?h later (T2) with CT, CXR and LU. We evaluated the presence of pleural effusion (PE) and lung contusion (LC). For this purpose the lung parenchyma was divided into 12 regions so that we could compare 180 lung regions at T1 and T2, respectively. Results: Sensitivity of ultrasound was 0.94 for PE and 0.86 for LC while specificity 0.99 and 0.97, respectively. The likelihood ratio was 94 (?+) and 0.06 (??) for PE and 28.6 (?+) and 0.14 (??) for LC. Conclusions: Ultrasound provides a reliable noninvasive, bedside method for the assessment of chest trauma patients with acute respiratory failure in the ICU.
+ER  - 
+
+C7  - pp. 55-87
+TI  - Anatomy, Physiology, and Pathology in Imaging
+SN  - 9780470552209
+UR  - https://doi.org/10.1002/9781118671016.ch2
+DO  - doi:10.1002/9781118671016.ch2
+SP  - 55-87
+KW  - anatomy
+KW  - cardiovascular system
+KW  - central nervous system
+KW  - imaging modalities
+KW  - medical imaging
+KW  - pathology
+KW  - peripheral nervous system
+KW  - physiology
+KW  - pulmonary system
+PY  - 2008
+AB  - Abstract This chapter applies the principles of the interaction of radiation with matter when that interaction takes place in the context of the human body. Medical imaging uses the transport of energy, i.e. radiation, to provide information about the subject of interest. The chapter discusses primarily the attributes relevant to imaging different materials in the body using ionizing radiation. It summarizes the aspects of anatomy, physiology, and pathology that are pervasive in medical imaging, and how the major imaging modalities aid in the diagnosis and patient management. The function of the pulmonary system is to bring air from the environment into close proximity to the circulatory system for the purpose of the exchange of oxygen and carbon dioxide. The cardiovascular system consists of the heart and a network of blood vessels called the circulatory or vascular system. The nervous system is divided into two systems: the central nervous system and the peripheral nervous system.
+ER  - 
+
+TY  - JOUR
+AU  - Bock, Nicholas A.
+AU  - Hashim, Eyesha
+AU  - Kocharyan, Ara
+AU  - Silva, Afonso C.
+TI  - Visualizing myeloarchitecture with magnetic resonance imaging in primates
+JO  - Annals of the New York Academy of Sciences
+VL  - 1225
+IS  - S1
+SN  - 9780470552209
+UR  - https://doi.org/10.1111/j.1749-6632.2011.06000.x
+DO  - doi:10.1111/j.1749-6632.2011.06000.x
+SP  - E171
+EP  - E181
+KW  - magnetic resonance imaging
+KW  - brain mapping
+KW  - cortex
+KW  - myelin
+KW  - primate
+PY  - 2011
+AB  - The pattern of myelination over the cerebral cortex, termed myeloarchitecture, is an established and often-used feature to visualize cortical organization with histology in a variety of primate species. In this paper, we use in vivo magnetic resonance imaging (MRI) and advanced image processing using surface rendering to visualize and characterize myeloarchitecture in a small nonhuman primate, the common marmoset (Callithrix jacchus). Through images made in four female adult marmosets, we produce a representative 3D map of marmoset myeloarchitecture and flatten and annotate this map to show the location and extent of a variety of major areas of the cortex, including the primary visual, auditory, and somatosensory areas. By treating our MRI data as a surface, we can measure the surface area of cortical areas, and we present these measurements here to summarize cortical organization in the marmoset.
+ER  - 
+
+TY  - JOUR
+AU  - Jackson, D. N.
+AU  - Aptekar, L.
+AU  - Thompson, K. K.
+TI  - WS14-05Technique of ‘three-dimensional’ volume mode sectional planar imaging
+JO  - Ultrasound in Obstetrics & Gynecology
+VL  - 16
+IS  - s1
+SN  - 9780470552209
+UR  - https://doi.org/10.1046/j.1469-0705.2000.00009-1-89.x
+DO  - doi:10.1046/j.1469-0705.2000.00009-1-89.x
+SP  - 26
+EP  - 26
+PY  - 2000
+AB  - Background Three-dimensional imaging of superficial fetal abnormalities is well established. We prospectively evaluated if a technique of sectional planar imaging could interrogate nonsurface fetal abnormalities without changing transducers or requiring postrendering software. Method Patients referred for perinatal consultation received traditional 2-D scanning and simultaneous volume mode imaging. Fetal abnormalities were visualized with a sectional technique similar to ?tomogram? slices. No post image rendering manipulation was required. Twelve patients had correlative MRI scanning. Neonatal images were obtained when possible. Results Structural fetal abnormalities amenable to volume rendering were found in 192 of 600 referral patients. Of these, 49% (94/192) benefited from 3-D planar imaging. Consistently improved counseling occurred with abdominal wall defect (11/11), cystic hygroma (8/8), neural tube defect (8/8), skeletal dysplasia (5/5), hydrops (5/5), ovarian mass (4/4), myoma (9/11), and fetal chest mass (2/3). Moderate image concordance was seen for nuchal thickness (4/8), renal dysgenesis (27/50), and placental mass or separation (7/12). Lowest concordance was seen for echogenic bowel (0/17), isolated SUA (0/9), and CPC (4/41). Conclusion Complex syndromes with superficial and deep architecture are accessible with a simple volume mode planar scanning technique. The additional information is immediately available and useful in counseling of these syndromes.
+ER  - 
+
+TY  - JOUR
+AU  - Scarfe, WC
+AU  - Azevedo, B
+AU  - Toghyani, S
+AU  - Farman, AG
+TI  - Cone Beam Computed Tomographic imaging in orthodontics
+JO  - Australian Dental Journal
+JA  - Aust Dent J
+VL  - 62
+IS  - S1
+SN  - 9780470552209
+UR  - https://doi.org/10.1111/adj.12479
+DO  - doi:10.1111/adj.12479
+SP  - 33
+EP  - 50
+KW  - Alveolar bone morphology
+KW  - Cone beam computed tomography
+KW  - Localized intrabony defects
+KW  - Periodontal diagnosis
+KW  - Root fractures
+PY  - 2017
+AB  - Abstract Over the last 15 years, cone beam computed tomographic (CBCT) imaging has emerged as an important supplemental radiographic technique for orthodontic diagnosis and treatment planning, especially in situations which require an understanding of the complex anatomic relationships and surrounding structures of the maxillofacial skeleton. CBCT imaging provides unique features and advantages to enhance orthodontic practice over conventional extraoral radiographic imaging. While it is the responsibility of each practitioner to make a decision, in tandem with the patient/family, consensus-derived, evidence-based clinical guidelines are available to assist the clinician in the decision-making process. Specific recommendations provide selection guidance based on variables such as phase of treatment, clinically-assessed treatment difficulty, the presence of dental and/or skeletal modifying conditions, and pathology. CBCT imaging in orthodontics should always be considered wisely as children have conservatively, on average, a three to five times greater radiation risk compared with adults for the same exposure. The purpose of this paper is to provide an understanding of the operation of CBCT equipment as it relates to image quality and dose, highlight the benefits of the technique in orthodontic practice, and provide guidance on appropriate clinical use with respect to radiation dose and relative risk, particularly for the paediatric patient.
+ER  - 
+
+TY  - JOUR
+AU  - Horan, E. M.
+AU  - Metcalfe, L. V. A.
+AU  - de Swarte, M.
+AU  - Cahalan, S. D.
+AU  - Katz, L. M.
+TI  - Pulmonary and hepatic eosinophilic granulomas and epistaxis in a horse suggestive of multi-systemic eosinophilic epitheliotropic disease
+JO  - Equine Veterinary Education
+JA  - Equine Veterinary Education
+VL  - 25
+IS  - 12
+SN  - 9780470552209
+UR  - https://doi.org/10.1111/eve.12017
+DO  - doi:10.1111/eve.12017
+SP  - 607
+EP  - 613
+KW  - horse
+KW  - lungs
+KW  - eosinophilic granulomas
+KW  - multi-systemic eosinophilic epitheliotropic disease
+KW  - epistaxis
+PY  - 2013
+AB  - Summary Multi-systemic eosinophilic epitheliotropic disease (MEED) is a relatively uncommon disease characterised by eosinophilic infiltration of more than one organ system, with the skin and gastrointestinal tract most commonly affected. This case report describes a gelding that presented for weight loss, increased respiratory rate and effort and chronic intermittent epistaxis. During post mortem examination diffuse eosinophilic granulomatous lesions were identified in the lung and liver, leading to a diagnosis of MEED. Veno-occlusive pulmonary remodelling was also discovered, believed to be the cause of the chronic epistaxis and a result of the pulmonary fibrosis and eosinophilic granulomas.
+ER  - 
+
+TY  - JOUR
+AU  - Gramlich, Michael A.
+AU  - Neer, Sandra M.
+AU  - Beidel, Deborah C.
+AU  - Bohil, Corey J.
+AU  - Bowers, Clint A.
+TI  - A Functional Near-Infrared Spectroscopy Study of Trauma-Related Auditory and Olfactory Cues: Posttraumatic Stress Disorder or Combat Experience?
+JO  - Journal of Traumatic Stress
+JA  - JOURNAL OF TRAUMATIC STRESS
+VL  - 30
+IS  - 6
+SN  - 9780470552209
+UR  - https://doi.org/10.1002/jts.22239
+DO  - doi:10.1002/jts.22239
+SP  - 656
+EP  - 665
+PY  - 2017
+AB  - Abstract The prevalence of posttraumatic stress disorder (PTSD) among U.S. veterans deployed to Iraq or Afghanistan necessitates the need for comprehensive assessment and treatment strategies. This study investigated the utility of a combat-related PTSD symptom provocation paradigm to elicit unique neurological responses across three groups: combat veterans with PTSD, combat veterans without PTSD, and nonmilitary participants without PTSD. Using functional near-infrared spectroscopy (fNIRS) the results indicated that combat veterans with PTSD demonstrated significant activation to a trauma-related sound compared with nonmilitary personnel, channel 14: d = 1.03, 95% confidence interval (CI) [0.28, 1.76]; channel 15: d = 1.30, 95% CI [0.53, 2.06]; and combat veterans without PTSD, channel 14: d = 0.87, 95% CI [0.14, 1.59]. Specifically, this increased neural activation was approximately located in the right medial superior prefrontal cortex (Brodmann areas 9/10), an area associated with experiencing negative or threatening stimuli and emotional detachment. There were no differences across the groups for nontrauma-related sounds. Results were less clear with respect to a combat-related odor. These results suggest a specific neurophysiological response to trauma-related cues and, if replicated, may offer a biomarker for combat-related PTSD. Such a response could provide incremental validity over diagnostic assessments alone and assist in planning and monitoring of treatment outcome.
+ER  - 
+
+TY  - JOUR
+AU  - Krans, Julie
+AU  - Näring, Gérard
+AU  - Becker, Eni S.
+AU  - Holmes, Emily A.
+TI  - Intrusive trauma memory: A review and functional analysis
+JO  - Applied Cognitive Psychology
+JA  - Appl. Cognit. Psychol.
+VL  - 23
+IS  - 8
+SN  - 9780470552209
+UR  - https://doi.org/10.1002/acp.1611
+DO  - doi:10.1002/acp.1611
+SP  - 1076
+EP  - 1088
+PY  - 2009
+AB  - Abstract Our contribution to this special issue focuses on the phenomenon of intrusive trauma memory. While intrusive trauma memories can undoubtedly cause impairment, we argue that they may exist for a potentially adaptive reason. Theory and experimental research on intrusion development are reviewed and possible functions of intrusive trauma memory are explored. These functions include aiding emotional processing, preventing future harm and protecting the coherence of the self. The issue of intrusive images in other disorders than posttraumatic stress disorder is briefly addressed. This review suggests that the study of function is important for a nuanced view on the modulation of intrusive trauma memory in both experimental psychopathology and clinical treatment. Copyright ? 2009 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Menys, A.
+AU  - Keszthelyi, D.
+AU  - Fitzke, H.
+AU  - Fikree, A.
+AU  - Atkinson, D.
+AU  - Aziz, Q.
+AU  - Taylor, S. A.
+C7  - e13090
+TI  - A magnetic resonance imaging study of gastric motor function in patients with dyspepsia associated with Ehlers-Danlos Syndrome-Hypermobility Type: A feasibility study
+JO  - Neurogastroenterology & Motility
+JA  - Neurogastroenterol Motil
+VL  - 29
+IS  - 9
+SN  - 9780470552209
+UR  - https://doi.org/10.1111/nmo.13090
+DO  - doi:10.1111/nmo.13090
+SP  - e13090
+KW  - dyspepsia
+KW  - gastric emptying
+KW  - magnetic resonance imaging
+KW  - motility
+PY  - 2017
+AB  - Abstract Background The clinical use of Magnetic Resonance Imaging (MRI) for investigating gastric motor function in dyspepsia is limited, largely due to protocol complexity, cost and limited availability. In this study, we explore the feasibility of a sub 60-minute protocol using a water challenge to assess gastric emptying, motility and accommodation in a cohort of Ehlers-Danlos Syndrome-Hypermobility type (EDS-HT) patients presenting with dyspepsia. Methods Nine EDS-HT patients (mean age 33, range: 26-50 all female) with a history of dyspepsia were recruited together with nine-matched controls. Subjects fasted for 6 hours prior to MRI. A baseline anatomical and motility scan was performed after which the subjects ingested 300 mL water. The anatomical and motility scans were then repeated every 10 minutes to a total of 60 minutes. Gastric emptying time, motility, and accommodation were calculated based on the observations of two observers for each EDS-HT subject and compared to their matched control using paired statistics. Key Results Median motility increase following the water challenge was lower in EDS-HT subjects (11%, range: 0%-22%) compared to controls (22%, range: 13%-56%), P=.03. Median gastric emptying time was non-significantly decreased in EDS-HT subjects (12.5 minutes, range: 6-27) compared to controls (20 minutes, range: 7-30), P=.15. Accommodation was non-significantly reduced in EDS-HT subjects (56% increase, range: 32%-78%) compared to healthy controls (67% increase, range: 52%-78%), P=.19. Conclusions & Inferences This study demonstrates the feasibility of a water challenge MRI protocol to evaluate gastric physiology in the clinical setting. Motility differences between EDS-HT and controls are worthy of further investigation.
+ER  - 
+
+TY  - JOUR
+AU  - Lo, C. H.
+AU  - Leung, M.
+AU  - Baillieu, C.
+AU  - Chong, E. W. T.
+AU  - Cleland, H.
+TI  - PR16 A TRAUMA CENTRE EXPERIENCE: FLAP RECONSTRUCTION OF TRAUMATIC LOWER LIMB INJURIES
+JO  - ANZ Journal of Surgery
+VL  - 77
+IS  - s1
+SN  - 9780470552209
+UR  - https://doi.org/10.1111/j.1445-2197.2007.04127_16.x
+DO  - doi:10.1111/j.1445-2197.2007.04127_16.x
+SP  - A65
+EP  - A65
+PY  - 2007
+AB  - Purpose? Decision making in the management of combined major skeletal and soft tissue trauma to the lower limb is a complex process made more difficult by the uncertainty surrounding outcomes. The aim of this study is to review and present our experience with flap reconstruction of traumatic lower limb defects, with particular reference to in-hospital complications and outcomes related to timing, choice of flap and pre-existing complications. Methodology? Retrospective review of all lower limb flap reconstructions performed by the Plastic and Reconstructive Surgery Unit at the Alfred Hospital (largest trauma centre in Australasia) from 1 July 2001 to 20 October 2005 (51 month period). Results? Sixty-four patients had 83 flap reconstructions (35 free, 48 local) of 70 separate lower limb injuries. Twenty-seven flaps (32.5%) developed soft tissue infections and 16 fixation devices (25.8%) were complicated by deep metal infection. There were 6 (12.5%) local flap partial necrosis and 4 (11.4%) free flap failures. Three patients underwent secondary amputation during their initial admission. Thorough wound debridement and internal skeletal fixation were followed by earlier soft tissue coverage and lower deep metal infection rates. Limbs in which flaps were performed after Day 5 were more likely to develop deep metal infection (p?=?0.04) and suffer free flap failure or local flap partial necrosis (p?=?0.02). Conclusion? The current study presented our experience with flap reconstructions of complex lower limb injuries at a major trauma centre. Thorough wound debridement, internal fixation and early soft tissue coverage (within 5 days of injury) is associated with lower infection rates and optimal outcomes.
+ER  - 
+
+TY  - JOUR
+AU  - Dominguez, Sarah
+AU  - Drummond, Peter
+AU  - Gouldthorp, Bethanie
+AU  - Janson, Diana
+AU  - Lee, Christopher William
+TI  - A randomized controlled trial examining the impact of individual trauma-focused therapy for individuals receiving group treatment for depression
+JO  - Psychology and Psychotherapy: Theory, Research and Practice
+JA  - Psychol Psychother Theory Res Pract
+VL  - n/a
+IS  - n/a
+SN  - 9780470552209
+UR  - https://doi.org/10.1111/papt.12268
+DO  - doi:10.1111/papt.12268
+KW  - depression
+KW  - trauma-focused treatment
+KW  - randomized controlled trial
+KW  - eye movement desensitization reprocessing
+KW  - assertiveness training
+KW  - cognitive behavioural therapy
+KW  - adjunct therapy
+AB  - Objectives Adverse life events are associated with increased likelihood of depression and poorer prognosis. Trauma-focused treatments (TFT) appear to be effective in decreasing comorbid depressive symptoms. Accordingly, the aim of this study was to evaluate the effectiveness of a TFT on the memories of aversive events for individuals with a primary diagnosis of depression. Methods A randomized controlled trial was conducted with 49 participants recruited from a 10-day outpatient group programme. All participants showed symptoms of depression with a subgroup (80%) meeting the DSM-5 criteria for a major depressive episode. Participants received treatment as usual (TAU); three additional individual trauma-focused sessions; or three additional individual assertiveness training sessions. Participants were assessed with regards to depression diagnosis and related symptoms. Results For participants with a major depressive episode, the addition of trauma-focused sessions significantly increased the likelihood of remission when compared to TAU, or additional assertiveness training. While no significant treatment difference was noted in depressive symptom change post-treatment, six weeks after treatment those who received an adjunct treatment were more likely to maintain treatment gains than those who received TAU. Furthermore, at 12-week follow-up, participants who received a TFT reported significantly fewer depressive symptoms than those who received assertiveness training. Conclusions While differences in outcomes were minimal immediately post-treatment, differences among treatment groups increased over time. Thus, as few as three additional TFT sessions may impact positively on symptom change for people completing a group programme for the treatment of depression. Practitioner points Depression is the greatest cause of disability worldwide. Adverse experiences are linked with an increased likelihood of depression, more severe symptoms and poor treatment outcomes following evidence-based interventions. As few as three trauma-focused sessions can improve treatment outcomes in terms of depression diagnosis and related symptoms for individuals receiving group cognitive behavioural therapy.
+ER  - 
+
+TY  - JOUR
+AU  - Gubkin, Liora
+TI  - From Empathetic Understanding to Engaged Witnessing: Encountering Trauma in the Holocaust Classroom
+JO  - Teaching Theology & Religion
+JA  - Teaching Theology & Religion
+VL  - 18
+IS  - 2
+SN  - 9780470552209
+UR  - https://doi.org/10.1111/teth.12273
+DO  - doi:10.1111/teth.12273
+SP  - 103
+EP  - 120
+KW  - empathetic understanding
+KW  - Holocaust
+KW  - critical pedagogy
+KW  - trauma
+KW  - trigger warnings
+PY  - 2015
+AB  - Abstract A commitment to empathetic understanding shaped the field of religious studies; although subject to critique, it remains an important teaching practice where students are charged with the task of recognizing, and perhaps even appreciating, a worldview that appears significantly different from their own. However, when the focus of the course is historical trauma there are significant epistemological and ethical reasons empathetic understanding may not be our best pedagogical strategy. Drawing primarily on my experience teaching a general education class ?The Holocaust and Its Impact? at California State University, Bakersfield, I advocate replacing empathetic understanding with engaged witnessing as a pedagogical framework and strategy for teaching traumatic knowledge. To make this case, I delineate four qualities of engaged witnessing and demonstrate their use in teaching about the Holocaust.
+ER  - 

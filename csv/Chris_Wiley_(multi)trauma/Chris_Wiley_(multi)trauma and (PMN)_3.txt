@@ -1,0 +1,931 @@
+
+TY  - JOUR
+AU  - Chahud, Fernando
+AU  - Ramalho, Leandra N. Z.
+AU  - Ramalho, Fernando S.
+AU  - Haddad, Antonio
+AU  - Roque-Barreira, Maria C.
+TI  - The lectin KM+ induces corneal epithelial wound healing in rabbits
+JO  - International Journal of Experimental Pathology
+VL  - 90
+IS  - 2
+SN  - 0959-9673
+UR  - https://doi.org/10.1111/j.1365-2613.2008.00626.x
+DO  - doi:10.1111/j.1365-2613.2008.00626.x
+SP  - 166
+EP  - 173
+KW  - Artocarpus integrifolia
+KW  - corneal wound healing
+KW  - KM+ lectin
+KW  - neutrophils
+PY  - 2009
+AB  - Summary Neutrophil influx is essential for corneal regeneration (Gan et al. 1999). KM+, a lectin from Artocarpus integrifolia, induces neutrophil migration (Santos-de-Oliveira et al. 1994). This study aims at investigating a possible effect of KM+ on corneal regeneration in rabbits. A 6.0-mm diameter area of debridement was created on the cornea of both eyes by mechanical scraping. The experimental eyes received drops of KM+ (2.5??g/ml) every 2?h. The control eyes received buffer. The epithelial wounded areas of the lectin-treated and untreated eyes were stained with fluorescein, photographed and measured. The animals were killed 12?h (group 1, n?=?5), 24?h (group 2, n?=?10) and 48?h (group 3, n?=?5) after the scraping. The corneas were analysed histologically (haematoxylin and eosin and immunostaining for proliferation cell nuclear antigen, p63, vascular endothelial growth factor, c-Met and laminin). No significant differences were found at the epithelial gap between treated and control eyes in the group 1. However, the number of neutrophils in the wounded area was significantly higher in treated eyes in this group. Three control and seven treated eyes were healed completely and only rare neutrophils persisted in the corneal stroma in group 2. No morphological distinction was observed between treated and control eyes in group 3. In treated corneas of group 2, there was an increase in immunostaining of factors involved in corneal healing compared to controls. Thus, topical application of KM+ may facilitate corneal epithelial wound healing in rabbits by means of a mechanism that involves increased influx of neutrophils into the wounded area induced by the lectin.
+ER  - 
+
+TY  - JOUR
+AU  - Aslam, R. S.
+AU  - Scheuenstuhl, H.
+AU  - Beckert, S.
+AU  - Hopf, H.
+AU  - Hussain, Z.
+AU  - Hunt, T. K.
+TI  - 049 Lactate Controls Vascular Development in Wound Healing
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractav.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractav.x
+SP  - A14
+EP  - A14
+PY  - 2004
+AB  - INTRODUCTION: High concentrations of lactate approx. 10?mM are characteristic of wound healing. We have previously shown that lactate instigates release of VEGF from macrophages and endothelial cells. Our present study uses an in vivo murine Matrigel model to study how lactate enhances vascular development and repair. METHODS: Matrigel is a reconstituted basement membrane complex, a liquid at 4 degree C. When injected subcutaneously, it reconstitutes as a gel. 30?mgs of finely divided polylactate polymer (DL-lactide-co-glycolide) was mixed with 1cc of Matrigel, and 2 injections were made into the dorsum of each of 60 (average 7/group), 6-month-old Swiss Webster mice. The gel implants were harvested at 3, 6, 9, 11 and 16 days post injection, and were fixed in buffered formalin or frozen. Cell migration and vascular development were assessed using H&E, anti-CD31 and anti-MAC3 antibody stainings for leukocytes, fibroblasts, endothelial cells, and macrophages. Cells and vessels were quantified microscopically. RESULTS: Control implants (without polylactate) developed little or no inflammation or angiogenesis. Polylactated implants developed highly significant number of endothelial cells and recognizable vessels at 6 and 9 days. At 11 and 16 days, sizeable vessels with surrounding connective tissue were found. Though a moderate inflammation occurred in the lactate groups, no foreign body reaction was seen. Larger implants of high molecular weight instigated little inflammation and few vessels. CONCLUSION: Slowly released lactate leads to the formation of new vessels. Our results provide support for further clinical applications of lactate polymer in wounds. NIH/NIGMS Trauma Training Grant
+ER  - 
+
+TY  - JOUR
+AU  - Chan, James K
+AU  - Glass, Graeme E
+AU  - Ersek, Adel
+AU  - Freidin, Andrew
+AU  - Williams, Garry A
+AU  - Gowers, Kate
+AU  - Espirito Santo, Ana I
+AU  - Jeffery, Rosemary
+AU  - Otto, William R
+AU  - Poulsom, Richard
+AU  - Feldmann, Marc
+AU  - Rankin, Sara M
+AU  - Horwood, Nicole J
+AU  - Nanchahal, Jagdeep
+TI  - Low-dose TNF augments fracture healing in normal and osteoporotic bone by up-regulating the innate immune response
+JO  - EMBO Molecular Medicine
+JA  - EMBO Mol Med
+VL  - 7
+IS  - 5
+SN  - 1757-4676
+UR  - https://doi.org/10.15252/emmm.201404487
+DO  - doi:10.15252/emmm.201404487
+SP  - 547
+EP  - 561
+KW  - bone
+KW  - CCL2
+KW  - fracture
+KW  - inflammation
+KW  - TNF
+PY  - 2015
+AB  - Abstract The mechanism by which trauma initiates healing remains unclear. Precise understanding of these events may define interventions for accelerating healing that could be translated to the clinical arena. We previously reported that addition of low-dose recombinant human TNF (rhTNF) at the fracture site augmented fracture repair in a murine tibial fracture model. Here, we show that local rhTNF treatment is only effective when administered within 24 h of injury, when neutrophils are the major inflammatory cell infiltrate. Systemic administration of anti-TNF impaired fracture healing. Addition of rhTNF enhanced neutrophil recruitment and promoted recruitment of monocytes through CCL2 production. Conversely, depletion of neutrophils or inhibition of the chemokine receptor CCR2 resulted in significantly impaired fracture healing. Fragility, or osteoporotic, fractures represent a major medical problem as they are associated with permanent disability and premature death. Using a murine model of fragility fractures, we found that local rhTNF treatment improved fracture healing during the early phase of repair. If translated clinically, this promotion of fracture healing would reduce the morbidity and mortality associated with delayed patient mobilization.
+ER  - 
+
+TY  - JOUR
+AU  - Boyce, Neil
+TI  - Blood Matters – Translating Ideas Into Action
+JO  - Transfusion Medicine
+VL  - 15
+IS  - 1
+SN  - 0958-7578
+UR  - https://doi.org/10.1111/j.1365-3148.2005.00554at.x
+DO  - doi:10.1111/j.1365-3148.2005.00554at.x
+SP  - 69
+EP  - 82
+PY  - 2005
+AB  - On behalf of the ?Blood Matters? Planning Group. The Blood Matters Collaborative was structured around a series of specific projects designed to improve distinct aspects of the sequence of care processes that ultimately determine the safety of each and every fresh blood product (red cell, platelet, fresh frozen plasma and cryoprecipitate) transfusion. These commence with the appropriateness of the clinical decision to transfuse blood products, then move to ensure that procedures for patient, sample and blood product identification and blood administration are robust and that any procedural errors and adverse events associated with transfusion are captured, analysed and acted upon. Finally and very importantly the collaborative sought to improve the patient and carers understanding of the risks and benefits of transfusion. It was an ambitious program of work but there seemed little alternative other than addressing all of the interdependent processes that determine the quality and safety of transfusion. All elements in this chain contribute to the actual levels of transfusion safety. With support from the Clinical Innovation Agency and planning group members, local multi-disciplinary hospital teams set out to deliver changes to improve transfusion safety. The collaborative methodology, initially developed by the Institute of Healthcare Improvement in the United States of America, has been adopted and used by a large number of health systems internationally and within Australia. It is based on answering three key questions [Q1. What are we trying to accomplish? Q2. How will we know that a change is an improvement? Q3. What changes can we make that will result in improvement?] and testing ideas through the plan, do, study, act cycles of change. Individual projects monitored progress using ?run charts? to record their measured performance. These indicated progress towards achieving locally set targets and collaborative improvement goals. Our objectives were translated into tangible benefits for patients requiring blood product transfusion. Fundamental to the collaborative approach to improving transfusion practice is the belief that changes can be tested rapidly on a small scale without risk. For example, an idea can quickly be tried with one patient, one clinic or ward, a single consultant or hospital. Only if it proved successful was it suggested for wider adoption as an improvement in care across an entire Health Service or system of care. Our successes reinforced the value of using a systematic method for translating ideas into practice such as that used by the collaborative. The governance structures and teams established during our participation in the collaborative have helped us to identify key local issues and implement strategies to enhance the quality of our transfusion services to our patients. Our aim is to ensure that the continued review and improvement of transfusion practices becomes an integral part of the way that clinical teams and hospital and health system clinical governance structures work. The role of state or national bodies is to support this to happen. We hope to build a series of improvement partnerships that all focus on optimising the quality of transfusion services and the outcomes of patients receiving transfusion during their clinical care.
+ER  - 
+
+TY  - JOUR
+AU  - Sharma, Jyotika
+AU  - Li, Qun
+AU  - Mishra, Bibhuti B.
+AU  - Pena, Christopher
+AU  - Teale, Judy M.
+TI  - Lethal pulmonary infection with Francisella novicida is associated with severe sepsis
+JO  - Journal of Leukocyte Biology
+JA  - Journal of Leukocyte Biology
+VL  - 86
+IS  - 3
+SN  - 0741-5400
+UR  - https://doi.org/10.1189/jlb.1208728
+DO  - doi:10.1189/jlb.1208728
+SP  - 491
+EP  - 504
+KW  - tularemia
+KW  - 58 kDa mutant
+KW  - hypercytokinemia
+KW  - bacteremia
+PY  - 2009
+AB  - Excessive host inflammatory responses negatively impact the disease outcome in pneumonic tularemia.
+ER  - 
+
+TY  - JOUR
+AU  - Cossarizza, Andrea
+AU  - Chang, Hyun-Dong
+AU  - Radbruch, Andreas
+AU  - Acs, Andreas
+AU  - Adam, Dieter
+AU  - Adam-Klages, Sabine
+AU  - Agace, William W.
+AU  - Aghaeepour, Nima
+AU  - Akdis, Mübeccel
+AU  - Allez, Matthieu
+AU  - Almeida, Larissa Nogueira
+AU  - Alvisi, Giorgia
+AU  - Anderson, Graham
+AU  - Andrä, Immanuel
+AU  - Annunziato, Francesco
+AU  - Anselmo, Achille
+AU  - Bacher, Petra
+AU  - Baldari, Cosima T.
+AU  - Bari, Sudipto
+AU  - Barnaba, Vincenzo
+AU  - Barros-Martins, Joana
+AU  - Battistini, Luca
+AU  - Bauer, Wolfgang
+AU  - Baumgart, Sabine
+AU  - Baumgarth, Nicole
+AU  - Baumjohann, Dirk
+AU  - Baying, Bianka
+AU  - Bebawy, Mary
+AU  - Becher, Burkhard
+AU  - Beisker, Wolfgang
+AU  - Benes, Vladimir
+AU  - Beyaert, Rudi
+AU  - Blanco, Alfonso
+AU  - Boardman, Dominic A.
+AU  - Bogdan, Christian
+AU  - Borger, Jessica G.
+AU  - Borsellino, Giovanna
+AU  - Boulais, Philip E.
+AU  - Bradford, Jolene A.
+AU  - Brenner, Dirk
+AU  - Brinkman, Ryan R.
+AU  - Brooks, Anna E. S.
+AU  - Busch, Dirk H.
+AU  - Büscher, Martin
+AU  - Bushnell, Timothy P.
+AU  - Calzetti, Federica
+AU  - Cameron, Garth
+AU  - Cammarata, Ilenia
+AU  - Cao, Xuetao
+AU  - Cardell, Susanna L.
+AU  - Casola, Stefano
+AU  - Cassatella, Marco A.
+AU  - Cavani, Andrea
+AU  - Celada, Antonio
+AU  - Chatenoud, Lucienne
+AU  - Chattopadhyay, Pratip K.
+AU  - Chow, Sue
+AU  - Christakou, Eleni
+AU  - Čičin-Šain, Luka
+AU  - Clerici, Mario
+AU  - Colombo, Federico S.
+AU  - Cook, Laura
+AU  - Cooke, Anne
+AU  - Cooper, Andrea M.
+AU  - Corbett, Alexandra J.
+AU  - Cosma, Antonio
+AU  - Cosmi, Lorenzo
+AU  - Coulie, Pierre G.
+AU  - Cumano, Ana
+AU  - Cvetkovic, Ljiljana
+AU  - Dang, Van Duc
+AU  - Dang-Heine, Chantip
+AU  - Davey, Martin S.
+AU  - Davies, Derek
+AU  - De Biasi, Sara
+AU  - Del Zotto, Genny
+AU  - Dela Cruz, Gelo Victoriano
+AU  - Delacher, Michael
+AU  - Della Bella, Silvia
+AU  - Dellabona, Paolo
+AU  - Deniz, Günnur
+AU  - Dessing, Mark
+AU  - Di Santo, James P.
+AU  - Diefenbach, Andreas
+AU  - Dieli, Francesco
+AU  - Dolf, Andreas
+AU  - Dörner, Thomas
+AU  - Dress, Regine J.
+AU  - Dudziak, Diana
+AU  - Dustin, Michael
+AU  - Dutertre, Charles-Antoine
+AU  - Ebner, Friederike
+AU  - Eckle, Sidonia B. G.
+AU  - Edinger, Matthias
+AU  - Eede, Pascale
+AU  - Ehrhardt, Götz R.A.
+AU  - Eich, Marcus
+AU  - Engel, Pablo
+AU  - Engelhardt, Britta
+AU  - Erdei, Anna
+AU  - Esser, Charlotte
+AU  - Everts, Bart
+AU  - Evrard, Maximilien
+AU  - Falk, Christine S.
+AU  - Fehniger, Todd A.
+AU  - Felipo-Benavent, Mar
+AU  - Ferry, Helen
+AU  - Feuerer, Markus
+AU  - Filby, Andrew
+AU  - Filkor, Kata
+AU  - Fillatreau, Simon
+AU  - Follo, Marie
+AU  - Förster, Irmgard
+AU  - Foster, John
+AU  - Foulds, Gemma A.
+AU  - Frehse, Britta
+AU  - Frenette, Paul S.
+AU  - Frischbutter, Stefan
+AU  - Fritzsche, Wolfgang
+AU  - Galbraith, David W.
+AU  - Gangaev, Anastasia
+AU  - Garbi, Natalio
+AU  - Gaudilliere, Brice
+AU  - Gazzinelli, Ricardo T.
+AU  - Geginat, Jens
+AU  - Gerner, Wilhelm
+AU  - Gherardin, Nicholas A.
+AU  - Ghoreschi, Kamran
+AU  - Gibellini, Lara
+AU  - Ginhoux, Florent
+AU  - Goda, Keisuke
+AU  - Godfrey, Dale I.
+AU  - Goettlinger, Christoph
+AU  - González-Navajas, Jose M.
+AU  - Goodyear, Carl S.
+AU  - Gori, Andrea
+AU  - Grogan, Jane L.
+AU  - Grummitt, Daryl
+AU  - Grützkau, Andreas
+AU  - Haftmann, Claudia
+AU  - Hahn, Jonas
+AU  - Hammad, Hamida
+AU  - Hämmerling, Günter
+AU  - Hansmann, Leo
+AU  - Hansson, Goran
+AU  - Harpur, Christopher M.
+AU  - Hartmann, Susanne
+AU  - Hauser, Andrea
+AU  - Hauser, Anja E.
+AU  - Haviland, David L.
+AU  - Hedley, David
+AU  - Hernández, Daniela C.
+AU  - Herrera, Guadalupe
+AU  - Herrmann, Martin
+AU  - Hess, Christoph
+AU  - Höfer, Thomas
+AU  - Hoffmann, Petra
+AU  - Hogquist, Kristin
+AU  - Holland, Tristan
+AU  - Höllt, Thomas
+AU  - Holmdahl, Rikard
+AU  - Hombrink, Pleun
+AU  - Houston, Jessica P.
+AU  - Hoyer, Bimba F.
+AU  - Huang, Bo
+AU  - Huang, Fang-Ping
+AU  - Huber, Johanna E.
+AU  - Huehn, Jochen
+AU  - Hundemer, Michael
+AU  - Hunter, Christopher A.
+AU  - Hwang, William Y. K.
+AU  - Iannone, Anna
+AU  - Ingelfinger, Florian
+AU  - Ivison, Sabine M
+AU  - Jäck, Hans-Martin
+AU  - Jani, Peter K.
+AU  - Jávega, Beatriz
+AU  - Jonjic, Stipan
+AU  - Kaiser, Toralf
+AU  - Kalina, Tomas
+AU  - Kamradt, Thomas
+AU  - Kaufmann, Stefan H. E.
+AU  - Keller, Baerbel
+AU  - Ketelaars, Steven L. C.
+AU  - Khalilnezhad, Ahad
+AU  - Khan, Srijit
+AU  - Kisielow, Jan
+AU  - Klenerman, Paul
+AU  - Knopf, Jasmin
+AU  - Koay, Hui-Fern
+AU  - Kobow, Katja
+AU  - Kolls, Jay K.
+AU  - Kong, Wan Ting
+AU  - Kopf, Manfred
+AU  - Korn, Thomas
+AU  - Kriegsmann, Katharina
+AU  - Kristyanto, Hendy
+AU  - Kroneis, Thomas
+AU  - Krueger, Andreas
+AU  - Kühne, Jenny
+AU  - Kukat, Christian
+AU  - Kunkel, Désirée
+AU  - Kunze-Schumacher, Heike
+AU  - Kurosaki, Tomohiro
+AU  - Kurts, Christian
+AU  - Kvistborg, Pia
+AU  - Kwok, Immanuel
+AU  - Landry, Jonathan
+AU  - Lantz, Olivier
+AU  - Lanuti, Paola
+AU  - LaRosa, Francesca
+AU  - Lehuen, Agnès
+AU  - LeibundGut-Landmann, Salomé
+AU  - Leipold, Michael D.
+AU  - Leung, Leslie Y.T.
+AU  - Levings, Megan K.
+AU  - Lino, Andreia C.
+AU  - Liotta, Francesco
+AU  - Litwin, Virginia
+AU  - Liu, Yanling
+AU  - Ljunggren, Hans-Gustaf
+AU  - Lohoff, Michael
+AU  - Lombardi, Giovanna
+AU  - Lopez, Lilly
+AU  - López-Botet, Miguel
+AU  - Lovett-Racke, Amy E.
+AU  - Lubberts, Erik
+AU  - Luche, Herve
+AU  - Ludewig, Burkhard
+AU  - Lugli, Enrico
+AU  - Lunemann, Sebastian
+AU  - Maecker, Holden T.
+AU  - Maggi, Laura
+AU  - Maguire, Orla
+AU  - Mair, Florian
+AU  - Mair, Kerstin H.
+AU  - Mantovani, Alberto
+AU  - Manz, Rudolf A.
+AU  - Marshall, Aaron J.
+AU  - Martínez-Romero, Alicia
+AU  - Martrus, Glòria
+AU  - Marventano, Ivana
+AU  - Maslinski, Wlodzimierz
+AU  - Matarese, Giuseppe
+AU  - Mattioli, Anna Vittoria
+AU  - Maueröder, Christian
+AU  - Mazzoni, Alessio
+AU  - McCluskey, James
+AU  - McGrath, Mairi
+AU  - McGuire, Helen M.
+AU  - McInnes, Iain B.
+AU  - Mei, Henrik E.
+AU  - Melchers, Fritz
+AU  - Melzer, Susanne
+AU  - Mielenz, Dirk
+AU  - Miller, Stephen D.
+AU  - Mills, Kingston H.G.
+AU  - Minderman, Hans
+AU  - Mjösberg, Jenny
+AU  - Moore, Jonni
+AU  - Moran, Barry
+AU  - Moretta, Lorenzo
+AU  - Mosmann, Tim R.
+AU  - Müller, Susann
+AU  - Multhoff, Gabriele
+AU  - Muñoz, Luis Enrique
+AU  - Münz, Christian
+AU  - Nakayama, Toshinori
+AU  - Nasi, Milena
+AU  - Neumann, Katrin
+AU  - Ng, Lai Guan
+AU  - Niedobitek, Antonia
+AU  - Nourshargh, Sussan
+AU  - Núñez, Gabriel
+AU  - O'Connor, José-Enrique
+AU  - Ochel, Aaron
+AU  - Oja, Anna
+AU  - Ordonez, Diana
+AU  - Orfao, Alberto
+AU  - Orlowski-Oliver, Eva
+AU  - Ouyang, Wenjun
+AU  - Oxenius, Annette
+AU  - Palankar, Raghavendra
+AU  - Panse, Isabel
+AU  - Pattanapanyasat, Kovit
+AU  - Paulsen, Malte
+AU  - Pavlinic, Dinko
+AU  - Penter, Livius
+AU  - Peterson, Pärt
+AU  - Peth, Christian
+AU  - Petriz, Jordi
+AU  - Piancone, Federica
+AU  - Pickl, Winfried F.
+AU  - Piconese, Silvia
+AU  - Pinti, Marcello
+AU  - Pockley, A. Graham
+AU  - Podolska, Malgorzata Justyna
+AU  - Poon, Zhiyong
+AU  - Pracht, Katharina
+AU  - Prinz, Immo
+AU  - Pucillo, Carlo E. M.
+AU  - Quataert, Sally A.
+AU  - Quatrini, Linda
+AU  - Quinn, Kylie M.
+AU  - Radbruch, Helena
+AU  - Radstake, Tim R. D. J.
+AU  - Rahmig, Susann
+AU  - Rahn, Hans-Peter
+AU  - Rajwa, Bartek
+AU  - Ravichandran, Gevitha
+AU  - Raz, Yotam
+AU  - Rebhahn, Jonathan A.
+AU  - Recktenwald, Diether
+AU  - Reimer, Dorothea
+AU  - Reis e Sousa, Caetano
+AU  - Remmerswaal, Ester B.M.
+AU  - Richter, Lisa
+AU  - Rico, Laura G.
+AU  - Riddell, Andy
+AU  - Rieger, Aja M.
+AU  - Robinson, J. Paul
+AU  - Romagnani, Chiara
+AU  - Rubartelli, Anna
+AU  - Ruland, Jürgen
+AU  - Saalmüller, Armin
+AU  - Saeys, Yvan
+AU  - Saito, Takashi
+AU  - Sakaguchi, Shimon
+AU  - Sala-de-Oyanguren, Francisco
+AU  - Samstag, Yvonne
+AU  - Sanderson, Sharon
+AU  - Sandrock, Inga
+AU  - Santoni, Angela
+AU  - Sanz, Ramon Bellmàs
+AU  - Saresella, Marina
+AU  - Sautes-Fridman, Catherine
+AU  - Sawitzki, Birgit
+AU  - Schadt, Linda
+AU  - Scheffold, Alexander
+AU  - Scherer, Hans U.
+AU  - Schiemann, Matthias
+AU  - Schildberg, Frank A.
+AU  - Schimisky, Esther
+AU  - Schlitzer, Andreas
+AU  - Schlosser, Josephine
+AU  - Schmid, Stephan
+AU  - Schmitt, Steffen
+AU  - Schober, Kilian
+AU  - Schraivogel, Daniel
+AU  - Schuh, Wolfgang
+AU  - Schüler, Thomas
+AU  - Schulte, Reiner
+AU  - Schulz, Axel Ronald
+AU  - Schulz, Sebastian R.
+AU  - Scottá, Cristiano
+AU  - Scott-Algara, Daniel
+AU  - Sester, David P.
+AU  - Shankey, T. Vincent
+AU  - Silva-Santos, Bruno
+AU  - Simon, Anna Katharina
+AU  - Sitnik, Katarzyna M.
+AU  - Sozzani, Silvano
+AU  - Speiser, Daniel E.
+AU  - Spidlen, Josef
+AU  - Stahlberg, Anders
+AU  - Stall, Alan M.
+AU  - Stanley, Natalie
+AU  - Stark, Regina
+AU  - Stehle, Christina
+AU  - Steinmetz, Tobit
+AU  - Stockinger, Hannes
+AU  - Takahama, Yousuke
+AU  - Takeda, Kiyoshi
+AU  - Tan, Leonard
+AU  - Tárnok, Attila
+AU  - Tiegs, Gisa
+AU  - Toldi, Gergely
+AU  - Tornack, Julia
+AU  - Traggiai, Elisabetta
+AU  - Trebak, Mohamed
+AU  - Tree, Timothy I.M.
+AU  - Trotter, Joe
+AU  - Trowsdale, John
+AU  - Tsoumakidou, Maria
+AU  - Ulrich, Henning
+AU  - Urbanczyk, Sophia
+AU  - van de Veen, Willem
+AU  - van den Broek, Maries
+AU  - van der Pol, Edwin
+AU  - Van Gassen, Sofie
+AU  - Van Isterdael, Gert
+AU  - van Lier, René A.W.
+AU  - Veldhoen, Marc
+AU  - Vento-Asturias, Salvador
+AU  - Vieira, Paulo
+AU  - Voehringer, David
+AU  - Volk, Hans-Dieter
+AU  - von Borstel, Anouk
+AU  - von Volkmann, Konrad
+AU  - Waisman, Ari
+AU  - Walker, Rachael V.
+AU  - Wallace, Paul K.
+AU  - Wang, Sa A.
+AU  - Wang, Xin M.
+AU  - Ward, Michael D.
+AU  - Ward-Hartstonge, Kirsten A
+AU  - Warnatz, Klaus
+AU  - Warnes, Gary
+AU  - Warth, Sarah
+AU  - Waskow, Claudia
+AU  - Watson, James V.
+AU  - Watzl, Carsten
+AU  - Wegener, Leonie
+AU  - Weisenburger, Thomas
+AU  - Wiedemann, Annika
+AU  - Wienands, Jürgen
+AU  - Wilharm, Anneke
+AU  - Wilkinson, Robert John
+AU  - Willimsky, Gerald
+AU  - Wing, James B.
+AU  - Winkelmann, Rieke
+AU  - Winkler, Thomas H.
+AU  - Wirz, Oliver F.
+AU  - Wong, Alicia
+AU  - Wurst, Peter
+AU  - Yang, Jennie H. M.
+AU  - Yang, Juhao
+AU  - Yazdanbakhsh, Maria
+AU  - Yu, Liping
+AU  - Yue, Alice
+AU  - Zhang, Hanlin
+AU  - Zhao, Yi
+AU  - Ziegler, Susanne Maria
+AU  - Zielinski, Christina
+AU  - Zimmermann, Jakob
+AU  - Zychlinsky, Arturo
+TI  - Guidelines for the use of flow cytometry and cell sorting in immunological studies (second edition)
+JO  - European Journal of Immunology
+JA  - Eur. J. Immunol.
+VL  - 49
+IS  - 10
+SN  - 0014-2980
+UR  - https://doi.org/10.1002/eji.201970107
+DO  - doi:10.1002/eji.201970107
+SP  - 1457
+EP  - 1973
+PY  - 2019
+AB  - Abstract These guidelines are a consensus work of a considerable number of members of the immunology and flow cytometry community. They provide the theory and key practical aspects of flow cytometry enabling immunologists to avoid the common errors that often undermine immunological data. Notably, there are comprehensive sections of all major immune cell types with helpful Tables detailing phenotypes in murine and human cells. The latest flow cytometry techniques and applications are also described, featuring examples of the data that can be generated and, importantly, how the data can be analysed. Furthermore, there are sections detailing tips, tricks and pitfalls to avoid, all written and peer-reviewed by leading experts in the field, making this an essential research companion.
+ER  - 
+
+TY  - JOUR
+TI  - Certificate in Equine Stud Medicine Examination
+JO  - Equine Veterinary Education
+VL  - 6
+IS  - 1
+SN  - 0957-7734
+UR  - https://doi.org/10.1111/j.2042-3292.1994.tb01070.x
+DO  - doi:10.1111/j.2042-3292.1994.tb01070.x
+SP  - 2
+EP  - 5
+PY  - 1994
+ER  - 
+
+TY  - JOUR
+AU  - Stanimirovic, Danica
+AU  - Satoh, Kei
+TI  - Inflammatory Mediators of Cerebral Endothelium: A Role in Ischemic Brain Inflammation
+JO  - Brain Pathology
+VL  - 10
+IS  - 1
+SN  - 1015-6305
+UR  - https://doi.org/10.1111/j.1750-3639.2000.tb00248.x
+DO  - doi:10.1111/j.1750-3639.2000.tb00248.x
+SP  - 113
+EP  - 126
+PY  - 2000
+AB  - Brain inflammation has been implicated in the development of brain edema and secondary brain damage in ischemia and trauma. Adhesion molecules, cytokines and leukocyte chemoattractants released/presented at the site of blood-brain barrier (BBB) play an important role in mobilizing peripheral inflammatory cells into the brain. Cerebral endothelial cells (CEC) are actively engaged in processes of microvascular stasis and leukocyte infiltration by producing a plethora of pro-inflammatory mediators. When challenged by external stimuli including cytokines and hypoxia, CEC have been shown to release/express various products of arachidonic acid cascade with both vasoactive and pro-inflammatory properties, including prostaglandins, leukotrienes, and platelet-activating factor (PAF). These metabolites induce platelet and neutrophil activation and adhesion, changes in local cerebral blood flow and blood rheology, and increases in BBB permeability. Ischemic CEC have also been shown to express and release bioactive inflammatory cytokines and chemokines, including IL-I?, IL-8 and MCP-1. Many of these mediators and ischemia in vitro and in vivo have been shown to up-regulate the expression of both selectin and Ig-families of adhesion molecules in CEC and to facilitate leukocyte adhesion and transmigration into the brain. Collectively, these studies demonstrate a pivotal role of CEC in initiating and regulating inflammatory responses in cerebral ischemia. Summary Inflammatory genes/mediators are involved in molecular/biochemical cascades determining stroke outcome. Cerebral endothelial cells, targeted by inflammatory mediators produced in ischemic brain, undergo pro-inflammatory activation by expressing/secreting various inflammatory mediators, thus becoming a source of inflammation themselves. A unique position of the cerebral endothelial cells at the interface between blood and brain establishes their role as principal regulators of peripheral inflammatory cell recruitment into the brain during stroke. Cerebral endothelial cells also exhibit ability to regulate vasomotor responses of brain microcirculation and the permeability of the BBB, both important components of inflammation. Therefore, approaches to attenuate consequences of stroke must take into consideration cerebral endothelial cells as an easily accessible target to interfere with the ischemic brain inflammation.
+ER  - 
+
+TY  - JOUR
+AU  - Harris, Scott M
+AU  - Zhang, Lijuan
+AU  - Parente, Jody
+AU  - Rodeheaver, George T.
+AU  - Falla, Timothy J.
+TI  - 111 HB-50: A Pre-Clinical Study of a Prophylactic for Wound Infection
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractde.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractde.x
+SP  - A29
+EP  - A29
+PY  - 2004
+AB  - Topical prophylaxis against wound infection by an agent that is active against multi-resistant bacteria does not generate resistance and is rapidly cidal would be of great clinical benefit. Peptides of the innate immune system have long been known to protect a wide range of organisms from attack by bacterial and fungal pathogens. Helix BioMedix Inc. has developed a short bioactive peptide antimicrobial modeled after these peptides. HB-50 is an amphipathic cationic alpha-helical peptide that has broad spectrum activity and is rapidly microbicidal. These attributes make HB-50 an ideal candidate for wound infection prophylaxis. In vitro studies have demonstrated HB-50 to be active against both gram-positive and gram-negative bacteria killing 5?7 log orders of bacteria within minutes. In addition, this peptide has potent activity against Vancomycin and Mupirocin resistant S. aureus. Preliminary testing of the peptide in a rat abraded skin infection model has shown the peptide?s effectiveness in preventing wound infection while not inhibiting wound healing. Additionally, the HB-50 sequence has been specifically developed to be cost effective to manufacture and therefore is well suited for use as a topical antimicrobial agent.
+ER  - 
+
+TY  - JOUR
+AU  - Ward, Peter A.
+TI  - New approaches to the study of sepsis
+JO  - EMBO Molecular Medicine
+JA  - EMBO Mol Med
+VL  - 4
+IS  - 12
+SN  - 1757-4676
+UR  - https://doi.org/10.1002/emmm.201201375
+DO  - doi:10.1002/emmm.201201375
+SP  - 1234
+EP  - 1243
+KW  - clinical trials
+KW  - complement
+KW  - interventions
+KW  - mediators
+KW  - sepsis
+PY  - 2012
+AB  - Abstract Models of sepsis have been instructive in understanding the sequence of events in animals and, to an extent, in humans with sepsis. Events developing early in sepsis suggest that a hyperinflammatory state exists, accompanied by a buildup of oxidants in tissues reflective of a redox imbalance. Development of immunosuppression and degraded innate and adaptive immune responses are well-established complications of sepsis. In addition, there is robust activation of the complement system, which contributes to the harmful effects of sepsis. These events appear to be associated with development of multiorgan failure. The relevance of animal models of sepsis to human sepsis and the failure of human clinical trials are discussed, together with suggestions as to how clinical trial design might be improved.
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Jia-xiang
+AU  - Zha, Wan-sheng
+AU  - Ye, Liang-ping
+AU  - Wang, Feng
+AU  - Wang, Hui
+AU  - Shen, Tong
+AU  - Wu, Chang-hao
+AU  - Zhu, Qi-xing
+C8  - JAT-15-0189.R1
+TI  - Complement C5a–C5aR interaction enhances MAPK signaling pathway activities to mediate renal injury in trichloroethylene sensitized BALB/c mice
+JO  - Journal of Applied Toxicology
+JA  - J. Appl. Toxicol.
+VL  - 36
+IS  - 2
+SN  - 0260-437X
+UR  - https://doi.org/10.1002/jat.3179
+DO  - doi:10.1002/jat.3179
+SP  - 271
+EP  - 284
+KW  - trichloroethylene
+KW  - C5a
+KW  - C5aR
+KW  - renal injury
+KW  - MAPK
+PY  - 2016
+AB  - Abstract We have previously shown complement activation as a possible mechanism for trichloroethylene (TCE) sensitization, leading to multi-organ damage including the kidneys. In particular, excessive deposition of C5 and C5b-9-the membrane attack complex, which can generate significant tissue damage, was observed in the kidney tissue after TCE sensitization. The present study tested the hypothesis that anaphylatoxin C5a binding to its receptor C5aR mediates renal injury in TCE-sensitized BALB/c mice. BALB/c mice were sensitized through skin challenge with TCE, with or without pretreatment by the C5aR antagonist W54011. Kidney histopathology and the renal functional test were performed to assess renal injury, and immunohistochemistry and fluorescent labeling were carried out to assess C5a and C5aR expressions. TCE sensitization up-regulated C5a and C5aR expressions in kidney tissue, generated inflammatory infiltration, renal tubule damage, glomerular hypercellularity and impaired renal function. Antagonist pretreatment blocked C5a binding to C5aR and attenuated TCE-induced tissue damage and renal dysfunction. TCE sensitization also caused the deposition of major pro-inflammatory cytokines IL-2, TNF-α and IFN-? in the kidney tissue (P?<?0.05); this was accompanied by increased expression of P-p38, P-ERK and P-JNK proteins (P?<?0.05). Pretreatment with the C5aR antagonist attenuated the increase of expression of P-p38, P-ERK and P-JNK proteins (P?<?0.05) and also consistently reduced the TCE sensitization-induced increase of IL-2, TNF-α and IFN-? (P?<?0.05). These data identify C5a binding to C5aR, MAP kinase activation, and inflammatory cytokine release as a novel mechanism for complement-mediated renal injury by sensitization with TCE or other environmental chemicals. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Gupte, A. A.
+AU  - Hocevar, S. N.
+AU  - Lea, A. S.
+AU  - Kulkarni, R. D.
+AU  - Schain, D. C.
+AU  - Casey, M. J.
+AU  - Zendejas-Ruiz, I. R.
+AU  - Chung, W. K.
+AU  - Mbaeyi, C.
+AU  - Roy, S. L.
+AU  - Visvesvara, G. S.
+AU  - da Silva, A. J.
+AU  - Tallaj, J.
+AU  - Eckhoff, D.
+AU  - Baddley, J. W.
+TI  - Transmission of Balamuthia mandrillaris Through Solid Organ Transplantation: Utility of Organ Recipient Serology to Guide Clinical Management
+JO  - American Journal of Transplantation
+VL  - 14
+IS  - 6
+SN  - 1600-6135
+UR  - https://doi.org/10.1111/ajt.12726
+DO  - doi:10.1111/ajt.12726
+SP  - 1417
+EP  - 1424
+KW  - Amebic encephalitis
+KW  - Balamuthia mandrillaris
+KW  - donor-derived infection
+KW  - miltefosine
+PY  - 2014
+AB  - A liver, heart, iliac vessel and two kidneys were recovered from a 39-year-old man who died of traumatic head injury and were transplanted into five recipients. The liver recipient 18 days posttransplantation presented with headache, ataxia and fever, followed by rapid neurologic decline and death. Diagnosis of granulomatous amebic encephalitis was made on autopsy. Balamuthia mandrillaris infection was confirmed with immunohistochemical and polymerase chain reaction (PCR) assays. Donor and recipients' sera were tested for B. mandrillaris antibodies. Donor brain was negative for Balamuthia by immunohistochemistry and PCR; donor serum Balamuthia antibody titer was positive (1:64). Antibody titers in all recipients were positive (range, 1:64?1:512). Recipients received a four- to five-drug combination of miltefosine or pentamidine, azithromycin, albendazole, sulfadiazine and fluconazole. Nausea, vomiting, elevated liver transaminases and renal insufficiency were common. All other recipients survived and have remained asymptomatic 24 months posttransplant. This is the third donor-derived Balamuthia infection cluster described in solid organ transplant recipients in the United States. As Balamuthia serologic testing is only available through a national reference laboratory, it is not feasible for donor screening, but may be useful to determine exposure status in recipients and to help guide chemotherapy.
+ER  - 
+
+TY  - JOUR
+AU  - Bayetto, K
+AU  - Cheng, A
+AU  - Sambrook, P
+TI  - Necrotizing fasciitis as a complication of odontogenic infection: a review of management and case series
+JO  - Australian Dental Journal
+JA  - Aust Dent J
+VL  - 62
+IS  - 3
+SN  - 0045-0421
+UR  - https://doi.org/10.1111/adj.12508
+DO  - doi:10.1111/adj.12508
+SP  - 317
+EP  - 322
+KW  - Cervicofacial
+KW  - fasciitis
+KW  - infection
+KW  - necrotizing
+KW  - odontogenic
+PY  - 2017
+AB  - Abstract Background The aims of the present study were to establish the incidence of head and neck necrotizing fasciitis (NF) in the Adelaide Oral and Maxillofacial Surgery Unit; review the current literature regarding the management of head and neck NF; and determine the evidence for the role of hyperbaric oxygen therapy in the management of NF. Methods A retrospective audit of all patients admitted to the Royal Adelaide Hospital Oral and Maxillofacial Surgery Unit 2006?2015 with severe odontogenic infections was carried out. Patient demographics were recorded and treatment details were collected and analysed. Results A total of 672 patients were admitted for management of severe odontogenic infections. Of these, three were identified as NF. One case was treated using hyperbaric oxygen as an adjunct to conventional surgical and medical management. Two cases were managed using aggressive surgical management alone. Two patients survived. The incidence of head and neck NF in South Australia is 48/100 000 infections per year. Conclusions The first-line treatment of severe odontogenic infections remains conventional surgical and medical management; however, hyperbaric oxygen therapy may have an additional role in the management of NF and other rare severe infections in medically complex patients.
+ER  - 
+
+TY  - JOUR
+AU  - Osman, Afaf S
+AU  - Osman, Ahmed H
+AU  - Kamel, Mahmoud M
+TI  - Study of the protective effect of ischemic and pharmacological preconditioning on hepatic ischemic reperfusion injury induced in rats
+JO  - JGH Open
+JA  - JGH Open
+VL  - 1
+IS  - 3
+SN  - 2397-9070
+UR  - https://doi.org/10.1002/jgh3.12018
+DO  - doi:10.1002/jgh3.12018
+SP  - 105
+EP  - 111
+KW  - hepatic ischemia/reperfusion
+KW  - ischemic preconditioning
+KW  - lisinopril
+KW  - verapamil
+PY  - 2017
+AB  - Background and Aim Hepatic ischemia reperfusion injury is the main cause of liver failure following liver surgery, so an effective method is needed to prevent or reduce this hepatic injury. The aim of the present study is to investigate the potential effect of ischemic preconditioning versus pharmacological preconditioning with lisinopril or verapamil for protection against hepatic ischemia reperfusion injury induced in rats. Methods Rats were divided into six groups. Group I served as control untreated. Rats of group II were subjected to laparotomy without induction of ischemia reperfusion. Ischemia reperfusion by ligation of the portal trait for 30?min, followed by reperfusion for 2?h, was performed in rats of groups III?VI. Ischemic preconditioning was performed for rats of group IV before induction of ischemia reperfusion. Lisinopril and verapamil was given daily for 3?days before induction of ischemia reperfusion in groups V and VI, respectively. Serum level of liver transaminases and liver malondialdehyde content were measured, and hepatic histopathological examination was assessed. Results Induction of ischemia reperfusion resulted in significant elevation of liver transaminases and liver malondialdehyde content associated with significant hepatic histopathological injury that were significantly improved by ischemic preconditioning, lisinopril, or verapamil treatment. Verapamil showed the most significant improvement compared with ischemic preconditioning or lisinopril treatment. Conclusion Ischemic preconditioning and pharmacological preconditioning by lisinopril or verapamil can protect against hepatic ischemia reperfusion probably through inhibition of oxidative stress and neutrophil infiltration. The most potent protection is demonstrated by verapamil treatment.
+ER  - 
+
+AU  - Marshall, John C.
+AU  - Malam, Zeenat
+AU  - Jia, Songhui
+C7  - pp. 53-72
+TI  - Modulating Neutrophil Apoptosis
+SN  - 9780470027981
+UR  - https://doi.org/10.1002/9780470059593.ch5
+DO  - doi:10.1002/9780470059593.ch5
+SP  - 53-72
+KW  - modulating neutrophil-apoptosis
+KW  - Polymorphonuclear neutrophils (PMNs)
+KW  - bystander injury to host tissues in neutrophil activation
+KW  - cellular mechanisms inhibiting apoptosis
+KW  - pre-colony B cell enhancing factor (PBEF)
+PY  - 2017
+AB  - Summary Polymorphonuclear neutrophils are short-lived phagocytic cells that serve as cardinal early cellular effectors of innate immunity. Both oxidative and non-oxidative mechanisms contribute to microbial killing by the neutrophil. Neutrophil defence mechanisms are potent but non-specific, with the result that inadvertent injury to host tissues commonly accompanies the activation of a neutrophil-mediated response; this bystander injury has been implicated in the tissue injury of sepsis. The capacity for neutrophils to cause injury to host tissues is attenuated by the relatively short in vivo lifespan of the neutrophil, a consequence of a constitutively expressed program of apoptosis. That program can be inhibited, and neutrophil survival prolonged, through the interaction of the neutrophil with a variety of mediators of both microbial and host origin. These, in turn, inhibit apoptosis by increasing the expression of anti-apoptotic genes within the neutrophil: interleukin (IL)1? and a novel cytokine-like molecule pre-B cell colonyenhancing factor (PBEF) are central to this inhibitory influence. Conversely, the phagocytosis of a micro-organism activates the apoptotic program, and so contributes to the resolution of acute inflammation. A complex series of interactions between the neutrophil and microorganisms or their products regulates the duration and intensity of an inflammatory response, and so provides an attractive target for therapeutic manipulation.
+ER  - 
+
+TY  - JOUR
+AU  - Papapanou, Panos N.
+AU  - Sanz, Mariano
+AU  - Buduneli, Nurcan
+AU  - Dietrich, Thomas
+AU  - Feres, Magda
+AU  - Fine, Daniel H.
+AU  - Flemmig, Thomas F.
+AU  - Garcia, Raul
+AU  - Giannobile, William V.
+AU  - Graziani, Filippo
+AU  - Greenwell, Henry
+AU  - Herrera, David
+AU  - Kao, Richard T.
+AU  - Kebschull, Moritz
+AU  - Kinane, Denis F.
+AU  - Kirkwood, Keith L.
+AU  - Kocher, Thomas
+AU  - Kornman, Kenneth S.
+AU  - Kumar, Purnima S.
+AU  - Loos, Bruno G.
+AU  - Machtei, Eli
+AU  - Meng, Huanxin
+AU  - Mombelli, Andrea
+AU  - Needleman, Ian
+AU  - Offenbacher, Steven
+AU  - Seymour, Gregory J.
+AU  - Teles, Ricardo
+AU  - Tonetti, Maurizio S.
+TI  - Periodontitis: Consensus report of workgroup 2 of the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions
+JO  - Journal of Periodontology
+JA  - J Periodontol
+VL  - 89
+IS  - S1
+SN  - 9780470027981
+UR  - https://doi.org/10.1002/JPER.17-0721
+DO  - doi:10.1002/JPER.17-0721
+SP  - S173
+EP  - S182
+KW  - acute periodontal conditions
+KW  - endo-periodontal lesion
+KW  - necrotizing gingivitis
+KW  - necrotizing periodontitis
+KW  - periodontal abscess
+KW  - periodontal disease
+KW  - periodontitis
+PY  - 2018
+AB  - Abstract A new periodontitis classification scheme has been adopted, in which forms of the disease previously recognized as ?chronic? or ?aggressive? are now grouped under a single category (?periodontitis?) and are further characterized based on a multi-dimensional staging and grading system. Staging is largely dependent upon the severity of disease at presentation as well as on the complexity of disease management, while grading provides supplemental information about biological features of the disease including a history-based analysis of the rate of periodontitis progression; assessment of the risk for further progression; analysis of possible poor outcomes of treatment; and assessment of the risk that the disease or its treatment may negatively affect the general health of the patient. Necrotizing periodontal diseases, whose characteristic clinical phenotype includes typical features (papilla necrosis, bleeding, and pain) and are associated with host immune response impairments, remain a distinct periodontitis category. Endodontic-periodontal lesions, defined by a pathological communication between the pulpal and periodontal tissues at a given tooth, occur in either an acute or a chronic form, and are classified according to signs and symptoms that have direct impact on their prognosis and treatment. Periodontal abscesses are defined as acute lesions characterized by localized accumulation of pus within the gingival wall of the periodontal pocket/sulcus, rapid tissue destruction and are associated with risk for systemic dissemination.
+ER  - 
+
+TY  - JOUR
+AU  - Papapanou, Panos N.
+AU  - Sanz, Mariano
+AU  - Buduneli, Nurcan
+AU  - Dietrich, Thomas
+AU  - Feres, Magda
+AU  - Fine, Daniel H.
+AU  - Flemmig, Thomas F.
+AU  - Garcia, Raul
+AU  - Giannobile, William V.
+AU  - Graziani, Filippo
+AU  - Greenwell, Henry
+AU  - Herrera, David
+AU  - Kao, Richard T.
+AU  - Kebschull, Moritz
+AU  - Kinane, Denis F.
+AU  - Kirkwood, Keith L.
+AU  - Kocher, Thomas
+AU  - Kornman, Kenneth S.
+AU  - Kumar, Purnima S.
+AU  - Loos, Bruno G.
+AU  - Machtei, Eli
+AU  - Meng, Huanxin
+AU  - Mombelli, Andrea
+AU  - Needleman, Ian
+AU  - Offenbacher, Steven
+AU  - Seymour, Gregory J.
+AU  - Teles, Ricardo
+AU  - Tonetti, Maurizio S.
+TI  - Periodontitis: Consensus report of workgroup 2 of the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions
+JO  - Journal of Clinical Periodontology
+JA  - J Clin Periodontol
+VL  - 45
+IS  - S20
+SN  - 9780470027981
+UR  - https://doi.org/10.1111/jcpe.12946
+DO  - doi:10.1111/jcpe.12946
+SP  - S162
+EP  - S170
+KW  - acute periodontal conditions
+KW  - endo-periodontal lesion
+KW  - necrotizing gingivitis
+KW  - necrotizing periodontitis
+KW  - periodontal abscess
+KW  - periodontal disease
+KW  - periodontitis
+PY  - 2018
+AB  - Abstract A new periodontitis classification scheme has been adopted, in which forms of the disease previously recognized as ?chronic? or ?aggressive? are now grouped under a single category (?periodontitis?) and are further characterized based on a multi-dimensional staging and grading system. Staging is largely dependent upon the severity of disease at presentation as well as on the complexity of disease management, while grading provides supplemental information about biological features of the disease including a history-based analysis of the rate of periodontitis progression; assessment of the risk for further progression; analysis of possible poor outcomes of treatment; and assessment of the risk that the disease or its treatment may negatively affect the general health of the patient. Necrotizing periodontal diseases, whose characteristic clinical phenotype includes typical features (papilla necrosis, bleeding, and pain) and are associated with host immune response impairments, remain a distinct periodontitis category. Endodontic-periodontal lesions, defined by a pathological communication between the pulpal and periodontal tissues at a given tooth, occur in either an acute or a chronic form, and are classified according to signs and symptoms that have direct impact on their prognosis and treatment. Periodontal abscesses are defined as acute lesions characterized by localized accumulation of pus within the gingival wall of the periodontal pocket/sulcus, rapid tissue destruction and are associated with risk for systemic dissemination.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts presented at the 10th World Congress of Veterinary Anaesthesia, 31st August–4th September 2009, Glasgow, UK
+JO  - Veterinary Anaesthesia and Analgesia
+VL  - 37
+IS  - 3
+SN  - 9780470027981
+UR  - https://doi.org/10.1111/j.1467-2995.2010.00535a.x
+DO  - doi:10.1111/j.1467-2995.2010.00535a.x
+SP  - 1
+EP  - 88
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - Fullerton, James N
+AU  - O'Brien, Alastair J
+AU  - Gilroy, Derek W
+TI  - Pathways mediating resolution of inflammation: when enough is too much
+JO  - The Journal of Pathology
+JA  - J. Pathol.
+VL  - 231
+IS  - 1
+SN  - 9780470027981
+UR  - https://doi.org/10.1002/path.4232
+DO  - doi:10.1002/path.4232
+SP  - 8
+EP  - 20
+KW  - critical illness
+KW  - sepsis
+KW  - resolution of inflammation
+KW  - apoptosis
+KW  - efferocytosis
+KW  - macrophage
+KW  - lipid mediators
+KW  - PGE2
+KW  - T-regulatory cell
+KW  - myeloid-derived suppressor cell
+PY  - 2013
+AB  - Abstract Patients with critical illness, and in particular sepsis, are now recognized to undergo unifying, pathogenic disturbances of immune function. Whilst scientific and therapeutic focus has traditionally been on understanding and modulating the initial pro-inflammatory limb, recent years have witnessed a refocusing on the development and importance of immunosuppressive 'anti-inflammatory' pathways. Several mechanisms are known to drive this phenomenon; however, no overriding conceptual framework justifies them. In this article we review the contribution of pro-resolution pathways to this phenotype, describing the observed immune alterations in terms of either a failure of resolution of inflammation or the persistence of pro-resolution processes causing inappropriate ?injurious resolution??a novel hypothesis. The dysregulation of key processes in critical illness, including apoptosis of infiltrating neutrophils and their efferocytosis by macrophages, are discussed, along with the emerging role of specialized cell subtypes Gr1+ CD11b+ myeloid-derived suppressor cells and CD4+ CD25+ FoxP3+ T-regulatory cells. Copyright ? 2013 Pathological Society of Great Britain and Ireland. Published by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Ficarra, Mercedes
+AU  - Ibana, Joyce S. A.
+AU  - Poretta, Constance
+AU  - Ma, Liang
+AU  - Myers, Leann
+AU  - Taylor, Stephanie N.
+AU  - Greene, Sheila
+AU  - Smith, Barbara
+AU  - Hagensee, Michael
+AU  - Martin, David H.
+AU  - Quayle, Alison J.
+TI  - ORIGINAL ARTICLE: A Distinct Cellular Profile Is Seen in the Human Endocervix During Chlamydia trachomatis Infection
+JO  - American Journal of Reproductive Immunology
+VL  - 60
+IS  - 5
+SN  - 9780470027981
+UR  - https://doi.org/10.1111/j.1600-0897.2008.00639.x
+DO  - doi:10.1111/j.1600-0897.2008.00639.x
+SP  - 415
+EP  - 425
+KW  - Chlamydia trachomatis
+KW  - endocervix
+KW  - human
+KW  - T lymphocyte
+PY  - 2008
+AB  - Problem? The endocervix is a major target of Chlamydia trachomatis infection, but little is known about the immune repertoire in this tissue, or its response to these common bacteria. Method of study? Using a cytobrush, we isolated cells from the endocervix of 20 women during C. trachomatis infection, and post-antibiotic treatment. Endocervical swabs and blood were taken in parallel. Endocervical cells were enumerated, and endocervical and blood T cells immunophenotyped. Chlamydia trachomatis was genotyped by sequence analysis of the OmpA gene, and quantified by culture. Results? Chlamydia trachomatis genotypes were D, E, F and Ia, and infectious burden varied considerably. Endocervical T cell and neutrophil numbers were highly elevated during infection, with both CD4 and CD8 T-cell subsets accumulating. Regardless of the presence or absence of infection, the endocervical cell infiltrate was dominated by effector memory T cells, and the numbers of CCR5 and CD103 expressing T cells was significantly higher than in the blood. Human leukocyte antigen (HLA-DR) expression by endocervical T cells was significantly increased during infection. Conclusion? The human endocervix exhibits a distinct cellular response to C. trachomatis infection that can be longitudinally evaluated by cytobrush sampling. Infecting organisms can be sampled and analyzed in parallel.
+ER  - 

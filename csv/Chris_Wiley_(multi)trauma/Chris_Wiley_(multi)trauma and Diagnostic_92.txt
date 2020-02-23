@@ -1,0 +1,430 @@
+
+AU  - Fouad, Ashraf F.
+C7  - pp. 177-192
+TI  - Digital Applications in Endodontics
+SN  - 9781118655795
+UR  - https://doi.org/10.1002/9781119045564.ch9
+DO  - doi:10.1002/9781119045564.ch9
+SP  - 177-192
+KW  - digital technologies
+KW  - endodontic diagnosis
+KW  - endodontic treatment
+KW  - endodontics
+PY  - 2015
+AB  - Summary This chapter describes digital technologies that support the basic goals of diagnosis and treatment as well as provide some information on their efficacy and effectiveness where appropriate. In describing these technologies, it is essential to remember that the most important objective of these technologies is to improve diagnostic acumen and treatment outcomes. Naturally, other goals include efficiency and convenience for the practitioner; however, these additional goals would only be justified if they do not interfere with the first objective and provide safety and cost-effectiveness for the patient. One of the most fundamental processes for endodontic diagnosis is pulp testing. In addition to the objective demonstrations for the importance of magnification in endodontics, endodontic practitioners have found magnification to be useful in identifying calcified. Advanced instrumentation and digital technology continue to improve the techniques used in endodontic diagnosis and treatment.
+ER  - 
+
+AU  - Neldner, Kenneth H.
+AU  - Struk, Berthold
+C7  - pp. 561-583
+TI  - Pseudoxanthoma Elasticum
+SN  - 9780471251859
+UR  - https://doi.org/10.1002/0471221929.ch11
+DO  - doi:10.1002/0471221929.ch11
+SP  - 561-583
+KW  - pseudoxanthoma elasticum (PXE)
+KW  - epidemiology
+KW  - clinical aspects
+KW  - cardiovascular system
+KW  - diagnosis
+KW  - genetics
+KW  - histopathology
+KW  - biochemistry
+KW  - management
+KW  - ABCC6 gene
+PY  - 2002
+AB  - Summary Pseudoxanthoma elasticum (PXE) is a hereditary, systemic disorder of connective tissue. We begin the chapter with a discussion of the epidemiology of PXE, and then present clinical aspects. Next, we consider the initial diagnosis of PXE, as well as prenatal diagnosis and diagnostic tests. Since PXE is a genetically predetermined disorder, we present extensive discussion of genetic factors. Later, we discuss the three biochemical abnormalities recognized in PXE. The chapter concludes with a section on the management of the PXE followed by a discussion of recent developments.
+ER  - 
+
+TY  - JOUR
+AU  - Keller, Dominique L.
+AU  - Hartup, Barry K.
+TI  - Reintroduction medicine: Whooping cranes in Wisconsin
+JO  - Zoo Biology
+VL  - 32
+IS  - 6
+SN  - 9780471251859
+UR  - https://doi.org/10.1002/zoo.21097
+DO  - doi:10.1002/zoo.21097
+SP  - 600
+EP  - 607
+KW  - aspergillosis
+KW  - Grus americana
+KW  - health management
+KW  - pathogen transfer
+KW  - preventive medicine
+PY  - 2013
+AB  - Abstract This paper presents veterinary management strategies and diagnostic findings in the reintroduction of the endangered whooping crane (Grus americana). Between 2005 and 2010, 63 (27 male, 36 female) hatchling whooping cranes were assigned to a reintroduction project involving autumn release of costume-reared chicks in Wisconsin. Veterinary care included preventive measures and comprehensive pre-release evaluations to improve fitness and reduce translocation of potential disease agents to native habitats. A total of 44 clinically normal birds were released (70% of assigned individuals). Cases of morbidity were classified according to primary body system affected. Musculoskeletal disorders were described in 57 birds (90%); five birds were removed from the project prior to release (8%), all for abnormalities that prevented normal function. Fourteen birds died or were euthanized prior to release (22%); pre-release mortality was attributed to developmental abnormality, predation, trauma or infectious disease. Chronic respiratory aspergillosis, diagnosed in seven birds (11%), was the most common infectious disease of concern. Predation and trauma were primary causes of post-release mortality; no evidence of infectious disease of captive origin was detected in the study population by the end of 2010. The assessment of data accumulated by this project helped to outline successful health management strategies, as well as identify and mitigate ongoing risks to captive whooping cranes that impede reintroduction efforts and achieving management goals for species recovery. Zoo Biol. 32:600?607, 2013. ? 2013 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - de la Fuente, Matías
+AU  - Lutz, Peter
+AU  - Wirtz, Dieter C.
+AU  - Radermacher, Klaus
+TI  - Predictive sensor based x-ray calibration using a physical model
+JO  - Medical Physics
+JA  - Med. Phys.
+VL  - 34
+IS  - 4
+SN  - 9780471251859
+UR  - https://doi.org/10.1118/1.2558266
+DO  - doi:10.1118/1.2558266
+SP  - 1153
+EP  - 1162
+KW  - Radiography
+KW  - Standards and calibration
+KW  - Non-ionizing radiation equipment and techniques
+KW  - X- and γ-ray instruments
+KW  - diagnostic radiography
+KW  - distortion
+KW  - compensation
+KW  - calibration
+KW  - image intensifiers
+KW  - biomedical equipment
+KW  - X-ray apparatus
+KW  - medical image processing
+KW  - magnetic sensors
+KW  - x-ray calibration
+KW  - distortion correction
+KW  - computer assisted surgery
+KW  - fluoroscopic navigation
+KW  - Calibration
+KW  - X-ray imaging
+KW  - Magnetic fields
+KW  - Image intensifiers
+KW  - Medical imaging
+KW  - Medical X-ray imaging
+KW  - Anodes
+KW  - Magnetic field sensors
+KW  - Magnetic field measurements
+KW  - Cathodes
+PY  - 2007
+AB  - Many computer assisted surgery systems are based on intraoperative x-ray images. To achieve reliable and accurate results these images have to be calibrated concerning geometric distortions, which can be distinguished between constant distortions and distortions caused by magnetic fields. Instead of using an intraoperative calibration phantom that has to be visible within each image resulting in overlaying markers, the presented approach directly takes advantage of the physical background of the distortions. Based on a computed physical model of an image intensifier and a magnetic field sensor, an online compensation of distortions can be achieved without the need of an intraoperative calibration phantom. The model has to be adapted once to each specific image intensifier through calibration, which is based on an optimization algorithm systematically altering the physical model parameters, until a minimal error is reached. Once calibrated, the model is able to predict the distortions caused by the measured magnetic field vector and build an appropriate dewarping function. The time needed for model calibration is not yet optimized and takes up to on a CPU. In contrast, the time needed for distortion correction is less than and therefore absolutely acceptable for intraoperative use. First evaluations showed that by using the model based dewarping algorithm the distortions of an XRII with a FOV could be significantly reduced. The model was able to predict and compensate distortions by approximately 80% to a remaining error of (max) ( rms).
+ER  - 
+
+TY  - JOUR
+AU  - Croome, Kris P.
+AU  - Wall, William
+AU  - Chandok, Natasha
+AU  - Beck, Gavin
+AU  - Marotta, Paul
+AU  - Hernandez-Alejandro, Roberto
+TI  - Inferior survival in liver transplant recipients with hepatocellular carcinoma receiving donation after cardiac death liver allografts
+JO  - Liver Transplantation
+JA  - Liver Transpl
+VL  - 19
+IS  - 11
+SN  - 9780471251859
+UR  - https://doi.org/10.1002/lt.23715
+DO  - doi:10.1002/lt.23715
+SP  - 1214
+EP  - 1223
+PY  - 2013
+AB  - The impact of ischemia/reperfusion injury in the setting of transplantation for hepatocellular carcinoma (HCC) has not been thoroughly investigated. The present study examined data from the Scientific Registry of Transplant Recipients for all recipients of deceased donor liver transplants performed between January 1, 1995 and October 31, 2011. In a multivariate Cox analysis, significant predictors of patient survival included the following: HCC diagnosis (P < 0.01), donation after cardiac death (DCD) allograft (P < 0.001), hepatitis C virus-positive status (P < 0.01), recipient age (P < 0.01), donor age (P < 0.001), Model for End-Stage Liver Disease score (P < 0.001), recipient race, and an alpha-fetoprotein level > 400 ng/mL at the time of transplantation. In order to test whether the decreased survival seen for HCC recipients of DCD grafts was more than would be expected because of the inferior nature of DCD grafts and the diagnosis of HCC, a DCD allograft/HCC diagnosis interaction term was created to look for potentiation of effect. In a multivariate analysis adjusted for all other covariates, this interaction term was statistically significant (P = 0.049) and confirmed that there was potentiation of inferior survival with the use of DCD allografts in recipients with HCC. In conclusion, patient survival and graft survival were inferior for HCC recipients of DCD allografts versus recipients of donation after brain death allografts. This potentiation of effect of inferior survival remained even after adjustments for the inherent inferiority observed in DCD allografts as well as other known risk factors. It is hypothesized that this difference could reflect an increased rate of recurrence of HCC. Liver Transpl 19:1214?1223, 2013. ? 2013 AASLD.
+ER  - 
+
+TY  - JOUR
+TI  - Basic science/optical diagnostics
+JO  - Lasers in Surgery and Medicine
+JA  - Lasers Surg. Med.
+VL  - 39
+IS  - S19
+SN  - 9780471251859
+UR  - https://doi.org/10.1002/lsm.20495
+DO  - doi:10.1002/lsm.20495
+SP  - 1
+EP  - 14
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+AU  - Raffan, E.
+AU  - Kipar, A.
+AU  - Barber, P. J.
+AU  - Freeman, A. I.
+TI  - Transitional cell carcinoma forming a perirenal cyst in a cat
+JO  - Journal of Small Animal Practice
+VL  - 49
+IS  - 3
+SN  - 9780471251859
+UR  - https://doi.org/10.1111/j.1748-5827.2007.00422.x
+DO  - doi:10.1111/j.1748-5827.2007.00422.x
+SP  - 144
+EP  - 147
+PY  - 2008
+AB  - An eight-year-old, neutered male Burmese cat presented with five days vomiting and anorexia. Physical examination, clinical pathology and diagnostic imaging findings suggested a perirenal pseudocyst. After partial resection of the perirenal capsule clinical signs temporarily resolved, but the cat was euthanased 34 days postoperatively as a result of seizures and recurrence of vomiting. Postoperative histopathology showed neoplastic transitional cells within and lining the resected perirenal capsule; a diagnosis of transitional cell carcinoma was confirmed post-mortem. To the authors? knowledge, this is the first report of this presentation of transitional cell carcinoma. Transitional cell carcinoma should be a differential diagnosis for the aetiology of perirenal pseudocyst.
+ER  - 
+
+TY  - JOUR
+AU  - De Pasquale, Maria Debora
+AU  - De Ioris, Maria Antonietta
+AU  - Serra, Annalisa
+AU  - Pessolano, Rosanna
+AU  - Donfrancesco, Alberto
+AU  - De Sio, Luigi
+TI  - Pancreatitis as an unusual presentation of rhabdomyosarcoma
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr. Blood Cancer
+VL  - 52
+IS  - 7
+SN  - 9780471251859
+UR  - https://doi.org/10.1002/pbc.21901
+DO  - doi:10.1002/pbc.21901
+SP  - 879
+EP  - 880
+KW  - pancreatic metastasis
+KW  - pancreatitis
+KW  - rhabdomyosarcoma
+PY  - 2009
+AB  - Abstract The most common etiologies of acute pancreatitis in children are trauma, multi-system disease, drugs, infections, idiopathic and congenital anomalies of the pancreaticobiliary system. Acute pancreatitis is rarely associated with underlying childhood malignancies. We report a 12-year-old male with acute pancreatitis as the presenting symptom of an alveolar metastatic rhabdomyosarcoma. Pediatr Blood Cancer 2009;52:879?880. ? 2009 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Graham, R. J. T. Y.
+AU  - Anderson, J. R.
+AU  - Phelan, M. M.
+AU  - Cillan-Garcia, E.
+AU  - Bladon, B. M.
+AU  - Taylor, S. E.
+TI  - Metabolomic analysis of synovial fluid from Thoroughbred racehorses diagnosed with palmar osteochondral disease using magnetic resonance imaging
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - n/a
+IS  - n/a
+SN  - 9780471251859
+UR  - https://doi.org/10.1111/evj.13199
+DO  - doi:10.1111/evj.13199
+KW  - horse
+KW  - metacarpophalangeal joint
+KW  - palmar osteochondral disease
+KW  - magnetic resonance imaging
+KW  - synovial fluid
+KW  - metabolomics
+AB  - Summary Background Palmar osteochondral disease (POD) is a common cause of lameness in competition horses. Magnetic resonance imaging (MRI) is the most sensitive diagnostic modality currently available, however it may not be financially or logistically practical for routine screening of POD. There is increasing interest in the use of metabolomics for diagnosis prior to progression to irreversible damage. Objectives To determine metabolite levels in synovial fluid (SF) of horses with a clinical diagnosis of POD based on diagnostic analgesia and MRI, with the hypothesis that metabolomic profiles differ between diseased and healthy joints. Study design Prospective clinical study. Methods Synovial fluid was collected from metacarpo/tarsophalangeal joints (MC/TPJ) of 29 horses (n = 51 joints), including 14 controls (n = 26) and 15 cases (n = 25), the latter with lameness localised to the MC/TPJ and MR changes consistent with POD (n = 23). Spectra were produced using 1H-nuclear magnetic resonance (NMR) spectroscopy and analysed. Results Twenty-five metabolites were recognised associated with various biosynthetic and degradation pathways. The metabolite abundances within the controls demonstrated increased variability compared with the clinical group. The low level of variance between the spectra of the two groups was explained by five principal components. Cross-validation of the cohort demonstrated modest separation of predictive power (R2 = 0.67; Q2 = 0.34). Although statistical significance was not achieved, the most influential metabolites were glucose and lactate. Main limitations The modest sample size and variation in signalment, background and presenting condition of the controls may have impacted the discriminative power of the constructed models. The lack of matched controls, differences in time of fluid collection and freezing times may have also reduced accuracy when representing metabolite profiles. Conclusions This study identified and quantified metabolites present in MC/TPJ SF of clinical cases with POD.
+ER  - 
+
+TY  - JOUR
+AU  - McKelvie, P.
+TI  - Laryngectomy: Diagnosis to rehabilitation. Y. Edels. 240 × 160 mm. Pp. 309 + xi. Illustrated. 1983. Beckenham: Croom Helm. £18.95
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 71
+IS  - 2
+SN  - 9780471251859
+UR  - https://doi.org/10.1002/bjs.1800710251
+DO  - doi:10.1002/bjs.1800710251
+SP  - 171
+EP  - 172
+PY  - 1984
+ER  - 
+
+AU  - Carpenter, Jenn
+AU  - Emond, Marcel
+AU  - Brison, Robert
+C7  - pp. 350-362
+TI  - Shoulder Injuries
+SN  - 9781405161435
+UR  - https://doi.org/10.1002/9781444303674.ch34
+DO  - doi:10.1002/9781444303674.ch34
+SP  - 350-362
+KW  - shoulder injuries
+KW  - shoulder injuries - common presentations in ED resulting in long-term disability
+KW  - acromioclavicular joint separations
+KW  - systematic review and Cochrane Library and MEDLINE and EMBASE on trials (RCTs) search
+KW  - Cochrane Library, MEDLINE and EMBASE database for shoulder injury publication
+KW  - algorithms for approach to radiography of shoulder dislocations
+KW  - Cochrane Library: shoulder dislocation AND shoulder immobilization
+KW  - contusion/soft tissue injury to rotator cuff strains
+KW  - humeral fracture, glenohumeral dislocation and evidence-based diagnostic approach
+PY  - 1984
+AB  - Summary This chapter contains sections titled: Clinical scenarios Background Clinical questions General search strategy Critical appraisal of the literature Conclusions Conflicts of interest References
+ER  - 
+
+TY  - JOUR
+AU  - MURPHY, SEAN E.
+AU  - BALLEGEER, ELIZABETH A.
+AU  - FORREST, LISA J.
+AU  - SCHAEFER, SUSAN L.
+TI  - Magnetic Resonance Imaging Findings in Dogs with Confirmed Shoulder Pathology
+JO  - Veterinary Surgery
+VL  - 37
+IS  - 7
+SN  - 9781405161435
+UR  - https://doi.org/10.1111/j.1532-950X.2008.00429.x
+DO  - doi:10.1111/j.1532-950X.2008.00429.x
+SP  - 631
+EP  - 638
+PY  - 2008
+AB  - Objective? To evaluate the diagnostic potential of magnetic resonance imaging (MRI) compared with a reference standard, arthroscopic and/or open surgery, in dogs with soft tissue shoulder pathology. Study Design? Retrospective study. Animals? Dogs (n=21). Methods? Magnetic resonance (MR) images were retrospectively evaluated in 21 dogs that had surgically identified soft tissue shoulder pathology. The musculotendinous units of the biceps, infraspinatus, teres minor, supraspinatus, subscapularis, and the medial and lateral glenohumeral ligaments (MGHL and LGHL) were graded as either normal or abnormal. Abnormal structures were further classified as being either inflamed, partially torn, or fully torn. Impingement of the biceps tendon was also evaluated. Results were reported in terms of agreement and concordance between MRI findings and surgical findings. Agreement was defined as the percentage of times MRI findings concurred with surgical findings with respect to a structure being either normal or abnormal. Concordance was defined as the percentage of times MRI concurred with the exact surgically assessed pathology when abnormality was identified. Results? The findings were biceps tendon: 90% agreement with 100% concordance; subscapularis: 95% agreement with 62% concordance; MGHL: 84% agreement with 83% concordance; LGHL: 88% agreement with 100% concordance; infraspinatus: 100% both agreement and concordance; biceps tendon impingement: 90% agreement with 100% concordance. Conclusions? Soft tissue abnormalities of the canine shoulder were readily identified on preoperative MR images. Clinical Relevance? MRI shows great potential as a diagnostic tool in the evaluation of canine shoulder disease.
+ER  - 
+
+TY  - JOUR
+AU  - López-Benítez, R.
+AU  - Barragán-Campos, H.M.
+AU  - Richter, G.M.
+AU  - Sauer, P.
+AU  - Mehrabi, A.
+AU  - Fonouni, H.
+AU  - Golriz, M.
+AU  - Schmidt, J.
+AU  - Hallscheidt, P.J.
+TI  - Interventional radiologic procedures in the treatment of complications after liver transplantation
+JO  - Clinical Transplantation
+VL  - 23
+IS  - s21
+SN  - 9781405161435
+UR  - https://doi.org/10.1111/j.1399-0012.2009.01115.x
+DO  - doi:10.1111/j.1399-0012.2009.01115.x
+SP  - 92
+EP  - 101
+KW  - complications
+KW  - interventional radiologic procedures
+KW  - liver transplantation
+KW  - minimally invasive procedures
+PY  - 2009
+AB  - The aim of this study is to report our interventional radiologic procedures (IRP) in liver transplant (LTX) patients. These include procedures for biliary, arterial, venous, and portal complications, as well as the treatment of infected and non-infected fluid collections. This retrospective study covered 583 patients (mean age: 44?±?14?yr) in whom a total of 685 LTX were performed from August 1987 to April 2005. Overall, 182 LTX patients underwent a total of 428 IRP, including digital subtraction angiography (n?=?152/35.51%), percutaneous transluminal angioplasty (PTA) (n?=?4/0.93%) and PTA?+?stent (n?=?7/1.63%) of arterial anastomosis, PTA?+?stent of the celiac trunk (n?=?2/0.46%), transjugular intrahepatic portosystemic shunt (TIPS) (n?=?2/0.46%), arterial lysis (n?=?4/0.93%), venous lysis (n?=?2/0.46%), inferior vena cava stenting (n?=?2/0.46%), percutaneous biliary drainage (n?=?34/7.94%), percutaneous transluminal dilatation (PTD) of the choledocho-enteric anastomosis (n?=?16/3.73%), biliary stent (n?=?5/1.16%), intrahepatic biliary flushing treatment, stone and cast biliary extraction (n?=?27/6.30%), other interventions (e.g., embolization in other regions, transjugular liver biopsies, lymphangiographies) (n?=?9/2.10%), and ultrasound- and computer tomography-guided biopsies and percutaneous drainage (n?=?153/35.74%). The overall success rate was 85.7%. Technical improvements in LTX and interventional radiology permit vascular and biliary complications to be treated successfully by interventional radiology.
+ER  - 
+
+TY  - JOUR
+AU  - Fernandez, M.
+AU  - Grau-Roma, L.
+AU  - Roura, X.
+AU  - Majó, N.
+TI  - Lingual osteoma in a dog
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 53
+IS  - 8
+SN  - 9781405161435
+UR  - https://doi.org/10.1111/j.1748-5827.2012.01241.x
+DO  - doi:10.1111/j.1748-5827.2012.01241.x
+SP  - 480
+EP  - 482
+PY  - 2012
+AB  - An 11-year-old male Belgian shepherd dog was evaluated for a one-week history of progressive lethargy, decreased appetite and excessive panting. On physical examination, a pedunculated mass protruding from the right side of the tongue base was observed. The mass was solid, irregular and multi-lobulated, and it measured approximately 4?2 cm. The mass was surgically excised. The histological examination was consistent with a lingual osteoma and the margins were free of neoplastic cells. The dog was euthanased eight months after the diagnosis because of an unrelated problem and no evidence of recurrence at the surgical site was appreciated at that time. To the author's knowledge, this is the first report of a lingual osteoma in a dog, and, therefore, it should be included in the differential diagnosis of masses on the tongue, especially pedunculated masses located at the base of the tongue.
+ER  - 
+
+TY  - JOUR
+AU  - von Heideken, Johan
+AU  - Svensson, Tobias
+AU  - Iversen, Maura
+AU  - Blomqvist, Paul
+AU  - Haglund-Åkerlind, Yvonne
+AU  - Janarv, Per-Mats
+TI  - Sociodemographic factors influence the risk for femur shaft fractures in children: a Swedish case–control study, 1997–2005
+JO  - Acta Paediatrica
+JA  - Acta Paediatr
+VL  - 102
+IS  - 4
+SN  - 9781405161435
+UR  - https://doi.org/10.1111/apa.12150
+DO  - doi:10.1111/apa.12150
+SP  - 431
+EP  - 437
+KW  - Gender
+KW  - Household
+KW  - Socio-economic
+KW  - Sweden
+KW  - Trauma
+PY  - 2013
+AB  - Abstract Aim To investigate how sociodemographic factors relate to the risk of femur shaft fractures in children and how the relationship differs by gender and age. Methods Population-based case?control study. Swedish children (n = 1,874), 0?14 years of age, with a femur shaft fracture diagnostic code occurring between 1997 and 2005 were selected from the Swedish national inpatient register and compared with matched controls (n = 18,740). Demographic, socio-economic and injury data were based on record linkage between six Swedish registers. Results The risk of femur shaft fracture increased for children with younger parents or those living in low-income households. Having a parent with a university education reduced the risk. Stratifying for gender and age group, the association between parents' age was evident only for older boys (7?14 years of age) (OR = 1.40; 95% CI 1.04?1.45), and the association between living in low-income households and fracture rate was only seen in older girls (7?14 years) (OR = 1.50; 95% CI 1.01?2.22). Family composition, number of siblings, birth order or receiving social welfare did not influence the fracture risk. Conclusion Sociodemographic variables influence the rate of femur shaft fractures, in older children the influence differs between boys and girls.
+ER  - 
+
+TY  - JOUR
+AU  - Heilemann, MarySue V.
+AU  - Choudhury, Shonali M.
+AU  - Kury, Felix Salvador
+AU  - Lee, Kathryn A.
+TI  - Factors associated with sleep disturbance in women of Mexican descent
+JO  - Journal of Advanced Nursing
+VL  - 68
+IS  - 10
+SN  - 9781405161435
+UR  - https://doi.org/10.1111/j.1365-2648.2011.05918.x
+DO  - doi:10.1111/j.1365-2648.2011.05918.x
+SP  - 2256
+EP  - 2266
+KW  - Latinas
+KW  - mastery
+KW  - nursing
+KW  - resilience
+KW  - sleep disturbance
+KW  - trauma
+PY  - 2012
+AB  - heilemann m.v., choudhury s.m., kury f.s. & lee k.a. (2012)?Factors associated with sleep disturbance in women of Mexican descent. Journal of Advanced Nursing68(10), 2256?2266. Abstract Aims.? The aims were to identify the most useful parameters of acculturation in relation to self-reported sleep disturbance and describe risk factors for sleep disturbance in women of Mexican descent. Background.  Little is known about acculturation as a factor for poor sleep in the context of other personal factors such as income or sense of resilience or mastery for Latinas in the United States. Design.? This study was a secondary analysis of cross sectional survey data. Methods.? Personal factors were incorporated into a modification of the Conceptual Framework of Impaired Sleep to guide our secondary analysis of self-reported sleep disturbance. Data were collected from a convenience sample of 312 women of Mexican descent of childbearing age (21?40?years) located in an urban California community were collected and previously analysed in relation to depressive symptoms and post-traumatic stress disorder. The General Sleep Disturbance Scale (in English and Spanish) was used to assess sleep disturbance. Data was collected in 1998 from September through December. Results.? Early socialization to the United States during childhood was the most useful acculturation parameter for understanding self-reported sleep disturbance in this sample. In a multivariate regression analysis, three factors (higher acculturation, lower income and higher depressive symptoms) were statistically significant in accounting for 40% of the variance in sleep disturbance. Conclusion.? When low income Latinas of Mexican descent report sleep problems, clinicians should probe for environmental sleep factors associated with low income, such as noise, over-crowding and exposure to trauma and violence, and refer the woman to psychotherapy and counselling rather than merely prescribing a sleep medication.
+ER  - 
+
+TY  - JOUR
+AU  - LaRusso, Nicholas F.
+AU  - Shneider, Benjamin L.
+AU  - Black, Dennis
+AU  - Gores, Gregory J.
+AU  - James, Stephen P.
+AU  - Doo, Edward
+AU  - Hoofnagle, Jay H.
+TI  - Primary sclerosing cholangitis: Summary of a workshop
+JO  - Hepatology
+JA  - Hepatology
+VL  - 44
+IS  - 3
+SN  - 9781405161435
+UR  - https://doi.org/10.1002/hep.21337
+DO  - doi:10.1002/hep.21337
+SP  - 746
+EP  - 764
+PY  - 2006
+AB  - Abstract Primary sclerosing cholangitis (PSC) is a rare but important liver disease that leads to cirrhosis and need for liver transplantation in a high proportion of cases. The disease occurs in approximately 1 per 100,000 population per year, usually presents in adulthood, and affects men more often than women. Typical serum biochemical results, autoantibodies and liver biopsy are suggestive but not diagnostic of PSC, the diagnosis requiring cholangiographic demonstration of stricturing and dilatation of the intra- and/or extra-hepatic bile ducts. The natural history of PSC is variable, the average survival being 12 to 17 years. The cause of PSC is still unknown. Although considered an autoimmune disease, PSC has several atypical features and a strong genetic component. The therapy of PSC is unsatisfactory. Standard doses of ursodeoxycholic acid (UDCA) lead to improvements in biochemical abnormalities but not in histology, cholangiographic appearance or survival. Several innovative therapies have been tried in PSC, but with scant evidence of benefit. For patients with high grade strictures, endoscopic dilatation is beneficial. Liver transplantation is successful for end-stage liver disease due to PSC and improves survival. PSC may recur after transplantation but is rarely progressive. The most dreaded complication of PSC is cholangiocarcinoma. Diagnosis of this highly malignant tumor is difficult, and there are no biomarkers for its early detection. Liver transplantation for cholangiocarcinoma has an exceedingly poor outcome, although transplantation with neoadjuvant chemoirradiation holds promise in selected patients. Thus, significant opportunities remain for basic and clinical research into the cause, natural history, and therapy of PSC. (HEPATOLOGY 2006;44:746?764.)
+ER  - 
+
+TY  - JOUR
+AU  - Frezoulis, P. S.
+AU  - Angelidou, E.
+AU  - Karnezi, D.
+AU  - Oikonomidis, I. L.
+AU  - Kritsepi-Konstantinou, M.
+AU  - Kasabalis, D.
+AU  - Mylonakis, M. E.
+TI  - Canine pancytopenia in the Mediterranean - Authors' reply
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 59
+IS  - 6
+SN  - 9781405161435
+UR  - https://doi.org/10.1111/jsap.12849
+DO  - doi:10.1111/jsap.12849
+SP  - 379
+EP  - 379
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Watson, M.
+TI  - Nervous tunnel syndromes of the limbs from non-traumatic etiology. N. Marchetti, P. Bachechi, E. Barbieri and G. Guido. 245 × 180 mm. Pp. 188. Illustrated. 1978. Padova: Liviana Editrice. No price given
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 66
+IS  - 5
+SN  - 9781405161435
+UR  - https://doi.org/10.1002/bjs.1800660527
+DO  - doi:10.1002/bjs.1800660527
+SP  - 372
+EP  - 372
+PY  - 1979
+ER  - 
+
+TY  - JOUR
+AU  - Siqueira, Fabiolla
+AU  - Bunning, Robert D.
+TI  - Poster 95 Heterotopic Ossification of Bilateral Shoulders, Elbows, Knees and Hips after Traumatic Brain Injury and Rehabilitation Outcomes: A Case Report
+JO  - PM&R
+JA  - PM&R
+VL  - 4
+IS  - 10S
+SN  - 9781405161435
+UR  - https://doi.org/10.1016/j.pmrj.2012.09.720
+DO  - doi:10.1016/j.pmrj.2012.09.720
+SP  - S222
+EP  - S222
+PY  - 2012
+ER  - 

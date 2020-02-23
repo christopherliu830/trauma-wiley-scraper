@@ -1,0 +1,327 @@
+
+TY  - JOUR
+AU  - Clearfield, Drew
+AU  - Nguyen, Andrew
+AU  - Wei, Mei
+TI  - Biomimetic multidirectional scaffolds for zonal osteochondral tissue engineering via a lyophilization bonding approach
+JO  - Journal of Biomedical Materials Research Part A
+JA  - J. Biomed. Mater. Res.
+VL  - 106
+IS  - 4
+SN  - 1549-3296
+UR  - https://doi.org/10.1002/jbm.a.36288
+DO  - doi:10.1002/jbm.a.36288
+SP  - 948
+EP  - 958
+KW  - scaffolds
+KW  - osteochondral
+KW  - tissue engineering
+KW  - zonal
+KW  - freeze casting
+PY  - 2018
+AB  - Abstract The zonal organization of osteochondral tissue underlies its long term function. Despite this, tissue engineering strategies targeted for osteochondral repair commonly rely on the use of isotropic biomaterials for tissue reconstruction. There exists a need for a new class of highly biomimetic, anisotropic scaffolds that may allow for the engineering of new tissue with zonal properties. To address this need, we report the facile production of monolithic multidirectional collagen-based scaffolds that recapitulate the zonal structure and composition of osteochondral tissue. First, superficial and osseous zone-mimicking scaffolds were fabricated by unidirectional freeze casting collagen-hyaluronic acid and collagen-hydroxyapatite-containing suspensions, respectively. Following their production, a lyophilization bonding process was used to conjoin these scaffolds with a distinct collagen-hyaluronic acid suspension mimicking the composition of the transition zone. Resulting matrices contained a thin, highly aligned superficial zone that interfaced with a cellular transition zone and vertically oriented calcified cartilage and osseous zones. Confocal microscopy confirmed a zone-specific localization of hyaluronic acid, reflecting the depth-dependent increase of glycosaminoglycans in the native tissue. Poorly crystalline, carbonated hydroxyapatite was localized to the calcified cartilage and osseous zones and bordered the transition zone. Compressive testing of hydrated scaffold zones confirmed an increase of stiffness with scaffold depth, where compressive moduli of chondral and osseous zones fell within or near ranges conducive for chondrogenesis or osteogenesis of mesenchymal stem cells. With the combination of these biomimetic architectural and compositional cues, these multidirectional scaffolds hold great promise for the engineering of zonal osteochondral tissue. ? 2017 Wiley Periodicals, Inc. J Biomed Mater Res Part A: 106A: 948?958, 2018.
+ER  - 
+
+TY  - JOUR
+TI  - Winter Meeting 2013. Joint Meeting of the Pathological Society of Great Britain & Ireland and the Dutch Pathological Society (NVVP), 8–9 January
+JO  - The Journal of Pathology
+JA  - J. Pathol.
+VL  - 229
+IS  - s1
+SN  - 0022-3417
+UR  - https://doi.org/10.1002/path.4190
+DO  - doi:10.1002/path.4190
+SP  - 1
+EP  - 31
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+AU  - Chapman, Christopher A. R.
+AU  - Goshi, Noah
+AU  - Seker, Erkin
+C7  - 1703523
+TI  - Multifunctional Neural Interfaces for Closed-Loop Control of Neural Activity
+JO  - Advanced Functional Materials
+JA  - Adv. Funct. Mater.
+VL  - 28
+IS  - 12
+SN  - 1616-301X
+UR  - https://doi.org/10.1002/adfm.201703523
+DO  - doi:10.1002/adfm.201703523
+SP  - 1703523
+KW  - closed-loop control
+KW  - high-throughput screening
+KW  - microfabrication
+KW  - nanotechnology
+KW  - neural interfaces
+PY  - 2018
+AB  - Abstract Microfabrication and nanotechnology have significantly expanded the technological capabilities for monitoring and modulating neural activity with the goal of studying the nervous system and managing neurological disorders. This feature article initially provides a tutorial-like review of the prominent technologies for enabling this two-way communication with the nervous system via electrical, chemical, and optical means. Following this overview, the article discusses emerging high-throughput methods for identifying device attributes that enhance the functionality of interfaces. The discussion then extends into opportunities and challenges in integrating different device functions within a small footprint with the goal of closed-loop control of neural activity with high spatiotemporal resolution and reduced adverse tissue response. The article concludes with an outline of future directions in the development and applications of multifunctional neural interfaces.
+ER  - 
+
+TY  - JOUR
+AU  - Wride, Michael A.
+TI  - Cellular and molecular features of lens differentiation: a review of recent advances
+JO  - Differentiation
+VL  - 61
+IS  - 2
+SN  - 0301-4681
+UR  - https://doi.org/10.1046/j.1432-0436.1996.6120077.x
+DO  - doi:10.1046/j.1432-0436.1996.6120077.x
+SP  - 77
+EP  - 93
+PY  - 1996
+AB  - Abstract In this paper, the more recent literature pertaining to differentiation in the developing vertebrate lens is reviewed in relation to previous work. The literature reviewed reveals that the developing lens has been, and will continue to be, a useful model system for the examination of many fundamental processes occurring during embryonic development. Areas of lens development reviewed here include: the induction and early embryology of the lens; lens cell culture techniques; the role of growth factors and cytokines; the involvement of gap junctions in lens cell-cell communication; the role of cell adhesion molecules, integrins, and the extracellular matrix; the role of the cytoskeleton; the processes of programmed cell death (apoptosis) and lens fibre cell denucleation; the involvement of Pax and Homeobox genes; and crystallin gene regulation. Finally, some speculation is provided as to possible directions for further research in lens development.
+ER  - 
+
+TY  - JOUR
+TI  - Published Only
+JO  - Journal of Gastroenterology and Hepatology
+VL  - 19
+IS  - s5
+SN  - 0815-9319
+UR  - https://doi.org/10.1111/j.1440-1746.2004.03622.x
+DO  - doi:10.1111/j.1440-1746.2004.03622.x
+SP  - A501
+EP  - A667
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+TI  - International Society of Paediatric Oncology, SIOP XXXVIII Congress Meeting: Contents and Abstracts
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr. Blood Cancer
+VL  - 47
+IS  - 4
+SN  - 1545-5009
+UR  - https://doi.org/10.1002/pbc.21044
+DO  - doi:10.1002/pbc.21044
+SP  - 355
+EP  - 532
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+TI  - ICS 2017 Abstracts
+JO  - Neurourology and Urodynamics
+JA  - Neurourol. Urodynam.
+VL  - 36
+IS  - S3
+SN  - 0733-2467
+UR  - https://doi.org/10.1002/nau.23386
+DO  - doi:10.1002/nau.23386
+SP  - S1
+EP  - S575
+PY  - 2017
+AB  - Watch ICS 2017 Abstract Videos Online
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentation Abstracts
+JO  - BJU International
+JA  - BJU Int
+VL  - 119
+IS  - S2
+SN  - 1464-4096
+UR  - https://doi.org/10.1111/bju.13752
+DO  - doi:10.1111/bju.13752
+SP  - 82
+EP  - 118
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+TI  - 46th Annual Meeting of the Arbeitsgemeinschaft Dermatologische Forschung (ADF)
+JO  - Experimental Dermatology
+JA  - Exp Dermatol
+VL  - 28
+IS  - 3
+SN  - 0906-6705
+UR  - https://doi.org/10.1111/exd.13859
+DO  - doi:10.1111/exd.13859
+SP  - e1
+EP  - e122
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - 2006 Abstracts: Twenty-Eighth Annual Meeting of the American Society for Bone and Mineral Research: Pennsylvania Convention Convention Center Philadelphia, Pennsylvania, USA, September 15–19, 2006
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 21
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.5650211405
+DO  - doi:10.1002/jbmr.5650211405
+SP  - S152
+EP  - S201
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+TI  - Poster Oral Representation
+JO  - HPB
+JA  - HPB
+VL  - 16
+IS  - s2
+SN  - 1365-182X
+UR  - https://doi.org/10.1111/hpb.12231
+DO  - doi:10.1111/hpb.12231
+SP  - 258
+EP  - 316
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+AU  - Slavkin, Harold C.
+TI  - The Impact of Research on the Future of Dental Education: How Research and Innovation Shape Dental Education and the Dental Profession
+JO  - Journal of Dental Education
+JA  - Journal of Dental Education
+VL  - 81
+IS  - 9
+SN  - 0022-0337
+UR  - https://doi.org/10.21815/JDE.017.041
+DO  - doi:10.21815/JDE.017.041
+SP  - eS108
+EP  - eS127
+KW  - dental education
+KW  - dental research
+KW  - biomedical research
+KW  - implementation science
+KW  - diagnostic clinical genomics
+KW  - exome sequencing
+KW  - single nucleotide polymorphisms
+KW  - oral microbiome
+KW  - bioinformatics
+KW  - craniofacial-oral-dental diseases and disorders
+KW  - craniofacial birth defects
+KW  - tooth decay
+KW  - periodontal diseases
+KW  - head and neck cancers
+KW  - chronic craniofacial-oral-dental pain
+PY  - 2017
+AB  - Scientific inquiry and discovery are the fuel for education, research, technology, and health care in all the health professions: dentistry, medicine, nursing, pharmacy, and allied health sciences. The progression of discoveries from basic or fundamental to clinical research is followed by the progression from clinical to implementation and improved health outcomes and processes. Generally, implementation science is the scientific study of methods to promote the systematic uptake of research findings (e.g., basic, translational, behavioral, socioeconomic, and clinical) as well as other related evidence-based practices into standards of care, thereby improving the quality, effectiveness, and cost benefits of health care services. There is little doubt that science has and will continue to provide the essential fuel for innovations that lead to new and improved technologies for risk assessment, prevention, diagnosis, treatments and therapeutics, and implementation for addressing oral and craniofacial diseases and disorders. The history of the U.S. dental profession reviewed in this article gives testimony to the continued need for investments in scientific inquiry that accelerate progress in comprehensive health care for all people. This article was written as part of the project ?Advancing Dental Education in the 21st Century.?
+ER  - 
+
+TY  - JOUR
+AU  - Palmer, Alan M.
+AU  - Alavijeh, Mohammad S.
+TI  - Overview of Experimental Models of the Blood-Brain Barrier in CNS Drug Discovery
+JO  - Current Protocols in Pharmacology
+JA  - Current Protocols in Pharmacology
+VL  - 62
+IS  - 1
+SN  - 1934-8282
+UR  - https://doi.org/10.1002/0471141755.ph0715s62
+DO  - doi:10.1002/0471141755.ph0715s62
+SP  - 7.15.1
+EP  - 7.15.30
+KW  - blood-brain barrier
+KW  - brain disorders
+KW  - drug discovery
+KW  - neuroscience
+KW  - in vivo microdialysis
+KW  - MDCK cells
+KW  - receptor occupancy
+KW  - brain medicines
+KW  - brain disorders
+PY  - 2013
+AB  - Abstract The blood-brain barrier (BBB) is a physical and metabolic entity that isolates the brain from the systemic circulation. The barrier consists of tight junctions between endothelial cells that contain egress transporters and catabolic enzymes. To cross the BBB, a drug must possess the appropriate physicochemical properties to achieve a sufficient time-concentration profile in brain interstitial fluid (ISF). In this overview, we review techniques to measure BBB permeation, which is evidenced by the free concentration of compound in brain ISF over time. We consider a number of measurement techniques, including in vivo microdialysis and brain receptor occupancy following perfusion. Consideration is also given to the endothelial and nonendothelial cell systems used to assess both the BBB permeation of a test compound and its interactions with egress transporters, and computer models employed for predicting passive permeation and the probability of interactions with BBB transporters. Curr. Protoc. Pharmacol. 62:7.15.1-7.15.30. ? 2013 by John Wiley & Sons, Inc.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts—Posters
+JO  - Alcoholism: Clinical and Experimental Research
+VL  - 35
+IS  - s1
+SN  - 0145-6008
+UR  - https://doi.org/10.1111/j.1530-0277.2011.01497.x
+DO  - doi:10.1111/j.1530-0277.2011.01497.x
+SP  - 11A
+EP  - 262A
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - HPB
+VL  - 9
+IS  - s1
+SN  - 1365-182X
+UR  - https://doi.org/10.1080/16515320701258846
+DO  - doi:10.1080/16515320701258846
+SP  - 36
+EP  - 110
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Current Awareness
+JO  - Yeast
+JA  - Yeast
+VL  - 17
+IS  - 3
+SN  - 0749-503X
+UR  - https://doi.org/10.1002/1097-0061(20000930)17:3<255::AID-YEA9>3.0.CO;2-7
+DO  - doi:10.1002/1097-0061(20000930)17:3<255::AID-YEA9>3.0.CO;2-7
+SP  - 255
+EP  - 262
+PY  - 2000
+AB  - Abstract In order to keep subscribers up-to-date with the latest developments in their field, this current awareness service is provided by John Wiley  2 General; 3 Large-scale sequencing and mapping; 4 Genome evolution; 5 Comparative genomics; 6 Gene families and regulons; 7 Pharmacogenomics; 8 Large-scale mutagenesis programmes; 9 Functional complementation; 10 Transcriptomics; 11 Proteomics; 12 Protein structural genomics; 13 Metabolomics; 14 Genomic approaches to development; 15 Technological advances; 16 Bioinformatics. Within each section, articles are listed in alphabetical order with respect to author. If, in the preceding period, no publications are located relevant to any one of these headings, that section will be omitted
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts—Posters
+JO  - Alcoholism: Clinical and Experimental Research
+JA  - Alcohol Clin Exp Res
+VL  - 40
+IS  - S1
+SN  - 0145-6008
+UR  - https://doi.org/10.1111/acer.13084
+DO  - doi:10.1111/acer.13084
+SP  - 16A
+EP  - 247A
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - ASBMR 18th Annual Meeting
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 11
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.5650111202
+DO  - doi:10.1002/jbmr.5650111202
+SP  - S1
+EP  - S500
+PY  - 1996
+ER  - 
+
+TY  - JOUR
+TI  - Mini Oral Abstracts
+JO  - Nephrology
+JA  - Nephrology
+VL  - 21
+IS  - S2
+SN  - 1320-5358
+UR  - https://doi.org/10.1111/nep.12887
+DO  - doi:10.1111/nep.12887
+SP  - 58
+EP  - 149
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+C7  - e26772
+TI  - SIOP ABSTRACTS
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr Blood Cancer
+VL  - 64
+IS  - S3
+SN  - 1545-5009
+UR  - https://doi.org/10.1002/pbc.26772
+DO  - doi:10.1002/pbc.26772
+SP  - e26772
+PY  - 2017
+ER  - 

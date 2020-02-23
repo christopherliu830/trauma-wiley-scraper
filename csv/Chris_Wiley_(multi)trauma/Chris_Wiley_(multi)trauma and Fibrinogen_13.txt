@@ -1,0 +1,374 @@
+
+TY  - JOUR
+AU  - Sussman, Norman L.
+AU  - Chong, Maria G.
+AU  - Koussayer, Tarek
+AU  - He, Da-Er
+AU  - Shang, Thomas A.
+AU  - Whisennand, Hartwell H.
+AU  - Kelly, James H.
+TI  - Reversal of fulminant hepatic failure using an extracorporeal liver assist device
+JO  - Hepatology
+JA  - Hepatology
+VL  - 16
+IS  - 1
+SN  - 0270-9139
+UR  - https://doi.org/10.1002/hep.1840160112
+DO  - doi:10.1002/hep.1840160112
+SP  - 60
+EP  - 65
+PY  - 1992
+AB  - Abstract Liver transplantation is currently the only effective therapy for patients with fulminant hepatic failure. The availability of an artificial liver could bridge these patients through the relatively brief crisis period and allow their own livers to regenerate, providing a more favorable outcome and sparing the trauma and expense of transplant. We have developed a device consisting of a highly differentiated human liver cell line cultured in a hollow fiber cartridge. This device is capable of supporting dogs with acetaminopheninduced fulminant hepatic failure for a period long enough for their own livers to resume function. Even though liver function tests such as albumin and prothrombin time became extremely abnormal during the course of the experiment, the dogs did not become encephalopathic. Two of the three treated animals recovered sufficient liver function after 42 to 48 hr of treatment that they could be disconnected from the device, and they survived the experiment. Histological results and serum ALT levels suggest that the device affected the course of the disease in two animals, allowing recovery of hepatocytes that would otherwise have lysed. In the third animal, regenerative nodules demonstrated that, even in the presence of severe liver injury, the device was capable of supporting total liver function. (HEPATOLOGY 1992;16:60?65.)
+ER  - 
+
+TY  - JOUR
+AU  - Peptan, Ioana A.
+AU  - Daw, Joseph
+AU  - Hong, Liu
+TI  - 126 Adipose tissue engineering by human adipose-derived stromal cell seeded gelatin sponges
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130216ad.x
+DO  - doi:10.1111/j.1067-1927.2005.130216ad.x
+SP  - A28
+EP  - A48
+PY  - 2005
+AB  - The large bulk of lost craniofacial soft tissue is mainly adipose tissue. Current surgical approaches following tumor resection and trauma have limitations. Adipose derived-stromal cells (ADSCs), also named as preadipocytes, have been demonstrated to be a good cell candidate for adipose tissue engineering. However, characteristics of scaffold played important role in a successful tissue engineered adipose tissue. Objectives:? The present study is to investigate whether in vitro adipogenesis could be induced both in a monolayer and 3-D by ADSCs. Methods:? Healthy adult ADSCs were isolated by liposuction from fat pads. After discarding the unattached cells, the ADSCs were cultured in DMEM supplemented with 10% FBS and 1% antibiotics until they reached confluence. After trypsinization, ADSCs were subcultured at a density of 105 cells/100?mm-dish as a first passage. The monolayer and 3-D adipogenesis were assessed after seeding 105 ADSCs into each well of 6-well plates and 5???106 ADSCs/ml into biodegradable collagen sponges, respectively, followed by replacement of basic medium with adipogenic one. Results:? In both monolayer and 3-D scaffolds, lipids containing adipocytes were observed 1 week after adipogenic stimulation, and further increased over the time. By contrast, no adipogenesis was observed in ADSCs cultured in basic medium. Conclusions:? Human adipose-derived stromal cells isolated from fat pads can readily be induced toward adipogenesis in vitro. The in vivo adipogenesis potential of ADSCs is being investigated. (Supported by Whitaker Biomedical Engineering Foundation, March of Dimes Foundation)
+ER  - 
+
+AU  - Jacobsen, Stine
+C7  - pp. 75-103
+TI  - Topical Wound Treatments and Wound-Care Products
+SN  - 9781118999257
+UR  - https://doi.org/10.1002/9781118999219.ch5
+DO  - doi:10.1002/9781118999219.ch5
+SP  - 75-103
+KW  - topical wound-care products
+KW  - antiseptics
+KW  - herbal wound-care products
+KW  - wound-debridement agents
+KW  - corticosteroids
+KW  - aerosol sprays
+PY  - 2005
+AB  - Summary Topical treatments have been used in wound care for centuries. Many of the treatments, however, have not ? or only to a very limited degree ? undergone scientific scrutiny. This is especially true for many of the products that are available over the counter. Determining the contents of many of these products can be difficult, and as a rule of thumb, products without a list of ingredients should not be used on wounds. In contrast, effects of wound cleansers and solutions used for irrigation have been investigated in several studies. Although cleansers and antiseptics had, for some years, fallen out of favor due to their detrimental effects on cells cultured in vitro, current best evidence suggests that they may be of benefit if used judiciously. The negative impact on cell cultures has, in many studies, not been replicated when the products were used in vivo. Use of antiseptics on heavily contaminated or infected wounds seems to enhance healing through a reduction of the wound's bioburden.
+ER  - 
+
+TY  - JOUR
+AU  - Schaakxs, Dominique
+AU  - Kalbermatten, Daniel F.
+AU  - Pralong, Etienne
+AU  - Raffoul, Wassim
+AU  - Wiberg, Mikael
+AU  - Kingham, Paul J.
+C8  - TERM-13-0406.R2
+TI  - Poly-3-hydroxybutyrate strips seeded with regenerative cells are effective promoters of peripheral nerve repair
+JO  - Journal of Tissue Engineering and Regenerative Medicine
+JA  - J Tissue Eng Regen Med
+VL  - 11
+IS  - 3
+SN  - 9781118999257
+UR  - https://doi.org/10.1002/term.1980
+DO  - doi:10.1002/term.1980
+SP  - 812
+EP  - 821
+KW  - biomaterial
+KW  - muscle
+KW  - nerve injury
+KW  - regeneration
+KW  - Schwann cells
+KW  - stem cells
+PY  - 2017
+AB  - Abstract Peripheral nerve injuries are often associated with loss of nerve tissue and require a graft to bridge the gap. Autologous nerve grafts are still the 'gold standard' in reconstructive surgery but have several disadvantages, such as sacrifice of a functional nerve, neuroma formation and loss of sensation at the donor site. Bioengineered grafts represent a promising approach to address this problem. In this study, poly-3-hydroxybutyrate (PHB) strips were used to bridge a 10 mm rat sciatic nerve gap and their effects on long-term (12 weeks) nerve regeneration were compared. PHB strips were seeded with different cell types, either primary Schwann cells (SCs) or SC-like differentiated adipose-derived stem cells (dASCs) suspended in a fibrin glue matrix. The control group was PHB and fibrin matrix without cells. Functional and morphological properties of the regenerated nerve were assessed using walking track analysis, EMGs, muscle weight ratios and muscle and nerve histology. The animals treated with PHB strips seeded with SCs or dASCs showed significantly better functional ability than the control group. This correlated with less muscle atrophy and greater axon myelination in the cell groups. These findings suggest that the PHB strip seeded with cells provides a beneficial environment for nerve regeneration. Furthermore, dASCs, which are abundant and easily accessible, constitute an attractive cell source for future applications of cell therapy for the clinical repair of traumatic nerve injuries. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Harris, Scott M
+AU  - Zhang, Lijuan
+AU  - Parente, Jody
+AU  - Rodeheaver, George T.
+AU  - Falla, Timothy J.
+TI  - 111 HB-50: A Pre-Clinical Study of a Prophylactic for Wound Infection
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 9781118999257
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractde.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractde.x
+SP  - A29
+EP  - A29
+PY  - 2004
+AB  - Topical prophylaxis against wound infection by an agent that is active against multi-resistant bacteria does not generate resistance and is rapidly cidal would be of great clinical benefit. Peptides of the innate immune system have long been known to protect a wide range of organisms from attack by bacterial and fungal pathogens. Helix BioMedix Inc. has developed a short bioactive peptide antimicrobial modeled after these peptides. HB-50 is an amphipathic cationic alpha-helical peptide that has broad spectrum activity and is rapidly microbicidal. These attributes make HB-50 an ideal candidate for wound infection prophylaxis. In vitro studies have demonstrated HB-50 to be active against both gram-positive and gram-negative bacteria killing 5?7 log orders of bacteria within minutes. In addition, this peptide has potent activity against Vancomycin and Mupirocin resistant S. aureus. Preliminary testing of the peptide in a rat abraded skin infection model has shown the peptide?s effectiveness in preventing wound infection while not inhibiting wound healing. Additionally, the HB-50 sequence has been specifically developed to be cost effective to manufacture and therefore is well suited for use as a topical antimicrobial agent.
+ER  - 
+
+TY  - JOUR
+AU  - BENNETT, D.
+AU  - KELLY, D. F.
+AU  - KIRKHAM, D.
+AU  - EDGAR, A.
+TI  - Two cases of pemphigus erythematosus (the Senear-Usher syndrome) in the dog
+JO  - Journal of Small Animal Practice
+VL  - 26
+IS  - 4
+SN  - 9781118999257
+UR  - https://doi.org/10.1111/j.1748-5827.1985.tb02104.x
+DO  - doi:10.1111/j.1748-5827.1985.tb02104.x
+SP  - 219
+EP  - 227
+PY  - 1985
+AB  - ABSTRACT The clinical and diagnostic features of two cases of pemphigus erythematosus in the dog are described. This disease, which is one of the autoimmune bullous skin diseases, should be included in the differential diagnosis of nasal dermatitis or of so-called ?Collie-nose?.
+ER  - 
+
+TY  - JOUR
+AU  - Boros, P.
+AU  - Bromberg, J. S.
+TI  - New Cellular and Molecular Immune Pathways in Ischemia/Reperfusion Injury
+JO  - American Journal of Transplantation
+VL  - 6
+IS  - 4
+SN  - 9781118999257
+UR  - https://doi.org/10.1111/j.1600-6143.2005.01228.x
+DO  - doi:10.1111/j.1600-6143.2005.01228.x
+SP  - 652
+EP  - 658
+KW  - Graft function
+KW  - innate immune response
+KW  - ischemia
+KW  - regeneration
+PY  - 2006
+AB  - Ischemia/reperfusion injury (IRI) is a multi-factorial antigen-independent inflammatory condition that profoundly affects both early and long-term function of the allograft as suggested by both clinical and experimental data. In recent years, the acute phase of IRI has been increasingly viewed as part of the innate immune response. Identification of novel molecular pathways and new insights into the mechanisms of known mediators of IRI have established links among innate immunity, adaptive immune responses and organ regeneration, and thus long-term graft function. This review approaches these novel aspects of IRI in the context of solid organ transplantation, presenting data on new observations with kidney, liver and heart allografts.
+ER  - 
+
+TY  - JOUR
+AU  - Lang, Kathryn J.
+AU  - Saha, Prakash
+AU  - Roberts, Lara N.
+AU  - Arya, Roopen
+TI  - Changing paradigms in the management of deep vein thrombosis
+JO  - British Journal of Haematology
+JA  - Br J Haematol
+VL  - 170
+IS  - 2
+SN  - 9781118999257
+UR  - https://doi.org/10.1111/bjh.13431
+DO  - doi:10.1111/bjh.13431
+SP  - 162
+EP  - 174
+KW  - anticoagulation
+KW  - deep vein thrombosis
+KW  - non-vitamin K antagonist oral anticoagulant(s)
+KW  - post-thrombotic syndrome
+KW  - thrombolysis
+PY  - 2015
+AB  - Summary In adults diagnosed with deep vein thrombosis (DVT), challenges remain in the management of the acute event whilst remaining alert to long-term morbidity. The addition of non-vitamin K antagonist oral anticoagulants (NOACs) to the pharmacopoeia represents the first of a number of recent advancements in the management of DVT. Worldwide, uptake of these agents has been avid, although drug selection, reversal and chronic treatment effects continue to be controversial areas. Multi-centre studies to evaluate the impact of NOACs on long-term outcomes, including thrombosis recurrence and post-thrombotic syndrome (PTS), are ongoing. Validation of tools capable of predicting PTS would enable patient selection for early aggressive intervention, such as local thrombolysis. Such interventional strategies are gaining momentum as initial approaches and would benefit from large randomized controlled trials.
+ER  - 
+
+TY  - JOUR
+AU  - HORE, CRAIG
+AU  - GEORGE, TERRY
+TI  - Organochlorine ingestion
+JO  - Emergency Medicine
+VL  - 5
+IS  - 2
+SN  - 9781118999257
+UR  - https://doi.org/10.1111/j.1442-2026.1993.tb00408.x
+DO  - doi:10.1111/j.1442-2026.1993.tb00408.x
+SP  - 86
+EP  - 89
+PY  - 1993
+AB  - ABSTRACT A 48 year old man rapidly deteriorated and died following the intentional ingestion of a commercial pesticide mixture containing chlordane and dichloroethyl ether with kerosene as the solvent vehicle. After oral ingestion, chlordane is primarily a neurotoxin. Dichloroethyl ether is a respiratory tract irritant. Both have effects on several other systems. Kerosene is a potent cause of aspiration pneumonitis when inhaled and gastric emptying is not recommended unless it is the vehicle for other, more toxic substances, as in this case. Management for both chlordane and dichloroethyl ether ingestion is supportive, involving airway maintenance, decontamination, and gastric lavage and charcoal administration.
+ER  - 
+
+TY  - JOUR
+AU  - Sauvé, V
+AU  - Parent, C
+AU  - Seiler, G
+AU  - French, A
+AU  - VanWinkle, TJ
+AU  - King, LG
+TI  - ACUTE LUNG INJURY AND ACUTE RESPIRATORY DISTRESS SYNDROME IN CATS: 65 CASES (1993–2003)
+JO  - Journal of Veterinary Emergency and Critical Care
+VL  - 14
+IS  - S1
+SN  - 9781118999257
+UR  - https://doi.org/10.1111/j.1476-4431.2004.t01-11-04035.x
+DO  - doi:10.1111/j.1476-4431.2004.t01-11-04035.x
+SP  - S1
+EP  - S17
+PY  - 2004
+AB  - Objectives: 1) Describe the clinical course and diagnostic findings of cats with histopathologic evidence of acute lung injury (ALI) and acute respiratory distress syndrome (ARDS). 2) Identify risk factors for ALI/ARDS in cats. Animals: Sixty-five client-owned cats with moderate to severe interstitial pneumonia, pneumonitis or alveolitis consistent with ALI/ARDS on post-mortem examination and clinical evidence of respiratory compromise. Procedure: Retrospective evaluation of medical records, postmortem examination and radiographs. Results: Cats in this study tended to be middle aged (mean 6.5±4.9 years). They had a short duration of illness (median 4 days; range 0?120 days) and of dyspnea (median 1 day; range 1?7 days). On presentation, the cats were tachypneic (mean respiratory rate 53±23?bpm) and relatively bradycardic (mean heart rate 166±43?bpm). The majority of cats were dyspneic (n=39) at presentation; all others developed respiratory difficulties during hospitalization. The mean white blood cell count was within normal limits (14.6±14.0?k/?L); 8 cats had a leukocytosis and 7 were leucopenic. Clinical findings consistent with SIRS (n=39) and sepsis (n=10) were common. Thoracic radiographs were reviewed in 31 cats and alveolar disease was the most frequent pattern (105 lung lobes) followed by interstitial disease (86 lung lobes). No cat had normal thoracic radiographs throughout hospitalization. Underlying disease was not identified on post-mortem examination in 15 cats (23%), but in the remaining cats underlying diseases included infectious systemic disease (n=11), neoplasia (n=8), respiratory (n=8) and urinary (n=7) system disorders, acute pancreatitis (n=7), hepatic diseases (n=5), major trauma (n=4), sepsis (n=3), CNS (n=2) and other systems (n=5). Nine cats had more then one underlying process. Conclusions: This study describes a naturally-occurring syndrome of ALI/ARDS in cats analogous to that which occurs in dogs and humans. In cats, ALI/ARDS occurs as a sequela of a variety of underlying systemic diseases, but in approximately one-quarter of patients an underlying cause is not identified at necropsy. It is important to consider ALI/ARDS in systemically ill cats who become dyspneic; in cats with pulmonary disease with acute worsening of respiratory status and in cats with pulmonary infiltrates for which no other cause can be identified.
+ER  - 
+
+TY  - JOUR
+AU  - Kadir, R. A.
+AU  - Davies, J.
+TI  - Hemostatic disorders in women
+JO  - Journal of Thrombosis and Haemostasis
+JA  - J Thromb Haemost
+VL  - 11
+IS  - s1
+SN  - 9781118999257
+UR  - https://doi.org/10.1111/jth.12267
+DO  - doi:10.1111/jth.12267
+SP  - 170
+EP  - 179
+KW  - hemostatic disorders
+KW  - menorrhagia
+KW  - menstruation
+KW  - postpartum hemorrhage
+KW  - prenatal diagnosis
+PY  - 2013
+AB  - Summary The past few decades have seen major advances in multidisciplinary obstetric care and management of gynecological conditions in women with bleeding disorders. Awareness of the impact of bleeding disorders has improved among the obstetric and gynecological community. Undiagnosed bleeding disorders can be the underlying cause for a significant proportion of women with heavy menstrual bleeding. They may also be the cause or a contributory factor for other gynecological problems, such as dysmenorrhea, intermenstrual bleeding, and endometriosis. Hemostatic assessment should be considered in women referred for menstrual abnormalities if they have a positive bleeding history as quantified by bleeding assessment tools. The reproductive choices and options for prenatal diagnosis are also expanding for families with hemophilia with a drive toward achieving a non-invasive approach. Current non-invasive prenatal diagnostic techniques are limited to identification of fetal gender. Research is ongoing to overcome the specific diagnostic challenges of identifying hemophilia mutations, utilizing free fetal DNA circulating in maternal plasma. The management of obstetric hemorrhage has recently evolved to include a greater focus on the identification of and early treatment for coagulation disorders. Deficiencies in certain hemostatic variables are associated with progression to more severe bleeding; therefore, specific interventions have been proposed to target this. Evidence is still lacking to support such strategy, and future research is required to assess the efficacy and the safety of these hemostatic interventions in women with persistent PPH.
+ER  - 
+
+TY  - JOUR
+AU  - HIGGINS, A. J.
+AU  - LEES, P.
+TI  - The acute inflammatory process, arachidonic acid metabolism and the mode of action of anti-inflammatory drugs
+JO  - Equine Veterinary Journal
+VL  - 16
+IS  - 3
+SN  - 9781118999257
+UR  - https://doi.org/10.1111/j.2042-3306.1984.tb01893.x
+DO  - doi:10.1111/j.2042-3306.1984.tb01893.x
+SP  - 163
+EP  - 175
+PY  - 1984
+AB  - Summary Arachidonic acid is a polyunsaturated fatty acid covalently bound in esterified form in the cell membranes of most body cells. Following irritation or injury, arachidonic acid is released and oxygenated by enzyme systems leading to the formation of an important group of inflammatory mediators, the eicosanoids. It is now recognised that eicosanoid release is fundamental to the inflammatory process. For example, the prostaglandins and other prostanoids, products of the cyclo-oxygenase enzyme pathway, have potent inflammatory properties and prostaglandin E2 is readily detectable in equine acute inflammatory exudates. The administration of nonsteroidal anti-inflammatory drugs results in inhibition of prostaglandin synthesis and this explains the mode of action of agents such as phenylbutazone and flunixin. Lipoxygenase enzymes metabolise arachidonic acid to a group of non-cyclised eicosanoids, the leukotrienes, some of which are also important inflammatory mediators. They are probably of particular importance in leucocyte-mediated aspects of chronic inflammation. Currently available non-steroidal antiinflammatory drugs, however, do not inhibit lipoxygenase activity. In the light of recent evidence, the inflammatory process is re-examined and the important emerging roles of both cyclo-oxygenase and lipoxygenase derived eicosanoids are explored. The mode of action of current and future antiinflammatory drugs offered to the equine clinician can be explained by their interference with arachidonic acid metabolism.
+ER  - 
+
+TY  - JOUR
+AU  - Watson, Penny
+TI  - WSAVA Standards for Clinical and Histological Diagnosis of Canine and Feline Liver Diseases
+JO  - Journal of Small Animal Practice
+VL  - 48
+IS  - 4
+SN  - 9781118999257
+UR  - https://doi.org/10.1111/j.1748-5827.2007.00369.x
+DO  - doi:10.1111/j.1748-5827.2007.00369.x
+SP  - 245
+EP  - 246
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - The Eleventh Annual American College of Veterinary Surgeons Symposium to be held October 11-14, 2001, in Chicago, Illinois
+JO  - Veterinary Surgery
+VL  - 30
+IS  - 5
+SN  - 9781118999257
+UR  - https://doi.org/10.1111/j.1532-950X.2001.00487.x
+DO  - doi:10.1111/j.1532-950X.2001.00487.x
+SP  - 487
+EP  - 509
+PY  - 2001
+ER  - 
+
+TY  - JOUR
+AU  - Li,             J.
+AU  - Ma, Q.
+AU  - Wu, J.
+AU  - Tang, Y.
+AU  - Spiegel, M.
+TI  - 088 The Effects of an Electric Magnetic Field Stimulation on Skin Keratinocyte Migration
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 9781118999257
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215cj.x
+DO  - doi:10.1111/j.1067-1927.2005.130215cj.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - For at least 30 years it has been well known that very small electric currents applied to various kinds of trauma have a beneficial therapeutic result for wounds. The most effective methods so far utilized some form of direct current, by inserting an electric lead on each side of the wound and passing a weak electric current across the wound. The drawback of this method is invasive. In this study, we evaluated the effects of a noninvasive electric magnetic field device, Field Therapy Accelerator or FTA (Advatech Corp.), on cell migration of human skin keratinocytes in an in vitro incitional wound model. Normal human epidermal keratinocytes were maintained in growth media and grow into confluent. At time 0, a cross-shaped wound gap or cell-free zone was made among confluent monolayer cells in the center of the culture dish. Cells were treated with FTA for 1 hour immediately after wounding and 1 hour every 24 hours for a total of 4 hours in 4 days. The cell cultures were examined at time 0 and every 24 hours thereafter. A Zeiss Axiovert 200 inverted microscope with a digital camera system was used to capture the images and an AxioVision 3.0 image analysis software was used to measure the gap area. Cell migration was quantified by the time and percentage of the wound gap covered by the cells that migrated in and filled the gap. The results showed that the FTA treatment significantly accelerates skin keratinocyte migration. The wound gaps completely filled 6 days after wounding, 3 days earlier than control (no treatment) group (P?<?0.001). Cell migration is a key step leading to the reepithelialization or the restoration of skin structure. This study showed the strong effects of FTA on keratinocyte migration, suggesting one of mechanisms that electric magnetic field works on wound healing.
+ER  - 
+
+TY  - JOUR
+AU  - Chan, DL
+AU  - Rozanski, EA
+AU  - Freeman, LM
+AU  - Rush, JE
+TI  - RETROSPECTIVE EVALUATION OF HUMAN ALBUMIN USE IN CRITICALLY ILL DOGS
+JO  - Journal of Veterinary Emergency and Critical Care
+VL  - 14
+IS  - S1
+SN  - 9781118999257
+UR  - https://doi.org/10.1111/j.1476-4431.2004.t01-17-04035.x
+DO  - doi:10.1111/j.1476-4431.2004.t01-17-04035.x
+SP  - S1
+EP  - S17
+PY  - 2004
+AB  - Hypoalbuminemia and decreased colloid osmotic pressure (COP) are common in critically ill dogs. Hypoalbuminemia has been shown to negatively impact outcome. Treatment strategies to raise COP include the use of both natural and synthetic colloids. To date there is no comprehensive evaluation of human albumin (HA) use in dogs. The purpose of this retrospective study was to evaluate the use of 25% HA in critically ill dogs. The medical records of all dogs receiving HA between January 2003 and March 2004 were reviewed using a standardized data sheet for signalment, diagnoses, Survival Prediction Index (SPI), dose of HA administered, amount of crystalloid fluid administered prior to HA administration, length of hospitalization (LOH), complications, and outcome. Additionally pre- and post-HA administration values for serum albumin (SA), blood COP, and total solids (TS) were evaluated. Thirty-seven dogs received HA. Thirty of the 37 dogs (81%) underwent surgery and 13 of 37 (39%) dogs were diagnosed with septic peritonitis. Other diagnoses included trauma, wounds, neoplasia, gastric ulcer, and pancreatitis. The median SPI of all dogs was 0.53 (range 0.06?0.82). Median dose of HA used was 1.5?g/kg (range 0.38?3.64?g/kg). Median dose of crystalloid fluids administered prior to HA administration was 6.23?ml/kg/hr (range 1.2?45.4?ml/kg/hr). Median LOH was 5 days (range 1?16 days). Mild complications were encountered in 9 of 37 (24%) dogs and included prolonged clotting times (n=3), increased breathing effort (n=3), vomiting (n=2), and fever (n=1). Of the 37 dogs in the study, 21 (57%) survived, 10 (27%) died, and 6 (16%) were euthanized. After HA administration, median SA increased from 1.5?g/dl (range 1.0?2.1?g/dl) to 2.8?g/dl (range 1.5?4.4?g/dl) (p<0.001), median COP increased from 11?mmHg (range 6.8?13.8?mmHg) to 14.4?mmHg (range 11?26.9?mmHg) (p<0.001), and median TS increased from 2.9?g/dl (range 0.9?4.6?g/dl) to 4.0 (range 2.8?6.2) (p<0.001). When compared to non-survivors, survivors had higher post-HA administration SA (p=0.008), higher net COP increase (p=0.032), and received higher dosages of HA (p=0.046). Pre-treatment SA, COP, or the development of complications during administration did not impact LOH or outcome. In this retrospective study, HA administration effectively increased SA, TS and COP in critically ill dogs and was associated with relatively few complications. Future studies are warranted to further evaluate the potential benefits of HA administration.
+ER  - 
+
+TY  - JOUR
+AU  - Wray, J. D.
+AU  - Bestbier, M.
+AU  - Miller, J.
+AU  - Smith, K. C.
+TI  - Aortic and iliac thrombosis associated with angiosarcoma of skeletal muscle in a dog
+JO  - Journal of Small Animal Practice
+VL  - 47
+IS  - 5
+SN  - 9781118999257
+UR  - https://doi.org/10.1111/j.1748-5827.2006.00013.x
+DO  - doi:10.1111/j.1748-5827.2006.00013.x
+SP  - 272
+EP  - 277
+PY  - 2006
+AB  - A seven-year-old, neutered male greyhound was presented with a history of episodic shifting hindlimb lameness and pain. Ischaemic necrosis of areas of the hindlimb digits and skin and a firm swelling within the medial right thigh musculature were found on physical examination. Investigation demonstrated thrombosis of the terminal aorta and right external iliac artery with ischaemic necrosis of muscular and dermal tissue distal to the sites of thrombosis. The dog was euthanased due to poor prognosis. Necropsy findings were of a poorly differentiated invasive sarcoma of the skeletal muscle of the proximal right hindlimb, thrombosis of the aorta and right external iliac artery and secondary renal glomerulopathy. Immunohistochemistry of the neoplastic tissue indicated angiosarcoma based on expression of CD31 and factor VIII-related antigen. Thrombosis was considered likely to be due to systemic hypercoagulability because of the presence of altered flow characteristics and endothelial damage in the vascular tumour bed. Aortoiliac thrombosis, paraparesis and hindlimb ischaemia are unusual sequelae of angiosarcoma in the dog.
+ER  - 
+
+TY  - JOUR
+TI  - Oral and Poster Presentations
+JO  - Catheterization and Cardiovascular Interventions
+JA  - Cathet. Cardiovasc. Intervent.
+VL  - 79
+IS  - S1
+SN  - 9781118999257
+UR  - https://doi.org/10.1002/ccd.24386
+DO  - doi:10.1002/ccd.24386
+SP  - S1
+EP  - S110
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+AU  - Monteiro, S.
+AU  - Segard, E.
+AU  - Lepage, O. M.
+TI  - Abdominal abscess involving a metallic foreign body removed via thoracotomy in a horse
+JO  - Equine Veterinary Education
+VL  - 23
+IS  - 6
+SN  - 9781118999257
+UR  - https://doi.org/10.1111/j.2042-3292.2010.00179.x
+DO  - doi:10.1111/j.2042-3292.2010.00179.x
+SP  - 289
+EP  - 293
+KW  - horse
+KW  - abdominal abscess
+KW  - metallic foreign body
+KW  - thoracotomy
+KW  - peritonitis
+KW  - abdominal lavage
+PY  - 2011
+AB  - Summary Reports of alimentary tract foreign bodies have been rarely reported in the equine literature. This Case Report concerns a mare who presented persistent fever and mild signs of colic. A metallic foreign body was found near to the diaphragm on radiographic and ultrasonographic examinations. A thoracotomy was subsequently performed by means of a 7th rib resection and a diaphragmatic incision made in order to remove the intra-abdominal abscess containing a metallic foreign body. Peritonitis was the major complication and was managed during hospitalisation by multiple lavage-drainage procedure of the abdominal cavity. Long-term outcome (3 years) was good.
+ER  - 
+
+TY  - JOUR
+AU  - Harris, Roger D
+AU  - Gillett, Mark J
+TI  - Colchicine poisoning—overview and new directions
+JO  - Emergency Medicine
+VL  - 10
+IS  - 2
+SN  - 9781118999257
+UR  - https://doi.org/10.1111/j.1442-2026.1998.tb00674.x
+DO  - doi:10.1111/j.1442-2026.1998.tb00674.x
+SP  - 161
+EP  - 167
+PY  - 1998
+AB  - Abstract Colchicine overdose is uncommon but frequently fatal. In this article we present two cases which exhibit the wide spectrum of colchicine toxicity and review the drug's pharmacology and organ system effects. Finally we provide a treatment algorithm and propose new directions for management. Colchicine binds to intracellular tubulin and prevents its polymerisation to form microtubules. As microtubules subserve a wide variety of roles in basic cellular function including protein assembly, mitosis, endocytosis, exocytosis, cell shape and motility, colchicine is profoundly toxic to all cell lines of the body. Previous studies have offered little to aid the clinician in the management of such patients. We present a series of treatment guidelines based on the current literature. Specifically, we propose that patients who do not develop gastrointestinal symptoms within eight hours of a small, isolated colchicine ingestion can be medically cleared. Additionally, the onset of gastrointestinal symptoms should be seen as an indicator of possible significant systemic toxicity requiring early resuscitation and intensive monitoring. The newer modalities of treatment including the use of colchicine-specific Fab fragments and Granulocyte-Colony Stimulating Factor are also addressed.
+ER  - 

@@ -1,0 +1,316 @@
+
+AU  - Dieterle, Frank
+AU  - Sistare, Frank D.
+C7  - pp. 237-279
+TI  - Biomarkers of Acute Kidney Injury
+SN  - 9780470452240
+UR  - https://doi.org/10.1002/9780470918562.ch10
+DO  - doi:10.1002/9780470918562.ch10
+SP  - 237-279
+KW  - acute kidney injury
+KW  - kidney safety biomarkers
+KW  - functional biomarkers
+KW  - leakage markers
+KW  - expression markers
+PY  - 2010
+AB  - Summary This chapter contains sections titled: Introduction Novel Kidney Safety Biomarkers Newest Technologies and Achievements Around Kidney Safety Biomarkers Conclusion Summary Points
+ER  - 
+
+TY  - JOUR
+AU  - DEVARAJAN, PRASAD
+TI  - Review: Neutrophil gelatinase-associated lipocalin: A troponin-like biomarker for human acute kidney injury
+JO  - Nephrology
+VL  - 15
+IS  - 4
+SN  - 9780470452240
+UR  - https://doi.org/10.1111/j.1440-1797.2010.01317.x
+DO  - doi:10.1111/j.1440-1797.2010.01317.x
+SP  - 419
+EP  - 428
+KW  - acute kidney injury
+KW  - acute renal failure
+KW  - biomarkers
+KW  - neutrophil gelatinase-associated lipocalin
+KW  - nephrotoxicity
+KW  - predictive medicine
+PY  - 2010
+AB  - ABSTRACT Acute kidney injury (AKI) is a common and serious condition, the diagnosis of which currently depends on functional markers such as serum creatinine measurements. Unfortunately, creatinine is a delayed and unreliable indicator of AKI. The lack of early biomarkers of structural kidney injury (akin to troponin in acute myocardial injury) has hampered our ability to translate promising experimental therapies to human AKI. Fortunately, understanding the early stress response of the kidney to acute injuries has revealed a number of potential biomarkers. The discovery, translation and validation of neutrophil gelatinase-associated lipocalin (NGAL), possibly the most promising novel AKI biomarker, is reviewed. NGAL is emerging as an excellent stand-alone troponin-like structural biomarker in the plasma and urine for the early diagnosis of AKI, and for the prediction of clinical outcomes such as dialysis requirement and mortality in several common clinical scenarios. The approach of using NGAL as a trigger to initiate and monitor therapies for AKI, and as a safety biomarker when using potentially nephrotoxic agents, is also promising. In addition, it is hoped that the use of sensitive and specific biomarkers such as NGAL as endpoints in clinical trials will result in a reduction in required sample sizes, and hence the cost incurred. Furthermore, predictive biomarkers like NGAL may play a critical role in expediting the drug development process. However, given the complexity of AKI, additional biomarkers (perhaps a panel of plasma and urinary biomarkers) may eventually need to be developed and validated for optimal progress to occur.
+ER  - 
+
+AU  - Mally, Angela
+C7  - pp. 171-194
+TI  - Biomarkers as Tools for Predictive Safety Assessment: Novel Markers of Drug-Induced Kidney Injury
+SN  - 9783527336081
+UR  - https://doi.org/10.1002/9783527674183.ch09
+DO  - doi:10.1002/9783527674183.ch09
+SP  - 171-194
+KW  - biomarkers
+KW  - blood urea nitrogen (BUN)
+KW  - drug induced kidney injury
+KW  - kidney injury molecule- 1 (KIM-1)
+KW  - novel biomarkers
+KW  - predictive toxicology
+KW  - serum creatinine
+PY  - 2010
+AB  - Summary The paramount aim of predictive toxicology in drug discovery and development is to assess the safety of drugs for use in humans. This chapter presents drug induced kidney injury as an example to illustrate the value and limitations of novel biomarkers by providing an overview of their (patho) physiological role and mechanistic link to toxicity, performance in experimental toxicity studies, approval by regulatory bodies, and application to preclinical decision making. Traditional markers of renal function such as serum creatinine and blood urea nitrogen (BUN) are inherently insensitive as they indicate kidney injury only when large amounts of the renal epithelium have been lost. The most widely studied urinary kidney biomarker is kidney injury molecule- 1 (KIM-1) encoded by the gene Havr1 (hepatitis A virus cellular receptor 1). Advances in science and technology (e.g., microRNAs, next-generation sequencing) may also offer unique opportunities for the discovery of predictive biomarkers.
+ER  - 
+
+TY  - JOUR
+AU  - He, Tianlin
+C7  - 1800198
+TI  - Implementation of Proteomics in Clinical Trials
+JO  - PROTEOMICS – Clinical Applications
+JA  - Prot. Clin. Appl.
+VL  - 13
+IS  - 2
+SN  - 9783527336081
+UR  - https://doi.org/10.1002/prca.201800198
+DO  - doi:10.1002/prca.201800198
+SP  - 1800198
+KW  - clinical trials
+KW  - diagnosis
+KW  - prognosis
+KW  - proteomic/protein assays
+KW  - stratification
+PY  - 2019
+AB  - Abstract The application of protein (or peptide) biomarkers in clinical studies is a dynamic, ever-growing field. The introduction of clinical proteomics/peptidomics, such as mass spectrometry?based assays and multiplexed antibody?based protein arrays, has reshaped the landscape of biomarker identification and validation, allowing the discovery of novel biomarkers at an unprecedented rate and reliability. To reflect the current status with respect to implementation of protein/peptide biomarkers, an investigation of the most recent (last 6 years) clinical studies from clinicaltrials.gov is presented. Forty-two clinical trials involving the direct use of protein or peptide biomarkers in patient stratification and/or disease diagnosis and prognosis are highlighted. Most of the clinical trials that include proteomics/protein assays are aiming toward implementation of non-invasive diagnostic tools for early detection, while many of the clinical trials are targeting to correlate the protein abundance with the risk of a disease event. Less in number are the studies in which the protein biomarkers are applied to stratify the patients for intervention. All the above areas of application are considered of great importance for improving disease management, in an era where implementation toward precision medicine is the desired outcome of proteomics biomarker research.
+ER  - 
+
+TY  - JOUR
+AU  - Herold, Kristina
+AU  - Mrowka, Ralf
+C7  - e13284
+TI  - Inflammation—Dysregulated inflammatory response and strategies for treatment
+JO  - Acta Physiologica
+JA  - Acta Physiol
+VL  - 226
+IS  - 3
+SN  - 9783527336081
+UR  - https://doi.org/10.1111/apha.13284
+DO  - doi:10.1111/apha.13284
+SP  - e13284
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+AU  - McKinlay, J.
+AU  - Tyson, E.
+AU  - Forni, L. G.
+TI  - Renal complications of anaesthesia
+JO  - Anaesthesia
+JA  - Anaesthesia
+VL  - 73
+IS  - S1
+SN  - 9783527336081
+UR  - https://doi.org/10.1111/anae.14144
+DO  - doi:10.1111/anae.14144
+SP  - 85
+EP  - 94
+KW  - acute kidney injury (AKI)
+KW  - risk factors
+KW  - peri-operative management
+KW  - nephrotoxins
+PY  - 2018
+AB  - Summary Peri-operative acute kidney injury is common, accounting for 30?40% of all in-hospital cases of acute kidney injury. It is associated with clinically significant morbidity and mortality even with what was hitherto regarded as relatively trivial increases in serum creatinine, and carries over a 12-fold relative risk of death following major abdominal surgery. Comorbid conditions such as diabetes, hypertension, liver disease and particularly pre-existing chronic kidney disease, as well as the type and urgency of surgery, are major risk factors for the development of postoperative acute kidney injury. As yet, there are no specific treatment options for the injured kidney, although there are several modifiable risk factors of which the anaesthetist should be aware. As well as the avoidance of potential nephrotoxins and appropriate volume balance, optimal anaesthetic management should aim to reduce the risk of postoperative renal complications. This may include careful ventilatory management and blood pressure control, as well as appropriate analgesic strategies. The choice of anaesthetic agent may also influence renal outcomes. Rather than concentrate on the classical management of acute kidney injury, this review focuses on the potential development of acute kidney injury peri-operatively, and the means by which this may be ameliorated.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Journal of Diabetes Investigation
+JA  - J Diabetes Investig
+VL  - 7
+IS  - S2
+SN  - 9783527336081
+UR  - https://doi.org/10.1111/jdi.12509
+DO  - doi:10.1111/jdi.12509
+SP  - 11
+EP  - 55
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - Poster Session
+JO  - Nephrology
+JA  - Nephrology
+VL  - 19
+IS  - S2
+SN  - 9783527336081
+UR  - https://doi.org/10.1111/nep.12237
+DO  - doi:10.1111/nep.12237
+SP  - 77
+EP  - 202
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - Moderated Poster
+JO  - Transplant International
+JA  - Transpl Int
+VL  - 32
+IS  - S2
+SN  - 9783527336081
+UR  - https://doi.org/10.1111/tri.13511
+DO  - doi:10.1111/tri.13511
+SP  - 279
+EP  - 319
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - FREE COMMUNICATIONS  POSTER COMMUNICATIONS
+JO  - Nephrology
+VL  - 10
+IS  - s1
+SN  - 9783527336081
+UR  - https://doi.org/10.1111/j.1440-1797.2005.00420.x
+DO  - doi:10.1111/j.1440-1797.2005.00420.x
+SP  - A117
+EP  - A232
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - Oral Session
+JO  - Nephrology
+JA  - Nephrology
+VL  - 19
+IS  - S2
+SN  - 9783527336081
+UR  - https://doi.org/10.1111/nep.12236_2
+DO  - doi:10.1111/nep.12236_2
+SP  - 26
+EP  - 76
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - Oral Sessions
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 98
+IS  - S5
+SN  - 9783527336081
+UR  - https://doi.org/10.1002/bjs.7577
+DO  - doi:10.1002/bjs.7577
+SP  - 1
+EP  - 48
+PY  - 2011
+AB  - Abstract The 46th Congress of the European Society for Surgical Research takes place this year in Aachen, Germany, 25?28 May. Copyright ? 2011 British Journal of Surgery Society Ltd. Published by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - HPB
+VL  - 13
+IS  - s2
+SN  - 9783527336081
+UR  - https://doi.org/10.1111/j.1477-2574.2011.00308.x
+DO  - doi:10.1111/j.1477-2574.2011.00308.x
+SP  - 1
+EP  - 138
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - European Society for Veterinary Clinical Pathology (ESVCP) 13th Annual Congress
+JO  - Veterinary Clinical Pathology
+JA  - Vet Clin Pathol
+VL  - 41
+IS  - 1
+SN  - 9783527336081
+UR  - https://doi.org/10.1111/j.1939-165X.2011.00375.x
+DO  - doi:10.1111/j.1939-165X.2011.00375.x
+SP  - E1
+EP  - E16
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+C7  - e26872
+TI  - ABSTRACTS
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr Blood Cancer
+VL  - 64
+IS  - S4
+SN  - 9783527336081
+UR  - https://doi.org/10.1002/pbc.26872
+DO  - doi:10.1002/pbc.26872
+SP  - e26872
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+TI  - Posters
+JO  - Diabetic Medicine
+VL  - 23
+IS  - s4
+SN  - 9783527336081
+UR  - https://doi.org/10.1111/j.1464-5491.2006.02036_12.x
+DO  - doi:10.1111/j.1464-5491.2006.02036_12.x
+SP  - 57
+EP  - 199
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts of the 5th Cachexia Conference, Barcelona, Spain, December 5–8, 2009
+JO  - Journal of Cachexia, Sarcopenia and Muscle
+JA  - J Cachexia Sarcopenia Muscle
+VL  - 1
+IS  - 1
+SN  - 9783527336081
+UR  - https://doi.org/10.1007/s13539-010-0001-7
+DO  - doi:10.1007/s13539-010-0001-7
+SP  - 43
+EP  - 128
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Orals
+JO  - Transplant International
+JA  - Transpl Int
+VL  - 26
+IS  - s2
+SN  - 9783527336081
+UR  - https://doi.org/10.1111/tri.12210
+DO  - doi:10.1111/tri.12210
+SP  - 1
+EP  - 184
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+AU  - Kahokehr, A. A.
+AU  - Sammour, T.
+AU  - Wang, K.
+AU  - Plank, L. D.
+AU  - Hill, A. G.
+TI  - GS06 NUTRITIONAL STATUS OF ACUTE SURGICAL PATIENTS-PREDICTOR OF HOSPITAL STAY
+JO  - ANZ Journal of Surgery
+VL  - 79
+IS  - s1
+SN  - 9783527336081
+UR  - https://doi.org/10.1111/j.1445-2197.2009.04917_6.x
+DO  - doi:10.1111/j.1445-2197.2009.04917_6.x
+SP  - A26
+EP  - A26
+PY  - 2009
+AB  - Background:?? Previous studies have shown that nutritional status affects recovery after elective surgery. The impact of nutritional status in the acute surgical setting has not been well defined. Methods:?? Over a 4?week period consecutive patients admitted for >24?hours under the general surgical service at a tertiary hospital were screened on admission using the subjective global assessment (SGA) nutritional assessment tool. Results:?? Of 332 eligible patients, 310 were screened. Diagnoses at discharge were: Colorectal pathology (28%), Infective (23%), Hepatopancreaticobiliary (15%), upper gastrointestinal (9%), Vascular (5%), trauma (5%), other (15%). 5% had a malignancy diagnosed during their admission. Mean age was 52?years (95% CI 18?84), mean BMI was 28.6?kg/m2 (95% CI 19.2?41.7), and 170 (55%) were female. 48% were deemed well nourished (SGA-A), 40% had moderate/suspected malnutrition (SGA-B) and 12% were severely malnourished (SGA-C). Median (range) hospital stay was 3 (1?20), 5 (1?30) and 7 (2?38)?days (p < 0.001 Kruskal Wallis) for SGA category A to C respectively. Cox regression revealed that SGA was an independent predictor of day stay after taking age, malignancy, sex, albumin, lymphocyte and diagnosis into consideration. Conclusion:?? Nutritional status in the acute surgical setting, as measured by a simple clinical tool predicts duration of hospital stay. Admission nutrition screening may be considered in order to determine nutritional requirements of acute surgical patients.
+ER  - 
+
+TY  - JOUR
+AU  - Lai, C. C.
+AU  - Widjaja, A.
+TI  - GS15 *NECROTISING FASCIITIS- ANALYSIS OF MORTALITY IN VICTORIA, AUSTRALIA
+JO  - ANZ Journal of Surgery
+VL  - 79
+IS  - s1
+SN  - 9783527336081
+UR  - https://doi.org/10.1111/j.1445-2197.2009.04917_15.x
+DO  - doi:10.1111/j.1445-2197.2009.04917_15.x
+SP  - A28
+EP  - A28
+PY  - 2009
+AB  - Background:?? Necrotising fasciitis is a soft tissue infection with progressive tissue necrosis, affecting the deep fascial layers. It is a rare life-threatening disease with mortality rates from 6.1?43%. Many factors have been associated with increased mortality. The aim of this study is to re-evaluate these factors by analysing data from a larger patient series than any presented in the published literature to date. Methods:?? The medical records of 151 sequential patients with necrotising fasciitis treated in the Alfred Hospital from 1997?2004 were reviewed to identify the factors associated with increased mortality. The data was then analysed with multivariate analysis to identify the statistically significant factors. Results:?? Mortality rate of this study was 11.3%. The statistically significant factors were CRP > 200 on admission (p = 0.018), mechanical ventilation on admission (p = 0.002), older age (p = 0.0231), male (p = 0.013), delayed hyperbaric therapy from first symptoms (p = 0.045), spontaneous precipitant (p = 0.015), and complications of multi organ failure (p = 0.006), acute renal failure (0.011), acidosis (p = 0.001) or atrial fibrillation (p = 0.001), sepsis (p = 0.045). Conclusions:?? The knowledge of these factors will assist in the management of necrotising fasciitis by prioritising these patients, allocating more appropriate resources to prevent delay in hyperbaric treatment and by promptly treat the disease, especially in ICU setting to prevent complications and improve survival.
+ER  - 

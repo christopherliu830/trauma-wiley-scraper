@@ -1,0 +1,417 @@
+
+TY  - JOUR
+AU  - Menzfeld, Christiane
+AU  - John, Michael
+AU  - van Rossum, Denise
+AU  - Regen, Tommy
+AU  - Scheffel, Jörg
+AU  - Janova, Hana
+AU  - Götz, Alexander
+AU  - Ribes, Sandra
+AU  - Nau, Roland
+AU  - Borisch, Angela
+AU  - Boutin, Philippe
+AU  - Neumann, Konstantin
+AU  - Bremes, Vanessa
+AU  - Wienands, Jürgen
+AU  - Reichardt, Holger M.
+AU  - Lühder, Fred
+AU  - Tischner, Denise
+AU  - Waetzig, Vicky
+AU  - Herdegen, Thomas
+AU  - Teismann, Peter
+AU  - Greig, Iain
+AU  - Müller, Michael
+AU  - Pukrop, Tobias
+AU  - Mildner, Alexander
+AU  - Kettenmann, Helmut
+AU  - Brück, Wolfgang
+AU  - Prinz, Marco
+AU  - Rotshenker, Shlomo
+AU  - Weber, Martin S.
+AU  - Hanisch, Uwe-Karsten
+TI  - Tyrphostin AG126 exerts neuroprotection in CNS inflammation by a dual mechanism
+JO  - Glia
+JA  - Glia
+VL  - 63
+IS  - 6
+SN  - 0894-1491
+UR  - https://doi.org/10.1002/glia.22803
+DO  - doi:10.1002/glia.22803
+SP  - 1083
+EP  - 1099
+KW  - BTK
+KW  - inflammation
+KW  - microglia
+KW  - multiple sclerosis
+KW  - signaling
+KW  - TLR
+PY  - 2015
+AB  - The putative protein tyrosine kinase (PTK) inhibitor tyrphostin AG126 has proven beneficial in various models of inflammatory disease. Yet molecular targets and cellular mechanisms remained enigmatic. We demonstrate here that AG126 treatment has beneficial effects in experimental autoimmune encephalomyelitis (EAE), a model for multiple sclerosis. AG126 alleviates the clinical symptoms, diminishes encephalitogenic Th17 differentiation, reduces inflammatory CNS infiltration as well as microglia activation and attenuates myelin damage. We show that AG126 directly inhibits Bruton's tyrosine kinase (BTK), a PTK associated with B cell receptor and Toll-like receptor (TLR) signaling. However, BTK inhibition cannot account for the entire activity spectrum. Effects on TLR-induced proinflammatory cytokine expression in microglia involve AG126 hydrolysis and conversion of its dinitrile side chain to malononitrile (MN). Notably, while liberated MN can subsequently mediate critical AG126 features, full protection in EAE still requires delivery of intact AG126. Its anti-inflammatory potential and especially interference with TLR signaling thus rely on a dual mechanism encompassing BTK and a novel MN-sensitive target. Both principles bear great potential for the therapeutic management of disturbed innate and adaptive immune functions. GLIA 2015;63:1083?1099
+ER  - 
+
+TY  - JOUR
+AU  - McCurry, Kenneth R.
+AU  - Colvin, Bridget L.
+AU  - Zahorchak, Alan F.
+AU  - Thomson, Angus W.
+TI  - Regulatory dendritic cell therapy in organ transplantation
+JO  - Transplant International
+VL  - 19
+IS  - 7
+SN  - 0934-0874
+UR  - https://doi.org/10.1111/j.1432-2277.2006.00306.x
+DO  - doi:10.1111/j.1432-2277.2006.00306.x
+SP  - 525
+EP  - 538
+KW  - dendritic cells
+KW  - organ transplantation
+KW  - tolerance
+PY  - 2006
+AB  - Summary Dendritic cells (DCs) are uniquely well equipped antigen (Ag)-presenting cells. Their classic function was thought to be that of potent initiators of innate and adaptive immunity to infectious organisms and other Ags (including transplanted organs). Evidence has emerged, however, that DCs have a central and crucial role in determining the fate of immune responses toward either immunity or tolerance. This dichotomous function of DCs, coupled with their remarkable plasticity, renders them attractive therapeutic targets for immune modulation. In transplantation, much recent work has focused on the ability of DCs to silence immune reactivity in an Ag-specific manner in the hope of preventing rejection and diminishing reliance on potentially harmful immunosuppressive agents. Experimental strategies have included in vivo targeting of DCs, as well as ex vivo generation of regulatory (or tolerogenic) DCs with subsequent reinfusion (i.e. cell therapy). Different approaches to ?program? DC toward tolerogenic properties include genetic (transgene insertion), biologic (differential culture conditions, anti-inflammatory cytokine exposure) and pharmacologic manipulation. Recent data suggest a promising role for pharmacologic treatment as a means of generating potent regulatory DCs and have further stimulated speculation regarding their potential clinical application. Herein, we discuss evidence that the potential of regulatory DC therapy is considerable and that there are compelling reasons to evaluate it in the setting of organ transplantation in the near future.
+ER  - 
+
+TY  - JOUR
+TI  - IVth International Conference on Cancer-Induced Bone Diseases: December 7–9, 2003: Adams Mark Hotel Riverwalk, San Antonio, Texas
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 19
+IS  - 9
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.5650190923
+DO  - doi:10.1002/jbmr.5650190923
+SP  - 1559
+EP  - 1600
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+AU  - Fedson, David S.
+TI  - Confronting the next influenza pandemic with anti-inflammatory and immunomodulatory agents: why they are needed and how they might work
+JO  - Influenza and Other Respiratory Viruses
+VL  - 3
+IS  - 4
+SN  - 1750-2640
+UR  - https://doi.org/10.1111/j.1750-2659.2009.00090.x
+DO  - doi:10.1111/j.1750-2659.2009.00090.x
+SP  - 129
+EP  - 142
+KW  - Host response
+KW  - influenza
+KW  - pandemic
+KW  - peroxisome proliferator activator receptor agonists
+KW  - statins
+PY  - 2009
+AB  - Abstract? Despite the best efforts of influenza scientists, companies and health officials to prepare for the next pandemic, most of the world?s people will not have access to affordable supplies of vaccines and antiviral agents. They will have to rely on 19th century public health ?technologies? to see them through. In the 21st century, science ought to be able to provide something better. Influenza scientists study the molecular characteristics of influenza viruses and their signaling effects in cell culture and animal models of infection. While these studies have been enormously informative, they have been unable to explain the system-wide effects of influenza on the host, the increased mortality of younger adults in the 1918 influenza pandemic and the much lower mortality rates in children who were more commonly infected with the 1918 virus. Experiments by non-influenza scientists have defined common cell signaling pathways for acute lung injury caused by different agents, including inactivated H5N1 influenza virus. These pathways include several molecular targets that are up-regulated in acute lung injury and down-regulated by anti-inflammatory and immunomodulatory agents, including statins, fibrates, and glitazones. These agents also help reverse the mitochondrial dysfunction that accompanies multi-organ failure, something often seen in fatal Influenza. Observational studies suggest that statins are beneficial in treating patients with pneumonia (there are no such studies for fibrates and glitazones). Other studies suggest that these agents might be able to ?roll back? the self-damaging host response of young adults to the less damaging response of children and thus save lives. Research is urgently needed to determine whether these and other agents that modify the host response might be useful in managing H5N1 influenza and the next pandemic.
+ER  - 
+
+TY  - JOUR
+AU  - Frungieri, M. B.
+AU  - Calandra, R. S.
+AU  - Bartke, A.
+AU  - Matzkin, M. E.
+C7  - e13034
+TI  - Ageing and inflammation in the male reproductive tract
+JO  - Andrologia
+JA  - Andrologia
+VL  - 50
+IS  - 11
+SN  - 0303-4569
+UR  - https://doi.org/10.1111/and.13034
+DO  - doi:10.1111/and.13034
+SP  - e13034
+KW  - accessory sex organs and ducts
+KW  - immune cells
+KW  - inflammageing
+KW  - prostaglandins
+KW  - testis
+PY  - 2018
+AB  - Summary Ageing is usually characterised by a mild chronic proinflammatory state. Despite the tight association between both processes, the phenomenon has recently been termed inflammageing. Inflammation in the male reproductive tract is frequently linked with bacterial or virus infections but also with a broad range of noninfectious processes. Prostatitis, epididymitis and orchitis, among others, can lead to infertility. However, in spite of the inflammation theory of disease, chronic inflammation in male urogenital system does not always cause symptoms. With advancing age, inflammatory processes are commonly observed in the male reproductive tract. Nevertheless, the incidence of inflammation in reproductive organs and ducts varies greatly among elderly men. Inflammageing is considered a predictor of pathogenesis and the development of age-related diseases. This article briefly summarises the current state of knowledge on inflammageing in the male reproductive tract. Yet, the precise aetiology of inflammageing in the male urogenital system, and its potential contribution not only to infertility but most importantly to adverse health outcomes remains almost unknown. Thus, further investigations are required to elucidate the precise cross-links between inflammation and male reproductive senescence, and to establish the impact of anti-inflammatory drug treatments on elder men's general health status.
+ER  - 
+
+TY  - JOUR
+AU  - Taub, Dennis D.
+TI  - Cytokine, Growth Factor, and Chemokine Ligand Database
+JO  - Current Protocols in Immunology
+JA  - Current Protocols in Immunology
+VL  - 61
+IS  - 1
+SN  - 1934-3671
+UR  - https://doi.org/10.1002/0471142735.im0629s61
+DO  - doi:10.1002/0471142735.im0629s61
+SP  - 6.29.1
+EP  - 6.29.89
+KW  - chemokines
+KW  - cytokines
+KW  - interleukins
+KW  - growth factor
+PY  - 2004
+AB  - Abstract Cytokines, chemokines, and growth factors are soluble proteins produced by leukocytes and other cell types, which act as chemical communicators between cells and tissues within the body. These proteins mediate a number of functions, ranging from effects on cell growth, differentiation, survival, and a number of effector activities. The main purpose of this unit is to provide an easy-to-use reference summarizing some of the current information on well-established cytokine, growth factore, and chemokine ligands. The information provided is confined largely to alternative names, protein properties, genetic chracteristics, chromosomal localization, cellular expression patters, cellular-tissue targets, stimuli regulating expression, functional properties, expression analysis, and clinical utility.
+ER  - 
+
+TY  - JOUR
+AU  - Moradi, B.
+AU  - Rosshirt, N.
+AU  - Tripel, E.
+AU  - Kirsch, J.
+AU  - Barié, A.
+AU  - Zeifang, F.
+AU  - Gotterbarm, T.
+AU  - Hagmann, S.
+TI  - Unicompartmental and bicompartmental knee osteoarthritis show different patterns of mononuclear cell infiltration and cytokine release in the affected joints
+JO  - Clinical & Experimental Immunology
+JA  - Clin Exp Immunol
+VL  - 180
+IS  - 1
+SN  - 0009-9104
+UR  - https://doi.org/10.1111/cei.12486
+DO  - doi:10.1111/cei.12486
+SP  - 143
+EP  - 154
+KW  - bicompartmental
+KW  - inflammation
+KW  - osteoarthritis
+KW  - synovial membrane
+KW  - unicompartmental
+PY  - 2015
+AB  - Summary It is still controversial which cell types are responsible for synovial inflammation in osteoarthritic (OA) joints. The aim of this study was to quantify the mononuclear cell populations and their cytokines in patients with different knee OA subtypes. Synovial membrane (SM), synovial fluid (SF) and peripheral blood (PB) were harvested from patients with unicompartmental (UC) and bicompartmental (BC) knee OA. Frequencies of mononuclear cells were assessed by flow cytometry in PB and SM. Naive SF samples were analysed for a broad variety of cytokines by multiplex analysis. SM of both groups displayed a distinct mononuclear cell infiltration, with CD14+ macrophages being the major cell population, followed by CD4+ T cells and only small numbers of CD8+ T, CD19+ B and CD16+CD56+ natural killer (NK) cells. Between the two groups, SM of BC OA showed significantly higher amounts of mononuclear cells (135·7?±?180 versus 805?±?675 cells/mg, P?=?0·0009) and higher CD4+ T cell presence (3·4?±?4·6 versus 9·1?±?7·5%, P?=?0·0267). SF of BC OA displayed significantly higher concentrations for a number of proinflammatory cytokines [CXCL1, eotaxin, interferon (IFN)-?, interleukin (IL)-7, IL-8, IL-9, IL-12]. UC and BC OA show significant differences in their synovial inflammatory pattern. Whereas in UC OA CD14+ macrophages are the predominant cell population, BC OA has a higher inflammatory profile and seems to be driven by CD14+ macrophages and CD4+ T cells. Inclusion of clinical information into the analysis of cellular and molecular results is pivotal in understanding the pathophysiology of OA.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Journal of Thrombosis and Haemostasis
+VL  - 3
+IS  - s1
+SN  - 1538-7933
+UR  - https://doi.org/10.1111/j.1538-7836.2005.0300a.x
+DO  - doi:10.1111/j.1538-7836.2005.0300a.x
+SP  - H01
+EP  - H18
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+AU  - KRENK, L.
+AU  - RASMUSSEN, L. S.
+AU  - KEHLET, H.
+TI  - New insights into the pathophysiology of postoperative cognitive dysfunction
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 54
+IS  - 8
+SN  - 0001-5172
+UR  - https://doi.org/10.1111/j.1399-6576.2010.02268.x
+DO  - doi:10.1111/j.1399-6576.2010.02268.x
+SP  - 951
+EP  - 956
+PY  - 2010
+AB  - There is evidence that postoperative cognitive dysfunction (POCD) is a significant problem after major surgery, but the pathophysiology has not been fully elucidated. The interpretation of available studies is difficult due to differences in neuropsychological test batteries as well as the lack of appropriate controls. Furthermore, there are no internationally accepted criteria for defining POCD. This article aims to provide an update of current knowledge of the pathogenesis of POCD with a focus on perioperative pathophysiology and possible benefits achieved from an enhanced postoperative recovery using a fast-track methodology. It is concluded that the pathogenesis of POCD is multifactorial and future studies should focus on evaluating the role of postoperative sleep disturbances, inflammatory stress responses, pain and environmental factors. Potential prophylactic intervention may include minimal invasive surgery, multi-modal non-opioid pain management and pharmacological manipulation of the inflammatory response and sleep architecture.
+ER  - 
+
+TY  - JOUR
+AU  - Satyam, Abhigyan
+AU  - Graef, Elizabeth R.
+AU  - Lapchak, Peter H.
+AU  - Tsokos, Maria G.
+AU  - Dalle Lucca, Jurandir J.
+AU  - Tsokos, George C.
+TI  - Complement and coagulation cascades in trauma
+JO  - Acute Medicine & Surgery
+JA  - Acute Med Surg
+VL  - 6
+IS  - 4
+SN  - 2052-8817
+UR  - https://doi.org/10.1002/ams2.426
+DO  - doi:10.1002/ams2.426
+SP  - 329
+EP  - 335
+KW  - Coagulation
+KW  - complement
+KW  - DAMPs
+KW  - PAMPS
+KW  - trauma
+PY  - 2019
+AB  - Trauma remains a major cause of death throughout the world, especially for patients younger than 45 years. Due to rapid advances in clinical management, both in the acute and prehospital settings, trauma patients survive devastating injuries at unprecedented rates. However, these patients can often face life threatening complications that stem from the robust innate immune response induced by severe hemorrhage, leading to further tissue injury rather than repair. The complement and coagulation cascades are key mediators in this disordered reaction, which includes the development of trauma-induced coagulopathy. There is increasing evidence that cross-talk between these two pathways allows rapid amplification of their otherwise targeted responses and contributes to overwhelming and prolonged systemic inflammation. In this article, we summarize the initial steps of innate immune response to trauma and review the complex complement and coagulation cascades, as well as how they interact with each other. Despite progress in understanding these cascades, effective therapeutic targets have yet to be found and further research is needed both to improve survival rates as well as decrease associated morbidity.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Immunology
+VL  - 125
+IS  - s1
+SN  - 0019-2805
+UR  - https://doi.org/10.1111/j.1365-2567.2008.02974.x
+DO  - doi:10.1111/j.1365-2567.2008.02974.x
+SP  - 1
+EP  - 144
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+AU  - Vargas, Roberto
+AU  - Lang, Charles H.
+TI  - Alcohol Accelerates Loss of Muscle and Impairs Recovery of Muscle Mass Resulting From Disuse Atrophy
+JO  - Alcoholism: Clinical and Experimental Research
+VL  - 32
+IS  - 1
+SN  - 0145-6008
+UR  - https://doi.org/10.1111/j.1530-0277.2007.00548.x
+DO  - doi:10.1111/j.1530-0277.2007.00548.x
+SP  - 128
+EP  - 137
+KW  - Alcohol
+KW  - Muscle Atrophy
+KW  - Cachexia
+PY  - 2008
+AB  - Background:? Muscle disuse atrophy is observed in patients recovering from trauma and there is an increased risk and severity of injury in patients abusing alcohol (EtOH). However, the interaction of EtOH and disuse on muscle protein balance has not been examined. Therefore, the present study addressed the hypothesis that EtOH accelerates the disuse atrophy and/or impairs the accretion of muscle protein during muscle recovery. Methods:? To address this aim, disuse atrophy was induced in rats by 3?days of unilateral hindlimb immobilization (casting), using the contralateral leg as control, with EtOH or saline being orally gavaged twice, each day during this period. In a separate study, EtOH-treated rats received Velcade to inhibit proteasomal degradation. Finally, in the last study, rats had 1 limb casted for 5?days, the cast removed, and EtOH or saline gavaged twice daily during a 5-day recovery period. Muscle protein metabolism was assessed using surrogate markers of protein synthesis [i.e., phosphorylation of 4E-binding protein 1 (BP1) and S6 kinase 1 (S6K1)] and protein degradation (i.e., mRNA content of the ubiquitin E3 ligases atrogin-1 and MuRF1). Results:? Ethanol alone did not decrease muscle weight in the uncasted muscle. However, the loss of mass of immobilized muscle from EtOH-gavaged rats was 80% greater than in the animals not receiving EtOH. This atrophic response was not associated with a change in Akt, 4E-BP1 or S6K1 phosphorylation among groups. In contrast, immobilization alone increased both atrogin-1 and MuRF1 mRNA, and EtOH further increased their expression in immobilized muscle. The proteasome inhibitor Velcade attenuated atrophy produced by EtOH?+?disuse. When administered during the recovery period, EtOH prevented the normal accretion of muscle mass. This EtOH effect was associated with increased atrogin-1 mRNA, a reduction in 4E-BP1 and S6 phosphorylation, and an increased AMP-activated kinase phosphorylation. Conclusions:? Based on the changes in these surrogate markers, our data suggest that EtOH accelerates disuse atrophy by stimulating ubiquitin-mediated proteolysis, and blunts repletion of muscle protein during recovery from disuse by increasing proteolysis and decreasing protein synthesis.
+ER  - 
+
+TY  - JOUR
+AU  - CERVERA, RICARD
+AU  - BUCCIARELLI, SILVIA
+AU  - ESPINOSA, GERARD
+AU  - GÓMEZ-PUERTA, JOSÉ A.
+AU  - RAMOS-CASALS, MANUEL
+AU  - SHOENFELD, YEHUDA
+AU  - PIETTE, JEAN-CHARLES
+AU  - ASHERSON, RONALD A.
+TI  - Catastrophic Antiphospholipid Syndrome
+JO  - Annals of the New York Academy of Sciences
+VL  - 1108
+IS  - 1
+SN  - 0077-8923
+UR  - https://doi.org/10.1196/annals.1422.047
+DO  - doi:10.1196/annals.1422.047
+SP  - 448
+EP  - 456
+KW  - catastrophic antiphospholipid syndrome
+KW  - antiphospholipid antibodies
+KW  - anticardiolipin antibodies
+KW  - lupus anticoagulant
+KW  - antiphospholipid syndrome
+PY  - 2007
+AB  - Abstract:? Although less than 1% of patients with the antiphospholipid syndrome (APS) develop the catastrophic variant, its potentially lethal outcome emphasizes its importance in clinical medicine today. However, the rarity of this variant makes it extraordinarily difficult to study in any systematic way. In order to put together all the published case reports as well as the new diagnosed cases from all over the world, an international registry of patients with catastrophic APS (?CAPS Registry?) was created in 2000 by the European Forum on Antiphospholipid Antibodies. Currently, it documents the entire clinical, laboratory, and therapeutic data of more than 300 patients whose data have been fully registered. This registry can be freely consulted at the Internet (http://www.med.ub.es/MIMMUN/FORUM/CAPS.HTM) and it is expected that the periodical analysis of these data will allow us to increase our knowledge of this condition.
+ER  - 
+
+TY  - JOUR
+TI  - A001–A193
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 95
+IS  - S6
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.6310
+DO  - doi:10.1002/bjs.6310
+SP  - 1
+EP  - 104
+PY  - 2008
+AB  - Abstract The following abstracts were presented at the 43rd Congress of the European Society for Surgical Research (ESSR), which was held from May 21?24, 2008, in Warsaw, Poland (Congress President: Grzegorz Szcz?sny). More information can be found on Congress website: www.essr2008.pl. To view all the abstracts from this meeting, please click the pdf link on this page. Copyright ? 2008 British Journal of Surgery Society Ltd. Published by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Hasleton
+AU  - Roberts
+TI  - Adult respiratory distress syndrome — an update
+JO  - Histopathology
+JA  - Histopathology
+VL  - 34
+IS  - 4
+SN  - 0309-0167
+UR  - https://doi.org/10.1046/j.1365-2559.1999.00700.x
+DO  - doi:10.1046/j.1365-2559.1999.00700.x
+SP  - 285
+EP  - 294
+KW  - cells
+KW  - cytokine
+KW  - integrins
+PY  - 1999
+AB  - In adults, acute lung injury or adult respiratory distress syndrome (ARDS) may complicate a wide range of serious medical and surgical conditions, only some of which involve direct pulmonary insult. The characteristic histological feature of ARDS is an intense inflammatory process in the lungs, which may progress to fibrosis. The earliest physiological characteristic is an increase in the protein permeability across the endothelial and epithelial barriers of the lungs. This clinical syndrome is characterized by arterial hypoxaemia and bilateral radiographic infiltrates, which represent protein-rich oedema fluid. In addition there is a neutrophilic and macrophage infiltrate. ?Pulmonary endothelium is actively involved in the development of ARDS. It alters cell?cell adhesion as the initial step in leucocyte migration which, in turn, changes the permeability that allows protein-rich fluid to move into the interstitium. The quantity of this interstitial oedema may be sufficient to cause bulk flow through the epithelial barrier. There is probably independent epithelial injury. Finally, the endothelium can release and metabolize vasoactive and inflammatory substances, such as endothelins, nitric oxide and cytokines, etc. No single substance is responsible for acute lung injury, but rather a complex interplay exists between diverse pro- and anti-inflammatory mediators.
+ER  - 
+
+TY  - JOUR
+AU  - Lee, Joo Y
+AU  - Zhao, Ling
+AU  - Hwang, Daniel H
+TI  - Modulation of pattern recognition receptor-mediated inflammation and risk of chronic diseases by dietary fatty acids
+JO  - Nutrition Reviews
+VL  - 68
+IS  - 1
+SN  - 0029-6643
+UR  - https://doi.org/10.1111/j.1753-4887.2009.00259.x
+DO  - doi:10.1111/j.1753-4887.2009.00259.x
+SP  - 38
+EP  - 61
+KW  - fatty acids
+KW  - nucleotide-binding oligomerization domain proteins
+KW  - toll-like receptors
+PY  - 2010
+AB  - Chronic inflammation is known to promote the development of many chronic diseases. Pattern recognition receptors (PRRs), Toll-like receptors (TLRs), and nucleotide-binding oligomerization domain proteins (NODs) mediate both infection-induced inflammation and sterile inflammation by recognizing pathogen- associated molecular patterns and endogenous molecules, respectively. PRR-mediated inflammation is an important determinant in altering the risk of many chronic diseases. Saturated fatty acids (SFAs) can activate PRRs, leading to enhanced expression of pro-inflammatory target gene products. However, n-3 polyunsaturated fatty acids (PUFAs) inhibit agonist-induced activation of PRRs. These results suggest that SFAs and n-3 PUFAs can reciprocally modulate PRR-mediated inflammation, and that PRRs and their downstream signaling components are molecular targets for dietary strategies to reduce chronic inflammation and subsequent risk of chronic diseases. This advancement in knowledge provides a new paradigm for understanding the mechanism by which different dietary fatty acids modify risk of chronic diseases including insulin resistance, atherosclerosis, and cancer.
+ER  - 
+
+TY  - JOUR
+AU  - Boche, D.
+AU  - Perry, V. H.
+AU  - Nicoll, J. A. R.
+TI  - Review: Activation patterns of microglia and their identification in the human brain
+JO  - Neuropathology and Applied Neurobiology
+JA  - Neuropathol Appl Neurobiol
+VL  - 39
+IS  - 1
+SN  - 0305-1846
+UR  - https://doi.org/10.1111/nan.12011
+DO  - doi:10.1111/nan.12011
+SP  - 3
+EP  - 18
+KW  - human brain
+KW  - microglia
+KW  - neuroinflammation
+PY  - 2013
+AB  - Microglia in the central nervous system are usually maintained in a quiescent state. When activated, they can perform many diverse functions which may be either beneficial or harmful depending on the situation. Although microglial activation may be accompanied by changes in morphology, morphological changes cannot accurately predict the function being undertaken by a microglial cell. Studies of peripheral macrophages and in vitro and animal studies of microglia have resulted in the definition of specific activation states: M1 (classical activation) and M2 (sometimes subdivided into alternative activation and acquired deactivation). Some authors have suggested that these might be an overlapping continuum of functions rather than discrete categories. In this review, we consider translational aspects of our knowledge of microglia: specifically, we discuss the question as to what extent different activation states of microglia exist in the human central nervous system, which tools can be used to identify them and emerging evidence for such changes in ageing and in Alzheimer's disease.
+ER  - 
+
+TY  - JOUR
+TI  - Oral Presentations
+JO  - Acta Neuropsychiatrica
+VL  - 24
+IS  - s1
+SN  - 0924-2708
+UR  - https://doi.org/10.1111/j.1601-5215.2012.00664.x
+DO  - doi:10.1111/j.1601-5215.2012.00664.x
+SP  - 5
+EP  - 20
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+AU  - Bonaz, B.
+AU  - Sinniger, V.
+AU  - Pellissier, S.
+TI  - Vagus nerve stimulation: a new promising therapeutic tool in inflammatory bowel disease
+JO  - Journal of Internal Medicine
+JA  - J Intern Med
+VL  - 282
+IS  - 1
+SN  - 0954-6820
+UR  - https://doi.org/10.1111/joim.12611
+DO  - doi:10.1111/joim.12611
+SP  - 46
+EP  - 63
+KW  - inflammatory bowel disease
+KW  - vagus nerve
+KW  - vagus nerve stimulation
+PY  - 2017
+AB  - Abstract Inflammatory bowel disease (IBD), that is Crohn's disease (CD) and ulcerative colitis, affects about 1.5 million persons in the USA and 2.2 million in Europe. The pathophysiology of IBD involves immunological, genetic and environmental factors. The treatment is medico-surgical but suspensive. Anti-TNFα agents have revolutionized the treatment of IBD but have side effects. In addition, a non-negligible percentage of patients with IBD stop or take episodically their treatment. Consequently, a nondrug therapy targeting TNFα through a physiological pathway, devoid of major side effects and with a good cost-effectiveness ratio, would be of interest. The vagus nerve has dual anti-inflammatory properties through its afferent (i.e. hypothalamic?pituitary?adrenal axis) and efferent (i.e. the anti-TNFα effect of the cholinergic anti-inflammatory pathway) fibres. We have shown that there is an inverse relationship between vagal tone and plasma TNFα level in patients with CD, and have reported, for the first time, that chronic vagus nerve stimulation has anti-inflammatory properties in a rat model of colitis and in a pilot study performed in seven patients with moderate CD. Two of these patients failed to improve after 3 months of vagus nerve stimulation but five were in deep remission (clinical, biological and endoscopic) at 6 months of follow-up and vagal tone was restored. No major side effects were observed. Thus, vagus nerve stimulation provides a new therapeutic option in the treatment of CD.
+ER  - 
+
+TY  - JOUR
+TI  - Abstract
+JO  - Journal of Cachexia, Sarcopenia and Muscle
+JA  - Journal of Cachexia, Sarcopenia and Muscle
+VL  - 10
+IS  - 6
+SN  - 2190-5991
+UR  - https://doi.org/10.1002/jcsm.12513
+DO  - doi:10.1002/jcsm.12513
+SP  - 1378
+EP  - 1435
+PY  - 2019
+ER  - 

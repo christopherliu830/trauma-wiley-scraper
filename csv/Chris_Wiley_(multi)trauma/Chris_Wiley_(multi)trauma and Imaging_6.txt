@@ -1,0 +1,475 @@
+
+TY  - JOUR
+AU  - Sajik, D.
+AU  - Meeson, R. L.
+AU  - Kulendra, N.
+AU  - Jordan, C. J.
+AU  - James, D.
+AU  - Calvo, I.
+AU  - Farrell, M.
+AU  - Kulendra, E.
+TI  - Multi-centre retrospective study of long-term outcomes following traumatic elbow luxation in 37 dogs
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 57
+IS  - 8
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/jsap.12499
+DO  - doi:10.1111/jsap.12499
+SP  - 422
+EP  - 428
+PY  - 2016
+AB  - OBJECTIVES Limited guidelines exist regarding the optimal treatment of traumatic canine elbow luxation, and there is a lack of information on long-term functional outcome. Here we report reduction and stabilisation techniques for a series of traumatic elbow luxations and describe clinical outcome plus long-term questionnaire-based follow-up. METHODS Retrospective review of canine traumatic elbow luxations (2006 to 2013) treated at five referral centres. Data recorded included signalment, luxation aetiology, time to reduction, reduction technique, surgical procedure, post-reduction care and complications. Questionnaire follow-up was attempted for all cases with owners completing the Canine Brief Pain Inventory. RESULTS Thirty-seven dogs were included. The most frequent cause of luxation was road traffic accident (n=22). Twenty cases were treated surgically. Seven dogs suffered major postoperative complications: reluxation (n=6), infection requiring implant removal (n=1). Four of the six reluxations occurred in dogs that had other orthopaedic injuries. Twenty-two owners completed the Canine Brief Pain Inventory questionnaire: there were 13 excellent, 6 very good, 1 good and 2 fair outcomes. Outcome was not associated with the reduction technique. CLINICAL SIGNIFICANCE Initial closed reduction, followed by surgical stabilisation if unsuccessful, results in good-to-excellent outcomes in the majority of traumatic canine elbow luxations. Reluxation was the most common major complication and there was a higher incidence of reluxation in patients with multiple orthopaedic injuries.
+ER  - 
+
+TY  - JOUR
+AU  - Alexander, Daniel C.
+AU  - Dyrby, Tim B.
+AU  - Nilsson, Markus
+AU  - Zhang, Hui
+C7  - e3841
+C8  - NBM-16-0261.R1
+TI  - Imaging brain microstructure with diffusion MRI: practicality and applications
+JO  - NMR in Biomedicine
+JA  - NMR in Biomedicine
+VL  - 32
+IS  - 4
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.3841
+DO  - doi:10.1002/nbm.3841
+SP  - e3841
+KW  - brain
+KW  - diffusion MRI
+KW  - magnetic resonance imaging
+KW  - microstructure imaging
+KW  - neuroimaging
+KW  - quantitative imaging
+KW  - virtual histology
+PY  - 2019
+AB  - This article gives an overview of microstructure imaging of the brain with diffusion MRI and reviews the state of the art. The microstructure-imaging paradigm aims to estimate and map microscopic properties of tissue using a model that links these properties to the voxel scale MR signal. Imaging techniques of this type are just starting to make the transition from the technical research domain to wide application in biomedical studies. We focus here on the practicalities of both implementing such techniques and using them in applications. Specifically, the article summarizes the relevant aspects of brain microanatomy and the range of diffusion-weighted MR measurements that provide sensitivity to them. It then reviews the evolution of mathematical and computational models that relate the diffusion MR signal to brain tissue microstructure, as well as the expanding areas of application. Next we focus on practicalities of designing a working microstructure imaging technique: model selection, experiment design, parameter estimation, validation, and the pipeline of development of this class of technique. The article concludes with some future perspectives on opportunities in this topic and expectations on how the field will evolve in the short-to-medium term.
+ER  - 
+
+TY  - JOUR
+AU  - Holmes, James F.
+AU  - Sokolove, Peter E.
+AU  - Land, Catherine
+AU  - Kuppermann, Nathan
+TI  - Identification of Intra-abdominal Injuries in Children Hospitalized Following Blunt Torso Trauma
+JO  - Academic Emergency Medicine
+VL  - 6
+IS  - 8
+SN  - 1069-6563
+UR  - https://doi.org/10.1111/j.1553-2712.1999.tb01210.x
+DO  - doi:10.1111/j.1553-2712.1999.tb01210.x
+SP  - 799
+EP  - 806
+KW  - pediatric injury
+KW  - abdominal injury
+KW  - abdominal trauma
+KW  - blunt injury
+KW  - torso injury
+PY  - 1999
+AB  - Abstract. Objective: To determine the utility of the ED physical examination and laboratory analysis in screening hospitalized pediatric blunt trauma patients for intra-abdominal injuries (IAIs). Methods: The authors reviewed the records of all patients aged <15 years who sustained blunt traumatic injury and were admitted to a Level 1 trauma center over a four-year period. Patients were considered high-risk for IAI if they had any of the following at ED presentation: decreased level of consciousness (GCS < 15), abdominal pain, tenderness on abdominal examination, or gross hematuria. Patients without any of these findings were considered moderate risk for IAI. The authors compared moderate-risk patients with and without IAIs with regard to physical examination and laboratory findings obtained in the ED. Results: Of 1,040 children with blunt trauma, 559 (54%) were high-risk and 481 (46%) were moderate-risk for IAI. 126 (23%) of the high-risk and 22 (4.6%) of the moderate-risk patients had IAIs. Among moderate-risk patients with and without IAIs, those with IAIs were more likely to have abdominal abrasions (5/22 vs 34/459, p = 0.008), an abnormal chest examination (11/22 vs 86/457, p = 0.01), higher mean serum concentrations of aspartate aminotransferase (AST) (604 U/L vs 77 U/L, p < 0.001) and alanine aminotransferase (ALT) (276 U/L vs 39 U/L, p = 0.002), higher mean white blood cell (WBC) counts (16.3 K/mm3 vs 12.8 K/mm3, p < 0.001), and a higher prevalence of >5 RBCs/hpf on urinalysis (7/22 vs 54/427, p = 0.02). There was no significant difference (p > 0.05) between moderate-risk patients with and without IAIs in initial serum concentrations of amylase, initial hematocrit, drop in hematocrit >5 percentage points in the ED, or initial serum bicarbonate concentrations. Conclusion: In children hospitalized for blunt torso trauma who are at moderate risk for IAI, ED findings of abdominal abrasions, an abnormal chest examination, and microscopic hematuria as well as elevated levels of AST and ALT, and elevated WBC count are associated with IAI.
+ER  - 
+
+TY  - JOUR
+AU  - Zhu, Shoujun
+AU  - Tian, Rui
+AU  - Antaris, Alexander L.
+AU  - Chen, Xiaoyuan
+AU  - Dai, Hongjie
+C7  - 1900321
+TI  - Near-Infrared-II Molecular Dyes for Cancer Imaging and Surgery
+JO  - Advanced Materials
+JA  - Adv. Mater.
+VL  - 31
+IS  - 24
+SN  - 0935-9648
+UR  - https://doi.org/10.1002/adma.201900321
+DO  - doi:10.1002/adma.201900321
+SP  - 1900321
+KW  - cyanine dyes
+KW  - donor–acceptor–donor dyes
+KW  - near-infrared (NIR)-II fluorophores
+KW  - near-infrared (NIR)-II imaging
+KW  - tumor imaging
+PY  - 2019
+AB  - Abstract Fluorescence bioimaging affords a vital tool for both researchers and surgeons to molecularly target a variety of biological tissues and processes. This review focuses on summarizing organic dyes emitting at a biological transparency window termed the near-infrared-II (NIR-II) window, where minimal light interaction with the surrounding tissues allows photons to travel nearly unperturbed throughout the body. NIR-II fluorescence imaging overcomes the penetration/contrast bottleneck of imaging in the visible region, making it a remarkable modality for early diagnosis of cancer and highly sensitive tumor surgery. Due to their convenient bioconjugation with peptides/antibodies, NIR-II molecular dyes are desirable candidates for targeted cancer imaging, significantly overcoming the autofluorescence/scattering issues for deep tissue molecular imaging. To promote the clinical translation of NIR-II bioimaging, advancements in the high-performance small molecule?derived probes are critically important. Here, molecules with clinical potential for NIR-II imaging are discussed, summarizing the synthesis and chemical structures of NIR-II dyes, chemical and optical properties of NIR-II dyes, bioconjugation and biological behavior of NIR-II dyes, whole body imaging with NIR-II dyes for cancer detection and surgery, as well as NIR-II fluorescence microscopy imaging. A key perspective on the direction of NIR-II molecular dyes for cancer imaging and surgery is also discussed.
+ER  - 
+
+TY  - JOUR
+AU  - Sierink, Joanne C
+AU  - Saltzherr, Teun Peter
+AU  - Beenen, Ludo FM
+AU  - Luitse, Jan SK
+AU  - Hollmann, Markus W
+AU  - Reitsma, Johannes B
+AU  - Edwards, Michael JR
+AU  - Patka, Peter
+AU  - Beuker, Benn JA
+AU  - Suliburk, James W
+AU  - Hohmann, Joachim
+AU  - Dijkgraaf, Marcel GW
+AU  - Goslings, J Carel
+AU  - the REACT-2 Study Group
+TI  - Randomised, controlled trial of immediate total-body computed tomography scanning in trauma patients
+JO  - Emergency Medicine Australasia
+VL  - 24
+IS  - 3
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/j.1742-6723.2012.01558.x
+DO  - doi:10.1111/j.1742-6723.2012.01558.x
+SP  - 350
+EP  - 351
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+AU  - Rance, CH
+AU  - Singh, SJ
+AU  - Kimble, R
+TI  - Blunt abdominal trauma in children
+JO  - Journal of Paediatrics and Child Health
+VL  - 36
+IS  - 1
+SN  - 1034-4810
+UR  - https://doi.org/10.1046/j.1440-1754.2000.00449.x
+DO  - doi:10.1046/j.1440-1754.2000.00449.x
+SP  - 2
+EP  - 6
+KW  - abdominal trauma
+KW  - computerized axial tomography
+KW  - non-operative management
+PY  - 2000
+AB  - Abstract: Blunt abdominal trauma is the commonest cause of intra-abdominal injuries in children. The use of computerized axial tomography and non-operative management of haemoperitoneum are two significant developments in the last two decades in the management of blunt abdominal trauma in children. The concept of non-operative management was introduced in late 1979 and wherever possible remains the optimum treatment. Computerized tomography scan for paediatric abdominal trauma was first described in 1980 and remains the investigation of choice. There is no substitute, however, for a good history, astute physical examination, and strict adherence to the principles of primary and secondary survey, prompt resuscitation, vigilant monitoring and repeated evaluation.
+ER  - 
+
+TY  - JOUR
+AU  - Ghate, Aditee
+TI  - Traumatic dissociation of aspects of the feminine: an Asian cultural perspective
+JO  - Journal of Analytical Psychology
+JA  - J Anal Psychol
+VL  - 63
+IS  - 2
+SN  - 0021-8774
+UR  - https://doi.org/10.1111/1468-5922.12391
+DO  - doi:10.1111/1468-5922.12391
+SP  - 150
+EP  - 165
+KW  - dissociation
+KW  - trauma
+KW  - feminine
+KW  - cultural
+KW  - traditional
+KW  - identity
+KW  - Chinese
+KW  - dissociation
+KW  - traumatisme
+KW  - le féminin
+KW  - culturel
+KW  - traditionnel
+KW  - identité
+KW  - chinois
+KW  - Dissoziation
+KW  - Trauma
+KW  - weiblich
+KW  - kulturell
+KW  - traditionell
+KW  - Identität
+KW  - chinesisch
+KW  - dissociazione
+KW  - trauma
+KW  - femminile
+KW  - culturale
+KW  - tradizionale
+KW  - identità
+KW  - cinese
+KW  - диссоциация
+KW  - травма
+KW  - женственное
+KW  - культурное
+KW  - традиционное
+KW  - идентичность
+KW  - китаянка
+KW  - dislocación
+KW  - trauma
+KW  - femenino
+KW  - cultural
+KW  - tradicional
+KW  - identidad
+KW  - China
+KW  - 分离
+KW  - 创伤
+KW  - 女性化
+KW  - 文化
+KW  - 传统
+KW  - 身份
+KW  - 中国
+PY  - 2018
+AB  - Abstract The paper explores the impact of the dissociated feminine principle resulting from the trauma of cultural displacement in a young Chinese woman keen to embrace a modern Western identity. A case study illustrates the outcome of the client both consciously and unconsciously rejecting the traditional stereotypical Chinese feminine identity and instead embracing the distorted, yet seductive, image of the Western (Caucasian) woman as independent, intellectual and confident. Her defensive denial of the traditional feminine was dealt with by intellectualising both personal and professional relationships. Then, unconsciously, the dissociated traditional feminine was projected into a separate aspect of her identity that held the traumatised feelings. The intellectualisation was eventually understood as being a necessary defence to cope with the cultural as well as geographical dislocation trauma. And with this realisation a space was created to accept and integrate the denied feminine?in a literal as well as a symbolic manner.
+ER  - 
+
+TY  - JOUR
+AU  - Allard, S.
+TI  - Transfusion support for Trauma
+JO  - ISBT Science Series
+JA  - VOXS
+VL  - 8
+IS  - 1
+SN  - 1751-2816
+UR  - https://doi.org/10.1111/voxs.12032
+DO  - doi:10.1111/voxs.12032
+SP  - 149
+EP  - 152
+KW  - multi-disciplinary protocols
+KW  - tranexamic acid
+KW  - transfusion
+KW  - trauma
+PY  - 2013
+AB  - Severely injured patients are at a risk of acute traumatic coagulopathy contributing to high mortally rates. The early use of tranexamic acid in this setting has been shown to be safe and improves survival. Optimal FFP: Red cell ratios needed with respect to outcomes are yet to be defined. Slow turnaround times associated with the use of laboratory based coagulation testing can lead to delays in appropriate component support with a need for validated algorithms for near patient global tests of haemostasis. Multidisciplinary protocols are required for managing traumatic haemorrhage with emphasis on good communication supported by training, audit and on-going review of cases to optimise patient care.
+ER  - 
+
+TY  - JOUR
+AU  - Ozturk, Mesut
+AU  - Polat, Ahmet Veysel
+AU  - Bekci, Tumay
+AU  - Sullu, Yurdanur
+TI  - Angiolipoma of the Breast: Multi-modality Imaging Findings
+JO  - The Breast Journal
+JA  - Breast J
+VL  - 22
+IS  - 6
+SN  - 1075-122X
+UR  - https://doi.org/10.1111/tbj.12667
+DO  - doi:10.1111/tbj.12667
+SP  - 698
+EP  - 700
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+AU  - Recknagel, Stefan
+AU  - Bindl, Ronny
+AU  - Wehner, Tim
+AU  - Göckelmann, Melanie
+AU  - Wehrle, Esther
+AU  - Gebhard, Florian
+AU  - Huber-Lang, Markus
+AU  - Claes, Lutz
+AU  - Ignatius, Anita
+TI  - Conversion from external fixator to intramedullary nail causes a second hit and impairs fracture healing in a severe trauma model
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+VL  - 31
+IS  - 3
+SN  - 0736-0266
+UR  - https://doi.org/10.1002/jor.22242
+DO  - doi:10.1002/jor.22242
+SP  - 465
+EP  - 471
+KW  - conversion
+KW  - blunt chest trauma
+KW  - systemic inflammation
+KW  - fracture healing
+PY  - 2013
+AB  - Abstract In poly-traumatic patients, second hits are known to potentiate the posttraumatic systemic inflammatory response, thus increasing the risk of multi-organ dysfunction. In accordance with ?damage control orthopaedic surgery? principles, fractures are initially treated with external fixators, which are replaced by internal osteosynthesis once the immunological status of the patient is considered stable. Recently, we demonstrated that a severe trauma impaired the healing of fractures stabilized by external fixation during the entire healing period. The question arose, whether switching to intramedullary nailing increases the inflammatory response in terms of a second hit, leading to a further impairment of bone healing. Wistar rats received a femoral osteotomy stabilized by an external fixator. Simultaneously half of the rats underwent an additional thoracic trauma. After 4 days, the external fixator was replaced by an intramedullary nail in half of the rats of the two groups. The inflammatory response was evaluated by measuring serum C5a levels. Fracture healing was determined by three-point-bending, µCT, and histomorphometry. The thoracic trauma significantly increased C5a concentrations 6, 24, and 72?h after the second surgical intervention. After 40 days, conversion to intramedullary nailing considerably decreased the flexural rigidity of the callus, with no significant differences between rats with or without thoracic trauma. After 47 days, flexural rigidity in rats subjected to conversion remained decreased compared to animals solely treated by external fixation, particularly in combination with blunt chest trauma. The results indicate that accumulation of second hits after multiple injuries could lead to aggravation of the fracture healing outcome. ? 2012 Orthopaedic Research Society. Published by Wiley Periodicals, Inc. J Orthop Res 31: 465?471, 2013
+ER  - 
+
+TY  - JOUR
+AU  - Johnson, Philippa
+AU  - Beltran, Elsa
+AU  - Dennis, Ruth
+AU  - Taeymans, Olivier
+TI  - MAGNETIC RESONANCE IMAGING CHARACTERISTICS OF SUSPECTED VERTEBRAL INSTABILITY ASSOCIATED WITH FRACTURE OR SUBLUXATION IN ELEVEN DOGS
+JO  - Veterinary Radiology & Ultrasound
+JA  - Veterinary Radiology & Ultrasound
+VL  - 53
+IS  - 5
+SN  - 1058-8183
+UR  - https://doi.org/10.1111/j.1740-8261.2012.01959.x
+DO  - doi:10.1111/j.1740-8261.2012.01959.x
+SP  - 552
+EP  - 559
+KW  - canine
+KW  - fracture
+KW  - MRI
+KW  - subluxation
+KW  - trauma
+KW  - vertebra
+PY  - 2012
+AB  - The purpose of this study was to describe the magnetic resonance imaging (MRI) characteristics of suspected instability in dogs with vertebral fractures or subluxations. Eleven dogs that had MRI examinations of the spine prior to surgical stabilization of vertebral fractures and/or subluxations were included in the study. Nine dogs also had survey radiographs. Four dogs had cervical fracture or fracture-subluxation and presented with tetraplegia with intact nociception (n = 2) or nonambulatory tetraparesis (n = 2). Seven dogs had thoracolumbar fracture-subluxation or subluxation and presented with paraplegia with intact nociception (n = 5) or nonambulatory paraparesis (n = 2). A three-compartment model was applied to the interpretation of both the radiographic and MRI studies. Radiography identified compartmental disruption consistent with spinal instability in seven out of the nine cases radiographed. In MRI studies, rupture of the supportive soft tissue structures and/or fracture in at least two compartments could be visualized. Nine cases had spinal cord changes on MRI including signal intensity changes, swelling, compression, and intramedullary hemorrhage. Paravertebral muscle intensity changes were also visible at each trauma site. Magnetic resonance imaging provided helpful information on the location and extent of damage to supportive soft tissue structures and enabled assessment of spinal cord injury in this group of dogs with surgically confirmed vertebral fractures and subluxations.
+ER  - 
+
+TY  - JOUR
+AU  - WITMER, C. M.
+AU  - RAFFINI, L. J.
+AU  - MANNO, C. S.
+TI  - Utility of computed tomography of the head following head trauma in boys with haemophilia
+JO  - Haemophilia
+VL  - 13
+IS  - 5
+SN  - 1351-8216
+UR  - https://doi.org/10.1111/j.1365-2516.2007.01546.x
+DO  - doi:10.1111/j.1365-2516.2007.01546.x
+SP  - 560
+EP  - 566
+KW  - bleeding disorders
+KW  - computed tomography
+KW  - haemophilia
+KW  - head trauma
+KW  - intracranial haemorrhage
+PY  - 2007
+AB  - Summary.? The most serious site of bleeding for patients with haemophilia is the central nervous system. Intracranial haemorrhage (ICH) in patients with haemophilia can occur spontaneously or following mild head trauma however no guidelines exist for the approach to these patients. The goal of this review was to determine the utility of screening computed tomography (CT) of the head for patients with haemophilia who experience head trauma and to determine if the use of clinical criteria could allow a selective approach to radiographic imaging. In a retrospective study we reviewed the management of head trauma in a cohort of paediatric patients with haemophilia in a single institution. The cohort included males, ages birth to 18?years with haemophilia A or B who were followed at the haemophilia treatment center at The Children?s Hospital of Philadelphia from 1994 to 2005. Between the years of 1994 and 2005, 97 patients were evaluated for head trauma for a total of 374 emergency department visits. There were 295 head CT scans performed to identify 9 (3%) episodes of intracranial bleeding. Fifty-six per cent of the patients with intracranial bleeding had no clinical signs or symptoms. The clinical outcome was excellent in all cases with no deaths or reported morbidity. In this cohort, a lack of symptoms and a normal neurological exam did not exclude ICH, especially in patients with severe haemophilia who were evaluated soon after a mild head trauma event suggesting the utility of early head CT imaging.
+ER  - 
+
+C7  - pp. 1-36
+TI  - Sketches of the Standard Imaging Modalities: Different Ways of Creating Visible Contrast Among Tissues
+SN  - 9780470505700
+UR  - https://doi.org/10.1002/9781118480267.ch1
+DO  - doi:10.1002/9781118480267.ch1
+SP  - 1-36
+KW  - imaging modality
+KW  - differential attenuation
+KW  - X-ray
+KW  - computed radiography
+KW  - CR
+KW  - DR
+KW  - digital radiography
+KW  - digital subtraction angiography
+KW  - DSA
+PY  - 2007
+AB  - Summary Sketches provides, in more technical language, outlines of the various imaging modalities, and illustrates their roles in medical care with many clinical examples. After examining film-radiography and conventional fluoroscopy, in which images arise from differential attenuation of an X-ray beam by various tissues, it moves on to their twenty-first century computer-based descendants: computed radiography (CR), digital radiography (DR), digital subtraction angiography (DSA), culminating in three-dimensional mapping of tissues with spiral, multi-slice CT. It then addresses nuclear medicine (NM), including single photon emission CT (SPECT) and positron emission tomography (PET), where contrast comes from the differential uptake of a radiopharmaceutical by tissues. With diagnostic ultrasound (US), echoes are created at tissue interfaces where differences in tissue elasticity and density occur. The chapter concludes with an appendix on the selection of optimal imaging modalities for representative clinical problems.
+ER  - 
+
+AU  - Busuttil, Walter
+C7  - pp. 458-473
+TI  - Military Veterans' Mental Health: Long-term Post-trauma Support Needs
+SN  - 9780470974131
+UR  - https://doi.org/10.1002/9781119943242.ch29
+DO  - doi:10.1002/9781119943242.ch29
+SP  - 458-473
+KW  - military veterans' mental health
+KW  - veteran studies, assessment of need
+KW  - NVVRS
+KW  - mental health services, for veterans
+KW  - veterans, in criminal justice system
+KW  - veterans' mental health disorders, the UK
+KW  - combat stress, veterans' mental health charity
+KW  - combat stress interventions
+KW  - six-week PTSD rehabilitation program
+PY  - 2007
+AB  - Summary This chapter contains sections titled: Introduction Assessment of Need: Veteran Population Studies Veterans in the Criminal Justice System Treating Veterans' Mental Health Disorders in the United Kingdom The Combat Stress Clinical Population Theoretical Complexities of Treating Veterans' Mental Health Disorders Combat Stress Interventions Clinical Services Combat Stress Treatment Models Residential Treatment Recent Service Expansion Intensive Six-week Program Joint Initiatives: National Health Service, Ministry of Defence, and Combat Stress Initiatives The Future Conclusions References
+ER  - 
+
+TY  - JOUR
+AU  - Lokuge, Amaali
+TI  - Should we ditch the supine chest X ray in early trauma assessment?
+JO  - Australasian Journal of Ultrasound in Medicine
+VL  - 22
+IS  - 4
+SN  - 9780470974131
+UR  - https://doi.org/10.1002/ajum.12164
+DO  - doi:10.1002/ajum.12164
+SP  - 245
+EP  - 247
+KW  - chest X ray
+KW  - emergency
+KW  - trauma
+KW  - ultrasound
+PY  - 2019
+AB  - Abstract The supine chest X ray is a standard part of early trauma assessment protocols. It is used to rapidly identify potentially life threatening chest injuries. However, latest research shows that chest ultrasound has superior accuracy when compared to supine chest X ray for diagnosing most chest injuries. Is it time we allowed ultrasound to supersede supine chest X ray as the initial investigative modality of choice for the patient with thoracic trauma?
+ER  - 
+
+AU  - Ehrenreich, Hannelore
+AU  - Krampe, Henning
+AU  - Sirén, Anna-Leena
+C7  - pp. 217-236
+TI  - Brain Trauma
+SN  - 9780470066409
+UR  - https://doi.org/10.1002/9780470516157.ch13
+DO  - doi:10.1002/9780470516157.ch13
+SP  - 217-236
+KW  - post-traumatic stress disorder (PTSD)
+KW  - traumatic brain injury
+KW  - chronic functional impairments
+KW  - neurochemical and neuroendocrine alterations
+KW  - long-term substance abuse and dependence
+PY  - 2019
+AB  - Summary This chapter contains sections titled: Epidemiology and Risk Factors Causes and Severity of Brain Trauma Molecular Pathogenesis Consequences of Brain Trauma Summary and Conclusions References
+ER  - 
+
+TY  - JOUR
+AU  - Neep, Michael J.
+AU  - Steffens, Tom
+AU  - Eastgate, Patrick
+AU  - McPhail, Steven M.
+TI  - Evaluating the effectiveness of intensive versus non-intensive image interpretation education for radiographers: a randomised controlled trial
+JO  - Journal of Medical Radiation Sciences
+JA  - J Med Radiat Sci
+VL  - 66
+IS  - 1
+SN  - 9780470066409
+UR  - https://doi.org/10.1002/jmrs.314
+DO  - doi:10.1002/jmrs.314
+SP  - 5
+EP  - 13
+KW  - Education
+KW  - image interpretation
+KW  - radiographers
+KW  - randomised control trial
+PY  - 2019
+AB  - Abstract Introduction The purpose of this randomised controlled trial was to compare the effectiveness of intensive and non-intensive formats of delivery of image interpretation education for radiographers. Methods A multi-centre, stratified (by years of experience) two group parallel arm, single blind, randomised controlled trial was conducted. Participants (n = 48) were allocated to one of two groups to receive image interpretation education: (1) intensive format (13.5 h over two consecutive days) (2) non-intensive (sequential 90-min tutorials delivered 1 week apart). Participants undertook x-ray interpretation tests before education, at 1-week post-education completion and at 12-week post-education completion. Results Image interpretation performance was not significantly different between groups at baseline. A generalised linear model indicated that participants who received intensive education format improved image interpretation performance by a greater margin than the group that received non-intensive education at 1-week (P = 0.002) and 12-week (P < 0.001) follow-up assessments. Conclusions Although both formats of education delivery may be beneficial, the findings of this study have indicated that the intensive format of delivery was more effective at improving radiographers? ability to interpret trauma radiographs in the weeks after completion of the image interpretation program.
+ER  - 
+
+TY  - JOUR
+AU  - Nguyen, Amy
+AU  - Hart, Robin
+TI  - Imaging of non-accidental injury; what is clinical best practice?
+JO  - Journal of Medical Radiation Sciences
+JA  - J Med Radiat Sci
+VL  - 65
+IS  - 2
+SN  - 9780470066409
+UR  - https://doi.org/10.1002/jmrs.269
+DO  - doi:10.1002/jmrs.269
+SP  - 123
+EP  - 130
+KW  - Child abuse
+KW  - imaging
+KW  - non-accidental injury
+KW  - radiography
+PY  - 2018
+AB  - Abstract Non-accidental injury (NAI) remains the leading cause of morbidity and mortality in children. Fractures are the second most common findings of NAI, after cutaneous lesions such as bruises and contusions. Imaging in NAI remains a controversial issue with little agreement concerning how, when and what imaging modalities should be used in the investigation of suspected cases. This review addresses the radiological investigations and findings of NAI, and the differential diagnoses of these findings. Adherence to the international guidelines for skeletal survey imaging is recommended. This ensures the content and quality of the radiographic series are of an optimal standard to improve the detection of occult fractures, and ensuring the accurate reporting of images. The involvement of a paediatric radiologist is important, if not essential in the diagnosis of NAI. In the evaluation of suspected cases, the role of the radiologist includes the detection of radiological findings suggestive of NAI, and the differentiation of these findings from normal variants and underlying pathologies. The diagnosis of NAI relies not only on radiological imaging, but also a combination of clinical and social findings. It is mandatory that all physicians work in close collaboration to improve diagnostic accuracy, as failure to diagnose NAI carries significant risk for morbidity.
+ER  - 
+
+TY  - JOUR
+AU  - Roca Lizarazu, Maria
+TI  - BEYOND UNSPEAKABILITY: CONFIGURATIONS OF ‘TRAVELLING TRAUMA’ IN CONTEMPORARY GERMAN-LANGUAGE LITERATURE ABOUT THE HOLOCAUST
+JO  - German Life and Letters
+JA  - German Life and Letters
+VL  - 72
+IS  - 4
+SN  - 9780470066409
+UR  - https://doi.org/10.1111/glal.12246
+DO  - doi:10.1111/glal.12246
+SP  - 499
+EP  - 521
+PY  - 2019
+AB  - ABSTRACT This article examines two novels by seminal German-language Jewish authors, Benjamin Stein's Die Leinwand (2010) and Eva Menasse's Quasikristalle (2013), to shed light on major shifts in Holocaust memory since the turn of the millennium. I argue that developments such as the disappearance of the eyewitness generation, coupled with the increasing hypermediation and globalisation of Holocaust memories, force us to reconsider certain conceptions of trauma which for a long time have dominated engagements with the Holocaust and its representation. Instead of approaching Holocaust trauma as unspeakable and inherently inaccessible, I propose to read the novels? engagements with the Holocaust through the lens of Terri Tomsky's concept of ?travelling trauma?, which allows us to conceive of the Holocaust as a culturally mediated signifier that moves transgenerationally, transmedially, and transnationally through various discursive networks. The novels by Stein and Menasse furthermore enable us to examine critically certain manifestations of ?travelling trauma? and the current state of Holocaust representation in a way that Tomsky's more descriptive approach does not.
+ER  - 
+
+TY  - JOUR
+AU  - Anne Pearlman, Laurie
+TI  - Restoring Self in Community: Collective Approaches to Psychological Trauma after Genocide
+JO  - Journal of Social Issues
+JA  - Journal of Social Issues
+VL  - 69
+IS  - 1
+SN  - 9780470066409
+UR  - https://doi.org/10.1111/josi.12006
+DO  - doi:10.1111/josi.12006
+SP  - 111
+EP  - 124
+PY  - 2013
+AB  - Recovery from the profound negative psychological and spiritual effects of genocide is essential for individuals to live fulfilling lives, engage in reconciliation, and prevent future violence. This article discusses community approaches to trauma recovery that focus on individuals within their social context. It briefly identifies common psychological problems that follow genocide. It then presents constructivist self development theory (CSDT) as a foundation for understanding these effects and the RICH (Respect, Information, Connection, and Hope) framework, based in CSDT, for designing and assessing the effects of post-genocide psychosocial interventions. The article reviews three approaches to collective recovery: a multifamily group approach, a psychoeducational program focused on youth, and a public education program aimed to promote trauma recovery and prevent future violence. The RICH framework is applied to each approach.
+ER  - 

@@ -1,0 +1,421 @@
+
+TY  - JOUR
+AU  - Mayer, Andrew R.
+AU  - Bedrick, Edward J.
+AU  - Ling, Josef M.
+AU  - Toulouse, Trent
+AU  - Dodd, Andrew
+TI  - Methods for identifying subject-specific abnormalities in neuroimaging data
+JO  - Human Brain Mapping
+JA  - Hum. Brain Mapp.
+VL  - 35
+IS  - 11
+SN  - 1065-9471
+UR  - https://doi.org/10.1002/hbm.22563
+DO  - doi:10.1002/hbm.22563
+SP  - 5457
+EP  - 5470
+KW  - mild traumatic brain injury
+KW  - diffusion tensor imaging
+KW  - neuroimaging
+KW  - subject-specific abnormalities
+PY  - 2014
+AB  - Abstract Algorithms that are capable of capturing subject-specific abnormalities (SSA) in neuroimaging data have long been an area of focus for diverse neuropsychiatric conditions such as multiple sclerosis, schizophrenia, and traumatic brain injury. Several algorithms have been proposed that define SSA in patients (i.e., comparison group) relative to image intensity levels derived from healthy controls (HC) (i.e., reference group) based on extreme values. However, the assumptions underlying these approaches have not always been fully validated, and may be dependent on the statistical distributions of the transformed data. The current study evaluated variations of two commonly used techniques (?pothole? method and standardization with an independent reference group) for identifying SSA using simulated data (derived from normal, t and chi-square distributions) and fractional anisotropy maps derived from 50 HC. Results indicated substantial group-wise bias in the estimation of extreme data points using the pothole method, with the degree of bias being inversely related to sample size. Statistical theory was utilized to develop a distribution-corrected z-score (DisCo-Z) threshold, with additional simulations demonstrating elimination of the bias and a more consistent estimation of extremes based on expected distributional properties. Data from previously published studies examining SSA in mild traumatic brain injury were then re-analyzed using the DisCo-Z method, with results confirming the evidence of group-wise bias. We conclude that the benefits of identifying SSA in neuropsychiatric research are substantial, but that proposed SSA approaches require careful implementation under the different distributional properties that characterize neuroimaging data. Hum Brain Mapp 35:5457?5470, 2014. ? 2014 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Mortazavi, Martin M.
+AU  - Harmon, Olivia A.
+AU  - Adeeb, Nimer
+AU  - Deep, Aman
+AU  - Tubbs, R. Shane
+TI  - Treatment of spinal cord injury: A review of engineering using neural and mesenchymal stem cells
+JO  - Clinical Anatomy
+JA  - Clin. Anat.
+VL  - 28
+IS  - 1
+SN  - 0897-3806
+UR  - https://doi.org/10.1002/ca.22443
+DO  - doi:10.1002/ca.22443
+SP  - 37
+EP  - 44
+KW  - stem cell therapy
+KW  - spinal cord injury
+KW  - neural stem cells
+KW  - mesenchymal stem cells
+KW  - anatomy
+KW  - nerve
+KW  - trauma
+KW  - disease
+KW  - pathology
+KW  - stem cells
+KW  - paralysis
+KW  - treatment
+PY  - 2015
+AB  - Over time, various treatment modalities for spinal cord injury have been trialed, including pharmacological and nonpharmacological methods. Among these, replacement of the injured neural and paraneural tissues via cellular transplantation of neural and mesenchymal stem cells has been the most attractive. Extensive experimental studies have been done to identify the safety and effectiveness of this transplantation in animal and human models. Herein, we review the literature for studies conducted, with a focus on the human-related studies, recruitment, isolation, and transplantation, of these multipotent stem cells, and associated outcomes. Clin. Anat. 28:37?44, 2015. ? 2014 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+TI  - Plenary II: Surgical Controversies 9:00 a.m.-10:30 a.m.
+JO  - Epilepsia
+VL  - 49
+IS  - s7
+SN  - 0013-9580
+UR  - https://doi.org/10.1111/j.1528-1167.2008.01871_20.x
+DO  - doi:10.1111/j.1528-1167.2008.01871_20.x
+SP  - 497
+EP  - 497
+PY  - 2008
+AB  - Robert E. Gross*, David W. Loring?, John T. Langfitt?, George A. Ojemann?, André Olivier? and Christoph Helmstaedter??*Department of Neurosurgery, Emory University School of Medicine, Atlanta, GA; ?McKnight Brain Institute, University of Florida, Gainesville, FL; ?Department of Neurology, University of Rochester, Rochester, NY; ?Department of Neurosurgery, University of Washington, Seattle, WA; ?Division of Neurosurgery, Montreal Neurological Hospital and Institute, Montreal, QC, Canada and ?Bereich Neuropsychologie, Universitätsklinik für Epileptologie, Bonn, Germany Summary: The surgical treatment of mesial temporal lobe epilepsy (MTLE) by amygdalo-hippocampectomy (AH) has a high likelihood of yielding a seizure-free outcome and associated improvement in quality-of-life. Nevertheless, there are several important areas of controversy with regard to the surgical approach, differences of which may impact the rate of success and the incidence of adverse effects. Cognitive sequelae of temporal lobe surgery may result from (1) resection or transgression of the lateral (neocortical) temporal lobe or the temporal stem, which may lead to impairment in learning, and/or (2) resection of mesial structures, which may lead to decline in material-specific memory. The recent multi-center clinical trial analyzing the predictors of post-surgical quality-of-life will be discussed, including the finding that improvement depends on seizure-freedom irrespective of the occurrence of verbal memory decline. Nevertheless, it is incumbent on surgeons to minimize the occurrence of these cognitive sequelae while maximizing the possibility of seizure-freedom. Several approaches to gain access to the mesial structures will be compared with regard to cognitive outcome, including anterior temporal lobectomy (standard vs. tailored), trans-cortical selective AH and trans-sylvian selective AH, which differ in terms of their disruption of the temporal neocortex and temporal stem. Alternative approaches to the mesial resection will be compared with regard to seizure-free rates and the incidence of post-surgical decline in memory, including tailoring the hippocampal resection to the presence of inter-ictal epileptic spikes vs. performing a standardized resection, and the influence of the amount of hippocampal tissue resected. Open discussion of recent results addressing these important issues will hopefully either propel the field towards consensus, or highlight the need for further randomized clinical trials to improve patient outcome following amygdalo-hippocampectomy for MTLE.
+ER  - 
+
+TY  - JOUR
+AU  - Clarke, D. L.
+TI  - Feline ureteral obstructions Part 2: surgical management
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 59
+IS  - 7
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/jsap.12861
+DO  - doi:10.1111/jsap.12861
+SP  - 385
+EP  - 397
+PY  - 2018
+AB  - Feline obstructive ureteral disease will likely remain a common and frustrating cause of critical illness in cats for the foreseeable future. Since many cats are uraemic and cardiovascularly unstable secondary to obstructive nephropathy, prompt recognition using clinical intuition, blood work and diagnostic imaging is essential to make a timely diagnosis and decision about timing for intervention, if indicated. Multiple surgical and interventional procedures exist for the management of feline ureteral obstructions but there is no ideal technique and all currently available procedures carry risk of infection, re-obstruction, urine leakage and the need for additional procedures in the future. Therefore, until clear, evidence-based guideline exist, the decision about which ureteral procedure to perform in cats should be guided by nature of the obstruction, location, concurrent urolithiasis, infection and surgeon preference. In all likelihood, ureteral surgery, stents and ureteral bypass devices will continue to remain viable options and the decision about which procedure to use will be made on a case-by-case basis.
+ER  - 
+
+TY  - JOUR
+AU  - Garibay-Pulido, Diego
+AU  - Cendejas-Zaragoza, Leopoldo
+AU  - Dawe, Robert
+AU  - Rossi, Marvin A.
+TI  - Parametric subtracted post-ictal diffusion tensor imaging for guiding direct neurostimulation therapy
+JO  - Hippocampus
+JA  - Hippocampus
+VL  - 29
+IS  - 5
+SN  - 1050-9631
+UR  - https://doi.org/10.1002/hipo.23061
+DO  - doi:10.1002/hipo.23061
+SP  - 468
+EP  - 478
+KW  - DTI
+KW  - intractable epilepsy
+KW  - neuromodulation
+KW  - RNS
+KW  - white matter
+PY  - 2019
+AB  - Abstract Parametric subtracted post-ictal diffusion tensor imaging (pspiDTI) is a novel imaging technique developed at our center to visualize transient, patient-specific, ictal-associated water diffusion abnormalities in hippocampal-associated axonal tissue. PspiDTI can elucidate putative connectivity patterns, tracing ictal propagation following a partial-onset seizure without generalization secondarily. PspiDTI compares two DTI volumes acquired during the early post-ictal period (<4 hr), and baseline inter-ictal interval (>24?hr post-seizure). This technique performs a voxel-wise parametric test to identify statistically significant transient ictal-associated changes in water diffusivity involving white matter (WM). Our technique was applied to six patients with refractory partial-onset epilepsy who were candidates for direct cortical responsive neurostimulation (RNS) therapy. Global and region-specific fractional anisotropy decreases, relative to baseline, were detected in all patients with a 17.01% (p <?.01) relative mean decrement, while trace increases were found in 6/6 (100%) patients with a 13.30% (p <?.01) relative global mean increment. Changes in diffusivity were anatomically compared with transient hyper-perfusion as detected by subtracted ictal SPECT co-registered to MRI (SISCOM). In 5/6 (83.33%) patients, alterations in WM diffusivity were detected adjacent to the SISCOM signal localized predominantly in gray matter. In 4/6 patients, post-implant RNS electrocorticography revealed early ictal propagation between implanted RNS depth leads guided by pspiDTI, hence validating concordant abnormal diffusivity regions detected by our technique. PspiDTI can complement the conventional pre-surgical evaluation to provide additional crucial information regarding WM ictal-propagation pathways between predominantly gray matter ictal-onset zones. When incorporated into a multi-modality pre-surgical workflow, pspiDTI can aid in defining critical nodes between ictogenic regions. This information can be used to strategically implant a limited set of two RNS depth leads for maximizing the extent to which direct cortical RNS can modulate a potentially extensive epileptogenic network.
+ER  - 
+
+TY  - JOUR
+TI  - Platform Session B: Clinical Neurophysiology/Clinical Epilepsy  3:00 p.m.–6:00 p.m.
+JO  - Epilepsia
+VL  - 46
+IS  - s8
+SN  - 0013-9580
+UR  - https://doi.org/10.1111/j.1528-1167.2005.460801_26.x
+DO  - doi:10.1111/j.1528-1167.2005.460801_26.x
+SP  - 264
+EP  - 268
+PY  - 2005
+AB  - 1 Jose F. Tellez-Zenteno, 1 Scott B. Patten, and 1 Samuel Wiebe ( 1 Department of Clinical Neurosciences, University of Calgary, Calgary, AB, Canada ) Rationale: Studies indicate that up to 50% of patients with epilepsy have mental health disorders, with mood, anxiety, and psychotic disturbances being the most common. However, the prevalence of psychiatric illnesses in persons with epilepsy in the general population varies, owing to differences in methods, population, case ascertainment, and heterogeneity of epilepsy syndromes. We assessed the prevalence of self-reported, physician diagnosed mental health conditions associated with epilepsy in a large Canadian population health survey Methods: The Canadian Community Health Survey (CHS, N = 36,984) used probabilistic sampling to explore numerous aspects of mental health in the entire Canadian population, of whom 253 subjects had epilepsy. With sampling weights, the prevalence of epilepsy was 0.6%. Depression was ascertained with the Composite International Diagnostic Interview (Short Form). Other valid scales various aspects of psychiatric comorbidity. The prevalence of drug and alcohol use, and abnormal ideation were ascertained through personal interviews. We explored age specific prevalence of mental health problems in epilepsy Results: The lifetime prevalence of depression was 22.2% (95%CI 14.0?30.4%) compared with 12.2% in the general population. The prevalence of depression in people with epilepsy was higher than in the general population in younger, but not older (>64 years) age groups. There was a marked effect of age on the prevalence of major depression (higher in younger individuals). The prevalence of social phobia was 15.8% (8.4?23.2) in people with epilepsy and 8.1% (7.6?8.5) in the general population. The 12-month prevalence of drug or alcohol dependence was not higher in people with epilepsy (3.0%) than in the general population (3.1%). Lifetime suicidal ideation was higher in patients with epilepsy 25.0% (95% CI 16.6?33.3) than in the general population 13.3% (95% CI 12.8?13.9) Conclusions: The prevalence of depression was considerable higher in younger people with epilepsy than in the general population. Social phobia and low indices of well being were more prevalent in epilepsy. We corroborated a high prevalence of suicidal ideation was in epilepsy patients. In contrast to other reports, we did not find a higher prevalence of alcohol and drug dependence in people with epilepsy. The complete analysis of mental health comorbidity will be presented 1 Miranda Geelhoed, 1 Anne Olde Boerrigter, 2 Peter R. Camfield, 1 Ada T. Geerts, 1 Willem Arts, 2 Bruce M. Smith, and 2 Carol S. Camfield ( 1 Department of Pediatric Neurology, Erasmus MC, Sophia Children's Hospital, Rotterdam, Netherlands ; and 2 Department of Pediatrics, Dalhousie University and IWK Health Centre, Halifax, NS, Canada ) Rationale: About 50?60% of children with epilepsy eventually outgrow their seizure disorder. A number of predictive factors have been statistically associated with remission but it is unclear how accurate these factors are when applied to an individual child. Two large prospective cohort studies of childhood epilepsy (Nova Scotia and the Netherlands) each developed a statistical model to predict long-term outcome. We evaluated the accuracy of a prognostic model based on the two studies combined. Methods: A wealth of clinical and EEG variables were available for patients in both cohort studies. Data analyses with classification tree models and stepwise logistic regression produced predictive models for the combined dataset and the two separate cohorts. The resulting models were then externally validated on the opposite cohort. Remission was defined as no longer receiving daily medication for any length of time at the end of follow-up. Results: The combined cohorts yielded 1055 evaluable patients. At the end of follow up (≥5 years in >96%), 622 (59%) were in remission. Using the combined data, the classification tree model and the logistic regression model predicted the outcome (remission or no remission) correctly in approximately 70% (sensitivity ?72%, specificity?65%, positive predictive value?75%, negative predictive value ? 62%). The classification tree model split the data on epilepsy syndrome and age at first seizure. Independent statistically significant predictors in the logistic regression model were: seizure number before treatment, age at first seizure, absence seizures, epilepsy types of symptomatic generalized and symptomatic partial, pre-existing neurological signs, intelligence and the combination of febrile seizures and cryptogenic partial epilepsy. When the prediction models from each cohort were cross-validated on the opposite cohort, the outcome was predicted slightly less accurately than the model from the combined data. Conclusions: Based on currently available clinical and EEG variables, predicting the outcome of childhood epilepsy is difficult and appears to be incorrect in about one of every three patients. Predictions schemes are statistically robust but clinically relatively inaccurate. We suggest that clinicians should be cautious in applying prediction models when developing management strategies for individual children with epilepsy. 1 A. T. Berg, 2 B. G. Vickrey, 3 S. Smith, 3 F. M. Testa, 4 S. Shinnar, 3 S. R. Levy, 5 F. DiMario, and 3 B. Beckerman ( 1 BIOS, NIU, DeKalb, IL ; 2 Neurology, UCLA, Los Angeles, CA ; 3 Pediatrics, Yale, New Haven, CT ; 4 Neurology, Montefiore Hospital, Bronx, NY ; and 5 Neurology, CCMC, Hartford, CT ) Rationale: It is typically assumed that intractablility is evident soon after the onset of epilepsy. Retrospective histories from surgical patients, however, suggest that intractable seizures may not be evident for many years, particularly in partial epilepsy of childhood onset. Methods: In a community-based study of 613 children in Connecticut with newly diagnosed epilepsy (1993?97) prospectively followed a median of 9 years, the timing of the appearance of intractable epilepsy from date of initial diagnosis was determined. Two definitions for intractable epilepsy were used: 1) ?Strict:? 2 AED failures, ≥1 seizure/month for 18 months; 2) ?Loose:? 2 AED failures. Differences in the timing of the appearance of intractability were examined as a function of type of epilepsy syndrome. Results: Eighty-two children met the strict criteria for intractability: 38/294 (13%) of those with cryptogenic or symptomatic partial epilepsy (C/S-PE), 35/67 (52%) of those with an epileptic encephalopathy (EE) and 9/241 (4%) of those with idiopathic or other forms of epilepsy (p < 0.0001). Eleven children followed<18 months were not assigned an outcome. Twenty-five (30%) of the 82 intractable cases took >3 years to meet the strict criteria for intractability. The primary interest was in comparing EE and C/S-PE groups. Five of 35 (14%) intractable cases in the EE group versus 17/38 (45%) in the C/S-PE group met criteria at >3 years (p = 0.005). Loose criteria for intractability (2 AED failures) were met by 135 children. Of these, 32 (24%) met criteria >3 years after diagnosis: 1/46 in the EE group versus 25/69 in the C/S-PE group (p < 0.0001). In the C/S-PE group, 18/25 (72%) 25 who failed a second drug >3 years after diagnosis had experienced a 1+ year remission before the second drug failure. Conclusions: Poor seizure outcome is generally evident from the outset in the epileptic encephalopathies such as West, Lennox-Gastaut syndrome. By contrast, the appearance of intractability may be delayed in cryptogenic/symptomatic partial epilepsy. Retrospective data1 suggest that with a median follow-up of 9 years, roughly a third to half the intractable cases that might occur in the cryptogenic/symptomatic partial epilepsy group have yet to declare themselves. Only continued prospective study in the current cohort, however, will reveal the eventual true burden of intractability and its time course. REFERENCE 1.?Berg AT, et al How long does it take for partial epilepsy to become intractable Neurology, 2003;60: 186?190. (Supported by NIH RO1-NS31146.) 1 Christina A. Palmese, 1 Marla J. Hamberger, 1 David Weintraub, 2 Nikolaos Scarmeas, 1 Hyunmi Choi, and 1 Lawrence J. Hirsch ( 1 Comprehensive Epilepsy Center, Columbia University Medical Center, New York, NY ; and 2 Department of Neurology and Taub Institute, Columbia University Medical Center, New York, NY ) Rationale: It is well established that individuals with epilepsy frequently report memory problems and show deficits on objective memory measures. In recent years, cholinesterase inhibitors such as donepezil have been shown to improve memory or delay memory decline in patients with other neurological disorders (e.g., dementia, multiple sclerosis). The purpose of this double-blind, placebo-controlled, cross-over study was to determine whether donepezil would improve memory or other cognitive functions in epilepsy patients. Methods: Twenty-three epilepsy patients with subjective memory complaints (9 simple partial, 14 complex partial or generalized; mean age: 41 SD = 9.25; 16 males, 7 females) were tested at baseline, after 3 months on donepezil, and after 3 months on placebo. Patients were randomized into two treatment groups receiving 3 months of donepezil followed by 3 months of a placebo, or vice versa. Donepezil was started at a dose of 5mg/day for 4 weeks and increased to 10mg/day for the remaining 8 weeks. Functions tested included verbal memory (Hopkins Verbal Learning Test, Medical College of Georgia (?MCG?) story memory), visual memory (MCG Figure Memory Test), Attention (Continuous Attention Test, Stroop Test), visuomotor speed (Symbol Digit Coding), and fine motor speed and dexterity (Grooved Pegboard). Subjective memory complaints, quality of life and mood were assessed with the QOLIE-31 and Profile of Mood Scale (POMS). Change scores were calculated comparing baseline with both placebo and donepezil, and these difference scores were compared via paired sample t-tests. Results: While on donepezil, patients exhibited significantly stronger performance on MCG immediate story recall (donepezil mean change: 11.08 (SD = 11.69), placebo mean change: 6.78 (SD = 10.99), p = .04). However, they also showed poorer Stroop performance (p = .02), reported lower energy and ?vigor? (p = .01), and indicated poorer ?quality of life? (p = .01) on donepezil compared to placebo. Across donepezil and placebo treatment periods, there were no significant changes in subjective memory report or in number of side effects reported while patients were on donepezil versus placebo. There were also no significant differences in seizure frequency (p = .55). No patient reported any adverse event. Conclusions: Although patients exhibited improvement in immediate memory while on donepezil, they also exhibited worsening in attention, energy and quality of life. These results suggest that donepezil does not provide significant benefit for patients with epilepsy and subjective memory impairment, though this does not rule out possible benefit in individuals. There was no effect on seizure frequency in this study. (Supported by Pfizer Inc.) 1 Alison M. Pack, 2 Martha J. Morrell, 1 Alison Randall, 1 Silvia Done, 1 Edith Flaster, and 3 Elizabeth Shane ( 1 Neurology, Columbia University, New York, NY ; 2 Neurology, Stanford University, Stanford, CA ; and 3 Medicine, Columbia University, New York, NY ) Rationale: We previously reported significant bone loss at the femoral neck of the hip in women with epilepsy receiving phenytoin (PHT) when followed for 1 year longitudinally. It has been postulated that adverse effects on bone secondary to PHT treatment are a result of enzyme inducing increased metabolism of vitamin D. We hypothesized that concentrations of vitamin D metabolites after 1 year of treatment would be significantly lower in women treated with PHT than other AEDs including carbamazepine (CBZ), valproate (VPA), and lamotrigine (LTG). Methods: Women with epilepsy aged 18?40 receiving AED monotherapy were recruited. AEDs studied were PHT, CBZ, VPA and LTG. Subjects had baseline bone mineral density (BMD) studies as assessed by DXA and serologic measurements of calcium and vitamin D metabolites (25, hydroxyvitamin D and 1,25 dihydroxyvitamin D). Subjects were followed for 1 year and repeat studies were obtained. Correlation between change in BMD and calcium and vitamin D metabolites after 1 year of treatment was evaluated. Results: Data was obtained from 66 women. There were 7 women receiving PHT, 27 receiving CBZ, 13 receiving VPA, and 19 receiving LTG. Serum calcium levels did not change significantly after 1 year of treatment in all AED treated groups. As we previously reported, baseline calcium levels were significantly lower in women treated with PHT, CBZ, and VPA compared to those treated with LTG. Serum 25, hydroxyvitamin D concentrations also did not change significantly in any of the AED treated groups. As we previously reported, there was no significant difference among baseline levels of 25, hydroxyvitamin D among the AED treated groups. Serum 1,25 dihydroxyvitamin D concentrations were significantly higher after 1 year of treatment in LTG treated women (32.80 ? 39.55 pg/ml; p = 0.0067). Although not significant, there was a reduction in 1,25 dihydroxyvitamin D concentrations in women treated with PHT (31.10 ? 24.70 pg/ml). BMD loss at the femoral neck of the hip did not correlate with changes in calcium or vitamin D metabolite concentrations. Conclusions: Calcium and 25, hydroxyvitamin D concentrations did not change significantly in women treated with PHT, CBZ, VPA, and LTG and followed longitudinally for 1 year. Serum 25, hydroxyvitamin D is the most commonly used index of vitamin D status. Although not significant, there was a reduction in 1,25 dihydroxyvitamin D concentrations in women treated with PHT for 1 year. BMD loss did not correlate with changes in either calcium or vitamin D metabolites. The lack of significance of these findings may in part be explained by the small sample size of the PHT treated group. However, they do suggest that previously reported bone loss in PHT treated women may not be secondary to effects on vitamin D metabolism. (Supported by GlaxoSmithKline.) 1 Douglas R. Nordli, 2 Solomon L. Moshé, 3 L. Matthew Frank, 4 John M. Pellock, 5 Darrell V. Lewis, 4 Anthony Marmarou, 6 Dale C. Hesdorffer, 2 Shlomo Shinnar, and 1?5 FEBSTAT Study Team ( 1 Children's Memorial Hospital, Chicago, IL ; 2 Montefiore, Medical Center, Albert Einstein College of Medicine, Bronx, NY ; 3 Children's Hospital of The King's Daughter, Norfolk, VA ; 4 Medical College of Virginia, Virginia Commonwealth University, Richmond, VA ; 5 Duke University Medical Center, Durham, NC ; and 6 Columbia University, New York, NY ) Rationale: To study the role of acute EEG studies in children with febrile status epilepticus in predicting acute MRI abnormalities and later development of epilepsy and, more specifically, of subsequent mesial temporal sclerosis and temporal lobe epilepsy. Methods: As part of the multi-institutional FEBSTAT study, neurological examinations, MRIs with particualr attention to the hippocampus, and EEGs were performed within 72 hours of febrile status epilepticus in children five years of age or younger. EEGs are read by two independent readers, blinded to clinical histories, and a consensus is reached. The primary outcome measure of the ongoing FEBSTAT study is the development of MTS, clinical epilepsy, or both. The study also seeks to determine if initial imaging and EEG studies can predict outcome. Results: As of April, 2005, 75 subjects have been enrolled. Consensus readings have been performed on the first 46 EEGs. Of these, 11 (24%) showed one or more abnormality. Specific findings include the following. Nine EEGs demonstrated slowing or attenuation, which was localized to the temporal lobe in 8 cases (17%). In one circumstance the attenuation involved the entire hemisphere. Two other EEGs showed diffuse slowing only. Spikes were the exclusive abnormality in only two tracings (frontal in one, and posterior temporal in the other). Temporal lobe spikes were seen along with temporal lobe slowing in only two cases. Conclusions: Focal temporal slowing, attenuation, or both is seen in 17% of children with febrile status epilepticus indicating temporal lobe dysfunction in this group. Focal epileptiform discharges were half as common. Further analysis will determine whether the acute EEG abnormalities correlate with hippocampal T2 signal abnormalities that are being seen in a significant number of children in this cohort. Additionally, the design of the study will allow us to look at the evolution of the EEG in those children at high risk for the development of temporal lobe epilepsy. (Supported by NINDS NS43209: Consequences of Prolonged Febrile Seizures in Childhood.) 1 Stephan U. Schuele, 1 Adriana C. Bermeo, 1 Richard C. Burgess, 1 Dudley Dinner, and 1 Nancy Foldvary ( 1 Neurology, Cleveland Clinic Foundation, Cleveland, OH ) Rationale: Ictal asystole with focal epilepsy is a rare but potentially life-threatening event and is a likely contributor to sudden unexpected death in epilepsy (SUDEP). Risk factors allowing early detection and intervention are unknown and ictal asystole remains an incidental finding in large monitoring populations. While there have been some inconsistent correlations (such as more frequent accompaniment to left temporal lobe seizures) semiologic characteristics associated with ictal asystole have not been described, and may be helpful in screening for high risk patients. Methods: Electronic database search of all patients undergoing longterm Video-EEG monitoring between 1994 and 2005 with episodes of aystole during simultaneous ECG acquisition. Patients with asystole during non-epileptic events (e.g. syncopal events) were excluded. Results: Ictal asystole was found in seven out of 5977 patients (0.12%) and occured in 12 out of 42 (29%) of their recorded events. Two of the patients were male and five female, mean age was 28 years (range 2 to 54 years). Asystole occured on average 41 seconds (s) after EEG onset (range 3?95 s) and was in all cases preceded by sinus bradycardia. Duration of asystole averaged 17 s (range 4?33 s). Sinus rhythm recurred spontaneously in all patients without requiring cardiac resusciation. Temporal lobe epilepsy was diagnosed in five patients, in three on the right, in one on the left and in one bilateral. Asystole in this group lasted between 4.5s and 33 s. In all five patients, episodes of sudden unresponsiveness associated with manual or oral automatism were reported as typical events. During the Video-EEG monitoring in four of these five patients, the habitual semiology was followed by a pronounced sudden loss of tone and body posture coinciding with the asystole. In the one patient without noticeable loss of tone, a generalized tonic seizure lasting more than 20s occured within five seconds after onset of the asystole. All five patients underwent pacemaker implantation. Two patients had extratemporal lobe epilepsy. One suffered from axial tonic seizures associated with a regional EEG seizure pattern over the vertex. The other one had episodes of unresponsiveness and staring associated with a left hemispheric focal epilepsy. Asystole lasted between 4s and 7s and no loss of tone was noted during Video-EEG monitoring. Conclusions: Ictal aystole is a rare but potentially life-threatening event. It is most commonly seen in patients with right or left temporal lobe epilepsy. Although a history of atonia and falls is often not obtained, loss of tone and posture can frequently be seen during Video-EEG-monitoring. Drop attacks at clinical onset have been reported in patients with temporal lobe epilepsy, however a delayed sudden loss of tone is distinctly uncommon and may be revealed by a detailed history. Further cardiac monitoring in patients with temporal lobe epilepsy and delayed atonia or drop attacks might be warranted. 1 Gregory D. Cascino, 1 Edward M. Manno, 2 Eric A. Pfeifer, 1 Katherine H. Noe, and 1 Eelco F.M. Wijdicks ( 1 Neurology, Mayo Clinic, Rochester, MN ; and 2 Pathology, Mayo Clinic, Rochester, MN ) Rationale: To evaluate the incidence and significance of cardiac contraction band necrosis (CBN) in patients who die during status epilepticus (SE). CBN has been observed in patients with subarachnoid hemorrhage and other life-threatening neurological emergencies. Massive catecholamine release may be the mechanism of CBN and cardiac arrhythmias that occur in these individuals. Methods: We retrospectively evaluated 28 patients who were derived from 54 consecutive patients with SE who underwent an autopsy between January 1975 and December 2003. The medical and pathological records were reviewed in all patients. Twenty six individuals were excluded because of an inability to confirm the diagnosis of SE or unavailability of cardiac anatomical specimens for examination. The 28 patients were divided into two groups: Group I- Died during refractory SE (n = 11), Group II- Died remote from SE (n = 17). The cardiac pathology in the two groups was compared to 22 randomly selected individuals (control group) who died without a known history of seizures. Nonconvulsive SE was confirmed by EEG studies. One investigator (EP) blinded to the clinical history and previous pathology reports reviewed the cardiac pathology slides for CBN. Results: There were no significant differences in age, gender or history of heart disease between the three patient groups. Nine of the Group I patients had generalized convulsive SE and two patients had nonconvulsive SE. Eight of the 11 patients in Group I had CBN compared to 5 of 22 patients in the control group (p < 0.01, Fisher's exact test). Three of 17 patients in Group II had CBN compared to 5 of 22 patients in the control group (p = 1.0, Fisher's exact test). CBN occurred more frequently in Group I patients than Group II patients (p < .01, Fisher's exact test). Conclusions: Cardiac CBN was identified in most patients in this series who died during an episode of SE. This specific anatomical pathology was uncommon in patients with a remote history of SE or an age-matched control group. This study provides compelling evidence that cardiac CBN may be a potential pathophysiology for cardiac decompensation and death in individuals with SE or seizure activity. (Supported by Mayo Foundation.) 1 Jeffrey D. Jirsch, 1 Francois Dubeau, 1 Elena Urrestarazu, 1 Pierre LeVan, and 1 Jean Gotman ( 1 Neurology and Neurosurgery, Montreal Neurological Institute and Hospital, Montreal, QC, Canada ) Rationale: Seizures recorded with subdural grids have demonstrated high frequency activities up to 130Hz in contacts close to the seizure focus. We report localized changes in high frequency activity during seizures in patients with temporal and extra-temporal epilepsy implanted with depth macroelectrodes. Methods: Intracranial EEGs were obtained from stereotaxically-placed depth and epidural electrodes filtered at 500Hz and sampled at 2000Hz in 8 consecutive patients. The epileptic zone was well-localized in 6 patients with 4 having mesial temporal (MT) and 2 having frontal neocortical foci with dysplastic lesions, and was regional or poorly localized in 2 others. Characteristic EEG sections lasting 3?10 s were selected within the seizures of each patient to reflect ictal onset, propagation and termination. Distinct high frequency (>100 Hz) segments were identified visually in the background and in the seizure sections by analyzing the expanded record dually with 50Hz and 100 Hz high-pass filters. Focal changes in high frequency activity during the seizure were also identified using spectral analysis by comparing section band powers (i.e. slow (0?40Hz), high frequency (HF, 100?200Hz), very high frequency (VHF, 250?500Hz)) with the background. Results: 12 seizures were analyzed from the 4 patients with MT foci, 7 from the 2 patients with neocortical foci, and 4 from the 2 patients with no definitive epileptogenic zone. Discrete, focal VHF segments were visually identified at seizure onset in 4/4 MT patients, involving contacts in the epileptic zone. Increased HF activity compared to the background was distinguished both visually and with spectral analysis later in the seizures of 3/4 MT patients, involving contacts in the epileptic zone and, in one patient, areas of contralateral peri-hippocampal propagation. The 2 patients with neocortical foci had increased HF activity confined to the epileptic zone late in their seizures, identified by visual and spectral analysis. No discrete HF or VHF activity was present in the poorly-localized seizures. Conclusions: VHF segments (fast ripples?) were consistently present in the epileptic zone early in seizures of patients with MT epilepsy. In contrast, HF activity was seen more prominently later in seizures, involving the epileptogenic areas of MT and neocortical patients, as well as areas of mesial temporal propagation. Changes in high frequency activity (100 to 500Hz) were absent in patients whose seizures were poorly-localized.This study demonstrates that changes in high frequency activity occur in regions of primary epileptogenesis and secondary spread in anatomically different foci. These activities may reflect focal synchronization of neuronal ensembles that are important in initiating or maintaining ictal activity. Moreover, absent high frequency activity seems to indicate poor localization. (Supported by Canadian Institutes of Health Research.) 1 Heinrich Vogt, 1 Thomas Baisch, and 1 Ian W. Mothersill ( 1 Swiss Epilepsy Center, Swiss Epilepsy Center, Zuerich, Switzerland ) Rationale: The progressive myoclonus epilepsies comprise a heterogenous group of diseases wich are clinically characterised by myoclonus with variable localisation, generalized tonic-clonic seizures, progressive dementia of variable severity and neurological symptomes, usually cerebellar. It is generally accepted that the locomotory disablement is due to cerebellar ataxia. We observed that in the course of the disease negative myoclonias are one of the most striking symptom and hypothesised that they were the main reason for locomotor disability. Methods: Negative myoclonias are very difficult to recognise without ictal polygraphic recordings in freely moving patients.We performed ictal polygraphic video-EEG-recordings (16 channel EEG, 8 channel surface EMG) in 13 patients with EPM1 (Unverricht-Lundborg Disease), proven by mutation of the CSTB Gene, 1 MERFF with a mitochondrial point mutation and 2 EPM2 (Lafora disease), proven by skin biopsy. Results: All 16 patients presented with negative myoclonias of short duration either isolated or in combination with myoclonus. They were provoked by voluntary movement. The duration of the muscular atonia was between 100 and 300 ms. Except 3 patients with EPM1 all where wheelchair bound, mainly due to fear of falls, caused by the frequent muscle atonias. Conclusions: We have shown, using simultaneous EEG/EMG recordings in freely moving patients, that the locomotor disability is in fact mainly due to negative myoclonus in voluntary innervated muscles. 1 Florian Mormann, 1,2 Hannes Osterhage, 1 Ralph G. Andrzejak, 1 Christian E. Elger, and 1,2 Klaus Lehnertz ( 1 Department of Epileptology, University of Bonn, Bonn, Germany ; and 2 Helmholtz-Institute for Radiation and Nuclear Physics, University of Bonn, Bonn, Germany ) Rationale: The localization of the epileptic focus from intracranial EEG recordings during the interictal period (i.e., without the necessity of observing any seizures) has been a focus of research in the past years. In addition to linear and nonlinear univariate measures, bivariate measures for synchronization have been shown to be capable of correctly lateralizing the focal hemisphere in the majority of cases. A more precise localization of the focal area, however, has not been achieved. Since the pathological neurons constituting the epileptic focus are assumed to drive the surrounding tissue, we used bivariate measures of directionality to investigate the driving influence of a focal area on the surrounding regions. Methods: We analyzed intracranial EEG recordings from the seizure-free intervals of 30 patients with medically intractable medial temporal lobe epilepsy undergoing invasive presurgical diagnostics. EEG signals were recorded via bilateral intrahippocampal depth electrodes, the total recording time comprised more than 83 hours. Side of focus was assessed by complete postoperative seizure control after selective amygdalo-hippocampectomy. Histopathological evaluation showed hippocampal sclerosis in all cases. A measure for directionality of phase coupling was calculated for all combinations of depth electrodes within each hemisphere using a moving window technique and then averaged over time. Results: In 26 out of 30 cases, we found a distinct region in the ipsilateral hippocampal formation that drove the surrounding regions both in the ipsilateral and contralateral hippocampal formation. The spatial extent of this region was usually found to range between 5 and 20 mm. Conclusions: Even during the seizure-free interval, the focus appears to be driving its surrounding areas. Its influence can be seen not only on the ipsilateral, but also on the contralateral temporal lobe. Analysis using directionality measures may allow a functional delineation of the focal area during the presurgical evaluation as a prerequisite for super-selective resection in epilepsy surgery. (Supported by the Deutsche Forschungsgemeinschaft and the intramural research fund BONFOR of the University of Bonn.) 1,4 Marizabel Rozas Latorre, 1 Mark D. Holmes, 2 Micah Brown, and 2,3 Don M. Tucker ( 1 Neurology, Regional Epilepsy Center, University of Washington, Seattle, WA ; 2 Electrical Geodesic, INC., Eugene, OR ; 3 Psychology, University of Oregon, Eugene, OR ; and 4 Neurología, Universidad Nacional Mayor de San Marcos, Lima, Lima, Peru ) Rationale: To determine the regions of cerebral cortex activated during the onset and propagation of electroencephalographic (EEG) epileptiform patterns in patients with juvenile myoclonic epilepsy (JME). Methods: Ten patients with the clinical diagnosis of JME were included; there were three women and seven men between 16 and 38 years of age. Standard EEG studies demonstrated generalized 4?6 Hz spike-wave or multiple spike-wave discharges. In all cases the MRI and neurological exams were normal. A dense-array, 256-channel scalp EEG recorded epileptiform discharges in each patient. Source analyses of discharges were performed in all subjects, using an equivalent dipole (BESA) and two linear inverse methods (LORETA and LAURA), with results co-registered to a standard MRI model. Results: The three methods of source analyses yielded generally convergent results. In all patients epileptiform discharges engaged orbital-frontal cortex and basal-mesial temporal regions, with the left side more often involved than the right. Activation of occipital cortex was also frequent, with occasional rapid spread to superior or mesial frontal, or parietal regions. Spike components preferentially activated orbital-frontal and temporal cortex, while slow wave elements had wider distributions over the same areas. Some variations were found in propagation patterns both within and between subjects. Conclusions: Epileptiform patterns in JME patients have both localized onsets and a restricted cortical network during propagation that consistently includes orbital-frontal and basal-mesial temporal areas, with less frequent activation of occipital cortex and other regions.
+ER  - 
+
+TY  - JOUR
+TI  - Oral Presentations
+JO  - Journal of Small Animal Practice
+JA  - J. Small Anim. Pract.
+VL  - 57
+IS  - S1
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/jsap.12472
+DO  - doi:10.1111/jsap.12472
+SP  - 5
+EP  - 59
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+AU  - Dennis, Christopher
+AU  - Sethu, Swaminathan
+AU  - Nayak, Sunita
+AU  - Mohan, Loganathan
+AU  - Morsi, Yosry (Yos)
+AU  - Manivasagam, Geetha
+TI  - Suture materials — Current and emerging trends
+JO  - Journal of Biomedical Materials Research Part A
+JA  - J. Biomed. Mater. Res.
+VL  - 104
+IS  - 6
+SN  - 1549-3296
+UR  - https://doi.org/10.1002/jbm.a.35683
+DO  - doi:10.1002/jbm.a.35683
+SP  - 1544
+EP  - 1559
+KW  - sutures
+KW  - antimicrobial sutures
+KW  - drug-eluting sutures
+KW  - barbed sutures
+KW  - smart sutures
+PY  - 2016
+AB  - Abstract Surgical sutures are used to facilitate closure and healing of surgical- or trauma-induced wounds by upholding tissues together to facilitate healing process. There is a wide range of suture materials for medical purpose and the main types include absorbable and nonabsorbable. Recently, there is a growth in the development of classes of suture materials based on their properties and capabilities to improve tissue approximation and wound closure. This review outlines and discusses the current and emerging trends in suture technology including knotless barbed sutures, antimicrobial sutures, bio-active sutures such as drug-eluting and stem cells seeded sutures, and smart sutures including elastic, and electronic sutures. These newer strategies expand the versatility of sutures from being used as just a physical entity approximating opposing tissues to a more biologically active component enabling delivery of drugs and cells to the desired site with immense application potential in both therapeutics and diagnostics. ? 2016 Wiley Periodicals, Inc. J Biomed Mater Res Part A: 104A: 1544?1559, 2016.
+ER  - 
+
+TY  - JOUR
+AU  - Dukes, Kimberly A.
+AU  - Burd, Larry
+AU  - Elliott, Amy J.
+AU  - Fifer, William P.
+AU  - Folkerth, Rebecca D.
+AU  - Hankins, Gary D.V.
+AU  - Hereld, Dale
+AU  - Hoffman, Howard J.
+AU  - Myers, Michael M.
+AU  - Odendaal, Hein J.
+AU  - Signore, Caroline
+AU  - Sullivan, Lisa M.
+AU  - Willinger, Marian
+AU  - Wright, Colleen
+AU  - Kinney, Hannah C.
+AU  - PASS Research Network
+TI  - The Safe Passage Study: Design, Methods, Recruitment, and Follow-Up Approach
+JO  - Paediatric and Perinatal Epidemiology
+JA  - Paediatr Perinat Epidemiol
+VL  - 28
+IS  - 5
+SN  - 0269-5022
+UR  - https://doi.org/10.1111/ppe.12136
+DO  - doi:10.1111/ppe.12136
+SP  - 455
+EP  - 465
+KW  - PASS
+KW  - Safe Passage Study
+KW  - fetal alcohol spectrum disorders
+KW  - prenatal alcohol exposure
+KW  - stillbirth
+KW  - sudden infant death syndrome
+KW  - study methodology
+PY  - 2014
+AB  - Abstract Background The Safe Passage Study is a large, prospective, multidisciplinary study designed to (1) investigate the association between prenatal alcohol exposure, sudden infant death syndrome (SIDS), and stillbirth, and (2) determine the biological basis of the spectrum of phenotypic outcomes from exposure, as modified by environmental and genetic factors that increase the risk of stillbirth, SIDS, and in surviving children, fetal alcohol spectrum disorders. Methods The results provided are based on an interim assessment of 6004 women enrolled, out of the 12?000 projected, from the Northern Plains, US, and Cape Town, South Africa, areas known to be of high risk for maternal drinking during pregnancy. Research objectives, study design, and descriptive statistics, including consent, recruitment, and retention information, are provided. Results Overall visit compliance is 87%, and includes prenatal, delivery/newborn, and postnatal contacts through 1 year post-delivery. Pregnancy outcome ascertainment is 98% prior to medical chart review; less than 2% of women withdraw. Consent for the use of DNA and placental tissue exceed 94%, and consent to participate in the autopsy portion of the study is 71%. Conclusions The Safe Passage Study is the first multi-site study of SIDS and stillbirth to integrate prospectively collected exposure information with multidisciplinary biological information in the same maternal and fetal/infant dyad using a common protocol. Essential components of the study design and its success are close ties to the community and rigorous systems and processes to ensure compliance with the study protocol and procedures.
+ER  - 
+
+TY  - JOUR
+AU  - SIHOE, Alan D.L.
+AU  - SHIRAISHI, Yuji
+AU  - YEW, Wing Wai
+TI  - The current role of thoracic surgery in tuberculosis management
+JO  - Respirology
+VL  - 14
+IS  - 7
+SN  - 1323-7799
+UR  - https://doi.org/10.1111/j.1440-1843.2009.01609.x
+DO  - doi:10.1111/j.1440-1843.2009.01609.x
+SP  - 954
+EP  - 968
+KW  - pleural
+KW  - pulmonary
+KW  - surgical procedure
+KW  - tuberculosis
+KW  - video-assisted thoracic surgery (VATS)
+PY  - 2009
+AB  - ABSTRACT Although tuberculosis is mainly managed medically today, thoracic surgery continues to play a key role in its diagnosis and treatment in selected subgroups of patients. In certain scenarios such as multi-drug-resistant tuberculosis, advanced tuberculous empyema and symptomatic bronchial stenosis, modern thoracic surgery may represent the only effective means of management in selected patients. Advances in thoracic surgery in recent years, in particular the use of Video-Assisted Thoracic Surgery, not only reduce postoperative morbidity for individual patients, but may potentially allow a wider range of tuberculosis patients to benefit from surgery. Respiratory physicians and thoracic surgeons should continue to work together to ensure that tuberculosis patients who may benefit from surgery are identified for prompt and effective intervention.
+ER  - 
+
+TY  - JOUR
+AU  - Edelstyn, N. M. J.
+AU  - Oyebode, F.
+TI  - A review of the phenomenology and cognitive neuropsychological origins of the Capgras syndrome
+JO  - International Journal of Geriatric Psychiatry
+JA  - Int. J. Geriat. Psychiatry
+VL  - 14
+IS  - 1
+SN  - 0885-6230
+UR  - https://doi.org/10.1002/(SICI)1099-1166(199901)14:1<48::AID-GPS891>3.0.CO;2-0
+DO  - doi:10.1002/(SICI)1099-1166(199901)14:1<48::AID-GPS891>3.0.CO;2-0
+SP  - 48
+EP  - 59
+KW  - Capgras syndrome
+KW  - phenomenology
+KW  - epidemiology
+KW  - aetiology
+KW  - psychodynamic
+KW  - cerebral dysfunction
+KW  - neuropsychology
+PY  - 1999
+AB  - Abstract In this article the epidemiology, aetiology, neuroanatomy and neuropsychology of the Capgras syndrome (CS) are reviewed in detail. CS is characterized by the delusional belief that one or a few highly familiar people have been replaced by impostors who are physically very similar to the original/s. The patient acknowledges that the double and known person look alike, but maintains the belief that the significant person, in psychological terms, is absent. CS is relatively rare, occurring predominantly in the context of schizophrenia, and was traditionally considered to have its origins in psychodynamic conflict. More recently, however, it has been estimated that between 25 and 40% of cases are associated with organic disorders, which include dementia, head trauma, epilepsy and cerebrovascular disease. Neuroimaging evidence suggests a link between CS and right hemisphere abnormalities, particularly in the frontal and temporal regions. Neuropsychological research has provided empirical support for these findings, by consistently reporting the presence of impairments in facial processing?an established right hemisphere function. It is likely that the study of this symptom will lead to a greater understanding of the neurological basis of psychotic experiences and may provide a paradigm for how the psychoses should be investigated. Copyright ? 1999 John Wiley & Sons, Ltd.
+ER  - 
+
+C7  - pp. 373-398
+TI  - Index
+SN  - 9780471492290
+UR  - https://doi.org/10.1002/9780470713846.index
+DO  - doi:10.1002/9780470713846.index
+SP  - 373-398
+PY  - 1999
+ER  - 
+
+TY  - JOUR
+AU  - Allweiler, Sandra
+AU  - Brodbelt, David C
+AU  - Borer, Kate
+AU  - Hammond, Richard A
+AU  - Alibhai, Hatim I K
+TI  - The isoflurane-sparing and clinical effects of a constant rate infusion of remifentanil in dogs
+JO  - Veterinary Anaesthesia and Analgesia
+VL  - 34
+IS  - 6
+SN  - 9780471492290
+UR  - https://doi.org/10.1111/j.1467-2995.2006.00308.x
+DO  - doi:10.1111/j.1467-2995.2006.00308.x
+SP  - 388
+EP  - 393
+KW  - analgesia
+KW  - dogs
+KW  - isoflurane
+KW  - remifentanil
+PY  - 2007
+AB  - Abstract Objective? To evaluate the isoflurane-sparing and clinical effects of two constant rate infusions of remifentanil in healthy dogs undergoing orthopaedic surgery. Study design? Prospective, randomized clinical study. Animals? Forty-one American Society of Anesthesiologists I-II client-owned dogs (age, 7 months?9?years; body mass 11?59?kg). Methods? Dogs were randomly assigned to one of three groups and received either: intramuscular (IM) meperidine 2?mg?kg?1 every 2?hours throughout surgery (control group (C); n?=?13); remifentanil infused intravenously (IV) at 0.1??g?kg?1?minute?1 (low remifentanil group (L); n?=?14) or remifentanil infused at 0.25??g?kg?1?minute?1 IV (high remifentanil group (H); n?=?14). Anaesthesia was induced with thiopental administered to effect and maintained using isoflurane in 100% oxygen. During controlled ventilation when the end-tidal CO2 was maintained between 4.65 and 5.98?kPa [35?45?mmHg], the end-tidal isoflurane concentration (e?iso%), mean arterial blood pressure (MAP) and heart rate (HR) were measured every 5?minutes. Bradycardia (HR?<?40?minute?1 lasting >5?minutes) was corrected with 0.01?mg?kg?1 IV glycopyrrolate. Data were analysed using the Kruskal-Wallis test with a post-hoc Mann?Whitney U-test and Bonferroni correction. Statistical significance was accepted at ≤?0.05. Data are expressed as mean?±?standard deviation. Results? The e?iso% was reduced in a dose-dependent manner by remifentanil. In C, e?iso% was 1.28?±0.13 and was significantly different from L (0.78?±?0.17, p?<?0.001) and H (0.65?±?0.16, p?<?0.001). HR was significantly different between groups (p?<?0.001). There were no significant differences in MAP between groups. Glycopyrrolate was required in two, three and six dogs in the C, L and H groups respectively. Conclusions? Remifentanil infusion reduced the isoflurane concentration required for surgical anaesthesia during orthopaedic surgery. Clinical relevance? Remifentanil infusions may be a useful additive to isoflurane anaesthesia in healthy dogs.
+ER  - 
+
+TY  - JOUR
+AU  - Kołodziejczak, M.
+AU  - Santoro, G. A.
+AU  - Obcowska, A.
+AU  - Lorenc, Z.
+AU  - Mańczak, M.
+AU  - Sudoł-Szopińska, I.
+TI  - Three-dimensional endoanal ultrasound is accurate and reproducible in determining type and height of anal fistulas
+JO  - Colorectal Disease
+JA  - Colorectal Dis
+VL  - 19
+IS  - 4
+SN  - 9780471492290
+UR  - https://doi.org/10.1111/codi.13580
+DO  - doi:10.1111/codi.13580
+SP  - 378
+EP  - 384
+KW  - Anal fistula
+KW  - endoanal ultrasound
+KW  - three-dimensional ultrasound
+PY  - 2017
+AB  - Abstract Aim Surgical treatment of high anal fistulas is associated with the potential risk of faecal incontinence and recurrence. The primary aim of this study was to determine the accuracy of three-dimensional endoanal ultrasound (3D-EAUS) in the assessment of height and type of anal fistulas, compared to the intra-operative findings (gold standard). The secondary aim was to evaluate the inter-observer reproducibility of 3D-EAUS. Method The study design was a prospective analysis of retrospective data. 299 patients (202 men), mean age 45.3 years, who underwent surgery for anal fistulas, were included. All patients were preoperatively assessed by 3D-EAUS. Two readers independently reviewed the volumes to determine the type and height of fistulas. Sensitivity, specificity, positive and negative predictive values, proportion of agreements and Cohen's kappa coefficient (?) were calculated for both examiners. Ultrasound findings were compared with intra-operative data (reference standard), evaluated blindly by the surgeons. Results At surgery, 201 (67%) were transsphincteric, 49 (16%) suprasphincteric, 47 (16%) intersphincteric and two (1%) extrasphincteric fistulas. Intra-operatively, 177 (59%) were low and 122 (41%) high fistulas. The overall accuracy of 3D-EAUS was 91% for fistula type (271/299 fistulas: 97% transsphincteric, 100% intersphincteric, 57% suprasphincteric, 0% extrasphincteric) and 92% for fistula height (275/299 fistulas: 80% high and 100% low). Both readers reported very good agreement with surgery in the assessment of fistula type (proportion of agreement 0.88, ? = 0.89) and height (proportion of agreement 0.90, ? = 0.91). Conclusions 3D-EAUS is an accurate and reproducible modality for the assessment of type and height of anal fistulas.
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Presentation Abstracts: 2017 ACVS Surgery Summit October 12-14, Indianapolis, Indiana
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 46
+IS  - 7
+SN  - 9780471492290
+UR  - https://doi.org/10.1111/vsu.12710
+DO  - doi:10.1111/vsu.12710
+SP  - E1
+EP  - E75
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+TI  - 2008 SAEM Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+VL  - 15
+IS  - s1
+SN  - 9780471492290
+UR  - https://doi.org/10.1111/j.1553-2712.2008.00125.x
+DO  - doi:10.1111/j.1553-2712.2008.00125.x
+SP  - S122
+EP  - S140
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+AU  - CHEETHAM, J.
+AU  - RADCLIFFE, C. R.
+AU  - DUCHARME, N. G.
+AU  - SANDERS, I.
+AU  - MU, L.
+AU  - HERMANSON, J. W.
+TI  - Neuroanatomy of the equine dorsal cricoarytenoid muscle: Surgical implications
+JO  - Equine Veterinary Journal
+VL  - 40
+IS  - 1
+SN  - 9780471492290
+UR  - https://doi.org/10.2746/042516407X240465
+DO  - doi:10.2746/042516407X240465
+SP  - 70
+EP  - 75
+KW  - horse
+KW  - larynx
+KW  - anatomy
+KW  - muscle
+KW  - cricoarytenoid
+PY  - 2008
+AB  - Summary Reason for performing study: Studies are required to define more accurately and completely the neuroanatomy of the equine dorsal cricoarytenoid muscle as a prerequisite for developing a neuroprosthesis for recurrent laryngeal neuropathy. Objective: To describe the anatomy, innervation, fibre types and function of the equine dorsal cricoarytenoid muscle. Methods: Thirty-one larynges were collected at necropsy from horses with no history of upper airway disease and 25 subjected to gross dissection. Thereafter, the following preparations were made on a subset of larynges: histochemical staining (n = 5), Sihler's and acetylcholinesterase staining for motor endplates (n = 2). An additional 6 larynges were collected and used for a muscle stimulation study. Results: Two neuromuscular compartments (NMC), each innervated by a primary nerve branch of the recurrent laryngeal nerve, were identified in all larynges. Stimulation of the lateral NMC produced more lateral displacement of the arytenoid cartilage than the medial NMC (P<0.05). The medial NMC tended to rotate the arytenoid cartilage dorsally. Motor endplates were identified at the junction of the middle and caudal thirds of each NMC. If fibre type grouping was present it was always present in both NMCs. Conclusions: The equine dorsal cricoarytenoid muscle has 2 distinct muscle NMCs with discrete innervation and lines of action. The lateral NMC appears to have a larger role in increasing cross-sectional area of the rima glottidis. Potential relevance: This information should assist in planning surgical reinnervation procedures and development of a neuroprosthesis for recurrent laryngeal neuropathy.
+ER  - 
+
+TY  - JOUR
+AU  - Fontana, Andréia C. K.
+TI  - Current approaches to enhance glutamate transporter function and expression
+JO  - Journal of Neurochemistry
+JA  - J. Neurochem.
+VL  - 134
+IS  - 6
+SN  - 9780471492290
+UR  - https://doi.org/10.1111/jnc.13200
+DO  - doi:10.1111/jnc.13200
+SP  - 982
+EP  - 1007
+KW  - allosteric modulation
+KW  - ceftriaxone
+KW  - EAAT2 activator
+KW  - excitotoxicity
+KW  - glutamate transporter
+KW  - Parawixin1
+PY  - 2015
+AB  - Abstract l-glutamate is the predominant excitatory neurotransmitter in the CNS and has a central role in a variety of brain functions. The termination of glutamate neurotransmission by excitatory amino acid transporters (EAATs) is essential to maintain glutamate concentration low in extracellular space and avoid excitotoxicity. EAAT2/GLT-1, being the most abundant subtype of glutamate transporter in the CNS, plays a key role in regulation of glutamate transmission. Dysfunction of EAAT2 has been correlated with various pathologies such as traumatic brain injury, stroke, amyotrophic lateral sclerosis, Alzheimer's disease, among others. Therefore, activators of the function or enhancers of the expression of EAAT2/GLT-1 could serve as a potential therapy for these conditions. Translational activators of EAAT2/GLT-1, such as ceftriaxone and LDN/OSU-0212320, have been described to have significant protective effects in animal models of amyotrophic lateral sclerosis and epilepsy. In addition, pharmacological activators of the activity of EAAT2/GLT-1 have been explored for decades and are currently emerging as promising tools for neuroprotection, having potential advantages over expression activators. This review describes the current status of the search for EAAT2/GLT-1 activators and addresses challenges and limitations that this approach might encounter. Termination of glutamate neurotransmission by glutamate transporter EAAT2 is essential to maintain homeostasis in the brain and to avoid excitotoxicity. Dysfunction of EAAT2 has been correlated with various neurological pathologies. Therefore, activators of the function or enhancers of the expression of EAAT2 (green arrows) could serve as a potential therapy for these conditions. This review describes the current status of the search for EAAT2 activators and addresses challenges and limitations of this approach.
+ER  - 
+
+TY  - JOUR
+AU  - Franco-Antonio, Cristina
+AU  - Calderón-García, Julián F.
+AU  - Santano-Mogena, Esperanza
+AU  - Rico-Martín, Sergio
+AU  - Cordovilla-Guardia, Sergio
+TI  - Effectiveness of a brief motivational intervention to increase the breastfeeding duration in the first 6 months postpartum: Randomized controlled trial
+JO  - Journal of Advanced Nursing
+JA  - J Adv Nurs
+VL  - 76
+IS  - 3
+SN  - 9780471492290
+UR  - https://doi.org/10.1111/jan.14274
+DO  - doi:10.1111/jan.14274
+SP  - 888
+EP  - 902
+KW  - breastfeeding
+KW  - breastfeeding self-efficacy
+KW  - brief motivational intervention
+KW  - midwives
+KW  - motivational interviewing
+KW  - nursing
+PY  - 2020
+AB  - Abstract Aims To evaluate the effectiveness of a brief motivational intervention to increase the breastfeeding duration in the first 6 months postpartum in mothers who began breastfeeding in the first hour after birth and to explore the role of general and breastfeeding self-efficacy in this relationship. Design A multi-centre randomized controlled clinical trial. Methods Data were collected from February 2018 - March 2019. Women were randomly assigned to an intervention group that received a brief motivational intervention (N = 44) or a control group that was offered standard education on breastfeeding (N = 44). Survival analysis techniques were carried out with a follow-up of 6 months. In addition, the roles of breastfeeding and general self-efficacy in the association between BMI and breastfeeding duration were explored through mediation/moderation analysis. Results Among 88 randomized patients (mean age, 32.82 years), 81 (92.04%) completed the trial. The survival analyses of exclusive breastfeeding and breastfeeding (exclusive and non-exclusive) showed reductions in the risk of abandonment in the intervention group of 63% (aHR: 0.37 [0.22?0.60] p < .001) and 61% (aHR: 0.39 [0.20?0.78] p = .008), respectively. We found that self-efficacy acted as a moderator of the effect of brief motivational intervention on breastfeeding self-efficacy. A discrete indirect effect of brief motivational intervention through increased breastfeeding self-efficacy was found on breastfeeding duration, with an index of moderated mediation of 0.08 (95% CI: 0.02?0.19). Greater positive variations in the breastfeeding self-efficacy scores during follow-up predicted exclusive and non-exclusive breastfeeding duration. Conclusion A brief motivational intervention conducted in the immediate postpartum period increases breastfeeding and exclusive breastfeeding duration in the first 6 months. Although breastfeeding self-efficacy seems to moderate the effect of brief motivational intervention on the increase in breastfeeding duration, other factors may influence its effectiveness. Further studies could focus on exploring how brief motivational intervention works and whether it also works for pregnant mothers who have not yet decided whether to breastfeed. Impact Brief motivational intervention could be introduced as part of routine care of women who begin breastfeeding to improve the low rates of exclusive breastfeeding at 6 months postpartum. Trial registration Unique Protocol ID: Moti003; https://ClinicalTrials.gov ID: NCT03357549.
+ER  - 
+
+TY  - JOUR
+AU  - Caarls, Kim
+AU  - Fransen, Sonja
+AU  - Ruben, Ruerd
+TI  - Can Migratory Contacts and Remittances Contribute to Reconciliation and Reconstruction in Rwanda?
+JO  - International Migration
+VL  - 51
+IS  - s1
+SN  - 9780471492290
+UR  - https://doi.org/10.1111/j.1468-2435.2012.00747.x
+DO  - doi:10.1111/j.1468-2435.2012.00747.x
+SP  - e98
+EP  - e117
+PY  - 2013
+AB  - Abstract Migratory contacts may have a positive or a negative influence on local processes of reconciliation and reconstruction. However, their impact on individual attitudinal and behavioural attributes remains a largely underexposed topic. Migrants from post-conflict Rwanda maintain substantive contacts with their relatives through social networks and the resources that they send. Reconstruction and reconciliation programmes in post-conflict Rwanda heavily rely on these migratory contacts. We explore the relationship between migration, reconstruction and reconciliation processes in post-conflict Rwanda. We analyse the importance of migratory contacts as a major constituent of social capital, and discuss whether and how remittances can be used for mobilizing this social capital. Adopting a micro-level perspective, we examine the effects of migratory contacts and remittances on cooperative behaviour and willingness for reconciliation amongst 558 households in Huye District, southern Rwanda. We find that migratory contacts enhance reconstructive behaviour and reconciliatory attitudes, whereas financial remittances result in reduced participation in these processes, indicating that there is a crowding-out effect due to remittance-dependency. Furthermore, we scrutinize the relationship between reconciliation and reconstruction, showing that inter-group contact is a key mediating variable.
+ER  - 

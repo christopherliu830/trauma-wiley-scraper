@@ -1,0 +1,338 @@
+
+TY  - JOUR
+AU  - Braune, Steffen
+AU  - Latour, Robert A.
+AU  - Reinthaler, Markus
+AU  - Landmesser, Ulf
+AU  - Lendlein, Andreas
+AU  - Jung, Friedrich
+C7  - 1900527
+TI  - In Vitro Thrombogenicity Testing of Biomaterials
+JO  - Advanced Healthcare Materials
+JA  - Adv. Healthcare Mater.
+VL  - 8
+IS  - 21
+SN  - 2192-2640
+UR  - https://doi.org/10.1002/adhm.201900527
+DO  - doi:10.1002/adhm.201900527
+SP  - 1900527
+KW  - biomaterials
+KW  - blood tests
+KW  - implants
+KW  - in vitro
+KW  - thrombogenicity
+PY  - 2019
+AB  - Abstract The short- and long-term thrombogenicity of implant materials is still unpredictable, which is a significant challenge for the treatment of cardiovascular diseases. A knowledge-based approach for implementing biofunctions in materials requires a detailed understanding of the medical device in the biological system. In particular, the interplay between material and blood components/cells as well as standardized and commonly acknowledged in vitro test methods allowing a reproducible categorization of the material thrombogenicity requires further attention. Here, the status of in vitro thrombogenicity testing methods for biomaterials is reviewed, particularly taking in view the preparation of test materials and references, the selection and characterization of donors and blood samples, the prerequisites for reproducible approaches and applied test systems. Recent joint approaches in finding common standards for a reproducible testing are summarized and perspectives for a more disease oriented in vitro thrombogenicity testing are discussed.
+ER  - 
+
+TY  - JOUR
+TI  - Labour and Delivery
+JO  - BJOG: An International Journal of Obstetrics & Gynaecology
+JA  - BJOG: Int J Obstet Gy
+VL  - 125
+IS  - S2
+SN  - 1470-0328
+UR  - https://doi.org/10.1111/1471-0528.15190
+DO  - doi:10.1111/1471-0528.15190
+SP  - 30
+EP  - 56
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - He, Tianlin
+C7  - 1800198
+TI  - Implementation of Proteomics in Clinical Trials
+JO  - PROTEOMICS – Clinical Applications
+JA  - Prot. Clin. Appl.
+VL  - 13
+IS  - 2
+SN  - 1862-8346
+UR  - https://doi.org/10.1002/prca.201800198
+DO  - doi:10.1002/prca.201800198
+SP  - 1800198
+KW  - clinical trials
+KW  - diagnosis
+KW  - prognosis
+KW  - proteomic/protein assays
+KW  - stratification
+PY  - 2019
+AB  - Abstract The application of protein (or peptide) biomarkers in clinical studies is a dynamic, ever-growing field. The introduction of clinical proteomics/peptidomics, such as mass spectrometry?based assays and multiplexed antibody?based protein arrays, has reshaped the landscape of biomarker identification and validation, allowing the discovery of novel biomarkers at an unprecedented rate and reliability. To reflect the current status with respect to implementation of protein/peptide biomarkers, an investigation of the most recent (last 6 years) clinical studies from clinicaltrials.gov is presented. Forty-two clinical trials involving the direct use of protein or peptide biomarkers in patient stratification and/or disease diagnosis and prognosis are highlighted. Most of the clinical trials that include proteomics/protein assays are aiming toward implementation of non-invasive diagnostic tools for early detection, while many of the clinical trials are targeting to correlate the protein abundance with the risk of a disease event. Less in number are the studies in which the protein biomarkers are applied to stratify the patients for intervention. All the above areas of application are considered of great importance for improving disease management, in an era where implementation toward precision medicine is the desired outcome of proteomics biomarker research.
+ER  - 
+
+TY  - JOUR
+AU  - Midha, Swati
+AU  - Dalela, Manu
+AU  - Sybil, Deborah
+AU  - Patra, Prabir
+AU  - Mohanty, Sujata
+C8  - TERM-18-0337.R1
+TI  - Advances in three-dimensional bioprinting of bone: Progress and challenges
+JO  - Journal of Tissue Engineering and Regenerative Medicine
+JA  - J Tissue Eng Regen Med
+VL  - 13
+IS  - 6
+SN  - 1932-6254
+UR  - https://doi.org/10.1002/term.2847
+DO  - doi:10.1002/term.2847
+SP  - 925
+EP  - 945
+KW  - 3D printing
+KW  - bioink
+KW  - bioprinting
+KW  - bone
+KW  - bone marrow
+PY  - 2019
+AB  - Abstract Several attempts have been made to engineer a viable three-dimensional (3D) bone tissue equivalent using conventional tissue engineering strategies, but with limited clinical success. Using 3D bioprinting technology, scientists have developed functional prototypes of clinically relevant and mechanically robust bone with a functional bone marrow. Although the field is in its infancy, it has shown immense potential in the field of bone tissue engineering by re-establishing the 3D dynamic micro-environment of the native bone. Inspite of their in vitro success, maintaining the viability and differentiation potential of such cell-laden constructs overtime, and their subsequent preclinical testing in terms of stability, mechanical loading, immune responses, and osseointegrative potential still needs to be explored. Progress is slow due to several challenges such as but not limited to the choice of ink used for cell encapsulation, optimal cell source, bioprinting method suitable for replicating the heterogeneous tissues and organs, and so on. Here, we summarize the recent advancements in bioprinting of bone, their limitations, challenges, and strategies for future improvisations. The generated knowledge will provide deep insights on our current understanding of the cellular interactions with the hydrogel matrices and help to unravel new methodologies for facilitating precisely regulated stem cell behaviour.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts
+JO  - Vox Sanguinis
+JA  - Vox Sang
+VL  - 105
+IS  - s1
+SN  - 0042-9007
+UR  - https://doi.org/10.1111/vox.12048
+DO  - doi:10.1111/vox.12048
+SP  - 65
+EP  - 299
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+AU  - Makris, Mike
+AU  - Van Veen, Joost J.
+AU  - Tait, Campbell R.
+AU  - Mumford, Andrew D.
+AU  - Laffan, Mike
+TI  - Guideline on the management of bleeding in patients on antithrombotic agents
+JO  - British Journal of Haematology
+JA  - Br J Haematol
+VL  - 160
+IS  - 1
+SN  - 0007-1048
+UR  - https://doi.org/10.1111/bjh.12107
+DO  - doi:10.1111/bjh.12107
+SP  - 35
+EP  - 46
+KW  - anticoagulant
+KW  - antithrombotic
+KW  - antiplatelet
+KW  - reversal
+KW  - bleeding
+PY  - 2013
+ER  - 
+
+AU  - Nguyen, Thach N.
+AU  - Gibson, C. Michael
+AU  - Petrovski, Borce
+AU  - Makam, Prakash
+AU  - Cong, Nguyen Duc
+AU  - Khai, Pham Gia
+C7  - pp. 19-49
+TI  - ST-Elevation Acute Myocardial Infarction
+SN  - 9781405140317
+UR  - https://doi.org/10.1002/9780470750858.ch2
+DO  - doi:10.1002/9780470750858.ch2
+SP  - 19-49
+KW  - thrombolytic therapy
+KW  - comprehensive management
+KW  - coronary intervention
+KW  - acetylsalicyic acid
+KW  - thienopyridine
+PY  - 2013
+AB  - Summary This chapter contains sections titled: Introduction Thrombolytic Therapy Primary Coronary Intervention Acetylsalicyic Acid Thienopyridine Glycoprotein 2B3A Inhibitors Unfractionated Heparin Low Molecular Weight Heparin Direct Thrombin Inhibitor Factor X Inhibitor ?-Blockers Angiotensin Converting Enzyme Inhibitors Angiotensin II Receptor Blockers Lipid Lowering Drugs Comprehensive Management Difficult Situations and Suggested Solutions
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentation
+JO  - Haemophilia
+JA  - Haemophilia
+VL  - 19
+IS  - s2
+SN  - 9781405140317
+UR  - https://doi.org/10.1111/hae.12083
+DO  - doi:10.1111/hae.12083
+SP  - 10
+EP  - 82
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - Abstract Presentations from the AABB Annual Meeting Philadelphia, PA, October 25-28, 2014
+JO  - Transfusion
+JA  - Transfusion
+VL  - 54
+IS  - S2
+SN  - 9781405140317
+UR  - https://doi.org/10.1111/trf.12845
+DO  - doi:10.1111/trf.12845
+SP  - 15A
+EP  - 268A
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Section
+JO  - Transfusion
+VL  - 50
+IS  - s2
+SN  - 9781405140317
+UR  - https://doi.org/10.1111/j.1537-2995.2010.02833_1.x
+DO  - doi:10.1111/j.1537-2995.2010.02833_1.x
+SP  - 1A
+EP  - 231A
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Neurotrauma and Injury, Pain, Regeneration and Repair
+JO  - Journal of Neurochemistry
+VL  - 87
+IS  - s1
+SN  - 9781405140317
+UR  - https://doi.org/10.1046/j.1474-1644.2003.2175_14.x
+DO  - doi:10.1046/j.1474-1644.2003.2175_14.x
+SP  - 144
+EP  - 151
+PY  - 2003
+ER  - 
+
+TY  - JOUR
+AU  - DESPOTIS, G.
+AU  - AVIDAN, M.
+AU  - EBY, C.
+TI  - Prediction and management of bleeding in cardiac surgery
+JO  - Journal of Thrombosis and Haemostasis
+VL  - 7
+IS  - s1
+SN  - 9781405140317
+UR  - https://doi.org/10.1111/j.1538-7836.2009.03412.x
+DO  - doi:10.1111/j.1538-7836.2009.03412.x
+SP  - 111
+EP  - 117
+KW  - bleeding
+KW  - cardiac surgery
+KW  - factor concentrates
+KW  - point-of-care testing
+KW  - transfusion
+PY  - 2009
+AB  - Summary.? Excessive bleeding after cardiac surgery can result in increased morbidity and mortality related to transfusion- and hypoperfusion-related injuries to critical organ systems. Our objective was to review mechanisms that result in bleeding after cardiac surgery as well as current and emerging interventions to reduce bleeding and transfusion. We discovered that of point-of-care (POC) tests of hemostatic function can facilitate the optimal management of excessive bleeding and reduce transfusion by facilitating administration of specific pharmacologic or transfusion-based therapy and by allowing physicians to better differentiate between microvascular bleeding and surgical bleeding. Emerging interventions like recombinant FVIIa have the potential to reduce bleeding and transfusion-related sequelae and may be life-saving; however, randomized, controlled trials are needed to confirm safety before they can be used as either first-line therapies for bleeding or bleeding prophylaxis. In conclusion, careful investigation of the role of new interventions is essential as the ability to reduce use of blood products, to decrease operative time and/or re-exploration rates has important implications for overall patient safety and health care costs.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts
+JO  - Transfusion Medicine
+JA  - Transfusion Med
+VL  - 26
+IS  - S1
+SN  - 9781405140317
+UR  - https://doi.org/10.1111/tme.12289
+DO  - doi:10.1111/tme.12289
+SP  - 28
+EP  - 64
+PY  - 2016
+ER  - 
+
+C7  - pp. 611-665
+TI  - The Transfusion of Platelets, Leucocytes, Haematopoietic Cells and Plasma Components
+SN  - 9780632064540
+UR  - https://doi.org/10.1002/9780470986868.ch14
+DO  - doi:10.1002/9780470986868.ch14
+SP  - 611-665
+KW  - platelet transfusions
+KW  - biotin
+KW  - bleeding time
+KW  - platelet metabolism
+KW  - thrombocytopenia
+PY  - 2016
+AB  - Summary This chapter contains sections titled: Transfusion of platelets The transfusion of leucocytes Transfusion of haematopoietic cells The transfusion of plasma components
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Haemophilia
+JA  - Haemophilia
+VL  - 24
+IS  - S5
+SN  - 9780632064540
+UR  - https://doi.org/10.1111/hae.13478
+DO  - doi:10.1111/hae.13478
+SP  - 3
+EP  - 196
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - Abstract Presentations from the AABB Annual Meeting and CTTXPO, Denver, CO, October 12-15, 2013
+JO  - Transfusion
+JA  - Transfusion
+VL  - 53
+IS  - S2
+SN  - 9780632064540
+UR  - https://doi.org/10.1111/trf.12401
+DO  - doi:10.1111/trf.12401
+SP  - 11A
+EP  - 218A
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts for the 2008/2009 Annual Scientific Symposium of the Hemophilia & Thrombosis Research Society, Inc.
+JO  - Haemophilia
+VL  - 15
+IS  - 2
+SN  - 9780632064540
+UR  - https://doi.org/10.1111/j.1365-2516.2009.02013.x
+DO  - doi:10.1111/j.1365-2516.2009.02013.x
+SP  - 626
+EP  - 633
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+AU  - Hurtado-García, Roberto
+AU  - Guilabert, Antonio
+AU  - Devesa, Pedro
+AU  - Matarredona, Jaime
+AU  - Pascual, Jose Carlos
+AU  - Mora, Antonia
+TI  - A case of an acute purpuric eruption
+JO  - International Journal of Dermatology
+VL  - 51
+IS  - 7
+SN  - 9780632064540
+UR  - https://doi.org/10.1111/j.1365-4632.2010.04645.x
+DO  - doi:10.1111/j.1365-4632.2010.04645.x
+SP  - 870
+EP  - 871
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Vox Sanguinis
+JA  - Vox Sang
+VL  - 109
+IS  - S1
+SN  - 9780632064540
+UR  - https://doi.org/10.1111/vox.12304
+DO  - doi:10.1111/vox.12304
+SP  - 1
+EP  - 379
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - ISLH Poster Abstracts
+JO  - International Journal of Laboratory Hematology
+VL  - 30
+IS  - s1
+SN  - 9780632064540
+UR  - https://doi.org/10.1111/j.1751-553X.2008.01062.x
+DO  - doi:10.1111/j.1751-553X.2008.01062.x
+SP  - 58
+EP  - 147
+PY  - 2008
+ER  - 

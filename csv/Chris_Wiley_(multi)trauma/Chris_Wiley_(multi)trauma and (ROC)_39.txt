@@ -1,0 +1,304 @@
+
+TY  - JOUR
+AU  - Shaw, G. M.
+TI  - CT25 CPAP: AN OVERVIEW AND CURRENT APPLICATIONS
+JO  - ANZ Journal of Surgery
+VL  - 77
+IS  - s1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/j.1445-2197.2007.04115_23.x
+DO  - doi:10.1111/j.1445-2197.2007.04115_23.x
+SP  - A13
+EP  - A13
+PY  - 2007
+AB  - CPAP was first used for over 70 years ago and confers benefit to patients through a number of different mechanisms: ?? Reduction in left ventricular afterload ?? Reduction in work of breathing ?? Improved work sharing of fatiguing muscle groups ?? Maintenance of lung volumes with improved ventilation perfusion matching and improvement in oxygen ?? Prevention of upper airway obstruction ?? Reduced stress and ?biological? injury In a study of prophylactic CPAP following major abdominal surgery, those randomised to CPAP had a lower intubation rate (1% vs 10%, Relative risk [RR], 0.099, 95% CI, 0.01?0.76, p?=?0.005) and had a lower occurrence rate of pneumonia (2% vs 10%, RR, 0.19; 95% CI, 0.04?0.88, p?=?0.02), infection (3% vs 10%, RR, 0.27; 95% CI, 0.07?0.94, p?=?0.03), and sepsis (2% vs 9%, RR, 0.22, 95% CI, 0.04?0.99, p?=?0.03) than did patients treated with oxygen alone1. The benefit of CPAP, largely through a reduction in the need for intubation and ventilation, are now clearly established in acute cardiogenic pulmonary oedema. A recent meta-analysis showed CPAP reduces mortality (RR, 0.59, 95% CI 0.38?0.90, p?=?0.15) and the need for mechanical ventilation (RR, 0.44, CI, 0.29?0.66, p?=?0.0003)2. Summary?? The perioperative cardiac surgical patient will frequently have impaired left ventricular function, pulmonary oedema, or atelectasis, all of which may be improved with the application of CPAP. Hence CPAP is likely to confer significant benefits through reduction in intubation, ventilation associated pneumonia, and mortality in the immediate post operative period.
+ER  - 
+
+TY  - JOUR
+AU  - Sibal, A. K.
+AU  - Prasad, S.
+AU  - Milsom, P. F.
+AU  - Raudkivi, P. J.
+AU  - Alison, P. M.
+AU  - Haydock, D. A.
+TI  - CT09 ACUTE ISCHAEMIC VENTRICULAR SEPTAL RUPTURE – A FORMIDABLE SURGICAL CHALLENGE
+JO  - ANZ Journal of Surgery
+VL  - 77
+IS  - s1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/j.1445-2197.2007.04115_9.x
+DO  - doi:10.1111/j.1445-2197.2007.04115_9.x
+SP  - A9
+EP  - A9
+PY  - 2007
+AB  - Purpose? To evaluate our surgical results for ischaemic Ventricular Septal Rupture and suggest practice guidelines. Methodology? A retrospective review of data from patient records from 1992 to 2006 for presentation, surgical approaches, recurrence and mortality and analyzed for future management guidelines. Results? We had 36 patients with a mean age of 70.44(+/? 6.34). 14 patients (38.9%) had an inferior/ posterior defect, 28 were in shock (22 on IABP). Severe LV and RV dysfunction were present in 18 and 20 patients respectively. Repair involved patches after infarctectomy (17) or infarct exclusion (18), using either continuous or interrupted suture. Concomitant CABG was performed in 15. 11 patients had residual shunts, 2 requiring device closure and one surgery. Prolonged ICU and hospital stay was the norm. Early mortality was 52.78% (inferior defects ? 85.71%, anterior defects ? 31.82%). On Univariate analysis Inferior VSD (OR 7.7; 95% CI 1.7, 33.3), Moderate to severe RV impairment (OR 5.0; 95% CI 0.92, 33.3), Pre op shock (OR 6.7; 95% CI 1.6, 33.3), Early presentation post MI and infarctectomy during repair (3.8; 95% CI 0.9, 15.4), predicted mortality. For subgroup of anterior VSD, only pre-op shock (OR11.1; 95% CI 1.0, 100) predicted a poor outcome. On multivariate analysis, Inferior defects and shock at presentation were the dominant predictors for early death. Repair without cardioplegia (OR5.2; 95% CI 0.48, 56.09) was the only risk factor for recurrence. Conclusions? Acute ischaemic VSD is a grim surgical disease with high mortality. Inferior defects should be offered surgery only in exceptional circumstances due to uniformly poor outcome.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Session 1, Sunday 9 September
+JO  - European Journal of Neurology
+VL  - 19
+IS  - s1
+SN  - 1351-5101
+UR  - https://doi.org/10.1111/j.1468-1331.2012.03888.x
+DO  - doi:10.1111/j.1468-1331.2012.03888.x
+SP  - 90
+EP  - 457
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+TI  - ASBMR 23nd annual meeting
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 16
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr200116s1s1
+DO  - doi:10.1002/jbmr200116s1s1
+SP  - S1
+EP  - S390
+PY  - 2001
+ER  - 
+
+C7  - pp. 235-281
+TI  - Enzyme Logic Digital Biosensors for Biomedical, Forensic, and Security Applications
+SN  - 9783527345700
+UR  - https://doi.org/10.1002/9783527819997.ch11
+DO  - doi:10.1002/9783527819997.ch11
+SP  - 235-281
+KW  - biochemical input signals
+KW  - biomedical applications
+KW  - biomolecular information processing
+KW  - digital biosensors
+KW  - enzyme logic gates
+KW  - forensic applications
+KW  - security applications
+PY  - 2001
+AB  - Summary This chapter overviews the advances in digital biosensors operating in the binary (YES/NO) mode, mostly emphasizing biomedical applications of enzyme-based logic systems, particularly for the analysis of pathophysiological conditions associated with various injuries. The attractive performance of the new enzyme logic biosensors holds considerable promise for diverse practical and important future applications, including novel forensic and security applications. The chapter describes how the biomedical analysis can benefit from the use of biomolecular information processing (biocomputing) systems. Forensic analysis of biofluids can benefit from novel bioanalytical/biosensing methods, including those based on the biocomputing approach. The chapter also overviews the application of binary biosensing methods based on the enzyme logic gates to various types of injury biomarkers, particularly concentrating on battlefield injuries. It shows that the simplest logic processing based mostly on logic AND/OR gates, applied to biochemical input signals.
+ER  - 
+
+TY  - JOUR
+AU  - Cloonan, Madeline R.
+AU  - Fortina, Chaeli A.
+AU  - Mercer, David F.
+AU  - Vargas, Luciano M.
+AU  - Grant, Wendy J.
+AU  - Langnas, Alan N.
+AU  - Merani, Shaheed
+C7  - e13713
+TI  - Failure of abdominal wall closure after intestinal transplantation: Identifying high-risk recipients
+JO  - Clinical Transplantation
+JA  - Clin Transplant
+VL  - 33
+IS  - 11
+SN  - 9783527345700
+UR  - https://doi.org/10.1111/ctr.13713
+DO  - doi:10.1111/ctr.13713
+SP  - e13713
+KW  - clinical decision-making
+KW  - complication: surgical/technical
+KW  - intestinal transplantation
+KW  - patient characteristics
+KW  - recipient selection
+KW  - surgical technique
+PY  - 2019
+AB  - Abstract Open abdomen and fascial dehiscence after intestinal transplantation increase morbidity. This study aims to identify recipient and donor factors associated with failure to achieve sustained primary closure (failed-SPC) of the abdomen after intestinal transplant. We conducted a single-center retrospective study of 96 intestinal transplants between 2013 and 2018. Thirty-eight (40%) were adult patients, and 58 were pediatric patients. Median age at transplantation was 36.0 and 5.8 years, respectively. Failed-SPC occurred in 31 (32%) patients. Identified risk factors of failed-SPC included preexisting enterocutaneous fistula (OR: 6.8, CI: 2.4-19.6, P = .0003), isolated intestinal graft (OR: 3.4, CI: 1.24-9.47, P = .02), male sex in adults (OR: 3.93, CI: 1.43-10.8, P = .009), and age over four years (OR: 6.22, CI: 1.7-22.7, P = .004). There was no association with primary diagnosis and prior transplant with failed-SPC. Donor-to-recipient size ratios did not predict failed-SPC. There was an association between failed-SPC and extended median hospital stay (100 vs 57 days, P = .007) and increased time to enteral autonomy in pediatric patients. There is a relationship between failed-SPC and a higher rate of laparotomy (OR: 21.4, CI: 2.78-178.2, P = .0003) and fistula formation posttransplant (OR: 11.4, CI: 2.83-45.84, P = .0005) in pediatric patients. Given inferior outcomes with failed-SPC, high-risk recipients require careful evaluation.
+ER  - 
+
+TY  - JOUR
+TI  - Abstract Presentations from the AABB Annual Meeting and CTTXPO, Denver, CO, October 12-15, 2013
+JO  - Transfusion
+JA  - Transfusion
+VL  - 53
+IS  - S2
+SN  - 9783527345700
+UR  - https://doi.org/10.1111/trf.12401
+DO  - doi:10.1111/trf.12401
+SP  - 11A
+EP  - 218A
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts
+JO  - Colorectal Disease
+JA  - Colorectal Dis
+VL  - 18
+IS  - S1
+SN  - 9783527345700
+UR  - https://doi.org/10.1111/codi.13445
+DO  - doi:10.1111/codi.13445
+SP  - 44
+EP  - 125
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - Free Papers
+JO  - Clinical & Experimental Ophthalmology
+VL  - 36
+IS  - s1
+SN  - 9783527345700
+UR  - https://doi.org/10.1111/j.1442-9071.2008.01745.x
+DO  - doi:10.1111/j.1442-9071.2008.01745.x
+SP  - A1
+EP  - A61
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+TI  - 38th Annual Meeting of the International Continence Society, Cairo, Egypt, 20th–24th October, 2008
+JO  - Neurourology and Urodynamics
+JA  - Neurourol. Urodyn.
+VL  - 27
+IS  - 7
+SN  - 9783527345700
+UR  - https://doi.org/10.1002/nau.20655
+DO  - doi:10.1002/nau.20655
+SP  - 563
+EP  - 735
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+TI  - General Electrophysiology
+JO  - Journal of Arrhythmia
+JA  - J Arrhythmia
+VL  - 35
+IS  - S1
+SN  - 9783527345700
+UR  - https://doi.org/10.1002/joa3.12266
+DO  - doi:10.1002/joa3.12266
+SP  - 4
+EP  - 75
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Hepatology
+JA  - Hepatology
+VL  - 54
+IS  - S1
+SN  - 9783527345700
+UR  - https://doi.org/10.1002/hep.24666
+DO  - doi:10.1002/hep.24666
+SP  - 360A
+EP  - 1455A
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - Speaker Abstracts
+JO  - Transfusion Medicine
+JA  - Transfusion Med
+VL  - 23
+IS  - s2
+SN  - 9783527345700
+UR  - https://doi.org/10.1111/tme.12070
+DO  - doi:10.1111/tme.12070
+SP  - 1
+EP  - 29
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentations
+JO  - International Journal of Stroke
+JA  - Int J Stroke
+VL  - 9
+IS  - S3
+SN  - 9783527345700
+UR  - https://doi.org/10.1111/ijs.12367
+DO  - doi:10.1111/ijs.12367
+SP  - 41
+EP  - 331
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - Abstract of the 35th international congress of the ISBT
+JO  - Vox Sanguinis
+JA  - Vox Sang
+VL  - 113
+IS  - S1
+SN  - 9783527345700
+UR  - https://doi.org/10.1111/vox.12658
+DO  - doi:10.1111/vox.12658
+SP  - 5
+EP  - 347
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - Emergency medicine: Refresher course
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 42
+IS  - s112
+SN  - 9783527345700
+UR  - https://doi.org/10.1111/j.1399-6576.1998.tb04968.x
+DO  - doi:10.1111/j.1399-6576.1998.tb04968.x
+SP  - 181
+EP  - 186
+PY  - 1998
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - International Journal of Stroke
+VL  - 3
+IS  - s1
+SN  - 9783527345700
+UR  - https://doi.org/10.1111/j.1747-4949.2008.00231.x
+DO  - doi:10.1111/j.1747-4949.2008.00231.x
+SP  - 2
+EP  - 474
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts from the 48th Annual Meeting of the European Society for Paediatric Research, Prague, Czech Republic
+JO  - Acta Paediatrica
+VL  - 96
+IS  - s456
+SN  - 9783527345700
+UR  - https://doi.org/10.1111/j.1651-2227.2007.00463.x
+DO  - doi:10.1111/j.1651-2227.2007.00463.x
+SP  - 1
+EP  - 245
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+AU  - Pizzutiello, R
+AU  - Svatos, M
+TI  - SU-A-BRE-01: AAPM Medical Physics Student Meeting
+JO  - Medical Physics
+JA  - Med. Phys.
+VL  - 41
+IS  - 6Part2
+SN  - 9783527345700
+UR  - https://doi.org/10.1118/1.4889690
+DO  - doi:10.1118/1.4889690
+SP  - 89
+EP  - 89
+KW  - Medical physics
+KW  - Medical physicists
+KW  - Environmental impacts
+PY  - 2014
+AB  - The purpose of this meeting is to emphasize entrepreneurship and opportunities in industry as a valuable part of our profession, bringing the benefits of new ideas and techniques generated by the basic scientists to the broad patient population. Thinking outside the traditional ?clinical Medical Physics box?, there are a variety of ways that individuals can use their medical physics training/experience in entrepreneurial endeavors. Whether as an individual, a small group of medical physicists, or part of an industry (corporate) environment, the speakers will explore how current students and trainees can make a veritable impact to our profession in a non-clinical setting. Our distinguished speakers will also be happy to answer general questions from the audience.
+ER  - 
+
+TY  - JOUR
+TI  - The 3rd Congress of Asian Society for Pediatric Research
+JO  - Pediatrics International
+VL  - 50
+IS  - 5
+SN  - 9783527345700
+UR  - https://doi.org/10.1111/j.1442-200X.2008.02727.x
+DO  - doi:10.1111/j.1442-200X.2008.02727.x
+SP  - 723
+EP  - 792
+PY  - 2008
+ER  - 

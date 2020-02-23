@@ -1,0 +1,333 @@
+
+TY  - JOUR
+AU  - O’Donoghue, S. D.
+AU  - Dulhunty, J. M.
+AU  - Bandeshe, H. K.
+AU  - Senthuran, S.
+AU  - Gowardman, J. R.
+TI  - Acquired hypernatraemia is an independent predictor of mortality in critically ill patients
+JO  - Anaesthesia
+VL  - 64
+IS  - 5
+SN  - 0003-2409
+UR  - https://doi.org/10.1111/j.1365-2044.2008.05857.x
+DO  - doi:10.1111/j.1365-2044.2008.05857.x
+SP  - 514
+EP  - 520
+PY  - 2009
+AB  - Summary This study reports the incidence and associated mortality of acquired hypernatraemia (Na?> 150?mmol.l?1) in a general medical/surgical intensive care unit. Patients admitted over a 5-year period with normal sodium values were eligible for inclusion; exclusions were made for burn/neurosurgical diagnoses and for hypertonic saline therapy. From 3475 admissions (3317 patients), 266 (7.7%) episodes of hypernatraemia were observed. Hospital mortality was 33.5% in the hypernatraemic group and 7.7% in the normonatraemic group (p?<?0.001). Acquired hypernatraemia was an independent risk factor for in-hospital mortality (OR 1.97, 95% CI 1.37?2.82, p?<?0.001). Intermediate sodium levels (145?150?mmol.l?1) were associated with increased mortality (OR 1.42, 95% CI 1.02?1.98). Uncorrected sodium at discharge (p?=?0.001) and peak sodium (p?=?0.001) were better predictors of mortality than time to onset (p?=?0.71) and duration of hypernatraemia (p?=?1.0). Hypernatraemia avoidance is justified, but determinants of hypernatraemia and benefits of targeted treatment strategies require further elucidation.
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Programme 44th Annual Meeting of the International Continence Society (ICS) 20—24 October 2014, Rio de Janeiro, Brazil
+JO  - Neurourology and Urodynamics
+JA  - Neurourol. Urodynam.
+VL  - 33
+IS  - 6
+SN  - 0733-2467
+UR  - https://doi.org/10.1002/nau.22655
+DO  - doi:10.1002/nau.22655
+SP  - 631
+EP  - 1071
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - ASBMR 29th Annual Meeting
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 22
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.5650221408
+DO  - doi:10.1002/jbmr.5650221408
+SP  - s302
+EP  - s351
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+AU  - HARRIS, DAVID
+TI  - Acute renal replacement – which treatment is best?
+JO  - Australian and New Zealand Journal of Medicine
+VL  - 20
+IS  - 3
+SN  - 0004-8291
+UR  - https://doi.org/10.1111/j.1445-5994.1990.tb01017.x
+DO  - doi:10.1111/j.1445-5994.1990.tb01017.x
+SP  - 197
+EP  - 200
+PY  - 1990
+ER  - 
+
+TY  - JOUR
+AU  - Palladino, Michael
+AU  - Thomson, Lynda
+AU  - Swift,, Brian
+AU  - Merli, Geno J.
+TI  - Implementing the new oral anticoagulants into the hospital formulary
+JO  - American Journal of Hematology
+JA  - Am. J. Hematol.
+VL  - 87
+IS  - S1
+SN  - 0361-8609
+UR  - https://doi.org/10.1002/ajh.23208
+DO  - doi:10.1002/ajh.23208
+SP  - S127
+EP  - S132
+PY  - 2012
+AB  - Abstract The new oral anticoagulants may prove to be one of most significant innovations in clinical practice in the past 60 years. Apixaban and rivaroxaban are direct inhibitors of Factor Xa, while dabigatran inhibits Factor IIa. The predictable pharmacological profile of these new agents allows physicians to prescribe these drugs without the need for routine coagulation monitoring, which is the mainstay of warfarin therapy. In addition, these new agents have not been shown to have any food interactions and minimal drug?drug interactions, interactions are limited to the p-glycoprotein (p-Gp) transporter or cytochrome P450 (CYP450) system, each drug is unique in its drug interaction profile, as will be discussed below. These unique pharmacokinetics profiles may usher in for clinicians a new era of managing thromboembolic disorders. In this article, the pharmacology of these new oral anticoagulants will be reviewed along with the major clinical trials evaluating the use of these agents for thromboembolic prophylaxis in patients undergoing total hip and knee arthroplastic surgery, the treatment of venous thromboembolic disorders and stroke prevention in atrial fibrillation. Am. J. Hematol., 2012. ? 2012 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Sasaki, Kazunari
+AU  - Firl, Daniel J.
+AU  - McVey, John C.
+AU  - Schold, Jesse D.
+AU  - Iuppa, Giuseppe
+AU  - Diago Uso, Teresa
+AU  - Fujiki, Masato
+AU  - Aucejo, Federico N.
+AU  - Quintini, Cristiano
+AU  - Eghetsad, Bijan
+AU  - Miller, Charles M.
+AU  - Hashimoto, Koji
+TI  - Elevated Risk of Split-Liver grafts in adult liver Transplantation: Statistical Artifact or Nature of the Beast?
+JO  - Liver Transplantation
+JA  - Liver Transpl
+VL  - 25
+IS  - 5
+SN  - 1527-6465
+UR  - https://doi.org/10.1002/lt.25409
+DO  - doi:10.1002/lt.25409
+SP  - 741
+EP  - 751
+PY  - 2019
+AB  - A recent study using US national registry data reported, using Cox proportional hazards (PH) models, that split-liver transplantation (SLT) has improved over time and is no more hazardous than whole-liver transplantation (WLT). However, the study methods violated the PH assumption, which is the fundamental assumption of Cox modeling. As a result, the reported hazard ratios (HRs) are biased and unreliable. This study aimed to investigate whether the risk of graft survival (GS) in SLT has really improved over time, ensuring attention to the PH assumption. This study included 80,998 adult deceased donor liver transplantation (LT) (1998-2015) from the Scientific Registry Transplant Recipient. The study period was divided into 3 time periods: era 1 (January 1998 to February 2002), era 2 (March 2002 to December 2008), and era 3 (January 2009 to December 2015). The PH assumption was tested using Schoenfeld?s test, and where the HR of SLT violated the assumption, changes in risk for SLT over time from transplant were assessed. SLT was performed in 1098 (1.4%) patients, whereas WLT was used in 79,900 patients. In the Cox PH analysis, the P values of Schoenfeld?s global tests were <0.05 in all eras, which is consistent with deviation from proportionality. Assessing HRs of SLT with a time-varying effect, multiple Cox models were conducted for post-LT intervals. The HR curves plotted according to time from transplant were higher in the early period and then decreased at approximately 1 year and continued to decrease in all eras. For 1-year GS, the HRs of SLT were 1.92 in era 1, 1.52 in era 2, and 1.47 in era 3 (all P < 0.05). In conclusion, the risk of SLT has a time-varying effect and is highest in the early post-LT period. The risk of SLT is underestimated if it is evaluated by overall GS. SLT was still hazardous if the PH assumption was considered, although it became safer over time.
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Abstracts
+JO  - Pediatric Transplantation
+VL  - 13
+IS  - s1
+SN  - 1397-3142
+UR  - https://doi.org/10.1111/j.1399-3046.2009.01146.x
+DO  - doi:10.1111/j.1399-3046.2009.01146.x
+SP  - 46
+EP  - 156
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+AU  - Soltani, Akbar
+AU  - Hasani-Ranjbar, Shirin
+AU  - Moayyeri, Alireza
+TI  - Hypocalcemia as a presentation for multifocal osteosarcoma
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr. Blood Cancer
+VL  - 50
+IS  - 3
+SN  - 1545-5009
+UR  - https://doi.org/10.1002/pbc.21102
+DO  - doi:10.1002/pbc.21102
+SP  - 687
+EP  - 689
+KW  - hypocalcemia
+KW  - multifocal osteosarcoma
+KW  - secondary hyperparathyroidism
+PY  - 2008
+AB  - Abstract We report the case of a 16-year-old male with multifocal osteosarcoma presented with symptomatic hypocalcemia. The patient presented signs of hypocalcemia accompanied by generalized bone pain and a femoral mass. Further evaluation revealed secondary hyperparathyroidism, highly elevated alkaline phosphatase levels, and generalized sclerotic and lytic lesions. Biopsy confirmed osteosarcomatosis. Despite aggressive chemotherapy, he died from progressive disease 2 months after diagnosis. The course of disease in this patient suggests that hypocalcemia reflects a poor prognosis. Pediatr Blood Cancer 2008;50:687?689. ? 2007 Wiley-Liss, Inc.
+ER  - 
+
+AU  - Nguyen, Thach N.
+AU  - Gibson, C. Michael
+AU  - Petrovski, Borce
+AU  - Makam, Prakash
+AU  - Cong, Nguyen Duc
+AU  - Khai, Pham Gia
+C7  - pp. 19-49
+TI  - ST-Elevation Acute Myocardial Infarction
+SN  - 9781405140317
+UR  - https://doi.org/10.1002/9780470750858.ch2
+DO  - doi:10.1002/9780470750858.ch2
+SP  - 19-49
+KW  - thrombolytic therapy
+KW  - comprehensive management
+KW  - coronary intervention
+KW  - acetylsalicyic acid
+KW  - thienopyridine
+PY  - 2008
+AB  - Summary This chapter contains sections titled: Introduction Thrombolytic Therapy Primary Coronary Intervention Acetylsalicyic Acid Thienopyridine Glycoprotein 2B3A Inhibitors Unfractionated Heparin Low Molecular Weight Heparin Direct Thrombin Inhibitor Factor X Inhibitor ?-Blockers Angiotensin Converting Enzyme Inhibitors Angiotensin II Receptor Blockers Lipid Lowering Drugs Comprehensive Management Difficult Situations and Suggested Solutions
+ER  - 
+
+TY  - JOUR
+TI  - Oral Sessions
+JO  - American Journal of Transplantation
+JA  - American Journal of Transplantation
+VL  - 13
+IS  - S5
+SN  - 9781405140317
+UR  - https://doi.org/10.1111/ajt.12265
+DO  - doi:10.1111/ajt.12265
+SP  - 29
+EP  - 206
+PY  - 2013
+AB  - First page of article
+ER  - 
+
+TY  - JOUR
+TI  - Paper Abstract
+JO  - Journal of the American Geriatrics Society
+JA  - J Am Geriatr Soc
+VL  - 67
+IS  - S1
+SN  - 9781405140317
+UR  - https://doi.org/10.1111/jgs.15898
+DO  - doi:10.1111/jgs.15898
+SP  - S1
+EP  - S384
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - 2013 ACVIM Forum Research Abstracts Program
+JO  - Journal of Veterinary Internal Medicine
+JA  - J Vet Intern Med
+VL  - 27
+IS  - 3
+SN  - 9781405140317
+UR  - https://doi.org/10.1111/jvim.12100
+DO  - doi:10.1111/jvim.12100
+SP  - 604
+EP  - 756
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - ACRT-SCTS Scholar Abstracts
+JO  - Clinical and Translational Science
+VL  - 3
+IS  - 2
+SN  - 9781405140317
+UR  - https://doi.org/10.1111/j.1752-8062.2010.00181_2.x
+DO  - doi:10.1111/j.1752-8062.2010.00181_2.x
+SP  - S8
+EP  - S55
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - Previsdomini, Marco
+AU  - Graziano, Elisa
+AU  - Decosterd, Laurent
+AU  - Courlet, Perrine
+AU  - Perren, Andreas
+AU  - Ceschi, Alessandro
+C8  - LET-00101-19.R1
+TI  - Severe rosuvastatin accumulation with rhabdomyolysis due to drug interactions and low cardiac output syndrome
+JO  - British Journal of Clinical Pharmacology
+JA  - Br J Clin Pharmacol
+VL  - 85
+IS  - 7
+SN  - 9781405140317
+UR  - https://doi.org/10.1111/bcp.13950
+DO  - doi:10.1111/bcp.13950
+SP  - 1616
+EP  - 1618
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+AU  - Klein, Lloyd W.
+AU  - Sheldon, Mark W.
+AU  - Brinker, Jeffrey
+AU  - Mixon, Timothy A.
+AU  - Skelding, Kimberly
+AU  - Strunk, Adam O.
+AU  - Tommaso, Carl L.
+AU  - Weiner, Bonnie
+AU  - Bailey, Steven R.
+AU  - Uretsky, Barry
+AU  - Kern, Morton
+AU  - Laskey, Warren
+TI  - The use of radiographic contrast media during PCI: A focused review
+JO  - Catheterization and Cardiovascular Interventions
+JA  - Cathet. Cardiovasc. Intervent.
+VL  - 74
+IS  - 5
+SN  - 9781405140317
+UR  - https://doi.org/10.1002/ccd.22113
+DO  - doi:10.1002/ccd.22113
+SP  - 728
+EP  - 746
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+TI  - Oral Sessions
+JO  - Transplant International
+VL  - 24
+IS  - s2
+SN  - 9781405140317
+UR  - https://doi.org/10.1111/j.1432-2277.2011.01346.x
+DO  - doi:10.1111/j.1432-2277.2011.01346.x
+SP  - 1
+EP  - 95
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - Oral Abstracts
+JO  - American Journal of Transplantation
+JA  - Am J Transplant
+VL  - 19
+IS  - S3
+SN  - 9781405140317
+UR  - https://doi.org/10.1111/ajt.15405
+DO  - doi:10.1111/ajt.15405
+SP  - 310
+EP  - 590
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - The ILTS 18th Annual International Congress
+JO  - Liver Transplantation
+JA  - Liver Transpl
+VL  - 18
+IS  - S1
+SN  - 9781405140317
+UR  - https://doi.org/10.1002/lt.23435
+DO  - doi:10.1002/lt.23435
+SP  - S1
+EP  - S306
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts and Index of Authors
+JO  - Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy
+VL  - 25
+IS  - 10
+SN  - 9781405140317
+UR  - https://doi.org/10.1592/phco.2005.25.10.1431
+DO  - doi:10.1592/phco.2005.25.10.1431
+SP  - 1431
+EP  - 1551
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - Abstract Presentations from the AABB Annual Meeting Orlando, FL, October 22–25, 2016
+JO  - Transfusion
+JA  - Transfusion
+VL  - 56
+IS  - S4
+SN  - 9781405140317
+UR  - https://doi.org/10.1111/trf.13807
+DO  - doi:10.1111/trf.13807
+SP  - 3A
+EP  - 262A
+PY  - 2016
+ER  - 

@@ -1,0 +1,497 @@
+
+TY  - JOUR
+AU  - Holdenrieder, Stefan
+AU  - Nagel, Dorothea
+AU  - Schalhorn, Andreas
+AU  - Heinemann, Volker
+AU  - Wilkowski, Ralf
+AU  - Von Pawel, Joachim
+AU  - Raith, Hannelore
+AU  - Feldmann, Knut
+AU  - Kremer, Andreas E.
+AU  - Müller, Susanne
+AU  - Geiger, Sandra
+AU  - Hamann, Gerhard F.
+AU  - Seidel, Dietrich
+AU  - Stieber, Petra
+TI  - Clinical Relevance of Circulating Nucleosomes in Cancer
+JO  - Annals of the New York Academy of Sciences
+VL  - 1137
+IS  - 1
+SN  - 0077-8923
+UR  - https://doi.org/10.1196/annals.1448.012
+DO  - doi:10.1196/annals.1448.012
+SP  - 180
+EP  - 189
+KW  - nucleosomes
+KW  - DNA
+KW  - cancer
+KW  - apoptosis
+KW  - serum
+KW  - plasma
+KW  - diagnosis
+KW  - prognosis
+KW  - therapeutic monitoring
+PY  - 2008
+AB  - Nucleosomes, complexes of DNA and histone proteins, are released during cell death into the blood circulation. Elevated serum and plasma levels have been found in various forms of cancer, but also in autoimmune diseases and acute situations such as stroke, trauma, and during sepsis. Here, the clinical relevance of circulating nucleosomes for diagnosis, staging, prognosis, and therapeutic monitoring of cancer is reviewed. Several studies have shown that levels of nucleosomes are significantly higher in serum and plasma of cancer patients in comparison to healthy controls. However, because of elevations of nucleosome levels in patients with benign diseases relevant for differential diagnosis, they are not suitable for cancer diagnosis. Concerning tumor staging, nucleosome levels correlate with tumor stage and presence of metastases in gastrointestinal cancer, but not in other tumor types. Prognostic value of circulating nucleosomes is found in lung cancer in univariate analyses, but not in multivariate analyses. Circulating nucleosomes are most informative for the monitoring of cytotoxic therapy. Strongly decreasing levels are mainly found in patients with remission of disease, whereas constantly high or increasing values are associated with progressive disease during chemo- and radiotherapy. In addition, therapy outcome is already indicated by the nucleosomal course during the first week of chemo- and radiotherapy in patients with lung, pancreatic, and colorectal cancer as well as in hematologic malignancies. Despite their non-tumor-specificity, kinetics of nucleosomes are valuable markers for the early estimation of therapeutic efficacy and may be helpful to adapting early cancer therapy in the future.
+ER  - 
+
+TY  - JOUR
+AU  - Turkistani, Jihan
+AU  - Hanno, Azzah
+TI  - Recent trends in the management of dentoalveolar traumatic injuries to primary and young permanent teeth
+JO  - Dental Traumatology
+VL  - 27
+IS  - 1
+SN  - 1600-4469
+UR  - https://doi.org/10.1111/j.1600-9657.2010.00950.x
+DO  - doi:10.1111/j.1600-9657.2010.00950.x
+SP  - 46
+EP  - 54
+PY  - 2011
+AB  - Abstract??? One of the commonly encountered dental emergencies is dentoalveolar traumatic injuries (DTIs). Unfortunately, DTIs result in fractured, displaced, or lost anterior teeth and this could have significant negative functional, esthetic, speech, and psychological effects on children thus affecting their quality of life. Although it is impossible to guarantee permanent retention of a traumatized tooth, patient age, severity of injury, and timely treatment and follow up of the tooth using recommended procedures can maximize the chances for success. This review examines the recent trends in the management of DTI to primary and young permanent teeth. Electronic search of scientific papers written in English from 1990s to 2009 was accomplished using Pub Med search engine. Dental practitioners should follow current literature and consider carefully evidenced-based recommendations that may enhance periodontal healing and revascularization of avulsed permanent teeth.
+ER  - 
+
+TY  - JOUR
+AU  - Mountain, David
+TI  - Diagnosing pulmonary embolism: A question of too much choice?
+JO  - Emergency Medicine
+VL  - 15
+IS  - 3
+SN  - 1035-6851
+UR  - https://doi.org/10.1046/j.1442-2026.2003.00444.x
+DO  - doi:10.1046/j.1442-2026.2003.00444.x
+SP  - 250
+EP  - 262
+KW  - D-Dimer fibrin
+KW  - echography
+KW  - helical CT
+KW  - pulmonary embolism
+KW  - risk assessment
+PY  - 2003
+AB  - Abstract The diagnosis of pulmonary embolism (PE) is difficult with many patients treated without the disease or left untreated without an adequate diagnostic work up. Recent advances in PE diagnosis are reviewed. The use of risk stratification in PE diagnosis is strongly recommended and evidence on how it can best be performed summarized. The Ginsberg/Wells stratification rule is recommended currently as the best validated rule. Computed tomographic pulmonary angiography (CTPA) was found to have quite poor sensitivity and to be poorly validated. It is recommended as adequate as a positive test in moderate/high risk groups and an exclusionary test in low risk groups or where an adequate alternative diagnosis is found. For D-Dimer tests the only test with adequate sensitivity and validation in management studies is the VIDAS? D-Dimer. This is in low/intermediate risk groups in the ED population. The Simpli-Red? test is also reviewed but is too insensitive for most populations. Echocardiography: this is good in compromised patients as it is a bedside test which when negative virtually excludes PE. If positive in the right setting it has a high positive predictive value. A negative echocardiogram predicts a benign clinical course for PE. The rest of the paper details the authors approach to integrating these new techniques with established algorithms and where progress is likely to occur in the next few years. These include improvements in CTPA (plus the addition of CT venography), new point of care D-Dimer tests, better risk stratification rules and integration of new strategies with artificial neural networks or computerized guidelines.
+ER  - 
+
+TY  - JOUR
+AU  - McGregor, Hanna C.
+AU  - Short, Michael A.
+AU  - McWilliams, Annette
+AU  - Shaipanich, Tawimas
+AU  - Ionescu, Diana N.
+AU  - Zhao, Jianhua
+AU  - Wang, Wenbo
+AU  - Chen, Guannan
+AU  - Lam, Stephen
+AU  - Zeng, Haishan
+TI  - Real-time endoscopic Raman spectroscopy for in vivo early lung cancer detection
+JO  - Journal of Biophotonics
+JA  - J. Biophoton
+VL  - 10
+IS  - 1
+SN  - 1864-063X
+UR  - https://doi.org/10.1002/jbio.201500204
+DO  - doi:10.1002/jbio.201500204
+SP  - 98
+EP  - 110
+KW  - in vivo tissue Raman spectroscopy
+KW  - endoscopy
+KW  - lung cancer
+KW  - early cancer detection
+KW  - spectral diagnosis 
+PY  - 2017
+AB  - Currently the most sensitive method for localizing lung cancers in central airways is autofluorescence bronchoscopy (AFB) in combination with white light bronchoscopy (WLB). The diagnostic accuracy of WLB + AFB for high grade dysplasia (HGD) and carcinoma in situ is variable depending on physician's experience. When WLB + AFB are operated at high diagnostic sensitivity, the associated diagnostic specificity is low. Raman spectroscopy probes molecular vibrations and gives highly specific, fingerprint-like spectral features and has high accuracy for tissue pathology classification. In this study we present the use of a real-time endoscopy Raman spectroscopy system to improve the specificity. A spectrum is acquired within 1 second and clinical data are obtained from 280 tissue sites (72 HGDs/malignant lesions, 208 benign lesions/normal sites) in 80 patients. Using multivariate analyses and waveband selection methods on the Raman spectra, we have demonstrated that HGD and malignant lung lesions can be detected with high sensitivity (90%) and good specificity (65%).
+ER  - 
+
+TY  - JOUR
+AU  - Clarke, Aoife
+AU  - Simpson, Jane
+AU  - Varese, Filippo
+C8  - CPP-1828.R1
+TI  - A systematic review of the clinical utility of the concept of self-disgust
+JO  - Clinical Psychology & Psychotherapy
+JA  - Clin Psychol Psychother
+VL  - 26
+IS  - 1
+SN  - 1063-3995
+UR  - https://doi.org/10.1002/cpp.2335
+DO  - doi:10.1002/cpp.2335
+SP  - 110
+EP  - 134
+KW  - mental health
+KW  - review
+KW  - self-disgust
+KW  - utility
+KW  - validity
+PY  - 2019
+AB  - This systematic literature review examined the clinical utility of the construct of self-disgust in understanding mental distress. Specifically, the review assessed whether there is a shared conceptual definition of self-disgust, the face and construct validity of the quantitative assessment measures of self-disgust, and the predictive validity of self-disgust in formulating the development of a range of psychological difficulties. A systematic database search supplemented by manual searches of references and citations identified 31 relevant papers (27 quantitative, 3 qualitative, and 1 mixed). Analysis of qualitative papers indicated a number of shared features in the definition of self-disgust, including a visceral sense of self-elicited nausea accompanied by social withdrawal and attempts at cleansing or suppressing aspects of the self. Quantitative assessment measures appeared to capture these dimensions and evidenced good psychometric properties, although some measures may have only partially captured the full self-disgust construct. Strong relationships were observed between self-disgust and a range of mental health presentations, in particular, depression, body-image difficulties, and trauma-related difficulties. However, these relationships are smaller when the effects of other negative self-referential emotions were controlled, and stronger conclusions about the predictive validity of self-disgust are limited by the cross-sectional nature of many of the studies.
+ER  - 
+
+TY  - JOUR
+AU  - Lee, Courtney
+AU  - Crawford, Cindy
+AU  - Teo, Lynn
+AU  - Spevak, Christopher
+AU  - Active Self-Care Therapies for Pain (PACT) Working Group
+TI  - An Analysis of the Various Chronic Pain Conditions Captured in a Systematic Review of Active Self-Care Complementary and Integrative Medicine Therapies for the Management of Chronic Pain Symptoms
+JO  - Pain Medicine
+JA  - Pain Med
+VL  - 15
+IS  - S1
+SN  - 1526-2375
+UR  - https://doi.org/10.1111/pme.12357
+DO  - doi:10.1111/pme.12357
+SP  - S96
+EP  - S103
+KW  - Self-Care
+KW  - Complementary and Integrative Medicine
+KW  - Chronic Pain
+KW  - Diagnostic Criteria
+KW  - Systematic Review
+KW  - Rapid Evidence Assessment of the Literature
+PY  - 2014
+AB  - Abstract Objectives Chronic pain management typically consists of prescription medications or provider-based, behavioral, or interventional procedures that are often ineffective, may be costly, and can be associated with undesirable side effects. Because chronic pain affects the whole person (body, mind, and spirit), patient-centered complementary and integrative medicine (CIM) therapies that acknowledge the patients' roles in their own healing processes have the potential to provide more efficient and comprehensive chronic pain management. Active self-care CIM therapies (ACT-CIM) allow for a more diverse, patient-centered treatment of complex symptoms, promote self-management, and are relatively safe and cost-effective. To date, there are no systematic reviews examining the full range of ACT-CIM used for chronic pain symptom management. Methods A systematic review was conducted, using Samueli Institute's rapid evidence assessment of the literature (REAL?) methodology, to rigorously assess both the quality of the research on ACT-CIM modalities and the evidence for their efficacy and effectiveness in treating chronic pain symptoms. A working group of subject matter experts was also convened to evaluate the overall literature pool and develop recommendations for the use and implementation of these modalities. Results Following key database searches, 146 randomized controlled trials, covering 33 different pain conditions, were included in the review. Conclusions This article categorized studies by pain condition, describing the diagnostic criteria used and modalities that seem most effective for each condition. Complexities associated with investigating chronic pain populations are also discussed. The entire scope of the review, categorized by modality rather than pain condition, is detailed throughout the current Pain Medicine supplement.
+ER  - 
+
+TY  - JOUR
+AU  - Ferrazzi, E.
+AU  - Cetin, I.
+AU  - Rigano, S.
+AU  - Radaelli, T.
+AU  - Taricco, E.
+AU  - Bozzo, M.
+AU  - Lanzani, C.
+AU  - Pardi, G.
+TI  - WS02: Prenatal diagnosis WS02-01Sonographic measurement of fetal subcutaneous tissue of gestational diabetic mothers: a new criteria for therapy
+JO  - Ultrasound in Obstetrics & Gynecology
+VL  - 16
+IS  - s1
+SN  - 0960-7692
+UR  - https://doi.org/10.1046/j.1469-0705.2000.00009-1-10.x
+DO  - doi:10.1046/j.1469-0705.2000.00009-1-10.x
+SP  - 7
+EP  - 7
+PY  - 2000
+AB  - Objective The aim of this study was to compare sonographic measurements of subcutaneous tissue (SQ) in fetuses of gestational diabetic mothers (GDM), and in normal fetuses. Methods SQ was measured as the subcutaneous tissue area of mid upper arm (FMA), mid-thigh (FMT) (cross sectional area minus bone and muscle area), abdominal (FA) and subscapular fat (FS), thickness. Fifty-six GDM were enrolled in the study. Normal values were obtained from fetuses of normal pregnancies (BMI 21.3?±?0.64 Kg/m2; one hour glucose test <?140?mg/dL) (30 patients). Treatment was based on diet alone, or diet plus insulin according to postprandial glicemia. Longitudinal ultrasound examinations were performed every four weeks, in normal pregnancies, and in GDM pregnancies. Results Fetal SQ measurements were significantly correlated to gestational age both in normal and GDM fetuses (P?<?0.05). At the time of diagnosis GDM fetuses had significantly higher values for all SQ measurements compared to AGA fetuses; these differences were not found during therapy. 26?32?weeks diagnosis 32?36?weeks therapy normal GDM normal GDM p FA 0.32?±?0.01 0.38?±?0.01 Ns 0.45?±?0.02 0.47?±?0.02 0.001 FS 0.28?±?0.01 0.36?±?0.17 Ns 0.41?±?0.36 0.44?±?0.02 0.001 FMA 1.97?±?0.12 2.55?±?0.19 Ns 3.83?±?0.33 4.24?±?0.21 0.01 FMT 3.12?±?0.20 4.10?±?0.37 Ns 5.91?±?0.42 6.94?±?0.43 0.01 Conclusions GDM is associated with increases in fetal SQ from the second trimester. A strict glycemic control can reduce these differences to negligible values. These new measurements can be adopted to monitor the efficacy of therapy in GDM pregnancies.
+ER  - 
+
+TY  - JOUR
+AU  - Langley, Adrian
+AU  - Lai, Nai An
+AU  - Flynn, Christopher
+TI  - Traumatic rupture of a nasoethmoidal meningoencephalocele in an adult following a difficult airway scenario
+JO  - Anaesthesia Cases
+JA  - Anaesthesia Cases
+VL  - 2
+IS  - 1
+SN  - 2396-8397
+UR  - https://doi.org/10.21466/ac.TROANMI.2014
+DO  - doi:10.21466/ac.TROANMI.2014
+SP  - 32
+EP  - 35
+PY  - 2014
+AB  - Summary Intranasal meningoencephaloceles are characterised by protrusion of brain and meninges through a skull-base defect. Nasal intubation or instrumentation may lead to complications such as meningoencephalitis and cerebrospinal fluid rhinorrhoea or fistula formation. A 62 year old lady developed rhinorrhea following failed videolaryngoscopic and nasal fibreoptic intubation, which ultimately necessitated emergency surgical tracheostomy for a ?can't intubation can't ventilate? scenario. This case highlights the diagnosis and management of an unusual complication resulting from difficult airway management.
+ER  - 
+
+TY  - JOUR
+AU  - Watanabe, Atsuya
+AU  - Boesch, Chris
+AU  - Obata, Takayuki
+AU  - Anderson, Suzanne E.
+TI  - Effect of multislice acquisition on T1 and T2 measurements of articular cartilage at 3T
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J. Magn. Reson. Imaging
+VL  - 26
+IS  - 1
+SN  - 1053-1807
+UR  - https://doi.org/10.1002/jmri.20962
+DO  - doi:10.1002/jmri.20962
+SP  - 109
+EP  - 117
+KW  - magnetization transfer
+KW  - longitudinal relaxation time (T1)
+KW  - transverse relaxation time (T2)
+KW  - articular cartilage
+KW  - magnetic resonance imaging
+PY  - 2007
+AB  - Abstract Purpose The aim of this study was to investigate the effect of magnetization transfer on multislice T1 and T2 measurements of articular cartilage. Materials and Methods A set of phantoms with different concentrations of collagen and contrast agent (Gd-DTPA2?) were used for the in vitro study. A total of 20 healthy knees were used for the in vivo study. T1 and T2 measurements were performed using fast-spin-echo inversion-recovery (FSE-IR) sequence and multi-spin-echo (MSE) sequence, respectively, in both in vitro and in vivo studies. We investigated the difference in T1 and T2 values between that measured by single-slice acquisition and that measured by multislice acquisition. Results Regarding T1 measurement, a large drop of T1 in all slices and also a large interslice variation in T1 were observed when multislice acquisition was used. Regarding T2 measurement, a substantial drop of T2 in all slices was observed; however, there was no apparent interslice variation when multislice acquisition was used. Conclusion This study demonstrated that the adaptation of multislice acquisition technique for T1 measurement using FSE-IR methodology is difficult and its use for clinical evaluation is problematic. In contrast, multislice acquisition for T2 measurement using MSE was clinically applicable if inaccuracies caused by multislice acquisition were taken into account. J. Magn. Reson. Imaging 2007;26:109?117. ? 2007 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Tachibana, Takao
+AU  - Imafuku, Shinichi
+AU  - Irisawa, Ryokichi
+AU  - Ohtsuka, Masaki
+AU  - Kadono, Takafumi
+AU  - Fujiwara, Hiroshi
+AU  - Asano, Yoshihide
+AU  - Abe, Masatoshi
+AU  - Ishii, Takayuki
+AU  - Isei, Taiki
+AU  - Ito, Takaaki
+AU  - Inoue, Yuji
+AU  - Ohtsuka, Mikio
+AU  - Ogawa, Fumihide
+AU  - Kodera, Masanari
+AU  - Kawakami, Tamihiro
+AU  - Kawaguchi, Masakazu
+AU  - Kukino, Ryuichi
+AU  - Kono, Takeshi
+AU  - Sakai, Keisuke
+AU  - Takahara, Masakazu
+AU  - Tanioka, Miki
+AU  - Nakanishi, Takeshi
+AU  - Nakamura, Yasuhiro
+AU  - Hashimoto, Akira
+AU  - Hasegawa, Minoru
+AU  - Hayashi, Masahiro
+AU  - Fujimoto, Manabu
+AU  - Maekawa, Takeo
+AU  - Matsuo, Koma
+AU  - Madokoro, Naoki
+AU  - Yamasaki, Osamu
+AU  - Yoshino, Yuichiro
+AU  - Le Pavoux, Andres
+AU  - Ihn, Hironobu
+AU  - The Wound/Burn Guidelines Committee
+TI  - The wound/burn guidelines – 2: Guidelines for the diagnosis and treatment for pressure ulcers
+JO  - The Journal of Dermatology
+JA  - J Dermatol
+VL  - 43
+IS  - 5
+SN  - 0385-2407
+UR  - https://doi.org/10.1111/1346-8138.13274
+DO  - doi:10.1111/1346-8138.13274
+SP  - 469
+EP  - 506
+KW  - body position changes
+KW  - nutritional support
+KW  - pressure ulcer
+KW  - reactive erythema
+KW  - skin care
+PY  - 2016
+AB  - Abstract The Wound/Burn Guidelines Committee consists of members commissioned by the Board of Directors of the Japanese Dermatological Association (JDA). It held several meetings and evaluations in writing since October 2008, and drafted five guidelines for the diagnosis and treatment including commentaries on wounds in general and the Guidelines for the Diagnosis and Treatment for Pressure Ulcers by taking opinions of the Scientific Committee and Board of Directors of JDA into consideration.
+ER  - 
+
+TY  - JOUR
+AU  - Saulez, M. N.
+AU  - Viljoen, A.
+AU  - Kafka, U.
+AU  - Rubio-Martinez, L.
+AU  - van Wilpe, E.
+AU  - Steyl, J.
+TI  - The use of nuclear imaging for a mixed C cell microfollicular carcinoma of the thyroid gland in a mature horse
+JO  - Equine Veterinary Education
+VL  - 25
+IS  - 3
+SN  - 0957-7734
+UR  - https://doi.org/10.1111/j.2042-3292.2012.00405.x
+DO  - doi:10.1111/j.2042-3292.2012.00405.x
+SP  - 118
+EP  - 125
+KW  - horse
+KW  - carcinoma
+KW  - 99mTc-sestamibi
+KW  - 99mTc-pertechnetate
+KW  - scintigraphy
+KW  - thyroid
+PY  - 2013
+AB  - Summary A 15-year-old Boerperd stallion presented for thyroid enlargement associated with inappetance. Ultrasonographic examination of the thyroid gland revealed an enlarged left lobe, which, on cytological examination, contained numerous anaplastic cells. A mixed C cell microfollicular thyroid carcinoma was diagnosed following histopathological examination of the excisional biopsy specimen. In order to determine metastasis, pulmonary radiographs revealed a poorly-marginated soft tissue opacity caudo-dorsal to the cardiac silhouette. Thyroid and pulmonary scintigraphy was performed comparing 99mTc-sestamibi with 99mTc-pertechnetate and no metastasis was detectable. Following hemithyroidectomy, the stallion made a full recovery without the need for neoadjuvant chemotherapy. Six months later, repeated thyroid and pulmonary scintigraphy using 99mTc-sestamibi was normal.
+ER  - 
+
+TY  - JOUR
+AU  - Parsons, Sarah
+AU  - McCullen, Alice
+AU  - Emery, Tracey
+AU  - Kovshoff, Hanna
+TI  - Awareness within local authorities in England of autism spectrum diagnoses of looked-after children
+JO  - British Educational Research Journal
+JA  - Br Educ Res J
+VL  - 45
+IS  - 1
+SN  - 0141-1926
+UR  - https://doi.org/10.1002/berj.3485
+DO  - doi:10.1002/berj.3485
+SP  - 99
+EP  - 116
+KW  - looked-after
+KW  - local authority
+KW  - freedom of information
+KW  - autism
+KW  - corporate parenting
+KW  - co-creation
+PY  - 2019
+AB  - Educational outcomes for looked-after children on the autism spectrum are significantly poorer than for autistic children not being looked-after by their local authority (those ?in care?), and poorer than for most other groups of children with special educational needs who are looked-after in England. Such poor outcomes have led to calls for specific attention to be paid to the needs of autistic looked-after children within the care of local authorities. There is also evidence that the numbers of autistic children being looked-after by local authorities could be under-represented in official figures. This study sought to find the current numbers of autistic looked-after children formally recorded across local authorities in England, and whether their needs are given special attention via strategic planning and oversight, using freedom of information (FoI) requests sent to all local authorities in England. From the 147 (97%) local authorities who responded, approximately 3% of looked-after children in England are recorded as having an autism spectrum diagnosis, although this is still very likely to be an underestimation. The majority of local authorities do not routinely monitor or report on the diagnostic status of autistic looked-after children at a strategic level. Implications for research and practice are discussed.
+ER  - 
+
+TY  - JOUR
+AU  - Taft, Rodney
+AU  - Chao, Ken
+AU  - Dear, Pat
+AU  - King, Catriona
+TI  - THE ROLE OF CORE BIOPSY IN THE DIAGNOSIS OF MAMMOGRAPHICALLY DETECTED LESIONS
+JO  - Australian and New Zealand Journal of Surgery
+VL  - 66
+IS  - 10
+SN  - 0004-8682
+UR  - https://doi.org/10.1111/j.1445-2197.1996.tb00713.x
+DO  - doi:10.1111/j.1445-2197.1996.tb00713.x
+SP  - 664
+EP  - 667
+KW  - breast cancer
+KW  - core biopsy
+KW  - stereotactic
+KW  - ultrasound.
+PY  - 1996
+AB  - Background: Both stereotactic imaging and ultrasound have been used to localize non-palpable breast lesions for core biopsy analysis. In particular, stereotactic core breast biopsy with a dedicated recumbent mammographic unit is an accurate and reliable technique, and this has been substantiated in a number of recent prospective studies comparing percutaneous core biopsy with open excisional biopsy. Methods: This article reviews biopsies of 521 lesions from 502 cases using both stereotactic localization (469 lesions) and ultrasound (33 lesions). The types of breast cancer and benign breast disease diagnosed with core sampling are reviewed. In this series it was not intended to compare all the results of core biopsies with those of open excisional biopsy, but a subset group, which comprised certain benign lesions and malignancies, as well as lesions diagnosed on core biopsy in which the radiology and pathology did not correlate, was further evaluated and compared to the findings with open biopsy. The cases where there were differences in core and excisional biopsy diagnosis are discussed. Results: In this series the benign to malignant ratio was 2.7:1; in other words, 27% of the lesions biopsied were malignant. The sensitivity for detecting cancer was 97% with the positive predictive value being 99%. Conclusions: This series further substantiates the accuracy of core biopsy. It is recommended that certain lesions diagnosed as benign on core biopsy histology should also proceed to open biopsy. Correlation between clinical findings, radiology and pathology further improves the reliability of core biopsy under imaging guidance.
+ER  - 
+
+TY  - JOUR
+AU  - McCarren, Madeline
+AU  - Janes, Gail R.
+AU  - Goldberg, Jack
+AU  - Eisen, Seth A.
+AU  - True, William R.
+AU  - Henderson, William G.
+TI  - A twin study of the association of post-traumatic stress disorder and combat exposure with long-term socioeconomic status in vietnam veterans
+JO  - Journal of Traumatic Stress
+JA  - J. Traum. Stress
+VL  - 8
+IS  - 1
+SN  - 0894-9867
+UR  - https://doi.org/10.1002/jts.2490080108
+DO  - doi:10.1002/jts.2490080108
+SP  - 111
+EP  - 124
+KW  - combat
+KW  - marriage
+KW  - education
+KW  - occupation
+KW  - PTSD
+PY  - 1995
+AB  - Abstract This study examines the association between post-traumatic stress disorder (PTSD) and combat exposure with the socioeconomic status of 2210 male monozygotic veteran twin pairs in 1987. In the unadjusted analysis on individuals, modest correlations indicated that those with PTSD were more likely to have been divorced, and less likely to be currently employed or to achieve high status in income, education or occupation. In the crude analysis of veterans not suffering from PTSD, there were small positive correlations between combat level experienced and the likelihood of ever being married, ever being divorced, and the number of years employed at the current job. However, when we examined identical twins discordant for PTSD, and adjusted for pre-military and military service factors, only unemployment remained significant. Likewise, in combat-discordant twins, no significant effects on the socioeconomic indicators were seen. We conclude that PTSD and combat experience in Southeast Asia have not had a major impact on the socioeconomic status of veterans.
+ER  - 
+
+AU  - White, Nick
+AU  - White, Helen
+C7  - pp. 101-113
+TI  - Advanced Practice in the Radiography Professions
+UR  - https://doi.org/10.1002/9781119439165.ch7
+DO  - doi:10.1002/9781119439165.ch7
+SP  - 101-113
+KW  - advanced clinical decision making
+KW  - advanced nursing practice
+KW  - diagnostic radiographer
+KW  - four-tier radiography service
+KW  - patient care
+KW  - sonographer
+KW  - therapeutic radiographer
+PY  - 1995
+AB  - Summary This chapter provides a discussion surrounding the current position of advanced practice for the diagnostic radiographer, therapeutic radiographer, and sonographer within the modern workforce. The College of Radiographers has been working to define the four-tier radiography service for many years. The four tiers were identified as assistant practitioner, registered practitioner, advanced practitioner, and consultant practitioner. In their working lives, diagnostic and therapeutic radiographers have been specializing in existing roles and developing new ones, creating their advanced practice roles. The College of Radiographers has sought to outline the advanced practice role within a defined scope of practice, and it is important to emphasize that this scope is philosophically based on radiographers operating as autonomous and highly educated practitioners capable of enhancing service delivery and improving patient care. Advanced practitioner diagnostic radiographers will assess patients prior to the use of intravenous contrast media, and undertake risk assessment and advanced clinical decision making.
+ER  - 
+
+TY  - JOUR
+AU  - Weathers, Frank W.
+AU  - Keane, Terence M.
+AU  - Davidson, Jonathan R.T.
+TI  - Clinician-administered PTSD scale: A review of the first ten years of research
+JO  - Depression and Anxiety
+JA  - Depress. Anxiety
+VL  - 13
+IS  - 3
+UR  - https://doi.org/10.1002/da.1029
+DO  - doi:10.1002/da.1029
+SP  - 132
+EP  - 156
+KW  - posttraumatic stress disorder
+KW  - structured interview
+KW  - diagnosis
+KW  - assessment
+KW  - reliability
+KW  - validity
+PY  - 2001
+AB  - Abstract The Clinician-Administered PTSD Scale (CAPS) is a structured interview for assessing posttraumatic stress disorder (PTSD) diagnostic status and symptom severity. In the 10 years since it was developed, the CAPS has become a standard criterion measure in the field of traumatic stress and has now been used in more than 200 studies. In this paper, we first trace the history of the CAPS and provide an update on recent developments. Then we review the empirical literature, summarizing and evaluating the findings regarding the psychometric properties of the CAPS. The research evidence indicates that the CAPS has excellent reliability, yielding consistent scores across items, raters, and testing occasions. There is also strong evidence of validity: The CAPS has excellent convergent and discriminant validity, diagnostic utility, and sensitivity to clinical change. Finally, we address several concerns about the CAPS and offer recommendations for optimizing the CAPS for various clinical research applications. Depression and Anxiety 13:132?156, 2001 ? 2001 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Martinez-Clavera, Clara
+AU  - James, Sarah
+AU  - Bowditch, Eva
+AU  - Kuruvilla, Tarun
+TI  - Delayed-onset post-traumatic stress disorder symptoms in dementia
+JO  - Progress in Neurology and Psychiatry
+JA  - Prog. Neurol. Psychiatry
+VL  - 21
+IS  - 3
+UR  - https://doi.org/10.1002/pnp.477
+DO  - doi:10.1002/pnp.477
+SP  - 26
+EP  - 31
+PY  - 2017
+AB  - Post-traumatic stress disorder (PTSD) is commonly associated with working-age adults and remains largely unrecognised in the elderly. In this review, Clara Martinez-Clavera et al consider three examples of delayed-onset PTSD and its frequent association, or misdiagnosis, as one of the numerous manifestations of the behavioural and psychological symptoms of dementia (BPSD). Finally, recommendations for pharmacological and psychological interventions are suggested.
+ER  - 
+
+TY  - JOUR
+AU  - CHAMBERS, I. G.
+TI  - The role and methods of pulp testing in oral diagnosis: a review2
+JO  - International Endodontic Journal
+VL  - 15
+IS  - 1
+UR  - https://doi.org/10.1111/j.1365-2591.1982.tb01331.x
+DO  - doi:10.1111/j.1365-2591.1982.tb01331.x
+SP  - 1
+EP  - 15
+PY  - 1982
+ER  - 
+
+TY  - JOUR
+AU  - Gough, S. L.
+AU  - Carrick, J.
+AU  - Raidal, S. L.
+AU  - Keane, S.
+AU  - Collins, N.
+AU  - Cudmore, L.
+AU  - Russell, C. M.
+AU  - Raidal, S.
+AU  - Hughes, K. J.
+TI  - Chlamydia psittaci infection as a cause of respiratory disease in neonatal foals
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 52
+IS  - 2
+UR  - https://doi.org/10.1111/evj.13170
+DO  - doi:10.1111/evj.13170
+SP  - 244
+EP  - 249
+KW  - horse
+KW  - acute respiratory distress syndrome
+KW  - acute lung injury
+KW  - atypical pneumonia
+KW  - Chlamydia psittaci
+PY  - 2020
+AB  - Summary Background During 2016?2018, 15 critically ill neonatal foals with acute respiratory distress associated with Chlamydia psittaci infection were presented to three referral hospitals in New South Wales. Chlamydia psittaci has not previously been associated with the development of neonatal respiratory disease. Objectives To investigate and describe the clinical features and outcome of C. psittaci infection in neonatal foals. Study design Multicentre retrospective case series. Methods The clinical, clinicopathological, necropsy and histological features of 15 foals with confirmed C. psittaci infection were reviewed and reported. Results Thirteen foals with C. psittaci infection died or were subjected to euthanasia within 36 h of hospitalisation and two foals survived to discharge. Findings during post-mortem examination of nonsurviving foals included bronchopneumonia, pulmonary congestion, hepatic congestion and hepatic inflammation. Detection of C. psittaci was achieved using polymerase chain reaction (PCR) testing of swabs of nasal secretions (4/6) and rectal mucosa (5/7) from live foals, lung tissues of foals at necropsy (11/14) and foetal membranes (4/5). Main limitations Small numbers of confirmed cases of neonatal C. psittaci infection and inconsistent sampling methods. Conclusions Chlamydia psittaci should be considered a differential diagnosis for neonatal foals with signs of severe systemic disease, including equine neonatal acute respiratory distress syndrome (EqNARDS). Chlamydia psittaci is a zoonotic pathogen and a personal protective equipment (PPE) should be worn for the management of foals with suspected or confirmed infection.
+ER  - 
+
+TY  - JOUR
+AU  - Mayer, Andrew R.
+AU  - Hanlon, Faith M.
+AU  - Dodd, Andrew B.
+AU  - Ling, Josef M.
+AU  - Klimaj, Stefan D.
+AU  - Meier, Timothy B.
+TI  - A functional magnetic resonance imaging study of cognitive control and neurosensory deficits in mild traumatic brain injury
+JO  - Human Brain Mapping
+JA  - Hum. Brain Mapp.
+VL  - 36
+IS  - 11
+UR  - https://doi.org/10.1002/hbm.22930
+DO  - doi:10.1002/hbm.22930
+SP  - 4394
+EP  - 4406
+KW  - cognitive control
+KW  - multisensory
+KW  - auditory
+KW  - visual
+KW  - functional magnetic resonance imaging
+PY  - 2015
+AB  - Abstract Mild traumatic brain injury patients (mTBI) frequently report symptoms of increased distractability and sensory disturbances during mutisensory stimulation. These common post-concussive symptoms could putatively result from dysfunction within the cognitive control network (CCN; top-down) or from unisensory cortex (bottom-up) itself. Functional magnetic resonance imaging (fMRI) and high-resolution structural data were therefore prospectively collected during a multisensory (audio-visual) cognitive control task from 46 mTBI patients within 3 weeks of injury and 46 matched healthy controls (HC), with a subset of participants returning at 4 months. Multisensory stimuli were presented at two frequencies to manipulate cognitive and perceptual load. Patients self-reported more cognitive, emotional, somatic, vestibular and visual symptoms relative to HC, which improved, but did not entirely resolve, over the 4 month follow-up period. There were no group differences in behavior or functional activation during cognitive control (incongruent ? congruent trials). In contrast, patients exhibited abnormal activation within different regions of visual cortex that depended on whether attention was focused on auditory or visual information streams. Patients also exhibited increased activation within bilateral inferior parietal lobules during higher cognitive/perceptual loads, suggesting a compensatory mechanism to achieve similar levels of behavioral performance. Functional abnormalities within the visual cortex and inferior parietal lobules were only partially resolved at 4 months post-injury, suggesting that neural abnormalities may take longer to resolve than behavioral measures used in most clinical settings. In summary, current results indicate that abnormalities within unisensory cortex (particularly visual areas) following mTBI, which likely contribute to deficits commonly reported during multisensory stimulation. Hum Brain Mapp 36:4394?4406, 2015. ? 2015 Wiley Periodicals, Inc.
+ER  - 

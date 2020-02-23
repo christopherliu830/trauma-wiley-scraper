@@ -1,0 +1,530 @@
+
+TY  - JOUR
+AU  - Trutnovsky, G.
+AU  - Dietz, H.P.
+TI  - P04.04: Levator ani trauma and pelvic organ prolapse: is there a dose–response effect?
+JO  - Ultrasound in Obstetrics & Gynecology
+JA  - Ultrasound Obstet Gynecol
+VL  - 46
+IS  - S1
+SN  - 0960-7692
+UR  - https://doi.org/10.1002/uog.15343
+DO  - doi:10.1002/uog.15343
+SP  - 132
+EP  - 133
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+AU  - Zhu, H.
+AU  - Yuan, M.
+AU  - Qiu, C.
+AU  - Ren, Z.
+AU  - Li, Y.
+AU  - Wang, J.
+AU  - Huang, X.
+AU  - Lui, S.
+AU  - Gong, Q.
+AU  - Zhang, W.
+AU  - Zhang, Y.
+TI  - Multivariate classification of earthquake survivors with post-traumatic stress disorder based on large-scale brain networks
+JO  - Acta Psychiatrica Scandinavica
+JA  - Acta Psychiatr Scand
+VL  - n/a
+IS  - n/a
+SN  - 0001-690X
+UR  - https://doi.org/10.1111/acps.13150
+DO  - doi:10.1111/acps.13150
+KW  - post-traumatic stress disorder
+KW  - diagnosis
+KW  - magnetic resonance imaging
+KW  - neuroimaging
+AB  - Objective The identification of post-traumatic stress disorder (PTSD) among natural disaster survivors is remarkably challenging, and there are no reliable objective signatures that can be used to assist clinical diagnosis and optimize treatment. The current study aimed to establish a neurobiological signature of PTSD from the connectivity of large-scale brain networks and clarify the brain network mechanisms of PTSD. Methods We examined fifty-seven unmedicated survivors with chronic PTSD and 59 matched trauma-exposed healthy controls (TEHCs) using resting-state functional magnetic resonance imaging (rs-fMRI). We extracted the node-to-network connectivity and obtained a feature vector with a dimensionality of 864 (108 nodes ? 8 networks) to represent each subject?s functional connectivity (FC) profile. Multivariate pattern analysis with a relevance vector machine was then used to distinguish PTSD patients from TEHCs. Results We achieved a promising diagnostic accuracy of 89.2% in distinguishing PTSD patients from TEHCs. The most heavily weighted connections for PTSD classification were among the default mode network (DMN), visual network (VIS), somatomotor network, limbic network, and dorsal attention network (DAN). The strength of the anticorrelation of FC between the ventral medial prefrontal cortex (vMPFC) in DMN and the VIS and DAN was associated with the severity of PTSD. Conclusions This study achieved relatively high accuracy in classifying PTSD patients vs. TEHCs at the individual level. This performance demonstrates that rs-fMRI-derived multivariate classification based on large-scale brain networks can provide potential signatures both to facilitate clinical diagnosis and to clarify the underlying brain network mechanisms of PTSD caused by natural disasters.
+ER  - 
+
+TY  - JOUR
+AU  - Ai, Ligen
+AU  - Hu, Yanyun
+AU  - Zhang, Xiaoyan
+AU  - Zeng, Hui
+AU  - Zhao, Jun
+AU  - Zhao, Jungong
+AU  - Chai, Yimin
+AU  - Lu, Junxi
+AU  - Tang, Junling
+AU  - Bao, Yuqian
+AU  - Liu, Fang
+AU  - Jia, Weiping
+TI  - High cystatin C levels predict undesirable outcome for diabetic foot ulcerations
+JO  - Wound Repair and Regeneration
+JA  - Wound Rep and Reg
+VL  - 24
+IS  - 3
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/wrr.12419
+DO  - doi:10.1111/wrr.12419
+SP  - 560
+EP  - 567
+PY  - 2016
+AB  - Abstract We investigated the relationship between serum cystatin C levels and the prognosis of diabetic foot ulcerations (DFU). A population-based cohort study involving 1018 patients with type 2 diabetes was conducted. These patients recruited and divided into two groups: nondiabetic foot ulcer group (NDF, n?=?865, 85.5%) and diabetic foot ulcer group (DFU, n?=?147, 14.5%).After a 1-year-follow-up, DFUs were grouped into healing (n?=?110, 74.8%) and nonhealing (n?=?37, 25.2%) group based on the clinical prognosis. Compared with the healing group, the nonhealing group were older, had long diabetic duration and had significantly increased serum cystatin C concentrations in DFU (p?<?0.01). After adjustments for age, diabetes duration, renal function and infection control, multiple logistical regression analysis revealed that cystatin C remained associated increased risk of undesirable DFU outcome (OR?=?7.279, 95% CI: 1.299?40.784, p?<?0.05). When divided into quartiles according to cystatin C levels, the healing rate of Quartile 4 was significantly lower (57.9%) compared with other groups (p?<?0.01). The odd is ratio (OR) analysis showed that the risk of undesirable DFU outcome in Quartile 4 was significantly higher (OR?=?4.554, 95% CI: 3.14?5.12, p?<?0.05) compared with that in Quartile 1. We concluded that there was a strong and independent association between serum cystatin C and diabetic foot ulceration prognosis, cystatin C?>?1.35 mg/L predicts more than sixfold increased risk of incurable foot ulceration.
+ER  - 
+
+TY  - JOUR
+AU  - Agudelo, Juliana
+AU  - Privman, Vladimir
+AU  - Halámek, Jan
+TI  - Promises and Challenges in Continuous Tracking Utilizing Amino Acids in Skin Secretions for Active Multi-Factor Biometric Authentication for Cybersecurity
+JO  - ChemPhysChem
+JA  - ChemPhysChem
+VL  - 18
+IS  - 13
+SN  - 1439-4235
+UR  - https://doi.org/10.1002/cphc.201700044
+DO  - doi:10.1002/cphc.201700044
+SP  - 1714
+EP  - 1720
+KW  - amino acids
+KW  - authentication
+KW  - biosensing
+KW  - enzymes
+KW  - forensics
+PY  - 2017
+AB  - Abstract We consider a new concept of biometric-based cybersecurity systems for active authentication by continuous tracking, which utilizes biochemical processing of metabolites present in skin secretions. Skin secretions contain a large number of metabolites and small molecules that can be targeted for analysis. Here we argue that amino acids found in sweat can be exploited for the establishment of an amino acid profile capable of identifying an individual user of a mobile or wearable device. Individual and combinations of amino acids processed by biocatalytic cascades yield physical (optical or electronic) signals, providing a time-series of several outputs that, in their entirety, should suffice to authenticate a specific user based on standard statistical criteria. Initial results, motivated by biometrics, indicate that single amino acid levels can provide analog signals that vary according to the individual donor, albeit with limited resolution versus noise. However, some such assays offer digital separation (into well-defined ranges of values) according to groups such as age, biological sex, race, and physiological state of the individual. Multi-input biocatalytic cascades that handle several amino acid signals to yield a single digital-type output, as well as continuous-tracking time-series data rather than a single-instance sample, should enable active authentication at the level of an individual.
+ER  - 
+
+TY  - JOUR
+AU  - Karamzadeh, Nader
+AU  - Amyot, Franck
+AU  - Kenney, Kimbra
+AU  - Anderson, Afrouz
+AU  - Chowdhry, Fatima
+AU  - Dashtestani, Hadis
+AU  - Wassermann, Eric M.
+AU  - Chernomordik, Victor
+AU  - Boccara, Claude
+AU  - Wegman, Edward
+AU  - Diaz-Arrastia, Ramon
+AU  - Gandjbakhche, Amir H.
+C7  - e00541
+TI  - A machine learning approach to identify functional biomarkers in human prefrontal cortex for individuals with traumatic brain injury using functional near-infrared spectroscopy
+JO  - Brain and Behavior
+JA  - Brain Behav
+VL  - 6
+IS  - 11
+SN  - 2162-3279
+UR  - https://doi.org/10.1002/brb3.541
+DO  - doi:10.1002/brb3.541
+SP  - e00541
+KW  - classification
+KW  - feature selection
+KW  - machine learning
+KW  - near-infrared spectroscopy
+KW  - traumatic brain injury
+KW  - time series feature extraction
+KW  - wrapper method
+PY  - 2016
+AB  - Abstract Background We have explored the potential prefrontal hemodynamic biomarkers to characterize subjects with Traumatic Brain Injury (TBI) by employing the multivariate machine learning approach and introducing a novel task-related hemodynamic response detection followed by a heuristic search for optimum set of hemodynamic features. To achieve this goal, the hemodynamic response from a group of 31 healthy controls and 30 chronic TBI subjects were recorded as they performed a complexity task. Methods To determine the optimum hemodynamic features, we considered 11 features and their combinations in characterizing TBI subjects. We investigated the significance of the features by utilizing a machine learning classification algorithm to score all the possible combinations of features according to their predictive power. Results and Conclusions The identified optimum feature elements resulted in classification accuracy, sensitivity, and specificity of 85%, 85%, and 84%, respectively. Classification improvement was achieved for TBI subject classification through feature combination. It signified the major advantage of the multivariate analysis over the commonly used univariate analysis suggesting that the features that are individually irrelevant in characterizing the data may become relevant when used in combination. We also conducted a spatio-temporal classification to identify regions within the prefrontal cortex (PFC) that contribute in distinguishing between TBI and healthy subjects. As expected, Brodmann areas (BA) 10 within the PFC were isolated as the region that healthy subjects (unlike subjects with TBI), showed major hemodynamic activity in response to the High Complexity task. Overall, our results indicate that identified temporal and spatio-temporal features from PFC's hemodynamic activity are promising biomarkers in classifying subjects with TBI.
+ER  - 
+
+TY  - JOUR
+AU  - Andriessen, Teuntje M. J. C.
+AU  - Jacobs, Bram
+AU  - Vos, Pieter E.
+TI  - Clinical characteristics and pathophysiological mechanisms of focal and diffuse traumatic brain injury
+JO  - Journal of Cellular and Molecular Medicine
+VL  - 14
+IS  - 10
+SN  - 1582-1838
+UR  - https://doi.org/10.1111/j.1582-4934.2010.01164.x
+DO  - doi:10.1111/j.1582-4934.2010.01164.x
+SP  - 2381
+EP  - 2392
+KW  - focal traumatic brain injury
+KW  - diffuse traumatic brain injury
+KW  - pathophysiology
+KW  - traumatic axonal injury
+KW  - excitotoxicity
+KW  - mitochondria
+KW  - axonal disconnection
+PY  - 2010
+AB  - Abstract ?? Introduction ?? Classifying TBI -? Clinical injury severity -? Focal injury or diffuse injury ?? Clinical characteristics -? Coma, confusion and subacute impairments -? Imaging TBI -? Focal and diffuse TBI: separate entities? ?? Pathophysiological mechanisms of focal injury -? The essentials: glutamate and Ca2+ ?? Pathophysiological mechanisms of diffuse injury -? A heterogeneous cascade of changes -? After axonal disconnection ?? Conclusions Traumatic brain injury (TBI) is a frequent and clinically highly heterogeneous neurological disorder with large socioeconomic consequences. TBI severity classification, based on the hospital admission Glasgow Coma Scale (GCS) score, ranges from mild (GCS 13?15) and moderate (GCS 9?12) to severe (GCS ≤ 8). The GCS reflects the risk of dying from TBI, which is low after mild (?1%), intermediate after moderate (up to 15%) and high (up to 40%) after severe TBI. Intracranial damage can be focal, such as epidural and subdural haematomas and parenchymal contusions, or diffuse, for example traumatic axonal injury and diffuse cerebral oedema, although this distinction is somewhat arbitrary. Study of the cellular and molecular post-traumatic processes is essential for the understanding of TBI pathophysiology but even more to find therapeutic targets for the development of neuroprotective drugs to be eventually used in human beings. To date, studies in vitro and in vivo, mainly in animals but also in human beings, are unravelling the pathological TBI mechanisms at high pace. Nevertheless, TBI pathophysiology is all but completely elucidated. Neuroprotective treatment studies in human beings have been disappointing thus far and have not resulted in commonly accepted drugs. This review presents an overview on the clinical aspects and the pathophysiology of focal and diffuse TBI, and it highlights several acknowledged important events that occur on molecular and cellular level after TBI.
+ER  - 
+
+TY  - JOUR
+AU  - Carrai, Riccardo
+AU  - Scarpino, Maenia
+AU  - Lolli, Francesco
+AU  - Spalletti, Maddalena
+AU  - Lanzo, Giovanni
+AU  - Peris, Adriano
+AU  - Lazzeri, Chiara
+AU  - Amantini, Aldo
+AU  - Grippo, Antonello
+TI  - Early-SEPs’ amplitude reduction is reliable for poor-outcome prediction after cardiac arrest?
+JO  - Acta Neurologica Scandinavica
+JA  - Acta Neurol Scand
+VL  - 139
+IS  - 2
+SN  - 0001-6314
+UR  - https://doi.org/10.1111/ane.13030
+DO  - doi:10.1111/ane.13030
+SP  - 158
+EP  - 165
+KW  - amplitude reduction cortical SEPs
+KW  - cardiac arrest
+KW  - EEG
+KW  - GOS
+PY  - 2019
+AB  - Objective The bilateral absence of cortical Somatosensory Evoked Potentials (SEPs), after cardiac arrest (CA), is a high reliable predictor of poor outcome but it is present in no more than 40% of patients. An amplitude reduction of cortical SEPs was found in about 30% of subjects, but few papers analysed its prognostic significance. The aim of our study is to identify a value of SEP amplitude reduction below which all the CA patients had poor outcome and the relationship between SEP and Electroencephalogram (EEG) patterns. Material and methods We analysed comatose patients in whom SEPs and EEG were recorded at 6-12 hours after CA. We evaluated the sensitivity at specificity of 100% of SEP amplitude in predicting the non-recovery of consciousness by plotting Receiver Operating Characteristic (ROC) curves. We also analysed the relationship between SEP amplitude and EEG patterns. Outcome was evaluated at 6 months by Glasgow Outcome Scale. Results We analysed 119 subjects. According to the ROC analysis (area under the curve = 0.95/CI 0.91-0.99), all patients with a cortical SEP amplitude <0.65 ?V did not recover consciousness (GOS 1-2), with a sensitivity of 71.8%. Severe EEG abnormalities (suppression and burst-suppression patterns) were also observed in all these patients. Conclusion Not only the absence but also a bilateral amplitude reduction of cortical SEPs (<0.65 ?V) is associated with ominous prognosis (death or non-recovery of consciousness) with a very high predictive value. However, we emphasize that great caution should be applied before adopting amplitude reduction as a criterion for the poor prognosis of CA patients.
+ER  - 
+
+TY  - JOUR
+AU  - Messé, Arnaud
+AU  - Caplain, Sophie
+AU  - Paradot, Gaëlle
+AU  - Garrigue, Delphine
+AU  - Mineo, Jean-François
+AU  - Soto Ares, Gustavo
+AU  - Ducreux, Denis
+AU  - Vignaud, Frédéric
+AU  - Rozec, Gaëlle
+AU  - Desal, Hubert
+AU  - Pélégrini-Issac, Mélanie
+AU  - Montreuil, Michèle
+AU  - Benali, Habib
+AU  - Lehéricy, Stéphane
+TI  - Diffusion tensor imaging and white matter lesions at the subacute stage in mild traumatic brain injury with persistent neurobehavioral impairment
+JO  - Human Brain Mapping
+JA  - Hum. Brain Mapp.
+VL  - 32
+IS  - 6
+SN  - 1065-9471
+UR  - https://doi.org/10.1002/hbm.21092
+DO  - doi:10.1002/hbm.21092
+SP  - 999
+EP  - 1011
+KW  - mild traumatic brain injury
+KW  - diffusion tensor imaging
+KW  - post-commotional syndrome
+KW  - outcome
+KW  - voxel-based morphometry
+KW  - tract-based spatial statistics
+PY  - 2011
+AB  - Abstract Mild traumatic brain injury (mTBI) can induce long-term behavioral and cognitive disorders. Although the exact origin of these mTBI-related disorders is not known, they may be the consequence of diffuse axonal injury (DAI). Here, we investigated whether MRI at the subacute stage can detect lesions that are associated with poor functional outcome in mTBI by using anatomical images (T1) and diffusion tensor imaging (DTI). Twenty-three patients with mTBI were investigated and compared with 23 healthy volunteers. All patients underwent an MRI investigation and clinical tests between 7 and 28 days (D15) and between 3 and 4 months (M3) after injury. Patients were divided in two groups of poor outcome (PO) and good outcome (GO), based on their complaints at M3. Groupwise differences in gray matter partial volume between PO patients, GO patients and controls were analyzed using Voxel-Based Morphometry (VBM) from T1 data at D15. Differences in microstructural architecture were investigated using Tract-Based Spatial Statistics (TBSS) and the diffusion images obtained from DTI data at D15. Permutation-based non-parametric testing was used to assess cluster significance at p < 0.05, corrected for multiple comparisons. Twelve GO patients and 11 PO patients were identified on the basis of their complaints. In PO patients, gray matter partial volume was significantly lower in several cortical and subcortical regions compared with controls, but did not differ from that of GO patients. No difference in diffusion variables was found between GO and controls. PO patients showed significantly higher mean diffusivity values than both controls and GO patients in the corpus callosum, the right anterior thalamic radiations and the superior longitudinal fasciculus, the inferior longitudinal fasciculus and the fronto-occipital fasciculus bilaterally. In conclusion, PO patients differed from GO patients by the presence of diffusion changes in long association white matter fiber tracts but not by gray matter partial volume. These results suggest that DTI at the subacute stage may be a predictive marker of poor outcome in mTBI. Hum Brain Mapp, 2011. ? 2010 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Coats, Brittany
+AU  - Eucker, Stephanie A.
+AU  - Sullivan, Sarah
+AU  - Margulies, Susan S.
+TI  - Finite element model predictions of intracranial hemorrhage from non-impact, rapid head rotations in the piglet
+JO  - International Journal of Developmental Neuroscience
+JA  - International Journal of Developmental Neuroscience
+VL  - 30
+IS  - 3
+SN  - 0736-5748
+UR  - https://doi.org/10.1016/j.ijdevneu.2011.12.009
+DO  - doi:10.1016/j.ijdevneu.2011.12.009
+SP  - 191
+EP  - 200
+KW  - Subdural hemorrhage
+KW  - Traumatic brain injury
+KW  - Falls
+KW  - Brain–skull displacement
+KW  - Pediatric
+KW  - Finite element
+PY  - 2012
+AB  - Abstract Clinicians are charged with the significant task of distinguishing between accidental and inflicted head trauma. Oftentimes this distinction is straightforward, but many times probabilities of injuries from accidental scenarios are unknown making the differential diagnosis difficult. For example, it is unknown whether intracranial hemorrhage (IH) can occur at a location other than a focal contact site following a low height fall. To create a foundation for predicting regional IH in infants, we sought to identify the biomechanical response and injury threshold best able to predict IH in 3?5 day old piglets. First, finite element (FE) model simulations of in situ animal studies were performed to ascertain the optimal representation of the pia-arachnoid complex, cerebrospinal fluid and cortical vasculature (PCC) for predicting brain strain and brain/skull displacement. Second, rapid head rotations resulting in various degrees of IH were simulated (n = 24) to determine the biomechanical predictor and injury threshold most closely correlated with IH. FE models representing the PCC with either spring connectors or solid elements between the brain and skull resulted in peak brain strain and brain/skull displacement similar to measured values in situ. However, when predicting IH, the spring connector representation of the PCC had the best predictive capability for IH with a sensitivity of 80% and a specificity of 85% when ≥1% of all spring connectors had at least a peak strain of 0.31 mm/mm. These findings and reported methodology will be used in the development of a human infant FE model to simulate real-world falls and identify injury thresholds for predicting IH in infants.
+ER  - 
+
+TY  - JOUR
+AU  - Jayanthi, Jayaraj L.
+AU  - Subhash, Narayanan
+AU  - Stephen, Manju
+AU  - Philip, Emmanuel K.
+AU  - Beena, Valappil T.
+TI  - Comparative evaluation of the diagnostic performance of autofluorescence and diffuse reflectance in oral cancer detection: a clinical study
+JO  - Journal of Biophotonics
+JA  - J. Biophoton.
+VL  - 4
+IS  - 10
+SN  - 1864-063X
+UR  - https://doi.org/10.1002/jbio.201100037
+DO  - doi:10.1002/jbio.201100037
+SP  - 696
+EP  - 706
+KW  - Tissue autofluorescence
+KW  - diffuse reflectance spectroscopy
+KW  - principal component analysis
+KW  - linear discriminant analysis
+KW  - ROC curve
+KW  - oral cancer
+PY  - 2011
+AB  - Abstract Autofluorescence (AF) and diffuse reflectance (DR) spectroscopic techniques have shown good diagnostic accuracies for noninvasive detection of oral cavity cancer. In the present study, AF and DR spectra recorded in vivo from the same set of sites in 65 patients were analyzed using Principal component analysis (PCA) and linear discriminant analysis (LDA). The effectiveness of these two techniques was assessed by comparison with gold standard and their discrimination efficiency was determined from the area under the receiver operator characteristic (AUC-ROC) curve. Analysis using a DR technique shows a higher AUC-ROC of 0.991 as against 0.987 for AF spectral data. (? 2011 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim)
+ER  - 
+
+TY  - JOUR
+AU  - Marcon, G.
+AU  - Massaro Carneiro Monteiro, G.
+AU  - Ballester, P.
+AU  - Cassidy, R. M.
+AU  - Zimerman, A.
+AU  - Brunoni, A. R.
+AU  - von Diemen, L.
+AU  - Hauck, S.
+AU  - Passos, I. C.
+TI  - Who attempts suicide among medical students?
+JO  - Acta Psychiatrica Scandinavica
+JA  - Acta Psychiatr Scand
+VL  - n/a
+IS  - n/a
+SN  - 0001-690X
+UR  - https://doi.org/10.1111/acps.13137
+DO  - doi:10.1111/acps.13137
+KW  - suicide
+KW  - risk factors
+KW  - self-report
+AB  - Objective To identify factors associated with a history of suicide attempt in medical students. Methods A Web-based survey was sent out to a sample of medical students. A multi-predictor Poisson regression was performed to identify factors associated with a history of suicide attempt. In addition, an elastic net regularization was used to build a risk calculator to identify students at risk for attempted suicide. Results A total of 4,840 participants were included in the study. Prevalence of suicide attempts in the sample was 8.94%. Risk factors associated with past suicide attempt in the multi-predictor Poisson regression were as follows: female gender (P < 0.001); homosexuality (P < 0.001); low income (P = 0.026); bullying by university peers (P = 0.006); childhood (P = 0.001) or adult (P = 0.001) trauma; family history of suicide (P = 0.005); suicidal ideation within the last month (P < 0.001); daily tobacco use (P = 0.037); and being at severe risk for alcohol abuse (P = 0.023). Our elastic net model performed well with an AUC of 0.83. Conclusions This study identifies a number of key factors associated with a history of suicide attempts among medical students. Future longitudinal studies should assess the causal relationship between these factors and suicide attempts. Additionally, these results demonstrate that current available data on suicide attempts among medical students can be used to develop an accurate risk algorithm.
+ER  - 
+
+TY  - JOUR
+AU  - Dietz, H. P.
+AU  - Lekskulchai, O.
+TI  - Ultrasound assessment of pelvic organ prolapse: the relationship between prolapse severity and symptoms
+JO  - Ultrasound in Obstetrics & Gynecology
+JA  - Ultrasound Obstet Gynecol
+VL  - 29
+IS  - 6
+SN  - 0960-7692
+UR  - https://doi.org/10.1002/uog.4024
+DO  - doi:10.1002/uog.4024
+SP  - 688
+EP  - 691
+KW  - cystocele
+KW  - pelvic floor ultrasound
+KW  - prolapse
+KW  - rectocele
+KW  - symptoms
+KW  - translabial ultrasound
+PY  - 2007
+AB  - Abstract Objective At present little information is available to help define whether a certain degree of pelvic organ prolapse is clinically relevant. We performed a retrospective study to define cut-offs for significant pelvic organ descent on the basis of prolapse symptoms. Methods At a tertiary urogynecological center, 735 women with symptoms of lower urinary tract dysfunction and prolapse were seen for interview, clinical examination, multi-channel urodynamics and ultrasound imaging, while supine and after voiding, for prolapse quantification. Women with multi-compartment prolapse, i.e. those in whom no compartment was clearly dominant were excluded. Receiver?operator statistics were used to test pelvic organ descent as a predictor of prolapse symptoms. Results Mean age was 55.1 years, mean parity 2.8 (range, 0?12). Symptoms of prolapse were reported by 188 women (25.6%). Seventy-four showed a symptomatic multi-compartment prolapse and were excluded, 56 symptomatic women had cystoceles and 48 had rectoceles. Symptomatic cystoceles descended on average to 23.8 mm below the symphysis pubis and symptomatic rectoceles to 21.4 mm below the symphysis pubis. Descent was strongly associated with symptoms of prolapse (both, P < 0.001). Receiver?operating characteristics (ROC) statistics suggested a cut-off of 10 mm below the symphysis pubis for cystocele, and 15 mm below the symphysis pubis for rectocele. ROC curves were similar for both compartments (area under the curve, 0.857 and 0.821, respectively). Conclusions Descent of the bladder to ≥ 10 mm and of the rectum to ≥ 15 mm below the symphysis pubis are strongly associated with symptoms, and these values are proposed as cut-offs for the diagnosis of significant prolapse on the basis of ROC statistics. Copyright ? 2007 ISUOG. Published by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Maliye, S.
+AU  - Voute, L.
+AU  - Lund, D.
+AU  - Marshall, J. F.
+TI  - An inertial sensor-based system can objectively assess diagnostic anaesthesia of the equine foot
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 45
+IS  - S45
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12158
+DO  - doi:10.1111/evj.12158
+SP  - 26
+EP  - 30
+KW  - horse
+KW  - inertial sensor-based
+KW  - objectively
+KW  - diagnostic anaesthesia
+KW  - foot
+PY  - 2013
+AB  - Summary Reasons for performing study In order for changes in lameness to be accurately and repeatably detected and recorded during diagnostic investigations, an objective measure of lameness is required. Objectives To ascertain whether an inertial sensor-based system can distinguish between a positive and negative response to diagnostic anaesthesia of the foot and objectively assess the effect of a positive response on the trot. Study design Restrospective clinical study. Methods Data obtained during lameness investigations undertaken between August 2011 and December 2012 in which either a palmar digital or abaxial sesamoid nerve block was performed were retrospectively reviewed. Response to diagnostic anaesthesia was categorised as positive (n = 14) or negative (n = 9) by one of 2 evaluators before analysis of kinematic data (i.e. blinded). Changes in maximum and minimum head difference (?HDMax and ?HDMin) and change in head movement asymmetry/change in pelvic movement asymmetry (?HMA/PMA, measure of asymmetry) allocated to each limb were calculated. A Kruskal?Wallis one way analysis of variance on ranks was performed. Receiver operating characteristic (ROC) curves were generated for ?HDMax, ?HDMin and ?HMA for the blocked limb to identify cut-off values to distinguish positive and negative responses to the block. Results Median ?HDMax and ?HDMin were significantly greater after a positive response to diagnostic anaesthesia (P<0.01). Change in head movement asymmetry allocated to the blocked limb and contralateral forelimb and ?PMA allocated to the contralateral hindlimb were significantly greater in the positive response group (P<0.05). Change in head movement asymmetry allocated to the blocked limb and ?HDMax and ?HDMin are useful diagnostic tests for identifying positive response to anaesthesia (area under the curve = 0.98, 0.83 and 0.96 respectively). Conclusions An inertial sensor-based system can identify a positive response to diagnostic anaesthesia of the foot. Symmetry of movement allocated to the blocked limb, contralateral forelimb and contralateral hindlimb significantly improve, and head movement significantly decreases in horses with a positive response to the block. Cut-off values for a positive response have been identified with good sensitivity and specificity. Forelimb lameness significantly affects contralateral hindlimb movement, which has implications for the investigation of multi-limb lameness.
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Chih-Chien
+AU  - Wang, Chih-Hsin
+AU  - Chen, Hsiang-Cheng
+AU  - Cherng, Juin-Hong
+AU  - Chang, Shu-Jen
+AU  - Wang, Yi-Wen
+AU  - Chang, Adrienne
+AU  - Yeh, Jue-Zong
+AU  - Huang, Yi-Huei
+AU  - Liu, Cheng-Che
+TI  - Combination of resveratrol-containing collagen with adipose stem cells for craniofacial tissue-engineering applications
+JO  - International Wound Journal
+JA  - Int Wound J
+VL  - 15
+IS  - 4
+SN  - 1742-4801
+UR  - https://doi.org/10.1111/iwj.12910
+DO  - doi:10.1111/iwj.12910
+SP  - 660
+EP  - 672
+KW  - biocompatibility
+KW  - bone regeneration
+KW  - collagen
+KW  - oral mucosal
+KW  - resveratrol
+PY  - 2018
+AB  - Repair and regeneration of craniofacial tissues is particularly challenging because they comprise a complex structure of hard and soft tissues involved in intricate functions. This study combined collagen scaffolds and human adipose stem cells (hASCs) for oral mucosal and calvarial bone regeneration by using resveratrol (RSV), which affects the differentiation of mesenchymal stem cells. We have evaluated the effect of collagen scaffold-containing RSV (collagen/RSV) scaffolds both in vitro and in vivo for their wound healing and bone regeneration potential. Scanning electron microscopy and immunostaining results reveal that hASCs adhere well to and proliferate on both collagen scaffolds and collagen/RSV scaffolds. Oral mucosal lesion experiments demonstrated that the collagen/RSV scaffold is more effective in wound closure and contraction than the collagen scaffold. The micro-computed tomography (?CT) images of calvarial bone display regenerating bone in defects covered with hASCs on collagen/RSV scaffolds that are more visible than that in defects covered with hASCs on a collagen scaffolds. RSV was more effective at inducing hASC differentiation on the collagen scaffold, suggesting that collagen/RSV scaffolds can provide useful biological cues that stimulate craniofacial tissue formation.
+ER  - 
+
+TY  - JOUR
+AU  - Gibbons, Robert D.
+AU  - Alegria, Margarita
+AU  - Markle, Sheri
+AU  - Fuentes, Larimar
+AU  - Zhang, Liting
+AU  - Carmona, Rodrigo
+AU  - Collazos, Francisco
+AU  - Wang, Ye
+AU  - Baca-García, Enrique
+C8  - ADD-18-1092.R2
+TI  - Development of a computerized adaptive substance use disorder scale for screening and measurement: the CAT-SUD
+JO  - Addiction
+JA  - Addiction
+VL  - n/a
+IS  - n/a
+SN  - 0965-2140
+UR  - https://doi.org/10.1111/add.14938
+DO  - doi:10.1111/add.14938
+KW  - bifactor model
+KW  - Computerized adaptive testing
+KW  - item response theory
+KW  - Latino
+KW  - mental health
+KW  - substance use disorder
+AB  - Abstract Background and aims The focus of this paper is on the improvement of substance use disorder (SUD) screening and measurement. Using a multi-dimensional item response theory model, the bifactor model, we provide a psychometric harmonization between SUD, depression, anxiety, trauma, social isolation, functional impairment and risk-taking behavior symptom domains, providing a more balanced view of SUD. The aims are to (1) develop the item-bank, (2) calibrate the item-bank using a bifactor model that includes a primary dimension and symptom-specific subdomains, (3) administer using computerized adaptive testing (CAT) and (4) validate the CAT-SUD in Spanish and English in the United States and Spain. Design Item bank construction, item calibration phase, CAT-SUD validation phase. Setting Primary care, community clinics, emergency departments and patient-to-patient referrals in Spain (Barcelona and Madrid) and the United States (Boston and Los Angeles). Participants/cases Calibration phase: the CAT-SUD was developed via simulation from complete item responses in 513 participants. Validation phase: 297 participants received the Composite International Diagnostic Interview (CIDI) and the CAT-SUD. Measurements A total of 252 items from five subdomains: (1) SUD, (2) psychological disorders, (3) risky behavior, (4) functional impairment and (5) social support. CAT-SUD scale scores and CIDI SUD diagnosis. Findings Calibration: the bifactor model provided excellent fit to the multi-dimensional item bank; 168 items had high loadings (> 0.4 with the majority > 0.6) on the primary SUD dimension. Using an average of 11 items (four to 26), which represents a 94% reduction in respondent burden (average administration time of approximately 2 minutes), we found a correlation of 0.91 with the 168-item scale (precision of 5 points on a 100-point scale). Validation: strong agreement was found between the primary CAT-SUD dimension estimate and the results of a structured clinical interview. There was a 20-fold increase in the likelihood of a CIDI SUD diagnosis across the range of the CAT-SUD (AUC = 0.85). Conclusions We have developed a new approach for the screening and measurement of SUD and related severity based on multi-dimensional item response theory. The bifactor model harmonized information from mental health, trauma, social support and traditional SUD items to provide a more complete characterization of SUD. The CAT-SUD is highly predictive of a current SUD diagnosis based on a structured clinical interview, and may be predictive of the development of SUD in the future.
+ER  - 
+
+TY  - JOUR
+AU  - Tang, Weibing
+AU  - Li, Hongxing
+AU  - Tang, Junwei
+AU  - Wu, Wei
+AU  - Qin, Jingjing
+AU  - Lei, Hao
+AU  - Cai, Peng
+AU  - Huo, Weiwei
+AU  - Li, Bo
+AU  - Rehan, Virender
+AU  - Xu, Xiaoqun
+AU  - Geng, Qiming
+AU  - Zhang, Hongwei
+AU  - Xia, Yankai
+TI  - Specific serum microRNA profile in the molecular diagnosis of Hirschsprung's disease
+JO  - Journal of Cellular and Molecular Medicine
+JA  - J. Cell. Mol. Med.
+VL  - 18
+IS  - 8
+SN  - 1582-1838
+UR  - https://doi.org/10.1111/jcmm.12348
+DO  - doi:10.1111/jcmm.12348
+SP  - 1580
+EP  - 1587
+KW  - HSCR
+KW  - serum miRNA
+KW  - diagnosis
+KW  - signature
+PY  - 2014
+AB  - Abstract Hirschsprung's disease (HSCR), a congenital gastrointestinal disorder, is one of the most common causes of neonatal bowel obstruction. Without an early screening and diagnosis, some patients develop serious complications, such as toxic megacolon or acute enterocolitis. We sought to identify specific serum microRNAs (miRNAs) that can serve as novel early, non-invasive screening signature and then to test their specificity and sensitivity in diagnosing Hirschsprung's disease. We obtained serum samples from 95 HSCR cases and 104 matched controls. An initial screening of miRNA expression was performed through TaqMan Low Density Array. The candidate miRNAs were validated by individual reverse transcription quantitative real-time PCR arranged in the training and a two-stage validation set. Additional double-blind testing was performed in 23 patients with clinically suspected HSCR to evaluate the diagnostic value and accuracy of the serum miRNA profile in predicting HSCR. Following a multi-stage evaluation approach, five miRNAs were significantly increased in HSCR cases compared with controls. The areas under the receiver operating characteristic (ROC) curve of this five-serum miRNA signature were 0.895, 0.893 and 0.925 in training set and two validation sets, respectively. The accuracy rate of the five-miRNA profile as HSCR signature was 82.6%, which, in the double-blind testing set, was markedly higher than that of contrast enema (70%), the most commonly used test performed to diagnose HSCR. Our results indicate that a five-serum miRNA signature may be linked to HSCR, representing a potential, novel, non-invasive diagnostic approach for early screening of HSCR.
+ER  - 
+
+TY  - JOUR
+AU  - Mithani, Karim
+AU  - Mikhail, Mirriam
+AU  - Morgan, Benjamin R.
+AU  - Wong, Simeon
+AU  - Weil, Alexander G.
+AU  - Deschenes, Sylvain
+AU  - Wang, Shelly
+AU  - Bernal, Byron
+AU  - Guillen, Magno R.
+AU  - Ochi, Ayako
+AU  - Otsubo, Hiroshi
+AU  - Yau, Ivanna
+AU  - Lo, William
+AU  - Pang, Elizabeth
+AU  - Holowka, Stephanie
+AU  - Snead, O. Carter
+AU  - Donner, Elizabeth
+AU  - Rutka, James T.
+AU  - Go, Cristina
+AU  - Widjaja, Elysa
+AU  - Ibrahim, George M.
+TI  - Connectomic Profiling Identifies Responders to Vagus Nerve Stimulation
+JO  - Annals of Neurology
+JA  - Ann Neurol
+VL  - 86
+IS  - 5
+SN  - 0364-5134
+UR  - https://doi.org/10.1002/ana.25574
+DO  - doi:10.1002/ana.25574
+SP  - 743
+EP  - 753
+PY  - 2019
+AB  - Objective Vagus nerve stimulation (VNS) is a common treatment for medically intractable epilepsy, but response rates are highly variable, with no preoperative means of identifying good candidates. This study aimed to predict VNS response using structural and functional connectomic profiling. Methods Fifty-six children, comprising discovery (n = 38) and validation (n = 18) cohorts, were recruited from 3 separate institutions. Diffusion tensor imaging was used to identify group differences in white matter microstructure, which in turn informed beamforming of resting-state magnetoencephalography recordings. The results were used to generate a support vector machine learning classifier, which was independently validated. This algorithm was compared to a second classifier generated using 31 clinical covariates. Results Treatment responders demonstrated greater fractional anisotropy in left thalamocortical, limbic, and association fibers, as well as greater connectivity in a functional network encompassing left thalamic, insular, and temporal nodes (p <?0.05). The resulting classifier demonstrated 89.5% accuracy and area under the receiver operating characteristic (ROC) curve of 0.93 on 10-fold cross-validation. In the external validation cohort, this model demonstrated an accuracy of 83.3%, with a sensitivity of 85.7% and specificity of 75.0%. This was significantly superior to predictions using clinical covariates alone, which exhibited an area under the ROC curve of 0.57 (p <?0.008). Interpretation This study provides the first multi-institutional, multimodal connectomic prediction algorithm for VNS, and provides new insights into its mechanism of action. Reliable identification of VNS responders is critical to mitigate surgical risks for children who may not benefit, and to ensure cost-effective allocation of health care resources. ANN NEUROL 2019;86:743?753
+ER  - 
+
+TY  - JOUR
+AU  - Lee, Tsuey-Ping
+AU  - Yang, Yungnane
+AU  - Tung, Chien-Hung
+TI  - Social welfare needs of residents in polluted areas: A case of Dioxin pollution in southern Taiwan
+JO  - Public Administration and Development
+JA  - Public Admin. Dev.
+VL  - 29
+IS  - 3
+SN  - 0271-2075
+UR  - https://doi.org/10.1002/pad.528
+DO  - doi:10.1002/pad.528
+SP  - 239
+EP  - 249
+KW  - dioxin pollution
+KW  - social welfare needs
+KW  - environmental justice
+KW  - environmental governance
+KW  - Taiwan
+PY  - 2009
+AB  - Abstract This article defines the social welfare needs of residents living in a severely polluted community by examining a set of communities around the An-shun plant in southern Taiwan that were polluted by dioxin. The study examines the inhabitants' economic status, the communities' manpower utilization, and the prevention of social contingencies and the provision of aftercare. A survey conducted between March?April 2008 revealed the need to reduce poverty in these highly polluted communities, to identify and maximize each community's human resources, to address illness, aging, pollution, and lack of professional skills, and to better inform residents about pollution so that they can understand how to protect themselves. The article concludes with suggested programs to meet the social welfare needs of residents in a highly polluted community. Copyright ? 2009 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Dickson, D.
+AU  - Little, C. J. L.
+AU  - Harris, J.
+AU  - Rishniw, M.
+TI  - Rapid assessment with physical examination in dyspnoeic cats: the RAPID CAT study
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 59
+IS  - 2
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/jsap.12732
+DO  - doi:10.1111/jsap.12732
+SP  - 75
+EP  - 84
+PY  - 2018
+AB  - Objectives To determine the underlying disease prevalence in acute feline dyspnoea and to examine whether historical and clinical examination findings can differentiate between acute cardiac and non-cardiac dyspnoea in cats in primary practice. Materials and Methods We prospectively enrolled cats presenting with dyspnoea for the first time to primary practice between June 1, 2011 and October 31, 2016. We collected signalment, historical and clinical data at presentation using a standard form. Cases were investigated by primary clinicians, and the final diagnosis was confirmed by the authors. Records lacking critical data were excluded. Relationships between historical or clinical variables and dyspnoea aetiology were examined. Diagnostic test performance analyses were used to find optimal cut-off values for select historical or clinical variables that could differentiate cardiac and non-cardiac dyspnoea. Results Participants included 108 cats. A definitive diagnosis was reached in 92 cases; 60 were cardiac (65%), 15 respiratory (16%), 10 neoplastic (11%) and 7 traumatic (8%). Of cats with cardiac dyspnoea, 25% had a history of cough. A gallop sound, rectal temperature less than 37·5°C, heart rate of greater than 200?bpm and respiratory rate greater than 80 per minute were all useful to predict cardiac-associated dyspnoea. A triage algorithm using these findings in combination was designed to optimise the rapid diagnosis of probable cardiac dyspnoea. Clinical Significance Dyspnoeic cats presenting in practice with hypothermia, tachycardia, gallop sounds or profound tachypnoea are likely to have a cardiac cause underlying their dyspnoea. Although diagnosis requires confirmation, clinicians may be able to stratify risk and prioritise further investigation based on these findings.
+ER  - 
+
+TY  - JOUR
+AU  - Peng, Yu-Yun
+AU  - Soong, Wen-Jue
+AU  - Lee, Yu-Sheng
+AU  - Tsao, Pei-Chen
+AU  - Yang, Chia-Feng
+AU  - Jeng, Mei-Jy
+TI  - Flexible bronchoscopy as a valuable diagnostic and therapeutic tool in pediatric intensive care patients: A report on 5 years of experience
+JO  - Pediatric Pulmonology
+JA  - Pediatr. Pulmonol.
+VL  - 46
+IS  - 10
+SN  - 8755-6863
+UR  - https://doi.org/10.1002/ppul.21464
+DO  - doi:10.1002/ppul.21464
+SP  - 1031
+EP  - 1037
+KW  - bronchoscopy
+KW  - flexible endoscopy
+KW  - intensive care
+KW  - interventional bronchoscopy
+PY  - 2011
+AB  - Abstract Objective To evaluate the clinical role of flexible bronchoscopy (FB) in pediatric and neonatal intensive care units (ICUs). Design A retrospective review of all patients receiving FB procedures between January 2005 and December 2009. Setting Pediatric and neonatal ICUs of a tertiary care multi-disciplinary teaching hospital located in northern Taiwan. Patients A total of 358 ICU patients (223 males) who received 725 FB procedures. Measurements and Main Results The medical records were reviewed and analyzed. Mean age for the first time FB was 35.7 (±48.9 SD) months old and 68.2% of them were <3 years old. Among them, unexplained retraction or tachypnea (32.0%) and stridor (20.1%) were the two leading indications for FB. The positive finding rate of FB was 87.2%, with airway malacia (47.8%) being the most common, especially in patients <3 years old. Positive lesion sites were approximately equally distributed between the upper (51.1%) and lower (50.6%) airways. Concomitant findings in the esophagus were found in 15.4% of the patients. There were 518 interventional FBs (71.4%, 518/725 procedures) which were performed on 201 (56.1%, 201/358) patients; FB-aided endotracheal intubation (180/518, 34.7%) and laser therapy (109/518, 21.0%) were the two leading techniques used. No patient suffered from any long-term complications or mortality associated with the FB procedures. Conclusions FB is a safe and valuable diagnostic and therapeutic tool for patients in pediatric and neonatal ICUs. Pediatr. Pulmonol. 2011; 46:1031?1037. ? 2011 Wiley-Liss, Inc.
+ER  - 

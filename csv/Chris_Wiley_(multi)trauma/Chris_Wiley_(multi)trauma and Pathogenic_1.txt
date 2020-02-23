@@ -1,0 +1,449 @@
+
+C7  - pp. 481-493
+TI  - The Liver in Systemic Disease, Granulomas and Hepatic Trauma
+SN  - 9780632055821
+UR  - https://doi.org/10.1002/9780470986820.ch28
+DO  - doi:10.1002/9780470986820.ch28
+SP  - 481-493
+KW  - granulomas
+KW  - rheumatoid arthritis
+KW  - hepatic trauma
+KW  - genetic haemochromatosis
+KW  - hepatic granulomas
+PY  - 2001
+AB  - Summary This chapter contains sections titled: Arthropathy associated with liver disease Hepatic granulomas Hepatobiliary associations of in fiammatory bowel disease Hepatic trauma
+ER  - 
+
+TY  - JOUR
+AU  - Rovegno, Maximiliano
+AU  - Soto, Paola A.
+AU  - Sáez, Pablo J.
+AU  - Naus, Christian C.
+AU  - Sáez, Juan C.
+AU  - von Bernhardi, Rommy
+TI  - Connexin43 hemichannels mediate secondary cellular damage spread from the trauma zone to distal zones in astrocyte monolayers
+JO  - Glia
+JA  - Glia
+VL  - 63
+IS  - 7
+SN  - 9780632055821
+UR  - https://doi.org/10.1002/glia.22808
+DO  - doi:10.1002/glia.22808
+SP  - 1185
+EP  - 1199
+KW  - traumatic brain injury
+KW  - connexins
+KW  - P2 receptors
+KW  - astroglia
+KW  - apoptosis
+PY  - 2015
+AB  - The mechanism of secondary damage spread after brain trauma remains unsolved. In this work, we redirected the attention to astrocytic communication pathways. Using an in vitro trauma model that consists of a scratch injury applied to an astrocyte monolayer, we found a significant and transient induction of connexin43 (Cx43) hemichannel activity in regions distal from the injury, which was maximal ?1 h after scratch. Two connexin hemichannel blockers, La3+ and the peptide Gap26, abolished the increased activity, which was also absent in Cx43 KO astrocytes. In addition, the scratch-induced increase of hemichannel activity was prevented by inhibition of P2 purinergic receptors. Changes in hemichannel activity took place with a particular spatial distribution, with cells located at ?17 mm away from the scratch presenting the highest activity (dye uptake). In contrast, the functional state of gap junction channels (dye coupling) was not significantly affected. Cx43 hemichannel activity was also enhanced by the acute extracellular application of 60 mM K+. The increase in hemichannel activity was associated with an increment in apoptotic cells at 24 h after scratch that was totally prevented by Gap26 peptide. These findings suggest that Cx43 hemichannels could be a new approach to prevent or reduce the secondary cell damage of brain trauma. GLIA 2015;63:1185?1199
+ER  - 
+
+TY  - JOUR
+TI  - VII. INFECTION AND COLONIZATION OF SURGICAL WOUNDS WITH PATHOGENIC MICRO-ORGANISMS
+JO  - Acta Medica Scandinavica
+VL  - 188
+IS  - S514
+SN  - 9780632055821
+UR  - https://doi.org/10.1111/j.0954-6820.1970.tb05306.x
+DO  - doi:10.1111/j.0954-6820.1970.tb05306.x
+SP  - 33
+EP  - 42
+PY  - 1970
+ER  - 
+
+TY  - JOUR
+AU  - Halldorsdottir, H. D.
+AU  - Eriksson, J.
+AU  - Persson, B. P.
+AU  - Herwald, H.
+AU  - Lindbom, L.
+AU  - Weitzberg, E.
+AU  - Oldner, A.
+TI  - Heparin-binding protein as a biomarker of post-injury sepsis in trauma patients
+JO  - Acta Anaesthesiologica Scandinavica
+JA  - Acta Anaesthesiol. Scand.
+VL  - 62
+IS  - 7
+SN  - 9780632055821
+UR  - https://doi.org/10.1111/aas.13107
+DO  - doi:10.1111/aas.13107
+SP  - 962
+EP  - 973
+PY  - 2018
+AB  - Background Heparin-binding protein (HBP) is a neutrophil-derived protein advocated as a biomarker in sepsis. We evaluated plasma HBP as a predictor of post-injury sepsis in trauma patients. Methods Ninety-seven trauma patients were studied during the first week of intensive care. Injury-related data were collected and clinical parameters registered daily. Plasma HBP was sampled on day 1, 3 and 5 after trauma and evaluated for associations with injury-related parameters and sepsis. The predictive properties of HBP were compared to C-reactive protein (CRP) and white blood cell count (WBC). Results Median Injury Severity Score was 33, one-third of the trauma patients received massive transfusion and a quarter was in shock on arrival. Overall 30-day mortality was 8%. Plasma HBP was significantly higher in severely injured patients and associated with shock on arrival, massive transfusions and organ failure. Septic patients had higher levels of HBP only on day 5. When evaluated for prediction of onset of sepsis during the two following days after plasma sampling by receiver operating characteristic (ROC) analyses, areas under the curves were non-significant for all time points. Similar patterns were seen for CRP and WBC. Conclusion In trauma patients, HBP levels are related to severity of injury and organ dysfunction. Heparin-binding protein was weakly associated with sepsis and only at the later stage of the observation period of 1 week. Moreover, HBP showed poor discriminatory properties as an early biomarker of post-injury sepsis. Trauma-induced inflammation during the post-injury phase may blunt the sepsis-predictive performance of HBP.
+ER  - 
+
+TY  - JOUR
+AU  - Smith, I. M.
+AU  - Crombie, N.
+AU  - Bishop, J. R.
+AU  - McLaughlin, A.
+AU  - Naumann, D. N.
+AU  - Herbert, M.
+AU  - Hancox, J. M.
+AU  - Slinn, G.
+AU  - Ives, N.
+AU  - Grant, M.
+AU  - Perkins, G. D.
+AU  - Doughty, H.
+AU  - Midwinter, M. J.
+AU  - on behalf of the RePHILL Trial Collaborators
+C8  - TME-2017-0151.R1
+TI  - RePHILL: protocol for a randomised controlled trial of pre-hospital blood product resuscitation for trauma
+JO  - Transfusion Medicine
+JA  - Transfusion Med
+VL  - 28
+IS  - 5
+SN  - 9780632055821
+UR  - https://doi.org/10.1111/tme.12486
+DO  - doi:10.1111/tme.12486
+SP  - 346
+EP  - 356
+KW  - blood transfusion
+KW  - emergency medical services
+KW  - haemorrhage
+KW  - randomised controlled trial
+KW  - wounds and injuries
+PY  - 2018
+AB  - SUMMARY Objectives To describe the ?Resuscitation with Pre-HospItaL bLood products? trial (RePHILL) ? a multi-centre randomised controlled trial of pre-hospital blood product (PHBP) administration vs standard care for traumatic haemorrhage. Background PHBP are increasingly used for pre-hospital trauma resuscitation despite a lack of robust evidence demonstrating superiority over crystalloids. Provision of PHBP carries additional logistical and regulatory implications, and requires a sustainable supply of universal blood components. Methods RePHILL is a multi-centre, two-arm, parallel group, open-label, phase III randomised controlled trial currently underway in the UK. Patients attended by a pre-hospital emergency medical team, with traumatic injury and hypotension (systolic blood pressure?<90?mmHg or absent radial pulse) believed to be due to traumatic haemorrhage are eligible. Exclusion criteria include age?<16?years, blood product receipt on scene prior to randomisation, Advanced Medical Directive forbidding blood product administration, pregnancy, isolated head injury and prisoners. A total of 490 patients will be recruited in a 1?: 1 ratio to receive either the intervention (up to two units of red blood cells and two units of lyophilised plasma) or the control (up to four boluses of 250?mL 0.9% saline). The primary outcome measure is a composite of failure to achieve lactate clearance of ≥20%/h over the first 2?hours after randomisation and all-cause mortality between recruitment and discharge from the primary receiving facility to non-acute care. Secondary outcomes include pre-hospital time, coagulation indices, in-hospital transfusion requirements and morbidity. Results Pilot study recruitment began in December 2016. Approval to proceed to the main trial was received in June 2017. Recruitment is expected to continue until 2020. Conclusions RePHILL will provide high-quality evidence regarding the efficacy and safety of PHBP resuscitation for trauma.
+ER  - 
+
+TY  - JOUR
+AU  - Ghosh, Mimi
+AU  - Rodriguez-Garcia, Marta
+AU  - Wira, Charles R.
+TI  - Immunobiology of Genital Tract Trauma: Endocrine Regulation of HIV Acquisition in Women Following Sexual Assault or Genital Tract Mutilation
+JO  - American Journal of Reproductive Immunology
+JA  - Am J Reprod Immunol
+VL  - 69
+IS  - s1
+SN  - 9780632055821
+UR  - https://doi.org/10.1111/aji.12027
+DO  - doi:10.1111/aji.12027
+SP  - 51
+EP  - 60
+KW  - Adaptive immunity
+KW  - female genital mutilation
+KW  - female reproductive tract
+KW  - HIV
+KW  - immune cells
+KW  - innate immunity
+KW  - window of vulnerability sexual trauma
+PY  - 2013
+AB  - Studies on HIV acquisition and transmission in women exposed to sexual trauma throughout their life cycle are lacking, but some findings suggest that rates of HIV acquisition through coercive sex are significantly higher than that seen in consensual sex. Sexual trauma can also occur as a result of female genital mutilation, which makes sex extremely painful and can cause increased abrasions, lacerations, and inflammation, which enhances the risk of HIV acquisition. This review presents an overview of the immune system in the human female reproductive tract (FRT) from adolescence, through puberty to pregnancy and menopause. What is clear is that the foundation of information on immune protection in the FRT throughout the life cycle of women is extremely limited and at some stages such as adolescence and menopause are grossly lacking. Against this backdrop, forced or coercive sexual intercourse as well as genital mutilation further complicates our understanding of the biological risk factors that can result in transmission of HIV and other sexually transmitted infections.
+ER  - 
+
+TY  - JOUR
+AU  - Cetrulo Jr., Curtis L.
+AU  - Barone, Angelo A. Leto
+AU  - Jordan, Kathleen
+AU  - Chang, David S.
+AU  - Louie, Kevin
+AU  - Buntic, Rudolf F.
+AU  - Brooks, Darrell
+TI  - A multi-disciplinary approach to the management of fungal osteomyelitis: Current concepts in post-traumatic lower extremity reconstruction: A case report
+JO  - Microsurgery
+JA  - Microsurgery
+VL  - 32
+IS  - 2
+SN  - 9780632055821
+UR  - https://doi.org/10.1002/micr.20956
+DO  - doi:10.1002/micr.20956
+SP  - 144
+EP  - 147
+PY  - 2012
+AB  - Abstract Limb salvage in fungal osteomyelitis of the post-traumatic lower extremity represents a difficult clinical problem requiring aggressive management. We report lower extremity salvage by radical bony debridement, free tissue transfer, distraction osteogenesis with bone-docking, and a novel antifungal regimen in a clinical setting of infection with Scedosporium inflatum, historically requiring amputation in 100% of cases. We treated Scedosporium inflatum osteomyelitis of the tibia and calcaneus with radical debridement of infected bone, free partial medial rectus abdominis muscle flap coverage, transport distraction osteogenesis, and combination voriconazole/terbinafine chemotherapy, a novel antifungal regimen. We achieved successful control of the infection, limb salvage, and an excellent functional outcome through aggressive debridement of infected bone and soft tissue, elimination of dead space within the bony defect, the robust perfusion provided by the free flap, the hypervascular state induced by distraction osteogenesis, and the synergism of the novel antifungal regimen. ? 2011 Wiley Periodicals, Inc. Microsurgery, 2012.
+ER  - 
+
+TY  - JOUR
+AU  - Nagy, Nina E.
+AU  - Franceschi, Vincent R.
+AU  - Solheim, Halvor
+AU  - Krekling, Trygve
+AU  - Christiansen, Erik
+TI  - Wound-induced traumatic resin duct development in stems of Norway spruce (Pinaceae): anatomy and cytochemical traits
+JO  - American Journal of Botany
+JA  - Am. J. Bot.
+VL  - 87
+IS  - 3
+SN  - 9780632055821
+UR  - https://doi.org/10.2307/2656626
+DO  - doi:10.2307/2656626
+SP  - 302
+EP  - 313
+KW  - Picea abies
+KW  - Pinaceae
+KW  - plant defense
+KW  - polyphenol
+KW  - traumatic resin duct
+KW  - wound response
+PY  - 2000
+AB  - Wounding of Norway spruce by inoculation with sterile agar, or agar containing the pathogenic fungus Ceratocystis polonica, induced traumatic resin duct formation in the stem. Visible anatomical responses occurred in the cambium 6?9 d post-inoculation. Near the inoculation site cellular proliferation, polyphenolic accumulation, and lignification were induced as a wound reaction to seal the damaged area. Five centimetres from the inoculation site cells in the cambial zone swelled and divided to form clusters. By 18 d post-inoculation, these cells began to differentiate into resin duct epithelial cells surrounding incipient schizogenous lumens. Mature axial traumatic ducts appeared by 36 d as a row of ducts in the xylem centripetal to the cambium. The ducts formed an interconnected network continuous with radial resin ducts. Parenchyma cells surrounding the ducts accumulated polyphenols that disappeared as the cells differentiated into tracheids. These polyphenols appeared to contain fewer sugar residues compared to those accumulating in the secondary phloem, as indicated by the periodic acid?Schiff's staining. The epithelial cells did not accumulate polyphenols but contained immunologically detectable phenylalanine ammonia lyase (EC 4.3.1.5), indicating synthesis of phenolics as a possible resin component. These findings may represent a defense mechanism in Norway spruce against the pathogenic fungus Ceratocystis polonica.
+ER  - 
+
+TY  - JOUR
+AU  - Imbernón-Moya, Adrián
+AU  - Ortiz-de Frutos, Francisco Javier
+AU  - Sanjuan-Alvarez, Mónica
+AU  - Portero-Sanchez, Isabel
+AU  - Merinero-Palomares, Raúl
+AU  - Alcazar, Victoria
+TI  - Topical sevoflurane for chronic venous ulcers infected by multi-drug-resistant organisms
+JO  - International Wound Journal
+JA  - Int Wound J
+VL  - 14
+IS  - 6
+SN  - 9780632055821
+UR  - https://doi.org/10.1111/iwj.12794
+DO  - doi:10.1111/iwj.12794
+SP  - 1388
+EP  - 1390
+KW  - Anaesthetic drugs
+KW  - Antibiotics
+KW  - Multi-resistant bacteria
+KW  - Sevoflurane
+KW  - Ulcers
+PY  - 2017
+AB  - Abstract Several anaesthetic drugs have demonstrated antibacterial properties in vitro. Anaesthetics can primarily affect the cell wall of both susceptible and multi-resistant bacteria. They may also have a synergistic effect with conventional antibiotics through an unknown mechanism. We present three cases of a chronic venous ulcer infected by multi-resistant bacteria refractory to conventional systemic antibiotics, including Pseudomonas aeruginosa and methicillin-resistant Staphylococcus aureus (MRSA). Treatment with topical sevoflurane was performed for 1 month without systemic antibiotics. Patients with an MRSA infection showed progressive improvement with negative culture at the end of the treatment. Multi-drug-resistant P. aeruginosa infection persisted at the end of treatment with positive culture. The local adverse events were mild and transient, including heat, pruritus and erythema. Topical sevoflurane may have an antibacterial effect on sensitive and multi-resistant strains. It can allow more complete surgical cleaning, leaving a cleaner wound with less fibrin and necrotic tissue. This decreases the bacterial colonisation and therefore the infectious risk, the bad smell and the exudation. The simultaneous use of conventional antibiotics and topical sevoflurane can have a synergistic antimicrobial effect.
+ER  - 
+
+TY  - JOUR
+AU  - Winblad, B.
+AU  - Ankarcrona, M.
+AU  - Johansson, G.
+AU  - Novak, P.
+AU  - Peter Thelin, E.
+AU  - Zetterberg, H.
+AU  - Blennow, K.
+TI  - Head trauma in sports and risk for dementia
+JO  - Journal of Internal Medicine
+JA  - J Intern Med
+VL  - 285
+IS  - 6
+SN  - 9780632055821
+UR  - https://doi.org/10.1111/joim.12918
+DO  - doi:10.1111/joim.12918
+SP  - 591
+EP  - 593
+KW  - Alzheimer's disease
+KW  - biomarkers
+KW  - dementia
+KW  - sports medicine
+KW  - trauma
+KW  - treatments
+PY  - 2019
+AB  - Content List - Read more articles from the symposium: ?Head Trauma in Sports and Risk for Dementia?.
+ER  - 
+
+TY  - JOUR
+AU  - Steinsapir, KD
+AU  - Goldberg, RA
+AU  - Sinha, S
+AU  - Hovda, DA
+TI  - Methylprednisolone exacerbates axonal loss following optic nerve trauma in rats
+JO  - Journal of the Peripheral Nervous System
+JA  - Journal of the Peripheral Nervous System
+VL  - 7
+IS  - 2
+SN  - 9780632055821
+UR  - https://doi.org/10.1046/j.1529-8027.2002.02011_8.x
+DO  - doi:10.1046/j.1529-8027.2002.02011_8.x
+SP  - 136
+EP  - 136
+PY  - 2002
+AB  - PURPOSE: This study investigates the clinical dogma that very high doses of methylprednisolone helpful in spinal cord injury are also helpful in optic nerve trauma. Methods: The right optic nerve of 29 male rats received a 5 second traumatic crush followed 30 minutes later by one of five intravenous treatments (methylprednisolone 30 mg/kg, 60 mg/kg, 90 mg/kg, 120 mg/kg, or saline). Treatment was continued for three additional administrations at 6 hour intervals. Untreated sham controls (n = 7) were also prepared. Six weeks after injury, animals were sacrificed, perfused and optic nerves systematically counted. RESULTS: Axon counts (means +/? s.e.m.) were as follows: Saline = 16,670 +/? 8,900 (n = 5); Methylprednisolone: 30 mg/kg = 8,098 +/? 4,741 (n = 5); 60 mg/kg = 6,925 +/? 6,517 (n = 4); 90 mg/kg = 2,663 +/? 2,653 (n = 4); 120 mg/kg = 6,149 +/? 3,487 (n = 6). Consequently, the data revealed that saline treated animals retained more axons than those that were administered methylprednisolone (p < 0.02). CONCLUSIONS: We conclude that methylprednisolone exacerbates axonal loss following crush injury in the rat optic nerve. Based on the results of this study, clinical studies of traumatic optic neuropathy in the future should also examine the possibility that corticosteroid treatment may have an adverse effect on visual outcome following optic nerve trauma.
+ER  - 
+
+TY  - JOUR
+AU  - Lenz, Patrick R. N.
+AU  - Nadeau, Simon
+AU  - Mottet, Marie-Josée
+AU  - Perron, Martin
+AU  - Isabel, Nathalie
+AU  - Beaulieu, Jean
+AU  - Bousquet, Jean
+TI  - Multi-trait genomic selection for weevil resistance, growth, and wood quality in Norway spruce
+JO  - Evolutionary Applications
+JA  - Evol Appl
+VL  - 13
+IS  - 1
+SN  - 9780632055821
+UR  - https://doi.org/10.1111/eva.12823
+DO  - doi:10.1111/eva.12823
+SP  - 76
+EP  - 94
+KW  - breeding
+KW  - conifers
+KW  - index selection
+KW  - insect resistance
+KW  - multi-trait genomic selection
+KW  - Norway spruce
+KW  - white pine weevil
+KW  - wood quality
+PY  - 2020
+AB  - Abstract Plantation-grown trees have to cope with an increasing pressure of pest and disease in the context of climate change, and breeding approaches using genomics may offer efficient and flexible tools to face this pressure. In the present study, we targeted genetic improvement of resistance of an introduced conifer species in Canada, Norway spruce (Picea abies (L.) Karst.), to the native white pine weevil (Pissodes strobi Peck). We developed single- and multi-trait genomic selection (GS) models and selection indices considering the relationships between weevil resistance, intrinsic wood quality, and growth traits. Weevil resistance, acoustic velocity as a proxy for mechanical wood stiffness, and average wood density showed moderate-to-high heritability and low genotype-by-environment interactions. Weevil resistance was genetically positively correlated with tree height, height-to-diameter at breast height (DBH) ratio, and acoustic velocity. The accuracy of the different GS models tested (GBLUP, threshold GBLUP, Bayesian ridge regression, BayesCπ) was high and did not differ among each other. Multi-trait models performed similarly as single-trait models when all trees were phenotyped. However, when weevil attack data were not available for all trees, weevil resistance was more accurately predicted by integrating genetically correlated growth traits into multi-trait GS models. A GS index that corresponded to the breeders? priorities achieved near maximum gains for weevil resistance, acoustic velocity, and height growth, but a small decrease for DBH. The results of this study indicate that it is possible to breed for high-quality, weevil-resistant Norway spruce reforestation stock with high accuracy achieved from single-trait or multi-trait GS.
+ER  - 
+
+TY  - JOUR
+AU  - Patel, Sinal
+AU  - Choi, Jae Hwan
+AU  - Moncho Escrivá, Ester
+AU  - Rizvi, Syed Saif Abbas
+AU  - Maynes, Elizabeth J.
+AU  - Samuels, Louis E.
+AU  - Luc, Jessica G. Y.
+AU  - Morris, Rohinton J.
+AU  - Massey, Howard T.
+AU  - Tchantchaleishvili, Vakhtang
+AU  - Aburjania, Nana
+TI  - Single versus multi-drug antimicrobial surgical infection prophylaxis for left ventricular assist devices: A systematic review and meta-analysis
+JO  - Artificial Organs
+JA  - Artif Organs
+VL  - 43
+IS  - 7
+SN  - 9780632055821
+UR  - https://doi.org/10.1111/aor.13441
+DO  - doi:10.1111/aor.13441
+SP  - E124
+EP  - E138
+KW  - antibiotics prophylaxis
+KW  - circulatory support devices
+KW  - infections
+KW  - left ventricular assist device
+KW  - survival rates
+PY  - 2019
+AB  - Abstract Infection remains the Achilles heel of left ventricular assist device (LVAD) therapy. However, an optimal antimicrobial surgical infection prophylaxis (SIP) regimen has not been established. This study evaluated the efficacy of a single-drug SIP compared to a multi-drug SIP on clinical outcomes in patients undergoing continuous-flow LVAD (CF-LVAD) and pulsatile LVAD (P-LVAD) implantation. An electronic search was performed to identify studies in the English literature on SIP regimens in patients undergoing LVAD implantation. Identified articles were assessed for inclusion and exclusion criteria. Fourteen articles with 1,311 (CF-LVAD: 888; P-LVAD: 423) patients were analyzed. Overall, 501 (38.0%) patients received single-drug SIP, whereas 810 (62.0%) received multi-drug SIP. Time to infection was comparable between groups. There was no significant difference in overall incidence of LVAD-specific infections [single-drug: 18.7% vs. multi-drug: 24.8%, P = 0.49] including driveline infections [single-drug: 14.1% vs. multi-drug: 20.8%, P = 0.37]. Compared to single-drug SIP, patients who received multi-drug SIP had a significantly lower survival rate [single-drug: 90.0% vs. multi-drug: 76.0%, P = 0.01] and infection-free survival rate [single-drug: 88.4% vs. multi-drug: 77.3%, P = 0.04] at 90 days. However, there were no significant differences in 1-year survival and 1-year infection-free survival between groups. No survival differences were observed in the CF-LVAD subset as well. This study demonstrated no additional advantage of a multi-drug compared to a single-drug regimen for SIP. Although there was a modest advantage in early survival among CF-LVAD and P-LVAD patients who received single-drug SIP, there were no significant differences in the 1-year survival and 1-year infection-free survival.
+ER  - 
+
+TY  - JOUR
+AU  - Martín-Rodrigues, Noemí
+AU  - Espinel, Santiago
+AU  - Sanchez-Zabala, Joseba
+AU  - Ortíz, Amaia
+AU  - González-Murua, Carmen
+AU  - Duñabeitia, Miren K.
+TI  - Spatial and temporal dynamics of the colonization of Pinus radiata by Fusarium circinatum, of conidiophora development in the pith and of traumatic resin duct formation
+JO  - New Phytologist
+JA  - New Phytol
+VL  - 198
+IS  - 4
+SN  - 9780632055821
+UR  - https://doi.org/10.1111/nph.12222
+DO  - doi:10.1111/nph.12222
+SP  - 1215
+EP  - 1227
+KW  - confocal microscopy
+KW  - conidiation
+KW  - Fusarium
+KW  - GFP
+KW  - infection process
+KW  - Pinus
+KW  - pitch canker
+KW  - traumatic resin ducts
+PY  - 2013
+AB  - Summary Fusarium circinatum causes pitch canker disease in a wide range of pine trees, including Pinus radiata, with devastating economic consequences. To assess the spatial and temporal dynamics of growth of this pathogen in radiata pine, we examined the process of infection using both real-time PCR to quantify fungal biomass inside the plant host, and confocal microscopy using a green fluorescent protein (GFP)-tagged strain of F. circinatum. Pathogen growth exhibited three distinct phases: an initial exponential increase in fungal biomass, concomitant with pathogen colonization of the cortex and phloem; a slowdown in fungal growth coincident with sporulating hyphae deep within the host; and stabilization of the fungal biomass when the first wilting symptoms appeared. The number of resin ducts in the xylem was found to increase in response to infection and the fungus grew inside both constitutive and traumatic resin ducts. These results indicate that conidiation may contribute to the spatial or temporal dissemination of the pathogen. Moreover, the present findings raise the intriguing possibility that the generation of traumatic resin ducts may be of more benefit to the fungus than to the plant.
+ER  - 
+
+TY  - JOUR
+AU  - Ho, K.K.
+TI  - TO REVIEW THE CARDIOTHORACIC TRAUMA AT QUEEN ELIZABETH HOSPITAL 1995–2000
+JO  - Annals of the College of Surgeons of Hong Kong
+VL  - 5
+IS  - 2
+SN  - 9780632055821
+UR  - https://doi.org/10.1111/j.1442-2034.2001.98-7.x
+DO  - doi:10.1111/j.1442-2034.2001.98-7.x
+SP  - A16
+EP  - A16
+PY  - 2001
+AB  - Purpose: All cardiothoracic consultations initiated at Accident and Emergency Department for period February 1995 to November 2000 were reviewed. Methods: Information was extracted from Trauma Registry of over 1000 cases. Results: 61 consultation was recorded. There were 33 blunt injury and 28 penetrating injury. 21 cases were of ISS 15 or less. Surgery for thoracic injury was performed in 13 cases of blunt injury (40%) and 20 cases of penetrating injury (70%). Majority of surgery was related to chest wall and lung injury. In addition there were 3 major intrathoracic vessel, 6 cardiac, 3 diaphragmatic and 1 major airway injury. 20 deaths were recorded with 4 deaths at A&E department. Mortality is related to severity of ISS and age >70. 4 ER-thoracotomy was performed with 3 deaths. There were related to heart and aorta injury with average ISS≥50. Conclusion: 1. Major cardiothoracic trauma is not common. 2. When present, it is associated with severe injury. 3. The outcome is related to severity of ISS and old age.
+ER  - 
+
+TY  - JOUR
+AU  - Nolff, M. C.
+AU  - Reese, S.
+AU  - Fehr, M.
+AU  - Dening, R.
+AU  - Meyer-Lindenberg, A.
+TI  - Assessment of wound bio-burden and prevalence of multi-drug resistant bacteria during open wound management
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 57
+IS  - 5
+SN  - 9780632055821
+UR  - https://doi.org/10.1111/jsap.12476
+DO  - doi:10.1111/jsap.12476
+SP  - 255
+EP  - 259
+PY  - 2016
+AB  - Objective To describe the bacterial bio-burden of open-treated wounds and make comparisons with bite wounds. Design Retrospective multicentre study. Sample Microbial culture between 2011 and 2013 from open-treated wounds in dogs and cats (initiation of therapy n=88, follow-up n=52) were compared to those from bite wounds (n=184). Procedures Bacteria were identified and tested for antibiotic susceptibility by two accredited laboratories. Results In total, 77/88 (88%) of open-treated wounds yielded positive bacterial cultures at the beginning of treatment, decreasing to 27/52 (52%) during treatment. Upon initial evaluation, 42/88 (48 %) of open-treated wounds were considered infected with multi-drug-resistant bacteria, with a drop to 22/52 (41%) during therapy. Bite wounds yielded fewer positive cultures 88/184 (48%) with only 11/182 (6%) being affected by multi-drug-resistant bacteria. Bacteria found most commonly in open-treated wounds were Enterococcus subspecies, Escherichia coli, Staphylococcus pseudintermedius and Pseudomonas aeruginosa. Conclusion The bacterial populations of open-treated wounds differed markedly from the bite wounds. The high incidence of multi-drug-resistant strains in open wounds highlights the need for alternatives to antibiotics.
+ER  - 
+
+TY  - JOUR
+AU  - Hui, K.C.W.
+AU  - Yiu, C.P.
+AU  - Lam, L.K.
+AU  - Tsang, N.C.K.
+TI  - THE DIAGNOSIS AND MANAGEMENT OF ORBITAL FRACTURE, A MULTI-DISCIPLINARY APPROACH
+JO  - Annals of the College of Surgeons of Hong Kong
+VL  - 5
+IS  - 2
+SN  - 9780632055821
+UR  - https://doi.org/10.1111/j.1442-2034.2001.98-8.x
+DO  - doi:10.1111/j.1442-2034.2001.98-8.x
+SP  - A17
+EP  - A17
+PY  - 2001
+AB  - The orbit is made up of seven bones, of which, the inferior wall is most vulnerable to injury and the lateral wall, the least common. In assessing facial trauma, it is crucial to include a comprehensive examination and to manage the orbital fractures accordingly. Orbital floor fracture may present with enophthalmos, diplopia and inferior orbital neuropathy. The infra-orbital rim may show a step-off deformity. Full ophthalmologic evaluation is important to rule out optic nerve neuropathy, retinal bleed, and corneal abrasion. Fracture extending to the superior orbital fissure is known as the superior orbital fissure syndrome, often presented with third, fourth and sixth cranial nerves dysfunction. Orbital roof fracture may involve the frontal lobe and frontal sinus. Fracture involving the naso-orbital ethmoid complex may present with CSF leak, diplopia, displaced medial canthus and nasal fracture. High-resolution 1.5mm CT scans is most useful in the aid of diagnosis in addition to tomography. Displaced fractures should be corrected surgically before bony union. Two examples of complex orbital fractures will be presented, illustrating the importance of a multi-surgical team approach to achieve the optimum results.
+ER  - 
+
+TY  - JOUR
+AU  - Thomas-Peter, Brian A.
+AU  - Jones, Jason
+AU  - Campbell, Stephen
+AU  - Oliver, Caroline
+TI  - Debasement and faking bad on the Millon Clinical Multi-axial Inventory III: An examination of characteristics, circumstances and motives of forensic patients
+JO  - Legal and Criminological Psychology
+VL  - 5
+IS  - 1
+SN  - 9780632055821
+UR  - https://doi.org/10.1348/135532500167985
+DO  - doi:10.1348/135532500167985
+SP  - 71
+EP  - 81
+PY  - 2000
+AB  - Purpose. This article constitutes the first effort to consider debasement employing the Millon Clinical Multi-axial Inventory III (MCMI-III) in a forensic clinical population and incorporating the recommendations of Van Denburg and Choca (1997). It considers the proposition (Rogers, 1990a) that the pathogenic and criminological models of malingering can be rejected in favour of the adaptional model. Methods. A total of 142 MCMI-III profiles were collected over a 17-month period by a forensic psychology service. Of these, 47 had Debasement scale scores greater than 74. From the remaining 75, a group of 47 were randomly selected for comparative purposes. Of the total sample there were 75 males and 19 females, 68 were out-patients and 26 were in-patients, the latter having been detained under the Mental Health Act 1983, applicable to England and Wales. The two groups were compared on personality variables, offending history, presenting problems and referral circumstances. Results. There is tentative support for Rogers (1990a) in that situational variables appear to have a significant impact on debasement as would be predicted by the adaptional model of malingering. However, this was insufficient evidence to reject the pathogenic and criminological models of malingering. Conclusions. It is suggested that a longitudinal study examining the impact of different stages of the mental health or criminal justice system on debasement, and other validity scales, would illuminate the adaptional model further. Factors that influence the inclination to exaggerate psychopathology and which could be manipulated experimentally are also noted. Some speculation about the possible combined use of Debasement and Histrionic, Narcissistic and Compulsive scales in distinguishing between malingerers is offered.
+ER  - 
+
+TY  - JOUR
+AU  - Schore, Allan N.
+TI  - The effects of early relational trauma on right brain development, affect regulation, and infant mental health
+JO  - Infant Mental Health Journal
+JA  - Infant Ment. Health J.
+VL  - 22
+IS  - 1‐2
+SN  - 9780632055821
+UR  - https://doi.org/10.1002/1097-0355(200101/04)22:1<201::AID-IMHJ8>3.0.CO;2-9
+DO  - doi:10.1002/1097-0355(200101/04)22:1<201::AID-IMHJ8>3.0.CO;2-9
+SP  - 201
+EP  - 269
+PY  - 2001
+AB  - Abstract A primary interest of the field of infant mental health is in the early conditions that place infants at risk for less than optimal development. The fundamental problem of what constitutes normal and abnormal development is now a focus of developmental psychology, infant psychiatry, and developmental neuroscience. In the second part of this sequential work, I present interdisciplinary data to more deeply forge the theoretical links between severe attachment failures, impairments of the early development of the right brain's stress coping systems, and maladaptive infant mental health. In the following, I offer thoughts on the negative impact of traumatic attachments on brain development and infant mental health, the neurobiology of infant trauma, the neuropsychology of a disorganized/disoriented attachment pattern associated with abuse and neglect, trauma-induced impairments of a regulatory system in the orbitofrontal cortex, the links between orbitofrontal dysfunction and a predisposition to posttraumatic stress disorders, the neurobiology of the dissociative defense, the etiology of dissociation and body?mind psychopathology, the effects of early relational trauma on enduring right hemispheric function, and some implications for models of early intervention. These findings suggest direct connections between traumatic attachment, inefficient right brain regulatory functions, and both maladaptive infant and adult mental health.??2001 Michigan Association for Infant Mental Health.
+ER  - 
+
+TY  - JOUR
+AU  - Powell, Mary Lucas
+TI  - In the Best of Health? Disease and Trauma Among the Mississippian Elite
+JO  - Archaeological Papers of the American Anthropological Association
+VL  - 3
+IS  - 1
+SN  - 9780632055821
+UR  - https://doi.org/10.1525/ap3a.1992.3.1.81
+DO  - doi:10.1525/ap3a.1992.3.1.81
+SP  - 81
+EP  - 97
+PY  - 1992
+AB  - Comparisons of skeletal data on diet, disease, and trauma in elite and non-elite population samples from Mississippian sites throughout the Southeast have yielded a variety of patterns, some contradictory and some paralleling expectations based upon ethnohistoric accounts of elite sumptuary behaviors. Although trace element analyses of human bone from Alabama and Tennessee sites suggest that elites ate relatively more meat than their presumed social inferiors, non-elite health does not seem particularly compromised. The high prevalence of trauma in elite males at Chucalissa may reflect the role of warfare in male status advancement. The lords of the Southeast and their families may have been in effect ?overnourished? relative to everyone else, but probably not to the extent of historically documented African and Polynesian chiefly lineages whose literally weighty embodiment of superior social status impressed visiting travellers and ethnographers alike.
+ER  - 

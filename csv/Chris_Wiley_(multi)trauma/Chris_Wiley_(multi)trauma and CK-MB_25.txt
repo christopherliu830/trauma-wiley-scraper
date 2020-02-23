@@ -1,0 +1,400 @@
+
+TY  - JOUR
+AU  - Riley, Christopher B.
+AU  - McClure, J.T.
+AU  - Low-Ying, Sarah
+AU  - Shaw, R. Anthony
+TI  - Use of Fourier-Transform Infrared Spectroscopy for the Diagnosis of Failure of Transfer of Passive Immunity and Measurement of Immunoglobulin Concentrations in Horses
+JO  - Journal of Veterinary Internal Medicine
+VL  - 21
+IS  - 4
+SN  - 0891-6640
+UR  - https://doi.org/10.1111/j.1939-1676.2007.tb03028.x
+DO  - doi:10.1111/j.1939-1676.2007.tb03028.x
+SP  - 828
+EP  - 834
+KW  - Accuracy
+KW  - Qualitative
+KW  - Quantitative
+KW  - Sensitivity
+KW  - Specificity
+PY  - 2007
+AB  - Background: The economic, accurate, and rapid screening of foals for failure of transfer of passive immunity (FPT) is essential to ensure timely intervention. Hypothesis: Infrared (IR) spectroscopy of foal sera and pattern recognition may be used to diagnose FPT and quantify serum IgG. Samples: Sera from 194 foals (24?72 hours) with serum immunoglobulin G (IgG) concentrations determined previously by radial immunodiffusion assay (RID) were used. Methods: IR spectra were recorded for the serum samples, and the data were randomly divided into training and independent test sets, each containing both FPT-positive (IgG <400 mg/dL) and non-FPT samples. A genetic optimal region selection algorithm and linear discriminant analysis were used to partition the training spectra, and the resulting classifier was then validated by comparing the IR-predicted FPT status for each of the test samples to that provided by the RID IgG assay. A quantitative IR-based assay for IgG was developed using partial least squares (PLS) and validated by testing its ability to predict IgG concentrations. Results: Specificity, sensitivity, and accuracy for the combined data were 92.5, 96.8, and 95.9%, respectively. Corresponding positive (88.1%) and negative predictive (98.0%) values determined a success rate of 95?97% as compared to RID-based IgG concentrations. The IR-based quantitative assay yielded correlation coefficients for IR spectroscopy versus RID-based IgG concentrations of 0.90 and 0.86 for the training and test sets, respectively. Conclusions and Clinical Importance: The overall performance of the IR-based test was similar to that of the colorimetric assay and was superior and more economic than other available tests.
+ER  - 
+
+TY  - JOUR
+TI  - Paper Abstracts
+JO  - Journal of the American Geriatrics Society
+VL  - 58
+IS  - s1
+SN  - 0002-8614
+UR  - https://doi.org/10.1111/j.1532-5415.2010.02850.x
+DO  - doi:10.1111/j.1532-5415.2010.02850.x
+SP  - 1
+EP  - 246
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - Passadore, P
+AU  - Polo, A
+AU  - Cerini, R
+AU  - Menestrina, F
+AU  - Raimondi, Basso
+AU  - De Grandis, D
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 80
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 1085-9489
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00080.x
+DO  - doi:10.1046/j.1529-8027.2003.00080.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - We report two cases of focal inflammatory neuropathy of median nerve with sensory symptoms only in the first patient and motor and sensory disturbances in the second one. In both patients we found at MNR an important segmentary increase of nerve caliber. Surgery excluded nerve tumor and biopsy showed only edema and lymphocytic infiltration sparing nerve fibers. Steroid therapy was successful with rapid disappearance of sensory symptoms and motor deficit. The presence of severe sensory and motor conduction block without signs of axonal damage represent a peculiar neurophysiological aspect in chronic inflammatory focal neuritis; treatment with high-dose of i.v. corticosteroids is frequently helpful.
+ER  - 
+
+TY  - JOUR
+AU  - Swofford, Charles A.
+AU  - St. Jean, Adam T.
+AU  - Panteli, Jan T.
+AU  - Brentzel, Zachary J.
+AU  - Forbes, Neil S.
+TI  - Identification of Staphylococcus aureus α-hemolysin as a protein drug that is secreted by anticancer bacteria and rapidly kills cancer cells
+JO  - Biotechnology and Bioengineering
+JA  - Biotechnol. Bioeng.
+VL  - 111
+IS  - 6
+SN  - 0006-3592
+UR  - https://doi.org/10.1002/bit.25184
+DO  - doi:10.1002/bit.25184
+SP  - 1233
+EP  - 1245
+KW  - α-hemolysin
+KW  - Staphylococcus
+KW  - bacterial anticancer therapy
+KW  - toxin screen
+KW  - cancer
+KW  - localized drug delivery
+KW  - triple negative breast cancer
+PY  - 2014
+AB  - ABSTRACT Targeted bacterial delivery of anticancer proteins has the ability to overcome therapeutic resistance in tumors that limits the efficacy of chemotherapeutics. The ability of bacteria to specifically target tumors allows for delivery of aggressive proteins that directly kill cancer cells and cannot be administered systemically. However, few proteins have been tested for this purpose. To identify effective molecules, we systematically sorted proteins that have been shown to cause mammalian cell death. The genes for five proteins were selected and cloned into Escherichia coli and Salmonella. Supernatant from cultures of the transformed bacteria was applied to flasks of MCF-7 mammary carcinoma cells to identify proteins that (1) were expressed, (2) secreted, and (3) rapidly killed cancer cells. Time-lapse images were taken to visualize mammalian cell morphology. Of the investigated proteins, α-hemolysin from Staphylococcus aureus (SAH) was the most promising because it was secreted, caused trauma to cellular membranes, and induced oncosis in 18?min. After exposure for 6?h, SAH decreased cell viability by 90%. In comparison, the positive control, Pseudomonas aeruginosa exotoxin A (PEA), required 11 days to achieve a similar effect, when administered at 3,000 times its LC50. The maximum death rate induced by SAH was calculated to be a reduction in cell viability of 7.1% per min, which was 200-fold faster than the PEA control. Two proteins, Dermonecrotic Toxin and Phospholipase C were active when extracted from the bacterial cytoplasm but were not secreted. This investigation revealed for the first time SAH as a potent anticancer drug for delivery by bacteria because of its ability to be secreted in a fully functional form and aggressively kill cancer cells. Biotechnol. Bioeng. 2014;111: 1233?1245. ? 2014 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Absracts
+JO  - Vox Sanguinis
+JA  - Vox Sang
+VL  - 107
+IS  - s1
+SN  - 0042-9007
+UR  - https://doi.org/10.1111/vox.12155
+DO  - doi:10.1111/vox.12155
+SP  - 57
+EP  - 248
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - Case Report
+JO  - International Journal of Rheumatic Diseases
+VL  - 13
+IS  - s1
+SN  - 1756-1841
+UR  - https://doi.org/10.1111/j.1756-185X.2010.01524.x
+DO  - doi:10.1111/j.1756-185X.2010.01524.x
+SP  - 232
+EP  - 255
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - Moscato, G
+AU  - Maritato, P
+AU  - Calabrese, R
+AU  - Nucciarone, B
+AU  - Borghetti, D
+AU  - Baglini, O
+AU  - Siciliano, G
+AU  - Sartucci, F
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 7
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 1085-9489
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00007.x
+DO  - doi:10.1046/j.1529-8027.2003.00007.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - The pathological hallmark of amyotrophic lateral sclerosis (ALS) is the progressive death of upper and lower motor neurons, leading to a clinical pictures mainly characterized by weakness, muscle wasting, brisk reflexes and Babinski sign. Routine electromyographic and electroneurographic studies are mandatory to a correct diagnosis but are unable to precisely quantify the pathological changes in the motor unit. Motor unit number estimation (MUNE) is a recent neurophysiological technique that allows to estimate number and amplitude of motor units in single muscles in order to assess the severity of ALS and to follow-up the progression of the disease. We applied this technique in 15 patients (12 male and 3 female; mean age?±?SD: 65.7?±?9.5?yrs, range 45?82), affected by definite or probable ALS according to El Escorial Criteria, and in 11 healthy subjects (4 male and 7 female; mean age?±?SD: 63.7?±?8.2?yrs, range 50?76), in order to assess changes in motor unit features of abductor digiti minimi (ADM) and tibialis anterior (TA) muscles. We found a significant difference (p?<?0.05) in the mean number of motor units between the two groups: 75 in ADM and 51,8 in TA in the ALS cohort vs. 283,5 in ADM and 96,9 in the healthy subjects. Conversely, the differences in the mean and maximal area between the two groups did not reach the statistical significance (ALS patients: max area 34.7?mVms, mean area 1.9?mVms; healthy subjects: max area 18.2?mVms, mean area 0.9?mVms). Our preliminary results confirm that MUNE is able to quantify the pathological changes in motor unit parameter and represents an adequate follow-up tool for disease progression and effectiveness of pharmacological treatment.
+ER  - 
+
+TY  - JOUR
+AU  - Garton, Alison
+TI  - The Abstracts of the 34th Annual Conference of the Australian Psychological Society ‘The Brain Games’ 3rd-7th October 2000 National Convention Centre, Canberra ACT
+JO  - Australian Journal of Psychology
+VL  - 52
+IS  - S1
+SN  - 0004-9530
+UR  - https://doi.org/10.1080/00049530008255110
+DO  - doi:10.1080/00049530008255110
+SP  - 65
+EP  - 123
+PY  - 2000
+ER  - 
+
+TY  - JOUR
+AU  - Feltri, ML
+AU  - Saito, F
+AU  - Moore, SA
+AU  - Nodari, A
+AU  - Previtali, S
+AU  - Quattrini, A
+AU  - Messing, A
+AU  - Campbell, KP
+AU  - Wrabetz, L
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 23
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 1085-9489
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00023.x
+DO  - doi:10.1046/j.1529-8027.2003.00023.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - Laminin is required for normal peripheral nerve development, as mutations causing absence of laminin-2 cause hereditary peripheral neuropathies (neuropathy of Merosin-Deficient Congenital Muscular Dystrophy and dystrophic mouse). We study the laminin receptors, integrins and dystroglycan, that link laminin in the basal lamina to the Schwann cells cytoskeleton. This linkage is defective in an animal model of Charcot-Marie-Tooth 4F, in which the Periaxin/Dystrogycan/DRP-2 complex is disrupted. To study the role of laminin receptors in these peripheral neuropathies, we inactivated the gene for beta1 integrin and dystroglycan specifically in Schwann cells of transgenic mice. alpha6beta1 integrin is present in Schwann cells and their precursors before myelination, the absence of beta1 integrin causes a severe peripheral neuropathy due to the failure of Schwann cells to interact with axons during axonal sorting. Although more severe, this neuropathy is morphologically similar to that of dystrophic mice. In contrast, dystroglycan first appears in Schwann cells after axonal sorting and just prior to myelination (pro-myelinating Schwann cells). In the absence of dystroglycan, mice develop a neuropathy with abnormally folded myelin sheaths, slow conduction velocity and loss of DRP-2, similar to that of periaxin-null mice. These data show that alpha6beta1 integrin and dystroglycan subserve different roles during nerve development, and that they are involved at different steps in the pathogenesis of Merosin-Deficient Congenital Muscular Dystrophy and Charcot-Marie-Tooth 4F.
+ER  - 
+
+TY  - JOUR
+AU  - Ormiston, John A.
+AU  - Webster, Mark W.I.
+AU  - Ruygrok, Peter N.
+AU  - Elliott, John M.
+AU  - Simmonds, Mark B.
+AU  - Meredith, Ian T.
+AU  - Devlin, Gerard P.
+AU  - Stewart, James T.
+AU  - Dixon, Simon R.
+AU  - Price, Sue
+AU  - Ellis, Christopher J.
+AU  - West, Teena M.
+TI  - A randomized study of direct coronary stent delivery compared with stenting after predilatation: The NIR future trial
+JO  - Catheterization and Cardiovascular Interventions
+JA  - Cathet. Cardiovasc. Intervent.
+VL  - 50
+IS  - 4
+SN  - 1522-1946
+UR  - https://doi.org/10.1002/1522-726X(200008)50:4<377::AID-CCD1>3.0.CO;2-I
+DO  - doi:10.1002/1522-726X(200008)50:4<377::AID-CCD1>3.0.CO;2-I
+SP  - 377
+EP  - 381
+KW  - stent
+KW  - direct stenting
+KW  - angioplasty
+KW  - economic outcome
+PY  - 2000
+AB  - Abstract This randomized trial compared a strategy of direct stenting without predilatation (n = 39) with conventional stenting with predilatation (n = 42) in patients with suitable lesions in native vessels ≥ 2.5-mm diameter to be covered by either a 9- or 16-mm-length NIR Primo stent. Equipment cost [mean (median) ± SD] was less in those with direct stenting [$1,199 (979) ± 526] than in those with predilatation [$1,455 (1,285) ± 401, P < 0.001]. There was no significant difference in contrast use or fluoroscopy time. Procedural time was shorter in the direct stenting group. The clinical outcome at 1 month was satisfactory in both groups. In selected patients, a strategy of direct stenting is feasible, costs less, and is quicker to perform than the conventional strategy of stenting following predilatation. Cathet. Cardiovasc. Intervent. 50:377?381, 2000. ? 2000 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Bossi, B
+AU  - Ardolino, G
+AU  - Fabrizi, GM
+AU  - Bertolasi, L
+AU  - Cavallaro, T
+AU  - Polo, S
+AU  - Barbieri, S
+AU  - Rizzuto, N
+AU  - Priori, A
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 42
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 1085-9489
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00042.x
+DO  - doi:10.1046/j.1529-8027.2003.00042.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - Connexin 32 (Cx32), a protein involved in gap-junction formation, in the peripheral nervous system is mainly localized in non-compact myelin of paranodes and Schmidt-Lanterman incisures. Despite patients with Cx32 mutations have a polyneuropathic phenotype, the pathophysiological correlates of Cx32 defects on axonal function are unknown in humans. Non-invasive methods for assessing axonal excitability have been recently developed (Burke et?al., Clin. Neurophysiol. 2001, Priori et?al. Brain 2002) in humans. These methods allow the indirect estimate of specific ionic conductances of human axons. We assessed the strength-duration function descriptors, the axonal refractoriness and supernormality in a group of Cx32 defective patients with polyneuropathy. Twenty-three healthy control subjects (38 nerves) and 5 patients (10 nerves) with a polyneuropathy and a genetic defect of Cx32 were studied. The ulnar nerve was bipolarly stimulated at the wrist and the CMAP was recorded from the abductor digiti minimi muscle. The descriptors (time constant: tsd, rheobasic current: rh50%, threshold: thr100%) of the motor axonal strength-duration function were estimated according to Priori et?al. (2002). Axonal refractoriness was tested by delivering pairs (S1 and S2) of stimuli at variable intervals (10?300?ms). S1 strength was supramaximum, S2 intensity was adjusted to evoke a CMAP 50% of the maximum. The rh50% and the thr100% were markedly increased (rh50% patients [n?=?10, mean?±?SD] 13?±?5.7?mA, controls [n?=?26] 4.8?±?2.1?mA, p?<?0.0001; thr100% patients 47?±?24?mA, controls 9.5?±?3.1?mA, p?<?0.0001) in patients. The tsd was abnormal in 70% of patient's nerves Axonal refractoriness was increased in 56% and axonal supernormality was decreased in 56% of patient's nerves. In conclusion, the Cx32 defect induces abnormalities of the strength-duration function suggesting the involvement of the nodal conductances and axonal hyperpolarization. Hence, the paranodal Cx32 defect functionally spreads to the adjacent nodal region.
+ER  - 
+
+TY  - JOUR
+AU  - Colvin-Adams, M.
+AU  - Smithy, J. M.
+AU  - Heubner, B. M.
+AU  - Skeans, M. A.
+AU  - Edwards, L. B.
+AU  - Waller, C.
+AU  - Schnitzler, M. A.
+AU  - Snyder, J. J.
+AU  - Israni, A. K.
+AU  - Kasiske, B. L.
+TI  - OPTN/SRTR 2012 Annual Data Report: Heart
+JO  - American Journal of Transplantation
+JA  - American Journal of Transplantation
+VL  - 14
+IS  - S1
+SN  - 1600-6135
+UR  - https://doi.org/10.1111/ajt.12583
+DO  - doi:10.1111/ajt.12583
+SP  - 113
+EP  - 138
+KW  - End-stage heart failure
+KW  - heart transplant
+KW  - transplant outcomes
+KW  - ventricular assist device
+PY  - 2014
+AB  - ABSTRACT The number of heart transplants performed annually continues to increase gradually, and the number of adult candidates on the waiting list increased by 25% from 2004 to 2012. The heart transplant rate among active adult candidates peaked at 149 per 100 wait-list years in 2007 and has been declining since; in 2012, the rate was 93 heart transplants per 100 active wait-list years. Increased waiting times do not appear to be correlated with an overall increase in wait-list mortality. Since 2007, the proportion of patients on life support before transplant increased from 48.6% to 62.7% in 2012. Medical urgency categories have become less distinct, with most patients listed in higher urgency categories. Approximately 500 pediatric candidates are added to the waiting list each year; the number of transplants performed each year increased from 274 in 1998 to 372 in 2012. Graft survival in pediatric recipients continues to improve; 5-year graft survival for transplants performed in 2007 was 78.5%. Medicare paid for some or all of the care for nearly 40% of heart transplant recipients in 2010. Heart transplant appears to be more expensive than ventricular assist devices for managing end-stage heart failure, but is more effective and likely more cost-effective.
+ER  - 
+
+TY  - JOUR
+AU  - Rosenthal, Mark J.
+TI  - Geriatrics: An Updated Bibliography
+JO  - Journal of the American Geriatrics Society
+JA  - Journal of the American Geriatrics Society
+VL  - 37
+IS  - 9
+SN  - 0002-8614
+UR  - https://doi.org/10.1111/j.1532-5415.1989.tb02273.x
+DO  - doi:10.1111/j.1532-5415.1989.tb02273.x
+SP  - 894
+EP  - 910
+PY  - 1989
+AB  - This is the author's fifth revision of a geriatrics bibliography. Approximately one-third of the previous references have been replaced by more current or more delimited articles. Because the literature pertinent to geriatrics has continued to grow ever more rapidly, it has been necessary to omit many informative articles from the bibliography. Preference is given to recent publications; almost all of the references date from the past four years. Some articles were selected to highlight current controversies or changes in viewpoint. Most of the references deal specifically with an elderly patient population, though few use a multidisciplinary approach. Studies of the elderly are confounded by concomitants of aging frequent but not universal in our society: inactivity, obesity, malnutrition, and psychosocial trauma. The articles cited are primarily concerned with medical ailments of the elderly; legal, ethical, and sociological topics receive more limited coverage. The references are divided into categories. The first set (I) deals with some possible causes of aging; the second (II) with physiologic decline accompanying aging; the third (III) with the atypical and nonspecific characteristics of illness among geriatric patients; the fourth (IV) with the elderly and society; and the fifth (V) with care options. The remainder of the references are cited by pertinent medical specialty. Within each category, references are divided by disease process. Articles are further subgrouped by aspects of those diseases such as evaluation or therapy.
+ER  - 
+
+TY  - JOUR
+AU  - O'Brien, Daniel C.
+AU  - Kellermeyer, Brian
+AU  - Chung, Jeffson
+AU  - Carr, Michele M.
+TI  - Experience with key indicator cases among otolaryngology residents
+JO  - Laryngoscope Investigative Otolaryngology
+JA  - Laryngoscope Investigative Otolaryngology
+VL  - 4
+IS  - 4
+SN  - 2378-8038
+UR  - https://doi.org/10.1002/lio2.274
+DO  - doi:10.1002/lio2.274
+SP  - 387
+EP  - 392
+KW  - Resident education
+KW  - patient safety
+KW  - graduate medical education
+PY  - 2019
+AB  - Objective To describe the resident experience with respect to key indicator cases for each year of training. Study Design Multi-institution, cross-sectional assessment. Methods Using an electronic survey, current otolaryngology residents were solicited to complete a survey regarding their experiences with the key indicator cases to that point. The survey was sent to this cohort in the winter of 2017?2018. Results Three hundred and three residents responded, with 293 completing the survey. Twenty-three percent were PGY1, 19% PGY2, 21% PGY3, 18% PGY4, and 19% PGY5 or higher. The majority of residents progress from resident assistant as a PGY2, to resident surgeon as a PGY3 and self-assessed competent surgeon as a PGY4 for the majority of the key indicator cases. Less than 50% of the surveyed PGY5 residents had reached independent practice in all the key indicator cases, with stapedectomy (16%), rhinoplasty (18%), and paramedian forehead flap (14.5%) being the cases least frequently performed independently. Ninety-five percent of the respondent residents felt their program provided adequate training, but 20% of the respondents were either unsure or believed that they would be unable to perform all the key indicator cases by the completion of their training. Conclusions The majority of otolaryngology residents feel confident in their training, but experience with certain cases lags behind and may not currently be taught as resident level cases. These findings raise the question of whether the current key indicator cases are the best option for assessing breadth and depth of residency training. Level of Evidence NA
+ER  - 
+
+TY  - JOUR
+AU  - Santoro, L
+AU  - Briani, C
+AU  - Giannini, F
+AU  - Girlanda, P
+AU  - Vitelli, E
+AU  - Schenone, A
+AU  - Benedetti, A
+AU  - Bogliun, G
+AU  - Manganelli, F
+AU  - Mazzeo, A
+AU  - Beghi, E
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 1
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 1085-9489
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00001.x
+DO  - doi:10.1046/j.1529-8027.2003.00001.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - Peripheral neuropathy (PN) has been found to be among the complications of hepatitis C virus (HCV) infection. Although the mechanisms of PN in patients with HCV infection are still unknown, cryoglobulinemia has been implicated as a possible cause of ischemic peripheral nerve impairment mediated by vasoconstriction, altered blood viscosity, and thrombosis of small vessels. However, available information is mostly based on referral patients with chronic HCV infection. In this study, an unselected sample of cases with newly diagnosed HCV infection has been examined to assess the prevalence and type of PN and to correlate the disease with the presence of cryoglobulinemia. The study population included 41 patients with HCV infection and no documented risk factors for PN (18 women and 23 men, aged 17 to 72 years) referred to the neurophysiology units of 7 Italian centers (Genova, Lodi, Messina, Monza, Napoli, Padova, and Siena) for a clinical and electrophysiological screening of peripheral nerve disease. The mean latency between diagnosis of HCV infection (interpreted as a surrogate of the duration of infection) and study entry was 6.8 months (range 1?12). PN was documented in 13 cases (31.7%). Of these, 7 had mononeuropathy and 6 had polyneuropathy. Cryoglobulinemia was present in 4 patients (9.8%) and 3 of them had PN (polyneuropathy 2, mononeuropathy 1). The odds ratio of PN in patients with cryoglobulinemia, adjusted for age, sex, and duration of infection, was 4.4 (95% confidence interval, CI: 0.3?68.2) and was fairly similar (4.1; 95% CI 0.3?56.3) when the analysis was limited to the presence of polyneuropathy. The lack of statistical significance may by explained by the small sample size. Based on these findings, cryoglobulinemia can be interpreted as an independent risk factor for PN at the presence of HCV infection. However, given the fairly high prevalence of PN in patients with newly diagnosed HCV infection and the high proportion of cases not attributable to cryoglobulinemia (9 out of 13), other factors should be investigated to clarify the mechanisms of HCV neuropathy.
+ER  - 
+
+TY  - JOUR
+TI  - BOOK REVIEWS
+JO  - Australian and New Zealand Journal of Surgery
+VL  - 51
+IS  - 3
+SN  - 0004-8682
+UR  - https://doi.org/10.1111/j.1445-2197.1981.tb05972.x
+DO  - doi:10.1111/j.1445-2197.1981.tb05972.x
+SP  - 328
+EP  - 332
+PY  - 1981
+AB  - Book reviewed in this article: PATHWAYS IN SURGICAL MANAGEMENT By MICHAEL HOBSLEY, T.D., Ph.D., M.Chir. THE PRACTICE OF BILIARY SURGERY By GABRIEL A. KUNE, M.B., B.S., F.R.A.C.S., F.R.C.S., F.A.C.S., and AVNI SALI, M.B.B.S., Ph.D., F.R.A.C.S. 1978 YEAR BOOK OF ORTHOPEDICS AND TRAUMATIC SURGERY Edited by MARK COVENTRY, M.D., M.S. SYMPOSIUM ON RECONSTRUCTIVE SURGERY OF THE KNEE SPONSORED BY THE AMERICAN ACADEMY OF ORTHOPAEDIC SURGEONS Edited by C. MCCOLLISTER EVARTS, M.D. A COLOUR ATLAS OF GYNAECOLOGICAL SURGERY. VOLUME 4. SURGERY OF VULVA AND LOWER GENITAL TRACT By DAVID H. LEES, F.R.C.S. (Ed.), F.R.C.O.G., and ALBERT SINGER, Ph.D., D. Phil. (Oxon.), F.R.C.O.G. ADVANCES IN THE MANAGEMENT OF CLEFT PALATE Edited by M. EDWARDS, M. Phil., L. C.S.T., and A. C. H. WATSON, F.R.C.S. (Ed.). CURRENT PROBLEMS IN ORTHOPAEDICS THE ORTHOPAEDIC MANAGEMENT OF SPINA BIFIDA CYSTICA By MALCOLM B. MENELAUS, M.D., F.R.C.S., F.R.A.C.S. PROGRESS IN ORTHOPAEDIC SURGERY 1 LEG LENGTH DISCREPANCY. THE INJURED KNEE. Edited by DAVID S. HUNGERFORD. CLINICAL ATLAS OF MUSCLE AND MUSCULOCUTANEOUS FLAPS By STEPHEN J. MATHES, M.D., and FOAD NAHAI, M.D.
+ER  - 
+
+TY  - JOUR
+TI  - Friday 30 October 2015
+JO  - Journal of Medical Imaging and Radiation Oncology
+JA  - Journal of Medical Imaging and Radiation Oncology
+VL  - 59
+IS  - S1
+SN  - 1754-9477
+UR  - https://doi.org/10.1111/1754-9485.12396
+DO  - doi:10.1111/1754-9485.12396
+SP  - 38
+EP  - 72
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - Current awareness in geriatric psychiatry
+JO  - International Journal of Geriatric Psychiatry
+JA  - Int. J. Geriat. Psychiatry
+VL  - 23
+IS  - 1
+SN  - 0885-6230
+UR  - https://doi.org/10.1002/gps.1907
+DO  - doi:10.1002/gps.1907
+SP  - i
+EP  - viii
+PY  - 2008
+AB  - Abstract In order to keep subscribers up-to-date with the latest developments in their field, John Wiley  2 General; 3 Assessment; 4 Epidemiology; 5 Therapy; 6 Care; 7 Dementia; 8 Depression; 9 Psychology. Within each section, articles are listed in alphabetical order with respect to author. If, in the preceding period, no publications are located relevant to any one of these headings, that section will be omitted
+ER  - 
+
+TY  - JOUR
+AU  - Collins, James
+AU  - Carpio, Ana Maria
+AU  - Bobadilla, Mónica
+AU  - Reyes, Raysa
+AU  - Gúzman, Isabel
+AU  - Martínez, Benjamín
+AU  - Gamonal, Jorge
+TI  - Prevalence of Clinical Attachment Loss in Adolescents in Santo Domingo, Dominican Republic
+JO  - Journal of Periodontology
+JA  - Journal of Periodontology
+VL  - 76
+IS  - 9
+SN  - 0022-3492
+UR  - https://doi.org/10.1902/jop.2005.76.9.1450
+DO  - doi:10.1902/jop.2005.76.9.1450
+SP  - 1450
+EP  - 1454
+KW  - Adolescents
+KW  - clinical trials, randomized
+KW  - cross-sectional studies
+KW  - Dominican Republic
+KW  - periodontal attachment loss/diagnosis
+KW  - periodontal diseases/adverse effects
+PY  - 2005
+AB  - Background: Data on periodontal conditions in adolescents in the Dominican Republic are scarce. The aim of the present crosssectional study was to estimate the prevalence of periodontal attachment loss among Dominican adolescents. This study did not attempt to classify the disease into aggressive and chronic periodontitis. Methods: A random sample of 2,007 Dominican adolescents was obtained. A probability, weighted sample was selected using a complex, multi-stage probability sampling design. The study was clustered in 26 schools and 106 classes. The study subjects were clinically examined under field conditions by a single calibrated examiner who measured gingival recession and probing depth at six sites per tooth, with subsequent calculation of clinical periodontal attachment level for each site. Results: The prevalence of clinical attachment loss ≥1 mm was 49.5%, with the prevalence ranging between 48.7% and 50.2%, depending on age and gender. Clinical attachment loss ≥2 mm was found in 15% of the students and attachment loss ≥3 mm in 4.0% of the students. Logistic regression model revealed that only age significantly increased the probability of having clinical attachment loss. Conclusion: We conclude that clinical attachment loss is common in adolescents in Santo Domingo, Dominican Republic, suggesting the necessity for improved standards of prevention, diagnosis, and treatment of these lesions. J Periodontol 2005;76: 1450-1454.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - International Journal of Cosmetic Science
+JA  - Int J Cosmet Sci
+VL  - 37
+IS  - 1
+SN  - 0142-5463
+UR  - https://doi.org/10.1111/ics.12196
+DO  - doi:10.1111/ics.12196
+SP  - 141
+EP  - 163
+PY  - 2015
+ER  - 

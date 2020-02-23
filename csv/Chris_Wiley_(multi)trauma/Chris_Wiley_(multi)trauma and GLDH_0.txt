@@ -1,0 +1,341 @@
+
+TY  - JOUR
+AU  - Horan, E. M.
+AU  - Metcalfe, L. V. A.
+AU  - de Swarte, M.
+AU  - Cahalan, S. D.
+AU  - Katz, L. M.
+TI  - Pulmonary and hepatic eosinophilic granulomas and epistaxis in a horse suggestive of multi-systemic eosinophilic epitheliotropic disease
+JO  - Equine Veterinary Education
+JA  - Equine Veterinary Education
+VL  - 25
+IS  - 12
+SN  - 0957-7734
+UR  - https://doi.org/10.1111/eve.12017
+DO  - doi:10.1111/eve.12017
+SP  - 607
+EP  - 613
+KW  - horse
+KW  - lungs
+KW  - eosinophilic granulomas
+KW  - multi-systemic eosinophilic epitheliotropic disease
+KW  - epistaxis
+PY  - 2013
+AB  - Summary Multi-systemic eosinophilic epitheliotropic disease (MEED) is a relatively uncommon disease characterised by eosinophilic infiltration of more than one organ system, with the skin and gastrointestinal tract most commonly affected. This case report describes a gelding that presented for weight loss, increased respiratory rate and effort and chronic intermittent epistaxis. During post mortem examination diffuse eosinophilic granulomatous lesions were identified in the lung and liver, leading to a diagnosis of MEED. Veno-occlusive pulmonary remodelling was also discovered, believed to be the cause of the chronic epistaxis and a result of the pulmonary fibrosis and eosinophilic granulomas.
+ER  - 
+
+TY  - JOUR
+AU  - Agudelo, Juliana
+AU  - Privman, Vladimir
+AU  - Halámek, Jan
+TI  - Promises and Challenges in Continuous Tracking Utilizing Amino Acids in Skin Secretions for Active Multi-Factor Biometric Authentication for Cybersecurity
+JO  - ChemPhysChem
+JA  - ChemPhysChem
+VL  - 18
+IS  - 13
+SN  - 1439-4235
+UR  - https://doi.org/10.1002/cphc.201700044
+DO  - doi:10.1002/cphc.201700044
+SP  - 1714
+EP  - 1720
+KW  - amino acids
+KW  - authentication
+KW  - biosensing
+KW  - enzymes
+KW  - forensics
+PY  - 2017
+AB  - Abstract We consider a new concept of biometric-based cybersecurity systems for active authentication by continuous tracking, which utilizes biochemical processing of metabolites present in skin secretions. Skin secretions contain a large number of metabolites and small molecules that can be targeted for analysis. Here we argue that amino acids found in sweat can be exploited for the establishment of an amino acid profile capable of identifying an individual user of a mobile or wearable device. Individual and combinations of amino acids processed by biocatalytic cascades yield physical (optical or electronic) signals, providing a time-series of several outputs that, in their entirety, should suffice to authenticate a specific user based on standard statistical criteria. Initial results, motivated by biometrics, indicate that single amino acid levels can provide analog signals that vary according to the individual donor, albeit with limited resolution versus noise. However, some such assays offer digital separation (into well-defined ranges of values) according to groups such as age, biological sex, race, and physiological state of the individual. Multi-input biocatalytic cascades that handle several amino acid signals to yield a single digital-type output, as well as continuous-tracking time-series data rather than a single-instance sample, should enable active authentication at the level of an individual.
+ER  - 
+
+TY  - JOUR
+AU  - Knöpfler, S.
+AU  - Mayer-Scholl, A.
+AU  - Luge, E.
+AU  - Klopfleisch, R.
+AU  - Gruber, A. D.
+AU  - Nöckler, K.
+AU  - Kohn, B.
+TI  - Evaluation of clinical, laboratory, imaging findings and outcome in 99 dogs with leptospirosis
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 58
+IS  - 10
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/jsap.12718
+DO  - doi:10.1111/jsap.12718
+SP  - 582
+EP  - 588
+PY  - 2017
+AB  - Objective To report clinical, laboratory and diagnostic imaging features and prognostic factors in dogs with leptospirosis from North-East Germany. Materials and Methods Medical records of dogs diagnosed with leptospirosis from 2006 to 2013 were evaluated retrospectively. Results The study included 99 dogs. At initial presentation, the most common clinical signs were lethargy (96%), anorexia (88%), vomiting (85%), painful abdomen (39%), diarrhoea (38%), oliguria (27%) and tachypnoea (26%). Abnormal laboratory findings included anaemia (63%), thrombocytopenia (63%), leucocytosis (57%), increase of plasma urea (84%) and creatinine concentrations (81%), increased liver enzyme activities (80%), hyperbilirubinaemia (69%), hyperphosphataemia (67%), hyponatraemia (64%), hypoalbuminaemia (55%) and hypokalaemia (29%). Radiological pulmonary changes were detected in 57% of the dogs initially or during the course of disease. Severe dyspnoea, oliguria, azotaemia, hyperbilirubinaemia and severe radiological pulmonary changes were more often found in dogs that did not survive. There was renal, hepatic and pulmonary involvement in 95, 92 and 58% of the dogs, respectively, and multi-organ lesions in 98 dogs (98%); 32 dogs died or were euthanased. Conclusion Several clinical and laboratory abnormalities were associated with a negative outcome; severe lung involvement was specifically associated with high mortality.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts Presented at the World Congress of Veterinary Anesthesia, Knoxville, Tennessee, 17–20 September 2003
+JO  - Veterinary Anaesthesia and Analgesia
+VL  - 31
+IS  - 4
+SN  - 1467-2987
+UR  - https://doi.org/10.1111/j.1467-2995.2004.00220a.x
+DO  - doi:10.1111/j.1467-2995.2004.00220a.x
+SP  - 282
+EP  - 291
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+AU  - Heidenhain, Christoph
+AU  - Heise, Michael
+AU  - Jonas, Sven
+AU  - Ben-Asseur, Manuela
+AU  - Puhl, Gero
+AU  - Mittler, Jens
+AU  - Thelen, Armin
+AU  - Schmidt, Sven
+AU  - Langrehr, Jan
+AU  - Neuhaus, Peter
+TI  - Retrograde reperfusion via vena cava lowers the risk of initial nonfunction but increases the risk of ischemic-type biliary lesions in liver transplantation – a randomized clinical trial
+JO  - Transplant International
+VL  - 19
+IS  - 9
+SN  - 0934-0874
+UR  - https://doi.org/10.1111/j.1432-2277.2006.00347.x
+DO  - doi:10.1111/j.1432-2277.2006.00347.x
+SP  - 738
+EP  - 748
+KW  - bile duct complication
+KW  - ischemia and reperfusion injury
+KW  - retransplantation
+PY  - 2006
+AB  - Summary Initial nonfunction (INF) and biliary complications such as ischemic-type biliary lesion (ITBL) remain two major complications in clinical orthotopic liver transplantation (OLT). The influence of ischemia and reperfusion injury (I/R) as a significant risk factor for both complications is widely unquestioned. A new reperfusion technique that reduces I/R injury should lead to a reduction in both INF and ITBL. One hundred and thirty two OLT patients were included in this study and randomized into two groups. Group A underwent standard reperfusion with anterograde simultaneous arterial and portal reperfusion and group B received retrograde reperfusion via the vena cava before sequential anterograde reperfusion of portal vein and hepatic artery. Serum transaminase level as a surrogate parameter for I/R injury and serum bilirubin level as a parameter for graft function were significantly reduced during the first week after OLT in group B. INF rate was 7.7% in group A and 0% in group B (P?=?0.058). ITBL incidence was 4.55% in group A versus 12.3% in group B (P?=?0.053). Retrograde reperfusion seemed to be beneficial for hepatocytes, but was detrimental for the biliary epithelium. The unexplained increased incidence of ITBL after retrograde reperfusion will be focus of further investigation.
+ER  - 
+
+AU  - Wilkinson, Roger
+C7  - pp. 141-186
+TI  - Clinical Pathology
+SN  - 9781405108898
+UR  - https://doi.org/10.1002/9780470698877.ch7
+DO  - doi:10.1002/9780470698877.ch7
+SP  - 141-186
+KW  - pathology
+KW  - haematology
+KW  - cytology
+KW  - hydration status
+KW  - bacteriology
+PY  - 2006
+AB  - Summary This chapter contains section titled: Blood Sampling Haematology Blood Biochemistry Assessing Hydration Status Coagulation Parameters Bone Marrow Biopsy Cytology Parasitology and Faecal Examination Urinalysis Histopathology Toxicology Virology Bacteriology Mycoplasmata Mycology Mycobacteria
+ER  - 
+
+TY  - JOUR
+TI  - 5th Congress of the European College of Equine Internal Medicine
+JO  - Journal of Veterinary Internal Medicine
+JA  - J Vet Intern Med
+VL  - 26
+IS  - 2
+SN  - 9781405108898
+UR  - https://doi.org/10.1111/j.1939-1676.2012.00912.x
+DO  - doi:10.1111/j.1939-1676.2012.00912.x
+SP  - 418
+EP  - 440
+PY  - 2012
+ER  - 
+
+AU  - Girling, Simon J.
+C7  - pp. 185-208
+TI  - Common Avian Diseases
+SN  - 9780470659175
+UR  - https://doi.org/10.1002/9781118782941.ch13
+DO  - doi:10.1002/9781118782941.ch13
+SP  - 185-208
+KW  - avian biochemistry
+KW  - avian diseases
+PY  - 2012
+AB  - Summary This chapter talks about the common diseases such as skin and feather diseases, digestive diseases, respiratory diseases, cardiovascular diseases, and haematological diseases, that affect birds. It provides an overview of avian biochemistry highlighting liver and kidney biochemical parameters, among other parameters.
+ER  - 
+
+AU  - Hillyer, L. L.
+AU  - Hillyer, M. H.
+C7  - pp. 205-227
+TI  - Laboratory Diagnosis
+SN  - 9780632057276
+UR  - https://doi.org/10.1002/9780470690543.ch12
+DO  - doi:10.1002/9780470690543.ch12
+SP  - 205-227
+KW  - laboratory apparatus
+KW  - graduated pipettes
+KW  - incubators
+KW  - micropipettes
+KW  - pasteur pipettes
+PY  - 2012
+AB  - Summary This chapter contains section titled: Laboratory Health and Safety Laboratory Apparatus Blood-Biochemistry Urinalysis Biopsy Techniques Faecal Analysis Skin and Hair Collection of Body Fluids Submission of Pathological Samples Virology Microbiology Bacteriological Examination Ectoparasites Endoparasites Further Reading
+ER  - 
+
+TY  - JOUR
+AU  - de Heus, Phebe
+AU  - Kolodziejek, Jolanta
+AU  - Camp, Jeremy V.
+AU  - Dimmel, Katharina
+AU  - Bagó, Zoltán
+AU  - Hubálek, Zdenek
+AU  - van den Hoven, René
+AU  - Cavalleri, Jessika-M. V.
+AU  - Nowotny, Norbert
+TI  - Emergence of West Nile virus lineage 2 in Europe: Characteristics of the first seven cases of West Nile neuroinvasive disease in horses in Austria
+JO  - Transboundary and Emerging Diseases
+JA  - Transbound Emerg Dis
+VL  - n/a
+IS  - n/a
+SN  - 9780632057276
+UR  - https://doi.org/10.1111/tbed.13452
+DO  - doi:10.1111/tbed.13452
+KW  - Austria
+KW  - equid
+KW  - flavivirus
+KW  - horse
+KW  - West Nile neuroinvasive disease
+KW  - West Nile virus
+KW  - zoonosis
+AB  - Abstract We report details of the first seven equine cases of confirmed West Nile neuroinvasive disease in Austria. The cases presented during summer and autumn of 2016 (n = 2), 2017 (n = 3) and 2018 (n = 2). All horses showed gait abnormalities and 6 of 7 horses exhibited fasciculations and/or tremors, and we provide video recordings of these. Three horses also showed cranial nerve involvement. Following rapid improvement, three horses were discharged. Four horses were euthanized due to the severity of clinical signs and subjected to neuropathological examination. West Nile virus (WNV) lineage 2 nucleic acid was detected in 5 of 7 horses, and WNV-specific neutralizing antibodies in all 7 horses. In addition, serologic evidence of WNV infection was found in two out of fourteen in-contact horses. Horses may be considered a sentinel species for human WNV infections, integrating human and veterinary medicine and thus contributing to the one health concept.
+ER  - 
+
+TY  - JOUR
+TI  - ABSTRACTS FROM THE 15TH CONGRESS OF THE INTERNATIONAL VETERINARY RADIOLOGY ASSOCIATION
+JO  - Veterinary Radiology & Ultrasound
+VL  - 51
+IS  - 2
+SN  - 9780632057276
+UR  - https://doi.org/10.1111/j.1740-8261.2009.01650.x
+DO  - doi:10.1111/j.1740-8261.2009.01650.x
+SP  - 186
+EP  - 220
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - Wittek, Thomas
+AU  - Fürll, Manfred
+AU  - Constable, Peter D.
+TI  - Prevalence of Endotoxemia in Healthy Postparturient Dairy Cows and Cows with Abomasal Volvulus or Left Displaced Abomasum
+JO  - Journal of Veterinary Internal Medicine
+VL  - 18
+IS  - 4
+SN  - 9780632057276
+UR  - https://doi.org/10.1111/j.1939-1676.2004.tb02588.x
+DO  - doi:10.1111/j.1939-1676.2004.tb02588.x
+SP  - 574
+EP  - 580
+KW  - Abomasal displacementl
+KW  - Endotoxinl
+KW  - Metabolic disordersl
+KW  - Periparturient cows
+PY  - 2004
+AB  - Left displaced abomasum (LDA) and abomasal volvulus (AV) occur most commonly in postparturient dairy cows. Our main hypothesis was that endotoxemia occurred more frequently in the peripheral blood of cows with LDA or AV than in healthy cows because increased luminal pressure in AV or LDA, or the presence of a hemorrhagic strangulating obstruction in AV, may have injured the abomasal mucosa, thereby facilitating translocation of luminal endotoxin into the circulation. Therefore, our main objective was to compare the prevalence and magnitude of endotoxemia in healthy postparturient cows with the prevalence and magnitude of endotoxemia in cows with AV and LDA. We examined 60 adult dairy cows in early lactation that were diagnosed with AV (n = 15) or LDA (n = 15) or were healthy on physical examination (control group, n = 30). Jugular venous blood was obtained from cows in all 3 groups, and right gastroepiploic venous blood was obtained during surgical correction of AV and LDA immediately after repositioning of the abomasum. Platelet-rich plasma endotoxin concentrations were measured with a chromogenic limulus amoebocyte lysate assay. Endotoxin was detected in jugular vein plasma in 50% (15/30) of control cows; however, the prevalence of endotoxemia was significantly lower (P < .05) in cows with AV (7%, 1/15) or LDA (20%, 3/15). Endotoxin was detected simultaneously in right gastroepiploic and jugular vein plasma in only 1 cow with LDA and 0 cows with AV. Contrary to our hypothesis, we conclude that endotoxemia is infrequently present in postparturient dairy cows with AV or LDA.
+ER  - 
+
+TY  - JOUR
+TI  - The International Liver Transplantation Society: 16th Annual International Congress
+JO  - Liver Transplantation
+JA  - Liver Transpl
+VL  - 16
+IS  - S1
+SN  - 9780632057276
+UR  - https://doi.org/10.1002/lt.22086
+DO  - doi:10.1002/lt.22086
+SP  - S1
+EP  - S284
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - European Society of Veterinary Clinical Pathology (ESVCP) 9th Annual Congress
+JO  - Veterinary Clinical Pathology
+VL  - 36
+IS  - 4
+SN  - 9780632057276
+UR  - https://doi.org/10.1111/j.1939-165X.2007.tb00448.x
+DO  - doi:10.1111/j.1939-165X.2007.tb00448.x
+SP  - 382
+EP  - 398
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - 14th ISN MEETING, MONTPELLJER, FRANCE
+JO  - Journal of Neurochemistry
+VL  - 61
+IS  - s1
+SN  - 9780632057276
+UR  - https://doi.org/10.1111/j.1471-4159.1993.tb13441.x
+DO  - doi:10.1111/j.1471-4159.1993.tb13441.x
+SP  - 1
+EP  - 285
+PY  - 1993
+ER  - 
+
+TY  - JOUR
+TI  - IHPBA Posters
+JO  - HPB
+VL  - 3
+IS  - 1
+SN  - 9780632057276
+UR  - https://doi.org/10.1080/136518201753173755
+DO  - doi:10.1080/136518201753173755
+SP  - 121
+EP  - 151
+PY  - 2001
+ER  - 
+
+TY  - JOUR
+TI  - IHPBA World Congress abstracts – Posters
+JO  - HPB
+VL  - 6
+IS  - s1
+SN  - 9780632057276
+UR  - https://doi.org/10.1080/16515320410032719
+DO  - doi:10.1080/16515320410032719
+SP  - 65
+EP  - 127
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+TI  - Brief Orals
+JO  - Transplant International
+JA  - Transpl Int
+VL  - 30
+IS  - S2
+SN  - 9780632057276
+UR  - https://doi.org/10.1111/tri.13050
+DO  - doi:10.1111/tri.13050
+SP  - 165
+EP  - 346
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+TI  - The ILTS 18th Annual International Congress
+JO  - Liver Transplantation
+JA  - Liver Transpl
+VL  - 18
+IS  - S1
+SN  - 9780632057276
+UR  - https://doi.org/10.1002/lt.23435
+DO  - doi:10.1002/lt.23435
+SP  - S1
+EP  - S306
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+TI  - Poster Sessions
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 98
+IS  - S5
+SN  - 9780632057276
+UR  - https://doi.org/10.1002/bjs.7578
+DO  - doi:10.1002/bjs.7578
+SP  - 50
+EP  - 69
+PY  - 2011
+AB  - Abstract The 46th Congress of the European Society for Surgical Research takes place this year in Aachen, Germany, 25?28 May. Copyright ? 2011 British Journal of Surgery Society Ltd. Published by John Wiley & Sons, Ltd.
+ER  - 

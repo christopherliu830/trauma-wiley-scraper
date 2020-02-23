@@ -1,0 +1,130 @@
+Hemorrhagic, (AFP), 2660
+Hemorrhagic, (ARG1) , 79
+Hemorrhagic, (ASS), 2672
+Hemorrhagic, (ATL), 1416
+Hemorrhagic, (CcK18), 8
+Hemorrhagic, (CD3), 4127
+Hemorrhagic, (CD4) , 3741
+Hemorrhagic, (CD8) , 2857
+Hemorrhagic, (EST-1), 22
+Hemorrhagic, (HLA)-DR, 4922
+Hemorrhagic, (KIM-1), 11224
+Hemorrhagic, (LDH), 5482
+Hemorrhagic, (MCSFR), 7
+Hemorrhagic, (MDH), 184
+Hemorrhagic, (MODS) , 287
+Hemorrhagic, ﻿(AFP), 2660
+Hemorrhagic, (NO) , 44777
+Hemorrhagic, (NT-proBNP), 520
+Hemorrhagic, (PaCO2) , 617
+Hemorrhagic, (PAF) , 641
+Hemorrhagic, (PAI), 2666
+Hemorrhagic, (PaO2), 2098
+Hemorrhagic, (PaO2) , 916
+Hemorrhagic, (PCT), 1330
+Hemorrhagic, (PMN), 2249
+Hemorrhagic, (ROC), 4558
+Hemorrhagic, (SCr), 1327
+Hemorrhagic, (TFF3), 47
+Hemorrhagic, (TTL), 158
+Hemorrhagic, (VEGF), 4943
+Hemorrhagic, (VPA), 816
+Hemorrhagic, (VTE), 2039
+Hemorrhagic, (WBC), 8268
+Hemorrhagic, 4-hydroxy-phenylpyruvate dioxygenase (HPD), 0
+Hemorrhagic, 5 nucleotidase, 193
+Hemorrhagic, Abbreviated Injury Scale, 63
+Hemorrhagic, Active T lymphocytes , 0
+Hemorrhagic, Albumin, 18546
+Hemorrhagic, ALP alkaline phosphatase, 133
+Hemorrhagic, Alpha fetoprotein, 1178
+Hemorrhagic, alpha-glutathioneS-transferase , 2
+Hemorrhagic, ALT alanine aminotransferase, 495
+Hemorrhagic, Amylase, 3222
+Hemorrhagic, Amyloid A, 425
+Hemorrhagic, APACHE II, 555
+Hemorrhagic, Area under the receiver operating characteristic curve, 216
+Hemorrhagic, Arginase-1, 649
+Hemorrhagic, argininosuccinate synthetase , 35
+Hemorrhagic, Arterial partial pressure of carbon dioxide, 23
+Hemorrhagic, Arterial partial pressure of oxygen , 54
+Hemorrhagic, Arterial Ph, 500
+Hemorrhagic, Arterial pressure, 2958
+Hemorrhagic, AST aspartate aminotransferase, 411
+Hemorrhagic, AUC, 4956
+Hemorrhagic, AUROCs, 493
+Hemorrhagic, B lymphocytes, 860
+Hemorrhagic, Bilirubin , 4092
+Hemorrhagic, Biochemical, 32520
+Hemorrhagic, Biochemical marker, 306
+Hemorrhagic, Biochemical panel, 38
+Hemorrhagic, Biochemical parameters, 1071
+Hemorrhagic, Biomarker panel, 76
+Hemorrhagic, Biomarkers, 8403
+Hemorrhagic, Blood pressure, 10598
+Hemorrhagic, Blood urine nitrogen, 14
+Hemorrhagic, BNP, 1322
+Hemorrhagic, BUN , 1911
+Hemorrhagic, C3 complement, 55
+Hemorrhagic, C5a, 971
+Hemorrhagic, Cadherin-5, 1686
+Hemorrhagic, Calcium , 9094
+Hemorrhagic, Caspase cleaved cytokeratin 18, 12
+Hemorrhagic, CDH5, 59
+Hemorrhagic, Ceruloplasmin , 572
+Hemorrhagic, Chip , 1035
+Hemorrhagic, CK-MB, 7734
+Hemorrhagic, Clinical factors, 1050
+Hemorrhagic, Clinical parameters, 1506
+Hemorrhagic, Clinical variable , 95
+Hemorrhagic, Coagulation tests, 1060
+Hemorrhagic, Collagen IV, 558
+Hemorrhagic, Complement, 20597
+Hemorrhagic, Complement factor B, 31
+Hemorrhagic, Complete blood counts, 524
+Hemorrhagic, Computed tomogram, 92
+Hemorrhagic, Computed tomographic scanning, 61
+Hemorrhagic, Computed tomography  , 7730
+Hemorrhagic, C-reactive protein , 2993
+Hemorrhagic, Creatine kinase, 1257
+Hemorrhagic, Creatine kinase muscle and brain, 4
+Hemorrhagic, Creatinine, 16747
+Hemorrhagic, CRP, 5113
+Hemorrhagic, CT scan, 5174
+Hemorrhagic, CTnI, 507
+Hemorrhagic, CXCL10 , 266
+Hemorrhagic, CXCR3, 822
+Hemorrhagic, Cystatin C, 336
+Hemorrhagic, Cytokeratin 18, 81
+Hemorrhagic, D-Dimer , 1330
+Hemorrhagic, Diagnosis, 90842
+Hemorrhagic, Diagnostic, 86229
+Hemorrhagic, Diagnostic modelling, 2
+Hemorrhagic, EGFR, 2865
+Hemorrhagic, Estimated glomerular filtration rate, 596
+Hemorrhagic, Estrogen sulfotransferase, 4
+Hemorrhagic, F- Protein, 111
+Hemorrhagic, FABP , 192
+Hemorrhagic, FABP1, 34
+Hemorrhagic, FABPs, 297
+Hemorrhagic, Fatty Acid Binding Protein, 257
+Hemorrhagic, FDP, 1278
+Hemorrhagic, Fibrin degradation products, 518
+Hemorrhagic, Fibrin fibrinogen degradation products, 44
+Hemorrhagic, Fibrinogen, 10253
+Hemorrhagic, Fibtem, 187
+Hemorrhagic, Full blood cell count, 7
+Hemorrhagic, Gamma glutamyl transferase , 297
+Hemorrhagic, Glasgow Coma Scale, 803
+Hemorrhagic, GLDH, 136
+Hemorrhagic, Glucose, 23233
+Hemorrhagic, Glutamate dehydrogenase, 193
+Hemorrhagic, Glutathione S-transferase alpha, 18
+Hemorrhagic, Glutathione S-transferases (GST), 25
+Hemorrhagic, GSTA, 22
+Hemorrhagic, GSTα, 3
+Hemorrhagic, Heart rate, 5109
+Hemorrhagic, Helper T cells , 272
+Hemorrhagic, Hematocrite, 85
+Hemorrhagic, Hemoglobin, 23238
+Hemorrhagic, High Mobility Group Box-1 , 270

@@ -1,0 +1,467 @@
+
+TY  - JOUR
+AU  - Schuetz, Philipp
+AU  - Muller, Beat
+AU  - Christ-Crain, Mirjam
+AU  - Stolz, Daiana
+AU  - Tamm, Michael
+AU  - Bouadma, Lila
+AU  - Luyt, Charles E
+AU  - Wolff, Michel
+AU  - Chastre, Jean
+AU  - Tubach, Florence
+AU  - Kristoffersen, Kristina B
+AU  - Burkhardt, Olaf
+AU  - Welte, Tobias
+AU  - Schroeder, Stefan
+AU  - Nobre, Vandack
+AU  - Wei, Long
+AU  - Bhatnagar, Neera
+AU  - Bucher, Heiner C
+AU  - Briel, Matthias
+TI  - Procalcitonin to initiate or discontinue antibiotics in acute respiratory tract infections
+JO  - Evidence-Based Child Health: A Cochrane Review Journal
+JA  - Evid.‐Based Child Health
+VL  - 8
+IS  - 4
+SN  - 1557-6272
+UR  - https://doi.org/10.1002/ebch.1927
+DO  - doi:10.1002/ebch.1927
+SP  - 1297
+EP  - 1371
+KW  - Acute Disease
+KW  - Anti-Bacterial Agents [*therapeutic use]
+KW  - Bacterial Infections [blood; *drug therapy; mortality]
+KW  - Biological Markers [blood]
+KW  - Calcitonin [*blood]
+KW  - Cause of Death
+KW  - Protein Precursors [*blood]
+KW  - Randomized Controlled Trials as Topic
+KW  - Respiratory Tract
+KW  - Infections [blood; *drug therapy; mortality]
+KW  - Treatment Failure
+KW  - MeSH check words
+KW  - Humans
+PY  - 2013
+AB  - Abstract Background Acute respiratory infections (ARIs) comprise a large and heterogeneous group of infections including bacterial, viral and other aetiologies. In recent years, procalcitonin - the prohormone of calcitonin - has emerged as a promising marker for the diagnosis of bacterial infections and for improving decisions about antibiotic therapy. Several randomised controlled trials (RCTs) have demonstrated the feasibility of using procalcitonin for starting and stopping antibiotics in different patient populations with acute respiratory infections and different settings ranging from primary care to emergency departments (EDs), hospital wards and intensive care units (ICUs). Objectives The aim of this systematic review based on individual patient data was to assess the safety and efficacy of using procalcitonin for starting or stopping antibiotics over a large range of patients with varying severity of ARIs and from different clinical settings. Search methods We searched the Cochrane Central Register of Controlled Trials (CENTRAL 2011, Issue 2) which contains the Acute Respiratory Infections Group's Specialised Register, MEDLINE (1966 to May 2011) and EMBASE (1974 to May 2011) to identify suitable trials. Selection criteria We included RCTs of adult participants with ARIs who received an antibiotic treatment either based on a procalcitonin algorithm or usual care/guidelines. Trials were excluded if they exclusively focused on paediatric patients or if they used procalcitonin for another purpose than to guide initiation and duration of antibiotic treatment. Data collection and analysis Two teams of review authors independently evaluated the methodology and extracted data from primary studies. The primary endpoints were all-cause mortality and treatment failure at 30 days. For the primary care setting, treatment failure was defined as death, hospitalisation, ARI-specific complications, recurrent or worsening infection, and patients reporting any symptoms of an ongoing respiratory infection at follow-up. For the ED setting, treatment failure was defined as death, ICU admission, re-hospitalisation after index hospital discharge, ARI-associated complications, and recurrent or worsening infection within 30 days of follow-up. For the ICU setting, treatment failure was defined as death within 30 days of follow-up. Secondary endpoints were antibiotic use (initiation of antibiotics, duration of antibiotics and total exposure to antibiotics (total amount of antibiotic days divided by total number of patients)), length of hospital stay for hospitalised patients, length of ICU stay for critically ill patients, and number of days with restricted activities within 14 days after randomisation for primary care patients. For the two co-primary endpoints of all-cause mortality and treatment failure, we calculated odds ratios (ORs) and 95% confidence intervals (CIs) using multivariable hierarchical logistic regression. The hierarchical regression model was adjusted for age and clinical diagnosis as fixed-effect. The different trials were added as random-effects into the model. We fitted corresponding linear regression models for antibiotic use. We conducted sensitivity analyses stratified by clinical setting and ARI diagnosis to assess the consistency of our results. Main results We included 14 trials with 4221 participants. There were 118 deaths in 2085 patients (5.7%) assigned to procalcitonin groups compared to 134 deaths in 2126 control patients (6.3%) (adjusted OR 0.94, 95% CI 0.71 to 1.23). Treatment failure occurred in 398 procalcitonin group patients (19.1%) and in 466 control patients (21.9%). Procalcitonin guidance was not associated with increased mortality or treatment failure in any clinical setting, or ARI diagnosis. These results proved robust in various sensitivity analyses. Total antibiotic exposure was significantly reduced overall (median (interquartile range) from 8 (5 to 12) to 4 (0 to 8) days; adjusted difference in days, -3.47, 95% CI -3.78 to -3.17, and across all the different clinical settings and diagnoses. Authors' conclusions Use of procalcitonin to guide initiation and duration of antibiotic treatment in patients with ARI was not associated with higher mortality rates or treatment failure. Antibiotic consumption was significantly reduced across different clinical settings and ARI diagnoses. Further high-quality research is needed to confirm the safety of this approach for non-European countries and patients in intensive care. Moreover, future studies should also establish cost-effectiveness by considering country-specific costs of procalcitonin measurement and potential savings in consumption of antibiotics and other healthcare resources, as well as secondary cost savings due to lower risk of side effects and reduced antimicrobial resistance. Procalcitonin testing to initiate or discontinue antibiotics in acute respiratory tract infections Unnecessary antibiotic use significantly contributes to increasing bacterial resistance, medical costs and the risk of drug-related adverse events. The blood marker procalcitonin increases in bacterial infections and decreases when patients recover from the infection. Hence, procalcitonin may be used to support clinical decision making for the initiation and discontinuation of antibiotic therapy in patients with a clinical suspicion of infection. Randomised controlled trials have demonstrated that such a strategy works, particularly in patients with an infection of the respiratory tract. However, most of these individual studies did not include enough patients to allow for a conclusive assessment about safety (low statistical power). Thus, the risk for mortality and severe complications associated with procalcitonin-guided decision making remained unclear. This systematic review included individual patient data from 14 randomised controlled trials with a total of 4211 participants. When looking at these combined data, we found no increased risk for all-cause mortality or treatment failure when procalcitonin was used to guide initiation and duration of antibiotic treatment in participants with acute respiratory infections compared to control participants. However, we found a consistent reduction of antibiotic use, mainly due to lower prescription rates in primary care and lower duration of antibiotic courses in emergency department and intensive care unit patients. This analysis is limited to adult patients with respiratory infections excluding patients who were immuno-compromised (i.e. HIV positive, those receiving immuno-suppressive therapies or chemotherapy). Most trials were conducted in Europe and China and similar studies in other countries including the United States are warranted.
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Qian
+AU  - Tian, Xiao-Bing
+AU  - Liu, Wei
+AU  - Zhang, Li-Xia
+TI  - Procalcitonin as a diagnostic indicator for systemic bacterial infections in patients with Stevens–Johnson syndrome/toxic epidermal necrolysis
+JO  - The Journal of Dermatology
+JA  - J Dermatol
+VL  - 45
+IS  - 8
+SN  - 0385-2407
+UR  - https://doi.org/10.1111/1346-8138.14488
+DO  - doi:10.1111/1346-8138.14488
+SP  - 989
+EP  - 993
+KW  - bacterial infections
+KW  - C-reactive protein
+KW  - procalcitonin
+KW  - Stevens–Johnson syndrome
+KW  - toxic epidermal necrolysis
+PY  - 2018
+AB  - Abstract Elevated serum procalcitonin (PCT) level has been reported to be a diagnostic index in systemic bacterial infections, but it can also increase in some non-infectious inflammatory diseases. Stevens?Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN) is a rare immune-mediated cutaneous mucosal reaction which is susceptible to bacterial infections and may have elevated PCT levels. The value of serum PCT has not been assessed in series of SJS/TEN patients. We aimed to investigate the PCT levels in SJS/TEN patients with systemic bacterial infections (systemic infected group), with skin surface bacterial infections (skin surface infected group) and without infections (non-infected group), to assess whether PCT was a valuable indicator for systemic bacterial infections in SJS/TEN patients. The PCT and C-reactive protein (CRP) levels of 42 inpatients with SJS/TEN were retrospectively analysis. The receiver?operator curve (ROC) was used to determine the diagnostic efficacy of PCT for systemic bacterial infections in SJS/TEN patients. The results demonstrated that PCT levels in the systemic infected group were significantly higher than those in the other two groups (P < 0.05). There was no significant difference in CRP between the three groups. The cut-off PCT level of 0.65 ng/mL calculated by ROC had optimal diagnostic efficacy, with sensitivity and specificity of 84.6% and 89.7%, respectively. PCT and severity-of-illness score for toxic epidermal necrolysis were positively correlated (P < 0.05). In conclusion, PCT is a valuable index and superior to CRP in detecting systemic bacterial infections in SJS/TEN patients. The level of PCT can partially reflect the severity of the disease.
+ER  - 
+
+TY  - JOUR
+AU  - Möckel, Martin
+AU  - de Boer, Rudolf A.
+AU  - Slagman, Anna Christine
+AU  - von Haehling, Stephan
+AU  - Schou, Morten
+AU  - Vollert, Jörn Ole
+AU  - Wiemer, Jan C.
+AU  - Ebmeyer, Stefan
+AU  - Martín-Sánchez, F. Javier
+AU  - Maisel, Alan S.
+AU  - Giannitsis, Evangelos
+TI  - Improve Management of acute heart failure with ProcAlCiTonin in EUrope: results of the randomized clinical trial IMPACT EU Biomarkers in Cardiology (BIC) 18
+JO  - European Journal of Heart Failure
+JA  - Eur J Heart Fail
+VL  - n/a
+IS  - n/a
+SN  - 1388-9842
+UR  - https://doi.org/10.1002/ejhf.1667
+DO  - doi:10.1002/ejhf.1667
+KW  - Acute heart failure
+KW  - Procalcitonin
+KW  - Natriuretic peptides
+KW  - Antibiotic therapy
+KW  - Mortality
+AB  - Aim To determine whether initiation of antibiotic therapy (ABX) by procalcitonin (PCT) within 8 h of admission in patients presenting to the emergency department with symptoms and signs of acute heart failure (AHF) and elevated natriuretic peptides would improve clinical outcomes. Methods and results The study was a randomized multicentre clinical trial conducted at 16 sites in Europe. Patients were randomized to either a PCT-guided strategy or standard care. Patients with PCT-guided strategy (n =?370) had ABX initiated if PCT was >?0.2 ?g/L. Patients with standard care (n =?372) had AHF care in accordance with published guidelines without PCT. The primary endpoint was 90-day all-cause mortality. Pre-specified secondary endpoints included 30-day all-cause mortality and readmission and rate of pneumonia. The Data Safety and Review Committee recommended stopping the study for futility when 762 of the planned 792 patients had been enrolled. A total of?742 patients could be analysed. Patients were elderly (median age: 77?years), 38% were women, and had typical signs and symptoms of AHF. All-cause mortality at 90?days was 10.3% in the PCT-guided group vs. 8.2% in standard care (P =?0.316). Thirty-day readmission was significantly higher in the PCT-guided group vs. standard care but the difference vanished until day 90. The rate of pneumonia was overall low (7.5%) and not different between groups. Conclusions In patients with AHF, a strategy of PCT-guided initiation of ABX was not more effective than a standard care strategy in improving clinical outcomes.
+ER  - 
+
+TY  - JOUR
+AU  - Karayaylali, I.
+AU  - Seyrek, N.
+AU  - Balal, M.
+AU  - Paydas, S.
+AU  - Cetiner, S.
+AU  - Yaman, A.
+TI  - Pre- and Post Hemodialysis Procalcitonin Levels and Their Relationships with Immunoregulatory, Proinflammatory Cytokines in Chronic Hemodialysis Patients
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085ad.x
+DO  - doi:10.1111/j.1492-7535.2004.0085ad.x
+SP  - 90
+EP  - 90
+PY  - 2004
+AB  - Background/Aims:? Procalcitonin (PCT) has been described as a new marker of severe infection and sepsis. In this study, we investigated the serum levels of PCT during the hemodialysis (HD) in chronically hemodialyzed patients and whether the PCT levels were correlated with other cytokines. Methods:? We measured pre- and post-HD PCT, interleukin (IL-1), IL-2, IL-6, IL-10, tumor necrosis factor-α (TNF-α) concentrations in 24 stable patients undergoing chronic HD [11 males and 13 females; age 41.2?±?18.0 years, 12?h/week, with a Kt/V of 1.41?±?0.35, polysynthane (PSN) membrane being used in all patients, without reuse]. Pre- and post-HD PCT concentrations were compared with cytokines such as IL-1, IL-2, IL-6, IL-10, TNF-α, and clinical parameters including age, blood pressure, leukocyte, hemoglobin levels, C-reactive protein (CRP), epoetin (EPO) doses, BUN, creatinine, parathormone (PTH), ferritin, and transferrin levels. Results:? Pre- and post-HD serum PCT levels were similar (0.77?±?0.40 and 0.83?±?0.61 ng/mL), and higher than upper normal level of 0.5?ng/mL. The levels of IL-2 and IL-10 decreased and the levels of IL-1 and TNF-α increased. Post-HD PCT correlated with PTH, IL-1, IL-2, and IL-10. Conclusion:? About 60% of patients had elevated PCT levels, HD with low-flux PSN membrane did not change serum PCT and IL-6. While IL-1 and TNF-α increased, IL-2 and IL-10 decreased by PSN membrane during HD. So that PCT levels can be measured just after HD as do prior to start of HD. Is there any relationship between PCT and PTH? PCT may be important in uremic bone disease.
+ER  - 
+
+TY  - JOUR
+AU  - Halldorsdottir, H. D.
+AU  - Eriksson, J.
+AU  - Persson, B. P.
+AU  - Herwald, H.
+AU  - Lindbom, L.
+AU  - Weitzberg, E.
+AU  - Oldner, A.
+TI  - Heparin-binding protein as a biomarker of post-injury sepsis in trauma patients
+JO  - Acta Anaesthesiologica Scandinavica
+JA  - Acta Anaesthesiol. Scand.
+VL  - 62
+IS  - 7
+SN  - 0001-5172
+UR  - https://doi.org/10.1111/aas.13107
+DO  - doi:10.1111/aas.13107
+SP  - 962
+EP  - 973
+PY  - 2018
+AB  - Background Heparin-binding protein (HBP) is a neutrophil-derived protein advocated as a biomarker in sepsis. We evaluated plasma HBP as a predictor of post-injury sepsis in trauma patients. Methods Ninety-seven trauma patients were studied during the first week of intensive care. Injury-related data were collected and clinical parameters registered daily. Plasma HBP was sampled on day 1, 3 and 5 after trauma and evaluated for associations with injury-related parameters and sepsis. The predictive properties of HBP were compared to C-reactive protein (CRP) and white blood cell count (WBC). Results Median Injury Severity Score was 33, one-third of the trauma patients received massive transfusion and a quarter was in shock on arrival. Overall 30-day mortality was 8%. Plasma HBP was significantly higher in severely injured patients and associated with shock on arrival, massive transfusions and organ failure. Septic patients had higher levels of HBP only on day 5. When evaluated for prediction of onset of sepsis during the two following days after plasma sampling by receiver operating characteristic (ROC) analyses, areas under the curves were non-significant for all time points. Similar patterns were seen for CRP and WBC. Conclusion In trauma patients, HBP levels are related to severity of injury and organ dysfunction. Heparin-binding protein was weakly associated with sepsis and only at the later stage of the observation period of 1 week. Moreover, HBP showed poor discriminatory properties as an early biomarker of post-injury sepsis. Trauma-induced inflammation during the post-injury phase may blunt the sepsis-predictive performance of HBP.
+ER  - 
+
+TY  - JOUR
+AU  - Dias, Brendan H.
+AU  - Rozario, Anthony P.
+AU  - Olakkengil, Santosh A.
+TI  - Role of inflammatory markers as predictors of laparotomy in patients presenting with acute abdomen
+JO  - ANZ Journal of Surgery
+JA  - ANZ J Surg
+VL  - 85
+IS  - 10
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/ans.12993
+DO  - doi:10.1111/ans.12993
+SP  - 755
+EP  - 759
+KW  - acute abdomen
+KW  - C-reactive protein
+KW  - CRP
+KW  - PCT
+KW  - procalcitonin
+PY  - 2015
+AB  - Abstract Background There is a need for an ideal indicator of surgery in patients presenting with acute abdomen. Several markers have been analysed, but the search still continues as none have proven effective. This study aimed to analyse and compare the predictive value of plasma procalcitonin (PCT) strip test in patients presenting with acute abdomen and identify a useful cut-off value to differentiate patients that would benefit with surgery from those that require conservative management. Methods A prospective study was conducted in the department of general surgery from June 2012 to June 2013. Plasma PCT was estimated by the semi-quantitative strip test. The levels of plasma PCT and other routinely used markers of inflammation were analysed and compared. Results Of the total of 58 patients, 44 patients (76%) were men with a mean age of 45 years. Forty patients required emergency surgical intervention. A plasma PCT value of >0.5?ng/mL at admission was 80% sensitive and 100% specific for predicting need for antibiotics in patients with acute abdomen that were managed conservatively. The mean plasma PCT value in the patients undergoing surgery (5.0?10.0?ng/mL) was significantly more than in those managed conservatively (0.5?2.0?ng/mL). Using receiver operating characteristic (ROC) curves a cut-off for plasma PCT of >5.0?ng/mL was 75% sensitive and 100% specific for considering surgical intervention in patients presenting with acute abdomen. Conclusions Plasma PCT (value?>5?ng/mL) could be used as an adjunct to clinical examination to predict requirement of surgery in patients presenting with acute abdomen.
+ER  - 
+
+TY  - JOUR
+AU  - Marton, S.
+AU  - Ghosh, S.
+AU  - Papp, A.
+AU  - Bogar, L.
+AU  - Koszegi, T.
+AU  - Juhasz, V.
+AU  - Cseke, L.
+AU  - Horvath, P. O.
+TI  - Effect of glutamine in patients with esophagus resection
+JO  - Diseases of the Esophagus
+VL  - 23
+IS  - 2
+SN  - 1120-8694
+UR  - https://doi.org/10.1111/j.1442-2050.2009.01007.x
+DO  - doi:10.1111/j.1442-2050.2009.01007.x
+SP  - 106
+EP  - 111
+KW  - esophagectomy
+KW  - glutamine
+KW  - microalbuminuria
+KW  - procalcitonin
+KW  - systemic inflammatory response
+PY  - 2010
+AB  - SUMMARY Glutamine is the most abundant amino-acid in the extra- and intracellular compartments of the human body, which accounts for over 50% of its free amino-acid content. Utilization of glutamine peptides is explicitly useful, resulting in a decrease in the number of postoperative infectious complications, period of hospitalization, and therapeutic costs. This article aims to study the effects of glutamine on systemic inflammatory response, morbidity, and mortality after esophagectomy. A prospective, randomized, double-blind, and controlled trial was used. Following sealed-envelope block randomization, the patients were divided into two groups. Members of the glutamine group (group G) received glutamine (Dipeptiven, Fresenius) as continuous infusion for 6 hours at 0.5?g/kg for 3 days prior to, and 7 days following surgery; while patients of the control group were given placebo. We examined 30 patients in group G, and 25 patients as controls. In both patient groups, the levels of total protein, albumin, pre-albumin, retinol binding protein, transferrin, transferring-saturation, C-reactive protein, procalcitonin, lymphocte, Interleukin-6, Interleukin-8, tumor necrosis factor alpha, and serum lactate were determined prior to surgery (t0), directly after surgery (tu), following surgery on day 1 (t1), day 2 (t2), and day 7 (t7). For statistical analysis Mann?Whitney U test and chi-square test were used. There was no significant difference between the two groups regarding age, male/female ratio, and SAPS II scores. Intensive care unit morbidity and mortality was similar in both groups (group G: 24 survivors/6 nonsurvivors; Control: 17 survivors/8 nonsurvivors; P= 0.607). Daily Multiple Organ Dysfunction Score did not differ significantly between the two groups. The observed inflammatory markers followed the pattern we described without significant difference. Based on our study, the glutamine supplementation that we used had no influence on morbidity, mortality, or postoperative inflammatory response after esophagectomy.
+ER  - 
+
+TY  - JOUR
+AU  - Mian, Amir
+AU  - Becton, David
+AU  - Saylors, Robert
+AU  - James, Laura
+AU  - Tang, Xinyu
+AU  - Bhutta, Adnan
+AU  - Prodhan, Parthak
+TI  - Biomarkers for risk stratification of febrile neutropenia among children with malignancy: A pilot study
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr. Blood Cancer
+VL  - 59
+IS  - 2
+SN  - 1545-5009
+UR  - https://doi.org/10.1002/pbc.24158
+DO  - doi:10.1002/pbc.24158
+SP  - 238
+EP  - 245
+KW  - biomarkers
+KW  - febrile neutropenia
+KW  - outcomes
+KW  - sepsis
+PY  - 2012
+AB  - Abstract Background Patients receiving myelosuppressive chemotherapy remain at increased risk for developing febrile neutropenia (FN). For this heterogeneous population, a biomarker based risk stratification of FN patients may be a useful clinical tool. We hypothesized that serum biomarkers during initial presentation of an FN event could be predictive of subsequent clinical outcome. Procedure Eighty-nine FN events from 36 non-consecutive subjects were analyzed. ?High-risk? FN criteria included prolonged hospitalization (≥7 days), admission to pediatric intensive care unit (PICU) or a microbiology confirmed bacteremia. Patients with ?low risk? FN had none of the above. Biomarkers measured during the first 2 days of FN hospitalization were analyzed and correlated with respective clinical outcome. Results Of the 89 FN events, 44 (49%) fulfilled pre-defined high-risk criteria and 45 (51%) were low-risk. Procalcitonin level (>0.11?ng/ml) was found to be associated with the high-risk FN outcome with sensitivity of 97%. With an increase in log scale by 1, the odds of being high-risk FN increased twofold. Hs-CRP >100?mg/L had sensitivity of 88% in predicting high-risk FN. The odds of a high-risk FN event increased by approximately 1.8-fold with an increase in the log scale of hs-CRP by 1 (10-fold). In univariate analysis, IL-6, IL-8, and IL-10 were statistically significant and associated with high-risk FN. However, no statistically significant difference was found for IL-1α, sIL-2Ra, IL-3, or TNF-α. Conclusions Biomarkers with appropriate critical threshold values may be a useful clinical tool for appropriate risk stratification of children with FN. Pediatr Blood Cancer 2012;59:238?245. ? 2012 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Berres, Marie-Luise
+AU  - Schnyder, Barbara
+AU  - Yagmur, Eray
+AU  - Inglis, Brett
+AU  - Stanzel, Sven
+AU  - Tischendorf, Jens J. W.
+AU  - Koch, Alexander
+AU  - Winograd, Ron
+AU  - Trautwein, Christian
+AU  - Wasmuth, Hermann E.
+TI  - Longitudinal monocyte Human leukocyte antigen-DR expression is a prognostic marker in critically ill patients with decompensated liver cirrhosis
+JO  - Liver International
+VL  - 29
+IS  - 4
+SN  - 1478-3223
+UR  - https://doi.org/10.1111/j.1478-3231.2008.01870.x
+DO  - doi:10.1111/j.1478-3231.2008.01870.x
+SP  - 536
+EP  - 543
+KW  - cirrhosis
+KW  - critical illness
+KW  - HLA-DR
+KW  - immune paralysis
+PY  - 2009
+AB  - Abstract Background: Critical illness in cirrhotic patients is associated with a poor prognosis and increased susceptibility to infections. Monocyte HLA-DR expression is decreased in cirrhotic patients, but its prognostic value has not been investigated prospectively. Methods: Thirty-eight critically ill patients with decompensated liver cirrhosis were included in this prospective study. On admission to the intensive care unit (ICU), inflammatory parameters (C-reactive protein, procalcitonin and lipopolysaccharide-binding protein), interleukin (IL)-10, interferon (IFN)-? serum levels, tumour necrosis factor (TNF)-αex vivo stimulation (whole blood assay) and HLA-DR expression on monocytes (FACS analysis) were determined. Immune parameters were furthermore measured every third day until discharge from the ICU or death of the patients. Results: Intensive care unit mortality of the cirrhotic patients was 34.2%. During admission, TNF ex vivo, IFN-? and HLA-DR expression were lower in non-survivors (all P<0.05), while IL-10 levels were increased in non-survivors compared with survivors (P=0.001). However, individual values clearly overlapped between groups. Prospective analysis revealed that monocyte HLA-DR expression remained stable or increased in survivors, but decreased in non-survivors (P=0.002). A decrease in HLA-DR expression between admission and day 3 was strongly associated with decreased IFN-? levels and increased ICU mortality (hazard ratio 3.36, P=0.008), mostly owing to late sepsis. This association was independent of the sequential organ failure assessment and model for end-stage liver disease score. Conclusions: Here we establish the relative HLA-DR expression (admission/day 3) as a prognostic marker for ICU mortality in critically ill cirrhotic patients. These results may guide the evaluation of immune-modulating therapies in these patients.
+ER  - 
+
+TY  - JOUR
+AU  - Zhou, Sicheng
+AU  - Wang, Xuewei
+AU  - Zhao, Chuanduo
+AU  - Zhou, Haitao
+AU  - Pei, Wei
+AU  - Liang, Jianwei
+AU  - Zhou, Zhixiang
+AU  - Wang, Xishan
+C8  - JGH-01657-2019.R1
+TI  - Can transanal natural orifice specimen extraction after laparoscopic anterior resection for colorectal cancer reduce the inflammatory response?
+JO  - Journal of Gastroenterology and Hepatology
+JA  - Journal of Gastroenterology and Hepatology
+VL  - n/a
+IS  - n/a
+SN  - 0815-9319
+UR  - https://doi.org/10.1111/jgh.14919
+DO  - doi:10.1111/jgh.14919
+KW  - colorectal surgery
+KW  - inflammatory response
+KW  - natural orifice specimen extraction (NOSE)
+KW  - surgical outcomes
+AB  - Abstract Background and Aim Avoiding abdominal incisions is one of the unique features of natural orifice specimen extraction (NOSE) surgery. There has been no consensus on whether the avoidance of abdominal incisions can reduce the systemic inflammatory response after NOSE surgery. This study was designed to evaluate the safety and feasibility of transanal NOSE, especially the inflammatory response after transanal NOSE versus mini-laparotomy (LAP). Methods A total of 172 colorectal cancer patients who underwent transanal NOSE were matched with 172 patients who underwent LAP for colorectal cancer. Clinical characteristics, pathological features, perioperative parameters, and indicators of the inflammatory response were collected and compared. The inflammatory response was assessed by measuring body temperature, neutrophil count, C-reactive protein levels, and procalcitonin levels. Results Patients in the NOSE group had better short-term outcomes, such as lower incidence of wound infection, less postoperative pain, less need for anesthetic drugs, and faster recovery of intestinal function. Regarding the inflammatory response, the average body temperature of patients in the NOSE group was higher on postoperative day (POD) 2 than that in the LAP group. A higher median neutrophil count and C-reactive protein levels were observed in the NOSE group on POD3 and POD5 than was observed in the LAP group. Conclusions Transanal NOSE is safe and feasible for colorectal cancer, with better short-term outcomes. Although transanal NOSE produced a larger systemic inflammatory response than LAP in the early postoperative stages, this response did not appear to translate into infectious morbidity.
+ER  - 
+
+TY  - JOUR
+AU  - Zagli, Giovanni
+AU  - Tarantini, Francesca
+AU  - Bonizzoli, Manuela
+AU  - Di Filippo, Alessandro
+AU  - Peris, Adriano
+AU  - De Gaudio, Angelo Raffaele
+AU  - Geppetti, Pierangelo
+TI  - Altered pharmacology in the intensive care unit patient
+JO  - Fundamental & Clinical Pharmacology
+VL  - 22
+IS  - 5
+SN  - 0767-3981
+UR  - https://doi.org/10.1111/j.1472-8206.2008.00623.x
+DO  - doi:10.1111/j.1472-8206.2008.00623.x
+SP  - 493
+EP  - 501
+KW  - intensive care unit
+KW  - pharmacokinetic
+KW  - pharmacology
+KW  - sepsis
+KW  - trauma
+PY  - 2008
+AB  - Abstract Critically ill patients, not infrequently present alterations of physiological parameters that determine the success/failure of therapeutic interventions as well as the final outcome. Sepsis and polytrauma are two of the most common and complex syndromes occurring in Intensive Care Unit (ICU) and affect drug absorption, disposition, metabolism and elimination. Pharmacological management of ICU patients requires consideration of the unique pharmacokinetics associated with these clinical conditions and the likely occurrence of drug interaction. Rational adjustment in drug choice and dosing contributes to the appropriateness of treatment of those patients.
+ER  - 
+
+TY  - JOUR
+AU  - Uusitalo-Seppälä, R.
+AU  - Huttunen, R.
+AU  - Tarkka, M.
+AU  - Aittoniemi, J.
+AU  - Koskinen, P.
+AU  - Leino, A.
+AU  - Vahlberg, T.
+AU  - Rintala, E. M.
+TI  - Soluble urokinase-type plasminogen activator receptor in patients with suspected infection in the emergency room: a prospective cohort study
+JO  - Journal of Internal Medicine
+JA  - J Intern Med
+VL  - 272
+IS  - 3
+SN  - 0954-6820
+UR  - https://doi.org/10.1111/j.1365-2796.2012.02569.x
+DO  - doi:10.1111/j.1365-2796.2012.02569.x
+SP  - 247
+EP  - 256
+KW  - biomarker
+KW  - case fatality
+KW  - emergency room
+KW  - infection
+KW  - severe sepsis
+KW  - suPAR
+PY  - 2012
+AB  - Abstract Objectives The soluble form of urokinase-type plasminogen activator (suPAR) was evaluated as an early prognostic marker of sepsis in patients with suspected infection. Design A single-centre prospective cohort study. Methods The cohort comprised 539 patients in the emergency department with suspected infection: 59 without systemic inflammatory response syndrome (SIRS) and without bacterial infection (group 1), 68 with bacterial infection and without SIRS (group 2), 54 with SIRS and without bacterial infection (group 3), 309 with sepsis (SIRS and bacterial infection) and without organ failure (group 4) and 49 with severe sepsis (SIRS, bacterial infection and organ failure) (group 5). suPAR was measured on admission using a commercial solid-phase enzyme-linked immunosorbent assay. Results The median soluble form of the receptor (suPAR) concentrations in groups 1?5 were 4.7, 5.0, 4.4, 4.8 and 7.9 ng mL?1, respectively (P < 0.001). The levels were significantly higher in nonsurvivors compared with survivors (8.3 vs. 4.9 ng mL?1, P < 0.001) and in patients with severe sepsis (group 5) compared with those in the other groups (7.9 vs. 4.8 ng mL?1, P < 0.001). Area under the receiver operating characteristics curve (AUCROC ) for the prediction of case fatality was 0.79 (95% confidence interval [CI]: 0.72?0.86, P < 0.0001) and 0.75 for severe sepsis (95% CI: 0.68?0.81, P < 0.0001). At a cut-off level of 6.4 ng mL?1, suPAR had 76% sensitivity and 69% specificity for fatal disease; at a cut-off level of 6.6 ng mL?1, the sensitivity and specificity for severe sepsis were 67% and 72%, respectively. In multivariate models, high suPAR remained an independent predictor of case fatality and severe sepsis after adjusting for potential confounders. Conclusions A high suPAR level predicts case fatality and severe sepsis in patients with suspected infection.
+ER  - 
+
+AU  - Ridgway, Elisabeth J.
+AU  - Subramanian, Bala M.
+AU  - Raza, Mohammad
+C7  - pp. 146-191
+TI  - Clinical microbiology and virology in the context of the autopsy
+SN  - 9781119062554
+UR  - https://doi.org/10.1002/9781119062585.ch7
+DO  - doi:10.1002/9781119062585.ch7
+SP  - 146-191
+KW  - infectious disease
+KW  - autopsy microbiology
+KW  - serology
+KW  - polymerase chain reaction (PCR)
+KW  - C-reactive protein (CRP)
+KW  - procalcitonin
+KW  - sudden unexpected death in infancy (SUDI/SUID)
+KW  - risk factors
+KW  - biosafety
+KW  - emerging infections
+PY  - 2012
+AB  - Summary As the numbers of postmortem examinations decline, pathologists face the challenging task of maintaining skills in the diagnosis of infection, obtaining good quality diagnostic samples, and upholding high standards of infection control. Over the last decade, considerable advances have been made within microbiology and virology that have enhanced the diagnostic work-up. This chapter provides an overview of the contribution of clinical microbiology to the diagnosis of infection, including an update on standard culture methods and an insight into newer molecular techniques in the context of the autopsy. We provide a framework for optimizing specimens collected and guidance on interpretation of results for common infections encountered at postmortem, as well as the role of autopsy in identifying emerging infectious diseases and bioterrorist threats. We also provide a perspective on the unique challenges of conducting neonatal autopsies in cases of sudden unexplained death in infancy. This chapter also identifies risk factors for transmission of infection among autopsy personnel and outlines basic principles for minimizing this risk.
+ER  - 
+
+C7  - pp. 277-283
+TI  - Index
+SN  - 9781405154000
+UR  - https://doi.org/10.1002/9781444300772.index
+DO  - doi:10.1002/9781444300772.index
+SP  - 277-283
+PY  - 2012
+ER  - 
+
+C7  - pp. 471-480
+TI  - Index
+SN  - 9780470657836
+UR  - https://doi.org/10.1002/9781118482117.index
+DO  - doi:10.1002/9781118482117.index
+SP  - 471-480
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+TI  - SAEM Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+JA  - Acad Emerg Med
+VL  - 25
+IS  - S1
+SN  - 9780470657836
+UR  - https://doi.org/10.1111/acem.13424
+DO  - doi:10.1111/acem.13424
+SP  - S8
+EP  - S284
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Noveanu, Markus
+AU  - Pargger, Hans
+AU  - Breidthardt, Tobias
+AU  - Reichlin, Tobias
+AU  - Schindler, Christian
+AU  - Heise, Antje
+AU  - Schoenenberger, Ronald
+AU  - Manndorff, Patricia
+AU  - Siegemund, Martin
+AU  - Mebazaa, Alexandre
+AU  - Marsch, Stephan
+AU  - Mueller, Christian
+TI  - Use of B-type natriuretic peptide in the management of hypoxaemic respiratory failure
+JO  - European Journal of Heart Failure
+JA  - European Journal of Heart Failure
+VL  - 13
+IS  - 2
+SN  - 9780470657836
+UR  - https://doi.org/10.1093/eurjhf/hfq188
+DO  - doi:10.1093/eurjhf/hfq188
+SP  - 154
+EP  - 162
+KW  - Respiratory failure
+KW  - ICU
+KW  - Natriuretic peptides
+KW  - Heart failure
+KW  - Cost
+PY  - 2011
+AB  - Aims Evaluation and management of patients with hypoxaemic respiratory failure in the intensive care unit (ICU) are difficult. The use of B-type natriuretic peptide (BNP), a quantitative marker of cardiac stress and heart failure (HF), may be helpful. The purpose of this study is to describe the prevalence of causative disorders of hypoxaemic respiratory failure in the ICU and to determine the impact of a BNP-guided diagnostic strategy. Methods and results This prospective, multi-centre, randomized, single-blind, controlled trial included 314 ICU patients with hypoxaemic respiratory failure: 159 patients were randomly assigned to a diagnostic strategy involving the measurement of BNP and 155 were assessed in a standard manner. The time to discharge and the total cost of treatment were the primary endpoints. Hypoxaemic respiratory failure was multi-causal in 27% of the patients. Heart failure was the most common diagnosis in both groups. The use of BNP levels, in conjunction with other clinical information, significantly increased the detection of HF in combination with an additional diagnosis (32 vs. 16%, P = 0.001) and also increased the application of HF-specific medical therapy (nitrates: 32 vs. 23%, P < 0.05 and diuretics: 65 vs. 50%, P < 0.01). Time to discharge (median, 13 vs.14 days, P = 0.50) and total cost of treatment (median, US-$6190 vs. 7155, P = 0.24) were comparable in both groups. Conclusion Hypoxaemic respiratory failure in the ICU is often a multi-causal disorder. The use of BNP increased the detection of HF, but did not significantly improve patient management as quantified by time to discharge or treatment cost. ClinicalTrials.gov Identifier: NCT00130559.
+ER  - 
+
+AU  - Cárdenas, Andrés
+AU  - Graupera, Isabel
+AU  - Ginès, Pere
+C7  - pp. 193-203
+TI  - Ascites and spontaneous bacterial peritonitis
+SN  - 9781118638422
+UR  - https://doi.org/10.1002/9781118662915.ch27
+DO  - doi:10.1002/9781118662915.ch27
+SP  - 193-203
+KW  - cirrhosis
+KW  - ascites
+KW  - hyponatremia
+KW  - hepatorenal syndrome
+KW  - portal hypertension
+KW  - TIPSS
+KW  - spontaneous bacterial peritonitis
+PY  - 2011
+AB  - Summary Ascites is the most common complication of cirrhosis resulting in poor quality of life, high risk of development of other complications of cirrhosis, increased morbidity and mortality associated with surgical interventions, and poor long-term outcome. The practical management of ascites involves a proper evaluation of the patient with a thorough history and physical exam. In addition, complete laboratory, ascitic fluid, radiological, endoscopic, and in some cases histological tests should be performed. Taking proper care of patients with ascites can be challenging because they are prone to several complications such as spontaneous bacterial peritonitis (SBP), hypervolemic hyponatremia, hepatic hydrothorax, hepatorenal syndrome (HRS) and hepatocellular carcinoma, bleeding from esophageal or gastric varices, and hepatic encephalopathy. While the initial management of uncomplicated ascites with low-sodium diet and diuretic treatment is straightforward in the majority of patients, there is a group of patients that fail to respond to diuretics and become a real therapeutic challenge.
+ER  - 
+
+AU  - Greenwald, Peter W.
+AU  - Weingart, Scott
+AU  - Nguyen, H. Bryant
+C7  - pp. 235-250
+TI  - Severe Sepsis and Septic Shock
+SN  - 9781405161435
+UR  - https://doi.org/10.1002/9781444303674.ch23
+DO  - doi:10.1002/9781444303674.ch23
+SP  - 235-250
+KW  - severe sepsis and septic shock
+KW  - Systemic inflammatory response syndrome (SIRS)
+KW  - Severe sepsis is sepsis associated with organ dysfunction
+KW  - recombinant human activated protein C (rhAPC) administration
+KW  - Multiple Organ Dysfunction Score (MODS)
+KW  - Acute Physiology and Chronic Health Evaluation (APACHE)
+KW  - Mortality probability models (MPM) II and III
+KW  - vasopressor use in severe sepsis and septic shock
+KW  - CORTICUS trial and Annane study
+PY  - 2011
+AB  - Summary This chapter contains sections titled: Case scenario Background Clinical questions General search strategy Critical review of the literature Conclusions Acknowledgments References
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts of the Annual Scientific Meeting of the Australasian College for Emergency Medicine 2003
+JO  - Emergency Medicine
+VL  - 16
+IS  - 2
+SN  - 9781405161435
+UR  - https://doi.org/10.1111/j.1742-6723.2004.00606.x
+DO  - doi:10.1111/j.1742-6723.2004.00606.x
+SP  - A1
+EP  - A33
+PY  - 2004
+ER  - 

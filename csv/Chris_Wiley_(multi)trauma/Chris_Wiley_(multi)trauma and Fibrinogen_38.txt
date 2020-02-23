@@ -1,0 +1,388 @@
+
+TY  - JOUR
+TI  - Poster Abstracts
+JO  - Vox Sanguinis
+VL  - 103
+IS  - s1
+SN  - 0042-9007
+UR  - https://doi.org/10.1111/j.1423-0410.2012.01615_2.x
+DO  - doi:10.1111/j.1423-0410.2012.01615_2.x
+SP  - 68
+EP  - 271
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+TI  - Russian Nuclear Engineer Acquitted of Espionage Charges
+JO  - The Sciences
+VL  - 40
+IS  - 2
+SN  - 0036-861X
+UR  - https://doi.org/10.1002/j.2326-1951.2000.tb03477.x
+DO  - doi:10.1002/j.2326-1951.2000.tb03477.x
+SP  - 24A
+EP  - 24H
+PY  - 2000
+ER  - 
+
+TY  - JOUR
+AU  - Zhu, Peihong
+AU  - Bowden, Peter
+AU  - Zhang, Du
+AU  - Marshall, John G.
+TI  - Mass spectrometry of peptides and proteins from human blood
+JO  - Mass Spectrometry Reviews
+JA  - Mass Spectrom. Rev.
+VL  - 30
+IS  - 5
+SN  - 0277-7037
+UR  - https://doi.org/10.1002/mas.20291
+DO  - doi:10.1002/mas.20291
+SP  - 685
+EP  - 732
+KW  - blood, serum
+KW  - sera
+KW  - plasma
+KW  - circulating
+KW  - circulation
+KW  - protein
+KW  - peptide
+KW  - proteome
+KW  - proteomics
+KW  - peptidome
+KW  - peptidomics
+KW  - chromatography
+KW  - electrophoresis
+KW  - PAGE
+KW  - HPLC
+KW  - UPLC
+KW  - analysis
+KW  - LC–MS/MS
+KW  - liquid chromatography mass spectrometry
+KW  - SEQUID
+KW  - ESI
+KW  - electrospray ionization
+KW  - MALDI
+KW  - matrix assisted laser desorption ionization
+KW  - ion
+KW  - mass spectra
+KW  - mass spectrum
+KW  - mass spectrom
+KW  - mass spectrometry
+KW  - tandem mass spectrometry
+KW  - MS–MS
+KW  - MS MS
+KW  - MS/MS
+KW  - bioinformatics
+KW  - statistics
+KW  - database
+KW  - SQL
+KW  - BLAST
+PY  - 2011
+AB  - Abstract It is difficult to convey the accelerating rate and growing importance of mass spectrometry applications to human blood proteins and peptides. Mass spectrometry can rapidly detect and identify the ionizable peptides from the proteins in a simple mixture and reveal many of their post-translational modifications. However, blood is a complex mixture that may contain many proteins first expressed in cells and tissues. The complete analysis of blood proteins is a daunting task that will rely on a wide range of disciplines from physics, chemistry, biochemistry, genetics, electromagnetic instrumentation, mathematics and computation. Therefore the comprehensive discovery and analysis of blood proteins will rank among the great technical challenges and require the cumulative sum of many of mankind's scientific achievements together. A variety of methods have been used to fractionate, analyze and identify proteins from blood, each yielding a small piece of the whole and throwing the great size of the task into sharp relief. The approaches attempted to date clearly indicate that enumerating the proteins and peptides of blood can be accomplished. There is no doubt that the mass spectrometry of blood will be crucial to the discovery and analysis of proteins, enzyme activities, and post-translational processes that underlay the mechanisms of disease. At present both discovery and quantification of proteins from blood are commonly reaching sensitivities of ?1?ng/mL. ? 2010 Wiley Periodicals, Inc., Mass Spec Rev 30:685?732, 2011
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Journal of the American Geriatrics Society
+JA  - J Am Geriatr Soc
+VL  - 60
+IS  - s4
+SN  - 0002-8614
+UR  - https://doi.org/10.1111/j.1532-5415.2012.04000.x
+DO  - doi:10.1111/j.1532-5415.2012.04000.x
+SP  - S1
+EP  - S242
+PY  - 2012
+ER  - 
+
+AU  - Clemetson, Kenneth J.
+C7  - pp. 251-266
+TI  - Platelet disorders
+SN  - 9781119252870
+UR  - https://doi.org/10.1002/9781119252863.ch19
+DO  - doi:10.1002/9781119252863.ch19
+SP  - 251-266
+KW  - agonist receptor defects
+KW  - bleeding disorders
+KW  - giant platelets syndromes
+KW  - granule secretion
+KW  - molecular diagnosis
+KW  - platelet adhesion
+KW  - platelet aggregation tests
+KW  - platelet disorders
+KW  - platelet function
+PY  - 2012
+AB  - Abstract Platelets have a major role in hemostasis, particularly primary hemostasis, where platelets adhere to sites of vascular damage, become activated, and bind further platelets by aggregation to form a thrombus. This chapter deals with genetic defects in platelet components that cause human disease. A number of whole-blood techniques are now available to check platelet function, including PFA-100 and Impact technologies. Modern 'next-generation' sequencing methods are increasingly being used routinely for molecular diagnosis of bleeding disorders of platelet origin. Bernard-Soulier syndrome is characterized by thrombocytopenia, giant platelets, decreased platelet adhesion, reduced platelet survival, and abnormal prothrombin consumption. Platelet aggregation tests with a battery of agonists, including adenosine diphosphate (ADP), collagen, thrombin receptor activation peptide, arachidonic acid, epinephrine, and ristocetin, should help to narrow down which responses are defective. Adenosine triphosphate-dense granule secretion was normal with ADP, but defective with collagen.
+ER  - 
+
+TY  - JOUR
+TI  - Research Abstract Program of the 2011 ACVIM Forum Denver, Colorado, June 15–18, 2011
+JO  - Journal of Veterinary Internal Medicine
+VL  - 25
+IS  - 3
+SN  - 9781119252870
+UR  - https://doi.org/10.1111/j.1939-1676.2011.0726.x
+DO  - doi:10.1111/j.1939-1676.2011.0726.x
+SP  - 632
+EP  - 767
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+AU  - McCombe, P. A.
+AU  - Read, S. J.
+TI  - Immune and inflammatory responses to stroke: good or bad?
+JO  - International Journal of Stroke
+VL  - 3
+IS  - 4
+SN  - 9781119252870
+UR  - https://doi.org/10.1111/j.1747-4949.2008.00222.x
+DO  - doi:10.1111/j.1747-4949.2008.00222.x
+SP  - 254
+EP  - 265
+KW  - immune response
+KW  - inflammation
+KW  - microglia
+KW  - protective immunity
+KW  - regulatory T cell
+KW  - stroke
+KW  - T lymphocyte
+PY  - 2008
+AB  - Inflammatory and immune responses play important roles following ischaemic stroke. Inflammatory responses contribute to damage and also contribute to repair. Injury to tissue triggers an immune response. This is initiated through activation of the innate immune system. In stroke there is microglial activation. This is followed by an influx of lymphocytes and macrophages into the brain, triggered by production of pro-inflammatory cytokines. This inflammatory response contributes to further tissue injury. There is also a systemic immune response to stroke, and there is a degree of immunosuppression that may contribute to the stroke patient's risk of infection. This immunosuppressive response may also be protective, with regulatory lymphocytes producing cytokines and growth factors that are neuroprotective. The specific targets of the immune response after stroke are not known, and the details of the immune and inflammatory responses are only partly understood. The role of inflammation and immune responses after stroke is twofold. The immune system may contribute to damage after stroke, but may also contribute to repair processes. The possibility that some of the immune response after stroke may be neuroprotective is exciting and suggests that deliberate enhancement of these responses may be a therapeutic option.
+ER  - 
+
+TI  - Acute Ischemic Stroke
+SN  - 9780470040980
+UR  - https://doi.org/10.1002/9780470041000.cedt059
+DO  - doi:10.1002/9780470041000.cedt059
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - HPB
+VL  - 9
+IS  - S2
+SN  - 9780470040980
+UR  - https://doi.org/10.1080/13651820701427987
+DO  - doi:10.1080/13651820701427987
+SP  - 3
+EP  - 76
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+AU  - Guillaume, Olivier
+AU  - Teuschl, Andreas Herbert
+AU  - Gruber-Blum, Simone
+AU  - Fortelny, René Hartmann
+AU  - Redl, Heinz
+AU  - Petter-Puchner, Alexander
+TI  - Emerging Trends in Abdominal Wall Reinforcement: Bringing Bio-Functionality to Meshes
+JO  - Advanced Healthcare Materials
+JA  - Adv. Healthcare Mater.
+VL  - 4
+IS  - 12
+SN  - 9780470040980
+UR  - https://doi.org/10.1002/adhm.201500201
+DO  - doi:10.1002/adhm.201500201
+SP  - 1763
+EP  - 1789
+KW  - meshes
+KW  - hernias
+KW  - drug delivery systems
+KW  - cells
+KW  - coating
+PY  - 2015
+AB  - Abdominal wall hernia is a recurrent issue world-wide and requires the implantation of over 1 million meshes per year. Because permanent meshes such as polypropylene and polyester are not free of complications after implantation, many mesh modifications and new functionalities have been investigated over the last decade. Indeed, mesh optimization is the focus of intense development and the biomaterials utilized are now envisioned as being bioactive substrates that trigger various physiological processes in order to prevent complications and to promote tissue integration. In this context, it is of paramount interest to review the most relevant bio-functionalities being brought to new meshes and to open new avenues for the innovative development of the next generation of meshes with enhanced properties for functional abdominal wall hernia repair.
+ER  - 
+
+TY  - JOUR
+AU  - Moulder, Robert
+AU  - Bhosale, Santosh D.
+AU  - Goodlett, David R.
+AU  - Lahesmaa, Riitta
+TI  - Analysis of the plasma proteome using iTRAQ and TMT-based Isobaric labeling
+JO  - Mass Spectrometry Reviews
+JA  - Mass Spec Rev
+VL  - 37
+IS  - 5
+SN  - 9780470040980
+UR  - https://doi.org/10.1002/mas.21550
+DO  - doi:10.1002/mas.21550
+SP  - 583
+EP  - 606
+KW  - disease research
+KW  - isobaric labeling
+KW  - immunodepletion
+KW  - peptide fractionation
+KW  - plasma
+KW  - protein biomarkers
+PY  - 2018
+AB  - Over the past decade, chemical labeling with isobaric tandem mass tags, such as isobaric tags for relative and absolute quantification reagents (iTRAQ) and tandem mass tag (TMT) reagents, has been employed in a wide range of different clinically orientated serum and plasma proteomics studies. In this review the scope of these works is presented with attention to the areas of research, methods employed and performance limitations. These applications have covered a wide range of diseases, disorders and infections, and have implemented a variety of different preparative and mass spectrometric approaches. In contrast to earlier works, which struggled to quantify more than a few hundred proteins, increasingly these studies have provided deeper insight into the plasma proteome extending the numbers of quantified proteins to over a thousand.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Session 1, Sunday 11 September
+JO  - European Journal of Neurology
+VL  - 18
+IS  - s2
+SN  - 9780470040980
+UR  - https://doi.org/10.1111/j.1468-1331.2011.03551.x
+DO  - doi:10.1111/j.1468-1331.2011.03551.x
+SP  - 66
+EP  - 343
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+AU  - Ahmad, Wasim
+AU  - Ali, Abuzer
+AU  - Ali, Amena
+AU  - Khan, Sana
+AU  - Khan, Saba
+AU  - Husain, Ibraheem
+TI  - Upcoming diagnostic biomarkers with promising prospects in neurological disorders
+JO  - Clinical and Experimental Pharmacology and Physiology
+JA  - Clin Exp Pharmacol Physiol
+VL  - 47
+IS  - 3
+SN  - 9780470040980
+UR  - https://doi.org/10.1111/1440-1681.13216
+DO  - doi:10.1111/1440-1681.13216
+SP  - 347
+EP  - 356
+KW  - network approach
+KW  - neurodiagnostic marker specific neurodiagnostic biomarker
+KW  - neurological disorders
+KW  - non-specific neurodiagnostic biomarker
+KW  - personalized medication
+PY  - 2020
+AB  - Abstract An exponential increase in the prevalence of neurological disorders requires substantial steps to be taken for their prevention and treatment. Neurodiagnostic biomarkers are gaining momentum presently in order to enhance the diagnostic accuracy of neurodegenerative disorders, to precisely assess their advancement and to monitor the efficiency of therapeutic interventions. Therefore, the primary focus of the present review is the recent development in this field of neurodiagnostic biomarkers, and the current state of biomarker exploration in the context of various neurodegenerative diseases. This review encompasses an updated and detailed account of specific (?-Amyloid, Tau and Phospho-tau 181, Tar-DNA binding protein-43, Progranulin, a-synuclein, Clusterin, etc) and non-specific (genetic, synaptic, inflammatory and coagulation) neurodiagnostic biomarkers and the recent advances in this growing field. This comprehensive review also suggests the utilization of neurodiagnostic markers in network approaches and personalized medication that will eventually improvise the existing diagnostic and therapeutic complexities of neurodiagnostic biomarkers.
+ER  - 
+
+TY  - JOUR
+AU  - UREN, ROGER
+AU  - MORRIS, JOHN
+AU  - ROBERTS, LINDSAY
+TI  - DYNAMIC ISOTOPE SCANNING IN UPPER LIMB VENOU! THROMBOSIS A NEW TECHNIQUE
+JO  - Medical Journal of Australia
+JA  - Medical Journal of Australia
+VL  - 2
+IS  - 2
+SN  - 9780470040980
+UR  - https://doi.org/10.5694/j.1326-5377.1973.tb128659.x
+DO  - doi:10.5694/j.1326-5377.1973.tb128659.x
+SP  - 87
+EP  - 88
+PY  - 1973
+AB  - Perfusion scanning of the lung after intravenous administration of a lung capillary specific radiopharmaceutical is a well established investigation for patients with venous thrombosis and suspected pulmonary emboli. When the thrombus source is in the upper limb, the lung scan can be simply extended to include the limb and give additional information regarding the site, size and subsequent behaviour of the original thrombus.
+ER  - 
+
+TY  - JOUR
+TI  - Summary of the scientific programme of the European and national sessions
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 81
+IS  - S1
+SN  - 9780470040980
+UR  - https://doi.org/10.1002/bjs.1800811202
+DO  - doi:10.1002/bjs.1800811202
+SP  - 2
+EP  - 137
+PY  - 1994
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Section
+JO  - Transfusion
+VL  - 44
+IS  - s1
+SN  - 9780470040980
+UR  - https://doi.org/10.1111/j.0041-1132.2004.449_5.x
+DO  - doi:10.1111/j.0041-1132.2004.449_5.x
+SP  - 1A
+EP  - 141A
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+AU  - Padmanabhan, Anand
+AU  - Connelly-Smith, Laura
+AU  - Aqui, Nicole
+AU  - Balogun, Rasheed A.
+AU  - Klingel, Reinhard
+AU  - Meyer, Erin
+AU  - Pham, Huy P.
+AU  - Schneiderman, Jennifer
+AU  - Witt, Volker
+AU  - Wu, Yanyun
+AU  - Zantek, Nicole D.
+AU  - Dunbar, Nancy M.
+AU  - Schwartz, Guest Editor: Joseph
+TI  - Guidelines on the Use of Therapeutic Apheresis in Clinical Practice – Evidence-Based Approach from the Writing Committee of the American Society for Apheresis: The Eighth Special Issue
+JO  - Journal of Clinical Apheresis
+JA  - J Clin Apher
+VL  - 34
+IS  - 3
+SN  - 9780470040980
+UR  - https://doi.org/10.1002/jca.21705
+DO  - doi:10.1002/jca.21705
+SP  - 171
+EP  - 354
+PY  - 2019
+AB  - ABSTRACT The American Society for Apheresis (ASFA) Journal of Clinical Apheresis (JCA) Special Issue Writing Committee is charged with reviewing, updating and categorizing indications for the evidence-based use of therapeutic apheresis (TA) in human disease. Since the 2007 JCA Special Issue (Fourth Edition), the committee has incorporated systematic review and evidence-based approaches in the grading and categorization of apheresis indications. This Eighth Edition of the JCA Special Issue continues to maintain this methodology and rigor in order to make recommendations on the use of apheresis in a wide variety of diseases/conditions. The JCA Eighth Edition, like its predecessor, continues to apply the category and grading system definitions in fact sheets. The general layout and concept of a fact sheet that was introduced in the Fourth Edition, has largely been maintained in this edition. Each fact sheet succinctly summarizes the evidence for the use of TA in a specific disease entity or medical condition. The Eighth Edition comprises 84 fact sheets for relevant diseases and medical conditions, with 157 graded and categorized indications and/or TA modalities. The Eighth Edition of the JCA Special Issue seeks to continue to serve as a key resource that guides the utilization of TA in the treatment of human disease.
+ER  - 
+
+TY  - JOUR
+TI  - Posters: Complications
+JO  - Obesity Reviews
+VL  - 7
+IS  - s2
+SN  - 9780470040980
+UR  - https://doi.org/10.1111/j.1467-7881.2006.00283_4.x
+DO  - doi:10.1111/j.1467-7881.2006.00283_4.x
+SP  - 177
+EP  - 220
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+TI  - SABM Abstracts
+JO  - Transfusion
+JA  - Transfusion
+VL  - 53
+IS  - 8
+SN  - 9780470040980
+UR  - https://doi.org/10.1111/trf.12351
+DO  - doi:10.1111/trf.12351
+SP  - 1A
+EP  - 12A
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+AU  - Hajjarian, Zeinab
+AU  - Tripathi, Markandey M.
+AU  - Nadkarni, Seemantini K.
+TI  - Optical Thromboelastography to evaluate whole blood coagulation
+JO  - Journal of Biophotonics
+JA  - J. Biophoton
+VL  - 8
+IS  - 5
+SN  - 9780470040980
+UR  - https://doi.org/10.1002/jbio.201300197
+DO  - doi:10.1002/jbio.201300197
+SP  - 372
+EP  - 381
+KW  - Blood
+KW  - coagulation
+KW  - laser speckle
+KW  - optical thromboelastography
+KW  - rheology
+KW  - thromboelastography
+KW  - viscoelasticity
+PY  - 2015
+AB  - Measurement of blood viscoelasticity during clotting provides a direct metric of haemostatic conditions. Therefore, technologies that quantify blood viscoelasticity at the point-of-care are invaluable for diagnosing coagulopathies. We present a new approach, Optical Thromboelastography (OTEG) that measures the viscoelastic properties of coagulating blood by evaluating temporal laser speckle fluctuations, reflected from a few blood drops. During coagulation, platelet-fibrin clot formation restricts the mean square displacements (MSD) of scatterers and decelerates speckle fluctuations. Cross-correlation analysis of speckle frames provides the speckle intensity temporal autocorrelation, g2(t), from which MSD is deduced and the viscoelastic modulus of blood is estimated. Our results demonstrate a close correspondence between blood viscoelasticity evaluated by OTEG and mechanical rheometry. Spatio-temporal speckle analyses yield 2-dimensional maps of clot viscoelasticity, enabling the identification of micro-clot formation at distinct rates in normal and coagulopathic specimens. These findings confirm the unique capability of OTEG for the rapid evaluation of patients' coagulation status and highlight the potential for point-of-care use. (? 2014 WILEY-VCH Verlag GmbH &Co. KGaA, Weinheim)
+ER  - 

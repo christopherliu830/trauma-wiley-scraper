@@ -1,0 +1,504 @@
+
+TY  - JOUR
+AU  - Lee, David
+AU  - Cutler, Beth
+AU  - Roberts, Shelby
+AU  - Manghisi, Stephen
+AU  - Ma, Aye Moe Thu
+TI  - Multi-Centric Breast Cancer Involving a Ventriculoperitoneal Shunt
+JO  - The Breast Journal
+VL  - 16
+IS  - 6
+SN  - 1075-122X
+UR  - https://doi.org/10.1111/j.1524-4741.2010.00973.x
+DO  - doi:10.1111/j.1524-4741.2010.00973.x
+SP  - 653
+EP  - 655
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - Kaplinsky, Cathy
+TI  - Trauma, Culture and Metaphor: Pathways of Transformation and Integration by Wilson, John P. & Lindy, Jacob D.
+JO  - Journal of Analytical Psychology
+JA  - J Anal Psychol
+VL  - 59
+IS  - 4
+SN  - 0021-8774
+UR  - https://doi.org/10.1111/1468-5922.12102_6
+DO  - doi:10.1111/1468-5922.12102_6
+SP  - 582
+EP  - 585
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+AU  - Callot, Virginie
+AU  - Duhamel, Guillaume
+AU  - Cozzone, Patrick J.
+AU  - Kober, Frank
+TI  - Short-scan-time multi-slice diffusion MRI of the mouse cervical spinal cord using echo planar imaging
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 21
+IS  - 8
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.1274
+DO  - doi:10.1002/nbm.1274
+SP  - 868
+EP  - 877
+KW  - mouse
+KW  - spinal cord
+KW  - MRI
+KW  - echo planar imaging
+KW  - diffusion
+KW  - high field
+KW  - fiber tracking
+PY  - 2008
+AB  - Abstract Mouse spinal cord (SC) diffusion-weighted imaging (DWI) provides important information on tissue morphology and structural changes that may occur during pathologies such as multiple sclerosis or SC injury. The acquisition scheme of the commonly used DWI techniques is based on conventional spin-echo encoding, which is time-consuming. The purpose of this work was to investigate whether the use of echo planar imaging (EPI) would provide good-quality diffusion MR images of mouse SC, as well as accurate measurements of diffusion-derived metrics, and thus enable diffusion tensor imaging (DTI) and highly resolved DWI within reasonable scan times. A four-shot diffusion-weighted spin-echo EPI (SE-EPI) sequence was evaluated at 11.75?T on a group of healthy mice (n?=?10). SE-EPI-derived apparent diffusion coefficients of gray and white matter were compared with those obtained using a conventional spin-echo sequence (c-SE) to validate the accuracy of the method. To take advantage of the reduction in acquisition time offered by the EPI sequence, multi-slice DTI acquisitions were performed covering the cervical segments (six slices, six diffusion-encoding directions, three b values) within 30?min (vs 2?h for c-SE). From these measurements, fractional anisotropy and mean diffusivities were calculated, and fiber tracking along the C1 to C6 cervical segments was performed. In addition, high-resolution images (74???94?µm2) were acquired within 5?min per direction. Clear delineation of gray and white matter and identical apparent diffusion coefficient values were obtained, with a threefold reduction in acquisition time compared with c-SE. While overcoming the difficulties associated with high spatially and temporally resolved DTI measurements, the present SE-EPI approach permitted identification of reliable quantitative parameters with a reproducibility compatible with the detection of pathologies. The SE-EPI method may be particularly valuable when multiple sets of images from the SC are needed, in cases of rapidly evolving conditions, to decrease the duration of anesthesia or to improve MR exploration by including additional MR measurements. Copyright ? 2008 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Mahlangu, Johnny
+AU  - Oldenburg, Johannes
+AU  - Callaghan, Michael U.
+AU  - Shima, Midori
+AU  - Santagostino, Elena
+AU  - Moore, Maggie
+AU  - Recht, Michael
+AU  - Garcia, Claudia
+AU  - Yang, Renchi
+AU  - Lehle, Michaela
+AU  - Macharia, Harrison
+AU  - Asikanius, Elina
+AU  - Levy, Gallia G.
+AU  - Kruse-Jarres, Rebecca
+TI  - Bleeding events and safety outcomes in persons with haemophilia A with inhibitors: A prospective, multi-centre, non-interventional study
+JO  - Haemophilia
+JA  - Haemophilia
+VL  - 24
+IS  - 6
+SN  - 1351-8216
+UR  - https://doi.org/10.1111/hae.13612
+DO  - doi:10.1111/hae.13612
+SP  - 921
+EP  - 929
+KW  - blood coagulation factor inhibitors
+KW  - factor VIII
+KW  - haemophilia A
+KW  - non-interventional study
+KW  - observational study
+KW  - prospective study
+PY  - 2018
+AB  - Abstract Introduction Prospectively collected, real-world data on bleeds, haemophilic treatment and safety outcomes in persons with haemophilia A (PwHA) with factor VIII (FVIII) inhibitors are limited. A prospective, global, multi-centre, non-interventional study (NIS; NCT02476942) collected detailed real-world data in PwHA treated per local routine clinical practice. Aim To characterize bleeding rates, haemophilic treatment practices, prophylaxis adherence and adverse events (AEs) in adult/adolescent PwHA with inhibitors in the NIS. Methods Participants aged ≥12 years with congenital haemophilia A/documented high-titre FVIII inhibitor history were enrolled. Participants remained on their usual treatment; no interventions were applied. Results Overall, 103 PwHA with inhibitors enrolled, (median [range] age 31 [12-75] years) and were monitored for median (range) 26.0 (4.1-69.6) weeks. In the episodic (n = 75) and prophylactic (n = 28) treatment groups, respectively, 1244 and 325 bleeds were reported, and 528 (42.4%) and 104 (32.0%) were not treated; annualized bleeding rates (ABRs; 95% confidence interval) were 18.6 (15.2-22.8) and 14.9 (10.5-21.2) for treated bleeds, and 32.7 (27.3-39.1) and 25.0 (18.4-34.0) for all bleeds. Coagulation products used included activated prothrombin complex concentrate (aPCC) and/or recombinant activated FVII. Among participants prescribed aPCC prophylaxis, 35.0% adhered to both prescribed frequency of aPCC administration and prescribed dose. Serious AEs of haemarthrosis and muscle haemorrhage were reported; most common AEs were arthralgia, viral upper respiratory tract infection and pyrexia. Conclusions ABRs (treated bleeds and all bleeds) remain high on standard treatment; this prospective NIS demonstrates the need for more effective treatments for PwHA with inhibitors to reduce/prevent bleeds, with potential to improve prophylaxis adherence and further improve outcomes.
+ER  - 
+
+TY  - JOUR
+AU  - Chong, Pei Pei
+AU  - Tung, Chee Hong
+AU  - Rahman, Nurul Asyikin bt Abdul
+AU  - Yajima, Misako
+AU  - Chin, Fee Wai
+AU  - Yeng, Crystale Lim Siew
+AU  - Go, Eng Soon
+AU  - Chan, Cordelia M. L.
+AU  - Yawata, Nobuyo
+AU  - Yamamoto, Naoki
+TI  - Prevalence and viral load of oncogenic human papillomavirus (HPV) in pterygia in multi-ethnic patients in the Malay Peninsula
+JO  - Acta Ophthalmologica
+JA  - Acta Ophthalmol
+VL  - 92
+IS  - 7
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/aos.12427
+DO  - doi:10.1111/aos.12427
+SP  - e569
+EP  - e579
+KW  - human papillomavirus
+KW  - multi-ethnic
+KW  - PCR detection
+KW  - pterygia
+PY  - 2014
+AB  - Abstract Purpose The aim of the study was to determine the prevalence of human papillomavirus (HPV) in primary and recurrent pterygia samples collected from different ethnic groups in the equatorial Malay Peninsula. Methods DNA was extracted from 45 specimens of freshly obtained primary and recurrent pterygia from patients and from 11 normal conjunctival swabs from volunteers with no ocular surface lesion as control. The presence of HPV DNA was detected by nested PCR. PCR-positive samples were subjected to DNA sequencing to determine the HPV genotypes. Real-time PCR with HPV16 and HPV18 type-specific TaqMan probes was employed to determine the viral DNA copy number. Results Of 45 pterygia samples with acceptable DNA quality, 29 (64.4%) were positive for HPV DNA, whereas all the normal conjunctiva swabs were HPV negative. Type 18 was the most prevalent (41.4% of positive samples) genotype followed by type 16 (27.6%). There was one case each of the less common HPV58 and HPV59. Seven of the samples harboured mixed infections of both HPV16 and HPV18. All the four known recurrent pterygia samples were HPV-positive, whereas the sole early-stage pterygium sample in the study was HPV-negative. There was no significant association between HPV-positive status with gender or age. A high proportion of patients from the Indian ethnic group (five of six) were HPV-positive, whereas the Malay patients were found to have higher HPV positivity than the Chinese. The viral load of HPV18 samples ranged between 2 ? 102 and 3 ? 104 copies per ?g, whereas the viral load of HPV16 specimen was 4 ? 101 to 102 copies per ?g. Conclusion This report describes for the first time the quantitative measurement of HPV viral DNA for pterygium samples. The high prevalence of oncogenic HPVs in our samples suggests a possible role for HPV in the pathogenesis of pterygia. Moreover, the relatively low HPV viral load is concordant with the premalignant nature of this ocular condition.
+ER  - 
+
+TY  - JOUR
+AU  - Morgan, Keaton R. S.
+AU  - Singh, Ameet
+AU  - Giuffrida, Michelle A.
+AU  - Balsa, Ingrid M.
+AU  - Hayes, Galina
+AU  - Chu, Margaret L.
+AU  - Thomson, Christopher B.
+AU  - Arai, Shiori
+AU  - Smeak, Daniel D.
+AU  - Monnet, Eric
+AU  - Selmic, Laura E.
+AU  - Cray, Megan
+AU  - Grimes, Janet A.
+AU  - Morris, Taylor
+AU  - Case, J. Brad
+AU  - Biskup, Jeffrey J.
+AU  - Haas, Jason
+AU  - Thieman-Mankin, Kelley
+AU  - Milovancev, Milan
+AU  - Gatineau, Mathieu
+TI  - Outcome after surgical and conservative treatments of canine peritoneopericardial diaphragmatic hernia: A multi-institutional study of 128 dogs
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 49
+IS  - 1
+SN  - 0161-3499
+UR  - https://doi.org/10.1111/vsu.13360
+DO  - doi:10.1111/vsu.13360
+SP  - 138
+EP  - 145
+PY  - 2020
+AB  - Abstract Objective To compare demographics and disease characteristics in dogs in which peritoneopericardial diaphragmatic hernia (PPDH) had been diagnosed and report outcomes after surgical treatment (ST) or conservative treatment (CT). Study design Retrospective study. Sample population One hundred twenty-eight dogs (91 ST, 37 CT) in which PPDH had been diagnosed. Methods Medical records were reviewed for demographics, perioperative findings, and outcomes. Follow-up was obtained via telephone interview and email correspondence with owners and referring veterinarians. Baseline variables were compared between treatment groups. Results Dogs treated surgically were younger (P < .001), more likely to be sexually intact (P = .002), more likely to have clinical signs from PPDH vs an incidental diagnosis (P < .001), and more likely to have other congenital abnormalities (P = .003) compared with dogs treated conservatively. Ninety-seven percent of ST dogs were discharged from hospitals. Intraoperative and postoperative complications were reported in 22% and 41% of dogs, respectively, although most complications were classified as low grade (75% and 83%, respectively). Follow-up was available in 87 dogs, at a median of 1062?days. Hernia recurrence was not reported in any surgically treated dog. The deaths of nine dogs (five ST, four CT) could be attributed to PPDH, and long median survival times were observed in both the ST and CT groups (8.2 and 5?years, respectively). Conclusion Preoperative characteristics differed between dogs treated conservatively vs surgically. Surgical treatment was associated with low operative mortality, and both ST and CT dogs had good long-term survival. Clinical significance A diagnosis of PPDH can confer a good long-term prognosis for both ST and CT dogs.
+ER  - 
+
+TY  - JOUR
+AU  - Cater, Heather L.
+AU  - Gitterman, Daniel
+AU  - Davis, Susan M.
+AU  - Benham, Christopher D.
+AU  - Morrison III, Barclay
+AU  - Sundstrom, Lars E.
+TI  - Stretch-induced injury in organotypic hippocampal slice cultures reproduces in vivo post-traumatic neurodegeneration: role of glutamate receptors and voltage-dependent calcium channels
+JO  - Journal of Neurochemistry
+VL  - 101
+IS  - 2
+SN  - 0022-3042
+UR  - https://doi.org/10.1111/j.1471-4159.2006.04379.x
+DO  - doi:10.1111/j.1471-4159.2006.04379.x
+SP  - 434
+EP  - 447
+KW  - calcium
+KW  - electrophysiology
+KW  - glutamate
+KW  - immunohistochemistry
+KW  - trauma
+KW  - traumatic brain injury
+PY  - 2007
+AB  - Abstract The relationship between an initial mechanical event causing brain tissue deformation and delayed neurodegeneration in vivo is complex because of the multiplicity of factors involved. We have used a simplified brain surrogate based on rat hippocampal slices grown on deformable silicone membranes to study stretch-induced traumatic brain injury. Traumatic injury was induced by stretching the culture substrate, and the biological response characterized after 4?days. Morphological abnormalities consistent with traumatic injury in humans were widely observed in injured cultures. Synaptic function was significantly reduced after a severe injury. The N-methyl-D-aspartate (NMDA) receptor antagonist MK-801 attenuated neuronal damage, prevented loss of microtubule-associated protein 2 immunoreactivity and attenuated reduction of synaptic function. In contrast, the NMDA receptor antagonists 3-[(R)-2-carboxypiperazin-4-yl]-propyl-1-phosphonic acid (CPP) and GYKI53655, were neuroprotective in a moderate but not a severe injury paradigm. Nifedipine, an L-type voltage-dependent calcium channel antagonist was protective only after a moderate injury, whereas ?-conotoxin attenuated damage following severe injury. These results indicate that the mechanism of damage following stretch injury is complex and varies depending on the severity of the insult. In conclusion, the pharmacological, morphological and electrophysiological responses of organotypic hippocampal slice cultures to stretch injury were similar to those observed in vivo. Our model provides an alternative to animal testing for understanding the mechanisms of post-traumatic delayed cell death and could be used as a high-content screen to discover neuroprotective compounds before advancing to in vivo models.
+ER  - 
+
+TY  - JOUR
+AU  - Leuzinger-Bohleber, Marianne
+AU  - Stuhr, Ulrich
+AU  - Rüger, Bernhard
+AU  - Beutel, Manfred
+TI  - How to study the ‘quality of psychoanalytic treatments’ and their long-term effects on patients' well-being: A representative, multi-perspective follow-up study3
+JO  - The International Journal of Psychoanalysis
+VL  - 84
+IS  - 2
+SN  - 0020-7578
+UR  - https://doi.org/10.1516/C387-0AFM-4P34-M4BT
+DO  - doi:10.1516/C387-0AFM-4P34-M4BT
+SP  - 263
+EP  - 290
+KW  - psychoanalytic outcome research
+KW  - representative follow-up study
+KW  - combining quantitative and qualitative instruments
+PY  - 2003
+AB  - How can we study the ?quality of psychoanalytic treatments?? The authors attempt to answer this question by discussing a naturalistic, multi-perspective and representative follow-up study of psychoanalyses and long-term psychoanalytic psychotherapies. We studied a representative sample (n = 401) of all the patients who had terminated their psychoanalytic treatments with members of the German Psychoanalytical Association (DPV) between 1990 and 1993. Between 70 and 80 per cent of the patients achieved (average 6.5 years after the end of treatment) good and stable psychic changes according to the evaluations of the patients themselves, their analysts, independent psychoanalytic and non-psychoanalytic experts, and questionnaires commonly applied in psychotherapy research. The evaluation of mental health costs showed a cost reduction through fewer days of sick leave during the seven years following the end of long-term psychoanalytic treatments. The results achieved using non-psychoanalytical instruments are complemented by the richness of the idiosyncratic findings, gained by the psychoanalytic research instruments.
+ER  - 
+
+TY  - JOUR
+AU  - Khang, Wahn
+AU  - Feldman, S.
+AU  - Hawley, C.E.
+AU  - Gunsolley, J.
+TI  - A Multi-Center Study Comparing Dual Acid-Etched and Machined-Surfaced Implants in Various Bone Qualities
+JO  - Journal of Periodontology
+JA  - Journal of Periodontology
+VL  - 72
+IS  - 10
+SN  - 0022-3492
+UR  - https://doi.org/10.1902/jop.2001.72.10.1384
+DO  - doi:10.1902/jop.2001.72.10.1384
+SP  - 1384
+EP  - 1390
+KW  - Bone and bones/anatomy and histology
+KW  - comparison studies
+KW  - clinical trials
+KW  - dental implants/anatomy and histology
+KW  - follow-up studies
+PY  - 2001
+AB  - Background: A major reason for the success of modern dental implant systems has been the development of implant designs. that enhance direct bone-implant interface. Surface roughness has been a factor in this success and different systems have utilized very different implant surface roughness. The major purpose of this study was to evaluate 2 similar implants with different surface roughness characteristics. Methods: Two similarly designed, screw-type, commercially pure titanium implants, one dual acid-etched (DAE) and the other machined-surfaced (MS), were compared in this prospective, randomized-controlled, multi-center study, in which a total of 97 patients were enrolled at a private dental practice or a university dental clinic. Both implant types were placed in each patient using a 2-stage approach with a conventional 4- to 6-month healing period. Implants supported fixed prostheses, hybrid prostheses, and overdentures as dictated by the individual patient's need. All of the cases were followed using clinical and radiographic examinations. Criteria of success were the absence of peri-implant radiolucency, mobility, and persistent signs or symptoms of pain or infection. Results: Of the 432 implants (247 dual acid-etched, 185 machined-surfaced), 36 implants (12 dual acid-etched and 24 machined-surfaced) have failed. The pre-loading integration success rate of the dual acid-etched implants (95.0%) was statistically higher (P ?0.01) than the success rate of the machined-surfaced implants (86.7%). At 36 months, the cumulative SUC; cess rates (CSR) are 95.0% for the dual acid-etched implants and 86.7% for the machined-surfaced implants. Conclusions: The difference in success rates is most likely attributed to the acid-etched surface characteristics. The greatest performance difference is observed in the conditions of poor quality or soft bone where the 3-year post-loading CSR are 96.8% (dual acid-etched) and 84.8% (machined-surfaced). J Periodontol 2001;72:1384-1390.
+ER  - 
+
+TY  - JOUR
+AU  - Gorman, Michael E.
+AU  - Richards, Larry G.
+AU  - Scherer, William T.
+AU  - Kagiwada, Julia K.
+TI  - Teaching Invention and Design: Multi-Disciplinary Learning Modules
+JO  - Journal of Engineering Education
+VL  - 84
+IS  - 2
+SN  - 1069-4730
+UR  - https://doi.org/10.1002/j.2168-9830.1995.tb00164.x
+DO  - doi:10.1002/j.2168-9830.1995.tb00164.x
+SP  - 175
+EP  - 185
+PY  - 1995
+AB  - Abstract This paper outlines an approach to teaching invention and design that combines engineering, social sciences and humanities. We created an experimental course with a collaborative learning environment in which students from a wide range of majors worked in teams on modules, each of which lasted for several weeks and included strong written and oral components. Standard university curricula tend to compartmentalize engineering, humanities and social sciences. But real world engineering decisions defy such compartmentalization, as students discover when they take this course. Four active learning modules from the course are described in this paper: a hands-on project based on the invention of the telephone, a computer simulator to teach driving, an energy-efficient house and a medical decision support system based on a client's needs. A thorough evaluation of the course and modules is included, as are suggestions for future improvements.
+ER  - 
+
+TY  - JOUR
+AU  - Widaa, A.
+AU  - Brennan, O.
+AU  - O'Gorman, D. M.
+AU  - O'Brien, F. J.
+TI  - The Osteogenic Potential of the Marine-Derived Multi-Mineral Formula Aquamin Is Enhanced by the Presence of Vitamin D
+JO  - Phytotherapy Research
+JA  - Phytother. Res.
+VL  - 28
+IS  - 5
+SN  - 0951-418X
+UR  - https://doi.org/10.1002/ptr.5038
+DO  - doi:10.1002/ptr.5038
+SP  - 678
+EP  - 684
+KW  - Aquamin
+KW  - Vitamin D3
+KW  - osteoblast
+KW  - bone
+KW  - osteogenesis
+KW  - nutritional supplements
+PY  - 2014
+AB  - Bone degenerative diseases are on the increase globally and are often problematic to treat. This has led to a demand to identify supplements that aid bone growth and formation. Aquamin is a natural multi-mineral food supplement, derived from the red algae Lithothamnion species which contains calcium, magnesium and 72 other trace minerals. It has been previously reported to increase bone formation and mineralisation. This study aimed to investigate the 28 day in vitro osteogenic response of Aquamin supplemented with Vitamin D. The osteogenic potential of MC3T3-E1 osteoblast-like cells was analysed in standard osteogenic medium supplemented with Aquamin +/? Vitamin D3, and the controls consisted of osteogenic medium, +/? Vitamin D3. Proliferation of osteoblasts, metabolic activity and cell viability did not differ between Aquamin and the osteogenic control groups. Alkaline phosphatase (ALP) levels and mineralisation were increased by the supplementation of Aquamin, and the addition of Vitamin D3 increased mineralisation for all groups. The combination of Aquamin and Vitamin D3 yielded a significant increase in ALP and mineralisation over Aquamin alone and the standard osteogenic control +/? Vitamin D3. This study demonstrates that Aquamin aids osteogenesis, and that its osteogenic response can be enhanced by combining Aquamin with Vitamin D3. Copyright ? 2013 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Baiyee, E. E.
+AU  - Flohe, S.
+AU  - Lendemans, S.
+AU  - Bauer, S.
+AU  - Mueller, N.
+AU  - Kreuzfelder, E.
+AU  - Grosse-Wilde, H.
+TI  - Expression and function of Toll-like receptor 9 in severely injured patients prone to sepsis
+JO  - Clinical & Experimental Immunology
+VL  - 145
+IS  - 3
+SN  - 0009-9104
+UR  - https://doi.org/10.1111/j.1365-2249.2006.03160.x
+DO  - doi:10.1111/j.1365-2249.2006.03160.x
+SP  - 456
+EP  - 462
+KW  - B cells
+KW  - CpG
+KW  - sepsis
+KW  - TLR9
+KW  - trauma
+PY  - 2006
+AB  - Summary The purpose of this prospective study was to enumerate Toll-like receptor 9 (TLR9)+ cells and measure their function using synthetic oligonucleotides enriched in CG dinucleotide motifs (CpG)-induced proliferation within 48?h after trauma in severely injured patients prone to sepsis. Sixteen consecutive trauma patients with an injury severity score (ISS)?>?21 and 16 blood donors (controls) were included in this study. Using two-colour flow cytometry, TLR9 expression was detectable intracellularly and also on the surface of B lymphocytes. The surface expression of TLR9 of B lymphocytes from whole blood and peripheral blood mononuclear cells (PBMC) stimulated with CpG was significantly increased in B cells of severely injured patients prone to sepsis compared to controls. No significant differences could be observed between CpG-induced proliferation of PBMC of severely injured patients prone to sepsis and controls. As a measure of immunosuppression, human leucocyte antigen (HLA)-DR expression of monocytes of the trauma patients was significantly diminished compared with controls in PBMC and in whole blood. Immunosuppression in the early phase after trauma seems not to be associated with a disturbed sensing of bacterial DNA.
+ER  - 
+
+TY  - JOUR
+AU  - Dahl, Solveig
+AU  - Mutapcic, Atifa
+AU  - Schei, Berit
+TI  - Traumatic events and predictive factors for posttraumatic symptoms in displaced Bosnian women in a war zone
+JO  - Journal of Traumatic Stress
+JA  - J. Traum. Stress
+VL  - 11
+IS  - 1
+SN  - 0894-9867
+UR  - https://doi.org/10.1023/A:1024417401973
+DO  - doi:10.1023/A:1024417401973
+SP  - 137
+EP  - 145
+KW  - posttraumatic symptoms
+KW  - traumas
+KW  - displaced Bosnian women
+KW  - war zone
+PY  - 1998
+AB  - Abstract A study was conducted among 209 displaced women attending a Women's Center in a war zone in Bosnia-Herzegovina in 1994. Information on war-related traumatic events, sociodemographic factors and posttraumatic symptomatology was collected by means of a questionnaire. Post-traumatic symptoms were registered by using a 10-item Posttraumatic Symptom Scale (PTSS-10). Women with six or more symptoms were classified as a ?posttraumatic symptom case? (PTS-case). Among women who had survived the most severe traumas (concentration camps or other kinds of detention) the proportion of PTS-cases was highest: 71% compared to 47% of the women without this kind of traumatic background. High numbers of traumas, having children, being over 25 years of age, and the reporting of an absent husband, were characteristics associated with being a PTS-case. In the multivariate analysis, severe trauma and reporting of an absent husband remained significantly associated with PTS-cases. Clinical implications were discussed.
+ER  - 
+
+TY  - JOUR
+AU  - PAVE, JOHN FRANK
+TI  - A multi-ego theory of libido-destrudo dynamics and mental illness
+JO  - British Journal of Medical Psychology
+VL  - 36
+IS  - 2
+SN  - 0007-1129
+UR  - https://doi.org/10.1111/j.2044-8341.1963.tb01279.x
+DO  - doi:10.1111/j.2044-8341.1963.tb01279.x
+SP  - 173
+EP  - 198
+PY  - 1963
+ER  - 
+
+TY  - JOUR
+AU  - Springer, Christopher
+AU  - Greco, Francesco
+AU  - Autorino, Riccardo
+AU  - Rha, Koon H.
+AU  - Derweesh, Ithaar
+AU  - Cindolo, Luca
+AU  - Richstone, Lee
+AU  - Herrmann, Thomas R.W.
+AU  - Liatsikos, Evangelos
+AU  - Sun, Yinghao
+AU  - Fanizza, Caterina
+AU  - Nagele, Udo
+AU  - Stolzenburg, Jens-Uwe
+AU  - Rais-Bahrami, Soroush
+AU  - Liss, Michael A.
+AU  - Schips, Luigi
+AU  - Kassab, Ahmad
+AU  - Wang, Linhui
+AU  - Kallidonis, Panagiotis
+AU  - Wu, Zhenjie
+AU  - Young, Shin Tae
+AU  - Altieri, Vincenzo M.
+AU  - Haber, Georges-Pascal
+AU  - Fornara, Paolo
+AU  - Kaouk, Jihad H.
+TI  - Analysis of oncological outcomes and renal function after laparoendoscopic single-site (LESS) partial nephrectomy: a multi-institutional outcome analysis
+JO  - BJU International
+JA  - BJU Int
+VL  - 113
+IS  - 2
+SN  - 1464-4096
+UR  - https://doi.org/10.1111/bju.12376
+DO  - doi:10.1111/bju.12376
+SP  - 266
+EP  - 274
+KW  - laparoendoscopic single-site surgery
+KW  - LESS
+KW  - partial nephrectomy
+KW  - warm ischaemia time
+KW  - complications
+PY  - 2014
+AB  - Objective To report on a large multi-institutional series of laparoendoscopic single-site (LESS) partial nephrectomy (PN) and analyse renal function and short-term oncological outcomes. Material and Methods We conducted a retrospective analysis of consecutive cases of LESS-PN performed between November 2007 and March 2012 at 11 participating institutions. Demographic data and data on the main peri-operative outcomes and complications were gathered and analysed. Kidney function was evaluated by measuring serum creatinine concentration and estimated glomerular filtration rate (eGFR). Chronic kidney disease was defined in stages for each patient according to the National Kidney Foundation, Kidney Disease Outcomes Quality Initiative. Results A total of 190 cases were included in this analysis. The mean renal tumour size was 2.6?cm, and the mean PADUA score was 7.2. The median operating time was 170?min with a median estimated blood loss of 150?mL. A clampless technique was used in 70 cases (36.8%) and the median warm ischaemia time (WIT) was 16.5?min. PADUA score independently predicted the length of WIT (low vs high score: odds ratio 5.11, CI 1.50?17.41, P = 0.009; intermediate vs high score: odds ratio 5.13, CI 1.56?16.88, P = 0.007). The overall postoperative complication rate was 14.7%. Where a clamping technique was used, a significant increase in serum creatinine concentration and a significant decrease in eGFR were observed postoperatively and at 6 months. On multivariate analysis PADUA score was the only predicting factor. Overall survival rates were 99, 97 and 88% at 12-, 24- and 36-month follow-up, respectively, while disease-free survival rates were 98% at 12-month and 97% at 24- and 36-month follow-up. Conclusion The study showed that LESS-PN is effective in terms of renal function preservation and oncological control at short- and intermediate-term follow-up.
+ER  - 
+
+TY  - JOUR
+AU  - Zulak, Katherine G.
+AU  - Lippert, Dustin N.
+AU  - Kuzyk, Michael A.
+AU  - Domanski, Dominik
+AU  - Chou, Tina
+AU  - Borchers, Christoph H.
+AU  - Bohlmann, Jörg
+TI  - Targeted proteomics using selected reaction monitoring reveals the induction of specific terpene synthases in a multi-level study of methyl jasmonate-treated Norway spruce (Picea abies)
+JO  - The Plant Journal
+VL  - 60
+IS  - 6
+SN  - 0960-7412
+UR  - https://doi.org/10.1111/j.1365-313X.2009.04020.x
+DO  - doi:10.1111/j.1365-313X.2009.04020.x
+SP  - 1015
+EP  - 1030
+KW  - Mono- and diterpenoids
+KW  - secondary metabolism
+KW  - protein-
+KW  - transcript- and metabolite-profiling
+KW  - 3-carene
+KW  - 1-deoxy-d-xylulose 5-phosphate synthase
+PY  - 2009
+AB  - Summary Induction of terpene synthase (TPS) gene expression and enzyme activity is known to occur in response to various chemical and biological stimuli in several species of spruce (genus Picea). However, high sequence identity between TPS family members has made it difficult to determine the induction patterns of individual TPS at the protein and transcript levels and whether specific TPS enzymes respond differentially to treatment. In the present study we used a multi-level approach to measure the induction and activity of TPS enzymes in protein extracts of Norway spruce (Picea abies) bark tissue following treatment with methyl jasmonate (MeJA). Measurements were made on the transcript, protein, enzyme activity and metabolite levels. Using a relatively new proteomics application, selective reaction monitoring (SRM), it was possible to differentiate and quantitatively measure the abundance of several known TPS proteins and three 1-deoxy-d-xylulose 5-phosphate synthase (DXS) isoforms in Norway spruce. Protein levels of individual TPS and DXS enzymes were differentially induced upon MeJA treatment and good correlation was generally observed between induction of transcripts, proteins, and enzyme activities. Most of the mono- and diterpenoid metabolites accumulated with similar temporal patterns of induction as part of the coordinated multi-compound chemical defense response. Protein and enzyme activity levels of the monoTPS (+)-3-carene synthase and the corresponding accumulation of (+)-3-carene was induced to a higher fold change than any other TPS or metabolite measured, indicating an important role in the induced terpenoid defense response in Norway spruce.
+ER  - 
+
+TY  - JOUR
+AU  - Lenzhofer, Markus
+AU  - Kersten-Gomez, Inga
+AU  - Sheybani, Arsham
+AU  - Gulamhusein, Husayn
+AU  - Strohmaier, Clemens
+AU  - Hohensinn, Melchior
+AU  - Burkhard Dick, H
+AU  - Hitzl, Wolfgang
+AU  - Eisenkopf, Lisa
+AU  - Sedarous, Fady
+AU  - Ahmed, Iqbal I.
+AU  - Reitsamer, Herbert A.
+TI  - Four-year results of a minimally invasive transscleral glaucoma gel stent implantation in a prospective multi-centre study
+JO  - Clinical & Experimental Ophthalmology
+JA  - Clin. Experiment. Ophthalmol
+VL  - 47
+IS  - 5
+SN  - 1442-6404
+UR  - https://doi.org/10.1111/ceo.13463
+DO  - doi:10.1111/ceo.13463
+SP  - 581
+EP  - 587
+KW  - efficacy
+KW  - long-term
+KW  - MIGS
+KW  - safety
+KW  - XEN glaucoma gel microstent
+PY  - 2019
+AB  - Abstract Importance The transscleral XEN Glaucoma Gel Microstent (XEN-GGM, Allergan Plc., Parsippany, New Jersey) is implanted by a minimally invasive ab interno technique. Background The present study aims to assess the long-term clinical outcomes in patients after XEN-GGM implantation. Design This prospective, non-randomized, multi-centred study was conducted in three countries (Austria, Canada and Germany). Participants Sixty-four consecutive eyes of 64 patients with open angle glaucoma received the XEN-GGM (63 ?m) without Mitomycin C. Thirty-five (55%) were solo procedures, and 29 (45%) were combined with cataract surgery. Methods Visits were planned at baseline, 6 months, 1, 2, 3 and 4 years postoperatively. Main Outcome Measures The main outcome measures were mean intraocular pressure (IOP), mean number of IOP lowering medication. Secondary outcome parameters were: visual acuity, visual fields and complete surgical failure (defined as presence of a secondary IOP lowering procedure or loss of light perception) at 4 years, postoperatively. Results Mean best-medicated baseline IOP was 22.5 ± 4.2 mmHg and decreased significantly to 13.4 ± 3.1 mmHg 4 years postoperatively (?40%, n = 34, P < 0.001). Mean number of IOP lowering medication decreased significantly from 2.4 ± 1.3 preoperatively to 1.2 ± 1.3 (?50%, n = 34, P < 0.001) postoperatively. Visual field mean deviation showed no significant change between preoperative and postoperative examinations. Complete surgical failure rate per year was 10%. Conclusions and Relevance The XEN-GGM resulted in lower IOP and a reduction in medications from baseline over 4 years of follow-up. There was no detectable decrease in visual fields over the study. The surgical failure rate is comparable to other filtration surgeries.
+ER  - 
+
+TY  - JOUR
+AU  - Nelander, J.
+AU  - Speidel, T.
+AU  - Björkman, A.
+AU  - Dahlin, L. B.
+TI  - Vibration thresholds are increased at low frequencies in the sole of the foot in diabetes—a novel multi-frequency approach
+JO  - Diabetic Medicine
+JA  - Diabet. Med.
+VL  - 29
+IS  - 12
+SN  - 0742-3071
+UR  - https://doi.org/10.1111/dme.12024
+DO  - doi:10.1111/dme.12024
+SP  - e449
+EP  - e456
+PY  - 2012
+AB  - Abstract Aims To evaluate multi-frequency tactilometry as a method to measure vibrotactile sense in the sole of the foot in subjects with diabetes. Methods Vibration thresholds were investigated at five frequencies (8, 16, 32, 64 and 125 Hz) at three sites (first and fifth metatarsal heads and heel) in the sole of the foot in subjects with Type 1 and Type 2 diabetes (n = 37). Thresholds were compared with healthy, age- and gender-matched subjects (n = 37) and related to glycaemic levels, subjective estimation of sensation in the feet and to perception of touch. Results Vibration thresholds were significantly higher in subjects with diabetes compared with healthy subjects at low frequencies (8, 16 and 32 Hz) at all measured sites, and also at 64 Hz for the metatarsal heads. Perception of touch and subjective estimation of sensation were significantly impaired in subjects with diabetes. Glycaemic levels, which were higher in subjects with diabetes, did not correlate with vibration thresholds at 32 Hz (most sensitive to Meissner?s corpuscles) or with touch thresholds in subjects with diabetes. Vibration thresholds at 32 Hz correlated significantly with perception of touch (rho = 0.45?0.65; P < 0.01) and with subjective sensation (rho = ?0.38 to ?0.52; P < 0.001) in subjects with diabetes. Perception of touch and subjective estimation of sensation did also correlate (rho = ?0.51 to ?0.80; P < 0.002). Conclusions Tactilometry is effective in detecting neuropathy in the sole of the foot at low frequencies of mainly 8?32 Hz, indicating that at least Meissner's corpuscles, or their related large nerve fibres, are affected by diabetes.
+ER  - 
+
+C7  - pp. 81-124
+TI  - Cognitive Hypnotherapy with Post-Traumatic Stress Disorder
+SN  - 9780470032510
+UR  - https://doi.org/10.1002/9780470773239.ch5
+DO  - doi:10.1002/9780470773239.ch5
+SP  - 81-124
+KW  - acute stress disorder (ASD)
+KW  - post-traumatic stress disorder (PTSD)
+KW  - evidence-based multi-modal treatment
+KW  - imagery rescripting therapy (IRT)
+KW  - evidence-based treatment
+KW  - disorder of extreme stress not otherwise specified (DESNOS)
+KW  - functional magnetic resonance imaging (fMRI)
+KW  - positron-emission tomography (PET)
+KW  - neuroendocrine system
+KW  - hypothalamic–pituitary–adrenal (HPA) axis
+PY  - 2012
+AB  - Summary This chapter contains sections titled: Introduction Clinical Description of Post-Traumatic Stress Disorder Prevalence of Post-Traumatic Stress Disorder Causes of Post-Traumatic Stress Disorder Treatment of Post-Traumatic Stress Disorder Stages of Cognitive Hypnotherapy for Post-Traumatic Stress Disorder Summary
+ER  - 
+
+TY  - JOUR
+AU  - Sjölund, Karl-Fredrik
+AU  - Belfrage, Måns
+AU  - Karlsten, Rolf
+AU  - Segerdahl, Märta
+AU  - Arnér, Staffan
+AU  - Gordh, Torsten
+AU  - Solevi, Alf
+TI  - Systemic adenosine infusion reduces the area of tactile allodynia in neuropathic pain following peripheral nerve injury: a multi-centre, placebo-controlled study
+JO  - European Journal of Pain
+VL  - 5
+IS  - 2
+SN  - 9780470032510
+UR  - https://doi.org/10.1053/eujp.2001.0237
+DO  - doi:10.1053/eujp.2001.0237
+SP  - 199
+EP  - 209
+KW  - allodynia
+KW  - hyperalgesia
+KW  - neuropathy
+KW  - pain
+KW  - placebo response
+KW  - sensory tests.
+PY  - 2001
+AB  - Systemic adenosine has been shown in earlier case reports and a small placebo-controlled study to reducepathological sensory dysfunction such as tactile allodynia in neuropathic pain. To evaluate this further, the effects of systemic adenosine infusion (50 ?g/kg/min for 60 min) on tactile sensory dysfunction and pain was evaluated in 26 patients suffering peripheral neuropathic pain characterized by dynamic tactile allodynia. A randomized, cross-over, double-blind, placebo-controlled technique was used in this multi-centre study. Psychophysical methods were used to evaluate sensory dysfunction and spontaneous pain. The area of dynamic tactile allodynia was significantly reduced by adenosine compared with placebo (p=0.043), but spon-taneous pain and tactile pain threshold were not significantly improved compared with the effects of placebo treatment. As a secondary outcome, a higher incidence of positive subjective effects on the clinical pain condi-tion, in a few cases with long duration (several months), following adenosine treatment was found when theglobal effect of respective treatment was assessed (p=0.028). The results demonstrate involvement of adenosine receptor-sensitive pain mechanisms in some aspects of the sensory dysfunction often found in neuropathic pain.
+ER  - 

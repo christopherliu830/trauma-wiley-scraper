@@ -1,0 +1,462 @@
+
+TY  - JOUR
+AU  - An, Gary
+AU  - Bartels, John
+AU  - Vodovotz, Yoram
+TI  - In silico augmentation of the drug development pipeline: examples from the study of acute inflammation
+JO  - Drug Development Research
+JA  - Drug Dev. Res.
+VL  - 72
+IS  - 2
+SN  - 0272-4391
+UR  - https://doi.org/10.1002/ddr.20415
+DO  - doi:10.1002/ddr.20415
+SP  - 187
+EP  - 200
+KW  - inflammation
+KW  - mathematical model
+KW  - sepsis
+KW  - trauma
+KW  - rational drug design
+KW  - in silico clinical trial
+PY  - 2011
+AB  - Abstract The clinical translation of promising basic biomedical findings, whether derived from reductionist studies in academic laboratories or as the product of extensive high-throughput and high-content screens in the biotechnology and pharmaceutical industries, has reached a period of stagnation in which ever higher research and development costs are yielding ever fewer new drugs. Systems biology and computational modeling have been touted as potential avenues by which to break through this logjam. However, few mechanistic computational approaches are used in a manner that is fully cognizant of the inherent clinical realities in which the drugs developed through this ostensibly rational process will be ultimately used. This article presents a translational systems biology approach to inflammation. This approach is based on the use of mechanistic computational modeling centered on inherent clinical applicability, namely that a unified suite of models can be applied to generate in silico clinical trials, individualized computational models as tools for personalized medicine, and rational drug and device design based on disease mechanism. Drug Dev Res 72: 187?200, 2011. ??? 2010 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Griffin, Mark C.
+TI  - Biocultural implications of oral pathology in an ancient Central California population
+JO  - American Journal of Physical Anthropology
+JA  - Am. J. Phys. Anthropol.
+VL  - 154
+IS  - 2
+SN  - 0002-9483
+UR  - https://doi.org/10.1002/ajpa.22491
+DO  - doi:10.1002/ajpa.22491
+SP  - 171
+EP  - 188
+KW  - bioarchaeology
+KW  - dental caries
+KW  - periapical abscess
+KW  - dental wear
+PY  - 2014
+AB  - ABSTRACT Bioarchaeologists have long noted two unusual trends in the dentitions of prehistoric Native Californian populations: high rates of wear and low prevalence of caries. The Central California site of CA-CCO-548 offers a unique opportunity to examine the relationship between oral pathology and extreme dental wear in a large (n?=?480), ancient (4,300?3,100 BP), and temporally well-defined population sample. This study specifically examines three interrelated processes of the oral cavity in this population: dental wear, dental caries, and periodontal disease. The results show high levels of dental wear (average of 6.1, Smith system), low frequencies of carious lesions (2.5%), low frequencies of periodontal disease (17.8%), and high frequencies of periapical abscesses (10.7%). The pathological processes examined here have complicated multifactorial etiologies. However, they all share the common primary etiological agents of facultative pathogenic bacteria proliferation in the oral biofilm. Integration of the current etiological explanations for infections of the oral cavity, information from the ethnographic record pertaining to subsistence and activity patterns in Native Californian populations, and statistical analysis of specific disease and wear patterns leads to a novel explanation for the observed pattern of oral pathology in this population sample. Specifically, the introduction of antibacterial compounds through dietary items and non-alimentary tooth use is suggested as the most likely explanation for the unusually low prevalence of dental caries and periodontal disease. Am J Phys Anthropol 154:171?188, 2014. ? 2014 Wiley Periodicals, Inc.
+ER  - 
+
+AU  - Scharfetter, Christian
+C7  - pp. 69-82
+TI  - Ego-Fragmentation in Schizophrenia
+SN  - 9781119952855
+UR  - https://doi.org/10.1002/9781118585948.ch5
+DO  - doi:10.1002/9781118585948.ch5
+SP  - 69-82
+KW  - ego-demarcation
+KW  - ego-identity
+KW  - ego-pathology
+KW  - ego-vitality
+KW  - schizophrenic patient
+KW  - self-pathology
+PY  - 2014
+AB  - Summary This chapter proposes that schizophrenic syndromes represent a unique type of 'ego-' or 'self-pathology', an ego-fragmentation that in extreme forms could be considered an annihilation of the 'ego/self'. Schizophrenic syndromes can be viewed as pathogenetically heterogeneous severe forms of ego-pathology, in which not only temporary dissociation but also permanent destruction of the ego/self can be seen. Ego-pathology can be understood through the clinical observation of patients usually called 'schizophrenic' and has been explored for more than a hundred years by many psychopathologists. Ego-vitality means to be present as a living being. A schizophrenic patient might experience himself as being present, but at the same time assure us that he feels dead. Ego-demarcation may be seen as a basic prerequisite as well as a result of a defined/delimited ego-identity. Ego-identity means a pre-reflexive certainty of one's own selfhood despite changes in situations and even in life course.
+ER  - 
+
+TY  - JOUR
+TI  - Plenary Session III: Maladaptive Neuroplasticity in Stress and Epilepsy  8:15 a.m.–10:15 a.m.
+JO  - Epilepsia
+VL  - 46
+IS  - s8
+SN  - 9781119952855
+UR  - https://doi.org/10.1111/j.1528-1167.2005.460801_42.x
+DO  - doi:10.1111/j.1528-1167.2005.460801_42.x
+SP  - 373
+EP  - 373
+PY  - 2005
+AB  - 1 Tallie Z. Baram, 1 Kristen L. Brunson, 1 Celine Dube, 1 Sarit Avishai-Eliner, and 1 Kristina A. Fenoglio ( 1 Pediatrics, Anatomy/ Neurobiology, UCI, Irvine, CA ) Seizures often arise in the setting of an acute injury or insult. In addition, many of the epilepsies are ?symptomatic?, i.e., they occur in individuals who had sustained injury or insult such as infection, trauma, or stroke. The mechanisms by which diverse factors such as infection or trauma provoke both acute seizures and recurrent, chronic seizures (epilepsy) are not fully understood. To some extent, each of these insults may initiate a unique chain of events that promotes epilepsy. However, these insults also share commonalities that set in motion cellular and molecular changes that promote neuronal hyperexcitability: All these epilepsy- provoking insults are stressful, in that they trigger the release and actions of ?stress-mediating molecules?, including glucocorticoids and the intrinsic central nervous system (CNS) stress-activated neuro-peptide, corticotropin releasing hormone (CRH). Stress induces release of CRH from hippocampal interneurons, and CRH acts on selective receptors (CRF-R1) to enhance glutamate-mediated neurotransmission. In immature hippocampus, CRH and the CRH receptors are particularly abundant, so that the peptide may excite neurons sufficiently to evoke seizures, followed by dendritic atrophy or death of vulnerable neurons. In animal models, chronic enhancement of CRH levels within the developing hippocampus, may result in enduring reduction of hippocampus- governed learning and memory function. Such levels might be found in infants with chronic CNS stressors including congenital infection, dysplasia, trauma or recurrent seizures. Indeed, drugs that downregulate CRH levels in limbic structures (e.g., ACTH) are potent antiepileptics in the developing CNS. In summary, acute and chronic stress elicits the release of pro-excitatory molecules (CRH), promoting seizures. These further activate the ?stress response?, leading to a vicious cycle culminating in loss of neuronal function and integrity.
+ER  - 
+
+AU  - Nightingale, Julie
+C7  - pp. 63-105
+TI  - Anatomy, Physiology and Pathology of the Skeletal System
+SN  - 9781405115346
+UR  - https://doi.org/10.1002/9780470776384.ch6
+DO  - doi:10.1002/9780470776384.ch6
+SP  - 63-105
+KW  - pathology
+KW  - physiology
+KW  - bone anatomy
+KW  - film images
+KW  - osteons
+PY  - 2005
+AB  - Summary This chapter contains section titled: Introduction Basic bone anatomy and physiology Bone pathology Anatomy and classification of joints Introduction to skeletal injury References Further reading
+ER  - 
+
+TY  - JOUR
+AU  - Mouton, Marnel
+AU  - Przybylowicz, Wojciech
+AU  - Mesjasz-Przybylowicz, Jolanta
+AU  - Postma, Ferdinand
+AU  - Thornton, Meredith
+AU  - Archer, Edward
+AU  - Botha, Alfred
+TI  - Linking the occurrence of cutaneous opportunistic fungal invaders with elemental concentrations in false killer whale (Pseudorca crassidens) skin
+JO  - Environmental Microbiology Reports
+JA  - Environmental Microbiology Reports
+VL  - 7
+IS  - 5
+SN  - 9781405115346
+UR  - https://doi.org/10.1111/1758-2229.12302
+DO  - doi:10.1111/1758-2229.12302
+SP  - 728
+EP  - 737
+PY  - 2015
+AB  - Summary Cetaceans, occupying the top levels in marine food chains, are vulnerable to elevated levels of potentially toxic trace elements, such as aluminium (Al), mercury (Hg) and nickel (Ni). Negative effects associated with these toxic metals include infection by opportunistic microbial invaders. To corroborate the link between the presence of cutaneous fungal invaders and trace element levels, skin samples from 40 stranded false killer whales (FKWs) were analysed using culture techniques and inductively coupled plasma-mass spectroscopy. Twenty-two skin samples yielded 18 clinically relevant fungal species. While evidence for bioaccumulation of Hg in the skin of the FKWs was observed, a strong link was found to exist between the occurrence of opportunistic fungal invaders and higher Al?:?Se and Al?:?Zn ratios. This study provides indications that elevated levels of some toxic metals, such as Al, contribute to immunotoxicity rendering FKWs susceptible to colonization by cutaneous opportunistic fungal invaders.
+ER  - 
+
+AU  - Coyle, Shawn D.
+AU  - Alston, Dallas E.
+AU  - Sampaio, Céelia M. S.
+C7  - pp. 108-126
+TI  - Nursery Systems and Management
+SN  - 9781405148610
+UR  - https://doi.org/10.1002/9781444314649.ch7
+DO  - doi:10.1002/9781444314649.ch7
+SP  - 108-126
+KW  - nursery systems and management
+KW  - Macrobrachium rosenbergii nursery systems
+KW  - nurseries maximising production efficiency in grow-out ponds
+KW  - indoor nurseries in tropical regions
+KW  - multi-phase nursery systems
+KW  - indoor nurseries and flow-through or recirculating water management systems
+KW  - predaceous insect control in nursery ponds
+KW  - stocking and substrate use
+KW  - feeding strategies
+KW  - transporting juveniles and grow-out ponds
+PY  - 2015
+AB  - Summary This chapter contains sections titled: Indoor nurseries Outdoor nurseries Nursing in cages Multi-phase nursery systems Facilities Water quality Controlling predaceous insects in nursery ponds Stocking and the use of substrates Feeding strategies Survival Harvesting Size grading Transporting juveniles to grow-out ponds References
+ER  - 
+
+TY  - JOUR
+AU  - Elsbach, Peter
+TI  - The bactericidal/permeability-increasing protein (BPI) in antibacterial host defense
+JO  - Journal of Leukocyte Biology
+JA  - J Leukoc Biol
+VL  - 64
+IS  - 1
+SN  - 9781405148610
+UR  - https://doi.org/10.1002/jlb.64.1.14
+DO  - doi:10.1002/jlb.64.1.14
+SP  - 14
+EP  - 18
+KW  - endogenous antibiotics
+KW  - clinical application
+KW  - structure/function relations
+KW  - LPS-binding protein
+PY  - 1998
+AB  - Abstract The bactericidal/permeability-increasing protein (BPI) is a 456-residue cationic protein produced only by precursors of polymorphonuclear leukocytes (PMN) and is stored in the primary granules of these cells. The potent (nM) cytotoxicity of BPI is limited to gram-negative bacteria (GNB), reflecting the high affinity (<10 nM) of BPI for bacterial lipopolysaccharides (LPS). The biological effects of isolated BPI are linked to complex formation with LPS. Binding of BPI to live bacteria via LPS causes immediate growth arrest. Actual killing coincides with later damage to the inner membrane. Complex formation of BPI with cell-asssociated or cell-free LPS inhibits all LPS-induced host cell responses. BPI-blocking antibodies abolish the potent activity of whole PMN lysates and inflammatory fluids against BPI-sensitive GNB. The antibacterial and the anti-endotoxin activities of BPI are fully expressed by the amino terminal half of the molecule. These properties of BPI have prompted preclinical and subsequent clinical testing of recombinant amino-terminal fragments of BPI. In animals, human BPI protein products protect against lethal injections of isolated LPS and inocula of GNB. Phase I trials in healthy human volunteers and multiple Phase I/II clinical trials have been completed or are in progress (severe pediatric meningococcemia, hemorrhagic trauma, partial hepatectomy, severe peritoneal infections, and cystic fibrosis) and two phase III trials (meningococcemia and hemorrhagic trauma) have been initiated. In none of >900 normal and severely ill individuals have issues of safety or immunogenicity been encountered. Preliminary evidence points to overall benefit in BPI-treated patients. These results suggest that BPI may have a place in the treatment of life-threatening infections and conditions associated with bacteremia and endotoxemia. J. Leukoc. Biol. 64: 14?18; 1998.
+ER  - 
+
+TY  - JOUR
+AU  - Serrano-Munuera, C
+AU  - Gallardo, E
+AU  - Rojas, R
+AU  - De Luna, N
+AU  - Gonzalez-Masegosa, A
+AU  - Marti-Masso, JF
+AU  - Martinez-Matos, A
+AU  - Ortiz, N
+AU  - Rene, R
+AU  - Berciano, J
+AU  - Grau, JM
+AU  - Willison, HJ
+AU  - Graus, F
+AU  - Illa, I
+TI  - Antiganglioside antibodies in acute self-limiting ataxic neuropathy: incidence and significance
+JO  - Journal of the Peripheral Nervous System
+JA  - Journal of the Peripheral Nervous System
+VL  - 7
+IS  - 2
+SN  - 9781405148610
+UR  - https://doi.org/10.1046/j.1529-8027.2002.02011_10.x
+DO  - doi:10.1046/j.1529-8027.2002.02011_10.x
+SP  - 137
+EP  - 137
+PY  - 2002
+AB  - Antidisialosyl antibodies have been previously associated to chronic and acute ataxic neuropathies. We studied the presence of these antibodies in nine patients with acute self-limiting ataxic neuropathy (ASLAN) using ELISA and TLC immunodetection. One patient showed serum IgG immunoreactivity against gangliosides GD3 and GQlb. The patient's IgG was able to bind to the nodes of Ranvier on frozen human dorsal root. Our studies confirmed that antidisialosyl reactivity is associated to ataxic neuropathy and its specific binding to the dorsal root could explain the predominant sensory involvement. Nevertheless, the low incidence of this reactivity indicates that a different pathogenic mechanism should be involved in most ASLAN patients.
+ER  - 
+
+AU  - Ouyang, Helen
+AU  - Quinn, James
+C7  - pp. 561-570
+TI  - Wound Repair
+SN  - 9781405161435
+UR  - https://doi.org/10.1002/9781444303674.ch55
+DO  - doi:10.1002/9781444303674.ch55
+SP  - 561-570
+KW  - wound repair
+KW  - Cochrane Central Register of Controlled Trials (CENTRAL) and MEDLINE search database
+KW  - Cochrane Library: traumatic lacerations AND tissue adhesives
+KW  - octylcyanoacrylate (OCA) tissue adhesive with standard wound closure
+KW  - eutectic mixture of local anesthetics (EMLA)
+KW  - wound closure with tissue adhesives reserved for low-tension areas
+KW  - prophylactic antibiotics in dog bites
+KW  - antibiotics - β-lactam combined with β-lactamase inhibitor
+PY  - 2002
+AB  - Summary This chapter contains sections titled: Case scenario Background Clinical questions General search strategy Critical review of the literature: Conclusions Conflicts of interest References
+ER  - 
+
+TY  - JOUR
+AU  - Langner, Inga
+AU  - Kramer, Axel
+AU  - Matthes, Rutger
+AU  - Rebert, Farzana
+AU  - Kohler, Christian
+AU  - Koban, Ina
+AU  - Hübner, Nils-Olaf
+AU  - Kohlmann, Thomas
+AU  - Patrzyk, Maciej
+C7  - 1800162
+TI  - Inhibition of microbial growth by cold atmospheric plasma compared with the antiseptics chlorhexidine digluconate, octenidine dihydrochloride, and polyhexanide
+JO  - Plasma Processes and Polymers
+JA  - Plasma Process Polym
+VL  - 16
+IS  - 4
+SN  - 9781405161435
+UR  - https://doi.org/10.1002/ppap.201800162
+DO  - doi:10.1002/ppap.201800162
+SP  - 1800162
+KW  - chlorhexidine digluconate
+KW  - cold atmospheric plasma
+KW  - octenidine dihydrochloride
+KW  - polyhexanide microbiostatic activity
+PY  - 2019
+AB  - The inhibition of microbial growth is the first step toward avoiding the formation of biofilms. Therefore, this study aimed to compare the microbiostatic activity of cold atmospheric pressure plasma (CAP) with three commonly used antiseptic agents to find an alternative to or supplementary concept for antiseptic treatment. The efficacy of two CAP generating devices ? the plasma jet kINPen09? and a hollow dielectric barrier electrode (HDBD) ? both working with argon with or without admixture of 1% oxygen, was compared with chlorhexidine digluconate (CHG 0.0001 and 0.00000625%), polyhexanide (PHMB 0.0001 and 0.000025%) and octenidine dihydrochloride (OCT 0.0002 and 0.00005%). The antiseptics were added to the planktonic stage of the biofilm-forming strains Pseudomonas aeruginosa SG 81, Staphylococcus epidermidis RP 62A, Streptococcus mutans DSM 20523 and Candida albicans ATCC 10231 resp. SC 5314. The antiseptics were present during the subsequent cultivation period (32.5?h), whereas CAP was applied for only 60?s with the same cultivation period after the exposition. During the cultivation period, growth was measured every hour by optical density and analyzed with the calculated area under the curve (AUC) to determine the delay of exponential growth. Except for the higher resistance of C. albicans against PHMB and S. mutans against CHG, P. aeruginosa was the most resistant test organism against the other antiseptic treatments. OCT 0.0002% was the most effective among the tested antiseptic agents. The plasma jet did not differ from OCT in its efficacy against C. albicans and S. mutans. Against P. aeruginosa and both Candida strains, the plasma jet was more effective than against both Gram-positive test strains. In terms of efficacy against Candida spp., the HDBD (dielectric barrier discharge plasma) did not differ significantly from the plasma jet with argon plasma; in contrast, the bacteriostatic efficacy was significantly higher. While the addition of 1% O2 did not change the efficacy of the plasma jet, the efficacy of the HDBD against S. epidermidis increased significantly. The antimicrobial efficacy of CAP as demonstrated in earlier studies was confirmed with planktonic microorganisms showing delayed growth during cultivation for 32.5?h after a single application of CAP for 60?s. Short treatment with CAP could be an effective alternative or supplement to conventional antiseptics, for example, to inhibit the growth of microorganisms in an infected wound. OCT in the concentration used here showed the best microbial growth inhibitory results among the antiseptics.
+ER  - 
+
+TY  - JOUR
+AU  - KAPER, J. B.
+AU  - LOCKMAN, H.
+AU  - COLWELL, R. R.
+AU  - JOSEPH, S. W.
+TI  - Aeromonas hydrophila: Ecology and Toxigenicity of Isolates from an Estuary
+JO  - Journal of Applied Bacteriology
+VL  - 50
+IS  - 2
+SN  - 9781405161435
+UR  - https://doi.org/10.1111/j.1365-2672.1981.tb00900.x
+DO  - doi:10.1111/j.1365-2672.1981.tb00900.x
+SP  - 359
+EP  - 377
+PY  - 1981
+AB  - A microbiological survey of Aeromonas hydrophila in Chesapeake Bay and its tributaries showed that this species is ubiquitous, occurring in numbers ranging from <0.3/l to 5 ? 103/ml in the water column and ca. 4.6 ? 102/g in sediment. It was recovered from water samples collected at several locations in Chesapeake Bay representing various salinity regimes, but the numbers of A. hydrophila in higher salinity water, i.e. 15O/OO, were low. Results of stepwise multiple linear regression analysis showed that concentrations of A. hydrophila were correlated with total, aerobic, viable, heterotrophic, bacterial counts, and, in addition, were inversely related to salinity and to concentration of dissolved oxygen. Seasonal occurrence was recorded, with fewer strains of A. hydrophila encountered during the winter months. The potential pathogenicity of A. hydrophila strains isolated from Chesapeake Bay was estimated by testing selected isolates for toxigenicity, using the Y-1 adrenal cell assay. Of 116 isolates tested, 83 (71%) produced a cytotoxic response, a characteristic found to be correlated with the lysine decarboxylase and Voges-Proskauer reactions. Eight of 11 strains tested, which elicited fluid accumulation in the rabbit ligated ileal loop assay, also provoked a cytotoxic reaction in the Y-l adrenal cell assay. Results of the study indicate that large numbers of toxigenic A. hydrophila can be found in an estuary and such strains may be pathogenic for man and/or animals.
+ER  - 
+
+C7  - pp. 513-673
+TI  - Neoplastic Diseases
+SN  - 9780470958995
+UR  - https://doi.org/10.1002/9781119421481.ch15
+DO  - doi:10.1002/9781119421481.ch15
+SP  - 513-673
+KW  - avian sarcomas
+KW  - avirulent herpesvirus of turkey
+KW  - lymphoid leukosis
+KW  -                Marek's disease
+KW  - neoplastic diseases
+KW  - reticuloendotheliosis
+KW  - retrovirus-induced avian leukoses
+KW  - transplantable tumors
+PY  - 1981
+AB  - Summary This chapter deals primarily with the three most economically important virus-induced transmissible neoplastic diseases of poultry, namely herpesvirus-induced Marek's disease (MD), and retrovirus-induced avian leukoses/sarcoma (L/S) and reticuloendotheliosis. It covers tumors of unknown etiology. The morphology and morphogenesis of MD virus have been reviewed. Several different types of MD vaccines are in common use, both individually and in various combinations. The most widely used products are low-pathogenic serotype 1 MDV, naturally avirulent herpesvirus of turkey (HVT), and serotype 2 viruses. Lymphoid leukosis (LL) has been the most common form of L/S group of diseases seen in field flocks, although myeloid leukosis has become prevalent. LL, a lymphoproliferative disease of chickens affecting primarily the cloacal bursa (bursa of Fabricius) and visceral organs, is the most common form of leukosis that arises from infection with avian leukosis virus (ALV). Eradication of ALV from primary breeding stocks is the most effective means for controlling ALV infection in chickens.
+ER  - 
+
+AU  - Nelson, Christopher S.
+AU  - Coughenour, Jeffrey P.
+AU  - Barnes, Stephen L.
+C7  - pp. 52-61
+TI  - Hemodynamic and Respiratory Monitoring
+SN  - 9780470654613
+UR  - https://doi.org/10.1002/9781118274231.ch5
+DO  - doi:10.1002/9781118274231.ch5
+SP  - 52-61
+KW  - Swan-Ganz catheter
+KW  - pulmonary artery catheter
+KW  - esophageal doppler
+KW  - arterial line
+KW  - central venous catheter
+KW  - thermodilution
+KW  - gastric tonometry
+KW  - oxygen delivery
+KW  - stroke volume variability
+KW  - pulse contour
+KW  - pulse oximetry
+PY  - 1981
+AB  - Summary This Chapter focuses on hemodynamic and respiratory monitoring of the critically ill or injured patient. Known monitoring techniques and their clinical usefulness are reviewed and evaluated. Clinical scenarios focus on the use and implementation of various monitoring techniques to assist in the management and resuscitation of such patients.
+ER  - 
+
+TY  - JOUR
+AU  - Hanchard, Neil A.
+AU  - Umana, Luis A.
+AU  - D'Alessandro, Lisa
+AU  - Azamian, Mahshid
+AU  - Poopola, Mojisola
+AU  - Morris, Shaine A.
+AU  - Fernbach, Susan
+AU  - Lalani, Seema R.
+AU  - Towbin, Jeffrey A.
+AU  - Zender, Gloria A.
+AU  - Fitzgerald-Butt, Sara
+AU  - Garg, Vidu
+AU  - Bowman, Jessica
+AU  - Zapata, Gladys
+AU  - Hernandez, Patricia
+AU  - Arrington, Cammon B.
+AU  - Furthner, Dieter
+AU  - Prakash, Siddharth K.
+AU  - Bowles, Neil E.
+AU  - McBride, Kim L.
+AU  - Belmont, John W.
+TI  - Assessment of large copy number variants in patients with apparently isolated congenital left-sided cardiac lesions reveals clinically relevant genomic events
+JO  - American Journal of Medical Genetics Part A
+JA  - Am J Med Genet
+VL  - 173
+IS  - 8
+SN  - 9780470654613
+UR  - https://doi.org/10.1002/ajmg.a.38309
+DO  - doi:10.1002/ajmg.a.38309
+SP  - 2176
+EP  - 2188
+KW  - aortic stenosis
+KW  - chromosome
+KW  - coarctation aorta
+KW  - congenital heart disease
+KW  - genetic
+KW  - hypoplastic left heart syndrome
+PY  - 2017
+AB  - Congenital left-sided cardiac lesions (LSLs) are a significant contributor to the mortality and morbidity of congenital heart disease (CHD). Structural copy number variants (CNVs) have been implicated in LSL without extra-cardiac features; however, non-penetrance and variable expressivity have created uncertainty over the use of CNV analyses in such patients. High-density SNP microarray genotyping data were used to infer large, likely-pathogenic, autosomal CNVs in a cohort of 1,139 probands with LSL and their families. CNVs were molecularly confirmed and the medical records of individual carriers reviewed. The gene content of novel CNVs was then compared with public CNV data from CHD patients. Large CNVs (>1?MB) were observed in 33 probands (?3%). Six of these were de novo and 14 were not observed in the only available parent sample. Associated cardiac phenotypes spanned a broad spectrum without clear predilection. Candidate CNVs were largely non-recurrent, associated with heterozygous loss of copy number, and overlapped known CHD genomic regions. Novel CNV regions were enriched for cardiac development genes, including seven that have not been previously associated with human CHD. CNV analysis can be a clinically useful and molecularly informative tool in LSLs without obvious extra-cardiac defects, and may identify a clinically relevant genomic disorder in a small but important proportion of these individuals.
+ER  - 
+
+TY  - JOUR
+AU  - Poghossian, Arshak
+AU  - Schöning, Michael J.
+TI  - Label-Free Sensing of Biomolecules with Field-Effect Devices for Clinical Applications
+JO  - Electroanalysis
+JA  - Electroanalysis
+VL  - 26
+IS  - 6
+SN  - 9780470654613
+UR  - https://doi.org/10.1002/elan.201400073
+DO  - doi:10.1002/elan.201400073
+SP  - 1197
+EP  - 1213
+KW  - Label-free detection
+KW  - Field effect
+KW  - ISFET
+KW  - Silicon nanowire
+KW  - Biosensors
+KW  - DNA
+KW  - Proteins
+KW  - Biomarkers
+PY  - 2014
+AB  - Abstract Among the variety of transducer concepts proposed for label-free detection of biomolecules, the semiconductor field-effect device (FED) is one of the most attractive platforms. As medical techniques continue to progress towards diagnostic and therapies based on biomarkers, the ability of FEDs for a label-free, fast and real-time detection of multiple pathogenic and physiologically relevant molecules with high specificity and sensitivity offers very promising prospects for their application in point-of-care and personalized medicine for an early diagnosis and treatment of diseases. The presented paper reviews recent advances and current trends in research and development of different FEDs for label-free, direct electrical detection of charged biomolecules by their intrinsic molecular charge. The authors are mainly focusing on the detection of the DNA hybridization event, antibody-antigen affinity reaction as well as clinically relevant biomolecules such as cardiac and cancer biomarkers.
+ER  - 
+
+TY  - JOUR
+AU  - Tognetti, L.
+AU  - Martinelli, C.
+AU  - Berti, S.
+AU  - Hercogova, J.
+AU  - Lotti, T.
+AU  - Leoncini, F.
+AU  - Moretti, S.
+TI  - Bacterial skin and soft tissue infections: review of the epidemiology, microbiology, aetiopathogenesis and treatment
+JO  - Journal of the European Academy of Dermatology and Venereology
+VL  - 26
+IS  - 8
+SN  - 9780470654613
+UR  - https://doi.org/10.1111/j.1468-3083.2011.04416.x
+DO  - doi:10.1111/j.1468-3083.2011.04416.x
+SP  - 931
+EP  - 941
+PY  - 2012
+AB  - Abstract Bacterial skin and soft tissues infections (SSTI) often determine acute disease and frequent emergency recovering, and they are one of the most common causes of infection among groups of different ages. Given the variable presentation of SSTI, a thorough assessment of their incidence and prevalence is difficult. The presence of patient-related (local or systemic) or environmental risk factors, along with the emergence of multi-drug resistant pathogens, can promote SSTI. These infections may present with a wide spectrum of clinical features and different severity, and can be classified according to various criteria. Many bacterial species can cause SSTI, but Gram-positive bacteria are the most frequently isolated, with a predominance of Staphylococcus aureus and Streptococcus pyogenes. The diagnosis of SSTI requires an extended clinical history, a thorough physical examination and a high index of suspicion. Early diagnosis is particularly important in complicated infections, which often require laboratory studies, diagnostic imaging and surgical exploration. SSTI management should conform to the epidemiology, the aetiology, the severity and the depth of the infection. Topical, oral or systemic antimicrobial therapy and drainage or debridement could be necessary, along with treatment of a significant underlying disease. This review discusses the epidemiology, the pathogenesis and the classification of bacterial SSTI, describes their associated risk factors and their clinical presentations. The authors provide a rational diagnostic and therapeutic approach to SSTI in respect of antibiotic resistance and currently available antimicrobial agents.
+ER  - 
+
+TY  - JOUR
+AU  - Xue, Fei
+AU  - Wang, Guangtian
+AU  - Pang, Zhigang
+AU  - Liu, Chao
+AU  - Liang, Tingbo
+TI  - Protective Effect of Glutathione Against Liver Warm Ischemia-Reperfusion Injury in Rats is Associated with Regulation of P-Selectin and Neutrophil Infiltration
+JO  - The Anatomical Record
+JA  - Anat Rec
+VL  - 291
+IS  - 8
+SN  - 9780470654613
+UR  - https://doi.org/10.1002/ar.20725
+DO  - doi:10.1002/ar.20725
+SP  - 1016
+EP  - 1022
+KW  - ischemia reperfusion injury
+KW  - liver
+KW  - glutathione
+KW  - P-selectin
+PY  - 2008
+AB  - Abstract We examined the effects of glutathione (GSH) preconditioning through the portal vein on rat warm liver ischemia reperfusion injury (I/R injury) and investigated the mechanisms involved. In rats with warm liver I/R injury, administration of GSH by means of the portal vein before ischemia increased the 7-day survival rates of rats after liver I/R from 38% to 75%. This effect was correlated with significantly improved liver function, depressed MDA content in the liver and fewer histologic features of hepatocyte injury. Intrahepatic expression of P-selectin and infiltration of neutrophils were increased significantly after liver I/R. GSH pretreatment decreased intrahepatic MPO content and the expression of P-selectin. However, it did not significantly affect the mRNA levels for P-selectin after liver I/R. Thus, preconditioning with GSH protects the liver against I/R injury by a mechanism dependent on free radical species scavenging, down-regulation of adhesion molecule expression and inhibition of neutrophil accumulation. These findings document the potential clinical utility of GSH to improve the overall success of diverse procedures, such as liver surgery and liver transplantation. Anat Rec, 291:1016?1022, 2008. ? 2008 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Faunce, Douglas E.
+AU  - Garner, Jennifer L.
+AU  - Llanas, Julian N.
+AU  - Patel, Parag J.
+AU  - Gregory, Meredith S.
+AU  - Duffner, Lisa A.
+AU  - Gamelli, Richard L.
+AU  - Kovacs, Elizabeth J.
+TI  - Effect of Acute Ethanol Exposure on the Dermal Inflammatory Response After Burn Injury
+JO  - Alcoholism: Clinical and Experimental Research
+VL  - 27
+IS  - 7
+SN  - 9780470654613
+UR  - https://doi.org/10.1097/01.ALC.0000075833.92139.35
+DO  - doi:10.1097/01.ALC.0000075833.92139.35
+SP  - 1199
+EP  - 1206
+KW  - Thermal Injury
+KW  - Chemokines
+KW  - Neutrophils
+KW  - Burn Wound
+KW  - Inflammation
+KW  - Ethanol
+KW  - Wound Healing
+PY  - 2003
+AB  - Background: More than 100,000 people each year are admitted to U.S. hospitals for severe burn injury. Strikingly, ethanol use prior to injury is apparent in nearly 50% of burn patients, rendering them six times more likely to die from infection than patients not exposed to ethanol. We previously reported that the kinetics and magnitude of neutrophil chemokine production and subsequent accumulation of neutrophils in the lung was dramatically altered when ethanol exposure preceded injury. Here, we tested whether burn injury and ethanol exposure combined, altered susceptibility to infection, neutrophil chemoattractant production, and neutrophil accumulation at the site of the burn wound. Methods: Male B6D2F 1 mice were administered a dose of ethanol designed to achieve 90?100 mg/dl circulating levels and 30 min later subjected to a 15% total body surface area dorsal scald injury. Susceptibility to topically applied Pseudomonas aeruginosa was examined. At various times after injury, burn wound and normal tissues were collected for assessments of neutrophil counts, myeloperoxidase quantitation, and neutrophil chemoattractant (KC and MIP-2) production. Results: Ethanol exposure prior to burn injury enhanced susceptibility to infection after burn and was associated with significantly elevated production of KC, but not MIP-2, at the wound site. Despite the enhanced elevation of KC, neutrophil accumulation in the wounds of ethanol exposed, burn injured mice did not differ from those that received burn injury alone. TNFα (a potent activator of neutrophils), however, was found to be significantly elevated in the wounds of mice that received only burn injury, but not in those that received injury in combination with prior ethanol exposure. Conclusion: In the presence of ethanol, neutrophils are adequately recruited to the site of burn injury, but their host defense functions are impaired, perhaps due to the lack of proinflammatory cytokines such as TNFα.
+ER  - 
+
+TY  - JOUR
+AU  - Ojo, Joseph O.
+AU  - Abdullah, Laila
+AU  - Evans, James
+AU  - Reed, Jon Mike
+AU  - Montague, Hannah
+AU  - Mullan, Michael J.
+AU  - Crawford, Fiona C.
+TI  - Exposure to an organophosphate pesticide, individually or in combination with other Gulf War agents, impairs synaptic integrity and neuronal differentiation, and is accompanied by subtle microvascular injury in a mouse model of Gulf War agent exposure
+JO  - Neuropathology
+JA  - Neuropathology
+VL  - 34
+IS  - 2
+SN  - 9780470654613
+UR  - https://doi.org/10.1111/neup.12061
+DO  - doi:10.1111/neup.12061
+SP  - 109
+EP  - 127
+KW  - astrocytes
+KW  - Gulf war illness (GWI)
+KW  - neurogenesis
+KW  - microglia
+KW  - microvessels
+KW  - synapses
+PY  - 2014
+AB  - Gulf War illness (GWI) is a currently untreatable multi-symptom disorder experienced by 1990?1991 Persian Gulf War (GW) veterans. The characteristic hallmarks of GWI include cognitive dysfunction, tremors, migraine, and psychological disturbances such as depression and anxiety. Meta-analyses of epidemiological studies have consistently linked these symptomatic profiles to the combined exposure of GW agents such as organophosphate-based and pyrethroid-based pesticides (e.g. chlorpyrifos (CPF) and permethrin (PER) respectively) and the prophylactic use of pyridostigmine bromide (PB) as a treatment against neurotoxins. Due to the multi-symptomatic presentation of this illness and the lack of available autopsy tissue from GWI patients, very little is currently known about the distinct early pathological profile implicated in GWI (including its influence on synaptic function and aspects of neurogenesis). In this study, we used preclinical models of GW agent exposure to investigate whether 6-month-old mice exposed to CPF alone, or a combined dose of CPF, PB and PER daily for 10 days, demonstrate any notable pathological changes in hippocampal, cortical (motor, piriform) or amygdalar morphometry. We report that at an acute post-exposure time point (after 3 days), both exposures resulted in the impairment of synaptic integrity (reducing synaptophysin levels) in the CA3 hippocampal region and altered neuronal differentiation in the dentate gyrus (DG), demonstrated by a significant reduction in doublecortin positive cells. Both exposures also significantly increased astrocytic GFAP immunoreactivity in the piriform cortex, motor cortex and the basolateral amygdala and this was accompanied by an increase in (basal) brain acetylcholine (ACh) levels. There was no evidence of microglial activation or structural deterioration of principal neurons in these regions following exposure to CPF alone or in combination with PB and PER. Evidence of subtle microvascular injury was demonstrated by the reduction of platelet endothelial cell adhesion molecule (PECAM)-1 levels in CPF+PB+PER exposed group compared to control. These data support early (subtle) neurotoxic effects on the brain following exposure to GW agents.
+ER  - 

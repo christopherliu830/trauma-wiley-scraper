@@ -1,0 +1,471 @@
+
+TY  - JOUR
+AU  - Jelescu, Ileana O.
+AU  - Veraart, Jelle
+AU  - Fieremans, Els
+AU  - Novikov, Dmitry S.
+C8  - NBM-15-0204.R2
+TI  - Degeneracy in model parameter estimation for multi-compartmental diffusion in neuronal tissue
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 29
+IS  - 1
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.3450
+DO  - doi:10.1002/nbm.3450
+SP  - 33
+EP  - 47
+KW  - high order diffusion MR methods
+KW  - biophysical mechanisms of MR diffusion
+KW  - normal brain
+KW  - microstructure
+KW  - modeling
+KW  - parameter estimation
+PY  - 2016
+AB  - The ultimate promise of diffusion MRI (dMRI) models is specificity to neuronal microstructure, which may lead to distinct clinical biomarkers using noninvasive imaging. While multi-compartment models are a common approach to interpret water diffusion in the brain in vivo, the estimation of their parameters from the dMRI signal remains an unresolved problem. Practically, even when q space is highly oversampled, nonlinear fit outputs suffer from heavy bias and poor precision. So far, this has been alleviated by fixing some of the model parameters to a priori values, for improved precision at the expense of accuracy. Here we use a representative two-compartment model to show that fitting fails to determine the five model parameters from over 60 measurement points. For the first time, we identify the reasons for this poor performance. The first reason is the existence of two local minima in the parameter space for the objective function of the fitting procedure. These minima correspond to qualitatively different sets of parameters, yet they both lie within biophysically plausible ranges. We show that, at realistic signal-to-noise ratio values, choosing between the two minima based on the associated objective function values is essentially impossible. Second, there is an ensemble of very low objective function values around each of these minima in the form of a pipe. The existence of such a direction in parameter space, along which the objective function profile is very flat, explains the bias and large uncertainty in parameter estimation, and the spurious parameter correlations: in the presence of noise, the minimum can be randomly displaced by a very large amount along each pipe. Our results suggest that the biophysical interpretation of dMRI model parameters crucially depends on establishing which of the minima is closer to the biophysical reality and the size of the uncertainty associated with each parameter. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - COTMAN, CARL W.
+AU  - NIETO-SAMPEDRO, MANUEL
+TI  - Progress in Facilitating the Recovery of Function after Central Nervous System Trauma
+JO  - Annals of the New York Academy of Sciences
+VL  - 457
+IS  - 1
+SN  - 0077-8923
+UR  - https://doi.org/10.1111/j.1749-6632.1985.tb20800.x
+DO  - doi:10.1111/j.1749-6632.1985.tb20800.x
+SP  - 83
+EP  - 104
+PY  - 1985
+ER  - 
+
+TY  - JOUR
+AU  - Adamo, P. F.
+AU  - Rylander, H.
+AU  - Adams, W. M.
+TI  - Ciclosporin use in multi-drug therapy for meningoencephalomyelitis of unknown aetiology in dogs
+JO  - Journal of Small Animal Practice
+VL  - 48
+IS  - 9
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/j.1748-5827.2006.00303.x
+DO  - doi:10.1111/j.1748-5827.2006.00303.x
+SP  - 486
+EP  - 496
+PY  - 2007
+AB  - Objective: To evaluate the efficacy and safety of ciclosporin therapy alone or in combination with corticosteroids and/or ketoconazole in dogs with diagnosis of meningoencephalomyelitis of unknown aetiology. Methods: Medical records of 10 dogs diagnosed with meningoencephalomyelitis of unknown aetiology and treated with ciclosporin therapy alone or in combination with corticosteroids and/or ketoconazole were reviewed at the Veterinary Medical Teaching Hospital, University of Wisconsin-Madison. Laboratory abnormalities, side effects, clinical and cerebrospinal fluid responses to treatment and association between blood ciclosporin level and response to treatment were evaluated. Histopathological diagnosis was available in three patients. Results: No significant abnormalities were detected on serial complete blood count and serum chemistry panel in any of the dogs. Side effects of ciclosporin therapy included excessive shedding, gingival hyperplasia and hypertrichosis. Overall median survival time for all dogs in the study was 930 days (range, 60 to more than 1290 days). In all dogs, serial cerebrospinal fluid analysis showed a marked improvement in the inflammation. Clinical Significance: Results suggest that ciclosporin either alone or in combination with ketoconazole may be a safe and effective treatment for meningoencephalomyelitis of unknown aetiology in dogs.
+ER  - 
+
+TY  - JOUR
+AU  - Casoni, Dianne
+TI  - ‘NEVER TWICE WITHOUT THRICE’ AN OUTLINE FOR THE UNDERSTANDING OF TRAUMATIC NEUROSIS
+JO  - The International Journal of Psychoanalysis
+VL  - 83
+IS  - 1
+SN  - 0020-7578
+UR  - https://doi.org/10.1516/CAHY-KYWE-PVXL-H3Q6
+DO  - doi:10.1516/CAHY-KYWE-PVXL-H3Q6
+SP  - 137
+EP  - 159
+PY  - 2002
+AB  - Following the review of Freud's work on trauma (1916-17, 1920, 1926, 1933, 1939), this article proposes to view the traumatic scene as a screen which acts as an active process in the case of many victims who, like Mrs D, break down a few days after being assaulted. After a first attempt at denial, the ego is submerged with repressed content. Repetition is seen as a means of abreacting the trauma by seeking to bind the enormous quantity of excitations that cannot find discharge. Repetition, because of its compulsive quality, fails. The victim remains in a state of helplessness against which she resorts to denial, splitting and projection (Freud, 1920, 1926). This strategy is seen, however, as maintaining the victim in a state of helplessness. Thus, I suggest that, overwhelmed, the ego finally resorts to a multi-levelled system of defence. On a first level, fixation to the trauma, like in screen-memories, gives way to a first displacement. On a second level, the adoption of an identity built upon being a victim contributes to the strength of this displacement. On a third level, identification with the aggressor consolidates this defensive strategy by giving meaning to the hostility awakened by the sexual assault.
+ER  - 
+
+TY  - JOUR
+AU  - Hu, Haiyang
+AU  - Wang, Qingguo
+AU  - Tang, Huamei
+AU  - Xiong, Liwen
+AU  - Lin, Qiang
+TI  - Multi-slice computed tomography characteristics of solitary pulmonary ground-glass nodules: Differences between malignant and benign
+JO  - Thoracic Cancer
+JA  - Thoracic Cancer
+VL  - 7
+IS  - 1
+SN  - 1759-7706
+UR  - https://doi.org/10.1111/1759-7714.12280
+DO  - doi:10.1111/1759-7714.12280
+SP  - 80
+EP  - 87
+KW  - Multi-slice CT
+KW  - pathology
+KW  - persistent ground-glass nodule
+KW  - three-dimensional reconstruction
+PY  - 2016
+AB  - Abstract Background Ground-glass nodules (GGNs), which are possible precursors of lung cancer, attract increasing attention. Many studies have attempted to identify the characteristic imaging features of GGNs for their qualitative diagnosis; however, the comprehension of GGNs remains controversial. We performed this study to identify imaging characteristics helpful to the differential diagnosis of solitary GGNs. Methods We retrospectively evaluated 112 solitary GGNs resected from 112 patients, pathologically examined after surgical resection. Imaging features of the GGNs, such as size, shape, a solid component, lobulation, spiculation, vascular convergence sign, pleural tag, and air cavity density, were assessed. Differences between malignant and benign nodules were analyzed using binary logistic regression analysis. Results Of the 112 GGNs, 82 were malignant and 30 were benign. A solid component, vascular convergence sign, and a larger diameter were risk factors for malignancy, with a sensitivity, specificity, and accuracy of 93.9%, 60.0%, and 84.8%, respectively. Lobulation, spiculation, air cavity densities, and pleural tags were also important indicators of malignancy, with positive predictive values of 93.5%, 83.3%, 91.7%, and 87.2%, respectively. Conclusion GGNs with a solid component, vascular convergence sign, and a larger diameter are highly suggestive of malignancy. The possibility of a neoplasm should also be considered in the case of GGNs that show lobulation, spiculation, air cavity densities, or pleural tags. To obtain a comprehensive and accurate analysis of the nodules, three-dimensional reconstruction is highly recommended.
+ER  - 
+
+TY  - JOUR
+AU  - Azevedo, Kathryn J.
+AU  - Ramirez, Jeremy C.
+AU  - Kumar, Anusha
+AU  - LeFevre, Ann
+AU  - Factor, Adam
+AU  - Hailu, Elon
+AU  - Lindley, Steven E.
+AU  - Jain, Shaili
+TI  - Rethinking Violence Prevention in Rural and Underserved Communities: How Veteran Peer Support Groups Help Participants Deal with Sequelae from Violent Traumatic Experiences
+JO  - The Journal of Rural Health
+JA  - The Journal of Rural Health
+VL  - n/a
+IS  - n/a
+SN  - 0890-765X
+UR  - https://doi.org/10.1111/jrh.12362
+DO  - doi:10.1111/jrh.12362
+KW  - access to care
+KW  - mental health
+KW  - peer support
+KW  - veterans
+KW  - violence prevention
+AB  - Abstract Purpose Access to mental health care and programs that address violence prevention can be a challenge for veterans residing in rural and underserved areas. A growing number of trauma-affected veterans are now returning to rural areas upon completion of military service. The Palo Alto VA Health Care System has piloted a program known as the Peer Support Program (PSP) where certified peer support specialists hold group sessions for their fellow veterans in remote, community-based outpatient clinics. Methods A total of 29 peer-support group participants and 1 certified peer specialist were interviewed. Semistructured interviews began with open-ended questions regarding participant firsthand experiences with the support group setting. These were followed by direct questions that addressed the role of the PSP, expectations for the PSP, as well as benefits and limitations of the program. We performed a domain analysis using the Spradley ethnographic method on 325 pages of compiled narrative data focusing on violence-related themes. Findings Four key themes emerged, including: 1) Violence in Military Training Not Acceptable in Civilian Life, 2) Peer Support Creates the Trust to Speak Freely, 3) Skills Are Taught to Defuse Violence, and 4) The Veteran Peer Support Specialist Relationship Is Multi-Dimensional. Conclusions These emergent themes illustrate how trauma-focused assistance rendered by peer support specialists as part of an interdisciplinary mental health team can be implemented to benefit trauma-affected individuals and their communities in the prevention of future violence.
+ER  - 
+
+TY  - JOUR
+AU  - Dennis, Emily L.
+AU  - Babikian, Talin
+AU  - Alger, Jeffry
+AU  - Rashid, Faisal
+AU  - Villalon-Reina, Julio E.
+AU  - Jin, Yan
+AU  - Olsen, Alexander
+AU  - Mink, Richard
+AU  - Babbitt, Christopher
+AU  - Johnson, Jeffrey
+AU  - Giza, Christopher C.
+AU  - Thompson, Paul M.
+AU  - Asarnow, Robert F.
+TI  - Magnetic resonance spectroscopy of fiber tracts in children with traumatic brain injury: A combined MRS – Diffusion MRI study
+JO  - Human Brain Mapping
+JA  - Hum. Brain. Mapp.
+VL  - 39
+IS  - 9
+SN  - 1065-9471
+UR  - https://doi.org/10.1002/hbm.24209
+DO  - doi:10.1002/hbm.24209
+SP  - 3759
+EP  - 3768
+KW  - diffusion MRI
+KW  - longitudinal
+KW  - MRS
+KW  - pediatric
+KW  - traumatic brain injury
+PY  - 2018
+AB  - Abstract Traumatic brain injury can cause extensive damage to the white matter (WM) of the brain. These disruptions can be especially damaging in children, whose brains are still maturing. Diffusion magnetic resonance imaging (dMRI) is the most commonly used method to assess WM organization, but it has limited resolution to differentiate causes of WM disruption. Magnetic resonance spectroscopy (MRS) yields spectra showing the levels of neurometabolites that can indicate neuronal/axonal health, inflammation, membrane proliferation/turnover, and other cellular processes that are on-going post-injury. Previous analyses on this dataset revealed a significant division within the msTBI patient group, based on interhemispheric transfer time (IHTT); one subgroup of patients (TBI-normal) showed evidence of recovery over time, while the other showed continuing degeneration (TBI-slow). We combined dMRI with MRS to better understand WM disruptions in children with moderate-severe traumatic brain injury (msTBI). Tracts with poorer WM organization, as shown by lower FA and higher MD and RD, also showed lower N-acetylaspartate (NAA), a marker of neuronal and axonal health and myelination. We did not find lower NAA in tracts with normal WM organization. Choline, a marker of inflammation, membrane turnover, or gliosis, did not show such associations. We further show that multi-modal imaging can improve outcome prediction over a single modality, as well as over earlier cognitive function measures. Our results suggest that demyelination plays an important role in WM disruption post-injury in a subgroup of msTBI children and indicate the utility of multi-modal imaging.
+ER  - 
+
+TY  - JOUR
+AU  - Loesche, W.J.
+AU  - Bretz, W.A.
+AU  - Lopatin, D.
+AU  - Stoll, J.
+AU  - Rau, CF.
+AU  - Hillenburg, K.L.
+AU  - Killoy, W.J.
+AU  - Drisko, C.L.
+AU  - Williams, R.
+AU  - Weber, H.P.
+AU  - Clark, W.
+AU  - Magnusson, I.
+AU  - Walker, C.
+AU  - Hujoel, P.P
+TI  - Multi-Center Clinical Evaluation of a Chairside Method for Detecting Certain Periodontopathic Bacteria in Periodontal Disease
+JO  - Journal of Periodontology
+JA  - Journal of Periodontology
+VL  - 61
+IS  - 3
+SN  - 0022-3492
+UR  - https://doi.org/10.1902/jop.1990.61.3.189
+DO  - doi:10.1902/jop.1990.61.3.189
+SP  - 189
+EP  - 196
+KW  - Periodontal diseases/diagnosis
+KW  - periodontal diseases/B. gingivalis
+KW  - periodontal diseases/B. forsythus
+KW  - periodontal diseases/Aa
+KW  - periodontal diseases/Treponema denticola
+KW  - periodontal diseases/microbiology
+PY  - 1990
+AB  - The association of bacteroides gingivalis, Bacteroides forsythus, Treponema denticola, and Actinobacillus actinomycetemcomitans among others with periodontal disease offers the opportunity for the development of diagnostic tests that are based upon the detection and/or quantification of one or more of these organisms or their by-products in the plaque. Three of the putative periodontal pathogens namely, T. denticola, B. gingivalis, and B. forsythus, can hydrolyze the synthetic trypsin substrate, N-benzoyl-DL-arginine-2-naphthylamide (BANA) forming a color reaction. The present investigation evaluated a commercially developed solid state assay for BANA hydrolysis that can be read after 15 minutes incubation at chairside. A total of 702 subgingival plaque samples were collected from 117 patients seen at four university dental clinics and placed on reagent cards. The color development on the cards was compared to the presence of T. denticola and B. gingivalis in the plaque, and with the clinical appearance of the sampled sites. This multi-center study demonstrated that antibodies to B. gingivalis and T. denticola could detect these organisms by an ELISA in the majority of the subgingival plaque samples. Comparable information could be obtained when the same plaques were evaluated by the reagent card format for BANA hydrolysis. The ELISA and reagent card were comparable in their ability to distinguish between clinically healthy and diseased sites. Both diagnostic procedures detected the periodontopathogens in plaques from sites that were judged clinically healthy. The reagent card test has certain clinical advantages over the ELISA in that it is simple, can be performed quickly at chairside, and provides valuable information as to the pathogenicity of the microflora at discrete oral sites. Such information may be used in the detection of patients or intraoral sites at risk for periodontal disease. J Periodontol 1990;61:189-196.
+ER  - 
+
+TY  - JOUR
+AU  - Schein, T. N.
+AU  - Blackburn, T. E.
+AU  - Heath, S. L.
+AU  - Barnum, S. R.
+TI  - Plasma levels of soluble membrane attack complex are elevated despite viral suppression in HIV patients with poor immune reconstitution
+JO  - Clinical & Experimental Immunology
+JA  - Clin Exp Immunol
+VL  - 198
+IS  - 3
+SN  - 0009-9104
+UR  - https://doi.org/10.1111/cei.13366
+DO  - doi:10.1111/cei.13366
+SP  - 359
+EP  - 366
+KW  - complement
+KW  - HIV
+KW  - membrane attack complex
+KW  - terminal complement complex
+PY  - 2019
+AB  - Summary The complement system is now a therapeutic target for the management of serious and life-threatening conditions such as paroxysmal nocturnal hemoglobinuria, atypical hemolytic uremic syndrome, glomerulonephritis and other diseases caused by complement deficiencies or genetic variants. As complement therapeutics expand into more clinical conditions, monitoring complement activation is increasingly important, as is the baseline levels of complement activation fragments in blood or other body fluid levels. Although baseline complement levels have been reported in the literature, the majority of these data were generated using non-standard assays and with variable sample handling, potentially skewing results. In this study, we examined the plasma and serum levels of the soluble membrane attack complex of complement (sMAC). sMAC is formed in the fluid phase when complement is activated through the terminal pathway. It binds the regulatory proteins vitronectin and/or clusterin and cannot insert into cell membranes, and can serve as a soluble diagnostic marker in infectious disease settings, as previously shown for intraventricular shunt infections. Here we show that in healthy adults, serum sMAC levels were significantly higher than those in plasma, that plasma sMAC levels were similar between in African Americans and Caucasians and that plasma sMAC levels increase with age. Plasma sMAC levels were significantly higher in virally suppressed people living with HIV (PLWH) compared to non-HIV infected healthy donors. More specifically, PLWH with CD4+ T cell counts below 200 had even greater sMAC levels, suggesting diagnostic value in monitoring sMAC levels in this group.
+ER  - 
+
+TY  - JOUR
+AU  - Widaa, A.
+AU  - Brennan, O.
+AU  - O'Gorman, D. M.
+AU  - O'Brien, F. J.
+TI  - The Osteogenic Potential of the Marine-Derived Multi-Mineral Formula Aquamin Is Enhanced by the Presence of Vitamin D
+JO  - Phytotherapy Research
+JA  - Phytother. Res.
+VL  - 28
+IS  - 5
+SN  - 0951-418X
+UR  - https://doi.org/10.1002/ptr.5038
+DO  - doi:10.1002/ptr.5038
+SP  - 678
+EP  - 684
+KW  - Aquamin
+KW  - Vitamin D3
+KW  - osteoblast
+KW  - bone
+KW  - osteogenesis
+KW  - nutritional supplements
+PY  - 2014
+AB  - Bone degenerative diseases are on the increase globally and are often problematic to treat. This has led to a demand to identify supplements that aid bone growth and formation. Aquamin is a natural multi-mineral food supplement, derived from the red algae Lithothamnion species which contains calcium, magnesium and 72 other trace minerals. It has been previously reported to increase bone formation and mineralisation. This study aimed to investigate the 28 day in vitro osteogenic response of Aquamin supplemented with Vitamin D. The osteogenic potential of MC3T3-E1 osteoblast-like cells was analysed in standard osteogenic medium supplemented with Aquamin +/? Vitamin D3, and the controls consisted of osteogenic medium, +/? Vitamin D3. Proliferation of osteoblasts, metabolic activity and cell viability did not differ between Aquamin and the osteogenic control groups. Alkaline phosphatase (ALP) levels and mineralisation were increased by the supplementation of Aquamin, and the addition of Vitamin D3 increased mineralisation for all groups. The combination of Aquamin and Vitamin D3 yielded a significant increase in ALP and mineralisation over Aquamin alone and the standard osteogenic control +/? Vitamin D3. This study demonstrates that Aquamin aids osteogenesis, and that its osteogenic response can be enhanced by combining Aquamin with Vitamin D3. Copyright ? 2013 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - PAVE, JOHN FRANK
+TI  - A multi-ego theory of libido-destrudo dynamics and mental illness
+JO  - British Journal of Medical Psychology
+VL  - 36
+IS  - 2
+SN  - 0007-1129
+UR  - https://doi.org/10.1111/j.2044-8341.1963.tb01279.x
+DO  - doi:10.1111/j.2044-8341.1963.tb01279.x
+SP  - 173
+EP  - 198
+PY  - 1963
+ER  - 
+
+TY  - JOUR
+AU  - Gorman, Michael E.
+AU  - Richards, Larry G.
+AU  - Scherer, William T.
+AU  - Kagiwada, Julia K.
+TI  - Teaching Invention and Design: Multi-Disciplinary Learning Modules
+JO  - Journal of Engineering Education
+VL  - 84
+IS  - 2
+SN  - 1069-4730
+UR  - https://doi.org/10.1002/j.2168-9830.1995.tb00164.x
+DO  - doi:10.1002/j.2168-9830.1995.tb00164.x
+SP  - 175
+EP  - 185
+PY  - 1995
+AB  - Abstract This paper outlines an approach to teaching invention and design that combines engineering, social sciences and humanities. We created an experimental course with a collaborative learning environment in which students from a wide range of majors worked in teams on modules, each of which lasted for several weeks and included strong written and oral components. Standard university curricula tend to compartmentalize engineering, humanities and social sciences. But real world engineering decisions defy such compartmentalization, as students discover when they take this course. Four active learning modules from the course are described in this paper: a hands-on project based on the invention of the telephone, a computer simulator to teach driving, an energy-efficient house and a medical decision support system based on a client's needs. A thorough evaluation of the course and modules is included, as are suggestions for future improvements.
+ER  - 
+
+TY  - JOUR
+AU  - Nagy, Nina E.
+AU  - Franceschi, Vincent R.
+AU  - Solheim, Halvor
+AU  - Krekling, Trygve
+AU  - Christiansen, Erik
+TI  - Wound-induced traumatic resin duct development in stems of Norway spruce (Pinaceae): anatomy and cytochemical traits
+JO  - American Journal of Botany
+JA  - Am. J. Bot.
+VL  - 87
+IS  - 3
+SN  - 0002-9122
+UR  - https://doi.org/10.2307/2656626
+DO  - doi:10.2307/2656626
+SP  - 302
+EP  - 313
+KW  - Picea abies
+KW  - Pinaceae
+KW  - plant defense
+KW  - polyphenol
+KW  - traumatic resin duct
+KW  - wound response
+PY  - 2000
+AB  - Wounding of Norway spruce by inoculation with sterile agar, or agar containing the pathogenic fungus Ceratocystis polonica, induced traumatic resin duct formation in the stem. Visible anatomical responses occurred in the cambium 6?9 d post-inoculation. Near the inoculation site cellular proliferation, polyphenolic accumulation, and lignification were induced as a wound reaction to seal the damaged area. Five centimetres from the inoculation site cells in the cambial zone swelled and divided to form clusters. By 18 d post-inoculation, these cells began to differentiate into resin duct epithelial cells surrounding incipient schizogenous lumens. Mature axial traumatic ducts appeared by 36 d as a row of ducts in the xylem centripetal to the cambium. The ducts formed an interconnected network continuous with radial resin ducts. Parenchyma cells surrounding the ducts accumulated polyphenols that disappeared as the cells differentiated into tracheids. These polyphenols appeared to contain fewer sugar residues compared to those accumulating in the secondary phloem, as indicated by the periodic acid?Schiff's staining. The epithelial cells did not accumulate polyphenols but contained immunologically detectable phenylalanine ammonia lyase (EC 4.3.1.5), indicating synthesis of phenolics as a possible resin component. These findings may represent a defense mechanism in Norway spruce against the pathogenic fungus Ceratocystis polonica.
+ER  - 
+
+TY  - JOUR
+AU  - Sauvage, Vincent R.
+AU  - Levene, Adam P.
+AU  - Nguyen, Hoa T.
+AU  - Wood, Tobias C.
+AU  - Kudo, Hiromi
+AU  - Concas, Danilo
+AU  - Thomas, Howard C.
+AU  - Thursz, Mark R.
+AU  - Goldin, Robert D.
+AU  - Anstee, Quentin M.
+AU  - Elson, Daniel S.
+TI  - Multi-excitation fluorescence spectroscopy for analysis of non-alcoholic fatty liver disease
+JO  - Lasers in Surgery and Medicine
+JA  - Lasers Surg. Med.
+VL  - 43
+IS  - 5
+SN  - 0196-8092
+UR  - https://doi.org/10.1002/lsm.21064
+DO  - doi:10.1002/lsm.21064
+SP  - 392
+EP  - 400
+KW  - autofluorescence
+KW  - endogenous fluorophores
+KW  - laser diode
+KW  - optical fibre probe
+KW  - steatosis
+KW  - steatohepatitis
+PY  - 2011
+AB  - Abstract Background and Objectives The increasing incidence of non-alcoholic fatty liver diseases (NAFLD) and the consequent progression to cirrhosis is expected to become a major cause of liver transplantation. This will exacerbate the organ donor shortage and mean that ?marginal? fatty liver grafts are more frequently used. Autofluorescence spectroscopy is a fast, objective, and non-destructive method to detect change in the endogenous fluorophores distribution and could prove to be a valuable tool for NAFLD diagnosis and transplant graft assessment. Materials and Methods A system was constructed consisting of a fibre probe with two laser diodes that provided excitation light at 375 and 405?nm, and an imaging spectrograph system. This was used to distinguish fluorescence spectra acquired from the harvested livers from mice with NAFLD of differing severity (healthy, mild steatotic and steatohepatitic). The fluorescence data were entered into a sparse multiclass probabilistic algorithm for disease classification. Histopathology, thiobarbituric acid reactive substances (TBARS) and alanine transaminase (ALT) assays were conducted in addition to the fluorescence measurements Results TBARS and ALT assays enabled differentiation of the steatohepatitic group from the mild steatosis and control groups (P?≤?0.028) but failed to separate the mild steatotic group from the control group. The three groups were all clearly differentiated from each other using fluorescence spectroscopy, and classification accuracy was found to be 95%. Conclusion Fluorescence spectroscopy appears to be a promising approach for the analysis of diseased liver tissue. Lasers Surg. Med. 43:392?400, 2011. ? 2011 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Dégeilh, Fanny
+AU  - Bernier, Annie
+AU  - Gravel, Jocelyn
+AU  - Beauchamp, Miriam H.
+TI  - Developmental trajectories of adaptive functioning following early mild traumatic brain injury
+JO  - Developmental Psychobiology
+JA  - Dev Psychobiol
+VL  - 60
+IS  - 8
+SN  - 0012-1630
+UR  - https://doi.org/10.1002/dev.21786
+DO  - doi:10.1002/dev.21786
+SP  - 1037
+EP  - 1047
+KW  - concussion
+KW  - growth curve modeling
+KW  - preschool children
+KW  - social competence
+KW  - traumatic brain injury
+PY  - 2018
+AB  - Abstract Adaptive behavior impairments have been reported in children with severe traumatic brain injury (TBI) but are not typically found following mild TBI. It is possible that mild TBI induces subtle changes in adaptive functioning that are not captured in conventional group comparisons. This study aimed to explore time course changes in adaptive functioning following early mild TBI. Parents of 63 children with mild TBI and 53 children with orthopedic injuries aged between 1.5 and 5 years at the time of injury completed the Adaptive Behavior Assessment System-II at three time points: retrospectively to assess pre-injury functioning, then at 6 and 18 months post-injury. Developmental trajectories of adaptive functioning domains (practical, conceptual, and social) reported by parents were modeled using linear mixed-model analyses. Findings suggest that mild TBI may disrupt the expected developmental progression of children's social adaptive behavior, but does not appear to alter practical and conceptual domains.
+ER  - 
+
+TY  - JOUR
+AU  - Regel, Stephen
+TI  - A guide to psychological debriefing – managing emotional decompression and post traumatic stress disorder
+JO  - Counselling and Psychotherapy Research
+JA  - Counselling and Psychotherapy Research
+VL  - 9
+IS  - 2
+SN  - 1473-3145
+UR  - https://doi.org/10.1080/14733140902750982
+DO  - doi:10.1080/14733140902750982
+SP  - 129
+EP  - 130
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+AU  - Huckans, Marilyn
+AU  - Fuller, Bret E.
+AU  - Olavarria, Hannah
+AU  - Sasaki, Anna W.
+AU  - Chang, Michael
+AU  - Flora, Kenneth D.
+AU  - Kolessar, Michael
+AU  - Kriz, Daniel
+AU  - Anderson, Jeanne R.
+AU  - Vandenbark, Arthur A.
+AU  - Loftis, Jennifer M.
+TI  - Multi-analyte profile analysis of plasma immune proteins: altered expression of peripheral immune factors is associated with neuropsychiatric symptom severity in adults with and without chronic hepatitis C virus infection
+JO  - Brain and Behavior
+JA  - Brain Behav
+VL  - 4
+IS  - 2
+SN  - 2162-3279
+UR  - https://doi.org/10.1002/brb3.200
+DO  - doi:10.1002/brb3.200
+SP  - 123
+EP  - 142
+KW  - Anxiety
+KW  - biological markers
+KW  - chronic infection
+KW  - cytokines
+KW  - depression
+KW  - fatigue
+KW  - pain
+PY  - 2014
+AB  - Abstract Background The purpose of this study was to characterize hepatitis C virus (HCV)-associated differences in the expression of 47 inflammatory factors and to evaluate the potential role of peripheral immune activation in HCV-associated neuropsychiatric symptoms?depression, anxiety, fatigue, and pain. An additional objective was to evaluate the role of immune factor dysregulation in the expression of specific neuropsychiatric symptoms to identify biomarkers that may be relevant to the treatment of these neuropsychiatric symptoms in adults with or without HCV. Methods Blood samples and neuropsychiatric symptom severity scales were collected from HCV-infected adults (HCV+, n = 39) and demographically similar noninfected controls (HCV?, n = 40). Multi-analyte profile analysis was used to evaluate plasma biomarkers. Results Compared with HCV? controls, HCV+ adults reported significantly (P < 0.050) greater depression, anxiety, fatigue, and pain, and they were more likely to present with an increased inflammatory profile as indicated by significantly higher plasma levels of 40% (19/47) of the factors assessed (21%, after correcting for multiple comparisons). Within the HCV+ group, but not within the HCV? group, an increased inflammatory profile (indicated by the number of immune factors > the LDC) significantly correlated with depression, anxiety, and pain. Within the total sample, neuropsychiatric symptom severity was significantly predicted by protein signatures consisting of 4?10 plasma immune factors; protein signatures significantly accounted for 19?40% of the variance in depression, anxiety, fatigue, and pain. Conclusions Overall, the results demonstrate that altered expression of a network of plasma immune factors contributes to neuropsychiatric symptom severity. These findings offer new biomarkers to potentially facilitate pharmacotherapeutic development and to increase our understanding of the molecular pathways associated with neuropsychiatric symptoms in adults with or without HCV.
+ER  - 
+
+TY  - JOUR
+AU  - Lee, Courtney
+AU  - Crawford, Cindy
+AU  - Teo, Lynn
+AU  - Spevak, Christopher
+AU  - Active Self-Care Therapies for Pain (PACT) Working Group
+TI  - An Analysis of the Various Chronic Pain Conditions Captured in a Systematic Review of Active Self-Care Complementary and Integrative Medicine Therapies for the Management of Chronic Pain Symptoms
+JO  - Pain Medicine
+JA  - Pain Med
+VL  - 15
+IS  - S1
+SN  - 1526-2375
+UR  - https://doi.org/10.1111/pme.12357
+DO  - doi:10.1111/pme.12357
+SP  - S96
+EP  - S103
+KW  - Self-Care
+KW  - Complementary and Integrative Medicine
+KW  - Chronic Pain
+KW  - Diagnostic Criteria
+KW  - Systematic Review
+KW  - Rapid Evidence Assessment of the Literature
+PY  - 2014
+AB  - Abstract Objectives Chronic pain management typically consists of prescription medications or provider-based, behavioral, or interventional procedures that are often ineffective, may be costly, and can be associated with undesirable side effects. Because chronic pain affects the whole person (body, mind, and spirit), patient-centered complementary and integrative medicine (CIM) therapies that acknowledge the patients' roles in their own healing processes have the potential to provide more efficient and comprehensive chronic pain management. Active self-care CIM therapies (ACT-CIM) allow for a more diverse, patient-centered treatment of complex symptoms, promote self-management, and are relatively safe and cost-effective. To date, there are no systematic reviews examining the full range of ACT-CIM used for chronic pain symptom management. Methods A systematic review was conducted, using Samueli Institute's rapid evidence assessment of the literature (REAL?) methodology, to rigorously assess both the quality of the research on ACT-CIM modalities and the evidence for their efficacy and effectiveness in treating chronic pain symptoms. A working group of subject matter experts was also convened to evaluate the overall literature pool and develop recommendations for the use and implementation of these modalities. Results Following key database searches, 146 randomized controlled trials, covering 33 different pain conditions, were included in the review. Conclusions This article categorized studies by pain condition, describing the diagnostic criteria used and modalities that seem most effective for each condition. Complexities associated with investigating chronic pain populations are also discussed. The entire scope of the review, categorized by modality rather than pain condition, is detailed throughout the current Pain Medicine supplement.
+ER  - 
+
+TY  - JOUR
+AU  - Ashley, Laura
+AU  - Armitage, Gerry
+AU  - Taylor, Julie
+TI  - Recognising and referring children exposed to domestic abuse: a multi-professional, proactive systems-based evaluation using a modified Failure Mode and Effects Analysis (FMEA)
+JO  - Health & Social Care in the Community
+JA  - Health Soc Care Community
+VL  - 25
+IS  - 2
+SN  - 0966-0410
+UR  - https://doi.org/10.1111/hsc.12359
+DO  - doi:10.1111/hsc.12359
+SP  - 690
+EP  - 699
+KW  - child protection
+KW  - child safeguarding
+KW  - domestic violence
+KW  - failure mode and effects analysis
+KW  - multidisciplinary work
+KW  - practitioner research
+PY  - 2017
+AB  - Abstract Failure Modes and Effects Analysis (FMEA) is a prospective quality assurance methodology increasingly used in healthcare, which identifies potential vulnerabilities in complex, high-risk processes and generates remedial actions. We aimed, for the first time, to apply FMEA in a social care context to evaluate the process for recognising and referring children exposed to domestic abuse within one Midlands city safeguarding area in England. A multidisciplinary, multi-agency team of 10 front-line professionals undertook the FMEA, using a modified methodology, over seven group meetings. The FMEA included mapping out the process under evaluation to identify its component steps, identifying failure modes (potential errors) and possible causes for each step and generating corrective actions. In this article, we report the output from the FMEA, including illustrative examples of the failure modes and corrective actions generated. We also present an analysis of feedback from the FMEA team and provide future recommendations for the use of FMEA in appraising social care processes and practice. Although challenging, the FMEA was unequivocally valuable for team members and generated a significant number of corrective actions locally for the safeguarding board to consider in its response to children exposed to domestic abuse.
+ER  - 
+
+TY  - JOUR
+AU  - Cho, Sunghee
+AU  - Kim, Eunhee
+TI  - CD36: A multi-modal target for acute stroke therapy
+JO  - Journal of Neurochemistry
+VL  - 109
+IS  - s1
+SN  - 0022-3042
+UR  - https://doi.org/10.1111/j.1471-4159.2009.05801.x
+DO  - doi:10.1111/j.1471-4159.2009.05801.x
+SP  - 126
+EP  - 132
+KW  - cerebral ischemia
+KW  - inflammation
+KW  - neuroprotection
+KW  - risk factor
+KW  - stroke
+PY  - 2009
+AB  - Abstract A role for CD36 in the pathogenesis of atherosclerosis, inflammation and lipid metabolism has been well-documented. However, little is known about the role of CD36 in cerebral ischemia. The intent of this review is to develop the concept that CD36, whose functions have been implicated in other pathological events, is a prototypic inflammatory receptor that contributes to the pathogenesis of cerebral ischemia. The importance of CD36 as a treatment target is indicated by the fact that many treatment strategies that are effective in experimental models of stroke exhibit little or no efficacy in clinical trials. The failure of clinical trials may be due to the use of animal models of stroke that do not reflect traditional risk factors for stroke in humans. The discussion will be focused on two risk factors, hyperlipidemia and diabetes, that modulate CD36 responses. Blocking the expression and function of CD36 by pharmacological or genetic means will provide insight not only toward identifying CD36 as a novel molecular target but also for developing effective therapeutic strategies to treat stroke victims. More importantly, coupling clinically relevant conditions with CD36-mediated ischemic injury may provide an appropriate animal model paradigm and develop a scientific understanding that could lead to clinical translational studies involving human subjects.
+ER  - 

@@ -1,0 +1,473 @@
+
+TY  - JOUR
+AU  - Prins, M. L.
+AU  - Lee, S. M.
+AU  - Fujima, L. S.
+AU  - Hovda, D. A.
+TI  - Increased cerebral uptake and oxidation of exogenous βHB improves ATP following traumatic brain injury in adult rats
+JO  - Journal of Neurochemistry
+VL  - 90
+IS  - 3
+SN  - 0022-3042
+UR  - https://doi.org/10.1111/j.1471-4159.2004.02542.x
+DO  - doi:10.1111/j.1471-4159.2004.02542.x
+SP  - 666
+EP  - 672
+KW  - alternative substrates
+KW  - β-hydroxybutyrate
+KW  - metabolism
+KW  - traumatic brain injury
+PY  - 2004
+AB  - Abstract There is growing evidence of the brain's ability to increase its reliance on alternative metabolic substrates under conditions of energy stress such as starvation, hypoxia and ischemia. We hypothesized that following traumatic brain injury (TBI), which results in immediate changes in energy metabolism, the adult brain increases uptake and oxidation of the alternative substrate ?-hydroxybutyrate (?HB). Arterio-venous differences were used to determine global cerebral uptake of ?HB and production of 14CO2 from [14C]3-?HB 3?h after controlled cortical impact (CCI) injury. Quantitative bioluminescence was used to assess regional changes in ATP concentration. As expected, adult sham and CCI animals with only endogenously available ?HB showed no significant increase in cerebral uptake of ?HB or 14CO2 production. Increasing arterial ?HB concentrations 2.9-fold with 3?h of ?HB infusion failed to increase cerebral uptake of ?HB or 14CO2 production in adult sham animals. Only CCI animals that received a 3-h ?HB infusion showed an 8.5-fold increase in cerebral uptake of ?HB and greater than 10.7-fold increase in 14CO2 production relative to sham ?HB-infused animals. The TBI-induced 20% decrease in ipsilateral cortical ATP concentration was alleviated by 3?h of ?HB infusion beginning immediately after CCI injury.
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Joseph
+AU  - Katz, Evgeny
+TI  - Digital Biosensors with Built-in Logic for Biomedical Applications
+JO  - Israel Journal of Chemistry
+JA  - Isr. J. Chem.
+VL  - 51
+IS  - 1
+SN  - 0021-2148
+UR  - https://doi.org/10.1002/ijch.201000069
+DO  - doi:10.1002/ijch.201000069
+SP  - 141
+EP  - 150
+KW  - biocomputing
+KW  - biomedical application
+KW  - biosensor
+KW  - enzyme
+KW  - injury
+KW  - logic gate
+KW  - logic network
+PY  - 2011
+AB  - Abstract This article overviews recent advances in biomedical applications of enzyme-based logic systems, particularly for the analysis of pathophysiological conditions associated with various injuries. Novel biosensors digitally processing multiple biomarker signals produce a final output in the form of YES/NO response through Boolean logic networks composed of biomolecular systems. The biocomputing approach applied to biosensors leads to high-fidelity biosensing compared to traditional single-analyte sensing devices. By processing complex patterns of multiple physiological biomarkers, such multi-signal digital biosensors should have a profound impact on the rapid diagnosis and treatment of diseases, and particularly can provide timely detection and alert of medical emergencies (along with immediate therapeutic intervention). The novel biosensing concept has been exemplified with the systems for logic analysis of various injuries, including soft tissue injury, traumatic brain injury, liver injury, abdominal trauma, hemorrhagic shock, and oxidative stress.
+ER  - 
+
+TY  - JOUR
+AU  - Richter, Monique
+AU  - Negro-Demontel, María Luciana
+AU  - Blanco-Ocampo, Daniela
+AU  - Taranto, Eliseo
+AU  - Lago, Natalia
+AU  - Peluffo, Hugo
+TI  - Thy1-YFP-H Mice and the Parallel Rod Floor Test to Evaluate Short- and Long-Term Progression of Traumatic Brain Injury
+JO  - Current Protocols in Immunology
+JA  - Current Protocols in Immunology
+VL  - 120
+IS  - 1
+SN  - 1934-3671
+UR  - https://doi.org/10.1002/cpim.42
+DO  - doi:10.1002/cpim.42
+SP  - 24.1.1
+EP  - 24.1.25
+KW  - axonal damage
+KW  - long-term
+KW  - neurological test
+KW  - TBI
+KW  - Thy1-YFP-H mice
+PY  - 2018
+AB  - Abstract Traumatic brain injury (TBI) is a leading cause of death and disability and is a risk factor for the later development of neuropsychiatric disorders and neurodegenerative diseases. Many models of TBI have been developed, but their further refinement and a more detailed long-term follow-up is needed. We have used the Thy1-YFP-H transgenic mouse line and the parallel rod floor test to produce an unbiased and robust method for the evaluation of the multiple effects of a validated model of controlled cortical injury. This approach reveals short- and long-term progressive changes, including compromised biphasic motor function up to 85 days post-lesion, which correlates with neuronal atrophy, dendrite and spine loss, and long-term axonal pathology evidenced by axon spheroids and fragmentation. Here we present methods for inducing a controlled cortical injury in the Thy1-YFP-H transgenic mouse line and for evaluating the resulting deficits in the parallel rod floor test. This technique constitutes a new, unbiased, and robust method for the evaluation of motor and behavioral alterations after TBI. ? 2018 by John Wiley & Sons, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Karakantza, M.
+AU  - Theodorou, G. L.
+AU  - Mouzaki, A.
+AU  - Theodori, E.
+AU  - Vagianos, C.
+AU  - Maniatis, A.
+TI  - In Vitro Study of the Long-Term Effects of Post-Traumatic Splenectomy on Cellular Immunity
+JO  - Scandinavian Journal of Immunology
+VL  - 59
+IS  - 2
+SN  - 0300-9475
+UR  - https://doi.org/10.1111/j.0300-9475.2004.01379.x
+DO  - doi:10.1111/j.0300-9475.2004.01379.x
+SP  - 209
+EP  - 219
+PY  - 2004
+AB  - Abstract The purpose of this study was to investigate the effect of splenectomy on cellular immunity. We studied the cellular phenotype and type 1 [interferon-?, interleukin-2 (IL-2)] and type 2 (IL-4 and IL-10) cytokine-producing peripheral blood CD4+ and CD8+ T lymphocytes in 22 healthy adults who had undergone post-traumatic splenectomy about 1 to 35 years ago. Splenectomy resulted in a long-term reduction of the percentage of CD4+CD45RA+ cells and a late increase of the percentage and absolute numbers of T-cell receptor ?/δ cells. Stimulation with Staphylococcal enterotoxin B resulted in normal IL-2 production by CD4+ T cells, indicating that the naïve cells were not anergic. Splenectomy also resulted in long-term priming of both CD4+ and CD8+ T cells. During the first 8 years, both type 1 and type 2 CD4+ T cells were primed to varying degrees. About 8 years later, the percentage of primed type 2 CD4+ T cells subsided, but that of type 1 CD4+ T cells, although decreased, remained detectable over a longer period. Priming of CD8+ T cells persisted throughout the study period. The long-term priming of type 1 CD4+ and CD8+ T cells, which may result in partial impairment of T-cell functions, may explain reported defects of immune responses to recall antigens in splenectomized individuals. In addition, changes in the profile of primed CD4+ T cells with time may be clinically relevant to relapses in autoimmune thrombocytopenia after splenectomy.
+ER  - 
+
+TY  - JOUR
+AU  - Bas, Esperanza
+AU  - Dinh, Christine T.
+AU  - Garnham, Carolyn
+AU  - Polak, Marek
+AU  - Van de Water, Thomas R.
+TI  - Conservation of hearing and protection of hair cells in cochlear implant patients' with residual hearing
+JO  - The Anatomical Record
+JA  - Anat Rec
+VL  - 295
+IS  - 11
+SN  - 1932-8486
+UR  - https://doi.org/10.1002/ar.22574
+DO  - doi:10.1002/ar.22574
+SP  - 1909
+EP  - 1927
+KW  - cochlear implantation
+KW  - trauma
+KW  - oxidative stress
+KW  - inflammation
+KW  - programmed cell death
+KW  - hearing conservation
+KW  - hair cell protection
+KW  - otoprotective drugs
+PY  - 2012
+AB  - Abstract This review covers the molecular mechanisms involved in hair cell and hearing losses which can result from trauma generated during the process of cochlear implantation and the contributions of both the intrinsic and extrinsic cell death signaling pathways in producing these trauma/inflammation induced losses. Application of soft surgical techniques to conserve hearing and protect auditory sensory cells during the process of cochlear implantation surgery and insertion of the electrode array during the process of cochlear implantation are reviewed and discussed. The role of drug therapy and mode of drug delivery for the conservation of a cochlear implant patient's residual hearing is presented and discussed. Anat Rec, 2012. ? 2012 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Voggenreiter, Gregor
+AU  - Assenmacher, Stefan
+AU  - Kreuzfelder, Ernst
+AU  - Wolf, Markus
+AU  - Kim, Mi-Ran
+AU  - Nast-Kolb, Dieter
+AU  - Schade, Fritz Ulrich
+TI  - Immunosuppression with FK506 Increases Bone Induction in Demineralized Isogeneic and Xenogeneic Bone Matrix in the Rat
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 15
+IS  - 9
+SN  - 0884-0431
+UR  - https://doi.org/10.1359/jbmr.2000.15.9.1825
+DO  - doi:10.1359/jbmr.2000.15.9.1825
+SP  - 1825
+EP  - 1834
+KW  - immunosuppression
+KW  - osteoinduction
+KW  - T lymphocytes
+KW  - bone histomorphometry
+KW  - demineralized bone matrix
+PY  - 2000
+AB  - Abstract The aim of the present study was to investigate a systemic induction of bone formation in rats by immunosuppression with FK506 (1 mg/kg body weight intraperitoneally [ip]) in a model of osteoinduction of isogeneic and xenogeneic demineralized bone matrix (DBM) for a period of 28 days. In particular, alterations of in vitro cytokine synthesis and changes of lymphocyte subsets were studied. DBM was implanted intramuscularly in the abdominal wall of Lewis rats (seven per group). Blood was sampled on days ?7, 0, 7, and 28 for determination of in vitro tumor necrosis factor α (TNF-α) synthesis and lymphocyte subsets by flow cytometry (CD3+, CD4+, CD8+, CD45+, ED9+, and Ia+ antibodies). Ossicles of de novo formed bone and the tibias were removed on day 28 after double tetracycline labeling for histomorphometric analysis. Immunosuppression with FK506 significantly decreased lipopolysaccharide (LPS)-stimulated in vitro cytokine synthesis after 7 days and 28 days (p < 0.05). Compared with control animals FK506 treatment significantly increased the volume of induced bone in isogeneic (2.1 ± 0.3 mm3 vs. 10.8 ± 0.9 mm3) and xenogeneic (0 mm3 vs. 4.7 ± 0.8 mm3) DBM. Bone histomorphometry of the tibias revealed that immunosuppression increased both bone formation and bone resorption, accompanied by a significant reduction in the relative trabecular area (Tb.Ar). FK506 caused a decrease in the counts of CD8+ T cells probably because of destruction or dislocation of these cells. This suggests that the amount of CD8+ cells and the degree of T cell activation in terms of mean fluorescence intensity (MFI) may be associated with bone metabolism. In support of this, statistical analysis revealed a significant positive correlation between parameters of bone formation as well as bone resorption and the CD4+/CD8+ ratio. There was a significant negative correlation between parameters of remodeling of the metaphysis of the tibia and induced bone volume (BV), respectively, and MFI values of CD3+/Ia+ cells. These findings suggest an important role of T lymphocytes in bone formation and bone resorption in vivo. FK506 caused a marked increase of bone formation in DBM. However, the conclusion that immunosuppression increases fracture healing warrants further investigation.
+ER  - 
+
+TY  - JOUR
+AU  - Supanc, Heidi R. H.
+AU  - Gorman, Shannon
+AU  - Tuan, Rocky S.
+C8  - TERM-15-0267.R1
+TI  - Traumatized muscle-derived multipotent progenitor cells recruit endothelial cells through vascular endothelial growth factor-A action
+JO  - Journal of Tissue Engineering and Regenerative Medicine
+JA  - J Tissue Eng Regen Med
+VL  - 11
+IS  - 11
+SN  - 1932-6254
+UR  - https://doi.org/10.1002/term.2205
+DO  - doi:10.1002/term.2205
+SP  - 3038
+EP  - 3047
+KW  - endothelial cells
+KW  - endothelial cord-formation
+KW  - chorioallantoic membrane assay
+KW  - mesenchymal stem cells
+KW  - photocrosslinked polymer
+KW  - siRNA gene silencing
+PY  - 2017
+AB  - Abstract Traumatized muscle, such as that debrided from blast injury sites, is considered a promising and convenient tissue source for multipotent progenitor cells (MPCs), a population of adult mesenchymal stem cell (MSC)-like cells. The present study aimed to assess the regenerative therapeutic potential of human traumatized muscle-derived MPCs, e.g., for injury repair in the blast-traumatized extremity, by comparing their pro-angiogenic potential in vitro and capillary recruitment activity in vivo to those of MSCs isolated from human bone marrow, a widely-used tissue source. MPCs were tested for their direct and indirect effects on human microvascular endothelial cells (ECs) in vitro. The findings reported here showed that MPC-conditioned culture medium (MPC-CM), like MSC-CM, promoted EC-cord network branching. Silent (si)RNA-mediated silencing of vascular endothelial growth factor-A (VEGF-A) expression in MPCs attenuated this effect. In a chick embryonic chorioallantoic membrane in vivo angiogenesis assay, MPCs encapsulated in photocrosslinked gelatin scaffold recruited blood vessels more efficiently than either MSCs or human foreskin fibroblasts. Together, these findings support the potential application of traumatized muscle-derived MPCs in cell-based regenerative medicine therapies as a result of their influence on EC organization. Copyright ? 2017 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Baiyee, E. E.
+AU  - Flohe, S.
+AU  - Lendemans, S.
+AU  - Bauer, S.
+AU  - Mueller, N.
+AU  - Kreuzfelder, E.
+AU  - Grosse-Wilde, H.
+TI  - Expression and function of Toll-like receptor 9 in severely injured patients prone to sepsis
+JO  - Clinical & Experimental Immunology
+VL  - 145
+IS  - 3
+SN  - 0009-9104
+UR  - https://doi.org/10.1111/j.1365-2249.2006.03160.x
+DO  - doi:10.1111/j.1365-2249.2006.03160.x
+SP  - 456
+EP  - 462
+KW  - B cells
+KW  - CpG
+KW  - sepsis
+KW  - TLR9
+KW  - trauma
+PY  - 2006
+AB  - Summary The purpose of this prospective study was to enumerate Toll-like receptor 9 (TLR9)+ cells and measure their function using synthetic oligonucleotides enriched in CG dinucleotide motifs (CpG)-induced proliferation within 48?h after trauma in severely injured patients prone to sepsis. Sixteen consecutive trauma patients with an injury severity score (ISS)?>?21 and 16 blood donors (controls) were included in this study. Using two-colour flow cytometry, TLR9 expression was detectable intracellularly and also on the surface of B lymphocytes. The surface expression of TLR9 of B lymphocytes from whole blood and peripheral blood mononuclear cells (PBMC) stimulated with CpG was significantly increased in B cells of severely injured patients prone to sepsis compared to controls. No significant differences could be observed between CpG-induced proliferation of PBMC of severely injured patients prone to sepsis and controls. As a measure of immunosuppression, human leucocyte antigen (HLA)-DR expression of monocytes of the trauma patients was significantly diminished compared with controls in PBMC and in whole blood. Immunosuppression in the early phase after trauma seems not to be associated with a disturbed sensing of bacterial DNA.
+ER  - 
+
+TY  - JOUR
+AU  - About, Imad
+TI  - Dentin–pulp regeneration: the primordial role of the microenvironment and its modification by traumatic injuries and bioactive materials
+JO  - Endodontic Topics
+JA  - Endod Topics
+VL  - 28
+IS  - 1
+SN  - 1601-1538
+UR  - https://doi.org/10.1111/etp.12038
+DO  - doi:10.1111/etp.12038
+SP  - 61
+EP  - 89
+PY  - 2013
+AB  - Understanding dentinogenesis and pulp regeneration during physiological and pathological conditions represents a real challenge in the provision of a suitable treatment that ideally leads to the induction of the pulp regenerative potential. This paper focusses on the early steps of dentin?pulp regeneration that appear to be critical after pulp capping procedures. Different models are described in this paper where the interactions between different cell types in vitro illustrate their role in maintaining pulpal homeostasis. After traumatic injuries, the cells modify the local pulpal microenvironment by secreting growth factors that orchestrate and induce the processes required for dentin?pulp regeneration. Applying dental materials onto the injured pulp modifies this local microenvironment and affects the potential for pulpal regeneration. The paper also describes the added value of developing an entire human tooth culture model for understanding these early steps and discusses the interest of its use in evaluating newly developed pulp capping materials through the example of BiodentineTM, developed as a dentin substitute. The growth factors sustained release simulating the local microenvironment is also discussed. Simulating the pulp local environment with a continuous growth factors release is also a basic requirement for establishing future pulp tissue engineering.
+ER  - 
+
+AU  - Yau, Mabel
+AU  - Sperling, Mark A.
+C7  - pp. 110-128
+TI  - Endocrine and Metabolic Emergencies in Transitional Care
+SN  - 9781119374732
+UR  - https://doi.org/10.1002/9781119374800.ch6
+DO  - doi:10.1002/9781119374800.ch6
+SP  - 110-128
+KW  - adrenal crisis
+KW  - diabetic ketoacidosis
+KW  - hyperglycemic hyperosmolar state
+KW  - hypoglycemia
+KW  - hypopituitarism
+KW  - secondary hypertension
+KW  - transitional care
+KW  - traumatic brain injury
+KW  - type 1 diabetes
+KW  - type 2 diabetes
+PY  - 2013
+AB  - Summary The transition of care for adolescents and young adults from a pediatric, family-centered model to an adult, patient-centered model marks an important milestone in the lives of patients with chronic disorders managed from a young age. The timing and tempo of transition require special consideration to physical, psychological and social changes occurring during young adulthood. Poor glycemic control is a common finding among adolescents with type 1 diabetes and places these young adults at increased risk of diabetic ketoacidosis, knowledge that should alert clinicians to carefully manage diabetes during concurrent acute illnesses. Other chronic endocrine disorders, such as primary adrenal deficiencies, congenital or autoimmune hypothyroidism and hyperthyroidism, and hypopituitarism may follow a similar model of care. In addition to continued management of existing defects, patients with disorders such as autoimmune polyglandular syndromes will require continued surveillance for manifestations of new endocrinopathies through adulthood. The onset of adrenal insufficiency with adrenoleukodystrophy, x-linked adrenal hypoplasia and triple A syndrome is variable and patients may present in adrenal crisis as the initial manifestation of adrenal insufficiency during an acute illness. Endocrine causes account for a high proportion of cases of secondary hypertension, including acute onset of hypertension due to hyperaldosteronism, pheochromocytomas, ganglioneuromas, Cushing's syndrome, and hyperthyroidism. Head trauma is common in young adults associated with risky behaviors and motor vehicle accidents. Patients with traumatic brain injuries are at risk for developing anterior and posterior pituitary defects. This chapter discusses transitional care of diabetes and chronic and evolving endocrine disorders, as well as the management, including emergency care, of endocrine disorders that commonly present in young adulthood.
+ER  - 
+
+TY  - JOUR
+AU  - Williams, David L.
+AU  - Browder, I. William
+TI  - Development of natural product (1 → 3)-β-D-glucan polymers as immune-stimulating pharmaceuticals
+JO  - Polymers for Advanced Technologies
+JA  - Polym. Adv. Technol.
+VL  - 5
+IS  - 9
+SN  - 9781119374732
+UR  - https://doi.org/10.1002/pat.1994.220050910
+DO  - doi:10.1002/pat.1994.220050910
+SP  - 529
+EP  - 534
+KW  - Glucan
+KW  - Polymer
+KW  - Natural product
+KW  - BRM
+PY  - 1994
+AB  - Abstract Glucan phosphate is a water-soluble, yeast-derived, (1 ? 3)-?-D-glucopyranose polymer that has been demonstrated to be a potent immune stimulant. Glucan phosphate administration is associated with stimulation of immunity and a concomitant increase in resistance to a variety of experimentally induced disease states. Preclinical safety evaluation indicates that glucan phosphate does not induce mortality or significant toxicity over a wide dose range. Phase I clinical data indicate that glucan phosphate will ameliorate immunosuppression, stimulate immunity, decrease susceptibility to infection and alter ultimate outcome in trauma patients following laparotomy or thoracotomy. This work reviews the development, characterization, preclinal and clinical evaluation of glucan phosphate.
+ER  - 
+
+AU  - Goldstein, Ronald E.
+AU  - White, Shane N.
+C7  - pp. 1213-1233
+TI  - Esthetic and Traumatic Emergencies
+SN  - 9781119272830
+UR  - https://doi.org/10.1002/9781119272946.ch38
+DO  - doi:10.1002/9781119272946.ch38
+SP  - 1213-1233
+KW  - avulsion
+KW  - composite restoration
+KW  - crown fracture
+KW  - dental prosthesis
+KW  - esthetic emergencies
+KW  - interim repair
+KW  - long-term preservation
+KW  - luxation injuries
+KW  - root fracture
+PY  - 1994
+AB  - Summary The majority of esthetic emergencies involve fracture of the clinical crown. Traumatic conditions such as avulsion, bony fracture, extrusive and lateral luxation, and root fracture are considered to be acute and demand immediate treatment. Subacute conditions, including intrusion, subluxation, pulpal concussion, and crown fracture with pulp exposure, necessitate treatment within 24?h. In most cases, the emergency-bonded composite restoration will be the definitive restorative treatment. In the case of an esthetic emergency shortly before a social engagement, a dislodged crown or fixed dental prosthesis can be temporarily retained through the application of a little denture adhesive. Although replacement of the prosthesis may ultimately be recommended, patients may need an immediate interim repair. The responsibility of the dentist is to facilitate the long-term preservation of the natural dentition, the supporting periodontium and bone, and the surrounding soft gingival tissues.
+ER  - 
+
+TY  - JOUR
+AU  - Lu, Wan-Jung
+AU  - Lin, Kuan-Hung
+AU  - Tseng, Mei-Fang
+AU  - Yuan, Kuo-Ching
+AU  - Huang, Hung-Chang
+AU  - Sheu, Joen-Rong
+AU  - Chen, Ray-Jade
+TI  - New therapeutic strategy of hinokitiol in haemorrhagic shock-induced liver injury
+JO  - Journal of Cellular and Molecular Medicine
+JA  - J Cell Mol Med
+VL  - 23
+IS  - 3
+SN  - 9781119272830
+UR  - https://doi.org/10.1111/jcmm.14070
+DO  - doi:10.1111/jcmm.14070
+SP  - 1723
+EP  - 1734
+KW  - Hemorrhagic shock
+KW  - hinokitiol
+KW  - liver
+KW  - resuscitation
+KW  - trauma
+PY  - 2019
+AB  - Abstract Haemorrhagic shock and resuscitation (HS/R) may cause global ischaemia-reperfusion injury, which can result in systemic inflammation, multiorgan failure (particularly liver failure) and high mortality. Hinokitiol, a bioactive tropolone-related compound, exhibits antiplatelet and anti-inflammatory activities. Targeting inflammatory responses is a potential strategy for ameliorating hepatic injury during HS/R. Whether hinokitiol prevents hepatic injury during HS/R remains unclear. In the present study, we determined the role of hinokitiol following HS/R. The in vivo assays revealed that hinokitiol markedly attenuated HS/R-induced hepatic injury. Hinokitiol could inhibited NF-?B activation and IL-6 and TNF-α upregulation in liver tissues. Moreover, hinokitiol reduced caspase-3 activation, upregulated Bax and downregulated Bcl-2. These findings suggest that hinokitiol can ameliorate liver injury following HS/R, partly through suppression of inflammation and apoptosis. Furthermore, the in vitro data revealed that hinokitiol significantly reversed hypoxia/reoxygenation (H/R)-induced cell death and apoptosis in the primary hepatocytes. Hinokitiol prevented H/R-induced caspase-3 activation, PPAR cleavage, Bax overexpression and Bcl-2 downregulation. Moreover, hinokitiol attenuated H/R-stimulated NF-?B activation and reduced the levels of IL-6 and TNF-α mRNAs, suggesting that hinokitiol can protect hepatocytes from H/R injury. Collectively, our data suggest that hinokitiol attenuates liver injury following HS/R, partly through the inhibition of NF-?B activation.
+ER  - 
+
+TY  - JOUR
+AU  - Wei, Yongzhong
+AU  - Wang, Lei
+AU  - Clark, Jonathan C. M.
+AU  - Dass, Crispin R.
+AU  - Choong, Peter F. M.
+TI  - Elevated leptin expression in a rat model of fracture and traumatic brain injury
+JO  - Journal of Pharmacy and Pharmacology
+VL  - 60
+IS  - 12
+SN  - 9781119272830
+UR  - https://doi.org/10.1211/jpp.60.12.0013
+DO  - doi:10.1211/jpp.60.12.0013
+SP  - 1667
+EP  - 1672
+PY  - 2008
+AB  - Abstract A few studies have reported a relationship between leptin induced by brain injury and healing of bone tissue. Our objective was to measure serum and callus leptin expression within the setting of fracture and traumatic brain injury (TBI). Sixty-four male Sprague-Dawley rats were randomised equally into four groups: control, TBI group, fracture group and fracture/TBI group. Rats were sacrificed at 2, 4, 8 and 12 weeks after fracture/TBI. Serum leptin was detected using radio-immunoassay, and callus formation was measured radiologically. Callus leptin was analysed with immunohistochemistry. Serum leptin was significantly increased in the fracture, TBI and combined fracture/TBI groups compared with the control group at 2 weeks (P < 0.05). Serum leptin was significantly higher in the combined fracture/TBI group than in the fracture and TBI groups at 4 and 8 weeks (P < 0.05). The percentage of leptin-positive cells in the callus and callus volume were significantly higher in the fracture/TBI group than in the fracture-only group (P < 0.001). Thus, we demonstrated elevated leptin expression within healing bone, particularly in the first 8 weeks of a rat model combining fracture and TBI. A close association exists between leptin levels and the degree of callus formation in fractures.
+ER  - 
+
+TY  - JOUR
+AU  - Qian, Li-Wu
+AU  - Fourcaudot, Andrea B.
+AU  - Yamane, Kazuyoshi
+AU  - You, Tao
+AU  - Chan, Rodney K.
+AU  - Leung, Kai P.
+TI  - Exacerbated and prolonged inflammation impairs wound healing and increases scarring
+JO  - Wound Repair and Regeneration
+JA  - Wound Rep and Reg
+VL  - 24
+IS  - 1
+SN  - 9781119272830
+UR  - https://doi.org/10.1111/wrr.12381
+DO  - doi:10.1111/wrr.12381
+SP  - 26
+EP  - 34
+PY  - 2016
+AB  - Abstract Altered inflammation in the early stage has long been assumed to affect subsequent steps of the repair process that could influence proper wound healing and remodeling. However, the lack of explicit experimental data makes the connection between dysregulated wound inflammation and poor wound healing elusive. To bridge this gap, we used the established rabbit ear hypertrophic scar model for studying the causal effect of dysregulated inflammation. We induced an exacerbated and prolonged inflammatory state in these wounds with the combination of trauma-related stimulators of pathogen-associated molecular patterns from heat-killed Pseudomonas aeruginosa and damage-associated molecular patterns from a dermal homogenate. In stimulated wounds, a heightened and lengthened inflammation was observed based on quantitative measurements of IL-6 expression, tissue polymorphonuclear leukocytes infiltration, and tissue myeloperoxidase activity. Along with the high level of inflammation, wound healing parameters (epithelial gap and others) at postoperative day 7 and 16 were significantly altered in stimulated wounds compared to unstimulated controls. By postoperative day 35, scar elevation of stimulated wounds was higher than that of control wounds (scar elevation index: 1.90 vs. 1.39, p?<?0.01). Moreover, treatment of these inflamed wounds with Indomethacin (at concentrations of 0.01, 0.1, and 0.4%) reduced scar elevation but with adverse effects of delayed wound closure and increased cartilage hypertrophy. In summary, successful establishment of this inflamed wound model provides a platform to understand these detrimental aspects of unchecked inflammation and to further test agents that can modulate local inflammation to improve wound outcomes.
+ER  - 
+
+TY  - JOUR
+AU  - Schwarzbach, E.
+AU  - Bonislawski, D.P.
+AU  - Xiong, G.
+AU  - Cohen, A.S.
+TI  - Mechanisms underlying the inability to induce area CA1 LTP in the mouse after traumatic brain injury
+JO  - Hippocampus
+JA  - Hippocampus
+VL  - 16
+IS  - 6
+SN  - 9781119272830
+UR  - https://doi.org/10.1002/hipo.20183
+DO  - doi:10.1002/hipo.20183
+SP  - 541
+EP  - 550
+KW  - NMDA receptor
+KW  - α-calmodulin kinase II (α-CaMKII)
+KW  - dendrite spine size
+KW  - cognition
+KW  - limbic function
+PY  - 2006
+AB  - Abstract Traumatic brain injury (TBI) is a significant health issue that often causes enduring cognitive deficits, in particular memory dysfunction. The hippocampus, a structure crucial in learning and memory, is frequently damaged during TBI. Since long-term potentiation (LTP) is the leading cellular model underlying learning and memory, this study was undertaken to examine how injury affects area CA1 LTP in mice using lateral fluid percussion injury (FPI). Brain slices derived from FPI animals demonstrated an inability to induce LTP in area CA1 7 days postinjury. However, area CA1 long-term depression could be induced in neurons 7 days postinjury, demonstrating that some forms of synaptic plasticity can still be elicited. Using a multidisciplined approach, potential mechanisms underlying the inability to induce and maintain area CA1 LTP were investigated. This study demonstrates that injury leads to significantly smaller N-methyl-D-aspartate potentials and glutamate-induced excitatory currents, increased dendritic spine size, and decreased expression of α-calcium calmodulin kinase II. These findings may underlie the injury-induced lack of LTP and thus, contribute to cognitive impairments often associated with TBI. Furthermore, these results provide attractive sites for potential therapeutic intervention directed toward alleviating the devastating consequences of human TBI. ? 2006 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Hindle, Paul
+AU  - Hall, Andrew C.
+AU  - Biant, Leela C
+TI  - Viability of chondrocytes seeded onto a collagen I/III membrane for matrix-induced autologous chondrocyte implantation
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+VL  - 32
+IS  - 11
+SN  - 9781119272830
+UR  - https://doi.org/10.1002/jor.22701
+DO  - doi:10.1002/jor.22701
+SP  - 1495
+EP  - 1502
+KW  - MACI
+KW  - confocal microscopy
+KW  - cell viability
+KW  - knee
+KW  - chondrocyte
+PY  - 2014
+AB  - Abstract Cell viability is crucial for effective cell-based cartilage repair. The aim of this study was to determine the effect of handling the membrane during matrix-induced autologous chondrocyte implantation surgery on the viability of implanted chondrocytes. Images were acquired under five conditions: (i) Pre-operative; (ii) Handled during surgery; (iii) Cut edge; (iv) Thumb pressure applied; (v) Heavily grasped with forceps. Live and dead cell stains were used. Images were obtained for cell counting and morphology. Mean cell density was 6.60???105 cells/cm2 (5.74?7.11???105) in specimens that did not have significant trauma decreasing significantly in specimens that had been grasped with forceps (p?<?0.001) or cut (p?=?0.004). Cell viability on delivery grade membrane was 75.1%(72.4?77.8%). This dropped to 67.4%(64.1?69.7%) after handling (p?=?0.002), 56.3%(51.5?61.6%) after being thumbed (p?<?0.001) and 28.8%(24.7?31.2%) after crushing with forceps (p?<?0.001). When cut with scissors there was a band of cell death approximately 275?µm in width where cell viability decreased to 13.7%(10.2?18.2%, p?<?0.001). Higher magnification revealed cells without the typical rounded appearance of chondrocytes. We found that confocal laser-scanning microscope (CLSM) can be used to quantify and image the fine morphology of cells on a matrix-induced autologous chondrocyte implantation (MACI) membrane. Careful handling of the membrane is essential to minimise chondrocyte death during surgery. ? 2014 Orthopaedic Research Society. Published by Wiley Periodicals, Inc. J Orthop Res 32:1495?1502, 2014.
+ER  - 
+
+TY  - JOUR
+AU  - Naohiro, Ishii
+AU  - Masashi, Fukatsu
+AU  - Yuji, Nakanishi
+TI  - 037  Experience of Use of Long Pulse Alexandrite Laser for Fresh Facial Traumatic Tattoo
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 1
+SN  - 9781119272830
+UR  - https://doi.org/10.1111/j.1067-1927.2004.abstractaz.x
+DO  - doi:10.1111/j.1067-1927.2004.abstractaz.x
+SP  - A14
+EP  - A14
+PY  - 2004
+AB  - Objectives: We devised a method of irradiating a fresh traumatic tattoo with long pulse alexandrite laser in conjunction with the use of a dynamic cooling device (DCD) to minimize the injury of the epidermal layer before the occurrence of pigmentation in the deep layer of the skin, when the wound is not completely epithelialized. Methods: A 4-year-old girl suffered a burn injury and deposition of fuel residues in a diameter of 5?cm on the left cheek by backfire of a motorcycle muffler. The patient was treated with an ointment at a hospital for about 10 days, and then referred to our hospital. On initial visit, removal of foreign bodies was attempted by brushing but with little success. Accordingly, long pulse alexandrite laser treatment was performed four times in total at intervals of about one week. On the initial irradiation DCD was not used, but was used on all subsequent treatments thereafter for the protection of the epidermal layer. Results: Since remarkable pigment reduction was observed after the laser irradiation, the treatment was stopped. Follow-up was performed while the lesion was shielded from light. Conclusion: Since the long pulse alexandrite laser with the DCD conveniently enables continuous irradiation of pigments in a short time while minimizing damage to the epidermis, its therapeutic effect can be expected. However, great care is needed during the treatment to prevent scarring.
+ER  - 
+
+AU  - Latifi, Rifat
+AU  - Con, Jorge
+C7  - pp. 177-188
+TI  - Nutrition Support in Critically Ill Patients
+SN  - 9781119317920
+UR  - https://doi.org/10.1002/9781119317913.ch19
+DO  - doi:10.1002/9781119317913.ch19
+SP  - 177-188
+KW  - albumin
+KW  - biologic factor
+KW  - clinical factor
+KW  - critically ill patients
+KW  - nutrition support
+KW  - surgical interventions
+KW  - total parenteral nutrition
+KW  - transferrin
+PY  - 2004
+AB  - Summary This is a unique question-and-answer chapter for surgical residents and trainees, concentrating on the nutrition support in critically ill patients. The negative acute phase proteins are albumin and transferrin. Their serum concentrations fall immediately after the injury, in proportion to its severity. They are used to monitor the nutritional status of acutely ill patients. Areas of intense clinical investigation in which total parenteral nutrition (TPN) may eventually be shown to be of great value are cancer patients in general, sepsis and trauma, and general perioperative support to prevent or correct malnutrition. Although protein restriction was historically used to reduce risk from hepatic encephalopathy, such a strategy may worsen nutrition status, decrease lean muscle mass, and ironically lead to less ammonia removal. Many interacting biologic and clinical factors are responsible for the development of malnutrition in critically ill and injured hospitalized patients and also the hypercatabolic states associated with trauma, sepsis, cancer, and surgical interventions.
+ER  - 
+
+TY  - JOUR
+AU  - Uynuk-Ool, Tatiana
+AU  - Rothdiener, Miriam
+AU  - Walters, Brandan
+AU  - Hegemann, Miriam
+AU  - Palm, Julian
+AU  - Nguyen, Phong
+AU  - Seeger, Tanja
+AU  - Stöckle, Ulrich
+AU  - Stegemann, Jan P.
+AU  - Aicher, Wilhelm K.
+AU  - Kurz, Bodo
+AU  - Hart, Melanie L.
+AU  - Klein, Gerd
+AU  - Rolauffs, Bernd
+C8  - TERM-15-0453.R1
+TI  - The geometrical shape of mesenchymal stromal cells measured by quantitative shape descriptors is determined by the stiffness of the biomaterial and by cyclic tensile forces
+JO  - Journal of Tissue Engineering and Regenerative Medicine
+JA  - J Tissue Eng Regen Med
+VL  - 11
+IS  - 12
+SN  - 9781119317920
+UR  - https://doi.org/10.1002/term.2263
+DO  - doi:10.1002/term.2263
+SP  - 3508
+EP  - 3522
+KW  - mesenchymal stromal cell
+KW  - MSC
+KW  - shape
+KW  - shape descriptor
+KW  - compacted collagen
+KW  - cyclic stretch
+KW  - roundness
+KW  - aspect ratio
+KW  - circularity
+KW  - solidity
+KW  - nanoscale stiffness
+KW  - myogenic differentiation
+KW  - biomaterial
+KW  - silicone
+PY  - 2017
+AB  - Abstract Controlling mesenchymal stromal cell (MSC) shape is a novel method for investigating and directing MSC behaviour in vitro. it was hypothesized that specifigc MSC shapes can be generated by using stiffness-defined biomaterial surfaces and by applying cyclic tensile forces. Biomaterials used were thin and thick silicone sheets, fibronectin coating, and compacted collagen type I sheets. The MSC morphology was quantified by shape descriptors describing dimensions and membrane protrusions. Nanoscale stiffness was measured by atomic force microscopy and the expression of smooth muscle cell (SMC) marker genes (ACTA2, TAGLN, CNN1) by quantitative reverse-transcription polymerase chain reaction. Cyclic stretch was applied with 2.5% or 5% amplitudes. Attachment to biomaterials with a higher stiffness yielded more elongated MSCs with fewer membrane protrusions compared with biomaterials with a lower stiffness. For cyclic stretch, compacted collagen sheets were selected, which were associated with the most elongated MSC shape across all investigated biomaterials. As expected, cyclic stretch elongated MSCs during stretch. One hour after cessation of stretch, however, MSC shape was rounder again, suggesting loss of stretch-induced shape. Different shape descriptor values obtained by different stretch regimes correlated significantly with the expression levels of SMC marker genes. Values of approximately 0.4 for roundness and 3.4 for aspect ratio were critical for the highest expression levels of ACTA2 and CNN1. Thus, specific shape descriptor values, which can be generated using biomaterial-associated stiffness and tensile forces, can serve as a template for the induction of specific gene expression levels in MSC. Copyright ? 2017 John Wiley & Sons, Ltd.
+ER  - 

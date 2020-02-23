@@ -1,0 +1,365 @@
+
+TY  - JOUR
+TI  - Short Papers
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 103
+IS  - S6
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.10265
+DO  - doi:10.1002/bjs.10265
+SP  - 11
+EP  - 103
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - SARS abstracts
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 105
+IS  - S1
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.10847
+DO  - doi:10.1002/bjs.10847
+SP  - 7
+EP  - 46
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Tartey, Sarang
+AU  - Kanneganti, Thirumala-Devi
+TI  - Inflammasomes in the pathophysiology of autoinflammatory syndromes
+JO  - Journal of Leukocyte Biology
+JA  - J Leukoc Biol
+VL  - n/a
+IS  - n/a
+SN  - 0741-5400
+UR  - https://doi.org/10.1002/JLB.3MIR0919-191R
+DO  - doi:10.1002/JLB.3MIR0919-191R
+KW  - autoinflammatory syndrome
+KW  - inflammasome
+KW  - inflammation
+KW  - intracellular sensors
+AB  - Abstract Inflammasomes are a specialized group of intracellular sensors that are key components of the host innate immune system. Autoinflammatory diseases are disorders of the innate immune system that are characterized by recurrent inflammation and serious complications. Dysregulation of the inflammasome is associated with the onset and progression of several autoinflammatory and autoimmune diseases, including cryopyrin-associated periodic fever syndrome, familial Mediterranean fever, rheumatoid arthritis, and systemic lupus erythematosus. In this review, we discuss the involvement of various inflammasome components in the regulation of autoinflammatory disorders and describe the manifestations of these autoinflammatory diseases caused by inflammasome activation.
+ER  - 
+
+TY  - JOUR
+AU  - BRIGGS, C.
+TI  - Quality counts: new parameters in blood cell counting
+JO  - International Journal of Laboratory Hematology
+VL  - 31
+IS  - 3
+SN  - 1751-5521
+UR  - https://doi.org/10.1111/j.1751-553X.2009.01160.x
+DO  - doi:10.1111/j.1751-553X.2009.01160.x
+SP  - 277
+EP  - 297
+KW  - Blood cell analysers
+KW  - External Quality Assessment
+KW  - nucleated red blood cells
+KW  - immature granulocytes
+KW  - functional iron deficiency
+PY  - 2009
+AB  - Summary Recently several parameters have been introduced to the complete blood count such as nucleated red blood cells, immature granulocytes; immature reticulocyte fraction, immature platelet fraction and red cell fragments as well as new parameters for detection of functional iron deficiency. Leucocyte positional parameters, which may diagnose specific diseases (e.g. differentiate between abnormal lymphocytes in leukaemia and viral conditions and may also detect malarial infection) are now available. At this time they are only used for research; however, generally such parameters later become reportable. One manufacturer?s routine analyser allows measurement of cells by flow cytometry using monoclonal antibodies. Currently, there are no accredited external quality assessment schemes (EQAS) for these parameters. For a number of parameters, on some instruments, there is no internal quality control, which brings into question whether these parameters should be used for clinical decision making. Other more established parameters, such as mean platelet volume, red cell distribution width and the erythrocyte sedimentation rate do not have EQAS available. The UK National EQAS for General Haematology held a workshop earlier this year in 2008 to discuss these parameters. Participants were asked to provide a consensus opinion on which parameters are the most important for inclusion in future haematology EQAS.
+ER  - 
+
+AU  - Gandhi, Nilay M.
+AU  - Bertrand, Laura A.
+AU  - Lamm, Donald L.
+AU  - O'Donnell, Michael A.
+C7  - pp. 76-88
+TI  - Intravesical immunotherapy
+SN  - 9781118674840
+UR  - https://doi.org/10.1002/9781118674826.ch7
+DO  - doi:10.1002/9781118674826.ch7
+SP  - 76-88
+KW  - bacillus Calmette-Guérin (BCG)
+KW  - non-muscle-invasive bladder cancer (NMIBC)
+KW  - superficial bladder cancer
+KW  - high-grade bladder cancer
+KW  - intravesical immunotherapy
+KW  - BCG maintenance
+KW  - Interferon-α
+KW  - BCG toxicity
+PY  - 2009
+AB  - Summary This chapter describes the emergence of bacillus Calmette-Guérin (BCG) immunotherapy as a treatment for high-grade, non-muscle-invasive bladder cancer. Comparisons with various intravesical chemotherapeutic regimens have consistently demonstrated BCG complete response rates of 55?65% for papillary Ta or T1 tumors and 70?75% for carcinoma in situ (CIS). The innate immune system is utilized by BCG, specifically the T-helper (Th)-1 cytokine pathway. The results of large, randomized trials have confirmed the importance of three-week BCG maintenance in intermediate- and high-risk patients and suggest that the use of BCG may improve both cancer-specific survival and progression-free survival. Patients may be refractory or resistant to treatment, or experience intolerance due to side effects; therefore, newer treatments involving other cytokines are being developed and utilized.
+ER  - 
+
+TY  - JOUR
+TI  - Short Papers
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 106
+IS  - S5
+SN  - 9781118674840
+UR  - https://doi.org/10.1002/bjs.11340
+DO  - doi:10.1002/bjs.11340
+SP  - 11
+EP  - 47
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+AU  - Curran, T.-I.
+AU  - Cronin, O.
+AU  - Coffey, F. T.
+AU  - Keohane, D. M.
+AU  - McCarthy, Y.
+AU  - Dahly, D. L.
+AU  - Molloy, M. G.
+AU  - Falvey, E. C.
+TI  - Physiological adaptations in ultra-endurance athletes during a 5-day multisport Adventure Race: An assessment of serological and inflammatory cytokine profiles
+JO  - Translational Sports Medicine
+JA  - Transl Sports Med
+VL  - 1
+IS  - 3
+SN  - 9781118674840
+UR  - https://doi.org/10.1002/tsm2.25
+DO  - doi:10.1002/tsm2.25
+SP  - 120
+EP  - 131
+KW  - adventure racing
+KW  - endurance exercise
+KW  - sports medicine
+PY  - 2018
+AB  - Multiday endurance sports expose athletes to multiple physical stressors. Little is known about the athletes? physiological responses to these stressors. A detailed understanding of the serological changes that occur during competition may improve the treatment of athletes suffering from illness or injury. This prospective, observational study aimed to characterize serological changes in AR athletes across multiday competition. Athletes underwent venipuncture at the start, midpoint, and end of a 5-day, multidiscipline event. A variety of serological and inflammatory factors was measured and then analyzed to describe their changes over the course of the race. A total of 27 AR athletes (29.6% female, 70.4% male) met inclusion criteria out of 33 recruited initially. The mean age was 37.7 (IQR 32.5, 41). The median race time for athletes was 133 hours (IQR 123, 142). Serum creatinine, sodium, and potassium tended to remain stable as the race progressed. Conversely, serological measures, including hemoglobin, interleukin-6, and C-reactive protein levels, tended to change substantially during the race. Participants demonstrated the ability to maintain homeostasis, despite significant physiological threat. Renal function, electrolyte balance, and hormonal profiles were stable. However, a pro-inflammatory response and decrease in red cell availability were evident by the midpoint of the race.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Journal of Thrombosis and Haemostasis
+JA  - J Thromb Haemost
+VL  - 13
+IS  - S2
+SN  - 9781118674840
+UR  - https://doi.org/10.1111/jth.12993
+DO  - doi:10.1111/jth.12993
+SP  - 1
+EP  - 997
+PY  - 2015
+ER  - 
+
+AU  - Beingessner, Rachel L.
+AU  - Alsbaiee, Alaaeddin
+AU  - Singh, Baljit
+AU  - Webster, Thomas J.
+AU  - Fenniri, Hicham
+C7  - pp. 313-357
+TI  - Bioactive Rosette Nanotubes for Bone Tissue Engineering and Drug Delivery
+SN  - 9781119953739
+UR  - https://doi.org/10.1002/9781118592403.ch12
+DO  - doi:10.1002/9781118592403.ch12
+SP  - 313-357
+KW  - rosette nanotubes
+KW  - guanine-cytosine motif
+KW  - self-assembly
+KW  - bioactive peptides
+KW  - bone tissue engineering
+KW  - titanium implant materials
+KW  - osteoblast
+KW  - hydrogels
+KW  - drug delivery
+PY  - 2015
+AB  - Summary This chapter describes novel bio-inspired nanotubular architectures called rosette nanotubes (RNTs), which are self-assembled in water from a guanine?cytosine (the G?C motif) hybrid molecule. In the first part of the chapter, the design, synthesis and chemical functionalization of RNTs with amino acid residues, peptides and other organic and inorganic moieties are highlighted. Their stability and physical properties are next examined, followed by in vivo and in vitro toxicity and biocompatibility studies. Finally, RNT applications in bone tissue engineering and in drug delivery are described. In the case of the former, this includes RNTs as 2D coatings on Ti implant materials, as well as their incorporation within currently used pHEMA hydrogels for enhanced bone cell adhesion and growth.
+ER  - 
+
+TY  - JOUR
+TI  - E-Posters
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 102
+IS  - S7
+SN  - 9781119953739
+UR  - https://doi.org/10.1002/bjs.9941
+DO  - doi:10.1002/bjs.9941
+SP  - 88
+EP  - 177
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - SSI 2017 44th Annual Meeting of the Scandinavian Society of Immunology Stockholm, Sweden 17–20 October 2017
+JO  - Scandinavian Journal of Immunology
+JA  - Scand J Immunol
+VL  - 86
+IS  - 4
+SN  - 9781119953739
+UR  - https://doi.org/10.1111/sji.12587
+DO  - doi:10.1111/sji.12587
+SP  - 249
+EP  - 350
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+AU  - Huynh, H.Q.
+AU  - Campbell, M.A.F.
+AU  - Couper, R.T.L.
+AU  - Tran, C.D.
+AU  - Lawrence, A.
+AU  - Butler, R.N.
+TI  - Lactoferrin and desferrioxamine are ineffective in the treatment of Helicobacter pylori infection and may enhance H. pylori growth and gastric inflammation in mice
+JO  - Letters in Applied Microbiology
+VL  - 48
+IS  - 5
+SN  - 9781119953739
+UR  - https://doi.org/10.1111/j.1472-765X.2009.02557.x
+DO  - doi:10.1111/j.1472-765X.2009.02557.x
+SP  - 517
+EP  - 522
+KW  - desferrioxamine
+KW  - Helicobacter pylori infection
+KW  - iron chelating agent
+KW  - lactoferrin
+KW  - mice
+KW  - MPO
+PY  - 2009
+AB  - Abstract Aims:? To evaluate the efficacy of bovine lactoferrin (BLf), recombinant human lactoferrin (rHLf) and desferrioxamine against Helicobacter pylori in vitro and in mice and also to determine whether BLf or rHLf alter gastric inflammation. Methods and Results:? In vitro: Broth dilution susceptibility tests were performed using different concentrations of desferrioxamine, BLf and rHLf. Murine trials: In the prevention trial, C57BL/6 female mice were treated with BLf or rHLF, and then infected with the SS1 strain of H. pylori. In the treatment trial, mice were gavaged with either BLf, rHLf or desferrioxamine. In addition, gastric myeloperoxidase activity (MPO) was measured to assess gastric inflammation. Desferoxamine was found to have a direct bactericidal effect, while BLf and rHLf only partially suppressed H. pylori growth in vitro. However, in both prevention and treatment trials all three forms of treatment failed to reduce H. pylori load in mice. Gastric MPO activity and H. pylori load were noted to be higher with lactoferrin treatments. Conclusions:? Our study does not support the use of BLf or rHLF in the treatment of human H. pylori infection. Interestingly, H. pylori growth and gastric inflammation appear to be enhanced by lactoferrin treatment. Significance and Impact of the Study:? The mouse model is ideal for testing novel H. pylori eradicating agents.
+ER  - 
+
+AU  - Hendrick, Mattie J.
+C7  - pp. 142-175
+TI  - Mesenchymal Tumors of the Skin and Soft Tissues
+SN  - 9780813821795
+UR  - https://doi.org/10.1002/9781119181200.ch5
+DO  - doi:10.1002/9781119181200.ch5
+SP  - 142-175
+KW  - domestic animals
+KW  - hemangiosarcoma
+KW  - leiomyomas
+KW  - liposarcomas
+KW  - mesenchymal tumors
+KW  - myxomas
+KW  - round cell tumors
+KW  - skin tumors
+KW  - soft tissue sarcomas
+KW  - tumor-like lesions
+PY  - 2009
+AB  - Summary Mesenchymal tumors include those tumors arising from the supporting mesenchymal tissues of the dermis and subcutis (fibrous connective tissue, blood vessels, lymphatics, nerves, adipose tissue, and smooth muscle) and those round cell tumors of mesenchymal origin that present as cutaneous masses. The tumors have been classified using the revised International Histological Classification of Skin Tumors and Tumor-like Lesions of Domestic Animals. Myxomas/myxosarcomas are rare, occurring in middle-aged or older dogs and cats. Leiomyomas are rare in the skin and soft tissue. Liposarcomas are the most common soft tissue sarcomas in humans; they occur in all domestic species but are rare. Hemangiomas can occur in very young horses, usually on the distal limbs. Hemangiosarcoma most commonly presents as a multicentric disease involving the spleen, liver, lungs, and right auricle of dogs, especially the German shepherd and golden retriever breeds.
+ER  - 
+
+TY  - JOUR
+AU  - Pierre, Joseph F.
+AU  - Heneghan, Aaron F.
+AU  - Lawson, Christy M.
+AU  - Wischmeyer, Paul E.
+AU  - Kozar, Rosemary A.
+AU  - Kudsk, Kenneth A.
+TI  - Pharmaconutrition Review
+JO  - Journal of Parenteral and Enteral Nutrition
+JA  - Journal of Parenteral and Enteral Nutrition
+VL  - 37
+IS  - 5S
+SN  - 9780813821795
+UR  - https://doi.org/10.1177/0148607113493326
+DO  - doi:10.1177/0148607113493326
+SP  - 51S
+EP  - 65S
+KW  - immunonutrition
+KW  - pharmaconutrition
+KW  - immune modulation
+KW  - nutrition therapy
+PY  - 2013
+AB  - The search to improve outcomes in critically ill patients through nutrition support has steadily progressed over the past 4 decades. One current approach to this problem is the addition of specific nutrients as primary therapy to improve host defenses and improve the outcome of critically ill patients. The field is referred to as ?pharmaconutrition,? with the hope of focusing investigations on each nutrient to understand its pharmacological effects on immune and clinical outcomes. The purpose of this review is to describe some of the known physiological mechanisms of pharmaconutrients such as glutamine, arginine, ?-3 fatty acids, and selenium.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Vox Sanguinis
+VL  - 97
+IS  - s1
+SN  - 9780813821795
+UR  - https://doi.org/10.1111/j.1423-0410.2009.01261.x
+DO  - doi:10.1111/j.1423-0410.2009.01261.x
+SP  - 1
+EP  - 179
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+TI  - Podium Presentations
+JO  - BJU International
+JA  - BJU Int
+VL  - 119
+IS  - S2
+SN  - 9780813821795
+UR  - https://doi.org/10.1111/bju.13751
+DO  - doi:10.1111/bju.13751
+SP  - 43
+EP  - 81
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+AU  - Lemarchant, Sighild
+AU  - Dunghana, Hiramani
+AU  - Pomeshchik, Yuriy
+AU  - Leinonen, Henri
+AU  - Kolosowska, Natalia
+AU  - Korhonen, Paula
+AU  - Kanninen, Katja M.
+AU  - García-Berrocoso, Teresa
+AU  - Montaner, Joan
+AU  - Malm, Tarja
+AU  - Koistinaho, Jari
+TI  - Anti-inflammatory effects of ADAMTS-4 in a mouse model of ischemic stroke
+JO  - Glia
+JA  - Glia
+VL  - 64
+IS  - 9
+SN  - 9780813821795
+UR  - https://doi.org/10.1002/glia.23017
+DO  - doi:10.1002/glia.23017
+SP  - 1492
+EP  - 1507
+KW  - ADAMTS-4
+KW  - stroke
+KW  - microglia
+KW  - astrocyte
+KW  - neuroinflammation
+PY  - 2016
+AB  - ADAMTS-4 (a disintegrin and metalloproteinase with thrombospondin motifs type 4) is a metalloprotease capable to degrade chondroitin sulfate proteoglycans leading to cartilage destruction during arthritis or to neuroplasticity during spinal cord injury (SCI). Although ADAMTS-4 is an inflammatory-regulated enzyme, its role during inflammation has never been investigated. The aim of this study was to investigate the role of ADAMTS-4 in neuroinflammation. First, we evidenced an increase of ADAMTS-4 expression in the ischemic brain hemisphere of mouse and human patients suffering from ischemic stroke. Then, we described that ADAMTS-4 has predominantly an anti-inflammatory effect in the CNS. Treatment of primary microglia or astrocyte cultures with low doses of a human recombinant ADAMTS-4 prior to LPS exposure decreased NO production and the synthesis/release of pro-inflammatory cytokines including NOS2, CCL2, TNF-α, IL-1? and MMP-9. Accordingly, when cell cultures were transfected with silencing siRNA targeting ADAMTS-4 prior to LPS exposure, the production of NO and the synthesis/release of pro-inflammatory cytokines were increased. Finally, the feasibility of ADAMTS-4 to modulate neuroinflammation was investigated in vivo after permanent middle cerebral artery occlusion in mice. Although ADAMTS-4 treatment did not influence the lesion volume, it decreased astrogliosis and macrophage infiltration, and increased the number of microglia expressing arginase-1, a marker of alternatively activated cells with inflammation inhibiting functions. Additionally, ADAMTS-4 increased the production of IL-10 and IL-6 in the peri-ischemic area. By having anti-inflammatory and neuroregenerative roles, ADAMTS-4 may represent an interesting target to treat acute CNS injuries, such as ischemic stroke, SCI or traumatic brain injury. GLIA 2016;64:1492?1507
+ER  - 
+
+TY  - JOUR
+TI  - Proceedings of the 214th Meeting of the Netherlands, Society of Dermatologists, Utrecht, 28 October 1978
+JO  - British Journal of Dermatology
+VL  - 101
+IS  - 2
+SN  - 9780813821795
+UR  - https://doi.org/10.1111/j.1365-2133.1979.tb05610.x
+DO  - doi:10.1111/j.1365-2133.1979.tb05610.x
+SP  - 219
+EP  - 234
+PY  - 1979
+ER  - 
+
+TY  - JOUR
+TI  - Oral Abstracts
+JO  - Vox Sanguinis
+JA  - Vox Sang
+VL  - 105
+IS  - s2
+SN  - 9780813821795
+UR  - https://doi.org/10.1111/vox.12100_1
+DO  - doi:10.1111/vox.12100_1
+SP  - 1
+EP  - 42
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - Program and Abstracts of the 23rd NATIONAL MEETING OF THE RETICULOENDOTHELIAL SOCIETY
+JO  - Journal of Leukocyte Biology
+JA  - J Leukoc Biol
+VL  - 40
+IS  - 3
+SN  - 9780813821795
+UR  - https://doi.org/10.1002/jlb.40.3.221
+DO  - doi:10.1002/jlb.40.3.221
+SP  - 221
+EP  - 332
+PY  - 1986
+ER  - 

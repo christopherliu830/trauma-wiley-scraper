@@ -1,0 +1,386 @@
+
+TY  - JOUR
+AU  - Gür, E
+AU  - Onmaz, AC
+AU  - Steinborn, R
+AU  - van den Hoven, R
+TI  - A Pilot Study on Genetic Speed Markers in Turkish Thoroughbreds
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_102
+DO  - doi:10.1111/evj.12267_102
+SP  - 34
+EP  - 34
+PY  - 2014
+AB  - Introduction The 227-bp SINE insertion in the promoter region of the MSTN gene, the intronic single nucleotide polymorphism (SNP) of MSTN, g.66493737C>T, and the SNPs BIEC2-417274 and BIEC2-417495 located upstream and downstream of MSTN seem appropriate QTL markers for racing performance of elite Thoroughbreds. This pilot study aimed to find if these markers of racing ability can be used to optimize the management of the racing careers of Turkish Thoroughbreds. Methods Hair roots were used for DNA extraction. The promoter insertion was analysed by agarose gel electrophoresis of the PCR product. The SNPs were typed by the amplification refractory mutation system-real-time PCR. Best racing distance was defined as the distance of the races in which the horse obtained the best results. Results were semi quantified by a point score based on wining and places. Results BIEC2-417274, BIEC2-417495 SNP variants and the 227-bp SINE were strongly associated with g.66493737C>T. For the latter, the genotype frequencies were: C/C 0.23, C/T 0.52 and T/T 0.25. In total 39% of the Turkish races are distances >1600?m. Analysis of the racing career showed that both the sprinters (C/C) and the medium distance horse (C/T) were not entered optimally in races that fit with their genetic ability. Conclusions Turkish race programing should create more opportunities for the g.66493737 C/T genotypes to show their ability. This implies that more 1700 to 2800?m races should be scheduled in the racing calendar. Ethical Animal Research Owner informed consent was obtained. Sources of funding:?Jockey Club of Turkey. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Herdan, C
+AU  - McGivney, B
+AU  - Gough, K
+AU  - Hill, E
+AU  - Katz, L
+TI  - A Single Nucleotide Polymorphism (BIEC2-808543) on Eca3 Is Associated with Recurrent Laryngeal Neuropathy Independent of Height in Thoroughbred Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_103
+DO  - doi:10.1111/evj.12267_103
+SP  - 34
+EP  - 34
+PY  - 2014
+AB  - Introduction Recurrent laryngeal neuropathy (RLN) is considered height-linked in Thoroughbreds. A SNP (BIEC2-808543) proximal to the LCORL/NCAPG gene significantly influences height variation in horses. It has been suggested that the C-allele of this SNP is associated with RLN risk. Our objective was to investigate the association between the BIEC2-808543 C-allele, RLN and height in a cohort of Thoroughbreds. Methods Resting and exercising upper respiratory tract endoscopic videos, laryngeal ultrasonograms, wither height, age and sex were recorded in 79 Thoroughbreds (age 34?±?11 months). The Havemeyer grading scale was used to characterise RLN cases (Grade B or C at exercise) and controls (Grade 1.1 or 2.1 at rest, Grade A at exercise, normal laryngeal ultrasound). All horses were genotyped for the BIEC2-808543 SNP using a custom TaqMan SNP Genotyping assay. Logistic regression was performed measuring additive effects of allele dosage with sex, age and height as covariates (P≤0.05). Horses were subcategorised into tall (T,≥162?cm) and short (S,<162?cm) groups for C-allele frequency determination, with data presented as mean?±?SD. Results There were 16 RLN cases (height 164.5?±?4?cm) and 32 controls (height 156.2?±?4?cm). With sex and age as covariates, a significant association between the C-allele and RLN cases was observed (P?=?0.01). With height included as a covariate, a strong trend of association between the C-allele and RLN remained (P?=?0.06). C-allele frequency was 41.7% for the T-RLN group (n?=?12, height 166.2?±?3?cm), 12.5% for the S-RLN group (n?=?4, height 159.5?±?2?cm), 13% for the T-Control group (n?=?16, height 165.1?±?2?cm) and 14% for the S-Control group (n?=?16, height 156.2?±?4?cm). Conclusions The association between the BIEC-808543 C-allele and RLN appears to be independent of height. Ethical Animal Research Institutional Animal Research Ethics Committee approval was obtained. Explicit owner informed consent for participation in this study is not stated. Sources of funding:?Science Foundation Ireland under Grant Number 11/PI/1166. Competing interests:?Dr Hill is a co-founder and Chairman of Equinome Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Proudman, C
+AU  - Darby, A
+AU  - Escalona, E
+TI  - Faecal Microbiome of the Thoroughbred Racehorse and Its Response to Dietary Amylase Supplementation
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_107
+DO  - doi:10.1111/evj.12267_107
+SP  - 35
+EP  - 35
+PY  - 2014
+AB  - Introduction The horse has evolved to survive on a low-energy, high-fibre diet. The addition of starch, in the form of cereals, to the diet of racehorses to satisfy the high energy demands of extreme exercise has been identified as a risk factor for intestinal dysfunction. In this study we use 454 pyrosequencing of 16S rRNA genes to characterize the gut microbiome of 8 Thoroughbred (Tb) racehorses and study the response to dietary supplementation. Methods Faecal samples were collected from 8 Tb racehorses in training. A second sample was collected from all horses six weeks after commencement of twice daily dietary supplementation with an amylase-rich malt extract, designed to enhance pre-caecal digestion. Amplicons for the V1-V3 region of the 16S rDNA gene were multiplexed and sequenced on the 454 resulting in ?25,000 reads per sample. Differences in bacterial community structure were detected by linear discriminant analysis. Results Communities were composed of an equal balance between Bacteroidetes and Firmicutes with a ?5% contribution from other bacterial phyla. The number of observed operational taxonomic units sharing ≥97% nucleotide sequence in our racehorse population was 6000?8000. Horses showed no significant change in the number of OTUs observed after diet supplementation, but significant changes in the relative abundance of both Bacteroidetes and Firmicutes families were observed. Conclusions We demonstrated a highly diverse and complex faecal microbial community in Tb racehorses in the UK. Inter-horse variability is low amongst horses in the same training yard. We identified significant shifts in community profile following dietary supplementation and speculate that these may enhance intestinal health. Ethical Animal Research This study was conducted under the University of Liverpool research ethics approval: RETH000363. The informed consent of the trainer was obtained and all samples were obtained non-invasively. Sources of funding:?private donation. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Almeida, MML
+AU  - Queiroz-Neto, A
+AU  - Costa, M
+AU  - Ferraz, GC
+AU  - Lemos, MEG
+TI  - Effect of Acute Exercise and Aerobic Conditioning on the Faecal pH of Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_12
+DO  - doi:10.1111/evj.12267_12
+SP  - 4
+EP  - 5
+PY  - 2014
+AB  - Introduction Repeated monitoring of faecal pH may be useful in detecting the effects of exercise and conditioning on the fermentative activity within the large intestine. This study investigated the effect of a maximal incremental exercise test (MIET) and aerobic conditioning on the faecal pH of untrained horses. Methods Fourteen equines were randomly divided into two experimental groups. The control group consisted of 7 horses that remained untrained. The second group underwent physical training (n?=?7). The trained equines underwent two MIETs, once before and once after exercise conditioning. The conditioning period lasted 6 weeks and consisted of 3 weekly sessions of exercising on a treadmill at 70% of lactate threshold. All horses were fed the same diet. To evaluate the effect of exercise on faecal pH, stool samples were collected before and 48?h after the MIETs (before and after training) for determination of fecal pH. To determine chronic effects, weekly stool sampling was performed at 0 (immediately before), 7, 14, 21, 28, 35 and 42 days of training. One-way repeated measures ANOVA followed by Dunnett's test, the paired t-test (MIET) and the unpaired t-test were performed for comparisons between the groups at the different times. Results Faecal pH decreased from day 28 in the trained horse group compared to controls. pH values were 7.57?±?0.10 and 7.27?±?0.24 (before) and 7.97?±?0.14 and 6.75?±?0.15 (after) for the control and trained groups respectively. There was no change in faecal pH after the MIET. Conclusions It appears that physical conditioning reduced faecal pH of horses. Ethical Animal Research The Ethical Principles in Animal Experimentation adopted by the Brazilian College of Animal Experimentation was approved by the institutional animal care and use committee of the university (CEUA, Process: 016842/13). Sources of funding:?FAPESP - Fundaç?o de Amparo à Pesquisa do Estado de S?o Paulo (Process 2013/14703-3). Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Godoi, FN
+AU  - Bergmann, JA
+AU  - Almeida, FQ
+AU  - Toral, FL
+AU  - Miranda, AL
+TI  - Probability of Jumping Success of Young Brazilian Sport Horses Assessed Via Kinematic Analysis
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_122
+DO  - doi:10.1111/evj.12267_122
+SP  - 40
+EP  - 40
+PY  - 2014
+AB  - Introduction The study of kinematic patterns of young jumping horses can help to improve selection. This study was carried out to predict free jumping success of young horses using logistic regression to model jumping kinematic variables. Methods 108 untrained young Brazilian Sport Horses of both genders were studied. Reflective skin markers were used to identify anatomical reference points. Five free jumps over a vertical obstacle (with a height of 60, 80 and 105?cm for age classes 22?25, 29?32 and 36?39 months, respectively) were recorded. A 100?Hz camera was used, and images were analyzed using Simi Reality Motion Systems?. Successful (n?=?1,030) and unsuccessful (n?=?200) jumps were analyzed and the following kinematic variables were preselected by principal components analysis and then used as independent variables: last stride length prior to jumping, jumping velocity, take-off distance, withers displacement at jumping, forelimb height at jumping, vertical distance between scapulohumeral and metacarpophalangeal joints, scapulohumeral, radial-metacarpal, tibiometatarsal and withers-fetlock angles. Results The effects of take-off distance, forelimb height at jumping and jumping velocity on the jumping result were significant (P?=?0.0091). An increment of one centimeter in take-off distance and forelimb height led to an increase in the probability of success by 2.6% and 10.6%, respectively. An increase of one meter per second in jumping velocity led to a reduction in the probability of success by 27.8%. Conclusions Jumping success is influenced by take-off distance, jumping velocity and forelimb flexibility. Selection of young horses for superior jumping capacity can be aided by kinematic analysis, which may shorten training time and improve performance. Ethical Animal Research The research was approved by UFMG Ethics Committee on Animal Research: 267/2008. Explicit owner informed consent for participation in this study is not stated. Sources of funding:?Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) and Fundaç?o de Amparo à Pesquisa do estado de Minas Gerais (FAPEMIG). Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Martin, P
+AU  - Chateau, H
+AU  - Pourcelot, P
+AU  - Duray, L
+AU  - Cheze, L
+TI  - Comparison Between Inertial Sensors and Motion Capture System to Quantify Flexion-Extension Motion in the Back of a Horse
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_131
+DO  - doi:10.1111/evj.12267_131
+SP  - 43
+EP  - 43
+PY  - 2014
+AB  - Introduction The development of miniaturized inertial sensor technology (IMU) opens new possibilities to assess equine back motion in real-life situations. The consistency of IMU for measuring dorsoventral displacement of the back has been assessed but orientation has not. The aim of this study was to assess accuracy and consistency of miniaturized inertial sensors for quantification of flexion-extension of the equine back, compared to motion capture (mocap) as a gold standard. Methods One sound horse was trotted (3.5?m/s) and cantered (9?m/s) on a treadmill with synchronized mocap and IMU data collection. The amplitudes of two flexion-extension angles were calculated between 3 IMUs (T12-T16-L2) and with a triad of markers linked to each IMU during 15 consecutive strides for two recordings at each gait. Consistency of sensor measurements was assessed using Lin correlation coefficient. Results Thoracic and thoracolumbar angles showed respectively a Lin correlation coefficient of 0.96 (excellent) and 0.87 (good). The difference (mean?±?SD) between IMU and mocap were, respectively for the thoracic and thoracolumbar angles, 0.57?±?0.44 and 0.65?±?0.47 degrees during trotting, and 0.83?±?0.67 and 0.63?±?0.44 degrees during canter. Conclusions Angle values calculated with IMU data showed acceptable accuracy consistency for quantification of flexion-extension movement in a horse's back. These results are encouraging for future development of the method in real-life situations where mocap systems are unsuited for the quantification of back movements. Ethical Animal Research None declared. Sources of funding:?The authors thank the Institut Français du Cheval et de l?Equitation, the Association Nationale de la Recherche et de la Technologie and the Conseil Régional d?Aquitaine for financial support, the Pôle Hippolia for logistical support, and CIRALE for loaning the treadmill and the horse. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Moore, G
+AU  - Nankervis, K
+AU  - Dumbell, L
+AU  - Douglas, J
+TI  - A Comparison of Piaffe in Competition with the Fei Definition of the Movement
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_133
+DO  - doi:10.1111/evj.12267_133
+SP  - 44
+EP  - 44
+PY  - 2014
+AB  - Introduction Requirements of competitive dressage should be reviewed periodically to inform training of horses and judges. The aim of this study was to determine whether features of the FEI definition of piaffe are achieved in competition and to correlate the judges? scores with the degree of conformity to the definition. Methods Videography (60?Hz) of 3 piaffe strides (performed at marker D within a field of view 6?x?4?m) from 60 Grand Prix horses was used to measure croup height (CH), poll height (PH), the highest point of the neck (PN), peak height of the fore (FTpeak) and hindlimb toe (HTpeak), the level of a point half way down the cannon (MC) and the level of the fetlock joint (FJ) to within?±?0.01?m. Paired t-tests were used to compare CH in piaffe with that in halt, PH with PN, FTpeak with MC and HTpeak with FJ during piaffe to determine if the criteria within the definition were met. Piaffe scores from 5 judges were obtained from a subset of 17 horses. Results CH was higher in piaffe than in halt (P<0.001). PN was higher than PH in piaffe (P?=?0.001). FTpeak was lower than MC (P?=?0.001) and HTpeak was lower than FJ (P?=?0.001). There was no significant difference (P?=?0.836) between the scores awarded to each horse but also no correlation between the scores and PH (P?=?0.331), CH (P?=?0.829), FTpeak (P?=?0.784) or HTpeak (P?=?0.924). Conclusions Piaffe performed in competition does not conform to the FEI definition of the movement although judges? scores appear consistent. This finding suggests that the definition of the movement or judge training should be reviewed. Ethical Animal Research Project approved by Hartpury College Research Ethics Committee. Explicit owner informed consent for participation in this study is not stated. Sources of funding:?Hartpury College. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Murray, R
+AU  - Walker, V
+AU  - Tranquille, C
+AU  - Adams, V
+AU  - Frost, R
+TI  - Effect of an Oral Joint Supplement on Orthopaedic Evaluation Scores and Limb Kinematics
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_134
+DO  - doi:10.1111/evj.12267_134
+SP  - 44
+EP  - 44
+PY  - 2014
+AB  - Introduction Numerous oral joint supplements are available, but there is limited research into their efficacy. This study evaluated the effect of an oral joint supplement on orthopaedic evaluation scores and limb kinematics in horses. Methods 24 mature horses (71% 1?4/10 lame) were included. Exclusions were poor body condition, health problems, or lameness >4/10. Supplement S (FlexAbilityTM, Science Supplements, containing chondroitin sulphate 162?g/kg, glucosamine 190?g/kg, vitamin C 80?g/kg, methyl sulphonyl methane 256?g/kg, DHA 66?g/kg); EPA 34?g/kg; or placebo P (carrier/flavours only) were fed to horses for 21 days each in a random order triple-blind crossover design. Horses were evaluated at day 0 (baseline), 21 (after first treatment) and 42 (after second treatment). Clinical orthopaedic evaluation for straight line and lungeing circle (walk and trot), and during ridden exercise (walk, trot and canter) was performed. Side-view high-speed motion-capture (240?Hz) determined midstance tarsal flexion, carpal extension and fetlock extension for straight line trotting. All evaluators were blinded to treatment. Effect of treatment, sequence, limb and interactions were investigated using linear mixed models. Results S was associated with significantly lower lameness grade in a straight line (P?=?0.001) with individual horses improving up to 2/10 grades and circle (P?=?0.010) than either P or baseline. For horses with hindlimb lameness, supplement S was associated with significantly greater tarsal flexion than baseline (4.2% greater, P<0.02) or P (2.7% greater, P<0.037). Conclusions Oral administration of supplement S was associated with less lameness than P or baseline. Increased midstance tarsal flexion of lame limbs may indicate improved mobility or comfort during peak loading. Ethical Animal Research Explicit owner informed consent for participation in this study is not stated. Sources of funding:?World Horse Welfare, Science Supplements. Competing interests:?Rebecca Frost is employed by Science Supplements. Vicki Adams and Rachel Murray are involved with Science Supplements on a consultancy basis.
+ER  - 
+
+TY  - JOUR
+AU  - Oosterlinck, M
+AU  - Royaux, E
+AU  - Pille, F
+TI  - Pressure Plate Evaluation of Forelimb Toe-Heel and Medio-Lateral Hoof Balance on a Hard Versus a Soft Surface in Sound Ponies at the Walk and Trot
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_138
+DO  - doi:10.1111/evj.12267_138
+SP  - 45
+EP  - 45
+PY  - 2014
+AB  - Introduction Pressure plate analysis has been limited to measurements on a hard surface, whereas horses routinely perform on a soft substrate. Methods Five sound unshod ponies were walked and trotted over a pressure plate under 2 different conditions: first, the plate was covered with a 5-mm rubber mat, and then with an additional 50-mm layer of sand/synthetic fibres. Peak vertical force (PVF), vertical impulse (VI), peak vertical pressure (PVP), contact area (CA) and stance duration (ST) were obtained. Toe-heel and medio-lateral hoof balance curves of the vertical force were calculated (126?Hz). Hard vs. soft surfaces were compared using ANOVA and Kruskall-Wallis test with pairwise comparisons. Results PVF, VI, PVP and ST decreased on the soft substrate, while CA increased (P<0.001). At impact, there was more even load distribution between the toe and heel region on the soft vs. hard surface, both at walk (P<0.001) and trot (P?=?0.039), and between the lateral and medial zone at walk (P?=?0.006), but not at trot. At mid-stance, there was more loading of the toe region on the soft vs. hard surface at walk (P?=?0.044) and at trot (P?=?0.005), while the medial and lateral zone were loaded equally. Conclusions The differences observed may be due to dampening effects, measurement errors or gait adaptations. Due to the lack of simultaneous force plate data this cannot be definitively identified, but the first option seems most likely. This study opens perspectives for evaluation of the effects of conformational deficits and therapeutic farriery on hoof loading in relation to arena composition. Ethical Animal Research All ponies in the study are part of the faculty teaching herd, institutional guidelines were followed. Sources of funding:?Ghent University. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Goff, L
+AU  - Van Weeren, P
+AU  - Jeffcott, L
+AU  - McGowan, C
+TI  - Measurement of Motion During Manipulation of the Equine Pelvis
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_160
+DO  - doi:10.1111/evj.12267_160
+SP  - 52
+EP  - 53
+PY  - 2014
+AB  - Introduction Manipulation of the equine ilium and sacrum is utilised to assess range of motion at the SIJ. Motion of the ilium and sacrum during manual force application to the equine pelvis has been measured previously in vitro. The aim of this study was to measure the amount and direction of motion in vivo including comparison of bone fixated and skin mounted sensors. Methods Orientation sensors were skin-mounted over tuber sacrale (TS) and 3rd sacral spinous process (SP) of six standing Thoroughbred horses. Orientations of each TS and sacrum were recorded by one investigator during six trials of manual force applied to the pelvis, inducing cranial, caudal and oblique rotations. The study was repeated with the sensors mounted onto pins implanted into TS and SP. Mean values were reported in Euler angles for the three orthogonal planes lateral bend (LB), flexion-extension (F-E) and axial rotation (AR). Correlation between skin and bone fixated markers (Spearman R) was determined with significance set at P<0.05. Results The largest mean values recorded during rotations applied to the pelvises were for F-E (2.08?±?0.35o) with bone fixated sensors. Axial rotation gave the largest values recorded with skin-mountings (1.70?±?0.48o). There was poor correlation between skin-mounted and bone implanted markers. Conclusions Bony kinematics during external movement applied to the pelvis cannot be predicted from skin-mounted sensors, due to differences between skin- and bone-mounted sensors. Manipulation of the equine pelvis can be expected to produce motion in the plane of F-E, but axial movement should be interpreted with caution due to the potential effects of skin motion. Ethical Animal Research Ethical approval for animal use was obtained by the institutional animal ethics committee (University of Queensland). Sources of funding:?Rural Industries Research and Development Council, Australia. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Nissen, AL
+AU  - Andersen, PH
+AU  - Buhl, R
+AU  - Thomsen, MH
+TI  - Changes in Movement Symmetry During Long-Term Exercise in Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_164
+DO  - doi:10.1111/evj.12267_164
+SP  - 54
+EP  - 54
+PY  - 2014
+AB  - Introduction Asymmetry of the trot may occur or increase during endurance rides due to lameness, pain or fatigue. By visual inspection of the movement it is difficult for veterinarians, riders and researchers to distinguish between fatigue and low-grade lameness, which make objective movement analysis relevant for this purpose. The aim of this study was to determine changes in movement symmetry during long-term exercise. Methods Movement symmetry of 45 horses finishing endurance rides of 120?160 kilometres was determined by tri-axial accelerometry according to an earlier published method. Data was collected in Denmark and Germany from 5 international competitions between 2011 and 2013. Movement was assessed at trot on a straight-line in-hand on the day before the race and 30?mins to 3?hrs after passing the final veterinary examination. An overall symmetry index S was calculated on the basis of trunk accelerations measured at 240?Hz during 8 strides. All trotting sequences were recorded on videotape. A paired t-test was performed comparing symmetry indices before and after racing for each individual horse. Results A significant decrease in post-ride symmetry was detected (P?=?0.0042). This is seen as a lower S-index before racing (-6.18; SD?=?0.86. CI [-6.427; ?5.923]) compared to after racing (-5.67; SD?=?0.79; CI [-5.908; ?5.434]). Conclusions This study indicates that the biomechanical method applied allows quantification of the symmetry of movement during field conditions. Most horses had decreased movement symmetry after the race. Accordingly the study provides the basis for further investigation of the causes, including surface, climate and fitness; and the possible health consequences of asymmetric movement developed during long-term exercise. Ethical Animal Research The study was pre-approved by the FEI, the local organizing committees, ground jury, and Danish riding association (DRF). Participation was voluntary and the owner or rider signed an informed consent. All information regarding the horses is kept confidential and the horses coded for anonymity. Sources of funding:?This study is part of a university and government funded PhD project. Private funding from ?Hesteafgiftsfonden? and KDH (Royal Danish Horse Insurance). Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Rezende, AC
+AU  - Abrantes, RP
+AU  - Melo, MM
+AU  - Santiago, JM
+AU  - Trigo, P
+TI  - Training Protocol for Marcha Test in Mangalarga Marchador Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_25
+DO  - doi:10.1111/evj.12267_25
+SP  - 8
+EP  - 9
+PY  - 2014
+AB  - Introduction Mangalarga Marchador (MM) is the most important Brazilian horse breed. Functional evaluation of MM horses is performed in marcha competitions, where horses must perform 4-gaited exercise at 13?km/h for 70?min. The aim of this work was to test a training protocol to prepare MM horses for marcha competition. Methods Eight untrained MM mares, in randomized blocks with Split plots, were trained for 84 days. Three days/week horses were ridden for one hour (10?min walk, then an individual amount of marcha exercise at 13?km/h established in a previous test, then walk to complete one hour total exercise time). Two days/week, horses walked for one hour. Before training and every 21 days a marcha test (MT) was performed, totaling 5 tests in the experimental period. During the MT, mares were exercised at 13?km/h using a heart rate monitor. Every 10?min heart rate (HR) and blood lactate concentration [La] were recorded. The MT was stopped at 70?min of exercise, or if HR was ≥150?bpm and [La] was ≥4?mmol/L, or if Marcha Time was reached. Blood samples for hemogram, lactate, glucose, triglyceride and CK, LDH, AST determination were collected. Individual time used for training was 10?min less than the exercising time in the previous MT. Regression was used to analyze the results. Results From MT 1 to 4, the positive effect of training was shown on HR, [La] and marcha time (from 9.52?min to 70.5?min, CV?=?26.41). There was not an increase in marcha time on test 5. Conclusions MM mares trained for 63?days with the described protocol are ready to compete in marcha competition. Ethical Animal Research The study was approved by the Ethical Animal (CETEA) of the UFMG with the 255/11 protocol. Sources of funding:?CNPq, CAPES, FAPEMIG, ABCCMM, Haras Catuni e Raç?es Total. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Johnson, K
+AU  - Noschka, E
+AU  - Allen, K
+AU  - Tilbrook, A
+AU  - Ryan, T
+AU  - Franklin, S
+TI  - Effect of Head and Neck Position on Upper Airway Function in Standardbred Racehorses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_67
+DO  - doi:10.1111/evj.12267_67
+SP  - 22
+EP  - 22
+PY  - 2014
+AB  - Introduction Poll flexion may play an important role in the development of dynamic upper respiratory tract (URT) collapse. However, limited investigations have been performed in Standardbred racehorses. Methods Eight Standardbreds were examined during training, once flexed and once in extension, using a randomised crossover design. Head position was maintained using modified check-reins and head-neck angle was recorded. On each occasion horses performed 2 rounds of exercise of 2400?m at ?35?km/h. Speed and heart rate (HR) were measured and blood obtained before and after exercise. URT endoscopy was performed during the second round. Videos were blinded and URT function assessed. HR, plasma lactate (Lac) and speed were compared for different head positions using paired t-tests. Cortisol was analysed using repeated-measures ANOVA and URT function using Fisher's exact tests and paired t-tests (P<0.05). Results Data were excluded for one horse where head-neck angle could not be measured. Flexed and extended head-neck angles differed significantly (mean: 85.0° vs 97.8°; P?=?0.001). All horses showed some form of URT collapse during exercise, although this was only deemed clinically significant in 4 horses with a history of abnormal noise. These horses showed additional abnormalities during flexion. However, mean severity scores did not reach statistical significance (P?=?0.08). No significant difference was found for speed, HR or Lac. A significant increase in cortisol was found with exercise (P<0.001). The interaction between time and head position approached significance (P?=?0.09) with higher concentrations of cortisol generally occurring in extension rather than flexion. Conclusions URT abnormalities may be exacerbated with poll flexion. The use of equipment to modify head position may induce a stress response. Ethical Animal Research This study was approved by the University of Adelaide Animal Ethics Committee and owner informed consent obtained. Sources of funding:?University of Adelaide honours projects. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Navas de Solis, C
+AU  - Green, C
+AU  - Sides, R
+AU  - Seino, K
+AU  - Bayly, W
+TI  - Arrhythmias in Thoroughbreds During and after Treadmill and Racetrack Exercise
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_74
+DO  - doi:10.1111/evj.12267_74
+SP  - 24
+EP  - 25
+PY  - 2014
+AB  - Introduction Healthy and poorly performing horses can display arrhythmias during exercise and immediately afterwards. The relationship of arrhythmias to exercise intensity or type, and their frequency of recurrence, are poorly understood. Clarification of these issues was the objective of this investigation. Methods Electrocardiograms were recorded on 9 Thoroughbreds during maximal and submaximal exercise on a racetrack (RA) and treadmill (TM). The frequency of atrial and ventricular arrhythmias for RA and TM were compared using Fisher's Exact Test. Results 65 workouts (TM?=?46, RA?=?19; median[range]: 4/horse[2?14]) were performed. Exercising arrhythmias were detected in 4/9 horses (12/65 workouts) and there were post-exercise arrhythmias in 7/9 horses (20/65 workouts). A single exercising electrocardiogram per horse often did not display all arrhythmias detected over several workouts. 3/9 horses exhibited arrhythmias during the first and second runs while the other 6 had none. 4/9 had 1 post-exercise arrhythmia. Of 6 horses with >3 runs, 1 displayed arrhythmias each time, 3 never had arrhythmias and 2 sometimes showed arrhythmias during exercise (1/9 and 4/8 workouts, respectively). All 6 intermittently had post-exercise arrhythmias (median[range]: 50% [9?75%] of workouts). Presence of arrhythmias was positively related to intensity and all occurred at ≥94%HRmax. The frequency of arrhythmias following RA (29%) and TM (12.5%) was not statistically different. Conclusions Gallops on TM or RA were equally effective for detecting arrhythmias. The presence/absence of exercising arrhythmias was more repeatable than post-exercise arrhythmias. Arrhythmias are more likely to be detected at maximal or near-maximal intensities. A larger population needs to be studied before firm conclusions are drawn. Ethical Animal Research The study was approved by an Institutional Animal Care and Use Committee protocol. Sources of funding:?Department of VCS, Washington State University. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Spooner, H
+AU  - Hoffman, R
+AU  - Haffner, J
+TI  - Can Stalled Horses Provided Light Exercise and “Weekend” Turnout Maintain Bone Mineral Content?
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_89
+DO  - doi:10.1111/evj.12267_89
+SP  - 29
+EP  - 30
+PY  - 2014
+AB  - Introduction Previous research suggests stalling may have a negative influence on bone mineral content (BMC). Yet slow, long-distance exercise has not been successful in improving BMC compared to free-choice exercise. Still, it is a common practice to stall horses with light exercise and minimal turnout. We hypothesized stalled horses, despite ?weekend? turnout and light exercise, would have lower estimated BMC compared to pasture turnout. Methods Thirteen mature horses were split into two groups, Control (C, n?=?6) and Stalled (S, n?=?7). Digital radiographs were taken of the third metacarpal for estimation of BMC by radiographic bone aluminum equivalence (RBAE). After a 42-d period (P1) additional radiographs were taken and S-horses stalled for 4-d (receiving light under-saddle exercise), followed by 72-h pasture turnout. This pattern repeated for an additional 42-d (P2) followed by radiographs. Radiographs were analyzed for optical density of bone cortices and total BMC compared to an aluminum step-wedge on each cassette. Changes in BMC were analyzed using PROC mixed in SAS with repeated measures. Results No treatment differences were observed in the medial (P?=?0.72) or lateral (P?=?0.46) cortices. Dorsal and palmar cortices exhibited a treatment by period interaction (P<0.01, P<0.02), remaining unchanged in C but S decreased over P1 and returned to baseline in P2. Total RBAE was not different by treatment or period. Conclusions Contrary to our hypothesis, horses stalled with light exercise and ?weekend? turnout maintained BMC compared to themselves and controls at pasture. Such management may be considered for maintaining BMC when horses must be stalled for weekday riding or training. Further research is necessary to determine minimum turnout and exercise needs to maintain BMC when stalling. Ethical Animal Research The study was approved by the Middle Tennessee State University Institutional Animal Care and Use Committee Sources of funding:?The Horse Science Program and Office of Research at Middle Tennessee State University. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Takahashi, T
+AU  - Ohmura, H
+AU  - Mukai, K
+AU  - Matsui, A
+AU  - Aida, H
+TI  - Fatigue in the Superficial and Deep Digital Flexor Muscles During Exercise in Thoroughbred Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_90
+DO  - doi:10.1111/evj.12267_90
+SP  - 30
+EP  - 30
+PY  - 2014
+AB  - Introduction One of the causes of injury to the superficial digital flexor tendon (SDFT) is assumed to be repeated high intensity loading of the tendon. Earlier fatigue of the deep digital flexor muscle (DDFM) in comparison to the time of fatigue of the superficial digital flexor muscle (SDFM) is also assumed to increase load on the SDFT during long distance running. This study evaluated the fatigue of SDFM and DDFM with maximal exercise. Methods Two wire electrodes were inserted into the SDFM and DDFM of 6 Thoroughbred horses (461?557?kg). Electromyogram (EMG) and hoof strain gauge signals were recorded at 2,500?Hz with horses on an inclined treadmill (6%), and filter processing was applied (high-pass 10?Hz for EMG and low-pass 200?Hz for strain gauge). Integrated EMG (iEMG), the median frequency (MF) of EMG, and the stride frequency (SF) were compared using paired t-test during 100?105% heart rate max exercise and trotting before and after maximal exercise. Results The SF significantly decreased and iEMG of SDFM tended to decrease during maximal exercise (P?=?0.055), while MF of EMG in SDFM and DDFM did not change. The iEMG of SDFM and DDFM significantly decreased and MF of EMG in DDFM tended to decrease at a trot after maximal exercise (P?=?0.063). Conclusions The DDFM may fatigue earlier than SDFM during long distance running. Further study is needed to evaluate the relationship between the decrease in iEMG of SDFM and DDFM during maximal exercise and the injury to SDFT. Ethical Animal Research The study was approved by the Animal Welfare and Ethics Committee of the Japan Racing Association Equine Research Institute. Sources of funding:?Japan Racing Association. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Agar, C
+AU  - Gemmill, R
+AU  - Hollands, T
+AU  - Freeman, S
+TI  - The Use of Nutritional Supplements in Dressage and Eventing Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_92
+DO  - doi:10.1111/evj.12267_92
+SP  - 30
+EP  - 31
+PY  - 2014
+AB  - Introduction Selecting the appropriate nutritional supplements for performance horses is difficult, due to significant gaps in the current scientific evidence. Our hypothesis was that nutritional supplements are chosen based on owner's perception of discipline specific health and performance problems. Methods A mixed methods (open and closed questions) online questionnaire was distributed through British Eventing and Dressage websites, to collect data on demographics of owners and their horses, supplements used, and their opinion on health and performance problems in their discipline, and in their own horses. Data was evaluated using descriptive analysis and Sign and Fisher's exact tests for quantitative data, and thematic analysis for qualitative data. Results 599 responses met the inclusion criteria, of which 441 were or had competed in dressage, and 158 in eventing (unaffiliated novice to affiliated advanced levels). Participants had been riding for 26.4 (3?60) (mean (range)) years, currently competed 1.2 (0?10) horses, and used 2 (0?12) supplements in their top horse. Participants ranked the most important health and performance issues as (1) Energy and behaviour, (2) Lameness, (3) Back and muscle problems for dressage, and (1) Lameness, (2) Energy and behaviour, (3) Stamina and fitness for eventing horses. The most common reason supplements were used in individual horses were (1) Joints and mobility, (2) Behavioural problems for dressage, and (1) Electrolytes, (2) Joints and mobility for eventing. Conclusions There was discrepancy between participants' opinions of the main health and performance problems within their discipline, and their reasons for using supplements. Ethical Animal Research The study was approved by the School of Veterinary Medicine and Science Ethics Committee at University of Nottingham. Sources of funding:?School of Veterinary Medicine and Science, University of Nottingham. Competing interests:?Teresa Hollands is employed by Dodson and Horrell Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Hill, E
+AU  - McGivney, B
+AU  - Herdan, C
+AU  - Gough, K
+AU  - Katz, L
+TI  - Investigation of MSTN Genotype Association with VO2peak in Untrained Yearlings
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_104
+DO  - doi:10.1111/evj.12267_104
+SP  - 34
+EP  - 34
+PY  - 2014
+AB  - Introduction In Thoroughbreds, genetic variation in myostatin (MSTN g.66493737C/T) is highly predictive of optimum race distance and influences mRNA expression, precocity, skeletal muscle development, two-year-old earnings, speed variables and skeletal muscle fibre type. The aim of this study was to investigate MSTN variation associations with VO2peak in untrained yearling Thoroughbreds. Methods Peak oxygen consumption (VO2peak) was measured in 41 untrained Thoroughbred yearlings (16 colts, 25 fillies, 19.8?±?1.4 months) from one flat racing yard (November-December). Data was collected as horses freely travelled up an all-weather gallop (2% incline) with no rider. VO2 was measured using an ergospirometry and oximetry mask and associated customized software validated for field testing. Horses were instrumented with a GPS-HR monitor, light-weight mask and data-capture equipment. HRpeak, maximal velocity (Vmax) and exercise distance were recorded. MSTN genotypes were determined using a customised Taqman SNP genotyping assay. Tests of association between genotype and phenotype were performed using PLINK software. Results Average exercise distance was 1700.5?±?33.4?m, Vmax 15.0?±?1.4?m/s, and HRpeak 221.2?±?9.6?bpm. MSTN genotypes and VO2peak based on 6 breaths were n?=?16 CC, VO2peak?=?119.49?±?21.8; n?=?22 CT, VO2peak?=?116.40?±?-27.2; n?=?3 TT, 115.08?±?20.2.There was no association (P>0.05) between genotype and VO2peak. Conclusions In yearling Thoroughbreds no association between MSTN genotype and untrained peak oxygen consumption was observed. This may be a function of the small number of TT genotype individuals evaluated or a reflection of a requirement for MSTN-associated skeletal muscle entrainment in VO2peak changes resulting from a period of exercise training. Such changes may be associated with MSTN genotype and this requires further investigation. Ethical Animal Research Institutional Animal Research Ethics Committee approval was obtained. Explicit owner informed consent for participation in this study is not stated. Sources of funding:?Science Foundation Ireland under Grant Number 11/PI/1166. Competing interests:?Dr Hill is a co-founder and Chairman of Equinome Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - McGivney, B
+AU  - Herdan, C
+AU  - Gough, K
+AU  - Katz, L
+AU  - Hill, E
+TI  - Effect of Training on PPARGC1A and FNDC5 Gene Expression in Thoroughbred Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_106
+DO  - doi:10.1111/evj.12267_106
+SP  - 35
+EP  - 35
+PY  - 2014
+AB  - Introduction PGC-1α and irisin, encoded by the PPARGC1A and FNDC5 genes, play key roles in mediating the beneficial effects of exercise. PPARGC1A gene expression is induced by exercise and has been shown to upregulate FNDC5 expression. Higher levels of FNDC5 have been observed in young male human athletes compared to sedentary controls. FNDC5 gene expression has also been shown in some species to be modulated by myostatin (MSTN), a growth factor that limits muscle hypertrophy. In horses MSTN variation (g.66493737C>T) affects gene expression and racing performance. Thoroughbreds homozygous for the C-allele have significantly higher levels of MSTN?mRNA than homozygous T?:?T horses. The aim of this study was to investigate the responses of PPARGC1A and FNDC5 in skeletal muscle to exercise and investigate the relationship with MSTN genotype. Methods Skeletal muscle (gluteus medius) biopsies were taken from untrained yearling Thoroughbreds (n?=?27) at rest and after a ten month period of training at two-years-old. Skeletal muscle gene expression was measured using real-time qRT-PCR assays and data was analysed using qBase software. Results A significant increase in both PPARGC1A (P?=?0.0001, FC?=?1.82) and FNDC5 (P?=?0.039, FC?=?1.72) was observed post-training. A significant positive correlation was found between FNDC5 and PPARGC1A expression levels post training (P?=?0.01, R2?=?0.22). There was no relationship between PPARGC1A or FNDC5 gene expression and MSTN genotype. Conclusions These data indicate a coordinated role for PGC-1α and irisin in the skeletal muscle response to exercise in Thoroughbred horses. Their known roles in mitochondrial biogenesis and brown fat metabolism suggest important roles in the adaptive response to exercise, which is independent of MSTN-determined muscle type. Ethical Animal Research Institutional Animal Research Ethics Committee approval was obtained. Explicit owner informed consent for participation in this study is not stated. Sources of funding:?Science Foundation Ireland under Grant Number 11/PI/1166. Competing interests:?Dr Hill is a co-founder and Chairman of Equinome Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Schott II, H
+TI  - Effects of Preloading with NaCl, KCl, NaHCO3, or KHCO3 on Plasma Electrolyte Concentrations and Run Time During a High Intensity Exercise Test: A Pilot Study
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_11
+DO  - doi:10.1111/evj.12267_11
+SP  - 4
+EP  - 4
+PY  - 2014
+AB  - Introduction NaHCO3 has been administered prior to racing in an attempt to enhance performance but it remains unclear whether potential ergogenic effects may be due to increased buffering capacity or expanded extracellular fluid volume. Methods Solutions of 1?g/kg of NaCl, KCl, NaHCO3, or KHCO3 in 8?L of water were administered via a nasogastric tube 60?min prior to a high intensity treadmill exercise test (12?m/s to fatigue) to 4 horses in a randomized fashion. Changes in mixed venous plasma electrolyte concentrations (NOVA Biomedical analyser) and run time to fatigue were compared by repeated measures ANOVA. Results Administration of Na and K salts increased Na and K concentrations before and during maximal exercise, respectively. Administration of bicarbonate salts attenuated acidosis and the decrease in bicarbonate concentration during exercise, as compared to Cl salts. Of interest, run time to fatigue was longer (P<0.001, power?=?0.98) after administration of KCl (5.1?±?0.6?min) as compared to both bicarbonate salts (3.7?±?0.6 and 3.6?±?0.8?min for NaHCO3 and KHCO3, respectively), but was not different than run time after NaCl administration (4.3?±?0.8?min). Conclusions Preloading with large amounts of Na and K salts produced expected changes in mixed venous Na and K concentrations but preloading with bicarbonate did not improve performance. Observation of longer run times to fatigue after administration of NaCl or KCl was unexpected and warrants further investigation. Ethical Animal Research Animal use approved by the Animal Use Committee of Michigan State University. Sources of funding: Department of Large Animal Clinical Sciences, Michigan State University. Competing interests:?none.
+ER  - 

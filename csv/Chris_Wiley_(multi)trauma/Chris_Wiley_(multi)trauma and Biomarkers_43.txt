@@ -1,0 +1,514 @@
+
+TY  - JOUR
+AU  - Bulluck, Heerajnarain
+AU  - Chan, Mervyn H. H.
+AU  - Bryant, Jennifer A.
+AU  - Chai, Ping
+AU  - Chawla, Ashish
+AU  - Chua, Terrance S.
+AU  - Chung, Yiu-Cho
+AU  - Fei, Gao
+AU  - Ho, Hee H.
+AU  - Ho, Andrew F. W.
+AU  - Hoe, Andrew J.
+AU  - Imran, Syed S.
+AU  - Lee, Chi-Hang
+AU  - Lim, Swee H.
+AU  - Liew, Boon W.
+AU  - Yun, Patrick L. Z.
+AU  - Hock, Marcus O. E.
+AU  - Paradies, Valeria
+AU  - Roe, Matthew T.
+AU  - Teo, Lynette
+AU  - Wong, Aaron S.
+AU  - Wong, Evelyn
+AU  - Wong, Philip E.
+AU  - Watson, Timothy
+AU  - Chan, Mark Y.
+AU  - Tan, Jack W.
+AU  - Hausenloy, Derek J.
+TI  - Platelet inhibition to target reperfusion injury trial: Rationale and study design
+JO  - Clinical Cardiology
+JA  - Clin Cardiol
+VL  - 42
+IS  - 1
+SN  - 0160-9289
+UR  - https://doi.org/10.1002/clc.23110
+DO  - doi:10.1002/clc.23110
+SP  - 5
+EP  - 12
+KW  - cangrelor
+KW  - cardiovascular magnetic resonance imaging
+KW  - microvascular obstruction
+KW  - myocardial infarct size
+KW  - primary percutaneous coronary intervention
+KW  - reperfusion injury
+KW  - ST-segment elevation myocardial infarction
+PY  - 2019
+AB  - Background In ST-segment elevation myocardial infarction (STEMI) patients treated with primary percutaneous coronary intervention (PPCI), current oral P2Y12 platelet inhibitors do not provide maximal platelet inhibition at the time of reperfusion. Furthermore, administration of cangrelor prior to reperfusion has been shown in pre-clinical studies to reduce myocardial infarct (MI) size. Therefore, we hypothesize that cangrelor administered prior to reperfusion in STEMI patients will reduce the incidence of microvascular obstruction (MVO) and limit MI size in STEMI patients treated with PPCI. Methods The platelet inhibition to target reperfusion injury (PITRI) trial, is a phase 2A, multi-center, double-blinded, randomized controlled trial, in which 210 STEMI patients will be randomized to receive either an intravenous (IV) bolus of cangrelor (30 ?g/kg) followed by a 120-minute infusion (4 ?g/kg/min) or matching saline placebo, initiated prior to reperfusion (NCT03102723). Results The study started in October 2017 and the anticipated end date would be July 2020. The primary end-point will be MI size quantified by cardiovascular magnetic resonance (CMR) on day 3 post-PPCI. Secondary endpoints will include markers of reperfusion, incidence of MVO, MI size, and adverse left ventricular remodeling at 6 months, and major adverse cardiac and cerebrovascular events. Summary The aim of the PITRI trial is to assess whether cangrelor administered prior to reperfusion would reduce acute MI size and MVO, as assessed by CMR.
+ER  - 
+
+C7  - pp. 405-456
+TI  - Bioinspired and Biomimetic Logic Devices
+SN  - 9780470710722
+UR  - https://doi.org/10.1002/9780470710883.ch11
+DO  - doi:10.1002/9780470710883.ch11
+SP  - 405-456
+KW  - bioinspired and biomimetic logic devices
+KW  - information processing in natural systems, dynamic reaction–diffusion
+KW  - biomolecular processes, Boolean logic and gene, signal transduction
+KW  - concatenated four-enzyme logic, and electronic circuits
+KW  - concatenation of logic gates, enzymatic implementation of logic gates
+KW  - logic systems, biocatalytic half-adder and four coupled enzymes
+KW  - direct electrochemical reactions, enzymatic in traumatic level detection
+KW  - enzymes as information carriers, and enzyme-driven logic gates
+KW  - nucleic acids, information carriers and storage units for genetic information
+KW  - MAYA-II automaton, and bioinspired devices, a greater flexibility
+PY  - 2019
+AB  - Summary This chapter contains sections titled: Information Processing in Natural Systems Protein-Based Digital Systems Binary Logic Devices based on Nucleic Acids Logic Devices Based on Whole Organisms References
+ER  - 
+
+TY  - JOUR
+AU  - Bartolucci, P.
+AU  - Noizat Pirenne, F.
+AU  - Habibi, A.
+TI  - Management of hyperhaemolysis after a transfusion in sickle-cell patients
+JO  - ISBT Science Series
+JA  - VOXS
+VL  - 11
+IS  - S1
+SN  - 9780470710722
+UR  - https://doi.org/10.1111/voxs.12194
+DO  - doi:10.1111/voxs.12194
+SP  - 196
+EP  - 200
+KW  - Delayed Hemolysis Reaction Transfusion
+KW  - Sickle cell disease
+KW  - transfusion strategy
+KW  - transfusion therapy
+PY  - 2016
+AB  - Transfusion is a corner stone treatment of sickle cell disease complications. However one of the serious complications of transfusions is represented by the delayed haemolytic transfusion reaction (DHTR) with a significant mortality. It is due to a massive intravascular haemolysis of both transfused and autologous red blood cells. It occurs between 5 to 20 days after a transfusion and is accompanied by a vaso-occlusive crisis and haemoglobinuria in almost all cases. The evolution can be life-threatening because of the appearance of a severe acute chest syndrome or a multi organ failure. About half patients are transferred in Intensive Care Unit. The biological diagnosis of DHTR is made by the rapid decline, or disappearance, of Hb A in sickle cell patients who were previously transfused. This event is associated with a significant increase of lactico-dehydrogenase (LDH) and worsening of anemia due to haemolysis. Allo antibodies are not found in 30%. DHTR is under diagnosed because of the delay between the transfusion and the symptoms, which mimic sickle cell vaso occlusive crises. This can lead to further transfusions that worsen the evolution and are ineffective. Because of the severity of this manifestation many treatment have been tried to improve the outcome as steroids, immunoglobulins, rituximab or eculizumab, without consensual guidelines. Early diagnosis of DHTR should help to decide the appropriate treatment, and avoid reiteration of transfusions. Transfusion indications should be maximally restricted in patients with previous post-transfusion haemolysis.
+ER  - 
+
+TY  - JOUR
+AU  - Ulrich, H.
+AU  - Bocsi, J.
+AU  - Glaser, T.
+AU  - Tárnok, A.
+TI  - Cytometry in the brain: studying differentiation to diagnostic applications in brain disease and regeneration therapy
+JO  - Cell Proliferation
+JA  - Cell Prolif.
+VL  - 47
+IS  - 1
+SN  - 9780470710722
+UR  - https://doi.org/10.1111/cpr.12087
+DO  - doi:10.1111/cpr.12087
+SP  - 12
+EP  - 19
+PY  - 2014
+AB  - Abstract During brain development, a population of uniform embryonic cells migrates and differentiates into a large number of neural phenotypes ? origin of the enormous complexity of the adult nervous system. Processes of cell proliferation, differentiation and programmed death of no longer required cells, do not occur only during embryogenesis, but are also maintained during adulthood and are affected in neurodegenerative and neuropsychiatric disease states. As neurogenesis is an endogenous response to brain injury, visible as proliferation (of to this moment silent stem or progenitor cells), its further stimulation can present a treatment strategy in addition to stem cell transfer for cell regeneration therapy. Concise techniques for studying such events in vitro and in vivo permit understanding of underlying mechanisms. Detection of subtle physiological alterations in brain cell proliferation and neurogenesis can be explored, that occur during environmental stimulation, exercise and ageing. Here, we have collected achievements in the field of basic research on applications of cytometry, including automated imaging for quantification of morphological or fluorescence-based parameters in cell cultures, towards imaging of three-dimensional brain architecture together with DNA content and proliferation data. Multi-parameter and more recently in vivo flow cytometry procedures, have been developed for quantification of phenotypic diversity and cell processes that occur during brain development as well as in adulthood, with importance for therapeutic approaches.
+ER  - 
+
+TY  - JOUR
+AU  - Tesser-Gamba, Francine
+AU  - Lopes, Luana Joyce da Silva
+AU  - Petrilli, Antonio Sergio
+AU  - Toledo, Silvia Regina Caminada
+TI  - MAPK7 gene controls proliferation, migration and cell invasion in osteosarcoma
+JO  - Molecular Carcinogenesis
+JA  - Mol. Carcinog.
+VL  - 55
+IS  - 11
+SN  - 9780470710722
+UR  - https://doi.org/10.1002/mc.22420
+DO  - doi:10.1002/mc.22420
+SP  - 1700
+EP  - 1713
+KW  - MAP kinase signaling system
+KW  - osteosarcoma
+KW  - therapeutic target
+KW  - biological tumor marker
+KW  - MAPK7
+PY  - 2016
+AB  - Osteosarcomas (OS) are the most common malignant bone tumors, and the identification of useful tumor biomarkers and target proteins is required to predict the clinical outcome of patients and therapeutic response as well as to develop novel therapeutic strategies. In our previous study, MAPK7 has been identified as a candidate oncogene, and a promising prognostic marker for OS. Sequential activation of protein kinases within the mitogen-activated protein kinase (MAPK) cascades is a common mechanism of signal transduction in many cellular processes. In this study, we investigated the behavior of MAPK7 gene in OS cell lines. Technical viability, proliferation, migration, invasion, and apoptosis were used to evaluate the function of the MAPK7 gene. We evaluated the behavior of the OS cells with MAPK7 gene silenced, not silenced, and exposed to the main chemotherapy drugs used in OS treatment. We found that silenced MAPK7 gene is effective at suppressing cell proliferation, inhibiting cell migration, and invasion. Furthermore, MAPK7 is an important activator of transcription factors and is the main expression modulator of other key genes in the MAPK pathway. In summary, our study suggests that MAPK7 might be a promising therapeutic target for OS. ? 2015 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Berlin, S.
+AU  - Wallstabe, S.
+AU  - Scheuch, E.
+AU  - Oswald, S.
+AU  - Hasan, M.
+AU  - Wegner, D.
+AU  - Grube, M.
+AU  - Venner, M.
+AU  - Ullrich, A.
+AU  - Siegmund, W.
+TI  - Intestinal and hepatic contributions to the pharmacokinetic interaction between gamithromycin and rifampicin after single-dose and multiple-dose administration in healthy foals
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 50
+IS  - 4
+SN  - 9780470710722
+UR  - https://doi.org/10.1111/evj.12796
+DO  - doi:10.1111/evj.12796
+SP  - 525
+EP  - 531
+KW  - horse
+KW  - rifampicin
+KW  - gamithromycin
+KW  - drug-drug interaction
+KW  - lung distribution
+KW  - healthy foals
+KW  - Rhodococcus equi
+PY  - 2018
+AB  - Summary Background Standard treatment of foals with severe abscessing lung infection caused by Rhodococcus equi using rifampicin and a macrolide antibiotic can be compromised by extensive inhibition and/or induction of drug metabolising enzymes (e.g. CYP3A4) and transport proteins (e.g. P-glycoprotein), as has been shown for rifampicin and clarithromycin. The combination of rifampicin with the new, poorly metabolised gamithromycin, a long-acting analogue of azithromycin and tulathromycin with lower pharmacokinetic interaction potential, might be a suitable alternative. Objectives To evaluate the pharmacokinetic interactions and pulmonary distribution of rifampicin and gamithromycin in healthy foals, and to investigate the cellular uptake of gamithromycin in vitro. Study design Controlled, four-period, consecutive, single-dose and multiple-dose study. Methods Pharmacokinetics and lung distribution of rifampicin (10 mg/kg) and gamithromycin (6 mg/kg) were measured in nine healthy foals using LC-MS/MS. Enzyme induction was confirmed using the 4?-OH-cholesterol/cholesterol ratio. Affinity of gamithromycin to drug transport proteins was evaluated in vitro using equine hepatocytes and MDCKII-cells stably transfected with human OATP1B1, OATP1B3 and OATP2B1. Results Rifampicin significantly (P<0.05) increased the plasma exposure of gamithromycin (16.2 ± 4.77 vs. 8.57 ± 3.10 ?g ? h/mL) by decreasing the total body clearance. Otherwise, gamithromycin significantly lowered plasma exposure of single- and multiple-dose rifampicin (83.8 ± 35.3 and 112 ± 43.1 vs. 164 ± 96.7 ?g ? h/mL) without a change in metabolic ratio and half-life. Gamithromycin was identified as an inhibitor of human OATP1B1, OATP1B3 and OATP2B1 and as a substrate of OATP2B1. In addition, it was extracted by equine hepatocytes via a mechanism which could be inhibited by rifampicin. Main limitations Influence of gamithromycin on pulmonary distribution of rifampicin was not evaluated. Conclusion The plasma exposure of gamithromycin is significantly increased by co-administration of rifampicin which is most likely caused by inhibition of hepatic elimination.
+ER  - 
+
+TY  - JOUR
+AU  - Mascarenhas, John
+AU  - Hoffman, Ronald
+TI  - Myeloproliferative Neoplasms: New Translational Therapies
+JO  - Mount Sinai Journal of Medicine: A Journal of Translational and Personalized Medicine
+JA  - Mt Sinai J Med
+VL  - 77
+IS  - 6
+SN  - 9780470710722
+UR  - https://doi.org/10.1002/msj.20225
+DO  - doi:10.1002/msj.20225
+SP  - 667
+EP  - 683
+KW  - BCR-ABL
+KW  - chronic myelogenous leukemia
+KW  - clinical trials
+KW  - essential thrombocythemia
+KW  - JAK2 mutation
+KW  - myeloproliferative neoplasms
+KW  - polycythemia vera
+KW  - primary myelofibrosis
+KW  - stem cell transplantation
+KW  - tyrosine kinase inhibitors
+PY  - 2010
+AB  - Abstract The myeloproliferative neoplasms represent a diverse group of hematologic malignancies that have been the subject of intense investigation over the last decade. Although clinical trials of the much anticipated small molecule inhibitors of Janus kinase 2 have shown that these experimental agents are successful in palliating many of the symptoms associated with the myeloproliferative neoplasms, they have not been reported to affect the disease initiating hematopoietic stem cell population or to alter the natural history of these disorders. Investigators remain optimistic that new information about the genetic and cellular origins gained from the efforts of numerous laboratories will ultimately translate in to the identification of new drug targets and more effective therapies. We hypothesize that ultimately, the use of combinations of drugs including chromatin modifying agents, immunomodulatory agents, anti-apoptotic agents, cellular therapies and monoclonal antibodies will be required to effectively treat patients with myeloproliferative neoplasms. Mt Sinai J Med 77:667?683, 2010. ? 2010 Mount Sinai School of Medicine
+ER  - 
+
+TY  - JOUR
+AU  - Fernández-Ruiz, Javier
+C8  - 2017-BJP-1428-RCT-G.R1
+TI  - The biomedical challenge of neurodegenerative disorders: an opportunity for cannabinoid-based therapies to improve on the poor current therapeutic outcomes
+JO  - British Journal of Pharmacology
+JA  - British Journal of Pharmacology
+VL  - 176
+IS  - 10
+SN  - 9780470710722
+UR  - https://doi.org/10.1111/bph.14382
+DO  - doi:10.1111/bph.14382
+SP  - 1370
+EP  - 1383
+PY  - 2019
+AB  - At the beginning of the 21st century, the therapeutic management of neurodegenerative disorders remains a major biomedical challenge, particularly given the worldwide ageing of the population over the past 50 years that is expected to continue in the forthcoming years. This review will focus on the promise of cannabinoid-based therapies to address this challenge. This promise is based on the broad neuroprotective profile of cannabinoids, which may cooperate to combat excitotoxicity, oxidative stress, glia-driven inflammation and protein aggregation. Such effects may be produced by the activity of cannabinoids through their canonical targets (e.g. cannabinoid receptors and endocannabinoid enzymes) and also via non-canonical elements and activities in distinct cell types critical for cell survival or neuronal replacement (e.g. neurons, glia and neural precursor cells). Ultimately, the therapeutic events driven by endocannabinoid signalling reflect the activity of an endogenous system that regulates the preservation, rescue, repair and replacement of neurons and glia. Linked Articles This article is part of a themed section on 8th European Workshop on Cannabinoid Research. To view the other articles in this section visit http://onlinelibrary.wiley.com/doi/10.1111/bph.v176.10/issuetoc
+ER  - 
+
+TY  - JOUR
+AU  - Strömberg, Sara
+AU  - Björklund, Marcus Gry
+AU  - Asplund, Anna
+AU  - Rimini, Rebecca
+AU  - Lundeberg, Joakim
+AU  - Nilsson, Peter
+AU  - Pontén, Fredrik
+AU  - Olsson, Mats J.
+TI  - Transcriptional profiling of melanocytes from patients with vitiligo vulgaris
+JO  - Pigment Cell & Melanoma Research
+VL  - 21
+IS  - 2
+SN  - 9780470710722
+UR  - https://doi.org/10.1111/j.1755-148X.2007.00429.x
+DO  - doi:10.1111/j.1755-148X.2007.00429.x
+SP  - 162
+EP  - 171
+KW  - vitiligo
+KW  - melanocytes
+KW  - microarray
+KW  - transcription profiling
+KW  - tyrosinase gene family
+KW  - melanosome transport
+KW  - cell adhesion
+KW  - antigen presentation
+PY  - 2008
+AB  - Summary Vitiligo is a complex, polygenic disorder characterized by patchy loss of skin pigmentation due to abnormal melanocyte function. Both genetic and environmental etiological factors have been proposed for vitiligo and lack of molecular markers renders difficulties to predict development and progression of the disease. Identification of dysregulated genes has the potential to unravel biological pathways involved in vitiligo pathogenesis, facilitating discovery of potential biomarkers and novel therapeutic approaches. In this study, we characterized the transcriptional profile of melanocytes from vitiligo patients. Oligonucleotide microarrays containing ?16?000 unique genes were used to analyse mRNA expression in melanocytes from vitiligo patients and age-matched healthy controls. In total, 859 genes were identified as differentially expressed. A substantial number of these genes were involved in (i) melanocyte development, (ii) intracellular processing and trafficking of tyrosinase gene family proteins, (iii) packing and transportation of melanosomes, (iv) cell adhesion and (v) antigen processing and presentation. In conclusion, our results show a significantly different transcription profile in melanocytes from vitiligo patients compared with controls. Several genes of potential importance for the pathogenesis and development of vitiligo were identified. Our data indicate that autoimmunity involving melanocytes may be a secondary event in vitiligo patients caused by abnormal melanocyte function.
+ER  - 
+
+TY  - JOUR
+TI  - Monday, December 4, 2006 Platform Highlights Session A 3:45 p.m.–5:45 p.m.
+JO  - Epilepsia
+VL  - 47
+IS  - s4
+SN  - 9780470710722
+UR  - https://doi.org/10.1111/j.1528-1167.2006.00001_1.x
+DO  - doi:10.1111/j.1528-1167.2006.00001_1.x
+SP  - 1
+EP  - 7
+PY  - 2006
+AB  - 1 Kristen M. Fowler, 2 Joseph M. Massaro, 3 Cynthia L. Harden, 4 Michael R. Sperling, 5 Page B. Pennell, 1 Donald L. Schomer, 4 Joyce D. Liporace, 3 Blagovast Nikolov, 4 Gwendolyn Taylor, 5 Melanee Newman, and 1 Andrew G. Herzog ( 1 Harvard Neuroendocrine Unit, Beth Israel Deaconess Medical Center, Boston, MA ; 2 Harvard Clinical Research Institute, Boston, MA ; 3 Neurology, Weill Cornell Medical School, New York, NY ; 4 Neurology, Thomas Jefferson University Medical Center, Philadelphia, PA ; and 5 Neurology, Emory University School of Medicine, Atlanta, GA ) Rationale: Past observations in small studies have suggested that seizures may not occur randomly in the majority of women with epilepsy. They often tend to cluster (Tauboll et al. 1991; Bauer et al. 2001; Haut S et al. 2006). Systematic investigations in large prospective investigations, however, are lacking. The purpose of this investigation was to determine the distribution of seizure occurrence in women with localization related epilepsy. Methods: The present data come from the first 100 women, aged 13?45, who were participating in the baseline phase of a multicenter investigation of supplemental progesterone therapy for the treatment of intractable seizures in women with localization related epilepsy. The women recorded seizures and menses during 3 baseline menstrual cycles. A midluteal progesterone level ≥ 5 ng/ml was used to identify ovulatory cycles. The goodness of fit of the Poisson distribution to the distribution of seizures during the combined three-cycle observation period in each woman with ≥10 seizures was tested by chi square analysis. ?2 values >5.99 identified women with nonrandom seizure distributions. Nonrandom distributions were further categorized as uniform (variance/mean < 1) or clustered (variance/mean >1). Results were similar to an alternative method of testing nonrandom distributions against a uniform distribution for each subject using the Pearson chi square statistic with categorization as clustered if p value was ≤ .05. Results: 75 women had ≥10 seizures over the 3 month observation period. Seizure distributions in these 75 women were random in 29 (38.7%). Among the remaining 46 (61.3%) who had non-random distributions, 6 (8.0%) had uniform distributions and 40 (53.3%) had clustered distributions. Clustering was significantly more pronounced among women with anovulatory cycles than among women with ovulatory cycles (variance/mean ± 2 SD = 6.1 ± 5.3 vs 2.2 ± 1.7; t-test for independent samples: p = .006). No correlation was demonstrated between clustering and age of subjects, age of epilepsy onset, duration of epilepsy, EEG laterality and individual AEDs. Conclusions: The preliminary findings of this prospective study suggest that the majority (53.3%) of women with localization related epilepsy have clustered seizure distributions and that clustering may be significantly more common with anovulatory than ovulatory cycles. (Supported by NIH RO1 NS39466.) 1 Mark Quigg, 2 Nicholas M. Barbaro, 3 Kenneth D. Laxer, 2 Marianne L. Ward, and Epilepsy Radiosurgery Study Group ( 1 Neurology, University of Virginia, Charlottesville, VA ; 2 Neurological Surgery, University of California San Francisco, Charlottesville, VA ; and 3 Neurology, University California San Francisco, San Francisco, CA ) Rationale: Gamma Knife radiosurgery (GKS) offers an alternative to open surgery for mesial temporal lobe epilepsy (MTLE), but its safety and efficacy are not well-established. We report the two year outcome on seizure remission and morbidities of a multicenter, prospective pilot study of GKS. Methods: Patients had unilateral MTLE as determined by standard presurgical evaluation. GKS, randomized to 20 Gy or 24 Gy comprising 5.0?7.5mL at the 50% isodose volume, was performed on mesial structures including the amygdala, hippocampus, and parahippocampal gyrus. Treatment plans were approved at a central site to insure uniformity of lesions. Patients and primary treating physicians were blinded to dose. Regular visits with seizure diaries were obtained for 3 months at presurgical baseline and postoperatively for every three months until 18m, then at 24m. Patients were counted as ?seizure-free? if no seizures (excluding auras) occurred between visits 18m-24m. Any subject that was not available for analysis was considered not seizure-free. Results: Of 40 planned enrollments, 30 qualified resulting in 13 subjects in the high dose and 17 in the low dose group. 1 patient was lost to follow-up soon after treatment. 1 subject in the low-dose group underwent standard lobectomy after not being seizure-free 24 months following treatment. 1 subject experienced papilledema that responded partially to dexamethasone and underwent temporal lobectomy. Reductions in seizure frequency were seen in the high-dose group at 3, 6, 15, 18, and 24 months and for the low-dose group at 12, 15, 18, and 24 months (Wilcoxon signed rank test). Thus, both groups showed significant reductions in seizures at approximately one year following treatment. The low-dose group showed a seizure-free response at 24 months of ? 60% and the high-dose group response was ? 80% at 24 months. Although there is a difference in the seizure-free rates for the two treatment groups, the Fisher's Exact Test using a 2-sided p value indicates that the difference in percentage seizure-free for the two groups is not statistically significant (p = 0.1194), a conclusion limited by the low power to resolve differences between treatment groups. Rates of steroid treatment, new headaches, and visual field defects did not differ between dose or seizure-outcome groups. Conclusions: GKS may offer a safe and effective alternative to standard open surgery for unilateral MTLE. High-dose GKS may be more effective than low-dose without additional morbidity. Disadvantages of GKS include latency to seizure-freedom. Further work is required to determine which patients may benefit from GKS. (Supported by NIH R01 NS039280; Elekta AB (Stockholm, Sweden).) 1 Miao Liu, and 1 Nathan B. Fountain ( 1 Comprehensive Epilepsy Program, University of Virginia, Charlottesville, VA ) Rationale: The natural history of epilepsy, and particularly the rate of seizure freedom (SF), is generally unknown except in a few specific epilepsy syndromes. The rate of SF is generally regarded to be low if patients do not respond to the first two medications. However, our experience suggests that some patients with refractory epilepsy become SF. We hypothesized that the rate of SF is higher than expected and correlated with the seizure class and epilepsy syndrome. Methods: Standardized data were prospectively collected by epileptologists from established and new patients seen in the UVA Epilepsy Clinic from April 1998 to November 2004. Data were acquired directly from patients and medical records, refined and cleaned by standardized methods and updated at each clinic visit. Analysis was limited to patients with definite epilepsy > 5 years old. Frequency of each seizure (SZ) type was collected at each visit. Patients were categorized into 14 classes by the combination of SZ types they possessed and classified by ILAE syndromes. For each subject, monthly SZ frequency of each SZ type was plotted over time for the study duration. SF was defined as a total frequency of 0 for at least 6 mo. in patients who had at least 3 SZ frequency entries. Results: From 1638 subjects, 988 had 3 or more SZ frequency entries and were followed for a mean of 37 mo. SF developed in 25% (243), established SF was present throughout the time period in 23% (231), and 52% (514) continued to have seizures. Among those SF, mean duration of follow-up was 24.5 mo. and mean duration of SF was 20.9 mo. The majority (56%) of those SF had a moderately high baseline SZ frequency of 1?15/mo, while 21% had < 1/mo and 15% had a very high SZ frequency of >15/mo. Subjects with GTCs only were most likely to have a low SZ frequency (60%) and mixed types to have a very high frequency (67%). SF rate was highest for subjects with generalized SZs (113 of 355 subjects or 31%) and lowest for mixed SZs (6 of 28 subjects or 21%). SF rate was highest for idiopathic localization-related (53%) and idiopathic generalized (38%) and lowest for other generalized epilepsies (25%). Conclusions: An overall rate of seizure freedom of 48% with 25% becoming SF during the study period is higher than generally expected for established epilepsy. Patients with only generalized SZs, or idiopathic generalized and idiopathic localization-related epilepsies are more likely to become SF but some rate of SF develops in all SZ types and syndromes. It is likely that recall bias and other factors give clinicians the impression that only few patients with epilepsy are seizure free. This demonstrates that SF is a reasonable goal in the treatment of established epilepsy, depending on the SZ type and epilepsy syndrome. (Supported by University of Virginia.) 1 Susana E. Camposano, 1 David A. Lyczkowski, 1 Sonja K. Rakowski, and 1 Elizabeth A. Thiele ( 1 Herscot Center for TSC, Massachusetts General Hospital, Boston, MA ) Rationale: Epilepsy is the most common medical manifestation of TSC, with a high incidence of infantile spasms and partial epilepsy that often is refractory to medical treatment. We describe the incidence, prevalence, management, and control of seizures in a large population of patients with Tuberous Sclerosis Complex. Methods: We conducted a retrospective chart review of patients meeting clinical criteria for TSC who were seen through our TSC clinical program between January 1999 and November 2005. Results: 194 patients met criteria for TSC (mean age 16 years, range 7 months to 60 years), including 91 females. 172 (88.7%) had a history of seizures (mean age 14.8 years, SD 14.8). Twenty-two (11%) patients did not have a history of seizures (mean 24.1years, SD 13.7). The latter group was significantly older (Student's t test, p < 0.005). TSC diagnosis in patients with no seizure history diagnosis may be established later in life, and they might be underrepresented in our sample. Median age at seizure onset was 6 months (range, newborn to13 years average, mean 1.8 years). Sixty-nine patients (43% of those with seizures) had a history of infantile spasms. Of those who had DNA mutational analysis and seizures (n = 122), patients with IS had a higher proportion of TSC2 mutations compared to those without IS (41/56 with IS versus 28/66 without IS, ?2 p < 0.001) Seizure control Detailed information on 158 patients was available for seizure control analysis. At the time of the last visit, 55 (35%) had been seizure free for one year or longer. 33 (21%) of them, including 4 that underwent epilepsy surgery, were on medications, with an average of 3.28 (total, current and past, range 1to 11) antiepileptic drugs (AED). They had been seizure free for an average of 6.65 years, maximum 28 years. Twenty-three were on current mono-therapy. Twenty-two patients (14%), including 4 that had seizure surgery, were off medications and had been on an average number of 2.81 AEDs (range 1 to 6). Refractory epilepsy Seventy-three patients who had been treated with 3 or more treatments, including AEDs, vagal nerve stimulator (12), ketogenic diet (10), or low glycemic index treatment (2) without reaching seizure control for one year were classified as refractory. They did not differ in mutational frequencies from 26 non-refractory patients (?2= NS), who did achieve seizure control with one or two AEDs. Fifty-nine patients were excluded from this analysis, since they had not been treated with more than 2 AEDs or other treatments and had not achieved seizure control for one year. Epilepsy surgery was performed in 27 refractory patients; 10 of them eventually became seizure free. Nineteen refractory patients became seizure free after being treated with 3 or more AEDs. Conclusions: TSC comprises a wide epilepsy spectrum, with early onset of seizures, high IS incidence and high intractabilitity rates. Nonetheless 35% achieve complete seizure control. 1 Kimford J. Meador, 2 Nancy Browning, 3 Morris J. Cohen, 4 Laura Kalayjian, 5 Joyce Liporace, 6 Page B. Pennell, 7 Michael D. Privitera, 8 Andres Kanner, and 9 Debra T. Cantrell ( 1 Neurology, University of Florida, Gaineville, FL ; 2 EMMES Corporation, Rockville, MD ; 3 Neurology, Medical College of Georgia, Augusta, GA ; 4 Neurology, University of Southern California, Los Angeles, CA ; 5 Neuroscience, Riddle Health Care, Media, PA ; 6 Neurology, Emory University, Atlanta, GA ; 7 Neurology, University of Cincinnati, Cincinnati, OH ; 8 Neurology, Rush University Medical Center, Chicago, IL ; and 9 North Texas Epilepsy Center, Irving, TX ) Rationale: Antiepileptic drugs (AEDs) can produce behavioral teratogenesis in animals at dosages less than required to produce anatomical teratogenesis. We sought to evaluate the cognitive effects of in utero AED exposure in humans in order to determine if differences exist across commonly prescribed AEDs. Methods: The NEAD Study is an ongoing prospective multicenter observational investigation, which enrolled pregnant women with epilepsy taking monotherapy carbamazepine (CBZ), lamotrigine(LTG), phenytoin (PHT), or valproate (VPA). The long-term goal of the study is to examine children from these pregnancies at 6 years old to determine if differential neuropsychological effects exist from in utero exposure across the four most commonly employed AEDs in pregnant women. This analysis is based on currently available results at 2 years old from the Mental Scale of the Bayley Scales of Infant Development for 166 children (CBZ = 43, LTG = 57, PHT = 38, VPA = 28). The childrens' Mental Developmental Index (MDI) scores were analyzed by Analysis of Covariance controlling for maternal IQs. Results: Children exposed in utero to valproate had lower MDI scores at 2 years of age compared to the other 3 AEDs (p = .028). Follow-up pairwise comparisons revealed a significant difference for VPA-LTG (p = .018) and a trend for VPA-CBZ (p = .056). Mean (SD) MDIs were: CBZ = 94 (15), LTG = 97 (17), PHT = 90 (19), VPA = 85 (19). The percentages of children with MDI < 70 for each AED were: CBZ = 12%, LTG = 11%, PHT = 13%, VPA = 25%. The adverse effect of VPA was related to anticonvulsant blood level (p = .0001). Conclusions: These findings in conjunction with prior studies imply that in utero valproate exposure is more likely than other commonly used AEDs to impair cognitive development. Thus, valproate poses a greater risk for the unborn child for behavioral as well as anatomical teratogenesis. Additional studies are needed to confirm the present findings and to delineate the risks for other AEDs. (Supported by NIH/NINDS #2RO1 NS38455.) 1 Wayne M. Alves, 1 Yuhua Li, 2 Virinder Nohria, on behalf of the 205 Study Investigators ( 1 Research  and 2 Clinical Medicine, Emory University, Atlanta, GA ) Rationale: Retigabine is a novel antiepileptic drug (AED) that enhances the potassium currents mediated by human KCNQ2/3 and KCNQ3/5 potassium channels and exhibits potent anticonvulsant activity in a broad spectrum of epilepsy animal models. The safety and efficacy of retigabine in refractory partial-onset seizures has been previously reported [1]. This report provides a descriptive analysis evaluating the efficacy of retigabine on complex partial seizures (CPS) in patients with refractory partial-onset epilepsy. Methods: 399 patients with partial-onset seizures (age range: 16?70 years, baseline seizure frequency: ≥4 seizures/month) participated in a multicenter, randomized, double-blind, placebo-controlled phase 2 trial. Study design included an 8-week baseline phase and 16-week double-blind treatment period (8-week forced titration and 8-week maintenance). Patients received either placebo or retigabine 600, 900, or 1200 mg/day and up to 2 approved AEDs. The primary efficacy variable was percent change from baseline in monthly total partial-seizure frequency. The percent change in monthly seizure rate for seizure types was considered as a secondary endpoint. Of 396 patients included in the efficacy analysis, 344 (86.9%) had CPS. 103 (26%) patients had simple partial seizures without secondary generalization (SPS). Results: Retigabine produced a linear dose-dependent reduction in monthly total partial-seizure frequency of 23%, 29% (p = 0.043), and 35% (p 0.001) for retigabine 600, 900, and 1200 mg/day, respectively, versus 13% for placebo. Looking at the most common seizure subtype, monthly CPS frequency was also significantly reduced. Median monthly CPS rate was reduced by 29.8% (p = 0.062), 26.5% (p = 0.064), and 40.0% (p = 0.002) for retigabine 600, 900, and 1200 mg/day, respectively, versus 14.8% for placebo. Monthly median SPS rate was reduced by 23.2% (p = 0.66), 34% (p = 0.77), and 37.6% (p = 0.15) for retigabine 600, 900, and 1200 mg/day, respectively, versus 15.2% for placebo. Conclusions: While retigabine is effective in reducing monthly total partial-onset seizures at 900 and 1200 mg/day, it appears to be effective in reducing the rate of complex partial seizures in all doses tested. Similar numerical trends for SPS frequency were observed but sample sizes are too small to draw a conclusion. Retigabine is currently undergoing global phase 3 studies as adjunctive treatment for partial-onset seizures in adults with refractory epilepsy. Reference 1 Porter P, Alves W, Nohria V, et al. World Congress of Neurology, 2005 (Sydney, Australia). (Supported by Valeant Pharmaceuticals International.) 1 Peter Halasz, 2 Reeta Kalviainen, 3 Maria Mazurkiewicz-Beldzinska, 4 Felix Rosenow, 5 Pamela Doty, and 5 Timothy Sullivan ( 1 Neurology, National Institute of Psychiatry and Neurology, Budapest, Hungary ; 2 Neurology, Kuopio University Hospital, Kuopio, Finland ; 3 Neurology, Medical University of Gdansk, Gdansk, Poland ; 4 Neurology, University of Marburg, Marburg, Germany ; and 5 Clinical Development, Schwarz Biosciences, Inc., Research Triangle Park, NC ) Rationale: Lacosamide (LCM, SPM 927; formerly harkoseride) is a new chemical entity being developed as an oral and intravenous formulation for the treatment of partial-onset epilepsy. In a completed randomized, controlled trial (SP667), lacosamide (400 and 600 mg/day) reduced seizure frequency in subjects with uncontrolled partial seizures. Lacosamide has a favorable pharmacokinetic profile with low potential for pharmacokinetic drug-drug interactions. Methods: SP755 was an international, multicenter, double-blind, placebo-controlled trial that investigated the efficacy and safety of lacosamide in subjects with uncontrolled partial seizures taking 1 to 3 concomitant antiepileptic drugs (AEDs) with or without vagus nerve stimulation. Concomitant AEDs were held stable during an 8-week baseline. Subjects (n = 485) who reported at least 8 seizures with no more than a 21-day seizure-free period were randomized in a 1:1:1 ratio to placebo, lacosamide 200 or 400 mg/day (given bid), respectively. Subjects were titrated over 4 weeks to the randomized dose in 100 mg/week increments. Treatment was maintained for 12 weeks, followed by blinded transition to an open-label extension trial or discontinuation. Efficacy was evaluated with continuous and categorical intent-to-treat analyses of seizure frequency (maintenance vs baseline). Safety was evaluated with adverse event (AE), ECG, vital sign, and clinical laboratory data. Results: The median percent reduction in seizure frequency was 21%, 35%, and 36% for placebo, lacosamide 200 and 400 mg/day, respectively. The lacosamide 200 and 400 mg/day treatment groups were statistically significant over placebo in reducing seizure frequency from Baseline to the Maintenance Phase (p = 0.0223 and 0.0325, respectively). The 50% responder rates were 26%, 35%, and 41% for placebo, lacosamide 200 and 400 mg/day, respectively. Statistical analysis for responder rate over placebo was significant for lacosamide 400 mg/day (p = 0.0063) and approached significance for the 200 mg/day group (p = 0.0735). Rates for patient discontinuations from the trial for AEs were 6%, 6%, and 16% for placebo, lacosamide 200 and 400 mg/day, respectively. The most common (≥10% in any lacosamide group) AEs were dizziness, headache and diplopia. Conclusions: Data from this randomized, double-blind, placebo-controlled trial showed that adjunctive lacosamide (200 and 400 mg/day) produced a statistically significant reduction in partial seizures in patients with uncontrolled partial seizures and support further development of lacosamide as an antiepileptic drug. (Supported by Schwarz Biosciences, Inc.) 1 Luiz Eduardo Betting, 1 Susana Barreto Mory, 2 ?scia Lopes-Cendes, 1 Li M. Li, and 1 Fernando Cendes ( 1 Department of Neurology, State University of Campinas (UNICAMP), Campinas, Sao Paulo, Brazil ; and 2 Department of Medical Genetics, State University of Campinas (UNICAMP), Campinas, Sao Paulo, Brazil ) Rationale: Idiopathic generalized epilepsies (IGE) are a group of epilepsies with generalized onset of the seizures. According to the main seizure type IGE are divided in subsyndromes. Routine magnetic resonance imaging (MRI) is normal. The EEG supports the diagnosis when it shows the typical generalized spike and wave (GSW) discharges with normal background. Despite of these features, sometimes focal epileptiform discharges may be registered in the EEG. Some authors believe that these focalities represent fragmented GSW discharges but the pathophysiology of the focalities is still under investigation. Voxel-based morphometry (VBM) is a quantitative technique of MRI analysis that allows automatic comparison between images. This method also increases the sensibility to detect small areas of structural abnormalities. The objective of this study was to investigate the focalities present on the EEG records of patients with IGE using VBM. Methods: Patients were classified according to clinical and EEG features following previous recommendations. All patients had at least one EEG with typical GSW discharges and one with clear focal epileptiform discharges. All patients were submitted to MRI evaluation in a 2T MRI scanner (Elscint, Haifa, Israel). A 3D T1 gradient echo sequence with 1 mm isotropic voxels was used for VBM analysis. Images were previously processed using the software SPM2 (http://www.fil.ion.ucl.ac.uk). All images were submitted to spatial normalization, automatic segmentation, modulation and smoothing. The images of each patient were individually compared with a group of 47 controls (23 women, mean age 32 ± 14, range 19?67). Statistical analysis was performed searching for areas of gray matter concentration (GMC) abnormalities. The statistical level selected was a corrected p < 0.05 (false discovery rate). The localization of the focal discharges on the EEG was compared to the VBM results. Results: Twenty-two patients with IGE diagnosis were evaluated. Nine had juvenile myoclonic epilepsy (JME), 6 patients had absence epilepsy (AE) and 7 had generalized tonic-clonic seizures on awakening (GTCS). Eight of the 9 (89%) patients with JME presented areas of GMC abnormalities. EEG analysis showed correspondence in 6 of 8 patients (75%). Five of 6 (83%) patients with AE presented areas of GMC abnormalities. EEG analysis showed correspondence in 3 of 5 patients (60%). Five of 7 (71%) patients with GTCS presented areas of GMC abnormalities. EEG analysis showed correspondence in 2 of 5 patients (40%). Conclusions: This study supports that subtle structural abnormalities characterized mainly by increased GMC may be responsible for the focal epileptiform discharges observed in the EEG of IGE. These focalities are also probably involved in the pathophysiology of the IGE. (Supported by Fundaç?o de Amparo à Pesquisa do Estado de S?o Paulo (FAPESP) and Coordenaç?o de Aperfeiçoamento de Pessoal de Nível Superior (CAPES).) 1 Greg A. Worrell, 1 Matt Stead, 2 Rick Marsh, 2 Fred Meyer, 1 Greg Cascino, 1 Elson So, and 3 Brian Litt ( 1 Neurology, Mayo Clinic, Rochester, MN ; 2 Neurosurgery, Mayo Clinic, Rochester, MN ; and 3 Neurology, University of Pennsylvania, Philadelphia, PA ) Rationale: The range of physiologic and pathologic oscillations recorded from human brain extend well beyond what is commonly recorded with clinical acquisition systems. The range of local field activity in human epileptogenic brain extends from DC to ?700 Hz. The clinical relevance of DC fluctuations, infraslow oscillations (0.01?0.1 Hz) and ultrafast oscillations (100?700 Hz) is unclear, but recent research supports the possible role of pathological high-frequency oscillations in the genesis of focal onset seizures. Methods: We studied 10 consecutive patients undergoing presurgical evaluation with hybrid subdural and depth electrodes. The custom hybrid depth and subdural electrodes (Adtech) used for intracranial EEG recordings contain an array of microwire electrodes (40 um?60 um) and clinical macroelectrodes (1?4 mm). The EEG was acquired using a DC coupled broadband amplifier operating in parallel with the clinical EEG acquisition system. Results: The broadband recordings from all 10 patients (5 neocortical grids and 5 temporal depth electrodes) showed oscillations extending from DC to ?700Hz. Infraslow oscillations and DC fluctuations tended to be more spatially distributed, but were most prominent in the region of seizure onset. Ultrafast oscillations (>100 Hz) were most often localized, and were most prominent within the seizure onset zone. The ultrafast oscillations were most evident on the microwire electrodes, and were modulated by slow frequency oscillations. Conclusions: Human epileptogenic brain generates local field oscillations that extend over a wide dynamic range (DC-700 Hz). In addition to activity in the usual clinical bands (?0.5?100 Hz) there are DC fluctuations and shifts, infraslow frequency oscillations (?0.01?0.1 Hz), and ultrafast oscillations (>100?700 Hz) present. The presence of ultrafast oscillations are often highly localized and most evident on microwire recordings, but can be absent from large clinical macroelectrodes. This suggests that clinical macroelectrodes (2 mm) may partially average out ultrafast local field potentials. (Supported by NIH/NINDS K23NS47495?03.) 1 Wenbo Zhang, 2,5 Deanna L. Dickens, 2 Gail Risse, 1 Joel Landsteiner, 3 Mary Beth Dunn, 4 Mark V. Larkins, 3 Richard Gregory, 3 Keith Davies, 2,5 Michael D. Frost, 2,5 Patricia E. Penovich, 2 Robb Doss, 2 El-Hadi Mouderres, and 2,5 Frank J. Ritter ( 1 Magnetic Source Imaging, John Nasseff Neuroscience Institute, Minnesota Epilepsy Group PA and United Hospital, St. Paul, MN ; 2 Minnesota Epilepsy Group PA, St. Paul, MN ; 3 United Neurosurgery Associates, St. Paul, MN ; 4 Department of Neurosurgery, Regions Hospital, St. Paul, MN ; and 5 Department of Neurology, University of Minnesota, Minneapolis, MN ) Rationale: Magnetoencephalography (MEG)/magnetic source imaging (MSI) is the only neuroimaging method to real-time measure neuronal activity non-invasively. MSI clinical application is receiving more attention. Presurgical functional brain mapping with MSI allows guidance during surgical decision-making and decreases the invasiveness of presurgical evaluation in epilepsy, brain tumor or cerebral vascular diseases. This report describes the patients tested and confirmed by invasive brain monitoring intraoperatively or with subdural grid placement, in the MSI Lab of Minnesota Epilepsy Group, PA and United Hospital at Saint Paul, Minnesota. Methods: Twenty-nine patients experienced both functional brain mapping with MSI (148-channel Magnes 2500 WH System, 4-D Neuroimaging, San Diego, CA) and invasive brain mapping (11 patients with intra-operative mapping, 18 with subdural electrode placement) in Minnesota Epilepsy Group between Dec 2004 and June 2006. Standard MSI protocols were applied for localization of language (word recognition task for receptive language mapping), somatosensory (pneumatic piston as stimuli), and primary motor cortex (voluntary finger tapping). The magnetic sources are modeled as a single equivalent dipole. The dipoles were superimposed onto the 3-dimensional SPGR MR images (1.4 mm slice thickness, no gap). Results: In the 29 patients, there were 8 patients with language mapping, 26 with motor mapping and 16 with somatosensory mapping. In the 51 brain function components, somtosensory and motor MSI dipoles were overlapped with the locations of invasive cortical mapping or located within 1 cm range from the sites of invasive cortical mapping; language MSI dipoles were located in the sulcus overlapped by cortical mapping on surface. There were no non-predicted neurological deficits after resective surgery in 28 patients. One patient did not experience resection due to the overlapping of motor cortex and epileptogenic focus. Conclusions: Functional brain mapping with MSI is an accurate tool to localize brain function for surgical planning. Using MSI information properly may reduce the number of invasive brain mapping procedures. 1 Chad Carlson, 3 Catherine Schevon, 4 Jeff Stout, 1 Siddhartha Nadkarni, 2 Werner Doyle, 2 Howard Weiner, 1 Steven Pacia, 1,2 Orrin Devinsky, and 1 Ruben Kuzniecky ( 1 Neurology, New York University, New York, NY ; 2 Neurosurgery, New York University, New York, NY ; 3 Neurology, Columbia University, New York, NY ; and 4 New York MEG, New York, NY ) Rationale: The lateralization and localization of partial seizures, particularly in extratemporal epilepsy syndromes, remains difficult despite improved diagnostic imaging and electroencephalographic techniques. Magnetic source imaging (MSI) is increasingly employed in the presurgical evaluation. This study retrospectively examines the positive predictive value (PPV) of MSI for lateralizing the epileptogenic zone. Methods: All epilepsy surgical cases performed after the availability of MSI (4-D Neuroimaging, equivalent current source dipole localization) at our center were identified. 163 surgeries in 152 patients were performed. 73 patients had a diagnostic pre-operative MSI. Results were available to the epilepsy team prior to surgery; however the MSI results did not directly affect the resection. We compared MSI lateralization to the ICEEG lateralization and resection. These results were reviewed in the context of the surgical outcome for patients with more than six months of post-surgical follow-up. Results: 12 of the 73 patients did not have resections due to non-lateralizable or non-localizable seizures or because their implants were diagnostic bilateral strip surveys. 30 patients had resections limited to the temporal lobe (4 with focal tumors). 3 patients had frontal tumors. 10 patients had multi-focal lesions secondary to tuberous sclerosis complex. The MSI was normal in 9 patients. Of those with an abnormal MSI, 39 had unilateral abnormalities ipsilateral to the resection and 6 had abnormalities limited to the contralateral hemisphere. 19 patients had bilateral findings, with 10 demonstrating a clear predominance ipsilateral to the resection. 40/61 patients undergoing resections had six or more months of follow-up. The PPV for MSI lateralization is shown in the table below. Positive Predictive Value of MSI for Lateralization of Epileptic Foci Number of Patients PPV PPV + Bilateral All Patients 73 61% ?77% Engel I Outcome 25/40 77% ?91% Engel II Outcome ?5/40 75% 100% Engel III Outcome ?6/40 67% ?67% Engel IV Outcome ?4/40 75% ?75% Engel II-I VOutcomes 15/40 71% ?78% PPV = Positive Predictive Value. PPV + Bilateral = Positive Predictive Value including patients with bilateral localizations with a predominance to the side of resection. Conclusions: This retrospective analysis demonstrates both the validity of MSI for lateralizing the epileptogenic zone as well as the method's limitations; the specificity of the MSI technique for predicting the epileptogenic zone cannot exceed its ability to lateralize correctly. Thus, clinicians should interpret the MSI in the context of other presurgical studies, rather than rely on it as an independent predictor of the epileptogenic zone. (Supported by FACES.) 1 Gregory L. Barkley, 1 Brien Smith, 2 Gregory Bergey, 3 Gregory Worrell, 4 David Chabolla, 5 Joeseph Drazkowski, 6 Douglas Labar, 7 Robert Duckrow, 8 Anthony Murro, 9 Michael Smith, 10 Ryder Gwinn, 11 Bruce Fisch, 12 Lawrence Hirsch, and 13 Martha Morrell ( 1 Department of Neurology, Henry Ford Hospital, Detroit, MI ; 2 Johns Hopkins Hospital, Baltimore, MD ; 3 Mayo Clinic, Rochester, MN ; 4 Mayo Clinic, Jacksonville, FL ; 5 Mayo Clinic, Phoenix, AZ ; 6 Weill Medical College of Cornell University, NYC, NY ; 7 Yale University, New Haven, CT ; 8 Medical College of Georgia, Augusta, GA ; 9 Rush University Medical Center, Chicago, IL ; 10 Swedish Neuroscience Inst., Seattle, WA ; 11 Lousiana State University, New Orleans, LA ; 12 Columbia University, NYC, NY ; and 13 NeuroPace, Inc., Mountain View, CA ,) Rationale: A multi-center feasibility investigation assessed safety and possible efficacy of the cranially based implantable, programmable Responsive Neurostimulator (RNS?) system. Methods: Subjects were 18?65 years with intractable partial-onset seizures and localized epileptogenic onset region(s). Subjects with ≥12 simple partial (SP) sensory or motor seizures, complex partial seizures (CPS) or generalized tonic-clonic (GTC) seizures over an 84-day baseline period qualified for implant. The RNS was connected to up to 2 leads (subdural and/or depth), which were targeted to the seizure focus. Adverse events (AEs) were monitored throughout the trial. Efficacy was assessed during two time periods, the 84-day period beginning 28 days post-implant (primary) and the most recent 84 days for which a subject could have received therapy (secondary). Results: During the primary evaluation period, the responder rate (≥50% reduction in seizures) in 50 subjects (excluding 1 subject with no disabling seizures at baseline and 14 subjects blinded off) was 32% for CPS (n = 44), 63% for GTC (n = 16), and 26% (n = 50) for total disabling seizures (TDS) (SP motor, CPS and GTC). The median percentage reduction in seizure frequency was: CPS 27%, GTC 59% and TDS 29%; seizure reduction was significant for CPS (p < 0.05) and TDS (p < 0.001) (Wilcoxon signed-rank test). For the secondary evaluation period, as of 4/28/06, the responder rate for 62 subjects (excluding 1 subject with no disabling seizures at baseline and 2 subjects previously blinded off with fewer than 84-days of therapy on) was 40% for CPS (n = 52), 55% for GTC (n = 22), and 41% for TDS (n = 61). The median percentage reduction was: CPS 34%, GTC 66% and TDS 35%, and seizure reduction was significant for CPS (p < 0.05), GTC (p < 0.005), and TDS (p < 0.001). In 65 implanted subjects (including 17 device replacements) representing 65 patient years, there were no serious unanticipated device-related AEs, and responsive neurostimulation was well tolerated. Conclusions: An investigation of the RNS? system demonstrated safety and a sustained reduction in CPS, GTC and TDS events. Preliminary results indicated that the RNS? system may provide a safe and effective treatment for adults with intractable partial-onset epilepsy. (Supported by NeuroPace, Inc.) 1 Angela Y. Rackley, 1 Jerzy P. Szaflarski, 1 Daniel Woo, 1 Rosie Miller, 1 Jane Khoury, 1 Dawn O. Kleindorfer, 1 Joseph P. Broderick, 2 William Cahill, and 1 Brett M. Kissela ( 1 Department of Neurology, University of Cincinnati, Cincinnati, OH ; and 2 Department of Neurology, Department of Veteran's Affairs, Fresno, CA ) Rationale: Stroke-related seizures are frequently defined as early (within 2 weeks after stroke) and late. The incidence of early and late seizures is relatively well established. The incidence of acute seizures (≤24 hours after stroke) is unknown. In this population-based study, we aimed to establish the incidence of acute post-stroke seizures in a biracial cohort. We also sought to determine if there were any differences between race, stroke subtype, and stroke localization. Methods: All stroke cases between 7/93?6/94 within the population of the Greater Cincinnati metropolitan region were identified by review of all primary and secondary stroke diagnoses (ICD-9 codes 430?436) from 19 local acute-care hospitals, outpatient clinics, autopsy cases, and death certificates. Clinical and demographic data was collected by study nurses and subsequently reviewed by study physicians. The presence of seizures in the 24 hours after stroke symptom onset was obtained through additional record review; patients with a prior history of seizure were excluded. All available neuroimaging performed at the time of stroke was reviewed by study physicians. Variable Seizure No Seizure p-value Age (years) 67.0 ± 20.3 71.6 ± 13.0 0.01? Gender (male) 53 (43.4%) 1241 (44.2%) 0.88? Race (black) 18 (14.8%) ?473 (16.8%) 0.55? Hypertension 70 (57.4%) 1744 (62.1%) 0.30? Heart Disease 48 (39.3%) 1149 (40.9%) 0.73? Prior Stroke 31 (25.4%) ?652 (23.2%) 0.57? LVH on admission EKG 16 (13.1%) ?349 (12.4%) 0.82? Initial GCS 12 (3, 14) ??15 (14, 15) <0.0001 Initial Rankin ?0 (0, 3) ???0 (0, 3) 0.54? 30-day Mortality 35 (28.7%) ?361 (12.8%) <0.0001 Hemorrhagic Stroke 39 (32.0%) ?295 (10.5%) <0.0001 Data analyzed using logistic regression model Results: We identified 2932 strokes who had no prior history of seizures, of which 122 (4.2%) had seizures within the first 24 hours of stroke onset. Of ICH/SAH patients, 11.4% had a seizure within the first 24 hours of stroke onset (p ≤ 0.0001 vs. all stroke). In ischemic stroke, we observed a trend towards seizures being more common with cardioembolic stroke vs. all other ischemic stroke subtypes (4.5% vs. 2.9%, p = 0.07). There was a higher mortality rate in patients who developed stroke-related acute seizures. See table for additional detail. Conclusions: The overall rate of epileptic seizures within the first 24 hours of stroke onset is 4.2%. Risk factors for developing seizure activity include younger age, lower initial GCS score, and hemorrhagic stroke (ICH/SAH). Patients with stroke-related acute seizures have a higher 30-day mortality than patients without seizures. This may be related to a higher incidence of hemorrhagic stroke in this group. 1,2,3 N. Elshorst, 2 F.G. Woermann, 2 T. May, 2 H. Freitag, 2 S. Horstmann, 2 R. Schulz, 3 M.P. McAndrews, and 2,3 B. Pohlmann-Eden ( 1 Universitaetsklinikum Mannheim, University of Heidelberg, Mannheim, Germany ; 2 Mara Hospital, Bethel Epilepsy Centre Bielefeld, Bielefeld, Germany ; and 3 Krembil Neuroscience Centre, University of Toronto, Toronto, Canada ) Rationale: To identify the best predictors of postoperative verbal memory decline in patients undergoing left temporal lobe excisions for epilepsy. Methods: A retrospective analysis was carried out using data from 59 patients with left mesial temporal lobe epilepsy (TLE) who underwent en-bloc resection. Memory was measured by a standard word list-learning task (z-score for total number of words over 5 trials) administered before and after surgery. A new rating was devised for the MR images, to characterize the extent of hippocampal damage. Atrophy and signal change of the hippocampus were examined separately. Both changes were assessed on a scale: 0 = no change 1 = moderate atrophy/signal change, 2 = severe atrophy/signal change. The average of these two factors was calculated to classify the degree (range 0 to 2) of mesiotemporal sclerosis (MTS). The Wada results included number of correctly identified items after ipsilateral injection and contralateral injection (pass/fail boundary: 67%), as well as an asymmetry score. In various multiple regression analyses, Wada test scores (injection ipsilateral, injection contralateral, asymmetry score), neuropsychological test scores before surgery, MRI scores (atrophy, increased signal change, MTS) and further risk factors such as age of onset were entered as the independent variables. The difference in the verbal memory test was the dependent variable. Results: After surgery, 35% of the patients showed a memory decline indicated by a z-score loss of more than one point. The regression analyses revealed that the pre-operative memory test score was the strongest predictor of memory change (p < 0.05, adjusted R Square = 0.341). Higher preoperative performance in the verbal memory task was associated with a greater risk of verbal memory decline after surgery. The second significant predictor was the MTS classification (p < 0.05, adjusted R Square = 0.428). Greater damage to the hippocampus was associated with less decline following surgery. None of the other variables, including the Wada results and other risk factors, were significant predictors of memory outcome. Conclusions: The Wada test results did add to the prediction of verbal memory decline in this sample of patients in whom temporal lobe resection was considered safe with regard to the risk of amnesia (i.e., adequate memory functioning following ipsilesional injection compared to contralesional injection). Thus, the clinical data obtained routinely before surgery seems to be sufficient to predict risk of memory decline in the majority of TLE patients. However, our findings do not refute the usefulness of the Wada test for excluding from surgery those patients who are at risk for amnesia after temporal lobe resection. 1 Cigdem I. Akman, 1 Aviva Olgavsky, 1 Marla Hamberger, 1 Ronald Tikofsky, and 1 Frank Gilliam ( 1 Department of Neurology, Comprehensive Epilepsy Center, Columbia University, College of Physicians  2 Neurology, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Republic of Korea ; and 3 Biomedical Engineering, Hanyang University, Seoul, Republic of Korea ) Rationale: We investigated longitudinal changes in the volumes and shapes of the hippocampi of non-surgical and post-surgical patients with unilateral mesial temporal lobe epilepsy. Methods: Sixteen non-surgical patients had a repeat brain MRI with a mean interval of 3.7 years and 16 post-surgical patients had two postoperative MRI scans with a mean interval of 4.8 years. We measured ipsilateral and contralateral hippocampal volumes (IHV and CHV) in the non-surgical group and CHV in the postsurgical group. Hippocampal shape deformity analysis (HSDA) was also performed in each group. Results: In non-surgical patients, both IHV and CHV decreased significantly between the two scans (7.3 ± 5.7%, p < 0.001 and 2.5 ± 2.6%, p = 0.002). Moreover, IHV percent decreases were significantly correlated with the number of total seizures between the two scans (r = 0.57, p = 0.02). HSDA also showed inward deformities in both ipsilateral and contralateral hippocampi in non-surgical patients (uncorrected p < 0.05). In post-surgical patients, mean CHV (2481.1 ± 364.9 mm3) for first postsurgical scans was not significantly different from mean CHV (2480.4 ± 316.1 mm3) for second scans. Total seizure numbers during the year before surgery were negatively correlated with CHV losses between the two postsurgical scans (r =?0.72, p = 0.002). HSDA of contralateral hippocampi between the two postsurgical scans mainly showed outward deformities in head, body and tail but small inward deformities in tail. Conclusions: These results suggest that recurrent seizures induce progressive atrophy in both ipsilateral and contralateral hippocampi, but that a seizure-free state after the resection of an epileptic focus prevents longitudinal volume loss of the contralateral hippocampus and may facilitate a partial volume increase.
+ER  - 
+
+TY  - JOUR
+TI  - XIIth Annual Meeting of the PanAmerican Society for Pigment Cell Research
+JO  - Pigment Cell Research
+VL  - 17
+IS  - 4
+SN  - 9780470710722
+UR  - https://doi.org/10.1111/j.1600-0749.2004.00175.x
+DO  - doi:10.1111/j.1600-0749.2004.00175.x
+SP  - 426
+EP  - 426
+PY  - 2004
+AB  - Implication of Pigment Cell Biology for Understanding Human Diseases was the topic of the The Sixth Annual Chao Family Comprehensive Cancer Center: Carcinogenesis and Cancer Prevention conference, jointly sponsored by the University of California Irvine College of Medicine and the PanAmerican Society of Pigment Cell Research This was a multi-disciplinary, three-and-one-half day conference for basic science and clinical investigators. The overall objectives of the meeting were to expand ideas, approaches, and collaborations for members of the society by bringing together experts in disciplines relevant to pigment cell research and associated diseases such as melanoma, albinoism, vitiligo, and other diseases of pigment cells. The meeting focused on recent developments in the genetics, novel gene function, gene expression pattern, and post-transcriptional processing of melanocyte specific proteins, melanosome function, melanin structure, and implications of recent basic advances for understanding human pigmentary diseases. These areas have been particularly productive due to recent breakthroughs and rapid progress in microarray gene expression, mass spectrometry, atomic force microscopy, electron paramagnetic resonance, and other physical chemical and molecular biotechnologies.
+ER  - 
+
+TY  - JOUR
+AU  - Chew, D. P.
+AU  - Amerena, J.
+AU  - Coverdale, S.
+AU  - Rankin, J.
+AU  - Astley, C.
+AU  - Brieger, D.
+TI  - Current management of acute coronary syndromes in Australia: observations from the acute coronary syndromes prospective audit
+JO  - Internal Medicine Journal
+VL  - 37
+IS  - 11
+SN  - 9780470710722
+UR  - https://doi.org/10.1111/j.1445-5994.2007.01435.x
+DO  - doi:10.1111/j.1445-5994.2007.01435.x
+SP  - 741
+EP  - 748
+KW  - acute coronary syndrome
+KW  - evidence based medicine
+KW  - invasive management
+KW  - quality of care
+PY  - 2007
+AB  - Abstract Background: Acute coronary syndromes (ACS) management is now well informed by guidelines extrapolated from clinical trials. However, most of these data have been acquired outside the local context. We sought to describe the current patterns of ACS care in Australia. Methods: The Acute Coronary Syndrome Prospective Audit study is a prospective multi-centre registry of ST-segment elevation myocardial infarction (STEMI), high-risk non-ST-segment elevation ACS (NSTEACS-HR) and intermediate-risk non-ST-segment elevation ACS (NSTEACS-IR) patients, involving 39 metropolitan, regional and rural sites. Data included hospital characteristics, geographic and demographic factors, risk stratification, in-hospital management including invasive services, and clinical outcomes. Results: A cohort of 3402 patients was enrolled; the median age was 65.5?years. Female and non-metropolitan patients comprised 35.5% and 23.9% of the population, respectively. At enrolment, 756 (22.2%) were STEMI patients, 1948 (57.3%) were high-risk NSTEACS patients and 698 (20.5%) were intermediate-risk NSTEACS patients. Evidence-based therapies and invasive management use were highest among suspected STEMI patients compared with other strata (angiography: STEMI 89%, NSTEACS-HR 54%, NSTEACS-IR 34%, P?<?0.001) (percutaneous coronary intervention: STEMI 68.1%, NSTEACS-HR 22.2%, NSTEACS-IR 8.1%, P?<?0.001). In hospital mortality was low (STEMI 4.0%, NSTEACS-HR 1.8%, NSTEACS-IR 0.1%, P?<?0.001), as was recurrent MI (STEMI 2.4%, NSTEACS-HR: 2.8%, NSTEACS-IR 1.2%, P?=?0.052). Conclusion: There appears to be an ?evidence-practice gap? in the management of ACS, but this is not matched by an increased risk of in-hospital clinical events. Objective evaluation of local clinical care is a key initial step in developing quality improvement initiatives and this study provides a basis for the improvement in ACS management in Australia.
+ER  - 
+
+TY  - JOUR
+AU  - Rasoanandrianina, Henitsoa
+AU  - Grapperon, Aude-Marie
+AU  - Taso, Manuel
+AU  - Girard, Olivier M.
+AU  - Duhamel, Guillaume
+AU  - Guye, Maxime
+AU  - Ranjeva, Jean-Philippe
+AU  - Attarian, Shahram
+AU  - Verschueren, Annie
+AU  - Callot, Virginie
+C7  - e3801
+C8  - NBM-17-0119.R1
+TI  - Region-specific impairment of the cervical spinal cord (SC) in amyotrophic lateral sclerosis: A preliminary study using SC templates and quantitative MRI (diffusion tensor imaging/inhomogeneous magnetization transfer)
+JO  - NMR in Biomedicine
+JA  - NMR in Biomedicine
+VL  - 30
+IS  - 12
+SN  - 9780470710722
+UR  - https://doi.org/10.1002/nbm.3801
+DO  - doi:10.1002/nbm.3801
+SP  - e3801
+KW  - ALS
+KW  - diffusion tensor imaging
+KW  - GM atrophy
+KW  - inhomogeneous magnetization transfer
+KW  - motor neuron
+KW  - spinal cord
+KW  - spinal cord templates
+PY  - 2017
+AB  - In this preliminary study, our objective was to investigate the potential of high-resolution anatomical imaging, diffusion tensor imaging (DTI) and conventional/inhomogeneous magnetization transfer imaging [magnetization transfer (MT)/inhomogeneous magnetization transfer (ihMT)] at 3 T, analyzed with template-extracted regions of interest, to measure the atrophy and structural changes of white (WM) and gray (GM) matter spinal cord (SC) occurring in patients with amyotrophic lateral sclerosis (ALS). Ten patients with ALS and 20 age-matched healthy controls were recruited. SC GM and WM areas were automatically segmented using dedicated templates. Atrophy indices were evaluated from T2*-weighted images at each vertebral level from cervical C1 to C6. DTI and ihMT metrics were quantified within the corticospinal tract (CST), posterior sensory tract (PST) and anterior GM (aGM) horns at the C2 and C5 levels. Clinical disabilities of patients with ALS were evaluated using the Revised ALS Functional Rating Scale, upper motor neuron (UMN) and Medical Research Council scorings, and correlated with MR metrics. Compared with healthy controls, GM and WM atrophy was observed in patients with ALS, especially at lower cervical levels, where a strong correlation was also observed between GM atrophy and the UMN score (R = ?0.75, p = 0.05 at C6). Interestingly, a significant decrease in ihMT ratio was found in all regions of interest (p < 0.0008), fractional anisotropy (FA) and MT ratios decreased significantly in CST, especially at C5 (p < 0.005), and ?// (axial diffusivity) decreased significantly in CST (p = 0.0004) and PST (p = 0.003) at C2. Strong correlations between MRI metrics and clinical scores were also found (0.47 < |R| < 0.87, p < 0.05). Altogether, these preliminary results suggest that high-resolution anatomical imaging and ihMT imaging, in addition to DTI, are valuable for the characterization of SC tissue impairment in ALS. In this study, in addition to an important SC WM demyelination, we also observed, for the first time in ALS, impairments of cervical aGM.
+ER  - 
+
+TY  - JOUR
+AU  - Reilmann, Ralf
+AU  - Leavitt, Blair R.
+AU  - Ross, Christopher A.
+TI  - Diagnostic criteria for Huntington's disease based on natural history
+JO  - Movement Disorders
+JA  - Mov Disord.
+VL  - 29
+IS  - 11
+SN  - 9780470710722
+UR  - https://doi.org/10.1002/mds.26011
+DO  - doi:10.1002/mds.26011
+SP  - 1335
+EP  - 1341
+KW  - Huntington's disease
+KW  - diagnostic criteria
+KW  - diagnosis
+KW  - care
+KW  - clinical trials
+KW  - presymptomatic HD
+KW  - premanifest HD
+KW  - prodromal HD
+KW  - manifest HD
+KW  - chorea
+KW  - extrapyramidal
+PY  - 2014
+AB  - Abstract Huntington's disease (HD) is currently diagnosed based on the presence of motor signs indicating 99% ?diagnostic confidence? for HD. Recent advances in the understanding of HD natural history and neurobiology indicate that disease-related brain changes begin at least 12 to 15 years before the formal diagnosis based on motor onset. Furthermore, subtle motor dysfunction, cognitive changes, and behavioral alterations are often seen before diagnosis made according to the current criteria. As disease-modifying treatments are developed, likely beginning therapy early will be desirable. We therefore suggest that expanded diagnostic criteria for HD should be adapted to better reflect the natural history of the disease, to enable the conduct of clinical trials in premanifest subjects targeting prevention of neurodegeneration, and to facilitate earlier symptomatic treatment. We propose a new set of criteria for HD diagnostic categories in the International Classification of Diseases that reflect our current understanding of HD natural history and pathogenesis. Based on defined criteria, for example, the Diagnostic Confidence Level and the Total Functional Capacity scales of the Unified Huntington's Disease Rating Scale, HD should be divided in the categories ?genetically confirmed? with the subcategories ?presymptomatic,? ?prodromal,? and ?manifest? and ?not genetically confirmed? subdivided into ?clinically at risk,? ?clinically prodromal,? and ?clinically manifest.? ? 2014 International Parkinson and Movement Disorder Society
+ER  - 
+
+TY  - JOUR
+AU  - Winchenne, Anaïs
+AU  - Cecchini, Jérôme
+AU  - Deux, Jean-François
+AU  - De Prost, Nicolas
+AU  - Razazi, Keyvan
+AU  - Carteaux, Guillaume
+AU  - Galacteros, Frederic
+AU  - Habibi, Anoosha
+AU  - Bartolucci, Pablo
+AU  - Melica, Giovanna
+AU  - Khellaf, Mehdi
+AU  - Michel, Marc
+AU  - Maitre, Bernard
+AU  - Mekontso Dessap, Armand
+TI  - A clinical risk score for pulmonary artery thrombosis during acute chest syndrome in adult patients with sickle cell disease
+JO  - British Journal of Haematology
+JA  - Br J Haematol
+VL  - 179
+IS  - 4
+SN  - 9780470710722
+UR  - https://doi.org/10.1111/bjh.14914
+DO  - doi:10.1111/bjh.14914
+SP  - 627
+EP  - 634
+KW  - sickle cell disease
+KW  - sickle cell disease complications
+KW  - acute chest syndrome
+KW  - pulmonary artery thrombosis
+KW  - multidetector computed tomography
+PY  - 2017
+AB  - Summary Pulmonary artery thrombosis (PAT) is involved in lung vascular dysfunction during acute chest syndrome (ACS) complicating sickle cell disease (SCD). No clinical score is available to identify patients eligible for multi-detector computed tomography (MDCT) angiography during ACS. This retrospective study aimed to develop a risk score for PAT during ACS (PAT-ACS risk score). Patients with SCD were investigated by MDCT during ACS. A logistic regression was performed to determine independent risks factors for PAT and to build the PAT-ACS risk score. A total of 43 episodes (11·9%) of PAT were diagnosed in 361 episodes of ACS. Multivariate analysis identified four risk factors, which were included in the PAT-ACS risk score: a baseline haemoglobin >82 g/l, the lack of a triggering factor for ACS, a platelet count >440 ? 109/l and a PaCO2 <38 mmHg at ACS diagnosis. The area under the receiver operating characteristic curve for the PAT-ACS risk score was 0·74 (95% confidence interval [CI] 0·69?0·79) and differed from that of the revised Geneva score (0·63 (95% CI 0·58?0·69); P = 0·04). The negative predictive value of a PAT-ACS risk score ≥2 was 94%. In conclusion, we propose a simple clinical risk score to identify SCD patients at high risk of PAT during ACS.
+ER  - 
+
+TY  - JOUR
+AU  - Gey, A.
+AU  - Tadie, J.-M.
+AU  - Caumont-Prim, A.
+AU  - Hauw-Berlemont, C.
+AU  - Cynober, L.
+AU  - Fagon, J.-Y.
+AU  - Terme, M
+AU  - Diehl, J.-L.
+AU  - Delclaux, C.
+AU  - Tartour, E.
+TI  - Granulocytic myeloid-derived suppressor cells inversely correlate with plasma arginine and overall survival in critically ill patients
+JO  - Clinical & Experimental Immunology
+JA  - Clin Exp Immunol
+VL  - 180
+IS  - 2
+SN  - 9780470710722
+UR  - https://doi.org/10.1111/cei.12567
+DO  - doi:10.1111/cei.12567
+SP  - 280
+EP  - 288
+KW  - arginine
+KW  - biomarker
+KW  - critically ill patients
+KW  - granulocytic myeloid-derived suppressor cells (gMDSC)
+KW  - immunosuppression
+PY  - 2015
+AB  - Summary Critically ill patients display a state of immunosuppression that has been attributed in part to decreased plasma arginine concentrations. However, we and other authors have failed to demonstrate a clinical benefit of L-arginine supplementation. We hypothesize that, in these critically ill patients, these low plasma arginine levels may be secondary to the presence of granulocytic myeloid-derived suppressor cells (gMDSC), which express arginase known to convert arginine into nitric oxide (NO) and citrulline. Indeed, in a series of 28 non-surgical critically ill patients, we showed a dramatic increase in gMDSC compared to healthy subjects (P?=?0·0002). A significant inverse correlation was observed between arginine levels and gMDSC (P?=?0·01). As expected, gMDSC expressed arginase preferentially in these patients. Patients with high gMDSC levels on admission to the medical intensive care unit (MICU) presented an increased risk of death at day 7 after admission (P?=?0·02). In contrast, neither plasma arginine levels, monocytic MDSC levels nor neutrophil levels were associated with overall survival at day 7. No relationship was found between body mass index (BMI) or simplified acute physiology score (SAPS) score, sequential organ failure assessment (SOFA) score or gMDSC levels, eliminating a possible bias concerning the direct prognostic role of these cells. As gMDSC exert their immunosuppressive activity via multiple mechanisms [production of prostaglandin E2 (PGE2), interleukin (IL)-10, arginase, etc.], it may be more relevant to target these cells, rather than simply supplementing with L-arginine to improve immunosuppression and its clinical consequences observed in critically ill patients.
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Xue
+AU  - Shen, Shichen
+AU  - Rasam, Sailee Suryakant
+AU  - Qu, Jun
+TI  - MS1 ion current-based quantitative proteomics: A promising solution for reliable analysis of large biological cohorts
+JO  - Mass Spectrometry Reviews
+JA  - Mass Spec Rev
+VL  - 38
+IS  - 6
+SN  - 9780470710722
+UR  - https://doi.org/10.1002/mas.21595
+DO  - doi:10.1002/mas.21595
+SP  - 461
+EP  - 482
+KW  - MS1 quantification
+KW  - ion current-based proteomics
+KW  - LC-MS
+KW  - reproducible protein measurement
+KW  - large cohorts
+PY  - 2019
+AB  - The rapidly-advancing field of pharmaceutical and clinical research calls for systematic, molecular-level characterization of complex biological systems. To this end, quantitative proteomics represents a powerful tool but an optimal solution for reliable large-cohort proteomics analysis, as frequently involved in pharmaceutical/clinical investigations, is urgently needed. Large-cohort analysis remains challenging owing to the deteriorating quantitative quality and snowballing missing data and false-positive discovery of altered proteins when sample size increases. MS1 ion current-based methods, which have become an important class of label-free quantification techniques during the past decade, show considerable potential to achieve reproducible protein measurements in large cohorts with high quantitative accuracy/precision. Nonetheless, in order to fully unleash this potential, several critical prerequisites should be met. Here we provide an overview of the rationale of MS1-based strategies and then important considerations for experimental and data processing techniques, with the emphasis on (i) efficient and reproducible sample preparation and LC separation; (ii) sensitive, selective and high-resolution MS detection; iii)accurate chromatographic alignment; (iv) sensitive and selective generation of quantitative features; and (v) optimal post-feature-generation data quality control. Prominent technical developments in these aspects are discussed. Finally, we reviewed applications of MS1-based strategy in disease mechanism studies, biomarker discovery, and pharmaceutical investigations.
+ER  - 
+
+TY  - JOUR
+AU  - Rogers, Ian S.
+AU  - Rinaldi, Michael J.
+AU  - Humphrey, Chester B.
+AU  - Boden, William E.
+AU  - Dougherty, James E.
+TI  - Postpartum dissection of the left main coronary artery
+JO  - Clinical Cardiology
+JA  - Clin Cardiol
+VL  - 29
+IS  - 4
+SN  - 9780470710722
+UR  - https://doi.org/10.1002/clc.4960290410
+DO  - doi:10.1002/clc.4960290410
+SP  - 175
+EP  - 178
+KW  - coronary artery dissection
+KW  - postpartum
+KW  - peripartum
+KW  - spontaneous
+PY  - 2006
+AB  - Abstract Peripartum coronary artery dissection is rare, but it is an increasingly recognized risk to women of childbearing age. Literature reviews reveal that about 80% of the population with spontaneous coronary artery dissections (SCAD) are female, and approximately 25?33% of cases occurred while the woman was pregnant or in the peripartum phase. Most cases have presented within 2 weeks of delivery. The left anterior descending is the most commonly affected vessel. The etiology is poorly understood, but many reports suggest that SCAD occurs as a result of protease release secondary to an eosinophilic vasculitis resulting in vessel lysis. Many investigators have examined the correlation between peripartum SCAD and estrogen levels; however, case studies have shown conflicting results regarding estrogen levels as the putative causative factor. Optimal treatment remains controversial. Presently, stenting appears to be best employed in the patients who have single-vessel dissection not involving the left main coronary artery (LMCA). Surgical revascularization via coronary artery bypass graft remains the optimal therapy in patients whose dissection involves the LMCA, in patients with concurrent multi-vessel dissection, and in patients with disease refractory to medical management. It is important to consider coronary artery dissection in the differential of any young woman who presents with signs or symptoms consistent with acute coronary syndrome, particularly if she is peripartum. Furthermore, once suspected, it is imperative that a definitive diagnostic study, that is, coronary angiography, be completed prior to the initiation of treatment whenever possible.
+ER  - 
+
+TY  - JOUR
+AU  - Van Thielen, B.
+AU  - Pestieau, P.
+AU  - Van Der Strieckt, A.
+AU  - Willekens, I.
+AU  - Busoni, V.
+AU  - Verhelle, F.
+AU  - Goossens, P.
+AU  - Delperdange, P.
+AU  - De Mol, G.
+AU  - Jacqmot, O.
+AU  - Buls, N.
+AU  - Kichou, M.
+AU  - de Mey, J.
+TI  - Normal Radiographic Anatomy of the Donkey Foot from Birth to 2 Years of Age
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 47
+IS  - S48
+SN  - 9780470710722
+UR  - https://doi.org/10.1111/evj.12486_29
+DO  - doi:10.1111/evj.12486_29
+SP  - 13
+EP  - 13
+PY  - 2015
+AB  - Reasons for performing study Normal radiographic anatomy of the juvenile donkey foot has not been reported previously. Objectives To provide a radiographic survey of the anatomical development of the donkey foot from 0 to 2 years of age. Study design Radiographic survey. Methods The right front foot of 9 donkey foals born in the spring of 2012, housed and fed in the same conditions, were radiographed every month for the first 6 months of age and every 3 months for the following 18 months. Latero-medial radiographs with and without barium markers at the coronary band and anterior-posterior radiographs of both front feet were obtained during weightbearing. Radiographs were obtained at 55?kV and 3?mAs with mobile x-ray equipment (Gierth RHF 200?ML, Examion DR810). Results The distal physis of the metacarpus (McIII) was closed at the mean age of 17.8 months (SD: 11.5, 21). The proximal physis of the proximal phalanx was closed at the mean age of 15.5 months (SD: 11.5, 21). The distal physis appeared as a clear radiolucent line at 2 weeks of age and was still visible subtly at 24 months. The proximal physis of the middle phalanx was closed at the mean age of 10.7 months (SD: 11.5, 19). The distal physis was visible at birth but closed at 4 days. Conclusions Based on our results, it seems that physes close at an older age in the donkey foal than in the horse. Ethical animal research:?The study was approved by the Ethics committee of the Vrije Universiteit Brussel (VUB), Brussels, Belgium. (VUB/14-272-2). Owners gave informed consent for their horses' inclusion in the study. Source of funding:?The authors acknowledge Vtrade Belgium for the logistic assistance. Competing interests:?None declared.
+ER  - 
+
+TY  - JOUR
+AU  - Gröndahl, G.
+AU  - Berglund, A.
+AU  - Skidell, J.
+AU  - Bondesson, U.
+AU  - Salomonsson, M.
+TI  - Detection of the Toxin Hypoglycin A in Pastured Horses and in the European Sycamore Maple Tree (Acer Pseudoplatanus) During Two Outbreaks of Atypical Myopathy in Sweden
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 47
+IS  - S48
+SN  - 9780470710722
+UR  - https://doi.org/10.1111/evj.12486_49
+DO  - doi:10.1111/evj.12486_49
+SP  - 22
+EP  - 22
+PY  - 2015
+AB  - Reasons for performing study Hypoglycin A (HG) appears to cause atypical myopathy (AM), but to our knowledge, detection of HG in affected and unaffected horses and concurrently in plants that they were exposed to has not previously been reported. Objectives To investigate HG in samples from horses exposed to Acer pseudoplatanus (European sycamore maple) and in such plant material, at the time of clinical cases of AM in the herd. Study design Cross-sectional study. Methods Blood was collected from 2 horses with AM and 22 clinically healthy co-grazing horses in 2 Swedish farms within one week of onset of signs (May 2014) and one month later, after horses were moved to other pastures. Ten healthy control horses from unaffected farms were sampled once. Samaras, seedlings, flowers and leaves from Acer pseudoplatanus and from Acer platanoides L (Norway maple) were collected from affected pastures. Hypoglycin A was analysed using chemical derivatisation with dansyl chloride (DNS) and ultra high performance liquid chromatography?tandem mass spectrometry. Hypoglycin A was detected as derivatised compound HG-DNS [M+H]+ with selected reaction monitoring. Results Hypoglycin A was detected in the horses affected with AM, and also in 20 out of 22 co-grazing horses. One month later, a surviving case horse and 9/20 co-grazing horses were still positive for HG. Controls from other farms were negative for HG. Hypoglycin A was detected in plant material from Acer pseudoplatanus, but not from Acer platanoides L. Conclusions Horses grazing in pastures with HG-containing Acer pseudoplatanus were positive for HG in blood, and some showed severe signs of myopathy. Ethical animal research:?Ethical consent for blood sampling was granted (C113/11) and horse owners gave their informed consent to inclusion of horses in the study. Source of funding:?National Veterinary Institute, Sweden. Competing interests:?None declared.
+ER  - 

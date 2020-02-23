@@ -1,0 +1,419 @@
+
+TY  - JOUR
+AU  - Auranen, Mari
+AU  - Villanova, Marcello
+AU  - Muntoni, Francesco
+AU  - Fardeau, Michel
+AU  - Scherer, Stephen W.
+AU  - Kalino, Hannu
+AU  - Minassian, Berge A.
+TI  - X-linked vacuolar myopathies: Two separate loci and refined genetic mapping
+JO  - Annals of Neurology
+JA  - Ann Neurol.
+VL  - 47
+IS  - 5
+SN  - 0364-5134
+UR  - https://doi.org/10.1002/1531-8249(200005)47:5<666::AID-ANA19>3.0.CO;2-N
+DO  - doi:10.1002/1531-8249(200005)47:5<666::AID-ANA19>3.0.CO;2-N
+SP  - 666
+EP  - 669
+PY  - 2000
+AB  - Abstract X-linked vacuolar myopathies can be divided into two forms: one that is associated with cardiomyopathy and mental retardation (XVCM-MR) and a second form, termed X-linked myopathy with excessive autophagy (XMEA), that spares cardiac muscle and has no central nervous system involvement. In this article, we demonstrate linkage between XMEA and markers on chromosome Xq28 and assign the XMEA gene locus to the most telomeric 10.5 cM of chromosome X. We also show that XVCM-MR is not allelic to XMEA. Ann Neurol 2000;47:666?669
+ER  - 
+
+TY  - JOUR
+AU  - Wilson, Robert B.
+AU  - Lynch, David R.
+AU  - Farmer, Jennifer M.
+AU  - Brooks, David G.
+AU  - Fischbeck, Kenneth H.
+TI  - Increased serum transferrin receptor concentrations in Friedreich ataxia
+JO  - Annals of Neurology
+JA  - Ann Neurol.
+VL  - 47
+IS  - 5
+SN  - 0364-5134
+UR  - https://doi.org/10.1002/1531-8249(200005)47:5<659::AID-ANA17>3.0.CO;2-T
+DO  - doi:10.1002/1531-8249(200005)47:5<659::AID-ANA17>3.0.CO;2-T
+SP  - 659
+EP  - 661
+PY  - 2000
+AB  - Abstract Mitochondrial iron accumulation is thought to underlie the pathophysiology of Friedreich ataxia and may occur at the expense of cytosolic iron. Decreases in cytosolic iron induce expression of the transferrin receptor, some of which is released into the serum. Here, we demonstrate that serum transferrin receptor concentrations are increased in patients with Friedreich ataxia, which supports the hypothesis that it is a disease of abnormal intracellular iron distribution. Ann Neurol 2000;47:659?661
+ER  - 
+
+TY  - JOUR
+AU  - Santoro, L
+AU  - Briani, C
+AU  - Giannini, F
+AU  - Girlanda, P
+AU  - Vitelli, E
+AU  - Schenone, A
+AU  - Benedetti, A
+AU  - Bogliun, G
+AU  - Manganelli, F
+AU  - Mazzeo, A
+AU  - Beghi, E
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 1
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 1085-9489
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00001.x
+DO  - doi:10.1046/j.1529-8027.2003.00001.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - Peripheral neuropathy (PN) has been found to be among the complications of hepatitis C virus (HCV) infection. Although the mechanisms of PN in patients with HCV infection are still unknown, cryoglobulinemia has been implicated as a possible cause of ischemic peripheral nerve impairment mediated by vasoconstriction, altered blood viscosity, and thrombosis of small vessels. However, available information is mostly based on referral patients with chronic HCV infection. In this study, an unselected sample of cases with newly diagnosed HCV infection has been examined to assess the prevalence and type of PN and to correlate the disease with the presence of cryoglobulinemia. The study population included 41 patients with HCV infection and no documented risk factors for PN (18 women and 23 men, aged 17 to 72 years) referred to the neurophysiology units of 7 Italian centers (Genova, Lodi, Messina, Monza, Napoli, Padova, and Siena) for a clinical and electrophysiological screening of peripheral nerve disease. The mean latency between diagnosis of HCV infection (interpreted as a surrogate of the duration of infection) and study entry was 6.8 months (range 1?12). PN was documented in 13 cases (31.7%). Of these, 7 had mononeuropathy and 6 had polyneuropathy. Cryoglobulinemia was present in 4 patients (9.8%) and 3 of them had PN (polyneuropathy 2, mononeuropathy 1). The odds ratio of PN in patients with cryoglobulinemia, adjusted for age, sex, and duration of infection, was 4.4 (95% confidence interval, CI: 0.3?68.2) and was fairly similar (4.1; 95% CI 0.3?56.3) when the analysis was limited to the presence of polyneuropathy. The lack of statistical significance may by explained by the small sample size. Based on these findings, cryoglobulinemia can be interpreted as an independent risk factor for PN at the presence of HCV infection. However, given the fairly high prevalence of PN in patients with newly diagnosed HCV infection and the high proportion of cases not attributable to cryoglobulinemia (9 out of 13), other factors should be investigated to clarify the mechanisms of HCV neuropathy.
+ER  - 
+
+TY  - JOUR
+AU  - Dati, G
+AU  - Quattrini, A
+AU  - Dina, G
+AU  - D’Antonio, M
+AU  - Fratta, P
+AU  - Messing, A
+AU  - Feltri, ML
+AU  - Wrabetz, L
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 15
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 1085-9489
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00015.x
+DO  - doi:10.1046/j.1529-8027.2003.00015.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - Charcot-Marie-Tooth neuropathies and Déjérine-Sottas Syndrome are associated with mutations in the gene encoding Myelin Protein Zero. Here we report the characterization of two lines of transgenic mice expressing, in addition to the wild type protein, different point mutations in the extracellular domain of P0: the first is a deletion of Ser63 (DSer63), described in Charcot-Marie-Tooth 1B patients, whereas the second is a substitution of Ser 63 with a Cys (Ser63Cys) reported in a Déjérine-Sottas patient. By crossing the transgenic mice with P0 null mice, we produced animals that expressed only the mutated P0. We then investigated in vivo the expression and the effect of the two mutated proteins by morphological, biochemical and immunohistochemical analyses. Sciatic nerves of mice expressing P0DSer63 show severe hypomyelination, with the presence of onion bulbs and some uncompacted myelin sheaths. P0DSer63 does not reach the myelin sheaths and it accumulates in the cytoplasm, where it is probably degraded. In contrast, sciatic nerves of mice expressing P0Ser63Cys present a milder hypomyelination with rare onion bulbs and, surprisingly, normal myelin sheaths. The mutated protein is a full-length protein that, presumably, is integrated into the myelin sheaths. This study demonstrates that different mutations in P0 glycoprotein, leading to disorders of different severity in human, have different fates in the Schwann cells.
+ER  - 
+
+TY  - JOUR
+AU  - Feltri, ML
+AU  - Saito, F
+AU  - Moore, SA
+AU  - Nodari, A
+AU  - Previtali, S
+AU  - Quattrini, A
+AU  - Messing, A
+AU  - Campbell, KP
+AU  - Wrabetz, L
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 23
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 1085-9489
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00023.x
+DO  - doi:10.1046/j.1529-8027.2003.00023.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - Laminin is required for normal peripheral nerve development, as mutations causing absence of laminin-2 cause hereditary peripheral neuropathies (neuropathy of Merosin-Deficient Congenital Muscular Dystrophy and dystrophic mouse). We study the laminin receptors, integrins and dystroglycan, that link laminin in the basal lamina to the Schwann cells cytoskeleton. This linkage is defective in an animal model of Charcot-Marie-Tooth 4F, in which the Periaxin/Dystrogycan/DRP-2 complex is disrupted. To study the role of laminin receptors in these peripheral neuropathies, we inactivated the gene for beta1 integrin and dystroglycan specifically in Schwann cells of transgenic mice. alpha6beta1 integrin is present in Schwann cells and their precursors before myelination, the absence of beta1 integrin causes a severe peripheral neuropathy due to the failure of Schwann cells to interact with axons during axonal sorting. Although more severe, this neuropathy is morphologically similar to that of dystrophic mice. In contrast, dystroglycan first appears in Schwann cells after axonal sorting and just prior to myelination (pro-myelinating Schwann cells). In the absence of dystroglycan, mice develop a neuropathy with abnormally folded myelin sheaths, slow conduction velocity and loss of DRP-2, similar to that of periaxin-null mice. These data show that alpha6beta1 integrin and dystroglycan subserve different roles during nerve development, and that they are involved at different steps in the pathogenesis of Merosin-Deficient Congenital Muscular Dystrophy and Charcot-Marie-Tooth 4F.
+ER  - 
+
+TY  - JOUR
+AU  - Piatti, M
+AU  - Bogliun, G
+AU  - Marzorati, L
+AU  - Tredici, G
+AU  - Villa, P
+AU  - Rotondi, A
+AU  - Ferraro, R
+AU  - Resta, G
+AU  - Fei, F
+AU  - Lissoni, A
+AU  - Cundari, S
+AU  - Zanna, C
+AU  - Cavaletti, G
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 24
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 1085-9489
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00024.x
+DO  - doi:10.1046/j.1529-8027.2003.00024.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - The present study was performed with the aim to compare different clinically-based neurotoxicity scales with a more extended composite scale (Total Neuropathy Scale) already validated in diabetic patients, in order to improve the grading of chemotherapy-induced peripheral neuropathy (CIPN) severity. The features of CIPN were evaluated in a series of women affected by locally advanced squamous cervical carcinoma treated with cisplatin and paclitaxel? based chemotherapy by clinical examination, neurophysiology and quantitative sensory testing of vibration threshold (VDT); the ECOG, Ajani and NCIC-CTC grades were assessed by a neurologist after clinical examination and the TNS was calculated after additional instrumental examination. At the same time, the treating oncologist, who was blinded as regards the results of the neurological examination, assessed the NCIC-CTC sensory neurotoxicity grade. The correlation existing between the different evaluations was evaluated with the Spearman test on a total of 97 visits. Our results indicate for all the neurotoxicity scales commonly used by oncologists and evaluated in this study a significant correlation with TNS; the interexaminer agreement comparison evaluation evidenced that in several cases the neurologist attributed a higher grade in the NCIC-CTC scale than the oncologist, and this discrepancy was mainly due to a different evaluation of the sensory impairment. In conclusion, the TNS can be used to assess effectively the severity of CIPN and the results of this evaluation can be reliably correlated with the oncological grading of sensory peripheral neurotoxicity; the wider range of TNS values, however, can allow a more accurate grading of the sensory impairment, a feature which can improve the estimate of CIPN changes, particularly in clinical trials; finally, the use of standardized methods of examination of the sensory function (e.g. the semiquantitative measure of vibration sensibility using the 128?Hz tuning fork) may reduce the interexaminer disagreement.
+ER  - 
+
+TY  - JOUR
+AU  - Amadio, S
+AU  - Corradi, A
+AU  - Croci, L
+AU  - Broccoli, V
+AU  - Zecchini, S
+AU  - Previtali, S
+AU  - Wurst, W
+AU  - Maggi, R
+AU  - Del Carro, U
+AU  - Quattrini, A
+AU  - Consalez, GG
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 43
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 1085-9489
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00043.x
+DO  - doi:10.1046/j.1529-8027.2003.00043.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - Study aim: the Ebf gene family has been implicated in several developmental processes, ranging from B-cell development to neuronal differentiation. As the murine Ebf2 gene is expressed in numerous sites of nervous system, Ebf2-null mice develop hypogonadotropic hypogonadism, due to defective migration of gonadotropin releasing hormone-synthesizing neurons, and a peripheral neuropathy as well. Therefore, we aimed to study whether electrophysiological tests would be able to detect abnormalities of peripheral nerve function. Methods: 2 groups of mice were studied, which consisted of 8 Ebf2-/- mice and 9 age-matched controls. The sciatic nerve was stimulated at the ankle and at the ischiatic notch; the compound motor action potential (cMAP) was recorded from the paw muscles with a pair of needle electrodes to measure the motor conduction velocity (MCV). Results: MCV mean values were lower in Ebf2-/-(21.8?m/sec; SD 2.9) than in controls (35.2?m/sec; SD 2.6) and the difference was significant (p?<?0.001). The mean cMAP amplitude was also decreased in Ebf2-/-(6.2?mV; SD 2.7) as compared to controls (9.3?mV; SD 2.6, p?<?0.05). Conclusions: electrophysiological tests demonstrated a sharp decrease of sciatic MCV in Ebf2-/- mouse, as consequence of defective axon sorting, segmental dysmyelination and axonal damage revealed by pathological study.
+ER  - 
+
+TY  - JOUR
+AU  - Ragno, M
+AU  - Capasso, M
+AU  - Caporale, CM
+AU  - De Angelis, MV
+AU  - Lupo, S
+AU  - Di Muzio, A
+AU  - Uncini, A
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 47
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 1085-9489
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00047.x
+DO  - doi:10.1046/j.1529-8027.2003.00047.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - A 38-year-old man begun to have paresthesias in the last three fingers of the left hand followed in few months by paresthesias in the right hand, weakness of distal muscles in upper limbs and paresthesias of lower limbs. HCV positivity was discovered by routine blood test. Neurological examination, 18 months after onset, showed asymmetric weakness and sensory loss with a nerve distribution more on the right side. Electrophysiological examination showed a sensory-motor demyelinating neuropathy with motor conduction blocks and or excessive temporal dispersion of proximal compound muscle action potential in five nerves. Coexistence of focal motor and sensory conduction blocks at the same sites was demonstrated in three nerves. CSF examination showed increased protein content (66?mg/dl) and no cells. Cryoglobulins were absent. Active HCV-RNA replication was detected in the serum by RT-PCR. Liver biopsy revealed chronic hepatitis. Sural nerve biopsy showed fiber loss, prevalently of large diameter fibers, asymmetrical between fascicles and few clusters of regeneration. There were no demyelinating features, onion bulbs or inflammatory infiltrates. Weakness and electrophysiological findings worsened after high doses intravenous immunoglobulins but improved after intravenous methylprednisolone and interferon alpha treatment with resolution of conduction blocks in two months. Multifocal acquired demyelinating sensory and motor neuropathy (MADSAM), as in the patient we describe, is a rare disorder considered an asymmetric variant of chronic inflammatory demyelinating neuropathy (CIDP). HCV infection is usually associated with a multineuropathy due to vasculitis or a symmetric sensory-motor axonal polyneuropathy. CIDP has been described but never MADSAM. It is difficult to be sure of a pathogenetic link between a dysimmune demyelinating neuropathy and HCV infection, nonetheless the coexistence of hepatitis makes the choice of treatment problematic in these patients.
+ER  - 
+
+TY  - JOUR
+AU  - Angiari, C
+AU  - Fabrizi, GM
+AU  - Cavallaro, T
+AU  - Ferrarini, M
+AU  - Cabrini, I
+AU  - Simonati, A
+AU  - Rizzuto, N
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 50
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 1085-9489
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00050.x
+DO  - doi:10.1046/j.1529-8027.2003.00050.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - The axonal form of Charcot-Marie-Tooth neuropathy (CMT type 2) has autosomal dominant inheritance and is genetically heterogeneous. Only 2 genes are known so far. Two unrelated Caucasian pedigrees (from Russia and Belgium) had 2 distinct mutations in the neurofilament-light gene (NF-L)(CMT2E, chromosome 8p21); a single Japanese pedigree had a mutation in the kinesin 1B gene (KIF1B?)(CMT2A, chromosome 1p35-p36). We aimed at investigating the epidemiological relevance of NF-L in an Italian series with CMT2. The series included 30 index cases with CMT2 diagnosed according to clinical, electrophysiological and pathological criteria, in whom we have ruled out mutations of MPZ/P0 and CX32. In the selected series, the entire coding region of NF-L was investigated by automated direct nucleotide sequencing. Direct molecular test of the novel identified mutation was performed by analyzing a restriction fragment length polymorphism (RFLP) for AatII. In a single five-generation pedigree, with 3 affected member examined, we identified a novel heterozygous c.64C?>?T transition which substitutes a proline with a serine at amino acid residue 22 (Pro22Ser). The mutation appeared to be pathogenic because it co-segregated with the disease in the pedigree and it was absent in more than 100 healthy controls. The amino acid change occurs in the N-terminal head domain which regulates the assembly of neurofilaments. The report emphasizes the etiological role of NF-L in CMT2.
+ER  - 
+
+TY  - JOUR
+AU  - Cocito, D
+AU  - Chiò, A
+AU  - Isoardo, G
+AU  - Ciaramitaro, P
+AU  - Ghiglione, P
+AU  - Poglio, F
+AU  - Vercellino, M
+AU  - Mutani, R
+AU  - Bergamasco, B
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 57
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 1085-9489
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00057.x
+DO  - doi:10.1046/j.1529-8027.2003.00057.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - BACKGROUND: Since 1991, five sets of electrophysiological criteria for CIDP have been reported. However, until now, receiver operator characteristic (ROC), such as sensitivity and specificity, of only AAN criteria were investigated, showing a high specificity, but intermediate sensitivity. The application of these criteria may be useful in clinical trials, but is inadequate in clinical practice, since they preclude immunomodulating treatment in patients who do not meet them. OBJECTIVE: 1) to evaluate the ROC and predictive value of five different electrophysiological criteria for CIDP (AAN, INCAT, Rotta et?al, Nicholas et?al. and Saperstein et?al.); 2) to identify the most informative electrophysiological features indicative of demyelination by mean of the likelihood ratio; 3) to determine, in our series of cases, a set of minimal electrophysiological criteria (albeit aspecific) enough sensitive for CIDP diagnosis. PATIENTS AND METHODS: 20 patients with sensorimotor polyneuropathy, progressive for at least 2 months, with weakness in least two limbs and documented improvement in strength in response to immunotherapy. Other potential causes were excluded, including diabetes and IgM paraproteinemia with or without anti-MAG reactivity. Twelve patients with axonal polyneuropathy associated with diabetes and 12 patients with amyotrophic lateral sclerosis were included as controls. Nerve conduction studies (NCS) were evaluated according to all five sets of NCS criteria and ROC was calculated. Likelihood ratio for CIDP was evaluated for each set of NCS criteria and for presence of each of the following features in different number of nerves: motor conduction velocities (MCV), conduction blocks/temporal dispersion, distal motor (DML) and F-wave latencies (FWL). MCV, DML and FWL were considered indicative of demyelination if decreased or increased as suggested by AAN criteria. Results will be discussed.
+ER  - 
+
+TY  - JOUR
+AU  - Leone, M
+AU  - Galassi, G
+AU  - Barbieri, A
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 58
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 1085-9489
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00058.x
+DO  - doi:10.1046/j.1529-8027.2003.00058.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - GBS is characterized by ascending motor paresis, hypo/areflexia, minimal objective sensory symptoms, electrophysiological evidence of demyelination, CSF albuminocytologic dissociation. Several related syndromes are regarded as variants being the pathogenesis considered an autoimmune attack on peripheral nerve antigens. A 42-year-old veterinary was admitted because of severe myalgias following one-day high fever. Twelve hours later, he experienced dysphonia, dysphagia, and difficulty in chewing. Clinical examination showed: normal eye movements, bilateral facial weakness, tongue paralysis, limb and trunk sensory ataxia. Muscle strength was minimally affected and deep jerks were weakened. Sensory testing revealed distal loss for pin-prick, vibration, and position sense in the four extremities. Normal laboratory included emato-urinary tests, CK, rheumatology and endocrine profiles, microbiological and viral screenings. Search for enteric Campylobacter jejuni was negative. CSF protein was 160?mg/dl (normal?<?45). In serum, antiGQ1b IgG were elevated. On admission, electrophysiology was normal. Twenty days later, in motor nerves conduction velocity was normal whereas evidence of demyelination was limited to prolonged F-waves and terminal latencies. IVIG (0.4?g/kg/daily for five days) produced transient improvement. Because of relapse of sensory symptoms, 10 days later a course of PE was performed with benefit. Patient was followed clinically during six months showing almost complete recovery. In conclusion, we report an acute neuropathy with benign course, high protein in CSF, predominant involvement of sensory fibers, electrodiagnostic evidence of demyelination. The nosologic position of this case seems to fit the criteria of GBS sensory variant. The detection in serum of antiGQ1b IgG proposes similarities with FS and with ataxic GBS suggesting a continuity and a possible common autoimmune mechanism attacking either Schwann cells or motor axons.
+ER  - 
+
+TY  - JOUR
+AU  - Donadio, V
+AU  - Montagna, P
+AU  - Provini, F
+AU  - Vetrugno, R
+AU  - Di Stasi, V
+AU  - Baruzzi, A
+AU  - Liguori, R
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 85
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 1085-9489
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00085.x
+DO  - doi:10.1046/j.1529-8027.2003.00085.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - The aim of this study is to report changes in muscle sympathetic activity (MSA) and other cardiovascular variables during central apnea occurring during a relaxed wakefulness. We describe a 47-year-old man with a five-year history of apnea. Polysomnographic recording showed repeated central apnea, without an obstructive peripheral component, during sleep or relaxed wakefulness. Neuromuscular disease was excluded by EMG investigation. During relaxed wake, MSA was evaluated by a microneurographic recording from the left peroneal nerve in association with blood pressure (BP), heart rate (HR), thoracoabdominal respiration and sympathetic skin response (SSR). Microneurographic polygraphic recording was performed during normal respiration (5 minutes) and during repeated apnea episodes (4 consecutive episodes with mean duration of 26.2?s; range 18?45). During normal respiration, MSA was 39.5 burst/min and 64.7 bursts/100 heartbeats, the heart rate was 61.1 beat/min. During the apnea episodes, both MSA (29% and 27%: 50.9 burst/min e 82.1 bursts/100 heartbeats respectively; mean values) and HR (1%: 61.9 beat/min; mean values) increased. The maximum MSA and HR increase was reached at the end of apnea and was followed by a BP increase. Spontaneous SSR were absent during apnea episodes whereas sporadic responses were recorded after the apnea episodes when the breathing acts were wide and prolonged. In conclusion, central apnea caused an increase in MSA and minor increase in HR leading to a BP increase following the apnea episode.
+ER  - 
+
+TY  - JOUR
+AU  - Milani, M
+AU  - Cesani, M
+AU  - Baratta, S
+AU  - Caccia, C
+AU  - Pareyson, D
+AU  - Taroni, F
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 86
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 1085-9489
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00086.x
+DO  - doi:10.1046/j.1529-8027.2003.00086.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - At least 15 genetic loci and ten genes have been associated with the demyelinating form of Charcot-Marie-Tooth hereditary neuropathy and related disorders. As pathogenic mutations have been identified in more and more genes, the labor and expense of screening for such mutations has increased substantially. Using conventional methods such as direct sequencing, single-strand conformation polymorphism (SSCP), or heteroduplex analysis, molecular diagnosis of CMT remains laborious due to the large number of exons to be screened. Some genes (MPZ, PMP22, EGR2, GJB1) are small and have to be analyzed in a relatively large number of patients while other rarer genes, such as periaxin (PRX, 19q13), are too large (7 exons encoding transcripts of 4.8?5.5 kilobases) to be easily included in a molecular diagnostic panel. Furthermore, the sensitivity of the more economical techniques (SSCP and heteroduplex analysis) is far from being optimal (?). Denaturing High-Performance Liquid Chromatography (DHPLC) is a newly developed method to scan DNA for mutations, which is capable of automated high-throughput analysis that does not require modified PCR primers, specific reagent arrays or detection labels, or any sample pretreatment other than PCR. We have undertaken the mutational analysis of some genes associated with CMT1 and related neuropathies by using DHPLC. Optimal conditions have been determined for DHPLC analysis of MPZ, PMP22, GJB1 and PRX genes in an initial group of 30 patients with severe demyelinating neuropathy, negative for the common 17p11 duplication. The very high sensitivity of the method was demonstrated by analyzing a control group of patients with known mutations in the MPZ, PMP22 and GJB1 genes. The work is still in progress. Thus far, DHPLC has resolved all the mutations previously detected by sequencing and allowed the identification of a number of polymorphic variants in the PRX gene and a novel disease mutation in MPZ gene exon 4 in a patient with an intermediate (axonal-demyelinating) form of CMT. Interestingly, this mutation had consistently appeared as homozygous at previous direct sequencing analysis. DHPLC clearly showed the heterozygous state of the mutation, thus demonstrating the power of this technique also in identifying sequencing artifact or mutation mosaicism, if any. Partially supported by a grant Ricerca Finalizzata Ministero della Sanità to FT.
+ER  - 
+
+C7  - pp. 185-224
+TI  - Hybrid Variations on a Documentary Theme
+SN  - 9781118288924
+UR  - https://doi.org/10.1002/9781118340660.ch5
+DO  - doi:10.1002/9781118340660.ch5
+SP  - 185-224
+KW  - cinema
+KW  - documentary
+KW  - fiction
+KW  - hybrid variations
+KW  - mediatic spectrum
+KW  - reenactment
+KW  - speech tact
+PY  - 2003
+AB  - Summary Documentary and fiction are theoretically and practically intermeshed, just as history and myth, are symbiotically connected. This chapter examines the ways in which the hybridization of documentary and fiction has been mobilized as a radical aesthetic resource. It discusses the documentary/fiction dichotomy, realms of reenactment, and mediatic spectrum. The chapter examines four accounts of the same event representing different points along the spectrum including: (1) TV network news; (2) a feature fiction film; (3) a music video; and (4) a feature documentary. The early years of the twenty-first century, form a golden age of cinematic ?in-betweenness,? in films that concertedly slip through the cracks of the border fences between fiction and non-fiction. The films discussed in the chapter break down the customarily inviolate boundaries separating two orders of filmic discourse, replacing the usual wall with a permeable membrane, leading to documentary-inflected fictions and fictionalized documentaries.
+ER  - 
+
+TY  - JOUR
+AU  - Terenghi, F
+AU  - Allaria, S
+AU  - Nobile-Orazio, E
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 3
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 9781118288924
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00003.x
+DO  - doi:10.1046/j.1529-8027.2003.00003.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - Intravenous immunoglobulins (IVIg) are successfully used as immunomodulatory therapy in patients with multifocal motor neuropathy (MMN) but their mechanism of action remains unknown. An anti-idiotypic block of pathogenic autoantibodies has been often postulated even if other possible mechanisms, including a modulation of the release of various cytokines, have been proposed. To evaluate the expression of cytokines in patients with MMN and their possible modulation by IVIg, we determined circulating levels of TNFα, INF?, IL2, IL4, IL10, and IL12 by ELISA in serum samples of 17 patients with MMN and compared them with 12 patients with amyotrophic lateral sclerosis (ALS), 12 with multiple sclerosis (MS), 6 with chronic inflammatory demyelinating polyneuropathy (CIDP), 5 with myasthenia gravis (MG) and 12 healthy controls (NS). Comparable levels of INF?, IL2, IL4, IL10 and IL12 were detected in patients? sera and controls. Even if TNFα levels did not differ significantly among patients? groups, they were higher than in any healthy control (mean?±?SD 1.2?±?0.5?pg/ml, range 0.7?2.4?pg/ml), in 12 (70%) MMN patients (mean?±?SD 3.6?±?1.9?pg/ml; range 0.2?7.5?pg/ml), all ALS, 3 MS (25%), 2 CIDP (40%) and 2 MG (40%). We then measured the concentration of TNFα before and after IVIg therapy in 9 MMN and 2 ALS patients. In all but one MMN patients, circulating levels of TNFα slightly increased after treatment with IVIg (mean values 4.3 vs. 7.2?pg/ml) and decreased 3 weeks after therapy while in both ALS patients they decreased or remained unchanged. No detectable level of TNFα was found in IVIg preparation. This study shows that, similarly to what previously reported in other autoimmune neuropathy as GBS and CIDP, TNFα serum levels are slightly increased in MMN but, at odds with what reported in these disease, their concentration tend to increase parallel to clinical improvement after IVIg therapy. Further studies are necessary to clarify the pathogenetic implication of this finding and in particular whether a possible deviation from a presumably Th2 to a Th1 immune response may help explaining the effect of IVIg in MMN.
+ER  - 
+
+TY  - JOUR
+AU  - Provitera, V
+AU  - Nolano, M
+AU  - Stancanelli, A
+AU  - Di Caprio, G
+AU  - Crisci, C
+AU  - Santoro, L
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 5
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 9781118288924
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00005.x
+DO  - doi:10.1046/j.1529-8027.2003.00005.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - We studied the effect of chronic compression of median nerve at wrist on cutaneous innervation. Two-mm punch biopsies were obtained from third fingertip in 40 patients (32 female and 8 male, age range 30?74 years) with carpal tunnel syndrome. Patients with diabetes and other metabolic or endocrinological disorders or with electrophysiological findings of a diffuse neuropathy were excluded. By means of immunohistochemical techniques and confocal microscopy we counted epidermal nerve fibers, Meissner corpuscles and myelinated papillary endings. All patients underwent electrophysiological study and quantitative sensory testing using Semmes-Weinstein monofilaments for tactile threshold and Medoc TSA II Neurosensory analyzer for thermal threshold evaluation. Morphological and functional data were compared with age and sex matched controls. We observed abnormalities of epidermal nerve fibers, mechanoreceptors and their myelinated afferents in all patients. These abnormalities ranged from mild to marked and appeared more severe in patients with a longer disease duration and a slower conduction velocity along the median nerve.
+ER  - 
+
+TY  - JOUR
+AU  - Moscato, G
+AU  - Maritato, P
+AU  - Calabrese, R
+AU  - Nucciarone, B
+AU  - Borghetti, D
+AU  - Baglini, O
+AU  - Siciliano, G
+AU  - Sartucci, F
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 7
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 9781118288924
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00007.x
+DO  - doi:10.1046/j.1529-8027.2003.00007.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - The pathological hallmark of amyotrophic lateral sclerosis (ALS) is the progressive death of upper and lower motor neurons, leading to a clinical pictures mainly characterized by weakness, muscle wasting, brisk reflexes and Babinski sign. Routine electromyographic and electroneurographic studies are mandatory to a correct diagnosis but are unable to precisely quantify the pathological changes in the motor unit. Motor unit number estimation (MUNE) is a recent neurophysiological technique that allows to estimate number and amplitude of motor units in single muscles in order to assess the severity of ALS and to follow-up the progression of the disease. We applied this technique in 15 patients (12 male and 3 female; mean age?±?SD: 65.7?±?9.5?yrs, range 45?82), affected by definite or probable ALS according to El Escorial Criteria, and in 11 healthy subjects (4 male and 7 female; mean age?±?SD: 63.7?±?8.2?yrs, range 50?76), in order to assess changes in motor unit features of abductor digiti minimi (ADM) and tibialis anterior (TA) muscles. We found a significant difference (p?<?0.05) in the mean number of motor units between the two groups: 75 in ADM and 51,8 in TA in the ALS cohort vs. 283,5 in ADM and 96,9 in the healthy subjects. Conversely, the differences in the mean and maximal area between the two groups did not reach the statistical significance (ALS patients: max area 34.7?mVms, mean area 1.9?mVms; healthy subjects: max area 18.2?mVms, mean area 0.9?mVms). Our preliminary results confirm that MUNE is able to quantify the pathological changes in motor unit parameter and represents an adequate follow-up tool for disease progression and effectiveness of pharmacological treatment.
+ER  - 
+
+TY  - JOUR
+AU  - Logullo, F
+AU  - Manicone, M
+AU  - Sabbatini, D
+AU  - Di Bella, P
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 36
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 9781118288924
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00036.x
+DO  - doi:10.1046/j.1529-8027.2003.00036.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - Diabetic lumbosacral radiculoplexus neuropathy (DLRPN) is a well-recognized subacute painful asymmetric proximal and distal lower limb neuropathy. DLRPN may be associated with thoracic and upper limb involvement. The latter may appear as compression mononeuropathies and as a more diffuse disorder consistent with cervicobrachial radiculoplexus neuropathy (DCRPN). We performed a multiperspective study of patients, seen between 1999?2002, with diabetes and acute or subacute onset and progression of unilateral or asymmetric bilateral proximal and/or distal weakness in lower and/or upper limbs. We excluded patients who had compression mononeuropathies or radiculopathies, multineuropathies or asymmetric poly(radiculo)neuropathies, motor neuron disease as suggested by clinical, electrophysiological, laboratory or MRI findings. During the study period we observed 18 patients with diabetic radiculoplexus neuropathy. Most patients were middle-aged or elderly and male preponderance was noted. Ten patients had DLPRN, 6 both DLPRN and DCRPN, 2 isolated DCRPN. DCRPN affected prevalently hands and forearms, unilaterally in 3 patients, bilaterally in 5, and improved spontaneously but incompletely in most patients in several months. Pain was not a prominent feature except for one patient. We conclude that diabetic radiculoplexus neuropathy may involve the cervicobrachial regions not only in association with DLRPN but also alone.
+ER  - 
+
+TY  - JOUR
+AU  - Malagutti, MC
+AU  - Quattrini, A
+AU  - Munerati, E
+AU  - Del Carro, U
+AU  - Fazio, R
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 39
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 9781118288924
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00039.x
+DO  - doi:10.1046/j.1529-8027.2003.00039.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - A 40-year-old smoker complained of pain, deep and burning in character, constant, and persistent, associated with paresthesias in his feet for a period of two years. Furthermore, he developed aching non-traumatic foot ulcers. There was no history of diabetes and systemic illness. Neurological examination revealed loss of all modalities of sensation and hyperhidrosis in the limbs with a prominent distal-to-proximal gradient. The following laboratory tests were normal: blood count; test for liver, kidney, and thyroid function; cryoglobulins; anti-HCV antibodies and HIV. Neurophysiological investigation revealed an axonal neuropathy with a distal-to-proximal distribution in the limbs. Sural nerve biopsy showed a severe chronic axonal neuropathy. Prominent thickening of endoneurial microvessel endothelial cells was present with narrowing of lumen. Congo Red staining was negative. He initiated treatment with alprostadil alfa-ciclodestrina and stopped smoking. The patient reported prompt improvement of neurologic symptoms as well as skin abnormalities few months after the begin of therapy. Ischemic neuropathy in which nerve damage occurs in the more distal portion of the limbs has been reported. In our patient, clinical presentation, neurophysiological and neuropathological findings suggest the diagnosis of a Lower Extremity Ischemic Neuropathy probably triggered by smoke.
+ER  - 
+
+TY  - JOUR
+AU  - Porfiri, L
+AU  - Capriotti, T
+AU  - Zamponi, N
+AU  - Tavoni, MA
+AU  - Cardinali, C
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 51
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 9781118288924
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00051.x
+DO  - doi:10.1046/j.1529-8027.2003.00051.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - We report a case of peripheral both demyelinating and axonal polyneuropathy in a patient affected from intestinal aganglionosis with high dose intermittent metronidazole therapy. Intestinal aganglionosis is a myenteric plexus disorder with lack of innervation concerning the whole digestive tract from the rectum to the esophagus. The familial incidence of this condition seems to be high and a recessive autosomal transmission is likely. In the pathogenesis of this disorder aberrant neural crest migration seems to be implicated: indeed frequent neurologic signs resembling dysautonomic ones, deafness and rare peripheral demyelinating or axonal neuropathies are associated. The patient was a 12 years old female child affected by intestinal aganglionosis and underwent to chronic intermittent Metronidazole treatment, with daily doses of 500?mg for 15 day every month. She was admitted to our Hospital for inability to walk, dysesthesias and pain at lower limbs, acutely started and progressively worsening. At the admission neurological examination showed ataxic gait with bilateral foot drop, severe distal weakness, bilateral tibialis anterior muscle atrophy, absent deep tendon reflexes, rapidly worsening. CSF was normal. Antibodies against to peripheral nerve (antigangliosides, sulfatide, MAG, glycosaminoglycans) resulted negative. Spinal cord MRI revealed increased roots size and increased epidural space. EMG showed denervation spontaneous activity with neurogenic MUAP modification on distal muscles. Nerve conduction study showed severe slowing of motor velocity on right and left peroneal nerves with reduced amplitude of CMAP. Sensory conduction was mild slowing on both sural nerves with reduced amplitude of SAP. Metronidazole therapy was discontinued; desametazone, high dose vitamin and intravenous immunoglobulin therapy was established in addition to rehydration and parenteral nutrition. Clinical conditions progressively improved and at two months follow up the girl was able to walk with mild ataxia. The authors emphasize in described case the difficulty to differentiate toxic or vitamin deficiency or autoimmune pathogenesis.
+ER  - 

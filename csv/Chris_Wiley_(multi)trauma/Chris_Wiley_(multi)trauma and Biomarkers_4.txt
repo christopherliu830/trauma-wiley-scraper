@@ -1,0 +1,494 @@
+
+TY  - JOUR
+AU  - Wang, Ze
+AU  - Suh, Jesse
+AU  - Duan, Dingna
+AU  - Darnley, Stefanie
+AU  - Jing, Ying
+AU  - Zhang, Jian
+AU  - O'Brien, Charles
+AU  - Childress, Anna Rose
+C8  - AB-03-2016-0071.R2
+TI  - A hypo-status in drug-dependent brain revealed by multi-modal MRI
+JO  - Addiction Biology
+JA  - Addiction Biology
+VL  - 22
+IS  - 6
+SN  - 1355-6215
+UR  - https://doi.org/10.1111/adb.12459
+DO  - doi:10.1111/adb.12459
+SP  - 1622
+EP  - 1631
+KW  - arterial spin labeling
+KW  - brain entropy
+KW  - cerebral blood flow
+KW  - resting state fMRI
+KW  - voxel-based morphometry
+PY  - 2017
+AB  - Abstract Drug addiction is a chronic brain disorder with no proven effective cure. Assessing both structural and functional brain alterations by using multi-modal, rather than purely unimodal imaging techniques, may provide a more comprehensive understanding of the brain mechanisms underlying addiction, which in turn may facilitate future treatment strategies. However, this type of research remains scarce in the literature. We acquired multi-modal magnetic resonance imaging from 20 cocaine-addicted individuals and 19 age-matched controls. Compared with controls, cocaine addicts showed a multi-modal hypo-status with (1) decreased brain tissue volume in the medial and lateral orbitofrontal cortex (OFC); (2) hypo-perfusion in the prefrontal cortex, anterior cingulate cortex, insula, right temporal cortex and dorsolateral prefrontal cortex and (3) reduced irregularity of resting state activity in the OFC and limbic areas, as well as the cingulate, visual and parietal cortices. In the cocaine-addicted brain, larger tissue volume in the medial OFC, anterior cingulate cortex and ventral striatum and smaller insular tissue volume were associated with higher cocaine dependence levels. Decreased perfusion in the amygdala and insula was also correlated with higher cocaine dependence levels. Tissue volume, perfusion, and brain entropy in the insula and prefrontal cortex, all showed a trend of negative correlation with drug craving scores. The three modalities showed voxel-wise correlation in various brain regions, and combining them improved patient versus control brain classification accuracy. These results, for the first time, demonstrate a comprehensive cocaine-dependence and craving-related hypo-status regarding the tissue volume, perfusion and resting brain irregularity in the cocaine-addicted brain.
+ER  - 
+
+TY  - JOUR
+AU  - Jelescu, Ileana O.
+AU  - Veraart, Jelle
+AU  - Fieremans, Els
+AU  - Novikov, Dmitry S.
+C8  - NBM-15-0204.R2
+TI  - Degeneracy in model parameter estimation for multi-compartmental diffusion in neuronal tissue
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 29
+IS  - 1
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.3450
+DO  - doi:10.1002/nbm.3450
+SP  - 33
+EP  - 47
+KW  - high order diffusion MR methods
+KW  - biophysical mechanisms of MR diffusion
+KW  - normal brain
+KW  - microstructure
+KW  - modeling
+KW  - parameter estimation
+PY  - 2016
+AB  - The ultimate promise of diffusion MRI (dMRI) models is specificity to neuronal microstructure, which may lead to distinct clinical biomarkers using noninvasive imaging. While multi-compartment models are a common approach to interpret water diffusion in the brain in vivo, the estimation of their parameters from the dMRI signal remains an unresolved problem. Practically, even when q space is highly oversampled, nonlinear fit outputs suffer from heavy bias and poor precision. So far, this has been alleviated by fixing some of the model parameters to a priori values, for improved precision at the expense of accuracy. Here we use a representative two-compartment model to show that fitting fails to determine the five model parameters from over 60 measurement points. For the first time, we identify the reasons for this poor performance. The first reason is the existence of two local minima in the parameter space for the objective function of the fitting procedure. These minima correspond to qualitatively different sets of parameters, yet they both lie within biophysically plausible ranges. We show that, at realistic signal-to-noise ratio values, choosing between the two minima based on the associated objective function values is essentially impossible. Second, there is an ensemble of very low objective function values around each of these minima in the form of a pipe. The existence of such a direction in parameter space, along which the objective function profile is very flat, explains the bias and large uncertainty in parameter estimation, and the spurious parameter correlations: in the presence of noise, the minimum can be randomly displaced by a very large amount along each pipe. Our results suggest that the biophysical interpretation of dMRI model parameters crucially depends on establishing which of the minima is closer to the biophysical reality and the size of the uncertainty associated with each parameter. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Thomas, J.S.M.
+AU  - Curtis, L.
+AU  - Freeman, S.L.
+AU  - England, G.C.W.
+AU  - Burford, J.H.
+TI  - Identifying a Critical Case of Equine Colic at Primary Examination – Results from a Prospective Multi-Centre Study
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_49
+DO  - doi:10.1111/evj.12323_49
+SP  - 21
+EP  - 22
+PY  - 2014
+AB  - Reasons for performing study There is no current evidence on how mild and critical cases of colic can be differentiated at primary examination. Previous research has focused on clinical variables assessed post referral. Objectives To identify features of the primary clinical presentation which differentiate between a critical and mild-medical colic. Study design Prospective multi-centre cross-sectional study. Methods Paper-based and online questionnaires were distributed to 850 practices which treat horses, to collect data on the primary presentation of colic cases over 13 months. Critical cases were defined as horses which died, were subjected to euthanasia, had surgery, or required intensive care. Mild-medical cases were defined as those resolving with medical treatment on a single visit. Descriptive analysis was used to evaluate the data. Univariable analysis was performed using Mann-Whitney U tests and Chi-squared tests to assess the degree of association between clinical variables and the dependant variables ?critical? and ?mild-medical?. Results 161 veterinarians submitted 1048 colic case forms; 240 critical cases and 535 mild-medical cases were identified. There was evidence of difference (P<0.000) for cardiovascular variables (heart and respiratory rates, capillary refill time, and mucous membrane colour), signs of pain and abdominal borborygmi between mild-medical and critical cases. Critical cases had a higher mean heart rate (60 beats/min [range 21?125]) than mild-medical cases (42 beats/min [range 18?120]). The median total abdominal borborygmi score was lower at 3 (range 0?12) for critical, compared with 7 (range 0?12) for mild-medical cases. The use of diagnostic tests were significantly different (P<0.0001), with more tests performed in critical cases. Rectal examination and nasogastric intubation were not performed in 17.5% and 52.6% of critical cases, respectively. Conclusions There were significant differences in the primary presentation of critical and mild-medical colic cases. Veterinary surgeons? diagnostic approach varied between cases. Ethical animal research:?The study was reviewed and approved by the School of Veterinary Medicine and Science, University of Nottingham Ethics Committee. Explicit owner informed consent for participation in this study was not stated. Sources of funding:?Laila Curtis was funded by the School of Veterinary Medicine and Science, University of Nottingham. The survey was supported by a grant from the Petplan Charitable Trust. Boehringer Ingelheim assisted with survey distribution. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Islam, Md Nahidul
+AU  - Bradley, Benjamin A
+AU  - Ceredig, Rhodri
+C7  - e77
+TI  - Sterile post-traumatic immunosuppression
+JO  - Clinical & Translational Immunology
+JA  - Clin Trans Immunol
+VL  - 5
+IS  - 4
+SN  - 2050-0068
+UR  - https://doi.org/10.1038/cti.2016.13
+DO  - doi:10.1038/cti.2016.13
+SP  - e77
+PY  - 2016
+AB  - After major trauma, the human immune system initiates a series of inflammatory events at the injury site that is later followed by suppression of local inflammation favoring the repair and remodeling of the damaged tissues. This local immune response involves complex interactions between resident cells such as macrophages and dendritic cells, soluble mediators such as cytokines and chemokines, and recruited cells such as neutrophils, monocytes and mesenchymal stromal cells. If of sufficient magnitude, these initial immune responses nevertheless have systemic consequences resulting in a state called post-traumatic immunosuppression (PTI). However, controversy exists regarding the exact immunological changes occurring in systemic compartments triggered by these local immune responses. PTI is one of the leading causes of post-surgical mortality and makes patients vulnerable to hospital-acquired infections, multiple organ failure and many other complications. In addition, hemorrhage, blood transfusion, immunesenescence and immunosuppressant drugs aggravate PTI. PTI has been intensively studied, but published results are frequently cloudy. The purpose of this review is to focus on the contributions made by different responsive modalities to immunosuppression following sterile trauma and to try to integrate these into an overall scheme of PTI.
+ER  - 
+
+TY  - JOUR
+AU  - Taso, Manuel
+AU  - Girard, Olivier M.
+AU  - Duhamel, Guillaume
+AU  - Le Troter, Arnaud
+AU  - Feiweier, Thorsten
+AU  - Guye, Maxime
+AU  - Ranjeva, Jean-Philippe
+AU  - Callot, Virginie
+C8  - NBM-15-0294.R1
+TI  - Tract-specific and age-related variations of the spinal cord microstructure: a multi-parametric MRI study using diffusion tensor imaging (DTI) and inhomogeneous magnetization transfer (ihMT)
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 29
+IS  - 6
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.3530
+DO  - doi:10.1002/nbm.3530
+SP  - 817
+EP  - 832
+KW  - spinal cord
+KW  - multi-parametric MRI
+KW  - inhomogeneous magnetization transfer (ihMT)
+KW  - diffusion tensor imaging (DTI)
+KW  - microstructure
+KW  - aging
+PY  - 2016
+AB  - Being able to finely characterize the spinal cord (SC) microstructure and its alterations is a key point when investigating neural damage mechanisms encountered in different central nervous system (CNS) pathologies, such as multiple sclerosis, amyotrophic lateral sclerosis or myelopathy. Based on novel methods, including inhomogeneous magnetization transfer (ihMT) and dedicated SC probabilistic atlas post-processing, the present study focuses on the in vivo characterization of the healthy SC tissue in terms of regional microstructure differences between (i) upper and lower cervical vertebral levels and (ii) sensory and motor tracts, as well as differences attributed to normal aging. Forty-eight healthy volunteers aged from 20 to 70?years old were included in the study and scanned at 3?T using axial high-resolution T2*-w imaging, diffusion tensor imaging (DTI) and ihMT, at two vertebral levels (C2 and C5). A processing pipeline with minimal user intervention, SC segmentation and spatial normalization into a reference space was implemented in order to assess quantitative morphological and structural parameters (cross-sectional areas, scalar DTI and MT/ihMT metrics) in specific white and gray matter regions of interest. The multi-parametric MRI metrics collected allowed upper and lower cervical levels to be distinguished, with higher ihMT ratio (ihMTR), higher axial diffusivity (??) and lower radial diffusivity (??) at C2 compared with C5. Significant differences were also observed between white matter fascicles, with higher ihMTR and lower ?? in motor tracts compared with posterior sensory tracts. Finally, aging was found to be associated with significant metric alterations (decreased ihMTR and ??). The methodology proposed here, which can be easily transferred to the clinic, provides new insights for SC characterization. It bears great potential to study focal and diffuse SC damage in neurodegenerative and demyelinating diseases. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Jenny, N. S.
+AU  - Blumenthal, R. S.
+AU  - Kronmal, R. A.
+AU  - Rotter, J. I.
+AU  - Siscovick, D. S.
+AU  - Psaty, B. M.
+TI  - Associations of pentraxin 3 with cardiovascular disease: the Multi-Ethnic Study of Atherosclerosis
+JO  - Journal of Thrombosis and Haemostasis
+JA  - J Thromb Haemost
+VL  - 12
+IS  - 6
+SN  - 1538-7933
+UR  - https://doi.org/10.1111/jth.12557
+DO  - doi:10.1111/jth.12557
+SP  - 999
+EP  - 1005
+KW  - atherosclerosis
+KW  - cardiovascular diseases
+KW  - epidemiology
+KW  - inflammation
+KW  - pentraxin 3
+PY  - 2014
+AB  - Summary Objective Pentraxin 3 (PTX3) is probably a specific marker of vascular inflammation. However, associations of PTX3 with cardiovascular disease (CVD) risk have not been well studied in healthy adults or multi-ethnic populations. We examined associations of PTX3 with CVD risk factors, measures of subclinical CVD, coronary artery calcification (CAC) and CVD events in the Multi-Ethnic Study of Atherosclerosis. Approach and Results Two thousand eight hundred and thirty-eight participants free of prevalent CVD with measurements of PTX3 were included in the present study. After adjustment for age, sex, and ethnicity, PTX3 was positively associated with age, obesity, insulin, systolic blood pressure, C-reactive protein (CRP), and carotid intima?media thickness (all P < 0.045). A one standard deviation increase in PTX3 level (1.62 ng mL?1) was associated with the presence of CAC in fully adjusted models including multiple CVD risk factors (relative risk of 1.05; 95% confidence interval [CI] 1.01?1.08). In fully adjusted models, a standard deviation higher level of PTX3 was associated with an increased risk of myocardial infarction (hazard ratio [HR] 1.51; 95% [CI] 1.16?1.97), combined CVD events (HR 1.23; 95% [CI] 1.05?1.45), and combined CHD events (HR 1.33; 95% [CI] 1.10?1.60), but not stroke, CVD-related mortality, or all-cause death. Conclusions In these apparently healthy adults, PTX3 was associated with CVD risk factors, subclinical CVD, CAC and incident coronary heart disease events independently of CRP and CVD risk factors. These results support the hypothesis that PTX3 reflects different aspects of inflammation than CRP, and may provide additional insights into the development and progression of atherosclerosis.
+ER  - 
+
+TY  - JOUR
+AU  - Buch, Michal
+AU  - Rishpon, Judith
+TI  - An Electrochemical Immunosensor for C-Reactive Protein Based on Multi-Walled Carbon Nanotube-Modified Electrodes
+JO  - Electroanalysis
+JA  - Electroanalysis
+VL  - 20
+IS  - 23
+SN  - 1040-0397
+UR  - https://doi.org/10.1002/elan.200804358
+DO  - doi:10.1002/elan.200804358
+SP  - 2592
+EP  - 2594
+KW  - C-reactive protein
+KW  - Immunosensor
+KW  - Carbon nanotubes
+KW  - Protein A
+PY  - 2008
+AB  - Abstract C-reactive protein (CRP) is a nonspecific biomarker of inflammation and infection that can be used as a predictive risk marker of cardiovascular disease in asymptomatic individuals or as a prognostic marker of recurrent ischemia and death among patients with coronary heart disease or stroke. We developed a sensitive, disposable, and easy to operate sensor based on heterogeneous sandwich immunoassay for high sensitivity CRP (hs-CRP) measurement. We used screen-printed electrodes modified with multi-walled carbon nanotubes and protein A to ensure the oriented immobilization of anti-CRP antibodies. CRP was quantitatively measured down to a concentration of 0.5?ng mL?1, enabling high dilution of the samples before measurement and consequently reducing interferences present in the serum. The sensor developed is suitable for point of care detection of hs-CRP at clinically relevant concentrations for the diagnosis of both conventional and low-grade inflammations.
+ER  - 
+
+TY  - JOUR
+AU  - Sharma, Mukut
+AU  - Halligan, Brian D.
+AU  - Wakim, Bassam T.
+AU  - Savin, Virginia J.
+AU  - Cohen, Eric P.
+AU  - Moulder, John E.
+TI  - The urine proteome as a biomarker of radiation injury
+JO  - PROTEOMICS – Clinical Applications
+JA  - Prot. Clin. Appl.
+VL  - 2
+IS  - 7‐8
+SN  - 1862-8346
+UR  - https://doi.org/10.1002/prca.200780153
+DO  - doi:10.1002/prca.200780153
+SP  - 1065
+EP  - 1086
+KW  - Biomarkers
+KW  - Nuclear accidents
+KW  - Radiation injury
+KW  - Radiological terrorism
+KW  - Urine proteome
+PY  - 2008
+AB  - Abstract Terrorist attacks or nuclear accidents could expose large numbers of people to ionizing radiation, and early biomarkers of radiation injury would be critical for triage, treatment, and follow-up of such individuals. However, no such biomarkers have yet been proven to exist. We tested the potential of high throughput proteomics to identify protein biomarkers of radiation injury after total body X-ray irradiation (TBI) in a rat model. Subtle functional changes in the kidney are suggested by increased glomerular permeability for macromolecules measured within 24?h after TBI. Ultrastructural changes in glomerular podocytes included partial loss of the interdigitating organization of foot processes. Analysis of urine by LC-MS/MS and 2-DE showed significant changes in the urine proteome within 24?h after TBI. Tissue kallikrein 1-related peptidase, cysteine proteinase inhibitor cystatin C and oxidized histidine were found to be increased while a number of proteinase inhibitors including kallikrein-binding protein and albumin were found to be decreased postirradiation. Thus, TBI causes immediately detectable changes in renal structure and function and in the urinary protein profile. This suggests that both systemic and renal changes are induced by radiation and it may be possible to identify a set of biomarkers unique to radiation injury.
+ER  - 
+
+TY  - JOUR
+AU  - Fang, Hong
+AU  - Zhang, Hanqing
+AU  - Wang, Zhi
+AU  - Zhou, Zhongming
+AU  - Li, Yunjun
+AU  - Lu, Lin
+C7  - e23016
+TI  - Systemic immune-inflammation index acts as a novel diagnostic biomarker for postmenopausal osteoporosis and could predict the risk of osteoporotic fracture
+JO  - Journal of Clinical Laboratory Analysis
+JA  - J Clin Lab Anal
+VL  - 34
+IS  - 1
+SN  - 0887-8013
+UR  - https://doi.org/10.1002/jcla.23016
+DO  - doi:10.1002/jcla.23016
+SP  - e23016
+KW  - fracture
+KW  - neutrophil-to-lymphocyte ratio
+KW  - postmenopausal osteoporosis
+KW  - risk factors
+KW  - systemic immune-inflammation index
+PY  - 2020
+AB  - Abstract Background Postmenopausal osteoporosis (PMOP) is a bone metabolism disorder involving systematic inflammation activation. Blood routine examination is easily available in clinical practice and contains abundant information reflecting the systematic inflammation level. Thus, it is attractive to achieve early diagnosis of PMOP and predict osteoporotic fracture risk just based on the biomarkers in blood routine examination. Methods A multi-centric prospective cohort study was designed and enrolled postmenopausal women from two independent institutions. All participants underwent the dual-energy X-ray absorptiometry (DEXA) scanning for diagnosing PMOP. Blood routine examination was conducted, and the key inflammatory biomarkers such as neutrophil-to-lymphocyte ratio (NLR) and systemic immune-inflammation index (SII) were calculated. PMOP patients were followed up to observe osteoporotic fracture and identify the related risk predictors. Results A total of 92 participants out of 238 enrolled postmenopausal women were diagnosed with PMOP, with a prevalence of 38.66%. The main risk factors identified for PMOP included older age (OR = 2.06, 95% CI = 1.14-3.72), longer menopause duration (OR = 3.14, 95% CI = 2.06-4.79), higher NLR (OR = 2.11, 95% CI = 1.37-3.25), and higher SII (OR = 3.02, 95% CI = 1.98-4.61). Besides age and menopause duration, SII ≥834.89 was newly identified as a prominent risk factor for discriminating osteoporotic fracture risk in PMOP patients (HR = 3.66, 95% CI = 1.249-10.71). Conclusion As an easy and economical biomarker calculated from blood routine examination, SII not only acts as a good risk predictor for PMOP diagnosis but also well discriminates the osteoporotic fracture risk, which deserves further investigation and application in clinical practice.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts from the International Veterinary Emergency and Critical Care Symposium, the European Veterinary Emergency and Critical Care Annual Congress, and the ACVECC VetCOT Veterinary Trauma & Critical Care Conference 2016
+JO  - Journal of Veterinary Emergency and Critical Care
+JA  - Journal of Veterinary Emergency and Critical Care
+VL  - 26
+IS  - S1
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/vec.12516
+DO  - doi:10.1111/vec.12516
+SP  - S1
+EP  - S35
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts from the International Veterinary Emergency and Critical Care Symposium, the European Veterinary Emergency and Critical Care Society Annual Congress, and the ACVECC VetCOT Veterinary Trauma & Critical Care Conference, 2015
+JO  - Journal of Veterinary Emergency and Critical Care
+JA  - Journal of Veterinary Emergency and Critical Care
+VL  - 25
+IS  - S1
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/vec.12366
+DO  - doi:10.1111/vec.12366
+SP  - S1
+EP  - S32
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+AU  - Julian, Bruce A.
+AU  - Suzuki, Hitoshi
+AU  - Suzuki, Yusuke
+AU  - Tomino, Yasuhiko
+AU  - Spasovski, Goce
+AU  - Novak, Jan
+TI  - Sources of urinary proteins and their analysis by urinary proteomics for the detection of biomarkers of disease
+JO  - PROTEOMICS – Clinical Applications
+JA  - Prot. Clin. Appl.
+VL  - 3
+IS  - 9
+SN  - 1862-8346
+UR  - https://doi.org/10.1002/prca.200800243
+DO  - doi:10.1002/prca.200800243
+SP  - 1029
+EP  - 1043
+KW  - Glomerular filtration
+KW  - Nephron
+KW  - Proteinuria
+KW  - Renal tubule
+PY  - 2009
+AB  - Abstract Renal disorders account for a substantial fraction of the budget for health care in many countries. Proteinuria is a frequent manifestation in afflicted patients, but the origin of the proteins varies based on the nature of the disorder. The emerging field of urinary proteomics has the potential to replace kidney biopsy as the diagnostic procedure of choice for patients with some glomerular forms of renal disease. To fully realize this potential, it is vital to understand the basis for the urinary excretion of protein in physiological and pathological conditions. In this review, we discuss the structure of the nephron, the functional unit of the kidney, and the process by which proteins/peptides enter the urine. We discuss several aspects of proteinuria that impact the proteomic analysis of urine of patients with renal diseases.
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Li
+AU  - Zheng, Huirong
+AU  - Li, Lingjiang
+AU  - Li, Weihui
+AU  - Zhang, Yan
+AU  - Hou, Cailan
+AU  - Li, Zexuan
+AU  - Zhou, Jiansong
+AU  - He, Zhong
+AU  - Liu, Jun
+AU  - Yin, Yan
+AU  - Jiang, Tianzi
+AU  - Shan, Baoci
+AU  - Zhang, Zhijun
+TI  - Course-dependent response of brain functional alterations in men with acute and chronic post-traumatic stress disorder: A follow-up functional magnetic imaging study
+JO  - Asia-Pacific Psychiatry
+JA  - Asia‐Pacific Psychiatry
+VL  - 3
+IS  - 4
+SN  - 1758-5864
+UR  - https://doi.org/10.1111/j.1758-5872.2011.00152.x
+DO  - doi:10.1111/j.1758-5872.2011.00152.x
+SP  - 192
+EP  - 203
+KW  - brain
+KW  - cingulate gyrus
+KW  - follow-up study
+KW  - magnetic resonance imaging
+KW  - post-traumatic stress disorder
+PY  - 2011
+AB  - Introduction The aim of this study was to investigate the neurofunctional alterations in both acute and chronic post-traumatic stress disorder (PTSD) resulting from the same stress experience. Methods Brain responses to emotional trauma-related and neutral pictures with a symptom provocation task were measured using functional magnetic resonance imaging (fMRI). Twenty-four PTSD patients resulting from a mining accident and 14 controls exposed to the same accident without PTSD two months post-trauma were recruited. In the follow-up study 20 PTSD patients and 14 controls were also recruited after 24 months post-trauma. Correlations were conducted in PTSD between altered fMRI blood oxygenation level-dependent (BOLD) signals of areas extracted as regions of interest and three Clinician-Administered PTSD Scale (CAPS) subscores respectively. Results In response to picture stimulus (traumatic negative pictures versus neutral pictures), the acute PTSD group showed greater activation in the bilateral posterior cingulate gyri, left precuneus, right fusiform and left parahippocampal gyrus than the chronic PTSD group (P?<?0.001, cluster size?>?20 voxels). In the acute PTSD group, BOLD signals of either posterior cingulate gyrus correlated positively with CAPS intrusion subscores. There was also no significant correlation between BOLD signals of five regions mentioned above in the chronic PTSD group and three CAPS subscores. Discussion These findings suggested that brain circuits affected in acute PTSD may be more extended than chronic PTSD. The reason may due to the formation of traumatic memory in the acute phase of PTSD.
+ER  - 
+
+TY  - JOUR
+AU  - Ogeer-Gyles, J
+AU  - Mathews, KA
+AU  - Boerlin, P
+TI  - TRACING THE ORIGIN OF MULTI-DRUG RESISTANT (MDR) ESCHERICHIA COLI INFECTIONS FROM URINARY CATHETERS IN ICU CANINE PATIENTS
+JO  - Journal of Veterinary Emergency and Critical Care
+VL  - 14
+IS  - S1
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/j.1476-4431.2004.t01-9-04035.x
+DO  - doi:10.1111/j.1476-4431.2004.t01-9-04035.x
+SP  - S1
+EP  - S17
+PY  - 2004
+AB  - Introduction: Urinary tract infections (UTIs) in dogs with urinary catheters in intensive care units (ICUs) are frequent. Historically, multi-drug resistant (MDR) Escherichia coli account for about 10% of the UTIs. The objectives of this study were to determine the frequency of E. coli infections and of MDR E. coli in dogs with UTIs in our ICU, and to assess whether the MDR E. coli were community-acquired or nosocomial in origin. Methods: Over a 1-year period, rectal swabs were taken from all dogs in the ICU on the day of admission (D0) and on days 3 (D3), 6 (D6), 9 (D9) and 12 (D12). Urine was collected on these days from dogs with an indwelling urinary catheter (n=190). Rectal swabs and urine were routinely cultured. E. coli isolates were identified by biochemical tests. Using NCCLS guidelines, antibiotic susceptibility testing was done by disk diffusion method on fecal and urinary E. coli isolates. Twelve antimicrobial agents were used: nalidixic acid, enrofloxacin, cephalothin, cefoxitin, cefotaxime, ceftiofur, trimethoprim-sulfa, chloramphenicol, gentamicin, tetracycline, ampicillin, and amoxicillin/clavulanate. Pulsed-field gel electrophoresis (PFGE) was used to compare MDR E. coli UTI strains with fecal E. coli strains from the same patient and with MDR fecal E. coli from patients that were adjacent to, or housed in the same cages. Results: E. coli was cultured from 12 (48%) of 25 UTIs. Two of the E. coli were MDR. For one dog, PFGE showed no similarities among fecal E. coli and the urinary MDR E. coli isolates from the patient or between these isolates and fecal E. coli from a dog housed in the same kennel on the previous day. The MDR E. coli UTI was likely acquired prior to admission to the ICU, as it was present on D0. For the other dog, PFGE showed genetic similarity but not complete identity between the D3 MDR E. coli urinary isolate and the D3, D6, D9 fecal MDR isolates. This suggests that the UTI originated with the fecal E. coli. Using selective plates, fecal MDR E. coli were not found on D0. Selection of the MDR strain in the intestine by the use of antibiotics occurred while the dog was in the ICU and possibly led to the UTI. Conclusions: Multi-drug resistant E. coli accounted for 2 of 12 E. coli UTIs in dogs in the ICU over a 1-year period. Genotyping showed that one of the two MDR E. coli infections could possibly be of nosocomial origin.
+ER  - 
+
+TY  - JOUR
+AU  - Ottens, Andrew K.
+AU  - Kobeissy, Firas H.
+AU  - Golden, Erin C.
+AU  - Zhang, Zhiqun
+AU  - Haskins, William E.
+AU  - Chen, Su-Shing
+AU  - Hayes, Ronald L.
+AU  - Wang, Kevin K.W.
+AU  - Denslow, Nancy D.
+TI  - Neuroproteomics in neurotrauma
+JO  - Mass Spectrometry Reviews
+JA  - Mass Spectrom. Rev.
+VL  - 25
+IS  - 3
+SN  - 0277-7037
+UR  - https://doi.org/10.1002/mas.20073
+DO  - doi:10.1002/mas.20073
+SP  - 380
+EP  - 408
+KW  - neurotrauma
+KW  - neuroproteomics
+KW  - brain injury
+KW  - protein separations
+KW  - mass spectrometry
+PY  - 2006
+AB  - Abstract Neurotrauma in the form of traumatic brain injury (TBI) afflicts more Americans annually than Alzheimer's and Parkinson's disease combined, yet few researchers have used neuroproteomics to investigate the underlying complex molecular events that exacerbate TBI. Discussed in this review is the methodology needed to explore the neurotrauma proteome?from the types of samples used to the mass spectrometry identification and quantification techniques available. This neuroproteomics survey presents a framework for large-scale protein research in neurotrauma, as applied for immediate TBI biomarker discovery and the far-reaching systems biology understanding of how the brain responds to trauma. Ultimately, knowledge attained through neuroproteomics could lead to clinical diagnostics and therapeutics to lessen the burden of neurotrauma on society. ? 2006 Wiley Periodicals, Inc., Mass Spec Rev 25:380?408, 2006
+ER  - 
+
+TY  - JOUR
+AU  - Qian, Jing
+AU  - Nunez, Sara
+AU  - Kim, Soohyun
+AU  - Reilly, Muredach P.
+AU  - Foulkes, Andrea S.
+C8  - sim.7314
+TI  - A score test for genetic class-level association with nonlinear biomarker trajectories
+JO  - Statistics in Medicine
+JA  - Statist. Med.
+VL  - 36
+IS  - 19
+SN  - 0277-6715
+UR  - https://doi.org/10.1002/sim.7314
+DO  - doi:10.1002/sim.7314
+SP  - 3075
+EP  - 3091
+KW  - Score test
+KW  - Genome-wide association studies (GWAS)
+KW  - single nucleotide polymorphisms (SNPs)
+KW  - Long non-coding RNAs (lncRNAs)
+KW  - Protein coding gene-level testing
+KW  - Inflammatory biomarkers
+KW  - Longitudinal data analysis
+PY  - 2017
+AB  - Emerging data suggest that the genetic regulation of the biological response to inflammatory stress may be fundamentally different to the genetic underpinning of the homeostatic control (resting state) of the same biological measures. In this paper, we interrogate this hypothesis using a single-SNP score test and a novel class-level testing strategy to characterize protein-coding gene and regulatory element-level associations with longitudinal biomarker trajectories in response to stimulus. Using the proposed class-level association score statistic for longitudinal data, which accounts for correlations induced by linkage disequilibrium, the genetic underpinnings of evoked dynamic changes in repeatedly measured biomarkers are investigated. The proposed method is applied to data on two biomarkers arising from the Genetics of Evoked Responses to Niacin and Endotoxemia study, a National Institutes of Health-sponsored investigation of the genomics of inflammatory and metabolic responses during low-grade endotoxemia. Our results suggest that the genetic basis of evoked inflammatory response is different than the genetic contributors to resting state, and several potentially novel loci are identified. A simulation study demonstrates appropriate control of type-1 error rates, relative computational efficiency, and power. Copyright ? 2017 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - McIntyre, Roger S
+AU  - Cha, Danielle S
+AU  - Jerrell, Jeanette M
+AU  - Swardfager, Walter
+AU  - Kim, Rachael D
+AU  - Costa, Leonardo G
+AU  - Baskaran, Anusha
+AU  - Soczynska, Joanna K
+AU  - Woldeyohannes, Hanna O
+AU  - Mansur, Rodrigo B
+AU  - Brietzke, Elisa
+AU  - Powell, Alissa M
+AU  - Gallaugher, Ashley
+AU  - Kudlow, Paul
+AU  - Kaidanovich-Beilin, Oksana
+AU  - Alsuwaidan, Mohammad
+TI  - Advancing biomarker research: utilizing ‘Big Data’ approaches for the characterization and prevention of bipolar disorder
+JO  - Bipolar Disorders
+JA  - Bipolar Disord
+VL  - 16
+IS  - 5
+SN  - 1398-5647
+UR  - https://doi.org/10.1111/bdi.12162
+DO  - doi:10.1111/bdi.12162
+SP  - 531
+EP  - 547
+KW  - Big Data
+KW  - biomarkers
+KW  - bipolar disorder
+KW  - integrated profiles
+KW  - prediction
+KW  - prodrome
+PY  - 2014
+AB  - Objective To provide a strategic framework for the prevention of bipolar disorder (BD) that incorporates a ?Big Data? approach to risk assessment for BD. Methods Computerized databases (e.g., Pubmed, PsychInfo, and MedlinePlus) were used to access English-language articles published between 1966 and 2012 with the search terms bipolar disorder, prodrome, ?Big Data?, and biomarkers cross-referenced with genomics/genetics, transcriptomics, proteomics, metabolomics, inflammation, oxidative stress, neurotrophic factors, cytokines, cognition, neurocognition, and neuroimaging. Papers were selected from the initial search if the primary outcome(s) of interest was (were) categorized in any of the following domains: (i) ?omics? (e.g., genomics), (ii) molecular, (iii) neuroimaging, and (iv) neurocognitive. Results The current strategic approach to identifying individuals at risk for BD, with an emphasis on phenotypic information and family history, has insufficient predictive validity and is clinically inadequate. The heterogeneous clinical presentation of BD, as well as its pathoetiological complexity, suggests that it is unlikely that a single biomarker (or an exclusive biomarker approach) will sufficiently augment currently inadequate phenotypic-centric prediction models. We propose a ?Big Data?- bioinformatics approach that integrates vast and complex phenotypic, anamnestic, behavioral, family, and personal ?omics? profiling. Bioinformatic processing approaches, utilizing cloud- and grid-enabled computing, are now capable of analyzing data on the order of tera-, peta-, and exabytes, providing hitherto unheard of opportunities to fundamentally revolutionize how psychiatric disorders are predicted, prevented, and treated. High-throughput networks dedicated to research on, and the treatment of, BD, integrating both adult and younger populations, will be essential to sufficiently enroll adequate samples of individuals across the neurodevelopmental trajectory in studies to enable the characterization and prevention of this heterogeneous disorder. Conclusions Advances in bioinformatics using a ?Big Data? approach provide an opportunity for novel insights regarding the pathoetiology of BD. The coordinated integration of research centers, inclusive of mixed-age populations, is a promising strategic direction for advancing this line of neuropsychiatric research.
+ER  - 
+
+TY  - JOUR
+AU  - KLOK, F. A.
+AU  - VAN DER BIJL, N.
+AU  - EIKENBOOM, H. C. J.
+AU  - VAN ROODEN, C. J.
+AU  - DE ROOS, A.
+AU  - KROFT, L. J. M.
+AU  - HUISMAN, M. V.
+TI  - Comparison of CT assessed right ventricular size and cardiac biomarkers for predicting short-term clinical outcome in normotensive patients suspected of having acute pulmonary embolism
+JO  - Journal of Thrombosis and Haemostasis
+VL  - 8
+IS  - 4
+SN  - 1538-7933
+UR  - https://doi.org/10.1111/j.1538-7836.2010.03780.x
+DO  - doi:10.1111/j.1538-7836.2010.03780.x
+SP  - 853
+EP  - 856
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - Yeh, Ping-Hong
+AU  - Wang, Binquan
+AU  - Oakes, Terrence R.
+AU  - French, Louis M.
+AU  - Pan, Hai
+AU  - Graner, John
+AU  - Liu, Wei
+AU  - Riedy, Gerard
+TI  - Postconcussional disorder and PTSD symptoms of military-related traumatic brain injury associated with compromised neurocircuitry
+JO  - Human Brain Mapping
+JA  - Hum. Brain Mapp.
+VL  - 35
+IS  - 6
+SN  - 1065-9471
+UR  - https://doi.org/10.1002/hbm.22358
+DO  - doi:10.1002/hbm.22358
+SP  - 2652
+EP  - 2673
+KW  - traumatic brain injury
+KW  - diffusion tensor imaging
+KW  - blast injury
+KW  - concussion
+KW  - post-traumatic stress disorder
+KW  - neurocircuitry
+PY  - 2014
+AB  - ABSTRACT Traumatic brain injury (TBI) is a common combat injury, often through explosive blast, and produces heterogeneous brain changes due to various mechanisms of injury. It is unclear whether the vulnerability of white matter differs between blast and impact injury, and the consequences of microstructural changes on neuropsychological function are poorly understood in military TBI patients. Diffusion tensor imaging (DTI) techniques were used to assess the neurocircuitry in 37 US service members (29 mild, 7 moderate, 1 severe; 17 blast and 20 nonblast), who sustained a TBI while deployed, compared to 14 nondeployed, military controls. High-dimensional deformable registration of MRI diffusion tensor data was followed by fiber tracking and tract-specific analysis along with region-of-interest analysis. DTI results were examined in relation to post-concussion and post-traumatic stress disorder (PTSD) symptoms. The most prominent white matter microstructural injury for both blast and nonblast patients was in the frontal fibers within the fronto-striatal (corona radiata, internal capsule) and fronto-limbic circuits (fornix, cingulum), the fronto-parieto-occipital association fibers, in brainstem fibers, and in callosal fibers. Subcortical superior-inferiorly oriented tracts were more vulnerable to blast injury than nonblast injury, while direct impact force had more detrimental effects on anterior-posteriorly oriented tracts, which tended to cause heterogeneous left and right hemispheric asymmetries of white matter connectivity. The tractography using diffusion anisotropy deficits revealed the cortico-striatal-thalamic-cerebellar-cortical (CSTCC) networks, where increased post-concussion and PTSD symptoms were associated with low fractional anisotropy in the major nodes of compromised CSTCC neurocircuitry, and the consequences on cognitive function were explored as well. Hum Brain Mapp 35:2652?2673, 2014. ? 2013 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Breen, Michael S.
+AU  - Stein, Dan J.
+AU  - Baldwin, David S.
+C8  - HUP-15-0097.R2
+TI  - Systematic review of blood transcriptome profiling in neuropsychiatric disorders: guidelines for biomarker discovery
+JO  - Human Psychopharmacology: Clinical and Experimental
+JA  - Hum. Psychopharmacol Clin Exp
+VL  - 31
+IS  - 5
+SN  - 0885-6222
+UR  - https://doi.org/10.1002/hup.2546
+DO  - doi:10.1002/hup.2546
+SP  - 373
+EP  - 381
+KW  - blood-based biomarker
+KW  - gene expression
+KW  - machine learning
+KW  - gene network analysis
+KW  - prediction
+KW  - diagnosis
+PY  - 2016
+AB  - Introduction The utility of blood for genome-wide gene expression profiling and biomarker discovery has received much attention in patients diagnosed with major neuropsychiatric disorders. While numerous studies have been conducted, statistical rigor and clarity in terms of blood-based biomarker discovery, validation, and testing are needed. Methods We conducted a systematic review of the literature to investigate methodological approaches and to assess the value of blood transcriptome profiling in research on mental disorders. We were particularly interested in statistical considerations related to machine learning, gene network analyses, and convergence across different disorders. Results A total of 108 peripheral blood transcriptome studies across 15 disorders were surveyed: 25 studies used a variety of machine learning techniques to assess putative clinical viability of the candidate biomarkers; 11 leveraged a higher-order systems-level perspective to identify gene module-based biomarkers; and nine performed analyses across two or more neuropsychiatric phenotypes. Notably, ~50% of the surveyed studies included fewer than 50 samples (cases and controls), while ~75% included less than 100. Conclusions Detailed consideration of statistical analysis in the early stages of experimental planning is critical to ensure blood-based biomarker discovery and validation. Statistical guidelines are presented to enhance implementation and reproducibility of machine learning and gene network analyses across independent studies. Future studies capitalizing on larger sample sizes and emerging next-generation technologies set the stage for moving the field forwards. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 

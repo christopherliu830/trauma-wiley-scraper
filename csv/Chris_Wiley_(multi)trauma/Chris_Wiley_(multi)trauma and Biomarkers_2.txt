@@ -1,0 +1,530 @@
+
+TY  - JOUR
+AU  - Viswan, Akhila
+AU  - Singh, Chandan
+AU  - Kayastha, Arvind M.
+AU  - Azim, Afzal
+AU  - Sinha, Neeraj
+C7  - e4192
+C8  - NBM-19-0108.R1
+TI  - An NMR based panorama of the heterogeneous biology of acute respiratory distress syndrome (ARDS) from the standpoint of metabolic biomarkers
+JO  - NMR in Biomedicine
+JA  - NMR in Biomedicine
+VL  - 33
+IS  - 2
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.4192
+DO  - doi:10.1002/nbm.4192
+SP  - e4192
+KW  - ARDS
+KW  - metabolomics
+KW  - NMR
+KW  - biomarker
+KW  - chemometrics
+KW  - respiratory diseases
+KW  - critical care
+KW  - phenotype
+PY  - 2020
+AB  - Acute respiratory distress syndrome (ARDS), manifested by intricate etiology and pathophysiology, demands careful clinical surveillance due to its high mortality and imminent life support measures. NMR based metabolomics provides an approach for ARDS which culminates from a wide spectrum of illness thereby confounding early manifestation and prognosis predictors. 1H NMR with its manifold applications in critical disease settings can unravel the biomarker of ARDS thus holding potent implications by providing surrogate endpoints of clinical utility. NMR metabolomics which is the current apogee platform of omics trilogy is contributing towards the possible panacea of ARDS by subsequent validation of biomarker credential on larger datasets. In the present review, the physiological derangements that jeopardize the whole metabolic functioning in ARDS are exploited and the biomarkers involved in progression are addressed and substantiated. The following sections of the review also outline the clinical spectrum of ARDS from the standpoint of NMR based metabolomics which is an emerging element of systems biology. ARDS is the main premise of intensivists textbook, which has been thoroughly reviewed along with its incidence, progressive stages of severity, new proposed diagnostic definition, and the preventive measures and the current pitfalls of clinical management. The advent of new therapies, the need for biomarkers, the methodology and the contemporary promising approaches needed to improve survival and address heterogeneity have also been evaluated. The review has been stepwise illustrated with potent biometrics employed to selectively pool out differential metabolites as diagnostic markers and outcome predictors. The following sections have been drafted with an objective to better understand ARDS mechanisms with predictive and precise biomarkers detected so far on the basis of underlying physiological parameters having close proximity to diseased phenotype. The aim of this review is to stimulate interest in conducting more studies to help resolve the complex heterogeneity of ARDS with biomarkers of clinical utility and relevance.
+ER  - 
+
+TY  - JOUR
+AU  - Alhajraf, Falah
+AU  - Ness, Deborah
+AU  - Hye, Abdul
+AU  - Strydom, Andre
+TI  - Plasma amyloid and tau as dementia biomarkers in Down syndrome: Systematic review and meta-analyses
+JO  - Developmental Neurobiology
+JA  - Develop Neurobiol
+VL  - 79
+IS  - 7
+SN  - 1932-8451
+UR  - https://doi.org/10.1002/dneu.22715
+DO  - doi:10.1002/dneu.22715
+SP  - 684
+EP  - 698
+KW  - Alzheimer's disease
+KW  - biomarkers
+KW  - dementia
+KW  - Down syndrome
+KW  - plasma/blood amyloid/Aβ
+PY  - 2019
+AB  - Abstract Individuals with Down syndrome (DS) are at high risk of developing Alzheimer's disease (AD). Discovering reliable biomarkers which could facilitate early AD diagnosis and be used to predict/monitor disease course would be extremely valuable. To examine if analytes in blood related to amyloid plaques may constitute such biomarkers, we conducted meta-analyses of studies comparing plasma amyloid beta (A?) levels between DS individuals and controls, and between DS individuals with and without dementia. PubMed, Embase, and Google Scholar were searched for studies investigating the relationship between A? plasma concentrations and dementia in DS and 10 studies collectively comprising >1,600 adults, including >1,400 individuals with DS, were included. RevMan 5.3 was used to perform meta-analyses. Meta-analyses showed higher plasma A?40 (SMD = 1.79, 95% CI [1.14, 2.44], Z = 5.40, p < .00001) and plasma A?42 levels (SMD = 1.41, 95% CI [1.15, 1.68], Z = 10.46, p < .00001) in DS individuals than controls, and revealed that DS individuals with dementia had higher plasma A?40 levels (SMD = 0.23, 95% CI [0.05, 0.41], Z = 2.54, p = .01) and lower A?42/A?40 ratios (SMD = ?0.33, 95% CI [?0.63, ?0.03], Z = 2.15, p = .03) than DS individuals without dementia. Our results indicate that plasma A?40 levels may constitute a promising biomarker for predicting dementia status in individuals with DS. Further investigations using new ultra-sensitive assays are required to obtain more reliable results and to investigate to what extent these results may be generalizable beyond the DS population.
+ER  - 
+
+TY  - JOUR
+AU  - McGorry, Patrick
+AU  - Keshavan, Matcheri
+AU  - Goldstone, Sherilyn
+AU  - Amminger, Paul
+AU  - Allott, Kelly
+AU  - Berk, Michael
+AU  - Lavoie, Suzie
+AU  - Pantelis, Christos
+AU  - Yung, Alison
+AU  - Wood, Stephen
+AU  - Hickie, Ian
+TI  - Biomarkers and clinical staging in psychiatry
+JO  - World Psychiatry
+JA  - ‐
+VL  - 13
+IS  - 3
+SN  - 1723-8617
+UR  - https://doi.org/10.1002/wps.20144
+DO  - doi:10.1002/wps.20144
+SP  - 211
+EP  - 223
+KW  - Biomarkers
+KW  - clinical staging
+KW  - diagnostic reform
+KW  - early intervention
+KW  - personalized medicine
+KW  - pre-emptive psychiatry
+KW  - youth mental health
+PY  - 2014
+AB  - Personalized medicine is rapidly becoming a reality in today's physical medicine. However, as yet this is largely an aspirational goal in psychiatry, despite significant advances in our understanding of the biochemical, genetic and neurobiological processes underlying major mental disorders. Preventive medicine relies on the availability of predictive tools; in psychiatry we still largely lack these. Furthermore, our current diagnostic systems, with their focus on well-established, largely chronic illness, do not support a pre-emptive, let alone a preventive, approach, since it is during the early stages of a disorder that interventions have the potential to offer the greatest benefit. Here, we present a clinical staging model for severe mental disorders and discuss examples of biological markers that have already undergone some systematic evaluation and that could be integrated into such a framework. The advantage of this model is that it explicitly considers the evolution of psychopathology during the development of a mental illness and emphasizes that progression of illness is by no means inevitable, but can be altered by providing appropriate interventions that target individual modifiable risk and protective factors. The specific goals of therapeutic intervention are therefore broadened to include the prevention of illness onset or progression, and to minimize the risk of harm associated with more complex treatment regimens. The staging model also facilitates the integration of new data on the biological, social and environmental factors that influence mental illness into our clinical and diagnostic infrastructure, which will provide a major step forward in the development of a truly pre-emptive psychiatry.
+ER  - 
+
+TY  - JOUR
+AU  - Massart, A.
+AU  - Ghisdal, L.
+AU  - Abramowicz, M.
+AU  - Abramowicz, D.
+TI  - Operational tolerance in kidney transplantation and associated biomarkers
+JO  - Clinical & Experimental Immunology
+JA  - Clin Exp Immunol
+VL  - 189
+IS  - 2
+SN  - 0009-9104
+UR  - https://doi.org/10.1111/cei.12981
+DO  - doi:10.1111/cei.12981
+SP  - 138
+EP  - 157
+KW  - biomarker
+KW  - cellular assays
+KW  - immunoquiescence
+KW  - kidney transplantation
+KW  - operational tolerance
+PY  - 2017
+AB  - Summary In the 1960s, our predecessors won a historical battle against acute rejection and ensured that transplantation became a common life-saving treatment. In parallel with this success, or perhaps because of it, we lost the battle for long-lived transplants, being overwhelmed with chronic immune insults and the toxicities of immunosuppression. It is likely that current powerful treatments block acute rejection, but at the same time condemn the few circulating donor cells that would have been able to elicit immunoregulatory host responses towards the allograft. Under these conditions, spontaneously tolerant kidney recipients ? i.e. patients who maintain allograft function in the absence of immunosuppression ? are merely accidents; they are scarce, mysterious and precious. Several teams pursue the goal of finding a biomarker that would guide us towards the 'just right? level of immunosuppression that avoids rejection while leaving some space for donor immune cells. Some cellular assays are attractive because they are antigen-specific, and provide a comprehensive view of immune responses toward the graft. These seem to closely follow patient regulatory capacities. However, these tests are cumbersome, and require abundant cellular material from both donor and recipient. The latest newcomers, non-antigen-specific recipient blood transcriptomic biomarkers, offer the promise that a practicable and simple signature may be found that overcomes the complexity of a system in which an infinite number of individual cell combinations can lead possibly to graft acceptance. Biomarker studies are as much an objective ? identifying tolerant patients, enabling tolerance trials ? as a means to deciphering the underlying mechanisms of one of the most important current issues in transplantation.
+ER  - 
+
+TY  - JOUR
+AU  - Cullen, Louise
+AU  - Parsonage, William A
+AU  - Greenslade, Jaimi
+AU  - Lamanna, Arvin
+AU  - Hammett, Christopher J
+AU  - Than, Martin
+AU  - Ungerer, Jacobus PJ
+AU  - Chu, Kevin
+AU  - O'Kane, Shanen
+AU  - Brown, Anthony FT
+TI  - Comparison of early biomarker strategies with the Heart Foundation of Australia/Cardiac Society of Australia and New Zealand guidelines for risk stratification of emergency department patients with chest pain
+JO  - Emergency Medicine Australasia
+JA  - Emerg Med Australas
+VL  - 24
+IS  - 6
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/1742-6723.12008
+DO  - doi:10.1111/1742-6723.12008
+SP  - 595
+EP  - 603
+KW  - biomarker
+KW  - chest pain
+KW  - emergency medicine
+KW  - risk stratification
+PY  - 2012
+AB  - Abstract Objectives To compare cardiac risk stratification using a 0 and 2?h point-of-care (POC) cardiac troponin (cTn), 0 and 2?h POC multi-biomarkers against the 0 and 6?h laboratory cTn reference standard. Methods A prospective observational study of ED patients presenting with chest pain was performed. Patients were risk stratified and treated as per the Heart Foundation of Australia/Cardiac Society of Australia and New Zealand (HF-A/CS-ANZ) guidelines using the 0 and 6?h laboratory cTn (T6). Patients were further stratified using a 0 and 2?h POC cTn (T2) plus 0 and 2?h POC multi-biomarkers (cTn, creatine kinase-MB, myoglobin) (M2). The T6, T2 and M2 strategies were compared using the 30-day major adverse cardiac events as the primary outcome. Results Seven hundred and four patients (median age 54 years, male 62.1%) were enrolled. Using the T6 reference standard, 2%, 61% and 37% were stratified as low, intermediate and high risk, respectively. The 30-day event rates were 0%, 3.5% and 28.6%, respectively. The T2 strategy stratified 1.5%, 57% and 41% as low, intermediate and high risk, respectively, with 30-day event rates of 0%, 4.2% and 24.8%, respectively. The M2 strategy resulted in significantly different risk distribution with 1%, 40% and 59% stratified as low, intermediate and high risk, respectively, with 30-day event rates of 0%, 3.9% and 18.8%, respectively. Conclusion Using a 2?h POC cTn-only biomarker strategy with the HF-A/CS-ANZ guidelines accurately identified a population at intermediate risk of 30-day events in whom further objective testing might be accelerated, allowing subsequent early discharge of the majority of this cohort. Within 2?h of presentation a high risk population could be identified in whom early management, including admission, was required.
+ER  - 
+
+TY  - JOUR
+AU  - Lee, Alison M.
+AU  - Beasley, Michaela J.
+AU  - Barrett, Emerald D.
+AU  - James, Judy R.
+AU  - Gambino, Jennifer M.
+TI  - Single-voxel and multi-voxel spectroscopy yield comparable results in the normal juvenile canine brain when using 3 Tesla magnetic resonance imaging
+JO  - Veterinary Radiology & Ultrasound
+JA  - Vet Radiol Ultrasound
+VL  - 59
+IS  - 5
+SN  - 1058-8183
+UR  - https://doi.org/10.1111/vru.12634
+DO  - doi:10.1111/vru.12634
+SP  - 577
+EP  - 586
+KW  - canine
+KW  - comparison
+KW  - in vivo
+KW  - magnetic resonance imaging
+KW  - spectroscopy
+PY  - 2018
+AB  - Abstract Conventional magnetic resonance imaging (MRI) characteristics of canine brain diseases are often nonspecific. Single- and multi-voxel spectroscopy techniques allow quantification of chemical biomarkers for tissues of interest and may help to improve diagnostic specificity. However, published information is currently lacking for the in vivo performance of these two techniques in dogs. The aim of this prospective, methods comparison study was to compare the performance of single- and multi-voxel spectroscopy in the brains of eight healthy, juvenile dogs using 3 Tesla MRI. Ipsilateral regions of single- and multi-voxel spectroscopy were performed in symmetric regions of interest of each brain in the parietal (n = 3), thalamic (n = 2), and piriform lobes (n = 3). In vivo single-voxel spectroscopy and multi-voxel spectroscopy metabolite ratios from the same size and multi-voxel spectroscopy ratios from different sized regions of interest were compared. No significant difference was seen between single-voxel spectroscopy and multi-voxel spectroscopy metabolite ratios for any lobe when regions of interest were similar in size and shape. Significant lobar single-voxel spectroscopy and multi-voxel spectroscopy differences were seen between the parietal lobe and thalamus (P = 0.047) for the choline to N-acetyl aspartase ratios when large multi-voxel spectroscopy regions of interest were compared to very small multi-voxel spectroscopy regions of interest within the same lobe; and for the N-acetyl aspartase to creatine ratios in all lobes when single-voxel spectroscopy was compared to combined (pooled) multi-voxel spectroscopy datasets. Findings from this preliminary study indicated that single- and multi-voxel spectroscopy techniques using 3T MRI yield comparable results for similar sized regions of interest in the normal canine brain. Findings also supported using the contralateral side as an internal control for dogs with brain lesions.
+ER  - 
+
+TY  - JOUR
+AU  - Riemann, D.
+AU  - Cwikowski, M.
+AU  - Turzer, S.
+AU  - Giese, T.
+AU  - Grallert, M.
+AU  - Schütte, W.
+AU  - Seliger, B.
+TI  - Blood immune cell biomarkers in lung cancer
+JO  - Clinical & Experimental Immunology
+JA  - Clin Exp Immunol
+VL  - 195
+IS  - 2
+SN  - 0009-9104
+UR  - https://doi.org/10.1111/cei.13219
+DO  - doi:10.1111/cei.13219
+SP  - 179
+EP  - 189
+KW  - biomarker
+KW  - dendritic cells
+KW  - flow cytometry
+KW  - immune monitoring
+KW  - lung cancer
+KW  - MDSC
+KW  - naive T cells
+KW  - NLR
+KW  - overall survival
+PY  - 2019
+AB  - Summary Characterization of host immune cell parameters prior to treatment is expected to identify biomarkers predictive of clinical outcome as well as to elucidate why some patients fail to respond to immunotherapy. We monitored blood immune cells from 58 patients with non-small- cell lung cancer (NSCLC) undergoing surgery of the primary tumor and from 50 age-matched healthy volunteers. Complete leukocyte blood count, the number of circulating dendritic cells (DC), HLA-DRlow monocytes and several lymphocytic subpopulations were determined by eight-color flow cytometry. Furthermore, the prognostic value of the immune cell parameters investigated was evaluated by patients? survival analysis. Compared to the control group, blood of NSCLC patients contained more neutrophils resulting in a higher neutrophil-to-lymphocyte ratio (NLR), but a lower number of blood DC, in particular of plasmacytoid DC (pDC), natural killer (NK) cells and naive CD4+ and CD8+ T cells. Furthermore, a higher frequency of CD4+ regulatory T cells (Treg) and HLA-DRlow monocytes was detected, and smoking had a significant impact on these values. HLA-DRlow monocytes were positively correlated to the number of neutrophils, monocytes and NLR, but negatively associated with the number of pDC and naive CD4+ T cells. The frequency of Treg, HLA-DRlow monocytes and naive CD4+ and CD8+ T cells as well as the ratios of CD4/HLA-DRlow monocytes and HLA-DRlow monocytes/pDC correlated with patient?s overall survival. Next to Treg, HLA-DRlow monocytes and naive T cells represent prognostic markers for NSCLC patients and might be useful for monitoring of patients? responses to immunotherapies in future studies.
+ER  - 
+
+TY  - JOUR
+AU  - Nguyen, T. C.
+AU  - Shedda, S.
+AU  - Jones, I. T.
+AU  - Judson, R.
+AU  - Hayes, I.
+AU  - Hastie, I.
+TI  - CR34P STOMAS ARE STILL USED IN COLORECTAL TRAUMA
+JO  - ANZ Journal of Surgery
+VL  - 79
+IS  - s1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/j.1445-2197.2009.04915_33.x
+DO  - doi:10.1111/j.1445-2197.2009.04915_33.x
+SP  - A16
+EP  - A16
+PY  - 2009
+AB  - Purpose:?? We aimed to assess the management of colorectal and anal injuries in trauma patients at a single major metropolitan trauma hospital in Australia. Methods:?? A prospectively collected database at a major metropolitan trauma centre was assessed to retrieve consecutive patients who had colorectal and anal injuries over a 12?year period. Results:?? 185 patients were identified with colorectal or anal injuries from February 1996 to June 2008. The mechanism of injury was blunt in 145 (78%) with 134 (72%) related to motor vehicle trauma. The remaining 40 (22%) were due to penetrating injuries. There were 165 (89%) colonic injuries, 5 (3%) rectal injuries and 15 (8%) perineal injuries. 106 (57%) patients had multiple site of colonic or multiple organ injuries. 46 (25%) patients had full thickness tear of the colon with only 2 having full transection of the colon. The rest had contusions, serosal tears or mesocolon injury. The median injury severity score was 27 (range 4?75). 134 (72%) patients had surgical intervention including 61 repairs, 30 resections and 12 stomas, 3 of which occurred in major perineal injuries. The in hospital mortality rate was 5.4% with major or minor morbidity occurring in 52%. This included 3 anastomotic leaks and 2 missed injuries requiring a second laparotomy. 12 (6%) patients were subsequently readmitted after the initial management. Conclusion:?? Colorectal injuries are usually due to road trauma with the majority occurring in the colon and over half these patients have multiple injuries. The complication rate is significant but relatively few of these are related to anastomotic leak when primary anastomosis is undertaken. Stomas however continue to be used.
+ER  - 
+
+TY  - JOUR
+AU  - Boutté, Angela M.
+AU  - Yao, Changping
+AU  - Kobeissy, Firas
+AU  - May Lu, Xi-Chun
+AU  - Zhang, Zhiqun
+AU  - Wang, Kevin K.
+AU  - Schmid, Kara
+AU  - Tortella, Frank C.
+AU  - Dave, Jitendra R.
+TI  - Proteomic analysis and brain-specific systems biology in a rodent model of penetrating ballistic-like brain injury
+JO  - ELECTROPHORESIS
+JA  - ELECTROPHORESIS
+VL  - 33
+IS  - 24
+SN  - 0173-0835
+UR  - https://doi.org/10.1002/elps.201200196
+DO  - doi:10.1002/elps.201200196
+SP  - 3693
+EP  - 3704
+KW  - Biomarker
+KW  - Penetrating ballistic-like brain injury
+KW  - Proteomics
+KW  - Systems biology
+KW  - UCH-L1
+PY  - 2012
+AB  - Proteomics and systems biology have significantly contributed to biomarker discovery in the field of brain injury. This study utilized 2D-DIGE-PMF-MS as a preliminary screen to detect biomarkers in a rat model of penetrating ballistic-like brain injury (PBBI). Brain-specific systems biology analysis of brain tissue identified 386 proteins having a fold change of more than 2, of which 321 proteins were increased and 65 were decreased 24 h after PBBI compared to sham controls. The majority of upregulated proteins were cytoskeletal (10.5%), nucleic acid binding (9.3%), or kinases (8.9%). Most proteins were involved in protein metabolism (22.7%), signal transduction (20.4%), and development (9.6%). Pathway analysis indicated that these proteins were involved in neurite outgrowth and cell differentiation. Semiquantitative Western blotting of 6, 24, 48, and 72 h after PBBI indicated ubiquitin carboxyl-terminal hydrolase isozyme L1 (a proposed traumatic brain injury biomarker in human clinical trials), tyrosine hydroxylase, and syntaxin-6 were found to be consistently elevated in brain tissue and cerebral spinal fluid after PBBI compared to sham controls. Combining proteomics and brain-specific systems biology can define underlying mechanisms of traumatic brain injury and provide valuable information in biomarker discovery that, in turn, may lead to novel therapeutic targets.
+ER  - 
+
+TY  - JOUR
+AU  - Eagle, Sonja
+AU  - Potter, Hollis G.
+AU  - Koff, Matthew F.
+TI  - Morphologic and quantitative magnetic resonance imaging of knee articular cartilage for the assessment of post-traumatic osteoarthritis
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+VL  - 35
+IS  - 3
+SN  - 0736-0266
+UR  - https://doi.org/10.1002/jor.23345
+DO  - doi:10.1002/jor.23345
+SP  - 412
+EP  - 423
+KW  - cartilage
+KW  - trauma
+KW  - osteoarthritis
+KW  - magnetic resonance imaging
+KW  - texture
+PY  - 2017
+AB  - ABSTRACT Orthopedic trauma, such as anterior cruciate ligament (ACL) disruption, is a common source of osteoarthritis in the knee. Magnetic resonance imaging (MRI) is a non-invasive multi-planar imaging modality commonly used to evaluate hard and soft tissues of diarthrodial joints following traumatic injury. The contrast provided by generated images enables the evaluation of bone marrow lesions as well as delamination and degeneration of articular cartilage. We will provide background information about MRI signal generation and decay (T1 and T2 values), the utility of morphologic MRI, and the quantitative MRI techniques of T1?, T2, and T2* mapping, to evaluate subjects with traumatic knee injuries, such as ACL rupture. Additionally, we will provide information regarding the dGEMRIC, sodium, and gagCEST imaging techniques. Finally, the description and utility of newer post hoc analysis techniques, such as texture analysis, will be given. Continued development and refinement of these advanced MRI techniques will facilitate their clinical translation. ? 2016 Orthopaedic Research Society. Published by Wiley Periodicals, Inc. J Orthop Res 35:412?423, 2017.
+ER  - 
+
+TY  - JOUR
+AU  - Yahata, Noriaki
+AU  - Kasai, Kiyoto
+AU  - Kawato, Mitsuo
+TI  - Computational neuroscience approach to biomarkers and treatments for mental disorders
+JO  - Psychiatry and Clinical Neurosciences
+JA  - Psychiatry Clin. Neurosci.
+VL  - 71
+IS  - 4
+SN  - 1323-1316
+UR  - https://doi.org/10.1111/pcn.12502
+DO  - doi:10.1111/pcn.12502
+SP  - 215
+EP  - 237
+KW  - biomarkers
+KW  - computational psychiatry
+KW  - machine learning
+KW  - neuroimaging
+KW  - resting-state functional connectivity
+PY  - 2017
+AB  - Psychiatry research has long experienced a stagnation stemming from a lack of understanding of the neurobiological underpinnings of phenomenologically defined mental disorders. Recently, the application of computational neuroscience to psychiatry research has shown great promise in establishing a link between phenomenological and pathophysiological aspects of mental disorders, thereby recasting current nosology in more biologically meaningful dimensions. In this review, we highlight recent investigations into computational neuroscience that have undertaken either theory- or data-driven approaches to quantitatively delineate the mechanisms of mental disorders. The theory-driven approach, including reinforcement learning models, plays an integrative role in this process by enabling correspondence between behavior and disorder-specific alterations at multiple levels of brain organization, ranging from molecules to cells to circuits. Previous studies have explicated a plethora of defining symptoms of mental disorders, including anhedonia, inattention, and poor executive function. The data-driven approach, on the other hand, is an emerging field in computational neuroscience seeking to identify disorder-specific features among high-dimensional big data. Remarkably, various machine-learning techniques have been applied to neuroimaging data, and the extracted disorder-specific features have been used for automatic case?control classification. For many disorders, the reported accuracies have reached 90% or more. However, we note that rigorous tests on independent cohorts are critically required to translate this research into clinical applications. Finally, we discuss the utility of the disorder-specific features found by the data-driven approach to psychiatric therapies, including neurofeedback. Such developments will allow simultaneous diagnosis and treatment of mental disorders using neuroimaging, thereby establishing ?theranostics? for the first time in clinical psychiatry.
+ER  - 
+
+TY  - JOUR
+AU  - Sturrock, Aaron
+AU  - Laule, Corree
+AU  - Wyper, Katy
+AU  - Milner, Ruth A.
+AU  - Decolongon, Joji
+AU  - Santos, Rachelle Dar
+AU  - Coleman, Allison J.
+AU  - Carter, Kimberley
+AU  - Creighton, Susan
+AU  - Bechtel, Natalie
+AU  - Bohlen, Stefan
+AU  - Reilmann, Ralf
+AU  - Johnson, Hans J.
+AU  - Hayden, Michael R.
+AU  - Tabrizi, Sarah J.
+AU  - Mackay, Alex L.
+AU  - Leavitt, Blair R.
+TI  - A longitudinal study of magnetic resonance spectroscopy Huntington's disease biomarkers
+JO  - Movement Disorders
+JA  - Mov Disord.
+VL  - 30
+IS  - 3
+SN  - 0885-3185
+UR  - https://doi.org/10.1002/mds.26118
+DO  - doi:10.1002/mds.26118
+SP  - 393
+EP  - 401
+KW  - Huntington's disease
+KW  - MRS
+KW  - MRI
+KW  - N-acetyl aspartate (NAA)
+KW  - myo-inositol (MI)
+PY  - 2015
+AB  - Abstract Putaminal metabolites examined using cross-sectional magnetic resonance spectroscopy (MRS) can distinguish pre-manifest and early Huntington's Disease (HD) individuals from controls. An ideal biomarker, however, will demonstrate longitudinal change over short durations. The objective here was to evaluate longitudinal in vivo brain metabolite profiles in HD over 24 months. Eighty-four participants (30 controls, 25 pre-manifest HD, 29 early HD) recruited as part of TRACK-HD were imaged at baseline, 12 months, and 24 months using 3T MRS of left putamen. Automated putaminal volume measurement was performed simultaneously. To quantify partial volume effects, spectroscopy was performed in a second, white matter voxel adjacent to putamen in six subjects. Subjects underwent TRACK-HD motor assessment. Statistical analyses included linear regression and one-way analysis of variance (ANOVA). At all time-points N-acetyl aspartate and total N-acetyl aspartate (NAA), neuronal integrity markers, were lower in early HD than in controls. Total NAA was lower in pre-manifest HD than in controls, whereas the gliosis marker myo-inositol (MI) was robustly elevated in early HD. Metabolites were stable over 24 months with no longitudinal change. Total NAA was not markedly different in adjacent white matter than putamen, arguing against partial volume confounding effects in cross-sectional group differences. Total NAA correlations with disease burden score suggest that this metabolite may be useful in identifying neurochemical responses to therapeutic agents. We demonstrate almost consistent group differences in putaminal metabolites in HD-affected individuals compared with controls over 24 months. Future work establishing spectroscopy as an HD biomarker should include multi-site assessments in large, pathologically diverse cohorts. ? 2015 International Parkinson and Movement Disorder Society
+ER  - 
+
+TY  - JOUR
+AU  - Kjærgaard, Anders G.
+AU  - Dige, Anders
+AU  - Nielsen, Jeppe S.
+AU  - Tønnesen, Else
+AU  - Krog, Jan
+TI  - The use of the soluble adhesion molecules sE-selectin, sICAM-1, sVCAM-1, sPECAM-1 and their ligands CD11a and CD49d as diagnostic and prognostic biomarkers in septic and critically ill non-septic ICU patients
+JO  - APMIS
+JA  - APMIS
+VL  - 124
+IS  - 10
+SN  - 0903-4641
+UR  - https://doi.org/10.1111/apm.12585
+DO  - doi:10.1111/apm.12585
+SP  - 846
+EP  - 855
+KW  - Biomarkers
+KW  - sepsis
+KW  - adhesion molecules
+KW  - endothelial activation
+PY  - 2016
+AB  - Endothelial activation is pivotal in the development and escalation of sepsis. Central to endothelial activation is the endothelial up-regulation of cellular adhesion molecules (CAMs) including E-selectin, ICAM-1, VCAM-1, and PECAM-1. Shed CAMs are also found in circulating soluble forms (sCAMs). We investigated whether sCAMs can be used as biomarkers for the differentiation between septic and non-septic patients. Furthermore, we investigated lymphocyte and monocyte expression of LFA-1 (CD11a/CD18) and VLA-4 (CD49d/CD29) ligands for ICAM-1 and VCAM-1, respectively. Twenty-one septic and 15 critically ill non-septic patients were included. All patients had an APACHE II score above 13 at ICU admission. Fifteen healthy volunteers served as controls. Flow cytometry was used to estimate levels of sE-selectin, sICAM-1, sVCAM-1, sPECAM-1, and the cellular expression of CD11a and CD49d. Levels of sE-selectin, sICAM-1 and sPECAM-1 were higher in the septic patients compared with the non-septic patients and controls at admission and during the observation period. Lymphocyte and monocyte expression of CD11a and CD49d was suppressed or unaltered in the septic patients compared with the non-septic patients and controls. Levels of sE-selectin, sICAM-1, and sPECAM-1 were able to discriminate between septic and non-septic patients, indicating that sCAMs may be potential diagnostic biomarkers of sepsis.
+ER  - 
+
+TY  - JOUR
+AU  - Huckans, Marilyn
+AU  - Fuller, Bret E.
+AU  - Olavarria, Hannah
+AU  - Sasaki, Anna W.
+AU  - Chang, Michael
+AU  - Flora, Kenneth D.
+AU  - Kolessar, Michael
+AU  - Kriz, Daniel
+AU  - Anderson, Jeanne R.
+AU  - Vandenbark, Arthur A.
+AU  - Loftis, Jennifer M.
+TI  - Multi-analyte profile analysis of plasma immune proteins: altered expression of peripheral immune factors is associated with neuropsychiatric symptom severity in adults with and without chronic hepatitis C virus infection
+JO  - Brain and Behavior
+JA  - Brain Behav
+VL  - 4
+IS  - 2
+SN  - 2162-3279
+UR  - https://doi.org/10.1002/brb3.200
+DO  - doi:10.1002/brb3.200
+SP  - 123
+EP  - 142
+KW  - Anxiety
+KW  - biological markers
+KW  - chronic infection
+KW  - cytokines
+KW  - depression
+KW  - fatigue
+KW  - pain
+PY  - 2014
+AB  - Abstract Background The purpose of this study was to characterize hepatitis C virus (HCV)-associated differences in the expression of 47 inflammatory factors and to evaluate the potential role of peripheral immune activation in HCV-associated neuropsychiatric symptoms?depression, anxiety, fatigue, and pain. An additional objective was to evaluate the role of immune factor dysregulation in the expression of specific neuropsychiatric symptoms to identify biomarkers that may be relevant to the treatment of these neuropsychiatric symptoms in adults with or without HCV. Methods Blood samples and neuropsychiatric symptom severity scales were collected from HCV-infected adults (HCV+, n = 39) and demographically similar noninfected controls (HCV?, n = 40). Multi-analyte profile analysis was used to evaluate plasma biomarkers. Results Compared with HCV? controls, HCV+ adults reported significantly (P < 0.050) greater depression, anxiety, fatigue, and pain, and they were more likely to present with an increased inflammatory profile as indicated by significantly higher plasma levels of 40% (19/47) of the factors assessed (21%, after correcting for multiple comparisons). Within the HCV+ group, but not within the HCV? group, an increased inflammatory profile (indicated by the number of immune factors > the LDC) significantly correlated with depression, anxiety, and pain. Within the total sample, neuropsychiatric symptom severity was significantly predicted by protein signatures consisting of 4?10 plasma immune factors; protein signatures significantly accounted for 19?40% of the variance in depression, anxiety, fatigue, and pain. Conclusions Overall, the results demonstrate that altered expression of a network of plasma immune factors contributes to neuropsychiatric symptom severity. These findings offer new biomarkers to potentially facilitate pharmacotherapeutic development and to increase our understanding of the molecular pathways associated with neuropsychiatric symptoms in adults with or without HCV.
+ER  - 
+
+TY  - JOUR
+AU  - Beebe, Beatrice
+AU  - Hoven, Christina W.
+AU  - Kaitz, Marsha
+AU  - Steele, Miriam
+AU  - Musa, George
+AU  - Margolis, Amy
+AU  - Ewing, Julie
+AU  - Sossin, K. Mark
+AU  - Lee, Sang Han
+TI  - Urgent engagement in 9/11 pregnant widows and their infants: Transmission of trauma
+JO  - Infancy
+JA  - Infancy
+VL  - 25
+IS  - 2
+SN  - 1525-0008
+UR  - https://doi.org/10.1111/infa.12323
+DO  - doi:10.1111/infa.12323
+SP  - 165
+EP  - 189
+PY  - 2020
+AB  - Abstract The potential effects of maternal trauma on mother?infant interaction remain insufficiently studied empirically. This study examined the effects of the September 11, 2001, trauma on mother?infant interaction in mothers who were pregnant and widowed on 9/11, and their infants aged 4?6 months. Split-screen videotaped interaction was coded on a one-second basis for infant gaze, facial affect, and vocal affect; and mother gaze, facial affect, and touch. We examined the temporal dynamics of communication: self-contingency and interactive contingency of behavior by time-series methods. We documented heightened maternal and infant efforts at engagement in the 9/11 (vs. control) dyads. Both partners had difficulty tolerating moments of looking away as well as moments of negative behavior patterns. Heightened efforts to maintain a positive visual engagement may be adaptive and a potential source of resilience, but these patterns may also carry risk: working too hard to make it work. A vigilant, hyper-contingent, high-arousal engagement was the central mode of the interpersonal transmission of the trauma to these infants, with implications for intervention.
+ER  - 
+
+TY  - JOUR
+AU  - Kou, Zhifeng
+AU  - VandeVord, Pamela J.
+TI  - Traumatic white matter injury and glial activation: From basic science to clinics
+JO  - Glia
+JA  - Glia
+VL  - 62
+IS  - 11
+SN  - 0894-1491
+UR  - https://doi.org/10.1002/glia.22690
+DO  - doi:10.1002/glia.22690
+SP  - 1831
+EP  - 1855
+KW  - traumatic brain injury
+KW  - traumatic axonal injury
+KW  - diffuse axonal injury
+KW  - glial activation
+KW  - neuroinflammation
+KW  - microglia
+KW  - astrocyte
+KW  - biomarkers
+KW  - magnetic resonance imaging
+KW  - neuroimaging
+KW  - diffusion tensor imaging
+PY  - 2014
+AB  - An improved understanding and characterization of glial activation and its relationship with white matter injury will likely serve as a novel treatment target to curb post injury inflammation and promote axonal remyelination after brain trauma. Traumatic brain injury (TBI) is a significant public healthcare burden and a leading cause of death and disability in the United States. Particularly, traumatic white matter (WM) injury or traumatic axonal injury has been reported as being associated with patients' poor outcomes. However, there is very limited data reporting the importance of glial activation after TBI and its interaction with WM injury. This article presents a systematic review of traumatic WM injury and the associated glial activation, from basic science to clinical diagnosis and prognosis, from advanced neuroimaging perspective. It concludes that there is a disconnection between WM injury research and the essential role of glia which serve to restore a healthy environment for axonal regeneration following WM injury. Particularly, there is a significant lack of non-invasive means to characterize the complex pathophysiology of WM injury and glial activation in both animal models and in humans. An improved understanding and characterization of the relationship between glia and WM injury will likely serve as a novel treatment target to curb post injury inflammation and promote axonal remyelination. GLIA 2014;62:1831?1855
+ER  - 
+
+TY  - JOUR
+AU  - Silva, F
+AU  - Melo, S
+AU  - Abreu, J
+AU  - Manso, H
+AU  - Manso Filho, H
+TI  - A Standardised Gaited Field Test Produces Changes in Blood Biomarkers and Heart Rate in Four-Beat Gaited Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_58
+DO  - doi:10.1111/evj.12267_58
+SP  - 19
+EP  - 19
+PY  - 2014
+AB  - Introduction There is little information about biochemical and physiologic responses to exercise in Brazilian gaited horses. The aim of this study was to evaluate blood biomarkers and heart rate (HR) in gaited horses during a standardized gaited field test (SGT). Methods Sixteen horses performed a SGT (10?min warm-up, 30?min of marcha gait and 15?min recovery). Blood samples and HR were collected at rest, after warm-up, after 15 (F?+?15) and 30?min (F?+?30) of marcha, and after recovery. Assays were performed to measure glucose, lactate, total plasma protein, hematocrit, urea, creatinine, glutamine, glutamate, triglycerides, total cholesterol, Ca, P, Mg, Na, Cl and K. HR was measured using a HR monitor. Results were analyzed using one-way or two-way ANOVA. Post-hoc analyses included the Holm-Sidak test, Student's t-tests, and Pearson's correlation analyses. The null hypothesis was rejected when P<0.05. Results [Glucose] and [lactate] increased during SGT (P<0.05). A significant interaction between phase of SGT and fitness level was observed for [glucose] but not for [lactate]. The SGT also produced increases (P<0.05) in hematocrit, [TPP], [urea], [creatinine], [triglycerides], [P] and [K] and a reduction (P<0.05) in [Ca]. HR increased from ?47?bpm at rest, to ?140?bpm at F?+?15 and F?+?30 (P<0.05). Conclusions This study documents submaximal aerobic exercise, as performed during the GST is sufficient to alter energy biomarkers in gaited horses. Ethical Animal Research The study was approved by UFRPE's animal research committee (#62/2007-CTA/DZ/UFRPE). Sources of funding:?CAPES, IRCA Animal Nutrition and Cascatinha, Recanto da Serra, Annette and Abreu horse farms. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Melo, S
+AU  - Wanderley, E
+AU  - Diniz, I
+AU  - Manso, H
+AU  - Manso Filho, H
+TI  - Oil Supplementation Produces an Increase in Antioxidant Biomarkers in Four-Beat Gaited Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_98
+DO  - doi:10.1111/evj.12267_98
+SP  - 32
+EP  - 33
+PY  - 2014
+AB  - Introduction Marcha is typically a low intensity/medium duration exercise that has the potential to induce oxidative stress. The objective of the present study was to test the hypothesis that supplementation with oil would alter biomarkers of oxidative stress in four-beat gaited horses during marcha training. Methods Eleven gaited horses underwent training for 60?min (?60% consisting of marcha at ?3.5?m/s) 3?d/wk for eight weeks. Subjects were fed elephant grass (?15?kg/day) and concentrate (?5?kg/day). They were also supplemented with 300?mL of oil per os (vitamin E: 300?IU/kg, omega-3: 300?g/kg; omega-6: 80?g/kg) and had free access to water and salt. Blood samples were collected before and after four and eight weeks of supplementation for the measurement of GPx, SOD, RBC, hemoglobin, hematocrit, WBC, TPP, urea, creatinine and uric acid. ANOVA and Tukey tests were used for statistical analysis (P<0.05). Results Increases in GPx (?12%), SOD (?51%) and uric acid (?19%) were observed after 8 week of supplementation (P<0.05). There were changes (P<0.05) in [urea] and [creatinine]; however, there were no changes (P>0.05) in RBC, hemoglobin, hematocrit or WBC. Published research has demonstrated that administration of supplements with antioxidants enhances the antioxidant system and protects against oxidative stress during exercise. Supplementation with oil, rich in vitamin E, omega-3 and -6, produced a beneficial increase in antioxidant capacity in gaited horses during training. Conclusions The elevation in [GPx], [SOD] and [uric acid] in the present study offers a strategy to counterbalance the physiologic processes that overwhelm endogenous antioxidants during training. Ethical Animal Research Methods were approved by UFRPE Animal Care Unit (#026/2013). Sources of funding:?INTEGRALMIX Animal Nutrition (Fortaleza-CE), Haras Cascatinha (Camaragibe-PE) and CAPES. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Condon, Eileen M.
+AU  - Sadler, Lois S.
+AU  - Mayes, Linda C.
+TI  - Toxic stress and protective factors in multi-ethnic school age children: A research protocol
+JO  - Research in Nursing & Health
+JA  - Res Nurs Health
+VL  - 41
+IS  - 2
+SN  - 0160-6891
+UR  - https://doi.org/10.1002/nur.21851
+DO  - doi:10.1002/nur.21851
+SP  - 97
+EP  - 106
+KW  - emotional states/feelings
+KW  - family health
+KW  - health promotion/wellness behaviors
+KW  - parent-child relationships
+KW  - prevention
+KW  - stress and coping
+PY  - 2018
+AB  - ABSTRACT Exposure to stressful environments in early childhood can cause a toxic stress response and lead to poor health outcomes, including obesity, cardiac disease, diabetes, and mental illness. In animals and maltreated children, the presence of a nurturing caregiver can buffer against the physiological disruptions associated with a toxic stress response; however, the specific caregiver and parenting characteristics that best promote a protective relationship in humans remain largely unexplored, particularly in families living in high-risk environments. In this study, framed in an ecobiodevelopmental (EBD) model, a cross-sectional design is being used to study 54 multi-ethnic, urban maternal-child dyads with children at early school age (4?9 years). Mothers? past experiences, mental health, and caregiving patterns and children's hair cortisol, C-reactive protein, pro-inflammatory cytokines, blood pressure, BMI, behavior, and school performance are being analyzed to identify maternal characteristics that may protect against children's toxic stress response in families at high risk for exposure to stressors such as poverty, trauma, or exposure to violence.
+ER  - 
+
+TY  - JOUR
+AU  - Bonifazi, Paolo
+AU  - Erramuzpe, Asier
+AU  - Diez, Ibai
+AU  - Gabilondo, Iñigo
+AU  - Boisgontier, Matthieu P.
+AU  - Pauwels, Lisa
+AU  - Stramaglia, Sebastiano
+AU  - Swinnen, Stephan P.
+AU  - Cortes, Jesus M.
+TI  - Structure–function multi-scale connectomics reveals a major role of the fronto-striato-thalamic circuit in brain aging
+JO  - Human Brain Mapping
+JA  - Hum Brain Mapp
+VL  - 39
+IS  - 12
+SN  - 1065-9471
+UR  - https://doi.org/10.1002/hbm.24312
+DO  - doi:10.1002/hbm.24312
+SP  - 4663
+EP  - 4677
+KW  - brain age
+KW  - brain connectivity
+KW  - chronological age
+KW  - diffusion tensor imaging
+KW  - physiological aging
+KW  - resting state
+PY  - 2018
+AB  - Abstract Physiological aging affects brain structure and function impacting morphology, connectivity, and performance. However, whether some brain connectivity metrics might reflect the age of an individual is still unclear. Here, we collected brain images from healthy participants (N?=?155) ranging from 10 to 80 years to build functional (resting state) and structural (tractography) connectivity matrices, both data sets combined to obtain different connectivity features. We then calculated the brain connectome age?an age estimator resulting from a multi-scale methodology applied to the structure?function connectome, and compared it to the chronological age (ChA). Our results were twofold. First, we found that aging widely affects the connectivity of multiple structures, such as anterior cingulate and medial prefrontal cortices, basal ganglia, thalamus, insula, cingulum, hippocampus, parahippocampus, occipital cortex, fusiform, precuneus, and temporal pole. Second, we found that the connectivity between basal ganglia and thalamus to frontal areas, also known as the fronto-striato-thalamic (FST) circuit, makes the major contribution to age estimation. In conclusion, our results highlight the key role played by the FST circuit in the process of healthy aging. Notably, the same methodology can be generally applied to identify the structural?functional connectivity patterns correlating to other biomarkers than ChA.
+ER  - 

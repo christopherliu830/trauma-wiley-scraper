@@ -1,0 +1,369 @@
+
+TY  - JOUR
+AU  - Guzman, Norberto A.
+AU  - Phillips, Terry M.
+TI  - Immunoaffinity capillary electrophoresis: A new versatile tool for determining protein biomarkers in inflammatory processes
+JO  - ELECTROPHORESIS
+JA  - ELECTROPHORESIS
+VL  - 32
+IS  - 13
+SN  - 0173-0835
+UR  - https://doi.org/10.1002/elps.201000700
+DO  - doi:10.1002/elps.201000700
+SP  - 1565
+EP  - 1578
+KW  - Immunoaffinity capillary electrophoresis
+KW  - Microscale metabolic studies
+KW  - Organ-on-a-chip
+KW  - Protein biomarkers
+KW  - Single cell capture device
+PY  - 2011
+AB  - Abstract Many diseases caused by inflammatory processes can progress to a chronic state causing deterioration in the quality of life and a poor prognosis for long-term survival. To address inflammatory diseases effectively, early detection and novel therapeutics are required. However, this can be challenging, in part because of the lack of early predictive biomarkers and the limited availability of adequate technologies capable of the identification/characterization of key predictive biomarkers present in biological materials, especially those found at picomolar concentrations and below. This review highlights the need for state-of-the art methodologies, with high-sensitivity and high-throughput capabilities, for determination of multiple biomarkers. Although many new biomarkers have been discovered recently, existing technology has failed to successfully bring this advancement to the patient's bedside. We present an overview of the various advances available today to extend the discovery of predictive biomarkers of inflammatory diseases; in particular, we review the technology of immunoaffinity capillary electrophoresis (IACE), which combines the use of antibodies as highly selective capture agents with the high resolving power of capillary electrophoresis. This two-dimensional hybrid technology permits the quantification and characterization of several protein biomarkers simultaneously, including subtle structural changes such as variants, isoforms, peptide fragments, and post-translational modifications. Furthermore, the results are rapid, sensitive, can be performed at a relatively low cost, without the introduction of false positive or false negative data. The IACE instrumentation can have relevance to medical, pharmaceutical, environmental, military, cultural heritage (authenticity of art work), forensic science, industrial and research fields, and in particular as a point-of-care biomarker analyzer in translational medicine.
+ER  - 
+
+TY  - JOUR
+TI  - Abstract
+JO  - Journal of Thrombosis and Haemostasis
+JA  - Journal of Thrombosis and Haemostasis
+VL  - 5
+IS  - S2
+SN  - 1538-7933
+UR  - https://doi.org/10.1111/j.1538-7836.2007.tb00027.x
+DO  - doi:10.1111/j.1538-7836.2007.tb00027.x
+SP  - P-T-001
+EP  - P-T-200
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts from the International Veterinary Emergency and Critical Care Symposium and the European Veterinary Emergency and Critical Care Society Annual Congress, 2012
+JO  - Journal of Veterinary Emergency and Critical Care
+JA  - Journal of Veterinary Emergency and Critical Care
+VL  - 22
+IS  - s2
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/j.1476-4431.2012.00785.x
+DO  - doi:10.1111/j.1476-4431.2012.00785.x
+SP  - S1
+EP  - S28
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+AU  - Malchesky, Paul S.
+TI  - Artificial Organs 2012: A Year in Review
+JO  - Artificial Organs
+JA  - Artificial Organs
+VL  - 37
+IS  - 3
+SN  - 0160-564X
+UR  - https://doi.org/10.1111/aor.12057
+DO  - doi:10.1111/aor.12057
+SP  - 324
+EP  - 349
+KW  - Apheresis
+KW  - Biocompatibility
+KW  - Biomaterials
+KW  - Bioprinting
+KW  - Blood substitutes
+KW  - Blood pumps
+KW  - Cardiac support
+KW  - Cardiopulmonary
+KW  - Dermal
+KW  - Dialysis
+KW  - Gastric
+KW  - Liver
+KW  - Lung
+KW  - Membrane oxygenation
+KW  - Orthopedic
+KW  - Neuromuscular
+KW  - Pulmonary
+KW  - Renal
+KW  - Tissue engineering
+KW  - Trachea
+KW  - Transplantation
+KW  - Valves
+KW  - Vascular
+KW  - Vision
+PY  - 2013
+AB  - Abstract In this editor's review, articles published in 2012 are organized by category and briefly summarized. We aim to provide a brief reflection of the currently available worldwide knowledge that is intended to advance and better human life while providing insight for continued application of technologies and methods of organ replacement, recovery, and regeneration. As the official journal of the International Federation for Artificial Organs, the International Faculty for Artificial Organs, and the International Society for Rotary Blood Pumps, Artificial Organs continues in the original mission of its founders ?to foster communications in the field of artificial organs on an international level.? Artificial Organs continues to publish developments and clinical applications of artificial organ technologies in this broad and expanding field of organ replacement, recovery, and regeneration from all over the world. We take this time also to express our gratitude to our authors for offering their work to this journal. We offer our very special thanks to our reviewers who give so generously of time and expertise to review, critique, and especially provide such meaningful suggestions to the author's work whether eventually accepted or rejected, and especially to those whose native tongue is not English. Without these excellent and dedicated reviewers, the quality expected from such a journal could not be possible. We also express our special thanks to our publisher, Wiley Periodicals, for their expert attention and support in the production and marketing of Artificial Organs. We look forward to recording further advances in the coming years.
+ER  - 
+
+TY  - JOUR
+TI  - 2019 AAPM&R Annual Assembly Abstracts
+JO  - PM&R
+JA  - Journal of Injury, Function and Rehabilitation
+VL  - 11
+IS  - S2
+SN  - 1934-1482
+UR  - https://doi.org/10.1002/pmrj.12271
+DO  - doi:10.1002/pmrj.12271
+SP  - S1
+EP  - S187
+PY  - 2019
+ER  - 
+
+AU  - Pender, Alexandra
+AU  - Moorcraft, Sing Yu
+AU  - Lee, Daniel L.Y.
+C7  - pp. 53-184
+TI  - Side effects and complications of cancer and its treatment
+SN  - 9781118673829
+UR  - https://doi.org/10.1002/9781118673768.ch3
+DO  - doi:10.1002/9781118673768.ch3
+SP  - 53-184
+KW  - Side effects
+KW  - complications
+KW  - toxicity management
+KW  - chemotherapy toxicity
+KW  - targeted drug toxicity
+PY  - 2019
+AB  - Summary Oncology treatments can cause significant toxicities, which may be life-threatening, significantly impact on patients' quality of life or necessitate changes to their treatment. This chapter provides guidance on the most common side effects of treatment, including diarrhoea, vomiting, rashes, myelosuppression, neuropathy and mucositis. Some toxicities occur acutely, whereas others (e.g. osteoporosis, sexual dysfunction and infertility) are longer-term complications of treatment. In addition, the underlying cancer itself can lead to a number of potential complications (e.g. bowel obstruction, renal failure and biliary obstruction) which may result in emergency hospital admission. Patients require careful assessment and management, particularly as in some cases it can be difficult to determine the underlying cause. For example, fatigue, anorexia, breathlessness, confusion and thromboembolism may be caused by both cancer and its treatment.
+ER  - 
+
+AU  - Vadgama, P.
+AU  - Schoenleber, M.
+C7  - pp. 443-466
+TI  - In Vivo Applications: Glucose Monitoring, Fuel Cells
+SN  - 9780470843642
+UR  - https://doi.org/10.1002/9780470753842.ch13
+DO  - doi:10.1002/9780470753842.ch13
+SP  - 443-466
+KW  - in vivo monitoring and bioelectrochemical sensor technology
+KW  - real-time glucose monitoring
+KW  - materials interfacing strategy
+KW  - implanted glucose biosensors
+KW  - glucose sensor bioelectrochemistry
+KW  - functional electrical stimulators (FES)
+KW  - capillary bed fluid exchanges
+PY  - 2019
+AB  - Summary This chapter contains sections titled: Introduction Biocompatibility Materials Interfacing Strategy Implanted Glucose Biosensors Conclusions References
+ER  - 
+
+TY  - JOUR
+AU  - Isbister, James P.
+TI  - Hazards of Homologous Blood Transfusion
+JO  - Transfusion Alternatives in Transfusion Medicine
+VL  - 4
+IS  - 4
+SN  - 9780470843642
+UR  - https://doi.org/10.1111/j.1778-428X.2002.tb00074.x
+DO  - doi:10.1111/j.1778-428X.2002.tb00074.x
+SP  - 129
+EP  - 137
+KW  - Blood transfusion
+KW  - Risks
+KW  - Transfusion-related infections
+KW  - Storage lesions
+KW  - Immunologically mediated reactions
+KW  - Prestorage leukoreduction
+PY  - 2002
+AB  - SUMMARY In the current era of evidence-based medical practice, clinicians should ensure they have a good understanding of the potential benefits of and indications for potentially dangerous homologous blood component therapy. More attention is now being given to assessing the appropriateness of homologous transfusion therapy, with efforts to establish better evidence of improvements in patient outcomes. Such an approach allows for a more logical and realistic analysis of the risk/benefit equation in clinical management. In this summary of our current knowledge of the potential hazards of homologous blood transfusion, transfusion-transmitted infections are not addressed in detail, as most of the major problems relating to HIV and viral hepatitis have been solved and good reviews are available in the literature. In this review of the potential hazards of homologous blood transfusion, the focus is on many of the other areas of concern regarding the risk/benefit equation for homologous transfusion. Transfusion-related immunosuppression, the clinical significance of storage lesions, the potential adverse effects of leukocytes, error minimization, transfusion-related lung injury and less well-known immunological incompatibilities are addressed.
+ER  - 
+
+TY  - JOUR
+AU  - Rodgers, Ryan
+AU  - Latif, Zak
+AU  - Copland, Mhairi
+TI  - How I manage priapism in chronic myeloid leukaemia patients
+JO  - British Journal of Haematology
+JA  - Br J Haematol
+VL  - 158
+IS  - 2
+SN  - 9780470843642
+UR  - https://doi.org/10.1111/j.1365-2141.2012.09151.x
+DO  - doi:10.1111/j.1365-2141.2012.09151.x
+SP  - 155
+EP  - 164
+KW  - chronic myeloid leukaemia
+KW  - erectile dysfunction
+KW  - intracavernous therapy
+KW  - leukapheresis
+KW  - priapism
+PY  - 2012
+AB  - Summary Priapism is a rare presenting feature of chronic myeloid leukaemia (CML). It is a urological emergency requiring urgent treatment to prevent long-term complications, in particular erectile dysfunction. In males with CML, ischaemic priapism is believed to result from hyperleucocytosis and associated leucostasis or hyperviscosity, and is seen in patients presenting with a high white cell count. Increasingly, a combined modality approach is being used to treat CML patients presenting with priapism. This includes systemic therapy with chemotherapy (hydroxycarbamide or tyrosine kinase inhibitors) and therapeutic leukapheresis to reduce the white cell count as well as local intracavernous therapy. This review will examine the literature and discuss the presenting features, investigations and management of priapism in CML.
+ER  - 
+
+TY  - JOUR
+TI  - ASBMR 31st Annual Meeting MO0001–MO0445
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 24
+IS  - S1
+SN  - 9780470843642
+UR  - https://doi.org/10.1002/jbmr.5650241305
+DO  - doi:10.1002/jbmr.5650241305
+SP  - S370
+EP  - S496
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+TI  - The following abstracts were presented at the Annual Meeting of the Group of Anaesthetists in Training (GAT) in Oxford, April 2013
+JO  - Anaesthesia
+JA  - Anaesthesia
+VL  - 68
+IS  - 9
+SN  - 9780470843642
+UR  - https://doi.org/10.1111/anae.12345
+DO  - doi:10.1111/anae.12345
+SP  - 987
+EP  - 993
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - 2012 ASPHO Abstracts
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr. Blood Cancer
+VL  - 58
+IS  - 7
+SN  - 9780470843642
+UR  - https://doi.org/10.1002/pbc.24133
+DO  - doi:10.1002/pbc.24133
+SP  - 1014
+EP  - 1097
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+TI  - Subject Index
+JO  - Clinical Pharmacology & Therapeutics
+JA  - Clinical Pharmacology & Therapeutics
+VL  - 47
+IS  - 2
+SN  - 9780470843642
+UR  - https://doi.org/10.1038/clpt.1990.19
+DO  - doi:10.1038/clpt.1990.19
+SP  - 218
+EP  - 246
+PY  - 1990
+AB  - Clinical Pharmacology and Therapeutics (1990) 47, 218?246; doi:10.1038/clpt.1990.19
+ER  - 
+
+TY  - JOUR
+AU  - Drolz, Andreas
+AU  - Saxa, Reinhard
+AU  - Scherzer, Thomas
+AU  - Fuhrmann, Valentin
+TI  - Extracorporeal artificial liver support in hypoxic liver injury
+JO  - Liver International
+VL  - 31
+IS  - s3
+SN  - 9780470843642
+UR  - https://doi.org/10.1111/j.1478-3231.2011.02583.x
+DO  - doi:10.1111/j.1478-3231.2011.02583.x
+SP  - 19
+EP  - 23
+KW  - acute liver failure
+KW  - hypoxic hepatitis
+KW  - ischemic hepatitis
+KW  - MARS
+KW  - shock liver
+PY  - 2011
+AB  - Abstract The incidence of hypoxic liver injury, most commonly referred to as hypoxic hepatitis (HH), is up to 10% in critically ill patients. In the majority of cases, HH occurs as a consequence of haemodynamic impairment following cardiogenic or septic shock. A marked, dramatic increase in the aminotransferase levels in a setting of cardiocirculatory failure is the key characteristic of HH. HH may contribute to several complications such as hepatopulmonary syndrome and hypoglycaemia. The overall mortality after the onset of HH is approximately 50?60% within 1 month. We report a case of severe HH that was successfully bridged using the Molecular Adsorbent Recirculating System. In addition to the possible effects of extracorporeal liver support devices, the recognition of HH and therapy of the underlying disease that led to the occurrence of HH is of central importance.
+ER  - 
+
+TY  - JOUR
+AU  - KIENAST, J.
+AU  - JUERS, M.
+AU  - WIEDERMANN, C. J.
+AU  - HOFFMANN, J. N.
+AU  - OSTERMANN, H.
+AU  - STRAUSS, R.
+AU  - KEINECKE, H-O.
+AU  - WARREN, B. L.
+AU  - OPAL, S. M.
+AU  - THE KYBERSEPT INVESTIGATORS
+TI  - Treatment effects of high-dose antithrombin without concomitant heparin in patients with severe sepsis with or without disseminated intravascular coagulation
+JO  - Journal of Thrombosis and Haemostasis
+VL  - 4
+IS  - 1
+SN  - 9780470843642
+UR  - https://doi.org/10.1111/j.1538-7836.2005.01697.x
+DO  - doi:10.1111/j.1538-7836.2005.01697.x
+SP  - 90
+EP  - 97
+KW  - antithrombin
+KW  - disseminated intravascular coagulation
+KW  - sepsis
+KW  - septic shock
+KW  - severe sepsis
+PY  - 2006
+AB  - Summary.? Background:?Disseminated intravascular coagulation (DIC) is a serious complication of sepsis that is associated with a high mortality. Objectives:?Using the adapted International Society on Thrombosis and Haemostasis (ISTH) diagnostic scoring algorithm for DIC, we evaluated the treatment effects of high-dose antithrombin (AT) in patients with severe sepsis with or without DIC. Patients and Methods:?From the phase III clinical trial in severe sepsis (KyberSept), 563 patients were identified (placebo, 277; AT, 286) who did not receive concomitant heparin and had sufficient data for DIC determination. Results:?At baseline, 40.7% of patients (229 of 563) had DIC. DIC in the placebo-treated patients was associated with an excess risk of mortality (28-day mortality: 40.0% vs. 22.2%, P?<?0.01). AT-treated patients with DIC had an absolute reduction in 28-day mortality of 14.6% compared with placebo (P?=?0.02) whereas in patients without DIC no effect on 28-day mortality was seen (0.1% reduction in mortality; P?=?1.0). Bleeding complications in AT-treated patients with and without DIC were higher compared with placebo (major bleeding rates: 7.0% vs. 5.2% for patients with DIC, P?=?0.6; 9.8% vs. 3.1% for patients without DIC, P?= 0.02). Conclusions:?High-dose AT without concomitant heparin in septic patients with DIC may result in a significant mortality reduction. The adapted ISTH DIC score may identify patients with severe sepsis who potentially benefit from high-dose AT treatment.
+ER  - 
+
+TY  - JOUR
+AU  - Smart, E.
+AU  - Armstrong, B.
+TI  - Blood group systems
+JO  - ISBT Science Series
+VL  - 3
+IS  - 2
+SN  - 9780470843642
+UR  - https://doi.org/10.1111/j.1751-2824.2008.00188.x
+DO  - doi:10.1111/j.1751-2824.2008.00188.x
+SP  - 68
+EP  - 92
+PY  - 2008
+ER  - 
+
+C7  - pp. 41-66
+TI  - Blood Donor Medical Assessment and Blood Collection
+SN  - 9781119236542
+UR  - https://doi.org/10.1002/9781119236504.ch4
+DO  - doi:10.1002/9781119236504.ch4
+SP  - 41-66
+KW  - blood collection
+KW  - blood donor assessment
+KW  - food and drug administration
+KW  - hemochromatosis patients
+KW  - human immunodeficiency virus
+KW  - medical history
+KW  - therapeutic phlebotomy
+PY  - 2008
+AB  - Summary This chapter attempts to provide concepts and rationale for blood donor assessment and blood collection but does not refer to every specific Food and Drug Administration (FDA) requirement. It refers to the Technical Manual of the American Association of Blood Banks. The medical history is an extremely effective part of ensuring the safety of the blood supply. For instance, the implementation of questions about behavior that would put potential donors at risk for Human Immunodeficiency Virus (HIV) infection decreased the HIV infectivity of blood in the San Francisco Bay area by 90% even before the use of the HIV screening test. Blood obtained by therapeutic phlebotomy of hemochromatosis patients was not acceptable for transfusion when the pathogenesis of the disease was not understood. Blood from an earlobe puncture can have falsely elevated hemoglobin.
+ER  - 
+
+TY  - JOUR
+TI  - ISLH 2019 Abstracts
+JO  - International Journal of Laboratory Hematology
+JA  - Int J Lab Hem
+VL  - 41
+IS  - S2
+SN  - 9781119236542
+UR  - https://doi.org/10.1111/ijlh.13105
+DO  - doi:10.1111/ijlh.13105
+SP  - 1
+EP  - 205
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - ASGBI abstracts 2008: oral presentations
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 95
+IS  - S3
+SN  - 9781119236542
+UR  - https://doi.org/10.1002/bjs.6224
+DO  - doi:10.1002/bjs.6224
+SP  - 1
+EP  - 86
+PY  - 2008
+AB  - Abstract The Annual Scientific Meeting of the Association of Surgeons of Great Britain and Ireland takes place this year at Bournemouth International Centre, Bournemouth, UK (14th ? 16th May 2008), under the presidency of Professor Brian J Rowlands. To view all abstracts of oral presentations from this meeting, please click the pdf link on this page. Copyright ? 2008 British Journal of Surgery Society Ltd. Published by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Journal of Clinical Apheresis
+JA  - J. Clin. Apheresis
+VL  - 10
+IS  - 1
+SN  - 9781119236542
+UR  - https://doi.org/10.1002/jca.2920100108
+DO  - doi:10.1002/jca.2920100108
+SP  - 29
+EP  - 56
+PY  - 1995
+ER  - 

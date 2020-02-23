@@ -1,0 +1,489 @@
+
+TY  - JOUR
+AU  - Castaldello, Christopher
+AU  - Galvanin, Federico
+AU  - Casonato, Alessandra
+AU  - Padrini, Roberto
+AU  - Barolo, Massimiliano
+AU  - Bezzo, Fabrizio
+TI  - A model-based protocol for the diagnosis of von Willebrand disease
+JO  - The Canadian Journal of Chemical Engineering
+JA  - Can. J. Chem. Eng.
+VL  - 96
+IS  - 3
+SN  - 0008-4034
+UR  - https://doi.org/10.1002/cjce.22964
+DO  - doi:10.1002/cjce.22964
+SP  - 628
+EP  - 638
+KW  - von Willebrand disease
+KW  - model identification
+KW  - disease diagnosis
+KW  - discriminant analysis
+KW  - nearest neighbours
+PY  - 2018
+AB  - Abstract Von Willebrand disease (VWD) is one of the main inherited coagulation disorders. It is caused by a deficiency and/or a dysfunction of the von Willebrand factor (VWF), a fundamental multimeric glycoprotein involved in the hemostasis process. Correct detection of the disease is not an easy task because the disease manifests itself in many variants and a high intra-subject variability is observed. For these reasons, the diagnostic clinical trials typically rely on a 24-h sampling protocol, which makes the overall test long, stressful, and costly. Using a new pharmacokinetic model derived from Galvanin et al.'s 2014 study, this study aims at i) assessing the theoretical possibility to perform a shorter clinical test and ii) proposing a set of model-based diagnostic methods as a support for the clinical team. A preliminary information analysis is performed in order to understand which sampling instants are more informative for model identification. This allowed us to propose a novel, 8-h diagnostic protocol, which is still able to ensure model identifiability. Three alternative diagnostic methods are then proposed based on this short-length clinical protocol. One of them directly uses the pharmacokinetic model, whereas the other two are based on the use of three indices (two pharmacokinetic indices, namely clearance, total VWF released, and as third index the basal multimer ratio) to formulate the diagnosis problem as a classification one. The classification problem is then solved using K-nearest neighbours and linear discriminant analysis. Results show the theoretical feasibility of a VWD diagnosis based on a shorter protocol.
+ER  - 
+
+TY  - JOUR
+AU  - Bowan, J.R.
+AU  - Ayers, C.E.
+AU  - Bowlin, G.L.
+AU  - Diegelman, R
+AU  - Simpson, D.G.
+TI  - 094 Electrospun Collagen in Dermal Regeneration
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215cp.x
+DO  - doi:10.1111/j.1067-1927.2005.130215cp.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Electrospinning is a nonmechanical processing strategy that is used to fabricate tissue-engineering scaffolds composed of submicron diameter, banded fibrils of collagen. In biocompatibility tests these fibers are nonimmunogenic. Fiber diameter can be manipulated over a wide range by regulating the concentration of collagen present in the starting electrospinning solutions. Table 1 illustrates average fiber diameters and pore dimensions achieved under different conditions. Collagen Concentration Fiber Diameter Pore Area 40?mgs/ml TFE ???113?±?51?nm ????184?±?87.6?nm2 60?mgs/ml TFE ???304?±?120?nm ?1,311?±?384?nm2 80?mgs/ml TFE ???761?±?276?nm ?4,913?±?3978?nm2 100?mgs/ml TFE ???745?±?314?nm ?5,039?±?2947?nm2 120?mgs/ml TFE 1,534?±?448?nm 19,154?±?20809?nm2 We prepared four 1?cm2 full thickness dermal injuries on the dorsum of the guinea pig. Electrospun scaffolds composed of different fiber diameters were cut to fit the defects, sutured in place and then recovered at 7 and 14 days. Injuries treated with scaffolds composed of electrospun collagen fibers greater than 300?nm in diameter exhibited extensive tongue formation, dense dermal cell infiltration and functional capillary beds. Dermal regeneration was substantially complete by 14 days. Scaffolds prepared with individual fiber diameters of less than 300?nm were well epithelialized but, less densely 'populated by dermal fibroblasts and capillaries. Fibrils of electrospun gelatin, a collagen isolate that is heat denatured prior to electrospinning, lack the banded appearance of electrospun collagen. Scaffolds of electrospun gelatin were less densely infiltrated than electrospun collagen at all fiber diameters and pore dimensions, and induced inflammation. We conclude that banded fibrils of electrospun collagen have unique biological activity. Funded in part NIH R01 EB003087. US & International Patents Issued and Pending.
+ER  - 
+
+TY  - JOUR
+AU  - Rezaie, Alireza R.
+TI  - The occupancy of endothelial protein C receptor by its ligand modulates the par-1 dependent signaling specificity of coagulation proteases
+JO  - IUBMB Life
+JA  - IUBMB Life
+VL  - 63
+IS  - 6
+SN  - 1521-6543
+UR  - https://doi.org/10.1002/iub.447
+DO  - doi:10.1002/iub.447
+SP  - 390
+EP  - 396
+KW  - EPCR
+KW  - PAR-1
+KW  - thrombin
+KW  - protein C
+KW  - signaling
+KW  - specificity
+PY  - 2011
+AB  - Abstract Several recent studies have demonstrated that the activation of protease-activated receptor 1 (PAR-1) by thrombin and activated protein C (APC) on cultured vascular endothelial cells elicits paradoxical proinflammatory and antiinflammatory responses, respectively. Noting that the protective intracellular signaling activity of APC requires the interaction of the protease with its receptor, endothelial protein C receptor (EPCR), we recently hypothesized that the occupancy of EPCR by protein C may also change the PAR-1-dependent signaling specificity of thrombin. In support of this hypothesis, we demonstrated that EPCR is associated with caveolin-1 in lipid rafts of endothelial cells and that the occupancy of EPCR by the Gla-domain of protein C/APC leads to its dissociation from caveolin-1 and recruitment of PAR-1 to a protective signaling pathway through the coupling of PAR-1 to the pertussis toxin sensitive Gi-protein. Thus, when EPCR is bound by protein C, a PAR-1-dependent protective signaling response in cultured endothelial cells can be mediated by either thrombin or APC. This article will briefly review the mechanism by which the occupancy of EPCR by its natural ligand modulates the PAR-1-dependent signaling specificity of coagulation proteases. ? 2011 IUBMB IUBMB Life, 63(6): 390?396, 2011
+ER  - 
+
+TY  - JOUR
+AU  - Pérez-Rodríguez, Rocío
+AU  - Roncero, Cesáreo
+AU  - Oliván, Ana María
+AU  - González, María Pilar
+AU  - Oset-Gasque, María Jesús
+TI  - Signaling mechanisms of interferon gamma induced apoptosis in chromaffin cells: involvement of nNOS, iNOS, and NFκB
+JO  - Journal of Neurochemistry
+VL  - 108
+IS  - 4
+SN  - 0022-3042
+UR  - https://doi.org/10.1111/j.1471-4159.2008.05862.x
+DO  - doi:10.1111/j.1471-4159.2008.05862.x
+SP  - 1083
+EP  - 1096
+KW  - apoptosis
+KW  - cell death
+KW  - chromaffin cells
+KW  - JAK/STAT
+KW  - nuclear factor κB
+KW  - nitric oxide synthase
+KW  - signal transduction
+PY  - 2009
+AB  - Abstract Previous work of our group stated that exogenously added and endogenous nitric oxide (NO) generated by cytokines induce apoptosis in chromaffin cells. In this work, we investigate the specific regulation of the NO synthase (NOS) isoforms, inducible NOS (iNOS) and neuronal NOS (nNOS), and their particular participation in cell death induced by interferon gamma (IFN?). Lipopolysaccharide (LPS) and IFN? increase iNOS expression, with no effect on nNOS expression. On the other hand, dexamethasone increases basal nNOS expression but decreases LPS?+?IFN?-induced iNOS expression. IFN?-induced cell death was abolished by W-1400, a specific iNOS inhibitor, but only partially by nNOS inhibitors [N-?-propyl-l-arginine (N-PLA), 3-Bromo-7-nitroindazol (7-NI), l-methyl thiocitrulline and N-methyl l-arginine], indicating the main iNOS participation in chromaffin cell death. IFN? and LPS induce nuclear factor ?B (NF?B) translocation to the nucleus, a process implicated in activation of iNOS expression, as inhibition of NF?B translocation, by SN50, decreased iNOS expression. In addition, IFN? and LPS induce 847Ser-nNOS phosphorylation, inhibiting nNOS activity. Both processes, nNOS phosphorylation and iNOS expression induced by LPS?+?IFN?, are regulated by Janus Kinase/Signal Transducer and Activator of Transcription (JAK/STAT) pathway, as IFN? increases 727STAT-3 phosphorylation and specific inhibitors of JAK/STAT pathway, such as AG490, inhibited both processes. Taken together, these results support the hypothesis of an inactivating phosphorylation of nNOS by IFN?, via JAK/STAT, in bovine chromaffin cells. Low NO concentrations achieved by this event, would activate NF?B translocation, increasing iNOS expression and generating, this last, high apoptotic NO concentrations.
+ER  - 
+
+TY  - JOUR
+AU  - Falanga, V.
+AU  - Butmarc, J.
+AU  - Yufit, T.
+AU  - Rausch, H.
+AU  - Carson, P.
+TI  - 014 Epiboly in Bioengineered Skin as a Novel Method for Studying Epidermal Migration and Determining Construct Viability
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215n.x
+DO  - doi:10.1111/j.1067-1927.2005.130215n.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - There are only a few models for studying epidermal migration in vitro, and their interpretation is made difficult by reliance on cell monolayers and the choice of a specific substrate. In this study, the process of keratinocyte migration and epiboly were investigated by using a bilayered bioengineered skin construct, consisting of human neonatal foreskin keratinocytes and dermal fibroblasts (Apligraf, Organogenesis, Canton, MA). At baseline, 6-mm punch biopsies of the construct were placed in serum-free media (AIM-V) or DMEM with or without 10% FBS. At varying time points the bioengineered skin samples were processed and analyzed by histology and immunostaining. By 72 hours, in a time-dependent manner, the epidermis had migrated over and enveloped the entire dermis (full epiboly). Full epiboly was partially inhibited by serum and was maximal in serum-free medium. Epiboly was preserved 5 days after stated expiration date and was equivalent to that seen in unexpired construct when stored at room temperature. The process of epiboly was downregulated in a dose-dependent manner by neutralizing antibodies to EGF and TGF-beta 1. The migrating epithelium was characterized by decreased keratinocyte proliferation (as per Ki67 immunostaining) and increased expression of vitronectin (epibolin). Increasing concentrations of antibodies of vitronectin blocked the process of epiboly, as did antibodies to the alpha5-betaV integrin receptor, which mediates vitronectin-driven keratinocyte locomotion. Interesting, epiboly was also blocked by preseeding human dermal fibroblasts on the dermal side of the construct. We propose that the process of epiboly in this model can be used to better understand and assess the mechanisms involved in keratinocyte migration and may be used as an assay for establishing construct functional viability.
+ER  - 
+
+TY  - JOUR
+AU  - Sevior, Kevin B.
+AU  - Hatamochi, Atsushi
+AU  - Stewart, Ian A.
+AU  - Bykhovskaya, Yelena
+AU  - Allen-Powell, Denise R.
+AU  - Fischel-Ghodsian, Nathan
+AU  - Maw, Marion A.
+TI  - Mitochondrial A7445G mutation in two pedigrees with palmoplantar keratoderma and deafness
+JO  - American Journal of Medical Genetics
+JA  - Am. J. Med. Genet.
+VL  - 75
+IS  - 2
+SN  - 0148-7299
+UR  - https://doi.org/10.1002/(SICI)1096-8628(19980113)75:2<179::AID-AJMG11>3.0.CO;2-M
+DO  - doi:10.1002/(SICI)1096-8628(19980113)75:2<179::AID-AJMG11>3.0.CO;2-M
+SP  - 179
+EP  - 185
+KW  - mitochondrial
+KW  - palmoplantar
+KW  - keratoderma
+KW  - deafness
+PY  - 1998
+AB  - Abstract A New Zealand and a Scottish pedigree with maternally inherited sensorineural deafness were both previously shown to carry a heteroplasmic A7445G mutation in the mitochondrial genome. More detailed clinical examination of the New Zealand family showed that the hearing loss was progressive, with the severity of the overall loss and the frequencies most affected differing markedly between individuals of similar age, and showed that many relatives also had palmoplantar keratoderma. Review of the literature demonstrated three other large families with presumed autosomal dominant inheritance of palmoplantar keratoderma and hearing loss. In a United Kingdom pedigree the syndrome was transmitted by female and male parents, an inheritance pattern which made mitochondrial inheritance unlikely; however, in a Turkish and a Japanese pedigree the affected individuals were all maternally related. Subsequent analysis of the Japanese pedigree documented the same A7445G mitochondrial mutation as was previously found in the New Zealand and Scottish pedigrees. Other mitochondrial sequence variants previously reported in the New Zealand or Scottish pedigrees were absent from the Japanese pedigree which suggests that the A7445G mutation arose independently in all three pedigrees. To our knowledge palmoplantar keratoderma has not previously been associated with mitochondrial defects; however, the current findings suggest that the A7445G mutation is associated not only with progressive hearing loss but also with palmoplantar keratoderma. The penetrance and expressivity of both symptoms varied considerably between individuals in the Scottish and New Zealand Studies which suggests that additional environmental and/or genetic factors are involved. Am. J. Med. Genet. 75:179?185, 1998. ? 1998 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Maher, Suzanne A.
+AU  - Wang, Hongsheng
+AU  - Koff, Matthew F.
+AU  - Belkin, Nicole
+AU  - Potter, Hollis G.
+AU  - Rodeo, Scott A.
+TI  - Clinical platform for understanding the relationship between joint contact mechanics and articular cartilage changes after meniscal surgery
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+VL  - 35
+IS  - 3
+SN  - 0736-0266
+UR  - https://doi.org/10.1002/jor.23365
+DO  - doi:10.1002/jor.23365
+SP  - 600
+EP  - 611
+KW  - knee joint contact mechanics
+KW  - osteoarthritis
+KW  - imaging
+KW  - biomarkers
+KW  - meniscus
+PY  - 2017
+AB  - ABSTRACT Injury to the meniscus of the knee has been implicated as a significant risk factor for the subsequent development of osteoarthritis, but the mechanisms of joint degeneration are unclear. Our objective was to develop a clinically applicable methodology to evaluate the relationship of joint contact mechanics at the time of surgery to biological changes of articular cartilage as a function of time following surgery. A series of pre-, intra-, and post-operative protocols were developed which utilized electronic sensors for the direct measurement of contact mechanics, and advanced imaging to assess cartilage health. The tests were applied to a pilot cohort of young active patients undergoing meniscus allograft transplantation. Our study demonstrated significant variability across patients in terms of contact area and peak contact stress, both before and after transplantation. Nonetheless, the majority of patients exhibited decreased peak contact stress and increased contact area after graft implantation. MR scans at 3?6 months showed decreased T1? values in tibial articular cartilage, suggesting an increase in proteoglycan content or concomitant decrease in water content. Prolongation of T2 values was found primarily within the central, cartilage?cartilage contact region of the tibial plateau suggested disruption of the collagen network. Minimal differences were found in cartilage thickness over the short time frame of this preliminary study. With longer clinical follow-up, our platform of clinical tests can be used to better understand the patient-specific mechanical factors that are related to increased risk of OA after meniscus injury and surgery. ? 2017 Orthopaedic Research Society. Published by Wiley Periodicals, Inc. J Orthop Res 35:600?611, 2017.
+ER  - 
+
+TY  - JOUR
+AU  - Levitsky, Lev I.
+AU  - Kliuchnikova, Anna A.
+AU  - Kuznetsova, Ksenia G.
+AU  - Karpov, Dmitry S.
+AU  - Ivanov, Mark V.
+AU  - Pyatnitskiy, Mikhail A.
+AU  - Kalinina, Olga V.
+AU  - Gorshkov, Mikhail V.
+AU  - Moshkovskii, Sergei A.
+C7  - 1900195
+TI  - Adenosine-to-Inosine RNA Editing in Mouse and Human Brain Proteomes
+JO  - PROTEOMICS
+JA  - Proteomics
+VL  - 19
+IS  - 23
+SN  - 1615-9853
+UR  - https://doi.org/10.1002/pmic.201900195
+DO  - doi:10.1002/pmic.201900195
+SP  - 1900195
+KW  - adenosine deaminase
+KW  - AMPA glutamate receptor
+KW  - brain proteome
+KW  - proteogenomics
+KW  - ribonucleic acid (RNA) editing
+PY  - 2019
+AB  - Abstract Proteogenomics is based on the use of customized genome or RNA sequencing databases for interrogation of shotgun proteomics data in search for proteome-level evidence of genome variations or RNA editing. In this work, the products of adenosine-to-inosine RNA editing in human and murine brain proteomes are identified using publicly available brain proteome LC-MS/MS datasets and an RNA editome database compiled from several sources. After filtering of false-positive results, 20 and 37 sites of editing in proteins belonging to 14 and 32 genes are identified for murine and human brain proteomes, respectively. Eight sites of editing identified with high spectral counts overlapped between human and mouse brain samples. Some of these sites have been previously reported using orthogonal methods, such as α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) glutamate receptors, CYFIP2, coatomer alpha. Also, differential editing between neurons and microglia is demonstrated in this work for some of the proteins from primary murine brain cell cultures. Because many edited sites are still not characterized functionally at the protein level, the results provide a necessary background for their further analysis in normal and diseased cells and tissues using targeted proteomic approaches.
+ER  - 
+
+TY  - JOUR
+AU  - Fazio, R
+AU  - Malagutti, MC
+AU  - Sessa, M
+AU  - Previtali, S
+AU  - Amadio, S
+AU  - Quattrini, A
+AU  - Comi, GC
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 40
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 1085-9489
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00040.x
+DO  - doi:10.1046/j.1529-8027.2003.00040.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - We describe a 75-year-old woman affected by ichthyosis since childhood who developed bilateral lower limb distal muscle weakness resulting in foot deformities and gait disturbances during the last decade. Neurological examination showed equinovarus deformity with pied en griffe, distal motor and sensory impairment and areflexia at lower limbs. On upper limbs mild distal motor impairment and atrophy were present. EMG study revealed an axonal sensory motor polyneuropathy. Sural nerve biopsy showed a severe, predominantly axonal, neuropathy with many clusters of small myelinated fibers and some degree of chronic demyelination with small onion bulbs. Both her sister and the mother have a clinically similar peripheral neuropathy, but in the absence of ichtyosis. Familial history, prevalent motor lower limbs involvement, middle life onset with slow evolution, neurophysiological and neuropathological findings suggest the diagnosis of Charcot-Marie-Tooth disease type 2 (CMT 2). Nevertheless, biochemistry and cerebrospinal fluid analysis were performed to rule out known causes of axonal peripheral neuropathy. Ichthyosis has been reported to be associated with some neurological disorders characterized by the presence of peripheral neuropathy such as Krabbe leucodystrophy, Refsum disease, and Rud syndrome. To our knowledge no association has been described between CMT2 and ichthyosis. We believe interesting to point out the presence in our family of CMT2 and ichthyosis. Further studies are ongoing to better elucidate this association.
+ER  - 
+
+TY  - JOUR
+AU  - McCutcheon, Vivia V.
+AU  - Agrawal, Arpana
+AU  - Kuo, Sally I-Chun
+AU  - Su, Jinni
+AU  - Dick, Danielle M.
+AU  - Meyers, Jacquelyn L.
+AU  - Edenberg, Howard J.
+AU  - Nurnberger, John I.
+AU  - Kramer, John R.
+AU  - Kuperman, Samuel
+AU  - Schuckit, Marc A.
+AU  - Hesselbrock, Victor M.
+AU  - Brooks, Andrew
+AU  - Porjesz, Bernice
+AU  - Bucholz, Kathleen K.
+C8  - ADD-17-0209.R2
+TI  - Associations of parental alcohol use disorders and parental separation with offspring initiation of alcohol, cigarette and cannabis use and sexual debut in high-risk families
+JO  - Addiction
+JA  - Addiction
+VL  - 113
+IS  - 2
+SN  - 0965-2140
+UR  - https://doi.org/10.1111/add.14003
+DO  - doi:10.1111/add.14003
+SP  - 336
+EP  - 345
+KW  - Alcohol use disorders
+KW  - cannabis
+KW  - COGA
+KW  - early substance use
+KW  - familial
+KW  - parent AUD
+KW  - sexual debut
+KW  - tobacco
+PY  - 2018
+AB  - Abstract Background and Aims Parental alcohol use disorders (AUDs) and parental separation are associated with increased risk for early use of alcohol in offspring, but whether they increase risks for early use of other substances and for early sexual debut is under-studied. We focused on associations of parental AUDs and parental separation with substance initiation and sexual debut to (1) test the strength of the associations of parental AUDs and parental separation with time to initiation (age in years) of alcohol, tobacco and cannabis use and sexual debut and (2) compare the strength of association of parental AUD and parental separation with initiation. Design Prospective adolescent and young adult cohort of a high-risk family study, the Collaborative Study on the Genetics of Alcoholism (COGA). Setting Six sites in the United States. Participants A total of 3257 offspring (aged 14?33 years) first assessed in 2004 and sought for interview approximately every 2 years thereafter; 1945 (59.7%) offspring had a parent with an AUD. Measurements Diagnostic interview data on offspring substance use and sexual debut were based on first report of these experiences. Parental life-time AUD was based on their own self-report when parents were interviewed (1991?2005) for most parents, or on offspring and other family member reports for parents who were not interviewed. Parental separation was based on offspring reports of not living with both biological parents most of the time between ages 12 and 17 years. Findings Parental AUDs were associated with increased hazards for all outcomes, with cumulative hazards ranging from 1.19 to 2.71. Parental separation was also an independent and consistent predictor of early substance use and sexual debut, with hazards ranging from 1.19 to 2.34. The strength of association of parental separation with substance initiation was equal to that of having two AUD-affected parents, and its association with sexual debut was stronger than the association of parental AUD in one or both parents. Conclusions Parental alcohol use disorders (AUDs) and parental separation are independent and consistent predictors of increased risk for early alcohol, tobacco and cannabis use and sexual debut in offspring from families with a high risk of parental AUDs.
+ER  - 
+
+TY  - JOUR
+AU  - Zucker, Robert M.
+AU  - Jeffay, Susan C.
+TI  - Confocal laser scanning microscopy of whole mouse ovaries: Excellent morphology, apoptosis detection, and spectroscopy
+JO  - Cytometry Part A
+JA  - Cytometry
+VL  - 69A
+IS  - 8
+SN  - 1552-4922
+UR  - https://doi.org/10.1002/cyto.a.20315
+DO  - doi:10.1002/cyto.a.20315
+SP  - 930
+EP  - 939
+KW  - spectral imaging
+KW  - spectroscopy PARISS
+KW  - confocal microscopy
+KW  - fluorescence
+KW  - LysoTracker Red
+KW  - follicle
+KW  - ovary
+KW  - oocyte
+KW  - apoptosis
+KW  - nucleolus
+KW  - granulosa cells
+PY  - 2006
+AB  - Abstract Background: Ovaries consist of numerous follicles, oocytes, and granulosa cells in different stages of development. Many of these follicles will undergo an apoptotic process during the lifetime of the animal. By using proper tissue preparation methods, the events within the whole ovary can be observed by using 3D confocal microscopy. Methods: Whole ovaries were stained with LysoTracker Red (LT), fixed with 4% paraformaldehyde (PF) and 1% glutaraldehyde (Glut), dehydrated with methanol (MEOH), and cleared with benzyl alcohol and benzyl benzoate (BABB). Using this tissue preparation technique, the ovary becomes relatively transparent, allowing its morphology to be observed with confocal microscopes. A spectral imaging system (PARISS) located on a conventional microscope was used to interpret the LT dye spectra and fixation products in the tissues with different excitation wavelengths. Results: Apoptosis in the follicle was detected as clusters of intensely stained granulosa cells located in close proximity to the oocytes. The fixation with Glut and PF preserved morphological details, increased tissue fluorescence, thus increased the signal to noise of the background image. Conclusions: Thick tissues can be imaged after they are properly stained, aldehyde fixed, and BABB cleared. LT intensely stained single cells or clusters of apoptotic cells in the follicles and the nucleolus. Spectral differences between LT as an indicator of apoptosis and Glut-PF fixation was used to visualize ovarian morphology and apoptosis. The PARISS spectrophotometer revealed spectral peaks for LT at 609.6 nm and for Glut-PF at 471.3 nm. The proper use of the spectra from these fluorescence molecules is the foundation for high quality morphological images of apoptosis. By sequentially imaging the two probes with a 488 nm laser and a 543/568 nm laser, there was a reduction in fluorescent cross talk and an increase in image quality. ? 2006 International Society for Analytical Cytology
+ER  - 
+
+TY  - JOUR
+AU  - Falanga, V.
+AU  - the Apligraf Excision Study Group
+TI  - 035 Evaluation of BiLayered Cell Therapy for Full Thickness Excision Wounds: A MultiCenter, Prospective, Randomized, Controlled Trial
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215ai.x
+DO  - doi:10.1111/j.1067-1927.2005.130215ai.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Management of surgical defects following excisional and Mohs micrographic surgery for malignant skin lesions consists of autografting, skin flaps, primary closure, and healing by secondary intention. A fully differentiated bilayered cell-based therapy (BLCT/Apligraf), expresses multiple growth factors, provides a biologically active matrix, and appears to be immunologically inert. BLCT is FDA approved for venous leg ulcers and diabetic foot ulcers. BLCT is effective in hard-to-heal venous ulcers and, in diabetic foot ulcers, it is significantly associated with less amputations and osteomyelitis. A previous open-label trial showed BLCT to be safe and effective in surgical excision wounds. However, we have been interested in rigorously identifying differences in chronic compared to acute wounds when using BLCT or other skin substitutes. In this report of a multicenter randomized study, we enrolled and treated 181 patients eligible for secondary intention healing after Mohs or excisional surgery for skin cancer, with 172 completing the study. Face wounds were excluded. In total, 84 patients were treated with BLCT and 88 with dressings alone. The primary efficacy endpoint was the quality of the healed wound using the Vancouver Burn Scar Assessment Scale (VBSAS). Pigmentation, vascularity, pliability, and scar heights were assessed by the investigator and an independent observer as 0 (no scar) to 15 (worst scar). Scores of?≤?4 were assigned to 57 (65%) of BLCT-treated patients by both the investigator and observer, and to 60 (65%) and 54 (58%) of control patients according to the investigator and observer, respectively. There was no difference in healing time, and no severe adverse events or rapid cancer recurrence were observed in either group. In this randomized controlled trial of full thickness excision wounds after skin cancer removal, BLCT/Apligraf was safe and well tolerated.
+ER  - 
+
+TY  - JOUR
+TI  - News
+JO  - Chemistry & Industry
+JA  - Chemistry & Industry
+VL  - 82
+IS  - 6
+SN  - 0009-3068
+UR  - https://doi.org/10.1002/cind.826_3.x
+DO  - doi:10.1002/cind.826_3.x
+SP  - 5
+EP  - 15
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Personett, David
+AU  - Sugaya, Kiminobu
+AU  - Hammond, David
+AU  - Robbins, Michael
+AU  - McKinney, Michael
+TI  - Use of capillary electrophoresis with laser-induced fluorescence detection to assess messenger ribonucleic acid molecules amplified by the polymerase chain reaction: Applications in the cloning of cells
+JO  - ELECTROPHORESIS
+JA  - ELECTROPHORESIS
+VL  - 18
+IS  - 10
+SN  - 0173-0835
+UR  - https://doi.org/10.1002/elps.1150181008
+DO  - doi:10.1002/elps.1150181008
+SP  - 1750
+EP  - 1759
+KW  - Messenger RNA
+KW  - DNA amplification
+KW  - Cell culture
+KW  - Cloning
+PY  - 1997
+AB  - Abstract Progressive and selective degeneration of specific classes of neurons occurs in the Alzheimer's disease (AD) brain. Differential vulnerability in this disease is evident even within supopulations that synthesize and release acetylcholine as a transmitter; i.e., basal forebrain cholinergic neurons degenerate but other classes of cholinergic neurons are relatively preserved. The basis for this selective vulnerability is unknown. Studies of differential neuronal vulnerability in AD would be facilitated if cell lines expressing neurotransmitter-specific phenotypes could be cloned from the brain. Capillary electrophoresis (CE) with laser-induced fluorescence (LIF) has been shown to be a sensitive method of detection and quantitation of the DNA products of the polymerase chain reaction (PCR). CE/LIF was combined with the PCR to detect phenotypic messenger RNA (mRNA) molecules, converted to cDNA using reverse transcriptase (RT), in cultures of virally immortalized brainstem progenitor cells produced during establishment of a cloning strategy. RT/PCR methods were developed for detection of the mRNAs for choline acetyltransferase (ChAT), the neuronal, constitutive isoform of nitric oxide synthase (c-NOS), and the growth-associated protein GAP-43, three genes known to be expressed in central cholinergic neurons. A ?nondestructive? method of screening cultured cells for their expression of c-NOS was established using depolarization with medium containing 50 mM potassium ion. These approaches were first validated using cultured SN56 (cholinergic) and N1E-115 (c-NOS-positive) neuroblastoma cells, and with primary brainstem cultures. For the cloning of novel cell lines, progenitor cells were isolated from the embryonic day 13 fetal brainstem and were immortalized by transfection with a retroviral vector that confers a temperature-sensitive SV-40 transforming activity and neomycin resistance. Cell colonies surviving in G418-containing media were isolated and cloned by dilution. Clonal cultures were expanded by growth at 33°C, differentiated by switching to a low-serum medium and growth at 39°C, and screened for depolarization-induced accumulation of nitrite in the medium. The subset of putative c-NOS-positive clones (about 4%) were then screened for their expression of mRNAs using RT/PCR in combination with CE/LIF. This screening protocol proved to be powerful in the rapid isolation and phenotypic characterization of immortalized progenitor cells cloned from embryonic rat brainstem.
+ER  - 
+
+TY  - JOUR
+AU  - Chuenjitwongsa, Supachai
+AU  - Poolthong, Suchit
+AU  - Bullock, Alison
+AU  - Oliver, Richard G.
+TI  - Developing Common Competencies for Southeast Asian General Dental Practitioners
+JO  - Journal of Dental Education
+JA  - Journal of Dental Education
+VL  - 81
+IS  - 9
+SN  - 0022-0337
+UR  - https://doi.org/10.21815/JDE.017.067
+DO  - doi:10.21815/JDE.017.067
+SP  - 1114
+EP  - 1123
+KW  - dental education
+KW  - competency-based education
+KW  - Southeast Asia
+KW  - general dental practitioners
+PY  - 2017
+AB  - Current policy in Southeast Asian dental education focuses on high-quality dental services from new dental graduates and the free movement of dental practitioners across the region. The Southeast Asian Nations (ASEAN) Dental Councils have proposed the ?Common Major Competencies for ASEAN General Dental Practitioners? to harmonize undergraduate dental education. This article discusses how the ASEAN competencies were developed and established to assist the development of general dental practitioners with comparable knowledge, skills, and attitudes across ASEAN. The competencies were developed through four processes: a questionnaire about current national oral health problems, a two-round Delphi process that sought agreement on competencies, a panel discussion by representatives from ASEAN Dental Councils, and data verification by the representatives after the meeting. Key themes of the ASEAN competencies were compared with the competencies from the U.S., Canada, Europe, Australia, and Japan. A total of 33 competency statements, consistent with other regions, were agreed upon and approved. Factors influencing the ASEAN competencies and their implementation include oral health problems in ASEAN, new knowledge and technology in dentistry, limited institutional resources, underregulated dental schools, and uneven distribution of dental practitioners. The ASEAN competencies will serve as the foundation for further developments in ASEAN dental education including policy development, curriculum revision, quality assurance, and staff development. Collaboration amongst stakeholders is essential for successful harmonization of ASEAN dental education.
+ER  - 
+
+TY  - JOUR
+AU  - Novitskaya, Vera
+AU  - Makarava, Natallia
+AU  - Sylvester, Ian
+AU  - Bronstein, Igor B.
+AU  - Baskakov, Ilia V.
+TI  - Amyloid fibrils of mammalian prion protein induce axonal degeneration in NTERA2-derived terminally differentiated neurons
+JO  - Journal of Neurochemistry
+VL  - 102
+IS  - 2
+SN  - 0022-3042
+UR  - https://doi.org/10.1111/j.1471-4159.2007.04537.x
+DO  - doi:10.1111/j.1471-4159.2007.04537.x
+SP  - 398
+EP  - 407
+KW  - amyloid fibrils
+KW  - axonal degeneration
+KW  - neuritic beading
+KW  - NTERA2 cells
+KW  - neuronal differentiation
+KW  - prion protein
+PY  - 2007
+AB  - Abstract Defects in axonal transport and synaptic dysfunctions are associated with early stages of several neurodegenerative diseases including Alzheimer?s, Huntington?s, Parkinson?s, and prion diseases. Here, we tested the effect of full-length mammalian prion protein (rPrP) converted into three conformationally different isoforms to induce pathological changes regarded as early subcellular hallmarks of prion disease. We employed human embryonal teratocarcinoma NTERA2 cells (NT2) that were terminally differentiated into neuronal and glial cells and co-cultured together. We found that rPrP fibrils but not α-rPrP or soluble ?-sheet rich oligomers caused degeneration of neuronal processes. Degeneration of processes was accompanied by a collapse of microtubules and aggregation of cytoskeletal proteins, formation of neuritic beads, and a dramatic change in localization of synaptophysin. Our studies demonstrated the utility of NT2 cells as valuable human model system for elucidating subcellular events of prion pathogenesis, and supported the emerging hypothesis that defects in neuronal transport and synaptic abnormalities are early pathological hallmarks associated with prion diseases.
+ER  - 
+
+TY  - JOUR
+AU  - Li, Gang
+AU  - Liu, Xiaonan
+AU  - Zhang, Daohai
+AU  - He, Min
+AU  - Qin, Shuhao
+AU  - Yu, Jie
+TI  - Preparation and properties of polylactide/hydroxyapatite/polydopamine composites
+JO  - Polymer Engineering & Science
+JA  - Polym Eng Sci
+VL  - 58
+IS  - 12
+SN  - 0032-3888
+UR  - https://doi.org/10.1002/pen.24846
+DO  - doi:10.1002/pen.24846
+SP  - 2256
+EP  - 2263
+PY  - 2018
+AB  - A series of poly(lactic acid)/hydroxyapatite/polydopamine (PLA/HA/PDA) composites were fabricated via soution blending and casting method using CH2Cl2 as solvents. The physicochemical properties of the resulting composites were characterized by Fourier transform infrared spectroscopy, X-ray powder diffraction, scanning electron microscopy, thermogravimetric analysis, and Rheological analysis. Particularly, the in vitro degradation, hydrophilic of PLA/HA/PDA composites was systematically investigated. The influences of DA content on thermal stabilities, hydrophilic, and rheological behavior properties of composites were evaluated. The results showed that the addition of DA and HA not only improved the thermal stability of PLA, but also improved the hydrophilic of PLA-based composites. The obtained PLA/HA/PDA composites may be a promising material for load-bearing orthopedic implants. POLYM. ENG. SCI., 58:2256?2263, 2018. ? 2018 Society of Plastics Engineers
+ER  - 
+
+TY  - JOUR
+AU  - Tavana, Erfan
+AU  - Mollazadeh, Hamid
+AU  - Mohtashami, Elmira
+AU  - Modaresi, Seyed Mohamad Sadegh
+AU  - Hosseini, Azar
+AU  - Sabri, Hamed
+AU  - Soltani, Arash
+AU  - Javid, Hossein
+AU  - Afshari, Amir R.
+AU  - Sahebkar, Amirhossein
+TI  - Quercetin: A promising phytochemical for the treatment of glioblastoma multiforme
+JO  - BioFactors
+JA  - BioFactors
+VL  - n/a
+IS  - n/a
+SN  - 0951-6433
+UR  - https://doi.org/10.1002/biof.1605
+DO  - doi:10.1002/biof.1605
+KW  - antitumor
+KW  - flavonoid
+KW  - glioblastoma multiforme
+KW  - quercetin
+KW  - signal transduction
+AB  - Abstract Quercetin, a plant-derived flavonoid, is known for its antitumor and antiproliferative activities. Glioblastoma multiforme (GBM), as a highly aggressive cerebrum tumor, has a poor prognosis that is approximately 12?months despite standard therapy. Therefore, because of the low effectiveness of the current therapeutic strategies, additional medications in combination with chemotherapy and radiotherapy are needed, which could improve the prognosis of GBM patients. Multiple lines of evidence have shown that quercetin regulates many proteins involved in the cellular signal transduction in GBM. In this review, recent findings on the targeting of particular signaling pathways by quercetin and the subsequent effect on the pathogenesis of GBM are presented and discussed.
+ER  - 
+
+TY  - JOUR
+AU  - Heyland, Daren K.
+AU  - Weijs, Peter J. M.
+AU  - Coss-Bu, Jorge A.
+AU  - Taylor, Beth
+AU  - Kristof, Arnold S.
+AU  - O'Keefe, Grant E.
+AU  - Martindale, Robert G.
+TI  - Protein Delivery in the Intensive Care Unit: Optimal or Suboptimal?
+JO  - Nutrition in Clinical Practice
+JA  - Nutrition in Clinical Practice
+VL  - 32
+IS  - 1S
+SN  - 0884-5336
+UR  - https://doi.org/10.1177/0884533617691245
+DO  - doi:10.1177/0884533617691245
+SP  - 58S
+EP  - 71S
+KW  - enteral nutrition
+KW  - parenteral nutrition
+KW  - protein
+KW  - amino acids
+KW  - exercise
+KW  - rehabilitation
+KW  - intensive care unit
+KW  - critical illness
+KW  - nutritional support
+PY  - 2017
+AB  - Emerging evidence suggests that exogenous protein/amino acid supplementation has the potential to improve the recovery of critically ill patients. After a careful review of the published evidence, experts have concluded that critically ill patients should receive up to 2.0?2.5 g/kg/d of protein. Despite this, however, recent review of current International Nutrition Survey data suggests that protein in critically ill patients is underprescribed and grossly underdelivered. Furthermore, the survey suggests that most of protein administration comes from enteral nutrition (EN) despite the availability of products and protocols that enhance the delivery of protein/amino acids in the intensive care unit (ICU) setting. While future research clarifies the dose, timing, and composition for exogenous protein administration, as well as identification of patients who will benefit the most, ongoing process improvement initiatives should target a concerted effort to increase protein intake in the critically ill. This assertion follows from the notion that current patients are possibly being harmed while we wait for confirmatory evidence. Further research should also develop better tools to enable bedside practitioners to monitor optimal or adequate protein intake for individual patients. Finally, exploring the effect of combining adequate protein delivery with early mobility and/or resistance exercise in the ICU setting has the greatest potential for improving the functional outcomes of survivors of critical illness and warrants further study.
+ER  - 
+
+AU  - Miculescu, F.
+AU  - Maidaniuc, A.
+AU  - Stan, G.E.
+AU  - Miculescu, M.
+AU  - Voicu, S.I.
+AU  - Cîmpean, A.
+AU  - Mitran, V.
+AU  - Batalu, D.
+C7  - pp. 321-397
+TI  - Tuning Hydroxyapatite Particles' Characteristics for Solid Freeform Fabrication of Bone Scaffolds
+SN  - 9781119242536
+UR  - https://doi.org/10.1002/9781119242666.ch7
+DO  - doi:10.1002/9781119242666.ch7
+SP  - 321-397
+KW  - Hydroxyapatite
+KW  - calcium phosphates
+KW  - bovine bone
+KW  - tunable naturally
+KW  - derived ceramics
+KW  - thermal processing
+KW  - additive manufacturing
+KW  - solid freeform fabrication
+KW  - scaffolds
+PY  - 2017
+AB  - Abstract This chapter contains sections titled: Introduction Powder-based Solid Freeform Fabrication of Naturally Derived Ceramic Components Tuning of Naturally Derived Calcium Phosphates for Solid Freeform Fabrication Conclusions Acknowledgments
+ER  - 

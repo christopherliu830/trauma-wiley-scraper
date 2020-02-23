@@ -1,0 +1,310 @@
+
+TY  - JOUR
+AU  - Xie, Manyi
+AU  - Ji, Zhe
+AU  - Bao, Yaxing
+AU  - Zhu, Yufu
+AU  - Xu, Yang
+AU  - Wang, Lei
+AU  - Gao, Shangfeng
+AU  - Liu, Zhiyi
+AU  - Tian, Zilu
+AU  - Meng, Qingming
+AU  - Shi, Hengliang
+AU  - Yu, Rutong
+TI  - PHAP1 promotes glioma cell proliferation by regulating the Akt/p27/stathmin pathway
+JO  - Journal of Cellular and Molecular Medicine
+JA  - J Cell Mol Med
+VL  - 22
+IS  - 7
+SN  - 1582-1838
+UR  - https://doi.org/10.1111/jcmm.13639
+DO  - doi:10.1111/jcmm.13639
+SP  - 3595
+EP  - 3604
+KW  - Akt
+KW  - glioma
+KW  - p27
+KW  - PHAP1
+KW  - stathmin
+PY  - 2018
+AB  - Abstract PHAP1 (Putative HLA-DR-associated protein 1), also termed acidic leucine-rich nuclear phosphoprotein 32A (ANP32A), Phosphoprotein 32 (pp32) or protein phosphatase 2A inhibitor (I1PP2A), is a multifunctional protein aberrantly expressed in multiple types of human cancers. However, its expression pattern and clinical relevance in human glioma remain unknown. In this study, Western blotting and immunohistochemistry analysis demonstrated PHAP1 protein was highly expressed in glioma patients, especially in those with high-grade disease. Publicly available data also revealed high levels of PHAP1 were associated with poor prognosis in glioma patients. The functional studies showed that knock-down of PHAP1 suppressed the proliferation of glioma cells, while overexpression of PHAP1 facilitated it. The iTRAQ proteomic analysis suggested that stathmin might be a potential downstream target of PHAP1. Consistently, PHAP1 knock-down significantly decreased the expression of stathmin, while overexpression of PHAP1 increased it. Also, the upstream negative regulator, p27, expression levels increased upon PHAP1 knock-down and decreased when PHAP1 was overexpressed. As a result, the phosphorylated Akt (S473), an upstream regulator of p27, expression levels decreased upon silencing of PHAP1, but elevated after PHAP1 overexpression. Importantly, we demonstrate the p27 down-regulation, stathmin up-regulation and cell proliferation acceleration induced by PHAP1 overexpression were dependent on Akt activation. In conclusion, the above results suggest that PHAP1 expression is elevated in glioma patients, which may accelerate the proliferation of glioma cells by regulating the Akt/p27/stathmin pathway.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentation
+JO  - International Journal of Stroke
+JA  - Int J Stroke
+VL  - 10
+IS  - S2
+SN  - 1747-4930
+UR  - https://doi.org/10.1111/ijs.12479
+DO  - doi:10.1111/ijs.12479
+SP  - 77
+EP  - 438
+PY  - 2015
+ER  - 
+
+AU  - Harrison, Neil A.
+AU  - Kopelman, Michael D.
+C7  - pp. 617-688
+TI  - Endocrine Diseases and Metabolic Disorders
+SN  - 9781405118606
+UR  - https://doi.org/10.1002/9781444316803.ch10
+DO  - doi:10.1002/9781444316803.ch10
+SP  - 617-688
+KW  - endocrine diseases and metabolic disorders
+KW  - diabetes mellitus - metabolic diseases characterized by hyperglycaemia
+KW  - schizophrenic and affective psychoses
+KW  - mental disturbance aetiology
+KW  - hyperparathyroidism
+KW  - hyperprolactinaemia and psychiatry
+KW  - primary adrenal insufficiency or Addison's disease
+KW  - hypotonic hyponatraemia
+PY  - 2015
+AB  - Summary This chapter contains sections titled: Diabetes mellitus Hypoglycaemic disorders including insulinomsa Hypothyroidism Hyperthyroidism Hyperparathyroidism Hypoparathyroidism Hypopituitarism (Simmond's disease) Hyperprolactinaemia Acromegaly Diabetes insipidus Cushing's syndrome Addison's disease Malnutrition Electrolyte disturbances Acid-base disturbances Uraemia Acute porphyria Klinefelter's syndrome and other sex chromosome aneuploidies Turner's syndrome References
+ER  - 
+
+TY  - JOUR
+TI  - Association of Surgeons of Great Britain and Ireland (Edinburgh 2006) posters
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 93
+IS  - S1
+SN  - 9781405118606
+UR  - https://doi.org/10.1002/bjs.5595
+DO  - doi:10.1002/bjs.5595
+SP  - 101
+EP  - 250
+PY  - 2006
+AB  - Abstract The Annual Scientific Meeting of the Association of Surgeons takes place this year at the Edinburgh International Conference Centre (3rd - 5th May 2006), under the presidency of Mr Denis Wilkins. To view all posters from this meeting, please click the pdf link on this page.
+ER  - 
+
+TY  - JOUR
+AU  - Fredericks, B
+AU  - Entsch, G
+AU  - Lepre, F
+AU  - Nolan, G
+AU  - Davoren, P
+TI  - Pregnancy ameliorates symptoms of insulinoma – a case report
+JO  - Australian and New Zealand Journal of Obstetrics and Gynaecology
+VL  - 42
+IS  - 5
+SN  - 9781405118606
+UR  - https://doi.org/10.1111/j.0004-8666.2002.548_11.x
+DO  - doi:10.1111/j.0004-8666.2002.548_11.x
+SP  - 564
+EP  - 565
+PY  - 2002
+ER  - 
+
+TY  - JOUR
+AU  - Gounden, YP
+TI  - Tuberous sclerosis in pregnancy: a case report and review of the literature
+JO  - Australian and New Zealand Journal of Obstetrics and Gynaecology
+VL  - 42
+IS  - 5
+SN  - 9781405118606
+UR  - https://doi.org/10.1111/j.0004-8666.2002.548_3.x
+DO  - doi:10.1111/j.0004-8666.2002.548_3.x
+SP  - 551
+EP  - 552
+PY  - 2002
+ER  - 
+
+TY  - JOUR
+AU  - Kiran, TS Usha
+AU  - Agboola, A
+AU  - Davies, R
+AU  - Stout, TV
+TI  - Benign cystic mesothelioma: a diagnostic dilemma
+JO  - Australian and New Zealand Journal of Obstetrics and Gynaecology
+VL  - 42
+IS  - 5
+SN  - 9781405118606
+UR  - https://doi.org/10.1111/j.0004-8666.2002.548_4.x
+DO  - doi:10.1111/j.0004-8666.2002.548_4.x
+SP  - 552
+EP  - 554
+PY  - 2002
+ER  - 
+
+TY  - JOUR
+C7  - e27057
+TI  - 2018 ASPHO ABSTRACTS
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr Blood Cancer
+VL  - 65
+IS  - S1
+SN  - 9781405118606
+UR  - https://doi.org/10.1002/pbc.27057
+DO  - doi:10.1002/pbc.27057
+SP  - e27057
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Hulse, G
+AU  - O'Neil, G
+TI  - Using naltrexone implants in the management of the pregnant heroin user
+JO  - Australian and New Zealand Journal of Obstetrics and Gynaecology
+VL  - 42
+IS  - 5
+SN  - 9781405118606
+UR  - https://doi.org/10.1111/j.0004-8666.2002.548_14.x
+DO  - doi:10.1111/j.0004-8666.2002.548_14.x
+SP  - 569
+EP  - 573
+PY  - 2002
+AB  - ABSTRACT Objectives To describe the case history and associated obstetric and neonatal outcomes of eight women who had their heroin dependency managed over pregnancy by naltrexone implant (two ? 1.8 g of naltrexone embedded in poly-DL-lactide acid) treatment. Method Case data on maternal management associated with naltrexone implant were collected at the Australian Medical Procedures Research Foundation, Perth, Australia and three Perth hospitals. Results Despite earlier instability on oral naltrexone and repeated relapses back to dependent heroin use these women, following treatment with naltrexone implant, remained heroin free throughout their pregnancies. Neonatal and obstetric outcomes were unremarkable. Conclusions This case series provides preliminary evidence that the pregnant heroin user can be managed by naltrexone implant without obvious risk to the mother or developing foetus. Importantly, the current case series suggests that the pregnant woman who finds it difficult to stabilise on oral naltrexone maintenance and returns to dependent heroin use may be managed using implantable naltrexone, thereby removing from her the onus for daily naltrexone medication compliance. The authors conclude that naltrexone implant may represent an important procedure for managing the pregnant heroin dependent patient who finds it difficult to shift away from her heroin use patterns. These preliminary findings require confirmation using a much larger controlled study.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Respirology
+VL  - 16
+IS  - s2
+SN  - 9781405118606
+UR  - https://doi.org/10.1111/j.1440-1843.2011.02071.x
+DO  - doi:10.1111/j.1440-1843.2011.02071.x
+SP  - 1
+EP  - 326
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - SIOP 2015 Scientific Programme + Index
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr Blood Cancer
+VL  - 62
+IS  - S4
+SN  - 9781405118606
+UR  - https://doi.org/10.1002/pbc.25715
+DO  - doi:10.1002/pbc.25715
+SP  - S143
+EP  - S418
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - 2015 ACR/ARHP Annual Meeting Abstract Supplement
+JO  - Arthritis & Rheumatology
+JA  - Arthritis & Rheumatology
+VL  - 67
+IS  - S10
+SN  - 9781405118606
+UR  - https://doi.org/10.1002/art.39448
+DO  - doi:10.1002/art.39448
+SP  - 1
+EP  - 4046
+PY  - 2015
+AB  - For a searchable version of these abstracts, please visit www.acrabstracts.org. Please Note: It may take several minutes for this file to download.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts - AAPA Presentations
+JO  - American Journal of Physical Anthropology
+JA  - Am. J. Phys. Anthropol.
+VL  - 156
+IS  - S60
+SN  - 9781405118606
+UR  - https://doi.org/10.1002/ajpa.22718
+DO  - doi:10.1002/ajpa.22718
+SP  - 65
+EP  - 334
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - Flash Posters
+JO  - European Journal of Neurology
+JA  - Eur J Neurol
+VL  - 22
+IS  - S1
+SN  - 9781405118606
+UR  - https://doi.org/10.1111/ene.12808
+DO  - doi:10.1111/ene.12808
+SP  - 484
+EP  - 828
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - Official Proceedings 37th Annual Convention
+JO  - Journal of Ultrasound in Medicine
+VL  - 12
+IS  - 3
+SN  - 9781405118606
+UR  - https://doi.org/10.7863/jum.1993.12.3.1
+DO  - doi:10.7863/jum.1993.12.3.1
+SP  - 1
+EP  - 92
+PY  - 1993
+ER  - 
+
+C7  - pp. 892-932
+TI  - Index
+SN  - 9781405199407
+UR  - https://doi.org/10.1002/9781118689943.index
+DO  - doi:10.1002/9781118689943.index
+SP  - 892-932
+KW  - No keyword
+PY  - 1993
+ER  - 
+
+TY  - JOUR
+AU  - Zhu, Lan
+AU  - Wong, Felix
+AU  - Lang, Jie He
+TI  - Perineal endometriosis after vaginal delivery – clinical experience with 10 patients
+JO  - Australian and New Zealand Journal of Obstetrics and Gynaecology
+VL  - 42
+IS  - 5
+SN  - 9781405199407
+UR  - https://doi.org/10.1111/j.0004-8666.2002.548_12.x
+DO  - doi:10.1111/j.0004-8666.2002.548_12.x
+SP  - 565
+EP  - 567
+PY  - 2002
+ER  - 
+
+TY  - JOUR
+TI  - The International Liver Transplantation Society, 13th Annual International Congress, June 20–23, 2007, Rio de Janeiro, Brazil
+JO  - Liver Transplantation
+JA  - Liver Transpl
+VL  - 13
+IS  - S1
+SN  - 9781405199407
+UR  - https://doi.org/10.1002/lt.21269
+DO  - doi:10.1002/lt.21269
+SP  - S1
+EP  - S238
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Foot & mouth disease
+JO  - Clinical Microbiology and Infection
+VL  - 8
+IS  - s1
+SN  - 9781405199407
+UR  - https://doi.org/10.1111/j.1469-0691.2002.tb00013.x
+DO  - doi:10.1111/j.1469-0691.2002.tb00013.x
+SP  - 1
+EP  - 394
+PY  - 2002
+ER  - 
+
+TY  - JOUR
+TI  - Oral Abstracts
+JO  - Fundamental & Clinical Pharmacology
+JA  - Fundam Clin Pharmacol
+VL  - 27
+IS  - s1
+SN  - 9781405199407
+UR  - https://doi.org/10.1111/fcp.12025
+DO  - doi:10.1111/fcp.12025
+SP  - 1
+EP  - 45
+PY  - 2013
+ER  - 

@@ -1,0 +1,320 @@
+
+TY  - JOUR
+AU  - He, Tianlin
+C7  - 1800198
+TI  - Implementation of Proteomics in Clinical Trials
+JO  - PROTEOMICS – Clinical Applications
+JA  - Prot. Clin. Appl.
+VL  - 13
+IS  - 2
+SN  - 1862-8346
+UR  - https://doi.org/10.1002/prca.201800198
+DO  - doi:10.1002/prca.201800198
+SP  - 1800198
+KW  - clinical trials
+KW  - diagnosis
+KW  - prognosis
+KW  - proteomic/protein assays
+KW  - stratification
+PY  - 2019
+AB  - Abstract The application of protein (or peptide) biomarkers in clinical studies is a dynamic, ever-growing field. The introduction of clinical proteomics/peptidomics, such as mass spectrometry?based assays and multiplexed antibody?based protein arrays, has reshaped the landscape of biomarker identification and validation, allowing the discovery of novel biomarkers at an unprecedented rate and reliability. To reflect the current status with respect to implementation of protein/peptide biomarkers, an investigation of the most recent (last 6 years) clinical studies from clinicaltrials.gov is presented. Forty-two clinical trials involving the direct use of protein or peptide biomarkers in patient stratification and/or disease diagnosis and prognosis are highlighted. Most of the clinical trials that include proteomics/protein assays are aiming toward implementation of non-invasive diagnostic tools for early detection, while many of the clinical trials are targeting to correlate the protein abundance with the risk of a disease event. Less in number are the studies in which the protein biomarkers are applied to stratify the patients for intervention. All the above areas of application are considered of great importance for improving disease management, in an era where implementation toward precision medicine is the desired outcome of proteomics biomarker research.
+ER  - 
+
+TY  - JOUR
+AU  - Malchesky, Paul S.
+TI  - Artificial Organs 2018: A Year in Review
+JO  - Artificial Organs
+JA  - Artif Organs
+VL  - 43
+IS  - 3
+SN  - 0160-564X
+UR  - https://doi.org/10.1111/aor.13428
+DO  - doi:10.1111/aor.13428
+SP  - 288
+EP  - 317
+KW  - artificial oxygen carriers
+KW  - bioengineering
+KW  - blood pumps
+KW  - cardiac
+KW  - cardiopulmonary
+KW  - dialysis
+KW  - extracorporeal membrane oxygenation
+KW  - functional electrical stimulation
+KW  - medical devices
+KW  - membrane oxygenation
+KW  - organ preservation
+KW  - orthopedic
+KW  - pulmonary
+KW  - renal
+KW  - tissue engineering
+KW  - transplantation
+KW  - valves
+KW  - vascular
+KW  - vision
+PY  - 2019
+AB  - Abstract In this Editor's Review, articles published in 2018 are organized by category and summarized. We provide a brief reflection of the research and progress in artificial organs intended to advance and better human life while providing insight for continued application of these technologies and methods. Artificial Organs continues in the original mission of its founders ?to foster communications in the field of artificial organs on an international level.? Artificial Organs continues to publish developments and clinical applications of artificial organ technologies in this broad and expanding field of organ Replacement, Recovery, and Regeneration from all over the world. Peer-reviewed special issues this year included contributions from the 13th International Conference on Pediatric Mechanical Circulatory Support Systems and Pediatric Cardiopulmonary Perfusion edited by Dr. Akif Undar, and the 25th Congress of the International Society for Mechanical Circulatory Support edited by Dr. Marvin Slepian. Additionally, many editorials highlighted the worldwide survival differences in hemodialysis and perspectives on mechanical circulatory support and stem cell therapies for cardiac support. We take this time also to express our gratitude to our authors for offering their work to this journal. We offer our very special thanks to our reviewers who give so generously of time and expertise to review, critique, and especially provide meaningful suggestions to the author's work whether eventually accepted or rejected. Without these excellent and dedicated reviewers the quality expected from such a journal could not be possible. We also express our special thanks to our Publisher, John Wiley & Sons for their expert attention and support in the production and marketing of Artificial Organs. We look forward to reporting further advances in the coming years.
+ER  - 
+
+TY  - JOUR
+TI  - Supplement Article
+JO  - British Journal of Haematology
+JA  - Br J Haematol
+VL  - 185
+IS  - S1
+SN  - 0007-1048
+UR  - https://doi.org/10.1111/bjh.15854
+DO  - doi:10.1111/bjh.15854
+SP  - 3
+EP  - 202
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts
+JO  - American Journal of Transplantation
+VL  - 18
+IS  - S4
+SN  - 1600-6135
+UR  - https://doi.org/10.1111/ajt.14918
+DO  - doi:10.1111/ajt.14918
+SP  - 479
+EP  - 991
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - Poster Session 1
+JO  - European Journal of Heart Failure
+JA  - Eur J Heart Fail
+VL  - 16
+IS  - s2
+SN  - 1388-9842
+UR  - https://doi.org/10.1002/ejhf.93_4
+DO  - doi:10.1002/ejhf.93_4
+SP  - 19
+EP  - 98
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts
+JO  - Fundamental & Clinical Pharmacology
+JA  - Fundam Clin Pharmacol
+VL  - 27
+IS  - s1
+SN  - 0767-3981
+UR  - https://doi.org/10.1111/fcp.12026
+DO  - doi:10.1111/fcp.12026
+SP  - 46
+EP  - 127
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+AU  - Loizzo, Joseph J.
+AU  - Blackhall, Leslie J.
+AU  - Rapgay, Lobsang
+TI  - Tibetan Medicine
+JO  - Annals of the New York Academy of Sciences
+VL  - 1172
+IS  - 1
+SN  - 0077-8923
+UR  - https://doi.org/10.1196/annals.1393.008
+DO  - doi:10.1196/annals.1393.008
+SP  - 218
+EP  - 230
+KW  - Tibetan medicine
+KW  - integrative medicine
+KW  - health education
+KW  - humoral medicine
+KW  - philosophy of medicine
+KW  - history of medicine
+PY  - 2009
+AB  - Traditional medical systems are challenging because their theories and practices strike many conventionally trained physicians and researchers as incomprehensible. Should modern medicine dismiss them as unscientific, view them as sources of alternatives hidden in a matrix of superstition, or regard them as complementary sciences of medicine? We make the latter argument using the example of Tibetan medicine. Tibetan medicine is based on analytic models and methods that are rationally defined, internally coherent, and make testable predictions, meeting current definitions of ?science.? A ninth century synthesis of Indian, Chinese, Himalayan, and Greco-Persian traditions, Tibetan medicine is the most comprehensive form of Eurasian healthcare and the world's first integrative medicine. Incorporating rigorous systems of meditative self-healing and ascetic self-care from India, it includes a world-class paradigm of mind/body and preventive medicine. Adapting the therapeutic philosophy and contemplative science of Indian Buddhism to the quality of secular life and death, it features the world's most effective systems of positive and palliative healthcare. Based on qualitative theories and intersubjective methods, it involves predictions and therapies shown to be more accurate and effective than those of modern medicine in fields from physiology and pharmacology to neuroscience, mind/body medicine, and positive health. The possibility of complementary sciences follows from the latest view of science as a set of tools?instruments of social activity based on learned agreement in aims and methods?rather than as a monolith of absolute truth. Implications of this pluralistic outlook for medical research and practice are discussed.
+ER  - 
+
+TY  - JOUR
+TI  - Oral
+JO  - Journal of Hepato-Biliary-Pancreatic Sciences
+JA  - J Hepatobiliary Pancreat Sci
+VL  - 24
+IS  - S1
+SN  - 1868-6974
+UR  - https://doi.org/10.1002/jhbp.477
+DO  - doi:10.1002/jhbp.477
+SP  - A95
+EP  - A196
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+TI  - 2014 ASPHO Abstracts
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr Blood Cancer
+VL  - 61
+IS  - S1
+SN  - 1545-5009
+UR  - https://doi.org/10.1002/pbc.25032
+DO  - doi:10.1002/pbc.25032
+SP  - S1
+EP  - S104
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - 2014 ACR/ARHP Annual Meeting Abstract Supplement
+JO  - Arthritis & Rheumatology
+JA  - Arthritis & Rheumatology
+VL  - 66
+IS  - S10
+SN  - 2326-5191
+UR  - https://doi.org/10.1002/art.38914
+DO  - doi:10.1002/art.38914
+SP  - S1
+EP  - S1402
+PY  - 2014
+AB  - For a searchable version of these abstracts, please visit www.acrabstracts.org.
+ER  - 
+
+TY  - JOUR
+TI  - Research Communications of the 29th ECVIM-CA Congress
+JO  - Journal of Veterinary Internal Medicine
+JA  - J Vet Intern Med
+VL  - 34
+IS  - 1
+SN  - 0891-6640
+UR  - https://doi.org/10.1111/jvim.15658
+DO  - doi:10.1111/jvim.15658
+SP  - 339
+EP  - 445
+PY  - 2020
+ER  - 
+
+TY  - JOUR
+TI  - Posters (Abstracts 289–2348)
+JO  - Hepatology
+JA  - Hepatology
+VL  - 70
+IS  - S1
+SN  - 0270-9139
+UR  - https://doi.org/10.1002/hep.30941
+DO  - doi:10.1002/hep.30941
+SP  - 188
+EP  - 1382
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - WORLD TRANSPLANT CONGRESS 2006 ORAL ABSTRACTS
+JO  - American Journal of Transplantation
+VL  - 6
+IS  - s2
+SN  - 1600-6135
+UR  - https://doi.org/10.1111/j.1600-6143.2006.01446.x
+DO  - doi:10.1111/j.1600-6143.2006.01446.x
+SP  - 65
+EP  - 472
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+TI  - 2016 ACR/ARHP Annual Meeting Abstract Supplement
+JO  - Arthritis & Rheumatology
+JA  - Arthritis & Rheumatology
+VL  - 68
+IS  - S10
+SN  - 2326-5191
+UR  - https://doi.org/10.1002/art.39977
+DO  - doi:10.1002/art.39977
+SP  - 1
+EP  - 4550
+PY  - 2016
+AB  - For a searchable version of these abstracts, please visit www.acrabstracts.org.
+ER  - 
+
+TY  - JOUR
+TI  - 17th International Congress of Immunology, 19–23 October 2019, Beijing, China
+JO  - European Journal of Immunology
+JA  - Eur. J. Immunol.
+VL  - 49
+IS  - S3
+SN  - 0014-2980
+UR  - https://doi.org/10.1002/eji.201970400
+DO  - doi:10.1002/eji.201970400
+SP  - 1
+EP  - 2223
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Abstract Supplement 2019 ACR/ARP Annual Meeting
+JO  - Arthritis & Rheumatology
+JA  - Arthritis Rheumatol
+VL  - 71
+IS  - S10
+SN  - 2326-5191
+UR  - https://doi.org/10.1002/art.41108
+DO  - doi:10.1002/art.41108
+SP  - 1
+EP  - 5420
+PY  - 2019
+AB  - Abstract For a searchable version of these abstracts, please visit www.acrabstracts.org.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - European Journal of Heart Failure
+JA  - Eur J Heart Fail
+VL  - 19
+IS  - S1
+SN  - 1388-9842
+UR  - https://doi.org/10.1002/ejhf.833
+DO  - doi:10.1002/ejhf.833
+SP  - 5
+EP  - 601
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+AU  - Herold, Kristina
+AU  - Mrowka, Ralf
+C7  - e13284
+TI  - Inflammation—Dysregulated inflammatory response and strategies for treatment
+JO  - Acta Physiologica
+JA  - Acta Physiol
+VL  - 226
+IS  - 3
+SN  - 1748-1708
+UR  - https://doi.org/10.1111/apha.13284
+DO  - doi:10.1111/apha.13284
+SP  - e13284
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - 2013 Annual Meeting Abstract Supplement
+JO  - Arthritis & Rheumatism
+JA  - Arthritis & Rheumatism
+VL  - 65
+IS  - S10
+SN  - 0004-3591
+UR  - https://doi.org/10.1002/art.38216
+DO  - doi:10.1002/art.38216
+SP  - S1
+EP  - S1331
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Pediatric Transplantation
+JA  - Pediatr Transplantation
+VL  - 17
+IS  - s1
+SN  - 1397-3142
+UR  - https://doi.org/10.1111/petr.12122
+DO  - doi:10.1111/petr.12122
+SP  - 1
+EP  - 118
+PY  - 2013
+ER  - 

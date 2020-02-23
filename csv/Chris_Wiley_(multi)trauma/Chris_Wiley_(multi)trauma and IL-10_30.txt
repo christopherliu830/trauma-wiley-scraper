@@ -1,0 +1,368 @@
+
+TY  - JOUR
+TI  - POSTER SESSIONS
+JO  - Journal of Neurochemistry
+VL  - 108
+IS  - s1
+SN  - 0022-3042
+UR  - https://doi.org/10.1111/j.1471-4159.2009.05818.x
+DO  - doi:10.1111/j.1471-4159.2009.05818.x
+SP  - 82
+EP  - 156
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+AU  - Brittenden, Julie
+AU  - Heys, S. D.
+AU  - Ross, J.
+AU  - Eremin, O.
+TI  - Natural killer cells and cancer
+JO  - Cancer
+JA  - Cancer
+VL  - 77
+IS  - 7
+SN  - 0008-543X
+UR  - https://doi.org/10.1002/(SICI)1097-0142(19960401)77:7<1226::AID-CNCR2>3.0.CO;2-G
+DO  - doi:10.1002/(SICI)1097-0142(19960401)77:7<1226::AID-CNCR2>3.0.CO;2-G
+SP  - 1226
+EP  - 1243
+KW  - natural cytotoxicity
+KW  - cancer
+KW  - surgery
+KW  - radiotherapy
+KW  - chemotherapy
+KW  - immune biological modifiers
+PY  - 1996
+AB  - Abstract BACKGROUND Natural cytotoxicity, mediated by natural killer (NK) cells and cells with lymphokine-activated killer (LAK) activity, is believed to play an important role in host anti-cancer defense mechanisms. METHODS The authors critically review recent publications on the role of natural cytotoxicity in patients with cancer. RESULTS In patients with cancer, several studies have noted variations in the numbers and activity of NK and cells with LAK activity in different body compartments. NK cell activity in the peripheral blood lymphocytes (PBLs) is higher than that found in lymph nodes and within tumors, and this appears to be due to the presence of suppressor factors. The natural cytotoxicity of PBLs in patients with different types of cancers varies. However, there appears to be a trend for natural cytotoxicity to be reduced in certain cancer patients, possibly related to tumor volume or dissemination. Anti-cancer treatments (e.g., surgery, hormonal modulation, radiotherapy and chemotherapy) can also result in suppression of natural cytotoxicity, although the long-term effect on response to treatment and development of metastases is at present unknown. CONCLUSIONS NK and LAK cells, through the use of immune biologic modifiers, have been demonstrated to have a therapeutic role in the treatment of human cancers. Further studies are required to determine the optimal dosages and combinations of chemotherapeutic agents, the timing of surgery, and the adjuvant use of immune biologic response modifiers. An increasing awareness and understanding of this field, may allow for the future development of anti-cancer therapies. Cancer 1996;77:1226-43.
+ER  - 
+
+TY  - JOUR
+AU  - Park, Jinseu
+AU  - Choi, Kyungsun
+AU  - Jeong, Eunjoo
+AU  - Kwon, Daeho
+AU  - Benveniste, Etty N.
+AU  - Choi, Chulhee
+TI  - Reactive oxygen species mediate chloroquine-induced expression of chemokines by human astroglial cells
+JO  - Glia
+JA  - Glia
+VL  - 47
+IS  - 1
+SN  - 0894-1491
+UR  - https://doi.org/10.1002/glia.20017
+DO  - doi:10.1002/glia.20017
+SP  - 9
+EP  - 20
+KW  - signal transduction
+KW  - gene regulation
+KW  - neuroimmunology
+PY  - 2004
+AB  - Abstract We have previously demonstrated that chloroquine may evoke inflammatory responses in the central nervous system by inducing expression of pro-inflammatory cytokines by astroglial cells. In this study, we further examined the molecular mechanism responsible for chloroquine-induced activation of NF-?B and subsequent expression of chemokines by astroglial cells. We observed that (1) chloroquine induced expression of chemokines such as CCL2 and CXCL8 in a dose- and time-dependent manner in human astroglial cells; (2) other lysosomotropic agents such as ammonium chloride and bafilomycin A1 had minimal effects on chemokine expression; (3) inhibition of NF-?B by MG-132 and TPCK suppressed chloroquine-induced mRNA expression of chemokines; (4) chloroquine increased the intracellular level of reactive oxygen species (ROS) in a dose- and time-dependent manner by human astroglial cells, but not by monocytic/microglial cells; (5) chloroquine-induced increase of intracellular ROS level was suppressed by pre-incubation with diphenyl iodonium (DPI) and N-acetyl cysteine (NAC); and (6) inhibition of chloroquine-induced ROS production by DPI or NAC suppressed chloroquine-mediated activation of NF-?B and subsequent mRNA expression of chemokines in astroglial cells. These results collectively suggest that chloroquine generates ROS, which is responsible for NF-?B activation and subsequent expression of pro-inflammatory chemokines in human astroglial cells. ? 2004 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Rajbhandari, Labchan
+AU  - Tegenge, Million Adane
+AU  - Shrestha, Shiva
+AU  - Ganesh Kumar, Nishant
+AU  - Malik, Adeel
+AU  - Mithal, Aditya
+AU  - Hosmane, Suneil
+AU  - Venkatesan, Arun
+TI  - Toll-like receptor 4 deficiency impairs microglial phagocytosis of degenerating axons
+JO  - Glia
+JA  - Glia
+VL  - 62
+IS  - 12
+SN  - 0894-1491
+UR  - https://doi.org/10.1002/glia.22719
+DO  - doi:10.1002/glia.22719
+SP  - 1982
+EP  - 1991
+KW  - microglia
+KW  - axon degeneration
+KW  - regeneration
+KW  - multiple sclerosis
+KW  - phagocytosis
+PY  - 2014
+AB  - Microglia are rapidly activated in the central nervous system (CNS) in response to a variety of injuries, including inflammation, trauma, and stroke. In addition to modulation of the innate immune response, a key function of microglia is the phagocytosis of dying cells and cellular debris, which can facilitate recovery. Despite emerging evidence that axonal debris can pose a barrier to regeneration of new axons in the CNS, little is known of the cellular and molecular mechanisms that underlie clearance of degenerating CNS axons. We utilize a custom micropatterned microfluidic system that enables robust microglial-axon co-culture to explore the role of Toll-like receptors (TLRs) in microglial phagocytosis of degenerating axons. We find that pharmacologic and genetic disruption of TLR4 blocks induction of the Type-1 interferon response and inhibits phagocytosis of axon debris in vitro. Moreover, TLR4-dependent microglial clearance of unmyelinated axon debris facilitates axon outgrowth. In vivo, microglial phagocytosis of CNS axons undergoing Wallerian degeneration in a dorsal root axotomy model is impaired in adult mice in which TLR4 has been deleted. Since purinergic receptors can influence TLR4-mediated signaling, we also explored a role for the microglia P2 receptors and found that the P2X7R contributes to microglial clearance of degenerating axons. Overall, we identify TLR4 as a key player in axonal debris clearance by microglia, thus creating a more permissive environment for axonal outgrowth. Our findings have significant implications for the development of protective and regenerative strategies for the many inflammatory, traumatic, and neurodegenerative conditions characterized by CNS axon degeneration. GLIA 2014;62:1982?1991
+ER  - 
+
+TY  - JOUR
+AU  - Arora, Rajesh
+AU  - Gupta, Damodar
+AU  - Chawla, Raman
+AU  - Sagar, Ravinder
+AU  - Sharma, Ashok
+AU  - Kumar, Raj
+AU  - Prasad, Jagdish
+AU  - Singh, Surinder
+AU  - Samanta, Namita
+AU  - Sharma, Rakesh Kumar
+TI  - Radioprotection by plant products: present status and future prospects
+JO  - Phytotherapy Research
+JA  - Phytother. Res.
+VL  - 19
+IS  - 1
+SN  - 0951-418X
+UR  - https://doi.org/10.1002/ptr.1605
+DO  - doi:10.1002/ptr.1605
+SP  - 1
+EP  - 22
+KW  - herbal radioprotection
+KW  - ionizing radiation
+KW  - plants
+KW  - traditional medicine
+KW  - radioprotectors
+KW  - bioactive principles
+PY  - 2005
+AB  - Abstract The development of radioprotective agents has been the subject of intense research in view of their potential for use within a radiation environment, such as space exploration, radiotherapy and even nuclear war. However, no ideal, safe synthetic radioprotectors are available to date, so the search for alternative sources, including plants, has been on going for several decades. In Ayurveda, the traditional Indian system of medicine, several plants have been used to treat free radical-mediated ailments and, therefore, it is logical to expect that such plants may also render some protection against radiation damage. A systematic screening approach can provide leads to identifying potential new candidate drugs from plant sources, for mitigation of radiation injury. This article reviews some of the most promising plants, and their bioactive principles, that are widely used in traditional systems of medicine, and which have rendered significant radioprotection in both in vitro and in vivo model systems. Plants and their constituents with pharmacological activities that may be relevant to amelioration of radiation-mediated damage, including antiemetic, antiinflammatory, antioxidant, cell proliferative, wound healing and haemopoietic stimulatories are also discussed. Copyright ? 2005 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - American Transplant Congress 2007 Executive and Program Planning Committees and Abstract Review Committees
+JO  - American Journal of Transplantation
+VL  - 7
+IS  - s2
+SN  - 1600-6135
+UR  - https://doi.org/10.1111/j.1600-6143.2007.01811.x
+DO  - doi:10.1111/j.1600-6143.2007.01811.x
+SP  - 17
+EP  - 584
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Oral Presentations
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 101
+IS  - s4
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.9508
+DO  - doi:10.1002/bjs.9508
+SP  - 2
+EP  - 49
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - Poster Sessions Sunday/Monday
+JO  - Journal of Neurochemistry
+JA  - J. Neurochem.
+VL  - 125
+IS  - s1
+SN  - 0022-3042
+UR  - https://doi.org/10.1111/jnc.12185
+DO  - doi:10.1111/jnc.12185
+SP  - 106
+EP  - 193
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+AU  - Zhou, Hanlei
+AU  - You, Chuangang
+AU  - Wang, Xingang
+AU  - Jin, Ronghua
+AU  - Wu, Pan
+AU  - Li, Qiong
+AU  - Han, Chunmao
+TI  - The progress and challenges for dermal regeneration in tissue engineering
+JO  - Journal of Biomedical Materials Research Part A
+JA  - J. Biomed. Mater. Res.
+VL  - 105
+IS  - 4
+SN  - 1549-3296
+UR  - https://doi.org/10.1002/jbm.a.35996
+DO  - doi:10.1002/jbm.a.35996
+SP  - 1208
+EP  - 1218
+KW  - dermal regeneration
+KW  - stem cells
+KW  - wound healing
+KW  - artificial dermis
+PY  - 2017
+AB  - Abstract Wound healing is an inherent response resulting in the restoration of tissue integrity. It is a complex process involving cell migration, proliferation, differentiation, apoptosis, and the synthesis and remodeling of the extracellular matrix (ECM). The dermal tissue is an important component of skin that acts as a connecting link between the epidermis and hypodermis. The appearance of scars and contractures after autologous split-thickness skin transplantation or single epidermis diaphragm transplantation for full skin defects indicates that the dermal tissue plays an important role in skin regeneration. Theoretically, dermis cannot regenerate like the liver, bone and epidermis after being destroyed by burns or avulsion. Scarring is hard to avoid during the process of natural healing. However, if the dermis could be reconstructed perfectly, this would be a breakthrough in the methods used for wound healing. In this review, we summarize recent research about dermal regeneration and discuss the probability of advances in the field. ? 2017 Wiley Periodicals, Inc. J Biomed Mater Res Part A: 105A: 1208?1218, 2017.
+ER  - 
+
+TY  - JOUR
+AU  - Sosunov, Alexander
+AU  - Olabarria, Markel
+AU  - Goldman, James E.
+TI  - Alexander disease: an astrocytopathy that produces a leukodystrophy
+JO  - Brain Pathology
+JA  - Brain Pathology
+VL  - 28
+IS  - 3
+SN  - 1015-6305
+UR  - https://doi.org/10.1111/bpa.12601
+DO  - doi:10.1111/bpa.12601
+SP  - 388
+EP  - 398
+KW  - Alexander disease
+KW  - astrocytes
+KW  - GFAP
+KW  - leukodystrophy
+PY  - 2018
+AB  - Abstract Alexander Disease (AxD) is a degenerative disorder caused by mutations in the GFAP gene, which encodes the major intermediate filament of astrocytes. As other cells in the CNS do not express GFAP, AxD is a primary astrocyte disease. Astrocytes acquire a large number of pathological features, including changes in morphology, the loss or diminution of a number of critical astrocyte functions and the activation of cell stress and inflammatory pathways. AxD is also characterized by white matter degeneration, a pathology that has led it to be included in the ?leukodystrophies.? Furthermore, variable degrees of neuronal loss take place. Thus, the astrocyte pathology triggers alterations in other cell types. Here, we will review the neuropathology of AxD and discuss how a disease of astrocytes can lead to severe pathologies in non-astrocytic cells. Our knowledge of the pathophysiology of AxD will also lead to a better understanding of how astrocytes interact with other CNS cells and how astrocytes in the gliosis that accompanies many neurological disorders can damage the function and survival of other cells.
+ER  - 
+
+TY  - JOUR
+TI  - Moscow International Forum on Bones and Joints Disorders, International School Conference “Interdisciplinary Approach to Osteoarticular Pathology and Bio-Rheumatology”
+JO  - International Journal of Rheumatic Diseases
+JA  - Int J Rheum Dis
+VL  - 19
+IS  - S1
+SN  - 1756-1841
+UR  - https://doi.org/10.1111/1756-185X.12944
+DO  - doi:10.1111/1756-185X.12944
+SP  - 11
+EP  - 28
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - POSTER SESSIONS
+JO  - Allergy
+VL  - 63
+IS  - s88
+SN  - 0105-4538
+UR  - https://doi.org/10.1111/j.1398-9995.2008.01760.x
+DO  - doi:10.1111/j.1398-9995.2008.01760.x
+SP  - 158
+EP  - 611
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+AU  - CAMPBELL, IAIN L.
+AU  - CHIANG, CHI-SHIUN
+TI  - Cytokine Involvement in Central Nervous System Disease
+JO  - Annals of the New York Academy of Sciences
+VL  - 771
+IS  - 1
+SN  - 0077-8923
+UR  - https://doi.org/10.1111/j.1749-6632.1995.tb44690.x
+DO  - doi:10.1111/j.1749-6632.1995.tb44690.x
+SP  - 301
+EP  - 312
+PY  - 1995
+ER  - 
+
+TY  - JOUR
+AU  - Stickley, Andrew
+AU  - Waldman, Kyle
+AU  - Sumiyoshi, Tomiki
+AU  - Narita, Zui
+AU  - Shirama, Aya
+AU  - Shin, Jae Il
+AU  - Oh, Hans
+TI  - Childhood physical neglect and psychotic experiences: Findings from the National Comorbidity Survey Replication
+JO  - Early Intervention in Psychiatry
+JA  - Early Intervention in Psychiatry
+VL  - n/a
+IS  - n/a
+SN  - 1751-7885
+UR  - https://doi.org/10.1111/eip.12932
+DO  - doi:10.1111/eip.12932
+KW  - epidemiology
+KW  - NCS-R
+KW  - neglect
+KW  - psychotic experiences
+KW  - United States
+AB  - Abstract Aim Childhood adversities have been linked to an increased risk for psychosis. However, as yet, there has been comparatively little research on the effects of neglect. This study examined the association between childhood physical neglect and psychotic experiences (PEs) in a general population sample. Methods Data were analysed from 2308 individuals collected during the National Comorbidity Survey Replication (NCS-R). Information on lifetime PEs was collected with the WHO-CIDI Psychosis Screen. Respondents also reported on five forms of childhood neglect (went hungry, went without necessities, went unsupervised, lacked medical care, chores too difficult/dangerous). Multivariable logistic regression analysis was used to examine associations. Results In models adjusted for sociodemographic and psychiatric disorder variables, aggregated physical neglect scores (continuous/dichotomized) were associated with significantly increased odds for any lifetime PEs. All individual forms of neglect except went without necessities (odds ratio [OR]: 1.21, 95% confidence interval [CI]: 0.98-1.50) were significantly associated with PEs with ORs ranging from 1.28 (95% CI: 1.08-1.51, went unsupervised) to 1.53 (95% CI: 1.19-1.97, went without medical care). In models that were further adjusted for co-occurring forms of neglect and childhood physical abuse, doing chores that were too difficult/dangerous continued to be associated with significantly increased odds for PEs (OR: 1.29, 95% CI: 1.03-1.61). Conclusions Childhood physical neglect is associated with significantly increased odds for PEs in the general population. Screening for childhood adversities and PEs among potential patients may be important for the early detection of individuals at high risk for psychosis, as well as for formulating comprehensive and effective treatment plans.
+ER  - 
+
+TY  - JOUR
+TI  - Speaker Abstracts
+JO  - Transfusion Medicine
+JA  - Transfusion Med
+VL  - 23
+IS  - s2
+SN  - 0958-7578
+UR  - https://doi.org/10.1111/tme.12070
+DO  - doi:10.1111/tme.12070
+SP  - 1
+EP  - 29
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - 2015 Innovations
+JO  - Academic Emergency Medicine
+JA  - Acad Emerg Med
+VL  - 22
+IS  - S1
+SN  - 1069-6563
+UR  - https://doi.org/10.1111/acem.12645
+DO  - doi:10.1111/acem.12645
+SP  - S426
+EP  - S449
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Basic & Clinical Pharmacology & Toxicology
+JA  - Basic Clin Pharmacol Toxicol
+VL  - 125
+IS  - S7
+SN  - 1742-7835
+UR  - https://doi.org/10.1111/bcpt.13328
+DO  - doi:10.1111/bcpt.13328
+SP  - 3
+EP  - 52
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts PDS
+JO  - Allergy
+JA  - Allergy
+VL  - 74
+IS  - S106
+SN  - 0105-4538
+UR  - https://doi.org/10.1111/all.13959
+DO  - doi:10.1111/all.13959
+SP  - 130
+EP  - 331
+PY  - 2019
+ER  - 
+
+AU  - Baldwin III, William M.
+AU  - Fairchild, Robert L.
+C7  - pp. 60-67
+TI  - Humoral Mechanisms of Adaptive Immunity
+SN  - 9781118870143
+UR  - https://doi.org/10.1002/9781118873434.ch6
+DO  - doi:10.1002/9781118873434.ch6
+SP  - 60-67
+KW  - basic (laboratory)research/science
+KW  - cellular biology
+KW  - immunobiology
+KW  - accommodation
+KW  - alloantibody
+KW  - antibody biology
+KW  - B cell biology
+KW  - complement biology
+KW  - plasma cells
+KW  - vascular biology
+PY  - 2019
+AB  - Summary Antibodies can cause hyperacute, acute, or chronic rejection of allografts. These different types of rejection involve additional humoral mediators, including complement, coagulation factors, and cytokines, which engage cells of the innate immune system, notably platelets, granulocytes, and monocyte/macrophages. In this chapter we discuss the functional properties of antibodies that influence which humoral and cellular mediators are activated. Then the effects of complement activation and regulation are considered. The mechanisms by which antibodies and complement modulate interactions between innate immune cells and the vascular endothelium are summarized as a basis for understanding the pathogenesis of different types of graft destruction.
+ER  - 
+
+TY  - JOUR
+TI  - Original Clinical Research
+JO  - Oral Diseases
+JA  - Oral Dis
+VL  - 22
+IS  - S2
+SN  - 9781118870143
+UR  - https://doi.org/10.1111/odi.12559
+DO  - doi:10.1111/odi.12559
+SP  - 14
+EP  - 41
+PY  - 2016
+ER  - 

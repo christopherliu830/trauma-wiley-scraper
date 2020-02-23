@@ -1,0 +1,454 @@
+
+TY  - JOUR
+AU  - Dyer, Mitchell R.
+AU  - Alexander, Wyeth
+AU  - Hassoune, Adnan
+AU  - Chen, Qiwei
+AU  - Brzoska, Tomasz
+AU  - Alvikas, Jurgis
+AU  - Liu, Yingjie
+AU  - Haldeman, Shannon
+AU  - Plautz, Will
+AU  - Loughran, Patricia
+AU  - Li, Hui
+AU  - Boone, Brian
+AU  - Sadovsky, Yoel
+AU  - Sundd, Prithu
+AU  - Zuckerbraun, Brian S.
+AU  - Neal, Matthew D.
+TI  - Platelet-derived extracellular vesicles released after trauma promote hemostasis and contribute to DVT in mice
+JO  - Journal of Thrombosis and Haemostasis
+JA  - J Thromb Haemost
+VL  - 17
+IS  - 10
+SN  - 1538-7933
+UR  - https://doi.org/10.1111/jth.14563
+DO  - doi:10.1111/jth.14563
+SP  - 1733
+EP  - 1745
+KW  - extracellular vesicles
+KW  - hemorrhage
+KW  - platelets
+KW  - thrombosis
+KW  - trauma
+PY  - 2019
+AB  - Abstract Background Traumatic injury can lead to dysregulation of the normal clotting system, resulting in hemorrhagic and thrombotic complications. Platelet activation is robust following traumatic injury and one process of platelet activation is to release of extracellular vesicles (PEV) that carry heterogenous cargo loads and surface ligands. Objectives We sought to investigate and characterize the release and function of PEVs generated following traumatic injury. Methods PEV content and quantity in circulation following trauma in humans and mice was measured using flow cytometry, size exclusion chromatography, and nanoparticle tracking analysis. PEVs were isolated from circulation and the effects on thrombin generation, bleeding time, hemorrhage control, and thrombus formation were determined. Finally, the effect of hydroxychloroquine (HCQ) on PEV release and thrombosis were examined. Results Human and murine trauma results in a significant release of PEVs into circulation compared with healthy controls. These PEVs result in abundant thrombin generation, increased platelet aggregation, decreased bleeding times, and decreased hemorrhage in uncontrolled bleeding. Conversely, PEVs contributed to enhanced venous thrombus formation and were recruited to the developing thrombus site. Interestingly, HCQ treatment resulted in decreased platelet aggregation, decreased PEV release, and reduced deep vein thrombosis burden in mice. Conclusions These data demonstrate that trauma results in significant release of PEVs which are both pro-hemostatic and pro-thrombotic. The effects of PEVs can be mitigated by treatment with HCQ, suggesting the potential use as a form of deep vein thrombosis prophylaxis.
+ER  - 
+
+TY  - JOUR
+AU  - Kaelble, Monika K.
+TI  - Multi-systemic Trauma in a Ferret
+JO  - Journal of Veterinary Emergency and Critical Care
+VL  - 10
+IS  - 1
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/j.1476-4431.2000.tb00002.x
+DO  - doi:10.1111/j.1476-4431.2000.tb00002.x
+SP  - 13
+EP  - 18
+KW  - ferret
+KW  - transfusion
+KW  - hepatic trauma
+KW  - hemoperitoneum
+KW  - pneumothorax
+PY  - 2000
+AB  - Summary A 5-year old, neutered, male, domestic sable ferret presented 24 hours after escaping outside and sustaining unknown trauma. Physical examination findings included tachycardia, tachypnea, and hind limb paresis in a laterally recumbent patient. Radiographs, laboratory evaluation, and abdominocentesis revealed the presence of hemoperitoneum, blunt hepatic trauma, pneumothorax, and a small abdominal hernia. The ferret was treated with resuscitative fluids, thoracocentesis, abdominal counterpressure, and blood transfusion. This is the first case report of multi-systemic trauma in a ferret. The ferret made a complete recovery and was discharged to the referring veterinarian three days after presentation. (Vet. Emerg. Crit. Care, 10:13?18, 2000)
+ER  - 
+
+TY  - JOUR
+AU  - Hsiao, Kai Hsun
+AU  - Dinh, Michael M
+AU  - McNamara, Kylie P
+AU  - Bein, Kendall J
+AU  - Roncal, Susan
+AU  - Saade, Charbel
+AU  - Waugh, Richard C
+AU  - Chi, Kee Fung
+TI  - Whole-body computed tomography in the initial assessment of trauma patients: Is there optimal criteria for patient selection?
+JO  - Emergency Medicine Australasia
+JA  - Emerg Med Australas
+VL  - 25
+IS  - 2
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/1742-6723.12041
+DO  - doi:10.1111/1742-6723.12041
+SP  - 182
+EP  - 191
+KW  - decision support technique
+KW  - emergency service
+KW  - multiple trauma
+KW  - whole-body imaging
+KW  - X-ray computed tomography
+PY  - 2013
+AB  - Abstract Objective To describe the use of whole-body computed tomography (WBCT) at this Major Trauma Centre; to determine independent predictors of multi-region injury; and to evaluate the accuracy of the decision to perform WBCT in detecting multi-region injury. Methods A prospective cohort study was performed at a single Major Trauma Centre in New South Wales, Australia. All adult patients who triggered trauma team activation and required an initial CT scan were studied. Primary outcome was the presence of multi-region injury. Logistic regression with stepwise selection was used to derive a prediction model for the need for WBCT based on our primary outcome. Receiver operator characteristic (ROC) analysis was used to compare the accuracy of the derived model and the clinical decision to perform WBCT. Results Six hundred and sixty patients were studied. WBCT scanning rate was 9.3% of all trauma activations. Of the patients who underwent WBCT, 31/98 (32.0%) had multi-region injury compared with 31/562 (5.5%) who underwent selective CT scanning (P < 0.001). Predictors of multi-region injuries were GCS <9 (OR 3.0, 95% CI 1.3?7.0, P = 0.01), full trauma activation (OR 2.9, 95% CI 1.5?5.3, P = 0.001), fall >5?m (OR 4.8, 95% CI 1.8?13.4, P = 0.003) and pedal cyclist (OR 3.0, 95% CI 1.2?7.5, P = 0.02). Area under ROC curve for the clinical decision to perform WBCT was 0.70 (95% CI 0.63?0.76) compared with 0.74 (95% CI 0.67?0.80) for the prediction model. Conclusion The decision to perform WBCT scans in trauma should be at the discretion of the treating clinician. Applying a prediction rule would increase the number of WBCT scans performed without improving overall accuracy.
+ER  - 
+
+TY  - JOUR
+AU  - Curry, Nicola S.
+AU  - Davenport, Ross
+TI  - Transfusion strategies for major haemorrhage in trauma
+JO  - British Journal of Haematology
+JA  - Br J Haematol
+VL  - 184
+IS  - 4
+SN  - 0007-1048
+UR  - https://doi.org/10.1111/bjh.15737
+DO  - doi:10.1111/bjh.15737
+SP  - 508
+EP  - 523
+KW  - transfusion
+KW  - trauma
+KW  - major bleeding
+KW  - trauma induced coagulopathy
+PY  - 2019
+AB  - Summary Trauma is a leading cause of death worldwide in persons under 44 years of age, and uncontrolled haemorrhage is the most common preventable cause of death in this patient group. The transfusion management of trauma haemorrhage is unrecognisable from 20 years ago. Changes in clinical practice have been driven primarily by an increased understanding of the pathophysiology of trauma-induced coagulopathy (TIC), which is associated with poor clinical outcomes, including a 3- to 4-fold increased risk of death. Targeting this coagulopathy alongside changes to surgical and anaesthetic practices (an overarching strategy known as damage control surgery/damage control resuscitation) has led to a significant reduction in mortality rates over the last two decades. This narrative review will discuss the transfusion practices that are currently used for trauma haemorrhage and the evidence that supports these practices.
+ER  - 
+
+TY  - JOUR
+AU  - Davenport, Ross
+AU  - Khan, Sirat
+TI  - Management of major trauma haemorrhage: treatment priorities and controversies
+JO  - British Journal of Haematology
+VL  - 155
+IS  - 5
+SN  - 0007-1048
+UR  - https://doi.org/10.1111/j.1365-2141.2011.08885.x
+DO  - doi:10.1111/j.1365-2141.2011.08885.x
+SP  - 537
+EP  - 548
+KW  - trauma
+KW  - haemorrhage
+KW  - thrombelastography
+KW  - coagulation
+KW  - transfusion
+PY  - 2011
+AB  - Summary The severely injured trauma patient often arrives in the emergency department bleeding, coagulopathic and in need of a blood transfusion. The diagnosis and management of these patients has vastly improved with a better understanding of acute traumatic coagulopathy (ATC). In the emergency setting, traditional laboratory coagulation screens are of limited use in the diagnosis and management of life-threatening bleeding. Whole blood assays, such as thrombelastography (TEG) and rotational thrombelastometry (ROTEM) provide a rapid evaluation of clot formation, strength and lysis. Rapid diagnosis of ATC and aggressive haemostatic transfusion strategies utilizing early high doses of plasma are associated with improved outcomes in trauma. At present there is no accurate guide for transfusion in trauma, therefore blood and clotting products are administered on an empiric basis. Targeted transfusion therapy for major trauma haemorrhage based on comprehensive and rapid measures of coagulation e.g. TEG/ROTEM may lead to improved outcomes while optimizing blood utilization. Evidence for the clinical application of TEG and ROTEM in trauma is emerging with a number of studies evaluating their ability to diagnose coagulopathy early and facilitate goal-directed transfusion. This review explores current controversies and best practice in the diagnosis and management of major haemorrhage in trauma.
+ER  - 
+
+TY  - JOUR
+AU  - Vogt, K. N.
+AU  - Van Koughnett, J. A.
+AU  - Dubois, L.
+AU  - Gray, D. K.
+AU  - Parry, N. G.
+TI  - The use of trauma transfusion pathways for blood component transfusion in the civilian population: a systematic review and meta-analysis*
+JO  - Transfusion Medicine
+VL  - 22
+IS  - 3
+SN  - 0958-7578
+UR  - https://doi.org/10.1111/j.1365-3148.2012.01150.x
+DO  - doi:10.1111/j.1365-3148.2012.01150.x
+SP  - 156
+EP  - 166
+KW  - civilian trauma
+KW  - haemorrhage
+KW  - massive transfusion
+KW  - meta-analysis
+KW  - trauma systems
+PY  - 2012
+AB  - This study was undertaken to determine if, amongst civilian trauma patients requiring massive transfusion (MT), the use of a formal trauma transfusion pathway (TTP), in comparison with transfusion without a TTP, is associated with a reduction in mortality, or changes in indices of coagulation, blood product utilisation and complications. A systematic review of three bibliographic databases, reference lists and conference proceedings was conducted. Studies were included if comparisons were made between patients receiving transfusion with and without a TTP. Data were extracted by two independent reviewers on population characteristics, transfusion strategies, blood product utilisation, indices of coagulation, clinical outcomes and complications. Data were pooled using a random effects model and heterogeneity explored. Seven observational studies met all eligibility criteria. Amongst 1801 patients requiring MT, TTPs were associated with a significant reduction in mortality (RR 0·69, 95% CI 0·55, 0·87). No significant increase in the mean number of PRBC transfused between TTP and control patients was seen (MD ?1·17 95% CI ?2·70, 0·36). When studies assessing only trauma patients were considered, TTPs were associated with a reduction in the mean number of units of plasma transfused (MD ?2·63, 95% CI ?4·24, ?1·01). In summary, the use of TTPs appears to be associated with a reduction in mortality amongst trauma patients requiring MT without a clinically significant increase in the number of PRBC transfused and a potential reduction in plasma transfusion. Effects of TTPs on platelet transfusion, indices of coagulation and complications remain unclear. A randomised controlled trial is warranted.
+ER  - 
+
+TY  - JOUR
+AU  - Nurden, Alan T.
+AU  - Nurden, Paquita
+TI  - Congenital platelet disorders and understanding of platelet function
+JO  - British Journal of Haematology
+JA  - Br J Haematol
+VL  - 165
+IS  - 2
+SN  - 0007-1048
+UR  - https://doi.org/10.1111/bjh.12662
+DO  - doi:10.1111/bjh.12662
+SP  - 165
+EP  - 178
+KW  - platelets
+KW  - bleeding disorders
+KW  - mutations
+KW  - haemostasis
+PY  - 2014
+AB  - Summary Genetic defects of platelets constitute rare diseases that include bleeding syndromes of autosomal dominant, recessive or X-linked inheritance. They affect platelet production, resulting in a low circulating platelet count and changes in platelet morphology, platelet function, or a combination of both with altered megakaryopoiesis and a defective platelet response. As a result, blood platelets fail to fulfil their haemostatic function. Most studied of the platelet function disorders are deficiencies of glycoprotein mediators of adhesion and aggregation while defects of primary receptors for stimuli include the P2Y12 ADP receptor. Studies on inherited defects of (i) secretion from storage organelles (dense granules, α-granules), (ii) the platelet cytoskeleton and (iii) the generation of pro-coagulant activity have identified genes indirectly controlling the functional response. Signalling pathway defects leading to agonist-specific modifications of platelet aggregation are the current target of exome-sequencing strategies. We now review recent advances in the molecular characterization of platelet function defects.
+ER  - 
+
+TY  - JOUR
+AU  - DUTTON, RICHARD P.
+TI  - Recombinant activated factor VII for trauma patients
+JO  - Transfusion Alternatives in Transfusion Medicine
+VL  - 8
+IS  - s1
+SN  - 1295-9022
+UR  - https://doi.org/10.1111/j.1778-428X.2006.00027.x
+DO  - doi:10.1111/j.1778-428X.2006.00027.x
+SP  - 20
+EP  - 26
+KW  - Recombinant activated factor VII
+KW  - Arthroplasty
+KW  - Coagulopathy
+KW  - Hemorrhage
+KW  - Resuscitation
+KW  - Shock
+KW  - Trauma
+KW  - Traumatic brain injury
+PY  - 2006
+AB  - SUMMARY The use of recombinant activated factor VII (rFVIIa) in trauma patients is an exciting application because hemorrhage and coagulopathy play prominent roles both in the syndrome of severe hemorrhagic shock and in severe traumatic brain injury (TBI). Anecdotal use of rFVIIa in non-hemophilic trauma patients extends back to 1999, and experience at individual institutions is now in the hundreds of cases. Efficacy in controlling traumatic coagulopathy approaches 80%, with long-term survival of about half of the patients treated. There have been few reports of inappropriate thrombotic events in trauma patients. A single prospective randomized study of rFVIIa in victims of hemorrhagic shock has been completed, with some favorable results. Further trials in hemorrhagic shock are underway in both European and American trauma centers, while a trial in TBI patients will begin within the coming year.
+ER  - 
+
+AU  - D'Amours, Scott K.
+AU  - Deane, Stephen A.
+AU  - Malka, Valerie B.
+C7  - pp. 429-441
+TI  - Principles of trauma management
+SN  - 9781119468080
+UR  - https://doi.org/10.1002/9781119468189.ch48
+DO  - doi:10.1002/9781119468189.ch48
+SP  - 429-441
+KW  - injury demographics
+KW  - trauma system
+KW  - trauma team response
+KW  - mechanism of injury
+KW  - trauma diagnostics
+KW  - trauma resuscitation
+KW  - definitive care in trauma
+KW  - tertiary survey
+KW  - trauma performance improvement
+PY  - 2006
+AB  - Summary Injury is a leading cause of death and disability, carrying with it a large economic burden to society. Young adults are over-represented in this patient group, with the highest economic impact due to years of productive life lost. Regional trauma system planning as well as specific, organised, in-hospital trauma team responses are required to ensure that experienced reception, investigation, decision-making and intervention are both timely and optimised. Trauma guidelines and protocols are the best means of ensuring a thorough and safe approach to injured patients overall, although none of these can function as an alternative to the on-site presence of a clinician with surgical experience. In total, all these approaches are essential for minimising avoidable in-hospital deaths and morbidity in severely injured patients.
+ER  - 
+
+TY  - JOUR
+AU  - Danielczyk, W.
+AU  - Streifler, M.
+AU  - Konradi, C.
+AU  - Riederer, P.
+AU  - Moll, G.
+TI  - Platelet MAO-B activity and the psychopathology of Parkinson's disease, senile dementia and multi-infarct dementia
+JO  - Acta Psychiatrica Scandinavica
+VL  - 78
+IS  - 6
+SN  - 9781119468080
+UR  - https://doi.org/10.1111/j.1600-0447.1988.tb06412.x
+DO  - doi:10.1111/j.1600-0447.1988.tb06412.x
+SP  - 730
+EP  - 736
+KW  - monoamine oxidase
+KW  - platelet
+KW  - dementia of Alzheimer type
+KW  - Parkinson's disease
+KW  - multi-infarct dementia.
+PY  - 1988
+AB  - ABSTRACT Monoamine oxidase-B (MAO-B) activity of platelets of an age- and sex-matched group of controls was compared with several groups of inpatients having non-familial dementia of Alzheimer type (DAT), Parkinson's disease (PD), multi-infarct dementia (MID), mixed types of these 3 diseases and a group of other central nervous system (CNS) organic disorders. All patients were subjected to several psychometric tests, including the Sandoz Clinical Assessment - Geriatric Scale, Hamilton Rating Scale for Depression, Mini-Mental State Examination and the Organic Mental Disorder Scale (OMDS). A statistically significant enhancement of MAO-B activity could be observed in DAT patients and in PD patients, whereas the MID group showed a mean activity similar to that of the control group and the group with other organic CNS disorders. In DAT patients the degree of dementia in the OMDS test and the enhancement of MAO activity were positively correlated, but PD did not show such a correlation. It is concluded that the increase of MAO activity in PD and in DAT might be due to a disease-related enhanced affinity to oxygen and to such oxygen-derived radicals as superoxide or hydroxyl radicals. However, a possible drug-induced enhancement of MAO activity in PD cannot be excluded. Furthermore, the MAO-B activity values in platelets of individual patients or controls are not indicative of diagnosis or prognosis of any of these diseases and are of no disease-related specificity.
+ER  - 
+
+TY  - JOUR
+AU  - Meyer, M. A. S.
+AU  - Johansson, P. I.
+TI  - Fibrinogen concentrates in bleeding trauma patients
+JO  - ISBT Science Series
+VL  - 7
+IS  - 1
+SN  - 9781119468080
+UR  - https://doi.org/10.1111/j.1751-2824.2012.01569.x
+DO  - doi:10.1111/j.1751-2824.2012.01569.x
+SP  - 177
+EP  - 182
+KW  - bleeding
+KW  - fibrinogen concentrate
+KW  - transfusion
+KW  - trauma
+PY  - 2012
+AB  - Background? A balanced transfusion of red blood cells, fresh frozen plasma (FFP) and platelets are recommended for massively bleeding trauma patients. Fibrinogen concentrates could potentially lessen or replace the need for FFP and/or platelet transfusions. Aim? To provide a review of the literature covering the application of fibrinogen concentrates in trauma care. Methods? PubMed and Cochrane database search: fibrinogen and (concentrate or trauma), not congenital, published between 2000 and 2012. Results? Six papers were identified. None were randomized controlled trials. The main conclusion of these papers was that administration of fibrinogen sometimes together with prothrombin complex concentrate might improve haemostasis in trauma patients resuscitated with synthetic colloids. Data regarding the effect of fibrinogen concentrate together with a more physiological resuscitation fluid, i.e. FFP, or as the only intervention in bleeding trauma patients is lacking. Conclusions? Evidence for the use of fibrinogen concentrate to trauma patients with massive bleeding is sparse, of poor quality and confined to patients resuscitated with synthetic colloids. Well-designed prospective, randomized, double-blinded studies evaluating the effect of fibrinogen concentrate, as the only intervention, are urgently needed.
+ER  - 
+
+TY  - JOUR
+AU  - Satyam, Abhigyan
+AU  - Graef, Elizabeth R.
+AU  - Lapchak, Peter H.
+AU  - Tsokos, Maria G.
+AU  - Dalle Lucca, Jurandir J.
+AU  - Tsokos, George C.
+TI  - Complement and coagulation cascades in trauma
+JO  - Acute Medicine & Surgery
+JA  - Acute Med Surg
+VL  - 6
+IS  - 4
+SN  - 9781119468080
+UR  - https://doi.org/10.1002/ams2.426
+DO  - doi:10.1002/ams2.426
+SP  - 329
+EP  - 335
+KW  - Coagulation
+KW  - complement
+KW  - DAMPs
+KW  - PAMPS
+KW  - trauma
+PY  - 2019
+AB  - Trauma remains a major cause of death throughout the world, especially for patients younger than 45 years. Due to rapid advances in clinical management, both in the acute and prehospital settings, trauma patients survive devastating injuries at unprecedented rates. However, these patients can often face life threatening complications that stem from the robust innate immune response induced by severe hemorrhage, leading to further tissue injury rather than repair. The complement and coagulation cascades are key mediators in this disordered reaction, which includes the development of trauma-induced coagulopathy. There is increasing evidence that cross-talk between these two pathways allows rapid amplification of their otherwise targeted responses and contributes to overwhelming and prolonged systemic inflammation. In this article, we summarize the initial steps of innate immune response to trauma and review the complex complement and coagulation cascades, as well as how they interact with each other. Despite progress in understanding these cascades, effective therapeutic targets have yet to be found and further research is needed both to improve survival rates as well as decrease associated morbidity.
+ER  - 
+
+TY  - JOUR
+AU  - Krishna, G.
+AU  - Sleigh, J. W.
+AU  - Rahman, H.
+TI  - PHYSIOLOGICAL PREDICTORS OF DEATH IN EXSANGUINATING TRAUMA PATIENTS UNDERGOING CONVENTIONAL TRAUMA SURGERY
+JO  - Australian and New Zealand Journal of Surgery
+VL  - 68
+IS  - 12
+SN  - 9781119468080
+UR  - https://doi.org/10.1111/j.1445-2197.1998.tb04696.x
+DO  - doi:10.1111/j.1445-2197.1998.tb04696.x
+SP  - 826
+EP  - 829
+KW  - damage-control surgery
+KW  - Injury Severity Score
+KW  - prediction
+KW  - reparative surgery
+KW  - trauma.
+PY  - 1998
+AB  - Background: Severe truncal multi trauma patients often develop coagulopathy, acidosis and hypothermia that makes major reparative trauma surgery dangerous. It was aimed to try to develop physiological indicators that would predict a poor outcome when conventional reparative surgery was applied. These indicators may help in the decision to switch from conventional reparative surgery to surgery limited to the control of major haemorrhage or organ disruption: so-called ?damage-control? surgery. Method: A retrospective review was conducted of 40 patients with severe multivisceral trauma (Injury Severity Score (ISS) > 35) who were admitted to the intensive care unit at Waikato Hospital and who underwent conventional reparative surgery. Results: Survival was strongly associated with base deficit (BD), core temperature and ISS. Using multiple logistic regression on these indices, outcome could be predicted with 92.5% accuracy (sensitivity = 93%, specificity = 92%, positive predictive value for death = 96%). Either severe hypothermia (< 33°C) or severe acidosis (BD > 12 mEq/L), or a combination of moderate core temperature < 35.5°C, and a BD of > 5 mEq/L were strong predictors of death if conventional reparative surgery was practised. Conclusions: At the abovementioned levels of physiological compromise, patient survival after conventional trauma surgery can be predicted to be very unlikely. Damage-control measures would be worth attempting.
+ER  - 
+
+AU  - Reineke, Erica L.
+C7  - pp. 1039-1051
+TI  - Trauma Overview
+UR  - https://doi.org/10.1002/9781119028994.ch160
+DO  - doi:10.1002/9781119028994.ch160
+SP  - 1039-1051
+KW  - animal trauma scoring systems
+KW  - blunt trauma
+KW  - Modified Glasgow Coma Score
+KW  - penetrating trauma
+KW  - polytrauma
+PY  - 1998
+AB  - Abstract Blunt and penetrating trauma is common in small animal patients, accounting for a large number of emergency room visits. Rapid recognition and treatment of abnormalities in tissue perfusion and oxygen delivery is essential to ensure patient survival and decrease the risk for the development of the systemic inflammatory response and MODS. Knowledge of trauma patterns in dogs and cats can help the emergency veterinarian rapidly identify injuries associated with trauma and allow for directed care. Animal trauma scoring systems are useful to help identify more severely injured patients, evaluate hospital outcomes and for patient stratification for clinical trials.
+ER  - 
+
+AU  - Manthey, David E.
+AU  - Nicks, Bret A.
+C7  - pp. 55-62
+TI  - Trauma Management in the ED
+SN  - 9781405141666
+UR  - https://doi.org/10.1002/9780470755938.ch7
+DO  - doi:10.1002/9780470755938.ch7
+SP  - 55-62
+KW  - trauma management
+KW  - resuscitation
+KW  - physiologic effects
+KW  - bleeding
+KW  - hemodilution
+PY  - 1998
+AB  - Summary The prelims comprise: Introduction Failure to implement surrogates to crystalloid during resuscitation Over-reliance on focused abdominal sonography in trauma Not recognizing the significance of a ?seat-belt sign ? and over?reliance on the CT scan Failure to recognize early shock in the geriatric trauma patient Withholding radiographic studies in the pregnant trauma patient for fear of fetal radiation exposure Inappropriate use of CTs and plain radiographs of the spine Failure to appropriately apply C-spine clearance rules Failure to obtain CT imaging of the cervical spine in patients at high risk for injury Failure to screen for blunt carotid injury in patients at risk Reliance on a dopplerable pulse to rule out vascular injury Failure to intervene selectively on incidentally identified pneumothoraces Avoiding succinylcholine in the acutely burned or crushed patient Failure to provide pelvic compression for open book pelvic fractures Discharging a mild head injury patient with a normal head CT and GCS score of 15 without close observation Important Issues That Lack Formal Data Failure to remove patients from backboards Errors in transporting patients to tertiary care facilities Over-Reliance on laboratory data in trauma Intubation of trauma patients with an endotracheal tube (ETT)that is too small Failure to provide adequate analgesia to trauma patients Pearls for Improving Patient Outcomes
+ER  - 
+
+AU  - Thoureen, Traci L.
+AU  - Scott, Sara B.
+C7  - pp. 280-308
+TI  - Trauma Emergencies
+SN  - 9780470657874
+UR  - https://doi.org/10.1002/9781118449844.ch13
+DO  - doi:10.1002/9781118449844.ch13
+SP  - 280-308
+KW  - burn
+KW  - carbon monoxide
+KW  - compartment syndrome
+KW  - cervical spine fracture
+KW  - neurogenic shock
+KW  - pneumothorax
+KW  - pelvic fracture
+KW  - rhabdomyolysis
+PY  - 1998
+AB  - Summary This chapter includes several simulation case scenarios with learning objectives that focus on the topic of trauma. The three cases focus on varied scenarios that incorporate the basics in the management of major burns, multi-trauma involving the chest and pelvis, management of cervical spine fracture with neurogenic shock, and lower extremity trauma with compartment syndrome.
+ER  - 
+
+TY  - JOUR
+AU  - Vogel, Sebastian
+AU  - Thein, Swee Lay
+TI  - Platelets at the crossroads of thrombosis, inflammation and haemolysis
+JO  - British Journal of Haematology
+JA  - Br J Haematol
+VL  - 180
+IS  - 5
+SN  - 9780470657874
+UR  - https://doi.org/10.1111/bjh.15117
+DO  - doi:10.1111/bjh.15117
+SP  - 761
+EP  - 767
+KW  - platelets
+KW  - inflammation
+KW  - haemolysis
+KW  - sickle cell disease
+KW  - thrombosis
+PY  - 2018
+AB  - Summary Platelets play a critical role at the interphase of thrombosis and inflammation, key features in haemolysis-associated disorders. Exercising this role requires expression of pattern recognition receptors by platelets, including toll-like receptor 4 (TLR4) and nucleotide-binding domain leucine rich repeat containing protein 3 (NLRP3), the latter forming intraplatelet multiprotein inflammasome complexes. Platelets are a potential target of various damage-associated molecular pattern (DAMP) molecules, such as free haem, a degradation by-product of haemoglobin oxidation during haemolysis, and high-mobility group box 1 (HMGB1), a DNA-binding protein released by dying or stressed cells and activated platelets. We have recently identified platelet TLR4, NLRP3, and Bruton tyrosine kinase (BTK) as critical regulators of platelet aggregation and thrombus formation, suggesting that the BTK inhibitor ibrutinib is a potential therapeutic target. Increasing evidence suggests that these and other DAMP-driven signalling mechanisms employed by platelets might be key in mediating inflammation and thrombosis encountered in haemolytic disorders. However, the precise regulatory triggers and their clinical relevance are poorly understood. We provide new insights into these less-well characterised platelet mechanisms, which are potentially targetable in haemolytic disorders.
+ER  - 
+
+TY  - JOUR
+AU  - Agis, Hermann
+AU  - Schröckmair, Stefan
+AU  - Skorianz, Carmine
+AU  - Fischer, Michael B.
+AU  - Watzek, Georg
+AU  - Gruber, Reinhard
+TI  - Platelets increase while serum reduces the differentiation and activity of osteoclasts in vitro
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+VL  - 31
+IS  - 10
+SN  - 9780470657874
+UR  - https://doi.org/10.1002/jor.22386
+DO  - doi:10.1002/jor.22386
+SP  - 1561
+EP  - 1569
+KW  - platelets
+KW  - plasma
+KW  - bone resorption
+KW  - osteoclast
+KW  - platelet-rich plasma
+PY  - 2013
+AB  - Abstract Platelets modulate formation of osteoclasts and osteoblasts, but research with different preparations of platelets remains inconclusive. Here, we assessed whether serum components modulate the effect of platelet preparations. In murine bone marrow cultures, osteoclastogenesis was investigated in the presence of platelet-released supernatant (PRS), serum containing PRS (SC-PRS), and serum. Osteoclastogenesis was quantified by the numbers of tartrate-resistant acid phosphatase (TRAP)-positive multinucleated cells, TRAP activity and resorption assays. Also human osteoclastogenesis assays were performed. Viability and proliferation were tested by MTT and 3[H]thymidine incorporation assays, respectively. Osteoblastogenesis was assessed by histochemical staining for alkaline phosphatase-of murine bone marrow cultures and human MG63 cells. We found PRS to increase the number of TRAP+ multinucleated cells in the early phase and TRAP activity in the later phase of osteoclastogenesis. SC-PRS and serum decreased the number and activity of TRAP+ multinucleated cells. Both serum containing preparations reduced viability and proliferation of hematopoietic progenitors. PRS decreased the numbers of alkaline phosphatase-positive colonies while SC-PRS and serum increased osteoblastmarkers in MG63. Proliferation of MG63 was stimulated by all preparations. These results show that activated platelets support osteoclastogenesis, while platelet preparations that contain serum components decrease osteoclastogenesis and increase osteoblastogenesis in vitro, suggesting that serum components modulate the effects of platelets on osteoclastogenesis and osteoblastogenesis. ? 2013 Orthopaedic Research Society. Published by Wiley Periodicals, Inc. J Orthop Res 31:1561?1569, 2013
+ER  - 
+
+TY  - JOUR
+AU  - Bennett, Joel S.
+TI  - Regulation of integrins in platelets
+JO  - Peptide Science
+JA  - Biopolymers
+VL  - 104
+IS  - 4
+SN  - 9780470657874
+UR  - https://doi.org/10.1002/bip.22679
+DO  - doi:10.1002/bip.22679
+SP  - 323
+EP  - 333
+KW  - integrins
+KW  - αIIbβ3
+KW  - transmembrane domains
+KW  - cytosolic domains
+KW  - optical tweezers
+PY  - 2015
+AB  - ABSTRACT Blood platelets prevent bleeding after trauma by forming occlusive aggregates at sites of vascular injury. Platelet aggregation is mediated by the integrin heterodimer αIIb?3 and occurs when platelet agonists generated at the injury site convert αIIb?3 from its resting to its active conformation. Active αIIb?3 is then able to bind macromolecular ligands such as fibrinogen that crosslink adjacent platelets into hemostatic aggregates. Platelets circulate in a plasma milieu containing high concentrations of the principal αIIb?3 ligand fibrinogen. Thus, αIIb?3 activity is tightly regulated to prevent the spontaneous formation of platelet aggregates. αIIb?3 activity is regulated at least three levels. First, intramolecular interactions involving motifs located in the membrane-proximal stalk regions, transmembrane domains, and the membrane-proximal cytosolic tails of αIIb and ?3 maintain αIIb?3 in its inactive conformation. Transmembrane domain interactions appear particularly important because disrupting these interactions causes constitutive αIIb?3 activation. Second, the agonist-stimulated binding of the cytosolic proteins talin and kindlin-3 to the ?3 cytosolic tail rapidly causes αIIb?3 activation by disrupting the intramolecular interactions constraining αIIb?3 activity. Third, the strength of ligand binding to active αIIb?3 seems to be allosterically regulated. Thus, αIIb?3 exists in a minimum of three interconvertible states: an inactive (resting) state that does not interact with ligands and two active ligand binding states that differ in their affinity for fibrinogen and in the mechanical stability of fibrinogen complexes they form. ? 2015 Wiley Periodicals, Inc. Biopolymers (Pept Sci) 104: 323?333, 2015.
+ER  - 
+
+TY  - JOUR
+AU  - Borgman, M. A.
+AU  - Spinella, P. C.
+AU  - Holcomb, J. B.
+AU  - Blackbourne, L. H.
+AU  - Wade, C. E.
+AU  - Lefering, R.
+AU  - Bouillon, B.
+AU  - Maegele, M.
+TI  - The effect of FFP:RBC ratio on morbidity and mortality in trauma patients based on transfusion prediction score
+JO  - Vox Sanguinis
+VL  - 101
+IS  - 1
+SN  - 9780470657874
+UR  - https://doi.org/10.1111/j.1423-0410.2011.01466.x
+DO  - doi:10.1111/j.1423-0410.2011.01466.x
+SP  - 44
+EP  - 54
+KW  - blood component transfusion
+KW  - resuscitation
+KW  - wounds and injuries
+PY  - 2011
+AB  - Background and Objectives? The empiric use of a high plasma to packed red-blood-cell [fresh frozen plasma:red-blood-cells (FFP:RBC)] ratio in trauma resuscitation for patients with massive bleeding has become well accepted without clear or objective indications. Increased plasma transfusion is associated with worse outcome in some patient populations. While previous studies analyse only patients who received a massive transfusion, this study analyses those that are at risk to receive a massive transfusion, based on the trauma-associated severe haemorrhage (TASH) score, to objectively determine which patients after severe trauma would benefit or have increased complications by the use of a high FFP:RBC ratio. Methods? Multicentre retrospective study from the Trauma Registry of the German Trauma Society. Multivariate logistic regression and statistical risk adjustments utilized in analyses. Results? A high ratio of FFP:RBC in the ≥15 TASH group was independently associated with survival, with an odds ratio of 2·5 (1·6?4·0), while the <15 TASH group was associated with increased multi-organ failure, 47% vs. 38%, (P?<?0·005). Conclusions? A predictive model of massive transfusion upon admission might be able to rapidly identify which severe trauma patients would benefit or have increased complications from the immediate application of a high ratio of FFP:RBCs. This study helps to identify the appropriate population for a prospective, interventional trial.
+ER  - 

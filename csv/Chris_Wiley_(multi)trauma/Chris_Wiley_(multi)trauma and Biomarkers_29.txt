@@ -1,0 +1,434 @@
+
+TY  - JOUR
+AU  - Papinutto, Nico
+AU  - Asteggiano, Carlo
+AU  - Bischof, Antje
+AU  - Gundel, Tristan J.
+AU  - Caverzasi, Eduardo
+AU  - Stern, William A.
+AU  - Bastianello, Stefano
+AU  - Hauser, Stephen L.
+AU  - Henry, Roland G.
+TI  - Intersubject Variability and Normalization Strategies for Spinal Cord Total Cross-Sectional and Gray Matter Areas
+JO  - Journal of Neuroimaging
+JA  - Journal of Neuroimaging
+VL  - 30
+IS  - 1
+SN  - 1051-2284
+UR  - https://doi.org/10.1111/jon.12666
+DO  - doi:10.1111/jon.12666
+SP  - 110
+EP  - 118
+KW  - Intersubject variability
+KW  - magnetic resonance imaging
+KW  - morphometry
+KW  - normalization strategies
+KW  - spinal cord
+PY  - 2020
+AB  - ABSTRACT BACKGROUND AND PURPOSE The quantification of spinal cord (SC) atrophy by MRI has assumed an important role in assessment of neuroinflammatory/neurodegenerative diseases and traumatic SC injury. Recent technical advances make possible the quantification of gray matter (GM) and white matter tissues in clinical settings. However, the goal of a reliable diagnostic, prognostic or predictive marker is still elusive, in part due to large intersubject variability of SC areas. Here, we investigated the sources of this variability and explored effective strategies to reduce it. METHODS One hundred twenty-nine healthy subjects (mean age: 41.0 ± 15.9) underwent MRI on a Siemens 3T Skyra scanner. Two-dimensional PSIR at the C2-C3 vertebral level and a sagittal 1 mm3 3D T1-weighted brain acquisition extended to the upper cervical cord were acquired. Total cross-sectional area and GM area were measured at C2-C3, as well as measures of the vertebra, spinal canal and the skull. Correlations between the different metrics were explored using Pearson product-moment coefficients. The most promising metrics were used to normalize cord areas using multiple regression analyses. RESULTS The most effective normalization metrics were the V-scale (from SienaX) and the product of the C2-C3 spinal canal diameters. Normalization methods based on these metrics reduced the intersubject variability of cord areas of up to 17.74%. The measured cord areas had a statistically significant sex difference, while the effect of age was moderate. CONCLUSIONS The present work explored in a large cohort of healthy subjects the source of intersubject variability of SC areas and proposes effective normalization methods for its reduction.
+ER  - 
+
+TY  - JOUR
+AU  - Lakić, Dragana
+AU  - Bogavac-Stanojević, Nataša
+AU  - Jelić-Ivanović, Zorana
+AU  - Kotur-Stevuljević, Jelena
+AU  - Spasić, Slavica
+AU  - Kos, Mitja
+TI  - A Multimarker Approach for the Prediction of Coronary Artery Disease: Cost-Effectiveness Analysis
+JO  - Value in Health
+VL  - 13
+IS  - 6
+SN  - 1098-3015
+UR  - https://doi.org/10.1111/j.1524-4733.2010.00769.x
+DO  - doi:10.1111/j.1524-4733.2010.00769.x
+SP  - 770
+EP  - 777
+KW  - coronary artery disease
+KW  - cost-effectiveness
+KW  - multimarker approach
+KW  - risk prediction
+PY  - 2010
+AB  - ABSTRACT Objectives:? Coronary artery disease (CAD), as the leading cause of death, poses a huge economic burden on health-care systems. We used a multi-marker approach to explore discriminative abilities of several lipid, inflammatory, and oxidative stress/antioxidative defense markers as CAD predictors. We assessed their cost-effectiveness compared with the Framingham risk score (FRS). Methods:? Using a decision model, we evaluated the costs, accuracy, and cost-effectiveness of each model. The FRS was used as the baseline model. Other models were formed with the consecutive addition of selected markers: apolipoprotein A-I (apoA-I), apolipoprotein B (apoB), apolipoprotein (a) [apo(a)] isoform, lipoprotein (a), high-sensitivity C-reactive protein, malondialdehyde, superoxide dismutase (SOD), sulfhydryl, and superoxide anion (O2-). A best-case model was formed from a combination of diagnostic markers to yield the best patient stratification algorithm. All models were assessed by their predictive probabilities using receiver operating characteristic curves. To accomplish our goals, we recruited 188 CAD patients (verified by coronary angiography) and 197 asymptomatic CAD-free subjects for comparison. The analysis was performed from a third-party payer perspective. Results:? Only two strategies had outstanding discriminative abilities: the best-case model (FRS, SOD, and O2-) and FRS plus SOD with area under the curve (AUC) values of 0.924 and 0.906, respectively. The cost-effectiveness ratio varied between ?593 per AUC for the baseline model to ?2425 per AUC for FRS plus apo(a) isoform. Strategies involving oxidative stress/antioxidative defense markers were more cost-effective than strategies involving lipid or inflammatory markers. All results were robust. Conclusion:? Our results support the feasibility of a multimarker approach for CAD screening. The introduction of oxidative stress/antioxidative defense markers in the clinical laboratory would be convenient and cost-effective.
+ER  - 
+
+TY  - JOUR
+AU  - Wright, S.
+TI  - Highlights of recent clinically relevant papers
+JO  - Equine Veterinary Education
+JA  - Equine Veterinary Education
+VL  - 26
+IS  - 3
+SN  - 0957-7734
+UR  - https://doi.org/10.1111/eve.12158
+DO  - doi:10.1111/eve.12158
+SP  - 113
+EP  - 114
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+AU  - Troillet, A.
+AU  - Brehm, W.
+AU  - Scharner, D.
+TI  - Thyroid Gland Tumours in the Horse: Clinical Diagnostic, Treatment and Histological Characterisation
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_14
+DO  - doi:10.1111/evj.12323_14
+SP  - 7
+EP  - 7
+PY  - 2014
+AB  - Reasons for performing study Tumours of the thyroid gland are rare in the equine species. In literature varying clinical signs and diagnostic findings are described in single reports and case series. Reported clinical signs are related to upper airway compression or thyroidal metabolic activity. A considerable risk of laryngeal hemiplegia is described when horses were treated with hemithyroidectomy [1]. Objectives To review 11 horses referred with a unilateral thyroid neoplasia in order to describe clinical presentation, diagnostic findings, treatment and outcome. Histopathology was performed on all resected thyroid lobes. Study design Retrospective case series. Methods Records from horses with histologically confirmed thyroid tumours treated with unilateral thyroid lobe resection were reviewed (2003?2013). Short-term outcome was defined for 2 weeks after surgery. Owners? questionnaire was performed for evaluation of long-term outcome defined as a minimum of 6 months. Results Affected horses were aged between 6 and 21 years. In contrast to literature the majority of tumours were adenocarcinomas (9/11), mainly found in mares (8/9). Histology revealed follicular and parafollicular (C-cell) mixed growth pattern of the carcinomas. Tumour size, growth rate and sonographic appearance did not correlate to histological characteristics. Ventral displacement of the thyroid lobe and close preparation along the thyroid capsule during surgical resection are inevitable to avoid damage to laryngeal nerves. Seroma formation was the only observed short-term complication. No long-term complications occurred. Conclusions Hemithyroidectomy is regarded the treatment of choice in horses with a unilateral thyroid lobe neoplasia with excellent long-term prognosis. High incidence of malignant tumours particularly in mares has to be considered. Tumour characteristics can only be derived from histopathology and immunhistochemistry. Ethical animal research:?Ethical committee oversight not currently required by this congress: retrospective study of clinical records. Explicit owner informed consent for participation in this study was not stated. Sources of funding:?None. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Starke, S.D.
+AU  - May, S.A.
+AU  - Pfau, T.
+TI  - Fifty Ways to Do Your Lameness: The Relationship Between Various Pelvis-Based Visual Lameness Pointers During Hindlimb Lameness
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_40
+DO  - doi:10.1111/evj.12323_40
+SP  - 18
+EP  - 18
+PY  - 2014
+AB  - Reasons for performing study The relationship between pelvic hindlimb lameness pointers remains unclear. Objectives To examine sacrum and tubera coxae (TC) based movement asymmetry across different lameness degrees, patterns and changes in pelvic rotation. Study design Parameter regression and rigid body model. Methods Vertical displacement of left and right tubera coxae (LTC, RTC) and sacrum was quantified experimentally in 107 horses with varying lameness degrees using inertial sensors. To investigate the theoretical relationship between pointers, a geometrical model of pelvis movement was created in Matlab. The model predicts TC movement based on experimentally derived pelvic rotation and computer-generated asymmetrical sacrum movement. Further, the effect of changes in pelvic rotation on TC-based lameness pointers was quantified. For both, experimental and model data, asymmetry measures corresponding to visual assessment strategies of veterinarians were calculated and contrasted. Results Experimental data showed that upward movement amplitudes for sacrum and TC were strongly correlated (r?≥?0.96). Regression showed that differences were greater between amplitudes of LTC/RTC than sacrum (slope 1.18; r2?=?0.94; P<0.001); however, for ratios the reverse held true (slope 0.86; r2?=?0.92; P<0.001). The model predicted experimentally determined tubera coxae asymmetry well. While the model data matched the experimental scaling relationship between amplitude ratios, it predicted a slightly shallower slope for amplitude differences. Perturbing the model with a different rotational range of movement, an offset in pelvic rotation and asymmetrical pelvic rotation affected observable TC-based asymmetry depending on the chosen assessment strategy. Conclusions Detecting lameness based on sacrum or comparative TC movement can give similar results. Using comparative TC movement for lameness detection would be susceptible to changes in pelvic rotation which a lame horse may adopt. Hence, assessment of multiple pelvis-based lameness pointers can help establishing nonobvious hindlimb lameness. Ethical animal research:?The experimental component of this study was approved by the RVC Ethics Committee. Some horses were included with owner informed consent and data from clinical cases were recorded as part of lameness investigations. Sources of funding:?S.D. Starke's PhD was funded by the Mellon Trust via the Royal Veterinary College. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Wylie, C.E.
+AU  - Shaw, D.J.
+AU  - Fordyce, F.M.
+AU  - Lilly, A.
+AU  - McGorum, B.C.
+TI  - Equine Grass Sickness in Scotland: A Case–Control Study of Environmental Geochemical Risk Factors
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_48
+DO  - doi:10.1111/evj.12323_48
+SP  - 21
+EP  - 21
+PY  - 2014
+AB  - Reasons for performing study Epidemiological investigations suggest that soil macro- and micro-nutrients may be a trigger for the occurrence of equine grass sickness (EGS). However, there is limited information regarding relationships between exposure to geochemical elements and the occurrence of EGS. Objectives To determine whether the geographical distribution of EGS cases referred to the Royal (Dick) School of Veterinary Studies was associated with the presence or absence of particular geochemical elements in the environment. Study design A retrospective time-matched case?control study. Methods 455 EGS geo-referenced cases were identified between 1 January 1990 and 1 June 2006. Each case had 2 time-matched geo-referenced controls (n?=?910). For study purposes, cases or controls originating outwith Scotland were excluded. Environmental concentrations of a range of elements, most with known biological function, were collated from 2 geochemical point datasets and spatially extrapolated giving continuous cover across Scotland: the British Geological Survey (BGS) Geochemical Baseline Survey of the Environment (G-BASE) stream sediment dataset and the James Hutton Institute (JHI), National Soil Inventory of Scotland (NSIS). Data were analysed using multivariable conditional logistic regression. Results Statistically significant associations were obtained between the distribution of EGS cases and (i) higher environmental levels of Ca, K, Mo, Na, Se and Ti, and (ii) lower environmental levels of Al, Cd, Co, Cr, Cu, Ni and Pb. This study identified no association between EGS cases and the environmental concentrations of Ba, Ga, Fe, Mg, Mn, P or Sr. Conclusions A number of statistically significant associations were identified between EGS cases and element concentrations in the spatially extrapolated stream sediment and soil data. This information will assist future studies on the aetiology of EGS, with further research suggested to focus on those identified significant associations with greatest biological plausibility such as reduced levels of Cu and Zn, and higher levels of K and Se. Ethical animal research:?Informed client consent was obtained for the use of clinical records. Sources of funding:?Part-funded by The BGS University Funding Initiative. A.L. is funded by the Scottish Government's Rural and Environment Science and Analytical Services Division. C.E.W. is supported by The Margaret Giffen Trust. F.F. is funded by the Natural Environment Research Council (NERC). Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Mariella, J.
+AU  - Castagnetti, C.
+AU  - Prosperi, A.
+AU  - Scagliarini, A.
+AU  - Adriani, G.
+AU  - Peli, A.
+TI  - Cytokine Concentration in Foals’ Serum Pre- and Post Suckling
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_5
+DO  - doi:10.1111/evj.12323_5
+SP  - 3
+EP  - 4
+PY  - 2014
+AB  - Reasons for performing study Colostrum acts as a source of immunomodulatory molecules for the neonate. Little information is available about the transfer of cytokines via colostrum in the foal. Objectives To investigate the transfer via colostrum of IL-4, IL-13, IL-8 and IFN-?. Study design Prospective observational study. Methods Jugular venous blood pre- (T0) and post suckling (T24) and colostrum were collected from 14 healthy foals and their dams. The cytokines? concentration was measured with an ELISA test. Serum IgG concentration was measured in foals at T24 with an immunoturbidimetric assay. Since data were not normally distributed, nonparametric tests for statistical analysis were used. The Wilcoxon t test evaluated the difference in each cytokine concentration between T0 and T24. Spearman rank correlation tested the association between cytokines? concentration in T24 serum and in colostrum, between T24?T0 (?T) serum concentration and colostrum concentration, and between cytokines serum concentration at T24 and IgG concentration. Results All the foals had a complete transfer of passive immunity. A statistically significant difference was found between serum IL-4 concentration at T0 and at T24. The significant correlations found were: serum IL-4 concentration at T24 with IL-4 concentration in colostrum, serum IL-13 concentration at T24 with IgG serum concentration, and IL-4 concentration in colostrum with ?T serum IL-4 concentration. Conclusions The results support the hypothesis that IL-4 is transferred via colostrum to the foal, as reported for TNF-α [1]. The presence of IL-8 in the foal's serum at T0 suggests an endogenous production. The IL-13 concentration is close to zero for the major part of serum and colostrum samples suggesting a subject-dependent immunologic response. The IFN-? is present both in colostrum and in T0 serum suggesting that foals are not deficient at birth. Ethical animal reasearch:?Studies approved by the Ethical Committee of the Faculty of Veterinary Medicine, University of Bologna. Oral informed consent was given by the owners. Sources of funding:?University of Bologna. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Sykes, B.W.
+AU  - Underwood, C.
+AU  - Mills, P.C.
+TI  - Pharmacokinetics and Bioequivalance of Five Commercially Available Formulations of Omeprazole: A Preliminary Report
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_50
+DO  - doi:10.1111/evj.12323_50
+SP  - 22
+EP  - 22
+PY  - 2014
+AB  - Reasons for performing study The pharmacokinetics and bioequivalence of different formulations of omeprazole have not been published. Objectives To compare the pharmacokinetics and bioavailability of 4 commercially available formulations of omeprazole to an existing reference formulation. Study design A single dose cross-over bioequivalence study. Methods Six adult Thoroughbred horses were used. Two generic buffered formulations (OG and AG), one commercial enteric coated formulation (GZ) and one compounded enteric coated formulation (BO) were compared to the reference buffered formulation (GG). Each formulation was administered at a total dose of 2?g (equivalent to 4?mg/kg bwt for a 500?kg horse) in a cross-over design. Blood samples were collected at 0, 15, 30, 45, 60, 75, 90, 105, 120, 150, 180, 210, 240, 300 and 360?min, the plasma was separated and frozen. Plasma omeprazole concentrations were determined by UPLC-MS. Noncompartmental pharmacokinetic analyses were performed using PK Solver. Results The mean (± s.d.) area-under-the-curve (AUC0-t/0-inf_obs) (?g/ml*min), Cmax (?g) and Tmax (min) for each formulation was; OG ? 59.4?±?20.1, 0.37?±?0.12, 87.5?±?38.4; AG ? 77.3?±?53.7, 0.34?±?0.24, 170.0?±?62.0; GZ ? 102.9?±?51.1, 0.86?±?0.68, 67.5?±?29.6; BO ? 88.0?±?37.4, 0.59?±?0.39, 95.0?±?47.1; GG ? 57.5?±?35.3, 0.41?±?0.22, 57.5?±?19.9. Conclusions The results of this study suggest that differences are present between commercially available formulations of omeprazole. Caution should be exercised in extrapolating results of clinical studies from one formulation to another. Ethical animal research:?This study was performed under an ethics permit issued by the NSW Department of Primary Industries and in accordance with relevant state laws and legislation. Explicit owner informed consent for participation in this study was not stated. Sources of funding:?This study was funded by a grant from the Grayson-Jockey Club Research Foundation. Competing interests:?The manufacturers of Gastrozol (GZ), Abgard (AG) and BOVA (BO) have previously funded research by B.W. Sykes. None of the companies contributed to the present study.
+ER  - 
+
+TY  - JOUR
+AU  - Peloso, J.G.
+AU  - Vogler, J.B.
+AU  - Cohen, N.D.
+AU  - Marquis, P.
+AU  - Hilt, L.
+TI  - Use of Standing MRI and a New MRI Grading System of the Subchondral Bone of the Distal Third Metacarpal Bone to Identify Bone Changes in the Thoroughbred Racehorse When Comparing 21 Cases of Catastrophic Biaxial Proximal Sesamoid Bone Fracture with 53 Controls
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_56
+DO  - doi:10.1111/evj.12323_56
+SP  - 24
+EP  - 24
+PY  - 2014
+AB  - Reasons for performing study Biaxial fracture of the proximal sesamoid bones (PSB) is the leading cause of fetlock failure resulting in euthanasia in Thoroughbred racehorses in California, Kentucky and Hong Kong. Identifying alterable risk factors to reduce biaxial PSB fractures could have a significant impact on reducing the occurrence of catastrophic failure of the fetlock (CFF). Objectives We hypothesised that standing MRI (sMRI) would identify a greater degree of bone change in Thoroughbred racehorses with CFF from biaxial PSB fracture when compared to controls. Study design Retrospective cohort study. Methods Bone changes from Florida Thoroughbred racehorses with CFF due to biaxial fracture of the PSB (n?=?21) were compared to controls (n?=?53) using the sMRI. Data for control limbs were Florida racehorses that were subjected to euthanasia for reasons other than CFF (enteritis, pneumonitis, etc.). All forelimb fetlocks underwent sMRI imaging within 72?h of euthanasia. Bone scores were assigned to the subchondral bone (SCB) on the distal palmar aspect of the lateral and medial condyle of the third metacarpal bone (McIII) and the lateral and medial PSB. All information for analysis from sMRI images for cases and controls for all Thoroughbred racehorses was reviewed and collected by the lead author. The association between the dichotomous outcomes of PSB fracture with independent variables was assessed using bivariable and multivariable logistic regression analysis with significance set at P<0.05. Results The proportion of cases with >75% sclerosis of the ipsilateral lateral PSB (43%, 9/21) was significantly greater than that among controls (6%, 3/53). The proportion of cases with SCB lesion grade >3 of the contralateral palmar lateral condyle (29%, 6/21) was significantly greater than that among controls (0%, 0/53). Conclusions The sMRI identified a significantly greater degree of bone change in racehorses with PSB fracture compared to control horses. These identified changes may be useful as a screening tool to identify horses at increased risk of fetlock fracture during racing. Ethical animal research:?Explicit owner informed consent for participation in this study was not given but permission for post mortem examination was given by the Racing Authority. Sources of funding:?None. Competing interests:?No competing interests have been declared.
+ER  - 
+
+TY  - JOUR
+AU  - Pickles, K.J.
+AU  - Madigan, J.E.
+AU  - Torske, S.
+AU  - Aleman, M.R.
+TI  - Use of Squeeze-Induced Somnolence for Routine Plasma Administration in Healthy Neonatal Foals
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_6
+DO  - doi:10.1111/evj.12323_6
+SP  - 4
+EP  - 4
+PY  - 2014
+AB  - Reasons for performing study A nonchemical method of restraint to facilitate neonatal foal handling and minimally invasive procedures would be highly useful. Objectives To investigate squeeze-induced somnolence for providing adequate restraint of healthy neonatal foals for the purpose of plasma administration. Study design Prospective clinical study. Methods Squeeze-induced somnolence of neonatal foals was performed by use of a soft rope restraint as previously described [1] to allow intravenous catheterisation and plasma administration. Physiological and clinical parameters were monitored pre-, during and post squeeze-induced somnolence. Results Squeeze-induced somnolence and plasma administration was performed on 14 foals within the first day of life without any adverse effects. Mean time to recumbency during squeeze restraint was 53?s, mean time to stand and mean time to nurse from dam following release of restraint were 46?s and 163?s, respectively. Over 50% of foals gave some reaction to subcutaneous injection of local anaesthetic but only one foal reacted strongly. The restraint technique was performed without any difficulty in 8/14 foals, 5/14 foals became less somnolent latterly in the procedure (around 17?18?min) and one foal never became fully somnolent. Conclusions Squeeze-induced somnolence provides adequate restraint for plasma administration, without the need for sedation, in the majority of neonatal foals. Squeeze-induced somnolence can be used to allow nonchemical restraint of neonatal foals for routine procedures. Further refinement of the technique is required to maximise its potential usefulness. Ethical animal research:?The study was approved by the University of California Institutional Animal Care and Use Committee. Foals were included in the study with informed owner consent. Sources of funding:?Private anonymous donation. Competing interests:?None.
+ER  - 
+
+AU  - Luckhardt, Tracy R.
+AU  - Hyzy, Robert C.
+C7  - pp. 167-179
+TI  - Addictive Disorders in the Intensive Care Unit
+SN  - 9780470740330
+UR  - https://doi.org/10.1002/9780470710449.ch11
+DO  - doi:10.1002/9780470710449.ch11
+SP  - 167-179
+KW  - Addictive disorders in the intensive care unit
+KW  - Acute Respiratory Distress Syndrome (ARDS)
+KW  - intensive care unit (ICU)
+KW  - Prevalence of Addictive Disorders in the Critically Ill
+KW  - Diagnosing Addictive Disorders in Critically Ill Patients
+KW  - gamma-glutamyl transferase (GGT)
+KW  - Respiratory depression and mental status changes
+KW  - gamma hydroxy butyrate (GHB)
+KW  - 3, 4-methylenedioxymethamphetamine (MDMA, “Ecstasy”)
+KW  - multi-organ dysfunction syndrome (MODS)
+PY  - 2014
+AB  - Summary This chapter contains sections titled: Overview Prevalence of Addictive Disorders in the Critically Ill Diagnosing Addictive Disorders in Critically Ill Patients Clinical Diagnoses, Pathophysiology and Treatment Influence of Drug and Alcohol Addiction on the Management of Critically Ill Patients Long-Term Psychosocial Effects of Critical Illness and their Role in Addiction References
+ER  - 
+
+TY  - JOUR
+AU  - Boost, Maureen
+AU  - Cho, Pauline
+AU  - Wang, Zhaoran
+TI  - Disturbing the balance: effect of contact lens use on the ocular proteome and microbiome
+JO  - Clinical and Experimental Optometry
+JA  - Clin Exp Optom
+VL  - 100
+IS  - 5
+SN  - 9780470740330
+UR  - https://doi.org/10.1111/cxo.12582
+DO  - doi:10.1111/cxo.12582
+SP  - 459
+EP  - 472
+KW  - contact lens
+KW  - microbiome
+KW  - ocular infection
+KW  - proteome
+PY  - 2017
+AB  - Contact lens wear is a popular, convenient and effective method for vision correction. In recent years, contact lens practice has expanded to include new paradigms, including orthokeratology; however, their use is not entirely without risk, as the incidence of infection has consistently been reported to be higher in contact lens wearers. The explanations for this increased susceptibility have largely focused on physical damage, especially to the cornea, due to a combination of hypoxia, mechanical trauma, deposits and solution cytotoxicity, as well as poor compliance with care routines leading to introduction of pathogens into the ocular environment. However, in recent years, with the increasing availability and reduced cost of molecular techniques, the ocular environment has received greater attention with in-depth studies of proteins and other components. Numerous proteins were found to be present in the tears and their functions and interactions indicate that the tears are far more complex than formerly presumed. In addition, the concept of a sterile or limited microbial population on the ocular surface has been challenged by analysis of the microbiome. Ocular microbiome was not considered as one of the key sites for the Human Microbiome Project, as it was thought to be limited compared to other body sites. This was proven to be fallacious, as a wide variety of micro-organisms were identified in the analyses of human tears. Thus, the ocular environment is now recognised to be more complicated and interference with this ecological balance may lead to adverse effects. The use of contact lenses clearly changes the situation at the ocular surface, which may result in consequences which disturb the balance in the healthy eye.
+ER  - 
+
+TY  - JOUR
+AU  - Sillesen, Henrik
+AU  - Fuster, Valentin
+TI  - Predicting Coronary Heart Disease: From Framingham Risk Score to Ultrasound Bioimaging
+JO  - Mount Sinai Journal of Medicine: A Journal of Translational and Personalized Medicine
+JA  - Mt Sinai J Med
+VL  - 79
+IS  - 6
+SN  - 9780470740330
+UR  - https://doi.org/10.1002/msj.21343
+DO  - doi:10.1002/msj.21343
+SP  - 654
+EP  - 663
+KW  - 3-dimensional ultrasound
+KW  - cardiovascular disease
+KW  - carotid intima-media thickness
+KW  - carotid plaque
+KW  - prediction of risk
+KW  - ultrasound imaging.
+PY  - 2012
+AB  - Abstract Atherosclerosis is the leading cause of death and disabling disease. Whereas risk factors are well known and constitute therapeutic targets, they are not useful for prediction of risk of future myocardial infarction, stroke, or death. Therefore, methods to identify atherosclerosis itself have been tested and found useful (ie, coronary calcium detection by computed tomography scanning, reduction in ankle-brachial index, and ultrasound scanning of the carotid arteries). This review will focus on the latter technique. Detection of thickened carotid intima-media by ultrasound has been used in many large epidemiological studies, but although it has been found to be associated with increased risk of cardiovascular death, its clinical utility is limited. Detection of carotid plaque has, on the other hand, been found to be associated with a substantial risk of future events. Similarly, detection of plaque in the femoral arteries is associated with increased risk, and plaque in the femoral as well as carotid arteries predicts even higher risk. Furthermore, quantification of plaque size (plaque area), such as quantification of amount of coronary calcium on computed tomography scanning, improves predictability?the larger the plaques, the higher the risk. So far, studies using ultrasound all have been performed with 2-dimensional ultrasound imaging. Recently, 3-dimensional ultrasound imaging has been introduced, which allows for more accurate quantification of atherosclerosis. Small studies pioneering its use have indicated the utility of measuring changes in vessel-wall volume and plaque volume with respect to treatment effect. The High-Risk Plaque Initiative BioImage Study is currently investigating the predictive value of total carotid plaque volume with respect to prediction of future cardiovascular events. Mt Sinai J Med 79:654?663, 2012. ? 2012 Mount Sinai School of Medicine
+ER  - 
+
+AU  - Simonoff, Emily
+C7  - pp. 719-737
+TI  - Intellectual disability
+SN  - 9781118381960
+UR  - https://doi.org/10.1002/9781118381953.ch54
+DO  - doi:10.1002/9781118381953.ch54
+SP  - 719-737
+KW  - Intellectual disability
+KW  - prevalence
+KW  - epidemiology
+KW  - psychiatric disorders
+KW  - autism spectrum disorders
+KW  - attention deficit hyperactivity disorder
+KW  - challenging behavior
+PY  - 2012
+AB  - Summary Intellectual disability (ID) is a global and persistent reduction in cognitive abilities beginning early in development and associated with impairment in daily functioning including communication, social skills, personal independence and school/work functioning. Classification systems distinguish levels of severity based on measured intellectual quotient (IQ) and degree of impairment in adaptive functioning. Prevalence estimates for ID vary widely but aggregate around 2-3% in high income countries, with mild ID about five times more common than severe forms. The multiple factors associated with ID are discussed including chromosomal disorders, genetic abnormalities, psychosocial adversity, exposure to prenatal infections and alcohol, postnatal exposure to environmental toxins and severe early deprivation. ID is associated with a three- to five-fold increased risk for all psychiatric disorders and about 15% of children with psychiatric disorders have ID. In childhood, ID is most strongly associated with autism spectrum disorders (ASD) and attention deficit hyperactivity disorder (ADHD). Milder ID is often under-recognized and clinicians should be alert to warning signs, including poor academic attainments, school non-attendance and family history of learning and educational problems. When diagnosing psychiatric disorder in people with ID, considerations include the appropriateness of the behaviour in relation to developmental (rather than chronological) age and the multiple possible underlying causes for ?behaviour that challenges? should be carefully assessed so that targeted interventions can be used. In general, there are at present no effective treatments for the core cognitive deficits of ID. Interventions focus on appropriate education and support for affected individuals and their families that maximize quality of life and community participation. Treatment planning should be multi-disciplinary and multi-agency. The limited evidence base for treating psychiatric disorders in ID supports the use of similar interventions, although effect sizes may be diminished. Pharmacotherapy should involve lower starting doses, more gradual increases and careful monitoring, as people with ID are more sensitive to adverse effects. Psychological interventions should utilize behavioural strategies, supported with visual materials and the involvement of parents, carers and other professionals such as teachers. Family-wide support and respite care from voluntary groups and social services may be invaluable.
+ER  - 
+
+C7  - pp. 309-379
+TI  - Dielectrophoretic Studies of Bioparticles
+SN  - 9781118671450
+UR  - https://doi.org/10.1002/9781118671443.ch11
+DO  - doi:10.1002/9781118671443.ch11
+SP  - 309-379
+KW  - ApoStream technology
+KW  - bioparticles
+KW  - dead cells
+KW  - dielectrophoretic characterization
+KW  - dielectrophoretic separation
+KW  - Herb Pohl
+KW  - mammalian cells
+KW  - microarray devices
+KW  - omics-based approaches
+PY  - 2012
+AB  - Abstract This chapter outlines, with references to carefully chosen publications, the progress that has been achieved over the past 50 years in the various avenues of dielectrophoresis (DEP) described by Herb Pohl. Of Pohl's many achievements, the demonstration that DEP is able to separate dead cells from live ones is of particular importance. Two DEP technologies are used for separating target cells and bioparticles from blood, namely: ApoStream technology for isolating metastatic cancer cells; and microarray devices for isolating nanoparticulate biomarkers. A potential application is the detection and isolation of rare target cells or other bioparticles directly from clinical samples. The DEP characterization of the murine erythroleukaemic (MEL) cells used an optical technique capable of performing measurements in the frequency range 1 Hz to 4MHz. Most of the 'omics-based' approaches for downstream characterization of purified bacterial populations, such as transcriptomic and proteomic analysis, require a sample containing at least 105~106 targeted cells.
+ER  - 
+
+TY  - JOUR
+AU  - Lance, Eboni I.
+AU  - Barron-Casella, Emily
+AU  - Everett, Allen D.
+AU  - Casella, James F.
+C7  - e28076
+TI  - Brain-derived neurotrophic factor levels in pediatric sickle cell disease
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr Blood Cancer
+VL  - 67
+IS  - 2
+SN  - 9781118671450
+UR  - https://doi.org/10.1002/pbc.28076
+DO  - doi:10.1002/pbc.28076
+SP  - e28076
+KW  - BDNF
+KW  - neurology
+KW  - sickle cell disease
+KW  - silent cerebral infarction
+KW  - stroke
+PY  - 2020
+AB  - Abstract Background Children with sickle cell disease (SCD) have an increased risk of neurological complications, particularly stroke and silent cerebral infarction (SCI). Brain-derived neurotrophic factor (BDNF) is a nerve growth factor associated with neuronal survival, synaptic plasticity, elevated transcranial Doppler (TCD) velocities and increased risk of stroke in patients with SCD. The objective of this study was to analyze plasma BDNF protein levels in children with SCD participating in the Silent Cerebral Infarct Transfusion Multi-Center Clinical Trial (SIT Trial), comparing plasma samples of children with SCD and SCI to plasma samples from children with SCD without SCI, as well as healthy pediatric control participants. Procedure Entry, exit, and longitudinal blood samples were collected from 190 SIT Trial participants with SCD and healthy pediatric controls over time. BDNF levels were measured by enzyme-linked immunosorbent assay. Sample collection was not optimized for measurements of BDNF, but factors affecting BDNF levels were accounted for in analyses. Results BDNF levels were significantly higher in children with SCD in comparison to healthy pediatric control subjects. BDNF levels significantly increased over time in SCD participants. BDNF levels did not show any significant associations with the presence or absence of SCI or new/progressive SCI/stroke or TCD velocities. Conclusions Plasma BDNF levels are elevated and increase over time in children with SCD. Additional studies with more longitudinal samples are needed to address the reasons for those increased levels.
+ER  - 
+
+TY  - JOUR
+AU  - Handy, J. M.
+AU  - Scott, A. J.
+AU  - Cross, A. M.
+AU  - Sinha, P.
+AU  - O’Dea, K. P.
+AU  - Takata, M.
+TI  - HLA-DR expression and differential trafficking of monocyte subsets following low to intermediate risk surgery*
+JO  - Anaesthesia
+VL  - 65
+IS  - 1
+SN  - 9781118671450
+UR  - https://doi.org/10.1111/j.1365-2044.2009.06161.x
+DO  - doi:10.1111/j.1365-2044.2009.06161.x
+SP  - 27
+EP  - 35
+PY  - 2010
+AB  - Summary Reduced HLA-DR expression on monocytes has been suggested as a predictive marker of immunosuppression following very high risk surgery, but there are few reports in lower risk surgery. In 32 patients undergoing low to intermediate risk surgery, blood samples were analysed by flow cytometry for HLA-DR expression and numbers in both CD14high and CD14lowCD16+ monocyte subsets. The numbers of CD14high monocytes increased at 24?h (mean (SD), 5.0 (2.2) vs 7.6 (3.9)???105?cells.ml?1; p?<?0.01) while CD14lowCD16+ monocytes decreased (0.68 (0.36) vs 0.44 (0.36)???105?cells.ml?1; p?<?0.01). HLA-DR expression was significantly reduced in both subsets by 24?h (mean (SD) fluorescent intensity 440 (310) vs 160 (130) for CD14high and 1000 (410) vs 560 (380) for CD14lowCD16+ subsets; p?<?0.01). This reduction of monocyte HLA-DR expression 24?h following lower risk surgery raises questions about the purported clinical utility of this biomarker as an early predictor of postoperative complications. Our results also suggest that surgery induces significant trafficking (i.e. mobilisation, margination and extravasation) of monocyte subsets, and that monocyte HLA-DR depression is the result of a down-regulatory phenomenon (decreased protein expression on each cell) rather than the differential trafficking of monocyte subsets.
+ER  - 
+
+TY  - JOUR
+AU  - Graham, R. J. T. Y.
+AU  - Anderson, J. R.
+AU  - Phelan, M. M.
+AU  - Cillan-Garcia, E.
+AU  - Bladon, B. M.
+AU  - Taylor, S. E.
+TI  - Metabolomic analysis of synovial fluid from Thoroughbred racehorses diagnosed with palmar osteochondral disease using magnetic resonance imaging
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - n/a
+IS  - n/a
+SN  - 9781118671450
+UR  - https://doi.org/10.1111/evj.13199
+DO  - doi:10.1111/evj.13199
+KW  - horse
+KW  - metacarpophalangeal joint
+KW  - palmar osteochondral disease
+KW  - magnetic resonance imaging
+KW  - synovial fluid
+KW  - metabolomics
+AB  - Summary Background Palmar osteochondral disease (POD) is a common cause of lameness in competition horses. Magnetic resonance imaging (MRI) is the most sensitive diagnostic modality currently available, however it may not be financially or logistically practical for routine screening of POD. There is increasing interest in the use of metabolomics for diagnosis prior to progression to irreversible damage. Objectives To determine metabolite levels in synovial fluid (SF) of horses with a clinical diagnosis of POD based on diagnostic analgesia and MRI, with the hypothesis that metabolomic profiles differ between diseased and healthy joints. Study design Prospective clinical study. Methods Synovial fluid was collected from metacarpo/tarsophalangeal joints (MC/TPJ) of 29 horses (n = 51 joints), including 14 controls (n = 26) and 15 cases (n = 25), the latter with lameness localised to the MC/TPJ and MR changes consistent with POD (n = 23). Spectra were produced using 1H-nuclear magnetic resonance (NMR) spectroscopy and analysed. Results Twenty-five metabolites were recognised associated with various biosynthetic and degradation pathways. The metabolite abundances within the controls demonstrated increased variability compared with the clinical group. The low level of variance between the spectra of the two groups was explained by five principal components. Cross-validation of the cohort demonstrated modest separation of predictive power (R2 = 0.67; Q2 = 0.34). Although statistical significance was not achieved, the most influential metabolites were glucose and lactate. Main limitations The modest sample size and variation in signalment, background and presenting condition of the controls may have impacted the discriminative power of the constructed models. The lack of matched controls, differences in time of fluid collection and freezing times may have also reduced accuracy when representing metabolite profiles. Conclusions This study identified and quantified metabolites present in MC/TPJ SF of clinical cases with POD.
+ER  - 
+
+TY  - JOUR
+AU  - Yang, Xiao-Ru
+AU  - Langevin, Lisa Marie
+AU  - Jaworska, Natalia
+AU  - Kirton, Adam
+AU  - Lebel, R. Marc
+AU  - Harris, Ashley D.
+AU  - Jasaui, Yamile
+AU  - Wilkes, T. Christopher
+AU  - Sembo, Mariko
+AU  - Swansburg, Rose
+AU  - MacMaster, Frank P.
+TI  - Proton spectroscopy study of the dorsolateral prefrontal cortex in youth with familial depression
+JO  - Psychiatry and Clinical Neurosciences
+JA  - Psychiatry Clin. Neurosci.
+VL  - 70
+IS  - 7
+SN  - 9781118671450
+UR  - https://doi.org/10.1111/pcn.12392
+DO  - doi:10.1111/pcn.12392
+SP  - 269
+EP  - 277
+KW  - adolescent
+KW  - choline
+KW  - creatine
+KW  - depression
+KW  - spectroscopy
+PY  - 2016
+AB  - Aim Structural, functional, and metabolic changes in the dorsolateral prefrontal cortex (DLPFC) are implicated in the pathogenesis of major depressive disorder (MDD). We used proton magnetic resonance spectroscopy (1 H-MRS) to examine the metabolite choline (glycerophosphocholine plus phosphocholine), which is used as an index of membrane integrity in the left DLPFC, in adolescents and young adults with MDD who were treatment-resistant and had a positive family history compared to healthy controls. Differences in the choline resonance indicate an imbalance between synthesis and degradation activity of neuronal and glia membrane phospholipids. Methods Seventeen adolescents with MDD and 11 healthy controls underwent 1 H-MRS. A short echo point-resolved spectroscopy (echo time = 30 ms, repetition time = 2000 ms) protocol was used with a voxel (4.5cm3, 128 averages) placed within the left DLPFC. Results There were significantly increased choline (P = 0.04) and creatine concentrations (P = 0.005) in the left DLPFC of the MDD group compared to controls. In MDD participants, choline concentration correlated with scores on the Beck Depression Inventory (r = 0.41, P = 0.03). Conclusion Increased left DLPFC choline and creatine levels in depressed adolescents may be biomarkers for the disorder. The increased choline levels may indicate abnormalities in neuronal membrane integrity, and the increased creatine could be reflective of altered energy demands and metabolism.
+ER  - 
+
+TY  - JOUR
+AU  - Heyman, S. N.
+AU  - Leibowitz, D.
+AU  - Mor-Yosef Levi, I.
+AU  - Liberman, A.
+AU  - Eisenkraft, A.
+AU  - Alcalai, R.
+AU  - Khamaisi, M.
+AU  - Rosenberger, C.
+TI  - Adaptive response to hypoxia and remote ischaemia pre-conditioning: a new hypoxia-inducible factors era in clinical medicine
+JO  - Acta Physiologica
+JA  - Acta Physiol
+VL  - 216
+IS  - 4
+SN  - 9781118671450
+UR  - https://doi.org/10.1111/apha.12613
+DO  - doi:10.1111/apha.12613
+SP  - 395
+EP  - 406
+KW  - heart
+KW  - hypoxia
+KW  - hypoxia-inducible factors
+KW  - kidney
+KW  - pre-conditioning
+KW  - prolyl hydroxylase
+PY  - 2016
+AB  - Abstract Transient ischaemia leads to tolerance to subsequent protracted ischaemia. This ?ischaemia pre-conditioning? results from the induction of numerous protective genes, involved in cell metabolism, proliferation and survival, in antioxidant capacity, angiogenesis, vascular tone and erythropoiesis. Hypoxia-inducible factors (HIF) play a pivotal role in this transcriptional adaptive response. HIF prolyl hydroxylases (PHDs), serving as oxygen sensors, control HIFα degradation. HIF-mediated ischaemic pre-conditioning can be achieved with the administration of PHD inhibitors, with the attenuation of organ injury under various hypoxic and toxic insults. Clinical trials are currently under way, evaluating PHD inhibitors as inducers of erythropoietin. Once their safety is established, their potential use might be further tested in clinical trials in various forms of acute ischaemic and toxic organ damage. Repeated transient limb ischaemia was also found to attenuate ischaemic injury in remote organs. This ?remote ischaemic pre-conditioning? phenomenon (RIP) has been extensively studied recently in small clinical trials, preceding, or in parallel with an abrupt insult, such as myocardial infarction, cardiac surgery or radiocontrast administration. Initial results are promising, suggesting organ protection. Large-scale multi-centre studies are currently under way, evaluating the protective potential of RIP in cardiac surgery, in the management of myocardial infarction and in organ transplantation. The mechanisms of organ protection provided by RIP are poorly understood, but HIF seemingly play a role as well. Thus, Inhibition of HIF degradation with PHD inhibitors, as well as RIP (in part through HIF), might develop into novel clinical interventions in organ protection in the near future.
+ER  - 

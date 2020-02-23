@@ -1,0 +1,435 @@
+
+TY  - JOUR
+AU  - Kreif, Noémi
+AU  - Grieve, Richard
+AU  - Díaz, Iván
+AU  - Harrison, David
+C8  - hec.3189
+TI  - Evaluation of the Effect of a Continuous Treatment: A Machine Learning Approach with an Application to Treatment for Traumatic Brain Injury
+JO  - Health Economics
+JA  - Health Econ.
+VL  - 24
+IS  - 9
+SN  - 1057-9230
+UR  - https://doi.org/10.1002/hec.3189
+DO  - doi:10.1002/hec.3189
+SP  - 1213
+EP  - 1228
+KW  - programme evaluation
+KW  - generalised propensity score
+KW  - machine learning
+PY  - 2015
+AB  - Summary For a continuous treatment, the generalised propensity score (GPS) is defined as the conditional density of the treatment, given covariates. GPS adjustment may be implemented by including it as a covariate in an outcome regression. Here, the unbiased estimation of the dose?response function assumes correct specification of both the GPS and the outcome-treatment relationship. This paper introduces a machine learning method, the ?Super Learner?, to address model selection in this context. In the two-stage estimation approach proposed, the Super Learner selects a GPS and then a dose?response function conditional on the GPS, as the convex combination of candidate prediction algorithms. We compare this approach with parametric implementations of the GPS and to regression methods. We contrast the methods in the Risk Adjustment in Neurocritical care cohort study, in which we estimate the marginal effects of increasing transfer time from emergency departments to specialised neuroscience centres, for patients with acute traumatic brain injury. With parametric models for the outcome, we find that dose?response curves differ according to choice of specification. With the Super Learner approach to both regression and the GPS, we find that transfer time does not have a statistically significant marginal effect on the outcomes. ? 2015 The Authors. Health Economics Published by John Wiley & Sons Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Caldicott, David GE
+AU  - Edwards, Nicholas A
+AU  - Tingey, David
+AU  - Bonnin, Robert
+TI  - Medical response to a terrorist attack and weapons of mass destruction
+JO  - Emergency Medicine
+VL  - 14
+IS  - 3
+SN  - 1035-6851
+UR  - https://doi.org/10.1046/j.1442-2026.2002.00337.x
+DO  - doi:10.1046/j.1442-2026.2002.00337.x
+SP  - 230
+EP  - 239
+KW  - domestic preparedness
+KW  - HAZMAT
+KW  - major incident
+KW  - mass casualty
+KW  - terrorism
+KW  - weapons of mass destruction
+PY  - 2002
+ER  - 
+
+TY  - JOUR
+AU  - Li, Hongxia
+AU  - Liao, Ying
+AU  - Han, Zhenhui
+AU  - Wang, Yuli
+AU  - Liu, Ping
+AU  - Zhang, Chunyu
+AU  - Tang, Chaoshu
+AU  - Du, Junbao
+AU  - Jin, Hongfang
+TI  - Head-up tilt test provokes dynamic alterations in total peripheral resistance and cardiac output in children with vasovagal syncope
+JO  - Acta Paediatrica
+JA  - Acta Paediatr
+VL  - 107
+IS  - 10
+SN  - 0803-5253
+UR  - https://doi.org/10.1111/apa.14342
+DO  - doi:10.1111/apa.14342
+SP  - 1786
+EP  - 1791
+KW  - Cardiac output
+KW  - Children
+KW  - Haemodynamics
+KW  - Total peripheral resistance
+KW  - Vasovagal syncope
+PY  - 2018
+AB  - Abstract Aim This study examined the total peripheral vascular resistance (TPVR) and cardiac output changes due to the head-up tilt test (HUTT) in children with vasovagal syncope (VVS). Methods From December 2013 to January 2016, we recruited 77 children diagnosed with VVS group at Peking University First Hospital, China, and 28 children without VVS provided the control group. Heart rate, blood pressure, TPVR, cardiac output and baroreflex sensitivity were monitored during the HUTT. Results In the supine position, TPVR and baroreflex sensitivity were higher in the patients with VVS than the controls, but cardiac output did not differ between the two groups. There were obvious increases in the VVS patients from TPVR in the supine position to the prepositive response period (p < 0.05), then the positive response period (p < 0.01). However, we noted the opposite trend in cardiac output, from the supine position to the prepositive response period (p < 0.01) then the positive response period (p < 0.01). Conclusion During HUTT, children with VVS demonstrated increases in TPVR but decreases in cardiac output, during the transition from the supine position to the positive response. This response might be involved in the pathogenesis of VVS.
+ER  - 
+
+C7  - pp. 127-139
+TI  - Acute Coronary Syndrome
+SN  - 9781405154000
+UR  - https://doi.org/10.1002/9781444300772.ch18
+DO  - doi:10.1002/9781444300772.ch18
+SP  - 127-139
+KW  - acute myocardial infarction to stable angina
+KW  - non-invasive stress testing
+KW  - exercise electrocardiogram (ECG) stress testing
+KW  - myocardial perfusion imaging
+KW  - coronary artery disease (CAD)
+KW  - acute myocardial infarction (AMI)
+KW  - unstable angina (UA)
+KW  - acute coronary syndrome (ACS)
+KW  - serum biomarkers
+KW  - lactose dehydrogenase (LDH)
+PY  - 2018
+AB  - Summary This chapter contains sections titled: Background Serum biomarkers Clinical question one Comments Non-invasive cardiac testing Clinical question two Comments CT coronary angiography Clinical question three Comments References
+ER  - 
+
+TY  - JOUR
+AU  - Schweininger, Stephanie
+AU  - Forbes, David
+AU  - Creamer, Mark
+AU  - McFarlane, Alexander C.
+AU  - Silove, Derrick
+AU  - Bryant, Richard A.
+AU  - O'Donnell, Meaghan L.
+TI  - THE TEMPORAL RELATIONSHIP BETWEEN MENTAL HEALTH AND DISABILITY AFTER INJURY
+JO  - Depression and Anxiety
+JA  - Depress Anxiety
+VL  - 32
+IS  - 1
+SN  - 9781405154000
+UR  - https://doi.org/10.1002/da.22288
+DO  - doi:10.1002/da.22288
+SP  - 64
+EP  - 71
+KW  - posttraumatic stress disorder
+KW  - disability
+KW  - injury
+KW  - depression
+KW  - anxiety
+KW  - SEM
+PY  - 2015
+AB  - Objective This longitudinal study investigated the temporal relationship patterns between disability and mental health after injury, with a focus on posttraumatic stress disorder (PTSD), depression, and anxiety. Method We conducted a multi-sited longitudinal cohort study with a large sample of hospital patients admitted after injury (N = 1,149, mean age = 37.9, 73.6% male). Data were collected prior to discharge from hospital, and follow-up assessments took place 3 and 12 months postinjury. A cross-lagged structural equation model (SEM) was used to assess the prospective relationship between posttraumatic stress, anxiety, and depression symptoms and disability while controlling for demographic characteristics and objective measures of injury severity. Results Acute depression significantly predicted 3-month disability, and 3-month PTSD severity significantly predicted 12-month disability. Premorbid disability had a significant effect on acute anxiety, depression, and posttraumatic stress symptoms, and 3-month depression but disability after the injury did not predict 12-month psychopathology. Conclusions We did not find a reciprocal relationship between disability and psychopathology. Rather we found that depression played a role in early disability while PTSD played a role in contributing to long-term delays in the recovery process. The results of this study highlight the need for mental health screening for symptoms of PTSD and depression in the acute aftermath of trauma, combined with early intervention programs in injury populations.
+ER  - 
+
+TY  - JOUR
+AU  - Strudwick, Kirsten
+AU  - McPhee, Megan
+AU  - Bell, Anthony
+AU  - Martin-Khan, Melinda
+AU  - Russell, Trevor
+TI  - Review article: Best practice management of common knee injuries in the emergency department (part 3 of the musculoskeletal injuries rapid review series)
+JO  - Emergency Medicine Australasia
+JA  - Emergency Medicine Australasia
+VL  - 30
+IS  - 3
+SN  - 9781405154000
+UR  - https://doi.org/10.1111/1742-6723.12870
+DO  - doi:10.1111/1742-6723.12870
+SP  - 327
+EP  - 352
+KW  - emergency medicine
+KW  - evidence-based practice
+KW  - knee injuries
+KW  - review
+PY  - 2018
+AB  - Abstract Knee injuries are a common presentation to the ED and are often difficult to assess and definitively diagnose due to the patient's acute pain, effusion and guarding. The quality of ED care provided to patients with fractures or soft tissue injuries of the knee is critical to ensure the best possible outcomes for the patient. This rapid review investigated best practice for the assessment and management of common knee injuries in the ED. Databases were searched in 2017, including PubMed, CINAHL, EMBASE, TRIP and the grey literature, including relevant organisational websites. Primary studies, systematic reviews and guidelines were considered for inclusion. English-language articles published in the past 12 years that addressed the acute assessment, management, follow-up plan or prognosis were included. Data extraction of included articles was conducted, followed by quality appraisal to rate the level of evidence where possible. The search revealed 2250 articles, of which 54 were included in the review (n?=?8 primary articles, n?=?28 systematic reviews, n?=?18 guidelines). This rapid review provides clinicians managing fractures and soft tissue injuries of the knee in the ED, a summary of the best available evidence to enhance the quality of care for optimal patient outcomes. There is consistent evidence to support undertaking a thorough history and physical examination, including the application of special tests and clinical decision rules for imaging. In the undifferentiated knee injury, expedited follow up and further imaging is recommended to improve patient outcomes and cost-effectiveness.
+ER  - 
+
+TY  - JOUR
+AU  - Brightmore, T. G. J.
+AU  - Drew, C. E.
+TI  - Ruptured non-traumatic aneurysms of the descending thoracic aorta
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 60
+IS  - 11
+SN  - 9781405154000
+UR  - https://doi.org/10.1002/bjs.1800601113
+DO  - doi:10.1002/bjs.1800601113
+SP  - 885
+EP  - 891
+PY  - 1973
+AB  - Abstract Two cases of ruptured non-traumatic aneurysm of the descending thoracic aorta and a third in which rupture was imminent are discussed with regard to two simple operative techniques, both of which were employed with success. Partial aneurysmectomy was employed in one case and a temporary to permanent shunt graft in the other two. The simplicity of the techniques is such that they may be used in hospitals which are not equipped for extracorporeal perfusion.
+ER  - 
+
+C7  - pp. 335-344
+TI  - Index
+SN  - 9781118438855
+UR  - https://doi.org/10.1002/9781118941263.index
+DO  - doi:10.1002/9781118941263.index
+SP  - 335-344
+PY  - 1973
+ER  - 
+
+TY  - JOUR
+AU  - Numan, Bobbi
+AU  - Sweet, Jerry J.
+AU  - Ranganath, Charan
+TI  - Use of the california verbal learning test to detect proactive interference in the traumatically brain injured
+JO  - Journal of Clinical Psychology
+JA  - J. Clin. Psychol.
+VL  - 56
+IS  - 4
+SN  - 9781118438855
+UR  - https://doi.org/10.1002/(SICI)1097-4679(200004)56:4<553::AID-JCLP8>3.0.CO;2-Q
+DO  - doi:10.1002/(SICI)1097-4679(200004)56:4<553::AID-JCLP8>3.0.CO;2-Q
+SP  - 553
+EP  - 562
+PY  - 2000
+AB  - Abstract Recent studies using the California Verbal Learning Test (CVLT) to investigate the learning and memory capacities of traumatically-brain injured (TBI) individuals have suggested that this population does not show the expected buildup of proactive interference (PI). The purpose of this study was to investigate whether PI could be detected on the CVLT, in a TBI sample, if PI were calculated using alternative methods. CVLT data from 25 TBI individuals with varying degrees of brain injury and 21 healthy controls were compared. Results from the various analyses suggested that TBI individuals show buildup and release from PI when learning and attempting to recall competing forms of information if appropriate methods of analysis are used. Although the CVLT differs considerably from traditional PI paradigms (e.g., Wickens, 1970), our results suggest it can be used to detect PI in TBI individuals. ? 2000 John Wiley & Sons, Inc. J Clin Psychol 56: 553?562, 2000.
+ER  - 
+
+TY  - JOUR
+AU  - BROWN, GORDON
+TI  - State and Market: Towards a Public Interest Test*
+JO  - The Political Quarterly
+VL  - 80
+IS  - s1
+SN  - 9781118438855
+UR  - https://doi.org/10.1111/j.1467-923X.2009.02158.x
+DO  - doi:10.1111/j.1467-923X.2009.02158.x
+SP  - S263
+EP  - S286
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+AU  - Cohen, Robert
+AU  - Lima, Ana
+AU  - Escorcia, Alioska
+AU  - Tasmin, Farzana
+AU  - Lin, Yulia
+AU  - Lieberman, Lani
+AU  - Pendergrast, Jacob
+AU  - Callum, Jeannie
+AU  - Cserti-Gazdewich, Christine
+TI  - Serologic assessments in acute transfusion reactions: practices and yields
+JO  - Vox Sanguinis
+JA  - Vox Sang
+VL  - 114
+IS  - 7
+SN  - 9781118438855
+UR  - https://doi.org/10.1111/vox.12830
+DO  - doi:10.1111/vox.12830
+SP  - 749
+EP  - 761
+KW  - transfusion reaction
+KW  - serologic testing
+PY  - 2019
+AB  - Background & Objectives Serologic testing after transfusion reactions (TRs) aims to find accountable immune haemolytic incompatibility. Our hospital policies recommend serologic testing in all TR, except for low-risk fevers (subclinical temperature <39°C) or uncomplicated allergic reactions. Assessing compliance with these guidelines and serologic testing yields may provide insights on quality of practice and value. Materials & Methods Interrogation of two haemovigilance databases identified all possible-to-definite TR over a 4-year period (2013?2016) at four academic hospitals. We reviewed the performance and outcome of serologic testing by site, year, reaction type, implicated product and service. Results Serologic testing occurred in 769 (55%) of 1408 referrals, with 1153 (82%) compliant with guidelines. Similar proportions deviated to overtesting (85/550 [15%]) and undertesting (174/858 [20%]), with undertesting seen most often in atypical TR. Overall, 30 (4.4%) of 769 cases had a new finding, but only 2 (0.3%) reflected host-derived antibodies. Overall, the number needed to test to discover an unexpected allospecificity was 385, or 253 if limited to high-risk fevers. Reaction- and product-specific yields ranged from 0% to 48%. The yield in complicated allergic reactions was low at 2%, constituting only predictable passive isohaemagglutinin(s) in retrospect. Investigated IVIG TR accounted for most of this cohort?s signal by passive isohaemagglutinins in 48%. Conclusion The performance of post-TR serologic testing revealed practice gaps and expected context-specific yields. Tailored serologic testing (i.e. indirect antiglobulin tests for alloantibodies in post-RBC/high-risk febrile reactions, ± isoagglutinin-focused tests after IVIG or ABO-minor-mismatched platelets) may improve value and liberate resources for other unmet needs in TR investigation.
+ER  - 
+
+TY  - JOUR
+AU  - Glasgow, S. M.
+AU  - Allard, S.
+AU  - Doughty, H.
+AU  - Spreadborough, P.
+AU  - Watkins, E.
+TI  - Blood and bombs: the demand and use of blood following the London Bombings of 7 July 2005 – a retrospective review
+JO  - Transfusion Medicine
+JA  - Transfusion Med
+VL  - 22
+IS  - 4
+SN  - 9781118438855
+UR  - https://doi.org/10.1111/j.1365-3148.2012.01173.x
+DO  - doi:10.1111/j.1365-3148.2012.01173.x
+SP  - 244
+EP  - 250
+KW  - blast
+KW  - blood components
+KW  - blood service
+KW  - blood stocks
+KW  - emergency preparedness
+KW  - mass casualty events
+KW  - terrorism
+PY  - 2012
+AB  - Summary Mass casualty events (MCE) present health systems with a sudden demand on key services. The overall objective of this study was to describe the experience of the National Blood Service (NBS) following the largest UK MCE in recent times. Data was collated from the NBS database and directly from the hospitals involved. All data was collected immediately following the event and included: all blood components requested, issued and transfused in relation to the bombings, blood stock levels at the time and the injury profiles of the casualties transfused. The total NBS order from hospitals for the event was 1455 units of blood components. All requests were fulfilled, this included: 978 units of red cells (RC), 36 doses of platelets, 141 units of fresh frozen plasma (FFP) and 300 doses of cryoprecipitate. The amount of blood ordered was three times that initially used and the total number of RC transfused in treating all victims from admission to discharge was approximately 440 units. The greatest use of blood components was for those casualties who had sustained traumatic amputations amongst their injury profile. Published data with which to compare these results is lacking, although the RC use was similar to the initial mean individual usage described in previous military and civilian bombings. The overall implication for any blood service remains, there is now likely to be a far greater demand for plasma, platelets and cryoprecipitate in any future incidents involving victims suffering major haemorrhage.
+ER  - 
+
+TY  - JOUR
+AU  - Brown, Gordon
+TI  - State and Market: Towards a Public Interest Test
+JO  - The Political Quarterly
+VL  - 74
+IS  - 3
+SN  - 9781118438855
+UR  - https://doi.org/10.1111/1467-923X.00537
+DO  - doi:10.1111/1467-923X.00537
+SP  - 266
+EP  - 284
+PY  - 2003
+ER  - 
+
+AU  - Breen, Karen
+C7  - pp. 60-66
+TI  - The Antiphospholipid Syndrome
+SN  - 9781119095576
+UR  - https://doi.org/10.1002/9781119095606.ch8
+DO  - doi:10.1002/9781119095606.ch8
+SP  - 60-66
+KW  - antiphospholipid antibodies
+KW  - antiphospholipid syndrome
+KW  - bilateral uterine arterial notching
+KW  - intensive care setting
+KW  - multi-organ failure
+KW  - pregnancy morbidity
+KW  - systemic lupus erythematosus
+PY  - 2003
+AB  - Summary Antiphospholipid syndrome (APS) often occurs in patients with associated autoimmune diseases, particularly systemic lupus erythematosus, but it can also occur in patients without other associated autoimmune disease. Studies of women with antiphospholipid antibodies (aPL)-related complications show that women with thrombotic complications of APS have higher rates of pre-term delivery. Women with APS need close monitoring throughout pregnancy. Uterine artery Doppler scanning is recommended at 20-24 weeks, to check for evidence of bilateral uterine arterial notching, which has been shown to be predictive of placental dysfunction in women with APS. If bilateral notching is detected, serial growth scans are performed to monitor for intrauterine growth restriction. Patients present with multi-organ failure due to widespread thrombosis, and there is an associated high mortality rate. They require aggressive management, usually in an intensive care setting, with a combination of steroids, anticoagulation and/or plasma exchange.
+ER  - 
+
+TY  - JOUR
+AU  - Fier, Gill
+AU  - Sasson, Yifaat
+AU  - Rogovsky, Ori
+AU  - Liberman, Eliezer
+AU  - Leibovitz, Eyal
+AU  - Halperin, Pinchas
+AU  - Sarov, Jack
+AU  - Arber, Nadir
+AU  - Sarafian, Farjad
+AU  - Seltzer, David
+AU  - Berliner, Shlomo
+TI  - Stress in the emergency room: a simple leukocyte to glass adhesion test provides a diagnostic tool to differentiate between stress and infection/inflammation related leukocytosis
+JO  - Stress Medicine
+JA  - Stress Med.
+VL  - 15
+IS  - 3
+SN  - 9781119095576
+UR  - https://doi.org/10.1002/(SICI)1099-1700(199907)15:3<183::AID-SMI813>3.0.CO;2-E
+DO  - doi:10.1002/(SICI)1099-1700(199907)15:3<183::AID-SMI813>3.0.CO;2-E
+SP  - 183
+EP  - 188
+KW  - leukocyte adhesiveness
+KW  - stress
+KW  - inflammation
+PY  - 1999
+AB  - Abstract In order to discriminate between stress-induced leukocytosis and an infection/inflammation-related one, we have used a modified leukocyte adhesiveness/aggregation test (LAAT) to examine the adhesive properties of white blood cells towards glass surfaces. A highly significant p<0·00001) difference was noted between the percent of aggregated cells found in a group of patients with various conditions of infection/inflammation (22·9±6·4%) and those with stress (7·5±1·4%). The corresponding difference between the total white blood cell count in the peripheral blood of these two groups (16,547±3289 and 14,114±4898 cells per mm3, respectively) was not significant. The difference in total leukocytes adhered to the glass in the two groups (445±136 vs 228±72 cells per high power field) that were determined along the slide was also highly significant (p<0·00001). Thus, a simple glass slide technique might be of clinical utility for an effective, rapid and inexpensive means of discrimination between stress and infection/inflammation related leukocytosis. Copyright ? 1999 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Winter, Laraine
+AU  - Moriarty, Helene J.
+AU  - Short, Thomas H.
+TI  - Self-Reported Driving Difficulty in Veterans With Traumatic Brain Injury: Its Central Role in Psychological Well-Being
+JO  - PM&R
+JA  - PM&R
+VL  - 9
+IS  - 9
+SN  - 9781119095576
+UR  - https://doi.org/10.1016/j.pmrj.2017.01.007
+DO  - doi:10.1016/j.pmrj.2017.01.007
+SP  - 901
+EP  - 909
+PY  - 2017
+AB  - Background The ability to drive is a core function supporting independent living. Traumatic brain injury (TBI) may impair driving capacity in numerous ways. Previous research has documented that individuals with TBI have more driving-related problems than other people and has identified predictors of driving status or capacity, mostly among civilians; however, no research has examined the implications of driving limitations for the well-being of individuals with TBI. Objective To examine the association between self-reported difficulty in driving with important domains of psychological well-being in veterans with TBI, with adjustment for posttraumatic stress disorder (PTSD) and years since most recent TBI. Design Cross-sectional. Setting Veterans' homes. Participants A total of 61 veterans of the Global Wars on Terrorism diagnosed with TBI, all outpatients at a Veterans Affairs medical center rehabilitation service. Methods Home interviews as a baseline assessment for a larger randomized controlled trial. Main Outcome Measures Community reintegration (extent of social participation), depressive symptomatology, and role limitations due to physical health problems and those due to emotional problems. Self-rated competence in driving was the predictor, and sociodemographic characteristics, diagnosis of PTSD, severity of TBI, and time since most recent TBI were covariates. Results Self-rated driving difficulty was associated with decreased community reintegration (? = .280, P =.028), greater depressive symptomatology (? = ?.402, P < .001), and greater role limitations due to physical problems (? = ?.312, P =.011) and to emotional problems (? = ?.324, P = .006), after we adjusted for PTSD and other variables. Discussion The self-reported ability to drive seems to be central to psychological well-being in veterans with TBI, showing clear associations with depression, community reintegration, and health-related role limitations. These associations cannot be attributed to comorbid PTSD. Conclusion Rehabilitation specialists should view driving difficulty as a risk factor for poor psychosocial outcomes in veterans with TBI and seek ways to compensate for the veteran's loss of driving if it is no longer advisable. Level of Evidence II
+ER  - 
+
+TY  - JOUR
+AU  - Seal, John B.
+AU  - Bohorquez, Humberto
+AU  - Reichman, Trevor
+AU  - Kressel, Adam
+AU  - Ghanekar, Anand
+AU  - Cohen, Ari
+AU  - McGilvray, Ian D.
+AU  - Cattral, Mark S.
+AU  - Bruce, David
+AU  - Greig, Paul
+AU  - Carmody, Ian
+AU  - Grant, David
+AU  - Selzner, Markus
+AU  - Loss, George
+TI  - Thrombolytic protocol minimizes ischemic-type biliary complications in liver transplantation from donation after circulatory death donors
+JO  - Liver Transplantation
+JA  - Liver Transpl
+VL  - 21
+IS  - 3
+SN  - 9781119095576
+UR  - https://doi.org/10.1002/lt.24071
+DO  - doi:10.1002/lt.24071
+SP  - 321
+EP  - 328
+PY  - 2015
+AB  - Liver transplantation (LT) with donation after circulatory death (DCD) donors has been associated with a high rate of ischemic-type biliary strictures (ITBSs) and inferior graft survival. To investigate the impact of an intraoperative tissue plasminogen activator (tPA) on outcomes following DCD LT, we conducted a retrospective analysis of DCD LT at the Toronto General Hospital (TGH) and the Ochsner Medical Center (OMC). Between 2009 and 2013, 85 DCD LTs were performed with an intraoperative tPA injection (n?=?30 at TGH, n?=?55 at OMC), and they were compared with 33 DCD LTs without a tPA. Donor and recipient characteristics were similar in the 2 groups. There was no significant difference in the intraoperative packed red blood cell transfusion requirement (3.2?±?3.4 versus 3.1?±?2.3 U, P?=?0.74). Overall, biliary strictures occurred less commonly in the tPA-treated group (16.5% versus 33.3%, P?=?0.07) with a much lower rate of diffuse intrahepatic strictures (3.5% versus 21.2%, P?=?0.005). After 1 and 3 years, the tPA group versus the non-tPA group had superior patient survival (97.6% versus 87.0% and 92.7% versus 79.7%, P?=?0.016) and graft survival (96.4% versus 69.7% and 90.2% versus 63.6%, P?<?0.001). In conclusion, a tPA injection into the hepatic artery during DCD LT reduces ITBSs and improves graft and patient survival without increasing the risk for bleeding. Liver Transpl 21:321?328, 2015. ? 2015 AASLD.
+ER  - 
+
+TY  - JOUR
+AU  - Modgill, Geeta
+AU  - Jette, Nathalie
+AU  - Wang, Jian Li
+AU  - Becker, Werner J.
+AU  - Patten, Scott B.
+TI  - A Population-Based Longitudinal Community Study of Major Depression and Migraine
+JO  - Headache: The Journal of Head and Face Pain
+VL  - 52
+IS  - 3
+SN  - 9781119095576
+UR  - https://doi.org/10.1111/j.1526-4610.2011.02036.x
+DO  - doi:10.1111/j.1526-4610.2011.02036.x
+SP  - 422
+EP  - 432
+KW  - migraine
+KW  - depression
+KW  - comorbidity
+KW  - epidemiology
+KW  - childhood trauma
+KW  - stress
+PY  - 2012
+AB  - Objective.? To examine whether major depressive episodes (MDEs) are associated with an increased risk of migraine in the general population and to examine whether migraine is associated with an increase risk of MDE. Background.? Population-based cross-sectional studies have consistently reported an association between migraine and depression. However, longitudinal studies about this potentially bidirectional association are inconsistent. Methods.? This retrospective cohort study used 12 years of follow-up data from the Canadian National Population Health Survey (15,254 respondents, age >12). Stratified analysis, logistic regression, and proportional hazard modeling were used to quantify the effect of migraine on subsequent MDE status and vice versa. Results.? After adjusting for sex, age, and other chronic health conditions, respondents with migraine were 60% more likely (HR 1.6, 95% confidence interval 1.3-1.9) to develop MDE compared with those without migraine. Similarly adjusting for sex and age, respondents with MDE were 40% more likely (HR 1.4, 95% confidence interval 1.0-1.9) to develop migraine compared with those without MDE. However, the latter association disappeared after adjustment for stress and childhood trauma. Conclusions.? The current study provides substantial evidence that migraine is associated with the later development of MDEs, but does not provide strong causal evidence of an association in the other direction. Environmental factors such as childhood trauma and stress may shape the expression of this bidirectional relationship; however, the precise underlying mechanisms are not yet known. (Headache 2012;52:422-432)
+ER  - 
+
+TY  - JOUR
+AU  - Arslan, S. Y.
+AU  - Leung, K. P.
+AU  - Wu, C. D.
+TI  - The effect of lactoferrin on oral bacterial attachment
+JO  - Oral Microbiology and Immunology
+VL  - 24
+IS  - 5
+SN  - 9781119095576
+UR  - https://doi.org/10.1111/j.1399-302X.2009.00537.x
+DO  - doi:10.1111/j.1399-302X.2009.00537.x
+SP  - 411
+EP  - 416
+KW  - iron
+KW  - iron chelator
+KW  - lactoferrin
+KW  - oral bacterial attachment
+KW  - oral biofilm
+PY  - 2009
+AB  - Introduction:? Lactoferrin (Lf), an iron-binding salivary glycoprotein, plays an important role in human innate defense against local mucosal infection. We hypothesized that Lf interferes with initial oral bacterial attachment to surfaces by iron sequestration, so inhibiting subsequent biofilm formation. The objective was to investigate the effect of Lf on the early stages of single-species and multi-species oral biofilm development. Methods:? Streptococcus gordonii, Streptococcus mutans, Fusobacterium nucleatum and Porphyromonas gingivalis were used in this study. Glass disks of a two-track flow cell coated with flowing artificial saliva (0.3?ml/min) with and without Lf (100??g/ml) were used for studying bacterial attachment (3?h, 37°C). Attachment was also examined by incubating single or multiple species of test bacteria (107?colony-forming units/ml) with Lf-coated (20?100??g/ml) and uncoated glass slides. The effects of ?-lactoglobulin, 2,2?-dipyridyl (25?100??g/ml), an iron chelator, and FeCl3 on attachment were also examined. Results:? Lf inhibited the initial attachment of S. gordonii (50.3%, P?<?0.05) but not that of F. nucleatum and P. gingivalis. However, the attachment of a dual-species biofilm containing S. gordonii (i.e. S. gordonii/F. nucleatum or S. gordonii/P. gingivalis) was significantly reduced (48.7% or 62.1%, respectively, P?<?0.05) in the presence of Lf. ?-Lactoglobulin did not affect the attachment of S. gordonii. In the presence of 100??m 2,2?-dipyridyl, attachment of S. gordonii was reduced by 53.87%. No reduction in attachment was noted in S. gordonii pretreated with Lf (100??g/ml) and FeCl3 (20?200??m). Conclusion:? Lf suppresses initial attachment of S. gordonii and S. gordonii coaggregates by iron sequestration. This may lead to subsequent inhibition of oral biofilm development.
+ER  - 
+
+TY  - JOUR
+AU  - Galbraith, Adam S.
+AU  - Sanz-Nogués, Clara
+AU  - Glynn, Sharon
+AU  - Coleman, Cynthia M.
+AU  - Murphy, Colin
+TI  - Diabetes Mellitus and Gender Have a Negative Impact on the Outcome of Hip Fracture Surgery—A Pilot Study
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+VL  - n/a
+IS  - n/a
+SN  - 9781119095576
+UR  - https://doi.org/10.1002/jor.24517
+DO  - doi:10.1002/jor.24517
+KW  - hip fracture surgery
+KW  - diabetes mellitus
+KW  - mortality
+KW  - ASA grade
+KW  - diabetic osteopathy
+AB  - ABSTRACT Diabetes mellitus (DM) is associated with an elevated risk of post-operative complications. The impact it has on patients living with DM following hip fracture surgery (HFS) is not completely understood and may represent a predictor of increased mortality. This study investigates the impact of DM, gender, American Society of Anaesthesiologists (ASA) grade, and fracture location, on the outcome of HFS in Ireland. The Hospital Inpatient Enquiry (HIPE) database records all fragility hip fractures within Galway University Hospital. Retrospective data collection was performed over a 3-year period. Data collected included patient age, gender, date of HFS, anatomical fracture location, type of operation, ASA grade, DM status, and mortality. A database of 650 individuals was created including 461 females and 189 males, with an average group age of 80.2?±?9.3 years. Results showed a significantly higher incidence of hip fractures in males with DM (19.57%) than females with DM (12.36%) (?2 test, p?=?0.020). Cox regression survival analysis indicated that DM status and ASA grade were the two main independent predictors of patient survival following HFS. Nevertheless, when examining the combined impact of gender and DM status on survival after HFS, results showed that survival post HFS differed significantly with gender and presence of DM (log-rank test, p?<?0.001), with males with DM performing worse than females with DM (p?=?0.021) or males without DM (p?=?0.001). This gender and disease-associated outcome should prompt an early multi-disciplinary team approach to the management of hip fractures in patients with DM. ? 2019 Orthopaedic Research Society. Published by Wiley Periodicals, Inc. J Orthop Res
+ER  - 

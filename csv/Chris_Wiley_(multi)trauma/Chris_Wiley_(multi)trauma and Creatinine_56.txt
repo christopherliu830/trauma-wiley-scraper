@@ -1,0 +1,317 @@
+
+TY  - JOUR
+AU  - King, Lesley G.
+AU  - Stevens, Martha T.
+AU  - Ostro, Ernest N. So.
+AU  - Diserens, Deborah
+AU  - Ravi Shankar, J.
+TI  - A Model For Prediction Of Survival In Critically III Dogs
+JO  - Journal of Veterinary Emergency and Critical Care
+VL  - 4
+IS  - 2
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/j.1476-4431.1994.tb00119.x
+DO  - doi:10.1111/j.1476-4431.1994.tb00119.x
+SP  - 85
+EP  - 99
+KW  - Key words
+KW  - Prediction
+KW  - survival
+KW  - dog
+KW  - outcome
+PY  - 1994
+AB  - Summary A system was developed for objective prediction of survival, which could be applied to all critically ill patients, regardless of disease, at an early stage of hospitaluation. Such a system would allow risk assessment of groups for experimental studies according to probability of survival and it might allow us to avoid expenditure of scarce clinical resources on animals with little chance of survival. The prospective study included 200 critically ill dogs: 93 females and 107 males, representing 62 breeds. With survival defined as alive 30 days after admisssion to ICU the overall mortality rate was 40.5% (81 of 200 dogs). Data collected included signalment and parameters that reflected vital organ function, the severity of physiologic derangement and the extent of physiologic reserve. We recorded the most abnormal value for each parameter within 24 hours of admission to ICU and logistic regression analysis was used to analyze four different weighting systems. The best model had a concordance 0f 86.5% with outcome, and it was then re-evaluated to determine whether individual variables could be eliminated without losing predictive accuracy. Fourvariables were eliminated, resulting in a final model with 18 variables which had 86.3% concordance with outcome. At a 0.5 cut-off for predicted risk, the model had sensitivity Of 69%, specificity ficity of 86% and positive predictive value of 77%. A Receiver Operating Curve was constructed using serial cut-offs for predicted outcome from 0.1 to 0.9, and the area under the curve was 0.89. Thus, an equation was generated that gives an estimate of the probability of survival.
+ER  - 
+
+AU  - Baird, Geoffrey S.
+AU  - Montine, Thomas J.
+C7  - pp. 170-180
+TI  - Clinical Laboratory Investigations in Geriatric Neurology
+SN  - 9781118730683
+UR  - https://doi.org/10.1002/9781118730676.ch8
+DO  - doi:10.1002/9781118730676.ch8
+SP  - 170-180
+KW  - cerebrovascular disorders infarction
+KW  - clinical laboratory investigations
+KW  - dementias
+KW  - geriatric neurology
+KW  - movement disorders
+PY  - 1994
+AB  - Summary Body fluids (blood, urine, cerebrospinal fluid) are preferred samples for neurological testing. This chapter focuses on the clinical laboratory examinations used to screen, diagnose, predict, and monitor neurologic disorders in geriatric patients. As the goals of laboratory testing in this population overlap those of general laboratory testing, a brief section on test interpretation and general laboratory considerations precedes the sections devoted to neurologic disorders of geriatric patients. The neurologic disorders for which laboratory investigations are described in the chapter are: dementias (Alzheimer's disease and Lewy body disease), movement disorders (Parkinson's disease and Parkinson-plus syndromes), cerebrovascular disorders (infarction and hemorrhage), and other disorders such as headache and depression.
+ER  - 
+
+TY  - JOUR
+TI  - Ards
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 40
+IS  - s109
+SN  - 9781118730683
+UR  - https://doi.org/10.1111/j.1399-6576.1996.tb04577.x
+DO  - doi:10.1111/j.1399-6576.1996.tb04577.x
+SP  - 61
+EP  - 74
+PY  - 1996
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts Poster
+JO  - American Journal of Transplantation
+VL  - 8
+IS  - s2
+SN  - 9781118730683
+UR  - https://doi.org/10.1111/j.1600-6143.2008.02255.x
+DO  - doi:10.1111/j.1600-6143.2008.02255.x
+SP  - 337
+EP  - 637
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts and Index of Authors
+JO  - Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy
+VL  - 17
+IS  - 5
+SN  - 9781118730683
+UR  - https://doi.org/10.1002/j.1875-9114.1997.tb03809.x
+DO  - doi:10.1002/j.1875-9114.1997.tb03809.x
+SP  - 1079
+EP  - 1133
+PY  - 1997
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Journal of Veterinary Internal Medicine
+VL  - 19
+IS  - 3
+SN  - 9781118730683
+UR  - https://doi.org/10.1111/j.1939-1676.2005.tb00640.x
+DO  - doi:10.1111/j.1939-1676.2005.tb00640.x
+SP  - 399
+EP  - 488
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - ACVIM Abstracts
+JO  - Journal of Veterinary Internal Medicine
+VL  - 19
+IS  - 3
+SN  - 9781118730683
+UR  - https://doi.org/10.1111/j.1939-1676.2005.tb02714.x
+DO  - doi:10.1111/j.1939-1676.2005.tb02714.x
+SP  - 386
+EP  - 488
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Movement Disorders
+JA  - Mov Disord.
+VL  - 33
+IS  - S2
+SN  - 9781118730683
+UR  - https://doi.org/10.1002/mds.116
+DO  - doi:10.1002/mds.116
+SP  - S1
+EP  - S929
+PY  - 2018
+ER  - 
+
+C7  - pp. 27-119
+TI  - Conditions
+SN  - 9781119117117
+UR  - https://doi.org/10.1002/9781119548553.ch2
+DO  - doi:10.1002/9781119548553.ch2
+SP  - 27-119
+KW  - acute coronary syndromes
+KW  - adult nursing
+KW  - breast lumps
+KW  - dementias
+KW  - encephalitis
+KW  - hepatitis
+KW  - leukaemias
+KW  - osteoarthritis
+KW  - respiratory failure
+KW  - urinary retention
+PY  - 2018
+AB  - Summary Adult nursing comprises the skilled, dignified care of adults. It focuses on acute and chronic physical conditions rather than mental illness. This chapter discusses the definition, diagnosis and investigations, screening, common signs and symptoms, treatment, and nursing care of various diseases such as, acute coronary syndromes, acute renal failure, anaemias, aneurysms, breast lumps, breathlessness, cancer, cardiovascular disorders, cataracts, and cholecystitis, chronic obstructive pulmonary disease, dementias, diabetes mellitus, diarrhea, diverticular disease, eczema, encephalitis, endocrine disorders. The other diseases include fractures, gallstone disease, gastritis, gastroenteritis, gastro-oesophageal reflux disease, glaucoma, glomerulonephritis, gout, haemorrhoids, hearing loss, heart failure, hepatitis, HIV, hypertension, hysterectomy, immunodeficiency, incontinence, jaundice, leukaemias, life support: advanced adult, and life support: basic adult,. The remaining diseases include macular degeneration, meningitis, multiple sclerosis, myopathies, nausea and vomiting, neutropenia, osteoarthritis, osteomyelitis, osteoporosis, pain and discomfort, pancreatitis, and Parkinson's disease, respiratory failure, sepsis, tuberculosis, urethritis, urinary retention, valve disease, and vascular disorders of the brain.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts from the Third Chinese Congress on Gerontology and Health Industry
+JO  - Journal of the American Geriatrics Society
+JA  - J Am Geriatr Soc
+VL  - 62
+IS  - s2
+SN  - 9781119117117
+UR  - https://doi.org/10.1111/jgs.13075
+DO  - doi:10.1111/jgs.13075
+SP  - S335
+EP  - S395
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - FREE COMMUNICATIONS  POSTER COMMUNICATIONS
+JO  - Nephrology
+VL  - 10
+IS  - s1
+SN  - 9781119117117
+UR  - https://doi.org/10.1111/j.1440-1797.2005.00420.x
+DO  - doi:10.1111/j.1440-1797.2005.00420.x
+SP  - A117
+EP  - A232
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+AU  - Wiles, Kate S
+AU  - Tillett, Alexandra L
+AU  - Harding, Kate R
+TI  - Solid organ transplantation in pregnancy
+JO  - The Obstetrician & Gynaecologist
+JA  - Obstet Gynecol
+VL  - 18
+IS  - 3
+SN  - 9781119117117
+UR  - https://doi.org/10.1111/tog.12263
+DO  - doi:10.1111/tog.12263
+SP  - 189
+EP  - 197
+KW  - Multidisciplinary relations
+KW  - organ transplants
+KW  - pregnancy outcomes
+KW  - risk
+PY  - 2016
+AB  - Key content In the UK, there are approximately 50?60 pregnancies in women with solid organ transplants each year. Kidney transplants are the most common. Adverse maternal and fetal outcomes, including rates of pre-eclampsia, fetal growth restriction and preterm delivery, are higher in women with solid organ transplants than in the general obstetric population. Management of the solid organ transplant recipient in pregnancy includes pre-eclampsia prophylaxis and monitoring, screening for gestational diabetes and fetal growth restriction, graft surveillance and management of immunosuppressive therapy. Multidisciplinary working is essential in the care of pregnant women with solid organ transplants. Vaginal birth is not contraindicated in women with solid organ transplants. Learning objectives To gain an overview of prepregnancy, antenatal, intrapartum and postpartum care required in women with kidney transplants. To understand how the management of pregnant women with pancreas, liver and cardiothoracic transplants compares with that of renal transplant recipients. To learn about medications used in women with solid organ transplants and their safety in pregnancy and lactation. Ethical issues The absence/paucity of safety data in pregnancy for some drugs used in solid organ transplant recipients. The lack of robust data comparing solid organ transplant recipients who have undergone a pregnancy with matched nulliparous controls in determining the impact of pregnancy on long-term graft outcome.
+ER  - 
+
+AU  - Dunning, Trisha
+C7  - pp. 135-188
+TI  - Long-Term Complications of Diabetes
+SN  - 9781405123648
+UR  - https://doi.org/10.1002/9780470774991.ch5
+DO  - doi:10.1002/9780470774991.ch5
+SP  - 135-188
+KW  - older people
+KW  - quality of life
+KW  - mortality
+KW  - hyperglycaemia
+KW  - cardiac diseases
+PY  - 2016
+AB  - Summary This chapter contains section titled: Introduction Cardiovascular Disease Hypertension Cerebrovascular Disease Intercurrent Illness Diabetes and Renal Disease in Older People Eye Disease and Older People with Diabetes Diabetic Neuropathy Diabetes and Osteoporosis Falls Diabetes and Wound Management References
+ER  - 
+
+TY  - JOUR
+TI  - The Royal Australian and New Zealand College of Radiologists 64th Annual Scientific Meeting
+JO  - Journal of Medical Imaging and Radiation Oncology
+JA  - Journal of Medical Imaging and Radiation Oncology
+VL  - 57
+IS  - S1
+SN  - 9781405123648
+UR  - https://doi.org/10.1111/1754-9485.12121
+DO  - doi:10.1111/1754-9485.12121
+SP  - 120
+EP  - 176
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - Adult bone and mineral working group abstracts WG16–WG35
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 18
+IS  - S1
+SN  - 9781405123648
+UR  - https://doi.org/10.1002/jbmr.5650181309
+DO  - doi:10.1002/jbmr.5650181309
+SP  - S398
+EP  - S402
+PY  - 2003
+ER  - 
+
+TY  - JOUR
+TI  - Poster Sessions
+JO  - Transplant International
+VL  - 24
+IS  - s2
+SN  - 9781405123648
+UR  - https://doi.org/10.1111/j.1432-2277.2011.01351.x
+DO  - doi:10.1111/j.1432-2277.2011.01351.x
+SP  - 230
+EP  - 321
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Transplant International
+VL  - 23
+IS  - s1
+SN  - 9781405123648
+UR  - https://doi.org/10.1111/j.1432-2277.2010.01085.x
+DO  - doi:10.1111/j.1432-2277.2010.01085.x
+SP  - 1
+EP  - 21
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - Xenoulis, P. G.
+TI  - Diagnosis of pancreatitis in dogs and cats
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 56
+IS  - 1
+SN  - 9781405123648
+UR  - https://doi.org/10.1111/jsap.12274
+DO  - doi:10.1111/jsap.12274
+SP  - 13
+EP  - 26
+PY  - 2015
+AB  - Pancreatitis is the most common disorder of the exocrine pancreas in both dogs and cats. Ante-mortem diagnosis of canine and feline pancreatitis can be challenging. The clinical picture of dogs and cats with pancreatitis varies greatly (from very mild to severe or even fatal) and is characterised by non-specific findings. Complete blood count, serum biochemistry profile and urinalysis should always be performed in dogs and cats suspected of having pancreatitis, although findings are not-specific for pancreatitis. Serum amylase and lipase activities and trypsin-like immunoreactivity (TLI) concentrations have no or only limited clinical value for the diagnosis of pancreatitis in either dogs or cats. Conversely, serum pancreatic lipase immunoreactivity (PLI) concentration is currently considered to be the clinicopathological test of choice for the diagnosis of canine and feline pancreatitis. Abdominal radiography is a useful diagnostic tool for the exclusion of other diseases that may cause similar clinical signs to those of pancreatitis. Abdominal ultrasonography can be very useful for the diagnosis of pancreatitis, but this depends largely on the clinician's experience. Histopathological examination of the pancreas is considered the gold standard for the diagnosis and classification of pancreatitis, but it is not without limitations. In clinical practice, a combination of careful evaluation of the animal's history, serum PLI concentration and abdominal ultrasonography, together with pancreatic cytology or histopathology when indicated or possible, is considered to be the most practical and reliable means for an accurate diagnosis or exclusion of pancreatitis compared with other diagnostic modalities.
+ER  - 
+
+TY  - JOUR
+TI  - European Society of Veterinary Clinical Pathology (ESVCP) 9th Annual Congress
+JO  - Veterinary Clinical Pathology
+VL  - 36
+IS  - 4
+SN  - 9781405123648
+UR  - https://doi.org/10.1111/j.1939-165X.2007.tb00448.x
+DO  - doi:10.1111/j.1939-165X.2007.tb00448.x
+SP  - 382
+EP  - 398
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+AU  - Ross, Brian
+AU  - Bluml, Stefan
+TI  - Magnetic resonance spectroscopy of the human brain
+JO  - The Anatomical Record
+JA  - Anat. Rec.
+VL  - 265
+IS  - 2
+SN  - 9781405123648
+UR  - https://doi.org/10.1002/ar.1058
+DO  - doi:10.1002/ar.1058
+SP  - 54
+EP  - 84
+KW  - biomedical imaging
+KW  - magnetic resonance imaging
+KW  - MRI
+KW  - MRS
+KW  - spectroscopy
+KW  - neurochemistry
+KW  - brain disease
+KW  - N-acetyl aspartate
+KW  - myelination
+KW  - Canavan disease
+KW  - Huntington disease
+KW  - Alzheimer disease
+PY  - 2001
+AB  - Abstract Magnetic resonance (MR; synonymous with NMR = nuclear magnetic resonance) is a universal physical technique best known for non-invasive detection and anatomical mapping of water protons (H). MR-spectroscopy (MRS) records protons from tissue chemicals other than water, intrinsic phosphorus containing metabolites, sodium, potassium, carbon, nitrogen, and fluorine. MRS is therefore an imaging technique with the potential to record human and animal biochemistry in vivo. As a result of wide availability of MRI equipment in research laboratories and hospitals, MRS is a serious competitor with PET to define normal body composition and its perturbation by pharmacological and pathological events. This article describes practical aspects of in vivo MRS with particular emphasis on the brain, where novel metabolites have been described. A survey of these new aspects of neurochemistry emphasize their practical utility as neuronal and axonal markers, measures of energy status, membrane constituents, and osmolytes, as well as some xenobiotics, such as alcohol. The concept of multinuclear in vivo MRS is illustrated by diagnosis and therapeutic monitoring of several human brain disorders. Although these methods are currently most frequently encountered in human studies, as well as with transgenic and knockout mouse models, MRS adds a new dimension to anatomic and histopathologic descriptions. Anat Rec (New Anat) 265:54?84, 2001. ? 2001 Wiley-Liss, Inc.
+ER  - 

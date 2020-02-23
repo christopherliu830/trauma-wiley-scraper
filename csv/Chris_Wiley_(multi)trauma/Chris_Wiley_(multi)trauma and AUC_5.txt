@@ -1,0 +1,497 @@
+
+TY  - JOUR
+AU  - Curtis, L.
+AU  - Bayes, T.C.
+AU  - England, G.C.W.
+AU  - Burford, J.H.
+AU  - Freeman, S.L.
+TI  - Systematic Review of Risk Factors for Equine Colic
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_47
+DO  - doi:10.1111/evj.12323_47
+SP  - 21
+EP  - 21
+PY  - 2014
+AB  - Reasons for performing the study There are several epidemiological studies that have reported on risk factors for colic, this data has not been systematically reviewed. Objectives To systematically review the current evidence on risk factors for colic in the horse. Study design Systematic review in compliance with PRISMA guidelines. Methods The primary literature search was conducted in CAB Winner of Voorjaarsdagen Award 2014 (1910?2012), Web of Science (1950?2012) and MEDLINE (1946?2012) (between 23?26 November 2012), using the following terms: (horses OR horse OR equine OR equines OR equus OR equidae OR equids OR equid) AND colic. Publications were assessed independently against inclusion criteria (peer-reviewed articles relating to risk, causes, aetiology or predictors of colic) and exclusion criteria (nongastrointestinal or specific conditions, <3 cases) by LC and SF. Those selected were reviewed using a specifically developed quality assessment criteria (QAC) scoring system. Articles were ranked according to the QAC with those scoring greater than a specific critical threshold considered to be of the highest level of evidence. Results The search identified 1385 publications; 90 related to risk factors, 36 met the inclusion criteria and were assessed using the QAC. Nine publications were selected for final evaluation. Eight studies were based in the USA, and one multi-centre study in Europe. Individual papers identified risk factors pertaining to signalment, use of horse, clinical history, diet and other management details; however, there was inconclusive agreement for the majority of factors investigated. Consistent consensus between ≥3 studies identified increasing age, Arab and Thoroughbred breeds, recent change in diet or housing and a previous history of colic as significant risk factors for colic. Conclusions Evidence for many risk factors is weak and inconsistent, with a variety of confounders and interactions across the studies. There is strong evidence for age, breed, management changes and recent clinical history as risk factors. Ethical animal research:?The study was reviewed and approved by the School of Veterinary Medicine and Science, University of Nottingham Ethics Committee. Sources of funding:?Laila Curtis was funded by the School of Veterinary Medicine and Science, University of Nottingham. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Düring, J.
+AU  - Dankiewicz, J.
+AU  - Cronberg, T.
+AU  - Hassager, C.
+AU  - Hovdenes, J.
+AU  - Kjaergaard, J.
+AU  - Kuiper, M.
+AU  - Nielsen, N.
+AU  - Pellis, T.
+AU  - Stammet, P.
+AU  - Vulto, J.
+AU  - Wanscher, M.
+AU  - Wise, M.
+AU  - Åneman, A.
+AU  - Friberg, H.
+TI  - Lactate, lactate clearance and outcome after cardiac arrest: A post-hoc analysis of the TTM-Trial
+JO  - Acta Anaesthesiologica Scandinavica
+JA  - Acta Anaesthesiol Scand
+VL  - 62
+IS  - 10
+SN  - 0001-5172
+UR  - https://doi.org/10.1111/aas.13172
+DO  - doi:10.1111/aas.13172
+SP  - 1436
+EP  - 1442
+KW  - cardiopulmonary resuscitation
+KW  - heart arrest
+KW  - hyperlactatemia
+KW  - lactic acid
+KW  - out-of-hospital cardiac arrest
+PY  - 2018
+AB  - Background Admission lactate and lactate clearance are implemented for risk stratification in sepsis and trauma. In out-of-hospital cardiac arrest, results regarding outcome and lactate are conflicting. Methods This is a post-hoc analysis of the Target Temperature Management trial in which 950 unconscious patents after out-of-hospital cardiac arrest were randomized to a temperature intervention of 33°C or 36°C. Serial lactate samples during the first 36 hours were collected. Admission lactate, 12-hour lactate, and the clearance of lactate within 12 hours after admission were analyzed and the association with 30-day mortality assessed. Results Samples from 877 patients were analyzed. In univariate logistic regression analysis, the odds ratio for death by day 30 for each mmol/L was 1.12 (1.08-1.16) for admission lactate, P < .01, 1.21 (1.12-1.31) for 12-hour lactate, P < .01, and 1.003 (1.00-1.01) for each percentage point increase in 12-hour lactate clearance, P = .03. Only admission lactate and 12-hour lactate levels remained significant after adjusting for known predictors of outcome. The area under the receiver operating characteristic curve was 0.65 (0.61-0.69), P < .001, 0.61 (0.57-0.65), P < .001, and 0.53 (0.49-0.57), P = .15 for admission lactate, 12-hour lactate, and 12-hour lactate clearance, respectively. Conclusions Admission lactate and 12-hour lactate values were independently associated with 30-day mortality after out-of-hospital cardiac arrest while 12-hour lactate clearance was not. The clinical value of lactate as the sole predictor of outcome after out-of-hospital cardiac arrest is, however, limited.
+ER  - 
+
+TY  - JOUR
+AU  - Kottschade, Lisa A.
+AU  - Suman, Vera J.
+AU  - Perez, Domingo G.
+AU  - McWilliams, Robert R.
+AU  - Kaur, Judith S.
+AU  - Amatruda III, Thomas T.
+AU  - Geoffroy, Francois J.
+AU  - Gross, Howard M.
+AU  - Cohen, Peter A.
+AU  - Jaslowski, Anthony J.
+AU  - Kosel, Matthew L.
+AU  - Markovic, Svetomir N.
+TI  - A randomized phase 2 study of temozolomide and bevacizumab or nab-paclitaxel, carboplatin, and bevacizumab in patients with unresectable stage IV melanoma
+JO  - Cancer
+JA  - Cancer
+VL  - 119
+IS  - 3
+SN  - 0008-543X
+UR  - https://doi.org/10.1002/cncr.27760
+DO  - doi:10.1002/cncr.27760
+SP  - 586
+EP  - 592
+KW  - metastatic melanoma
+KW  - chemotherapy
+KW  - vascular endothelial growth factor inhibition
+KW  - combination therapy
+KW  - unresectable metastatic melanoma
+PY  - 2013
+AB  - Abstract BACKGROUND: Increasing evidence shows chemotherapy in combination with vascular endothelial growth factor (VEGF) inhibition is a clinically active therapy for patients with metastatic melanoma (MM). METHODS: A phase 2 trial was conducted in chemotherapy-naive patients with unresectable stage IV MM who were randomized to temozolomide (200 mg/m2 on days 1 through 5) and bevacizumab (10 mg/kg intravenously on days 1 and 15) every 28 days (Regimen TB) or nab-paclitaxel (100 mg/m2, or 80 mg/m2 post-addendum 5 secondary to toxicity, on days 1, 8, and 15), bevacizumab (10 mg/kg on days 1 and 15), and carboplatin (area under the curve [AUC] 6 on day 1, or AUC 5 post-addendum 5) every 28 days (Regimen ABC). Accrual goal was 41 patients per regimen. The primary aim of this study was to estimate progression-free survival rate at 6 months (PFS6) in each regimen. A regimen would be considered promising if its PFS6 rate was > 60%. RESULTS: Ninety-three eligible patients (42 TB and 51 ABC) were enrolled. The majority of patients had M1c disease (20 TB and 26 ABC). The median PFS and overall survival times with ABC were 6.7 months and 13.9 months, respectively. Median PFS time and median overall survival with TB were 3.8 months and 12.3 months, respectively. The most common severe toxicities (≥ grade 3) in both regimens were cytopenias, fatigue, and thrombosis. Among the first 41 patients enrolled onto each regimen, PFS6 rate was 32.8% (95% confidence interval: 21.1%-51.2%) for TB and 56.1% (90% confidence interval: 44.7%-70.4%) for ABC. CONCLUSIONS: The addition of bevacizumab to nab-paclitaxel and carboplatin shows promising activity despite tolerability issues. Cancer 2013. ? 2012 American Cancer Society.
+ER  - 
+
+TY  - JOUR
+AU  - Lago, Luise
+AU  - Glantz, Meyer D.
+AU  - Kessler, Ronald C.
+AU  - Sampson, Nancy A.
+AU  - Al-Hamzawi, Ali
+AU  - Florescu, Silvia
+AU  - Moskalewicz, Jacek
+AU  - Murphy, Sam
+AU  - Navarro-Mateu, Fernando
+AU  - Torres de Galvis, Yolanda
+AU  - Viana, Maria Carmen
+AU  - Xavier, Miguel
+AU  - Degenhardt, Louisa
+C7  - e1557
+C8  - IJMPR-Jan-2016-0019.R2
+TI  - Substance dependence among those without symptoms of substance abuse in the World Mental Health Survey
+JO  - International Journal of Methods in Psychiatric Research
+JA  - Int J Methods Psychiatr Res
+VL  - 26
+IS  - 3
+SN  - 1049-8931
+UR  - https://doi.org/10.1002/mpr.1557
+DO  - doi:10.1002/mpr.1557
+SP  - e1557
+KW  - DSM-IV alcohol abuse
+KW  - DSM-IV alcohol dependence
+KW  - imputation
+KW  - substance use disorder
+KW  - World Mental Health Survey
+PY  - 2017
+AB  - Abstract The World Health Organization (WHO) World Mental Health (WMH) Survey Initiative uses the Composite International Diagnostic Interview (CIDI). The first 13 surveys only assessed substance dependence among respondents with a history of substance abuse; later surveys also assessed substance dependence without symptoms of abuse. We compared results across the two sets of surveys to assess implications of the revised logic and develop an imputation model for missing values of lifetime dependence in the earlier surveys. Lifetime dependence without symptoms of abuse was low in the second set of surveys (0.3% alcohol, 0.2% drugs). Regression-based imputation models were built in random half-samples of the new surveys and validated in the other half. There were minimal differences for imputed and actual reported cases in the validation dataset for age, gender and quantity; more mental disorders and days out of role were found in the imputed cases. Concordance between imputed and observed dependence cases in the full sample was high for alcohol [sensitivity 88.0%, specificity 99.8%, total classification accuracy (TCA) 99.5%, area under the curve (AUC) 0.94] and drug dependence (sensitivity 100.0%, specificity 99.8%, TCA 99.8%, AUC 1.00). This provides cross-national evidence of the small degree to which lifetime dependence occurs without symptoms of abuse. Imputation of substance dependence in the earlier WMH surveys improved estimates of dependence.
+ER  - 
+
+TY  - JOUR
+TI  - Plenary Session III: Maladaptive Neuroplasticity in Stress and Epilepsy  8:15 a.m.–10:15 a.m.
+JO  - Epilepsia
+VL  - 46
+IS  - s8
+SN  - 0013-9580
+UR  - https://doi.org/10.1111/j.1528-1167.2005.460801_42.x
+DO  - doi:10.1111/j.1528-1167.2005.460801_42.x
+SP  - 373
+EP  - 373
+PY  - 2005
+AB  - 1 Tallie Z. Baram, 1 Kristen L. Brunson, 1 Celine Dube, 1 Sarit Avishai-Eliner, and 1 Kristina A. Fenoglio ( 1 Pediatrics, Anatomy/ Neurobiology, UCI, Irvine, CA ) Seizures often arise in the setting of an acute injury or insult. In addition, many of the epilepsies are ?symptomatic?, i.e., they occur in individuals who had sustained injury or insult such as infection, trauma, or stroke. The mechanisms by which diverse factors such as infection or trauma provoke both acute seizures and recurrent, chronic seizures (epilepsy) are not fully understood. To some extent, each of these insults may initiate a unique chain of events that promotes epilepsy. However, these insults also share commonalities that set in motion cellular and molecular changes that promote neuronal hyperexcitability: All these epilepsy- provoking insults are stressful, in that they trigger the release and actions of ?stress-mediating molecules?, including glucocorticoids and the intrinsic central nervous system (CNS) stress-activated neuro-peptide, corticotropin releasing hormone (CRH). Stress induces release of CRH from hippocampal interneurons, and CRH acts on selective receptors (CRF-R1) to enhance glutamate-mediated neurotransmission. In immature hippocampus, CRH and the CRH receptors are particularly abundant, so that the peptide may excite neurons sufficiently to evoke seizures, followed by dendritic atrophy or death of vulnerable neurons. In animal models, chronic enhancement of CRH levels within the developing hippocampus, may result in enduring reduction of hippocampus- governed learning and memory function. Such levels might be found in infants with chronic CNS stressors including congenital infection, dysplasia, trauma or recurrent seizures. Indeed, drugs that downregulate CRH levels in limbic structures (e.g., ACTH) are potent antiepileptics in the developing CNS. In summary, acute and chronic stress elicits the release of pro-excitatory molecules (CRH), promoting seizures. These further activate the ?stress response?, leading to a vicious cycle culminating in loss of neuronal function and integrity.
+ER  - 
+
+TY  - JOUR
+AU  - Stolk, Yvonne
+AU  - Kaplan, Ida
+AU  - Szwarc, Josef
+C7  - e1568
+C8  - IJMPR-Sep-2016-0105.R2
+TI  - Review of the strengths and difficulties questionnaire translated into languages spoken by children and adolescents of refugee background
+JO  - International Journal of Methods in Psychiatric Research
+JA  - Int J Methods Psychiatr Res
+VL  - 26
+IS  - 4
+SN  - 1049-8931
+UR  - https://doi.org/10.1002/mpr.1568
+DO  - doi:10.1002/mpr.1568
+SP  - e1568
+KW  - child and adolescent
+KW  - cultural equivalence
+KW  - refugee
+KW  - Strengths and Difficulties Questionnaire (SDQ)
+KW  - translation
+PY  - 2017
+AB  - Abstract The Strengths and Difficulties Questionnaire (SDQ), routinely used to screen for children's and adolescents' emotional and behavioural problems, has been translated into at least 80 languages. As children of refugee background are particularly vulnerable to mental health problems resulting from their refugee experiences, this review examines whether SDQs translated into languages spoken by major refugee groups are validated and culturally equivalent to the original SDQ and sensitive to change following interventions. No reviewed studies of translated SDQs reported on challenges in achieving conceptual and linguistic equivalence in translation. Factor analysis predominantly showed structural inequivalence with the original 5-factor model, suggesting translated SDQ subscales may measure different constructs. Predictive equivalence findings tended to show somewhat higher sensitivity for detecting disorder than the original SDQ's low sensitivity, and somewhat lower specificity. Outcome studies yielded equivocal results with refugee and immigrant groups. SDQ items do not detect the psychological sequelae of trauma; hence it is recommended that the SDQ be used with caution to screen refugee children, with a follow-up clinical interview for verification. Cross-cultural qualitative research is needed into parents' and adolescents' interpretation of translated SDQ items.
+ER  - 
+
+TY  - JOUR
+AU  - de Lange, Dylan W.
+AU  - Brinkman, Sylvia
+AU  - Flaatten, Hans
+AU  - Boumendil, Ariane
+AU  - Morandi, Alessandro
+AU  - Andersen, Finn H.
+AU  - Artigas, Antonio
+AU  - Bertolini, Guido
+AU  - Cecconi, Maurizio
+AU  - Christensen, Steffen
+AU  - Faraldi, Loredana
+AU  - Fjølner, Jesper
+AU  - Jung, Christian
+AU  - Marsh, Brian
+AU  - Moreno, Rui
+AU  - Oeyen, Sandra
+AU  - Öhman, Christina Agvald
+AU  - Bollen Pinto, Bernardo
+AU  - de Smet, Anne Marie G.A.
+AU  - Soliman, Ivo W.
+AU  - Szczeklik, Wojciech
+AU  - Valentin, Andreas
+AU  - Watson, Ximena
+AU  - Zafeiridis, Tilemachos
+AU  - Guidet, Bertrand
+AU  - On behalf of the VIP1 Study Group
+TI  - Cumulative Prognostic Score Predicting Mortality in Patients Older Than 80 Years Admitted to the ICU
+JO  - Journal of the American Geriatrics Society
+JA  - J Am Geriatr Soc
+VL  - 67
+IS  - 6
+SN  - 0002-8614
+UR  - https://doi.org/10.1111/jgs.15888
+DO  - doi:10.1111/jgs.15888
+SP  - 1263
+EP  - 1267
+KW  - critical care
+KW  - prognosis
+KW  - older adults
+KW  - predict
+KW  - model
+PY  - 2019
+AB  - OBJECTIVES To develop a scoring system model that predicts mortality within 30?days of admission of patients older than 80?years admitted to intensive care units (ICUs). DESIGN Prospective cohort study. SETTING A total of 306 ICUs from 24 European countries. PARTICIPANTS Older adults admitted to European ICUs (N?=?3730; median age?=?84?years [interquartile range?=?81-87 y]; 51.8% male). MEASUREMENTS Overall, 24 variables available during ICU admission were included as potential predictive variables. Multivariable logistic regression was used to identify independent predictors of 30-day mortality. Model sensitivity, specificity, and accuracy were evaluated with receiver operating characteristic curves. RESULTS The 30-day-mortality was 1562 (41.9%). In multivariable analysis, these variables were selected as independent predictors of mortality: age, sex, ICU admission diagnosis, Clinical Frailty Scale, Sequential Organ Failure Score, invasive mechanical ventilation, and renal replacement therapy. The discrimination, accuracy, and calibration of the model were good: the area under the curve for a score of 10 or higher was .80, and the Brier score was .18. At a cut point of 10 or higher (75% of all patients), the model predicts 30-day mortality in 91.1% of all patients who die. CONCLUSION A predictive model of cumulative events predicts 30-day mortality in patients older than 80?years admitted to ICUs. Future studies should include other potential predictor variables including functional status, presence of advance care plans, and assessment of each patient's decision-making capacity.
+ER  - 
+
+TY  - JOUR
+AU  - Vaughn, Michael G.
+AU  - DeLisi, Matt
+AU  - Beaver, Kevin M.
+AU  - Wright, John Paul
+AU  - Howard, Matthew O.
+TI  - Toward a psychopathology of self-control theory: the importance of narcissistic traits
+JO  - Behavioral Sciences & the Law
+JA  - Behav. Sci. Law
+VL  - 25
+IS  - 6
+SN  - 0735-3936
+UR  - https://doi.org/10.1002/bsl.789
+DO  - doi:10.1002/bsl.789
+SP  - 803
+EP  - 821
+PY  - 2007
+AB  - Abstract Research on self-control and related constructs is central to individual-level explanations of antisocial behavior. However, less research attention has been paid to the psychopathological underpinnings of self-control. The current study explores relationships between self-control and psychiatric symptoms, head injury, trauma history, substance use, guiltlessness and narcissistic traits in a statewide population of juvenile offenders. Results support the importance of these variables, in particular narcissistic traits, in better explicating theories of self-control. Implications for research on the psychopathological underpinnings of self-control are highlighted. Copyright ? 2007 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Peng, Shin-Lei
+AU  - Chen, Chih-Feng
+AU  - Liu, Ho-Ling
+AU  - Lui, Chun-Chung
+AU  - Huang, Yu-Jie
+AU  - Lee, Tsung-Han
+AU  - Chang, Chiung-Chih
+AU  - Wang, Fu-Nien
+TI  - Analysis of parametric histogram from dynamic contrast-enhanced MRI: application in evaluating brain tumor response to radiotherapy
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 26
+IS  - 4
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.2882
+DO  - doi:10.1002/nbm.2882
+SP  - 443
+EP  - 450
+KW  - dynamic contrast-enhanced (DCE) MRI
+KW  - radiotherapy
+KW  - brain tumor
+KW  - treatment response
+KW  - tumor heterogeneity
+KW  - wash-in slope
+PY  - 2013
+AB  - Dynamic contrast-enhanced MRI (DCE MRI) has been used to study tumor response to treatment for many years. In this study, the modified full width at half-maximum (mFWHM), calculated from the wash-in slope histogram, is proposed as a parameter for the evaluation of changes in tumor heterogeneity which respond to radiotherapy. Twenty-five patients with brain tumors were evaluated and divided into the nonresponder group (n?=?11) and the responder group (n?=?14) according to the Response Evaluation Criteria in Solid Tumors (RECIST). All selected tumors were evaluated by mFWHM ratios of post- to pre-therapy (the ratio was defined as the therapeutic mFWHM ratio, TMR). The changes in kurtosis of the histograms and the averaged Ktrans within a tumor were also calculated for comparison. The receiver operating characteristic analysis and Kaplan?Meier curves were used to examine the diagnosis ability. The TMR values were significantly higher in nonresponders than in responders (p?<?0.001). When compared with the other two parameters, the proposed method also demonstrated better sensitivity and specificity. When adopting the TMR for the estimation of prognosis after therapy, there was a significant difference between the population survival curves. In conclusion, the derived mFWHM reflects tumor heterogeneity, and the ability to depict patient survival probability from TMR corresponds well with that from RECIST. The results reveal that, in brain tumors, progression may be exhibited not only by tumor size, but also by tumor heterogeneity. Copyright ? 2012 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Nilsson, Hans-Jörgen
+AU  - Psouni, Elia
+AU  - Schouenborg, Jens
+TI  - Long term depression of human nociceptive skin senses induced by thin fibre stimulation
+JO  - European Journal of Pain
+VL  - 7
+IS  - 3
+SN  - 1090-3801
+UR  - https://doi.org/10.1016/S1090-3801(02)00120-9
+DO  - doi:10.1016/S1090-3801(02)00120-9
+SP  - 225
+EP  - 233
+KW  - Pruritus
+KW  - Pain
+KW  - Nociception
+KW  - Analgesia
+KW  - Somatosensory
+KW  - TENS
+PY  - 2003
+AB  - Abstract We have recently shown that stimulation, through a multi-electrode array, of thin nerve fibres close to the dermo-epidermal junction in the skin, produces powerful inhibition of itch and, to a lesser degree, cutaneous pain in humans. Here, we have studied the induction time and frequency dependency (range 1?10 Hz) of the inhibitory effects of such stimulation on itch, mechanical, and thermal pain, in 20 healthy subjects. Sixteen electrodes applied on the skin were consecutively stimulated using a method termed cutaneous field stimulation (CFS). The results show that different treatment periods with CFS were required for the induction of significant inhibitory effects on different nociceptive qualities: 1st heat pain (1 min), itch (3 min), 2nd heat pain (6 min), pinch evoked pain (8 min). Six to ten minutes stimulation sufficed to induce peak inhibitory effects on all these sensory qualities while longer stimulation (up to 40 min) did not cause significantly stronger inhibition. The effects on itch, 1st and 2nd heat pain lasted over 55 min after termination of CFS. There was no effect on prickle. No significant difference in inhibitory effects of different stimulation frequencies (1, 4 and 10 Hz/electrode) was found. The induction time and effective stimulation frequencies may suggest that the underlying mechanisms are similar to those of long term depression (LTD) previously described in the spinal cord in animal experiments.
+ER  - 
+
+TY  - JOUR
+AU  - Tai, Wenlin
+AU  - Zhou, Zeping
+AU  - Zheng, Boyang
+AU  - Li, Jinyu
+AU  - Ding, Jiawei
+AU  - Wu, Hanxin
+AU  - Gao, Ling
+AU  - Dong, Zhaoxing
+TI  - Inhibitory effect of circulating fibrocytes on injury repair in acute lung injury/acute respiratory distress syndrome mice model
+JO  - Journal of Cellular Biochemistry
+JA  - J. Cell. Biochem.
+VL  - 119
+IS  - 10
+SN  - 0730-2312
+UR  - https://doi.org/10.1002/jcb.26664
+DO  - doi:10.1002/jcb.26664
+SP  - 7982
+EP  - 7990
+KW  - ALI
+KW  - ARDS
+KW  - circulating fibrocytes
+KW  - LPS
+KW  - mice model
+PY  - 2018
+AB  - Abstract The study was aimed to explore the functions of circulating fibrocytes (CFs) on injury repair in acute lung injury/acute respiratory distress syndrome (ALI/ARDS) mice model and its clinical value as a biomarker for ALI/ARDS. ALI/ARDS mice model was established by intratracheal instillation of lipopolysaccharide (LPS). Mononuclear cells were isolated from peripheral blood of ALI/ARDS model and flow cytometry was used to measure CFs defined as cells positive for CD45 and collagen-1. Histological changes of lung tissues were evaluated by H&E staining and Masson's trichrome staining. The correlations of CFs counts with damnification of lung tissue and the severity of pulmonary fibrosis were evaluated by Pearson correlation analyses. Western blot was used to detect the protein expression of collagen-1. ELISA was applied to determine cytokine CXCL12 concentration. Clinical relevance between CFs and ALI/ARDS was investigated. The greater number of CFs in the ALI/ARDS group implied higher degree of lung injury and more severe pulmonary fibrosis. The protein expression of collagen-1 and concentration of cytokine CXCL12 in ALI/ARDS group were higher than that in control group. Clinical and prognostic analysis revealed the higher injury degree and death rates in ALI/ARDS group than those in control group, and identified a greater severity and mortality for patients with ARDS than those with ALI. ROC curve analysis indicated the counts of CFs greater than 5.85% can predict death rates with AUC?=?0.928. CFs had an inhibitory effect on injury repair in ALI/ARDS mice model. This might be unfavorable as a clinical marker for progression of ALI/ARDS.
+ER  - 
+
+TY  - JOUR
+AU  - Liu, Wei
+AU  - Cheung, Yin Ting
+AU  - Brinkman, Tara M.
+AU  - Banerjee, Pia
+AU  - Srivastava, Deokumar
+AU  - Nolan, Vikki G.
+AU  - Zhang, Hongmei
+AU  - Gurney, James G.
+AU  - Pui, Ching-Hon
+AU  - Robison, Leslie L.
+AU  - Hudson, Melissa M.
+AU  - Krull, Kevin R.
+C8  - PON-17-0482.R2
+TI  - Behavioral symptoms and psychiatric disorders in child and adolescent long-term survivors of childhood acute lymphoblastic leukemia treated with chemotherapy only
+JO  - Psycho-Oncology
+JA  - Psycho‐Oncology
+VL  - 27
+IS  - 6
+SN  - 1057-9249
+UR  - https://doi.org/10.1002/pon.4699
+DO  - doi:10.1002/pon.4699
+SP  - 1597
+EP  - 1607
+KW  - behavior symptoms
+KW  - cancer
+KW  - chemotherapy-only protocol
+KW  - childhood ALL
+KW  - long-term survivor
+KW  - oncology
+KW  - psychiatric disorder
+PY  - 2018
+AB  - Abstract Background Prevalence of emotional, behavioral, and psychiatric outcomes in child and adolescent survivors of childhood acute lymphoblastic leukemia treated on a chemotherapy-only protocol were not well defined. Methods Self- and parent-reported emotional and behavioral symptoms were assessed for 161 survivors of childhood acute lymphoblastic leukemia (51.0% female; mean [SD] age 12.1[2.6] years; 7.5[1.6] years post-diagnosis). Age- and sex-adjusted scores were calculated for standardized measures and compared with 90th percentile of norms. Frequencies of survivor psychiatric disorders from structured diagnostic interviews with parents were compared with the general population. Parent emotional distress and post-traumatic stress symptoms were assessed. Associations between child symptoms/disorders and parent distress were examined with log-binomial models, adjusting for highest parent education. Results Compared with population expectations (10%), more survivors self-reported symptoms of inattention (27.9; 95% CI, 21.0%-35.7%), hyperactivity/impulsivity (26.0%; CI, 19.2%-33.6%), and oppositional-defiant behavior (20.1%; CI, 14.1%-27.3%). Parents reported survivors with more symptoms of inattention (23.6%; CI, 17.2%-31.0%), higher frequencies of obsessive-compulsive disorder (10.3% vs 2%) and oppositional defiant disorder (16.0% vs 9.5%), but not attention-deficit/hyperactivity disorder (7.1% vs 7.8%) or generalized anxiety disorder (3.2% vs 4.1%), compared with national norms. Parent-report of child anxiety disorders was associated with parent self-reported emotional distress but not survivor self-report of anxiety. Conclusion A significant minority of survivors have long-term psychiatric morbidity, multi-informant assessment is important to understand these symptom profiles and to inform selection of appropriate interventions. Interventions targeting inattention and oppositional behavior in children and emotional distress in parents are warranted in families with survivors who display behavioral problems.
+ER  - 
+
+TY  - JOUR
+AU  - Noveanu, Markus
+AU  - Pargger, Hans
+AU  - Breidthardt, Tobias
+AU  - Reichlin, Tobias
+AU  - Schindler, Christian
+AU  - Heise, Antje
+AU  - Schoenenberger, Ronald
+AU  - Manndorff, Patricia
+AU  - Siegemund, Martin
+AU  - Mebazaa, Alexandre
+AU  - Marsch, Stephan
+AU  - Mueller, Christian
+TI  - Use of B-type natriuretic peptide in the management of hypoxaemic respiratory failure
+JO  - European Journal of Heart Failure
+JA  - European Journal of Heart Failure
+VL  - 13
+IS  - 2
+SN  - 1388-9842
+UR  - https://doi.org/10.1093/eurjhf/hfq188
+DO  - doi:10.1093/eurjhf/hfq188
+SP  - 154
+EP  - 162
+KW  - Respiratory failure
+KW  - ICU
+KW  - Natriuretic peptides
+KW  - Heart failure
+KW  - Cost
+PY  - 2011
+AB  - Aims Evaluation and management of patients with hypoxaemic respiratory failure in the intensive care unit (ICU) are difficult. The use of B-type natriuretic peptide (BNP), a quantitative marker of cardiac stress and heart failure (HF), may be helpful. The purpose of this study is to describe the prevalence of causative disorders of hypoxaemic respiratory failure in the ICU and to determine the impact of a BNP-guided diagnostic strategy. Methods and results This prospective, multi-centre, randomized, single-blind, controlled trial included 314 ICU patients with hypoxaemic respiratory failure: 159 patients were randomly assigned to a diagnostic strategy involving the measurement of BNP and 155 were assessed in a standard manner. The time to discharge and the total cost of treatment were the primary endpoints. Hypoxaemic respiratory failure was multi-causal in 27% of the patients. Heart failure was the most common diagnosis in both groups. The use of BNP levels, in conjunction with other clinical information, significantly increased the detection of HF in combination with an additional diagnosis (32 vs. 16%, P = 0.001) and also increased the application of HF-specific medical therapy (nitrates: 32 vs. 23%, P < 0.05 and diuretics: 65 vs. 50%, P < 0.01). Time to discharge (median, 13 vs.14 days, P = 0.50) and total cost of treatment (median, US-$6190 vs. 7155, P = 0.24) were comparable in both groups. Conclusion Hypoxaemic respiratory failure in the ICU is often a multi-causal disorder. The use of BNP increased the detection of HF, but did not significantly improve patient management as quantified by time to discharge or treatment cost. ClinicalTrials.gov Identifier: NCT00130559.
+ER  - 
+
+TY  - JOUR
+AU  - Healy, Colm
+AU  - Gordon, Aoife A.
+AU  - Coughlan, Helen
+AU  - Clarke, Mary
+AU  - Kelleher, Ian
+AU  - Cannon, Mary
+TI  - Do childhood psychotic experiences improve the prediction of adolescent psychopathology? A longitudinal population-based study
+JO  - Early Intervention in Psychiatry
+JA  - Early Intervention in Psychiatry
+VL  - 13
+IS  - 5
+SN  - 1751-7885
+UR  - https://doi.org/10.1111/eip.12762
+DO  - doi:10.1111/eip.12762
+SP  - 1245
+EP  - 1251
+KW  - adolescence
+KW  - externalizing problemspsychotic experiencespsychopathology
+PY  - 2019
+AB  - Aims (a) To investigate the utility of childhood PE as a predictor of adolescent psychopathology while accounting for three known risk factors: childhood mental disorder; traumatic experiences and poor childhood functioning, and (b) to investigate the additive effects of including childhood PE in predictive clinical model of adolescent psychopathology. Method The study sample comprised of 86 Irish youths who completed two waves of the ?Adolescent Brain Development? study (baseline age: 11.7 and follow-up age: 15.7). At baseline, participants completed a clinical interview assessing for PE, mental disorders, traumatic experiences and global functioning in childhood. The internalizing and externalizing problems sub-scales from the Youth Self Report questionnaire were used as follow-up outcomes variables in adolescence. Results Logistic regression analyses revealed that childhood PE was the only predictor significantly associated with both internalizing (univariate OR: 7.58, CI: 2.59-22.15; multivariate OR: 5.43, CI: 1.53-19.29) and externalizing (univariate OR: 11.76, CI: 3.70-37.41; multivariate OR: 30.39, CI: 5.28-174.80) problems in adolescence. All predictive models with PE significantly predicted adolescent outcomes (area under the curve range: 0.70-0.81; all P?<?0.05) and adding PE to the models improved the predictive value for externalizing problems (P?=?0.02). Conclusion Childhood PE is a powerful predictor of adolescent psychopathology, particularly for externalizing problems. Routine assessment of PE and targeted support for children who report PE may reduce the incidence of mental disorder in adolescence.
+ER  - 
+
+TY  - JOUR
+TI  - Oral Presentations
+JO  - Emergency Medicine Australasia
+JA  - Emergency Medicine Australasia
+VL  - 30
+IS  - S1
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/1742-6723.12961
+DO  - doi:10.1111/1742-6723.12961
+SP  - 3
+EP  - 40
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Paschalis-Trela, K.
+AU  - Cywińska, A.
+AU  - Witkowski, L.
+AU  - Czopowicz, M.
+AU  - Trela, J.
+AU  - Kita, J.
+TI  - The Prevalence of Ocular Diseases in Arabian Horses in Poland
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_25
+DO  - doi:10.1111/evj.12323_25
+SP  - 12
+EP  - 12
+PY  - 2014
+AB  - Reasons for performing study Ocular diseases in horses often require long-lasting and costly therapies. Without proper treatment they may lead to partial or full blindness, excluding horses from intended use, and thus pose a serious veterinary and economic problem. Objectives No epidemiological data on equine ocular pathologies in Poland was available. The aim of this study was to evaluate their type and prevalence in pure-bred Arabian horses. Study design The study involved 615 horses (15% of Arabian population) bred and owned by 3 Arabian state stud farms in Poland. All horses underwent standard clinical and ophthalmic examination and medical history from the previous 5 years was analysed. Methods The medical history was based on the data from farms? veterinary archives in the stables and epidemiological interview given by the resident veterinarian. Every horse underwent general clinical and ophthalmic examination. Results The prevalence of ocular diseases was 9.8% (95% CI: 7.7?12.4%). The following pathologies were diagnosed: equine recurrent uveitis (ERU) ? prevalence of 5.5% (95% CI: 4.0?7.6%), non-ERU related cataract ? 3.3% (95% CI: 1.9?4.7%), post traumatic lesions ? 0.8% (95% CI: 0.4?1.9%), glaucoma ? one case. Seven horses had one nonvisual eye, one was bilaterally blind. Conclusions Equine recurrent uveitis was the most common ocular disease in this Polish population of Arabian horses. Its prevalence is lower than usually reported in Europe (8?10%) and in the United States (8?25%). However, severe ocular pathologies were observed confirming that they remain an important clinical problem. Ethical animal research:?The study was approved by the Local Ethics Committee. Explicit owner informed consent for participation in this study was not stated. Sources of funding:?The research was supported by a grant from National Science Centre on the basis of the decision No DEC-2011/03/B/NZ6/04682. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Holland, Diane E.
+AU  - Conlon, Patricia M.
+AU  - Rohlik, Gina M.
+AU  - Gillard, Kris L.
+AU  - Tomlinson, Angie L.
+AU  - Raadt, Dawn M.
+AU  - Finseth, Onalee R.
+AU  - Rhudy, Lori M.
+TI  - Developing and testing a discharge planning decision support tool for hospitalized pediatric patients
+JO  - Journal for Specialists in Pediatric Nursing
+JA  - J Spec Pediatr Nurs
+VL  - 19
+IS  - 2
+SN  - 1539-0136
+UR  - https://doi.org/10.1111/jspn.12064
+DO  - doi:10.1111/jspn.12064
+SP  - 149
+EP  - 161
+KW  - Decision support
+KW  - discharge planning
+KW  - pediatrics
+PY  - 2014
+AB  - Abstract Purpose To develop and test a decision support tool that identifies patients who would benefit from early consult with discharge planners. Design and Methods A predictive, correlational design was used with parents/guardians of children (1 month to 18 years; N = 197). Data were collected by interviews and record reviews. Expert consensus determined referral to discharge planning. Results Mean age was 8.7 years; mean length of stay was 7.5 days. Forty percent (n = 79) were identified for early referral. The variable ?substantial post-acute care needs? had the strongest association with expert consensus (internally validated AUC = 0.79). Practice Implications Findings from this study provide preliminary evidence for a decision support tool to improve the discharge planning process by reducing individual decision-making variability through systematic matching of patient needs to service delivery.
+ER  - 
+
+TY  - JOUR
+TI  - SAEM Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+JA  - Acad Emerg Med
+VL  - 26
+IS  - S1
+SN  - 1069-6563
+UR  - https://doi.org/10.1111/acem.13756
+DO  - doi:10.1111/acem.13756
+SP  - S9
+EP  - S304
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts of the Annual Scientific Meetings of the ACEM and ASEM 1997
+JO  - Emergency Medicine
+VL  - 9
+IS  - 4
+SN  - 1035-6851
+UR  - https://doi.org/10.1111/j.1442-2026.1997.tb00471.x
+DO  - doi:10.1111/j.1442-2026.1997.tb00471.x
+SP  - 351
+EP  - 368
+PY  - 1997
+ER  - 
+
+TY  - JOUR
+TI  - SAEM Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+JA  - Acad Emerg Med
+VL  - 24
+IS  - S1
+SN  - 1069-6563
+UR  - https://doi.org/10.1111/acem.13203
+DO  - doi:10.1111/acem.13203
+SP  - S7
+EP  - S281
+PY  - 2017
+ER  - 

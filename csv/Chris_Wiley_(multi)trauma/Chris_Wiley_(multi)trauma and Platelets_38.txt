@@ -1,0 +1,395 @@
+
+TY  - JOUR
+AU  - Hajjarian, Zeinab
+AU  - Tripathi, Markandey M.
+AU  - Nadkarni, Seemantini K.
+TI  - Optical Thromboelastography to evaluate whole blood coagulation
+JO  - Journal of Biophotonics
+JA  - J. Biophoton
+VL  - 8
+IS  - 5
+SN  - 1864-063X
+UR  - https://doi.org/10.1002/jbio.201300197
+DO  - doi:10.1002/jbio.201300197
+SP  - 372
+EP  - 381
+KW  - Blood
+KW  - coagulation
+KW  - laser speckle
+KW  - optical thromboelastography
+KW  - rheology
+KW  - thromboelastography
+KW  - viscoelasticity
+PY  - 2015
+AB  - Measurement of blood viscoelasticity during clotting provides a direct metric of haemostatic conditions. Therefore, technologies that quantify blood viscoelasticity at the point-of-care are invaluable for diagnosing coagulopathies. We present a new approach, Optical Thromboelastography (OTEG) that measures the viscoelastic properties of coagulating blood by evaluating temporal laser speckle fluctuations, reflected from a few blood drops. During coagulation, platelet-fibrin clot formation restricts the mean square displacements (MSD) of scatterers and decelerates speckle fluctuations. Cross-correlation analysis of speckle frames provides the speckle intensity temporal autocorrelation, g2(t), from which MSD is deduced and the viscoelastic modulus of blood is estimated. Our results demonstrate a close correspondence between blood viscoelasticity evaluated by OTEG and mechanical rheometry. Spatio-temporal speckle analyses yield 2-dimensional maps of clot viscoelasticity, enabling the identification of micro-clot formation at distinct rates in normal and coagulopathic specimens. These findings confirm the unique capability of OTEG for the rapid evaluation of patients' coagulation status and highlight the potential for point-of-care use. (? 2014 WILEY-VCH Verlag GmbH &Co. KGaA, Weinheim)
+ER  - 
+
+TY  - JOUR
+AU  - Im, Gun-Il
+TI  - Stem Cells for Reutilization in Bone Regeneration
+JO  - Journal of Cellular Biochemistry
+JA  - J. Cell. Biochem.
+VL  - 116
+IS  - 4
+SN  - 0730-2312
+UR  - https://doi.org/10.1002/jcb.25027
+DO  - doi:10.1002/jcb.25027
+SP  - 487
+EP  - 493
+KW  - BONE REGENERATION
+KW  - STEM CELLS
+KW  - BONE DEFECTS
+KW  - OSTEONECROSIS OF FEMORAL HEAD
+KW  - REUTILIZATION
+PY  - 2015
+AB  - ABSTRACT Bone is one of the most transplanted tissues. While most bone defects heal spontaneously, critical size defects caused by major trauma/malignant tumor and osteonecrosis of femoral head in young adults pose a great challenge in treatment. While the golden standard in treating bone defects is autologous bone grafting, available bone for grafting is quite limited in an individual. To solve the dilemma, stem cell therapy has been tried as a new modality of treatment in lesions not amenable to autologous bone grafting. While successful results were reported from individual studies, the stem cell therapy is still not an established treatment modality for bone regeneration and needs further assessment. Our focus herein is to introduce stem cell sources that have been investigated so far and review the current status of stem cell reutilization for bone regeneration as well as suggesting future perspectives. J. Cell. Biochem. 116: 487?493, 2015. ? 2014 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - FUZAYLOV, GENNADIY
+AU  - FIDKOWSKI, CHRISTINA W.
+TI  - Anesthetic considerations for major burn injury in pediatric patients
+JO  - Pediatric Anesthesia
+VL  - 19
+IS  - 3
+SN  - 1155-5645
+UR  - https://doi.org/10.1111/j.1460-9592.2009.02924.x
+DO  - doi:10.1111/j.1460-9592.2009.02924.x
+SP  - 202
+EP  - 211
+KW  - burn injury
+KW  - anesthesia
+KW  - pediatric
+PY  - 2009
+AB  - Summary Major burn injury remains a significant cause of morbidity and mortality in pediatric patients. With advances in burn care and with the development of experienced multi-disciplinary teams at regionalized burn centers, many children are surviving severe burn injury. As members of the multi-disciplinary care team, anesthesia providers are called upon to care for these critically ill children. These children provide several anesthetic challenges, such as difficult airways, difficult vascular access, fluid and electrolyte imbalances, altered temperature regulation, sepsis, cardiovascular instability, and increased requirements of muscle relaxants and opioids. The anesthesia provider must understand the physiologic derangements that occur with severe burn injury as well as the subsequent anesthetic implications.
+ER  - 
+
+TY  - JOUR
+AU  - Mathews, Karol
+AU  - Kronen, Peter W
+AU  - Lascelles, Duncan
+AU  - Nolan, Andrea
+AU  - Robertson, Sheilah
+AU  - Steagall, Paulo VM
+AU  - Wright, Bonnie
+AU  - Yamashita, Kazuto
+TI  - Guidelines for Recognition, Assessment and Treatment of Pain
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 55
+IS  - 6
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/jsap.12200
+DO  - doi:10.1111/jsap.12200
+SP  - E10
+EP  - E68
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+AU  - Spence, S.
+AU  - French, A.
+AU  - Penderis, J.
+AU  - Macfarlane, L.
+AU  - Gutierrez-Quintana, R.
+AU  - Dickson, L.
+AU  - Holmes, K.
+AU  - McLauchlan, G.
+TI  - The occurrence of cardiac abnormalities in canine steroid-responsive meningitis arteritis
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 60
+IS  - 4
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/jsap.12984
+DO  - doi:10.1111/jsap.12984
+SP  - 204
+EP  - 211
+PY  - 2019
+AB  - Objectives To document the prevalence of cardiac abnormalities in dogs with steroid-responsive meningitis arteritis and to assess resolution of these abnormalities following corticosteroid therapy. Materials and Methods Steroid-responsive meningitis arteritis was diagnosed based on signalment, physical examination findings, complete blood count, biochemistry and CSF analysis. Echocardiography, C-reactive protein and cardiac troponin I were measured in all cases before and 10 to 14 days after commencing corticosteroid therapy. Fibrinogen was also measured in a proportion of dogs. Results Fourteen dogs were prospectively enrolled. Increased cardiac troponin I was identified in five of 14 dogs and echocardiographic abnormalities were detected in 12 of 14 dogs, including spontaneous echo contrast (12 of 14), mild pericardial effusion (five of 14) and mildly decreased fractional shortening (five of 14). All dogs had increased C-reactive protein and fibrinogen was increased in 11 of 12. Corticosteroid treatment was associated with clinical improvement and normalisation of C-reactive protein in all dogs. The cardiac troponin I levels normalised in four of five and fibrinogen had normalised in all five dogs which were retested. Spontaneous echo contrast improved or completely resolved in 12 of 12 and pericardial effusion resolved in five of five dogs. Fractional shortening normalised in two of five dogs. Clinical Significance Cardiac changes are common in dogs with steroid-responsive meningitis arteritis and most resolve with therapy. Further investigation into the cause and significance of these changes is necessary in determining whether antithrombotic therapy or positive inotropic therapy is indicated.
+ER  - 
+
+TY  - JOUR
+AU  - Terregino, Carol A.
+AU  - Quinn, James V.
+AU  - Slotman, Gus J.
+TI  - Pilot Study of Cytokines in Emergency Department Patients with Systemic Inflammatory Response Syndrome
+JO  - Academic Emergency Medicine
+VL  - 4
+IS  - 7
+SN  - 1069-6563
+UR  - https://doi.org/10.1111/j.1553-2712.1997.tb03760.x
+DO  - doi:10.1111/j.1553-2712.1997.tb03760.x
+SP  - 684
+EP  - 688
+KW  - sepsis
+KW  - SIRS
+KW  - cytokines
+KW  - interleukin-6
+KW  - tumor necrosis factor
+KW  - interleukin-1
+KW  - eicosanoids
+KW  - emergency medicine
+PY  - 1997
+AB  - ABSTRACT Objective: To determine the potential utility of cytokine and arachidonic acid metabolite levels in ED patients with systemic inflammatory response syndrome (SIRS) as a predictor of progression to severe sepsis. Methods: A prospective, observational study of test performance was performed using convenience samples of adult control subjects and admitted patients. The latter patients were identified in the ED as having signs of SIRS. Levels of cytokines and arachidonic acid metabolites measured from specimens obtained in the ED were compared between groups and associated with the progression of sepsis within 24 hours in the SIRS patients. Results: There were 30 control patients and 29 SIRS patients. There were 8 SIRS subjects who progressed to severe sepsis within 24 hours using the following criteria (hypotension, n = 5; hypoperfusion, n = 1; and organ dysfunction, n = 2). Of the 21 SIRS subjects who did not progress to severe sepsis, 11 had resolution of SIRS criteria at 24 hours. There were no significant differences in mean mediator levels between the SIRS patients who progressed to severe sepsis and those who did not. Of the 11 patients with resolution of SIRS criteria at 24 hours, the mean interleukin-6 (IL-6) level was significantly lower than that for the patients who did not recover or who progressed at 24 hours (n = 18); 65.4 ± 49.1 vs 230 ±112 pg/mL, p = 0.001). Six of 15 subjects with IL-6 >150 pg/mL progressed to severe sepsis (p = NS). Using threshold values based on the range of levels for normals, the sensitivity of an abnormal marker for the development of severe sepsis within 24 hours varied from 50% to 87%, while the specificity varied from 11% to 84%. Conclusion: While mean levels were significantly elevated when compared with those of normal control subjects, they had limited ability to predict the subset of patients likely to progress to severe sepsis. However, initial low levels of cytokines may have exclusionary prognostic value. Prospective validation of the latter finding is warranted.
+ER  - 
+
+AU  - Jacobsen, Stine
+C7  - pp. 104-131
+TI  - Update on Wound Dressings
+SN  - 9781118999257
+UR  - https://doi.org/10.1002/9781118999219.ch6
+DO  - doi:10.1002/9781118999219.ch6
+SP  - 104-131
+KW  - dressing selection
+KW  - moist healing
+KW  - antimicrobial dressing
+KW  - biological dressing
+KW  - accidental wound
+KW  - healing by primary intention
+KW  - healing by second intention
+PY  - 1997
+AB  - Summary Myriads of wound-care products are on the market, and making the right choice for a specific wound can be complex, especially because the scientific literature on wound-care products in horses is sparse. To select the best possible dressing, the veterinarian must decide which material is needed to enhance healing. The clinician must then determine if antimicrobial therapy is required. Several antibacterial compounds are available for topical use and are often more effective than systemically administered antibiotics in the management of severe contamination, critical colonization, or infection. To serve the requirements of specific wounds, several combinations of antimicrobial drugs and dressings are available. The wound milieu changes as healing progresses and so do the requirements for dressings. Continued assessment, based on a thorough clinical examination and sound knowledge of the healing process, is indicated, therefore, to maintain an optimal environment for healing.
+ER  - 
+
+TY  - JOUR
+AU  - Hassanein, A.
+AU  - Depick-Smith, N.
+AU  - Magill, M.
+AU  - Bandarchi, B.
+TI  - Focal Regression-Like Changes in Dysplastic Back Nevi :A Diagnostic Pitfall for Malignant Melanoma
+JO  - Journal of Cutaneous Pathology
+VL  - 32
+IS  - 1
+SN  - 9781118999257
+UR  - https://doi.org/10.1111/j.0303-6987.2005.320cn.x
+DO  - doi:10.1111/j.0303-6987.2005.320cn.x
+SP  - 91
+EP  - 91
+PY  - 2005
+AB  - Regression in melanoma can be complete or partial. Melanocytic nevi may show focal regression-like changes (RLC). We studied the incidence of RLC in a total of 777 melanocytic back nevi. These included 17 cases of blue nevi, 28 cases of compound nevi, 385 cases of compound dysplastic nevi, 34 cases of congenital compound nevi, 26 cases of congenital intradermal nevi, 58 cases of intradermal nevi, and 229 cases of junctional dysplastic nevi. The dysplastic nevi were categorised according to the associated cytologic atypia (mild, moderate, and severe). 21 malignant melanomas of the back were also reviewed for regression. RLC were seen with a striking correlation with the degree of cytologic atypia in dysplastic nevi. RLC were seen in 4.5% of mildly, 9.6% of moderately, and 17.2% of severely dysplastic compound nevi. RLC were seen in 10.3% of mildly, 18.8% of moderately, and 39.3% of severely dysplastic junctional nevi. The incidence of regression in non-dysplastic nevi was much less, ranging from 2.9% to 3.6%. We believe this phenomenon is probably related to trauma/irritation. Caution should be taken before rendering the diagnosis of regressed malignant melanoma on the back since dysplastic nevi may show focal similar changes.
+ER  - 
+
+TY  - JOUR
+AU  - Edelstyn, N. M. J.
+AU  - Oyebode, F.
+TI  - A review of the phenomenology and cognitive neuropsychological origins of the Capgras syndrome
+JO  - International Journal of Geriatric Psychiatry
+JA  - Int. J. Geriat. Psychiatry
+VL  - 14
+IS  - 1
+SN  - 9781118999257
+UR  - https://doi.org/10.1002/(SICI)1099-1166(199901)14:1<48::AID-GPS891>3.0.CO;2-0
+DO  - doi:10.1002/(SICI)1099-1166(199901)14:1<48::AID-GPS891>3.0.CO;2-0
+SP  - 48
+EP  - 59
+KW  - Capgras syndrome
+KW  - phenomenology
+KW  - epidemiology
+KW  - aetiology
+KW  - psychodynamic
+KW  - cerebral dysfunction
+KW  - neuropsychology
+PY  - 1999
+AB  - Abstract In this article the epidemiology, aetiology, neuroanatomy and neuropsychology of the Capgras syndrome (CS) are reviewed in detail. CS is characterized by the delusional belief that one or a few highly familiar people have been replaced by impostors who are physically very similar to the original/s. The patient acknowledges that the double and known person look alike, but maintains the belief that the significant person, in psychological terms, is absent. CS is relatively rare, occurring predominantly in the context of schizophrenia, and was traditionally considered to have its origins in psychodynamic conflict. More recently, however, it has been estimated that between 25 and 40% of cases are associated with organic disorders, which include dementia, head trauma, epilepsy and cerebrovascular disease. Neuroimaging evidence suggests a link between CS and right hemisphere abnormalities, particularly in the frontal and temporal regions. Neuropsychological research has provided empirical support for these findings, by consistently reporting the presence of impairments in facial processing?an established right hemisphere function. It is likely that the study of this symptom will lead to a greater understanding of the neurological basis of psychotic experiences and may provide a paradigm for how the psychoses should be investigated. Copyright ? 1999 John Wiley & Sons, Ltd.
+ER  - 
+
+C7  - pp. 101-108
+TI  - Pain Management Considerations for Laser Surgery Procedures
+SN  - 9780813806785
+UR  - https://doi.org/10.1002/9780470344491.ch8
+DO  - doi:10.1002/9780470344491.ch8
+SP  - 101-108
+KW  - pain
+KW  - surgery procedures
+KW  - management
+KW  - advantages
+KW  - nerve segments
+PY  - 1999
+AB  - Summary This chapter contains section titled: Brief Overview of Pain Physiology Identifying Pain Recognition in the Patient Pain Management Strategies for the Laser Surgery Patient Brief Overview of Drug Classes Preemptive and Multimodal Combinations Used in Laser Surgical Application
+ER  - 
+
+TY  - JOUR
+TI  - Abstract Presentations from the AABB Annual Meeting San Antonio, TX, October 19–22, 2019
+JO  - Transfusion
+JA  - Transfusion
+VL  - 59
+IS  - S3
+SN  - 9780813806785
+UR  - https://doi.org/10.1111/trf.15462
+DO  - doi:10.1111/trf.15462
+SP  - 8A
+EP  - 220A
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+AU  - Sharma, Sanjeev
+AU  - Schaper, Nicolaas
+AU  - Rayman, Gerry
+C7  - e3244
+C8  - DMRR-19-SUP-518
+TI  - Microangiopathy: Is it relevant to wound healing in diabetic foot disease?
+JO  - Diabetes/Metabolism Research and Reviews
+JA  - Diabetes Metab Res Rev
+VL  - n/a
+IS  - n/a
+SN  - 9780813806785
+UR  - https://doi.org/10.1002/dmrr.3244
+DO  - doi:10.1002/dmrr.3244
+SP  - e3244
+KW  - diabetes foot disease
+KW  - endothelial dysfunction
+KW  - microangiopathy
+KW  - microcirculation
+KW  - wound healing
+AB  - Abstract Chronic diabetic complications ? both microvascular and macrovascular ? have become serious health issues with their increasing prevalence paralleling the dramatic rise of the diabetic population worldwide. Of these complications, foot disease is a major cause of morbidity and mortality, consuming more health care resource than all other complications combined. Diabetic polyneuropathy and peripheral vascular disease constitute the two main risk factors, with trauma and foot infection being the most important initiating factors and contributors to delayed healing. Intracellular oxidative stress mediated by hyperglycaemia along with hypertension, dyslipidaemia and smoking constitute the main pathological processes in the aetiology of both macrovascular and microvascular disease. Whilst the former remains the major cause of overall mortality in diabetes, the role of microangiopathy in the pathogenesis of diabetes foot disease and its contribution to delayed wound healing in diabetes has yet to be fully understood and indeed continues to be debated. This article will review the key findings to date on structural and functional microvascular abnormalities in the diabetic foot skin and consider their contribution to impaired would healing.
+ER  - 
+
+TY  - JOUR
+AU  - Lange, E.
+AU  - Beaudu-Lange, C.
+TI  - Septal myocardial abscess in a male great Anglo-French hound
+JO  - Journal of Small Animal Practice
+VL  - 50
+IS  - 6
+SN  - 9780813806785
+UR  - https://doi.org/10.1111/j.1748-5827.2009.00722.x
+DO  - doi:10.1111/j.1748-5827.2009.00722.x
+SP  - 311
+EP  - 316
+PY  - 2009
+AB  - We report the diagnosis and follow-up of a septal myocardial abscess in a seven-year-old Anglo-French hound suffering from both renal failure and urinary infection. Serial echocardiography showed the abscess enlarging and progressing into a fistula between the left ventricular outflow tract and the right ventricle. The dog died despite early wide-spectrum intravenous antibiotic therapy. Post-mortem examination confirmed the diagnosis. Bacterial and fungal myocardial abscesses have been described in immunodeficient human beings. To our knowledge, fistulae have rarely been described in dog hearts and only as a consequence of previous valvular endocarditis. In our case, the sigmoid cusps were not involved, so this is the first description of a septal myocardial abscess in a dog.
+ER  - 
+
+TY  - JOUR
+AU  - Clarke, L.
+AU  - Clarke, J.
+AU  - Helm, K.
+AU  - Penn State College of Medicine/MS Hershey Medical Center, Hershey, PA 17033
+TI  - Localized Chronic Fibrosing Vasculitis or Localized Erythema Elevatum Diutinum?
+JO  - Journal of Cutaneous Pathology
+VL  - 32
+IS  - 1
+SN  - 9780813806785
+UR  - https://doi.org/10.1111/j.0303-6987.2005.320aw.x
+DO  - doi:10.1111/j.0303-6987.2005.320aw.x
+SP  - 82
+EP  - 82
+PY  - 2005
+AB  - Localized chronic fibrosing vasculitis is a rare dermatosis that histologically resembles late-stage erythema elevatum diutinum (EED) but has a different clinical presentation. A 62-year-old male presented with bilateral nodules on his heels that first appeared two years ago and over the past six months had become extremely painful. He denied any recent trauma to the sites, and his medical history was significant only for diabetes mellitus, coronary artery disease, and osteoarthritis. Physical exam demonstrated focally ulcerated violet-red three-centimeter nodules on the medial aspects of both heels. Biopsy revealed dense concentric and lamellar fibrosis with foci of leukocytoclastic debris and a sparse infiltrate of histiocytes, neutrophils, eosinophils, and lymphocytes. No granulomas were present, and histochemical stains and tissue cultures for microorganisms were negative. Imaging studies showed no evidence of underlying osteomyelitis, cellulitis, or abscess formation. Laboratory studies demonstrated a markedly elevated IgA level that was shown to be polyclonal on serum immunofixation studies. All peripheral blood cell counts were normal. Thorough evaluations for systemic vasculitides and connective tissue disorders were negative. A diagnosis of localized chronic fibrosing vasculitis was made. This case illustrates the clinicopathologic overlap between this disorder and EED.
+ER  - 
+
+TY  - JOUR
+AU  - Candiotti, Keith A.
+AU  - Bergese, Sergio D.
+AU  - Viscusi, Eugene R.
+AU  - Singla, Sonia K.
+AU  - Royal, Mike A.
+AU  - Singla, Neil Kumar
+TI  - Safety of Multiple-Dose Intravenous Acetaminophen in Adult Inpatients
+JO  - Pain Medicine
+VL  - 11
+IS  - 12
+SN  - 9780813806785
+UR  - https://doi.org/10.1111/j.1526-4637.2010.00991.x
+DO  - doi:10.1111/j.1526-4637.2010.00991.x
+SP  - 1841
+EP  - 1848
+KW  - Pain Medicine
+KW  - Acute Pain
+KW  - Anesthesiology
+KW  - Chronic Pain
+PY  - 2010
+AB  - Abstract Background.? Intravenous (IV) acetaminophen provides rapid and effective analgesia in the postoperative and inpatient settings. The utility and efficacy of acetaminophen is well established; however, due to chronic excessive dosing of over-the-counter acetaminophen products and prescription opioid combination products resulting in the potential for hepatic toxicity, concerns remain about acetaminophen safety. In order to evaluate the safety of IV acetaminophen 1,000?mg q6h or 650?mg q4h with repeated dosing for 5 days, a randomized, open-label study assessed the safety and tolerability of repeated doses used to treat acute pain or fever in 213 adult inpatients was conducted. Methods.? Subjects were randomized (3:3:1) to receive IV acetaminophen (1,000?mg q6h or 650?mg q4h) or standard-of-care treatment for pain or fever. Safety was assessed according to spontaneous reports of adverse events (AEs) and clinically meaningful changes from baseline laboratory parameters. Results.? Overall, IV acetaminophen was shown to be safe and well tolerated in adult inpatients when given as repeated doses for up to 5 days. Owing to the comorbidities in the study population, the frequency of AEs reported was high. However, the majority of treatment-emergent adverse events (TEAEs) were unrelated to treatment, and only 8% of the study population withdrew because of TEAEs. No major hepatic issues associated with IV acetaminophen warranted concern, and most hepatic events were likely related to underlying medical conditions or recent trauma/surgery. Conclusions.? Consistent with the tolerability and safety results, both treatment groups (1,000?mg q6h and 650?mg q4h) demonstrated statistically significantly better ratings for the Subject Global Evaluations for the level of satisfaction with side effects related to study treatments as compared with the control group. The findings from this trial support the use of IV acetaminophen as a safe therapy in adult patients.
+ER  - 
+
+TY  - JOUR
+TI  - Oral Presentations
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 58
+IS  - S1
+SN  - 9780813806785
+UR  - https://doi.org/10.1111/jsap.12699
+DO  - doi:10.1111/jsap.12699
+SP  - 5
+EP  - 44
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+AU  - Mahady, Gail B.
+TI  - Ginkgo Biloba: A Review of Quality, Safety, and Efficacy
+JO  - Nutrition in Clinical Care
+JA  - Nutrition in Clinical Care
+VL  - 4
+IS  - 3
+SN  - 9780813806785
+UR  - https://doi.org/10.1046/j.1523-5408.2001.00135.x
+DO  - doi:10.1046/j.1523-5408.2001.00135.x
+SP  - 140
+EP  - 147
+KW  - Ginkgo biloba
+KW  - age-associated memory impairment
+KW  - dementia
+KW  - intermittent claudication
+PY  - 2001
+AB  - Abstract Results from randomized, controlled clinical trials support the use of standardized leaf extracts of Ginkgo biloba for the symptomatic treatment of age-associated memory impairment, dementia (including Alzheimer's disease), and intermittent claudication. Product selection is extremely important, as much of the published safety and efficacy data are based on 2 standardized extracts, both available in the US. The recommended dose of a Ginkgo biloba leaf extract (standardized to contain 24?26% flavonoid glycosides, 5?7% terpene lactones, and less than 5 parts per million ginkgolic acids) is 40 mg to 60 mg, 3 to 4 times a day. Daily administration of the extract for at least 4 to 6 weeks is required before the full therapeutic effects may be observed. While there are no known contraindications, due to potential platelet-activating factor antagonism and inhibition of platelet aggregation, Ginkgo extracts should be used cautiously in patients receiving anticoagulant or antiplatelet therapy or having bleeding disorders. A number of bleeding episodes due to co-administration of aspirin or warfarin have been reported. Other adverse reactions, such as nausea, vomiting, headaches, and dizziness have also been observed in clinical trials. Administration of Ginkgo biloba preparations to children or during pregnancy or nursing is not currently recommended.
+ER  - 
+
+TY  - JOUR
+AU  - Keller-Stanislawski, B.
+AU  - Lohmann, A.
+AU  - Günay, S.
+AU  - Heiden, M.
+AU  - Funk, M. B.
+TI  - The German Haemovigilance System–reports of serious adverse transfusion reactions between 1997 and 2007
+JO  - Transfusion Medicine
+VL  - 19
+IS  - 6
+SN  - 9780813806785
+UR  - https://doi.org/10.1111/j.1365-3148.2009.00947.x
+DO  - doi:10.1111/j.1365-3148.2009.00947.x
+SP  - 340
+EP  - 349
+KW  - haemovigilance
+KW  - frequency of serious transfusion reactions
+KW  - acute transfusion reaction
+KW  - TRALI
+KW  - haemolytic transfusion reaction
+PY  - 2009
+AB  - summary. Data of the German Haemovigilance System were collected from 1997 to 2007 and assessed on the basis of pre-defined safety standards. Suspected cases of serious adverse reactions following transfusions reported to the Paul-Ehrlich-Institut were evaluated on the basis of national criteria, and the definitions of International Society of Blood Transfusion (ISBT) in compliance with defined causality criteria. The suspected cases were rated as confirmed and unconfirmed transfusion reactions. Assessment of causality took into consideration the clinical course of the adverse reaction and, if necessary, information about donation and manufacturing. Of the 5128 suspected serious adverse reactions, 1603 could be confirmed. Referring to the absolute figures, acute transfusion reactions (e.g. allergic reactions, hypotension and dyspnoea) were recorded most frequently, followed by transfusion-related acute lung injury (TRALI), haemolytic reactions, transfusion-related bacterial infections and virus infections. The majority of the 52 transfusion-related fatalities (14 each) were due to TRALI and acute transfusion reactions (mostly severe allergic reactions). Referred to the blood products administered, immune TRALI cases and TRALI-related fatal courses were most frequently reported after administration of fresh frozen plasma (FFP) (15/106 and 3.5/106 units, respectively), transfusion-related bacterial infections after administration of platelet concentrates (7/106 units), acute haemolytic transfusion reactions after administration of red blood cell concentrates (2.3/106units) and acute transfusion reactions after administration of red blood cell or platelet concentrates (7.8/106 and 13/106 units, respectively). Despite the high safety standard required for blood products in Germany, there is still room for reducing the frequency of isolated cases of transfusion reactions by targeted action.
+ER  - 
+
+AU  - Leon, Lisa R.
+AU  - Bouchama, Abderrezak
+C7  - pp. 611-647
+TI  - Heat Stroke
+UR  - https://doi.org/10.1002/cphy.c140017
+DO  - doi:10.1002/cphy.c140017
+SP  - 611-647
+PY  - 2009
+AB  - ABSTRACT Heat stroke is a life-threatening condition clinically diagnosed as a severe elevation in body temperature with central nervous system dysfunction that often includes combativeness, delirium, seizures, and coma. Classic heat stroke primarily occurs in immunocompromised individuals during annual heat waves. Exertional heat stroke is observed in young fit individuals performing strenuous physical activity in hot or temperature environments. Long-term consequences of heat stroke are thought to be due to a systemic inflammatory response syndrome. This article provides a comprehensive review of recent advances in the identification of risk factors that predispose to heat stroke, the role of endotoxin and cytokines in mediation of multi-organ damage, the incidence of hypothermia and fever during heat stroke recovery, clinical biomarkers of organ damage severity, and protective cooling strategies. Risk factors include environmental factors, medications, drug use, compromised health status, and genetic conditions. The role of endotoxin and cytokines is discussed in the framework of research conducted over 30 years ago that requires reassessment to more clearly identify the role of these factors in the systemic inflammatory response syndrome. We challenge the notion that hypothalamic damage is responsible for thermoregulatory disturbances during heat stroke recovery and highlight recent advances in our understanding of the regulated nature of these responses. The need for more sensitive clinical biomarkers of organ damage is examined. Conventional and emerging cooling methods are discussed with reference to protection against peripheral organ damage and selective brain cooling. Published 2015. Compr Physiol 5:611-647, 2015.
+ER  - 
+
+TY  - JOUR
+AU  - Buser, F. C.
+AU  - Schweighauser, A.
+AU  - im Hof-Gut, M.
+AU  - Bigler, B.
+AU  - Marti, E.
+AU  - Mirkovitch, J.
+AU  - Francey, T.
+TI  - Evaluation of C-reactive protein and its kinetics as a prognostic indicator in canine leptospirosis
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 60
+IS  - 8
+UR  - https://doi.org/10.1111/jsap.13004
+DO  - doi:10.1111/jsap.13004
+SP  - 477
+EP  - 485
+PY  - 2019
+AB  - Objective To evaluate C-reactive protein at presentation and during hospitalisation in dogs with acute kidney injury resulting from leptospirosis to compare C-reactive protein at presentation in dogs with acute kidney injury of different aetiology and to study its correlation with markers of inflammation, azotaemia and survival. Materials and Methods Prospective observational study of 41 dogs with acute kidney injury secondary to leptospirosis and 15 control dogs with acute kidney injury of different aetiology. C-reactive protein was measured at presentation in both groups and daily for 7 days in a subgroup of 28 dogs with leptospirosis. The associations of C-reactive protein with neutrophil count, albumin, urea, creatinine and survival were analysed. Results C-reactive protein was increased at presentation in all dogs with leptospirosis but was not significantly different from dogs with acute kidney injury of different cause. It was associated with markers of inflammation (neutrophil count, albumin) but not with azotaemia (creatinine, urea). It decreased gradually from presentation to day 4, with significantly lower concentrations in survivors than non-survivors. Initial C-reactive protein was only weakly associated with outcome, but its average concentration from presentation to day 2 was more strongly associated. Absolute and relative changes in C-reactive protein during hospitalisation and creatinine at presentation were not associated with survival. Clinical Significance Serial assessment of C-reactive protein may improve outcome prediction in dogs with leptospirosis compared with a single measurement at presentation or with markers of renal function.
+ER  - 

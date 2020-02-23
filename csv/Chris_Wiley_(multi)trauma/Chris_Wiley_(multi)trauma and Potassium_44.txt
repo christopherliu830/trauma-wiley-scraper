@@ -1,0 +1,341 @@
+
+TY  - JOUR
+TI  - Surgical Research Society
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 65
+IS  - 11
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.1800651114
+DO  - doi:10.1002/bjs.1800651114
+SP  - 812
+EP  - 828
+PY  - 1978
+ER  - 
+
+TY  - JOUR
+TI  - Recent advances in transplantation anesthesia and intensive care medicine
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 41
+IS  - s111
+SN  - 0001-5172
+UR  - https://doi.org/10.1111/j.1399-6576.1997.tb04887.x
+DO  - doi:10.1111/j.1399-6576.1997.tb04887.x
+SP  - 77
+EP  - 84
+PY  - 1997
+ER  - 
+
+C7  - pp. 23-133
+TI  - Cell surface and secreted proteins
+SN  - 9781118849859
+UR  - https://doi.org/10.1002/9781118849842.ch3
+DO  - doi:10.1002/9781118849842.ch3
+SP  - 23-133
+KW  - adhesion molecules
+KW  - ATP-binding cassette
+KW  - cell surface
+KW  - cytokines
+KW  - GPCRs
+KW  - host defence molecules
+KW  - NHRS
+KW  - secreted proteins
+KW  - transporters
+PY  - 1997
+AB  - Summary This chapter includes HGNC entries for proteins that are expressed on the cell surface, namely receptors for different ligand classes, transporters and ion channels. Targets for existing drugs are strongly over-represented in this group; for example, approximately 40% of current medicines affect G-protein-coupled receptors (GPCRs), and hundreds of these molecules are listed with annotations that indicate pharmaceutical potential. The chapter also discusses targets that involve protein-protein or protein-carbohydrate interactions. These are cytokines and their receptors, adhesion molecules and host defence molecules; the allocation of entries in these three sections is less clear-cut than with the GPCRs. The last group of entries that is discussed is the transporters and channels. The ATP-binding cassette and solute carrier families are not only primary therapeutic targets but also contain proteins that contribute to drug resistance.
+ER  - 
+
+TY  - JOUR
+TI  - Scientific
+JO  - Transfusion
+VL  - 47
+IS  - s3
+SN  - 9781118849859
+UR  - https://doi.org/10.1111/j.1537-2995.2007.01507_1.x
+DO  - doi:10.1111/j.1537-2995.2007.01507_1.x
+SP  - 1A
+EP  - 216A
+PY  - 2007
+ER  - 
+
+AU  - Schott, Geoffrey
+C7  - pp. 847-870
+TI  - Pain
+SN  - 9781405134439
+UR  - https://doi.org/10.1002/9781444311709.ch22
+DO  - doi:10.1002/9781444311709.ch22
+SP  - 847-870
+KW  - pain having underlying neurological cause
+KW  - magnetic resonance imaging (MRI) and positron emission tomography (PET) studies of brain
+KW  - peripheral nerve pain
+KW  - painful peripheral neuropathies
+KW  - burning feet, and small-diameter fibre neuropathies
+KW  - diabetes - revealed by a glucose tolerance test
+KW  - painful peripheral viscero-somatic disorders
+KW  - Complex regional pain syndrome (CRPS) – reflex sympathetic dystrophy (RSD) and causalgia
+KW  - placebo phenomenon
+PY  - 2007
+AB  - Summary This chapter contains sections titled: The terminology and classification of pain Some painful neuropathic conditions Management The placebo phenomenon Absence of pain Conclusions References
+ER  - 
+
+TY  - JOUR
+AU  - Via, Michael A.
+AU  - Gallagher, Emily Jane
+AU  - Mechanick, Jeffrey I.
+TI  - Bone physiology and therapeutics in chronic critical illness
+JO  - Annals of the New York Academy of Sciences
+VL  - 1211
+IS  - 1
+SN  - 9781405134439
+UR  - https://doi.org/10.1111/j.1749-6632.2010.05807.x
+DO  - doi:10.1111/j.1749-6632.2010.05807.x
+SP  - 85
+EP  - 94
+KW  - metabolic bone disease
+KW  - chronic critical illness
+KW  - allostasis
+KW  - bone resorption
+PY  - 2010
+AB  - Modern medical practices allow patients to survive acute insults and be sustained by machinery and medicines for extended periods of time. We define chronic critical illness as a later stage of prolonged critical illness that requires tracheotomy. These patients have persistent elevations of inflammatory cytokines, diminished hypothalamic?pituitary function, hypercatabolism, immobilization, and malnutrition. The measurement of bone turnover markers reveals markedly enhanced osteoclastic bone resorption that is uncoupled from osteoblastic bone formation. We review the mechanisms by which these factors contribute to the metabolic bone disease of chronic critical illness and suggest potential therapeutics.
+ER  - 
+
+TY  - JOUR
+AU  - British Committee for Standards in Haematology
+AU  - Stainsby, D.
+AU  - MacLennan, S.
+AU  - Thomas, D.
+AU  - Isaac, J.
+AU  - Hamilton,  P. J.
+TI  - Guidelines on the management of massive blood loss
+JO  - British Journal of Haematology
+VL  - 135
+IS  - 5
+SN  - 9781405134439
+UR  - https://doi.org/10.1111/j.1365-2141.2006.06355.x
+DO  - doi:10.1111/j.1365-2141.2006.06355.x
+SP  - 634
+EP  - 641
+KW  - blood transfusion
+KW  - coagulopathy
+KW  - massive blood loss
+KW  - guideline
+KW  - haemorrhage
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+TI  - Thursday, 6 September 2018 - Free Communication Sessions 13–27 and Poster Sessions 16–30
+JO  - International Dental Journal
+JA  - Int Dent J
+VL  - 68
+IS  - S2
+SN  - 9781405134439
+UR  - https://doi.org/10.1111/idj.12442
+DO  - doi:10.1111/idj.12442
+SP  - 42
+EP  - 84
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - International Journal of Urology
+JA  - Int. J. Urol.
+VL  - 23
+IS  - S1
+SN  - 9781405134439
+UR  - https://doi.org/10.1111/iju.13149
+DO  - doi:10.1111/iju.13149
+SP  - 1
+EP  - 142
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - Absracts
+JO  - Vox Sanguinis
+VL  - 83
+IS  - S2
+SN  - 9781405134439
+UR  - https://doi.org/10.1111/j.1423-0410.2002.tb05391.x
+DO  - doi:10.1111/j.1423-0410.2002.tb05391.x
+SP  - 1
+EP  - 236
+PY  - 2002
+ER  - 
+
+TY  - JOUR
+TI  - British Paediatric Neurology Association Annual Meeting 2007
+JO  - Developmental Medicine & Child Neurology
+VL  - 49
+IS  - s1
+SN  - 9781405134439
+UR  - https://doi.org/10.1017/S0012162206220334
+DO  - doi:10.1017/S0012162206220334
+SP  - 1
+EP  - 52
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - British Paediatric Neurology Association Annual Meeting 2007
+JO  - Developmental Medicine & Child Neurology
+VL  - 49
+IS  - s108
+SN  - 9781405134439
+UR  - https://doi.org/10.1111/j.1469-8749.2007.0217a.x
+DO  - doi:10.1111/j.1469-8749.2007.0217a.x
+SP  - 1
+EP  - 52
+PY  - 2007
+ER  - 
+
+C7  - pp. 1029-1074
+TI  - Index
+SN  - 9781118486177
+UR  - https://doi.org/10.1002/9781118486160.index
+DO  - doi:10.1002/9781118486160.index
+SP  - 1029-1074
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Section
+JO  - Transfusion
+VL  - 51
+IS  - s3
+SN  - 9781118486177
+UR  - https://doi.org/10.1111/j.1537-2995.2011.03301_1.x
+DO  - doi:10.1111/j.1537-2995.2011.03301_1.x
+SP  - 1A
+EP  - 236A
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+AU  - Cho, Yong Soo
+AU  - Chun, Byeong Jo
+AU  - Moon, Jeong Mi
+TI  - The qSOFA Score: A Simple and Accurate Predictor of Outcome in Patients with Glyphosate Herbicide Poisoning
+JO  - Basic & Clinical Pharmacology & Toxicology
+JA  - Basic Clin Pharmacol Toxicol
+VL  - 123
+IS  - 5
+SN  - 9781118486177
+UR  - https://doi.org/10.1111/bcpt.13044
+DO  - doi:10.1111/bcpt.13044
+SP  - 615
+EP  - 621
+PY  - 2018
+AB  - Abstract This study aimed to investigate whether the quick Sequential Organ Failure Assessment (qSOFA) score at emergency department (ED) presentation can help improve the risk assessment of glyphosate-surfactant herbicide (GlySH) poisoning complications. A total of 150 patients presenting with acute glyphosate herbicide ingestion were enrolled in this retrospective observational study. The qSOFA scores at presentation, ?qSOFA (calculated by subtracting the worst qSOFA score from 1 hr after admission from the qSOFA score at presentation), baseline characteristics, clinical courses and outcome were collected and analysed. A total of 41 patients had life-threatening complications (27.3%), and 14 patients died (9.3%). Patients with a qSOFA score of 0 at presentation had a 1.5% incidence rate of complications. As the qSOFA score at presentation increased from 1 to 3, the rate of life-threatening complications significantly increased from 29.6% to 100%. Patients with a ?qSOFA of 1 had a higher frequency of complications than did patients with a ?qSOFA of 0. The qSOFA score (OR: 8.39, 95% CI: 3.51?26.67) and ?qSOFA (OR: 27.60, 95% CI: 3.87?575.67) were associated with the development of life-threatening complications in the multivariate analysis. The qSOFA score showed high sensitivity (97.56%), and the ?qSOFA score showed high specificity (99.08%). The values of area under the curve were significantly higher in the models using the qSOFA and ?qSOFA than they were in the models using previously known prognostic factors (p < 0.01). The clinician should pay more attention to patients with high qSOFA scores at presentation or an increase in the qSOFA score 1 hr after admission.
+ER  - 
+
+TY  - JOUR
+TI  - SUBJECT INDEX
+JO  - Annals of the New York Academy of Sciences
+VL  - 566
+IS  - 1
+SN  - 9781118486177
+UR  - https://doi.org/10.1111/j.1749-6632.1989.tb14662.x
+DO  - doi:10.1111/j.1749-6632.1989.tb14662.x
+SP  - 169
+EP  - 495
+PY  - 1989
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts—Poster
+JO  - Alcoholism: Clinical and Experimental Research
+VL  - 34
+IS  - s2
+SN  - 9781118486177
+UR  - https://doi.org/10.1111/j.1530-0277.2010.01210.x
+DO  - doi:10.1111/j.1530-0277.2010.01210.x
+SP  - 11A
+EP  - 243A
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - Shiao, Chih-Chung
+AU  - Wu, Pei-Chen
+AU  - Wu, Vin-Cent
+AU  - Lin, Jui-Hsiang
+AU  - Pan, Heng-Chih
+AU  - Yang, Ya-Fei
+AU  - Lai, Tai-Shuan
+AU  - Huang, Tao-Min
+AU  - Wu, Che-Hsiung
+AU  - Yang, Wei-Shun
+AU  - Wu, Chih-Jen
+AU  - Kao, Chih-Chin
+AU  - Sun, Chiao-Yin
+AU  - Huang, Chun-Te
+AU  - Lee, Kuo-Hua
+AU  - Lin, Chan-Yu
+AU  - Chen, Te-Chuan
+AU  - Hu, Fu-Chang
+AU  - Liou, Hung-Hsiang
+AU  - Lu, Kuo-Cheng
+AU  - Chien, Kuo-Liong
+AU  - Wang, Jian-Jhong
+AU  - Kan, Wei-Chih
+AU  - Kuo, Feng-Chi
+AU  - Lin, Hugo You-Hsien
+AU  - Chen, Cheng-Min
+AU  - You, Zi-hong
+AU  - Tsai, Jen-Pi
+AU  - Weng, Chih-Jen
+AU  - Chen, Hung-Yuan
+AU  - Chang, Chao-Fu
+AU  - Hsu, Wen-Ding
+AU  - Wu, Mai-Szu
+AU  - Huang, Chiu-Ching
+AU  - Wu, Kwan-Dun
+AU  - on behalf of the Taiwan Consortium for Acute Kidney Injury Renal Diseases (CAKs)
+C8  - NEP-2015-0718
+TI  - Nationwide epidemiology and prognosis of dialysis-requiring acute kidney injury (NEP-AKI-D) study: Design and methods
+JO  - Nephrology
+JA  - Nephrology
+VL  - 21
+IS  - 9
+SN  - 9781118486177
+UR  - https://doi.org/10.1111/nep.12670
+DO  - doi:10.1111/nep.12670
+SP  - 758
+EP  - 764
+KW  - acute kidney injury
+KW  - dialysis
+KW  - dialysis-dependency
+KW  - end-stage renal disease
+KW  - in-hospital mortality
+PY  - 2016
+AB  - Abstract Aim Acute kidney injury (AKI) carries an increasing incidence rate worldwide and increases the risk of developing end-stage renal disease (ESRD) as well as the medical expenses during the post-AKI course. The Taiwan Consortium for Acute Kidney Injury and Renal Diseases (CAKs) has thus launched a nationwide epidemiology and prognosis of dialysis-requiring acute kidney injury (NEP-AKI-D) study, which prospectively enrols critically ill patients with AKI. Through thoroughly evaluating the risk and prognostic factors of AKI, we hope to lower the incidence of AKI and ESRD from the perspective of AKI-ESRD interaction. Methods The CAKs includes 30 hospitals which distribute widely through the four geographical regions (north, middle, south, and east) of Taiwan, and have a 1:1 ratio of medical centres to regional hospitals in each region. The NEP-AKI-D study enrols intensive care unit-based AKI patients who receive dialysis in the four seasonal sampled months (October 2014, along with January, April, and July 2015) in the included hospitals. The collected data include demographic information, pertaining laboratory results, dialysis settings and patient outcomes. The data are uploaded in a centre website and will be audited by on-site principal investigators, computer logic gates, and the CAKs staffs. The outcomes of interest are in-hospital mortality, dialysis-dependency and readmission rate within 90 days after discharge. Conclusion The NEP-AKI-D study enrols a large number of representative AKI patients throughout Taiwan. The results of the current study are expected to provide more insight into the risk and prognostic factors of AKI and further attenuated further chronic kidney disease transition.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts–Posters
+JO  - Alcoholism: Clinical and Experimental Research
+JA  - Alcohol Clin Exp Res
+VL  - 37
+IS  - s2
+SN  - 9781118486177
+UR  - https://doi.org/10.1111/acer.12162
+DO  - doi:10.1111/acer.12162
+SP  - 11A
+EP  - 253A
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - Index of biochemical reviews
+JO  - FEBS Letters
+VL  - 268
+IS  - S1
+SN  - 9781118486177
+UR  - https://doi.org/10.1016/0014-5793(90)80357-O
+DO  - doi:10.1016/0014-5793(90)80357-O
+SP  - 1
+EP  - 188
+PY  - 1990
+ER  - 

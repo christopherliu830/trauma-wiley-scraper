@@ -1,0 +1,374 @@
+
+TY  - JOUR
+AU  - Owens, Philip
+AU  - Li, Allen G.
+AU  - Wang, Xiao-Jing
+TI  - 039  Constitutive TGFβ1 Overexpression in Mouse Keratinocytes Delays Cutaneous Wound Healing
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215am.x
+DO  - doi:10.1111/j.1067-1927.2005.130215am.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - TGF?1 is a multipotent secreted cytokine that plays a pivotal role in wound healing. Previously, both positive and negative effects of TGF?1 on cutaneous wound healing have been reported. The mechanisms underlying these effects of TGF?1 remain to be elucidated. In the present study, we used a mouse model to examine the effects of cutaneous wound healing, wherein the latent form of TGF?1 is constitutively expressed in basal keratinocytes of the mouse epidermis, targeted by the keratin 5 promoter (K5.TGF?1). In wild-type mice with 6-mm full thickness excisional cutaneous wounds, TGF?1 protein levels were elevated immediately after wounding, and reached a peak level on day 3 postwounding, which was 3?5-fold higher than that in the nonwounded skin, and sharply declined afterward. This elevated expression pattern suggests that only transient TGF?1 overexpression is required for normal wound healing. In contrast, K5.TGF?1 mice with prolonged TGF?1 transgene expression at the level equivalent to the above peak level in wild-type mice exhibited a significant delay in healing of 6-mm full thickness excisional wounds when compared to wild-type mice. Histological analysis of wounds revealed delayed reepithelialization, increased inflammation and prolonged granular tissue accumulation in K5.TGF?1wt mice. Immunohistochemistry analysis revealed excessive leukocyte infiltration in transgenic wounds when compared to wild-type wounds. Understandably, the accumulation of leukocytes was also accompanied by increased expression of inflammatory cytokines, chemokines, angiogenic factors and fibrotic factors as determined by qRT-PCR analysis. Although the above factors override the growth inhibitory effect of TGF?1 on epidermal proliferation away from the wound edge, proliferation at the leading edge of the migrating keratinocytes was reduced in transgenic skin compared to the nontransgenic skin, evident by PCNA staining. Keratinocyte proliferation was also reduced in vitro when assessed by H3-thymidine incorporation. To assess the direct effect of TGF?1 on keratinocyte migration, we performed an in vitro migration assay and found that K5.TGF?1 keratinocytes had delayed migration when compared with wild-type cells. Our study suggests that prolonged TGF?1 expression in keratinocytes delays cutaneous wound healing by excessive inflammation, coupled to a direct inhibitory effect on keratinocyte proliferation and migration.
+ER  - 
+
+TY  - JOUR
+AU  - Witte, M.B.
+AU  - Barbul, A.
+TI  - 049 Suppression of macrophage NO Synthesis by wound fluid
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215aw.x
+DO  - doi:10.1111/j.1067-1927.2005.130215aw.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Background:? Essential parameters of wound healing are regulated by the wound environment., as reflected by the bathing wound fluid (WF). WF increases fibroblast proliferation, collagen synthesis, and also inhibits Nitric oxide (NO) synthesis in wound-derived fibroblasts. The aim of this study was to investigate whether WF influences NO metabolism in other wound cells, namely macrophages. Methods:? The mouse hybridoma macrophage cell line RAW 267.4 was employed. Cells were seeded at 2???105/well into 24 well plates or at 2???106 in Petri dishes. Cells were stimulated with 1??g/ml LPS and 10?U/ml IFN-gamma to induce inducible nitric oxide synthase (iNOS). iNOS expression was investigated by Northern blotting after 6?h, enzyme secretion by western blotting after 20?h and NO production by nitrite synthesis in cell culture supernatants after 24?h. WF was harvested at different days postwounding from PVA sponges implanted into male Lewis rats. WF was added at 10%?v/v to the cell media. Cells were incubated in the presence of 60?mM L-valine, an arginase inhibitor, to rule out substrate (arginine) depletion by arginase as a mechanism. Results are expressed as mean?±?SD, n?=?5. Results:? Following inflammatory cytokine stimulation, RAW cells produced 57.36??mol nitrite/ml/24?h. Nitrite synthesis was significantly inhibited to 23.89?±?13.3 by day 7 and to 6.79?±?1.28 by day 10?WF, respectively. iNOS expression was almost completely blocked by addition of 10% WF from day 10 as assessed by Northern and western blotting. WF from the later days (day 10 and 14) had larger inhibitory effect than WF from early days (day 2, 5, and 7). Although omitting L-arginine from the media abolished iNOS expression, incubation of WF in the presence of 60?mM L-valine did not restore the inhibitory effect suggesting that arginase is not involved. Conclusion:? There is a factor in WF which strongly inhibits NO synthesis in RAW cells; the effect becomes more marked over time after wounding. The effect appears to be transcriptionally regulated since mRNA expression is impaired. Further characterization of this inhibitory factor is under way.
+ER  - 
+
+TY  - JOUR
+AU  - Stechmiller, J.K.
+AU  - Childress, B.
+AU  - Stevens, G.
+AU  - Kilpadi, D.V
+AU  - Schultz, G.S
+TI  - 052  Effect of Negative Pressure Wound Therapy on the Expression of TNF-α, IL-1β, MMP-2, MMP-3, and TIMP-1 in Wound Fluid of Adults with Pressure Ulcers
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215az.x
+DO  - doi:10.1111/j.1067-1927.2005.130215az.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Introduction:? Negative pressure wound therapy (NPWT) is an established treatment of chronic wounds. There is limited understanding of the molecular biological mechanisms of NPWT. The purpose of this study was to characterize changes in the biochemical composition of wound fluid collected from chronic pressure ulcer wounds in adults treated with NPWT. Methods:? Nine stage III or IV pressure ulcer patients scheduled for NPWT (V.A.C.? Therapy, KCI, San Antonio, TX) were recruited. Their ages ranged between 30 and 99. Concentrations of cytokines (IL-1?, TNF-α), metalloproteinases (MMP-2, MMP-3), and tissue inhibitor of metalloproteinase (TIMP)-1 in wound fluids were measured at baseline and after 1 day, 3 days, and 7 days of continuous NPWT. Results:? At days 1, 3, and 7, TNF-α levels were significantly and comparably lower than baseline (p?<?0.05). MMP- 3 levels significantly decreased from baseline at days 1 and 3 (p?<?0.05) and significantly increased from baseline at day 7 (p?<?0.05) with continuous NPWT. IL-1? levels significantly increased at day 3 (p?<?0.05). There were no significant differences in TIMP-1 or MMP-2 levels at any of the time points when compared to baseline. Discussions and Conclusions:? A key finding of this study is that with NWPT, reductions in levels of the proinflammatory cytokine, TNF-α, from baseline levels were observed and this effect was sustained for at least 1 week. This, together with effects on IL-1 and MMP-3, may be an indication that the NPWT has a rapid and sustained effect on the inflammatory state of chronic wounds. Further studies are being conducted to expand sample size and to analyze other wound healing indicators.
+ER  - 
+
+TY  - JOUR
+AU  - Childress, B.B.
+AU  - Stechmiller, J.K
+AU  - Jessup, J.V
+AU  - Stevens, B.R
+AU  - Tian, L.
+AU  - Yucha, C.B
+AU  - Schultz, G.S
+TI  - 053 Nitric Oxide Metabolites in Wound Fluid of Adults with Pressure Ulcers on V.A.C.® Therapy
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215ba.x
+DO  - doi:10.1111/j.1067-1927.2005.130215ba.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Introduction:? Compelling evidence suggests that nitric oxide (NO?) plays an important role in wound healing. Not only does it possess cytotoxic properties, but also regulatory functions on various cells involved in inflammation and proliferation. In wounds, inducible NO synthase (iNOS) catalyzes arginine to citrulline and NO?, whereas arginase converts arginine to ornithine and urea. Ornithine is an essential substrate for the synthesis of polyamines, which are important in cellular proliferation and repair. A model for regulation of wound healing proposes the importance of a strict reciprocal control of these enzymes in wounds. Human studies using impaired wound healing models, however, are lacking in this area. Thus, the purpose of this study was to investigate arginine metabolism in wound fluids of patients with pressure ulcers on Vacuum Assisted Closure (V.A.C.?) therapy. Methods:? Wound fluid extracts from 11 patients with stage III or IV pressure ulcer were analyzed for cytokines and metabolites of arginine. Sample age ranged from 31?92 years. Wound fluid was collected prior to V.A.C.? application and post-V.A.C.? within 24 hours, 3 days, and 7 days. Subjects served as their own control in this quasi-experimental repeated measures design. Spectrophotometric quantification of nitrates and nitrites using the Griess diazotization reaction method was performed. Tumor necrosis factor-alpha (TNF-α) and interleukin-1 beta (IL-1?) concentrations were measured by enzyme-linked immunosorbent assay. Levels of arginine, citrulline, ornithine, and proline were analyzed by high performance liquid chromatography. Results:? There was no significant differences between pre- and post-V.A.C.? concentrations of NO?, citrulline, ornithine, and proline. However, there was a statistically significant decrease in arginine levels measured at baseline and day'3 of V.A.C.? treatment. Also, NO? measured at 24 hours of V.A.C.? placement decreased significantly at day 7 of therapy. Furthermore, post-V.A.C.? levels of TNF-α decreased significantly from baseline. A less cytotoxic environment is created, thus indicating a healing wound following 1 week of V.A.C.? therapy. Discussion:? Arginine and its metabolites are detectable in wound fluids from patients with pressure ulcers. To our knowledge, the metabolism of arginine has not been described in human subjects with pressure ulcers on V.A.C.? therapy. The determination of NO? in these wound environments provides baseline information on the mechanisms involved in aberrant wound healing.
+ER  - 
+
+TY  - JOUR
+AU  - Ho,             D.
+AU  - Moskowitz, K.
+AU  - Sum, R.
+AU  - Dee, J
+AU  - Rudolph, A.
+AU  - Burch, C.
+AU  - Pebley, W.
+AU  - Orser, C.
+TI  - 072 Wound Healing Properties of Reconstituted Freeze-Dried Platelets
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bt.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bt.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - The use of fresh platelets has gained value in medicine as an essential part of wound treatments. This is not surprising since platelets contain a number of bioactive factors that contribute to the process of wound healing, such as platelet-derived growth factor (PDGF) and transforming growth factor (TGF). Fresh platelets? short shelf life limits platelet-based therapies. If platelets can be stabilized in freeze-dried form (FDP) then long-term storage as well as pathogen inactivation methods become possible. Adlyfe and Oregon Freeze-Dry have been developing technology to stabilize freeze-dried human platelets that can be subjected to gamma irradiation and stored for a long duration. Upon reconstitution, irradiated FDP retained growth factors PDGF-AB, PDGF-BB, and TGF-B1 in quantities similar to fresh platelets as judged by capture ELISA. The rehydrated FDP promoted new DNA synthesis and cellular proliferation of primary human dermal fibroblasts and endothelial cells (HUVECs) similar to fresh platelets. The FDP also promoted remodeling of extracellular matrix by accelerating fibroblast-mediated contraction of collagen gels and stimulated HUVECs to undergo angiogenesis and form capillary structures in vitro. Therefore, we conclude that FDP and fresh platelets have comparable in vitro wound healing potential. Preclinical wound healing stud'ies in diabetic mice are under way and further development will allow FDP to be a safe and well-suited alternative to fresh platelets for wound healing applications.
+ER  - 
+
+TY  - JOUR
+AU  - Gregory, Sarah J.
+AU  - Boothman, Stuart
+AU  - Cullen, Breda M.
+TI  - 074 Action of an ORC/Collagen Matrix Containing Silver on the Prolonged Inflammatory Process in Chronic Wounds
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bv.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bv.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - The inflammatory phase of wound healing performs vital acts of host defense, removing invading microorganisms and or devitalized tissue. Characterized by an infiltration of neutrophils and monocytes, within hours of injury inflammation begins to effectively clear the wound in a strictly regulated manner in preparation for the following stages of repair and regeneration. Chronic wounds are varied in their etiology, resulting from many underlying pathologies. However, collectively they are often described as being in a persistent state of inflammation. Production of proinflammatory cytokines, proteinases and reactive oxygen species (ROS) in this unregulated manner can cause significant damage. By stopping the action of proinflammatory cytokines, further recruitment of neutrophils may be diminished, helping to stop protease production at its source. Chronic wound dressings that are able to help interrupt the self- perpetuating process may help to create the optimal wound healing environment. In this study we investigated the impact of silver and then an ORC/collagen matrix containing silver-ORC on the production of proinflammatory cytokines by lipopolysaccarhide (LPS) stimulated monocyte macrophages (THP-1 cells), an in vitro model of inflammation. The ability of the ORC/collagen matrix containing silver-ORC matrix to quench free radicals was also investigated. Results show that the ORC/collagen matrix containing silver-ORC is capable of reducing the levels of proinflammatory cytokines. This dressing also has antioxidant activity, quenching ROS. These influences on the biochemistry of a chronic wound may have an antiinflammatory action, limiting the destruction of new tissue and promoting wound closure.
+ER  - 
+
+TY  - JOUR
+AU  - Gregory,             Sarah J.
+AU  - Boyle, James
+AU  - Rennison, Tracy
+AU  - Cullen, Breda M.
+TI  - 079 An ORC/Collagen Matrix Containing Silver Preserves Wound Healing Growth Factors from Host and Bacterial Proteolytic Degradation
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215ca.x
+DO  - doi:10.1111/j.1067-1927.2005.130215ca.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Chronic wounds fail to heal in the timely, ordered continuum demonstrated by acute wounds. The hostile biochemical environment of the chronic wound is one of the well-documented differences, which is thought to be responsible for the delay in healing. Overproduction of proteases, in particular matrix metalloproteinases and serine proteinases, are thought to destroy essential wound healing components including growth factors, shifting the balance in favor of tissue destruction rather than deposition. Chronic wound management must, therefore, aim to restore a more normal local wound environment. In wounds with an imbalance in bioburden, the origin of destructive proteolytic enzymes may be bacterial as well as host. Therefore, treatment to achieve a biochemical balance may need to address, not only, the level of microorganism, but also, the virulent factors they produce. An ORC/collagen matrix containing silver-ORC addresses the wound micro'environment specifically targeting excess proteases. In this study we investigated the effect of ORC/collagen matrix containing silver-ORC on serine and matrix metalloproteinases, as well as, its ability to preserve growth factors, as exem'plified by Platelet-Derived Growth Factor (PDGF) from host and bacterial 'proteolytic degradation. The ORC/collagen matrix containing silver-ORC inactivated serine and matrix metalloproteinases from chronic wound fluids, as well as the proteolytic enzymes present in bacterial supernatants. It is also capable of preserving PDGF from proteolytic degradation. When compared to other commonly used wound dressings this is a unique characteristic of ORC/collagen, demonstrating their exclusive ability to absorb noxious components of wound fluid and restore a more normal wound healing environment.
+ER  - 
+
+TY  - JOUR
+AU  - Lipman,             R.D.A.
+TI  - 082 Odor-Absorbing Hydrocolloid Dressings for Direct Wound Contact
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215cd.x
+DO  - doi:10.1111/j.1067-1927.2005.130215cd.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Charcoal-based odor-absorbing dressings for management of odiferous chronic wounds have been marketed for many years. However, the presence of wound serum deactivates the charcoal and inhibits the adsorption of odor molecules. Charcoal dressings also generally need adjunct fixation to hold them in place. Avery Dennison Medical has developed a new series of hydrocolloid adhesives that provides an alternative technology for the adsorption of chronic wound odors. Dressings incorporating this technology are suitable for direct wound contact. In presence of serum, superior odor absorption with these new 'materials in comparison with charcoal dressings has been demonstrated in vitro. These new dressings have significant fluid absorption potential, are self-adhesive, and require no additional fixation. Some of the factors affecting performance of these new materials in vitro will be presented, as well as preliminary results from in vivo performance on chronic wounds. Acknowledgment:? This work was funded by Avery Dennison Medical, Tieblokkenlaan 1, B-2300 Turnhout, Belgium.
+ER  - 
+
+TY  - JOUR
+AU  - Allan,             Christopher H.
+AU  - Fleckman, Philip
+AU  - Gutierrez, Alicia
+AU  - Caldwell, Trevor
+AU  - Underwood, Robert
+TI  - 084 Expression of MSX1 and Keratins 14 and 19 After Human Fetal Digit Tip Amputation in Vitro
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215cf.x
+DO  - doi:10.1111/j.1067-1927.2005.130215cf.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - We have developed a human fetal digit model of response to tip amputation to simulate the clinical phenomenon of digit tip regrowth or regeneration in children. We reported previously that younger estimated gestational age (EGA) digits respond to tip amputation with several layers of cells covering the phalangeal anlage, compared to older digits where such coverage comprises fewer cell layers or is absent. The proximal cut end of excised digits does not demonstrate such a response. We report here that the transcription repressor MSX1 is expressed beneath the developing nailfield in younger human fetal digits (57 to 67 days EGA), as has been shown in the mouse, and that cells expressing MSX1 are found at the digit tip by 4 days postamputation. Further, expression of keratins K14 and K19 is found, suggesting reforming of an epithelium. These findings are consistent with the mouse model of digit tip regeneration where MSX1-expressing cells are hypothesized to migrate to the amputation site and reconstitute the missing tip, and with the general observation that a wound epidermis is required for either regeneration or wound healing. 57?d EGA digits; left, MSX1 expression, control; left center, MSX1 and center, K19 expression, day 4 posttip amputation; right center, MSX1 and right, K19 expression, day 7 postamputation
+ER  - 
+
+TY  - JOUR
+AU  - Hiles, M.C.
+AU  - Hodde, J.P.
+AU  - Suckow, M.A.
+TI  - 092 Natural Extracellular Matrix Improves Wound Repair Measures
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215cn.x
+DO  - doi:10.1111/j.1067-1927.2005.130215cn.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Small intestinal submucosa (SIS) has found substantial clinical utility as a commercially available wound matrix. In the present study, the utility of two natural, nonsynthetic and noncrosslinked ECMs, porcine renal capsule material (RCM) and SIS, were compared to no-fill controls in a rat full thickness skin wound model. Groups of rats had surgically created wounds filled with SIS, RCM, or left unfilled (ten/treatment/time point). Wound diameters periodically measured at 3?30 days after wound creation and sites sampled at 3?56 days after wound creation were numerically graded for degree of histologic change including the formation of adnexa and for collagen content based on intensity of trichrome staining. Wounds in both ECM groups had statistically significant (P?<?0.001) greater wound diameters than unfilled controls at days 7, 12, and 17 with no differences between RCM- and SIS-treated wounds at any time point. At 56 days, SIS-filled and RCM-filled wounds were completely closed with cornified epithelium covered by a keratinized layer. Healing was largely complete, with normal numbers of adnexal structures present in most sections, while unfilled control wounds were similar though fewer adnexal structures were present. Though histology scores suggested more robust healing with either RCM or SIS, no significant differences with unfilled control wounds were found. From this study, it appears that RCM and SIS enhance wound healing in terms of wound tissue collagenization and maturation of adnexal structures while clearly impeding wound contraction. Natural ECMs have utility for dermal wound repair and may lessen clinical contracture formation caused by rapid wound contraction. Acknowledgment:? This work was supported by Cook Biotech Incorporated.
+ER  - 
+
+TY  - JOUR
+AU  - Zhu, K.Q.
+AU  - Engrav, L.H.
+AU  - Harunari, N
+AU  - Muangman, P.M.
+AU  - Carrougher, G.J.
+AU  - Gibran, N.S.
+TI  - 093 Myofibroblasts in Female Red Duroc Pig Scars
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215co.x
+DO  - doi:10.1111/j.1067-1927.2005.130215co.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Introduction:? Myofibroblasts are a subtype of fibroblasts, which appear temporally during wound healing. Young hypertrophic scar contains a large number of myofibroblasts and the number declines over time. It has been shown that deep partial-thickness wounds on the female, red Duroc pig heal with thick scars, which is similar to hypertrophic scar. As part of our validation of the Duroc model of hypertrophic scarring, we evaluated myofibroblasts in wounds on the Duroc pigs. Methods:? Superficial (0.015? to 0.030?) and deep (0.045? to 0.060?) wounds were created on the backs of 12 Durocs. Biopsies were taken at weeks 1, 2, 4, 15, and 21 postwounding. Samples were analyzed by immunochemical staining for alpha smooth muscle actin (a-SMA, for myofibroblasts) and heat-shock protein (HSP47, for fibroblasts). HSP47 positive cells were counted at 40X and the fraction of a-SMA positive cells out of fibroblasts was evaluated at 10X. Statistical significance was calculated with the Kruskal-Wallis test. Results:? The counts of HSP47 and a-SMA positive cells are shown in the table below. In brief, in deep wounds most of the HSP47 positive cells were a-SMA positive at 1 and 2 weeks but this declined rapidly thereafter. In shallow wounds there were far fewer cells positive for a-SMA and the decline was even more rapid. 1W 2W 4W 15W 21W Number Shallow 105?±?22 151?±?59 106?±?23 ?57?±?20 44?±?4 HSP47 Deep 524?±?45 449?±?35 231?±?73 108?±?30 55?±?8 P value <0.05 <0.05 <0.05 <0.05 Percent Shallow 23% 3% 0 0 0 a-SMA Deep 90% 74% 10% 0 0 P value <0.05 <0.05 Conclusions:? a-SMA positive fibroblasts (myofibroblasts) are present in deep Duroc wounds and the temporal pattern is similar to that reported for human hypertrophic scar. This further validates the female red Duroc model of human hypertrophic scarring.
+ER  - 
+
+TY  - JOUR
+AU  - Falanga, V.
+AU  - Butmarc, J.
+AU  - Yufit, T.
+AU  - Rausch, H.
+AU  - Carson, P.
+TI  - 014 Epiboly in Bioengineered Skin as a Novel Method for Studying Epidermal Migration and Determining Construct Viability
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215n.x
+DO  - doi:10.1111/j.1067-1927.2005.130215n.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - There are only a few models for studying epidermal migration in vitro, and their interpretation is made difficult by reliance on cell monolayers and the choice of a specific substrate. In this study, the process of keratinocyte migration and epiboly were investigated by using a bilayered bioengineered skin construct, consisting of human neonatal foreskin keratinocytes and dermal fibroblasts (Apligraf, Organogenesis, Canton, MA). At baseline, 6-mm punch biopsies of the construct were placed in serum-free media (AIM-V) or DMEM with or without 10% FBS. At varying time points the bioengineered skin samples were processed and analyzed by histology and immunostaining. By 72 hours, in a time-dependent manner, the epidermis had migrated over and enveloped the entire dermis (full epiboly). Full epiboly was partially inhibited by serum and was maximal in serum-free medium. Epiboly was preserved 5 days after stated expiration date and was equivalent to that seen in unexpired construct when stored at room temperature. The process of epiboly was downregulated in a dose-dependent manner by neutralizing antibodies to EGF and TGF-beta 1. The migrating epithelium was characterized by decreased keratinocyte proliferation (as per Ki67 immunostaining) and increased expression of vitronectin (epibolin). Increasing concentrations of antibodies of vitronectin blocked the process of epiboly, as did antibodies to the alpha5-betaV integrin receptor, which mediates vitronectin-driven keratinocyte locomotion. Interesting, epiboly was also blocked by preseeding human dermal fibroblasts on the dermal side of the construct. We propose that the process of epiboly in this model can be used to better understand and assess the mechanisms involved in keratinocyte migration and may be used as an assay for establishing construct functional viability.
+ER  - 
+
+TY  - JOUR
+AU  - Lin,             M.P.
+AU  - Marti, G.P.
+AU  - Dieb, R.
+AU  - Wang, J.
+AU  - Ferguson, M.
+AU  - Qaiser, R.
+AU  - Bonde, P.
+AU  - Duncan, M.D.
+AU  - Harmon, J.W.
+TI  - 063 Electroporation-Facilitated Gene Therapy for Wound Healing
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bk.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bk.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Introduction:? Using peptide growth factors to improve upon natural wound healing provides promise, but topical application of growth factors has found limited clinical success. Gene therapy has been limited by low transfection efficiency. We are investigating the use of electroporation (EP)in vivo to enhance transfection efficiency and improve wound healing with DNA expression vectors for growth factors. Methods:? To assess plasmid transfection and wound healing, gWIZ luciferase vector and PCDNA3.1/KGF expression vector were used, respectively. Cutaneous wounds were produced via 8?mm-punch biopsy in Sprague Dawley rats. Healing was impaired by cecal ligation induced sepsis. We used NIH image analysis software and histologic assessment to assess wound closure. Results:? Plasmid Transfection: EP effectively increased expression of gWIZ luciferase vector 53-fold compared to vector without EP (p?<?0.001). We demonstrated that transfection was localized to skin when transfected skin was reflected to reveal underlying muscle. We found that EP-assisted transfection lasted for 30 days, which is appropriate for treatment of wound healing. Wound Healing:? Using PCDNA3.1/KGF expression vector and EP wounds were 60% smaller on day 12 versus vector without EP (p?<?0.009). We assessed quality of healing with a histologic scoring system grading quality of epithelial coverage, organization of scar and resolution of inflammation. KGF vector?+?EP score of 3.0 +/? 0.3 was better than that of 1.8 +/? 0.3 for treatment with vector alone (p?<?0.05). Conclusions:? These results demonstrate the capacity of electroporation-facilitated transfection with DNA plasmid expression vector for growth factor to improve wound healing. Acknowledgments:? Funding from USAMRMC PRMRP DAMDI7-03-1-0029 and Maryland State Firefighters Fund
+ER  - 
+
+TY  - JOUR
+AU  - Shi,             Y.
+AU  - Liu, J.-H.
+AU  - Bittner, M.
+AU  - Goppelt, A.
+AU  - Davidson, J.M.
+TI  - 064 Adenoviral-Mediated Overexpression of Human Alpha1-Antichymotrypsin and Its Murine Homolog SPI2 Improve Wound Healing in Rats
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bl.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bl.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - α1-antichymotrypsin (ACT) and its murine homolog spi2 are serine protease inhibitors present in plasma, that are locally up-regulated during wound healing. Ad-spi2 and Ad-ACT expression vectors were constructed to address the biological activity of locally expressed serpins. The condition medium of infected COS-1 cell at 2?d postinfection contained 1.23?ng/ml spi2 and 2.61?ng/ml ACT. Ad-LacZ or Ad-spi2 108?pfu was injected into the sponges after 3?d subcutaneous implantation in rats. Histological analysis showed that overexpression of spi2 improves granulation tissue organization and collagen deposition at d7 implantation. Moreover, overexpression of spi2 increases the contents of tissue DNA (23.8%, p?<?0.05) and protein (25.3%, p?<?0.05) in sponge implantation model in rats. In incisional wound models in both normal and STZ-induced diabetic rats, Ad-spi2 increases tensile strength by 26%(p?=?0.011) and 29%(p?=?0.022) as well as Ad-ACT increases by 10.3%(p?=?0.037) and 32%(p?=?0.004), respectively. In adriamycin-induced wound model in rats, histological analysis displayed less inflammatory cells infiltrating in Ad-ACT injected wound than in Ad-LacZ after 21?d injection of adriamycin. Inflammation enzymes MPO and elastase levels were decreased by 32.3% and 29.2% in Ad-ACT injected wound tissue. Our data concluded that overexpression of spi2 and ACT improves wound healing in rats probably via inflammatory resolution. (Supported by Switch Biotech and the Department of Veterans Affairs)
+ER  - 
+
+TY  - JOUR
+AU  - Man,             L.X.
+AU  - Park, J.C.
+AU  - Terry, M.J.
+AU  - Liu, F.J.
+AU  - Kimball, B.Y.
+AU  - Matissen, D.P.
+AU  - Korus, L.J.
+AU  - Burrell, W.A.
+AU  - Breitbart, A.S.
+TI  - 065 Blockade of Rage with Lentiviral Gene Therapy Accelerates Healing in Diabetic Wounds Over Time
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bm.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bm.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - The diabetic wound is characterized by abnormal, prolonged inflammatory activity and impaired healing. Enhanced interaction between the receptor for advanced glycation end products (RAGE) and its ligands in the diabetic tissue environment has been shown to increase proinflammatory cytokines and tissue-degradative matrix metalloproteinases, resulting in decreased collagen generation. Blockade of RAGE with multiple topical applications of soluble RAGE (sRAGE) on diabetic wounds has been shown to accelerate diabetic wound closure. We investigated the potential efficacy of gene therapy as a method for enhancing sRAGE expression in the diabetic wound. Full thickness 2???2?cm2 excisional wounds were created on the dorsae of genetically diabetic db/db mice. Lentiviral vector (1???105?PFU in 1?ml saline) carrying the gene for soluble receptor for advanced glycation end products (lenti-sRAGE) was injected into the wound margins and base. Mice were sacrificed at 14-, 21-, and 35-day intervals. Measurement of the residual epithelial gap showed increased healing of lenti-sRAGE-treated wounds compared to wounds treated with saline injection alone. Lenti-sRAGE-treated wounds were significantly smaller (epithelial gap?±?SD) than saline-treated wounds at both 21 days (0.77?±?0.24?cm, compared to 1.13?±?0.30?cm; P?<?0.05) and 35 days (0.51?±?0.42?cm, compared to 0.86?±?0.35?cm; P?<?0.05). Picrosirius red staining showed that lenti-sRAGE-treated wounds had 2.23?±?0.35 and 13.26?±?6.25-fold increases in collagen content relative to saline-treated wounds at 21 and 35 days, respectively (P?<?0.05). Preliminary CD31 staining of 21-day wounds demonstrated a twofold increase in neovascularization in lenti-sRAGE-treated wounds versus saline-treated wounds. Lentiviral gene therapy with sRAGE can accelerate diabetic wound healing over time, and genetic modification of the diabetic tissue environment to restore normal inflammatory activity could have a central role in the clinical setting. Supported by a grant from the American Diabetes Association
+ER  - 
+
+TY  - JOUR
+AU  - Roy,             Nakshatra K.
+AU  - Jia, Sheng-Xian
+AU  - Kloeters, Oliver
+AU  - Sull, Alan
+AU  - Mustoe, Thomas A.
+TI  - 066 Direct Comparison of Adenoviral and Adeno-Associated Viral Vectors for Efficiency of Gene Transfer in Ischemic Wound
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bn.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bn.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Tissue ischemia is a common occurrence in many disease processes including chronic wounds, stroke, solid tumors, and myocardial infarction. The application of gene delivery for healing of wounds has demonstrated increasing therapeutic promises in animal models. Adenoviral vectors have been successfully used for gene delivery to the ischemic wound. However, these vectors typically demonstrate short, transient transgene expression while eliciting significant cytotoxic immune response. Adeno-associated viral vectors (AAV) do not have those limitations; however, scant information is available about their transfection efficiency under low-oxygen tension. The goal of this study was to compare AAV vector with adenoviral vector in terms of relative efficiency of gene delivery and cytotoxic immune response in ischemic wounds. Reporter constructs Ad5-LacZ and AAV-LacZ (108?pfu/wound) were injected onto the dermis of rabbit ear prior to creation of ischemic wounds. Wounds were harvested at postoperative day 10. Frozen sections of the wounds were fixed in cold acetone and stained with an in situ ?-gal staining kit. Intense expression of ?-gal was observed with both vectors; however, transduction rates with AAV vector was approximately 10-fold lower than Adenovirus. Unlike Adenovirus, no noticeable inflammatory cell infiltration was observed with AAV injection. Even when the dosage of AAV was increased to 109?pfu/wound inflammatory cell infiltration remained negligible. Thus our data indicates that both AAV and adenoviral vectors are suitable to use in gene-therapy experiments in ischemic tissues. The particular advantage of AAV is the ability to transfect with higher doses while at lower dose maximal transfection rate seems to be more with Adenovirus.
+ER  - 
+
+TY  - JOUR
+AU  - Ferguson,             M.
+AU  - Marti, G.P.
+AU  - Nasir, I.
+AU  - Broor, A.
+AU  - Wang, J.
+AU  - Duncan, M.D.
+AU  - Harmon, J.W.
+TI  - 067 Electroporation-Enhanced Gene Therapy with KGF-1 Corrects Healing Impairment in Older Diabetic Mice
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bo.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bo.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Introduction:? Diabetes is known to impair wound healing. We assessed the effect of aging on this impairment and further explored the possibility of repairing age-dependant impairment by replenishing levels of the growth factor KGF-1 using our system of electroporation enhanced gene therapy. Methods:? Female BKS.Cg-m+/+Leprdb/J mice (diabetic) were obtained from the Jackson Laboratory (Bar Harbor, ME). Mice at time of study were 7, 27, and 84 weeks, respectively. Two wounds were created using a 5?mm punch biopsy. Plasmid DNA encoding KGF-1 was injected at 40??g / wound. Electroporation was carried out with six square wave pulses, at 1800 volts for 100??s; with aninterval of 125?ms. Wounds were assessed planometrically over a 14-day period. Results:? We found that wound healing is severely impaired in older, but not young diabetic mice (7-week-old mice displayed a threefold smaller wound area than 84-week-old mice on day 9). Glucose levels were similar in old and young groups ruling out differences in intensity of the metabolic derangement to explain this disparity (old: 334 +/? 41?mg/dl vs. young: 290 +/? 33?mg/dl). Treatment with KGF-1 gene therapy increased wound closure in aged mice 5.9-fold as compared to untreated aged mice 5 days after wounding (treated: 3724 +/? 631 vs. untreated: 632 +/? 517, P?=?0.002). Aged KGF-1 gene therapy-treated mice closed wounds 10-fold faster than treated young mice 5 days after wounding (old: 3724: +/? 631 vs. young 358 +/? 871, P?=?0.004). Conclusions:? We conclude that progressive damage to the tissues capability to heal occurs in individuals with diabetes. Treatment with KGF-1 gene therapy is more effective in aged mice than young mice. With an increasing geriatric diabetic population, gene therapy to replenish growth factors may be worth exploring.
+ER  - 
+
+TY  - JOUR
+AU  - Janis,             A.D.
+AU  - Klingman, N.V.
+AU  - Berceli, S.A.
+TI  - 071 Connective Tissue Growth Factor (CTGF) Content and Bioactivity of Small Intestinal Submucosa (SIS)
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bs.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bs.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Bioactive, resorbable materials can be useful in the treatment of surgical injury where biomaterial incorporation followed by tissue-specific remodeling is desired. Bioactive growth factors may be useful in the treatment of chronic ulcerative wounds, shifting the static wound environment to a more active acute phase. Small intestinal submucosa (SIS) is a naturally occurring extracellular matrix used as a biomaterial for the treatment of soft tissue injury, as well as pressure, venous, and diabetic ulcers. Preclinical and clinical studies have demonstrated that SIS induces host tissue infiltration, site-specific remodeling, and repair. Although SIS consists primarily of collagen, the presence of other proteins, glycosaminoglycans, proteoglycans, and the growth factors FGF-2, VEGF, and TGF-? have been reported. Recent experiments have demonstrated the presence of connective tissue growth factor (CTGF) in SIS. Immunohistochemical staining for CTGF was positive in mechanically isolated, disinfected, and ethylene oxide (EO) sterilized SIS. Lyophilized SIS samples were ground in ice cold PBS and CTGF concentration was measured using ELISA. The results are summarized in the following table: Sample [CTGF](ng/g) Mechanically isolated SIS 39.88?±?5.4 Disinfected SIS 11.31?±?7.2 Ethylene oxide sterilized SIS ?7.96?±?1.3 CTGF, secreted by fibroblasts after activation with TGF-?, stimulates cell proliferation and extracellular matrix synthesis. In vitro cell culture bioactivity experiments are planned. This work was supported by Cook Biotech Incorporated.
+ER  - 
+
+TY  - JOUR
+AU  - Cullen, B.
+AU  - Essler,             A.
+AU  - Nisbet, L.
+TI  - 073 Effect of Advanced Wound Therapies on Fibroblast Proliferation in Acute Wound Fluid
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bu.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bu.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Wound repair is described as a delicately balanced and well-orchestrated progression of events, which ultimately results in healing in the majority of acute cases. However, time taken to complete healing can vary greatly between patients and any alteration in this physiological process could delay healing further. Thus, a wound treatment, which facilitates healing independent of wound type and in patients where healing is compromised or impeded, would be extremely advantageous. Previous studies suggest a beneficial role for biomaterials such as collagen/ORC in modifying the chronic wound environment; however, their effect on the acute wound environment is unknown. While it is generally accepted that acute wounds heal at an optimum rate due to a positive wound environment, we wanted to determine if current advanced wound healing treatments could augment or impact this healing rate. In this study we evaluated the effect of advanced wound therapies in the presence of acute wound fluid on human dermal fibroblast proliferation. We hypothesize that an enhanced effect on fibroblast proliferation in the presence of acute wound fluid may be indicative of a beneficial effect in the treatment of acute wounds. Results demonstrate that of the wound treatments tested only collagen/ORC containing therapies exhibited a positive effect on fibroblast proliferation in the presence of acute wound fluid. We conclude, therefore, that collagen/ORC biomaterials, already shown to be beneficial in the treatment of chronic wounds, may also be a valuable therapy in the treatment of acute wounds.
+ER  - 
+
+TY  - JOUR
+AU  - Higgins, Paul J.
+TI  - 087 PAI-1 Gene Expression in Wound-Edge Keratinocytes is Upstream Stimulatory Factor-Dependent and Required for Cell Migration
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215ci.x
+DO  - doi:10.1111/j.1067-1927.2005.130215ci.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Expression of plasminogen activator inhibitor type-1 (PAI-1), a serine protease inhibitor important in the control of cell-to-matrix adhesion is spatially regulated following epidermal injury. PAI-1 synthesis was induced early after monolayer wounding and restricted to keratinocytes comprising the motile cohort closely recapitulating, thereby, similar events during cutaneous healing. MEK blockade with PD98059 or U0126 attenuated keratinocyte migration by ≥60%, as did transient transfection of a dominant-negative ERK1 construct, and completely inhibited PAI-1 transcript expression. Antisense downregulation of PAI-1 synthesis (by 80?85%) inhibited injury site closure. Keratinocytes isolated from PAI-1?/? mice confirmed the antisense results. PAI-1?/? cells had a 'significant wound healing defect; addition of active PAI-1 protein rescued the migratory phenotype. An E box (5?-CACGTG-3?) in the PE2 region of the PAI-1 gene was required for transcription of a PAI-1 promoter-driven luciferase reporter. Mutation of the CACGTG hexanucleotide to CAATTG inhibited 'promoter function. Competing CACGTG-containing DNAs, regardless of the presence or absence of PAI-1 specific flanking sequences or lacking accessory sequences inhibited complex formation between nuclear factors and a PE2 region probe. A CG?AT substitution with random (i.e., non-PAI-1) flanking sequences also failed to compete with the PE2 region probe for protein binding whereas the same construct with an intact CACGTG motif was an effective competitor. The major protein/DNA interactions in the PE2 segment, therefore, are E-box dependent. Chromatin immunoprecipitation confirmed that this site was occupied by USF-1 or a USF-1-containing complex. Transfection of a dominant-negative USF construct effectively attenuated growth factor-induced PAI-1 synthesis. Dominant-negative USF-expressing keratinocytes, moreover, had a significantly reduced capacity for Matrigel barrier invasion. USF elements, therefore, are important regulators of PAI-1 transcription and the associated migratory response. (Supported by NIH Grants GM57242 and GM42461)
+ER  - 

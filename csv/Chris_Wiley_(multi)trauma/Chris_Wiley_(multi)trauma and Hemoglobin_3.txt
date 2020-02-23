@@ -1,0 +1,527 @@
+
+TY  - JOUR
+AU  - Karamzadeh, Nader
+AU  - Amyot, Franck
+AU  - Kenney, Kimbra
+AU  - Anderson, Afrouz
+AU  - Chowdhry, Fatima
+AU  - Dashtestani, Hadis
+AU  - Wassermann, Eric M.
+AU  - Chernomordik, Victor
+AU  - Boccara, Claude
+AU  - Wegman, Edward
+AU  - Diaz-Arrastia, Ramon
+AU  - Gandjbakhche, Amir H.
+C7  - e00541
+TI  - A machine learning approach to identify functional biomarkers in human prefrontal cortex for individuals with traumatic brain injury using functional near-infrared spectroscopy
+JO  - Brain and Behavior
+JA  - Brain Behav
+VL  - 6
+IS  - 11
+SN  - 2162-3279
+UR  - https://doi.org/10.1002/brb3.541
+DO  - doi:10.1002/brb3.541
+SP  - e00541
+KW  - classification
+KW  - feature selection
+KW  - machine learning
+KW  - near-infrared spectroscopy
+KW  - traumatic brain injury
+KW  - time series feature extraction
+KW  - wrapper method
+PY  - 2016
+AB  - Abstract Background We have explored the potential prefrontal hemodynamic biomarkers to characterize subjects with Traumatic Brain Injury (TBI) by employing the multivariate machine learning approach and introducing a novel task-related hemodynamic response detection followed by a heuristic search for optimum set of hemodynamic features. To achieve this goal, the hemodynamic response from a group of 31 healthy controls and 30 chronic TBI subjects were recorded as they performed a complexity task. Methods To determine the optimum hemodynamic features, we considered 11 features and their combinations in characterizing TBI subjects. We investigated the significance of the features by utilizing a machine learning classification algorithm to score all the possible combinations of features according to their predictive power. Results and Conclusions The identified optimum feature elements resulted in classification accuracy, sensitivity, and specificity of 85%, 85%, and 84%, respectively. Classification improvement was achieved for TBI subject classification through feature combination. It signified the major advantage of the multivariate analysis over the commonly used univariate analysis suggesting that the features that are individually irrelevant in characterizing the data may become relevant when used in combination. We also conducted a spatio-temporal classification to identify regions within the prefrontal cortex (PFC) that contribute in distinguishing between TBI and healthy subjects. As expected, Brodmann areas (BA) 10 within the PFC were isolated as the region that healthy subjects (unlike subjects with TBI), showed major hemodynamic activity in response to the High Complexity task. Overall, our results indicate that identified temporal and spatio-temporal features from PFC's hemodynamic activity are promising biomarkers in classifying subjects with TBI.
+ER  - 
+
+TY  - JOUR
+AU  - Kim, Hae Won
+AU  - Greenburg, A. Gerson
+TI  - Artificial Oxygen Carriers as Red Blood Cell Substitutes: A Selected Review and Current Status
+JO  - Artificial Organs
+VL  - 28
+IS  - 9
+SN  - 0160-564X
+UR  - https://doi.org/10.1111/j.1525-1594.2004.07345.x
+DO  - doi:10.1111/j.1525-1594.2004.07345.x
+SP  - 813
+EP  - 828
+KW  - Hemoglobin-based oxygen carrier
+KW  - Perfluorocarbon-based oxygen carrier
+KW  - Blood substitute
+KW  - Hemoglobin
+KW  - Perfluorocarbon
+PY  - 2004
+AB  - Abstract:? Two distinct approaches are being explored in red blood cell substitute (RCS) development: hemoglobin-based oxygen carriers (HBOCs) and perfluorocarbon-based oxygen carriers (PFBOCs). HBOCs are based on intra- and/or intermolecularly ?engineered? human or animal hemoglobins (Hbs), optimized for O2 delivery and longer intravascular circulation. Some are currently being evaluated in Phase II/III clinical studies. PFBOCs are aqueous emulsions of perfluorocarbon derivatives that dissolve relatively large amounts of O2. A PFBOC based on a 60% (wt/vol) emulsion of perfluorooctyl bromide has been evaluated in Phase II/III clinical trials. Although current PFBOC products generally require patients to breathe O2 enriched air, they render certain advantages since they are totally synthetic. This article provides a short review of the basic principles, approaches, and current status of RCS development. Results of preclinical and clinical studies including recent Phase II/III clinical studies are discussed.
+ER  - 
+
+TY  - JOUR
+AU  - Seago, Meghan
+AU  - Shumaker, Peter R.
+AU  - Spring, Leah K.
+AU  - Alam, Murad
+AU  - Al-Niaimi, Firas
+AU  - Rox Anderson, R.
+AU  - Artzi, Ofir
+AU  - Bayat, Ardeshir
+AU  - Cassuto, Daniel
+AU  - Chan, Henry HL
+AU  - Dierickx, Christine
+AU  - Donelan, Matthias
+AU  - Gauglitz, Gerd G.
+AU  - Leo Goo, Boncheol
+AU  - Goodman, Greg J.
+AU  - Gurtner, Geoffrey
+AU  - Haedersdal, Merete
+AU  - Krakowski, Andrew C.
+AU  - Manuskiatti, Woraphong
+AU  - Norbury, William B.
+AU  - Ogawa, Rei
+AU  - Ozog, David M.
+AU  - Paasch, Uwe
+AU  - Victor Ross, E.
+AU  - Tretti Clementoni, Matteo
+AU  - Waibel, Jill
+TI  - Laser Treatment of Traumatic Scars and Contractures: 2020 International Consensus Recommendations
+JO  - Lasers in Surgery and Medicine
+JA  - Lasers Surg. Med.
+VL  - 52
+IS  - 2
+SN  - 0196-8092
+UR  - https://doi.org/10.1002/lsm.23201
+DO  - doi:10.1002/lsm.23201
+SP  - 96
+EP  - 116
+KW  - laser
+KW  - scar
+KW  - traumatic scar
+KW  - burn scar
+KW  - fractional
+KW  - vascular
+PY  - 2020
+AB  - Background and Objectives There is currently intense multidisciplinary interest and a maturing body of literature regarding laser treatments for traumatic scars, but international treatment guidelines and reimbursement schemes have not yet caught up with current knowledge and practice in many centers. The authors intend to highlight the tremendous potential of laser techniques, offer recommendations for safe and efficacious treatment, and promote wider patient access guided by future high-quality research. Study Design/Materials and Methods An international panel of 26 dermatologists and plastic and reconstructive surgeons from 13 different countries and a variety of practice backgrounds was self-assembled to develop updated consensus recommendations for the laser treatment of traumatic scars. A three-step modified Delphi method took place between March 2018 and March 2019 consisting of two rounds of emailed questionnaires and supplementary face-to-face meetings. The panel members approved the final manuscript via email correspondence, and the threshold for consensus was at least 80% concurrence among the panel members. Results The manuscript includes extensive detailed discussion regarding a variety of laser platforms commonly used for traumatic scar management such as vascular lasers and ablative and non-ablative fractional lasers, special considerations such as coding and laser treatments in skin of color, and 25 summary consensus recommendations. Conclusions Lasers are a first-line therapy in the management of traumatic scars and contractures, and patients without access to these treatments may not be receiving the best available care after injury. Updated international treatment guidelines and reimbursement schemes, additional high-quality research, and patient access should reflect this status. Lasers Surg. Med. ? 2019 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - MacLaren, R.
+AU  - Gasper, J.
+AU  - Jung, R.
+AU  - Vandivier, R. W.
+TI  - Use of exogenous erythropoietin in critically ill patients
+JO  - Journal of Clinical Pharmacy and Therapeutics
+VL  - 29
+IS  - 3
+SN  - 0269-4727
+UR  - https://doi.org/10.1111/j.1365-2710.2004.00552.x
+DO  - doi:10.1111/j.1365-2710.2004.00552.x
+SP  - 195
+EP  - 208
+KW  - anaemia
+KW  - critical care
+KW  - erythropoietin
+KW  - hematocrit
+KW  - hemoglobin
+KW  - transfusion
+PY  - 2004
+AB  - Summary Objective:? Review the literature regarding the use of recombinant human erythropoietin (rHuEPO) to prevent red blood cell (RBC) transfusion in critically ill patients. Data sources:? A computerized search of MEDLINE and EMBASE from 1966 through June 2003 was conducted using the terms erythropoietin, anemia, hemoglobin, critical care, intensive care, surgery, trauma, burn, and transfusion. References of selected articles were reviewed. A manual search of critical care, surgery, trauma, burn, hematology, and pharmacy journals was conducted to identify relevant abstracts. Results:? Six randomized studies have evaluated exogenous administration of erythropoietin to prevent RBC transfusions in critically ill patients. Studies vary with respect to rHuEPO dosage regimens, dose of concurrently administered iron, patient characteristics, and transfusion thresholds. Administration of rHuEPO rapidly produces erythropoiesis to reduce the need for RBC transfusions. The largest study conducted to date used weekly rHuEPO administration and found a modest decrease in transfusion requirements although the time to first transfusion was delayed. Reduced intensive care unit (ICU) length of stay (LOS) was shown in only one study of surgical/trauma patients. Reduced LOS after ICU discharge was found in another study of severely ill patients (APACHE II score >22). Other clinical outcomes were not altered by rHuEPO use. No adverse events were associated with rHuEPO use although studies were not designed to evaluate safety. Conclusions:? rHuEPO reduces the need for transfusions. A cost-effectiveness analysis of rHuEPO for this indication is needed. Defining an optimal dosage regimen, identifying patients most likely to respond to rHuEPO, and determining risk factors for ICU associated anaemia would provide information for appropriate rHuEPO utilization.
+ER  - 
+
+TY  - JOUR
+AU  - Hudis, Clifford A.
+AU  - Van Belle, Simon
+AU  - Chang, Jose
+AU  - Muenstedt, Karsten
+TI  - rHuEPO and Treatment Outcomes: the Clinical Experience
+JO  - The Oncologist
+JA  - The Oncologist
+VL  - 9
+IS  - S5
+SN  - 1083-7159
+UR  - https://doi.org/10.1634/theoncologist.9-90005-55
+DO  - doi:10.1634/theoncologist.9-90005-55
+SP  - 55
+EP  - 69
+KW  - Anemia
+KW  - Cancer
+KW  - Epoetin alfa
+KW  - Hemoglobin
+KW  - Outcomes
+KW  - Quality of life
+KW  - rHuEPO
+KW  - Survival
+KW  - Tumor hypoxia
+PY  - 2004
+AB  - Learning Objectives After completing this course, the reader will be able to: Relate anemia to treatment outcome in a number of solid tumors. Relate hemoglobin level to quality of life. Describe the potential adverse consequences of overtreating anemia. Access and take the CME test online and receive 1 hour of AMA PRA category 1 credit atCME.TheOncologist.com Increasingly, anemia is being recognized as a negative prognostic and predictive factor for patients undergoing chemotherapy, radiation therapy, or a combination of these treatment modalities. The results of clinical studies have shown correlations between anemia and shorter survival times in patients with a wide variety of solid tumors and hematologic malignancies, including lung, ovarian, breast, and head/neck cancers, non-Hodgkin's lymphoma, Hodgkin's disease, Waldenström's macroglobulinemia, and chronic lymphocytic leukemia. Also, anemia has been shown to predict treatment response in patients with ovarian, cervical, and urothelial cancers, mantle cell lymphoma, and chronic lymphocytic leukemia, as well as refractory/relapsed acute myelogenous leukemia. Based on the presumed causal relationship between anemia and poor patient outcome, several studies have examined the influence of epoetin alfa (a recombinant human erythropoietin) on outcomes in anemic patients undergoing cancer treatment. The results of these studies have been encouraging, with indications of greater locoregional tumor control and higher response rates in epoetin alfa-treated patients. Additionally, epoetin alfa therapy, by correcting anemia, has been shown to improve a patient's energy level, ability to perform daily activities, and overall quality of life (QOL). Such effects not only enhance a patient's general well-being, but may also increase their tolerance of, and willingness to undergo, full courses of their cancer therapy in a timely manner. These findings support the use of epoetin alfa to achieve gains in QOL and cancer treatment outcomes in anemic cancer patients and suggest that additional studies be conducted to further investigate the potential benefits of this agent in regard to improved outcomes.
+ER  - 
+
+TY  - JOUR
+AU  - ÖST, M.
+AU  - NYLÉN, K.
+AU  - CSAJBOK, L.
+AU  - BLENNOW, K.
+AU  - ROSENGREN, L.
+AU  - NELLGÅRD, B.
+TI  - Apolipoprotein E polymorphism and gender difference in outcome after severe traumatic brain injury
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 52
+IS  - 10
+SN  - 0001-5172
+UR  - https://doi.org/10.1111/j.1399-6576.2008.01675.x
+DO  - doi:10.1111/j.1399-6576.2008.01675.x
+SP  - 1364
+EP  - 1369
+KW  - Apolipoprotein E
+KW  - brain injuries
+KW  - child
+KW  - female
+KW  - Glasgow outcome scale
+KW  - male
+KW  - survival rate
+PY  - 2008
+AB  - Background: Traumatic brain injury (TBI) is one of the most common causes of death and dismal outcome among children and young adults. The morbidity and mortality differ but more aggressive monitoring and more designated neuro intensive care units have improved the results. Studies have demonstrated a connection between apolipoprotein E (APOE) genotype and outcome after TBI, but few are prospective and none is from northern Europe. APOE has three alleles: ?2, ?3 and ?4. Methods: A total of 96 patients with Glasgow coma score (GCS) ≤8 were prospectively and consecutively included. APOE genotypes were all analyzed at the same laboratory from blood samples by polymerase chain reaction-restriction fragment length polymorphism. Results: All patients were assessed at 1 year with Glasgow outcome scale extended (GOSE), National Institute of Health Stroke Scale (NIHSS) and the Barthel daily living index. The genotype was available in all patients. Twenty-six patients expressed APOE ?4 while 70 patients did not. Outcome demonstrated that patients with APOE ?4 had worse outcome vs. those lacking this allele. When subdividing patients into gender, males with APOE ?4 did worse, a difference not detected among female patients. Conclusions: APOE ?4 correlated to worse outcome in TBI patients. We also found that males with APOE ?4 had poor outcome while females did not. Thus, the results indicate that genetic polymorphism may influence outcome after TBI.
+ER  - 
+
+TY  - JOUR
+AU  - Chong, S.
+AU  - Adams, D.
+AU  - Rahman, H.
+TI  - TS20P LAPAROSCOPIC REPAIR OF TRAUMATIC DIAPHRAGMATIC HERNIAE: A CASE PRESENTATION AND SYNTHESIS OF THE LITERATURE EXPERIENCE
+JO  - ANZ Journal of Surgery
+VL  - 77
+IS  - s1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/j.1445-2197.2007.04133_20.x
+DO  - doi:10.1111/j.1445-2197.2007.04133_20.x
+SP  - A97
+EP  - A97
+PY  - 2007
+AB  - Purpose? Traumatic diaphragmatic herniae are an uncommon sequelae of abdominal trauma which present a significant diagnostic challenge, especially when unaccompanied by other intraabdominal injuries necessitating exploratory laparotomy. Laparoscopic repair is a relatively new and uncommon procedure, with the literature consisting almost entirely of isolated case reports and small case series. We present one of our own cases, and perform a quantitative analysis of the combined literature experience to date. Methodology? Cases reports of laparoscopic repair of traumatic diaphragmatic herniae were identified by a Medline literature search. Clinical findings, technical decisions and outcomes were correlated via database. Results? Data from 50 cases was available. There was no common standard method of repair although the majority (31/50) were accomplished without the use of mesh. The major complication rate was 4%, the overall complication rate was 16%. Defects greater than 10cm long were associated with a 41% rate of open conversion, versus 0% if less than 10cm. There were no recurrences described. Conclusion? Laparoscopic repair of traumatic diaphragmatic herniae enjoys a low rate of major complications, whilst avoiding the morbidity of open repair. Several technical points remain open to operator preference, and we invite discussion regarding the merits of each.
+ER  - 
+
+TY  - JOUR
+AU  - Athanasiadis, Theodore
+AU  - Beule, Achim
+AU  - Embate, Jose
+AU  - Steinmeier, Elke
+AU  - Field, John
+AU  - Wormald, P J.
+TI  - Standardized Video-Endoscopy and Surgical Field Grading Scale for Endoscopic Sinus Surgery: A Multi-Centre Study
+JO  - The Laryngoscope
+JA  - The Laryngoscope
+VL  - 118
+IS  - 2
+SN  - 0023-852X
+UR  - https://doi.org/10.1097/MLG.0b013e318157f764
+DO  - doi:10.1097/MLG.0b013e318157f764
+SP  - 314
+EP  - 319
+KW  - Endoscopic sinus surgery
+KW  - bleeding
+KW  - hemostasis
+KW  - grading
+KW  - reliability
+KW  - surgical grade
+KW  - validated
+PY  - 2008
+AB  - Abstract Background: Bleeding is a major concern in endoscopic sinus surgery (ESS), as it may impede surgical progress and is often associated with complications. To improve the study and management of intraoperative bleeding, a standardized method of recording bleeding during ESS is needed. The aim of this study was to develop a standardized method of documenting bleeding in ESS and of grading the surgical field. Methods: Bleeding after endoscopic sinus surgery was recorded using video-endoscopy. Standardized and non-standardized video-endoscopies of 20 patients were graded using a previously published grading scale (the Boezaart scale) in randomized order on two different occasions. Effects of standardization on intra- and interrater reliability were evaluated. Based on this experience, a new 11-point surgical field grading scale was developed and simultaneously compared with the six-point Boezaart scale via means of a DVD in three international centers. Results: Inter and intrarater reliability of the Boezaart and new Wormald scales significantly improved by employing a standardized video-endoscopy technique. The Wormald scale had significantly higher interrater (0.80 vs. 0.74, P < .001) and intrarater (0.89 vs. 0.83, P < .001) reliability than the Boezaart scale. Linear regression analysis revealed the Wormald scale to be more sensitive to changes in the most common surgical fields experienced in ESS. Conclusion: Standardized video-endoscopy has been demonstrated to significantly improve reliability and reproducibility of results and is recommended for future work evaluating bleeding in ESS. The new Wormald grading scale has been shown to be an inexpensive, reliable, and sensitive tool to rapidly evaluate intraoperative bleeding in ESS. It overcomes several limitations of the Boezaart scale, enabling us to analyze currently employed and newly developed hemostatic methods and agents.
+ER  - 
+
+TY  - JOUR
+AU  - (Satoaki Hachiya), 蜂谷 聡明
+AU  - (Masaki Okajima), 岡島 正樹
+AU  - (Miho Nakamura), 中村 美穂
+AU  - (Kouji Sato), 佐藤 康次
+AU  - (Yoshinao Koshida), 越田 嘉尚
+AU  - (Toru Noda), 野田 透
+AU  - (Takumi Taniguchi), 谷口 巧
+TI  - 多臓器不全を来したIII度熱中症の管理において持続脳波モニタリングが有用であった1例(Usefulness of continuous electroencephalography in severe heat stroke complicated with multi–organ failure: a case report)
+JO  - Nihon Kyukyu Igakukai Zasshi: Journal of Japanese Association for Acute Medicine
+JA  - Nihon Kyukyu Igakukai Zasshi: Japanese Journal of Japanese Association for Acute Medicine
+VL  - 27
+IS  - 4
+SN  - 1883-3772
+UR  - https://doi.org/10.1002/jja2.12091
+DO  - doi:10.1002/jja2.12091
+SP  - 125
+EP  - 129
+KW  - 三相波
+KW  - 急性肝不全
+KW  - 人工肝補助療法
+KW  - triphasic wave
+KW  - hepatic failure
+KW  - artificial liver support therapy
+PY  - 2016
+AB  - ?? III????????????????????????????????????????????????????????????????????????????????????????????????????continuous electroencephalography: cEEG????????????????????????????????????????????????????????71???????????????III????????ICU????cEEG???????2?????????????3????????????????4???cEEG?????????????????????????????????????????????????????????????cEEG???????
+ER  - 
+
+AU  - Welch, Stephen M.
+AU  - Nelson, Christopher S.
+AU  - Barnes, Stephen L.
+C7  - pp. 59-67
+TI  - Hemodynamic and Respiratory Monitoring
+SN  - 9781119317920
+UR  - https://doi.org/10.1002/9781119317913.ch6
+DO  - doi:10.1002/9781119317913.ch6
+SP  - 59-67
+KW  - deoxygenated hemoglobin
+KW  - hemodynamic monitoring
+KW  - oxygen delivery
+KW  - oxygen transport monitoring
+KW  - pulse oximetry monitors
+KW  - rapid shallow breathing index
+KW  - respiratory monitoring
+PY  - 2016
+AB  - Summary This is a unique question-and-answer chapter for surgical residents and trainees, concentrating on the hemodynamic and respiratory monitoring. It is essential for a practitioner to understand oxygen delivery and how it can be optimized when providing adequate hemodynamic support in the critically ill patient. The rapid shallow breathing index (RSBI) is the ratio of respiratory frequency to tidal volume. Patients who cannot tolerate independent breathing tend to breathe rapidly and shallow. Multiple factors can affect the accuracy of pulse oximetry monitors. CO-oximetry is a four wavelength non-invasive monitoring system that allows additional measurements of blood constituents. It not only measures oxygenated and deoxygenated hemoglobin, as pulse oximetry does, but also dyshemoglobins. End-tidal CO2 monitoring can help identify problems immediately after intubation and before critical hypoxemia becomes manifest. Adding lactate determinations to oxygen transport monitoring provides a more complete assessment of tissue oxygenation.
+ER  - 
+
+AU  - Friedman, Elliott R.
+AU  - Goldman, Stanford M.
+AU  - Shu, Tung
+C7  - pp. 121-147
+TI  - Urinary Tract Injuries
+SN  - 9780470510896
+UR  - https://doi.org/10.1002/9780470741108.ch7
+DO  - doi:10.1002/9780470741108.ch7
+SP  - 121-147
+KW  - urinary tract injuries
+KW  - American Association for Surgery of Trauma (AAST) organ injury severity scale for renal trauma
+KW  - intravenous urography (IVU)
+KW  - assessment of complications of renal injury
+KW  - absolute indications for surgical management
+KW  - adrenal trauma
+KW  - ureteral trauma
+KW  - findings at urethrogram of urethral injury
+KW  - penile and scrotal trauma
+PY  - 2016
+AB  - Summary This chapter contains sections titled: Introduction Renal trauma Adrenal trauma Ureteral trauma Bladder trauma Urethral trauma Penile and scrotal trauma References
+ER  - 
+
+TY  - JOUR
+AU  - Okada, Naohiro
+AU  - Takahashi, Katsuyoshi
+AU  - Nishimura, Yukika
+AU  - Koike, Shinsuke
+AU  - Ishii-Takahashi, Ayaka
+AU  - Sakakibara, Eisuke
+AU  - Satomura, Yoshihiro
+AU  - Kinoshita, Akihide
+AU  - Takizawa, Ryu
+AU  - Kawasaki, Shingo
+AU  - Nakakita, Mayumi
+AU  - Ohtani, Toshiyuki
+AU  - Okazaki, Yuji
+AU  - Kasai, Kiyoto
+TI  - Characterizing prefrontal cortical activity during inhibition task in methamphetamine-associated psychosis versus schizophrenia: a multi-channel near-infrared spectroscopy study
+JO  - Addiction Biology
+JA  - Addiction Biology
+VL  - 21
+IS  - 2
+SN  - 9780470510896
+UR  - https://doi.org/10.1111/adb.12224
+DO  - doi:10.1111/adb.12224
+SP  - 489
+EP  - 503
+KW  - Inhibitory control
+KW  - methamphetamine-associated psychosis
+KW  - near-infrared spectroscopy
+KW  - prefrontal cortex
+KW  - stop-signal task
+PY  - 2016
+AB  - Abstract Methamphetamine abuse and dependence, frequently accompanied by schizophrenia-like psychotic symptoms [methamphetamine-associated psychosis (MAP)], is a serious public health problem worldwide. Few studies, however, have characterized brain dysfunction associated with MAP, nor investigated similarities and differences in brain dysfunction between MAP and schizophrenia. We compared prefrontal cortical activity associated with stop-signal inhibitory task in 21 patients with MAP, 14 patients with schizophrenia and 21 age- and gender-matched healthy controls using a 52-channel near-infrared spectroscopy (NIRS) system. Both the MAP and the schizophrenia groups showed significantly reduced activation in the bilateral ventrolateral prefrontal cortex compared with controls; however, only the MAP group showed reduced activation in the frontopolar prefrontal cortex. The MAP group demonstrated significant positive correlations between task performance and hemodynamic responses in the bilateral ventrolateral, polar and left dorsolateral regions of the prefrontal cortex. The MAP and schizophrenia groups demonstrated a significant difference in the relationship of impulsivity to hemodynamic changes in the bilateral premotor cortex. These findings characterize similarities and differences in prefrontal cortical dysfunction between psychosis associated with methamphetamine and schizophrenia. The reduced hemodynamic changes in the bilateral ventrolateral prefrontal cortex suggest a common underlying pathophysiology of MAP and schizophrenia, whereas those in the frontopolar prefrontal cortex point to an impaired state that is either inherent or caused specifically by methamphetamine use.
+ER  - 
+
+TY  - JOUR
+AU  - Gurney, Jennifer M.
+AU  - Kozar, Rosemary A
+AU  - Cancio, Leopoldo C.
+TI  - Plasma for burn shock resuscitation: is it time to go back to the future?
+JO  - Transfusion
+JA  - Transfusion
+VL  - 59
+IS  - S2
+SN  - 9780470510896
+UR  - https://doi.org/10.1111/trf.15243
+DO  - doi:10.1111/trf.15243
+SP  - 1578
+EP  - 1586
+PY  - 2019
+AB  - Patients with burn shock can be challenging to resuscitate. Burn shock produces a variety of physiologic derangements: Patients are hypovolemic from volume loss, have a increased systemic vascular resistance, and may have a depressed cardiac output depending on the extent of the thermal injury. Additionally, the burn wound produces a significant inflammatory cascade of events that contributes to the shock state. Fluid resuscitation is foundational for the initial treatment of burn shock. Typical resuscitation is with intravenous lactated Ringer's in accordance with well-established formulas based on burn wound size. In the past century, as therapies to treat thermal injuries were being developed, plasma was the fluid used for burn resuscitation; in fact, plasma was used in World War II and throughout the 1950s and 1960s. Plasma was abandoned because of infectious risks and complications. Despite huge strides in transfusion medicine and the increased safety of blood products, plasma has never been readopted for burn resuscitation. Over the past 15 years, there has been a paradigm shift in trauma resuscitation: Less crystalloid and more blood products are used; this strategy has demonstrated improved outcomes. Plasma is a physiologic fluid that stabilizes the endothelium. The endotheliopathy of trauma has been described and is mitigated by transfusion strategies with a 1:1 ratio of RBCs to plasma. Thermal injury also results in endothelial dysfunction: the endotheliopathy of burns. Plasma is likely a better resuscitation fluid for patients with significant burn wounds because of its capability to restore intravascular volume status and treat the endotheliopathy of burns.
+ER  - 
+
+TY  - JOUR
+AU  - Al-Mulla, Naima A.
+AU  - Chandra, Prem
+AU  - Khattab, Mohammed
+AU  - Madanat, Faris
+AU  - Vossough, Parvaneh
+AU  - Torfa, Eyad
+AU  - Al-Lamki, Zakiya
+AU  - Zain, Gamal
+AU  - Muwakkit, Samar
+AU  - Mahmoud, Salah
+AU  - Al-Jassmi, Abdulrahman
+AU  - Tuncer, Murat
+AU  - Al-Mukharraq, Hussein
+AU  - Barsaoui, Sihem
+AU  - Arceci, Robert J.
+AU  - Howard, Scott C.
+AU  - Kulozik, Andreas E.
+AU  - Ravindranath, Yaddanapudi
+AU  - Reaman, Gregory H.
+AU  - Farranoush, Mohammad
+AU  - AlNasser, Abdullah A.
+TI  - Childhood acute lymphoblastic leukemia in the Middle East and neighboring countries: A prospective multi-institutional international collaborative study (CALLME1) by the Middle East Childhood Cancer Alliance (MECCA)
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr Blood Cancer
+VL  - 61
+IS  - 8
+SN  - 9780470510896
+UR  - https://doi.org/10.1002/pbc.25031
+DO  - doi:10.1002/pbc.25031
+SP  - 1403
+EP  - 1410
+KW  - induction
+KW  - leukemia
+KW  - MECCA
+KW  - pediatric
+PY  - 2014
+AB  - Abstract Background Little is known about childhood ALL in the Middle East. This study was undertaken by MECCA as initial efforts in collaborative data collection to provide clinical and demographic information on children with ALL in the Middle East. Procedure Clinical and laboratory data for patients with ALL between January 2008 and April 2012 were prospectively collected from institutions in 14 Middle East countries and entered into a custom-built-database during induction phase. All laboratory studies including cytogenetics were done at local institutions. Results The 1,171 voluntarily enrolled patients had a mean age of 6.1?±?3.9 years and 59.2% were boys. T-ALL represented 14.8% and 84.2% had B-precursor ALL. At diagnosis, 5.6% had CNS disease. The distribution of common genetic abnormalities reflected a similar percentage of hyperdiploidy (25.6%), but a lower percentage of ETV6?RUNX1 translocation (14.7%) compared to large series reported from Western populations. By clinical criteria, 47.1% were low/standard risk, 16.9% were intermediate risk, and 36% were high risk. Most patients received all their care at the same unit (96.9%). Patients had excellent induction response to chemotherapy with an overall complete remission rate of 96%. Induction toxicities were acceptable. Conclusions This first collaborative study has established a process for prospective data collection and future multinational collaborative research in the Middle East. Despite the limitations of an incomplete population-based study, it provides the first comprehensive baseline data on clinical characteristics, laboratory evaluation, induction outcome, and toxicity. Further work is planned to uncover possible biologic differences of ALL in the region and to improve diagnosis and management. Pediatr Blood Cancer 2014; 61:1403?1410. ? 2014 Wiley Periodicals, Inc.
+ER  - 
+
+AU  - Shander, Aryeh
+AU  - Javidroozi, Mazyar
+AU  - Perelman, Seth
+C7  - pp. 271-288
+TI  - Artificial blood
+SN  - 9780470674086
+UR  - https://doi.org/10.1002/9781118554685.ch12
+DO  - doi:10.1002/9781118554685.ch12
+SP  - 271-288
+KW  - hemoglobin
+KW  - oxygen
+KW  - anemia
+KW  - transfusion
+KW  - artificial oxygen carrier
+KW  - blood
+KW  - complications
+KW  - hemoglobin-based oxygen carrier
+KW  - perfluorocarbon
+PY  - 2014
+AB  - Summary Several issues related to the risks, costs, and availability of allogeneic blood transfusions have fueled research into other blood substitutes. Artificial oxygen carriers increase the oxygen content of blood by providing additional chemically modified hemoglobin molecules or inert fluids capable of dissolving large amounts of oxygen. Several such products have been developed and many have undergone extensive clinical investigation, demonstrating their efficacy in improving oxygen transportation and avoiding the need for allogeneic blood transfusions. Their clinical use, however, has been marred by the unresolved safety issues and significant numbers of complications. While further research is underway to improve the safety of artificial oxygen carriers, current products remain valuable assets as ?oxygen bridges? in the management of patients suffering from critically low hemoglobin levels at imminent risk of ischemia and death that cannot be transfused.
+ER  - 
+
+TY  - JOUR
+AU  - Serena,             T.
+AU  - Li, V.W.
+AU  - on behalf of the Wound Healing Cooperative Group
+TI  - 145 Interval Analysis of a Randomized, Open Label, Multi-Center Study Comparing Apligraf Vs. Standard Multilayer Compression in the Reduction of Pain Associated WItH Venous Leg Ulcerations
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 9780470674086
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130216aw.x
+DO  - doi:10.1111/j.1067-1927.2005.130216aw.x
+SP  - A28
+EP  - A48
+PY  - 2005
+AB  - Background:? According to The American Pain Society, pain should be considered a fifth vital sign. Pain is a prominent feature of venous leg ulcerations (VLUs). Sixty-five percent of VLU patients complain of severe pain. In several multicenter clinical trials, Apligraf, a bioengineered living skin construct, has been shown to accelerate healing in venous leg ulcerations. Anecdotal clinical observations suggest that Apligraf treatment is associated with pain relief. A treatment modality which promotes healing and reduces pain would significantly improve the quality of life in patients with VLU. Methods:? VLU patients with pain scores greater than 5/10 on a numerical scale or requiring narcotic analgesia were randomized to receive either Apligraf and compression or compression alone. There was a 3-week ?wash-out? period to ensure that pain was not due to other factors such as inadequate compression or infection. Patients were enrolled only after a negative quantitative biopsy. The intensity of pain was self-scored and a quality-of-life questionnaire was completed at each visit. Weekly wound area measurements were obtained with digital planimetry. Results:? Thus far in the enrollment period we have already seen a trend toward a significant reduction in pain in the Apligraf group. This pain relief occurs shortly after application indicating that a mechanism distinct from clinical healing. The Apligraf group also demonstrated acceleration in wound healing as well as a decreased time-to-complete closure. Conclusion:? Interval analysis of this multicenter trial suggests that Apligraf accelerates wound healing and reduces the pain associated with venous leg ulcerations. Acknowledgment:? Unrestricted Educational grant, Organogenesis Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Uchida, Kenichiro
+AU  - Mizobata, Yasumitsu
+AU  - Hagawa, Naohiro
+AU  - Yamamoto, Tomonori
+AU  - Kaga, Shinichiro
+AU  - Noda, Tomohiro
+AU  - Shinyama, Naoki
+AU  - Nishimura, Tetsuro
+AU  - Yamamoto, Hiromasa
+TI  - Can we predict delayed undesirable events after blunt injury to the torso visceral organs?
+JO  - Acute Medicine & Surgery
+JA  - Acute Med Surg
+VL  - 5
+IS  - 2
+SN  - 9780470674086
+UR  - https://doi.org/10.1002/ams2.330
+DO  - doi:10.1002/ams2.330
+SP  - 160
+EP  - 165
+KW  - Blunt trauma
+KW  - delayed rupture
+KW  - non-operative management
+KW  - pseudoaneurysm
+PY  - 2018
+AB  - Aim Blunt injuries to visceral organs have the potential to lead to delayed pseudoaneurysm formation or organ rupture, but current trauma and surgical guidelines do not recommend repetitive imaging. This study examined the incidence and timing of delayed undesirable events and established advisable timing for follow-up imaging and appropriate observational admission. Methods Patients with blunt splenic (S), liver (L), or kidney (K) injury treated with non-operative management (NOM) in our institution were included and retrospectively reviewed. Results From January 2013 to January 2017, 57 patients were admitted with documented blunt visceral organ injuries and 22 patients were excluded. Of 35 patients (L, 10; S, 17; K, 6; L  S  S, 9; K, 1) patients underwent transcatheter arterial embolization. Delayed undesirable events occurred in four patients: three patients with splenic pseudoaneurysm on hospital day 6?7 and one patient with splenic delayed rupture on hospital day 7. The second follow-up computed tomography scan carried out 1?2 days after admission did not show any significant findings that could help predict undesirable results of delayed events. The patients with delayed events had longer continuous abdominal pain than that of event-free patients (P = 0.04). Conclusions Undesirable delayed events were recognized on follow-up computed tomography scans in 11.4% of NOM patients at hospital day 6?7 and tended to be associated with high-grade splenic injuries and continuous symptoms. Repetitive screening of these patients 6?7 days after injury might be warranted because of the potential risk of delayed events.
+ER  - 
+
+TY  - JOUR
+AU  - Ueda, Shotaro
+AU  - Ota, Toyosaku
+AU  - Iida, Junzo
+AU  - Yamamuro, Kazuhiko
+AU  - Yoshino, Hiroki
+AU  - Kishimoto, Naoko
+AU  - Kishimoto, Toshifumi
+TI  - Reduced prefrontal hemodynamic response in adult attention-deficit hyperactivity disorder as measured by near-infrared spectroscopy
+JO  - Psychiatry and Clinical Neurosciences
+JA  - Psychiatry Clin. Neurosci.
+VL  - 72
+IS  - 6
+SN  - 9780470674086
+UR  - https://doi.org/10.1111/pcn.12643
+DO  - doi:10.1111/pcn.12643
+SP  - 380
+EP  - 390
+KW  - adult attention-deficit hyperactivity disorder
+KW  - functional neuroimaging study
+KW  - near-infrared spectroscopy
+KW  - prefrontal hemodynamic response
+KW  - Stroop Color–Word Task
+PY  - 2018
+AB  - Aim Recent developments in near-infrared spectroscopy (NIRS) have enabled non-invasive clarification of brain functions in psychiatric disorders. In pediatric attention-deficit hyperactivity disorder (ADHD), reduced prefrontal hemodynamic responses have been observed with NIRS repeatedly. However, there are few studies of adult ADHD by multi-channel NIRS. Therefore, in this study, we used multi-channel NIRS to examine the characteristics of prefrontal hemodynamic responses during the Stroop Color?Word Task (SCWT) in adult ADHD patients and in age- and sex-matched control subjects. Methods Twelve treatment-naïve adults with ADHD and 12 age- and sex-matched healthy control subjects participated in the present study after giving consent. We used 24-channel NIRS to measure the oxygenated hemoglobin (oxy-Hb) changes at the frontal lobes of participants during the SCWT. We compared the oxy-Hb changes between adults with ADHD and control subjects by t-tests with Bonferroni correction. Results During the SCWT, the oxy-Hb changes observed in the ADHD group were significantly smaller than those in the control group in channels 11, 16, 18, 21, 22, 23, and 24, corresponding to the prefrontal cortex. At channels 16, 21, 23, and 24 of the ADHD group, there were negative correlations between the symptomatic severity and the oxy-Hb changes. Conclusion The present study suggests that adults with ADHD have reduced prefrontal hemodynamic response as measured by NIRS.
+ER  - 
+
+TY  - JOUR
+AU  - Seidner, Douglas L.
+AU  - Ghanta, Ravi K.
+TI  - Management of a Traumatic Gastric Ulcer With a Low-Profile Gastrostomy Tube
+JO  - Nutrition in Clinical Practice
+JA  - Nutr Clin Pract
+VL  - 20
+IS  - 1
+SN  - 9780470674086
+UR  - https://doi.org/10.1177/011542650502000188
+DO  - doi:10.1177/011542650502000188
+SP  - 88
+EP  - 92
+PY  - 2005
+AB  - Since the advent of percutaneous endoscopic gastrostomy (PEG) tubes in 1980, they have become the device of choice for providing long-term enteral nutrition. Despite their overall safety, a number of complications can occur after PEG placement. Bleeding is usually a minor complication associated with PEG placement that occurs soon after the procedure and is most often caused by puncture of an abdominal wall vessel. More severe bleeding can occur when a branch of one of the gastric arteries is punctured. There are only a few case reports of traumatic gastric ulceration secondary to the internal bolster of a PEG. The internal bolsters are either balloons or dome shaped, and are 1.5?2.0 cm in height. We report a case in which a patient developed hemorrhage from a gastric ulcer induced by a balloon-type PEG tube that was resolved only after replacement with a tube manufactured with a low-profile internal bolster that was only 0.3 mm in height. The protruding tip of a balloon-type gastrostomy tube was believed to have caused traumatic injury to the gastric mucosa in our patient, causing ulceration. Usually, removal of the tube and placement in a different location may solve the problem. However, we believe that the PEG tube fashioned with a low-profile internal bumper is a safer option.
+ER  - 
+
+TY  - JOUR
+AU  - Wu, Ziyan
+AU  - Mazzola, Catherine A.
+AU  - Catania, Lori
+AU  - Owoeye, Oyindamola
+AU  - Yaramothu, Chang
+AU  - Alvarez, Tara
+AU  - Gao, Yu
+AU  - Li, Xiaobo
+TI  - Altered cortical activation and connectivity patterns for visual attention processing in young adults post-traumatic brain injury: A functional near infrared spectroscopy study
+JO  - CNS Neuroscience & Therapeutics
+JA  - CNS Neurosci Ther
+VL  - 24
+IS  - 6
+SN  - 9780470674086
+UR  - https://doi.org/10.1111/cns.12811
+DO  - doi:10.1111/cns.12811
+SP  - 539
+EP  - 548
+KW  - functional near-infrared spectroscopy (fNIRS)
+KW  - sports-related concussion (SRC)
+KW  - TBI induced inattention
+KW  - traumatic brain injury (TBI)
+KW  - visual sustained attention
+PY  - 2018
+AB  - Summary Aims This study aimed at understanding the neurobiological mechanisms associated with inattention induced by traumatic brain injury (TBI). To eliminate the potential confounding caused by the heterogeneity of TBI, we focused on young adults postsports-related concussion (SRC). Methods Functional near-infrared spectroscopy (fNIRS) data were collected from 27 young adults post-SRC and 27 group-matched normal controls (NCs), while performing a visual sustained attention task. Task responsive cortical activation maps and pairwise functional connectivity among six regions of interest were constructed for each subject. Correlations among the brain imaging measures and clinical measures of attention were calculated in each group. Results Compared to the NCs, the SRC group showed significantly increased brain activation in left middle frontal gyrus (MFG) and increased functional connectivity between right inferior occipital cortex (IOC) bilateral calcarine gyri (CG). The left MFG activation magnitude was significantly negatively correlated with the hyperactive/impulsive symptom severity measure in the NCs, but not in the patients. The right hemisphere CG-IOC functional connectivity showed a significant positive correlation with the hyperactive/impulsive symptom severity measure in patients, but not in NCs. Conclusion The current data suggest that abnormal left MFG activation and hyper-communications between right IOC and bilateral CG during visual attention processing may significantly contribute to behavioral manifestations of attention deficits in patients with TBI.
+ER  - 

@@ -1,0 +1,456 @@
+
+TY  - JOUR
+AU  - Ho, W.
+AU  - Tuan, T.-L.
+AU  - Tawil, B.
+AU  - Wu, B.M.
+TI  - 176 Formulational Dependence of Human Mesenchymal Stem Cell Behavior in Fibrin Sealant
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130216cb.x
+DO  - doi:10.1111/j.1067-1927.2005.130216cb.x
+SP  - A28
+EP  - A48
+PY  - 2005
+AB  - Objective:? The use of fibrin as an injectable cell carrier to repair osseous defects has been reported with varying degrees of success. This study investigates fibrin formulational dependence on human mesenchymal stem cell (hMSC) proliferation and differentiation. Methods:? 2???104?hMSCs (Bio Whittaker) per fibrin gel were suspended in fibrin formulations with varied fibrinogen (5, 17, 50?mg/ml) and thrombin (250, 167, and 1?U/ml); and cultured in 24-well plates at 37?°C, 5% CO2 for up to 2 weeks. Formulational influences on clot structure were evaluated by confocal microscopy and electron microscopy. hMSC proliferation and morphology were monitored by calcein staining. hMSC-conditioned medium was assayed using zymography (MMP-2, MMP-9), fibrin overlay (uPA), and reverse overlay (PAI-1) to examine the effect of fibrin formulation on protease activity and fibrinolysis. Results/Discussions:? Confocal and electron microscopy revealed formulation dependence on three-dimensional fibrin structure, with lower fibrinogen concentrations yielding more open, homogeneous microstructures. Although hMSCs are viable in all fibrin formulations investigated, proliferation rates varied with fibrinogen concentration, with lower fibrinogen concentrations (i.e., 5?mg/ml) promoting greater hMSC proliferation. Protease levels and activities were sensitive to culture time and fibrin formulation. PAI-1 expression was elevated in hMSCs inside fibrin gels, while uPA activity was low. Both the pro and active form of MMP2 was detected by gelatin zymography, but no MMP9 was detected. This study suggests that fibrinogen:thrombin ratio can significantly influence hMSCs proliferation and interactions, and should be carefully considered when developing formulations for optimal delivery of hMSCs. Acknowledgments:? UCLA Bioengineering Departmental Fellowship (WH); NIH Grant R01GM055081 (TLT)
+ER  - 
+
+TY  - JOUR
+AU  - Coughlin, P.A.
+AU  - Lodge, J.P.A.
+AU  - Pollard, S.G.
+AU  - Prasad, K.R.
+AU  - Stringer, M.D.
+AU  - Toogood, G.J.
+TI  - General Papers 13
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 89
+IS  - S1
+SN  - 0007-1323
+UR  - https://doi.org/10.1046/j.1365-2168.89.s.1.9_6.x
+DO  - doi:10.1046/j.1365-2168.89.s.1.9_6.x
+SP  - 18
+EP  - 18
+PY  - 2002
+AB  - Abstract Aims: Historically, surgical intervention for liver trauma has been the accepted method of treatment with an associated high percentage of nontherapeutic laparotomies however, conservative management is now advocated in the haemodynamically stable patient. We report our experience of the management of patients admitted with liver trauma. Methods: Retrospective analysis of 75 patients admitted with liver trauma over a 9-year period (1992?2001). Fifty-eight were men (median age 25 years; range 1?76 years). Injury severity was determined using the hepatic injury scale (HIS). Results: Sixty-three patients were referred from other hospitals. Seventy-two patients suffered blunt trauma. Six patients were classified as grade 5 on the HIS, 43 as grade 4, 17 as grade 3, 8 as grade 2 and 1 as grade 1. Fifteen patients underwent surgery at the referring hospital, which involved perihepatic packing in 80 per cent. Of the 48 patients treated conservatively at the referring hospital, 43 were successfully treated with further conservative management. In total 23 patients required laparotomy in our unit, 18 for liver related injuries. Procedures included 3 hepatic resections and 13 for hepatorrhaphy. Median blood requirement in our unit was 2 units. Four patients developed definite biliary complications treated with endoscopic stenting in three cases and percutaneous drainage in one. A further five intra-abdominal collections required percutaneous drainage. The mortality rate was 8 per cent. Conclusion: The majority of patients with liver trauma can be successfully treated with conservative management. In unstable patients initial surgical packing and transfer to a specialist unit is recommended.
+ER  - 
+
+TY  - JOUR
+AU  - Keragala, Charithani B.
+AU  - Draxler, Dominik F.
+AU  - McQuilten, Zoe K.
+AU  - Medcalf, Robert L.
+TI  - Haemostasis and innate immunity – a complementary relationship
+JO  - British Journal of Haematology
+JA  - Br J Haematol
+VL  - 180
+IS  - 6
+SN  - 0007-1048
+UR  - https://doi.org/10.1111/bjh.15062
+DO  - doi:10.1111/bjh.15062
+SP  - 782
+EP  - 798
+KW  - haemostasis
+KW  - coagulation
+KW  - complement
+KW  - innate immunity
+KW  - immunothrombosis
+PY  - 2018
+AB  - Summary Coagulation and innate immunity are linked evolutionary processes that orchestrate the host defence against invading pathogens and injury. The complement system is integral to innate immunity and shares numerous interactions with components of the haemostatic pathway, helping to maintain physiological equilibrium. The term ?immunothrombosis? was introduced in 2013 to embrace this process, and has become an area of much recent interest. What is less apparent in the literature however is an appreciation of the clinical manifestations of the coagulation-complement interaction and the consequences of dysregulation of either system, as seen in many inflammatory and thrombotic disease states, such as sepsis, trauma, atherosclerosis, antiphospholipid syndrome (APS), paroxysmal nocturnal haemoglobinuria (PNH) and some thrombotic microangiopathies to name a few. The growing appreciation of this immunothrombotic phenomenon will foster the drive for novel therapies in these disease states, including anticoagulants as immunomodulators and targeted molecular therapies.
+ER  - 
+
+TY  - JOUR
+AU  - Hesse, Eliane
+AU  - Freudenberg, Uwe
+AU  - Niemietz, Thomas
+AU  - Greth, Carina
+AU  - Weisser, Melanie
+AU  - Hagmann, Sébastien
+AU  - Binner, Marcus
+AU  - Werner, Carsten
+AU  - Richter, Wiltrud
+C8  - TERM-16-0355.R1
+TI  - Peptide-functionalized starPEG/heparin hydrogels direct mitogenicity, cell morphology and cartilage matrix distribution in vitro and in vivo
+JO  - Journal of Tissue Engineering and Regenerative Medicine
+JA  - J Tissue Eng Regen Med
+VL  - 12
+IS  - 1
+SN  - 1932-6254
+UR  - https://doi.org/10.1002/term.2404
+DO  - doi:10.1002/term.2404
+SP  - 229
+EP  - 239
+PY  - 2018
+AB  - Abstract Cell-based tissue engineering is a promising approach for treating cartilage lesions, but available strategies still provide a distinct composition of the extracellular matrix and an inferior mechanical property compared to native cartilage. To achieve fully functional tissue replacement more rationally designed biomaterials may be needed, introducing bioactive molecules which modulate cell behavior and guide tissue regeneration. This study aimed at exploring the impact of cell-instructive, adhesion-binding (GCWGGRGDSP called RGD) and collagen-binding (CKLER/CWYRGRL) peptides, incorporated in a tunable, matrixmetalloprotease (MMP)-responsive multi-arm poly(ethylene glycol) (starPEG)/heparin hydrogel on cartilage regeneration parameters in vitro and in vivo. MMP-responsive-starPEG-conjugates with cysteine termini and heparin-maleimide, optionally pre-functionalized with RGD, CKLER, CWYRGRL or control peptides, were cross-linked by Michael type addition to embed and grow mesenchymal stromal cells (MSC) or chondrocytes. While starPEG/heparin-hydrogel strongly supported chondrogenesis of MSC according to COL2A1, BGN and ACAN induction, MMP-degradability enhanced cell viability and proliferation. RGD-modification of the gels promoted cell spreading with intense cell network formation without negative effects on chondrogenesis. However, CKLER and CWYRGRL were unable to enhance the collagen content of constructs. RGD-modification allowed more even collagen type II distribution by chondrocytes throughout the MMP-responsive constructs, especially in vivo. Collectively, peptide-instruction via heparin-enriched MMP-degradable starPEG allowed adjustment of self-renewal, cell morphology and cartilage matrix distribution in order to guide MSC and chondrocyte-based cartilage regeneration towards an improved outcome. Copyright ? 2017 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Boost, Kim A.
+AU  - Auth, Marcus K. H.
+AU  - Woitaschek, Dirk
+AU  - Kim, Hyun-Soo
+AU  - Hilgard, Philip
+AU  - Nadalin, Silvio
+AU  - Blaheta, Roman A.
+TI  - Long-term production of major coagulation factors and inhibitors by primary human hepatocytes in vitro: perspectives for clinical application
+JO  - Liver International
+VL  - 27
+IS  - 6
+SN  - 1478-3223
+UR  - https://doi.org/10.1111/j.1478-3231.2007.01472.x
+DO  - doi:10.1111/j.1478-3231.2007.01472.x
+SP  - 832
+EP  - 844
+KW  - coagulation factors
+KW  - coagulation inhibitors
+KW  - hepatocyte transplantation
+KW  - primary human hepatocytes
+PY  - 2007
+AB  - Abstract Background/Aims: Patients with coagulation factor disorders require lifelong symptomatic treatment. This is associated with limited efficacy and transmission risks. From a clinical point of view, hepatocyte transplantation offers a rational alternative but is currently being hampered by lack of functional stability of engrafted cells. It was the aim of our study to devise culture conditions providing stable cell polarity, attachment and growth factor stimulation to improve longevity and coagulation factor production. Methods: Human hepatocytes (HC) were plated on different extracellular matrices, inside collagen gel or Matrigel. HC were grown inside growth factor-enriched serum-free medium (SFM) or exposed to media switching from differentiation (DM) to dedifferentiation (DeDM). Results: Over more than 30 days in vitro human HC synthesized coagulation factors (factors VII, VIII, IX, fibrinogen) and coagulation inhibitors (antithrombin III, protein C). Protein synthesis was augmented when HC were grown inside a 3D collagen type I matrix, while Matrigel showed no additional benefit. Soluble growth factors improved coagulation factor production when applied in SFM or in sequential DM/DeDM. Coagulation factor levels ranged from 3% to 12% in the first week to 2.5?5% after 4 weeks, reaching biologically relevant levels. Conclusion: Preserved synthesis and secretion of coagulation factors in balanced proportion by human HC in this model may offer new perspectives for HC transplantation in coagulation defects of patients.
+ER  - 
+
+TY  - JOUR
+AU  - Toombs-Ruane, L.J.
+AU  - Riley, C.B.
+AU  - Rosanowski, S.M.
+AU  - Kendall, A.T.
+AU  - Benschop, J.
+TI  - Antimicrobial Resistance of Aerobic Respiratory Isolates From Young New Zealand Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 47
+IS  - S48
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12486_45
+DO  - doi:10.1111/evj.12486_45
+SP  - 20
+EP  - 20
+PY  - 2015
+AB  - Reasons for performing study Decreased efficacy of veterinary antimicrobials and increased prevalence of multi-drug resistance (MDR) is of concern, but little is known of antimicrobial resistance encompassing the New Zealand (NZ) equine population. Recent concerns have arisen over the emergence of multi-resistant bacteria [1], especially on NZ stud farms where antibiotics are frequently used for respiratory disease without veterinary input [2]. Objectives To describe bacterial culture and antimicrobial sensitivity results from respiratory samples submitted of young horses (4 weeks to 3 years old). Study design Retrospective study of clinical pathology records. Methods A database search for isolates and sensitivity of respiratory samples from young horses (April 2004?July 2014) was conducted. The results of in vitro sensitivity testing by Kirby-Bauer disk diffusion were tabulated for major bacterial species isolated. Multiple correspondence analysis was used to describe clustering of multi-drug resistance (MDR) and selected demographic variables. Results 237/289 eligible respiratory samples had at least one aerobic bacterial isolate. Most of the 774 bacterial isolates were Gram-positive (68%). Streptococcus species were the most common genus isolated (40% of isolates). Sensitivity of Streptococcus spp. to penicillin, gentamicin and ceftiofur was >85%, but only 53% to trimethoprim-sulfamethoxone. Gram-negative sensitivity to ceftiofur, tetracycline, and trimethoprim-sulfamethoxone was <75%. MDR was found for 16% of isolates and in 39% of horses. Conclusions Penicillin is an appropriate first-line antimicrobial for use in most NZ young horses with suspected bacterial respiratory infection. However, based on findings of MDR, submission of samples for culture and monitoring of sensitivity should be used to inform antimicrobial selection. Ethical animal research:?Not applicable. Sources of funding:?Massey University McGeorge Fund; New Zealand Equine Research Foundation. Competing interests:?None declared.
+ER  - 
+
+TY  - JOUR
+AU  - MUNOZ, DAVID G.
+AU  - ERKINJUNTTI, TIMO
+AU  - GAYTAN-GARCIA, SYLVIA
+AU  - HACHINSKI, VLADIMIR
+TI  - Serum Protein Leakage in Alzheimer's Disease Revisited
+JO  - Annals of the New York Academy of Sciences
+VL  - 826
+IS  - 1
+SN  - 0077-8923
+UR  - https://doi.org/10.1111/j.1749-6632.1997.tb48469.x
+DO  - doi:10.1111/j.1749-6632.1997.tb48469.x
+SP  - 173
+EP  - 189
+PY  - 1997
+AB  - ABSTRACT: Leakage of serum proteins into the brain parenchyma has been repeatedly used as evidence of blood-brain barrier (BBB) damage in experimental and human studies. However, there is no consensus in the literature concerning this phenomenon in Alzheimer's disease (AD). We have examined this question by comparing frontal lobe sections in seven groups of patients: Multi-infarct dementia (n= 6), AD with (n= 10) and without (n= 10) infarcts, age-matched controls with (n= 10) and without (n= 10) infarcts, controls with neurodegenerative diseases other than AD, and young controls (n= 10). An additional series compared prospectively followed patients with a diagnosis of either multi-infarct dementia (n= 5) or AD (n= 4). Albumin was detected in white-matter astrocytes in all cases, without significant variation in intensity. In addition, diverse combinations of neurons, astrocytes, and (in AD patients) senile plaques were present in the cerebral cortex in an inconsistent manner. Semiquantitative analysis showed no statistically significant differences among groups. Anti-IgG labeled astrocytes in infarcts only. Complement C3c component was detected in rare amyloid plaques in a minority (15%) of AD cases. Selective labeling of AD-specific lesions in a patchy manner was observed for serum amyloid P. We conclude that there is no immunohistochemical evidence of alteration of the BBB in Alzheimer's disease with or without vascular factors or in old age. Serum amyloid P binds avidly to AD lesions, but our findings are consistent with leakage through the BBB during the agonal or immediate postmortem period. Finally, no specific pattern of abnormality in the BBB was detected in multi-infarct dementia.
+ER  - 
+
+TY  - JOUR
+AU  - Hogen, Rachel
+AU  - Dhanireddy, Kiran
+AU  - Clark, Damon
+AU  - Biswas, Subarna
+AU  - DiNorcia, Joseph
+AU  - Brown, Niquelle
+AU  - Yee, Jonson
+AU  - Cobb, Joseph Perren
+AU  - Strumwasser, Aaron
+C7  - e13191
+TI  - Balanced blood product transfusion during liver transplantation
+JO  - Clinical Transplantation
+JA  - Clin Transplant
+VL  - 32
+IS  - 3
+SN  - 0902-0063
+UR  - https://doi.org/10.1111/ctr.13191
+DO  - doi:10.1111/ctr.13191
+SP  - e13191
+KW  - balanced blood product resuscitation
+KW  - liver transplantation
+KW  - transfusion
+PY  - 2018
+AB  - Abstract Introduction This study was conducted to determine whether an intra-operative ratio of at least 1:1:2 of fresh frozen plasma (FFP):platelets (PLTs):packed red blood cells (pRBCs) improves outcomes in orthotopic liver transplantation (OLT). Methods A single-center, retrospective study of deceased donor OLT recipients (MELD ≥15) requiring intra-operative pRBC transfusion (years 2013-2016). Patients were grouped into those receiving an intra-operative ratio of ≥1:1:2 of FFP:PLTs:pRBCs vs ratios <1:1:2. Results Patients in ≥1:1:2 group (n = 150) and patients in <1:1:2 group (n = 80) were matched for baseline characteristics (P > .05). Patients in the ≥1:1:2 group had lower pRBC and intra-operative blood product requirements (11 ± 0.5 vs 19 ± 1.4 units, P < .001, and 33 ± 1.3 vs 43 ± 3.3 units, P = .006, respectively), improved 1-month mortality (0 vs 8%, P = .002), improved 1-year survival (P = .004), less intra-operative cardiac arrest (3% vs 10%, P = .03), and shorter operating room time (389 ± 7.2 vs 431 ± 17.2 minutes, P = .03). After multivariate adjustment for baseline and intra-operative variables, balanced blood product transfusion (BBPT) was significantly associated with less intra-operative pRBC transfusion (95% confidence interval: 0.60-0.72). Conclusion Balanced blood product transfusion is associated with reduced transfusion requirements in OLT.
+ER  - 
+
+TY  - JOUR
+AU  - LANKIEWICZ, M. W.
+AU  - HAYS, J.
+AU  - FRIEDMAN, K. D.
+AU  - TINKOFF, G.
+AU  - BLATT, P. M.
+TI  - Urgent reversal of warfarin with prothrombin complex concentrate
+JO  - Journal of Thrombosis and Haemostasis
+VL  - 4
+IS  - 5
+SN  - 1538-7933
+UR  - https://doi.org/10.1111/j.1538-7836.2006.01815.x
+DO  - doi:10.1111/j.1538-7836.2006.01815.x
+SP  - 967
+EP  - 970
+KW  - anticoagulation reversal
+KW  - bleeding
+KW  - prothrombin complex concentrate
+KW  - warfarin
+PY  - 2006
+AB  - Summary.? Background:?When life-threatening bleeding occurs in patients on warfarin, timely reversal becomes imperative. In the USA, warfarin effect is commonly reversed with fresh frozen plasma (FFP). The use of FFP is complicated by delays in correction, volume overload and often, inadequate correction. Objective:?Evaluate the feasibility and efficacy of a protocol for rapid administration of prothrombin complex concentrate (PCC) in the setting of the urgent need for reversal of warfarin. Methods/patients:?We instituted a policy for rapid delivery and administration of PCC. Appropriate patients received 25?50?U?kg?1 of PCC. The prothrombin time (PT)/International Normalized Ratios (INR) was recorded before and immediately after dosing, and 24?h postdosing. Patients requiring surgical interventions were cleared for the operating room (OR) immediately. Fifty-eight patients were treated, with a median age of 75.5?years (range 26?92). Results:?The median INR on presentation was 3.8 (1.4?52.8). Immediately following PCC administration the median INR was 1.3 (0.9?5.7), only two patients with INRs exceeding 2.0. The benefit was maintained at 24?h with a median INR of 1.5 (1.1?3.4). Four patients experienced thrombotic events during their hospitalization, (two deep vein thrombosis, two non-q-wave myocardial infarction) although none was attributed to PPC therapy. Conclusions:?PCC administration is an effective treatment modality for the correction of warfarin anticoagulation in the urgent setting. Advantages over FFP include more timely correction, absence of volume overload and potentially more complete correction. Broader use of PCC in this setting appears to be appropriate.
+ER  - 
+
+TY  - JOUR
+AU  - Zhou, Jingyi
+AU  - Xin, Yu
+AU  - Ding, Qiulan
+AU  - Jiang, Linlin
+AU  - Chen, Yaopeng
+AU  - Dai, Jing
+AU  - Lu, Yeling
+AU  - Wu, Xi
+AU  - Liang, Qian
+AU  - Wang, Hongli
+AU  - Wang, Xuefeng
+TI  - Thromboelastography predicts risks of obstetric complication occurrence in (hypo)dysfibrinogenemia patients under non-pregnant state
+JO  - Clinical and Experimental Pharmacology and Physiology
+JA  - Clin Exp Pharmacol Physiol
+VL  - 43
+IS  - 2
+SN  - 0305-1870
+UR  - https://doi.org/10.1111/1440-1681.12509
+DO  - doi:10.1111/1440-1681.12509
+SP  - 149
+EP  - 156
+KW  - dysfibrinogenemia
+KW  - hypodysfibrinogenemia
+KW  - mutation
+KW  - obstetric complications
+KW  - thromboelastography
+PY  - 2016
+AB  - Summary Congenital (hypo)dysfibrinogenemia patients may have obstetric complications during their pregnancies. This study aimed to evaluate thromboelastography (TEG) as a potential tool for assessing the tendency for obstetric complications in those patients in a non-pregnant state. A total of 22 female subjects with congenital (hypo)dysfibrinogenemia were recruited. Nine subjects had histories of obstetric complications and the other 13 subjects had at least one uneventful pregnancy without obstetric complications as yet. Detailed clinical investigation and phenotype/genotype detection were carried out, and both kaolin-activated TEG and functional fibrinogen TEG (FF-TEG) were applied in all subjects. Significant differences were identified in all TEG parameters except for R and angle between these two groups (P < 0.05) by covariance analysis. Receiver operating characteristic (ROC) analysis of discrimination between these two groups of patients was performed for TEG parameters. Significantly high odds ratio (OR) of obstetric complications occurrence were demonstrated in K ≥ 3.8 min, maximum amplitude (MA) ≤ 54.2 mm, comprehensive index (CI) ≤ ?3 (11.67, 95% CI 1.527?89.121, P < 0.05 in all), and MA-CFF ≤ 12.1 mm (20.00, 95% confidence interval (95% CI) 1.967?203.322, P = 0.002). Moreover, MA-CFF had better prognostic performance, with a corresponding area under the receiver operating curve of 0.923 (range 0.815?1.031, P = 0.001). This study suggests that (hypo)dysfibrinogenemia patients with values outside of the cut-off values of TEG assays under non-pregnant state may have a higher risk of obstetric complications occurring when they are pregnant. No parameters under non-pregnant state in clinical laboratory have ever been reported to be risk factors for obstetric complication occurrence in (hypo)dysfibrinogenemia patients. This study explored such parameters in TEG assays and found that parameters of TEG assays under non-pregnant status might predict the occurrence of obstetric complications, which could provide physicians with important information about whether fibrinogen replacement therapy is required, so as to prevent the occurrence of obstetric complications, especially for patients who are asymptomatic in daily life.
+ER  - 
+
+TY  - JOUR
+AU  - Curry, Nicola S.
+AU  - Davenport, Ross
+AU  - Pavord, Sue
+AU  - Mallett, Susan V.
+AU  - Kitchen, Dianne
+AU  - Klein, Andrew A.
+AU  - Maybury, Helena
+AU  - Collins, Peter W.
+AU  - Laffan, Mike
+TI  - The use of viscoelastic haemostatic assays in the management of major bleeding
+JO  - British Journal of Haematology
+JA  - Br J Haematol
+VL  - 182
+IS  - 6
+SN  - 0007-1048
+UR  - https://doi.org/10.1111/bjh.15524
+DO  - doi:10.1111/bjh.15524
+SP  - 789
+EP  - 806
+KW  - thromboelastography
+KW  - thromboelastometry
+KW  - Sonoclot
+KW  - major bleeding
+KW  - viscoelastic tests
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Fine, Daniel
+AU  - Grattoni, Alessandro
+AU  - Goodall, Randy
+AU  - Bansal, Shyam S.
+AU  - Chiappini, Ciro
+AU  - Hosali, Sharath
+AU  - van de Ven, Anne L.
+AU  - Srinivasan, Srimeenkashi
+AU  - Liu, Xuewu
+AU  - Godin, Biana
+AU  - Brousseau III, Louis
+AU  - Yazdi, Iman K.
+AU  - Fernandez-Moure, Joseph
+AU  - Tasciotti, Ennio
+AU  - Wu, Hung-Jen
+AU  - Hu, Ye
+AU  - Klemm, Steve
+AU  - Ferrari, Mauro
+TI  - Silicon Micro- and Nanofabrication for Medicine
+JO  - Advanced Healthcare Materials
+JA  - Advanced Healthcare Materials
+VL  - 2
+IS  - 5
+SN  - 2192-2640
+UR  - https://doi.org/10.1002/adhm.201200214
+DO  - doi:10.1002/adhm.201200214
+SP  - 632
+EP  - 666
+KW  - biocomposites
+KW  - multi-stage logic embedded vectors
+KW  - nanochannels
+KW  - nanoneedles
+KW  - porous silicon
+PY  - 2013
+AB  - Abstract This manuscript constitutes a review of several innovative biomedical technologies fabricated using the precision and accuracy of silicon micro- and nanofabrication. The technologies to be reviewed are subcutaneous nanochannel drug delivery implants for the continuous tunable zero-order release of therapeutics, multi-stage logic embedded vectors for the targeted systemic distribution of both therapeutic and imaging contrast agents, silicon and porous silicon nanowires for investigating cellular interactions and processes as well as for molecular and drug delivery applications, porous silicon (pSi) as inclusions into biocomposites for tissue engineering, especially as it applies to bone repair and regrowth, and porous silica chips for proteomic profiling. In the case of the biocomposites, the specifically designed pSi inclusions not only add to the structural robustness, but can also promote tissue and bone regrowth, fight infection, and reduce pain by releasing stimulating factors and other therapeutic agents stored within their porous network. The common material thread throughout all of these constructs, silicon and its associated dielectrics (silicon dioxide, silicon nitride, etc.), can be precisely and accurately machined using the same scalable micro- and nanofabrication protocols that are ubiquitous within the semiconductor industry. These techniques lend themselves to the high throughput production of exquisitely defined and monodispersed nanoscale features that should eliminate architectural randomness as a source of experimental variation thereby potentially leading to more rapid clinical translation.
+ER  - 
+
+TY  - JOUR
+AU  - Johns, I.
+AU  - McParland, T.
+AU  - Mair, T.
+TI  - Causes of Pleural Effusion in Horses in the UK
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 47
+IS  - S48
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12486_61
+DO  - doi:10.1111/evj.12486_61
+SP  - 27
+EP  - 27
+PY  - 2015
+AB  - Reasons for performing study Pleural effusion (PE) is reported to occur most commonly secondary to bacterial pneumonia or lung abscesses, with neoplastic effusions contributing the minority of cases. The majority of these reports originate from America and Australia, where long distance transport of horses, a recognised risk factor, appears to occur more frequently. Anecdotally, neoplastic PE is more commonly diagnosed in the UK. Objectives To describe the causes of PE in horses resident in the UK, and to identify potential markers that can help differentiate between infectious and neoplastic causes of PE. Study design Retrospective clinical study. Methods Medical records from 4 referral hospitals in southern England were searched for horses diagnosed with PE. Information gathered from medical records included signalment, diagnosis (infectious vs. neoplastic), admission physical examination and biochemical findings, and characteristics of the effusion (volume, cell count, total protein [TP] concentration). Statistical comparisons were made between the neoplastic and infectious group using appropriate testing. Results Seventy horses were identified, of which 28 (40%) were neoplastic and 42 were infectious. Horses with infectious effusions were significantly younger (median 7 vs. 13 years; P?=?0.002) and had significantly smaller volumes of pleural fluid drained at admission (9.8 vs. 32.3?l; P<0.001). Horses with infectious PE had a significantly higher rectal temperature (38.6 vs. 38.2°C; P?=?0.03), fibrinogen concentration (7.8 vs. 5.7?g/l; P?=?0.02) and serum amyloid A concentration (223 vs. 104?mg/l; P?=?0.02). Pleural fluid characteristics identified a significantly greater cell count and TP concentration in horses with infectious PE (47?x?109/l vs. 3.4?x?109/l; P<0.001; 54 vs. 31?g/l; P?=?0.001). Conclusions These results suggest that in the UK neoplastic effusions account for a greater proportion of PE than previously reported. A large volume of PE in an older horse with a low cell count and TP concentration should increase the index of suspicion of neoplasia. Ethical animal research:?This was a retrospective study of clinical cases. Explicit owner informed consent for inclusion of animals in this study was not stated. Source of funding:?None. Competing interests:?None declared.
+ER  - 
+
+TY  - JOUR
+AU  - JOHANSSON, P. I.
+AU  - OSTROWSKI, S. R.
+AU  - SECHER, N. H.
+TI  - Management of major blood loss: An update
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 54
+IS  - 9
+SN  - 0001-5172
+UR  - https://doi.org/10.1111/j.1399-6576.2010.02265.x
+DO  - doi:10.1111/j.1399-6576.2010.02265.x
+SP  - 1039
+EP  - 1049
+PY  - 2010
+AB  - Haemorrhage remains a major cause of potentially preventable deaths. Trauma and massive transfusion are associated with coagulopathy secondary to tissue injury, hypoperfusion, dilution and consumption of clotting factors and platelets. Concepts of damage control surgery have evolved, prioritizing the early control of the cause of bleeding by non-definitive means, while haemostatic control resuscitation seeks early control of coagulopathy. Haemostatic resuscitation provides transfusions with plasma and platelets in addition to red blood cells (RBCs) in an immediate and sustained manner as part of the transfusion protocol for massively bleeding patients. Transfusion of RBCs, plasma and platelets in a similar proportion as in whole blood prevents both hypovolaemia and coagulopathy. Although an early and effective reversal of coagulopathy is documented, the most effective means of preventing coagulopathy of massive transfusion remains debated and randomized controlled studies are lacking. Results from recent before-and-after studies in massively bleeding patients indicate that trauma exsanguination protocols involving the early administration of plasma and platelets are associated with improved survival. Furthermore, viscoelastic whole blood assays, such as thrombelastography (TEG)/rotation thromboelastometry (ROTEM), appear advantageous for identifying coagulopathy in patients with severe haemorrhage, as opposed to conventional coagulation assays. In our view, patients with uncontrolled bleeding, regardless of its cause, should be treated with goal-directed haemostatic control resuscitation involving the early administration of plasma and platelets and based on the results of the TEG/ROTEM analysis. The aim of the goal-directed therapy should be to maintain a normal haemostatic competence until surgical haemostasis is achieved, as this appears to be associated with reduced mortality.
+ER  - 
+
+TY  - JOUR
+AU  - Linares, Ivan
+AU  - Goldaracena, Nicolas
+AU  - Rosales, Roizar
+AU  - Maza, Luis De la
+AU  - Kaths, Moritz
+AU  - Kollmann, Dagmar
+AU  - Echeverri, Juan
+AU  - Selzner, Nazia
+AU  - McCluskey, Stuart A.
+AU  - Sapisochin, Gonzalo
+AU  - Lilly, Leslie B.
+AU  - Greig, Paul
+AU  - Bhat, Mamatha
+AU  - Ghanekar, Anand
+AU  - Cattral, Mark
+AU  - McGilvray, Ian
+AU  - Grant, David
+AU  - Selzner, Markus
+TI  - Splenectomy as Flow Modulation Strategy and Risk Factors of De Novo Portal Vein Thrombosis in Adult-to-Adult Living Donor Liver Transplantation
+JO  - Liver Transplantation
+JA  - Liver Transpl
+VL  - 24
+IS  - 9
+SN  - 1527-6465
+UR  - https://doi.org/10.1002/lt.25212
+DO  - doi:10.1002/lt.25212
+SP  - 1209
+EP  - 1220
+PY  - 2018
+AB  - Portal vein thrombosis (PVT) is a severe complication after liver transplantation that can result in increased morbidity and mortality. Few data are available regarding risk factors, classification, and treatment of PVT after living donor liver transplantation (LDLT). Between January 2004 and November 2014, 421 adult-to-adult LDLTs were performed at our institution, and they were included in the analysis. Perioperative characteristics and outcomes from patients with no-PVT (n = 393) were compared with those with de novo PVT (total portal vein thrombosis [t-PVT]; n = 28). Ten patients had early portal vein thrombosis (e-PVT) occurring within 1 month, and 18 patients had late portal vein thrombosis (l-PVT) appearing later than 1 month after LDLT. Analysis of perioperative variables determined that splenectomy was associated with t-PVT (hazard ratio [HR], 3.55; P = 0.01), e-PVT (HR, 4.96; P = 0.04), and l-PVT (HR, 3.84; P = 0.03). In contrast, donor age was only found as a risk factor for l-PVT (HR, 1.05; P = 0.01). Salvage rate for treatment in e-PVT and l-PVT was 100% and 50%, respectively, without having an early event of rethrombosis. Mortality within 30 days did not show a significant difference between groups (no-PVT, 2% versus e-PVT, 10%; P = 0.15). No significant differences were found regarding 1-year (89% versus 92%), 5-year (79% versus 82%), and 10-year (69% versus 79%) graft survival between the t-PVT and no-PVT groups, respectively (P = 0.24). The 1-year (89% versus 96%), 5-year (82% versus 86%), and 10-year (79% versus 83%) patient survival was similar for the patients in the no-PVT and t-PVT groups, respectively (P = 0.70). No cases of graft loss occurred as a direct consequence of PVT. In conclusion, the early diagnosis and management of PVT after LDLT can lead to acceptable early and longterm results without affecting patient and graft survival.
+ER  - 
+
+TY  - JOUR
+AU  - Krysiak, Robert
+AU  - Okopien, Bogusław
+TI  - Different Effects of Cabergoline and Bromocriptine on Metabolic and Cardiovascular Risk Factors in Patients with Elevated Prolactin Levels
+JO  - Basic & Clinical Pharmacology & Toxicology
+JA  - Basic Clin Pharmacol Toxicol
+VL  - 116
+IS  - 3
+SN  - 1742-7835
+UR  - https://doi.org/10.1111/bcpt.12307
+DO  - doi:10.1111/bcpt.12307
+SP  - 251
+EP  - 256
+PY  - 2015
+AB  - Abstract Hyperprolactinaemia is suggested to be associated with metabolic and hormonal complications. No previous study has compared the effect of different dopamine agonists on plasma lipids, carbohydrate metabolism markers and cardiovascular risk factors in patients with elevated prolactin levels. The study included eight bromocriptine-resistant women with prolactinoma (group 1) and twelve matched women with hyperprolactinaemia unrelated to prolactinoma (group 2). Group 1 was then treated with cabergoline, while group 2 with bromocriptine. Plasma lipids, glucose homeostasis markers and plasma levels of prolactin, insulin-like growth factor-1 (IGF-1) and cardiovascular risk factors were assessed before and after 6 months of therapy. Both treatments normalized plasma prolactin levels. Cabergoline reduced triglycerides, 2-hr post-challenge plasma glucose, the homeostatic model assessment of insulin resistance (HOMA-IR), and circulating levels of IGF-1, free fatty acids (FFA), uric acid, high-sensitivity C-reactive protein (hsCRP), homocysteine and fibrinogen, as well as increased HDL cholesterol and 25-hydroxyvitamin D. With the exception of a reduction in HOMA-IR, bromocriptine treatment produced no significant effect on the investigated biomarkers. Cabergoline was superior to bromocriptine in affecting 2-hr post-challenge plasma glucose levels, HOMA-IR, as well as circulating levels of IGF-1, FFA, uric acid, hsCRP, homocysteine, fibrinogen and 25-hydroxyvitamin D. Our results may suggest that cabergoline is superior to bromocriptine when it comes to affecting atherogenic dyslipidaemia, insulin sensitivity and circulating levels of cardiovascular risk factors in hyperprolactinaemic patients. These findings seem to support previous observations that cabergoline may be a better treatment for patients with elevated prolactin levels than bromocriptine.
+ER  - 
+
+TY  - JOUR
+AU  - Toombs-Ruane, L.J.
+AU  - Riley, C.B.
+AU  - Rosanowski, S.M.
+AU  - Kendall, A.T.
+AU  - Hill, K.E.
+AU  - Benschop, J.
+TI  - Antimicrobial Sensitivity of Bacteria Isolated from Neonatal Foal Samples in New Zealand (2004 to 2013)
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 47
+IS  - S48
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12486_5
+DO  - doi:10.1111/evj.12486_5
+SP  - 3
+EP  - 3
+PY  - 2015
+AB  - Reasons for performing study Guidelines for the rational use of antimicrobials enable practitioners to improve antimicrobial stewardship and slow the development of antimicrobial resistance (AMR) [1]; these must be regionally relevant [2]. New Zealand (NZ) is geographically isolated and the importance of AMR on equine studs is unknown. Objectives To identify AMR patterns of bacteria isolated from NZ foals so as to provide regionally specific information for the development of antimicrobial stewardship guidelines. Study design Retrospective study of clinical pathology records. Methods A database search of bacterial culture submissions from foals <3 weeks of age from April 2004 to December 2013 was completed. Culture results, antimicrobial sensitivities, and demographic factors were tabulated. The Kirby-Bauer disk diffusion susceptibility test was used to define sensitivity. Multi-drug resistance (MDR) was defined as non-sensitivity to 3 or more core antimicrobials in a panel (ceftiofur, enrofloxaxin, gentamicin, penicillin [not included for Gram-negative bacteria], tetracycline, trimethoprim- sulfamethoxazole). Results Bacterial isolates (n?=?127) were cultured from 64/102 (62.7%) of foal submissions. Four bacterial groups (Staphylococcus spp., Streptococcus spp., Enterococcus spp. and Escherichia coli) accounted for 100 (79%) of bacterial isolates cultured. At least one or 2 MDR isolates were cultured from 24 (38%) and 8 (12%) foals, respectively. Culture positive and negative foals were demographically similar. Conclusions A significant number of bacterial isolates from foals have reduced antimicrobial susceptibility to commonly used antimicrobial drugs. The results are of concern from treatment and stewardship perspectives. Multi-drug resistance was found, indicating a need for regionally relevant antimicrobial use recommendations. Ethical animal research:?Not applicable. Sources of funding:?Massey University McGeorge fund; New Zealand Equine Research Foundation. Competing interests:?None declared.
+ER  - 
+
+AU  - Thachil, Jecko
+C7  - pp. 52-57
+TI  - Disseminated Intravascular Coagulation
+SN  - 9781118274248
+UR  - https://doi.org/10.1002/9781118869147.ch9
+DO  - doi:10.1002/9781118869147.ch9
+SP  - 52-57
+KW  - Bleeding
+KW  - Coagulation
+KW  - Sepsis
+KW  - Thrombosis
+KW  - Trauma
+PY  - 2015
+AB  - Summary Disseminated intravascular coagulation (DIC) is a dynamic pathological process where excess amounts of thrombin, the principal role player in the clotting pathway, are generated intravascularly. The diagnosis of DIC is very often suspected in critically ill patients although the clinical features can vary according to the underlying disease state initiating this process. A combination of tests performed in repeats is necessary to reliably diagnose DIC. The principal aim in the management of this condition involves timely and appropriate treatment of the triggering process with adequate transfusion support and certain therapeutic agents in selected situations.
+ER  - 
+
+TY  - JOUR
+AU  - HENRY, MICHELLE M.
+AU  - MOORE, J. N.
+TI  - Whole blood re-calcification time in equine colic
+JO  - Equine Veterinary Journal
+VL  - 23
+IS  - 4
+SN  - 9781118274248
+UR  - https://doi.org/10.1111/j.2042-3306.1991.tb03723.x
+DO  - doi:10.1111/j.2042-3306.1991.tb03723.x
+SP  - 303
+EP  - 308
+PY  - 1991
+AB  - Summary Whole blood re-calcification times were evaluated as a measure of endotoxin-associated coagulopathy in horses. First, the effects of endotoxin concentration and duration of in vitro incubation of citrated whole blood with endotoxin on the whole blood re-calcification time of blood collected from healthy horses were determined. Increasing concentrations or incubation times of endotoxin accelerated the whole blood re-calcification time. This effect was attributed mainly to increased monocyte thromboplastin activity. Second, whole blood re-calcification time, a clotting profile, plasma factor VII activity and plasma endotoxin concentration on blood samples obtained from 35 equine colic patients and 10 healthy horses were determined. Compared with healthy horses, colic patients had a longer mean whole blood re-calcification and prothrombin time, lower per cent factor VII activity and higher mean fibrin degradation products concentration. Within the colic patient group, horses that did not survive had detectable endotoxin in plasma, longer whole blood re-calcification and prothrombin times, and lower plasma factor VII activity, compared with colic patients that survived. These data indicate that colic patients with endotoxaemia experience hypercoagulable states, followed by consumptive coagulopathy. Although the cause of endotoxin-associated coagulopathy is likely multi-factorial, increased expression of monocyte thromboplastin activity may be involved in the pathogenesis of coagulopathy. The whole blood re-calcification time is a simple, fast and inexpensive way to detect coagulopathy during endotoxaemia and determine the prognosis for survival.
+ER  - 
+
+TY  - JOUR
+AU  - Jairath, V.
+AU  - Desborough, M. J. R.
+TI  - Modern-day management of upper gastrointestinal haemorrhage
+JO  - Transfusion Medicine
+JA  - Transfusion Med
+VL  - 25
+IS  - 6
+SN  - 9781118274248
+UR  - https://doi.org/10.1111/tme.12266
+DO  - doi:10.1111/tme.12266
+SP  - 351
+EP  - 357
+KW  - gastrointestinal haemorrhage
+KW  - management
+KW  - red blood cell transfusion
+PY  - 2015
+AB  - SUMMARY Acute upper gastrointestinal haemorrhage (AUGIH) is a common medical emergency and can present with life threatening haemorrhage. In the UK, there are 70?000 hospital admissions per year. In the majority of cases, the aetiology is non-variceal in origin, but in other cases it is due to variceal bleeding in patients with cirrhosis. It is also a leading indication for transfusion of blood components. This review explores recent randomised data on the efficacy and safety of red blood cell transfusion for AUGIH. In addition, the evidence base for use of other blood components and pro-haemostatic pharmacological agents is discussed, including acid suppression, antifibrinolytics and fibrinogen.
+ER  - 

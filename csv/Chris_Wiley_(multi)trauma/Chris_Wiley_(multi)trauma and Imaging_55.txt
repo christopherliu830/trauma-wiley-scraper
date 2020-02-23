@@ -1,0 +1,494 @@
+
+AU  - Rose, Peter E.
+C7  - pp. 1-12
+TI  - Risk Factors for Venous Thromboembolism
+SN  - 9781119095576
+UR  - https://doi.org/10.1002/9781119095606.ch1
+DO  - doi:10.1002/9781119095606.ch1
+SP  - 1-12
+KW  - cancer-associated thrombosis
+KW  - hospital-acquired thrombosis
+KW  - lower limb immobilisation
+KW  - orthopaedic trauma
+KW  - pulmonary embolism
+KW  - venous thromboembolism
+PY  - 2017
+AB  - Summary This chapter explores the risk factors reported to increase the risk of venous thromboembolism (VTE). The most important risk factors for VTE are a history of previous VTE, recent surgery, hospital in-patient stay and cancer. Pulmonary embolism remains the most widely reported preventable cause of death in patients undergoing surgery. It is the most common cause of death within 30 days of surgery, with 40% of VTE events occurring later than three weeks post operatively. Patients undergoing lower limb surgery are among the highest risk patients (odds ratio?>?10), and this includes total hip and knee arthroplasty, hip/leg fractures, major orthopaedic trauma and spinal surgery. Lower limb immobilisation in casts, with or without surgery, increases the risk of VTE. Approximately 70-80% of fatal hospital-acquired thrombosis (HAT) occurs in medical patients. Venous thrombosis is increased in most acute medical conditions, necessitating hospital admission.
+ER  - 
+
+TY  - JOUR
+AU  - Mayerhoefer, Marius E.
+AU  - Stelzeneder, David
+AU  - Bachbauer, Werner
+AU  - Welsch, Goetz H.
+AU  - Mamisch, Tallal C.
+AU  - Szczypinski, Piotr
+AU  - Weber, Michael
+AU  - Peters, Nicky H. G. M.
+AU  - Fruehwald-Pallamar, Julia
+AU  - Puchner, Stefan
+AU  - Trattnig, Siegfried
+TI  - Quantitative analysis of lumbar intervertebral disc abnormalities at 3.0 Tesla: value of T2 texture features and geometric parameters
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 25
+IS  - 6
+SN  - 9781119095576
+UR  - https://doi.org/10.1002/nbm.1803
+DO  - doi:10.1002/nbm.1803
+SP  - 866
+EP  - 872
+KW  - spine
+KW  - MRI at 3T
+KW  - intervertebral disc
+KW  - texture analysis
+PY  - 2012
+AB  - T2 relaxation time mapping provides information about the biochemical status of intervertebral discs. The present study aimed to determine whether texture features extracted from T2 maps or geometric parameters are sensitive to the presence of abnormalities at the posterior aspect of lumbar intervertebral discs, i.e. bulging and herniation. Thirty-one patients (21 women and 10 men; age range 18?51?years) with low back pain were enrolled. MRI of the lumbar spine at 3.0 Tesla included morphological T1- and T2-weighted fast spin-echo sequences, and multi-echo spin-echo sequences that were used to construct T2 maps. On morphological MRI, discs were visually graded into ?normal?, ?bulging? or ?herniation?. On T2 maps, texture analysis (based on the co-occurrence matrix and wavelet transform) and geometry analysis of the discs were performed. The three T2 texture features and geometric parameters best-suited for distinguishing between normal discs and discs with bulging or herniation were determined using Fisher coefficients. Statistical analysis comprised ANCOVA and post hoc t-tests. Eighty-two discs were classified as ?normal?, 49 as ?bulging? and 20 showed ?herniation.? The T2 texture features Entropy and Difference Variance, and all three pre-selected geometric parameters differed significantly between normal and bulging, normal and herniated, and bulging and herniated discs (p?<?0.05). These findings suggest that T2 texture features and geometric parameters are sensitive to the presence of abnormalities at the posterior aspect of lumbar intervertebral discs, and may thus be useful as quantitative biomarkers that predict disease. Copyright ? 2011 John Wiley & Sons, Ltd. Copyright ? 2011 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Herath, Steven C
+AU  - Braun, Benedikt J
+AU  - Rollmann, Mika F
+AU  - Mörsdorf, Philipp
+AU  - Holstein, Jörg H
+AU  - Pohlemann, Tim
+TI  - Autologous Transplantation of Press-fit Bone Cylinders in the Treatment of Pelvic Nonunion
+JO  - Orthopaedic Surgery
+JA  - Orthop Surg
+VL  - 11
+IS  - 3
+SN  - 9781119095576
+UR  - https://doi.org/10.1111/os.12463
+DO  - doi:10.1111/os.12463
+SP  - 516
+EP  - 523
+KW  - Bone graft
+KW  - Nonunion
+KW  - Pelvic ring fracture
+KW  - Press-fit cylinder
+KW  - Treatment
+PY  - 2019
+AB  - The present study describes method for autologous bone transplantation to an area of nonunion at the pelvic ring in a way that ensures the best possible bone-to-bone interface (?press-fit?) and provides optimal preconditions for the ingrowth of the bone graft. We modified a technique that has been used to transplant press-fit bone-baseplate-cartilage cylinders for the repair of joint cartilage defects. The technique allows for precise harvesting of bone cylinders with a diamond-coated and fluid-cooled instrument. At the site where the graft shall be inserted, a cylindrical hole is created with a corresponding hollow diamond-coated trephine. This ensures an optimal press-fit implantation of the graft. The new surgical technique has been applied in four patients with nonunion of the pelvic ring. No intraoperative or postoperative complications occurred. In three patients, the procedure led to a reduction of pain and a higher level of mobility as well as a timely radiographic union (imaging not available for another patient). Our technique offers a valuable new treatment option for pelvic nonunion. The current article serves as a proof of concept. Future comparative studies will have to determine its value in detail.
+ER  - 
+
+AU  - Garvey, Erin M.
+AU  - Egan, J. Craig
+C7  - pp. 227-238
+TI  - Pediatric Critical Care
+SN  - 9781119317920
+UR  - https://doi.org/10.1002/9781119317913.ch24
+DO  - doi:10.1002/9781119317913.ch24
+SP  - 227-238
+KW  - acute respiratory distress syndrome
+KW  - nosocomial infections
+KW  - packed red blood cells
+KW  - pediatric critical care
+KW  - pediatric intensivists
+KW  - pediatric trauma patient
+PY  - 2019
+AB  - Summary This is a unique question-and-answer chapter for surgical residents and trainees, concentrating on the pediatric critical care. The Transfusion Requirements in Pediatric Intensive Care Units study randomized to either transfusion threshold 9.5?g/dL or 7?g/dL using leukocyte-reduced packed red blood cells (PRBC). Deaths, Multiple organ dysfunction syndrome (MODS), adverse events, ventilator days, and nosocomial infections were not significantly different in the two groups. When split into subgroups of pediatric cardiac surgery patients and pediatric general surgery patients, the restrictive PRBC transfusion strategy showed no increase in MODS. PRBC transfusions appear to be independently linked to increased risk of morbidity and mortality in critically ill pediatric patients. Pediatric intensivists have recognized that acute respiratory distress syndrome (ARDS) in children is different from ARDS in adults. Recurrent hypotension in a pediatric trauma patient occurs late and may be an ominous sign.
+ER  - 
+
+TY  - JOUR
+AU  - Besançon, Lonni
+AU  - Semmo, Amir
+AU  - Biau, David
+AU  - Frachet, Bruno
+AU  - Pineau, Virginie
+AU  - Sariali, El Hadi
+AU  - Soubeyrand, Marc
+AU  - Taouachi, Rabah
+AU  - Isenberg, Tobias
+AU  - Dragicevic, Pierre
+TI  - Reducing Affective Responses to Surgical Images and Videos Through Stylization
+JO  - Computer Graphics Forum
+JA  - Computer Graphics Forum
+VL  - n/a
+IS  - n/a
+SN  - 9781119317920
+UR  - https://doi.org/10.1111/cgf.13886
+DO  - doi:10.1111/cgf.13886
+KW  - image processing
+KW  - image and video processing
+KW  - non-photorealistic rendering
+KW  - rendering
+KW  - user studies
+KW  - interaction
+KW  - Computing methodologies → NPR; Image processing; • Human-centred computing → Empirical studies in HCI
+AB  - Abstract We present the first empirical study on using colour manipulation and stylization to make surgery images/videos more palatable. While aversion to such material is natural, it limits many people's ability to satisfy their curiosity, educate themselves and make informed decisions. We selected a diverse set of image processing techniques to test them both on surgeons and lay people. While colour manipulation techniques and many artistic methods were found unusable by surgeons, edge-preserving image smoothing yielded good results both for preserving information (as judged by surgeons) and reducing repulsiveness (as judged by lay people). We then conducted a second set of interview with surgeons to assess whether these methods could also be used on videos and derive good default parameters for information preservation. We provide extensive supplemental material at osf.io/4pfes/.
+ER  - 
+
+TY  - JOUR
+AU  - Okubo, Gosuke
+AU  - Okada, Tomohisa
+AU  - Yamamoto, Akira
+AU  - Kanagaki, Mitsunori
+AU  - Fushimi, Yasutaka
+AU  - Okada, Tsutomu
+AU  - Murata, Katsutoshi
+AU  - Togashi, Kaori
+TI  - MP2RAGE for deep gray matter measurement of the brain: A comparative study with MPRAGE
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J. Magn. Reson. Imaging
+VL  - 43
+IS  - 1
+SN  - 9781119317920
+UR  - https://doi.org/10.1002/jmri.24960
+DO  - doi:10.1002/jmri.24960
+SP  - 55
+EP  - 62
+KW  - MP2RAGE
+KW  - MPRAGE
+KW  - segmentation
+KW  - deep gray matter
+KW  - T1 map
+PY  - 2016
+AB  - Background To compare magnetization-prepared two rapid acquisition gradient echoes (MP2RAGE) imaging with conventional MPRAGE imaging for deep gray matter (GM) segmentation, reproducibility, contrast ratio (CR) and contrast-to-noise ratio (CNR), and to evaluate reproducibility of T1 maps derived from MP2RAGE. Methods MP2RAGE and MPRAGE imaging were conducted twice for each of 20 volunteers on a 3 Tesla MRI scanner. Images were normalized and segmented using SPM12 with the DARTEL algorithm. Reproducibility of segmentation was evaluated using coefficients of variation (COVs) of deep GM probability maps between first and second scans, which was compared between MP2RAGE and MPRAGE. Differences in deep GM probability were compared voxel-wise. CR and CNR analyses were conducted using regions of interest. COVs of T1 maps were also evaluated. Results Comparison of GM probability maps demonstrated that putamen, caudate nucleus and thalamus were segmented significantly larger in MP2RAGE than in MPRAGE, and MP2RAGE was inferior only at some areas of globus pallidus and lateral thalamus (P?<?0.05; false discovery rate, FDR). CRs of deep GM structures were significantly better in MP2RAGE (P?<?0.0001). COVs of deep GM probability maps were significantly higher at large areas of the deep GM in MPRAGE (P?<?0.05, FDR). COVs ranged from 0.50 to 3.31% in MP2RAGE and from 0.62 to 4.12% in MPRAGE. COVs of the T1 map were around 2%. Conclusion MP2RAGE yields greater reproducibility and better tissue contrast than MPRAGE in deep GM. T1 maps derived from MP2RAGE were highly reliable. MP2RAGE is useful for measurement and analysis of deep GM. J. MAGN. RESON. IMAGING 2016;43:55?62.
+ER  - 
+
+TY  - JOUR
+AU  - Simonazzi, B.
+AU  - Castania, M.
+AU  - Bosco, V.
+AU  - Giudice, C.
+AU  - Rondena, M.
+TI  - A case of multiple unilateral corneal epithelial inclusion cysts in a dog
+JO  - Journal of Small Animal Practice
+VL  - 50
+IS  - 7
+SN  - 9781119317920
+UR  - https://doi.org/10.1111/j.1748-5827.2009.00743.x
+DO  - doi:10.1111/j.1748-5827.2009.00743.x
+SP  - 373
+EP  - 376
+PY  - 2009
+AB  - A three-year-old neutered female Labrador cross was presented for investigation of two corneal epithelial inclusion cysts affecting the left eye. The aetiopathogenesis of the cyst formation was suspected to be traumatic. The cysts were removed successfully by superficial keratectomy, followed by a third eyelid flap. Histologically, both lesions were represented by cystic formations lined with multi-layered squamous epithelium, consistent with stromal inclusion of surface corneal epithelium. Complete recovery was achieved, and there was no recurrence at six month follow-up.
+ER  - 
+
+TY  - JOUR
+AU  - Mallio, Carlo Augusto
+AU  - Schmidt, Ruben
+AU  - de Reus, Marcel A.
+AU  - Vernieri, Fabrizio
+AU  - Quintiliani, Livia
+AU  - Curcio, Giuseppe
+AU  - Beomonte Zobel, Bruno
+AU  - Quattrocchi, Carlo Cosimo
+AU  - van den Heuvel, Martijn P.
+TI  - Epicentral Disruption of Structural Connectivity in Alzheimer's Disease
+JO  - CNS Neuroscience & Therapeutics
+JA  - CNS Neurosci Ther
+VL  - 21
+IS  - 10
+SN  - 9781119317920
+UR  - https://doi.org/10.1111/cns.12397
+DO  - doi:10.1111/cns.12397
+SP  - 837
+EP  - 845
+KW  - Alzheimer's Disease
+KW  - Connectivity
+KW  - Connectome
+KW  - Diffusion-weighted imaging
+KW  - Epicentral disruption
+KW  - Mild cognitive impairment
+PY  - 2015
+AB  - Summary Aims Neurodegenerative changes observed in Alzheimer's disease (AD) have been suggested to begin at the entorhinal cortex and hippocampus and then to propagate in a stereotypical fashion. Using diffusion-weighted imaging, we test whether disruption of structural connectivity in AD is centered on these ?epicenters of disease?. Methods Fifteen healthy controls, 14 amnestic mild cognitive impairment (aMCI), 13 mild, and 15 moderate patients with AD were enrolled. The percentages of affected connections directly linking to the epicenter (named first ring) and to nodes with topological distance 2 from the epicenter (named second ring) were calculated. Results For the group of aMCI patients, just 5.3% of the first ring (n.s.) and 2.9% of the second ring (n.s.) connections were affected. However, for mild AD there was disruption involving 20% of the first ring (P < 0.0001) and 10.3% of the second ring (P < 0.0001) connections. In the moderate AD group, a stronger effect was observed, with 38.0% of the first ring (P < 0.0001) connections and 17.9% of the second ring (P < 0.0001) connections affected. Conclusion Our results favor an epicentral disruption of structural connectivity in aMCI and AD around entorhinal and hippocampal regions, consistent with the transneuronal spread hypothesis.
+ER  - 
+
+TY  - JOUR
+AU  - Röthlisberger, A.
+AU  - Lehmbecker, A.
+AU  - Beineke, A.
+AU  - Mischke, R.
+AU  - Dziallas, P.
+AU  - Meyer-Lindenberg, A.
+AU  - Tipold, A.
+TI  - Suspected primary glioblastoma multiforme in the canine spinal cord
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 53
+IS  - 10
+SN  - 9781119317920
+UR  - https://doi.org/10.1111/j.1748-5827.2012.01263.x
+DO  - doi:10.1111/j.1748-5827.2012.01263.x
+SP  - 604
+EP  - 607
+PY  - 2012
+AB  - An eight-year-old mixed-breed dog was presented with progressive paraparesis. Neurological examination revealed a painful diffuse lesion between spinal cord segments T3 and L3. Magnetic resonance images displayed multi-focal contrast enhancing spinal cord and meningeal lesions. Cytology of these lesions revealed a malignant tumour prompting euthanasia of the dog. Histopathology confirmed the cytological diagnosis and a final diagnosis of a glioblastoma multiforme was made based on immunohistochemistry.
+ER  - 
+
+TY  - JOUR
+AU  - (Junichi Maehara), 前原 潤一
+AU  - (Yuuta Nakamura), 中村 悠太
+AU  - (Yuichirou Kawano), 川野 雄一朗
+AU  - (Yasuhiro Gushima), 具嶋 泰弘
+AU  - (Akihiko Arakawa), 荒川 昭彦
+TI  - 転落による鈍的喉頭気管完全断裂の1救命例(A successfully treated case of blunt laryngotracheal disruption due to an accidental fall)
+JO  - Nihon Kyukyu Igakukai Zasshi: Journal of Japanese Association for Acute Medicine
+JA  - Nihon Kyukyu Igakukai Zasshi: Japanese Journal of Japanese Association for Acute Medicine
+VL  - 27
+IS  - 3
+SN  - 9781119317920
+UR  - https://doi.org/10.1002/jja2.12085
+DO  - doi:10.1002/jja2.12085
+SP  - 87
+EP  - 92
+KW  - 転落外傷
+KW  - 喉頭気管損傷
+KW  - 緊急気管切開術
+KW  - fall trauma
+KW  - laryngo-tracheal injury (LTI)
+KW  - emergency tracheotomy
+PY  - 2016
+AB  - ?? ???????laryngo?tracheal injury: LTI??????????????1%?????????????????????????????????????????????83?????????????????2?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????30????????????????45?????????LTI?????????????????????????????????????????laryngotracheal disruption: LTD????????????????????????????????????????????????
+ER  - 
+
+TY  - JOUR
+AU  - KAYA, Y.
+AU  - YALIM, M.
+AU  - BAHÇECITAPAR, M.
+AU  - BALOŞ, K.
+TI  - Comparison of applying particulate demineralized bone matrix (DBM), putty DBM and open flap debridement in periodontal horizontal bone defects. A 12-month longitudinal, multi-center, triple-blind, split-mouth, randomized, controlled clinical study. Part 1 – clinical and radiographic evaluation
+JO  - Journal of Oral Rehabilitation
+VL  - 36
+IS  - 7
+SN  - 9781119317920
+UR  - https://doi.org/10.1111/j.1365-2842.2009.01958.x
+DO  - doi:10.1111/j.1365-2842.2009.01958.x
+SP  - 524
+EP  - 534
+KW  - horizontal bone defects
+KW  - demineralized bone matrix
+KW  - putty graft
+KW  - periodontal regeneration
+PY  - 2009
+AB  - Summary? Putty form graft materials may have additional favourable effects when compared with particulate ones in periodontal bone defects. The purpose of this study was to assess clinical and also radiographic changes following application of (i) putty form demineralized bone matrix (DBM), (ii) particulate form DBM and (iii) open flap debridement (control), using modified curtain suturing technique in the treatment of interproximal suprabony (horizontal) defects. Twenty-five chronic periodontitis patients with 125 sites (radiologically ≥4?mm horizontal bone defect) were selected to participate in this triple-blind, split mouth, randomized, controlled clinical trial. Putty and particulate form DBM grafts were placed at experimental sites. Clinical measurements included probing depth (PD), relative attachment level (RAL), gingival recession and bone probing depth (BPD) were made at baseline and repeated 12?months after the operations. Standardized digital radiographs were also taken to measure radiographic bone level (RBL) at baseline and 12?months later to be compared in a software. Probing depth reductions and RAL gains were significantly improved in all treatment groups (P?<?0·001). No significant differences in soft tissue parameters were found among three groups (P?>?0·05). Bone probing depth measurements indicated comparable significant bone gain in graft applied groups (P?<?0·01) and a significant bone resorption in open flap debridement group (P?<?0·01). Radiographic evaluation did not show any significant bone gain or resorption in all treatment groups (P?>?0·05). The results of this study indicate that either putty or particulate DBM demonstrates similar enhancements in soft and hard tissue parameters. Applying putty or particulate form DBM results with slight bone formation when compared with open flap debridement in horizontal bone defects at 1-year post-operative examination according to BPD measurements.
+ER  - 
+
+TY  - JOUR
+AU  - Richter, Monique
+AU  - Negro-Demontel, María Luciana
+AU  - Blanco-Ocampo, Daniela
+AU  - Taranto, Eliseo
+AU  - Lago, Natalia
+AU  - Peluffo, Hugo
+TI  - Thy1-YFP-H Mice and the Parallel Rod Floor Test to Evaluate Short- and Long-Term Progression of Traumatic Brain Injury
+JO  - Current Protocols in Immunology
+JA  - Current Protocols in Immunology
+VL  - 120
+IS  - 1
+SN  - 9781119317920
+UR  - https://doi.org/10.1002/cpim.42
+DO  - doi:10.1002/cpim.42
+SP  - 24.1.1
+EP  - 24.1.25
+KW  - axonal damage
+KW  - long-term
+KW  - neurological test
+KW  - TBI
+KW  - Thy1-YFP-H mice
+PY  - 2018
+AB  - Abstract Traumatic brain injury (TBI) is a leading cause of death and disability and is a risk factor for the later development of neuropsychiatric disorders and neurodegenerative diseases. Many models of TBI have been developed, but their further refinement and a more detailed long-term follow-up is needed. We have used the Thy1-YFP-H transgenic mouse line and the parallel rod floor test to produce an unbiased and robust method for the evaluation of the multiple effects of a validated model of controlled cortical injury. This approach reveals short- and long-term progressive changes, including compromised biphasic motor function up to 85 days post-lesion, which correlates with neuronal atrophy, dendrite and spine loss, and long-term axonal pathology evidenced by axon spheroids and fragmentation. Here we present methods for inducing a controlled cortical injury in the Thy1-YFP-H transgenic mouse line and for evaluating the resulting deficits in the parallel rod floor test. This technique constitutes a new, unbiased, and robust method for the evaluation of motor and behavioral alterations after TBI. ? 2018 by John Wiley & Sons, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Maher, Suzanne A.
+AU  - Wang, Hongsheng
+AU  - Koff, Matthew F.
+AU  - Belkin, Nicole
+AU  - Potter, Hollis G.
+AU  - Rodeo, Scott A.
+TI  - Clinical platform for understanding the relationship between joint contact mechanics and articular cartilage changes after meniscal surgery
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+VL  - 35
+IS  - 3
+SN  - 9781119317920
+UR  - https://doi.org/10.1002/jor.23365
+DO  - doi:10.1002/jor.23365
+SP  - 600
+EP  - 611
+KW  - knee joint contact mechanics
+KW  - osteoarthritis
+KW  - imaging
+KW  - biomarkers
+KW  - meniscus
+PY  - 2017
+AB  - ABSTRACT Injury to the meniscus of the knee has been implicated as a significant risk factor for the subsequent development of osteoarthritis, but the mechanisms of joint degeneration are unclear. Our objective was to develop a clinically applicable methodology to evaluate the relationship of joint contact mechanics at the time of surgery to biological changes of articular cartilage as a function of time following surgery. A series of pre-, intra-, and post-operative protocols were developed which utilized electronic sensors for the direct measurement of contact mechanics, and advanced imaging to assess cartilage health. The tests were applied to a pilot cohort of young active patients undergoing meniscus allograft transplantation. Our study demonstrated significant variability across patients in terms of contact area and peak contact stress, both before and after transplantation. Nonetheless, the majority of patients exhibited decreased peak contact stress and increased contact area after graft implantation. MR scans at 3?6 months showed decreased T1? values in tibial articular cartilage, suggesting an increase in proteoglycan content or concomitant decrease in water content. Prolongation of T2 values was found primarily within the central, cartilage?cartilage contact region of the tibial plateau suggested disruption of the collagen network. Minimal differences were found in cartilage thickness over the short time frame of this preliminary study. With longer clinical follow-up, our platform of clinical tests can be used to better understand the patient-specific mechanical factors that are related to increased risk of OA after meniscus injury and surgery. ? 2017 Orthopaedic Research Society. Published by Wiley Periodicals, Inc. J Orthop Res 35:600?611, 2017.
+ER  - 
+
+TY  - JOUR
+AU  - Clarke, Aoife
+AU  - Simpson, Jane
+AU  - Varese, Filippo
+C8  - CPP-1828.R1
+TI  - A systematic review of the clinical utility of the concept of self-disgust
+JO  - Clinical Psychology & Psychotherapy
+JA  - Clin Psychol Psychother
+VL  - 26
+IS  - 1
+SN  - 9781119317920
+UR  - https://doi.org/10.1002/cpp.2335
+DO  - doi:10.1002/cpp.2335
+SP  - 110
+EP  - 134
+KW  - mental health
+KW  - review
+KW  - self-disgust
+KW  - utility
+KW  - validity
+PY  - 2019
+AB  - This systematic literature review examined the clinical utility of the construct of self-disgust in understanding mental distress. Specifically, the review assessed whether there is a shared conceptual definition of self-disgust, the face and construct validity of the quantitative assessment measures of self-disgust, and the predictive validity of self-disgust in formulating the development of a range of psychological difficulties. A systematic database search supplemented by manual searches of references and citations identified 31 relevant papers (27 quantitative, 3 qualitative, and 1 mixed). Analysis of qualitative papers indicated a number of shared features in the definition of self-disgust, including a visceral sense of self-elicited nausea accompanied by social withdrawal and attempts at cleansing or suppressing aspects of the self. Quantitative assessment measures appeared to capture these dimensions and evidenced good psychometric properties, although some measures may have only partially captured the full self-disgust construct. Strong relationships were observed between self-disgust and a range of mental health presentations, in particular, depression, body-image difficulties, and trauma-related difficulties. However, these relationships are smaller when the effects of other negative self-referential emotions were controlled, and stronger conclusions about the predictive validity of self-disgust are limited by the cross-sectional nature of many of the studies.
+ER  - 
+
+TY  - JOUR
+AU  - He, Naying
+AU  - Huang, Pei
+AU  - Ling, Huawei
+AU  - Langley, Jason
+AU  - Liu, Chunlei
+AU  - Ding, Bei
+AU  - Huang, Juan
+AU  - Xu, Hongmin
+AU  - Zhang, Yong
+AU  - Zhang, Zhongping
+AU  - Hu, Xiaoping
+AU  - Chen, Shengdi
+AU  - Yan, Fuhua
+C7  - e3554
+C8  - NBM-15-0332.R2
+TI  - Dentate nucleus iron deposition is a potential biomarker for tremor-dominant Parkinson's disease
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 30
+IS  - 4
+SN  - 9781119317920
+UR  - https://doi.org/10.1002/nbm.3554
+DO  - doi:10.1002/nbm.3554
+SP  - e3554
+KW  - Parkinson's disease
+KW  - tremor-dominant phenotype
+KW  - akinetic rigidity-dominant phenotype
+KW  - quantitative susceptibility mapping
+KW  - iron deposition
+PY  - 2017
+AB  - Parkinson's disease (PD) is a heterogeneous neurodegenerative disorder with variable clinicopathologic phenotypes and underlying neuropathologic mechanisms. Each clinical phenotype has a unique set of motor symptoms. Tremor is the most frequent initial motor symptom of PD and is the most difficult symptom to treat. The dentate nucleus (DN) is a deep iron-rich nucleus in the cerebellum and may be involved in PD tremor. In this study, we test the hypothesis that DN iron may be elevated in tremor-dominant PD patients using quantitative susceptibility mapping. Forty-three patients with PD [19 tremor dominant (TD)/24 akinetic rigidity (AR) dominant] and 48 healthy gender- and age-matched controls were recruited. Multi-echo gradient echo data were collected for each subject on a 3.0-T MR system. Inter-group susceptibility differences in the bilateral DN were investigated and correlations of clinical features with susceptibility were also examined. In contrast with the AR-dominant group, the TD group was found to have increased susceptibility in the bilateral DN when compared with healthy controls. In addition, susceptibility was positively correlated with tremor score in drug-naive PD patients. These findings indicate that iron load within the DN may make an important contribution to motor phenotypes in PD. Moreover, our results suggest that TD and AR-dominant phenotypes of PD can be differentiated on the basis of the susceptibility of the DN, at least at the group level. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Barone, Antonio
+AU  - Toti, Paolo
+AU  - Menchini-Fabris, Giovan-Battista
+AU  - Derchi, Giacomo
+AU  - Marconcini, Simone
+AU  - Covani, Ugo
+TI  - Extra oral digital scanning and imaging superimposition for volume analysis of bone remodeling after tooth extraction with and without 2 types of particulate porcine mineral insertion: A randomized controlled trial
+JO  - Clinical Implant Dentistry and Related Research
+JA  - Clin Implant Dent Relat Res
+VL  - 19
+IS  - 4
+SN  - 9781119317920
+UR  - https://doi.org/10.1111/cid.12495
+DO  - doi:10.1111/cid.12495
+SP  - 750
+EP  - 759
+KW  - alveolar bone remodeling
+KW  - bone substitutes
+KW  - extraction socket
+KW  - tooth extraction
+KW  - xenograft
+PY  - 2017
+AB  - Abstract Background Incorporation of bone substitute material into the extraction socket could minimize the edentulous ridge volume loss or maximize the bone formation within the healing area. Purpose The aim of the study was to test the effectiveness in maintaining the volumetric contour of fresh extraction sockets grafted with or without 2 types of porcine biomaterials and covered with a resorbable barrier. Materials and Methods In the present multi-center single-blind randomized control trial, 55 patients underwent 1-tooth extraction, were surveyed, and randomly allocated to control- (25 sites, nat-group) or test groups (15 sites grafted with pre-hydrated collagenated cortico-cancellous porcine bone, coll-group, and 15 with cortical porcine bone, cort-group). Before extraction, and then 4 months later, contours of the sockets were acquired through a laser scanner, voxelized, and ghosts of each patient were superimposed with a matrix laboratory. Volumetric and area evaluations of the virtual superimposed models were performed with dentascan tools to create a volume of interest extending between the 2 residual teeth. Intra- and inter-group comparisons of the outcomes were performed. Non-parametric tests were applied with a level of significance set at P?<?.05. Results Intergroup analysis at 4 months' survey revealed that percentage loss of alveolar ridge volume of the coll-group (28.8%?±?8.8%) and of the cort-group (30.2%?±?7.1%) was significantly lower (P?<?.0001) than that of the naturally-healing group (46.4%?±?4.1%). No statistically-significant differences in outcomes were observed between the 2 test groups at any of the observation periods. Moreover, tooth position (bicuspids vs molars) seemed to affect neither volume loss nor basal shrinkage. Conclusion At the 4-month analysis both test groups showed reduced bone loss when compared to naturally healing sockets. However, the 2 grafting materials were not able to preserve the alveolar crest, and a reduction close to 30% in the estimates was registered after healing.
+ER  - 
+
+TY  - JOUR
+AU  - Chung, Alice
+AU  - Karlan, Scott
+AU  - Lindsley, Erik
+AU  - Wachsmann-Hogiu, Sebastian
+AU  - Farkas, Daniel L.
+TI  - In vivo cytometry: A spectrum of possibilities
+JO  - Cytometry Part A
+JA  - Cytometry
+VL  - 69A
+IS  - 3
+SN  - 9781119317920
+UR  - https://doi.org/10.1002/cyto.a.20220
+DO  - doi:10.1002/cyto.a.20220
+SP  - 142
+EP  - 146
+KW  - optical diagnostics
+KW  - unstained specimens
+KW  - in vivo cytometry
+KW  - spectral imaging
+KW  - elastic scattering imaging endoscopy
+PY  - 2006
+AB  - Abstract Background We investigate whether optical imaging can reliably detect abnormalities in tissue, in a range of specimens (live cells in vitro; fixed, fresh ex-vivo and in vivo tissue), without the use of added contrast agents, and review our promising spectral methods for achieving quantitative, real-time, high resolution intrasurgical optical diagnostics. Methods We use reflectance, fluorescence, two-photon, and Mie scattering imaging, performed with instrumentation we developed or modified, to detect intrinsic tissue signatures. Emphasis is on spectral/hyperspectral imaging approaches allowing the equivalent of in vivo pathology. Results With experimental focus on unstained specimens, we demonstrate the ability to segment tissue images for cancer detection. Spectral reflectance imaging, coupled with advanced analysis, typically yields 90% specificity and sensitivity. Autofluorescence is also shown to be diagnostically useful, with lymph nodes results highlighted here. Elastic scattering hyperspectral imaging endoscopy, using a new instrument we designed and built, shows promise in bronchoscopic detection of dysplasia and early cancer in patients. Conclusions The results demonstrate that advanced optical imaging can detect and localize cellular signatures of cancer in real-time, in vivo, without the use of contrast agents, in animals and humans. This is an important step towards tight spatio-temporal coupling between such detection and clinical intervention. ? 2006 International Society for Analytical Cytology
+ER  - 
+
+AU  - Diluna, Michael L.
+AU  - Amar, Arun Paul
+C7  - pp. 188-201
+TI  - Traumatic Vascular Injury to the Cervical Spine
+SN  - 9781405122061
+UR  - https://doi.org/10.1002/9780470753163.ch12
+DO  - doi:10.1002/9780470753163.ch12
+SP  - 188-201
+KW  - vascular injury
+KW  - cervical spine
+KW  - vasculature
+KW  - thromboembolic phenomena.
+KW  - kinetic energy
+PY  - 2006
+AB  - Summary This chapter contains section titled: Introduction Penetrating traumatic injury to the arteries of the neck Blunt traumatic injury to the arteries of the neck Iatrogenic injury to the cervical arteries Conclusions
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Ligong
+AU  - Regatte, Ravinder R.
+TI  - T1ρ MRI of human musculoskeletal system
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J. Magn. Reson. Imaging
+VL  - 41
+IS  - 3
+SN  - 9781405122061
+UR  - https://doi.org/10.1002/jmri.24677
+DO  - doi:10.1002/jmri.24677
+SP  - 586
+EP  - 600
+KW  - T1ρ
+KW  - musculoskeletal system
+KW  - osteoarthritis
+KW  - cartilage
+KW  - meniscus
+KW  - anterior cruciate ligament
+PY  - 2015
+AB  - Magnetic resonance imaging (MRI) offers the direct visualization of the human musculoskeletal (MSK) system, especially all diarthrodial tissues including cartilage, bone, menisci, ligaments, tendon, hip, synovium, etc. Conventional MRI techniques based on T1- and T2-weighted, proton density (PD) contrast are inconclusive in quantifying early biochemically degenerative changes in MSK system in general and articular cartilage in particular. In recent years, quantitative MR parameter mapping techniques have been used to quantify the biochemical changes in articular cartilage, with a special emphasis on evaluating joint injury, cartilage degeneration, and soft tissue repair. In this article we focus on cartilage biochemical composition, basic principles of T1? MRI, implementation of T1? pulse sequences, biochemical validation, and summarize the potential applications of the T1? MRI technique in MSK diseases including osteoarthritis (OA), anterior cruciate ligament (ACL) injury, and knee joint repair. Finally, we also review the potential advantages, challenges, and future prospects of T1? MRI for widespread clinical translation. J. Magn. Reson. Imaging 2015;41:586?600. ? 2014 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Lackner, M.
+AU  - De Man, F. H.
+AU  - Eygendaal, D.
+AU  - Wintermans, R. G. F.
+AU  - Kluytmans, J. A.
+AU  - Klaassen, C. H.
+AU  - Meis, J. F.
+TI  - Severe prosthetic joint infection in an immunocompetent male patient due to a therapy refractory Pseudallescheria apiosperma
+JO  - Mycoses
+VL  - 54
+IS  - s3
+SN  - 9781405122061
+UR  - https://doi.org/10.1111/j.1439-0507.2011.02107.x
+DO  - doi:10.1111/j.1439-0507.2011.02107.x
+SP  - 22
+EP  - 27
+KW  - Scedosporium apiospermum
+KW  - persistent infection
+KW  - non-traumatic infection
+KW  - itraconazole resistance
+KW  - voriconazole failure
+PY  - 2011
+AB  - Summary Prosthetic joint infections (PJI) are rarely due to fungal agents and if so they are mainly caused by Candida strains. This case represents a PJI caused by a multi-drug resistant Pseudallescheria apiosperma, with poor in vivo response to itraconazole and voriconazole. This case differs also by the way of infection, since the joint infection did not follow a penetrating trauma. In the majority of cases, Scedosporium extremity infections remain local in immunocompetent individuals. We report a persistent joint infection with multiple therapeutic failures, and subsequent amputation of the left leg. Detailed clinical data, patient history, treatment regime and outcome of a very long-lasting (>4?years) P. apiosperma prosthetic knee infection in an immunocompetent, 61-year-old male patient are presented with this case. The patient was finally cured by the combination of multiple and extensive surgical interventions and prolonged antifungal combination therapy with voriconazole and terbinafine.
+ER  - 

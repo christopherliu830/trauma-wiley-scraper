@@ -1,0 +1,456 @@
+
+TY  - JOUR
+AU  - Wu, Jie
+AU  - Belle, Ashwin
+AU  - Hargraves, Rosalyn H
+AU  - Cockrell, Charles
+AU  - Tang, Yang
+AU  - Najarian, Kayvan
+TI  - Bone segmentation and 3D visualization of CT images for traumatic pelvic injuries
+JO  - International Journal of Imaging Systems and Technology
+JA  - Int. J. Imaging Syst. Technol.
+VL  - 24
+IS  - 1
+SN  - 0899-9457
+UR  - https://doi.org/10.1002/ima.22076
+DO  - doi:10.1002/ima.22076
+SP  - 29
+EP  - 38
+KW  - traumatic pelvic injury
+KW  - bone segmentation
+KW  - 3D visualization
+KW  - registered active shape model
+PY  - 2014
+AB  - ABSTRACT Pelvic bone segmentation is a vital step in analyzing pelvic CT images, which assists physicians with diagnostic decision making in cases of traumatic pelvic injuries. Due to the limited resolution of the original CT images and the complexity of pelvic structures and their possible fractures, automatic pelvic bone segmentation in multiple CT slices is very difficult. In this study, an automatic pelvic bone segmentation approach is proposed using the combination of anatomical knowledge and computational techniques. It is developed for solving the problem of accurate and efficient bone segmentation using multiple consecutive pelvic CT slices obtained from each patient. Our proposed segmentation method is able to handle variation of bone shapes between slices there by making it less susceptible to inter-personal variability between different patients' data. Moreover, the designed training models are validated using a cross-validation process to demonstrate the effectiveness. The algorithm's capability is tested on a set of 20 CT data sets. Successful segmentation results and quantitative evaluations are present to demonstrate the effectiveness and robustness of proposed algorithm, well suited for pelvic bone segmentation purposes.
+ER  - 
+
+TY  - JOUR
+AU  - Stoddart, Stephanie
+AU  - Handy, Michael
+AU  - Cleland, Perry
+AU  - Wall, Daryl
+AU  - Brown, Anthony
+TI  - Traumatic dislocation of the first rib: A case report and review of the literature
+JO  - Emergency Medicine Australasia
+JA  - Emergency Medicine Australasia
+VL  - 29
+IS  - 6
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/1742-6723.12866
+DO  - doi:10.1111/1742-6723.12866
+SP  - 746
+EP  - 748
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+AU  - Levman, Jacob
+AU  - Vasung, Lana
+AU  - MacDonald, Patrick
+AU  - Rowley, Sean
+AU  - Stewart, Natalie
+AU  - Lim, Ashley
+AU  - Ewenson, Bryan
+AU  - Galaburda, Albert
+AU  - Takahashi, Emi
+TI  - Regional volumetric abnormalities in pediatric autism revealed by structural magnetic resonance imaging
+JO  - International Journal of Developmental Neuroscience
+JA  - International Journal of Developmental Neuroscience
+VL  - 71
+IS  - C
+SN  - 0736-5748
+UR  - https://doi.org/10.1016/j.ijdevneu.2018.08.001
+DO  - doi:10.1016/j.ijdevneu.2018.08.001
+SP  - 34
+EP  - 45
+KW  - Autistic
+KW  - Development
+KW  - Magnetic resonance imaging
+KW  - Neuroanatomy
+KW  - Volumetric
+PY  - 2018
+AB  - Abstract Autism is a group of complex neurodevelopmental disorders characterized by impaired social interaction, restricted and repetitive behavior. We performed a large-scale retrospective analysis of 1,996 structural magnetic resonance imaging (MRI) examinations of the brain from 1,769 autistic and neurologically typically developing patients (aged 0?32?years), and extracted regional volumetric measurements distributed across 463 brain regions of each patient. The youngest autistic patients (<2.5 years) were diagnosed after imaging and identified retrospectively. Our study demonstrates corpus callosum volumetric abnormalities among autistic patients that are associated with brain overgrowth in early childhood (0?5 years old), followed by a shift towards known decreased volumes in later ages. Results confirm known increases in ventricular volumes among autistic populations and extends those findings to increased volumes of the choroid plexus. Our study also demonstrates distributed volumetric abnormalities among autistic patients that affect a variety of key regional white and grey matter areas of the brain potentially associated with known symptoms of autism.
+ER  - 
+
+TY  - JOUR
+TI  - Trauma Surgery
+JO  - ANZ Journal of Surgery
+VL  - 74
+IS  - S1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/ans.2004.74.s1.a132
+DO  - doi:10.1111/ans.2004.74.s1.a132
+SP  - A132
+EP  - A136
+PY  - 2004
+ER  - 
+
+C7  - pp. 735-773
+TI  - Multimedia Electronic Patient Record (ePR) System for Image-Assisted Spinal Surgery
+SN  - 9780470373729
+UR  - https://doi.org/10.1002/9780470560525.ch24
+DO  - doi:10.1002/9780470560525.ch24
+SP  - 735-773
+KW  - multimedia electronic patient record (ePR) system for image-assisted spinal surgery
+KW  - image-guided minimally invasive spinal surgery (MISS) and multimodality images for guiding surgical procedure
+KW  - pre-op authoring module - pre-op stage of MISS procedure
+KW  - information prior to surgery organized in patient e-folder
+PY  - 2004
+AB  - Summary This chapter contains sections titled: Integration of Medical Diagnosis with Image-Assisted Surgery Treatment Minimally Invasive Spinal Surgery Workflow Multimedia ePR System for Image-Assisted MISS Workflow and Data Model Minimally Invasive Spinal Surgery ePR System Architecture Pre-Op Authoring Module Intra-Op Module Post-Op Module System Deployment and User Training and Support Summary of Developing the Multimedia ePR System for Image-Assisted Spinal Surgery Reference
+ER  - 
+
+TY  - JOUR
+AU  - Nazarian, Saman
+AU  - Reynolds, Matthew R.
+AU  - Ryan, Michael P.
+AU  - Wolff, Steven D.
+AU  - Mollenkopf, Sarah A.
+AU  - Turakhia, Mintu P.
+TI  - Utilization and likelihood of radiologic diagnostic imaging in patients with implantable cardiac defibrillators
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J. Magn. Reson. Imaging
+VL  - 43
+IS  - 1
+SN  - 9780470373729
+UR  - https://doi.org/10.1002/jmri.24971
+DO  - doi:10.1002/jmri.24971
+SP  - 115
+EP  - 127
+KW  - defibrillation
+KW  - heart-assist device
+KW  - magnetic resonance imaging
+KW  - implantable cardioverter defibrillators
+KW  - healthcare utilization
+PY  - 2016
+AB  - Purpose To examine imaging utilization in a matched cohort of patients with and without implantable cardioverter defibrillators (ICD) and to project magnetic resonance imaging (MRI) utilization over a 10-year period. Materials and Methods The Truven Health MarketScan Commercial claims and Medicare Supplemental health insurance claims data were used to identify patients with continuous health plan enrollment in 2009?2012. Patients with ICDs were identified using ICD-9 and CPT codes, and matched to patients with the same demographic and comorbidity profile, but no record of device implantation. Diagnostic imaging utilization was compared across the matched cohorts, in total, by imaging categories, and in subpopulations of stroke, back pain, and joint pain. MRI use in the nonimplant group over the 4-year period was extrapolated out to 10 years for ICD-indicated patients. Results A cohort of 18,770 matched patients were identified; average age 65.5?±?13.38 and 21.9% female. ICD patients had significantly less MRI imaging (0.23 0.70 SD vs. 0.00 0.08 SD, P?<?0.0001) than nonimplant patients. Among patients with records of stroke/transient ischemic attack (TIA) (ICD 5%, nonimplant 4%) and accompanying diagnostic imaging, 44% of nonimplant patients underwent MRI vs. 1% of ICD patients (P?<?0.0001). Forecast models estimated that 53% to 64% of ICD-eligible patients may require an MRI within 10 years. Conclusion MRI utilization is lower in ICD patients compared to nonimplant patients, yet the burden of incident stroke/TIA, back, and joint pain suggests an unmet need for MR-conditional devices. J. MAGN. RESON. IMAGING 2016;43:115?127.
+ER  - 
+
+TY  - JOUR
+AU  - Bonifazi, Paolo
+AU  - Erramuzpe, Asier
+AU  - Diez, Ibai
+AU  - Gabilondo, Iñigo
+AU  - Boisgontier, Matthieu P.
+AU  - Pauwels, Lisa
+AU  - Stramaglia, Sebastiano
+AU  - Swinnen, Stephan P.
+AU  - Cortes, Jesus M.
+TI  - Structure–function multi-scale connectomics reveals a major role of the fronto-striato-thalamic circuit in brain aging
+JO  - Human Brain Mapping
+JA  - Hum Brain Mapp
+VL  - 39
+IS  - 12
+SN  - 9780470373729
+UR  - https://doi.org/10.1002/hbm.24312
+DO  - doi:10.1002/hbm.24312
+SP  - 4663
+EP  - 4677
+KW  - brain age
+KW  - brain connectivity
+KW  - chronological age
+KW  - diffusion tensor imaging
+KW  - physiological aging
+KW  - resting state
+PY  - 2018
+AB  - Abstract Physiological aging affects brain structure and function impacting morphology, connectivity, and performance. However, whether some brain connectivity metrics might reflect the age of an individual is still unclear. Here, we collected brain images from healthy participants (N?=?155) ranging from 10 to 80 years to build functional (resting state) and structural (tractography) connectivity matrices, both data sets combined to obtain different connectivity features. We then calculated the brain connectome age?an age estimator resulting from a multi-scale methodology applied to the structure?function connectome, and compared it to the chronological age (ChA). Our results were twofold. First, we found that aging widely affects the connectivity of multiple structures, such as anterior cingulate and medial prefrontal cortices, basal ganglia, thalamus, insula, cingulum, hippocampus, parahippocampus, occipital cortex, fusiform, precuneus, and temporal pole. Second, we found that the connectivity between basal ganglia and thalamus to frontal areas, also known as the fronto-striato-thalamic (FST) circuit, makes the major contribution to age estimation. In conclusion, our results highlight the key role played by the FST circuit in the process of healthy aging. Notably, the same methodology can be generally applied to identify the structural?functional connectivity patterns correlating to other biomarkers than ChA.
+ER  - 
+
+TY  - JOUR
+AU  - Giordano, Stefano
+AU  - Spiezia, Luca
+AU  - Casacanditella, Graziana
+AU  - Pizziol, Alessandra
+AU  - Simioni, Paolo
+TI  - Point-of-care management of fulminant hyperfibrinolysis in the Emergency Department after hanging trauma
+JO  - Anaesthesia Cases
+JA  - Anaesthesia Cases
+VL  - 4
+IS  - 2
+SN  - 9780470373729
+UR  - https://doi.org/10.21466/ac.PMOFHAH.2016
+DO  - doi:10.21466/ac.PMOFHAH.2016
+SP  - 97
+EP  - 101
+PY  - 2016
+AB  - Summary Fulminant hyperfibrinolysis has a mortality rate of 80-100% and requires early treatment with anti-fibrinolytics and fibrinogen. In cases of major trauma, rapid coagulation assessment and control are fundamental to successful patient management. Standard laboratory coagulation tests take time and are insufficient in describing Trauma-Induced Coagulopathy. Point-Of-Care (POC) tests such as ROTEM? (rotational thromboelastometry) and MULTIPLATE? (impedance aggregometry) can overcome these limitations and are effective as a guide to coagulation status and requirements for transfusion support. We report the successful POC management of fulminant hyperfibrinolysis after a hanging trauma in a man admitted to the Emergency Department.
+ER  - 
+
+TY  - JOUR
+AU  - Oh, Jason Jaeseong
+AU  - Asha, Stephen Edward
+AU  - Curtis, Kate
+C8  - EMA-2015-334.R1
+TI  - Diagnostic accuracy of flexion-extension radiography for the detection of ligamentous cervical spine injury following a normal cervical spine computed tomography
+JO  - Emergency Medicine Australasia
+JA  - Emergency Medicine Australasia
+VL  - 28
+IS  - 4
+SN  - 9780470373729
+UR  - https://doi.org/10.1111/1742-6723.12612
+DO  - doi:10.1111/1742-6723.12612
+SP  - 450
+EP  - 455
+KW  - blunt trauma
+KW  - cervical vertebrae
+KW  - flexion–extension
+KW  - tomography
+KW  - X-ray
+KW  - X-ray computed
+PY  - 2016
+AB  - Abstract Background Flexion?extension radiography (FER) has been utilised for the detection of ligamentous injury in patients who have been cleared of bony injury. Some studies call into question the diagnostic accuracy of FER, the high proportion of inadequate FER images and the adverse effects of prolonged cervical collar immobilisation although awaiting FER. Methods We conducted a two-part retrospective study of trauma patients presenting to a trauma centre between January 2007 and December 2014. A cross-sectional analytic study was used to determine diagnostic accuracy and a case?control design was used to compare characteristics and complications of those having FER with similar patients not having FER. Inclusion criteria were age ≥16, blunt trauma mechanism, a normal computed tomography (CT) of the cervical spine and FER to assess for ligamentous injury. The reference standard was magnetic resonance imaging evidence of ligamentous disruption or a therapeutic intervention to treat ligamentous instability. Results There were 176 participants meeting inclusion criteria. Studies were considered inadequate in 168 participants (95.5%). There were zero true positives, four false positives, 168 true negatives and four false negatives: sensitivity 0% (0.0?60.2%), specificity 97.7 (94.2?99.4%), positive predictive value 0% (0.0?60.2%) and negative predictive value 97.7 (94.2?99.4%). Participants having FER remained in cervical collars and in hospital longer than control patients. Complications of cervical collar use were uncommon. Conclusion FER does not contribute additional diagnostic accuracy for the detection of ligamentous injury to the cervical spine following a normal CT of the cervical spine. We recommend FER be removed from cervical spine clearance protocols.
+ER  - 
+
+TY  - JOUR
+AU  - van Heerden, Jolandi
+AU  - Desmond, Patricia M.
+AU  - Tress, Brian M.
+AU  - Kwan, Patrick
+AU  - O'Brien, Terence J.
+AU  - Lui, Elaine H.
+TI  - Magnetic resonance imaging in adults with epilepsy: A pictorial essay
+JO  - Journal of Medical Imaging and Radiation Oncology
+JA  - Journal of Medical Imaging and Radiation Oncology
+VL  - 58
+IS  - 3
+SN  - 9780470373729
+UR  - https://doi.org/10.1111/1754-9485.12150
+DO  - doi:10.1111/1754-9485.12150
+SP  - 312
+EP  - 319
+KW  - adult neuroimaging
+KW  - magnectic resonance imaging
+KW  - neuroradiology
+PY  - 2014
+AB  - Summary This pictorial essay highlights the role of the radiologist as a member of the adult epilepsy multidisciplinary team, and gives an overview of MRI-evident epileptogenic lesions.
+ER  - 
+
+TY  - JOUR
+AU  - Ho, K.K.
+TI  - TO REVIEW THE CARDIOTHORACIC TRAUMA AT QUEEN ELIZABETH HOSPITAL 1995–2000
+JO  - Annals of the College of Surgeons of Hong Kong
+VL  - 5
+IS  - 2
+SN  - 9780470373729
+UR  - https://doi.org/10.1111/j.1442-2034.2001.98-7.x
+DO  - doi:10.1111/j.1442-2034.2001.98-7.x
+SP  - A16
+EP  - A16
+PY  - 2001
+AB  - Purpose: All cardiothoracic consultations initiated at Accident and Emergency Department for period February 1995 to November 2000 were reviewed. Methods: Information was extracted from Trauma Registry of over 1000 cases. Results: 61 consultation was recorded. There were 33 blunt injury and 28 penetrating injury. 21 cases were of ISS 15 or less. Surgery for thoracic injury was performed in 13 cases of blunt injury (40%) and 20 cases of penetrating injury (70%). Majority of surgery was related to chest wall and lung injury. In addition there were 3 major intrathoracic vessel, 6 cardiac, 3 diaphragmatic and 1 major airway injury. 20 deaths were recorded with 4 deaths at A&E department. Mortality is related to severity of ISS and age >70. 4 ER-thoracotomy was performed with 3 deaths. There were related to heart and aorta injury with average ISS≥50. Conclusion: 1. Major cardiothoracic trauma is not common. 2. When present, it is associated with severe injury. 3. The outcome is related to severity of ISS and old age.
+ER  - 
+
+TY  - JOUR
+AU  - Graham, R. J. T. Y.
+AU  - Anderson, J. R.
+AU  - Phelan, M. M.
+AU  - Cillan-Garcia, E.
+AU  - Bladon, B. M.
+AU  - Taylor, S. E.
+TI  - Metabolomic analysis of synovial fluid from Thoroughbred racehorses diagnosed with palmar osteochondral disease using magnetic resonance imaging
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - n/a
+IS  - n/a
+SN  - 9780470373729
+UR  - https://doi.org/10.1111/evj.13199
+DO  - doi:10.1111/evj.13199
+KW  - horse
+KW  - metacarpophalangeal joint
+KW  - palmar osteochondral disease
+KW  - magnetic resonance imaging
+KW  - synovial fluid
+KW  - metabolomics
+AB  - Summary Background Palmar osteochondral disease (POD) is a common cause of lameness in competition horses. Magnetic resonance imaging (MRI) is the most sensitive diagnostic modality currently available, however it may not be financially or logistically practical for routine screening of POD. There is increasing interest in the use of metabolomics for diagnosis prior to progression to irreversible damage. Objectives To determine metabolite levels in synovial fluid (SF) of horses with a clinical diagnosis of POD based on diagnostic analgesia and MRI, with the hypothesis that metabolomic profiles differ between diseased and healthy joints. Study design Prospective clinical study. Methods Synovial fluid was collected from metacarpo/tarsophalangeal joints (MC/TPJ) of 29 horses (n = 51 joints), including 14 controls (n = 26) and 15 cases (n = 25), the latter with lameness localised to the MC/TPJ and MR changes consistent with POD (n = 23). Spectra were produced using 1H-nuclear magnetic resonance (NMR) spectroscopy and analysed. Results Twenty-five metabolites were recognised associated with various biosynthetic and degradation pathways. The metabolite abundances within the controls demonstrated increased variability compared with the clinical group. The low level of variance between the spectra of the two groups was explained by five principal components. Cross-validation of the cohort demonstrated modest separation of predictive power (R2 = 0.67; Q2 = 0.34). Although statistical significance was not achieved, the most influential metabolites were glucose and lactate. Main limitations The modest sample size and variation in signalment, background and presenting condition of the controls may have impacted the discriminative power of the constructed models. The lack of matched controls, differences in time of fluid collection and freezing times may have also reduced accuracy when representing metabolite profiles. Conclusions This study identified and quantified metabolites present in MC/TPJ SF of clinical cases with POD.
+ER  - 
+
+TY  - JOUR
+AU  - Cannella, Nazzareno
+AU  - Cosa-Linan, Alejandro
+AU  - Büchler, Elena
+AU  - Falfan-Melgoza, Claudia
+AU  - Weber-Fahr, Wolfgang
+AU  - Spanagel, Rainer
+C8  - AB-01-2017-0009.R1
+TI  - In vivo structural imaging in rats reveals neuroanatomical correlates of behavioral sub-dimensions of cocaine addiction
+JO  - Addiction Biology
+JA  - Addiction Biology
+VL  - 23
+IS  - 1
+SN  - 9780470373729
+UR  - https://doi.org/10.1111/adb.12500
+DO  - doi:10.1111/adb.12500
+SP  - 182
+EP  - 195
+KW  - cocaine addiction
+KW  - cocaine seeking
+KW  - compulsive cocaine seeking
+KW  - cortical thickness
+KW  - motivation for cocaine
+KW  - voxel-based morphometry
+PY  - 2018
+AB  - Abstract Cocaine addiction is a multi-dimensional behavioral disorder characterized by a loss of control over cocaine taking despite of detrimental consequences. Structural MRI studies have revealed association between cocaine consumption and gray matter volume (GMV) in cocaine-addicted patients. However, the behavioral correlates of GMV in cocaine addiction are poorly understood. Here, we used a DSM-IV-based rat model of cocaine addiction with high face validity for structural imaging. According to three behavioral sub-dimensions of addiction, rats were separated into two groups showing either addict-like or non-addict-like behavior. These behavioral sub-dimensions were (1) the inability to refrain from drug-seeking and taking, (2) high motivation for the drug, and (3) maintained drug use despite negative consequences. In these rats, we performed structural MRI with voxel-based morphometry and analyzed the interaction of GMV with behavioral sub-dimensions in cocaine-addicted rats. Our major findings are that GMV differentially correlate with the inability to refrain from drug-seeking and taking in addict-like and non-addict-like rats within the somatosensory cortices and the amygdala. High motivation for the drug differentially correlates with GMV in addict-like and non-addict-like rats within the medial prefrontal cortex, and maintained drug use despite negative consequences differentially correlates with GMV in these two groups of rats within the periaqueductal gray. Our results demonstrate that the behavioral differences characterizing addict-like and non-addict-like rats in each behavioral sub-dimension of addiction are reflected by divergent covariance with GMV. We conclude that structural imaging provides specific neuroanatomical correlates of behavioral sub-dimensions of addiction.
+ER  - 
+
+TY  - JOUR
+AU  - Dean, B.
+AU  - Anderson, T.
+AU  - Garcia-Pertierra, S.
+AU  - Jenkins, G.
+AU  - Cantatore, M.
+AU  - Craig, A.
+AU  - Harris, K.
+AU  - Ryan, T.
+TI  - Diaphragmotomy to aid exposure during hepatobiliary surgery: a multi-centre retrospective review of 31 dogs
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - n/a
+IS  - n/a
+SN  - 9780470373729
+UR  - https://doi.org/10.1111/jsap.13121
+DO  - doi:10.1111/jsap.13121
+AB  - Objectives To report surgical technique, intra- and post-operative complications, and short- and long-term outcome following canine hepatobiliary surgery in which exposure of intra-abdominal hepatobiliary lesions was aided by diaphragmotomy. Materials and Methods Clinical records from four multi-disciplinary UK-based small animal referral hospitals were retrospectively reviewed for dogs in which diaphragmotomy was performed between January 2014 and May 2019. Signalment, diagnosis, surgery performed, diaphragmotomy technique, management of diaphragmotomy and pneumothorax, intra- and post-operative complications, short-term outcome and long-term outcome were recorded. Results Thirty-one cases were identified. The most common hepatobiliary surgeries performed alongside diaphragmotomy were single hepatic lobectomy (14/31) and cholecystectomy (11/31). The most common diagnoses were hepatocellular carcinoma (10/31), gall bladder mucocoele (7/31) and hepatic nodular hyperplasia (4/31). Peri-operative mortality rate was 9.7% (3/31 cases) though none of these deaths were considered attributable to diaphragmotomy. Post-operative complications were encountered in 67.9% (19/28) cases that survived the peri-operative period, of which 25.0% (7/28) suffered complications that were considered attributable or likely attributable to diaphragmotomy. These seven complications resolved following non-surgical intervention. Follow-up was available for 26 of 28 patients that survived to discharge at a median of 4-months (range 10?days to 24?months) following surgery and revealed no evidence of complications related to diaphragmotomy. Clinical Significance Diaphragmotomy appears safe and increases abdominal exposure of hepatobiliary lesions. The benefit of improved exposure must be carefully weighed up against the risks inherent in inducing pneumothorax.
+ER  - 
+
+TY  - JOUR
+AU  - Hu, Haiyang
+AU  - Wang, Qingguo
+AU  - Tang, Huamei
+AU  - Xiong, Liwen
+AU  - Lin, Qiang
+TI  - Multi-slice computed tomography characteristics of solitary pulmonary ground-glass nodules: Differences between malignant and benign
+JO  - Thoracic Cancer
+JA  - Thoracic Cancer
+VL  - 7
+IS  - 1
+SN  - 9780470373729
+UR  - https://doi.org/10.1111/1759-7714.12280
+DO  - doi:10.1111/1759-7714.12280
+SP  - 80
+EP  - 87
+KW  - Multi-slice CT
+KW  - pathology
+KW  - persistent ground-glass nodule
+KW  - three-dimensional reconstruction
+PY  - 2016
+AB  - Abstract Background Ground-glass nodules (GGNs), which are possible precursors of lung cancer, attract increasing attention. Many studies have attempted to identify the characteristic imaging features of GGNs for their qualitative diagnosis; however, the comprehension of GGNs remains controversial. We performed this study to identify imaging characteristics helpful to the differential diagnosis of solitary GGNs. Methods We retrospectively evaluated 112 solitary GGNs resected from 112 patients, pathologically examined after surgical resection. Imaging features of the GGNs, such as size, shape, a solid component, lobulation, spiculation, vascular convergence sign, pleural tag, and air cavity density, were assessed. Differences between malignant and benign nodules were analyzed using binary logistic regression analysis. Results Of the 112 GGNs, 82 were malignant and 30 were benign. A solid component, vascular convergence sign, and a larger diameter were risk factors for malignancy, with a sensitivity, specificity, and accuracy of 93.9%, 60.0%, and 84.8%, respectively. Lobulation, spiculation, air cavity densities, and pleural tags were also important indicators of malignancy, with positive predictive values of 93.5%, 83.3%, 91.7%, and 87.2%, respectively. Conclusion GGNs with a solid component, vascular convergence sign, and a larger diameter are highly suggestive of malignancy. The possibility of a neoplasm should also be considered in the case of GGNs that show lobulation, spiculation, air cavity densities, or pleural tags. To obtain a comprehensive and accurate analysis of the nodules, three-dimensional reconstruction is highly recommended.
+ER  - 
+
+TY  - JOUR
+AU  - Perani, Daniela
+AU  - Iaccarino, Leonardo
+AU  - Lammertsma, Adriaan A.
+AU  - Windhorst, Albert D.
+AU  - Edison, Paul
+AU  - Boellaard, Ronald
+AU  - Hansson, Oskar
+AU  - Nordberg, Agneta
+AU  - Jacobs, Andreas H.
+AU  - IMBI Project
+TI  - A new perspective for advanced positron emission tomography–based molecular imaging in neurodegenerative proteinopathies
+JO  - Alzheimer's & Dementia
+JA  - Alzheimer's & Dementia
+VL  - 15
+IS  - 8
+SN  - 9780470373729
+UR  - https://doi.org/10.1016/j.jalz.2019.02.004
+DO  - doi:10.1016/j.jalz.2019.02.004
+SP  - 1081
+EP  - 1103
+KW  - PET molecular imaging
+KW  - Radiotracers
+KW  - Protheinopathies
+KW  - Amyloid
+KW  - Tau
+KW  - Neuroinflammation
+PY  - 2019
+AB  - Recent studies in neurodegenerative conditions have increasingly highlighted that the same neuropathology can trigger different clinical phenotypes or, vice-versa, that similar phenotypes can be triggered by different neuropathologies. This evidence has called for the adoption of a pathology spectrum-based approach to study neurodegenerative proteinopathies. These conditions share brain deposition of abnormal protein aggregates, leading to aberrant biochemical, metabolic, functional, and structural changes. Positron emission tomography (PET) is a well-recognized and unique tool for the in vivo assessment of brain neuropathology, and novel PET techniques are emerging for the study of specific protein species. Today, key applications of PET range from early research and clinical diagnostic tools to their use in clinical trials for both participants screening and outcome evaluation. This position article critically reviews the role of distinct PET molecular tracers for different neurodegenerative proteinopathies, highlighting their strengths, weaknesses, and opportunities, with special emphasis on methodological challenges and future applications.
+ER  - 
+
+TY  - JOUR
+AU  - Dugar, N.
+AU  - Hoggard, N.
+AU  - Wilkinson, I.D.
+AU  - Griffiths, P.D.
+TI  - MR Imaging in Acute Stroke
+JO  - Imaging Decisions MRI
+VL  - 5
+IS  - 1
+SN  - 9780470373729
+UR  - https://doi.org/10.1046/j.1617-0830.2001.50101.x
+DO  - doi:10.1046/j.1617-0830.2001.50101.x
+SP  - 2
+EP  - 10
+KW  - Magnetic resonance imaging
+KW  - Stroke
+PY  - 2001
+ER  - 
+
+TY  - JOUR
+AU  - Mosher, Timothy J.
+AU  - Pruett, Steven W.
+TI  - Magnetic resonance imaging of superficial cartilage lesions: Role of contrast in lesion detection
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J. Magn. Reson. Imaging
+VL  - 10
+IS  - 2
+SN  - 9780470373729
+UR  - https://doi.org/10.1002/(SICI)1522-2586(199908)10:2<178::AID-JMRI11>3.0.CO;2-W
+DO  - doi:10.1002/(SICI)1522-2586(199908)10:2<178::AID-JMRI11>3.0.CO;2-W
+SP  - 178
+EP  - 182
+KW  - magnetic resonance imaging (MRI)
+KW  - cartilage
+KW  - osteoarthritis
+KW  - fibrillation
+KW  - joints
+PY  - 1999
+AB  - Abstract Excised patellar cartilage phantoms with artificial surface lesions were imaged in a 2 g/dl albumin solution to determine the effect of cartilage/fluid contrast on detection of early degenerative change. Surface lesions consisted of full-thickness holes, superficial grooves, and coarse abrasion. Phantoms were imaged with a T1-weighted fast low-angle shot (FLASH) and T2*-weighted dual-echo in the steady state (DESS) sequence. Although both sequences were able to identify full-thickness holes, they underestimated the presence of superficial grooves and extent of fibrillation. Despite greater bulk tissue contrast between cartilage and fluid for the FLASH sequence, detection of fibrillation was poorer compared with the DESS images. The results of this study suggest that surface properties of fibrillated cartilage contribute significantly to the insensitivity of magnetic resonance imaging in detecting superficial lesions. In contrast to previous papers suggesting that T1-weighted spoiled gradient-echo imaging provides the greatest accuracy for lesion detection, our results indicate that, in the presence of joint fluid, T2*-weighted imaging increases detection of superficial lesions. J. Magn. Reson. Imaging 1999;10:178?182. ? 1999 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Cui, Xu
+AU  - Li, Li-tao
+AU  - Ma, Yuan-zheng
+TI  - Anterior and Posterior Instrumentation with Different Debridement and Grafting Procedures for Multi-Level Contiguous Thoracic Spinal Tuberculosis
+JO  - Orthopaedic Surgery
+JA  - Orthop Surg
+VL  - 8
+IS  - 4
+SN  - 9780470373729
+UR  - https://doi.org/10.1111/os.12288
+DO  - doi:10.1111/os.12288
+SP  - 454
+EP  - 461
+KW  - Anterior
+KW  - Instrumentation
+KW  - Multi-level
+KW  - Posterior
+KW  - Thoracic spinal tuberculosis
+PY  - 2016
+AB  - Objective To evaluate the clinical outcomes of anterior and posterior instrumentation with different debridement and graft fusion methods for multi-level contiguous thoracic spinal tuberculosis. Methods We retrospectively evaluated 81 patients with multi-level contiguous thoracic spinal tuberculosis who underwent anterior or posterior instrumentation combined with different methods of debridement, decompression, and graft fusion from January 2002 to December 2012. All patients were divided into an anterior instrumentation group and a posterior instrumentation group. In the anterior instrumentation group, there were 39 patients who underwent transthoracic debridement. In the posterior instrumentation group, there were 34 patients who underwent trans-costotransverse decompression and strut grafting with posterior instrumentation, and another 8 patients underwent combined anterior debridement and strut grafting with posterior instrumentation in a single-stage or two-stage procedure. The kyphotic angles were calculated from lateral spinal X-rays using the modified Konstam method. The symptoms and signs of tuberculosis, fusion level, fusion time of the bone graft, average kyphosis angle, average correction, average loss of correction, and clinical complications were recorded. The average follow-up period was 37?months (range, 17?72?months). Results The cohort consisted of 47 males and 34 females with an average age of 38?years. The mean durations of the operations were 3.5 ± 0.4?h in the anterior group and 4.0 ± 0.3?h in the posterior group ( P < 0.05). The mean blood loss volumes during surgery were 450 ± 42 and 560 ± 51?mL for the anterior group and the posterior group, respectively ( P < 0.01). The kyphotic deformities were corrected from 32.1° ± 10.3° to 10.2° ± 2.1° in the anterior group and from 33.8° ± 11.7° to 12.6° ± 2.7° in the posterior group ( P < 0.01). The neurologic statuses of the 23 patients with preoperative neurologic deficits improved in each group. Fusion was confirmed radiographically at 5.4 ± 1.2?months (range, 4?12?months) in the anterior group and 5.6 ± 1.4?months (range, 4?13?months) in the posterior group ( P > 0.05). Postoperative relapses were noted in 1 and 3 patients in the anterior and the posterior group, respectively. Conclusion Posterior instrumentation was more effective than anterior instrumentation in the correction of kyphosis and the maintenance of the correction. However, postoperative sinus formation was more frequent in patients who underwent a single-stage posterior procedure.
+ER  - 
+
+TY  - JOUR
+AU  - Snedeker, J. G.
+AU  - Bajka, M.
+AU  - Hug, J. M.
+AU  - Székely, G.
+AU  - Niederer, P.
+TI  - The creation of a high-fidelity finite element model of the kidney for use in trauma research
+JO  - The Journal of Visualization and Computer Animation
+JA  - J. Visual. Comput. Animat.
+VL  - 13
+IS  - 1
+SN  - 9780470373729
+UR  - https://doi.org/10.1002/vis.279
+DO  - doi:10.1002/vis.279
+SP  - 53
+EP  - 64
+KW  - model
+KW  - finite element analysis
+KW  - automatic mesh generation
+KW  - deformable body
+KW  - physically based animation
+PY  - 2002
+AB  - Abstract A detailed finite element model of the human kidney for trauma research has been created directly from the National Library of Medicine Visible Human Female (VHF) Project data set. An image segmentation and organ reconstruction software package has been developed and employed to transform the 2D VHF images into a 3D polygonal representation. Non-uniform rational B-spline (NURBS) surfaces were then mapped to the polygonal surfaces, and were finally utilized to create a robust 3D hexahedral finite element mesh within a commercially available meshing software. The model employs a combined viscoelastic and hyperelastic material model to successfully simulate the behaviour of biological soft tissues. The finite element model was then validated for use in biomechanical research. Copyright ? 2002 John Wiley & Sons, Ltd.
+ER  - 

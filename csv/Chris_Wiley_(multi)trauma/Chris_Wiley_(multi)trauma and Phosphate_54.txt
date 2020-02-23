@@ -1,0 +1,501 @@
+
+TY  - JOUR
+AU  - Mitchell, Kendall
+AU  - Shah, Jill P.
+AU  - Tsytsikova, Lyubov V.
+AU  - Campbell, Ashley M.
+AU  - Affram, Kwame
+AU  - Symes, Aviva J.
+TI  - LPS antagonism of TGF-β signaling results in prolonged survival and activation of rat primary microglia
+JO  - Journal of Neurochemistry
+JA  - J. Neurochem.
+VL  - 129
+IS  - 1
+SN  - 0022-3042
+UR  - https://doi.org/10.1111/jnc.12612
+DO  - doi:10.1111/jnc.12612
+SP  - 155
+EP  - 168
+KW  - cytokines
+KW  - inflammation
+KW  - LPS/TLR4
+KW  - microglia
+KW  - smad signaling
+KW  - TGF-β
+PY  - 2014
+AB  - Abstract Accumulating evidence indicates that activated microglia contribute to the neuropathology involved in many neurodegenerative diseases and after traumatic injury to the CNS. The cytokine transforming growth factor-beta 1 (TGF-?1), a potent deactivator of microglia, should have the potential to reduce microglial-mediated neurodegeneration. It is therefore perplexing that high levels of TGF-?1 are found in conditions where microglia are chronically activated. We hypothesized that TGF-?1 signaling is suppressed in activated microglia. We therefore activated primary rat microglia with lipopolysaccharide (LPS) and determined the expression of proteins important to TGF-?1 signaling. We found that LPS treatment decreased the expression of the TGF-? receptors, T?R1 and T?R2, and reduced protein levels of Smad2, a key mediator of TGF-? signaling. LPS treatment also antagonized the ability of TGF-? to suppress expression of pro-inflammatory cytokines and to induce microglial cell death. LPS treatment similarly inhibited the ability of the TGF-? related cytokine, Activin-A, to down-regulate expression of pro-inflammatory cytokines and to induce microglial cell death. Together, these data suggest that microglial activators may oppose the actions of TGF-?1, ensuring continued microglial activation and survival that eventually may contribute to the neurodegeneration prevalent in chronic neuroinflammatory conditions. We propose that LPS/TLR4 signaling interferes with key components in the TGF-?1 signaling pathway in primary microglia. As a result, the ability of TGF- ?1 to exert anti-inflammatory effects is significantly reduced leading to prolonged survival of classically activated microglia. Identifying the mechanisms by which TGF- ?1 signaling is targeted during microglia activation may yield novel strategies for deactivating chronically activated microglia.
+ER  - 
+
+TY  - JOUR
+AU  - Pape, A.
+AU  - Kertscho, H.
+AU  - Meier, J.
+AU  - Zwissler, B.
+AU  - Habler, O.
+TI  - Overview of artificial O2 carriers
+JO  - ISBT Science Series
+VL  - 1
+IS  - 1
+SN  - 1751-2816
+UR  - https://doi.org/10.1111/j.1751-2824.2006.00024.x
+DO  - doi:10.1111/j.1751-2824.2006.00024.x
+SP  - 152
+EP  - 160
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+AU  - Pardo, Raúl
+AU  - Andreolotti, Alberto G.
+AU  - Ramos, Belén
+AU  - Picatoste, Fernando
+AU  - Claro, Enrique
+TI  - Opposed effects of lithium on the MEK-ERK pathway in neural cells: inhibition in astrocytes and stimulation in neurons by GSK3 independent mechanisms
+JO  - Journal of Neurochemistry
+VL  - 87
+IS  - 2
+SN  - 0022-3042
+UR  - https://doi.org/10.1046/j.1471-4159.2003.02015.x
+DO  - doi:10.1046/j.1471-4159.2003.02015.x
+SP  - 417
+EP  - 426
+KW  - astrocytes
+KW  - cell cycle arrest
+KW  - ERK
+KW  - GSK-3
+KW  - lithium
+KW  - MEK
+PY  - 2003
+AB  - Summary Lithium is widely used in the treatment of bipolar disorder, but despite its proven therapeutic efficacy, the molecular mechanisms of action are not fully understood. The present study was undertaken to explore lithium effects of the MEK/ERK cascade of protein kinases in astrocytes and neurons. In asynchronously proliferating rat cortical astrocytes, lithium decreased time- and dose-dependently the phosphorylation of MEK and ERK, with 1?mm concentrations achieving 60 and 50% inhibition of ERK and MEK, respectively, after a 7-day exposure. Lithium also inhibited [3H]thymidine incorporation into DNA and induced a G2/M cell cycle arrest. In serum-deprived, quiescent astrocytes, pre-exposure to lithium resulted in the inhibition of cell cycle re-entry as stimulated by the mitogen endothelin-1: under this experimental setting, lithium did not affect the rapid, peak phosphorylation of MEK taking place after 3?5?min, but was effective in inhibiting the long-term, sustained phosphorylation of MEK. Lithium inhibition of the astrocyte MEK/ERK pathway was independent of inositol depletion. Further, compound SB216763 inhibited Tau phosphorylation at Ser396 and stabilized cytosolic ?-catenin, consistent with the inhibition of glycogen synthase kinase-3? (GSK-3?), but failed to reproduce lithium effects on MEK and ERK phosphorylation and cell cycle arrest. In cerebellar granule neurons, millimolar concentrations of lithium enhanced MEK and ERK phosphorylation in a concentration-dependent manner, again through an inositol and GSK-3? independent mechanism. These opposing effects in astrocytes and neurons make lithium treatment a promising strategy to favour neural repair and reduce reactive gliosis after traumatic injury.
+ER  - 
+
+TY  - JOUR
+AU  - Yang, Junling
+AU  - He, Minxia M.
+AU  - Niu, Wei
+AU  - Wrighton, Steven A.
+AU  - Li, Li
+AU  - Liu, Yang
+AU  - Li, Chuan
+TI  - Metabolic capabilities of cytochrome P450 enzymes in Chinese liver microsomes compared with those in Caucasian liver microsomes
+JO  - British Journal of Clinical Pharmacology
+VL  - 73
+IS  - 2
+SN  - 0306-5251
+UR  - https://doi.org/10.1111/j.1365-2125.2011.04076.x
+DO  - doi:10.1111/j.1365-2125.2011.04076.x
+SP  - 268
+EP  - 284
+KW  - cytochrome P450
+KW  - ethnic difference
+KW  - human liver microsomes
+PY  - 2012
+AB  - WHAT IS ALREADY KNOWN ABOUT THIS SUBJECT ??The mean catalytic activities of CYP1A2, CYP2A6, CYP2D6, CYP2E1 and CYP3A4 in human liver microsomes (HLM) of Japanese origin were found to be lower than the corresponding mean values of Caucasian HLM, but the distribution patterns of data in these studies were not well addressed. ??Interindividual variations in metabolic activities of Chinese HLM samples were reported for CYP1A2, CYP2C9, CYP2D6 and CYP3A4, but little is known about the difference in CYP activities between Chinese and Caucasian HLM samples. ??The vast majority of the preceding studies were based on the measurement of metabolite formation rates at a certain fixed substrate concentration, rather than enzyme kinetic analyses. WHAT THIS STUDY ADDS ??Significant differences in metabolic capability were observed for CYP1A2, CYP2C9, CYP2C19 and CYP2E1 with the median values lower for the Chinese HLM samples vs. the Caucasian samples, which were associated with differences in Michaelis constant or maximum velocity. ??Despite negligible differences in metabolic capability for CYP2A6, CYP2B6, CYP2C8, CYP2D6 and CYP3A, Michaelis constant of CYP2B6 appeared to have a significant ethnic difference. AIM The most common causes of variability in drug response include differences in drug metabolism, especially when the hepatic cytochrome P450 (CYP) enzymes are involved. The current study was conducted to assess the differences in CYP activities in human liver microsomes (HLM) of Chinese or Caucasian origin. METHODS The metabolic capabilities of CYP enzymes in 30 Chinese liver microsomal samples were compared with those of 30 Caucasian samples utilizing enzyme kinetics. Phenacetin O-deethylation, coumarin 7-hydroxylation, bupropion hydroxylation, amodiaquine N-desethylation, diclofenac 4?-hydroxylation (S)-mephenytoin 4?-hydroxylation, dextromethorphan O-demethylation, chlorzoxazone 6-hydroxylation and midazolam 1?-hydroxylation/testosterone 6?-hydroxylation were used as probes for activities of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1 and CYP3A, respectively. Mann-Whitney U test was used to assess the differences. RESULTS The samples of the two ethnic groups were not significantly different in cytochrome-b5 concentrations but were significantly different in total CYP concentrations and NADPH-P450 reductase activity (P < 0.05). Significant ethnic differences in intrinsic clearance were observed for CYP1A2, CYP2C9, CYP2C19 and CYP2E1; the median values of the Chinese group were 54, 58, 26, and 35% of the corresponding values of the Caucasian group, respectively. These differences were associated with differences in Michaelis constant or maximum velocity. Despite negligible difference in intrinsic clearance, the Michaelis constant of CYP2B6 appeared to have a significant ethnic difference. No ethnic difference was observed for CYP2A6, CYP2C8, CYP2D6 and CYP3A. CONCLUSIONS These data extend our knowledge on the ethnic differences in CYP enzymes and will have implications for drug discovery and drug therapy for patients from different ethnic origins.
+ER  - 
+
+TY  - JOUR
+AU  - Serratì, S
+AU  - Cinelli, M
+AU  - Margheri, F
+AU  - Guiducci, S
+AU  - Del Rosso, A
+AU  - Pucci, M
+AU  - Fibbi, G
+AU  - Bazzichi, L
+AU  - Bombardieri, S
+AU  - Matucci-Cerinic, M
+AU  - Del Rosso, M
+TI  - Systemic sclerosis fibroblasts inhibit in vitro angiogenesis by MMP-12-dependent cleavage of the endothelial cell urokinase receptor
+JO  - The Journal of Pathology
+JA  - J. Pathol.
+VL  - 210
+IS  - 2
+SN  - 0022-3417
+UR  - https://doi.org/10.1002/path.2048
+DO  - doi:10.1002/path.2048
+SP  - 240
+EP  - 248
+KW  - systemic sclerosis
+KW  - endothelial cell
+KW  - angiogenesis
+KW  - MMP-12
+KW  - uPAR
+PY  - 2006
+AB  - Abstract Failure of endothelial cells to develop new vessels in response to hypoxia is a distinctive feature of systemic sclerosis (SSc) in the avascular phase. We have previously shown that SSc endothelial cells over-express matrix metalloproteinase-12 (MMP-12), which blocks angiogenesis by cleavage of the endothelial urokinase-type plasminogen activator receptor (uPAR). In the present study, we have investigated whether over-expression of MMP-12 and of angiostatic factors, or hypo-expression of angiogenic factors by SSc fibroblasts, contributes to impaired angiogenesis in SSc. Dermal fibroblasts were isolated from healthy subjects (N-Fb) and patients with diffuse SSc (SSc-Fb). Angiogenesis of target normal human microvascular endothelial cells (H-MVECs) was assayed by Matrigel invasion, cell proliferation, and capillary morphogenesis. uPAR cleavage and MMP-12 activity were evaluated by western blotting. We show that the over-expression of MMP-12 by SSc-Fb determines uPAR cleavage in H-MVECs. Conditioned medium from SSc-Fb impaired H-MVEC proliferation, invasion, and capillary morphogenesis. Anti-MMP-12 antibodies restored such impairment. Altered expression of angiostatic/angiogenic factors, including transforming growth factor ?1, did not account for SSc-Fb-dependent impairment of angiogenesis. The over-expression of MMP-12 by both SSc-Fb and SSc endothelial cells indicates that MMP-12 over-production may have a critical pathogenic role in SSc-associated vascular alterations. Copyright ? 2006 Pathological Society of Great Britain and Ireland. Published by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Li, Yang
+AU  - Zhou, Jianxin
+AU  - Yang, Xiaofei
+AU  - Jiang, Yiqiu
+AU  - Gui, Jianchao
+TI  - Intermittent hydrostatic pressure maintains and enhances the chondrogenic differentiation of cartilage progenitor cells cultivated in alginate beads
+JO  - Development, Growth & Differentiation
+JA  - Develop. Growth Differ.
+VL  - 58
+IS  - 2
+SN  - 0012-1592
+UR  - https://doi.org/10.1111/dgd.12261
+DO  - doi:10.1111/dgd.12261
+SP  - 180
+EP  - 193
+KW  - cartilage
+KW  - chondrogenesis
+KW  - hydrostatic pressure
+KW  - stem cells
+KW  - tissue engineering
+PY  - 2016
+AB  - The objective of this study was to explore the effects of intermittent hydrostatic pressure (IHP) on the chondrogenic differentiation of cartilage progenitor cells (CPCs) cultivated in alginate beads. CPCs were isolated from the knee joint cartilage of rabbits, and infrapatellar fat pad-derived stem cells (FPSCs) and chondrocytes (CCs) were included as the control cell types. Cells embedded in alginate beads were treated with IHP at 5 Mpa and 0.5 Hz for 4 h/day for 1, 2, or 4 weeks. The cells' migratory and proliferative capacities were evaluated using the scratch and Live/Dead assays, respectively. Hematoxylin and eosin staining, safranin O staining, and immunohistochemical staining were performed to determine the effects of IHP on the synthesis of extracellular matrix (ECM) proteins. Real-time polymerase chain reaction analysis was performed to measure the expression of genes related to chondrogenesis. The scratch and Live/Dead assays revealed that IHP significantly promoted the migration and proliferation of FPSCs and CPCs to different extents. The staining experiments showed greater production of cartilage ECM components (glycosaminoglycans and collagen II) by cells exposed to IHP, and the gene expression analysis demonstrated that IHP stimulated the expression of chondrocyte-related genes. Importantly, these effects of IHP were more prominent in CPCs than in FPSCs and CCs. Considering all of our experimental results combined, we conclude that CPCs demonstrated a stronger chondrogenic differentiation capacity than the FPSCs and CCs under stimulation with IHP. Thus, the use of CPCs, combined with mechanical stimulation, may represent a valuable strategy for cartilage tissue engineering.
+ER  - 
+
+TY  - JOUR
+AU  - Dellinger, Jennifer G.
+AU  - Cesarano III, Joseph
+AU  - Jamison, Russell D.
+TI  - Robotic deposition of model hydroxyapatite scaffolds with multiple architectures and multiscale porosity for bone tissue engineering
+JO  - Journal of Biomedical Materials Research Part A
+JA  - J. Biomed. Mater. Res.
+VL  - 82A
+IS  - 2
+SN  - 1549-3296
+UR  - https://doi.org/10.1002/jbm.a.31072
+DO  - doi:10.1002/jbm.a.31072
+SP  - 383
+EP  - 394
+KW  - bone graft
+KW  - bone tissue engineering
+KW  - hydroxyapatite
+KW  - solid free form fabrication
+KW  - scaffold
+PY  - 2007
+AB  - Abstract Model hydroxyapatite (HA) scaffolds with porosities spanning multiple length scales were fabricated by robocasting, a solid freeform fabrication technique based on the robotic deposition of colloidal pastes. Scaffolds of various architectures including periodic, radial, and superlattice structures were constructed. Macropores (100?600 ?m) were designed by controlling the arrangement and spacing between rods of HA. Micropores (1?30 ?m) and submicron pores (less than 1 ?m) were produced within the rods by including polymer microsphere porogens in the HA pastes and by controlling the sintering of the scaffolds. These model scaffolds may be used to systematically study the effects of scaffold porosity on bone ingrowth processes both in vitro and in vivo. ? 2007 Wiley Periodicals, Inc. J Biomed Mater Res, 2007
+ER  - 
+
+TY  - JOUR
+AU  - Jain, Sukrit
+AU  - Eltorai, Adam E M
+AU  - Ruttiman, Roy
+AU  - Daniels, Alan H
+TI  - Advances in Spinal Interbody Cages
+JO  - Orthopaedic Surgery
+JA  - Orthop Surg
+VL  - 8
+IS  - 3
+SN  - 1757-7853
+UR  - https://doi.org/10.1111/os.12264
+DO  - doi:10.1111/os.12264
+SP  - 278
+EP  - 284
+KW  - Cage subsidence
+KW  - Interbody cage
+KW  - Spine surgery
+PY  - 2016
+AB  - Since the late 1980s, spinal interbody cages (ICs) have been used to aid bone fusion in a variety of spinal disorders. Utilized to restore intervertebral height, enable bone graft containment for arthrodesis, and restore anterior column biomechanical stability, ICs have since evolved to become a highly successful means of achieving fusion, being associated with less postoperative pain, shorter hospital stay, fewer complications and higher rates of fusion when than bone graft only spinal fusion. IC design and materials have changed considerably over the past two decades. The threaded titanium-alloy cylindrical screw cages, typically filled with autologous bone graft, of the mid-1990s achieved greater fusion rates than bone grafts and non-threaded cages. Threaded screw cages, however, were soon found to be less stable in extension and flexion; additionally, they had a high incidence of cage subsidence. As of the early 2000s, non-threaded box-shaped titanium or polyether ether ketone IC designs have become increasingly more common. This modern design continues to achieve greater cage stability in flexion, axial rotation and bending. However, cage stability and subsidence, bone fusion rates and surgical complications still require optimization. Thus, this review provides an update of recent research findings relevant to ICs over the past 3 years, highlighting trends in optimization of cage design, materials, alternatives to bone grafts, and coatings that may enhance fusion.
+ER  - 
+
+TY  - JOUR
+AU  - Liu, Wai Ching
+AU  - Chen, Shihui
+AU  - Zheng, Lizhen
+AU  - Qin, Ling
+C7  - 1600434
+TI  - Angiogenesis Assays for the Evaluation of Angiogenic Properties of Orthopaedic Biomaterials – A General Review
+JO  - Advanced Healthcare Materials
+JA  - Adv. Healthcare Mater.
+VL  - 6
+IS  - 5
+SN  - 2192-2640
+UR  - https://doi.org/10.1002/adhm.201600434
+DO  - doi:10.1002/adhm.201600434
+SP  - 1600434
+KW  - angiogenesis
+KW  - biomaterials
+KW  - bone tissue engineering
+KW  - endothelial cells
+PY  - 2017
+AB  - Vascularization is an essential process in bone formation, remodeling and regeneration during both bone development and fracture repair. Vascularization remains a big challenge directly leading to the final success of newly regenerated bone. In this review, the advantages and disadvantages of different angiogenesis assays and bone defect models are described in details for investigating revascularization of materials of interest. Unlike conventional angiogenesis study with growth factors or pharmaceutical molecules performed in two-dimension, special considerations are taken into account whether these assays can be translated for testing three-dimensional implantable devices. Over the years, accurate and quantifiable in vitro, ex vivo and in vivo assays have been extensively demonstrated to be useful in examining how new blood vessels grow. These methods can contribute to the fundamental understanding of angiogenic properties of the materials, but a bone defect model is still pivotal in order to understand the cascade actions of angiogenesis along with bone formation. Finally, angiogenesis and osteogenesis are both complex processes interacting with each other, the choice of which assay to be performed should adequately address the clinical relevance and reflect the sequence of responses of revascularization of the test materials.
+ER  - 
+
+TY  - JOUR
+AU  - Anantha, R. V.
+AU  - Mazzuca, D. M.
+AU  - Xu, S. X.
+AU  - Porcelli, S. A.
+AU  - Fraser, D. D.
+AU  - Martin, C. M.
+AU  - Welch, I.
+AU  - Mele, T.
+AU  - Haeryfar, S. M. M.
+AU  - McCormick, J. K.
+TI  - T helper type 2-polarized invariant natural killer T cells reduce disease severity in acute intra-abdominal sepsis
+JO  - Clinical & Experimental Immunology
+JA  - Clin Exp Immunol
+VL  - 178
+IS  - 2
+SN  - 0009-9104
+UR  - https://doi.org/10.1111/cei.12404
+DO  - doi:10.1111/cei.12404
+SP  - 292
+EP  - 309
+KW  - acute intra-abdominal sepsis
+KW  - glycolipids
+KW  - invariant natural killer T cells
+KW  - Th2 response
+PY  - 2014
+AB  - Summary Sepsis is characterized by a severe systemic inflammatory response to infection that is associated with high morbidity and mortality despite optimal care. Invariant natural killer T (iNK?T) cells are potent regulatory lymphocytes that can produce pro- and/or anti-inflammatory cytokines, thus shaping the course and nature of immune responses; however, little is known about their role in sepsis. We demonstrate here that patients with sepsis/severe sepsis have significantly elevated proportions of iNK?T cells in their peripheral blood (as a percentage of their circulating T cells) compared to non-septic patients. We therefore investigated the role of iNK?T cells in a mouse model of intra-abdominal sepsis (IAS). Our data show that iNK?T cells are pathogenic in IAS, and that T helper type 2 (Th2) polarization of iNK?T cells using the synthetic glycolipid OCH significantly reduces mortality from IAS. This reduction in mortality is associated with the systemic elevation of the anti-inflammatory cytokine interleukin (IL)-13 and reduction of several proinflammatory cytokines within the spleen, notably interleukin (IL)-17. Finally, we show that treatment of sepsis with OCH in mice is accompanied by significantly reduced apoptosis of splenic T and B lymphocytes and macrophages, but not natural killer cells. We propose that modulation of iNK?T cell responses towards a Th2 phenotype may be an effective therapeutic strategy in early sepsis.
+ER  - 
+
+TY  - JOUR
+AU  - Ahmmed, Mirja Kaizer
+AU  - Ahmmed, Fatema
+AU  - Tian, Hong (Sabrina)
+AU  - Carne, Alan
+AU  - Bekhit, Alaa El-Din
+TI  - Marine omega-3 (n-3) phospholipids: A comprehensive review of their properties, sources, bioavailability, and relation to brain health
+JO  - Comprehensive Reviews in Food Science and Food Safety
+JA  - Comprehensive Reviews in Food Science and Food Safety
+VL  - 19
+IS  - 1
+SN  - 1541-4337
+UR  - https://doi.org/10.1111/1541-4337.12510
+DO  - doi:10.1111/1541-4337.12510
+SP  - 64
+EP  - 123
+KW  - bioactive compound
+KW  - bioavailability
+KW  - brain health
+KW  - functional food
+KW  - neurodegenerative diseases
+KW  - seafood
+PY  - 2020
+AB  - Abstract For several decades, there has been considerable interest in marine-derived long chain n-3 fatty acids (n-3 LCPUFAs) due to their outstanding health benefits. n-3 LCPUFAs can be found in nature either in triglycerides (TAGs) or in phospholipid (PL) form. From brain health point of view, PL n-3 is more bioavailable and potent compared to n-3 in TAG form, as only PL n-3 is able to cross the blood?brain barrier and can be involved in brain biochemical reactions. However, PL n-3 has been ignored in the fish oil industry and frequently removed as an impurity during degumming processes. As a result, PL products derived from marine sources are very limited compared to TAG products. Commercially, PLs are being used in pharmaceutical industries as drug carriers, in food manufacturing as emulsifiers and in cosmetic industries as skin care agents, but most of the PLs used in these applications are produced from vegetable sources that contain less (without EPA, DPA, and DHA) or sometimes no n-3 LCPUFAs. This review provides a comprehensive account of the properties, structures, and major sources of marine PLs, and provides focussed discussion of their relationship to brain health. Epidemiological, laboratory, and clinical studies on n-3 LCPUFAs enriched PLs using different model systems in relation to brain and mental health that have been published over the past few years are discussed in detail.
+ER  - 
+
+C7  - pp. 235-281
+TI  - Enzyme Logic Digital Biosensors for Biomedical, Forensic, and Security Applications
+SN  - 9783527345700
+UR  - https://doi.org/10.1002/9783527819997.ch11
+DO  - doi:10.1002/9783527819997.ch11
+SP  - 235-281
+KW  - biochemical input signals
+KW  - biomedical applications
+KW  - biomolecular information processing
+KW  - digital biosensors
+KW  - enzyme logic gates
+KW  - forensic applications
+KW  - security applications
+PY  - 2020
+AB  - Summary This chapter overviews the advances in digital biosensors operating in the binary (YES/NO) mode, mostly emphasizing biomedical applications of enzyme-based logic systems, particularly for the analysis of pathophysiological conditions associated with various injuries. The attractive performance of the new enzyme logic biosensors holds considerable promise for diverse practical and important future applications, including novel forensic and security applications. The chapter describes how the biomedical analysis can benefit from the use of biomolecular information processing (biocomputing) systems. Forensic analysis of biofluids can benefit from novel bioanalytical/biosensing methods, including those based on the biocomputing approach. The chapter also overviews the application of binary biosensing methods based on the enzyme logic gates to various types of injury biomarkers, particularly concentrating on battlefield injuries. It shows that the simplest logic processing based mostly on logic AND/OR gates, applied to biochemical input signals.
+ER  - 
+
+TY  - JOUR
+AU  - Al-Ahmady Al-Zahaby, Sheren
+TI  - Light and scanning electron microscopic features of the tongue in cattle egret
+JO  - Microscopy Research and Technique
+JA  - Microsc. Res. Tech.
+VL  - 79
+IS  - 7
+SN  - 9783527345700
+UR  - https://doi.org/10.1002/jemt.22672
+DO  - doi:10.1002/jemt.22672
+SP  - 595
+EP  - 603
+KW  - egret
+KW  - bird
+KW  - lingual apparatus
+KW  - microscopy
+KW  - morphology
+PY  - 2016
+AB  - ABSTRACT Adult individuals of both sexes were sacrificed by decapitation and their tongues were teared out in order to be investigated. Cattle egret's tongue is distinguished into the apex, body, and root regions. A shallow median sulcus is apparently noticed on the dorsal surface of the tongue's body only. Histologically, the tongue mucosa is covered with a thick parakeratinized epithelium. The dorsal epithelia of the apex and body are densely packed with exfoliated superficial cells. However, the dorsal surface showed microridges observed on the surface epithelial cells. In the body region, the gland's outlets are integrated in glandular patches on the top of keratinized folds at both sides of the median sulcus. The ventral surface of the tongue is devoid of any glandular outlets. The egret's tongue is supported by a paraglossum cartilage wrapped up with a fibrous perichondrium and striated muscle fibers. It extends ventrally as paraglossale apex then flattened in the body giving the corpus paraglossale which bifurcates caudally in the root giving paraglossalis caudalis. The tongue exhibits certain features that are unique as an adaptation to food intake, the type of food, lifestyles and bird's habitat with no any sex-specific differences. Microsc. Res. Tech. 79:595?603, 2016. ? 2016 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Schaakxs, Dominique
+AU  - Kalbermatten, Daniel F.
+AU  - Pralong, Etienne
+AU  - Raffoul, Wassim
+AU  - Wiberg, Mikael
+AU  - Kingham, Paul J.
+C8  - TERM-13-0406.R2
+TI  - Poly-3-hydroxybutyrate strips seeded with regenerative cells are effective promoters of peripheral nerve repair
+JO  - Journal of Tissue Engineering and Regenerative Medicine
+JA  - J Tissue Eng Regen Med
+VL  - 11
+IS  - 3
+SN  - 9783527345700
+UR  - https://doi.org/10.1002/term.1980
+DO  - doi:10.1002/term.1980
+SP  - 812
+EP  - 821
+KW  - biomaterial
+KW  - muscle
+KW  - nerve injury
+KW  - regeneration
+KW  - Schwann cells
+KW  - stem cells
+PY  - 2017
+AB  - Abstract Peripheral nerve injuries are often associated with loss of nerve tissue and require a graft to bridge the gap. Autologous nerve grafts are still the 'gold standard' in reconstructive surgery but have several disadvantages, such as sacrifice of a functional nerve, neuroma formation and loss of sensation at the donor site. Bioengineered grafts represent a promising approach to address this problem. In this study, poly-3-hydroxybutyrate (PHB) strips were used to bridge a 10 mm rat sciatic nerve gap and their effects on long-term (12 weeks) nerve regeneration were compared. PHB strips were seeded with different cell types, either primary Schwann cells (SCs) or SC-like differentiated adipose-derived stem cells (dASCs) suspended in a fibrin glue matrix. The control group was PHB and fibrin matrix without cells. Functional and morphological properties of the regenerated nerve were assessed using walking track analysis, EMGs, muscle weight ratios and muscle and nerve histology. The animals treated with PHB strips seeded with SCs or dASCs showed significantly better functional ability than the control group. This correlated with less muscle atrophy and greater axon myelination in the cell groups. These findings suggest that the PHB strip seeded with cells provides a beneficial environment for nerve regeneration. Furthermore, dASCs, which are abundant and easily accessible, constitute an attractive cell source for future applications of cell therapy for the clinical repair of traumatic nerve injuries. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Malafatti, João O. D.
+AU  - Bernardo, Marcela P.
+AU  - Moreira, Francys K. V.
+AU  - Ciol, Heloisa
+AU  - Inada, Natalia M.
+AU  - Mattoso, Luiz H.C.
+AU  - Paris, Elaine C.
+TI  - Electrospun poly(lactic acid) nanofibers loaded with silver sulfadiazine/[Mg–Al]-layered double hydroxide as an antimicrobial wound dressing
+JO  - Polymers for Advanced Technologies
+JA  - Polym Adv Technol
+VL  - n/a
+IS  - n/a
+SN  - 9783527345700
+UR  - https://doi.org/10.1002/pat.4867
+DO  - doi:10.1002/pat.4867
+KW  - drug release
+KW  - electrospinning
+KW  - hydrotalcite
+KW  - sulfadiazine silver
+KW  - wound healing
+AB  - Poly(lactic acid) (PLA) is a versatile, bioabsorbable, and biodegradable polymer with excellent biocompatibility and ability to incorporate a great variety of active agents. Silver sulfadiazine (SDZ) is an antibiotic used to control bacterial infection in external wounds. Aiming to combine the properties of PLA and SDZ, hydrotalcite ([Mg?Al]-LDH) was used as a host matrix to obtain an antimicrobial system efficient in delivering SDZ from electrospun PLA scaffolds intended for wound skin healing. The structural reconstruction method was successfully applied to intercalate silver sulfadiazine in the [Mg?Al]-LDH, as evidenced by X-ray diffraction and thermogravimetric analyses. Observations by scanning electron microscopy revealed a good distribution of SDZ-[Mg?Al]-LDH within the PLA scaffold. Kinetics studies revealed a slow release of SDZ from the PLA scaffold due to the intercalation in the [Mg?Al]-LDH. In vitro antimicrobial tests indicated a significant inhibitory effect of SDZ-[Mg?Al]-LDH against Escherichia coli and Staphylococcus aureus. This antibacterial activity was sustained in the 2.5-wt% SDZ-[Mg?Al]-LDH?loaded PLA nanofibers, which also displayed excellent biocompatibility towards human cells. The multifunctionality of the PLA/SDZ-[Mg?Al]-LDH scaffold reported here is of great significance for various transdermal applications.
+ER  - 
+
+TY  - JOUR
+AU  - Roy, Sudeep
+AU  - Aksamitiene, Edita
+AU  - Hota, Salini
+AU  - Zhang, Li-Hui
+AU  - Sciarrino, Joseph
+AU  - Baker, Adam L.
+AU  - Heffelfinger, Ryan N.
+AU  - Tuluc, Madalina
+AU  - Hoek, Jan B.
+AU  - Pribitkin, Edmund A.
+TI  - Aging effects on pedicled fasciocutaneous flap survival in rats
+JO  - Head & Neck
+JA  - Head Neck
+VL  - 38
+IS  - S1
+SN  - 9783527345700
+UR  - https://doi.org/10.1002/hed.24181
+DO  - doi:10.1002/hed.24181
+SP  - E1152
+EP  - E1162
+KW  - aging
+KW  - wound healing
+KW  - flap viability
+KW  - flap necrosis
+KW  - vascular endogenous growth factor (VEGF) signaling
+PY  - 2016
+AB  - Abstract Background Poorer surgical outcomes in older patients undergoing locoregional head and neck reconstruction have raised questions about tolerance of aging tissue to iatrogenic ischemic insults. Methods We examined the effects of aging on viability of pedicled composite flaps in 2-month and 6-month old Sprague?Dawley male rats and correlated flap survival with vascular endogenous growth factor (VEGF) and VEGF receptor 2-mediated signaling events. Flap segments were assessed for gross/cellular necrosis by optical microscopy and for proangiogenic, apoptotic, and proliferative protein-marker content. Results Flap necrosis significantly increased with age (4.2% in young vs 49.17% in old), correlating with reduced expression of VEGF, inhibition of signal transducer and activator of transcription 3 (STAT3), and Akt activation, impaired Akt-dependent endothelial nitric oxide synthase (eNOS) phosphorylation, elevated Bax/Bcl-2 ratio, activation of Caspase-3, upregulated nuclear poly (ADP-ribose) polymerase-1 (PARP-1) cleavage and lower proliferating cell nuclear antigen (PCNA) levels. Conclusion Pedicled flap survival is higher in younger rats in part because of unhindered expression of VEGF and enhanced activity of cell survival and promigratory signaling pathways. ? 2015 Wiley Periodicals, Inc. Head Neck 38: E1152?E1162, 2016
+ER  - 
+
+TY  - JOUR
+AU  - Lee, Nancy
+AU  - Robitz, Rachel
+AU  - Zurbrugg, Rebekah J.
+AU  - Karpman, Adam M.
+AU  - Mahler, Ashley M.
+AU  - Cronier, Samantha A.
+AU  - Vesey, Rachel
+AU  - Spearry, Rachel P.
+AU  - Zolotukhin, Sergei
+AU  - MacLennan, A. John
+TI  - Conditional, genetic disruption of ciliary neurotrophic factor receptors reveals a role in adult motor neuron survival
+JO  - European Journal of Neuroscience
+VL  - 27
+IS  - 11
+SN  - 9783527345700
+UR  - https://doi.org/10.1111/j.1460-9568.2008.06298.x
+DO  - doi:10.1111/j.1460-9568.2008.06298.x
+SP  - 2830
+EP  - 2837
+KW  - adeno-associated virus
+KW  - CNTF receptor α
+KW  - Cre recombinase
+KW  - mouse
+PY  - 2008
+AB  - Abstract Indirect evidence suggests that endogenous ciliary neurotrophic factor (CNTF) receptor signaling can promote motor neuron (MN) survival in the adult. If so, proper targeting of this signaling may selectively counteract the effects of adult MN diseases. However, direct evidence for CNTF receptor involvement in adult MN survival is lacking, presumably because the unconditional blockade of the mouse CNTF receptor in vivo [through genetic disruption of the essential CNTF receptor α (CNTFRα) gene] leads to uniform perinatal death of the mice. To overcome this limitation, we have developed a method to selectively disrupt CNTF receptor function in a targeted subset of adult MNs that are not required for survival. A ?floxed CNTFRα? mouse line was generated and characterized. In addition, an adeno-associated virus (AAV) vector that drives Cre recombinase (Cre) expression was constructed and shown, with reporter mouse lines, to selectively excise floxed genes in facial MNs following its stereotaxic injection into the facial motor nucleus. Adult floxed CNTFRα mice were then injected with the AAV-Cre vector to excise the CNTFRα gene in the targeted MNs. The resulting data indicate that adult CNTF receptor signaling, likely by the MNs themselves, can play an essential role in MN survival. The data further indicate that this role is independent of any developmental contributions CNTF receptor signaling makes to MN survival or function.
+ER  - 
+
+TY  - JOUR
+AU  - Beenakker, Karel G.M.
+AU  - Duijnisveld, Bouke J.
+AU  - Van Der Linden, Henrica M.J.
+AU  - Visser, Cornelis P.J.
+AU  - Westendorp, Rudi G.J.
+AU  - Butler-Brown, Gillian
+AU  - Nelissen, Rob G.H.H.
+AU  - Maier, Andrea B.
+TI  - Muscle characteristics in patients with chronic systemic inflammation
+JO  - Muscle & Nerve
+JA  - Muscle Nerve
+VL  - 46
+IS  - 2
+SN  - 9783527345700
+UR  - https://doi.org/10.1002/mus.23291
+DO  - doi:10.1002/mus.23291
+SP  - 204
+EP  - 209
+KW  - inflammation
+KW  - lipofuscin
+KW  - muscle fiber type
+KW  - satellite cells
+KW  - skeletal muscle
+PY  - 2012
+AB  - Abstract Introduction: Histological characteristics of age-related muscle wasting are type II muscle fiber atrophy, accumulation of oxidative stress-induced lipofuscin granules and decreased satellite cell numbers. There is increasing clinical evidence for a strong correlation between chronic systemic inflammation and age-related muscle wasting. The aim of this study was to determine the impact of chronic systemic inflammation on age-related histological muscle characteristics. Methods: As a model for chronic systemic inflammation, we included 10 patients suffering from rheumatoid arthritis (RA) and 27 control patients suffering from osteoarthritis (OA). Biopsies were taken from the vastus medialis muscle. Results: No significant differences were found in type II muscle fiber atrophy, lipofuscin accumulation, or satellite cell number in RA compared with OA patients. Conclusions: These results suggest there is no association between chronic systemic inflammation in RA and age-related muscle characteristics. Future research should focus on inflammation and satellite cell function. Muscle Nerve 46: 204?209, 2012
+ER  - 
+
+TY  - JOUR
+AU  - Loukogeorgakis, Stavros P.
+AU  - De Coppi, Paolo
+TI  - Concise Review: Amniotic Fluid Stem Cells: The Known, the Unknown, and Potential Regenerative Medicine Applications
+JO  - STEM CELLS
+JA  - Stem Cells
+VL  - 35
+IS  - 7
+SN  - 9783527345700
+UR  - https://doi.org/10.1002/stem.2553
+DO  - doi:10.1002/stem.2553
+SP  - 1663
+EP  - 1673
+KW  - Amniotic fluid stem cell
+KW  - Fetal stem cell
+KW  - Cell therapy
+KW  - Cell transplantation
+KW  - Tissue engineering
+KW  - Regenerative medicine
+PY  - 2017
+AB  - Abstract The amniotic fluid has been identified as an untapped source of cells with broad potential, which possess immunomodulatory properties and do not have the ethical and legal limitations of embryonic stem cells. CD117(c-Kit)+ cells selected from amniotic fluid have been shown to differentiate into cell lineages representing all three embryonic germ layers without generating tumors, making them ideal candidates for regenerative medicine applications. Moreover, their ability to engraft in injured organs and modulate immune and repair responses of host tissues, suggest that transplantation of such cells may be useful for the treatment of various degenerative and inflammatory diseases. Although significant questions remain regarding the origin, heterogeneous phenotype, and expansion potential of amniotic fluid stem cells, evidence to date supports their potential role as a valuable stem cell source for the field of regenerative medicine. Stem Cells 2017;35:1663?1673
+ER  - 
+
+TY  - JOUR
+AU  - Goel, Peeyush N.
+AU  - Moharrer, Yasaman
+AU  - Hebb, John H.
+AU  - Egol, Alexander J.
+AU  - Kaur, Gurpreet
+AU  - Hankenson, Kurt D.
+AU  - Ahn, Jaimo
+AU  - Ashley, Jason W.
+TI  - Suppression of Notch Signaling in Osteoclasts Improves Bone Regeneration and Healing
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+VL  - 37
+IS  - 10
+SN  - 9783527345700
+UR  - https://doi.org/10.1002/jor.24384
+DO  - doi:10.1002/jor.24384
+SP  - 2089
+EP  - 2103
+KW  - Notch signaling
+KW  - osteoclasts
+KW  - osteoblasts
+KW  - bone formation
+KW  - regeneration
+KW  - fracture healing
+PY  - 2019
+AB  - ABSTRACT Owing to the central role of osteoclasts in bone physiology and remodeling, manipulation of their maturation process provides a potential therapeutic strategy for treating bone diseases. To investigate this, we genetically inhibited the Notch signaling pathway in the myeloid lineage, which includes osteoclast precursors, using a dominant negative form of MAML (dnMAML) that inhibits the transcriptional complex required for downstream Notch signaling. Osteoclasts derived from dnMAML mice showed no significant differences in early osteoclastic gene expression compared to the wild type. Further, these demonstrated significantly lowered resorption activity using bone surfaces while retaining their osteoblast stimulating ability using ex vivo techniques. Using in vivo approaches, we detected significantly higher bone formation rates and osteoblast gene expression in dnMAML cohorts. Further, these mice exhibited increased bone/tissue mineral density compared to wild type and larger bony calluses in later stages of fracture healing. These observations suggest that therapeutic suppression of osteoclast Notch signaling could reduce, but not eliminate, osteoclastic resorption without suppression of restorative bone remodeling and, therefore, presents a balanced paradigm for increasing bone formation, regeneration, and healing. ? 2019 Orthopaedic Research Society. Published by Wiley Periodicals, Inc. J Orthop Res 37:2089?2103, 2019
+ER  - 

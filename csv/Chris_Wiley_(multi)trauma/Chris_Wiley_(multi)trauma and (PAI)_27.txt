@@ -1,0 +1,332 @@
+
+TY  - JOUR
+AU  - Man,             L.X.
+AU  - Park, J.C.
+AU  - Terry, M.J.
+AU  - Liu, F.J.
+AU  - Kimball, B.Y.
+AU  - Matissen, D.P.
+AU  - Korus, L.J.
+AU  - Burrell, W.A.
+AU  - Breitbart, A.S.
+TI  - 065 Blockade of Rage with Lentiviral Gene Therapy Accelerates Healing in Diabetic Wounds Over Time
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bm.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bm.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - The diabetic wound is characterized by abnormal, prolonged inflammatory activity and impaired healing. Enhanced interaction between the receptor for advanced glycation end products (RAGE) and its ligands in the diabetic tissue environment has been shown to increase proinflammatory cytokines and tissue-degradative matrix metalloproteinases, resulting in decreased collagen generation. Blockade of RAGE with multiple topical applications of soluble RAGE (sRAGE) on diabetic wounds has been shown to accelerate diabetic wound closure. We investigated the potential efficacy of gene therapy as a method for enhancing sRAGE expression in the diabetic wound. Full thickness 2???2?cm2 excisional wounds were created on the dorsae of genetically diabetic db/db mice. Lentiviral vector (1???105?PFU in 1?ml saline) carrying the gene for soluble receptor for advanced glycation end products (lenti-sRAGE) was injected into the wound margins and base. Mice were sacrificed at 14-, 21-, and 35-day intervals. Measurement of the residual epithelial gap showed increased healing of lenti-sRAGE-treated wounds compared to wounds treated with saline injection alone. Lenti-sRAGE-treated wounds were significantly smaller (epithelial gap?±?SD) than saline-treated wounds at both 21 days (0.77?±?0.24?cm, compared to 1.13?±?0.30?cm; P?<?0.05) and 35 days (0.51?±?0.42?cm, compared to 0.86?±?0.35?cm; P?<?0.05). Picrosirius red staining showed that lenti-sRAGE-treated wounds had 2.23?±?0.35 and 13.26?±?6.25-fold increases in collagen content relative to saline-treated wounds at 21 and 35 days, respectively (P?<?0.05). Preliminary CD31 staining of 21-day wounds demonstrated a twofold increase in neovascularization in lenti-sRAGE-treated wounds versus saline-treated wounds. Lentiviral gene therapy with sRAGE can accelerate diabetic wound healing over time, and genetic modification of the diabetic tissue environment to restore normal inflammatory activity could have a central role in the clinical setting. Supported by a grant from the American Diabetes Association
+ER  - 
+
+TY  - JOUR
+AU  - Roy,             Nakshatra K.
+AU  - Jia, Sheng-Xian
+AU  - Kloeters, Oliver
+AU  - Sull, Alan
+AU  - Mustoe, Thomas A.
+TI  - 066 Direct Comparison of Adenoviral and Adeno-Associated Viral Vectors for Efficiency of Gene Transfer in Ischemic Wound
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bn.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bn.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Tissue ischemia is a common occurrence in many disease processes including chronic wounds, stroke, solid tumors, and myocardial infarction. The application of gene delivery for healing of wounds has demonstrated increasing therapeutic promises in animal models. Adenoviral vectors have been successfully used for gene delivery to the ischemic wound. However, these vectors typically demonstrate short, transient transgene expression while eliciting significant cytotoxic immune response. Adeno-associated viral vectors (AAV) do not have those limitations; however, scant information is available about their transfection efficiency under low-oxygen tension. The goal of this study was to compare AAV vector with adenoviral vector in terms of relative efficiency of gene delivery and cytotoxic immune response in ischemic wounds. Reporter constructs Ad5-LacZ and AAV-LacZ (108?pfu/wound) were injected onto the dermis of rabbit ear prior to creation of ischemic wounds. Wounds were harvested at postoperative day 10. Frozen sections of the wounds were fixed in cold acetone and stained with an in situ ?-gal staining kit. Intense expression of ?-gal was observed with both vectors; however, transduction rates with AAV vector was approximately 10-fold lower than Adenovirus. Unlike Adenovirus, no noticeable inflammatory cell infiltration was observed with AAV injection. Even when the dosage of AAV was increased to 109?pfu/wound inflammatory cell infiltration remained negligible. Thus our data indicates that both AAV and adenoviral vectors are suitable to use in gene-therapy experiments in ischemic tissues. The particular advantage of AAV is the ability to transfect with higher doses while at lower dose maximal transfection rate seems to be more with Adenovirus.
+ER  - 
+
+TY  - JOUR
+AU  - Ferguson,             M.
+AU  - Marti, G.P.
+AU  - Nasir, I.
+AU  - Broor, A.
+AU  - Wang, J.
+AU  - Duncan, M.D.
+AU  - Harmon, J.W.
+TI  - 067 Electroporation-Enhanced Gene Therapy with KGF-1 Corrects Healing Impairment in Older Diabetic Mice
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bo.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bo.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Introduction:? Diabetes is known to impair wound healing. We assessed the effect of aging on this impairment and further explored the possibility of repairing age-dependant impairment by replenishing levels of the growth factor KGF-1 using our system of electroporation enhanced gene therapy. Methods:? Female BKS.Cg-m+/+Leprdb/J mice (diabetic) were obtained from the Jackson Laboratory (Bar Harbor, ME). Mice at time of study were 7, 27, and 84 weeks, respectively. Two wounds were created using a 5?mm punch biopsy. Plasmid DNA encoding KGF-1 was injected at 40??g / wound. Electroporation was carried out with six square wave pulses, at 1800 volts for 100??s; with aninterval of 125?ms. Wounds were assessed planometrically over a 14-day period. Results:? We found that wound healing is severely impaired in older, but not young diabetic mice (7-week-old mice displayed a threefold smaller wound area than 84-week-old mice on day 9). Glucose levels were similar in old and young groups ruling out differences in intensity of the metabolic derangement to explain this disparity (old: 334 +/? 41?mg/dl vs. young: 290 +/? 33?mg/dl). Treatment with KGF-1 gene therapy increased wound closure in aged mice 5.9-fold as compared to untreated aged mice 5 days after wounding (treated: 3724 +/? 631 vs. untreated: 632 +/? 517, P?=?0.002). Aged KGF-1 gene therapy-treated mice closed wounds 10-fold faster than treated young mice 5 days after wounding (old: 3724: +/? 631 vs. young 358 +/? 871, P?=?0.004). Conclusions:? We conclude that progressive damage to the tissues capability to heal occurs in individuals with diabetes. Treatment with KGF-1 gene therapy is more effective in aged mice than young mice. With an increasing geriatric diabetic population, gene therapy to replenish growth factors may be worth exploring.
+ER  - 
+
+TY  - JOUR
+AU  - Janis,             A.D.
+AU  - Klingman, N.V.
+AU  - Berceli, S.A.
+TI  - 071 Connective Tissue Growth Factor (CTGF) Content and Bioactivity of Small Intestinal Submucosa (SIS)
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bs.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bs.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Bioactive, resorbable materials can be useful in the treatment of surgical injury where biomaterial incorporation followed by tissue-specific remodeling is desired. Bioactive growth factors may be useful in the treatment of chronic ulcerative wounds, shifting the static wound environment to a more active acute phase. Small intestinal submucosa (SIS) is a naturally occurring extracellular matrix used as a biomaterial for the treatment of soft tissue injury, as well as pressure, venous, and diabetic ulcers. Preclinical and clinical studies have demonstrated that SIS induces host tissue infiltration, site-specific remodeling, and repair. Although SIS consists primarily of collagen, the presence of other proteins, glycosaminoglycans, proteoglycans, and the growth factors FGF-2, VEGF, and TGF-? have been reported. Recent experiments have demonstrated the presence of connective tissue growth factor (CTGF) in SIS. Immunohistochemical staining for CTGF was positive in mechanically isolated, disinfected, and ethylene oxide (EO) sterilized SIS. Lyophilized SIS samples were ground in ice cold PBS and CTGF concentration was measured using ELISA. The results are summarized in the following table: Sample [CTGF](ng/g) Mechanically isolated SIS 39.88?±?5.4 Disinfected SIS 11.31?±?7.2 Ethylene oxide sterilized SIS ?7.96?±?1.3 CTGF, secreted by fibroblasts after activation with TGF-?, stimulates cell proliferation and extracellular matrix synthesis. In vitro cell culture bioactivity experiments are planned. This work was supported by Cook Biotech Incorporated.
+ER  - 
+
+TY  - JOUR
+AU  - Cullen, B.
+AU  - Essler,             A.
+AU  - Nisbet, L.
+TI  - 073 Effect of Advanced Wound Therapies on Fibroblast Proliferation in Acute Wound Fluid
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bu.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bu.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Wound repair is described as a delicately balanced and well-orchestrated progression of events, which ultimately results in healing in the majority of acute cases. However, time taken to complete healing can vary greatly between patients and any alteration in this physiological process could delay healing further. Thus, a wound treatment, which facilitates healing independent of wound type and in patients where healing is compromised or impeded, would be extremely advantageous. Previous studies suggest a beneficial role for biomaterials such as collagen/ORC in modifying the chronic wound environment; however, their effect on the acute wound environment is unknown. While it is generally accepted that acute wounds heal at an optimum rate due to a positive wound environment, we wanted to determine if current advanced wound healing treatments could augment or impact this healing rate. In this study we evaluated the effect of advanced wound therapies in the presence of acute wound fluid on human dermal fibroblast proliferation. We hypothesize that an enhanced effect on fibroblast proliferation in the presence of acute wound fluid may be indicative of a beneficial effect in the treatment of acute wounds. Results demonstrate that of the wound treatments tested only collagen/ORC containing therapies exhibited a positive effect on fibroblast proliferation in the presence of acute wound fluid. We conclude, therefore, that collagen/ORC biomaterials, already shown to be beneficial in the treatment of chronic wounds, may also be a valuable therapy in the treatment of acute wounds.
+ER  - 
+
+TY  - JOUR
+AU  - Kloeters,             O.
+AU  - Kim, J.Y.S.
+AU  - Mustoe, T.A.
+TI  - 089 Occlusive Dressing Reduces Inflammatory Response and Alters Connexin Expression in a Rat Incisional Model
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215ck.x
+DO  - doi:10.1111/j.1067-1927.2005.130215ck.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Introduction:? There is growing clinical evidence that moist wounds show improved wound healing in terms of less scar tissue formation and better cosmesis. Increased levels of wound fluid improve migration of keratinocytes along the wound surface. Occlusive dressings provide such a hydrated wound environment. However, the underlying mechanisms on how occluded wounds exert the clinical observed effect are yet barely understood. We hypothesized, that keratinocytes play a keyrole in hydrated wounds by sending cytokine signals to upper epidermal layers and even more important to the dermis. We therefore focused on connexins, intercellular channels that are strongly involved in cell-cell communication, hemostasis, and small molecule exchange. Methods:? Full thickness incisions to the panniculus carnosus were made on female Fisher rats. Both incisions were closed in a subcuticular fashion using 5-0 polypropylene suture. One incision on each rat was randomly covered with an occlusive dressing until harvest. Wounds were harvested on PODs 3, 7, and 10. RNA was selectively extracted from both the epidermis and dermis. Histo'logy slides were preliminary evaluated by using a 0?4 scale rating cellularity count in the epithelium, subepithelium, and peripanniculous as well as epithelial thickness. Results:? Cellularity count was significantly reduced in the epithelial and subepithelial compartment of occluded wounds as well as the epithelial thickness in occluded wounds (p?<?0,05). QRT-PCR analysis revealed a significant up-regulation of Cx30-mRNA on POD10 in occluded wounds versus nonoccluded wounds. Conclusion:? Our results suggest that occlusion promotes epithelialization and maturation of incisional wounds most likely through hydration. Up-regulation of Connexin30 on POD10 supports that thesis, as it suggests an advanced communication process in keratinocytes in occluded wounds.
+ER  - 
+
+TY  - JOUR
+AU  - Krötzsch, E.
+AU  - Lomelí-Rivas, A.
+AU  - Michtchenko, A.
+TI  - 091 Low-Level Laser (650 nm) Stimulates Cell Growth and Downmodulates Prommp-1 and Timp-1 in Synchronized G0 Fibroblasts
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215cm.x
+DO  - doi:10.1111/j.1067-1927.2005.130215cm.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Laser therapy has been considered useful for the treatment of chronic wounds. Different research groups have been working with fibroblastic metabolism, after culture irradiation with red and infrared sources of laser. Previously it has been demonstrated that lasers stimulate collagen synthesis and [3H]tymidine uptake when fibroblasts are irradiated and grown in the presence of fetal bovine serum (5?10%). Our group has been evaluating the in vitro effects of low-level laser (??=?650?nm) activity on fibroblast metabolism. In this work, fibroblast activity was evaluated after 24, 48, and 72?h from G0 using synchronized fibroblast cultures previously irradiated with a single dose of low-level laser at different power densities (3.75, 7.5, 15, and 30?mW/cm2), during different times of exposure (15, 30, 60, and 120?sec). Proliferation was measured by [3H]tymidine uptake, and ProMMP-1 and TIMP-1 were evaluated by ELISA. Significant changes in proliferation were only observed after 48?h when 'cultures were irradiated during 30?sec with 3.75, 7.5, and 15?mW/cm2, or during 60 seconds at 15?mW/cm2. However, ProMMP-1 diminished significantly after 24 and 48?h when cultures were irradiated with 7.5 and 15?mW/cm2 during 30 and 60?sec, and with 7.5 and 15?mW/cm2 during 15 seconds, after 48?h. TIMP-1 expression was significantly lower than the control during each dose and they were assayed 24?h after each irradiation. Based on the above data, fibroblast proliferation is stimulated 48?h after irradiation, using low-level laser to incorporate cells from G0 to the cell cycle, almost in the absence of serum (1%), although ProMMP-1 and TIMP-1 responses were observed 24?h after irradiation with the same doses. These results indicate that low-level laser can stimulate normal human fibroblasts to reduce collagen turnover, and consequently can be useful to stimulate normal fibroblast activity in a wound. As a result, this therapy could be administered every 2 days and may be more effective.
+ER  - 
+
+TY  - JOUR
+AU  - Miyashita, Y
+AU  - Isenhath, S.N.
+AU  - Usui, M.L.
+AU  - Underwood, R.A.
+AU  - Hauch, K.D.
+AU  - Irvin, C.A.
+AU  - Marshall, A.J.
+AU  - Ratner, B.D.
+AU  - Fleckman, P.
+AU  - Olerud, J.E.
+TI  - 011 Skin Cell Attachment to an Implanted Percutaneous Biomaterial: A Mouse Model
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215k.x
+DO  - doi:10.1111/j.1067-1927.2005.130215k.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Percutaneous devices play a central role in modern medicine, but are associated with significant risk of infection. One approach to circumvent this risk is to heal the wound around the device by creating a seal at the skin/device interface. We previously showed, using cell adhesion assay and organ culture model, that surface modification of poly(2-hydroxyethyl methacrylate)[poly(HEMA)] with 1,1?-carbonyldiimidazole (CDI) dramatically enhanced keratinocyte attachment to poly(HEMA). Although the organ culture model addresses epithelial response to an implanted biomaterial, to fully evaluate the cutaneous interaction with biomaterials, we tested implants in a mouse model. Porous poly(HEMA) rods with 40??m pore size were implanted into two different sites on dorsal skin of forty eight, 6?8 week old male C57BL/10?J mice. Porous poly(HEMA) rods were treated with 1) PBS, 2) CDI, and 3) CDI plus laminin 5. Samples were harvested at 7, 14, and 28 days after surgery and analyzed morphologically using H&E and immunohistochemistry. Implanted rods remained intact and infection free at all time points. Morphological analysis showed diffuse dermal cellular infiltration in all samples and evidence of epidermal integration into the pores of CDI treated poly(HEMA) and CDI plus laminin 5 treated poly(HEMA). Immunohistochemistry showed laminin 5 expression at the skin/poly(HEMA) interface resembling the junctional epithelium of the tooth. Engineering this type of attachment to percutaneous devices is attractive since the tooth is a natural example of percutaneous material, where bacterial invasion of bone is prevented by epithelial attachment. Acknowledgments:? NSF EEC 9529161 [University of Washington Engineered Biomaterials (UWEB)], NIH DK 59221, the George F. Odland Endowed Research Fund, and the Marvin and Judy Young Research Fund
+ER  - 
+
+TY  - JOUR
+AU  - Vallury,             M.
+AU  - Lindblad, W.J.
+TI  - 021 Altered in Vitro Migratory Activity of Human Fibroblasts Isolated from Type I Diabetics
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215u.x
+DO  - doi:10.1111/j.1067-1927.2005.130215u.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - An essential cell behavior for wound healing is the ability of reparative cells to migrate into a wound site. Impairment of this migratory behavior could delay or potentially halt the healing process, allowing for infection or other secondary insults to the wound. Type I diabetics experience significant morbidity from failure of lower extremity injuries to heal. Various hypotheses have been proposed to explain this impaired healing response, but little is known about intrinsic migratory differences in the fibroblasts that populate the diabetic dermis prior to wounding. Nontransformed fibroblast cell lines from type I diabetics were obtained from the NIGMS-NIH cell repository at the Coriell Institute. Cells were maintained in Dulbecco?s modified Eagle?s medium containing 10% fetal calf serum, penicillin, streptomycin, and either 25?mM (high) or 5.6?mM (low) glucose. Cell migration was measured over 72?hr by two methods; the monolayer scrape method, or by quantifying the movement of cells away from a circular source of cells, deposited within cloning rings, under high- or low-glucose conditions. The initial (0, 6, 24, and 48?hr) proliferative response of cells was measured by 3H-thymidine incorporation into confluent cell monolayers following partial scraping of the cell layer. Using the scrape method, diabetic cells failed to start moving across a monolayer scrape until?>?10?hrs, whereas normal fibroblasts had started migrating at 8?hrs and were noticeably closing the scrape ?wound? by 10 hours. Consistent with this finding, fibroblasts from diabetics showed impaired migration (70% vs. 145% increase in diameter) in high glucose over an initial 72?hrs in the second migration assay. This difference was less if the cells were cultured and tested in low glucose medium. In contrast, diabetic derived cells incorporated 3H-thymidine more rapidly at early times (55.9%[24?hr] and 72%[48?hr]) when cultured under high-glucose conditions. These results suggest that fibroblasts in the type I diabetic are characterized by a reduced capacity to migrate, but a normal or heightened proliferative capacity. This may indicate that injury to this connective tissue fails to produce the required influx of fibroblasts to deposit new matrix.
+ER  - 
+
+TY  - JOUR
+TI  - Abstract Presentations from the AABB Annual Meeting Boston, MA, October 13–16, 2018
+JO  - Transfusion
+JA  - Transfusion
+VL  - 58
+IS  - S2
+SN  - 0041-1132
+UR  - https://doi.org/10.1111/trf.14903
+DO  - doi:10.1111/trf.14903
+SP  - 6A
+EP  - 254A
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - ANZSBT abstracts presented at the HSANZ/ANZSBT/ASTH ISH Annual Scientific Meeting 2011 held 30 October to 2 November 2011 in Sydney, Australia
+JO  - Transfusion Medicine
+VL  - 22
+IS  - 3
+SN  - 0958-7578
+UR  - https://doi.org/10.1111/j.1365-3148.2012.01160.x
+DO  - doi:10.1111/j.1365-3148.2012.01160.x
+SP  - 221
+EP  - 238
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts-Posters
+JO  - Alcoholism: Clinical and Experimental Research
+JA  - Alcohol Clin Exp Res
+VL  - 42
+IS  - S1
+SN  - 0145-6008
+UR  - https://doi.org/10.1111/acer.13747
+DO  - doi:10.1111/acer.13747
+SP  - 19A
+EP  - 270A
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Loizzo, Joseph J.
+AU  - Blackhall, Leslie J.
+AU  - Rapgay, Lobsang
+TI  - Tibetan Medicine
+JO  - Annals of the New York Academy of Sciences
+VL  - 1172
+IS  - 1
+SN  - 0077-8923
+UR  - https://doi.org/10.1196/annals.1393.008
+DO  - doi:10.1196/annals.1393.008
+SP  - 218
+EP  - 230
+KW  - Tibetan medicine
+KW  - integrative medicine
+KW  - health education
+KW  - humoral medicine
+KW  - philosophy of medicine
+KW  - history of medicine
+PY  - 2009
+AB  - Traditional medical systems are challenging because their theories and practices strike many conventionally trained physicians and researchers as incomprehensible. Should modern medicine dismiss them as unscientific, view them as sources of alternatives hidden in a matrix of superstition, or regard them as complementary sciences of medicine? We make the latter argument using the example of Tibetan medicine. Tibetan medicine is based on analytic models and methods that are rationally defined, internally coherent, and make testable predictions, meeting current definitions of ?science.? A ninth century synthesis of Indian, Chinese, Himalayan, and Greco-Persian traditions, Tibetan medicine is the most comprehensive form of Eurasian healthcare and the world's first integrative medicine. Incorporating rigorous systems of meditative self-healing and ascetic self-care from India, it includes a world-class paradigm of mind/body and preventive medicine. Adapting the therapeutic philosophy and contemplative science of Indian Buddhism to the quality of secular life and death, it features the world's most effective systems of positive and palliative healthcare. Based on qualitative theories and intersubjective methods, it involves predictions and therapies shown to be more accurate and effective than those of modern medicine in fields from physiology and pharmacology to neuroscience, mind/body medicine, and positive health. The possibility of complementary sciences follows from the latest view of science as a set of tools?instruments of social activity based on learned agreement in aims and methods?rather than as a monolith of absolute truth. Implications of this pluralistic outlook for medical research and practice are discussed.
+ER  - 
+
+TY  - JOUR
+TI  - Abstract
+JO  - Journal of Thrombosis and Haemostasis
+JA  - Journal of Thrombosis and Haemostasis
+VL  - 5
+IS  - S2
+SN  - 1538-7933
+UR  - https://doi.org/10.1111/j.1538-7836.2007.tb00037.x
+DO  - doi:10.1111/j.1538-7836.2007.tb00037.x
+SP  - SYM-W-049
+EP  - SYM-W-072
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - 59th Annual Scientific Meeting American Headache Society® June 8 - 11, 2017 Westin Boston Waterfront Boston, MA
+JO  - Headache: The Journal of Head and Face Pain
+JA  - Headache: The Journal of Head and Face Pain
+VL  - 57
+IS  - S3
+SN  - 0017-8748
+UR  - https://doi.org/10.1111/head.13102
+DO  - doi:10.1111/head.13102
+SP  - 113
+EP  - 226
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+TI  - E-Poster Presentations (Oral) | APDW 2019
+JO  - Journal of Gastroenterology and Hepatology
+JA  - Journal of Gastroenterology and Hepatology
+VL  - 34
+IS  - S3
+SN  - 0815-9319
+UR  - https://doi.org/10.1111/jgh.14879
+DO  - doi:10.1111/jgh.14879
+SP  - 72
+EP  - 582
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Posters
+JO  - Clinical Microbiology and Infection
+VL  - 13
+IS  - s1
+SN  - 1198-743X
+UR  - https://doi.org/10.1111/j.1469-0691.2007.01733.x
+DO  - doi:10.1111/j.1469-0691.2007.01733.x
+SP  - S109
+EP  - S608
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - AUSTRALIAN ORTHOPÆDIC ASSOCIATION AND NEW ZEALAND ORTHOPÆ;DIC ASSOCIATION: “AN ACCIDENT SERVICE”
+JO  - Medical Journal of Australia
+JA  - Medical Journal of Australia
+VL  - 1
+IS  - 2
+SN  - 0025-729X
+UR  - https://doi.org/10.5694/j.1326-5377.1969.tb49694.x
+DO  - doi:10.5694/j.1326-5377.1969.tb49694.x
+SP  - 75
+EP  - 78
+PY  - 1969
+ER  - 
+
+TY  - JOUR
+TI  - 39th Annual Meeting of the International Continence Society San Francisco, USA 29 September – 3 October, 2009
+JO  - Neurourology and Urodynamics
+JA  - Neurourol. Urodyn.
+VL  - 28
+IS  - 7
+SN  - 0733-2467
+UR  - https://doi.org/10.1002/nau.20808
+DO  - doi:10.1002/nau.20808
+SP  - 567
+EP  - 935
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+TI  - 23rd Annual Meeting of the European Tissue Repair Society
+JO  - Wound Repair and Regeneration
+JA  - Wound Repair Regen
+VL  - 21
+IS  - 6
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/wrr.12114
+DO  - doi:10.1111/wrr.12114
+SP  - A55
+EP  - A88
+PY  - 2013
+ER  - 

@@ -1,0 +1,541 @@
+
+TY  - JOUR
+AU  - Agudelo, Juliana
+AU  - Privman, Vladimir
+AU  - Halámek, Jan
+TI  - Promises and Challenges in Continuous Tracking Utilizing Amino Acids in Skin Secretions for Active Multi-Factor Biometric Authentication for Cybersecurity
+JO  - ChemPhysChem
+JA  - ChemPhysChem
+VL  - 18
+IS  - 13
+SN  - 1439-4235
+UR  - https://doi.org/10.1002/cphc.201700044
+DO  - doi:10.1002/cphc.201700044
+SP  - 1714
+EP  - 1720
+KW  - amino acids
+KW  - authentication
+KW  - biosensing
+KW  - enzymes
+KW  - forensics
+PY  - 2017
+AB  - Abstract We consider a new concept of biometric-based cybersecurity systems for active authentication by continuous tracking, which utilizes biochemical processing of metabolites present in skin secretions. Skin secretions contain a large number of metabolites and small molecules that can be targeted for analysis. Here we argue that amino acids found in sweat can be exploited for the establishment of an amino acid profile capable of identifying an individual user of a mobile or wearable device. Individual and combinations of amino acids processed by biocatalytic cascades yield physical (optical or electronic) signals, providing a time-series of several outputs that, in their entirety, should suffice to authenticate a specific user based on standard statistical criteria. Initial results, motivated by biometrics, indicate that single amino acid levels can provide analog signals that vary according to the individual donor, albeit with limited resolution versus noise. However, some such assays offer digital separation (into well-defined ranges of values) according to groups such as age, biological sex, race, and physiological state of the individual. Multi-input biocatalytic cascades that handle several amino acid signals to yield a single digital-type output, as well as continuous-tracking time-series data rather than a single-instance sample, should enable active authentication at the level of an individual.
+ER  - 
+
+TY  - JOUR
+AU  - Zhu, H.
+AU  - Yuan, M.
+AU  - Qiu, C.
+AU  - Ren, Z.
+AU  - Li, Y.
+AU  - Wang, J.
+AU  - Huang, X.
+AU  - Lui, S.
+AU  - Gong, Q.
+AU  - Zhang, W.
+AU  - Zhang, Y.
+TI  - Multivariate classification of earthquake survivors with post-traumatic stress disorder based on large-scale brain networks
+JO  - Acta Psychiatrica Scandinavica
+JA  - Acta Psychiatr Scand
+VL  - n/a
+IS  - n/a
+SN  - 0001-690X
+UR  - https://doi.org/10.1111/acps.13150
+DO  - doi:10.1111/acps.13150
+KW  - post-traumatic stress disorder
+KW  - diagnosis
+KW  - magnetic resonance imaging
+KW  - neuroimaging
+AB  - Objective The identification of post-traumatic stress disorder (PTSD) among natural disaster survivors is remarkably challenging, and there are no reliable objective signatures that can be used to assist clinical diagnosis and optimize treatment. The current study aimed to establish a neurobiological signature of PTSD from the connectivity of large-scale brain networks and clarify the brain network mechanisms of PTSD. Methods We examined fifty-seven unmedicated survivors with chronic PTSD and 59 matched trauma-exposed healthy controls (TEHCs) using resting-state functional magnetic resonance imaging (rs-fMRI). We extracted the node-to-network connectivity and obtained a feature vector with a dimensionality of 864 (108 nodes ? 8 networks) to represent each subject?s functional connectivity (FC) profile. Multivariate pattern analysis with a relevance vector machine was then used to distinguish PTSD patients from TEHCs. Results We achieved a promising diagnostic accuracy of 89.2% in distinguishing PTSD patients from TEHCs. The most heavily weighted connections for PTSD classification were among the default mode network (DMN), visual network (VIS), somatomotor network, limbic network, and dorsal attention network (DAN). The strength of the anticorrelation of FC between the ventral medial prefrontal cortex (vMPFC) in DMN and the VIS and DAN was associated with the severity of PTSD. Conclusions This study achieved relatively high accuracy in classifying PTSD patients vs. TEHCs at the individual level. This performance demonstrates that rs-fMRI-derived multivariate classification based on large-scale brain networks can provide potential signatures both to facilitate clinical diagnosis and to clarify the underlying brain network mechanisms of PTSD caused by natural disasters.
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Joseph
+AU  - Katz, Evgeny
+TI  - Digital Biosensors with Built-in Logic for Biomedical Applications
+JO  - Israel Journal of Chemistry
+JA  - Isr. J. Chem.
+VL  - 51
+IS  - 1
+SN  - 0021-2148
+UR  - https://doi.org/10.1002/ijch.201000069
+DO  - doi:10.1002/ijch.201000069
+SP  - 141
+EP  - 150
+KW  - biocomputing
+KW  - biomedical application
+KW  - biosensor
+KW  - enzyme
+KW  - injury
+KW  - logic gate
+KW  - logic network
+PY  - 2011
+AB  - Abstract This article overviews recent advances in biomedical applications of enzyme-based logic systems, particularly for the analysis of pathophysiological conditions associated with various injuries. Novel biosensors digitally processing multiple biomarker signals produce a final output in the form of YES/NO response through Boolean logic networks composed of biomolecular systems. The biocomputing approach applied to biosensors leads to high-fidelity biosensing compared to traditional single-analyte sensing devices. By processing complex patterns of multiple physiological biomarkers, such multi-signal digital biosensors should have a profound impact on the rapid diagnosis and treatment of diseases, and particularly can provide timely detection and alert of medical emergencies (along with immediate therapeutic intervention). The novel biosensing concept has been exemplified with the systems for logic analysis of various injuries, including soft tissue injury, traumatic brain injury, liver injury, abdominal trauma, hemorrhagic shock, and oxidative stress.
+ER  - 
+
+TY  - JOUR
+AU  - Mehta, D.
+AU  - Bruenig, D.
+AU  - Carrillo-Roa, T.
+AU  - Lawford, B.
+AU  - Harvey, W.
+AU  - Morris, C. P.
+AU  - Smith, A. K.
+AU  - Binder, E. B.
+AU  - Young, R. McD
+AU  - Voisey, J.
+TI  - Genomewide DNA methylation analysis in combat veterans reveals a novel locus for PTSD
+JO  - Acta Psychiatrica Scandinavica
+JA  - Acta Psychiatr Scand
+VL  - 136
+IS  - 5
+SN  - 0001-690X
+UR  - https://doi.org/10.1111/acps.12778
+DO  - doi:10.1111/acps.12778
+SP  - 493
+EP  - 505
+KW  - post-traumatic stress disorder
+KW  - stress
+KW  - trauma
+KW  - neuropsychiatry
+PY  - 2017
+AB  - Objective Epigenetic modifications such as DNA methylation may play a key role in the aetiology and serve as biomarkers for post-traumatic stress disorder (PTSD). We performed a genomewide analysis to identify genes whose DNA methylation levels are associated with PTSD. Method A total of 211 individuals comprising Australian male Vietnam War veterans (n = 96) and males from a general population belonging to the Grady Trauma Project (n = 115) were included. Genomewide DNA methylation was performed from peripheral blood using the Illumina arrays. Data analysis was performed using generalized linear regression models. Results Differential DNA methylation of 17 previously reported PTSD candidate genes was associated with PTSD symptom severity. Genomewide analyses revealed CpG sites spanning BRSK1, LCN8, NFG and DOCK2 genes were associated with PTSD symptom severity. We replicated the findings of DOCK2 in an independent cohort. Pathway analysis revealed that among the associated genes, genes within actin cytoskeleton and focal adhesion molecular pathways were enriched. Conclusion These data highlight the role of DNA methylation as biomarkers of PTSD. The results support the role of previous candidates and uncover novel genes associated with PTSD, such as DOCK2. This study contributes to our understanding of the biological underpinnings of PTSD.
+ER  - 
+
+TY  - JOUR
+AU  - Lance, Eboni I.
+AU  - Casella, James F.
+AU  - Everett, Allen D.
+AU  - Barron-Casella, Emily
+TI  - Proteomic and biomarker studies and neurological complications of pediatric sickle cell disease
+JO  - PROTEOMICS – Clinical Applications
+JA  - Prot. Clin. Appl.
+VL  - 8
+IS  - 11-12
+SN  - 1862-8346
+UR  - https://doi.org/10.1002/prca.201400069
+DO  - doi:10.1002/prca.201400069
+SP  - 813
+EP  - 827
+KW  - Biological markers
+KW  - Neurodevelopment
+KW  - Sickle cell
+KW  - Stroke
+PY  - 2014
+AB  - Biomarker analysis and proteomic discovery in pediatric sickle cell disease has the potential to lead to important discoveries and improve care. The aim of this review article is to describe proteomic and biomarker articles involving neurological and developmental complications in this population. A systematic review was conducted to identify relevant research publications. Articles were selected for children under the age of 21 years with the most common subtypes of sickle cell disease. Included articles focused on growth factors (platelet-derived growth factor), intra and extracellular brain proteins (glial fibrillary acidic protein, brain-derived neurotrophic factor), and inflammatory and coagulation markers (interleukin-1?, l-selectin, thrombospondin-1, erythrocyte, and platelet-derived microparticles). Positive findings include increases in plasma brain-derived neurotrophic factor and platelet-derived growth factor with elevated transcranial Dopplers velocities, increases in platelet-derived growth factor isoform AA with overt stroke, and increases in glial fibrillary acidic protein with acute brain injury. These promising potential neuro-biomarkers provide insight into pathophysiologic processes and clinical events, but their clinical utility is yet to be established. Additional proteomics research is needed, including broad-based proteomic discovery of plasma constituents and blood cell proteins, as well as urine and cerebrospinal fluid components, before, during and after neurological and developmental complications.
+ER  - 
+
+TY  - JOUR
+AU  - Mountain, David
+AU  - Ercleve, Tor
+AU  - Allely, Peter
+AU  - McQuillan, Brendan
+AU  - Yamen, Eric
+AU  - Beilby, John
+AU  - Lim, Ee-Mun
+AU  - Rogers, Jeremy
+AU  - Geelhoed, Elizabeth
+C8  - EMA-2015-171.R2
+TI  - REACTED – Reducing Acute Chest pain Time in the ED: A prospective pre-/post-interventional cohort study, stratifying risk using early cardiac multi-markers, probably increases discharges safely
+JO  - Emergency Medicine Australasia
+JA  - Emergency Medicine Australasia
+VL  - 28
+IS  - 4
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/1742-6723.12590
+DO  - doi:10.1111/1742-6723.12590
+SP  - 383
+EP  - 390
+KW  - chest pain
+KW  - emergency service
+KW  - hospital
+KW  - patient discharge
+KW  - risk assessment
+KW  - troponin
+PY  - 2016
+AB  - Abstract Objective ED chest pain assessments can be challenging, lengthy and contribute to overcrowding. Rapid accurate risk stratification strategies should improve ED length of stay (EDLOS). Emergency, Biochemistry and Cardiology implemented new guidelines using paired (<3?h) multiple cardiac markers to stratify patients. The intervention would reduce chest pain EDLOS. We observed for safety and disposition effects. Methods This is a single-site, prospective observational, before and after intervention study. In December 2009, paired multiple cardiac markers, the second at least 4?h from pain, replaced late troponins. The 4 h rule (ED flow improvement) started in April 2009 (unplanned confounder). Demographics, clinical features, risk assessment and disposition; preferably prospective. Administrative datasets provided disposition outcomes, 4 months pre-/post-intervention. Follow up with partially blinded adjudications assessed for 45?day major adverse cardiac events (MACE). Before intervention, consecutive patients were enrolled with mixed prospective/retrospective data. After, sampling occurred whenever prospective data were collected. Results Adjudicated patients were n?=?1029 (14.2% MI, 14.9% MACE), 426 before, 603 after. EDLOS reduced 87?min (416?329; P?<?0.001), similar to triage 2 patients without chest pain. Possibly, avoidable MACE occurred in five of 598 discharges (0.8%, CI 0.3?1.8%) with non-significant decreases (0.5%, CI 0.1?1.8%) post-intervention. Disposition changes included greater observation ward use (3.8?12.3%; P?<?0.001), more discharges (47.4?52.9%, P?=?0.002), less transfers (9.3?6.9%, P?=?0.014) and less late inpatient discharge decisions (15.2?8.7%, P?=?0.001). Conclusion Paired cardiac markers performed adequately for avoidable MACE, and disposition improved significantly. A confounding system change meant the reduced EDLOS (primary outcome) was unable to be associated with the intervention.
+ER  - 
+
+TY  - JOUR
+AU  - Sommer, Jens Bak
+AU  - Bach, Anders
+AU  - Malá, Hana
+AU  - Strømgaard, Kristian
+AU  - Mogensen, Jesper
+AU  - Pickering, Darryl S.
+TI  - In vitro and in vivo effects of a novel dimeric inhibitor of PSD-95 on excitotoxicity and functional recovery after experimental traumatic brain injury
+JO  - European Journal of Neuroscience
+JA  - Eur J Neurosci
+VL  - 45
+IS  - 2
+SN  - 0953-816X
+UR  - https://doi.org/10.1111/ejn.13483
+DO  - doi:10.1111/ejn.13483
+SP  - 238
+EP  - 248
+KW  - controlled cortical impact
+KW  - excitotoxicity
+KW  - neuroprotection
+KW  - PSD-95
+KW  - traumatic brain injury
+PY  - 2017
+AB  - Abstract PSD-95 inhibitors have been shown to be neuroprotective in stroke, but have only to a very limited extent been evaluated in the treatment of traumatic brain injury (TBI) that has pathophysiological mechanisms in common with stroke. The aims of the current study were to assess the effects of a novel dimeric inhibitor of PSD-95, UCCB01-147, on histopathology and long-term cognitive outcome after controlled cortical impact (CCI) in rats. As excitotoxic cell death is thought to be a prominent part of the pathophysiology of TBI, we also investigated the neuroprotective effects of UCCB01-147 and related compounds on NMDA-induced cell death in cultured cortical neurons. Anesthetized rats were given a CCI or sham injury, and were randomized to receive an injection of either UCCB01-147 (10 mg/kg), the non-competitive NMDAR-receptor antagonist MK-801 (1 mg/kg) or saline immediately after injury. At 2 and 4 weeks post-trauma, spatial learning and memory were assessed in a water maze, and at 3 months, brains were removed for estimation of lesion volumes. Overall, neither treatment with UCCB01-147 nor MK-801 resulted in significant improvements of cognition and histopathology after CCI. Although MK-801 provided robust neuroprotection against NMDA-induced toxicity in cultured cortical neurons, UCCB01-147 failed to reduce cell death and became neurotoxic at high doses. The data suggest potential differential effects of PSD-95 inhibition in stroke and TBI that should be investigated further in future studies taking important experimental factors such as timing of treatment, dosage, and anesthesia into consideration.
+ER  - 
+
+TY  - JOUR
+AU  - Chong, Pei Pei
+AU  - Tung, Chee Hong
+AU  - Rahman, Nurul Asyikin bt Abdul
+AU  - Yajima, Misako
+AU  - Chin, Fee Wai
+AU  - Yeng, Crystale Lim Siew
+AU  - Go, Eng Soon
+AU  - Chan, Cordelia M. L.
+AU  - Yawata, Nobuyo
+AU  - Yamamoto, Naoki
+TI  - Prevalence and viral load of oncogenic human papillomavirus (HPV) in pterygia in multi-ethnic patients in the Malay Peninsula
+JO  - Acta Ophthalmologica
+JA  - Acta Ophthalmol
+VL  - 92
+IS  - 7
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/aos.12427
+DO  - doi:10.1111/aos.12427
+SP  - e569
+EP  - e579
+KW  - human papillomavirus
+KW  - multi-ethnic
+KW  - PCR detection
+KW  - pterygia
+PY  - 2014
+AB  - Abstract Purpose The aim of the study was to determine the prevalence of human papillomavirus (HPV) in primary and recurrent pterygia samples collected from different ethnic groups in the equatorial Malay Peninsula. Methods DNA was extracted from 45 specimens of freshly obtained primary and recurrent pterygia from patients and from 11 normal conjunctival swabs from volunteers with no ocular surface lesion as control. The presence of HPV DNA was detected by nested PCR. PCR-positive samples were subjected to DNA sequencing to determine the HPV genotypes. Real-time PCR with HPV16 and HPV18 type-specific TaqMan probes was employed to determine the viral DNA copy number. Results Of 45 pterygia samples with acceptable DNA quality, 29 (64.4%) were positive for HPV DNA, whereas all the normal conjunctiva swabs were HPV negative. Type 18 was the most prevalent (41.4% of positive samples) genotype followed by type 16 (27.6%). There was one case each of the less common HPV58 and HPV59. Seven of the samples harboured mixed infections of both HPV16 and HPV18. All the four known recurrent pterygia samples were HPV-positive, whereas the sole early-stage pterygium sample in the study was HPV-negative. There was no significant association between HPV-positive status with gender or age. A high proportion of patients from the Indian ethnic group (five of six) were HPV-positive, whereas the Malay patients were found to have higher HPV positivity than the Chinese. The viral load of HPV18 samples ranged between 2 ? 102 and 3 ? 104 copies per ?g, whereas the viral load of HPV16 specimen was 4 ? 101 to 102 copies per ?g. Conclusion This report describes for the first time the quantitative measurement of HPV viral DNA for pterygium samples. The high prevalence of oncogenic HPVs in our samples suggests a possible role for HPV in the pathogenesis of pterygia. Moreover, the relatively low HPV viral load is concordant with the premalignant nature of this ocular condition.
+ER  - 
+
+TY  - JOUR
+AU  - Hasan, Khader M.
+AU  - Walimuni, Indika S.
+AU  - Abid, Humaira
+AU  - Wolinsky, Jerry S.
+AU  - Narayana, Ponnada A.
+TI  - Multi-modal quantitative MRI investigation of brain tissue neurodegeneration in multiple sclerosis
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J. Magn. Reson. Imaging
+VL  - 35
+IS  - 6
+SN  - 1053-1807
+UR  - https://doi.org/10.1002/jmri.23539
+DO  - doi:10.1002/jmri.23539
+SP  - 1300
+EP  - 1311
+KW  - Multiple sclerosis
+KW  - Wallerian degeneration
+KW  - neurodegeneration
+KW  - aging
+KW  - quantitative MRI
+KW  - diffusion tensor imaging
+KW  - T2 relaxation
+KW  - Atlas-based
+KW  - lesion mapping
+KW  - human brain mapping
+KW  - FreeSurfer
+KW  - volumetry
+KW  - macrostructure
+KW  - microstructure
+PY  - 2012
+AB  - Abstract Purpose: To investigate the utility of multimodal quantitative MRI (qMRI) and atlas-based methods to identify characteristics of lesion-driven injury and neurodegeneration in relapsing remitting multiple sclerosis (RRMS). Materials and Methods: This work is health insurance portability and accountability act compliant. High resolution T1-weighted, dual echo, and fluid-attenuated inversion recovery and diffusion tensor MRI images were prospectively acquired on 68 RRMS patients (range, 25?58 years) and 68 age-matched controls. The data were analyzed using standardized human brain atlas-based tissue segmentation procedures to obtain regional volumes and their corresponding T2 relaxation times and DTI maps. Results: Group-averaged brain atlas-based qMRI maps of T2, fractional anisotropy and diffusivities are visually presented and compared between controls and RRMS. The analysis shows a widespread injury in RRMS. Atrophy of the corpus callosum (CC) was substantial in RRMS. The qMRI attributes of the neocortex in combination with the CC such as T2 and diffusivities were elevated and correlated with disability. Conclusion: Using a standardized multimodal qMRI acquisition and analyses that accounted for lesion distribution we demonstrate that cerebral pathology is widespread in RRMS. Our analysis of CC and neocortex qMRI metrics in relation to disability points to a neurodegenerative injury component that is independent from lesions. J. Magn. Reson. Imaging 2012;35:1300?1311. ? 2012 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Goldenberg, Neil A.
+AU  - Everett, Allen D.
+AU  - Graham, David
+AU  - Bernard, Timothy J.
+AU  - Nowak-Göttl, Ulrike
+TI  - Proteomic and other mass spectrometry based “omics” biomarker discovery and validation in pediatric venous thromboembolism and arterial ischemic stroke: Current state, unmet needs, and future directions
+JO  - PROTEOMICS – Clinical Applications
+JA  - Prot. Clin. Appl.
+VL  - 8
+IS  - 11-12
+SN  - 1862-8346
+UR  - https://doi.org/10.1002/prca.201400062
+DO  - doi:10.1002/prca.201400062
+SP  - 828
+EP  - 836
+KW  - Arterial ischemic stroke
+KW  - Pediatrics
+KW  - Venous thromobemolism
+PY  - 2014
+AB  - Venous thromboembolism (VTE) and arterial ischemic stroke (AIS) are increasingly-recognized health conditions in children, with both acute and chronic sequelae. Risk factors for, and pathogenesis of, VTE are readily related to three principal factors, consisting of venous stasis, endothelial damage, and the hypercoagulable state (i.e. thrombophilia), termed the triad of Virchow. In children, greater than 90% of VTE are provoked by an overt clinical risk factor, the most common of which is a central venous catheter. Risk factors for childhood-onset (beyond the neonatal period) AIS include sickle cell disease, infection, cerebral arteriopathy, and congenital cardiac disease. In perinatal AIS, risk factors are less well-defined, and have been hypothesized to include maternal-fetal conditions. While some acquired and inherited thrombophilias have been associated with increased risk of incident and/or recurrent VTE and AIS, knowledge of other diagnostic and prognostic biomarkers of VTE/AIS in children remains quite limited. To date, very few published studies have employed plasma mass spectrometry-based ?omics? approaches (proteomics, lipidomics or metabolomics). Ongoing and future research efforts involving multicenter prospective study-derived plasma biobanks in pediatric VTE (such as the Kids-DOTT trial) and AIS (including VIPS) along with new multi-omics-compatible sample processing methods offer fertile opportunities for discovery and validation of both novel risk factors and prognostic markers, with great potential to achieve improved prognostic stratification in these diseases.
+ER  - 
+
+TY  - JOUR
+AU  - Chan, Kuang-Cheng
+AU  - Yeh, Jia-Rong
+AU  - Sun, Wei-Zen
+TI  - The role of autonomic dysfunction in predicting 1-year mortality after liver transplantation
+JO  - Liver International
+JA  - Liver Int
+VL  - 37
+IS  - 8
+SN  - 1478-3223
+UR  - https://doi.org/10.1111/liv.13364
+DO  - doi:10.1111/liv.13364
+SP  - 1239
+EP  - 1248
+KW  - autonomic dysfunction
+KW  - complexity
+KW  - deceleration capacity
+KW  - Model for end-stage liver disease
+PY  - 2017
+AB  - Abstract Background & Aims Model for end-stage liver disease (MELD) score has been extensively used to prioritize patients for liver transplantation and determine their prognosis, but with limited predictive value. Autonomic dysfunction may correlate with increased mortality after liver transplant. In this study, two autonomic biomarkers, complexity and deceleration capacity, were added to the predicting model for 1-year mortality after liver transplantation. Methods In all, 30 patients with end-stage liver diseases awaiting liver transplantation were included. Complexity and deceleration capacity were calculated by multi-scale entropy and phase-rectified signal averaging, respectively. Different combinations of autonomic factors and MELD score were used to predict mortality rate of liver transplant after 1-year follow-up. Receiver-operating characteristics curve analysis was performed to determine clinical predictability. Area under the receiver-operating characteristics curve represents the overall accuracy. Results The 1-year mortality rate was 16.7% (5/30). The overall accuracy of MELD score used for predicting mortality after liver transplantation was 0.752. By adding complexity and deceleration capacity into the predicting model, the accuracy increased to 0.912. Notably, the accuracy of the prediction using complexity and deceleration capacity alone was 0.912. Conclusion Complexity and deceleration capacity, which represent different dynamical properties of a human autonomic system, are critical factors for predicting mortality rate of liver transplantation. We recommend that these pre-operative autonomic factors may be helpful as critical adjuncts to predicting model of mortality rate in prioritizing organ allocation.
+ER  - 
+
+TY  - JOUR
+AU  - Osama Gaber, A.
+AU  - Mulgaonkar, Shamkant
+AU  - Kahan, Barry D.
+AU  - Steve Woodle, E.
+AU  - Alloway, Rita
+AU  - Bajjoka, Iman
+AU  - Jensik, Stephen
+AU  - Klintmalm, Goran B.
+AU  - Patton, Pamela R.
+AU  - Wiseman, Alexander
+AU  - Lipshutz, Gerald
+AU  - Kupiec-Weglinski, Jerzy
+AU  - Gaber, Lilian W.
+AU  - Katz, Eliezer
+AU  - Irish, William
+AU  - Squiers, Elizabeth C.
+AU  - Hemmerich, Stefan
+TI  - YSPSL (rPSGL-Ig) for improvement of early renal allograft function: a double-blind, placebo-controlled, multi-center Phase IIa study1,2,3
+JO  - Clinical Transplantation
+VL  - 25
+IS  - 4
+SN  - 0902-0063
+UR  - https://doi.org/10.1111/j.1399-0012.2010.01295.x
+DO  - doi:10.1111/j.1399-0012.2010.01295.x
+SP  - 523
+EP  - 533
+KW  - kidney transplant
+KW  - ischemia reperfusion injury
+KW  - clinical trial
+KW  - selectins
+PY  - 2011
+AB  - Gaber AO, Mulgaonkar S, Kahan BD, Woodle ES, Alloway R, Bajjoka I, Jensik S, Klintmalm GB, Patton PR, Wiseman A, Lipshutz G, Kupiec-Weglinski J, Gaber LW, Katz E, Irish W, Squiers EC, Hemmerich S. YSPSL (rPSGL-Ig) for improvement of early renal allograft function: A double-blind, placebo-controlled, multi-center Phase IIa study. ?Clin Transplant 2011: 25: 523?533. ? 2010 John Wiley & Sons A/S. Abstract:? Introduction:? Recombinant P-selectin glycoprotein ligand IgG fusion protein, rPSGL-Ig (YSPSL), a fusion protein of human P-selectin ligand and IgG1-Fc, blocks leukocyte adhesion and protects against ischemia reperfusion injury (IRI) in animal models. Patients and Methods:? This randomized 15-center, double-blind, 59-patient Ph2a study assessed YSPSL?s safety in recipients of deceased-donor kidney allografts and its potential efficacy in improving early graft function. Two doses and two dosing modalities were evaluated. Results:? No drug-specific toxicities or increased adverse event rates were noted. Two YSPSL-treated patients died of causes determined as unrelated to study drug. YSPSL did not reduce the incidence of dialysis within the first week post-transplant (41% in treated vs. 20% in placebo patients). Renal function endpoints scored at post-operative days 1 & 2 were also not impacted by YSPSL. However, at day 5, the fraction of patients with serum creatinine above 6?mg/dL was lower in the YSPSL vs. placebo group (26% vs. 55%, p?=?0.043). Large variations in the dialysis-delayed graft function (DGF) rates were observed between centers, independently of treatment assignment, indicating subjectivity of this endpoint. Conclusion:? In this first Ph2a study in kidney transplantation, YSPSL was safe but did not impact the dialysis-DGF rate. Further studies with more objective efficacy endpoints are required to define the impact of YSPSL on early renal allograft function.
+ER  - 
+
+AU  - Bazarian, Jeffrey J.
+AU  - Townend, Will
+C7  - pp. 305-315
+TI  - Mild Traumatic Brain Injury
+SN  - 9781405161435
+UR  - https://doi.org/10.1002/9781444303674.ch29
+DO  - doi:10.1002/9781444303674.ch29
+SP  - 305-315
+KW  - mild traumatic brain injury
+KW  - CT decision rule derivation studies for use of head CT after mild traumatic brain injury
+KW  - adult patients with mild TBI (population)
+KW  - MEDLINE: brain concussion AND physical examination
+KW  - Canadian CT Head Rule
+KW  - New Orleans Criteria
+KW  - MEDLINE: brain concussion AND observation
+KW  - factors predicting post-concussive syndrome (PCS) after TBI injury
+KW  - clinician role - eliciting symptoms of mild TBI and CT imaging
+PY  - 2011
+AB  - Summary This chapter contains sections titled: Clinical scenario Background Clinical questions General search strategy Critical review of the literature Conclusions Conflicts of interest References
+ER  - 
+
+TY  - JOUR
+AU  - Liang, Hualou
+AU  - Zhang, Fengqing
+AU  - Niu, Xin
+TI  - Investigating systematic bias in brain age estimation with application to post-traumatic stress disorders
+JO  - Human Brain Mapping
+JA  - Hum Brain Mapp
+VL  - 40
+IS  - 11
+SN  - 9781405161435
+UR  - https://doi.org/10.1002/hbm.24588
+DO  - doi:10.1002/hbm.24588
+SP  - 3143
+EP  - 3152
+KW  - bias
+KW  - brain age prediction
+KW  - machine-learning
+KW  - PTSD
+KW  - regression to the mean
+PY  - 2019
+AB  - Abstract Brain age prediction using machine-learning techniques has recently attracted growing attention, as it has the potential to serve as a biomarker for characterizing the typical brain development and neuropsychiatric disorders. Yet one long-standing problem is that the predicted brain age is overestimated in younger subjects and underestimated in older. There is a plethora of claims as to the bias origins, both methodologically and in data itself. With a large neuroanatomical dataset (N?=?2,026; 6?89 years of age) from multiple shared datasets, we show this bias is neither data-dependent nor specific to particular method including deep neural network. We present an alternative account that offers a statistical explanation for the bias and describe a simple, yet efficient, method using general linear model to adjust the bias. We demonstrate the effectiveness of bias adjustment with a large multi-modal neuroimaging data (N?=?804; 8?21 years of age) for both healthy controls and post-traumatic stress disorders patients obtained from the Philadelphia Neurodevelopmental Cohort.
+ER  - 
+
+TY  - JOUR
+AU  - Kaore, Shilpa N.
+AU  - Amane, Hanmant S.
+AU  - Kaore, Navinchandra M.
+TI  - Citrulline: pharmacological perspectives and its role as an emerging biomarker in future
+JO  - Fundamental & Clinical Pharmacology
+JA  - Fundam Clin Pharmacol
+VL  - 27
+IS  - 1
+SN  - 9781405161435
+UR  - https://doi.org/10.1111/j.1472-8206.2012.01059.x
+DO  - doi:10.1111/j.1472-8206.2012.01059.x
+SP  - 35
+EP  - 50
+KW  - biomarker
+KW  - citrulline
+KW  - nitric oxide
+KW  - rheumatoid
+KW  - T cell
+KW  - vasodilatation
+PY  - 2013
+AB  - Abstract l-citrulline is a naturally occurring non-essential amino acid, an intermediate in urea cycle and conditionally essential in intestinal pathology. It is a potent hydroxyl radical scavenger and much more effective precursor of arginine and nitric oxide (NO) than arginine itself so exploited in therapeutics. Plasma citrulline concentration is used by clinicians to assess functional enterocyte mass in various chronic and acute small bowel pathologies like short bowel syndrome that has become an indication in clinical practice. Its supplementation is likely to be used in conditions like erectile dysfunction, sickle cell anemia, short bowel syndrome (to restore nitrogen balance), hyperlipidemia, cancer chemotherapy, hypercholestremia, in hyperoxic lung damage, urea cycle disorders, Alzheimers disease, multi-infarct dementia and as an immunomodulator. Its emerging role as a biomarker in intestinal pathology and early diagnosis of Rheumatoid arthritis has spread considerable interest. Antibody detection to Anti-cyclic citrullinated peptide (ACCP) antibodies can be recommended for early detection of RA decreasing joint damage and deformity, because these are detected well before the onset of disease manifestations of RA. The test is highly specific than RF (Rheumatoid factor), with moderate sensitivity, but much useful in differentiating RA from other disorders. Further studies and exploration is required in these areas.
+ER  - 
+
+TY  - JOUR
+AU  - Jack Jr., Clifford R.
+AU  - Bennett, David A.
+AU  - Blennow, Kaj
+AU  - Carrillo, Maria C.
+AU  - Dunn, Billy
+AU  - Haeberlein, Samantha Budd
+AU  - Holtzman, David M.
+AU  - Jagust, William
+AU  - Jessen, Frank
+AU  - Karlawish, Jason
+AU  - Liu, Enchi
+AU  - Molinuevo, Jose Luis
+AU  - Montine, Thomas
+AU  - Phelps, Creighton
+AU  - Rankin, Katherine P.
+AU  - Rowe, Christopher C.
+AU  - Scheltens, Philip
+AU  - Siemers, Eric
+AU  - Snyder, Heather M.
+AU  - Sperling, Reisa
+AU  - Contributors
+AU  - Elliott, Cerise
+AU  - Masliah, Eliezer
+AU  - Ryan, Laurie
+AU  - Silverberg, Nina
+TI  - NIA-AA Research Framework: Toward a biological definition of Alzheimer's disease
+JO  - Alzheimer's & Dementia
+JA  - Alzheimer's & Dementia
+VL  - 14
+IS  - 4
+SN  - 9781405161435
+UR  - https://doi.org/10.1016/j.jalz.2018.02.018
+DO  - doi:10.1016/j.jalz.2018.02.018
+SP  - 535
+EP  - 562
+KW  - Alzheimer's disease diagnosis
+KW  - Preclinical Alzheimer's disease
+KW  - Biomarkers Alzheimer's disease
+KW  - CSF biomarkers Alzheimer's disease
+KW  - Alzheimer's disease imaging
+KW  - Amyloid PET
+KW  - Tau PET
+PY  - 2018
+AB  - Abstract In 2011, the National Institute on Aging and Alzheimer's Association created separate diagnostic recommendations for the preclinical, mild cognitive impairment, and dementia stages of Alzheimer's disease. Scientific progress in the interim led to an initiative by the National Institute on Aging and Alzheimer's Association to update and unify the 2011 guidelines. This unifying update is labeled a ?research framework? because its intended use is for observational and interventional research, not routine clinical care. In the National Institute on Aging and Alzheimer's Association Research Framework, Alzheimer's disease (AD) is defined by its underlying pathologic processes that can be documented by postmortem examination or in vivo by biomarkers. The diagnosis is not based on the clinical consequences of the disease (i.e., symptoms/signs) in this research framework, which shifts the definition of AD in living people from a syndromal to a biological construct. The research framework focuses on the diagnosis of AD with biomarkers in living persons. Biomarkers are grouped into those of ? amyloid deposition, pathologic tau, and neurodegeneration [AT(N)]. This ATN classification system groups different biomarkers (imaging and biofluids) by the pathologic process each measures. The AT(N) system is flexible in that new biomarkers can be added to the three existing AT(N) groups, and new biomarker groups beyond AT(N) can be added when they become available. We focus on AD as a continuum, and cognitive staging may be accomplished using continuous measures. However, we also outline two different categorical cognitive schemes for staging the severity of cognitive impairment: a scheme using three traditional syndromal categories and a six-stage numeric scheme. It is important to stress that this framework seeks to create a common language with which investigators can generate and test hypotheses about the interactions among different pathologic processes (denoted by biomarkers) and cognitive symptoms. We appreciate the concern that this biomarker-based research framework has the potential to be misused. Therefore, we emphasize, first, it is premature and inappropriate to use this research framework in general medical practice. Second, this research framework should not be used to restrict alternative approaches to hypothesis testing that do not use biomarkers. There will be situations where biomarkers are not available or requiring them would be counterproductive to the specific research goals (discussed in more detail later in the document). Thus, biomarker-based research should not be considered a template for all research into age-related cognitive impairment and dementia; rather, it should be applied when it is fit for the purpose of the specific research goals of a study. Importantly, this framework should be examined in diverse populations. Although it is possible that ?-amyloid plaques and neurofibrillary tau deposits are not causal in AD pathogenesis, it is these abnormal protein deposits that define AD as a unique neurodegenerative disease among different disorders that can lead to dementia. We envision that defining AD as a biological construct will enable a more accurate characterization and understanding of the sequence of events that lead to cognitive impairment that is associated with AD, as well as the multifactorial etiology of dementia. This approach also will enable a more precise approach to interventional trials where specific pathways can be targeted in the disease process and in the appropriate people.
+ER  - 
+
+TY  - JOUR
+AU  - Möckel, Martin
+AU  - de Boer, Rudolf A.
+AU  - Slagman, Anna Christine
+AU  - von Haehling, Stephan
+AU  - Schou, Morten
+AU  - Vollert, Jörn Ole
+AU  - Wiemer, Jan C.
+AU  - Ebmeyer, Stefan
+AU  - Martín-Sánchez, F. Javier
+AU  - Maisel, Alan S.
+AU  - Giannitsis, Evangelos
+TI  - Improve Management of acute heart failure with ProcAlCiTonin in EUrope: results of the randomized clinical trial IMPACT EU Biomarkers in Cardiology (BIC) 18
+JO  - European Journal of Heart Failure
+JA  - Eur J Heart Fail
+VL  - n/a
+IS  - n/a
+SN  - 9781405161435
+UR  - https://doi.org/10.1002/ejhf.1667
+DO  - doi:10.1002/ejhf.1667
+KW  - Acute heart failure
+KW  - Procalcitonin
+KW  - Natriuretic peptides
+KW  - Antibiotic therapy
+KW  - Mortality
+AB  - Aim To determine whether initiation of antibiotic therapy (ABX) by procalcitonin (PCT) within 8 h of admission in patients presenting to the emergency department with symptoms and signs of acute heart failure (AHF) and elevated natriuretic peptides would improve clinical outcomes. Methods and results The study was a randomized multicentre clinical trial conducted at 16 sites in Europe. Patients were randomized to either a PCT-guided strategy or standard care. Patients with PCT-guided strategy (n =?370) had ABX initiated if PCT was >?0.2 ?g/L. Patients with standard care (n =?372) had AHF care in accordance with published guidelines without PCT. The primary endpoint was 90-day all-cause mortality. Pre-specified secondary endpoints included 30-day all-cause mortality and readmission and rate of pneumonia. The Data Safety and Review Committee recommended stopping the study for futility when 762 of the planned 792 patients had been enrolled. A total of?742 patients could be analysed. Patients were elderly (median age: 77?years), 38% were women, and had typical signs and symptoms of AHF. All-cause mortality at 90?days was 10.3% in the PCT-guided group vs. 8.2% in standard care (P =?0.316). Thirty-day readmission was significantly higher in the PCT-guided group vs. standard care but the difference vanished until day 90. The rate of pneumonia was overall low (7.5%) and not different between groups. Conclusions In patients with AHF, a strategy of PCT-guided initiation of ABX was not more effective than a standard care strategy in improving clinical outcomes.
+ER  - 
+
+AU  - McGuire, Dawn
+C7  - pp. 591-618
+TI  - Traumatic Brain Injury and Neurodegenerative Disease
+SN  - 9781118771778
+UR  - https://doi.org/10.1002/9781118772034.ch26
+DO  - doi:10.1002/9781118772034.ch26
+SP  - 591-618
+KW  - chronic traumatic encephalopathy
+KW  - Institute of Medicine
+KW  - neurodegenerative disease
+KW  - professional contact sports
+KW  - traumatic brain injury
+AB  - Summary Moderate or severe traumatic brain injury (TBI) is a risk factor for several diseases of the aging brain, including Alzheimer's disease (AD), Parkinson's disease (PD) and amyotrophic lateral sclerosis (ALS). While advancing age is the primary risk factor for several neurodegenerative diseases, onset and progression can be strongly influenced by genetics, comorbid conditions, and environmental exposures. Cumulative subconcussive blows, such as those sustained in amateur or professional contact sports, may be a risk factor for cognitive impairment or chronic traumatic encephalopathy (CTE). Despite gaps in knowledge, the Committee on Long Term Consequences of Traumatic Brain Injury of the Institute of Medicine (IOM) concluded, after an exhaustive review of hundreds of studies, that there was sufficient evidence to support an association between severe TBI and dementia, and a ?suggestive? association between moderate TBI and dementia.
+ER  - 
+
+TY  - JOUR
+AU  - Josef Golubic, Sanja
+AU  - Aine, Cheryl J.
+AU  - Stephen, Julia M.
+AU  - Adair, John C.
+AU  - Knoefel, Janice E.
+AU  - Supek, Selma
+TI  - MEG biomarker of Alzheimer's disease: Absence of a prefrontal generator during auditory sensory gating
+JO  - Human Brain Mapping
+JA  - Hum. Brain Mapp.
+VL  - 38
+IS  - 10
+SN  - 9781118771778
+UR  - https://doi.org/10.1002/hbm.23724
+DO  - doi:10.1002/hbm.23724
+SP  - 5180
+EP  - 5194
+KW  - Alzheimer's disease
+KW  - preclinical Alzheimer's disease
+KW  - mild cognitive impairment
+KW  - dementia
+KW  - biomarker
+KW  - auditory sensory gating
+KW  - prefrontal cortex
+KW  - Rey–Osterreith complex figure test
+KW  - magnetoencephalography
+KW  - neuroimaging
+PY  - 2017
+AB  - Abstract Magnetoencephalography (MEG), a direct measure of neuronal activity, is an underexplored tool in the search for biomarkers of Alzheimer's disease (AD). In this study, we used MEG source estimates of auditory gating generators, nonlinear correlations with neuropsychological results, and multivariate analyses to examine the sensitivity and specificity of gating topology modulation to detect AD. Our results demonstrated the use of MEG localization of a medial prefrontal (mPFC) gating generator as a discrete (binary) detector of AD at the individual level and resulted in recategorizing the participant categories in: (1) controls with mPFC generator localized in response to both the standard and deviant tones; (2) a possible preclinical stage of AD participants (a lower functioning group of controls) in which mPFC activation was localized to the deviant tone only; and (3) symptomatic AD in which mPFC activation was not localized to either the deviant or standard tones. This approach showed a large effect size (0.9) and high accuracy, sensitivity, and specificity (100%) in identifying symptomatic AD patients within a limited research sample. The present results demonstrate high potential of mPFC activation as a noninvasive biomarker of AD pathology during putative preclinical and clinical stages. Hum Brain Mapp 38:5180?5194, 2017. ? 2017 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Marklund, N.
+AU  - Bellander, B.-M.
+AU  - Godbolt, A. K.
+AU  - Levin, H.
+AU  - McCrory, P.
+AU  - Thelin, E. P.
+TI  - Treatments and rehabilitation in the acute and chronic state of traumatic brain injury
+JO  - Journal of Internal Medicine
+JA  - J Intern Med
+VL  - 285
+IS  - 6
+SN  - 9781118771778
+UR  - https://doi.org/10.1111/joim.12900
+DO  - doi:10.1111/joim.12900
+SP  - 608
+EP  - 623
+KW  - cognition
+KW  - neuro-critical care
+KW  - neuro-rehabilitation
+KW  - sport-related concussion
+KW  - traumatic brain injury
+PY  - 2019
+AB  - Abstract Traumatic brain injury (TBI) is a major cause of acquired disability globally, and effective treatment methods are scarce. Lately, there has been increasing recognition of the devastating impact of TBI resulting from sports and other recreational activities, ranging from primarily sport-related concussions (SRC) but also more severe brain injuries requiring hospitalization. There are currently no established treatments for the underlying pathophysiology in TBI and while neuro-rehabilitation efforts are promising, there are currently is a lack of consensus regarding rehabilitation following TBI of any severity. In this narrative review, we highlight short- and long-term consequences of SRCs, and how the sideline management of these patients should be performed. We also cover the basic concepts of neuro-critical care management for more severely brain-injured patients with a focus on brain oedema and the necessity of improving intracranial conditions in terms of substrate delivery in order to facilitate recovery and improve outcome. Further, following the acute phase, promising new approaches to rehabilitation are covered for both patients with severe TBI and athletes suffering from SRC. These highlight the need for co-ordinated interdisciplinary rehabilitation, with a special focus on cognition, in order to promote recovery after TBI.
+ER  - 

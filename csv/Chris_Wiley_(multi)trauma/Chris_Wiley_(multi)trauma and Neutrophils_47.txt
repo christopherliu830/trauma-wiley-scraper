@@ -1,0 +1,382 @@
+
+TY  - JOUR
+AU  - Feringer Junior, WH
+AU  - Carvalho, JRG
+AU  - Almeida, MLM
+AU  - Queiroz-Neto, A
+AU  - Ferraz, GC
+TI  - Lactate Transport in Red Blood Cells by Monocarboxylate Transporter MCT1 and Its Accessory Protein CD147 In Brazilian Sport Horses of Different Performance Levels
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_50
+DO  - doi:10.1111/evj.12267_50
+SP  - 17
+EP  - 17
+PY  - 2014
+AB  - Introduction The Brazilian sport horse (BH) was specifically developed for jumping competition. Monocarboxylate transporters are key regulators of cell pH and therefore facilitate co-transport of protons and lactate. Lactate transport in red blood cells (RBCs) is bimodal (high [HT] and low transport [LT]) and is related to CD147 levels. This study aimed to quantify MCT1 and CD147 protein levels in BH after an incremental jumping test (IJT). Methods Sixteen horses were distributed into two groups: low-level jumpers (LL, n?=?8), able to jump up to 1.00?m, and high-level jumpers (HL, n?=?8), able to jump up to 1.20?m. The IJT consisted of three steps, each with forty jumps at increasing heights (0.40, 0.60, and 0.80?m). Blood samples were collected before and after the IJT. The YSI 2300 method was used to determine plasma lactate concentration [Lac]p. RBC membranes were purified, and MCT1 and CD147 levels were measured by Western blotting. A Student's t-test and Pearson's correlation (P<0.05) were employed. Results The HL group displayed lower [Lac]p, indicating prevalence of the aerobic pathway in this group. The results showed no difference in the expression of the transporters between times or groups and a positive correlation (r?=?0.67, P<0.0001) between MCT1 and CD147. In both groups [Lac]p didn't correlate with the amount of MCT1 or CD147. Most of the horses appeared to have high lactate transport activity. The CD147/MCT1 ratios for LL and HL were equal. Conclusions BH showed no difference in MCT1 and CD147 expression between conditioning levels. Ethical Animal Research All procedures were approved by the institutional animal care and use committee of the university (CEUA, Process: 019281/13). Explicit owner informed consent for participation in this study is not stated. Sources of funding:?FAPESP - Fundaç?o de Amparo à Pesquisa do Estado de S?o Paulo (Process 2011/11080-0). Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Rodrigues, TN
+AU  - Miranda, AC
+AU  - Ramos, MT
+AU  - Godoi, FN
+AU  - Almeida, FQ
+TI  - Blood Biochemistry and Hemogasometry of Horses Performing Incremental Jumping and Velocity Tests
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_57
+DO  - doi:10.1111/evj.12267_57
+SP  - 19
+EP  - 19
+PY  - 2014
+AB  - Introduction Biochemical and hemogasometric parameters have been used to evaluate equine performance. This study evaluated blood biochemical and hemogasometry variables of horses during incremental jumping and speed tests. Methods Eighteen horses performed a jumping test with four steps over a vertical obstacle of 1.10?m height (10, 15, 20 and 25 jumps, respectively) totaling 70 jumps, and a speed test with six steps of one minute each with increasing speed from 2 to 8?m/s. Blood samples were collected before and immediately after each test to determine plasma lactate, hematocrit, total plasma protein, glucose, uric acid and hemogasometry variables. Results were analysed by ANOVA and compared by 5% Tukey test. Results Immediately after tests the hematocrit and total plasma protein decreased from 52.4% to 38.9%, and from 7.2 to 6.7?g/dl respectively, and the glucose increased from 98.3 to 109.8?mg/dl (P<0.05). The lactate and uric acid concentrations were higher with speed testing (7.97?±?4.8?mmol/l and 1.33?±?0.8?mg/dl respectively) than jumping testing (3.92?±?3.0?mmol/l and 1.24?±?0.9?mg/dl respectively). The blood pH was lower after speed testing (7.36?±?0.1) than the jumping test (7.40?±?0.04) (P<0.05). Blood pCO2, Na and K concentrations increased more after the speed test (53.38?±?7.3?mmHg/l; 139?±?3.0?mEq/l; 4.7?±?0.8?mEq/l respectively) than after the jumping test (49.34?±?3.2?mmHg/l; 138.3?±?2.3?mEq/l; 4.51?±?0.6?mEq/l respectively) (P<0.05). Blood pO2 was not different among tests (P>0.05). Conclusions Incremental jumping and velocity tests are useful tools for assessing performance of jumping horses. Differences among tests could evidence a smaller anaerobic contribution during jumping test. Ethical Animal Research The study was approved by UFRRJ Ethics Committee on Animal Research: number 263/2012. Sources of funding:?CNPq, CAPES and FAPERJ. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - McKeever, K
+AU  - Lehnhard, R
+AU  - Hinchcliff, K
+TI  - Hemodynamic and Endocrine Changes Associated with Splenic Reserve Mobilization
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_72
+DO  - doi:10.1111/evj.12267_72
+SP  - 24
+EP  - 24
+PY  - 2014
+AB  - Introduction In theory, splenic reserve mobilization should elicit a cardiopulmonary baroreceptor mediated neuroendocrine response (the Gauer-Henry reflex). Six intact (IN) and 5 (SP) splenectomized Standardbred mares (421?491?kg, ?9?yr) performed 10?min of treadmill exercise (80% VO2max) to test the hypothesis that hemodynamic and endocrine responses to exercise would differ between IN and SP horses Methods Blood samples were obtained before and at 1, 2, 4, 6, 8 and 10?min of exertion. Right ventricular pressure (RVP), right atrial pressure (RAP), arterial pressure (MAP), heart rate (HR), and cardiac output (CO) were measured and total peripheral resistance (TPR) calculated. Plasma atrial natriuretic peptide (ANP) and vasopressin (AVP) concentrations were measured using RIA. Data analysis used ANOVA for repeated measures and SNK. Significance was set at P<0.05. There were no differences (P>0.05) between IN and SP for any variable at rest. All variables except TPR and RAP increased (P<0.05) during exertion in both IN and SP. Means (±SE) for RAP (18?±?3 vs. 1?±?2?mmHg), CO (255?±?21 vs.177?±?19?L/min), MAP (147?±?3 vs. 116?±?8?mmHg), and ANP (66?±?3 vs. 50?±?8?pg/mL) were greater for IN vs. SP horses at 10?min of exertion. Mean plasma AVP (95?±?19 vs. 23?±?3?pg/mL) was greater (P<0.05) for SP than for IN horses at 10?min of exertion. Ethical Animal Research The study was approved by the Institutional Animal Care and Use Committee. Sources of funding:?Ohio Thoroughbred and Standardbred Research Fund and the New Jersey State Initiative on Equine. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Barcelos, K
+AU  - Jordão, L
+AU  - Ferraz, G
+AU  - Lana, A
+AU  - Rezende, A
+TI  - Effect of Chelated Chromium and L-carnitine on Subcutaneous Fat Deposition in the Mangalarga Marchador Breed after Training
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_93
+DO  - doi:10.1111/evj.12267_93
+SP  - 31
+EP  - 31
+PY  - 2014
+AB  - Introduction The Brazilian Mangalarga Marchador breed is valued for its gait. However few studies have assessed the use of nutritional additives on this breed's performance. This study was designed to test the hypothesis that chelated trivalent chromium and L-carnitine feed supplementation may reduce subcutaneous fat deposition after training. Methods 13 mares (2.5 to 3 years old) were assigned to one of three treatments (T1, 10?mg Cr/day; T2, 10?g LCN/day; T3, control) according to a completely randomized design, with split-plot arrangement. The diet was Panicum maximum cv. Massai and concentrate (50:50 ratio and 2.5% BWT). During 42 days the mares received supplementation and exercised for 50?min on a treadmill and 60?min on an automatic walker every other day, resting on Sundays. Subcutaneous fat was measured with ultrasound before and after training in the back-loin(GDL), croup(GG), and base of the tail(GBC). Results were compared by Tukey test (P<0.05). Results Before training, the variables were similar across the groups (P>0.05). After training, in GDL, T2 (1.76?mm) was 37.37% lower (P<0.05) than control (2.81?mm), while T1 (2.22?mm) was similar to T2 and control. There was no difference between treatments (P>0.05) in GG. In GBC, there was a 24.45% increase from pre (8.59?mm) to post-treatment (10.69?mm) evaluations, regardless of the treatment. Conclusions Supplementation with L-carnitine reduces subcutaneous fat deposition in the lumbar region of Mangalarga Marchador mares after training, which may be indicative of increased use of subcutaneous fat in this region as a substrate for exercise. Ethical Animal Research Procedures were approved research by the University (no. 237 / 2012 protocol). Sources of funding:?CNPq, CAPES, FAPEMIG, ABCCMM, Lab TORTUGA, Haras Esperança e Grande Sert?o. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Connysson, M
+AU  - Jansson, A
+TI  - Effect of Diet and Road Transport on Post-Exercise Plasma Lactate Concentration
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_94
+DO  - doi:10.1111/evj.12267_94
+SP  - 31
+EP  - 31
+PY  - 2014
+AB  - Introduction Horses are usually transported before competitions. The aim of this study was to compare the lactate response in horses on two diets that were transported or not transported before exercise. Methods Six trained and raced Standardbred trotter mares, all accustomed to transportation, were used. Two diets were fed in two periods of 29 days in a crossover design; one forage-only diet (F) and one diet with 50% of DM intake from forage and 50% from oats (FO). The horses had slow exercise 1?3 times/week (approximately 1?h walk and slow trot [6?7?m/s]) and intensive exercise1?2 times/week (4000?m slow trot warm-up, 2000?m at 10?11?m/s on a race track or five 500?m intervals at 9?m/s on a slope, slow trot downhill). At day 21, horses were subjected to transport for 100 kilometres before they performed an exercise test (TT) (4000 meter warm-up [6.3?10?m/s] and 2140?m ?race? [11.6?12.7?m/s]). At day 26, the horses performed a control test (CT) where they were kept in their stall before the exercise test was performed. Blood samples were collected after the finish line and 10 and 30?min post-exercise. Plasma lactate (Lac) was analysed using a spectrophometric method. ANOVA was performed using PROC MIXED (significant difference P<0.05). Results There was no difference in Lac (after finish and 10 and 30?min post-exercise) between diets (F: 14.9 vs. FO: 17.1?mmol/l SEM: 2.1) or exercise tests (TT: 15.9 vs. CT: 16.1?mmol/l SEM 2.0). Conclusions Diet and transport seem not to affect post-exercise plasma lactate in experienced competition horses transported 100?km. Ethical Animal Research The Umeå local ethics committee approved this study. Sources of funding:?KSLA (The Royal Swedish Academy of Agriculture and Forestry). Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Hussey, S.
+AU  - Gander, R.
+AU  - Southern, P.
+AU  - Hoang, M.
+TI  - Subcutaneous Phaeohyphomycosis Caused by Cladophialophora Bantiana
+JO  - Journal of Cutaneous Pathology
+VL  - 32
+IS  - 1
+SN  - 0303-6987
+UR  - https://doi.org/10.1111/j.0303-6987.2005.320cy.x
+DO  - doi:10.1111/j.0303-6987.2005.320cy.x
+SP  - 94
+EP  - 94
+PY  - 2005
+AB  - Primary subcutaneous phaeohyphomycosis can rarely be caused by Cladophialophora bantiana. Only two cases have been reported and we present the histologic and culture findings of another. A 32-year-old black female with systemic lupus erythematosus presented with a two-year history of multiple, recurrent, tender, ulcerated skin nodules with purulent drainage involving an area measuring approximately 27.0???15.0?cm on her upper back. She had been involved in a tornado at age 10 and had sustained traumatic implantation of wood splinters in this area. Sections of the excision showed scattered dark pinpoint foci with surrounding suppuration extending to the deep aspect of the specimen. Histology demonstrated features of phaeohyphomycosis ? foci of granulomatous and acute inflammation with central clusters of dematiaceous fungal hyphae within a fibrotic dermis and subcutaneous tissue. Chains of brown-pigmented septate hyphae and unicellular conidia were identified. Culture revealed pigmented septate, branched hyphae and unbranched acropetal chains of conidia with no attachment hila. Dark gray, velvety colonies formed in one week on a potato dextrose agar plate incubated at 25 degrees Celsius. These culture features were characteristic of Cladophialophora bantiana. Despite surgical excision and itraconazole therapy, her skin lesions persisted for the next two years necessitating a re-excision.
+ER  - 
+
+TY  - JOUR
+AU  - NYMAN, G.
+AU  - LINDBERG, R.
+AU  - WECKNER, D.
+AU  - BJÖRK, M.
+AU  - KVART, C.
+AU  - PERSSON, S. G. B.
+AU  - GUSTAFSSON, H.
+AU  - HEDENSTIERNA, G.
+TI  - Pulmonary gas exchange correlated to clinical signs and lung pathology in horses with chronic bronchiolitis
+JO  - Equine Veterinary Journal
+VL  - 23
+IS  - 4
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/j.2042-3306.1991.tb03713.x
+DO  - doi:10.1111/j.2042-3306.1991.tb03713.x
+SP  - 253
+EP  - 260
+PY  - 1991
+AB  - Summary Eight horses (mean weight 438 kg) with chronic obstructive pulmonary disease (COPD) were studied for clinical signs, ventilation/perfusion relationships (V?A/Q?) and lung morphology. Four horses were killed and necropsied after the study. In horses with COPD, minute ventilation was almost twice as high as normal, whereas PaO2 was significantly decreased. Cardiac output was normal, but pulmonary artery pressure and pulmonary vascular resistance were significantly increased. The V?A/Q? distribution was abnormal with an increased scatter of V?A/Q? ratios. However, shunt (V?A/Q?=0) was increased in one horse only. Ventilation of dead space and high V?A/Q? regions (V?A/Q?>10) were increased markedly and comprised 74 per cent of minute ventilation. On lung biopsy, all horses showed chronic bronchiolitis with epithelial hyperplasia and metaplasia. Diffuse acinar hyperinflation also was evident at necropsy. There was a significant inverse correlation between the respiratory rate and the fractional ventilation of normal V?A/Q? regions. Also, there was a significant agreement between the extent of bronchiolar epithelial hyperplasia in necropsy specimens of lungs and the degree of ventilation of high V?A/Q? regions and dead space. The findings suggest that hyperinflation of the lung due to obstructed airways may be the common denominator of increased ventilation of high V?A/Q? regions and dead space ventilation and of elevated pulmonary artery pressure in horses with COPD from chronic bronchiolitis.
+ER  - 
+
+TY  - JOUR
+AU  - Katz, L
+AU  - McGivney, B
+AU  - Fonseca, R
+AU  - Hill, E
+TI  - Candidate Gene SNP Associations With Fat-Free Mass (FFM) Measurements in Horses-In-Training
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_105
+DO  - doi:10.1111/evj.12267_105
+SP  - 35
+EP  - 35
+PY  - 2014
+AB  - Introduction Body composition including percentage of fat, fat mass and fat-free mass (FFM) is an important consideration for athletes. An evaluation of FFM in racehorses concluded that racing performance is positively correlated with FFM both pre- and post-training. Athletic performance is influenced by interactions among the environment and genes that influence anatomical, metabolic and physiological traits relevant to exercise. The aim of this study was to determine the effects of genetic variation in six candidate genes with functions in growth and metabolism (IL1RA, PTPN1, MC3R, IGF1, LEPR and MSTN) on FFM in Thoroughbreds. Methods FFM was calculated from rump fat thickness measured ultrasonographically in 110 two-year-old Thoroughbred horses-in-training in the same yard after two (T2) and eight (T8) months of training. Twenty-one SNPs in six genes were selected from the EquCab2.0 SNP database and were genotyped for all horses using custom Sequenom SNP genotyping assays. Quantitative tests of association were performed between SNPs and FFM at T2 and T8, and the FFM ratio between the two time points (T2?:?T8) using PLINK software. Results Two SNPs in both the IGF1 (Insulin-Like Growth Factor 1) and PTPN1 (Protein Tyrosine Phosphatase, Non-Receptor Type 1) genes were significantly associated with FFM (T2) (P<0.05). The two IGF1?SNPs and two LEPR (Leptin Receptor) gene SNPs were significantly associated with FFM (T8) (P<0.05). One LEPR?SNP was significantly (P<0.005) associated with changes in FFM (T2?:?T8). Conclusions These results suggest a genetic contribution to FFM variation in Thoroughbreds. Further validation will determine whether these SNPs may be used to predict the effects of training on FFM. Ethical Animal Research Institutional Animal Research Ethics Committee approval was obtained. Explicit owner informed consent for participation in this study is not stated. Sources of funding:?The study was funded by a Science Foundation Ireland, President of Ireland Young Researcher Award (04-YI1- B539). Competing interests:?Dr Hill is a co-founder and Chairman of Equinome Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Bergh, A
+AU  - Egenvall, A
+AU  - Olsson, E
+AU  - Uhlhorn, M
+AU  - Rhodin, M
+TI  - Skin Displacement in the Equine Neck
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_110
+DO  - doi:10.1111/evj.12267_110
+SP  - 36
+EP  - 36
+PY  - 2014
+AB  - Introduction Kinematic studies, using reflective skin markers, are commonly used to investigate equine neck motion in equitation science and for rehabilitation purposes. In order to interpret the registrations accurately, the degree of skin displacement has been described for the limbs and back, but not for the neck. The aim of the present study was to investigate the degree of skin displacement in the equine neck. Methods Radiopaque skin markers were applied to the skin over the first six cervical vertebrae of six healthy horses. Radiographs were taken in three standardized neck positions in the sagittal plane: control (horizontal neck), ?on the bit? and ?nose to carpus?. The scales of the images were normalized and calculation of skin displacement was performed by use of a coordinate system, dividing the displacement into measurements on an x-axis parallel to the vertebra's longitudinal axis and a y-axis perpendicular to the x-axis. The non-parametric paired Wilcoxon rank test was employed to study the differences in distances in x- and y-directions, and statistical significance was set to P<0.05. Results Between control and ?nose to carpus? positions, there were significant differences in the marker locations, related to the underlying vertebra, in x-line for C1?6, and in y-line for C3?6. The differences in marker locations were between 3?±?9 and 44?±?14?mm, depending on the marker. Conclusions The outcome of this study indicates that skin displacement is an important factor to consider when investigating equine neck motion with skin marker methodology. Ethical Animal Research The study was approved by a local Ethical Committee on Animal Experiments (Uppsala, Sweden), with written consent from the horse owners. Sources of funding:?none. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Browne, L
+AU  - Cunliffe, C
+TI  - An Investigation of Relationships between Horse and Rider Pelvic Asymmetry
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_112
+DO  - doi:10.1111/evj.12267_112
+SP  - 37
+EP  - 37
+PY  - 2014
+AB  - Introduction Asymmetry of the horse and rider partnership is a challenging and complex area. There is limited scientific research regarding the occurrence of misalignments in the horse and rider, and if there is any relationship between the two. This study investigated asymmetry of single horse and rider combinations focusing on pelvis asymmetry. Methods 14 single horse/rider combinations (minimum 6 month partnership) on the same daily routine were assessed. Horses and riders were assessed for misalignments of the pelvis, spine, and neck by a fully qualified human and animal (McTimoney) practitioner on the same day. Triplicate measurements of rider dorsal iliac crest (IC) distance (nearest 0.2?cm) and degree of tilt (0d.p) were recorded, sitting and standing, using a PALM palpation meter to calculate IC height discrepancy. Triplicate horse tuber coxae (TC) heights (nearest 0.5?cm) were measured using a plumb line. Difference between means indicated direction and value of asymmetry relative to symmetry of zero. Student's t-test and Pearson's Product Moment correlation examined asymmetry relationships. Results Mean rider IC height discrepancy, standing, was 0.89?±?0.64?cm and sitting, 1.00?±?0.66?cm. Mean TC height discrepancy was 1.3?±?1.6?cm. Asymmetry of the pelvis was a feature of 93% of horse/rider combinations, 85% occurring in the same direction. There was a significant positive correlation between horse TC and rider IC height discrepancies (r2?=?0.4, F?=?8.24, P?=?0.014). Conclusions This study provides positive evidence of a relationship between the direction of horse pelvic rotation and rider pelvic tilt and also between the degree of tilt and rotation. This has implications for physical therapy treatment of horse and rider. Further research of causal effect relationships of the asymmetries is recommended. Ethical Animal Research Procedures were reviewed by the McTimoney Chiropractic College Ethical Review Committee. Sources of funding:?none. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Clayton, HM
+AU  - Starke, SD
+AU  - Merritt, JS
+TI  - Individual Limb Contributions to Centripetal Force Generation during Circular Trot
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_114
+DO  - doi:10.1111/evj.12267_114
+SP  - 38
+EP  - 38
+PY  - 2014
+AB  - Introduction The simplest model of circular locomotion is a point mass moving uniformly on a circle. To produce circular motion, a centripetal force is generated. This study investigated contributions of individual limbs to the net centripetal force in horses trotting on a circle. Methods Six horses trotted on a 6?m diameter circle at their preferred speed. Optical motion capture (Motion Analysis Corp) recorded kinematics, while six force plates (AMTI) recorded ground reaction forces (GRF). Whole body center of mass (CoM) was computed using a 23-segment rigid body model. The GRF of each limb was expressed at the CoM in cylindrical coordinates centered at a best-fit circle of the ground path of the CoM. Average vertical, tangential and radial force components were computed for each limb over the whole stride duration. Forces were analyzed using ANOVA with Tukey HSD post-hoc tests. Results The maximum ground-path deviation of the CoM from the best-fit circle among all trials was only 2.8% of the radius. The forelimbs contributed an average centripetal (radial) force of 0.49 ± 0.16?N/kg (mean ± SD, normalized to body mass), which was significantly greater (P<0.001) than the hind limb contribution of 0.36 ± 0.13?N/kg. There was no significant difference between inside and outside limbs. Conclusions The contribution of individual limbs to the centripetal force provided a direct indication of their role in circular locomotion. The forelimbs generated significantly more centripetal force, possibly in direct relation to their greater support of the body mass against gravity. Ethical Animal Research The study was approved by the MSU Institutional Animal Care and Use Committee, protocol #06/11-112-00. Sources of funding:?This study was funded by the McPhail Endowment. SD Starke's collaborative research visit for this project was funded by the British Society for Animal Science, Murray Black Award. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Crevier-Denoix, N
+AU  - Camus, M
+AU  - Pourcelot, P
+AU  - Pauchard, M
+AU  - Falala, S
+AU  - Ravary-Plumioen, B
+AU  - Denoix, JM
+AU  - Desquilbet, L
+AU  - Chateau, H
+TI  - Effect of Speed on Stride Parameters and Limb Loading: Comparison between Forelimb and Hindlimb at Training Trot on a Firm Surface
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_115
+DO  - doi:10.1111/evj.12267_115
+SP  - 38
+EP  - 38
+PY  - 2014
+AB  - Introduction Direct measurement of peak vertical force in equine forelimbs and hindlimbs under training conditions has not been achieved to date. This measurement is possible using dynamometric horseshoes (DHSs). The objectives of this study were to investigate, on a firm surface, the effect of speed on stride parameters and on vertical loading in the forelimb (FL) compared to the hindlimb (HL). Methods Right front and hind hooves of 5 trotters were equipped with a DHS. A linear corridor was delimited on a firm sand training track. Each horse alternately repeated trials (harness trot) at 25, 35 and 40?km/h (4 to 6 times at each speed). For each trial, stride parameters and dynamic variables (peak vertical force and impulse, vertical loading rate) were analysed for 10 successive strides. Correlation coefficients were calculated to quantify the association between speed and the studied variables; linear mixed-effects regression models were used to test the significance (P<0.05) of these associations. Results Stance and stride duration, and their ratio (duty factor) were linearly correlated with speed (r<-0.82), both in FL and HL. Peak vertical force was the only variable for which r was higher in HL (r?=?0.80 vs. 0.50 in FL). The relationship between vertical loading rate and speed had the highest r of all dynamic variables (r?=?0.87 and 0.83, respectively in FL and HL; r?=?-0.75 and ?0.60 for vertical impulse). Conclusions The linear relation between peak vertical force and speed demonstrated in the hindlimb differs from previous studies at lower speed. These results stress the necessity of performing biomechanical measurements under real training conditions. Ethical Animal Research Formal approval provided by the local Animal Care and Ethics Committee. Sources of funding:?the Région Basse-Normandie, the FEDER, the Fonds Eperon and the IFCE. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Crook, T
+AU  - Hodson-Tole, E
+AU  - Wilson, A
+TI  - Variations in Muscle Activity of Vastus Lateralis and Gastrocnemius Lateralis with Increasing Draft Load
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_117
+DO  - doi:10.1111/evj.12267_117
+SP  - 38
+EP  - 39
+PY  - 2014
+AB  - Introduction Minimal research has examined the effect of draft loading on equine muscle activity. It is hypothesised that increases in draft load of 10 and 20% body mass (BM) will increase EMG intensity and duration of vastus lateralis (VL) and gastrocnemius lateralis (GL) during walk. Methods Data were collected from six Irish Cob geldings (11?±?4 years; height: 1.47?±?0.05?m; BM: 490?±?65?kg) all trained to draft-load. A modified lorry tyre was used as a loading platform. Surface EMG electrodes were positioned over VL and GL. An accelerometer placed on the left hind hoof collected kinematic data. EMG and accelerometer data at a draft load equivalent to 0 (zero load), 10 and 20% BM were recorded as the horses were led at walk in a 20?m straight line. A stopwatch determined mean speed over 20?m. Mean kinematic and EMG values were determined for 10 consecutive strides. EMG intensities were normalised to each horse. Kolmogorov-Smirnov test explored data normality. Friedman test (P<0.05) compared between conditions. A pair-wise Wilcoxon signed ranks test identified where the differences lay. Results Data for one horse was excluded because of poor accelerometer data. The remaining horses (n?=?5) maintained a constant velocity (1.10?±?0.02?m/s {SD}) between conditions (P>0.7). VL and GL increased their muscular activity in terms of EMG intensity and duration of contraction with increasing draft load from 0 to 10% and 10 to 20% BM (P?=?0.04; n?=?5). Conclusions Draft loading can be utilised for strength training following injury or to improve athletic performance. Ethical Animal Research The study was approved by the Royal Veterinary College Ethics Committee. Sources of funding:?Royal Veterinary College. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Curtis, S
+AU  - Martin, J
+AU  - Hobbs, S
+TI  - The Hoof Renewal Time of Thoroughbred Foals from Birth
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_119
+DO  - doi:10.1111/evj.12267_119
+SP  - 39
+EP  - 39
+PY  - 2014
+AB  - Introduction Thoroughbred foals are born with fully developed hooves and stand within minutes. A ring in the horn occurs at birth and grows down the hoof wall, marking the fetal hoof (distal) and foal hoof (proximal). Birth rings in hoof horn have been noted in other species and used to estimate age. Hoof wall renewal in all ages of horse has been poorly reported; horn growth and complete hoof capsule renewal has not been measured in Thoroughbred foals. Partial hoof wall avulsions are relatively common. The objective was to measure the time taken for the fetal hoof of a newborn foal to grow out and be replaced by hoof grown since birth. Methods Thoroughbred foals (N?=?150) on four Newmarket stud farms were studied during June to September. The age of the foal and the day that routine hoof trimming removed the remnants of the fetal hoof of the front hooves was recorded. Foals that were on restricted exercise, ill or where the remnants of the fetal hoof still remained after trimming were excluded from the data. 45 foals fulfilled the criteria. The data were tabulated in Excel, analysed in Minitab and assessed for normality (Anderson-Darling). Results The mean age at which the fetal hoof grew out was 145?±?15 days (95% confidence interval, 141.77?147.16). Conclusions Thoroughbred foals replace the fetal hoof at twice the speed given for mature horses (270?365 days). Knowing the time of hoof renewal will allow accurate predictions of healing to be made in cases of partial hoof wall avulsion and other hoof lesions. Ethical Animal Research Approval was given by the University of Central Lancashire Animal Projects Committee. Explicit owner informed consent for participation in this study is not stated. Sources of funding:?none. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Holt, D
+AU  - Northrop, A
+AU  - Martin, J
+AU  - Daggett, A
+AU  - Hobbs, S
+TI  - What do Riders Want from an Arena Surface?
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_126
+DO  - doi:10.1111/evj.12267_126
+SP  - 41
+EP  - 42
+PY  - 2014
+AB  - Introduction Rider preference appears to be a large factor determining the selection of an arena surface. The negative reaction of the competitors to the surface used for the Olympic test event in 2011 was sufficient to initiate a change in the surface composition used for the Olympic equestrian events in 2012. The aim of this study was to quantify surface characteristics that riders perceive to be the most favoured in a training and competition venue. Methods A survey was used to ask riders (n?=?342) to describe characteristics that they liked about their favourite venue across Northern England. The two most popular surfaces (both well-established wax, sand and fibre) were harrowed before being measured at several plots. An Orono Biomechanical Surface Tester and traction device were used to compare the functional properties of the two surfaces. The respondent's reasons for choosing their favourite venue were associated with specific surface measures including peak load, rebound timing and traction. A Mann-Whitney U test was used to establish differences between venues. Results The favourite venue was selected because the surface was not too deep or slippery and provided good support, spring and cushioning. The peak load (P?=?0.002) and traction (P>0.001) were significantly higher on the favourite surface compared to the second favourite (18.99?kN vs.17.29?kN and 20?Nm vs.19?Nm respectively). Conclusions Higher peak load values may be responsible for supporting a good performance and higher traction values could explain why riders felt that the surface was not ?slippery?, although this may have negative effects on the horse. The results suggest there is potential to quantify rider preferences. Ethical Animal Research The study was approved by an ethics committee at the University of Central Lancashire (reference number: BuSH 057). Sources of funding:?A student internship was awarded by the University of Central Lancashire. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Baxter, J
+AU  - Hobbs, S
+AU  - Chohan, A
+TI  - Preliminary Assessment of Dressage Asymmetry within Sitting Trot and Shoulder-in
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_13
+DO  - doi:10.1111/evj.12267_13
+SP  - 5
+EP  - 5
+PY  - 2014
+AB  - Introduction Despite dressage popularity, little research exists in relation to the rider's posture and effect on aids given to the horse. The aim was to investigate asymmetry during sitting trot and shoulder-in between varying rider abilities. Methods Full body kinematics were collected at 120?Hz (XSENS MVN Biomech) for 10 novice (age 28?±?12 years, height?=?168?±?7?cm) and 10 advanced (age 29?±?6 years, height?=?163?±?4?cm) predominantly right handed participants, with one left handed rider in each group. Range of motion for right hip, left hip, right knee, left knee, right ankle, left ankle, ASIS vertical movement, trunk rotation were generated in Visual 3D. Results Independent t-tests demonstrated significant differences between groups within right and left hip external rotation when straight (P?<?0.001, d?=?2.52; P?=?0.02, d?=?1.25), shoulder-in right (P?=?0.01, d?=?1.47; P?=?0.02, d?=?1.31), only significant in right hip within shoulder-in left (P?=?0.01, d?=?1.30). Axial rotation to the right was found in all conditions, with the range significantly (P<0.05) increased between groups in straight and shoulder-in right, as did right ASIS vertical excursion when riding straight (P?=?0.01, d?=?1.90), and left ASIS excursion within shoulder-in left (P?=?0.04, d?=?1.03). Conclusions Right trunk axial rotation is considered closely linked to right hand dominance, rotating the rider's trunk to the dominant rein aid. Left shoulder-in scored higher which may be because right trunk rotation is one of the aids given to the horse when executing this dressage movement. Ethical Animal Research Study protocols approved by the University of Central Lancashire, before commencing the study. Sources of funding:?none. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Merritt, JS
+AU  - Starke, SD
+AU  - Clayton, HM
+TI  - The Point of Application of the Ground Reaction Force Moves in Circling Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_132
+DO  - doi:10.1111/evj.12267_132
+SP  - 43
+EP  - 43
+PY  - 2014
+AB  - Introduction The position and magnitude of the ground reaction force (GRF) relative to the hoof influences loading within the limbs. In this study, we investigated changes to the point of force application (PFA) of the GRF in horses walking and trotting on circles compared to a straight line. Methods 8 horses were lunged in 6?m diameter circles (left and right), and led straight, at walk and trot over force plates on firm ground. Hoof-mounted retro-reflective markers were tracked using a motion capture system (Motion Analysis Corp). The PFA was computed in a hoof-local coordinate system during 2018 strides. The instantaneous PFA was weighted by the GRF magnitude to compute an average PFA position within the hoof print for each total stance phase. The average PFAs were analyzed using an ANOVA in which type of locomotion (circle or straight), gait (walk or trot) and hoof (fore or hind) were used as independent variables. A Tukey post-hoc analysis identified pair-wise differences. Results At trot, the PFA moved toward the center of the circle by 19.8?±?10?mm (mean?±?SD, P<0.001). At walk there was no significant difference in PFA between straight and circle. The hoof (fore or hind) did not significantly affect the PFA shift. Conclusions The significant medio-lateral shift of PFA suggests that the balance of limb loading changes during circular locomotion. This is likely to affect the medio-lateral balance in the distal joints and cause sub-optimal loading of limb structures. Ethical Animal Research The study was approved by the MSU Institutional Animal Care and Use Committee, protocol #06/11-112-00. Sources of funding:?This study was funded by the McPhail Endowment. SD Starke's collaborative research visit for this project was funded by the British Society for Animal Science, Murray Black Award. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Nestadt, C
+AU  - Davies, H
+TI  - Effects of Thoracic Posture on the Nuchal Ligament in Foetal Foals
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_135
+DO  - doi:10.1111/evj.12267_135
+SP  - 44
+EP  - 44
+PY  - 2014
+AB  - Introduction Controversy surrounds certain head and neck postures in sport horses and their potential impact on the nuchal ligament. Methods Three dead near-term equine foetuses in lateral recumbency with upper-side neck musculature removed to expose the nuchal ligament were placed in 6 head and neck positions (HNP's) between extreme hyperflexion and hyperextension, along with 3 thoracic positions: Low, Medium and High. In each of these 18 positions, the funicular length, lamella dorsoventral width at the level of C4, and craniocaudal length of the 5 major lamella bands of the nuchal ligament were measured manually. Results In intermediate HNP's (HNP1, HNP2), thoracic postures significantly impacted nuchal ligament measurements. Compared to the Medium thorax position, depression and elevation of the thorax decreased lamella sheet widths by 24% (P?=?0.014) and 11% (P?=?0.267) respectively for HNP1, and by 8% (P?=?0.01 for both depression and elevation) for HNP2. More extreme head and neck positions were not associated with any change in measurements of the nuchal ligament with changes in thoracic position. Conclusions A decreased width suggests increased tension in an elastic structure. Hence, if the anatomical connections are similar in adults, extreme head and neck postures may reduce the effect that thoracic posture might have on the nuchal ligament in certain unnatural positions required in sport horses and may interfere with normal elastic energy storage in the nuchal ligament during movement. Ethical Animal Research The study was performed on material collected during post-mortem examination. Explicit owner informed consent for participation in this study is not stated. Sources of funding:?none. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Parkes, R
+AU  - Pfau, T
+AU  - Weller, R
+AU  - Witte, T
+TI  - The Effect of Training on Stride Parameters in a Cohort of 40 Two Year Old Racehorses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_139
+DO  - doi:10.1111/evj.12267_139
+SP  - 45
+EP  - 46
+PY  - 2014
+AB  - Introduction The biomechanical effects of training on gait in the Thoroughbred are not fully understood. We aimed to assess the effect of training, surface and incline on stride parameters. Methods 40 two-year-old Thoroughbred racehorses entering training were recruited and followed from December 2012 until September 2013. Gait analysis was performed at eleven time points by equipping each horse with an inertial measurement unit (IMU) with inbuilt GPS, mounted on the dorsum immediately caudal to the most caudal palpable lumbar dorsal spinous process. Horses were exercised as per their regular training regimen on a variety of training surfaces and inclines. Data were analysed using custom software written in Matlab (Mathworks, UK), and statistical analysis was performed using R (R Foundation for Statistical Computing, Austria). A linear mixed model was used, with horse as a random effect and weeks in training, training surface, curve and incline as fixed effects. Results A total of 85,497 strides at speeds of between 6.00 and 19.03?ms-1 were analysed. Stride length increased by 0.33?m ±?4.3?x?104 with each 1?ms-1 increase in velocity. Training causes a reduction in stride length of 0.004?±?0.0001?m per week and an increase in stride frequency of 1.29?x?103?± 4.1?x?105 per week. Shallow inclines, steep inclines and declines cause a decrease in stride length of 0.07?±?0.003?m, 0.10?±?0.005?m and 0.04?±?0.004?m respectively. Turf and peat moss training surfaces caused an increase in stride length of 0.03?±?0.004?m and 0.06?±?0.007?m respectively. Conclusions This study provides an insight into the effects of external factors on the gait of young Thoroughbreds in training. Ongoing research will further investigate these effects and interactions. Ethical Animal Research The study was approved by the local ethics committee. Explicit owner informed consent for participation in this study is not stated. Sources of funding:?Horserace Betting Levy Board. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Pfau, T
+AU  - Spicer-Jenkins, C
+AU  - Smith, R
+AU  - Bolt, D
+AU  - Fiske, Jackson A
+AU  - Witte, T
+TI  - Optimal Gait Parameters for Quantifying the Effect of Diagnostic Analgesia in Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_141
+DO  - doi:10.1111/evj.12267_141
+SP  - 46
+EP  - 46
+PY  - 2014
+AB  - Introduction Evaluating responses of horses to diagnostic analgesia is subject to bias. Pelvic movement symmetry can be measured accurately with inertial sensors, but it is unclear which of the many symmetry measures best reflect changes. It was hypothesised that objective parameters mimicking commonly observed visual parameters used by veterinarians (difference between upward/downward sacral movement and between amplitudes of left and right tuber coxa motion) would show the largest, most consistent responses. Methods 13 horses underwent visual lameness scoring and independent gait assessment with inertial sensors during clinical lameness investigations. Multiple movement symmetry parameters were calculated and changes before/after diagnostic analgesia regressed against change in lameness grade. Confidence intervals of slopes of regression lines were assessed to identify significant changes. Results All parameters showed variation between horses and across lameness grades. Three measures documented a consistent increase in symmetry for each grade of change in lameness score: difference between sacral displacement minima, and upward movement difference and range of motion difference between the tubera coxae. A change in symmetry of 9?13% for each grade of increase in lameness can be expected. Conclusions The three most promising pelvic parameters for consistent quantification of changes due to diagnostic analgesia in the hindlimb of lame horses were identified. Difference in upward movement between left and right tuber coxae is the most sensitive but requires simultaneously focusing on pelvic and limb movements and may therefore be more difficult to assess visually. Showing a similar response to diagnostic analgesia, the difference in movement amplitude between left and right tuber coxae may be more easily perceived since it does not require simultaneous focus on limb movement. Ethical Animal Research The study was approved by the local ethics committee. Explicit owner informed consent for participation in this study is not stated. Sources of funding:?None declared. Competing interests:?none.
+ER  - 

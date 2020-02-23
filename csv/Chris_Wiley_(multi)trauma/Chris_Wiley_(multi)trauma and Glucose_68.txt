@@ -1,0 +1,420 @@
+
+TY  - JOUR
+AU  - Strandvik, G. F.
+TI  - Hypertonic saline in critical care: a review of the literature and guidelines for use in hypotensive states and raised intracranial pressure*
+JO  - Anaesthesia
+VL  - 64
+IS  - 9
+SN  - 0003-2409
+UR  - https://doi.org/10.1111/j.1365-2044.2009.05986.x
+DO  - doi:10.1111/j.1365-2044.2009.05986.x
+SP  - 990
+EP  - 1003
+PY  - 2009
+AB  - Summary Hypertonic saline has been in clinical use for many decades. Its osmotic and volume-expanding properties make it theoretically useful for a number of indications in critical care. This literature review evaluates the use of hypertonic saline in critical care. The putative mechanism of action is presented, followed by a narrative review of its clinical usefulness in critical care. The review was conducted using the Scottish Intercollegiate Guidelines Network method for the review of cohort studies, randomised-controlled trials and meta-analyses. The review focuses specifically on blood pressure restoration and outcome benefit in both haemorrhagic and non-haemorrhagic shock, and the management of raised intracranial pressure. Issues of clinical improvement and outcome benefit are addressed. Hypertonic saline solutions are effective for blood pressure restoration in haemorrhagic, but not other, types of shock. There is no survival benefit with the use of hypertonic saline solutions in shock. Hypertonic saline solutions are effective at reducing intracranial pressure in conditions causing acute intracranial hypertension. There is no survival or outcome benefit with the use of hypertonic saline solutions for raised intracranial pressure. Recommendations for clinical use and future directions of clinical research are presented.
+ER  - 
+
+TY  - JOUR
+AU  - Ramadan, Saadallah
+AU  - Lin, Alexander
+AU  - Stanwell, Peter
+C8  - NBM-12-0120.R3
+TI  - Glutamate and glutamine: a review of in vivo MRS in the human brain
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 26
+IS  - 12
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.3045
+DO  - doi:10.1002/nbm.3045
+SP  - 1630
+EP  - 1646
+KW  - human
+KW  - in vivo
+KW  - glutamate
+KW  - glutamine
+KW  - MRS
+KW  - 13C
+KW  - one dimensional
+KW  - two dimensional
+PY  - 2013
+AB  - Our understanding of the roles that the amino acids glutamate (Glu) and glutamine (Gln) play in the mammalian central nervous system has increased rapidly in recent times. Many conditions are known to exhibit a disturbance in Glu?Gln equilibrium, and the exact relationships between these changed conditions and these amino acids are not fully understood. This has led to increased interest in Glu/Gln quantitation in the human brain in an array of conditions (e.g. mental illness, tumor, neuro-degeneration) as well as in normal brain function. Accordingly, this review has been undertaken to describe the increasing number of in vivo techniques available to study Glu and Gln separately, or pooled as ?Glx?. The present MRS methods used to assess Glu and Gln vary in approach, complexity, and outcome, thus the focus of this review is on a description of MRS acquisition approaches, and an indication of relative utility of each technique rather than brain pathologies associated with Glu and/or Gln perturbation. Consequently, this review focuses particularly on (1) one-dimensional 1H MRS, (2) two-dimensional 1H MRS, and (3) one-dimensional 13C MRS techniques. Copyright ? 2013 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts from the 22nd Annual Meeting of the North American Neuromodulation Society
+JO  - Neuromodulation: Technology at the Neural Interface
+JA  - Neuromodulation: Technology at the Neural Interface
+VL  - 22
+IS  - 3
+SN  - 1094-7159
+UR  - https://doi.org/10.1111/ner.12950
+DO  - doi:10.1111/ner.12950
+SP  - e40
+EP  - e295
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - SCIENTIFIC ABSTRACTS
+JO  - Journal of General Internal Medicine
+VL  - 19
+IS  - s1
+SN  - 0884-8734
+UR  - https://doi.org/10.1111/j.1525-1497.2004.S1006_5.x
+DO  - doi:10.1111/j.1525-1497.2004.S1006_5.x
+SP  - 109
+EP  - 241
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentation
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 53
+IS  - s119
+SN  - 0001-5172
+UR  - https://doi.org/10.1111/j.1399-6576.2009.02005.x
+DO  - doi:10.1111/j.1399-6576.2009.02005.x
+SP  - 62
+EP  - 78
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+AU  - Song, Shang
+AU  - Roy, Shuvo
+TI  - Progress and challenges in macroencapsulation approaches for type 1 diabetes (T1D) treatment: Cells, biomaterials, and devices
+JO  - Biotechnology and Bioengineering
+JA  - Biotechnol. Bioeng.
+VL  - 113
+IS  - 7
+SN  - 0006-3592
+UR  - https://doi.org/10.1002/bit.25895
+DO  - doi:10.1002/bit.25895
+SP  - 1381
+EP  - 1402
+KW  - type 1 diabetes (T1D)
+KW  - islet encapsulation
+KW  - macroencapsulation devices
+KW  - immunoisolation
+KW  - cells and biomaterials
+KW  - micro-electro-mechanical systems (MEMS)
+PY  - 2016
+AB  - ABSTRACT Macroencapsulation technology has been an attractive topic in the field of treatment for Type 1 diabetes due to mechanical stability, versatility, and retrievability of the macro-capsule design. Macro-capsules can be categorized into extravascular and intravascular devices, in which solute transport relies either on diffusion or convection, respectively. Failure of macroencapsulation strategies can be due to limited regenerative capacity of the encased insulin-producing cells, sub-optimal performance of encapsulation biomaterials, insufficient immunoisolation, excessive blood thrombosis for vascular perfusion devices, and inadequate modes of mass transfer to support cell viability and function. However, significant technical advancements have been achieved in macroencapsulation technology, namely reducing diffusion distance for oxygen and nutrients, using pro-angiogenic factors to increase vascularization for islet engraftment, and optimizing membrane permeability and selectivity to prevent immune attacks from host's body. This review presents an overview of existing macroencapsulation devices and discusses the advances based on tissue-engineering approaches that will stimulate future research and development of macroencapsulation technology. Biotechnol. Bioeng. 2016;113: 1381?1402. ? 2015 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Goldbach-Mansky, R.
+TI  - Immunology in clinic review series; focus on autoinflammatory diseases: update on monogenic autoinflammatory diseases: the role of interleukin (IL)-1 and an emerging role for cytokines beyond IL-1
+JO  - Clinical & Experimental Immunology
+VL  - 167
+IS  - 3
+SN  - 0009-9104
+UR  - https://doi.org/10.1111/j.1365-2249.2011.04533.x
+DO  - doi:10.1111/j.1365-2249.2011.04533.x
+SP  - 391
+EP  - 404
+KW  - CANDLE
+KW  - CAPS
+KW  - DIRA
+KW  - neonatal disorder
+KW  - NOMID
+PY  - 2012
+AB  - OTHER THEMES PUBLISHED IN THIS IMMUNOLOGY IN THE CLINIC REVIEW SERIES Allergy, Host Responses, Cancer, Type 1 diabetes and viruses, Metabolic diseases. Summary The disease-based discovery of the molecular basis for autoinflammatory diseases has led not only to a rapidly growing number of clinically and genetically identifiable disorders, but has unmantled key inflammatory pathways such as the potent role of the alarm cytokine interleukin (IL)-1 in human disease. Following its initial failures in the treatment of sepsis and the moderate success in the treatment of rheumatoid arthritis, IL-1 blocking therapies had a renaissance in the treatment of a number of autoinflammatory conditions, and IL-1 blocking therapies have been Food and Drug Administration (FDA)-approved for the treatment of the autoinflammatory conditions: cryopyrin-associated periodic syndromes (CAPS). CAPS and deficiency of the IL-1 receptor antagonist (DIRA), both genetic conditions with molecular defects in the IL-1 pathway, have provided a pathogenic rationale to IL-1 blocking therapies, and the impressive clinical results confirmed the pivotal role of IL-1 in human disease. Furthermore, IL-1 blocking strategies have shown clinical benefit in a number of other genetically defined autoinflammatory conditions, and diseases with clinical similarities to the monogenic disorders and not yet identified genetic causes. The discovery that IL-1 is not only triggered by infectious danger signals but also by danger signals released from metabolically ?stressed? or even dying cells has extended the concept of autoinflammation to disorders such as gout, and those that were previously not considered inflammatory, such as type 2 diabetes, coronary artery disease, obesity and some degenerative diseases, and provided the conceptual framework to target IL-1 in these diseases. Despite the tremendous success of IL-1 blocking therapy, the use of these agents in a wider spectrum of autoinflammatory conditions has uncovered disease subsets that are not responsive to IL-1 blockade, including the recently discovered proteasome-associated autoinflammatory syndromes such as chronic atypical neutrophilic dermatitis with lipodystrophy and elevated temperatures (CANDLE), Japanese autoinflammatory syndrome with lipodystrophy (JASL), Nakajo?Nishimura syndrome (NNS) and joint contractures, muscle atrophy, panniculitis induced lipodystrophy (JMP), and urge the continued quest to characterize additional dysregulated innate immune pathways that cause autoinflammatory conditions.
+ER  - 
+
+TY  - JOUR
+AU  - Whitton, Greg
+AU  - Gillies, Elizabeth R.
+TI  - Functional aqueous assemblies of linear-dendron hybrids
+JO  - Journal of Polymer Science Part A: Polymer Chemistry
+JA  - J. Polym. Sci. Part A: Polym. Chem.
+VL  - 53
+IS  - 2
+SN  - 0887-624X
+UR  - https://doi.org/10.1002/pola.27316
+DO  - doi:10.1002/pola.27316
+SP  - 148
+EP  - 172
+KW  - dendrimers
+KW  - diblock copolymers
+KW  - drug delivery systems
+KW  - stimuli-sensitive polymers
+PY  - 2015
+AB  - ABSTRACT Linear-dendron (LD) hybrids are macromolecules comprising a linear polymer or oligomer conjugated at one or both termini with branched macromolecules called dendrons. Since their introduction approximately 2 decades ago, tremendous progress has been made in their synthesis, the study of their self-assembly, and toward their application in a variety of fields. This highlight is focused on aqueous assemblies of LD hybrids where function is imparted by the dendron, linear component, or both. These functions include the encapsulation and release of drug molecules, enhancement of cell uptake and targeting of specific tissues, and the stabilization of enzymes for catalysis. In addition, many stimuli-responsive LD hybrids that undergo changes in response to light, enzymes, pH, temperature, redox potential, or even multiple stimuli have been developed. LD hybrids can also be used to form networks via cross-linking reactions. Described here are the structure?property relationships underlying the functions of these materials, along with their potential applications. ? 2014 Wiley Periodicals, Inc. J. Polym. Sci., Part A: Polym. Chem. 2015, 53, 148?172
+ER  - 
+
+TY  - JOUR
+AU  - Yu, Lianzhen
+AU  - Aa, Jiye
+AU  - Xu, Jin
+AU  - Sun, Min
+AU  - Qian, Sixuan
+AU  - Cheng, Liping
+AU  - Yang, Shuping
+AU  - Shi, Ruihua
+TI  - Metabolomic phenotype of gastric cancer and precancerous stages based on gas chromatography time-of-flight mass spectrometry
+JO  - Journal of Gastroenterology and Hepatology
+VL  - 26
+IS  - 8
+SN  - 0815-9319
+UR  - https://doi.org/10.1111/j.1440-1746.2011.06724.x
+DO  - doi:10.1111/j.1440-1746.2011.06724.x
+SP  - 1290
+EP  - 1297
+KW  - gas chromatography time-of-flight mass spectrometry
+KW  - gastric cancer
+KW  - metabolic phenotype
+PY  - 2011
+AB  - Abstract Background and Aim:? To study the low-molecular-weight metabolites in blood plasma of patients with the progressive disease, gastric cancer, and to characterize different stages from chronic superficial gastritis (CSG) to chronic atrophic gastritis (CAG), intestinal metaplasia (IM), gastric dysplasia (DYS) and finally gastric cancer (GC). Methods:? We applied gas chromatography time-of-flight mass spectrometry (GC/TOF-MS) to determine metabolites levels in plasma obtained from 80 patients including 19 with CSG, 13 with CAG, 10 with IM, 15 with DYS and 22 with GC (nine preoperation and 13 postoperation). Principal component analysis (PCA) and statistics were used to differentiate the stages and to identify the markers of gastric cancer. Results:? Totally, 223 peaks were detected in GC/TOF-MS and 72 compounds were authentically identified. CSG showed distinct difference from the other groups of CAG, IM, DYS and GC, whose plots clustered closely. IM clustered closely to GC, suggesting similar metabolic patterns of them. Fifteen identified metabolites contributed most to the differentiating between CSG and GC, and characterized different stages of GC. Statistics revealed elevated levels of 2-Hydroxybutyrate, pyroglutamate, glutamate, asparagine, azelaic acid, ornithine, urate, 11-eicosenoic acid, 1-monohexadecanoylglycerol and ?-tocopherol, while downregulation of creatinine, threonate in GC group, indicating that GC patients were obviously involved in oxidative stress, and perturbed metabolism of amino acids and fatty acids. Conclusion:? The metabolic phenotype of CSG is significantly different from GC, while that of IM is similar to it. The discriminatory metabolites characterizing progressive stages from CSG to GC might be the potential markers to indicate a risk of GC.
+ER  - 
+
+AU  - Marino, Phil
+AU  - Price, Susanna
+C7  - pp. 442-453
+TI  - Endocrine Problems and Cardiovascular Critical Care
+SN  - 9781405148573
+UR  - https://doi.org/10.1002/9781444314502.ch27
+DO  - doi:10.1002/9781444314502.ch27
+SP  - 442-453
+KW  - Non-diabetic patient: stress hyperglycaemia
+KW  - Adrenal failure and insufficiency
+KW  - Hypothyroidism and cardiac disease
+KW  - resuscitation and vasopressors without prior SST
+KW  - The recent CORTICUS (corticosteroid therapy of septic shock)
+KW  - Hyperglycaemic states
+KW  - hyperglycaemia (either DKA or HONK)
+KW  - ‘critical illness related corticosteroid insufficiency’ (CIRCI)
+PY  - 2011
+AB  - Summary This chapter contains sections titled: Introduction Adrenal failure and insufficiency Thyroid dysfunction Conclusion References
+ER  - 
+
+C7  - pp. 235-281
+TI  - Enzyme Logic Digital Biosensors for Biomedical, Forensic, and Security Applications
+SN  - 9783527345700
+UR  - https://doi.org/10.1002/9783527819997.ch11
+DO  - doi:10.1002/9783527819997.ch11
+SP  - 235-281
+KW  - biochemical input signals
+KW  - biomedical applications
+KW  - biomolecular information processing
+KW  - digital biosensors
+KW  - enzyme logic gates
+KW  - forensic applications
+KW  - security applications
+PY  - 2011
+AB  - Summary This chapter overviews the advances in digital biosensors operating in the binary (YES/NO) mode, mostly emphasizing biomedical applications of enzyme-based logic systems, particularly for the analysis of pathophysiological conditions associated with various injuries. The attractive performance of the new enzyme logic biosensors holds considerable promise for diverse practical and important future applications, including novel forensic and security applications. The chapter describes how the biomedical analysis can benefit from the use of biomolecular information processing (biocomputing) systems. Forensic analysis of biofluids can benefit from novel bioanalytical/biosensing methods, including those based on the biocomputing approach. The chapter also overviews the application of binary biosensing methods based on the enzyme logic gates to various types of injury biomarkers, particularly concentrating on battlefield injuries. It shows that the simplest logic processing based mostly on logic AND/OR gates, applied to biochemical input signals.
+ER  - 
+
+TY  - JOUR
+AU  - Garrido-Mesa, N
+AU  - Zarzuelo, A
+AU  - Gálvez, J
+TI  - Minocycline: far beyond an antibiotic
+JO  - British Journal of Pharmacology
+JA  - Br J Pharmacol
+VL  - 169
+IS  - 2
+SN  - 9783527345700
+UR  - https://doi.org/10.1111/bph.12139
+DO  - doi:10.1111/bph.12139
+SP  - 337
+EP  - 352
+KW  - minocycline
+KW  - tetracyclines
+KW  - antibiotic
+KW  - anti-inflammatory
+KW  - immunomodulatory
+KW  - neuroprotection
+PY  - 2013
+AB  - Minocycline is a second-generation, semi-synthetic tetracycline that has been in therapeutic use for over 30 years because of its antibiotic properties against both gram-positive and gram-negative bacteria. It is mainly used in the treatment of acne vulgaris and some sexually transmitted diseases. Recently, it has been reported that tetracyclines can exert a variety of biological actions that are independent of their anti-microbial activity, including anti-inflammatory and anti-apoptotic activities, and inhibition of proteolysis, angiogenesis and tumour metastasis. These findings specifically concern to minocycline as it has recently been found to have multiple non-antibiotic biological effects that are beneficial in experimental models of various diseases with an inflammatory basis, including dermatitis, periodontitis, atherosclerosis and autoimmune disorders such as rheumatoid arthritis and inflammatory bowel disease. Of note, minocycline has also emerged as the most effective tetracycline derivative at providing neuroprotection. This effect has been confirmed in experimental models of ischaemia, traumatic brain injury and neuropathic pain, and of several neurodegenerative conditions including Parkinson's disease, Huntington's disease, amyotrophic lateral sclerosis, Alzheimer's disease, multiple sclerosis and spinal cord injury. Moreover, other pre-clinical studies have shown its ability to inhibit malignant cell growth and activation and replication of human immunodeficiency virus, and to prevent bone resorption. Considering the above-mentioned findings, this review will cover the most important topics in the pharmacology of minocycline to date, supporting its evaluation as a new therapeutic approach for many of the diseases described herein.
+ER  - 
+
+TY  - JOUR
+AU  - Kim, Sungjin
+AU  - Kim, Jae Hong
+AU  - Lee, Joon Seok
+AU  - Park, Chan Beum
+TI  - Beta-Sheet-Forming, Self-Assembled Peptide Nanomaterials towards Optical, Energy, and Healthcare Applications
+JO  - Small
+JA  - Small
+VL  - 11
+IS  - 30
+SN  - 9783527345700
+UR  - https://doi.org/10.1002/smll.201500169
+DO  - doi:10.1002/smll.201500169
+SP  - 3623
+EP  - 3640
+KW  - nanomaterials
+KW  - peptide self-assembly
+KW  - photoluminescence
+KW  - light-harvesting
+KW  - energy storage
+KW  - healthcare
+KW  - peptide nanomaterials
+PY  - 2015
+AB  - Peptide self-assembly is an attractive route for the synthesis of intricate organic nanostructures that possess remarkable structural variety and biocompatibility. Recent studies on peptide-based, self-assembled materials have expanded beyond the construction of high-order architectures; they are now reporting new functional materials that have application in the emerging fields such as artificial photosynthesis and rechargeable batteries. Nevertheless, there have been few reviews particularly concentrating on such versatile, emerging applications. Herein, recent advances in the synthesis of self-assembled peptide nanomaterials (e.g., cross ?-sheet-based amyloid nanostructures, peptide amphiphiles) are selectively reviewed and their new applications in diverse, interdisciplinary fields are described, ranging from optics and energy storage/conversion to healthcare. The applications of peptide-based self-assembled materials in unconventional fields are also highlighted, such as photoluminescent peptide nanostructures, artificial photosynthetic peptide nanomaterials, and lithium-ion battery components. The relation of such functional materials to the rapidly progressing biomedical applications of peptide self-assembly, which include biosensors/chips and regenerative medicine, are discussed. The combination of strategies shown in these applications would further promote the discovery of novel, functional, small materials.
+ER  - 
+
+TY  - JOUR
+AU  - Vinik, Aaron I
+AU  - Erbas, Tomris
+AU  - Casellini, Carolina M
+TI  - Diabetic cardiac autonomic neuropathy, inflammation and cardiovascular disease
+JO  - Journal of Diabetes Investigation
+JA  - J Diabetes Invest
+VL  - 4
+IS  - 1
+SN  - 9783527345700
+UR  - https://doi.org/10.1111/jdi.12042
+DO  - doi:10.1111/jdi.12042
+SP  - 4
+EP  - 18
+KW  - Cardiac autonomic neuropathy
+KW  - Inflammation
+KW  - Pathogenesis
+PY  - 2013
+AB  - Abstract One of the most overlooked of all serious complications of diabetes is cardiovascular autonomic neuropathy. There is now clear evidence that suggests activation of inflammatory cytokines in diabetic patients and that these correlate with abnormalities in sympathovagal balance. Dysfunction of the autonomic system predicts cardiovascular risk and sudden death in patients with type 2 diabetes. It also occurs in prediabetes, providing opportunities for early intervention. Simple tests that can be carried out at the bedside with real-time output of information ? within the scope of the practicing physician ? facilitate diagnosis and allow the application of sound strategies for management. The window of opportunity for aggressive control of all the traditional risk factors for cardiovascular events or sudden death with intensification of therapy is with short duration diabetes, the absence of cardiovascular disease and a history of severe hypoglycemic events. To this list we can now add autonomic dysfunction and neuropathy, which have become the most powerful predictors of risk for mortality. It seems prudent that practitioners should be encouraged to become familiar with this information and apply risk stratification in clinical practice. Several agents have become available for the correction of functional defects in the autonomic nervous system, and restoration of autonomic balance is now possible.
+ER  - 
+
+TY  - JOUR
+AU  - Ellis, Jason A.
+AU  - Youngerman, Brett E.
+AU  - Higashida, Randall T.
+AU  - Altschul, Dorothea
+AU  - Meyers, Philip M.
+TI  - Endovascular treatment strategies for acute ischemic stroke
+JO  - International Journal of Stroke
+VL  - 6
+IS  - 6
+SN  - 9783527345700
+UR  - https://doi.org/10.1111/j.1747-4949.2011.00670.x
+DO  - doi:10.1111/j.1747-4949.2011.00670.x
+SP  - 511
+EP  - 522
+KW  - cerebral angiography
+KW  - embolectomy
+KW  - endovascular therapy
+KW  - infarction
+KW  - interventional thrombolysis
+KW  - ischemic stroke
+KW  - revascularization
+PY  - 2011
+AB  - The limitations of intravenous thrombolysis therapy have paved the way for the development of novel endovascular technologies for use in the setting of acute stroke. These technologies range from direct intraarterial thrombolysis to various thrombus disruption or retrieval devices to angioplasty and stenting. The tools in the armamentarium of the neuroendovascular interventionalist enable fast, effective revascularization to be offered to a wider population of patients that may otherwise have few therapeutic options available to them. In this paper, we review the current state-of-the-art in neuroendovascular intervention for acute ischemic stroke. Particular emphasis is placed on delineating the indications and outcomes for use of these various technologies.
+ER  - 
+
+TY  - JOUR
+AU  - Li, Ding
+AU  - Isherwood, Sarah
+AU  - Motz, Andrew
+AU  - Zang, Ru
+AU  - Yang, Shang-Tian
+AU  - Wang, Jufang
+AU  - Wang, Xiaoning
+TI  - Cell-based screening of traditional chinese medicines for proliferation enhancers of mouse embryonic stem cells
+JO  - Biotechnology Progress
+JA  - Biotechnol Progress
+VL  - 29
+IS  - 3
+SN  - 9783527345700
+UR  - https://doi.org/10.1002/btpr.1731
+DO  - doi:10.1002/btpr.1731
+SP  - 738
+EP  - 744
+KW  - Chinese herbal medicine
+KW  - cell-based screening
+KW  - stem cell growth promoter
+KW  - embryonic stem cell
+KW  - proliferation
+PY  - 2013
+AB  - A high-throughput cell-based method was developed for screening traditional Chinese herbal medicines (TCHMs) for potential stem cell growth promoters. Mouse embryonic stem (mES) cells expressing enhanced green fluorescent protein (EGFP) were cultured in growth media supplemented with various TCHM extracts. The dosage-dependent effects of TCHM extracts on cell growth, including proliferation and cytotoxicity, were assessed via EGFP fluorescence measurement. Seven TCHMs were investigated, and among them Panax notoginseng (PN), Rhizoma Atractylodis macrocephalae, Rhizoma chuanxiong, and Ganoderma lucidum spores (GLS) showed potential to improve mES cell proliferation. Eleven mixtures of these four TCHMs were then studied, and the results showed that the mixture of PN and GLS had the strongest growth promoting effect, increasing the specific growth rate of mES cells by 29.5% at a low dosage of 0.01% (wt/vol) PN/GLS (P?<?0.01) and 34.2% at 0.1% (wt/vol) PN/GLS (P?<?0.05) compared to the control. The growth promoting effect of PN/GLS was further confirmed with ES cells cultured in spinner flasks. A 29.3-fold increase in the total cell number was achieved in the medium supplemented with 0.01% PN/GLS after 5 days, while the control culture only gave a 16.8-fold increase. This cell-based screening method thus can provide an efficient and high-throughput way to explore potential stem cell growth promoters from TCHMs. ? 2013 American Institute of Chemical Engineers Biotechnol. Prog., 29:738?744, 2013
+ER  - 
+
+TY  - JOUR
+AU  - Wosczyna, Michael N
+AU  - Biswas, Arpita A
+AU  - Cogswell, Catherine A
+AU  - Goldhamer, David J
+TI  - Multipotent progenitors resident in the skeletal muscle interstitium exhibit robust BMP-dependent osteogenic activity and mediate heterotopic ossification
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 27
+IS  - 5
+SN  - 9783527345700
+UR  - https://doi.org/10.1002/jbmr.1562
+DO  - doi:10.1002/jbmr.1562
+SP  - 1004
+EP  - 1017
+KW  - HETEROTOPIC OSSIFICATION
+KW  - FIBRODYSPLASIA OSSIFICANS PROGRESSIVA
+KW  - FOP
+KW  - TISSUE-SPECIFIC STEM CELL
+KW  - SKELETAL MUSCLE
+KW  - CRE/LOXP
+KW  - TIE2
+KW  - OSTEOGENESIS
+KW  - ADIPOGENESIS
+KW  - CLONAL ANALYSIS
+PY  - 2012
+AB  - Abstract Heterotopic ossification is a debilitating condition that can result from traumatic injury, surgery, or genetic disease. We investigated the cellular origins of heterotopic skeletogenesis in the mouse using lineage tracing and bioassays of heterotopic ossification based on intramuscular transplantation. We identified, characterized, and purified a tissue-resident stem/progenitor cell population that exhibits robust osteogenic potential and represents a major cell-of-origin for heterotopic ossification. These progenitors reside in the interstitium of skeletal muscle and other tissues, and are distinct from the endothelium, which does not exhibit osteogenic activity in response to bone morphogenetic protein 2 (BMP2) stimulation. Intramuscular transplantation, together with clonal analysis in culture, revealed that these progenitors are multipotent, exhibiting the capacity for both BMP-dependent skeletogenic differentiation and spontaneous adipogenic differentiation. Identifying the cells-of-origin responsible for heterotopic ossification provides a potential therapeutic target to treat, mitigate, or prevent this disabling condition. ? 2012 American Society for Bone and Mineral Research.
+ER  - 
+
+TY  - JOUR
+AU  - Jiang, Chenyi
+AU  - Xia, Wenyang
+AU  - Wu, Tianyi
+AU  - Pan, Chenhao
+AU  - Shan, Haojie
+AU  - Wang, Feng
+AU  - Zhou, Zubin
+AU  - Yu, Xiaowei
+TI  - Inhibition of microRNA-222 up-regulates TIMP3 to promotes osteogenic differentiation of MSCs from fracture rats with type 2 diabetes mellitus
+JO  - Journal of Cellular and Molecular Medicine
+JA  - J Cell Mol Med
+VL  - 24
+IS  - 1
+SN  - 9783527345700
+UR  - https://doi.org/10.1111/jcmm.14777
+DO  - doi:10.1111/jcmm.14777
+SP  - 686
+EP  - 694
+KW  - fracture healing
+KW  - mesenchymal stem cells differentiation
+KW  - miR-222
+KW  - streptozotocin
+KW  - type 2 diabetes mellitus
+PY  - 2020
+AB  - Abstract Type 2 diabetes mellitus (T2DM) is the most common diabetes and has numerous complications. Recent studies demonstrated that T2DM compromises bone fracture healing in which miR-222 might be involved. Furthermore, tissue inhibitor of metalloproteinase 3 (TIMP-3) that is the target of miR-222 accelerates fracture healing. Therefore, we assume that miR-222 could inhibit TIMP-3 expression. Eight-week-old rats were operated femoral fracture or sham, following the injection of streptozotocin (STZ) to induce diabetes one week later in fractured rats, and then, new generated tissues were collected for measuring the expression of miR-222 and TIMP-3. Rat mesenchymal stem cells (MSCs) were isolated and treated with miR-222 mimic or inhibitor to analyse osteogenic differentiation. MiR-222 was increased in fractured rats and further induced in diabetic rats. In contrast, TIMP-3 was reduced in fractured and further down-regulated in diabetic rats. Luciferase report assay indicated miR-222 directly binds and mediated TIMP-3. Furthermore, osteogenic differentiation was suppressed by miR-222 mimic and promoted by miR-222 inhibitor. miR-222 is a key regulator that is promoted in STZ-induced diabetic rats, and it binds to TIMP3 to reduce TIMP-3 expression and suppressed MSCs? differentiation.
+ER  - 
+
+TY  - JOUR
+TI  - 2009 Society for Academic Emergency Medicine (SAEM) Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+VL  - 16
+IS  - s1
+SN  - 9783527345700
+UR  - https://doi.org/10.1111/j.1553-2712.2009.00391.x
+DO  - doi:10.1111/j.1553-2712.2009.00391.x
+SP  - S5
+EP  - S273
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+AU  - Mahdy, Z.
+AU  - Otun, H. A.
+AU  - Dunlop, W.
+AU  - Gillespie, J. I.
+TI  - The responsiveness of isolated human hand vein endothelial cells in normal pregnancy and in pre-eclampsia
+JO  - The Journal of Physiology
+VL  - 508
+IS  - 2
+SN  - 9783527345700
+UR  - https://doi.org/10.1111/j.1469-7793.1998.00609.x
+DO  - doi:10.1111/j.1469-7793.1998.00609.x
+SP  - 609
+EP  - 617
+PY  - 1998
+AB  - 1 Human hand vein endothelial cells were isolated from blood obtained by traumatic venepuncture. Cells were identified as endothelial by staining with endothelium-specific antibodies. The subject groups studied were (i) non-pregnant, (ii) pregnant (mean, 35 weeks gestation) and (iii) pre-eclamptic women (mean, 36 weeks gestation). 2 Fura-2 was used to measure agonist-induced responses in intracellular Ca2+ in single endothelial cells isolated and maintained in vitro. All of the cells examined responded to adenosine triphosphate (ATP) with a large transient increase in Ca2+ followed by a sustained plateau. 3 The responses to ATP were significantly larger in the cells from pregnant women than in those from non-pregnant and pre-eclamptic women, but no other differences were observed. The amplitudes of the responses to ATP were (means ± s.e.m.) 0.56 ± 0.04, 1.42 ± 0.24 and 0.65 ± 0.09 fura-2 ratio units for cells from non-pregnant, pregnant and pre-eclamptic subjects, respectively. 4 In cells isolated from non-pregnant subjects, the amplitude of the responses to carbachol, histamine and bradykinin were all smaller than those activated by ATP: 5.1, 13.9 and 4.4 %, respectively. Not all cells responded to these agonists: 25 % responded to carbachol, 70.5 % responded to histamine and 12.5 % responded to bradykinin. Sixty-five per cent of the cells from normotensive pregnant subjects responded to bradykinin compared with 25 % in the non-pregnant and 13.9 % in the pre-eclamptic subjects. 5 These data suggest that there may be differences in the responsiveness of venous endothelial cells in pregnancy and that pre-eclamptic cells behave differently.
+ER  - 

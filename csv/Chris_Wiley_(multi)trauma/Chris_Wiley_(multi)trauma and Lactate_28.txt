@@ -1,0 +1,417 @@
+
+TY  - JOUR
+AU  - Reuschlein, Ann-Kathrin
+AU  - Jakobsen, Emil
+AU  - Mertz, Christoffer
+AU  - Bak, Lasse K.
+TI  - Aspects of astrocytic cAMP signaling with an emphasis on the putative power of compartmentalized signals in health and disease
+JO  - Glia
+JA  - Glia
+VL  - 67
+IS  - 9
+SN  - 0894-1491
+UR  - https://doi.org/10.1002/glia.23622
+DO  - doi:10.1002/glia.23622
+SP  - 1625
+EP  - 1636
+KW  - adenylyl cyclase
+KW  - AKAP
+KW  - astrocyte
+KW  - biosensor
+KW  - Ca2+
+KW  - cAMP
+KW  - signaling
+PY  - 2019
+AB  - Abstract This review discusses aspects of known and putative compartmentalized 3?,5?-cyclic adenosine monophosphate (cAMP) signaling in astrocytes, a cell type that has turned out to be a key player in brain physiology and pathology. cAMP has attracted less attention than Ca2+ in recent years, but could turn out to rival Ca2+ in its potential to drive cellular functions and responses to intra? and extracellular cues. Further, Ca2+ and cAMP are known to engage in extensive crosstalk and cAMP signals often take place within subcellular compartments revolving around multi-protein signaling complexes; however, we know surprisingly little about this in astrocytes. Here, we review aspects of astrocytic cAMP signaling, provide arguments for an increased interest in this subject, suggest possible future research directions within the field, and discuss putative drug targets.
+ER  - 
+
+TY  - JOUR
+AU  - Li,             J.
+AU  - Ma, Q.
+AU  - Wu, J.
+AU  - Tang, Y.
+AU  - Spiegel, M.
+TI  - 088 The Effects of an Electric Magnetic Field Stimulation on Skin Keratinocyte Migration
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215cj.x
+DO  - doi:10.1111/j.1067-1927.2005.130215cj.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - For at least 30 years it has been well known that very small electric currents applied to various kinds of trauma have a beneficial therapeutic result for wounds. The most effective methods so far utilized some form of direct current, by inserting an electric lead on each side of the wound and passing a weak electric current across the wound. The drawback of this method is invasive. In this study, we evaluated the effects of a noninvasive electric magnetic field device, Field Therapy Accelerator or FTA (Advatech Corp.), on cell migration of human skin keratinocytes in an in vitro incitional wound model. Normal human epidermal keratinocytes were maintained in growth media and grow into confluent. At time 0, a cross-shaped wound gap or cell-free zone was made among confluent monolayer cells in the center of the culture dish. Cells were treated with FTA for 1 hour immediately after wounding and 1 hour every 24 hours for a total of 4 hours in 4 days. The cell cultures were examined at time 0 and every 24 hours thereafter. A Zeiss Axiovert 200 inverted microscope with a digital camera system was used to capture the images and an AxioVision 3.0 image analysis software was used to measure the gap area. Cell migration was quantified by the time and percentage of the wound gap covered by the cells that migrated in and filled the gap. The results showed that the FTA treatment significantly accelerates skin keratinocyte migration. The wound gaps completely filled 6 days after wounding, 3 days earlier than control (no treatment) group (P?<?0.001). Cell migration is a key step leading to the reepithelialization or the restoration of skin structure. This study showed the strong effects of FTA on keratinocyte migration, suggesting one of mechanisms that electric magnetic field works on wound healing.
+ER  - 
+
+TY  - JOUR
+AU  - Naylor, R. J.
+AU  - Dunkel, B.
+TI  - The treatment of diarrhoea in the adult horse
+JO  - Equine Veterinary Education
+VL  - 21
+IS  - 9
+SN  - 0957-7734
+UR  - https://doi.org/10.2746/095777309X468140
+DO  - doi:10.2746/095777309X468140
+SP  - 494
+EP  - 504
+KW  - horse
+KW  - diarrhoea
+KW  - equine
+KW  - endotoxaemia
+KW  - colitis
+KW  - systemic inflammation
+PY  - 2009
+AB  - Summary The priority in treating the equine patient with acute diarrhoea is to stabilise the haemodynamic aberrations secondary to the fluid and electrolyte losses. Once this has been initiated and the patient is stabilised ancillary treatments may be beneficial. Besides the well established effects of NSAIDs and polymixin B on systemic inflammation, recent studies suggest that the use of DTOS to bind bacterial toxins and Saccharomyces boulardii to reduce the severity and duration of diarrhoea may be beneficial. The justification for using probiotic products is scant. There is no evidence to suggest that systemic use of antimicrobials benefits equine patients with colitis, with the exception of metronidazole in cases of clostridial diarrhoea. In light of their potentially detrimental effects, their use can, in the opinion of the authors, not be advocated. Better understanding of the pathways of systemic inflammation and more selective anti-inflammatory drugs may be of great benefit in the future.
+ER  - 
+
+TY  - JOUR
+AU  - Wright, S.
+TI  - Highlights of recent clinically relevant papers
+JO  - Equine Veterinary Education
+JA  - Equine Veterinary Education
+VL  - 26
+IS  - 3
+SN  - 0957-7734
+UR  - https://doi.org/10.1111/eve.12158
+DO  - doi:10.1111/eve.12158
+SP  - 113
+EP  - 114
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+AU  - Whitehair, Karen J.
+AU  - Haskins, Steve C.
+AU  - Whitehair, Jon G.
+AU  - Pascoe, Peter J.
+TI  - Clinical Applications of Quantitative Acid-Base Chemistry
+JO  - Journal of Veterinary Internal Medicine
+VL  - 9
+IS  - 1
+SN  - 0891-6640
+UR  - https://doi.org/10.1111/j.1939-1676.1995.tb03265.x
+DO  - doi:10.1111/j.1939-1676.1995.tb03265.x
+SP  - 1
+EP  - 11
+PY  - 1995
+AB  - Stewart used physicochemical principles of aqueous solutions to develop an understanding of variables that control hydrogen ion concentration (H+) in body fluids. He proposed that H+ concentration in body fluids was determined by PCO2, strong ion difference (SID = sum of strong positive ion concentrations minus the sum of the strong anion concentrations) and the total concentration of nonvolatile weak acid (Atot) under normal circumstances. Albumin is the major weak acid in plasma and represents the majority of Atot. These 3 variables were defined as independent variables, which determined the values of all other relevant variables (dependent) in plasma, including H+. The major strong ions in plasma are sodium and chloride. The difference between Na+ and Cl- may be used as an estimation of SID. A decrease in SID below normal results in acidosis (increase in H+) and an increase in SID above normal results in alkalosis (decrease in H+). Unidentified strong anions such as lactate will decrease the SID, if present. Equations developed by Fencl allow Stewart's work to be easily applied clinically for evaluating the metabolic (nonrespiratory) contribution to acid-base balance. This approach separates the net metabolic abnormality into components, and allows one to easily detect mixed metabolic acid-base abnormalities. The Fencl approach provides insight into the nature and severity of the disturbances that exist in the patient. Sodium, chloride, protein, and unidentified anion derangements may contribute to the observed metabolic acid-base imbalance.
+ER  - 
+
+TY  - JOUR
+AU  - Mori, Kazuhisa
+AU  - Itoh, Yasushi
+AU  - Saito, Jota
+AU  - Takeyama, Yoshihiro
+AU  - Kurata, Yoshiaki
+AU  - Kaneko, Masamitsu
+AU  - Asai, Yasufumi
+AU  - Torigoe, Toshihiko
+AU  - Dickson, Eric W.
+TI  - Post-resuscitative Hypothermic Bypass Reduces Ischemic Brain Injury in Swine
+JO  - Academic Emergency Medicine
+VL  - 8
+IS  - 10
+SN  - 1069-6563
+UR  - https://doi.org/10.1111/j.1553-2712.2001.tb01089.x
+DO  - doi:10.1111/j.1553-2712.2001.tb01089.x
+SP  - 937
+EP  - 945
+KW  - hypothermia
+KW  - cardiopulmonary resuscitation
+KW  - bypass
+KW  - cerebral ischemia
+KW  - neuroprotection
+KW  - hippocampus
+PY  - 2001
+AB  - Abstract Objectives: Increasing human and laboratory evidence suggests thatpost-resuscitative brain hypothermia reduces the pathologic consequences of brain ischemia. Using a swine model of prolonged cardiac arrest, this investigation sought to determine whether unilateral hypothermic carotid bypass was capable of inducing selective brain hypothermia and reducing neurohistologic damage. Methods: Ventricular fibrillation was induced in common swine (n? 12). After 20 minutes of cardiopulmonary arrest (without ventilatory support or cardiopulmonary resuscitation), systemic extracorporeal bypass was instituted to restore coronary and cerebral perfusion, followed by restoration of normal sinus rhythm. Animals randomized to the normal brain temperature (NBT) cohort received mechanical ventilation and intravenous fluids for 24 hours. The selective brain hypothermia (SBH) cohort received 12 hours of femoral/carotid bypass at 32°C. The bypass temperature was then increased one degree per hour until reaching 37°C and continued at this temperature until completion of the protocol (24 hours). Histopathologic damage was evaluated in two areas of the hippocampus. Results: Normal sinus rhythm was restored in all animals after the systemic (femoral/femoral) bypass was initiated. Nasal temperature (surrogate measure of brain temperature) remained higher than 37.0°C throughout the 24-hour recovery period in the NBT animals. In the SBH cohort, right nasal temperature dropped to the mild hypothermic range (<34°C) two hours after institution of femoral/carotid bypass. This was maintained throughout the 12-hour cooling period without hemodynamic compromise. There was a significant improvement in the neurohistology scores in the CA1 region of the hippocampus of the SBH treated animals as compared with those of the NBT cohort. Conclusions: Post-resuscitative selective brain hypothermia reduced regional ischemic brain damage in swine with prolonged ventricular fibrillation.
+ER  - 
+
+AU  - B. Chambers, John
+AU  - Sprigings, David
+C7  - pp. 311-316
+TI  - Acute heart failure and decompensated chronic heart failure
+SN  - 9781118644287
+UR  - https://doi.org/10.1002/9781119389613.ch48
+DO  - doi:10.1002/9781119389613.ch48
+SP  - 311-316
+KW  - acute heart failure
+KW  - acute medicine
+KW  - decompensated chronic heart failure
+KW  - myocardial disease
+KW  - pericardial disease
+KW  - plasma B-type natriuretic peptide
+KW  - transthoracic echocardiography
+PY  - 2001
+AB  - Summary This chapter summarizes priorities and management of the patient with heart failure (HF) or decompensated chronic HF. Patients with suspected acute HF should have measurement of plasma B-type natriuretic peptide (BNP) or N-terminal pro-BNP (NT-pro-BNP) at presentation. The finding of a normal level of plasma BNP or NT-pro-BNP effectively excludes HF. If the clinical/ECG features or natriuretic peptide level indicate acute HF or decompensated chronic HF, transthoracic echocardiography should be done within 48 hours of admission. HF may be caused by myocardial, valvular or pericardial disease, or metabolic disorders. Clinical assessment, ECG and echocardiography will usually identify the likely diagnosis. Further investigation (e.g. coronary angiography or cardiac magnetic resonance imaging) may be needed for definitive diagnosis. HF due to left ventricular (LV) dysfunction is categorized by the LV ejection fraction (EF) as HF with preserved EF, HF with reduced EF, and HF with mid-range EF.
+ER  - 
+
+AU  - Protti, Alessandro
+AU  - Singer, Mervyn
+C7  - pp. 7-20
+TI  - Strategies to Modulate Cellular Energetic Metabolism during Sepsis
+SN  - 9780470027981
+UR  - https://doi.org/10.1002/9780470059593.ch2
+DO  - doi:10.1002/9780470059593.ch2
+SP  - 7-20
+KW  - sepsis
+KW  - multi-organ failure
+KW  - mitochondrial dysfunction
+KW  - oxygen consumption
+KW  - nitric oxide
+KW  - hibernation
+KW  - mitochondrial biogenesis
+PY  - 2001
+AB  - Summary Growing evidence suggests that mitochondrial inhibition plays a major role in the development of multiple organ failure during sepsis. Early correction of tissue hypoxia, strict control of glycaemia and modulation of oxidative and nitrosative stress may protect mitochondria during the acute inflammatory response. Once mitochondrial dysfunction has developed, the regulated induction of a hypometabolic state, analogous to hibernation, may protect the cells from severe bioenergetic failure and a critical fall in ATP. Though this is clinically manifest as organ dysfunction, it may actually represent an adaptive response to a prolonged, severe inflammatory stress. Repair of damaged organelles, stimulation of mitochondrial biogenesis and re-activation of cellular metabolism may accelerate the recovery phase and thus improve clinical outcomes. The aim of this review is to discuss putative interventions aimed at preventing or reversing mitochondrial dysfunction that may have possible clinical relevance, and to stress the importance of the correct timing of intervention.
+ER  - 
+
+C7  - pp. 71-77
+TI  - Infections, sepsis and infectious diseases
+SN  - 9781119035855
+UR  - https://doi.org/10.1002/9781119464365.ch6
+DO  - doi:10.1002/9781119464365.ch6
+SP  - 71-77
+KW  - emergency care setting
+KW  - infectious diseases
+KW  - malaria
+KW  - sepsis
+KW  - septic arthritis
+KW  - symptomatic bacterial infection
+KW  - unscheduled care setting
+PY  - 2001
+AB  - Summary This chapter outlines the fundamental skills and knowledge necessary to work in the emergency and unscheduled care setting for treating infectious diseases, and sepsis. It then highlights key history/assessment knowledge, identifying red-flags, and defining and assisting with making a diagnosis. The chapter also explores these ailments, with core information on definition, aetiology, epidemiology, history, examination, investigations and management. Malaria is one of the most common causes of fever and illnesses in the tropics. History of malaria includes foreign travel to endemic area, fever, and flu-like symptoms. Sepsis causes a number of abnormal physiological processes. ABCDE assessment and interventions are preferred for sepsis treatment. Septic arthritis can be seen at any age, including in babies and infants, although it is less common in older children, teenagers and young adults. Typhoid fever is a symptomatic bacterial infection that can spread throughout the body. IV antibiotics are considered for this kind of infections.
+ER  - 
+
+AU  - Chow, Rosalind S.
+AU  - Dilley, Pamela
+C7  - pp. 145-158
+TI  - Central Venous Pressure Monitoring
+SN  - 9780813813370
+UR  - https://doi.org/10.1002/9781118997246.ch11
+DO  - doi:10.1002/9781118997246.ch11
+SP  - 145-158
+KW  - central venous pressure (CVP)
+KW  - continuous measurement
+KW  - heart function
+KW  - intermittent measurement
+KW  - small animal
+KW  - small vascular catheters
+PY  - 2001
+AB  - Summary Central venous pressure (CVP) is determined by the interrelationship between venous return and right heart function. Monitoring CVP can help to guide fluid therapy in animals with abnormalities in circulating blood volume or abnormal right heart function. Specific indications for CVP measurement include the presence of persistent hypotension despite fluid resuscitation, vasopressor therapy, extensive third space losses, oliguria or anuria, hemorrhage, trauma, sepsis, burns, and heart failure. CVP is measured from a specialized catheter that is inserted into the external jugular vein and advanced into the cranial vena cava or the right atrium. Either single-lumen or multilumen vascular catheters can be used and should be of sufficient length to reach the thoracic vena cava from the point of insertion. The two methods of obtaining the CVP are intermittent measurement and continuous measurement. In both methods, the catheter is connected via a fluid-filled tubing system to a pressure-measuring device displaying CVP.
+ER  - 
+
+AU  - Fernandes-Platzgummer, Ana
+AU  - Badenes, Sara M.
+AU  - da Silva, Cláudia L.
+AU  - Cabral, Joaquim M. S.
+C7  - pp. 131-173
+TI  - Bioreactors for Stem Cell and Mammalian Cell Cultivation
+SN  - 9781118361986
+UR  - https://doi.org/10.1002/9781119378341.ch4
+DO  - doi:10.1002/9781119378341.ch4
+SP  - 131-173
+KW  - anchorage-dependent cells
+KW  - cell culture bioreactors
+KW  - cell metabolism
+KW  - mammalian cells
+KW  - mouse embryonic stem cell culture
+KW  - static culture systems
+KW  - suspension cells
+PY  - 2001
+AB  - Summary In the mid-1950s, the need of mass cultivation techniques for vaccine production led to the development of large-scale cell culture bioreactors. The rapid growth in biopharmaceutical industry, with a surge of protein, antibody, and peptide drugs expected in the next 10-20 years, has been led by various products produced by mammalian cells. Mammalian cells can be grown as suspension cells or as anchorage-dependent cells. A deep understanding of cell metabolism is crucial for designing feeding strategies to improve productivity and decrease culture costs. The metabolic pathways of glutamine and glucose have been reported to be quite similar to all mammalian cells including stem cells. Static culture systems such as multi well-plates, T-flasks, or tissue culture Petri dishes are the most widely used options for expanding mammalian cells. Two case studies focusing mammalian cell culture for antibody production and mouse embryonic stem cell culture, in bioreactors systems, are presented.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts presented at the Association of Veterinary Anaesthetists Spring meeting, Bari, Italy, 13–16 April 2011
+JO  - Veterinary Anaesthesia and Analgesia
+VL  - 38
+IS  - 6
+SN  - 9781118361986
+UR  - https://doi.org/10.1111/j.1467-2995.2011.00647a.x
+DO  - doi:10.1111/j.1467-2995.2011.00647a.x
+SP  - 1
+EP  - 35
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+AU  - Arensburg, L.
+AU  - Olivier, S.
+AU  - Boussauw, B.
+AU  - De Cock, H.
+TI  - An abdominal teratoma in a yearling Irish Cob with a strangulating obstruction of the small intestine
+JO  - Equine Veterinary Education
+VL  - 24
+IS  - 9
+SN  - 9781118361986
+UR  - https://doi.org/10.1111/j.2042-3292.2011.00300.x
+DO  - doi:10.1111/j.2042-3292.2011.00300.x
+SP  - 433
+EP  - 436
+KW  - horse
+KW  - mature teratoma
+KW  - germ cell tumour
+KW  - mesenteric root
+KW  - colic
+PY  - 2012
+AB  - Summary A yearling Irish Cob stallion was presented to De Morette Equine clinic for severe acute abdominal pain, nonresponsive to analgesics and sedatives. Rectal palpation and a limited transabdominal ultrasonographic examination led to the presumptive diagnosis of a strangulated obstruction of the small intestine. The painful behaviour of the pony did not allow conservative treatment and surgical exploration was denied by the owners for financial considerations. On necropsy, a large cystic mature teratoma was adhered to the ventral body wall, the mesenteric root, omentum and intestines. Teratomas are rare in man and animals, and an extragonadal intraperitoneal location has not previously been reported in the equine species.
+ER  - 
+
+TY  - JOUR
+AU  - Koenraadt, A.
+AU  - Stegen, L.
+AU  - Bosmans, T.
+AU  - Van Goethem, B.
+TI  - Laparoscopic treatment of persistent inguinal haemorrhage after prescrotal orchiectomy in a dog
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 55
+IS  - 8
+SN  - 9781118361986
+UR  - https://doi.org/10.1111/jsap.12220
+DO  - doi:10.1111/jsap.12220
+SP  - 427
+EP  - 430
+PY  - 2014
+AB  - A one-year-old male Jack Russell terrier developed a prescrotal haematoma after elective orchiectomy. When surgical exploration failed to locate the responsible vessel and conservative therapy (applying a pressure bandage) was not successful in stabilising the dog, abdominal laparoscopy was performed. The haemorrhage originated from the spermatic cord in the inguinal canal bilaterally. After retracting the spermatic cord into the abdomen, haemostasis was performed using a vessel-sealing device. The prescrotal haematoma was removed and the dog made an uncomplicated recovery.
+ER  - 
+
+C7  - pp. 431-451
+TI  - General Pathophysiology of Neuroglia
+SN  - 9780470978528
+UR  - https://doi.org/10.1002/9781118402061.ch9
+DO  - doi:10.1002/9781118402061.ch9
+SP  - 431-451
+KW  - microglia
+KW  - neuroglia
+KW  - neurological disorders
+KW  - oligodendrocytes
+KW  - reactive astrogliosis
+KW  - Wallerian degeneration
+PY  - 2014
+AB  - Summary All diseases, including neurological diseases, can be broadly defined as homeostatic failures. Neuroglial cells are a major component of pathogenesis of neurological diseases. The function of neuroglia is neuroprotection. In neurological diseases, glia attempt to maintain tissue and cellular homeostasis. Reactive astrogliosis can be defined as a constitutive, graded, multi-stage and evolutionary conserved defensive astroglial reaction. It can be classified according to (a) morphological appearances, and (b) severity. This chapter focuses on Wallerian degeneration which is currently used to describe axonal degeneration in both CNS and PNS. Wallerian degeneration is a specialised active process that involves activation of localised signals in both axons and surrounding glial cells. The chapter dicusses excitotoxic vulnerability of oligodendrocytes. The main function of microglia is to detect insults to the CNS and to mount a defensive response, the activation of microglia. The activated microglia can change the repertoire and levels of expression of numerous receptors.
+ER  - 
+
+TY  - JOUR
+AU  - Gibbons, T. D.
+AU  - Tymko, M. M.
+AU  - Thomas, K. N.
+AU  - Wilson, L. C.
+AU  - Stembridge, M.
+AU  - Caldwell, H. G.
+AU  - Howe, C. A.
+AU  - Hoiland, R. L.
+AU  - Akerman, A. P.
+AU  - Dawkins, T. G.
+AU  - Patrician, A.
+AU  - Coombs, G. B.
+AU  - Gasho, C.
+AU  - Stacey, B. S.
+AU  - Ainslie, P. N.
+AU  - Cotter, J. D.
+TI  - Global REACH 2018: The influence of acute and chronic hypoxia on cerebral haemodynamics and related functional outcomes during cold and heat stress
+JO  - The Journal of Physiology
+JA  - J Physiol
+VL  - 598
+IS  - 2
+SN  - 9780470978528
+UR  - https://doi.org/10.1113/JP278917
+DO  - doi:10.1113/JP278917
+SP  - 265
+EP  - 284
+KW  - cerebral blood flow
+KW  - combined stressors
+KW  - cold stress
+KW  - cerebral oxygen delivery
+KW  - heat stress
+KW  - hypoxia
+PY  - 2020
+AB  - Key points Thermal and hypoxic stress commonly coexist in environmental, occupational and clinical settings, yet how the brain tolerates these multi-stressor environments is unknown Core cooling by 1.0°C reduced cerebral blood flow (CBF) by 20?30% and cerebral oxygen delivery (CDO2) by 12?19% at sea level and high altitude, whereas core heating by 1.5°C did not reliably reduce CBF or CDO2 Oxygen content in arterial blood was fully restored with acclimatisation to 4330 m, but concurrent cold stress reduced CBF and CDO2 Gross indices of cognition were not impaired by any combination of thermal and hypoxic stress despite large reductions in CDO2 Chronic hypoxia renders the brain susceptible to large reductions in oxygen delivery with concurrent cold stress, which might make monitoring core temperature more important in this context Abstract Real-world settings are composed of multiple environmental stressors, yet the majority of research in environmental physiology investigates these stressors in isolation. The brain is central in both behavioural and physiological responses to threatening stimuli and, given its tight metabolic and haemodynamic requirements, is particularly susceptible to environmental stress. We measured cerebral blood flow (CBF, duplex ultrasound), cerebral oxygen delivery (CDO2), oesophageal temperature, and arterial blood gases during exposure to three commonly experienced environmental stressors ? heat, cold and hypoxia ? in isolation, and in combination. Twelve healthy male subjects (27 ± 11 years) underwent core cooling by 1.0°C and core heating by 1.5°C in randomised order at sea level; acute hypoxia ( = 50 mm Hg) was imposed at baseline and at each thermal extreme. Core cooling and heating protocols were repeated after 16 ± 4 days residing at 4330 m to investigate any interactions with high altitude acclimatisation. Cold stress decreased CBF by 20?30% and CDO2 by 12?19% (both P < 0.01) irrespective of altitude, whereas heating did not reliably change either CBF or CDO2 (both P > 0.08). The increases in CBF with acute hypoxia during thermal stress were appropriate to maintain CDO2 at normothermic, normoxic values. Reaction time was faster and slower by 6?9% with heating and cooling, respectively (both P < 0.01), but central (brain) processes were not impaired by any combination of environmental stressors. These findings highlight the powerful influence of core cooling in reducing CDO2. Despite these large reductions in CDO2 with cold stress, gross indices of cognition remained stable.
+ER  - 
+
+TY  - JOUR
+AU  - Sussman, Norman L.
+AU  - Chong, Maria G.
+AU  - Koussayer, Tarek
+AU  - He, Da-Er
+AU  - Shang, Thomas A.
+AU  - Whisennand, Hartwell H.
+AU  - Kelly, James H.
+TI  - Reversal of fulminant hepatic failure using an extracorporeal liver assist device
+JO  - Hepatology
+JA  - Hepatology
+VL  - 16
+IS  - 1
+SN  - 9780470978528
+UR  - https://doi.org/10.1002/hep.1840160112
+DO  - doi:10.1002/hep.1840160112
+SP  - 60
+EP  - 65
+PY  - 1992
+AB  - Abstract Liver transplantation is currently the only effective therapy for patients with fulminant hepatic failure. The availability of an artificial liver could bridge these patients through the relatively brief crisis period and allow their own livers to regenerate, providing a more favorable outcome and sparing the trauma and expense of transplant. We have developed a device consisting of a highly differentiated human liver cell line cultured in a hollow fiber cartridge. This device is capable of supporting dogs with acetaminopheninduced fulminant hepatic failure for a period long enough for their own livers to resume function. Even though liver function tests such as albumin and prothrombin time became extremely abnormal during the course of the experiment, the dogs did not become encephalopathic. Two of the three treated animals recovered sufficient liver function after 42 to 48 hr of treatment that they could be disconnected from the device, and they survived the experiment. Histological results and serum ALT levels suggest that the device affected the course of the disease in two animals, allowing recovery of hepatocytes that would otherwise have lysed. In the third animal, regenerative nodules demonstrated that, even in the presence of severe liver injury, the device was capable of supporting total liver function. (HEPATOLOGY 1992;16:60?65.)
+ER  - 
+
+AU  - Jacobsen, Stine
+C7  - pp. 75-103
+TI  - Topical Wound Treatments and Wound-Care Products
+SN  - 9781118999257
+UR  - https://doi.org/10.1002/9781118999219.ch5
+DO  - doi:10.1002/9781118999219.ch5
+SP  - 75-103
+KW  - topical wound-care products
+KW  - antiseptics
+KW  - herbal wound-care products
+KW  - wound-debridement agents
+KW  - corticosteroids
+KW  - aerosol sprays
+PY  - 1992
+AB  - Summary Topical treatments have been used in wound care for centuries. Many of the treatments, however, have not ? or only to a very limited degree ? undergone scientific scrutiny. This is especially true for many of the products that are available over the counter. Determining the contents of many of these products can be difficult, and as a rule of thumb, products without a list of ingredients should not be used on wounds. In contrast, effects of wound cleansers and solutions used for irrigation have been investigated in several studies. Although cleansers and antiseptics had, for some years, fallen out of favor due to their detrimental effects on cells cultured in vitro, current best evidence suggests that they may be of benefit if used judiciously. The negative impact on cell cultures has, in many studies, not been replicated when the products were used in vivo. Use of antiseptics on heavily contaminated or infected wounds seems to enhance healing through a reduction of the wound's bioburden.
+ER  - 
+
+TY  - JOUR
+AU  - Versleijen, Michelle W.
+AU  - Roelofs, Hennie M.
+AU  - Rombouts, Charlotte
+AU  - Hermans, Peter W.
+AU  - Noakes, Paul S.
+AU  - Calder, Philip C.
+AU  - Wanten, Geert J.
+TI  - Short-term infusion of a fish oil-based lipid emulsion modulates fatty acid status, but not immune function or (anti)oxidant balance: a randomized cross-over study
+JO  - European Journal of Clinical Investigation
+VL  - 42
+IS  - 3
+SN  - 9781118999257
+UR  - https://doi.org/10.1111/j.1365-2362.2011.02582.x
+DO  - doi:10.1111/j.1365-2362.2011.02582.x
+SP  - 290
+EP  - 302
+KW  - Fish oil
+KW  - human
+KW  - immune modulation
+KW  - lipid incorporation
+KW  - parenteral lipid
+PY  - 2012
+AB  - Eur J Clin Invest 2012; 42 (3): 290?302 Abstract Background and aims? Studies suggest clinical benefits of parenteral fish oil (FO), rich in n-3 polyunsaturated fatty acids (PUFAs), over soyabean oil (SO), rich in n-6 PUFAs, in patients with pro-inflammatory conditions such as sepsis and trauma. Because the mechanisms behind these observations remain unclear, the present study explored the effects of intravenous infusion of FO and SO on fatty acid incorporation, immune functions and (anti)oxidant balance in healthy human volunteers. Methods? Saline, a SO emulsion and a FO emulsion were administered for one hour on three consecutive days at a rate of 0·2?g/kg?BW/h to eight subjects in a randomized cross-over design with a 3-week interval between treatments. Plasma phospholipid and peripheral blood mononuclear cell (PBMC) fatty acid compositions, and leucocyte counts and functions were assessed prior to the first infusion (T?=?0, baseline) and 1?day (T?=?4, early effects) and 8?days (T?=?11, late effects) after the third infusion. Results? Fish oil infusion significantly increased n-3 PUFA proportions and decreased n-6 PUFA proportions in plasma phospholipids and PBMCs. There were no differences in immune functions or (anti)oxidant balance between treatments at any time. Conclusions? The present lipid infusion protocol appears to be safe and well tolerated and provides significant incorporation of n-3 PUFAs into plasma phospholipids and PBMCs. In the absence of overt inflammation, no direct effects of FO were observed on immune function or (anti)oxidant balance. This model may be useful to evaluate effects of parenteral lipids in other settings, for example in individuals displaying an inflammatory state.
+ER  - 
+
+AU  - Perumpail, Ryan B.
+AU  - Friedland, Shai
+C7  - pp. 239-241
+TI  - Ischemic bowel
+SN  - 9781118638422
+UR  - https://doi.org/10.1002/9781118662915.ch33
+DO  - doi:10.1002/9781118662915.ch33
+SP  - 239-241
+KW  - ischemic bowel
+KW  - acute mesenteric ischemia
+KW  - chronic mesenteric ischemia
+KW  - ischemic colitis
+KW  - CT angiography
+KW  - revascularization
+KW  - duplex ultrasound
+KW  - gastrointestinal tonometry
+KW  - endoscopic oximetry
+PY  - 2012
+AB  - Summary Intestinal ischemia occurs when perfusion to the bowel is inadequate to meet metabolic demands. In acute mesenteric ischemia, all or part of the small bowel is affected. Acute mesenteric ischemia is a clinical emergency with a mortality rate of over 60%; a high index of suspicion is required for early detection before bowel necrosis occurs. In contrast, the more common syndrome of ischemic colitis often has a milder clinical course characterized by transient bloody diarrhea and mild lower abdominal pain. Chronic mesenteric ischemia, also called intestinal angina, is relatively rare and is characterized by abdominal pain following meals and weight loss. It can develop into an emergency if bowel viability is compromised by further deterioration in the blood supply. Multidetector CT angiography is now commonly performed as the initial non-invasive test for acute and chronic mesenteric ischemia. Colonoscopy is often performed to diagnose ischemic colitis.
+ER  - 

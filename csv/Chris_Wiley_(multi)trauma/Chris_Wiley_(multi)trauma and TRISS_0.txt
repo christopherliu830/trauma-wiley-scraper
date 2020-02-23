@@ -1,0 +1,410 @@
+
+TY  - JOUR
+AU  - Bar-Or, David
+AU  - Salottolo, Kristin M.
+AU  - Orlando, Alessandro
+AU  - Mains, Charles W.
+AU  - Bourg, Pamela
+AU  - Offner, Patrick J.
+TI  - Association Between a Geriatric Trauma Resuscitation Protocol Using Venous Lactate Measurements and Early Trauma Surgeon Involvement and Mortality Risk
+JO  - Journal of the American Geriatrics Society
+JA  - J Am Geriatr Soc
+VL  - 61
+IS  - 8
+SN  - 0002-8614
+UR  - https://doi.org/10.1111/jgs.12365
+DO  - doi:10.1111/jgs.12365
+SP  - 1358
+EP  - 1364
+KW  - geriatric
+KW  - trauma
+KW  - lactate
+KW  - occult hypoperfusion
+KW  - mortality
+PY  - 2013
+AB  - Objectives To investigate whether implementing a geriatric resuscitation protocol that uses lactate-guided therapy with early trauma surgeon involvement is associated with lower mortality through the early recognition of occult hypoperfusion (OH). Design Prospective cohort study. Setting Level I trauma center. Participants All hemodynamically stable individuals with blunt trauma aged 65 and older admitted to the Level I trauma center from October 1, 2008, through December 31, 2011 (n = 1,998). Measurements Mortality over time (according to quarter) was analyzed using an adjusted logarithmic regression model stratified according to the presence of OH. OH was defined as lactate of 2.5 mM or greater. Results Overall mortality was 3.9% (n = 78). Admission venous lactate was collected in 73.5% of participants, of whom 20.5% had OH (n = 301). In participants with OH, a significant decrease in mortality was observed over time (adjusted coefficient of determination (R2) = 0.66, P = .002). A smaller yet significant decrease in mortality rates in participants with normal perfusion status was also observed (adjusted R2 = 0.55, P = .01). Conclusion Early identification and treatment of OH in elderly adults with trauma using venous lactate-guided therapy coupled with early trauma surgeon involvement was associated with significantly lower mortality. A protocol that uses lactate-guided therapy with early trauma surgeon involvement should be followed to improve the care of elderly adults with trauma.
+ER  - 
+
+TY  - JOUR
+AU  - THORPE, A P
+TI  - Trauma scoring
+JO  - Emergency Medicine
+VL  - 4
+IS  - 1
+SN  - 1035-6851
+UR  - https://doi.org/10.1111/j.1442-2026.1992.tb00303.x
+DO  - doi:10.1111/j.1442-2026.1992.tb00303.x
+SP  - 13
+EP  - 17
+PY  - 1992
+AB  - ABSTRACT Since their inception, trauma scoring systems have developed to become a valuable aid in the management of traumatised patients, and in trauma audit and research. This article reviews the accepted trauma scoring methods and the attributes and weaknesses of each. Scoring systems may be useful at an individual patient, departmental and national level, with the TRISS methodology being particularly useful in national audit. The fundamental drawbacks affecting all systems are discussed along with the advances anticipated in the next few years.
+ER  - 
+
+TY  - JOUR
+AU  - Ng, Cedric L. H.
+AU  - Kim, Jason
+AU  - Dobson, Ben
+AU  - Campbell, Don
+AU  - Wullschleger, Martin
+TI  - Time to computed tomography: does this affect trauma patient outcomes? A retrospective analysis at an Australian major trauma centre
+JO  - ANZ Journal of Surgery
+JA  - ANZ Journal of Surgery
+VL  - 89
+IS  - 11
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/ans.15470
+DO  - doi:10.1111/ans.15470
+SP  - 1475
+EP  - 1479
+KW  - computed tomography
+KW  - imaging
+KW  - time
+KW  - trauma
+PY  - 2019
+AB  - Background Computed tomography (CT) is an essential diagnostic tool for severe multi-trauma patients. International guidelines recommend an optimal time of 1?h from arrival. The aim of this study was to determine the time interval from arrival at the emergency department to CT for all trauma patients and the effects on in-hospital mortality and hospital length of stay. Methods Retrospective study of all patients who triggered a trauma call and underwent CT scanning at the Gold Coast University Hospital from January 2016 to December 2017. Exclusion criteria were scans performed at peripheral hospitals or performed more than 5?h after arrival to emergency department. Results One thousand six hundred and nineteen eligible trauma patients were admitted over the study period and underwent CT scanning. Median time to CT was found to be 43?min. CTs done within 1?h compared to those done after 1?h from emergency department arrival were found to have a higher mean injury severity score (11 ±?10 versus 9 ±?9, P =?0.003), a longer mean hospital length of stay (9 ±?21 versus 7 ±?13?days, P =?0.012) and no difference in mortality rates (2.2% versus 2.1%, P =?1.000). Age, injury severity score and intubation status were identified as independent predictors for longer hospital length of stay and higher mortality while time to CT did not. Injury severity score was shown to be an independent predictor of time to CT. Conclusion Our time to CT scanning is well within the timeframe recommended by international guidelines. Early CT scanning may also improve outcomes in severely injured trauma patients.
+ER  - 
+
+TY  - JOUR
+AU  - Krishna, G.
+AU  - Sleigh, J. W.
+AU  - Rahman, H.
+TI  - PHYSIOLOGICAL PREDICTORS OF DEATH IN EXSANGUINATING TRAUMA PATIENTS UNDERGOING CONVENTIONAL TRAUMA SURGERY
+JO  - Australian and New Zealand Journal of Surgery
+VL  - 68
+IS  - 12
+SN  - 0004-8682
+UR  - https://doi.org/10.1111/j.1445-2197.1998.tb04696.x
+DO  - doi:10.1111/j.1445-2197.1998.tb04696.x
+SP  - 826
+EP  - 829
+KW  - damage-control surgery
+KW  - Injury Severity Score
+KW  - prediction
+KW  - reparative surgery
+KW  - trauma.
+PY  - 1998
+AB  - Background: Severe truncal multi trauma patients often develop coagulopathy, acidosis and hypothermia that makes major reparative trauma surgery dangerous. It was aimed to try to develop physiological indicators that would predict a poor outcome when conventional reparative surgery was applied. These indicators may help in the decision to switch from conventional reparative surgery to surgery limited to the control of major haemorrhage or organ disruption: so-called ?damage-control? surgery. Method: A retrospective review was conducted of 40 patients with severe multivisceral trauma (Injury Severity Score (ISS) > 35) who were admitted to the intensive care unit at Waikato Hospital and who underwent conventional reparative surgery. Results: Survival was strongly associated with base deficit (BD), core temperature and ISS. Using multiple logistic regression on these indices, outcome could be predicted with 92.5% accuracy (sensitivity = 93%, specificity = 92%, positive predictive value for death = 96%). Either severe hypothermia (< 33°C) or severe acidosis (BD > 12 mEq/L), or a combination of moderate core temperature < 35.5°C, and a BD of > 5 mEq/L were strong predictors of death if conventional reparative surgery was practised. Conclusions: At the abovementioned levels of physiological compromise, patient survival after conventional trauma surgery can be predicted to be very unlikely. Damage-control measures would be worth attempting.
+ER  - 
+
+TY  - JOUR
+AU  - Vogt, K. N.
+AU  - Van Koughnett, J. A.
+AU  - Dubois, L.
+AU  - Gray, D. K.
+AU  - Parry, N. G.
+TI  - The use of trauma transfusion pathways for blood component transfusion in the civilian population: a systematic review and meta-analysis*
+JO  - Transfusion Medicine
+VL  - 22
+IS  - 3
+SN  - 0958-7578
+UR  - https://doi.org/10.1111/j.1365-3148.2012.01150.x
+DO  - doi:10.1111/j.1365-3148.2012.01150.x
+SP  - 156
+EP  - 166
+KW  - civilian trauma
+KW  - haemorrhage
+KW  - massive transfusion
+KW  - meta-analysis
+KW  - trauma systems
+PY  - 2012
+AB  - This study was undertaken to determine if, amongst civilian trauma patients requiring massive transfusion (MT), the use of a formal trauma transfusion pathway (TTP), in comparison with transfusion without a TTP, is associated with a reduction in mortality, or changes in indices of coagulation, blood product utilisation and complications. A systematic review of three bibliographic databases, reference lists and conference proceedings was conducted. Studies were included if comparisons were made between patients receiving transfusion with and without a TTP. Data were extracted by two independent reviewers on population characteristics, transfusion strategies, blood product utilisation, indices of coagulation, clinical outcomes and complications. Data were pooled using a random effects model and heterogeneity explored. Seven observational studies met all eligibility criteria. Amongst 1801 patients requiring MT, TTPs were associated with a significant reduction in mortality (RR 0·69, 95% CI 0·55, 0·87). No significant increase in the mean number of PRBC transfused between TTP and control patients was seen (MD ?1·17 95% CI ?2·70, 0·36). When studies assessing only trauma patients were considered, TTPs were associated with a reduction in the mean number of units of plasma transfused (MD ?2·63, 95% CI ?4·24, ?1·01). In summary, the use of TTPs appears to be associated with a reduction in mortality amongst trauma patients requiring MT without a clinically significant increase in the number of PRBC transfused and a potential reduction in plasma transfusion. Effects of TTPs on platelet transfusion, indices of coagulation and complications remain unclear. A randomised controlled trial is warranted.
+ER  - 
+
+TY  - JOUR
+AU  - Mendelsohn, Abie H.
+AU  - Sidell, Douglas R.
+AU  - Berke, Gerald S.
+AU  - John, Maie St.
+TI  - Optimal timing of surgical intervention following adult laryngeal trauma
+JO  - The Laryngoscope
+JA  - The Laryngoscope
+VL  - 121
+IS  - 10
+SN  - 0023-852X
+UR  - https://doi.org/10.1002/lary.22163
+DO  - doi:10.1002/lary.22163
+SP  - 2122
+EP  - 2127
+KW  - Adult laryngeal trauma
+KW  - surgical intervention
+KW  - Level of Evidence: 2c
+PY  - 2011
+AB  - Abstract Objective: Laryngeal trauma is an infrequent diagnosis with a scarcity of published data. We aim to further define the factors associated with positive surgical outcomes of adult laryngeal trauma. Study Design: Multi-institution database analysis. Methods: Of the 1.9 million trauma cases from the National Trauma Database (NTDB), 564 adult trauma events were selected with ICD-9 codes specific to laryngeal trauma. Results: Laryngeal trauma was seen predominately in white (61.5%), middle-aged (40.6 years), male (83.7%) patients experiencing blunt (70.7%) laryngeal injury with multiorgan system (92.2%) trauma. There was an overall 17.9% mortality rate. Within the 564 cases, 133 direct laryngoscopies, 185 tracheostomies, 53 laryngeal suturing, and 60 laryngeal fracture repairs were performed. In univariate negative binomial regression models, trauma severity (P ≤ .01), placement of tracheostomy (P lt; .01), and delayed tracheostomy placement (P = .04, .03, .048) were associated with increased ventilator dependence, intensive care unit (ICU) stay, and overall hospital admission duration. Multivariate regression models demonstrated significant associations between tracheostomy performed within 24 hours and shortened ICU stay (P = .03, ? = ?.28, SE = 1.7) and overall hospital stay (P = .009, ? = ?.23, SE = 3.1). Conclusions: The NTDB allows study of the largest laryngeal trauma cohort in modern literature. Although complexities arise in the treatment of laryngeal traumas, when indicated, surgical airway should be placed within 24 hours of presentation to improve the overall hospital course.
+ER  - 
+
+TY  - JOUR
+AU  - Meyer, M. A. S.
+AU  - Johansson, P. I.
+TI  - Fibrinogen concentrates in bleeding trauma patients
+JO  - ISBT Science Series
+VL  - 7
+IS  - 1
+SN  - 1751-2816
+UR  - https://doi.org/10.1111/j.1751-2824.2012.01569.x
+DO  - doi:10.1111/j.1751-2824.2012.01569.x
+SP  - 177
+EP  - 182
+KW  - bleeding
+KW  - fibrinogen concentrate
+KW  - transfusion
+KW  - trauma
+PY  - 2012
+AB  - Background? A balanced transfusion of red blood cells, fresh frozen plasma (FFP) and platelets are recommended for massively bleeding trauma patients. Fibrinogen concentrates could potentially lessen or replace the need for FFP and/or platelet transfusions. Aim? To provide a review of the literature covering the application of fibrinogen concentrates in trauma care. Methods? PubMed and Cochrane database search: fibrinogen and (concentrate or trauma), not congenital, published between 2000 and 2012. Results? Six papers were identified. None were randomized controlled trials. The main conclusion of these papers was that administration of fibrinogen sometimes together with prothrombin complex concentrate might improve haemostasis in trauma patients resuscitated with synthetic colloids. Data regarding the effect of fibrinogen concentrate together with a more physiological resuscitation fluid, i.e. FFP, or as the only intervention in bleeding trauma patients is lacking. Conclusions? Evidence for the use of fibrinogen concentrate to trauma patients with massive bleeding is sparse, of poor quality and confined to patients resuscitated with synthetic colloids. Well-designed prospective, randomized, double-blinded studies evaluating the effect of fibrinogen concentrate, as the only intervention, are urgently needed.
+ER  - 
+
+TY  - JOUR
+AU  - McDermott, Frank T.
+TI  - TRAUMA AUDIT AND QUALITY IMPROVEMENT
+JO  - Australian and New Zealand Journal of Surgery
+VL  - 64
+IS  - 3
+SN  - 0004-8682
+UR  - https://doi.org/10.1111/j.1445-2197.1994.tb02168.x
+DO  - doi:10.1111/j.1445-2197.1994.tb02168.x
+SP  - 147
+EP  - 154
+KW  - accidents
+KW  - morbidity
+KW  - mortality
+KW  - trauma centres
+KW  - trauma severity indices
+KW  - triage.
+PY  - 1994
+AB  - Audit is the evaluation of patient care. The care of the injured patient commences at the accident scene and involves prehospital triage and management, emergency hospital assessment and resuscitation, diagnostic and therapeutic interventions, operative surgery, intensive care unit management, acute hospital care and rehabilitation. Audit assesses the delivery of trauma care and clinical management and through identification of inadequacies facilitates the introduction of appropriate improvements. Both the American National Academy of Sciences?National Research Council and the Australian National Health & Medical Research Council have recommended the establishment of an audit process to evaluate the quality of trauma management and to obtain quality assurance. They have advised that this process would be assisted by the development of regional trauma registries and a uniform approach to the grading of injuries. Reduction in the preventable death rate, frequency of complications and duration of hospitalization has followed audits as a result of changes in the organization and quality of trauma care. In the United States, for example, the preventable death rate after injury was reduced from 35 to 15% in Orange County, California and from 14 to 3% in San Diego County, California. Studies from Great Britain, The Netherlands, Canada, Australia and elsewhere have further supported the view that trauma audit modifies practice leading to reductions in mortality and morbidity.
+ER  - 
+
+TY  - JOUR
+AU  - Collet e Silva, F. S.
+AU  - Bardella, R.
+AU  - Porta, R. M.
+AU  - Poggetti, R. S.
+AU  - Birolini, D.
+TI  - TS03 RETROHEPATIC VENA CAVA INJURY REMAINS A CHALLENGE TO TRAUMA SURGEONS
+JO  - ANZ Journal of Surgery
+VL  - 77
+IS  - s1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/j.1445-2197.2007.04133_3.x
+DO  - doi:10.1111/j.1445-2197.2007.04133_3.x
+SP  - A93
+EP  - A93
+PY  - 2007
+AB  - Although uncommon, and despite the modern in diagnostic tools and therapeutic alternatives, retrohepatic and main hepatic veins injury remains associated with high mortality rate. Preoperative diagnosis is uncommon, and bullet trajectory may be a helpful sign in penetrating trauma patients. Patients and Methods? Hospital records of patients sustaining retroheptic vena cava (RHVC) injury were retrospectively reviewed as to diagnosis, associated injuries, injury characteristics, surgical management, and outcome, last ten years. Results? Eight male, 17 to 45 (mean 27.5) years-old patients sustaining RHVC injury were reviewed. Mean trauma indexes for the 8 cases were: ISS 36.6, RTS 7.55 and TRISS 89.0; and for the group who died: ISS 41.6, RTS 7.18, and TRISS 80.5. Two patients had sustained blunt trauma (one died), and six had penetrating injuries (two died). The injury diagnosis was achieved during surgery in all cases. A transfixing RHV injury occurred in 4 (50% of the) patients, and was found in all the 3 patients who died. An atriocaval shunt was employed in four patients, 3 of them had with transfixing injury with two deaths. The number of associated injuries was higher in the patients who died. Overall mortality rate was 37.5%. Comments? Despite advances in image diagnosis, injuries to RHVC are frequently diagnosed during surgery. Tangential injuries were managed with direct approach and sutures, and to control blending in transfixing injuries, were managed with atriocaval shunts, before suture. Conclusion? Despite improvements in its diagnosis and management, RHVC injuries remain with a high mortality rate, mainly when transfixing, and associated with numerous associated injuries.
+ER  - 
+
+TY  - JOUR
+AU  - McDermott, Francis T.
+AU  - Cordner, Stephen M.
+AU  - Tremayne, Ann B.
+AU  - The Consultative Committee on Road Traffic Fatalities in Victoria					
+TI  - Consultative Committee on Road Traffic Fatalities: Trauma Audit Methodology
+JO  - Australian and New Zealand Journal of Surgery
+JA  - Aust. N.Z. J. Surg.
+VL  - 70
+IS  - 10
+SN  - 0004-8682
+UR  - https://doi.org/10.1046/j.1440-1622.2000.01939.x
+DO  - doi:10.1046/j.1440-1622.2000.01939.x
+SP  - 710
+EP  - 721
+KW  - evaluation
+KW  - management
+KW  - mortality
+KW  - preventable deaths
+KW  - road traffic fatalities
+KW  - trauma
+KW  - trauma systems
+PY  - 2000
+AB  - Background: Since 1992 the Consultative Committee on Road Traffic Fatalities in Victoria has identified deficiencies and errors in the management of 559 road traffic fatalities in which the patients were alive on arrival of ambulance services. The Committee also assessed the preventability of deaths. Reproducibility of results using its methodology has been shown to be statistically significant. The Committee?s findings and recommendations, the latter made in association with the learned Colleges and specialist Societies, led to the establishment of a Ministerial Taskforce on Trauma and Emergency Services. As a consequence, in 2000, a new trauma care system will be implemented in Victoria. This paper presents a case example demonstrating the Committee?s methodology. Methods: The Committee has two 12 member multidisciplinary evaluative panels. A retrospective evaluation was made of the complete ambulance, hospital and autopsy records of eligible fatalities. The clinical and pathological findings were analysed using a comprehensive data proforma, a narrative summary and the complete records. Resulting multidisciplinary discussion problems were identified and the potential preventability of death was assessed. Results: In the present case example the Committee identified 16 management deficiencies of which 11 were assessed as having contributed to the patient?s death; the death, however, was judged to be non-preventable. Conclusion: The presentation of this example demonstrating the Committee?s methodology may be of assistance to hospital medical staff undertaking their own major trauma audit.
+ER  - 
+
+TY  - JOUR
+AU  - MEISLER, R.
+AU  - THOMSEN, A. B.
+AU  - ABILDSTRØM, H.
+AU  - GULDSTAD, N.
+AU  - BORGE, P.
+AU  - RASMUSSEN, S. W.
+AU  - RASMUSSEN, L. S.
+TI  - Triage and mortality in 2875 consecutive trauma patients
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 54
+IS  - 2
+SN  - 0001-5172
+UR  - https://doi.org/10.1111/j.1399-6576.2009.02075.x
+DO  - doi:10.1111/j.1399-6576.2009.02075.x
+SP  - 218
+EP  - 223
+PY  - 2010
+AB  - Background: Most studies on trauma and trauma systems have been conducted in the United States. We aimed to describe the factors predicting mortality in European trauma patients, with focus on triage. Methods: We prospectively registered all trauma patients in Eastern Denmark over 12 consecutive months. We analysed the flow of trauma patients through the system, the time spent at different locations, and we assessed the risk factors of mortality. Results: We included 2875 trauma patients, of whom 158 (5.5%) died before arrival at the hospital. Most patients (75.3%) were brought to local hospitals and patients primarily (n=82) or secondarily triaged (n=203) to the level I trauma centre were the most severely injured. Secondarily transferred patients spent a median of 150?min in the local hospital before transfer to the level I trauma centre and 48?min on transportation. Severe injury with an injury severity score >15 was seen in 345 patients, of whom 118 stayed at the local hospital. They had a significantly higher mortality than 116 of those secondarily transferred [45/118, 38.1% vs. 11/116, 9.7% (P<0.0001)]. Mortality within 30 days was 4.3% in admitted patients, and significant risk factors of death were violence [odds ratio (OR)=5.72], unconsciousness (OR=4.87), hypotension (OR=4.96), injury severity score >15 (OR=27.42), and age. Conclusions: Around 50% of all trauma deaths occurred at the scene. Increased survival of severely injured patients may be achieved by early transfer to highly specialised care.
+ER  - 
+
+TY  - JOUR
+AU  - Hill, David A.
+AU  - West, Richard H.
+AU  - Abraham, Kenneth J.
+AU  - O'Connell, Anthony J.
+AU  - Cunningham, Paul
+TI  - IMPACT OF PEDESTRIAN INJURY ON INNER CITY TRAUMA SERVICES
+JO  - Australian and New Zealand Journal of Surgery
+VL  - 63
+IS  - 1
+SN  - 0004-8682
+UR  - https://doi.org/10.1111/j.1445-2197.1993.tb00027.x
+DO  - doi:10.1111/j.1445-2197.1993.tb00027.x
+SP  - 20
+EP  - 24
+KW  - epidemiology surgery
+KW  - pedestrian
+KW  - trauma
+PY  - 1993
+AB  - This report describes the epidemiology of pedestrian injury in four inner metropolitan local government areas of Sydney. These data were obtained from the Roads and Traffic Authority of New South Wales. The spectrum of injury and clinical outcome was defined in patients with an Injury Severity Score (ISS) > 15 admitted from the study area, during a 1 year period, to the four inner metropolitan teaching hospitals. The incidence of pedestrian death was 3.3 times the state average of 32/106/year. An average of 235 pedestrians, injured in the study area, were hospitalized each year during the period 1987?89. On average 24 pedestrians died each year, seven at the scene and 17 in hospital. Fifty patients (ISS > 15) were admitted to the four teaching hospitals during a 1 year period 1990?91. Forty-five were adults and five children. Multiplicity of injury was seen in 68% of patients. The pelvis and lower extremities were involved in 70%, the head in 66% and chest in 42%. The hospital mortality rate was 30% with five patients dying on the first day from blood loss and nine dying during subsequent days from head injury. This study has important implications for trauma service development. Successful clinical management of the severely injured pedestrian requires close co-operation between pre-hospital and hospital care providers. An integrated hospital trauma team response is mandatory to ensure appropriate management of what is often a shocked, hypoxic. head-injured patient.
+ER  - 
+
+TY  - JOUR
+AU  - Young, Karl Kang
+TI  - Developments in trauma management: From the field to the intensive care unit
+JO  - Surgical Practice
+VL  - 9
+IS  - 4
+SN  - 1744-1625
+UR  - https://doi.org/10.1111/j.1744-1633.2005.00270.x
+DO  - doi:10.1111/j.1744-1633.2005.00270.x
+SP  - 116
+EP  - 121
+KW  - bleeding
+KW  - fluids
+KW  - immunonutrition
+KW  - recombinant factor VIIa
+KW  - trauma
+PY  - 2005
+AB  - There have not been dramatic changes in trauma management in recent years. Nevertheless, there are noteworthy developments that might eventually change both paradigms of trauma systems and clinical management. In the present study, organizational aspects of mass casualty scenarios and what we have learned from the experiences of military doctors are examined. Then, the perennial theme of fluid resuscitation; when, what and how much to give, is examined. The management of bleeding and minimization of allogeneic blood transfusions raise the topics of recombinant factor?VIIa and oxygen carrying blood substitutes. Finally, an aspect of intensive care management that is very topical, that of immunonutrition and the modulation of sepsis in intensive care, is examined.
+ER  - 
+
+TY  - JOUR
+AU  - Pokorny, Douglas M.
+AU  - Braverman, Maxwell A.
+AU  - Edmundson, Philip M.
+AU  - Bittenbinder, David M.
+AU  - Zhu, Caroline S.
+AU  - Winckler, Christopher J.
+AU  - Schaefer, Randall
+AU  - McGinity, Ashley C.
+AU  - Epley, Eric
+AU  - Eastridge, Brian J.
+AU  - Nicholson, Susannah E.
+AU  - Stewart, Ronald M.
+AU  - Jenkins, Donald H.
+TI  - The use of prehospital blood products in the resuscitation of trauma patients: a review of prehospital transfusion practices and a description of our regional whole blood program in San Antonio, TX
+JO  - ISBT Science Series
+JA  - VOXS
+VL  - 14
+IS  - 3
+SN  - 1751-2816
+UR  - https://doi.org/10.1111/voxs.12498
+DO  - doi:10.1111/voxs.12498
+SP  - 332
+EP  - 342
+KW  - prehospital
+KW  - resuscitation
+KW  - trauma
+KW  - whole blood.
+PY  - 2019
+AB  - Background Prehospital management of the traumatically injured patient has evolved significantly since the organization of emergency medical services across the United States in the 1970s. Initially focusing on the utilization of crystalloid solutions to restore shed blood volume, robust military and civilian trauma experiences led to a modern day shift towards balanced blood component and ultimately whole blood use for immediate volume replacement. In addition, prehospital transfusion or remote damage control resuscitation (RDRC) has been widely adopted. This has led to point of injury resuscitation using blood products both in the United States and abroad. Objectives This article will review the evolution of civilian and military prehospital resuscitation as well as the current practice of prehospital whole blood transfusion in the civilian trauma population in the United States. Additionally, we will provide an overview of our regional trauma system's use of whole blood with focus on the programme infrastructure, donor programme, product rotation schedule and logistical challenges. Finally, we provide three case report examples of the effective use of whole blood in our civilian emergency medical services (EMS) programs.
+ER  - 
+
+TY  - JOUR
+TI  - Trauma
+JO  - ANZ Journal of Surgery
+VL  - 78
+IS  - s1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/j.1445-2197.2008.04520.x
+DO  - doi:10.1111/j.1445-2197.2008.04520.x
+SP  - A138
+EP  - A150
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+AU  - Rozen, W. M.
+AU  - Ma, E. H.
+AU  - Jones, I. T.
+AU  - Judson, R. T.
+TI  - TS14P MANAGING AN EMERGING TRAUMA EPIDEMIC IN AUSTRALIA: ABDOMINAL STAB WOUNDS
+JO  - ANZ Journal of Surgery
+VL  - 77
+IS  - s1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/j.1445-2197.2007.04133_14.x
+DO  - doi:10.1111/j.1445-2197.2007.04133_14.x
+SP  - A95
+EP  - A96
+PY  - 2007
+AB  - Purpose? The incidence of abdominal stab wounds treated at the Royal Melbourne Hospital has noticeably increased over the 12 month period to March 2006, mirroring an increase in penetrating abdominal trauma throughout many Australian trauma centers. Management protocols for abdominal stab wounds are still contentious. The current study quantifies the increase in stab wounds at the Royal Melbourne Hospital over a 24 month period and analyzes the management and investigative modalities utilized. Methodology? A review of the Trauma Unit of the Royal Melbourne Hospital was performed for the period of March 20th 2004 until March 20th 2006. All anterior abdominal stab wounds were collated for the site of injury, investigations performed on admission, results of investigations, operations performed, and findings at operation. Results? There were 4244 emergency trauma presentations over the 24 months period between March 20th 2004 and March 20th 2006. The second 12 month period showed a 21.5% increase in overall trauma admissions and a 91.3% increase in anterior abdominal stabbings. The percentage of stab wounds treated conservatively fell by 21.8%, with the percentage of laparotomies increasing by 14.2%. Almost 30% of all patients undergoing surgery had no visceral injury at operation. Twenty CT scans were performed preoperatively, with a sensitivity of 79% and specificity of 100%. Conclusion? Abdominal stab wounds treated at Royal Melbourne Hospital have substantially increased over the past 12 months. Whilst management is still contentious, a management protocol for anterior abdominal stab wounds is proposed, outlining the role of CT scanning, conservative management, laparoscopy and laparotomy
+ER  - 
+
+TY  - JOUR
+AU  - Ali, B. A.
+AU  - Sanfilippo, F.
+TI  - TS02 MANAGEMENT OF FLAIL CHEST IN TRAUMA: ANALYSIS OF RISK FACTORS AFFECTING OUTCOME
+JO  - ANZ Journal of Surgery
+VL  - 77
+IS  - s1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/j.1445-2197.2007.04133_2.x
+DO  - doi:10.1111/j.1445-2197.2007.04133_2.x
+SP  - A93
+EP  - A93
+PY  - 2007
+AB  - Background? Flail chest in thoracic trauma is associated with significant complications and carries high morbidity and mortality. At present there is no standardized management plan for flail chest. The aim of this study was to determine the risk factors affecting morbidity, mortality, and length of stay in the hospital. Methods? We evaluated all patients admitted to our trauma centre between January 2002 and December 2004. Age, presence of pneumothorax, trauma severity score (ISS), length of stay, lung contusion and deaths were recorded. Results? There were 100 patients with a mean age of 52 (SD 19.8, range 17?90). The median length of stay was 17 days, and the average ISS score was 30 (SD 13.2). 74% had flail chest and lung contusion, 2 patients had pneumothorax, and 7 (7%) patients died 3 (5.4%) patients with 1?4 fractured ribs died, compared with 4 (8.9%) patients with 5 or more fractured ribs (p?=?0.70, Fisher?s exact test). The mean ISS score was 32.3 (SD 19.5) for those who died compared with 29.8 (SD 12.7) in those who did not die (p?=?0.63, t-test). There was a moderate positive correlation between ISS score and length of stay (r?=?0.36, p?=?0.0002, Pearson correlation coefficient). Conclusion? ISS score was found to be a moderate potential predictor on outcome regarding length of stay in the hospital. There is an apparent increased risk of death with more fractured ribs and therefore a standadised surgical management plan for ribs fixation may reduce the risk of death in this patient group.
+ER  - 
+
+TY  - JOUR
+AU  - Nau, T. N.
+AU  - Dwyer, D. D.
+AU  - Glenn, D. G.
+TI  - TS05 WHOLE-BODY MULTISLICE CT-SCANNING AS PRIMARY IMAGING TOOL IN THE EMERGENCY MANAGEMENT OF SEVERE TRAUMA
+JO  - ANZ Journal of Surgery
+VL  - 77
+IS  - s1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/j.1445-2197.2007.04133_5.x
+DO  - doi:10.1111/j.1445-2197.2007.04133_5.x
+SP  - A94
+EP  - A94
+PY  - 2007
+AB  - Aim? Whole-body multislice CT-Scanning (MSCT) has become the primary imaging device in many European and North American trauma centres. We aim to present a new standardised protocol that has lead to a markedly improved diagnostic managment in an Australian metropolitan trauma centre. Methods? Based on growing evidence in the literature the MSCT is used as the primary imaging tool in severely injured patients and is routinely performed after completion of primary and secondary survey. The routine protocol consists of a non-contrast head and cervical spine CT, followed by a contrast chest, abdomen and pelvic CT. Apart from an initial chest X-Ray, routine X-ray trauma series are not performed anymore. The criteria for this whole-body MSCT are strictly limited to patients that required trauma team activation and can be sufficiently stabilised in the emergency room. Results? This adapted diagnostic algorithm has shown to be very fast and efficient. The average duration of initial management can be reduced significantly, in addition the number of initially missed injuries is markedly reduced. Conclusions? Primary whole-body MSCT has become a valuable diagnostic tool in the emergency management of severe trauma. A strictly followed protocol has been shown to be crucial to avoid overuse, in terms of radiation as well as exposing the unstable patient to an unnecessary high risk.
+ER  - 
+
+TY  - JOUR
+TI  - TRAUMA
+JO  - Australian and New Zealand Journal of Surgery
+VL  - 68
+IS  - S1
+SN  - 0004-8682
+UR  - https://doi.org/10.1111/j.1445-2197.1998.tb07251.x
+DO  - doi:10.1111/j.1445-2197.1998.tb07251.x
+SP  - A142
+EP  - A150
+PY  - 1998
+ER  - 
+
+TY  - JOUR
+AU  - Collet e Silva, F. S.
+AU  - Bardella, R.
+AU  - Fontes, B.
+AU  - Poggetti, R. S.
+AU  - Birolini, D.
+TI  - TS15P UNCOMMON ABDOMINAL HEMORRHAGE DUE TO BLUNT TRAUMA: BLENDING FROM AN ASYMPTOMATIC ABDOMINAL TUMOR INJURY – A CASE REPORT
+JO  - ANZ Journal of Surgery
+VL  - 77
+IS  - s1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/j.1445-2197.2007.04133_15.x
+DO  - doi:10.1111/j.1445-2197.2007.04133_15.x
+SP  - A96
+EP  - A96
+PY  - 2007
+AB  - Asymptomatic tumors are not uncommon, may be diagnosed during clinical examination or during surgical interventions for other purposes such as treatment of a hemorrhage due a blunt trauma. Case report? 6 year-old boy had fallen, hitting his abdomen against a rock, and arrived at hospital ten hours later. Initial assessment he was complaining of diffuse abdominal pain; his physical examination showed: respiratory rate: 16?mov/min, blood pressure: 100???80?mmHg, heart rate: 100?bat/min, and Glasgow coma score: 15. His abdomen was distended, with guarding and rebound tenderness, and had a palpable mass. FAST ultrasound was positive; and Ct-scan showed an abdominal mass with 15???12???7?cm dimension, and moderate amount of free blood in the abdominal cavity. Laboratory tests showed: hemoglobin 9.9?mg/dl, hematocritic 28.8%, white blood cells 6.900?cel/dl. Midline laparotomy was performed, a large, injured and bleeding mesenteric mass was found encircling superior mesentery artery and several small bowel loops; 500?ml of free blood was found in the peritoneal cavity. Mesenteric mass was partially removed with a segment of the small bowel. Findings of anatomico-pathologic examination revealed an intestinal Burkitt lymphoma, with mesenteric linfonodes. Patient had an uneventful postoperative course, and started with quimotherapy. Comments? This case report shows an unusual traumatic abdominal blending that could not be clearly diagnosed before laparotomy was performed. The emergency of this case was bleeding control, decision to remove mass was taken only for this purpose, and not to treat the tumor. As removal of the whole mass was impossible, a partial removal was performed.
+ER  - 

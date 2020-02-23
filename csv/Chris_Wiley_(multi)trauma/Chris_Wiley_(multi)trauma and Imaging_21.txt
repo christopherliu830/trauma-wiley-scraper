@@ -1,0 +1,485 @@
+
+TY  - JOUR
+AU  - Martin, Diego R.
+AU  - Karabulut, Nevzat
+AU  - Yang, Ming
+AU  - McFadden, David W.
+TI  - High signal peripancreatic fat on fat-suppressed spoiled gradient echo imaging in acute pancreatitis: Preliminary evaluation of the prognostic significance
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J. Magn. Reson. Imaging
+VL  - 18
+IS  - 1
+SN  - 1053-1807
+UR  - https://doi.org/10.1002/jmri.10333
+DO  - doi:10.1002/jmri.10333
+SP  - 49
+EP  - 58
+KW  - magnetic resonance imaging
+KW  - pancreatitis
+KW  - fat necrosis
+KW  - hemorrhage
+KW  - prognosis
+PY  - 2003
+AB  - Abstract Purpose To evaluate peripancreatic signal changes on fat-suppressed T1-weighted spoiled gradient echo images associated with acute pancreatitis and investigate potential utility in regards to relationship to clinical outcome. Materials and Methods The abdominal MR images in 31 patients with acute pancreatitis were reviewed, and evaluated for the presence of elevated signal intensity within the peripancreatic fat on fat-suppressed T1-weighted spoiled gradient echo images; the degree of signal changes was graded as mild, moderate, or severe. Results Ten of 31 patients demonstrated abnormal high signal intensity in the peripancreatic fat on fat-suppressed T1-weighted images. The degree of signal change was mild in three patients, moderate in one, and severe in six patients. All six patients with severe elevated peripancreatic soft tissue signal died within seven to 68 days (mean, 47 days) of their admission. All 21 patients without elevated peripancreatic fat signal survived without any complications. The correlation between the presence and severity of elevated peripancreatic MR signal and patient outcome was significant (P < 0.05). Conclusion Elevated peripancreatic signal on fat-suppressed T1-weighted images is associated progressively with poor outcome in patients with acute pancreatitis, and may represent a simplified method for prognostic cross-sectional imaging. J. Magn. Reson. Imaging 2003;18:49?58. ? 2003 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Coomber, Ben
+AU  - Berger, Joel I.
+AU  - Kowalkowski, Victoria L.
+AU  - Shackleton, Trevor M.
+AU  - Palmer, Alan R.
+AU  - Wallace, Mark N.
+TI  - Neural changes accompanying tinnitus following unilateral acoustic trauma in the guinea pig
+JO  - European Journal of Neuroscience
+JA  - Eur J Neurosci
+VL  - 40
+IS  - 2
+SN  - 0953-816X
+UR  - https://doi.org/10.1111/ejn.12580
+DO  - doi:10.1111/ejn.12580
+SP  - 2427
+EP  - 2441
+KW  - auditory
+KW  - behaviour
+KW  - electrophysiology
+KW  - inferior colliculus
+KW  - nitric oxide synthase
+PY  - 2014
+AB  - Abstract Animal models of tinnitus allow us to study the relationship between changes in neural activity and the tinnitus percept. Here, guinea pigs were subjected to unilateral noise trauma and tested behaviourally for tinnitus 8 weeks later. By comparing animals with tinnitus with those without, all of which were noise-exposed, we were able to identify changes unique to the tinnitus group. Three physiological markers known to change following noise exposure were examined: spontaneous firing rates (SFRs) and burst firing in the inferior colliculus (IC), evoked auditory brainstem responses (ABRs), and the number of neurons in the cochlear nucleus containing nitric oxide synthase (NOS). We obtained behavioural evidence of tinnitus in 12 of 16 (75%) animals. Both SFRs and incidences of burst firing were elevated in the IC of all noise-exposed animals, but there were no differences between tinnitus and no-tinnitus animals. There were significant decreases in ipsilateral ABR latencies in tinnitus animals, contrary to what might be expected with a small hearing loss. Furthermore, there was an ipsilateral?contralateral asymmetry in NOS staining in the ventral cochlear nucleus (VCN) that was only apparent in tinnitus animals. Tinnitus animals had a significantly greater number of NOS-containing neurons on the noise-exposed side, whereas no-tinnitus animals did not. These data suggest that measuring NOS in the VCN and recording ABRs supplement behavioural methods for confirming tinnitus in animals, and that nitric oxide is involved in plastic neural changes associated with tinnitus.
+ER  - 
+
+TY  - JOUR
+AU  - Biggi, M.
+AU  - Zani, D. D.
+AU  - De Zani, D.
+AU  - Di Giancamillo, M.
+TI  - Magnetic resonance imaging findings of bone marrow lesions in the equine distal tarsus
+JO  - Equine Veterinary Education
+VL  - 24
+IS  - 5
+SN  - 0957-7734
+UR  - https://doi.org/10.1111/j.2042-3292.2011.00288.x
+DO  - doi:10.1111/j.2042-3292.2011.00288.x
+SP  - 236
+EP  - 241
+KW  - horse
+KW  - MRI
+KW  - incomplete fracture
+KW  - bone contusion
+KW  - hock
+PY  - 2012
+AB  - Summary Three horses with sudden onset severe lameness were admitted for further diagnostic investigation. All horses had variable changes on radiographs in the distal tarsal region. Because of the sudden onset and severe degree of lameness, a magnetic resonance imaging (MRI) examination was performed. All horses showed areas of increased signal intensity in short tau inversion recovery (STIR) images involving the central and/or third tarsal bones. These lesions involved both the subchondral bone and bone marrow and are currently defined as bone marrow lesions (BML). Two horses were treated with shockwave therapy, one received intra-articular medication. Two of the horses returned to previous athletic level and one is still in rehabilitation.
+ER  - 
+
+TY  - JOUR
+AU  - Kim, Daeun
+AU  - Doyle, Eamon K.
+AU  - Wisnowski, Jessica L.
+AU  - Kim, Joong Hee
+AU  - Haldar, Justin P.
+TI  - Diffusion-relaxation correlation spectroscopic imaging: A multidimensional approach for probing microstructure
+JO  - Magnetic Resonance in Medicine
+JA  - Magn. Reson. Med.
+VL  - 78
+IS  - 6
+SN  - 0740-3194
+UR  - https://doi.org/10.1002/mrm.26629
+DO  - doi:10.1002/mrm.26629
+SP  - 2236
+EP  - 2249
+KW  - diffusion
+KW  - relaxation
+KW  - compartment modeling
+KW  - correlation spectroscopy
+KW  - constrained reconstruction
+PY  - 2017
+AB  - Purpose To propose and evaluate a novel multidimensional approach for imaging subvoxel tissue compartments called Diffusion-Relaxation Correlation Spectroscopic Imaging. Theory and Methods Multiexponential modeling of MR diffusion or relaxation data is commonly used to infer the many different microscopic tissue compartments that contribute signal to macroscopic MR imaging voxels. However, multiexponential estimation is known to be difficult and ill-posed. Observing that this ill-posedness is theoretically reduced in higher dimensions, diffusion-relaxation correlation spectroscopic imaging uses a novel multidimensional imaging experiment that jointly encodes diffusion and relaxation information, and then uses a novel constrained reconstruction technique to generate a multidimensional diffusion-relaxation correlation spectrum for every voxel. The peaks of the multidimensional spectrum are expected to correspond to the distinct tissue microenvironments that are present within each macroscopic imaging voxel. Results Using numerical simulations, experiment data from a custom-built phantom, and experiment data from a mouse model of traumatic spinal cord injury, diffusion-relaxation correlation spectroscopic imaging is demonstrated to provide substantially better multicompartment resolving power compared to conventional diffusion- and relaxation-based methods. Conclusion The diffusion-relaxation correlation spectroscopic imaging approach provides powerful new capabilities for resolving the different components of multicompartment tissue models, and can be leveraged to significantly expand the insights provided by MRI in studies of tissue microstructure. Magn Reson Med 78:2236?2249, 2017. ? 2017 International Society for Magnetic Resonance in Medicine.
+ER  - 
+
+TY  - JOUR
+AU  - Fitzgerald, Peter J.
+AU  - Yock, Paul G.
+TI  - Mechanisms and outcomes of angioplasty and atherectomy assessed by intravascular ultrasound imaging
+JO  - Journal of Clinical Ultrasound
+JA  - J. Clin. Ultrasound
+VL  - 21
+IS  - 9
+SN  - 0091-2751
+UR  - https://doi.org/10.1002/jcu.1870210905
+DO  - doi:10.1002/jcu.1870210905
+SP  - 579
+EP  - 588
+KW  - Intravascular Ultrasound Imaging
+KW  - GUIDE Trial
+KW  - Angioplasty
+KW  - Atherectomy
+KW  - Plaque composition
+PY  - 1993
+AB  - Abstract Catheter-based intravascular ultrasound is a relatively new imaging tool to examine endovascular structure. One major goal for the development of intravascular ultrasound imaging has been to help clarify the mechanism of interventional therapies such as balloon angioplasty and directional atherectomy. Pathologic studies have suggested that plaque distribution and composition are key features that relate to initial and long-term success of coronary interventions. However, relatively little is known by angiography about the nature of plaque in the clinical setting. Intravascular ultrasound imaging provides a high resolution, ?on-line? method of tracking the effects of catheter interventions such as balloon angioplasty and atherectomy. Because of its ability to visualize tissue beneath the luminal surface, ultrasound is generating new insights into the effect of plaque composition and distribution on the response to catheter therapies. With pre-procedure ultrasound imaging, it is increasingly possible to predict the result of a particular intervention, offering the potential for developing strategies of lesion-targeted therapy based on certain plaque characteristics. This article presents the early results of the GUIDE trial as a ?works in progress? view of the role of intravascular ultrasound in helping interventionalists to understand?and to optimize?angioplasty and atherectomy. ? 1993 John Wiley & Sons, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Nathanson, M. H.
+AU  - Andrzejowski, J.
+AU  - Dinsmore, J.
+AU  - Eynon, C.A.
+AU  - Ferguson, K.
+AU  - Hooper, T.
+AU  - Kashyap, A.
+AU  - Kendall, J.
+AU  - McCormack, V.
+AU  - Shinde, S.
+AU  - Smith, A.
+AU  - Thomas, E.
+TI  - Guidelines for safe transfer of the brain-injured patient: trauma and stroke, 2019
+JO  - Anaesthesia
+JA  - Anaesthesia
+VL  - 75
+IS  - 2
+SN  - 0003-2409
+UR  - https://doi.org/10.1111/anae.14866
+DO  - doi:10.1111/anae.14866
+SP  - 234
+EP  - 246
+KW  - brain injury
+KW  - guidelines
+KW  - stroke
+KW  - transfer
+PY  - 2020
+AB  - Summary The location of care for many brain-injured patients has changed since 2012 following the development of major trauma centres. Advances in management of ischaemic stroke have led to the urgent transfer of many more patients. The basis of care has remained largely unchanged, however, with emphasis on maintaining adequate cerebral perfusion as the key to preventing secondary injury. Organisational aspects and training for transfers are highlighted, and we have included an expanded section on paediatric transfers. We have also provided a table with suggested blood pressure parameters for the common types of brain injury but acknowledge that there is little evidence for many of our recommendations. These guidelines remain a mix of evidence-based and consensus-based statements. We have received assistance from many organisations representing clinicians who care for these patients, and we believe our views represent the best of current thinking and opinion. We encourage departments to review their own practice using our suggestions for audit and quality improvement.
+ER  - 
+
+TY  - JOUR
+AU  - Ide, K.
+AU  - Uchida, N.
+AU  - Iyori, K.
+AU  - Mochizuki, T.
+AU  - Fukushima, R.
+AU  - Iwasaki, T.
+AU  - Nishifuji, K.
+TI  - Multi-system progressive angiomatosis in a dog resembling blue rubber bleb nevus syndrome in humans
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 54
+IS  - 4
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/jsap.12034
+DO  - doi:10.1111/jsap.12034
+SP  - 201
+EP  - 204
+PY  - 2013
+AB  - A six-year-old, neutered, female golden retriever was presented with generalised, dark purple to black cutaneous nodules and gastrointestinal haemorrhage. Histopathologically, all cutaneous nodules were diagnosed as benign cavernous haemangiomas. Endoscopic analysis revealed similar nodules in the oesophagus, stomach and duodenum. At laparotomy, similar nodules were seen on the visceral peritoneal lining of abdominal organs. Metastatic haemangiosarcoma was ruled out based on histological features and lack of primary tumour in spleen, liver or heart ultrasonographically. Blood loss associated with gastrointestinal haemorrhage was managed with blood transfusion. To the authors? knowledge, this is the first canine case of multi-system progressive angiomatosis resembling blue rubber bleb nevus syndrome in humans.
+ER  - 
+
+TY  - JOUR
+AU  - Schore, Allan N.
+TI  - The effects of early relational trauma on right brain development, affect regulation, and infant mental health
+JO  - Infant Mental Health Journal
+JA  - Infant Ment. Health J.
+VL  - 22
+IS  - 1‐2
+SN  - 0163-9641
+UR  - https://doi.org/10.1002/1097-0355(200101/04)22:1<201::AID-IMHJ8>3.0.CO;2-9
+DO  - doi:10.1002/1097-0355(200101/04)22:1<201::AID-IMHJ8>3.0.CO;2-9
+SP  - 201
+EP  - 269
+PY  - 2001
+AB  - Abstract A primary interest of the field of infant mental health is in the early conditions that place infants at risk for less than optimal development. The fundamental problem of what constitutes normal and abnormal development is now a focus of developmental psychology, infant psychiatry, and developmental neuroscience. In the second part of this sequential work, I present interdisciplinary data to more deeply forge the theoretical links between severe attachment failures, impairments of the early development of the right brain's stress coping systems, and maladaptive infant mental health. In the following, I offer thoughts on the negative impact of traumatic attachments on brain development and infant mental health, the neurobiology of infant trauma, the neuropsychology of a disorganized/disoriented attachment pattern associated with abuse and neglect, trauma-induced impairments of a regulatory system in the orbitofrontal cortex, the links between orbitofrontal dysfunction and a predisposition to posttraumatic stress disorders, the neurobiology of the dissociative defense, the etiology of dissociation and body?mind psychopathology, the effects of early relational trauma on enduring right hemispheric function, and some implications for models of early intervention. These findings suggest direct connections between traumatic attachment, inefficient right brain regulatory functions, and both maladaptive infant and adult mental health.??2001 Michigan Association for Infant Mental Health.
+ER  - 
+
+TY  - JOUR
+AU  - Jeffries, Eric M.
+AU  - Wang, Yadong
+TI  - Biomimetic micropatterned multi-channel nerve guides by templated electrospinning
+JO  - Biotechnology and Bioengineering
+JA  - Biotechnol. Bioeng.
+VL  - 109
+IS  - 6
+SN  - 0006-3592
+UR  - https://doi.org/10.1002/bit.24412
+DO  - doi:10.1002/bit.24412
+SP  - 1571
+EP  - 1582
+KW  - nerve guide
+KW  - topographical guidance
+KW  - nerve regeneration
+KW  - polycaprolactone
+KW  - electrospinning
+KW  - Schwann cell
+PY  - 2012
+AB  - Abstract This report describes a new approach for fabricating microchannels within three-dimensional electrospun constructs. These key features serve to mimic the fascicular architecture and fibrous extracellular matrix found in native nerve. Both electrospun fibers and multi-channeled structure nerve guides have become areas of increasing interest for their beneficial roles in nerve repair. However, to the best of our knowledge, this is the first report of a guide that incorporates both. Multiple parallel channels provide a greater number of defined paths and increased surface area compared to cylindrical guides. Additionally, the fibrous nature of electrospun fibers permits better mass transport than solid-walled constructs. The flexible fabrication scheme allows tailoring of nerve guide parameters such as channel diameters ranging from 33 to 176?µm and various wall thicknesses. Channel and fiber structures were assessed by optical and electron microscope images. Geometric calculations estimated a porosity of over 85% for these guides with 16% or less from the channels. In vitro culture with Schwann cells demonstrated cellular infiltration into channels with restricted migration between fibers. Finally, cell proliferation and survival throughout the guide indicates that this design warrants future in vivo examination. Biotechnol. Bioeng. 2012; 109:1571?1582. ? 2011 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Juras, Vladimir
+AU  - Zbýň, Štefan
+AU  - Szomolanyi, Pavol
+AU  - Trattnig, Siegfried
+TI  - Regression error estimation significantly improves the region-of-interest statistics of noisy MR images
+JO  - Medical Physics
+JA  - Med. Phys.
+VL  - 37
+IS  - 6Part1
+SN  - 0094-2405
+UR  - https://doi.org/10.1118/1.3431995
+DO  - doi:10.1118/1.3431995
+SP  - 2813
+EP  - 2821
+KW  - Magnetic resonance imaging
+KW  - Smart prosthetics
+KW  - Biomedical engineering
+KW  - biomedical MRI
+KW  - medical image processing
+KW  - prosthetics
+KW  - MRI
+KW  - region-of-interest
+KW  - fitting
+KW  - coefficient of determination
+KW  - Medical imaging
+KW  - Medical image noise
+KW  - Magnetic resonance imaging
+KW  - Tissues
+KW  - Tissue engineering
+KW  - Medical magnetic resonance imaging
+KW  - Relaxation times
+KW  - Eigenvalues
+KW  - Probability theory
+KW  - Diffusion
+PY  - 2010
+AB  - Purpose The region-of-interest (ROI) selection and evaluation is one of the key factors in the successful evaluation of radiological images. However, the presence of noise in images may lead to incorrect diagnosis. The aim of this study was to test the hypothesis that the weighting by error estimation in ROI assessment might significantly improve the validity of the results. Methods As a model, the data maps of the transverse relaxation time constants from patients who underwent a matrix-associated chondrocyte transplantation procedure on the femoral condyle were analyzed. Artificial noise with a Rician density probability distribution was added to each TE image. ROIs were processed either as a regular arithmetic mean or as a weighted mean, in which weighted coefficients were calculated with regard to fitting error estimates [coefficient of determination (); root mean squared error (RMSE), mean absolute error (MSE), mean squared error (MAE), and chi-squared error ()]. Results The global values in repair tissue (, ; range 51?70 ms) and in healthy cartilage (, ; range 40?60 ms) were significantly different . With a 45% or greater decrease from the original SNR value (corresponding to a noise level of 35% of random value), the statistical significance was lost ; however, the use of the coefficient of determination as a correction factor was able to maintain the p-value of up to a 56% decrease from the original SNR value. Conclusions The results of this study can prospectively be applied in a wide range of radiological imaging techniques in cases when error estimation is possible. Our analysis on MR images with artificially added noise showed that utilization of the correlation of determination as a weighting parameter in ROI evaluation may significantly improve the differentiation between native and transplanted cartilage tissue in noisy images. This could be an added benefit in the non-invasive monitoring of the post-operative status of patients with cartilage transplants if the MR images are not ideal (e.g., lower field strength or lower SNR).
+ER  - 
+
+TY  - JOUR
+AU  - Musterle, B.
+AU  - Hagen, R.
+AU  - Grest, P.
+AU  - Kümmerle, J.
+TI  - Diagnostic imaging, surgical treatment and histopathological findings of a vascular hamartoma in a 2-year-old horse
+JO  - Equine Veterinary Education
+JA  - Equine Vet Educ
+VL  - 28
+IS  - 5
+SN  - 0957-7734
+UR  - https://doi.org/10.1111/eve.12150
+DO  - doi:10.1111/eve.12150
+SP  - 253
+EP  - 258
+KW  - horse
+KW  - hamartoma
+KW  - haemangioma
+KW  - tarsus
+PY  - 2016
+AB  - Summary We describe a case of a 2-year-old mare that presented with a large firm swelling on the lateral aspect of the right tarsus. Diagnostic ultrasound demonstrated a fluid filled cavernous mass that was not clearly demarcated from the surrounding subcutaneous tissue. Contrast radiography with intralesional injection of contrast medium showed accumulation of the medium in the caverns of the mass and in the saphenous vein. Contrast enhanced computed tomography demonstrated 2 vascular meshes, one deep and one more superficially, closely associated with the mass. Surgical excision of the mass was performed and a vascular hamartoma was diagnosed based on histopathology. The horse showed no signs of recurrence 7 months after surgery.
+ER  - 
+
+TY  - JOUR
+AU  - BREIDAHL, W.H.
+AU  - M.B.B.S., V. LOW.
+AU  - KHANGURE, M.S.
+TI  - Imaging the Cervical Spine: A Comparison of MR with Myelography and CT Myelography
+JO  - Australasian Radiology
+VL  - 35
+IS  - 4
+SN  - 0004-8461
+UR  - https://doi.org/10.1111/j.1440-1673.1991.tb03035.x
+DO  - doi:10.1111/j.1440-1673.1991.tb03035.x
+SP  - 306
+EP  - 314
+KW  - MRI
+KW  - CT/Myelography
+KW  - Cervical Spine
+KW  - Spondylosis
+PY  - 1991
+ER  - 
+
+AU  - Prado, Carla M.
+AU  - Elliott, Sarah A.
+AU  - Mota, Joao F.
+C7  - pp. 91-105
+TI  - Advanced imaging techniques for assessment of undernutrition
+SN  - 9781118993859
+UR  - https://doi.org/10.1002/9781118993880.ch2.7
+DO  - doi:10.1002/9781118993880.ch2.7
+SP  - 91-105
+KW  - body composition
+KW  - imaging techniques
+KW  - nutritional status
+KW  - clinical practice
+PY  - 1991
+AB  - Summary The use of new techniques has allowed the assessment of body composition to emerge as a fundamental part of nutritional assessment in clinical populations, as distinct body tissues are associated with specific health outcomes. This chapter focuses on the imaging methods: bioelectrical impedance analysis (BIA), dual-energy x-ray absorptiometry (DXA) and, more recently, computed tomography (CT) and ultrasound (US) imaging which are appear to be the most convenient for use in clinical practice. Imaging methods for the assessment of body composition include DXA, CT, magnetic resonance imaging (MRI) and US, and three-dimensional (3D) (photonic) imaging. With the exception of US and 3D imaging, imaging techniques are now considered to be the most accurate tools for measuring adipose tissue and organs in clinical research. The use of these techniques has revolutionised the capacity to assess body composition and aid in the diagnosis and monitoring of a multitude of disease states and treatment regimes.
+ER  - 
+
+TY  - JOUR
+AU  - Foo, Thomas K. F.
+AU  - Laskaris, Evangelos
+AU  - Vermilyea, Mark
+AU  - Xu, Minfeng
+AU  - Thompson, Paul
+AU  - Conte, Gene
+AU  - Van Epps, Christopher
+AU  - Immer, Christopher
+AU  - Lee, Seung-Kyun
+AU  - Tan, Ek T.
+AU  - Graziani, Dominic
+AU  - Mathieu, Jean-Baptise
+AU  - Hardy, Christopher J.
+AU  - Schenck, John F.
+AU  - Fiveland, Eric
+AU  - Stautner, Wolfgang
+AU  - Ricci, Justin
+AU  - Piel, Joseph
+AU  - Park, Keith
+AU  - Hua, Yihe
+AU  - Bai, Ye
+AU  - Kagan, Alex
+AU  - Stanley, David
+AU  - Weavers, Paul T.
+AU  - Gray, Erin
+AU  - Shu, Yunhong
+AU  - Frick, Matthew A.
+AU  - Campeau, Norbert G.
+AU  - Trzasko, Joshua
+AU  - Huston III, John
+AU  - Bernstein, Matt A.
+TI  - Lightweight, compact, and high-performance 3T MR system for imaging the brain and extremities
+JO  - Magnetic Resonance in Medicine
+JA  - Magn. Reson. Med.
+VL  - 80
+IS  - 5
+SN  - 9781118993859
+UR  - https://doi.org/10.1002/mrm.27175
+DO  - doi:10.1002/mrm.27175
+SP  - 2232
+EP  - 2245
+PY  - 2018
+AB  - Purpose To build and evaluate a small-footprint, lightweight, high-performance 3T MRI scanner for advanced brain imaging with image quality that is equal to or better than conventional whole-body clinical 3T MRI scanners, while achieving substantial reductions in installation costs. Methods A conduction-cooled magnet was developed that uses less than 12?liters of liquid helium in a gas-charged sealed system, and standard NbTi wire, and weighs approximately 2000?kg. A 42-cm inner-diameter gradient coil with asymmetric transverse axes was developed to provide patient access for head and extremity exams, while minimizing magnet-gradient interactions that adversely affect image quality. The gradient coil was designed to achieve simultaneous operation of 80-mT/m peak gradient amplitude at a slew rate of 700?T/m/s on each gradient axis using readily available 1-MVA gradient drivers. Results In a comparison of anatomical imaging in 16 patients using T2-weighted 3D fluid-attenuated inversion recovery (FLAIR) between the compact 3T and whole-body 3T, image quality was assessed as equivalent to or better across several metrics. The ability to fully use a high slew rate of 700?T/m/s simultaneously with 80-mT/m maximum gradient amplitude resulted in improvements in image quality across EPI, DWI, and anatomical imaging of the brain. Conclusions The compact 3T MRI system has been in continuous operation at the Mayo Clinic since March 2016. To date, over 200 patient studies have been completed, including 96 comparison studies with a clinical 3T whole-body MRI. The increased gradient performance has reliably resulted in consistently improved image quality.
+ER  - 
+
+TY  - JOUR
+AU  - KANG, HYEWON
+AU  - LEE, HAEBEOM
+AU  - KWAK, HYOSUNG
+AU  - KIM, NAMSOO
+AU  - LEE, KICHANG
+TI  - IMAGING DIAGNOSIS—CONGENITAL STRUCTURAL HYOID BONE ABNORMALITIES IN A DOG
+JO  - Veterinary Radiology & Ultrasound
+VL  - 49
+IS  - 4
+SN  - 9781118993859
+UR  - https://doi.org/10.1111/j.1740-8261.2008.00379.x
+DO  - doi:10.1111/j.1740-8261.2008.00379.x
+SP  - 357
+EP  - 359
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Haoyu
+AU  - Jiang, Quan
+AU  - Shen, Yimin
+AU  - Zhang, Li
+AU  - Haacke, E. Mark
+AU  - Ge, Yulin
+AU  - Qi, Shouliang
+AU  - Hu, Jiani
+C7  - e4256
+C8  - NBM-19-0073.R2
+TI  - The capability of detecting small vessels beyond the conventional MRI sensitivity using iron-based contrast agent enhanced susceptibility weighted imaging
+JO  - NMR in Biomedicine
+JA  - NMR in Biomedicine
+VL  - n/a
+IS  - n/a
+SN  - 9781118993859
+UR  - https://doi.org/10.1002/nbm.4256
+DO  - doi:10.1002/nbm.4256
+SP  - e4256
+KW  - blooming effect
+KW  - MRI
+KW  - small vessels
+KW  - susceptibility weighted imaging
+KW  - ultra-small superparamagnetic iron oxide particles
+AB  - Imaging brain microvasculature is important in cerebrovascular diseases. However, there is still a lack of non-invasive, non-radiation, and whole-body imaging techniques to investigate them. The aim of this study is to develop an ultra-small superparamagnetic iron oxide (USPIO) enhanced susceptibility weighted imaging (SWI) method for imaging micro-vasculature in both animal (~10 ?m in rat) and human brain. We hypothesized that the USPIO-SWI technique could improve the detection sensitivity of the diameter of small subpixel vessels 10-fold compared with conventional MRI methods. Computer simulations were first performed with a double-cylinder digital model to investigate the theoretical basis for this hypothesis. The theoretical results were verified using in vitro phantom studies and in vivo rat MRI studies (n = 6) with corresponding ex vivo histological examinations. Additionally, in vivo human studies (n = 3) were carried out to demonstrate the translational power of the USPIO-SWI method. By directly comparing the small vessel diameters of an in vivo rat using USPIO-SWI with the small vessel diameters of the corresponding histological slide using laser scanning confocal microscopy, 13.3-fold and 19.9-fold increases in SWI apparent diameter were obtained with 5.6 mg Fe/kg and 16.8 mg Fe/kg ferumoxytol, respectively. The USPIO-SWI method exhibited its excellent ability to detect small vessels down to about 10 ?m diameter in rat brain. The in vivo human study unveiled hidden arterioles and venules and demonstrated its potential in clinical practice. Theoretical modeling simulations and in vitro phantom studies also confirmed a more than 10-fold increase in the USPIO-SWI apparent diameter compared with the actual small vessel diameter size. It is feasible to use SWI blooming effects induced by USPIO to detect small vessels (down to 10 ?m in diameter for rat brain), well beyond the spatial resolution limit of conventional MRI methods. The USPIO-SWI method demonstrates higher potential in cerebrovascular disease investigations.
+ER  - 
+
+TY  - JOUR
+AU  - Thomas, J.S.M.
+AU  - Curtis, L.
+AU  - Freeman, S.L.
+AU  - England, G.C.W.
+AU  - Burford, J.H.
+TI  - Identifying a Critical Case of Equine Colic at Primary Examination – Results from a Prospective Multi-Centre Study
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 9781118993859
+UR  - https://doi.org/10.1111/evj.12323_49
+DO  - doi:10.1111/evj.12323_49
+SP  - 21
+EP  - 22
+PY  - 2014
+AB  - Reasons for performing study There is no current evidence on how mild and critical cases of colic can be differentiated at primary examination. Previous research has focused on clinical variables assessed post referral. Objectives To identify features of the primary clinical presentation which differentiate between a critical and mild-medical colic. Study design Prospective multi-centre cross-sectional study. Methods Paper-based and online questionnaires were distributed to 850 practices which treat horses, to collect data on the primary presentation of colic cases over 13 months. Critical cases were defined as horses which died, were subjected to euthanasia, had surgery, or required intensive care. Mild-medical cases were defined as those resolving with medical treatment on a single visit. Descriptive analysis was used to evaluate the data. Univariable analysis was performed using Mann-Whitney U tests and Chi-squared tests to assess the degree of association between clinical variables and the dependant variables ?critical? and ?mild-medical?. Results 161 veterinarians submitted 1048 colic case forms; 240 critical cases and 535 mild-medical cases were identified. There was evidence of difference (P<0.000) for cardiovascular variables (heart and respiratory rates, capillary refill time, and mucous membrane colour), signs of pain and abdominal borborygmi between mild-medical and critical cases. Critical cases had a higher mean heart rate (60 beats/min [range 21?125]) than mild-medical cases (42 beats/min [range 18?120]). The median total abdominal borborygmi score was lower at 3 (range 0?12) for critical, compared with 7 (range 0?12) for mild-medical cases. The use of diagnostic tests were significantly different (P<0.0001), with more tests performed in critical cases. Rectal examination and nasogastric intubation were not performed in 17.5% and 52.6% of critical cases, respectively. Conclusions There were significant differences in the primary presentation of critical and mild-medical colic cases. Veterinary surgeons? diagnostic approach varied between cases. Ethical animal research:?The study was reviewed and approved by the School of Veterinary Medicine and Science, University of Nottingham Ethics Committee. Explicit owner informed consent for participation in this study was not stated. Sources of funding:?Laila Curtis was funded by the School of Veterinary Medicine and Science, University of Nottingham. The survey was supported by a grant from the Petplan Charitable Trust. Boehringer Ingelheim assisted with survey distribution. Competing interests:?None.
+ER  - 
+
+TY  - JOUR
+AU  - Griffey, Richard T.
+AU  - Jeffe, Donna B.
+AU  - Bailey, Thomas
+TI  - Emergency Physicians' Attitudes and Preferences Regarding Computed Tomography, Radiation Exposure, and Imaging Decision Support
+JO  - Academic Emergency Medicine
+JA  - Acad Emerg Med
+VL  - 21
+IS  - 7
+SN  - 9781118993859
+UR  - https://doi.org/10.1111/acem.12410
+DO  - doi:10.1111/acem.12410
+SP  - 768
+EP  - 777
+PY  - 2014
+AB  - Abstract Objectives Although computerized decision support for imaging is often recommended for optimizing computed tomography (CT) use, no studies have evaluated emergency physicians' (EPs') preferences regarding computerized decision support in the emergency department (ED). In this needs assessment, the authors sought to determine if EPs view overutilization as a problem, if they want decision support, and if so, the kinds of support they prefer. Methods A 42-item, Web-based survey of EPs was developed and used to measure EPs' attitudes, preferences, and knowledge. Key contacts at local EDs sent letters describing the study to their physicians. Exploratory principal components analysis (PCA) was used to determine the underlying factor structure of multi-item scales, Cronbach's alpha was used to measure internal consistency of items on a scale, Spearman correlations were used to describe bivariate associations, and multivariable linear regression analysis was used to identify variables independently associated with physician interest in decision support. Results Of 235 surveys sent, 155 (66%) EPs responded. Five factors emerged from the PCA. EPs felt that: 1) CT overutilization is a problem in the ED (α = 0.75); 2) a patient's cumulative CT study count affects decisions of whether and what type of imaging study to order only some of the time (α = 0.75); 3) knowledge that a patient has had prior CT imaging for the same indication makes EPs less likely to order a CT (α = 0.42); 4) concerns about malpractice, patient satisfaction, or insistence on CTs affect CT ordering decisions (α = 0.62); and 5) EPs want decision support before ordering CTs (α = 0.85). Performance on knowledge questions was poor, with only 18% to 39% correctly responding to each of the three multiple-choice items about effective radiation doses of chest radiograph and single-pass abdominopelvic CT, as well as estimated increased risk of cancer from a 10-mSv exposure. Although EPs wanted information on patients' cumulative exposures, they feel inadequately familiar with this information to make use of it clinically. If provided with patients' cumulative radiation exposures from CT, 87% of EPs said that they would use this information to discuss imaging options with their patients. In the multiple regression model, which included all variables associated with interest in decision support at p < 0.10 in bivariate tests, items independently associated with EPs' greater interest in all types of decision support proposed included lower total knowledge scores, greater frequency that cumulative CT study count affects EP's decision to order CTs, and greater agreement that overutilization of CT is a problem and that awareness of multiple prior CTs for a given indication affects CT ordering decisions. Conclusions Emergency physicians view overutilization of CT scans as a problem with potential for improvement in the ED and would like to have more information to discuss risks with their patients. EPs are interested in all types of imaging decision support proposed to help optimize imaging ordering in the ED and to reduce radiation to their patients. Findings reveal several opportunities that could potentially affect CT utilization.
+ER  - 
+
+TY  - JOUR
+AU  - Roynard, P. F. P.
+AU  - Bilderback, A.
+AU  - Falzone, C.
+AU  - Stefanacci, J. D.
+AU  - Cherubini, G. B.
+TI  - Magnetic resonance imaging, treatment and outcome of canine vertebral chondrosarcomas. Six cases
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 57
+IS  - 11
+SN  - 9781118993859
+UR  - https://doi.org/10.1111/jsap.12554
+DO  - doi:10.1111/jsap.12554
+SP  - 610
+EP  - 616
+PY  - 2016
+AB  - Objectives To report the clinical presentation, magnetic resonance imaging features, treatments and outcomes of canine vertebral chondrosarcoma. Materials and Methods Retrospective review of medical records of dogs with confirmed vertebral chondrosarcoma and magnetic resonance imaging of the lesions, from four different veterinary referral institutions. Results A total of six dogs were included in this report. In all cases, magnetic resonance imaging revealed a lobulated mass involving the dorsal vertebral compartment, markedly hyperintense with few foci of hypointensity on T2-weighted images, iso to hypointense on T1-weighted images with contrast enhancement after gadolinium administration. Intralesional surgical resection was performed in three dogs and medical management in one, two dogs were euthanased and all lesions were submitted for histopathology. Magnetic resonance imaging findings correlated with histological findings of a low tumour grade. Rapid clinical improvement was noted after surgery but two of three dogs had local regrowth. Clinical Significance Chondrosarcomas show local aggressiveness and resistance to conventional radiotherapy and chemotherapy, and so prognosis depends on feasibility of en bloc resection. Magnetic resonance imaging may be helpful in establishing a presumptive diagnosis and prognosis based on the feasibility of surgical resection.
+ER  - 
+
+TY  - JOUR
+AU  - Lewis, E. E. L.
+AU  - Barrett, M. R. T.
+AU  - Freeman-Parry, L.
+AU  - Bojar, R. A.
+AU  - Clench, M. R.
+TI  - Examination of the skin barrier repair/wound healing process using a living skin equivalent model and matrix-assisted laser desorption-ionization-mass spectrometry imaging
+JO  - International Journal of Cosmetic Science
+JA  - Int J Cosmet Sci
+VL  - 40
+IS  - 2
+SN  - 9781118993859
+UR  - https://doi.org/10.1111/ics.12446
+DO  - doi:10.1111/ics.12446
+SP  - 148
+EP  - 156
+KW  - cell culture
+KW  - mass spectrometry imaging
+KW  - statistics
+KW  - systems biology
+PY  - 2018
+AB  - Abstract Objective Examination of the skin barrier repair/wound healing process using a living skin equivalent (LSE) model and matrix-assisted laser desorption/ionization-mass spectrometry imaging (MALDI-MSI) to identify lipids directly involved as potential biomarkers. These biomarkers may be used to determine whether an in vivo wound is going to heal for example if infected. Methods An in vitro LSE model was wounded with a scalpel blade and assessed at day 4 post-wounding by histology and MALDI-MSI. Samples were sectioned at wound site and were either formalin-fixed paraffin-embedded (FFPE) for histology or snapped frozen (FF) for MSI analysis. Results The combination of using an in vitro wounded skin model with MSI allowed the identification of lipids involved in the skin barrier repair/wound healing process. The technique was able to highlight lipids directly in the wound site and distinguish differences in lipid distribution between the epidermis and wound site. Conclusion This novel method of coupling an in vitro LSE with MSI allowed in-depth molecular analysis of the skin barrier repair/wound healing process. The technique allowed the identification of lipids directly involved in the skin barrier repair/wound healing process, indicating these biomarkers may be potentially be used within the clinic. These biomarkers will help to determine, which stage of the skin barrier repair/wound healing process the wound is in to provide the best treatment.
+ER  - 

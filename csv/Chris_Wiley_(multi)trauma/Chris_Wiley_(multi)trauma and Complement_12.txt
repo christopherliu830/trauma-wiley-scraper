@@ -1,0 +1,455 @@
+
+TY  - JOUR
+AU  - Furmanski, Orion
+AU  - Gajavelli, Shyam
+AU  - Lee, Jeung Woon
+AU  - Collado, Maria E.
+AU  - Jergova, Stanislava
+AU  - Sagen, Jacqueline
+TI  - Combined extrinsic and intrinsic manipulations exert complementary neuronal enrichment in embryonic rat neural precursor cultures: An in vitro and in vivo analysis
+JO  - Journal of Comparative Neurology
+JA  - J. Comp. Neurol.
+VL  - 515
+IS  - 1
+SN  - 0021-9967
+UR  - https://doi.org/10.1002/cne.22027
+DO  - doi:10.1002/cne.22027
+SP  - 56
+EP  - 71
+KW  - GABA
+KW  - FGF-2
+KW  - MASH1
+KW  - differentiation
+KW  - transplantation
+KW  - clonal analysis
+PY  - 2009
+AB  - Abstract Numerous central nervous system (CNS) disorders share a common pathology in dysregulation of ?-aminobutyric acid (GABA) inhibitory signaling. Transplantation of GABA-releasing cells at the site of disinhibition holds promise for alleviating disease symptoms with fewer side effects than traditional drug therapies. We manipulated fibroblast growth factor (FGF)-2 deprivation and mammalian achaete-scute homolog (MASH)1 transcription factor levels in an attempt to amplify the default GABAergic neuronal fate in cultured rat embryonic neural precursor cells (NPCs) for use in transplantation studies. Naïve and MASH1 lentivirus-transduced NPCs were maintained in FGF-2 or deprived of FGF-2 for varying lengths of time. Immunostaining and quantitative analysis showed that GABA- and ?-III-tubulin-immunoreactive cells generally decreased through successive passages, suggesting a loss of neurogenic potential in rat neurospheres expanded in vitro. However, FGF-2 deprivation resulted in a small, but significantly increased population of GABAergic cells derived from passaged neurospheres. In contrast to naïve and GFP lentivirus-transduced clones, MASH1 transduction resulted in increased bromodeoxyuridine (BrdU) incorporation and clonal colony size. Western blotting showed that MASH1 overexpression and FGF-2 deprivation additively increased ?-III-tubulin and decreased cyclic nucleotide phosphodiesterase (CNPase) expression, whereas FGF-2 deprivation alone attenuated glial fibrillary acidic protein (GFAP) expression. These results suggest that low FGF-2 signaling and MASH1 activity can operate in concert to enrich NPC cultures for a GABA neuronal phenotype. When transplanted into the adult rat spinal cord, this combination also yielded GABAergic neurons. These findings indicate that, even for successful utilization of the default GABAergic neuronal precursor fate, a combination of both extrinsic and intrinsic manipulations will likely be necessary to realize the full potential of NSC grafts in restoring function. J. Comp. Neurol. 515:56?71, 2009. ? 2009 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Bayraktar, Samet
+AU  - Jungbluth, Pascal
+AU  - Deenen, René
+AU  - Grassmann, Jan
+AU  - Schneppendahl, Johannes
+AU  - Eschbach, Daphne
+AU  - Scholz, Armin
+AU  - Windolf, Joachim
+AU  - Suschek, Christoph V.
+AU  - Grotheer, Vera
+C8  - TERM-16-0094.R2
+TI  - Molecular- and microarray-based analysis of diversity among resting and osteogenically induced porcine mesenchymal stromal cells of several tissue origin
+JO  - Journal of Tissue Engineering and Regenerative Medicine
+JA  - J Tissue Eng Regen Med
+VL  - 12
+IS  - 1
+SN  - 1932-6254
+UR  - https://doi.org/10.1002/term.2375
+DO  - doi:10.1002/term.2375
+SP  - 114
+EP  - 128
+KW  - osteogenesis
+KW  - osteogenic differentiation potential
+KW  - mesenchymal stromal cells
+KW  - BMP-2
+KW  - platelet-rich plasma
+PY  - 2018
+AB  - Abstract Mesenchymal stromal cells (MSCs) play a pivotal role in modern therapeutic approaches in bone-healing disorders. Although bone marrow-derived MSCs are most frequently used, the knowledge that many other adult tissues represent promising sources for potent MSCs has gained acceptance. In the present study, the osteogenic differentiation potential of porcine skin fibroblasts (FBs), as well as bone marrow- (BMSCs), adipose tissue- (ASCs) and dental pulp-derived stromal cells (DSCs) were evaluated. However, additional application of BMP-2 significantly elevated the delayed osteogenic differentiation capacity of ASC and FB cultures, and in DSC cultures the supplementation of platelet-rich plasma increased osteogenic differentiation potential to a comparable level of the good differentiable BMSCs. Furthermore, microarray gene expression performed in an exemplary manner for ASCs and BMSCs revealed that ASCs and BMSCs use different gene expression patterns for osteogenic differentiation under standard media conditions, as diverse MSCs are imprinted dependent from their tissue niche. However, after increasing the differentiation potential of ASCs to a comparable level as shown in BMSCs, a small subset of identical key molecules was used to differentiate in the osteogenic lineage. Until now, the importance of identified genes seems to be underestimated for osteogenic differentiation. Apparently, the regulation of transmembrane protein 229A, interleukin-33 and the fibroblast growth factor receptor-2 in the early phase of osteogenic differentiation is needed for optimum results. Based on these results, bone regeneration strategies of MSCs have to be adjusted, and in vivo studies on the osteogenic capacities of the different types of MCSs are warranted. Copyright ? 2016 The Authors Tissue Engineering and Regenerative Medicine published by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Fuentes, R.G.
+AU  - Espejo, F.E.
+AU  - Avila, J.P.
+AU  - Verdessi, D.B.
+AU  - Gonzalez, J.C.
+AU  - Azevedo, A.C.
+TI  - RESEARCH LETTER: Pre-hospital care in Valparaíso – an integrated emergency network within the San Antonio Regional Health Service in Chile
+JO  - Journal of Evaluation in Clinical Practice
+VL  - 5
+IS  - 1
+SN  - 1356-1294
+UR  - https://doi.org/10.1046/j.1365-2753.1999.00148.x
+DO  - doi:10.1046/j.1365-2753.1999.00148.x
+SP  - 87
+EP  - 91
+KW  - advanced trauma life support
+KW  - pre-hospital emergency care
+KW  - process design
+KW  - quality management
+PY  - 1999
+AB  - To the Editor: In 1993 Valparaíso San Antonio Health Service initiated an Organizational Development Programme that included all facilities, extending from the six major hospitals to the 26 primary care clinics of the region. The programme adopted Quality Management as its model, without discarding other concepts and methods of proven effectiveness (see Walton 1992; Al-Asaf 1993; Ishikawa 1993).?In 1994 the Health Service Council identified the emergency care system as a model in need of great improvement and considered the incorporation of pre-hospital care as a top priority. The challenge was to implement a new system, affordable with a small budget, with greater satisfaction for staff and users, better coordinated and more responsive to local needs (see Ministère de la Santé 1992). ?Quality management techniques were used to adapt and develop a new model, essentially designed by local staff, based on the Advanced Trauma Life Support (ATLS) and other relevant literature (Burnett  Grijseels et al. 1996; Gwinnutt  Hu  Jabbour et al. 1996; Boyington 1995). A ?network? model rather than a centralized one was chosen and implemented at a very low direct cost, optimizing existing resources.
+ER  - 
+
+TY  - JOUR
+AU  - Shah, Jai L.
+AU  - Tandon, Neeraj
+AU  - Keshavan, Matcheri S.
+TI  - Psychosis prediction and clinical utility in familial high-risk studies: selective review, synthesis, and implications for early detection and intervention
+JO  - Early Intervention in Psychiatry
+JA  - Early Intervention in Psychiatry
+VL  - 7
+IS  - 4
+SN  - 1751-7885
+UR  - https://doi.org/10.1111/eip.12054
+DO  - doi:10.1111/eip.12054
+SP  - 345
+EP  - 360
+KW  - early intervention
+KW  - familial
+KW  - high risk
+KW  - prediction
+KW  - psychosis
+PY  - 2013
+AB  - Abstract Aim Accurate prediction of which high-risk individuals will go on to develop psychosis would assist early intervention and prevention paradigms. We sought to review investigations of prospective psychosis prediction based on markers and variables examined in longitudinal familial high-risk (FHR) studies. Methods We performed literature searches in MedLine, PubMed and PsycINFO for articles assessing performance characteristics of predictive clinical tests in FHR studies of psychosis. Studies were included if they reported on one or more predictive variables in subjects at FHR for psychosis. We complemented this search strategy with references drawn from articles, reviews, book chapters and monographs. Results Across generations of FHR projects, predictive studies have investigated behavioural, cognitive, psychometric, clinical, neuroimaging and other markers. Recent analyses have incorporated multivariate and multi-domain approaches to risk ascertainment, with generally modest results. Conclusions Although a broad range of risk factors has been identified, no individual marker or combination of markers can at this time enable accurate prospective prediction of emerging psychosis for individuals at FHR. We outline the complex and multi-level nature of psychotic illness, the myriad of factors influencing its development, and methodological hurdles to accurate and reliable prediction. Prospects and challenges for future generations of FHR studies are discussed in the context of early detection and intervention strategies.
+ER  - 
+
+TY  - JOUR
+AU  - TREND, ANDREW J.
+AU  - HOLDER, HAROLD D.
+TI  - Community mobilization: evaluation of an environmental approach to local action
+JO  - Addiction
+VL  - 92
+IS  - s2
+SN  - 0965-2140
+UR  - https://doi.org/10.1111/j.1360-0443.1997.tb02990.x
+DO  - doi:10.1111/j.1360-0443.1997.tb02990.x
+SP  - S173
+EP  - S187
+PY  - 1997
+AB  - Abstract ?Community mobilization? in the Community Trials Project refers to organizing community members to support and implement policies to reduce alcohol-involved trauma. This paper defines the conceptual model of mobilization used in the project. In evaluating the project, we were guided by the conceptual model and we used structured materials from interviews with local staff in all three experimental communities; we found that the overall goal of mobilization (implementation of policies) was achieved. Additional observations based on naturalistic case studies of the communities include: (1) the importance of an established research base, (2) the varying role and problematic nature of coalitions, (3) the strategic advantage of early project support r among the general population, (4) the role played by key leaders in mobilization, (5) the advantages of a multi-component design, and (6) the key role played by media advocacy.
+ER  - 
+
+TY  - JOUR
+AU  - Pellizzoni, Sandra
+AU  - Apuzzo, Gian Matteo
+AU  - De Vita, Chiara
+AU  - Agostini, Tiziano
+AU  - Passolunghi, Maria Chiara
+C7  - e12798
+TI  - Evaluation and training of Executive Functions in genocide survivors. The case of Yazidi children
+JO  - Developmental Science
+JA  - Dev Sci
+VL  - 22
+IS  - 5
+SN  - 1363-755X
+UR  - https://doi.org/10.1111/desc.12798
+DO  - doi:10.1111/desc.12798
+SP  - e12798
+KW  - cognitive control
+KW  - genocide
+KW  - hot and cool executive functions
+KW  - war context
+KW  - war trauma
+KW  - Yazidi minority
+PY  - 2019
+AB  - Abstract Executive Functions (EFs) development is critically affected by stress and trauma, as well as the socioeconomic context in which children grow up (Welsh, Nix, Blair, Bierman, & Nelson, 2010, Journal of Educational Psychology, 102, 43?53). Research in this field is surprisingly lacking in relation to war contexts. This study represents a first attempt at addressing this topic by evaluating EFs in Yazidi children. The Yazidi community is an ethnic and religious minority living in Iraq. From August 2014 onwards, the Yazidi community has been the target of several atrocities perpetrated by ISIS and described as genocide by the international community at large. The University of Trieste, thanks to a program financed by the Friuli Venezia Giulia Region, developed a study aimed at (a) evaluating hot and cool EFs in children living in a war context and (b) developing a specific training method to enhance hot and cool EFs in Yazidi children of preschool age (N = 53). Data related to this group of children were compared with a sample of typically developing Italian children randomly assigned to either an EFs training group (N = 55) or a passive control group (N = 51). Results indicate different baselines in EFs in Yazidi and Italian samples and a significant effect of the program on both trained groups, especially in tasks measuring hot EFs. Data are discussed in terms of hot and cool EFs in children growing in adverse environments, as well as the evaluation of educational and developmental opportunities to prevent children who survived genocide from becoming a ?lost generation?. A video abstract of this article can be viewed at https://youtu.be/7t_08TbxR_8.
+ER  - 
+
+TY  - JOUR
+TI  - Book Reviews
+JO  - Journal of Small Animal Practice
+VL  - 29
+IS  - 4
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/j.1748-5827.1988.tb02283.x
+DO  - doi:10.1111/j.1748-5827.1988.tb02283.x
+SP  - 261
+EP  - 266
+PY  - 1988
+AB  - Book reviewed in this article: Trauma Management in the Dog and Cat J. E. F. Houlton and P. M. Taylor Decision Making in Small Animal Radiology Diseases of Dogs C. W. Prescott. Small Animal Endocrinology F. H. Drazer. Manual of Small Animal Nephrology and Urology Edited by D. J. Chew and S. P. DiBartola. Cardiology; Contemporary Issues in Small Animal Practice Vol. 7 Edited by J. D. Bonagura
+ER  - 
+
+TY  - JOUR
+TI  - BOOK REVIEWS
+JO  - Journal of Advanced Nursing
+VL  - 26
+IS  - 1
+SN  - 0309-2402
+UR  - https://doi.org/10.1111/j.1365-2648.1997.tb00684.x
+DO  - doi:10.1111/j.1365-2648.1997.tb00684.x
+SP  - 209
+EP  - 213
+PY  - 1997
+AB  - Nursing History and the Politics of Welfare edited by Anne Marie Rafferty, Jane Robinson and Ruth Elkan. Understanding Family Care. A Multi-Dimensional Model of Caring and Coping by Mike Nolan, Grant and John Keady. Integrated Care Management: The Path to Success? edited by Jo Wilson. Burns Trauma: Management and Nursing Care edited by Chrissie Bosworth. Spiritual Pain by Doug Hiza. Critical Care Nursing 2nd edn by John M. Clochesey, Christine Breu, Suzette Cardin, Alice A. Whittaker and Ellen B. Rudy. W.B. Legal Aspects of Occupational Therapy by Bridgit C. Dimond. Effective Clinical Practice, edited by Andrew Miles and Myriam Lugon
+ER  - 
+
+TY  - JOUR
+AU  - Treno, Andrew J.
+AU  - Holder, Harold D.
+TI  - Community mobilization: evaluation of an environmental approach to local action
+JO  - Addiction
+VL  - 92
+IS  - 6s1
+SN  - 0965-2140
+UR  - https://doi.org/10.1046/j.1360-0443.92.6s1.2.x
+DO  - doi:10.1046/j.1360-0443.92.6s1.2.x
+SP  - 173
+EP  - 188
+PY  - 1997
+AB  - 'Community mobilization' in the Community Trials Project refers to organizing community members to support and implement policies to reduce alcohol-involved trauma. This paper defines the conceptual model of mobilization used in the project. In evaluating the project, we were guided by the conceptual model and we used structured materials from interviews with local staff in all three experimental communities; we found that the overall goal of mobilization (implementation of policies) was achieved. Additional observations based on naturalistic case studies of the communities include: (1) the importance of an established research base, (2) the varying role and problematic nature of coalitions, (3) the strategic advantage of early project support among the general population, (4) the role played by key leaders in mobilization, (5) the advantages of a multi-component design, and (6) the key role played by media advocacy.
+ER  - 
+
+AU  - de Jong, Joop
+C7  - pp. 217-262
+TI  - (Disaster) Public Mental Health
+SN  - 9780470688977
+UR  - https://doi.org/10.1002/9781119998471.ch6
+DO  - doi:10.1002/9781119998471.ch6
+SP  - 217-262
+KW  - (Disaster) public mental health - evidence of psychotherapy effectiveness
+KW  - best evidence, ‘specific ingredient’ in therapy - adding little to nonspecific effects of psychotherapy
+KW  - trauma experts, that limited evidence - for pharmacological agents in PTSD
+KW  - treatment gap - in conflict and disaster areas in LAMICs
+KW  - ratio of involvement, in low- and middle-income countries (LAMICs) - versus high-income countries, 10 to 1
+KW  - public mental health model - and LAMICs, principles and limitations
+KW  - selection criteria, priorities - for mental health and psychosocial interventions
+KW  - criterion of treatability, susceptibility to treatment - important, collaborating with complementary and alternative medicine (CAM)
+KW  - sustainability, good-quality interventions - integration in local communities and services
+KW  - tertiary prevention, family and individual levels - reducing anomia, through active rehabilitation
+PY  - 1997
+AB  - Summary This chapter contains sections titled: Introduction Scope of the Chapter Core Concepts and Definitions Phase 1. Assessment: Pre-Programme and Cyclical Phase 2. Selection Criteria Defining Priorities for Mental Health and Psychosocial Interventions Phase 3. Interventions: A Multimodal, Multisectoral and Multilevel Model Conclusion References
+ER  - 
+
+TY  - JOUR
+AU  - Salami, Firooz
+AU  - Wagner, Julia
+AU  - van Drongelen, Stefan
+AU  - Klotz, Matthias C M
+AU  - Dreher, Thomas
+AU  - Wolf, Sebastian I
+AU  - Niklasch, Mirjam
+TI  - Mid-term development of hamstring tendon length and velocity after distal femoral extension osteotomy in children with bilateral cerebral palsy: a retrospective cohort study
+JO  - Developmental Medicine & Child Neurology
+JA  - Dev Med Child Neurol
+VL  - 60
+IS  - 8
+SN  - 9780470688977
+UR  - https://doi.org/10.1111/dmcn.13739
+DO  - doi:10.1111/dmcn.13739
+SP  - 833
+EP  - 838
+PY  - 2018
+AB  - Aim Flexed knee gait can be treated with distal femoral extension osteotomy (DFEO) and additional patellar tendon advancement (PTA) in children with cerebral palsy (CP). This study assesses changes in hamstring muscle tendon length (MTL) and velocity after DFEO (+PTA). Method Nineteen children (mean age 13y [standard deviation 3y] at surgery) with CP and flexed knee gait who were treated with DFEO (15 limbs) or DFEO+PTA (10 limbs) were retrospectively included in this study. Gait analyses were performed preoperatively (E0), 1 year postoperatively (E1), and for 10 limbs additionally 2 to 5 years postoperatively (E2). Hamstring MTL and velocities were assessed at all examination dates using OpenSim. Results Hamstring MTL and velocity did not change significantly over time. From E0 to E1, knee flexion in stance improved for both DFEO and DFEO+PTA (p<0.05), knee flexion in swing only improved after DFEO+PTA (p<0.05). The improved knee flexion in stance and swing was maintained at E2. Interpretation DFEO led to a significant improvement in knee kinematics at E1 which was maintained at E2. DFEO seems to prevent recurrent hamstring tightness but does not lead to lengthened or fastened hamstrings. What this paper adds Distal femoral extension osteotomy (DFEO) does not change hamstring muscle tendon length. DFEO does not change hamstring lengthening velocity. DFEO leads to a significant improvement in knee kinematics. Changes in knee kinematics after DFEO can be maintained at mid-term. DFEO seems to prevent recurrent hamstring tightness.
+ER  - 
+
+TY  - JOUR
+AU  - Homer, Hayden Anthony
+TI  - Preimplantation genetic testing for aneuploidy (PGT-A): The biology, the technology and the clinical outcomes
+JO  - Australian and New Zealand Journal of Obstetrics and Gynaecology
+JA  - Aust N Z J Obstet Gynaecol
+VL  - 59
+IS  - 2
+SN  - 9780470688977
+UR  - https://doi.org/10.1111/ajo.12960
+DO  - doi:10.1111/ajo.12960
+SP  - 317
+EP  - 324
+KW  - aneuploidy
+KW  - embryo
+KW  - in vitro fertilisation
+KW  - mosaicism
+KW  - next generation sequencing
+KW  - PGT-A
+PY  - 2019
+AB  - Preimplantation genetic testing for aneuploidy (PGT-A) seeks to identify preimplantation embryos with a normal chromosome complement (euploid) during in vitro fertilisation (IVF). By sifting out embryos with abnormal chromosome numbers (aneuploid), PGT-A should theoretically improve pregnancy success. However, earlier versions of PGT-A were ineffective, and in some cases, detrimental, due to biopsy-induced trauma and because the technology at the time could analyse only a fraction of all chromosomes. More recently, the emergence of technologies enabling all chromosomes to be analysed and a switch to less traumatic blastocyst-stage biopsy have seen widespread uptake of PGT-A. Assessing the full impact of blastocyst biopsy PGT-A requires consideration of multiple factors, including embryonic mosaicism, sensitivity of the technological platform used, embryo loss during long-term in vitro culture, embryo cryopreservation and inter-clinic variability in expertise. Significantly, there hasnt yet been an appropriately designed randomised controlled trial (RCT) of blastocyst biopsy PGT-A analysed by intention-to-treat that accounts for all these parameters on a per-cycle basis. The three RCTs reporting benefits studied outcomes on a per-embryo transfer basis were small and underpowered and demonstrated benefits for a very select sub-group of good prognosis patients. The liberal use of this very expensive IVF add-on for other patient populations has not yet been shown to be effective, or indeed, without harm.
+ER  - 
+
+TY  - JOUR
+AU  - Auråen, Henrik
+AU  - Mollnes, Tom E.
+AU  - Bjørtuft, Øystein
+AU  - Bakkan, Per A.
+AU  - Geiran, Odd
+AU  - Kongerud, Johny
+AU  - Fiane, Arnt
+AU  - Holm, Are M.
+TI  - Multiorgan procurement increases systemic inflammation in brain dead donors
+JO  - Clinical Transplantation
+JA  - Clin Transplant
+VL  - 27
+IS  - 4
+SN  - 9780470688977
+UR  - https://doi.org/10.1111/ctr.12175
+DO  - doi:10.1111/ctr.12175
+SP  - 613
+EP  - 618
+KW  - brain death
+KW  - inflammation
+KW  - organ transplantation
+PY  - 2013
+AB  - Abstract Organs available for solid organ transplantation are mainly procured from brain dead donors. The inflammation associated with brain death may reduce organ quality and increase organ immunogenicity, thus leading to inferior recipient outcome. We hypothesized that the extensive surgical procedure performed during multiorgan procurement enhances the levels of systemic inflammatory biomarkers. We measured the levels of 27 cytokines and the terminal complement complex (TCC) in plasma samples from brain dead organ donors (n = 34) drawn before and at three specific time points during procurement surgery. Baseline levels of G-CSF, interferon-?, IL-1ra, IL-4, IL-6, IL-7, IL-8, IL-10, IP-10, MCP-1, macrophage inflammatory protein (MIP)-1?, platelet derived growth factor (PDGF), regulated upon activation T cell expressed and secreted, and tumor necrosis factor-α were significantly elevated in brain dead donors compared with normal individuals (n = 14), but they were not associated with time on ventilator or any other registered clinical variable. Notably, the secretion of G-CSF, IL1-ra, IL-6, IL-8, IL-10, IP-10, MCP-1, MIP-1?, PDGF, and TCC, the latter reflecting ongoing complement activation, increased significantly during surgery. None of the biomarker increases were correlated with operation duration. Multiorgan procurement surgery significantly adds to the inflammatory response revealed by both pro- and anti-inflammatory biomarkers associated with brain death. Future studies should determine whether this is associated with inferior recipient outcome.
+ER  - 
+
+TY  - JOUR
+AU  - Benigni, L.
+AU  - Morgan, N.
+AU  - Lamb, C. R.
+TI  - Radiographic appearance of cardiogenic pulmonary oedema in 23 cats
+JO  - Journal of Small Animal Practice
+VL  - 50
+IS  - 1
+SN  - 9780470688977
+UR  - https://doi.org/10.1111/j.1748-5827.2008.00655.x
+DO  - doi:10.1111/j.1748-5827.2008.00655.x
+SP  - 9
+EP  - 14
+PY  - 2009
+AB  - Objective: To describe the radiographic appearance of pulmonary oedema in cats with cardiac failure. Methods: Thoracic radiographs of 23 cats presented to a first opinion practice with signs of cardiac failure were reviewed. All cats had tachypnoea and/or dyspnoea and enlarged left atrium on echocardiography. Results: Pulmonary oedema was characterised radiographically by an increased opacity associated with a range of patterns and variable distribution. All cats had evidence of a reticular or granular interstitial pattern. This occurred in combination with alveolar pattern in 19 (83 per cent) cats, including six with air bronchograms, with increased diameter of pulmonary vessels in 16 (71 per cent) cats and with bronchial pattern in 14 (61 per cent) cats. The distribution of pulmonary oedema was considered to be diffuse/non-uniform in 14 (61 per cent) cats, diffuse/uniform in four (17 per cent) cats, multi-focal in four (17 per cent) cats and focal in the remaining one (4 per cent). Nine (39 per cent) cats were considered to have a regional distribution of oedema, including five (22 per cent) with a ventral distribution, three (13 per cent) with a caudal distribution and one (4 per cent) cat with a hilar distribution. The distribution of pulmonary opacities was bilaterally symmetrical in five (22 per cent) cats. Clinical Significance: The variable appearance of feline pulmonary oedema is likely to complicate its radiographic diagnosis.
+ER  - 
+
+TY  - JOUR
+AU  - Kogawa, Masakazu
+AU  - Wijenayaka, Asiri R
+AU  - Ormsby, Renee T
+AU  - Thomas, Gethin P
+AU  - Anderson, Paul H
+AU  - Bonewald, Lynda F
+AU  - Findlay, David M
+AU  - Atkins, Gerald J
+TI  - Sclerostin Regulates Release of Bone Mineral by Osteocytes by Induction of Carbonic Anhydrase 2
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 28
+IS  - 12
+SN  - 9780470688977
+UR  - https://doi.org/10.1002/jbmr.2003
+DO  - doi:10.1002/jbmr.2003
+SP  - 2436
+EP  - 2448
+KW  - SCLEROSTIN
+KW  - SOST
+KW  - CARBONIC ANHYDRASE 2
+KW  - OSTEOCYTE
+KW  - OSTEOCYTIC OSTEOLYSIS
+PY  - 2013
+AB  - ABSTRACT The osteocyte product sclerostin is emerging as an important paracrine regulator of bone mass. It has recently been shown that osteocyte production of receptor activator of NF-?B ligand (RANKL) is important in osteoclastic bone resorption, and we reported that exogenous treatment of osteocytes with sclerostin can increase RANKL-mediated osteoclast activity. There is good evidence that osteocytes can themselves liberate mineral from bone in a process known as osteocytic osteolysis. In the current study, we investigated sclerostin-stimulated mineral dissolution by human primary osteocyte-like cells (hOCy) and mouse MLO-Y4 cells. We found that sclerostin upregulated osteocyte expression of carbonic anhydrase 2 (CA2/Car2), cathepsin K (CTSK/Ctsk), and tartrate-resistant acid phosphatase (ACP5/Acp5). Because acidification of the extracellular matrix is a critical step in the release of mineral from bone, we further examined the regulation by sclerostin of CA2. Sclerostin stimulated CA2 mRNA and protein expression in hOCy and in MLO-Y4 cells. Sclerostin induced a decrease in intracellular pH (pHi) in both cell types as well as a decrease in extracellular pH (pHo) and the release of calcium ions from mineralized substrate. These effects were reversed in the co-presence of the carbonic anhydrase inhibitor, acetozolamide. Car2-siRNA knockdown in MLO-Y4 cells significantly inhibited the ability of sclerostin to both reduce the pHo and release calcium from a mineralized substrate. Knockdown in MLO-Y4 cells of each of the putative sclerostin receptors, Lrp4, Lrp5 and Lrp6, using siRNA, inhibited the sclerostin induction of Car2, Catk and Acp5 mRNA, as well as pHo and calcium release. Consistent with this activity of sclerostin resulting in osteocytic osteolysis, human trabecular bone samples treated ex vivo with recombinant human sclerostin for 7 days exhibited an increased osteocyte lacunar area, an effect that was reversed by the co-addition of acetozolamide. These findings suggest a new role for sclerostin in the regulation of perilacunar mineral by osteocytes. ? 2013 American Society for Bone and Mineral Research.
+ER  - 
+
+TY  - JOUR
+AU  - ARENDORF, T. M.
+AU  - WALKER, D. M.
+TI  - Denture stomatitis: a review
+JO  - Journal of Oral Rehabilitation
+VL  - 14
+IS  - 3
+SN  - 9780470688977
+UR  - https://doi.org/10.1111/j.1365-2842.1987.tb00713.x
+DO  - doi:10.1111/j.1365-2842.1987.tb00713.x
+SP  - 217
+EP  - 227
+PY  - 1987
+AB  - Summary Denture stomatitis has been reported in 11?67% of complete denture wearers. It is more common on the palatal mucosa and in female patients. In Newton's type I denture stomatitis, where the inflammation remains focal, trauma seems to be responsible. In Newton's types II and III denture stomatitis, where the denture-bearing mucosa is diffusely involved, most workers assert that the aetiology is multi-factorial. Evidence is presented incriminating Candida albicans colonization of the fitting surface of the prosthesis in many cases of denture stomatitis promoted by continuous denture wearing. Allergic and primary irritant reactions to the denture base material, systemic predisposing factors including dietary deficiency and haematological disorders, also play a part. In most cases of denture stomatitis, elimination of denture faults, control of denture plaque and discontinuous denture wearing are sufficient treatment. The routine use of antiseptic or antimycotic drugs seems unnecessary.
+ER  - 
+
+TY  - JOUR
+AU  - Jakeman, Lyn B.
+AU  - Chen, Ying
+AU  - Lucin, Kurt M.
+AU  - McTigue, Dana M.
+TI  - Mice lacking L1 cell adhesion molecule have deficits in locomotion and exhibit enhanced corticospinal tract sprouting following mild contusion injury to the spinal cord
+JO  - European Journal of Neuroscience
+VL  - 23
+IS  - 8
+SN  - 9780470688977
+UR  - https://doi.org/10.1111/j.1460-9568.2006.04721.x
+DO  - doi:10.1111/j.1460-9568.2006.04721.x
+SP  - 1997
+EP  - 2011
+KW  - biotinylated dextran amine
+KW  - BMS
+KW  - catwalk
+KW  - gridwalk
+KW  - Schwann cells
+KW  - sprouting
+PY  - 2006
+AB  - Abstract L1 is a member of the immunoglobulin superfamily of cell adhesion molecules that is associated with axonal growth, including formation of the corticospinal tract (CST). The present study describes the effects of L1 deletion on hindlimb function in locomotion, and examines the role of L1 in recovery and remodeling after contusive spinal cord injury (SCI) in mice. Uninjured adult L1 knockout (Y/?) mice had impaired performance on locomotor tests compared with their wild-type littermates (Y/+). Anterograde tracing demonstrated that CST axons project to thoracic, but not lumbar, levels of the spinal cord of Y/? mice, and revealed a diversion of these fibers from their position in the base of the dorsal columns. Retrograde tracing also revealed reduced numbers of descending projections from paraventricular hypothalamus and red nuclei to the lumbar spinal cord in Y/? mice. SCI at the mid-thoracic level produced a lesion encompassing the center of the spinal cord, including the site of the dorsal CST and surrounding gray matter (GM). The injury caused lasting deficits in fine aspects of locomotion. There was no effect of genotype on final lesion size or the growth of axons into the lesion area. However, injured Y/? mice demonstrated a robust expansion of CST projections throughout the GM of the cervical and thoracic spinal cord rostral to the lesion compared with Y/+ littermates. Thus, L1 is important for the development of multiple spinal projections and also contributes to the restriction of CST sprouting rostral to the site of a SCI in adults.
+ER  - 
+
+TY  - JOUR
+AU  - Hesse, Eliane
+AU  - Freudenberg, Uwe
+AU  - Niemietz, Thomas
+AU  - Greth, Carina
+AU  - Weisser, Melanie
+AU  - Hagmann, Sébastien
+AU  - Binner, Marcus
+AU  - Werner, Carsten
+AU  - Richter, Wiltrud
+C8  - TERM-16-0355.R1
+TI  - Peptide-functionalized starPEG/heparin hydrogels direct mitogenicity, cell morphology and cartilage matrix distribution in vitro and in vivo
+JO  - Journal of Tissue Engineering and Regenerative Medicine
+JA  - J Tissue Eng Regen Med
+VL  - 12
+IS  - 1
+SN  - 9780470688977
+UR  - https://doi.org/10.1002/term.2404
+DO  - doi:10.1002/term.2404
+SP  - 229
+EP  - 239
+PY  - 2018
+AB  - Abstract Cell-based tissue engineering is a promising approach for treating cartilage lesions, but available strategies still provide a distinct composition of the extracellular matrix and an inferior mechanical property compared to native cartilage. To achieve fully functional tissue replacement more rationally designed biomaterials may be needed, introducing bioactive molecules which modulate cell behavior and guide tissue regeneration. This study aimed at exploring the impact of cell-instructive, adhesion-binding (GCWGGRGDSP called RGD) and collagen-binding (CKLER/CWYRGRL) peptides, incorporated in a tunable, matrixmetalloprotease (MMP)-responsive multi-arm poly(ethylene glycol) (starPEG)/heparin hydrogel on cartilage regeneration parameters in vitro and in vivo. MMP-responsive-starPEG-conjugates with cysteine termini and heparin-maleimide, optionally pre-functionalized with RGD, CKLER, CWYRGRL or control peptides, were cross-linked by Michael type addition to embed and grow mesenchymal stromal cells (MSC) or chondrocytes. While starPEG/heparin-hydrogel strongly supported chondrogenesis of MSC according to COL2A1, BGN and ACAN induction, MMP-degradability enhanced cell viability and proliferation. RGD-modification of the gels promoted cell spreading with intense cell network formation without negative effects on chondrogenesis. However, CKLER and CWYRGRL were unable to enhance the collagen content of constructs. RGD-modification allowed more even collagen type II distribution by chondrocytes throughout the MMP-responsive constructs, especially in vivo. Collectively, peptide-instruction via heparin-enriched MMP-degradable starPEG allowed adjustment of self-renewal, cell morphology and cartilage matrix distribution in order to guide MSC and chondrocyte-based cartilage regeneration towards an improved outcome. Copyright ? 2017 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Leppäkoski, Tuija
+AU  - Åstedt-Kurki, Päivi
+AU  - Paavilainen, Eija
+TI  - Identification of women exposed to acute physical intimate partner violence in an emergency department setting in Finland
+JO  - Scandinavian Journal of Caring Sciences
+VL  - 24
+IS  - 4
+SN  - 9780470688977
+UR  - https://doi.org/10.1111/j.1471-6712.2009.00754.x
+DO  - doi:10.1111/j.1471-6712.2009.00754.x
+SP  - 638
+EP  - 647
+KW  - intimate partner violence
+KW  - identification of intimate partner violence
+KW  - emergency department
+KW  - triangulation
+KW  - descriptive
+KW  - cross-sectional multi-centre study
+KW  - physical violence
+KW  - women exposed to IPV
+PY  - 2010
+AB  - Scand J Caring Sci; 2010; 24; 638?647 ? Identification of women exposed to acute physical intimate partner violence in an emergency department setting in Finland Intimate partner violence (IPV) is seen as a serious health risk factor for women with significant acute and long-term health consequences and it affects women from all ethnic and socioeconomic groups. Knowledge of these consequences of IPV may help emergency department (ED) professionals to identify these women and provide them with appropriate care, including information on a variety of community services, and refer those women to such services if necessary. The study aimed to describe the frequency of ED visits by women exposed to physical intimate partner violence as estimated by ED professionals (nurses, practical nurses, emergency medical technicians) and identification of acute IPV. In this study ?partner? is defined as a woman?s husband, former husband, current or former cohabitant or partner. This design was used as part of a larger, descriptive, cross-sectional multi-centre and multi-method study. Data were collected from 28 EDs in 13 Finnish hospital districts. Altogether 488 questionnaires were returned, which yielded a response rate of 51%. The data were analysed using descriptive statistics and quantitative content analysis. Findings showed that 48% (n?=?231) of the ED professionals reported that they encountered women in IPV relationships at least once a month. Over one-fifth of the ED professionals reported having repeatedly encountered the same women visiting the ED for IPV related injuries. Over half of the participants reported having problems ?often? or ?now and then? when identifying women exposed to IPV. Those with training on IPV estimated that they had identified women exposed to IPV more often. To conclude, the research suggests that improvement of identification of acute IPV requires that training be arranged and jointly agreed written procedures for handling IPV be introduced.
+ER  - 
+
+TY  - JOUR
+AU  - Fine, Daniel
+AU  - Grattoni, Alessandro
+AU  - Goodall, Randy
+AU  - Bansal, Shyam S.
+AU  - Chiappini, Ciro
+AU  - Hosali, Sharath
+AU  - van de Ven, Anne L.
+AU  - Srinivasan, Srimeenkashi
+AU  - Liu, Xuewu
+AU  - Godin, Biana
+AU  - Brousseau III, Louis
+AU  - Yazdi, Iman K.
+AU  - Fernandez-Moure, Joseph
+AU  - Tasciotti, Ennio
+AU  - Wu, Hung-Jen
+AU  - Hu, Ye
+AU  - Klemm, Steve
+AU  - Ferrari, Mauro
+TI  - Silicon Micro- and Nanofabrication for Medicine
+JO  - Advanced Healthcare Materials
+JA  - Advanced Healthcare Materials
+VL  - 2
+IS  - 5
+SN  - 9780470688977
+UR  - https://doi.org/10.1002/adhm.201200214
+DO  - doi:10.1002/adhm.201200214
+SP  - 632
+EP  - 666
+KW  - biocomposites
+KW  - multi-stage logic embedded vectors
+KW  - nanochannels
+KW  - nanoneedles
+KW  - porous silicon
+PY  - 2013
+AB  - Abstract This manuscript constitutes a review of several innovative biomedical technologies fabricated using the precision and accuracy of silicon micro- and nanofabrication. The technologies to be reviewed are subcutaneous nanochannel drug delivery implants for the continuous tunable zero-order release of therapeutics, multi-stage logic embedded vectors for the targeted systemic distribution of both therapeutic and imaging contrast agents, silicon and porous silicon nanowires for investigating cellular interactions and processes as well as for molecular and drug delivery applications, porous silicon (pSi) as inclusions into biocomposites for tissue engineering, especially as it applies to bone repair and regrowth, and porous silica chips for proteomic profiling. In the case of the biocomposites, the specifically designed pSi inclusions not only add to the structural robustness, but can also promote tissue and bone regrowth, fight infection, and reduce pain by releasing stimulating factors and other therapeutic agents stored within their porous network. The common material thread throughout all of these constructs, silicon and its associated dielectrics (silicon dioxide, silicon nitride, etc.), can be precisely and accurately machined using the same scalable micro- and nanofabrication protocols that are ubiquitous within the semiconductor industry. These techniques lend themselves to the high throughput production of exquisitely defined and monodispersed nanoscale features that should eliminate architectural randomness as a source of experimental variation thereby potentially leading to more rapid clinical translation.
+ER  - 

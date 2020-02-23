@@ -1,0 +1,413 @@
+
+C7  - pp. 471-480
+TI  - Index
+SN  - 9780470657836
+UR  - https://doi.org/10.1002/9781118482117.index
+DO  - doi:10.1002/9781118482117.index
+SP  - 471-480
+ER  - 
+
+TY  - JOUR
+AU  - Zhao, Ni
+AU  - Zhan, Xiang
+AU  - Huang, Yen-Tsung
+AU  - Almli, Lynn M
+AU  - Smith, Alicia
+AU  - Epstein, Michael P.
+AU  - Conneely, Karen
+AU  - Wu, Michael C.
+TI  - Kernel machine methods for integrative analysis of genome-wide methylation and genotyping studies
+JO  - Genetic Epidemiology
+JA  - Genet. Epidemiol.
+VL  - 42
+IS  - 2
+SN  - 9780470657836
+UR  - https://doi.org/10.1002/gepi.22100
+DO  - doi:10.1002/gepi.22100
+SP  - 156
+EP  - 167
+KW  - kernel machine regression
+KW  - composite kernel
+KW  - variance component test
+KW  - integrative analysis
+PY  - 2018
+AB  - ABSTRACT Many large GWAS consortia are expanding to simultaneously examine the joint role of DNA methylation in addition to genotype in the same subjects. However, integrating information from both data types is challenging. In this paper, we propose a composite kernel machine regression model to test the joint epigenetic and genetic effect. Our approach works at the gene level, which allows for a common unit of analysis across different data types. The model compares the pairwise similarities in the phenotype to the pairwise similarities in the genotype and methylation values; and high correspondence is suggestive of association. A composite kernel is constructed to measure the similarities in the genotype and methylation values between pairs of samples. We demonstrate through simulations and real data applications that the proposed approach can correctly control type I error, and is more robust and powerful than using only the genotype or methylation data in detecting trait-associated genes. We applied our method to investigate the genetic and epigenetic regulation of gene expression in response to stressful life events using data that are collected from the Grady Trauma Project. Within the kernel machine testing framework, our methods allow for heterogeneity in effect sizes, nonlinear, and interactive effects, as well as rapid P-value computation.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts of the Annual Scientific Meeting of the Australasian College for Emergency Medicine 2003
+JO  - Emergency Medicine
+VL  - 16
+IS  - 2
+SN  - 9780470657836
+UR  - https://doi.org/10.1111/j.1742-6723.2004.00606.x
+DO  - doi:10.1111/j.1742-6723.2004.00606.x
+SP  - A1
+EP  - A33
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+TI  - 1995 SAEM ANNUAL MEETING ABSTRACTS
+JO  - Academic Emergency Medicine
+VL  - 2
+IS  - 5
+SN  - 9780470657836
+UR  - https://doi.org/10.1111/j.1553-2712.1995.tb03240.x
+DO  - doi:10.1111/j.1553-2712.1995.tb03240.x
+SP  - 338
+EP  - 472
+PY  - 1995
+ER  - 
+
+TY  - JOUR
+AU  - Watson, P. J.
+AU  - Roulois, A. J. A.
+AU  - Scase, T.
+AU  - Johnston, P. E. J.
+AU  - Thompson, H.
+AU  - Herrtage, M. E.
+TI  - Prevalence and breed distribution of chronic pancreatitis at post-mortem examination in first-opinion dogs
+JO  - Journal of Small Animal Practice
+VL  - 48
+IS  - 11
+SN  - 9780470657836
+UR  - https://doi.org/10.1111/j.1748-5827.2007.00448.x
+DO  - doi:10.1111/j.1748-5827.2007.00448.x
+SP  - 609
+EP  - 618
+PY  - 2007
+AB  - Objectives: To assess the prevalence of canine chronic pancreatitis in first-opinion practice and identify breed associations or other risk factors. Methods: Three sections of pancreas were taken from 200 unselected canine post-mortem examinations from first-opinion practices. Sections were graded for inflammation, fibrosis and other lesions. Prevalence and relative risks of chronic pancreatitis and other pancreatic diseases were calculated. Results: The prevalence of chronic pancreatitis was 34 per cent omitting the autolysed cases. Cavalier King Charles spaniels, collies and boxers had increased relative risks of chronic pancreatitis; cocker spaniels had an increased relative risks of acute and chronic pancreatitis combined. Fifty-seven per cent of cases of chronic pancreatitis were classified histologically as moderate or marked. Forty-one per cent of cases involved all three sections. Dogs with chronic pancreatitis were more commonly female and overweight, but neither factor increased the relative risk of chronic pancreatitis. There were breed differences in histological appearances and 24·5 per cent of cases were too autolysed to interpret with an increased relative risk of autolysis in a number of large breeds. Clinical Significance: Chronic pancreatitis is a common, under-estimated disease in the first-opinion dog population with distinctive breed risks and histological appearances.
+ER  - 
+
+AU  - Grossman, Shamai
+C7  - pp. 185-196
+TI  - Syncope
+SN  - 9780470670675
+UR  - https://doi.org/10.1002/9781119959809.ch13
+DO  - doi:10.1002/9781119959809.ch13
+SP  - 185-196
+KW  - syncope
+KW  - normal IUP
+KW  - aortic stenosis (AS)
+KW  - systolic ejection murmur
+KW  - left ventricular hypertrophy (LVH)
+KW  - bicuspid aortic valve, aortic stenosis
+KW  - syncopal event etiology
+KW  - transient dysrhythmia
+KW  - seizures and stroke, consciousness loss
+KW  - hypovolemia
+PY  - 2007
+AB  - Summary This chapter contains sections titled: Section I: Case presentation Section II: Case discussion Section III: Concepts Section IV: Decision making References
+ER  - 
+
+TY  - JOUR
+AU  - Staufner, Christian
+AU  - Lindner, Martin
+AU  - Dionisi-Vici, Carlo
+AU  - Freisinger, Peter
+AU  - Dobbelaere, Dries
+AU  - Douillard, Claire
+AU  - Makhseed, Nawal
+AU  - Straub, Beate K.
+AU  - Kahrizi, Kimia
+AU  - Ballhausen, Diana
+AU  - la Marca, Giancarlo
+AU  - Kölker, Stefan
+AU  - Haas, Dorothea
+AU  - Hoffmann, Georg F.
+AU  - Grünert, Sarah C.
+AU  - Blom, Henk J.
+TI  - Adenosine kinase deficiency: expanding the clinical spectrum and evaluating therapeutic options
+JO  - Journal of Inherited Metabolic Disease
+JA  - J Inherit Metab Dis
+VL  - 39
+IS  - 2
+SN  - 9780470670675
+UR  - https://doi.org/10.1007/s10545-015-9904-y
+DO  - doi:10.1007/s10545-015-9904-y
+SP  - 273
+EP  - 283
+PY  - 2016
+AB  - Abstract Background Adenosine kinase deficiency is a recently described defect affecting methionine metabolism with a severe clinical phenotype comprising mainly neurological and hepatic impairment and dysmorphism. Methods Clinical data of 11 additional patients from eight families with adenosine kinase deficiency were gathered through a retrospective questionnaire. Two liver biopsies of one patient were systematically evaluated. Results The main clinical symptoms are mild to severe liver dysfunction with neonatal onset, muscular hypotonia, global developmental retardation and dysmorphism (especially frontal bossing). Hepatic involvement is not a constant finding. Most patients have epilepsy and recurrent hypoglycemia due to hyperinsulinism. Major biochemical findings are intermittent hypermethioninemia, increased S-adenosylmethionine and S-adenosylhomocysteine in plasma and increased adenosine in urine. S-adenosylmethionine and S-adenosylhomocysteine are the most reliable biochemical markers. The major histological finding was pronounced microvesicular hepatic steatosis. Therapeutic trials with a methionine restricted diet indicate a potential beneficial effect on biochemical and clinical parameters in four patients and hyperinsulinism was responsive to diazoxide in two patients. Conclusion Adenosine kinase deficiency is a severe inborn error at the cross-road of methionine and adenosine metabolism that mainly causes dysmorphism, brain and liver symptoms, but also recurrent hypoglycemia. The clinical phenotype varies from an exclusively neurological to a multi-organ manifestation. Methionine-restricted diet should be considered as a therapeutic option.
+ER  - 
+
+TY  - JOUR
+AU  - Gaudeul, Myriam
+AU  - Till-Bottraud, Irène
+TI  - Low selfing in a mass-flowering, endangered perennial, Eryngium alpinum L. (Apiaceae)
+JO  - American Journal of Botany
+JA  - Am. J. Bot.
+VL  - 90
+IS  - 5
+SN  - 9780470670675
+UR  - https://doi.org/10.3732/ajb.90.5.716
+DO  - doi:10.3732/ajb.90.5.716
+SP  - 716
+EP  - 723
+KW  - Apiaceae
+KW  - conservation
+KW  - Eryngium alpinum
+KW  - inbreeding depression
+KW  - microsatellites
+KW  - pollination
+KW  - protandry
+KW  - self-incompatibility
+KW  - selfing rate
+PY  - 2003
+AB  - We investigated the reproductive ecology of an endangered alpine species, Eryngium alpinum L., to determine its selfing rate and to propose possible mechanisms that may shape its breeding system. Whereas pollinators' foraging behavior suggested a high potential for geitonogamy (70% of the flights occur within plants), microsatellite analyses of seed progenies demonstrated that plants are primarily outcrossing (outcrossing rate [tm] = 0.65, 0.96, and 1 in three populations). Given the relatively long pollen viability (at least 4?5 d) and the high number of simultaneously opened flowers on each plant, protandry is not sufficient to eliminate selfing. Second, controlled crosses demonstrated not only auto-fertility, but also partial self-incompatibility. Partial self-incompatibility is probably due to the competitive advantage of cross vs. self-pollen, and, together with protandry, could lead the species to selfing as a reproductive assurance. These results are encouraging for the maintenance of large populations. However, higher selfing was observed in a small population that could suffer inbreeding depression, as observed on experimentally selfed seeds. Thus, these populations should be carefully monitored. Finally, this study shows how molecular markers and field experiments may complement each other in our reaching a global understanding of mating patterns.
+ER  - 
+
+TY  - JOUR
+AU  - Brown, R. B.
+TI  - THE MANAGEMENT OF TESTICULAR EPIDERMOID CYSTS AND OTHER BENIGN INTRA-TUNICA ALBUGINEA TESTICULAR TUMOURS WITH PARTICULAR REFERENCE TO SCROTAL ULTRASOUND STUDIES
+JO  - Australian and New Zealand Journal of Surgery
+VL  - 54
+IS  - 3
+SN  - 9780470670675
+UR  - https://doi.org/10.1111/j.1445-2197.1984.tb05309.x
+DO  - doi:10.1111/j.1445-2197.1984.tb05309.x
+SP  - 229
+EP  - 232
+KW  - intra-tunica albuginea cysts
+KW  - epidermoid cysts
+KW  - ultrasound diagnosis
+KW  - management
+PY  - 1984
+AB  - Malignant tumours of the testis are the leading cause of cancer death in males between the ages of 25 and 35. Benign cystic or solid intra-tunica albuginea tumours of the testis are rare. Testicular ultrasound studies are not sufficiently accurate to establish a pre-operative diagnosis of a benign intra-tunica albuginea tumour but may assist in the diagnosis of inflammation, unequal uniform testicular size or where the anatomy has been altered by previous surgery or trauma.
+ER  - 
+
+TY  - JOUR
+AU  - Gouda, Pishoy
+AU  - Weilovitch, Lisa
+AU  - Kanani, Ronak
+AU  - Har, Bryan
+TI  - Case report and review of nonischemic spontaneous papillary muscle rupture reports between 2000 and 2015
+JO  - Echocardiography
+JA  - Echocardiography
+VL  - 34
+IS  - 5
+SN  - 9780470670675
+UR  - https://doi.org/10.1111/echo.13498
+DO  - doi:10.1111/echo.13498
+SP  - 786
+EP  - 790
+KW  - echocardiography
+KW  - papillary muscle dysfunction
+KW  - papillary muscles
+PY  - 2017
+AB  - Spontaneous papillary muscle rupture (PMR) is a rare cardiovascular emergency. We present a 63-year-old male who presents with acute dyspnea who was found to have an anterior PMR, with no evidence of coronary artery disease, infection, or trauma. A review of cases of nonischemic spontaneous PMR published in 2000?2015 identified 11 additional cases of spontaneous PMR. Posterior and anterior papillary muscles involvement was identified in 54.5% and 45.5% of cases, respectively. Rapid identification due to advances in imaging modalities and improved surgical management has led to optimal outcomes in patients with spontaneous PMR.
+ER  - 
+
+TY  - JOUR
+AU  - Jiang, J
+AU  - Petronic-Rosic, V
+AU  - Hoag, J
+AU  - Shea, CR
+TI  - Eccrine Mucinous Metaplasia Associated with An Apocrine Cystadenoma
+JO  - Journal of Cutaneous Pathology
+VL  - 32
+IS  - 1
+SN  - 9780470670675
+UR  - https://doi.org/10.1111/j.0303-6987.2005.320dh.x
+DO  - doi:10.1111/j.0303-6987.2005.320dh.x
+SP  - 96
+EP  - 96
+PY  - 2005
+AB  - Mucinous metaplasia occurs uncommonly in cutaneous pathology, usually at specialized anatomic locations (genitalia, palms, soles) and within restricted pathologic contexts (inflammation, trauma). Here we report a unique case of eccrine mucinous metaplasia associated with an apocrine cystadenoma. A 13-year-old girl had an asymptomatic, 4-mm nodule on the chest. Histopathology demonstrated a typical apocrine cystadenoma in the upper and middle dermis. Adjacent to this neoplasm was a cluster of coiled eccrine secretory ducts, of which the inner layer was almost entirely replaced by benign-appearing cells containing abundant, non-sulfated acid mucopolysaccharides. At eight months? follow-up, there was no recurrence. Our case demonstrates that, very uncommonly, mucinous metaplasia may be associated with a pathogenetically separate, adjacent neoplasm, in this instance an apocrine cystadenoma.
+ER  - 
+
+TY  - JOUR
+AU  - Bulluck, Heerajnarain
+AU  - Chan, Mervyn H. H.
+AU  - Bryant, Jennifer A.
+AU  - Chai, Ping
+AU  - Chawla, Ashish
+AU  - Chua, Terrance S.
+AU  - Chung, Yiu-Cho
+AU  - Fei, Gao
+AU  - Ho, Hee H.
+AU  - Ho, Andrew F. W.
+AU  - Hoe, Andrew J.
+AU  - Imran, Syed S.
+AU  - Lee, Chi-Hang
+AU  - Lim, Swee H.
+AU  - Liew, Boon W.
+AU  - Yun, Patrick L. Z.
+AU  - Hock, Marcus O. E.
+AU  - Paradies, Valeria
+AU  - Roe, Matthew T.
+AU  - Teo, Lynette
+AU  - Wong, Aaron S.
+AU  - Wong, Evelyn
+AU  - Wong, Philip E.
+AU  - Watson, Timothy
+AU  - Chan, Mark Y.
+AU  - Tan, Jack W.
+AU  - Hausenloy, Derek J.
+TI  - Platelet inhibition to target reperfusion injury trial: Rationale and study design
+JO  - Clinical Cardiology
+JA  - Clin Cardiol
+VL  - 42
+IS  - 1
+SN  - 9780470670675
+UR  - https://doi.org/10.1002/clc.23110
+DO  - doi:10.1002/clc.23110
+SP  - 5
+EP  - 12
+KW  - cangrelor
+KW  - cardiovascular magnetic resonance imaging
+KW  - microvascular obstruction
+KW  - myocardial infarct size
+KW  - primary percutaneous coronary intervention
+KW  - reperfusion injury
+KW  - ST-segment elevation myocardial infarction
+PY  - 2019
+AB  - Background In ST-segment elevation myocardial infarction (STEMI) patients treated with primary percutaneous coronary intervention (PPCI), current oral P2Y12 platelet inhibitors do not provide maximal platelet inhibition at the time of reperfusion. Furthermore, administration of cangrelor prior to reperfusion has been shown in pre-clinical studies to reduce myocardial infarct (MI) size. Therefore, we hypothesize that cangrelor administered prior to reperfusion in STEMI patients will reduce the incidence of microvascular obstruction (MVO) and limit MI size in STEMI patients treated with PPCI. Methods The platelet inhibition to target reperfusion injury (PITRI) trial, is a phase 2A, multi-center, double-blinded, randomized controlled trial, in which 210 STEMI patients will be randomized to receive either an intravenous (IV) bolus of cangrelor (30 ?g/kg) followed by a 120-minute infusion (4 ?g/kg/min) or matching saline placebo, initiated prior to reperfusion (NCT03102723). Results The study started in October 2017 and the anticipated end date would be July 2020. The primary end-point will be MI size quantified by cardiovascular magnetic resonance (CMR) on day 3 post-PPCI. Secondary endpoints will include markers of reperfusion, incidence of MVO, MI size, and adverse left ventricular remodeling at 6 months, and major adverse cardiac and cerebrovascular events. Summary The aim of the PITRI trial is to assess whether cangrelor administered prior to reperfusion would reduce acute MI size and MVO, as assessed by CMR.
+ER  - 
+
+C7  - pp. 1-9
+TI  - Diagnostic Testing in Emergency Care
+SN  - 9781405154000
+UR  - https://doi.org/10.1002/9781444300772.ch1
+DO  - doi:10.1002/9781444300772.ch1
+SP  - 1-9
+KW  - emergency department (ED)
+KW  - intracranial bleeding
+KW  - C-spine fractures
+KW  - pulmonary embolism
+KW  - D-dimer test (a test for pulmonary embolism)
+KW  - the test-treatment threshold
+KW  - large inferior ‘tombstone’ ST-segment elevations
+KW  - acute myocardial infarction (AMI)
+KW  - tissue plasminogen activator (tPA)
+PY  - 2019
+AB  - Summary This chapter contains sections titled: References
+ER  - 
+
+TY  - JOUR
+AU  - Vinci, P
+AU  - Perelli, SL
+AU  - Martini, D
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 10
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 9781405154000
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00010.x
+DO  - doi:10.1046/j.1529-8027.2003.00010.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - Hereditary neuropathy with liability to pressure palsies (HNPP) is an autosomal dominant disorder due to a chromosomal deletion of region containing PMP-22 gene or point mutations causing loss-of-function of PMP-22. HNPP usually presents with acute nerve paresis following mild trauma or compression, or as a chronic demyelinating neuropathy mimicking CMT1A. We describe a family composed by a woman (I-1), her 3 young children (II-1, II-2, III-3) and her sister (I-2). All patients showed weakness in flexor hallucis brevis and lumbricales muscles, with consequent poor stabilization of the metatarsophalangeal joints and toe hyperextension by the long toe extensors. I-1 (35?y/o) complained of short episodes of numbness, pain and weakness associated to mild traumas and postures since the age of 12. She traveled often and got easily tired. Her leg-sole angle during active dorsiflexion (LS) was 95 because of forefootdrop. She had varus heels, curled toes, hyperextended knees, antiverted pelvis, passive foot dorsiflexion (PFD), and reduced hip external rotation (ER). I-2 (38?y/o) had severe toe deformities requiring surgery, varus heels and LS?=?93. II-1 (male, 10?y/o) is asymptomatic. His LS was 85, whereas hip ER was reduced. II-2 (male, 6?y/o) complained of pain in the calves, soles, and behind the knees. He trips 5/day, falls 1/day and runs clumsily. His LS was 82, with hyperextended knees (8) and markedly reduced hip ER. II-3 (female, 4?y/o) had the same picture of II-2. Her LS was 85, PFD was reduced (7), hip ER reduced, and pelvis antiverted. In this patients, rehabilitation included proper shoes and foot orthoses, standing exercises on a table oscillating on the sagittal plane to recover ankle dorsiflexion and prevent knee hyperextension, active exercises to recover hip ER, postural and ambulation training. We expect that an early treatment of mild abnormalities presented by the children can prevent them from developing severe deformities and functional impairment.
+ER  - 
+
+TY  - JOUR
+AU  - Adya, Keshavmurthy A.
+AU  - Inamadar, Arun C.
+AU  - Palit, Aparna
+TI  - “Pitted” lesions in dermatology
+JO  - International Journal of Dermatology
+JA  - Int J Dermatol
+VL  - 56
+IS  - 1
+SN  - 9781405154000
+UR  - https://doi.org/10.1111/ijd.13358
+DO  - doi:10.1111/ijd.13358
+SP  - 3
+EP  - 17
+PY  - 2017
+AB  - Abstract Cutaneous pitting, dimpling, or depressions are frequently dealt with in clinical practice. Such lesions may be primary manifestations of a disorder or develop as secondary changes during the course of the disease. Cutaneous pitting may be a manifestation of certain genodermatoses and internal disorders when it serves as a marker of such conditions. This article describes various types of pitted lesions affecting the ectodermal structures (skin, nails, and teeth) and their clinical significance along with brief description of the associated conditions.
+ER  - 
+
+TY  - JOUR
+AU  - Graham, R. J. T. Y.
+AU  - Dixon, P. M.
+AU  - Haizelden, N.
+AU  - Morrison, L. R.
+AU  - Reardon, R. J. M.
+TI  - Surgical resection of calcinosis circumscripta in the funicular part of the nuchal ligament in the cranial cervical region of a horse
+JO  - Equine Veterinary Education
+JA  - Equine Vet Educ
+VL  - 31
+IS  - 7
+SN  - 9781405154000
+UR  - https://doi.org/10.1111/eve.12869
+DO  - doi:10.1111/eve.12869
+SP  - 348
+EP  - 353
+KW  - horse
+KW  - calcinosis circumscripta
+KW  - nuchal ligament
+KW  - neck
+KW  - cranial cervical region
+PY  - 2019
+AB  - Summary This report describes a 10-year-old Welsh Section D gelding presented for signs of neck stiffness that was found to have a mineralised lesion in the funicular part of the nuchal ligament overlying the dorsal aspect of the first cervical vertebra using radiography and ultrasonography. Surgical resection of the mass, including a complete removal of the adjacent nuchal ligament, resulted in improvement in the signs of neck stiffness. Histopathological examination identified the mass as calcinosis circumscripta. These lesions do not appear to have been reported at this site nor has outcome following excision of a complete section of the nuchal ligament.
+ER  - 
+
+TY  - JOUR
+AU  - Ewert, Benjamin
+TI  - Focusing on quality care rather than ‘checking boxes’: How to exit the labyrinth of multiple accountabilities in hybrid healthcare arrangements
+JO  - Public Administration
+JA  - Public Admin
+VL  - n/a
+IS  - n/a
+SN  - 9781405154000
+UR  - https://doi.org/10.1111/padm.12556
+DO  - doi:10.1111/padm.12556
+AB  - Accountability relations in modern-day welfare states have multiplied due to the complex interaction of institutional and sectoral logics. Against this backdrop, this article seeks to unravel complexities which surround accountability relations in hybrid healthcare arrangements. For this purpose, a framework of multi-faceted identity is suggested in order to theoretically grasp multiple accountabilities of healthcare professionals. Accordingly, healthcare professionals have a cross-cutting identity (being a professional) that is fortified with nested identities such as the one of partner, citizen and manager. Each identity facet is attached to a specific accountability form such as professional and civic society accountability. By focusing on three settings of healthcare provision?hospital, outpatient and integrated care?the usefulness of a multi-faceted identity framework will be illustrated. It is concluded that developing a more nuanced understanding of healthcare professionals? multiple identities and attached accountabilities might be a good starting point for planning healthcare redesign.
+ER  - 
+
+AU  - Welch, Stephen M.
+AU  - Nelson, Christopher S.
+AU  - Barnes, Stephen L.
+C7  - pp. 59-67
+TI  - Hemodynamic and Respiratory Monitoring
+SN  - 9781119317920
+UR  - https://doi.org/10.1002/9781119317913.ch6
+DO  - doi:10.1002/9781119317913.ch6
+SP  - 59-67
+KW  - deoxygenated hemoglobin
+KW  - hemodynamic monitoring
+KW  - oxygen delivery
+KW  - oxygen transport monitoring
+KW  - pulse oximetry monitors
+KW  - rapid shallow breathing index
+KW  - respiratory monitoring
+AB  - Summary This is a unique question-and-answer chapter for surgical residents and trainees, concentrating on the hemodynamic and respiratory monitoring. It is essential for a practitioner to understand oxygen delivery and how it can be optimized when providing adequate hemodynamic support in the critically ill patient. The rapid shallow breathing index (RSBI) is the ratio of respiratory frequency to tidal volume. Patients who cannot tolerate independent breathing tend to breathe rapidly and shallow. Multiple factors can affect the accuracy of pulse oximetry monitors. CO-oximetry is a four wavelength non-invasive monitoring system that allows additional measurements of blood constituents. It not only measures oxygenated and deoxygenated hemoglobin, as pulse oximetry does, but also dyshemoglobins. End-tidal CO2 monitoring can help identify problems immediately after intubation and before critical hypoxemia becomes manifest. Adding lactate determinations to oxygen transport monitoring provides a more complete assessment of tissue oxygenation.
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Presentation Abstracts: 2017 ACVS Surgery Summit October 12-14, Indianapolis, Indiana
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 46
+IS  - 7
+SN  - 9781119317920
+UR  - https://doi.org/10.1111/vsu.12710
+DO  - doi:10.1111/vsu.12710
+SP  - E1
+EP  - E75
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+AU  - Ueda, Kazuki
+AU  - Turner, Patricia
+AU  - Gagner, Michel
+TI  - Stress response to laparoscopic liver resection
+JO  - HPB
+VL  - 6
+IS  - 4
+SN  - 9781119317920
+UR  - https://doi.org/10.1080/13651820410023987
+DO  - doi:10.1080/13651820410023987
+SP  - 247
+EP  - 252
+KW  - laparoscopic liver resection
+KW  - surgical stress
+KW  - minimally invasive surgery
+KW  - immunology
+PY  - 2004
+AB  - Background The magnitude of the systemic response is proportional to the degree of surgical trauma. Much has been reported in the literature comparing metabolic and immune responses, analgesia use, or length of hospital stay between laparoscopic and open procedures. In particular, metabolic and immune responses are represented by measuring various chemical mediators as stress responses. Laparoscopic procedures are associated with reduced operative trauma compared with open procedures, resulting in lower systemic response. As a result, laparoscopic procedures are now well accepted for both benign and malignant processes. Laparoscopic liver resection, specifically, is employed for symptomatic and some malignant tumors, following improvements in diagnostic accuracy, laparoscopic devices, and techniques. However, laparoscopic liver resection is still controversial in malignant disease because of complex anatomy, the technical difficulty of the procedure, and questionable indications. There are few reports describing the stress responses associated with laparoscopic liver resection, even though many studies reviewing stress responses have been performed recently in both humans and animal models comparing laparoscopic to conventional open surgery. Although this review examines stress response after laparoscopic liver resection in both an animal and human clinical model, further controlled randomized studies with additional investigations of immunologic parameters are needed to demonstrate the consequences of either minimally invasive surgery or open procedures on perioperative or postoperative stress responses for laparoscopic liver resection.
+ER  - 

@@ -1,0 +1,333 @@
+
+TY  - JOUR
+TI  - 2016 ACVIM Forum Research Abstract Program
+JO  - Journal of Veterinary Internal Medicine
+JA  - J Vet Intern Med
+VL  - 30
+IS  - 4
+SN  - 0891-6640
+UR  - https://doi.org/10.1111/jvim.13952
+DO  - doi:10.1111/jvim.13952
+SP  - 1407
+EP  - 1519
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - Acute Pancreatitis
+JO  - HPB
+VL  - 7
+IS  - S1
+SN  - 1365-182X
+UR  - https://doi.org/10.1080/16515320510046948
+DO  - doi:10.1080/16515320510046948
+SP  - 58
+EP  - 68
+PY  - 2005
+ER  - 
+
+AU  - McGurk, Paula
+AU  - Elia, Marinos
+AU  - Zazzo, Jean-Fabien
+C7  - pp. 208-229
+TI  - Nutrition and the Pancreas
+SN  - 9781405168106
+UR  - https://doi.org/10.1002/9781119211945.ch13
+DO  - doi:10.1002/9781119211945.ch13
+SP  - 208-229
+KW  - diabetes mellitus
+KW  - diet
+KW  - insulin
+KW  - intravenous feeding
+KW  - nasogastric feeding
+KW  - nutrition
+KW  - pancreas
+PY  - 2005
+AB  - Summary The management of diabetes is underpinned by observations that good metabolic control can not only prevent short-term problems, such as those associated with hypo- and hyperglycaemia, but also long-term complications. Special nutritional problems, including those involving nasogastric and intravenous feeding, are discussed in this chapter. There are three main groups of oral drugs that are commonly used in the treatment of type 2 diabetes: biguanides, sulphonylureas, and thiazolidinediones. An insulin pump attempts to imitate the healthy pancreas, although it delivers insulin into the peripheral circulation, whereas the pancreas delivers it into the portal circulation, which produces important 'first-pass' metabolic effects in the liver. In summary, while the healthy diet for healthy people is also generally appropriate for people with diabetes, there are also specific considerations associated with the timing of food ingestion.
+ER  - 
+
+TY  - JOUR
+AU  - An, Gary
+AU  - Bartels, John
+AU  - Vodovotz, Yoram
+TI  - In silico augmentation of the drug development pipeline: examples from the study of acute inflammation
+JO  - Drug Development Research
+JA  - Drug Dev. Res.
+VL  - 72
+IS  - 2
+SN  - 9781405168106
+UR  - https://doi.org/10.1002/ddr.20415
+DO  - doi:10.1002/ddr.20415
+SP  - 187
+EP  - 200
+KW  - inflammation
+KW  - mathematical model
+KW  - sepsis
+KW  - trauma
+KW  - rational drug design
+KW  - in silico clinical trial
+PY  - 2011
+AB  - Abstract The clinical translation of promising basic biomedical findings, whether derived from reductionist studies in academic laboratories or as the product of extensive high-throughput and high-content screens in the biotechnology and pharmaceutical industries, has reached a period of stagnation in which ever higher research and development costs are yielding ever fewer new drugs. Systems biology and computational modeling have been touted as potential avenues by which to break through this logjam. However, few mechanistic computational approaches are used in a manner that is fully cognizant of the inherent clinical realities in which the drugs developed through this ostensibly rational process will be ultimately used. This article presents a translational systems biology approach to inflammation. This approach is based on the use of mechanistic computational modeling centered on inherent clinical applicability, namely that a unified suite of models can be applied to generate in silico clinical trials, individualized computational models as tools for personalized medicine, and rational drug and device design based on disease mechanism. Drug Dev Res 72: 187?200, 2011. ??? 2010 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Park, Je Young
+AU  - Rim, Jong Hyun
+AU  - Choe, Yong Beom
+AU  - Youn, Jai Il
+TI  - Arsenic Keratosis and Pigmentation Accompanied by Multiple Bowen's Disease and Genitourinary Cancer in a Psoriasis Patient
+JO  - The Journal of Dermatology
+JA  - The Journal of Dermatology
+VL  - 29
+IS  - 7
+SN  - 9781405168106
+UR  - https://doi.org/10.1111/j.1346-8138.2002.tb00304.x
+DO  - doi:10.1111/j.1346-8138.2002.tb00304.x
+SP  - 446
+EP  - 451
+KW  - arsenic keratosis and pigmentation
+KW  - Bowen's disease
+KW  - genitourinary cancer
+KW  - psoriasis
+PY  - 2002
+AB  - Abstract We report a case of arsenic keratosis and pigmentation accompained by multiple Bowen's disease and genitourinary cancer in a 64-year-old man. He was a psoriasis patient with a history of herbal medication for about thirty years. He showed multiple hyperkeratotic plaques on the bilateral palms, soles, and multiple, brownish, scaly, elevated papules on the back in addition to diffuse hyperpigmentation. Biopsy confirmed arsenic keratosis and Bowen's disease. Transitional cell carcinoma was also detected on his ureter and bladder during follow-up. The skin lesions were treated with topical 5-fluorouracil, etretinate, and excision with improvement.
+ER  - 
+
+TY  - JOUR
+TI  - P03. Posters 3
+JO  - Australasian Journal of Dermatology
+VL  - 38
+IS  - S2
+SN  - 9781405168106
+UR  - https://doi.org/10.1111/ajd.1997.38.s2.192
+DO  - doi:10.1111/ajd.1997.38.s2.192
+SP  - 192
+EP  - 228
+PY  - 1997
+ER  - 
+
+C7  - pp. 431-451
+TI  - General Pathophysiology of Neuroglia
+SN  - 9780470978528
+UR  - https://doi.org/10.1002/9781118402061.ch9
+DO  - doi:10.1002/9781118402061.ch9
+SP  - 431-451
+KW  - microglia
+KW  - neuroglia
+KW  - neurological disorders
+KW  - oligodendrocytes
+KW  - reactive astrogliosis
+KW  - Wallerian degeneration
+PY  - 1997
+AB  - Summary All diseases, including neurological diseases, can be broadly defined as homeostatic failures. Neuroglial cells are a major component of pathogenesis of neurological diseases. The function of neuroglia is neuroprotection. In neurological diseases, glia attempt to maintain tissue and cellular homeostasis. Reactive astrogliosis can be defined as a constitutive, graded, multi-stage and evolutionary conserved defensive astroglial reaction. It can be classified according to (a) morphological appearances, and (b) severity. This chapter focuses on Wallerian degeneration which is currently used to describe axonal degeneration in both CNS and PNS. Wallerian degeneration is a specialised active process that involves activation of localised signals in both axons and surrounding glial cells. The chapter dicusses excitotoxic vulnerability of oligodendrocytes. The main function of microglia is to detect insults to the CNS and to mount a defensive response, the activation of microglia. The activated microglia can change the repertoire and levels of expression of numerous receptors.
+ER  - 
+
+TY  - JOUR
+TI  - Oral abstracts
+JO  - Journal of Clinical Periodontology
+VL  - 36
+IS  - s9
+SN  - 9780470978528
+UR  - https://doi.org/10.1111/j.1600-051X.2009.01403.x
+DO  - doi:10.1111/j.1600-051X.2009.01403.x
+SP  - 1
+EP  - 39
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+TI  - Posters
+JO  - Journal of Gastroenterology and Hepatology
+VL  - 19
+IS  - s5
+SN  - 9780470978528
+UR  - https://doi.org/10.1111/j.1440-1746.2004.03623.x
+DO  - doi:10.1111/j.1440-1746.2004.03623.x
+SP  - A324
+EP  - A500
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+AU  - Sjögren, Ulf
+AU  - Ohlin, Acke
+AU  - Sundqvist, Göran
+AU  - Lerner, Ulf H.
+TI  - Gutta-percha-stimulated mouse macrophages release factors that activate the bone resorptive system of mouse calvarial bone
+JO  - European Journal of Oral Sciences
+VL  - 106
+IS  - 4
+SN  - 9780470978528
+UR  - https://doi.org/10.1046/j.0909-8836.1998.eos106406.x
+DO  - doi:10.1046/j.0909-8836.1998.eos106406.x
+SP  - 872
+EP  - 881
+PY  - 1998
+ER  - 
+
+TY  - JOUR
+TI  - Poster Session
+JO  - European Journal of Immunology
+JA  - Eur. J. Immunol.
+VL  - 39
+IS  - S1
+SN  - 9780470978528
+UR  - https://doi.org/10.1002/eji.200990286
+DO  - doi:10.1002/eji.200990286
+SP  - S624
+EP  - S760
+PY  - 2009
+AB  - Abstract No Abtract
+ER  - 
+
+TY  - JOUR
+TI  - E-Poster Display
+JO  - Journal of the European Academy of Dermatology and Venereology
+JA  - J Eur Acad Dermatol Venereol
+VL  - 33
+IS  - S3
+SN  - 9780470978528
+UR  - https://doi.org/10.1111/jdv.15514
+DO  - doi:10.1111/jdv.15514
+SP  - 45
+EP  - 85
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+AU  - Collier, Bryan
+AU  - Dossett, Lesly A.
+AU  - May, Addison K.
+AU  - Diaz, Jose J.
+TI  - Glucose Control and the Inflammatory Response
+JO  - Nutrition in Clinical Practice
+JA  - Nutr Clin Pract
+VL  - 23
+IS  - 1
+SN  - 9780470978528
+UR  - https://doi.org/10.1177/011542650802300103
+DO  - doi:10.1177/011542650802300103
+SP  - 3
+EP  - 15
+PY  - 2008
+AB  - Though first introduced more than 130 years ago, the concept of stress diabetes or stress hyperglycemia has gained tremendous attention in recent years in view of the landmark article by van den Berghe and colleagues in 2001. As opposed to earlier work that suggested that hyperglycemia in the acute clinical setting may be beneficial, it now appears that lower glucose levels are associated with improved outcomes. The mechanisms behind the improved outcomes are numerous and seem to be tied to the inflammatory process. Both lower glucose values and insulin therapy seem to be anti-inflammatory, whereas hyperglycemia increases the proinflammatory process and negatively affects the innate immune system. Despite the numerous approaches to achieve normoglycemia described in the literature, only modest success has been achieved. Understanding the pathophysiology driving stress hyperglycemia?the stress response and modulation of the inflammatory process?seems to be the key to improving the care of the most critically ill and injured patients.
+ER  - 
+
+TY  - JOUR
+AU  - Low, Wan-Li
+AU  - Kenward, Ken
+AU  - Britland, Stephen T
+AU  - Amin, Mohd CIM
+AU  - Martin, Claire
+TI  - Essential oils and metal ions as alternative antimicrobial agents: a focus on tea tree oil and silver
+JO  - International Wound Journal
+JA  - Int Wound J
+VL  - 14
+IS  - 2
+SN  - 9780470978528
+UR  - https://doi.org/10.1111/iwj.12611
+DO  - doi:10.1111/iwj.12611
+SP  - 369
+EP  - 384
+KW  - Antimicrobial
+KW  - Silver
+KW  - Tea tree oil
+KW  - Wound infection
+PY  - 2017
+AB  - Abstract The increasing occurrence of hospital-acquired infections and the emerging problems posed by antibiotic-resistant microbial strains have both contributed to the escalating cost of treatment. The presence of infection at the wound site can potentially stall the healing process at the inflammatory stage, leading to the development of a chronic wound. Traditional wound treatment regimes can no longer cope with the complications posed by antibiotic-resistant strains; hence, there is a need to explore the use of alternative antimicrobial agents. Pre-antibiotic compounds, including heavy metal ions and essential oils, have been re-investigated for their potential use as effective antimicrobial agents. Essential oils have potent antimicrobial, antifungal, antiviral, anti-inflammatory, antioxidant and other beneficial therapeutic properties. Similarly, heavy metal ions have also been used as disinfecting agents because of their broad spectrum activities. Both of these alternative antimicrobials interact with many different intracellular components, thereby resulting in the disruption of vital cell functions and eventually cell death. This review will discuss the application of essential oils and heavy metal ions, particularly tea tree oil and silver ions, as alternative antimicrobial agents for the treatment of chronic, infected wounds.
+ER  - 
+
+TY  - JOUR
+TI  - ACR/ARHP scientific abstracts
+JO  - Arthritis & Rheumatism
+JA  - Arthritis & Rheumatism
+VL  - 43
+IS  - S9
+SN  - 9780470978528
+UR  - https://doi.org/10.1002/art.1780432007
+DO  - doi:10.1002/art.1780432007
+SP  - S67
+EP  - S115
+PY  - 2000
+ER  - 
+
+TY  - JOUR
+AU  - Izikson, L.
+AU  - Bhan, A.
+AU  - Zembowicz, A.
+TI  - Androgen Receptor Expression Helps to Differentiate BCC From Trichoblastoma and Trichoepithelioma
+JO  - Journal of Cutaneous Pathology
+VL  - 32
+IS  - 1
+SN  - 9780470978528
+UR  - https://doi.org/10.1111/j.0303-6987.2005.320dd.x
+DO  - doi:10.1111/j.0303-6987.2005.320dd.x
+SP  - 95
+EP  - 95
+PY  - 2005
+AB  - Histological differentiation between basal cell carcinoma and benign trichoblastic neoplasms such as trichoepithelioma and trichoblastoma can be difficult on small biopsies. Therefore, several attempts have been made to identify immunohistochemical differences between these entities. Recent studies showed androgen receptor expression in a number of mature epithelial structures in the skin and in epithelial neoplasms including basal cell carcinoma. In contrast, androgen receptor expression was absent in mature hair follicles or the few trichogenic neoplasms studied to date. These findings suggested that androgen receptor expression might be a useful adjunct in the histological differential diagnosis between basal cell carcinoma and benign trichoblastic neoplasms. Therefore, we performed immunohistochemical analysis of androgen receptor expression in 32 basal cell carcinomas and 10 benign trichoblastic tumors (6 trichoepitheliomas and 4 trichoblastomas). In our study, expression of androgen receptor was detected in 78% of basal cell carcinomas. None of the trichoblastic tumors showed any androgen receptor immunoreactivity. These results confirm the lack of androgen receptor expression in benign trichoblastic neoplasms and indicate that finding of androgen receptor expression points to basal cell carcinoma as the most likely diagnosis.
+ER  - 
+
+AU  - Monteiro-Riviere, Nancy A.
+C7  - pp. 851-880
+TI  - Dermatotoxicology
+SN  - 9780470102114
+UR  - https://doi.org/10.1002/9780470285251.ch35
+DO  - doi:10.1002/9780470285251.ch35
+SP  - 851-880
+KW  - dermatotoxicology and dermatotoxity
+KW  - dermatotoxicology and model system selection
+KW  - nanoparticle dermal toxicity
+PY  - 2005
+AB  - Summary This chapter contains sections titled: Introduction Functions of Skin Epidermis Anatomical Factors to Consider in Model Selection Percutaneous Absorption and Penetration Dermatotoxicity Dermal Toxicity of Nanoparticles Conclusion Suggested Reading
+ER  - 
+
+TY  - JOUR
+AU  - Naylor, R. J.
+AU  - Dunkel, B.
+TI  - The treatment of diarrhoea in the adult horse
+JO  - Equine Veterinary Education
+VL  - 21
+IS  - 9
+SN  - 9780470102114
+UR  - https://doi.org/10.2746/095777309X468140
+DO  - doi:10.2746/095777309X468140
+SP  - 494
+EP  - 504
+KW  - horse
+KW  - diarrhoea
+KW  - equine
+KW  - endotoxaemia
+KW  - colitis
+KW  - systemic inflammation
+PY  - 2009
+AB  - Summary The priority in treating the equine patient with acute diarrhoea is to stabilise the haemodynamic aberrations secondary to the fluid and electrolyte losses. Once this has been initiated and the patient is stabilised ancillary treatments may be beneficial. Besides the well established effects of NSAIDs and polymixin B on systemic inflammation, recent studies suggest that the use of DTOS to bind bacterial toxins and Saccharomyces boulardii to reduce the severity and duration of diarrhoea may be beneficial. The justification for using probiotic products is scant. There is no evidence to suggest that systemic use of antimicrobials benefits equine patients with colitis, with the exception of metronidazole in cases of clostridial diarrhoea. In light of their potentially detrimental effects, their use can, in the opinion of the authors, not be advocated. Better understanding of the pathways of systemic inflammation and more selective anti-inflammatory drugs may be of great benefit in the future.
+ER  - 
+
+TY  - JOUR
+TI  - Symposia
+JO  - The FEBS Journal
+JA  - FEBS J
+VL  - 283
+IS  - S1
+SN  - 9780470102114
+UR  - https://doi.org/10.1111/febs.13805
+DO  - doi:10.1111/febs.13805
+SP  - 11
+EP  - 56
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - Oral Abstracts
+JO  - Colorectal Disease
+JA  - Colorectal Dis
+VL  - 19
+IS  - S4
+SN  - 9780470102114
+UR  - https://doi.org/10.1111/codi.13850
+DO  - doi:10.1111/codi.13850
+SP  - 4
+EP  - 13
+PY  - 2017
+ER  - 

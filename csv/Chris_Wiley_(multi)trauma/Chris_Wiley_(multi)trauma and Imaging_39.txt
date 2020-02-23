@@ -1,0 +1,437 @@
+
+TY  - JOUR
+AU  - Tian, S. Y.
+AU  - Zou, L.
+AU  - Quan, X.
+AU  - Zhang, Y.
+AU  - Xue, F. S.
+AU  - Ye, T. H.
+TI  - Effect of midazolam on memory: a study of process dissociation procedure and functional magnetic resonance imaging
+JO  - Anaesthesia
+VL  - 65
+IS  - 6
+SN  - 0003-2409
+UR  - https://doi.org/10.1111/j.1365-2044.2010.06343.x
+DO  - doi:10.1111/j.1365-2044.2010.06343.x
+SP  - 586
+EP  - 594
+PY  - 2010
+AB  - Summary To assess the effects of midazolam on explicit and implicit memories, 12 volunteers were randomly divided into the two groups: one with an Observer?s Assessment of Alertness/Sedation score of 3 (mild sedation) and one with a score of 1 (deep sedation). Blood oxygen-level-dependent functional magnetic resonance imaging was measured before and during an auditory stimulus, then with midazolam sedation, and then during a second auditory stimulus with continuous midazolam sedation. After 4?h, explicit and implicit memories were assessed. There was no evidence of explicit memory at the two levels of midazolam sedation. Implicit memory was retained at a mild level of midazolam sedation but absent at a deep level of midazolam sedation. At a mild level of midazolam sedation, activation of all brain areas by auditory stimulus (as measured by functional magnetic resonance imaging) was uninhibited. However, a deep level of midazolam sedation depressed activation of the superior temporal gyrus by auditory stimulus. We conclude that midazolam does not abolish implicit memory at a mild sedation level, but can abolish both explicit and implicit memories at a deep sedation level. The superior temporal gyrus may be one of the target areas.
+ER  - 
+
+TY  - JOUR
+AU  - Smith, Philip
+C8  - LICO-0846
+TI  - Holocaust Trauma and Jewish Identity across Generations in Alison Pick's Far to Go
+JO  - Literature Compass
+JA  - Literature Compass
+VL  - 13
+IS  - 9
+SN  - 1741-4113
+UR  - https://doi.org/10.1111/lic3.12339
+DO  - doi:10.1111/lic3.12339
+SP  - 530
+EP  - 537
+PY  - 2016
+AB  - Abstract The central purpose of this paper is to outline the key concerns with regard to literature by the children and grandchildren of those Jewish individuals who lived through the Nazi killing project. This paper begins with a cross-disciplinary survey of the issues which surround the recurring questions of Jewish identity and the right to speak on the Shoah for the second and third generation. The argument presented is that, due to the moral and logistical immensity of their subject, as well as the dominant discourse on the Holocaust, many members of the second and third generations do not feel that they are able to take ownership of, or see themselves as a part of, their family history. These themes are then explored in relation to third-generation writer Alison Pick's novel Far to Go, looking specifically at the ways in which the novel reflects question of Jewish identity for the second and third generation.
+ER  - 
+
+TY  - JOUR
+AU  - Decarli, C.
+AU  - Murphy, D. G. M.
+AU  - Teichberg, D.
+AU  - Campbell, G.
+AU  - Sobering, G. S.
+TI  - Local histogram correction of MRI spatially dependent image pixel intensity nonuniformity
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J. Magn. Reson. Imaging
+VL  - 6
+IS  - 3
+SN  - 1053-1807
+UR  - https://doi.org/10.1002/jmri.1880060316
+DO  - doi:10.1002/jmri.1880060316
+SP  - 519
+EP  - 528
+KW  - MRI nonuniformity correction
+KW  - Cerebral volumes
+KW  - MRI segmentation
+PY  - 1996
+AB  - Abstract We describe a computationally straightforward post-hoc statistical method of correcting spatially dependent image pixel intensity nonuniformity based on differences in local tissue intensity distributions. Pixel intensity domains for the various tissues of the composite image are identified and compared to the distributions of local samples. The nonuniformity correction is calculated as the difference of the local sample median from the composite sample median for the tissue class most represented by the sample. The median was chosen to reduce the effect ers on determining the sample statistic and to allow a sample size small enough to accurately estimate the spatial variance of the image intensity nonuniformity. The method was designed for application to two-dimensional images. Simulations were used to estimate optimal conditions of local histogram kernel size and to test the accuracy of the method under known spatially dependent nonuniformities. The method was also applied to correct a phantom image and cerebral MRIs from 15 healthy subjects. Results show that the method accurately models simulated spatially dependent image intensity differences. Further analysis of clinical MR data showed that the variance of pixel intensities within the cerebral MRI slices and the variance of slice volumes within individuals were significantly reduced after nonuniformity correction. Improved brain-cerebrospinal fluid segmentation was also obtained. The method significantly reduced the variance of slice volumes within individuals, whether it was applied to the native images or images edited to remove nonbrain tissues. This statistical method was well behaved under the assumptions and the images tested. The general utility of the method was not determined, but conditions for testing the method under a variety of imaging sequences is discussed. We believe that this algorithm can serve as a method for improving MR image segmentation for clinical and research applications.
+ER  - 
+
+TY  - JOUR
+AU  - Rivero, M. A.
+AU  - Arencibia, A.
+AU  - Latorre, R.
+AU  - Gil, F.
+AU  - Vilar, J. M.
+AU  - Vázquez, J. M.
+TI  - Magnetic Resonance Imaging and Cross Section Images of the Cat Thorax
+JO  - Anatomia, Histologia, Embryologia
+VL  - 34
+IS  - s1
+SN  - 0340-2096
+UR  - https://doi.org/10.1111/j.1439-0264.2005.00669_98.x
+DO  - doi:10.1111/j.1439-0264.2005.00669_98.x
+SP  - 43
+EP  - 44
+PY  - 2005
+AB  - Accurate interpretation of thoracic magnetic resonance images requires a thorough knowledge of anatomy of this region. The purpose of this communication is to describe the normal cross sectional anatomy of the thoracic cavity of the cat, using MR images, dissections and macroscopic sections. In this study, three cats were used. The animals were anesthetized and positioned in sternal recumbency in the MR scanner. MR imaging was performed at the Special Diagnostic Service of San Roque Clinic of Las Palmas de Gran Canaria with a superconducting magnet operating at a field strength of 1.5?Tesla and a human body coil. Spin echo pulse sequences were used to obtain T1-weighted images in tranverse and sagittal planes. At the conclusion of imaging, the cats were euthanatized for medical reasons unrelated to disease of thorax. The cats were frozen and then sectioned using an electric band saw. The cuts were matched as closely as possible to the MR images for identifying the normal planimetric anatomy of the thoracic structures. MR T1-weighted spin echo images provided excellent anatomic appearance of the thorax structures. In MR images the grey scale is directly related to the signal intensity of the thoracic cavity structures. Thus, fat and nerves had higher signal intensity compared with the lower signal intensity of the respiratory system. Bone marrow and muscles had a intermediate signal intensity and appeared gray. The intensity signal of the articular fluid permits a good differentiation of the opposing cartilage surfaces on all MR images. The planimetric or sectional anatomy of the thoracic cavity in the cat allows a correct morphologic and topographic evaluation of the anatomic structures, being helpful tool for the identification of the MR images. The information presented should serve as an initial reference to evaluate MR images of the feline thorax and to assist interpretation of lesions of this region.
+ER  - 
+
+TY  - JOUR
+AU  - Pannell, Maria
+AU  - Economopoulos, Vasiliki
+AU  - Wilson, Thomas C.
+AU  - Kersemans, Veerle
+AU  - Isenegger, Patrick G.
+AU  - Larkin, James R.
+AU  - Smart, Sean
+AU  - Gilchrist, Stuart
+AU  - Gouverneur, Véronique
+AU  - Sibson, Nicola R.
+TI  - Imaging of translocator protein upregulation is selective for pro-inflammatory polarized astrocytes and microglia
+JO  - Glia
+JA  - Glia
+VL  - 68
+IS  - 2
+SN  - 0894-1491
+UR  - https://doi.org/10.1002/glia.23716
+DO  - doi:10.1002/glia.23716
+SP  - 280
+EP  - 297
+KW  - astrocytes
+KW  - brain inflammation
+KW  - microglia
+KW  - PET
+KW  - translocator protein
+PY  - 2020
+AB  - Abstract Translocator protein (TSPO) expression is increased in activated glia, and has been used as a marker of neuroinflammation in PET imaging. However, the extent to which TSPO upregulation reflects a pro- or anti-inflammatory phenotype remains unclear. Our aim was to determine whether TSPO upregulation in astrocytes and microglia/macrophages is limited to a specific inflammatory phenotype. TSPO upregulation was assessed by flow cytometry in cultured astrocytes, microglia, and macrophages stimulated with lipopolysaccharide (LPS), tumor necrosis factor (TNF), or interleukin-4 (Il-4). Subsequently, mice were injected intracerebrally with either a TNF-inducing adenovirus (AdTNF) or IL-4. Glial expression of TSPO and pro-/anti-inflammatory markers was assessed by immunohistochemistry/fluorescence and flow cytometry. Finally, AdTNF or IL-4 injected mice underwent PET imaging with injection of the TSPO radioligand 18F-DPA-713, followed by ex vivo autoradiography. TSPO expression was significantly increased in pro-inflammatory microglia/macrophages and astrocytes both in vitro, and in vivo after AdTNF injection (p?<?.001 vs. control hemisphere), determined both histologically and by FACS. Both PET imaging and autoradiography revealed a significant (p?<?.001) increase in 18F-DPA-713 binding in the ipsilateral hemisphere of AdTNF-injected mice. In contrast, no increase in either TSPO expression assessed histologically and by FACS, or ligand binding by PET/autoradiography was observed after IL-4 injection. Taken together, these results suggest that TSPO imaging specifically reveals the pro-inflammatory population of activated glial cells in the brain in response to inflammatory stimuli. Since the inflammatory phenotype of glial cells is critical to their role in neurological disease, these findings may enhance the utility and application of TSPO imaging.
+ER  - 
+
+TY  - JOUR
+AU  - Leese, Peter
+TI  - Broken Men: Shell Shock, Treatment and Recovery in Britain 1914–30. By Fiona Reid . Continuum. 2010. 214pp. £19.99. Treating the Trauma of the Great War: Soldiers, Civilians and Psychiatry in France 1914–1940. By Gregory M. Thomas . Louisiana State University Press. 2009. ix + 259pp. £53.30. The Politics of War Trauma: The Aftermath of World War II in Eleven European Countries. Edited by Jolande Withuis and Annet Mooij . Aksant. 2010. x + 369pp. £44.74.
+JO  - Annual Bulletin of Historical Literature
+JA  - Annual Bulletin of Historical Literature
+VL  - 96
+IS  - 1
+SN  - 0066-3832
+UR  - https://doi.org/10.1111/1467-8314.12034
+DO  - doi:10.1111/1467-8314.12034
+SP  - 89
+EP  - 92
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+AU  - Mukherji, S K
+AU  - Brown, D L
+AU  - Ballen, K
+TI  - Contained rupture of the inferior vena cava: diagnosis by ultrasonography and magnetic resonance imaging
+JO  - Journal of Ultrasound in Medicine
+VL  - 11
+IS  - 6
+SN  - 0278-4297
+UR  - https://doi.org/10.7863/jum.1992.11.6.293
+DO  - doi:10.7863/jum.1992.11.6.293
+SP  - 293
+EP  - 295
+PY  - 1992
+ER  - 
+
+TY  - JOUR
+AU  - Di Blasi, Maria
+AU  - Cavani, Paola
+AU  - Pavia, Laura
+AU  - Lo Baido, Rosa
+AU  - La Grutta, Sabina
+AU  - Schimmenti, Adriano
+TI  - The relationship between self-Image and social anxiety in adolescence
+JO  - Child and Adolescent Mental Health
+JA  - Child Adolesc Ment Health
+VL  - 20
+IS  - 2
+SN  - 1475-357X
+UR  - https://doi.org/10.1111/camh.12071
+DO  - doi:10.1111/camh.12071
+SP  - 74
+EP  - 80
+KW  - Social anxiety
+KW  - self-image
+KW  - adolescence
+KW  - treatment
+PY  - 2015
+AB  - Background Self-image is the subjective perception about one's own self, body, mental functioning, social attitudes, and adjustment in different aspects of life. Research has linked negative self-image with a number of problem behaviors and psychiatric symptoms in adolescence; however, studies of the relationship between self-image and anxiety disorders are still scarce. Method This study involved a community sample of 1305 high-school students (51.4% female) who ranged in age from 14 to 19 years old. They completed self-report measures of self-image and social anxiety disorder (SAD). Results A quarter of the students reported high levels of social anxiety. Statistical analyses showed significant differences between these students and the other students in all the self-image subscales. Several dimensions of impaired self-image (emotional tone, social attitudes, vocational and educational goals, family relationships, external mastery, and psychological health) were associated with high levels of social anxiety, with some gender differences underpinning these relationships. Conclusions Clinicians treating SAD in youth may wish to consider that a negative self-image may play a critical role in the onset and retention of social anxiety symptoms.
+ER  - 
+
+TY  - JOUR
+AU  - Cater, Heather L.
+AU  - Gitterman, Daniel
+AU  - Davis, Susan M.
+AU  - Benham, Christopher D.
+AU  - Morrison III, Barclay
+AU  - Sundstrom, Lars E.
+TI  - Stretch-induced injury in organotypic hippocampal slice cultures reproduces in vivo post-traumatic neurodegeneration: role of glutamate receptors and voltage-dependent calcium channels
+JO  - Journal of Neurochemistry
+VL  - 101
+IS  - 2
+SN  - 0022-3042
+UR  - https://doi.org/10.1111/j.1471-4159.2006.04379.x
+DO  - doi:10.1111/j.1471-4159.2006.04379.x
+SP  - 434
+EP  - 447
+KW  - calcium
+KW  - electrophysiology
+KW  - glutamate
+KW  - immunohistochemistry
+KW  - trauma
+KW  - traumatic brain injury
+PY  - 2007
+AB  - Abstract The relationship between an initial mechanical event causing brain tissue deformation and delayed neurodegeneration in vivo is complex because of the multiplicity of factors involved. We have used a simplified brain surrogate based on rat hippocampal slices grown on deformable silicone membranes to study stretch-induced traumatic brain injury. Traumatic injury was induced by stretching the culture substrate, and the biological response characterized after 4?days. Morphological abnormalities consistent with traumatic injury in humans were widely observed in injured cultures. Synaptic function was significantly reduced after a severe injury. The N-methyl-D-aspartate (NMDA) receptor antagonist MK-801 attenuated neuronal damage, prevented loss of microtubule-associated protein 2 immunoreactivity and attenuated reduction of synaptic function. In contrast, the NMDA receptor antagonists 3-[(R)-2-carboxypiperazin-4-yl]-propyl-1-phosphonic acid (CPP) and GYKI53655, were neuroprotective in a moderate but not a severe injury paradigm. Nifedipine, an L-type voltage-dependent calcium channel antagonist was protective only after a moderate injury, whereas ?-conotoxin attenuated damage following severe injury. These results indicate that the mechanism of damage following stretch injury is complex and varies depending on the severity of the insult. In conclusion, the pharmacological, morphological and electrophysiological responses of organotypic hippocampal slice cultures to stretch injury were similar to those observed in vivo. Our model provides an alternative to animal testing for understanding the mechanisms of post-traumatic delayed cell death and could be used as a high-content screen to discover neuroprotective compounds before advancing to in vivo models.
+ER  - 
+
+TY  - JOUR
+AU  - Morgan, Keaton R. S.
+AU  - Singh, Ameet
+AU  - Giuffrida, Michelle A.
+AU  - Balsa, Ingrid M.
+AU  - Hayes, Galina
+AU  - Chu, Margaret L.
+AU  - Thomson, Christopher B.
+AU  - Arai, Shiori
+AU  - Smeak, Daniel D.
+AU  - Monnet, Eric
+AU  - Selmic, Laura E.
+AU  - Cray, Megan
+AU  - Grimes, Janet A.
+AU  - Morris, Taylor
+AU  - Case, J. Brad
+AU  - Biskup, Jeffrey J.
+AU  - Haas, Jason
+AU  - Thieman-Mankin, Kelley
+AU  - Milovancev, Milan
+AU  - Gatineau, Mathieu
+TI  - Outcome after surgical and conservative treatments of canine peritoneopericardial diaphragmatic hernia: A multi-institutional study of 128 dogs
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 49
+IS  - 1
+SN  - 0161-3499
+UR  - https://doi.org/10.1111/vsu.13360
+DO  - doi:10.1111/vsu.13360
+SP  - 138
+EP  - 145
+PY  - 2020
+AB  - Abstract Objective To compare demographics and disease characteristics in dogs in which peritoneopericardial diaphragmatic hernia (PPDH) had been diagnosed and report outcomes after surgical treatment (ST) or conservative treatment (CT). Study design Retrospective study. Sample population One hundred twenty-eight dogs (91 ST, 37 CT) in which PPDH had been diagnosed. Methods Medical records were reviewed for demographics, perioperative findings, and outcomes. Follow-up was obtained via telephone interview and email correspondence with owners and referring veterinarians. Baseline variables were compared between treatment groups. Results Dogs treated surgically were younger (P < .001), more likely to be sexually intact (P = .002), more likely to have clinical signs from PPDH vs an incidental diagnosis (P < .001), and more likely to have other congenital abnormalities (P = .003) compared with dogs treated conservatively. Ninety-seven percent of ST dogs were discharged from hospitals. Intraoperative and postoperative complications were reported in 22% and 41% of dogs, respectively, although most complications were classified as low grade (75% and 83%, respectively). Follow-up was available in 87 dogs, at a median of 1062?days. Hernia recurrence was not reported in any surgically treated dog. The deaths of nine dogs (five ST, four CT) could be attributed to PPDH, and long median survival times were observed in both the ST and CT groups (8.2 and 5?years, respectively). Conclusion Preoperative characteristics differed between dogs treated conservatively vs surgically. Surgical treatment was associated with low operative mortality, and both ST and CT dogs had good long-term survival. Clinical significance A diagnosis of PPDH can confer a good long-term prognosis for both ST and CT dogs.
+ER  - 
+
+TY  - JOUR
+AU  - Perles-Barbacaru, Adriana T.
+AU  - Berger, François
+AU  - Lahrech, Hana
+TI  - Quantitative rapid steady state T1 magnetic resonance imaging for cerebral blood volume mapping in mice: Lengthened measurement time window with intraperitoneal Gd-DOTA injection
+JO  - Magnetic Resonance in Medicine
+JA  - Magn Reson Med
+VL  - 69
+IS  - 5
+SN  - 0740-3194
+UR  - https://doi.org/10.1002/mrm.24365
+DO  - doi:10.1002/mrm.24365
+SP  - 1451
+EP  - 1456
+KW  - acetazolamide
+KW  - cerebral microvasculature
+KW  - mice
+KW  - rapid steady state T1 magnetic resonance imaging
+KW  - quantitative cerebral blood volume fraction
+PY  - 2013
+AB  - Abstract This work demonstrates how the rapid steady state T1 MRI technique for cerebral blood volume fraction (BVf) quantification can be used with intraperitoneal Gd-DOTA injections in mice at 4.7 T. The peak signal amplitude after intravenous administration (0.7 mmol/kg) and the steady state signal amplitude reached 15 min after intraperitoneal administration (6 mmol/kg) in the same mice lead to equivalent BVf measures in the order of 0.02 in the brain. The resulting time window for BVf quantification is ≈30 min and allows for cerebral BVf mapping with increased spatial resolution or signal-to-noise ratio, or for monitoring functional BVf changes. A cerebral BVf increase of up to 25% induced by the vasodilator acetazolamide was observed, validating the vascular origin of the signal. The noninvasive and quantitative rapid steady state T1 technique can be used in serial studies to evaluate new drugs or disease models, such as antiangiogenic therapies in tumors. Magn Reson Med, 2013. ? 2012 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Meiser-Stedman, Richard
+AU  - Smith, Patrick
+AU  - McKinnon, Anna
+AU  - Dixon, Clare
+AU  - Trickey, David
+AU  - Ehlers, Anke
+AU  - Clark, David M.
+AU  - Boyle, Adrian
+AU  - Watson, Peter
+AU  - Goodyer, Ian
+AU  - Dalgleish, Tim
+TI  - Cognitive therapy as an early treatment for post-traumatic stress disorder in children and adolescents: a randomized controlled trial addressing preliminary efficacy and mechanisms of action
+JO  - Journal of Child Psychology and Psychiatry
+JA  - J Child Psychol Psychiatr
+VL  - 58
+IS  - 5
+SN  - 0021-9630
+UR  - https://doi.org/10.1111/jcpp.12673
+DO  - doi:10.1111/jcpp.12673
+SP  - 623
+EP  - 633
+KW  - Post-traumatic stress disorder
+KW  - cognitive therapy
+PY  - 2017
+AB  - Background Few efficacious early treatments for post-traumatic stress disorder (PTSD) in children and adolescents exist. Previous trials have intervened within the first month post-trauma and focused on secondary prevention of later post-traumatic stress; however, considerable natural recovery may still occur up to 6-months post-trauma. No trials have addressed the early treatment of established PTSD (i.e. 2- to 6-months post-trauma). Methods Twenty-nine youth (8?17 years) with PTSD (according to age-appropriate DSM-IV or ICD-10 diagnostic criteria) after a single-event trauma in the previous 2?6 months were randomly allocated to Cognitive Therapy for PTSD (CT-PTSD; n = 14) or waiting list (WL; n = 15) for 10 weeks. Results Significantly more participants were free of PTSD after CT-PTSD (71%) than WL (27%) at posttreatment (intent-to-treat, 95% CI for difference .04?.71). CT-PTSD yielded greater improvement on child-report questionnaire measures of PTSD, depression and anxiety; clinician-rated functioning; and parent-reported outcomes. Recovery after CT-PTSD was maintained at 6- and 12-month posttreatment. Beneficial effects of CT-PTSD were mediated through changes in appraisals and safety-seeking behaviours, as predicted by cognitive models of PTSD. CT-PTSD was considered acceptable on the basis of low dropout and high treatment credibility and therapist alliance ratings. Conclusions This trial provides preliminary support for the efficacy and acceptability of CT-PTSD as an early treatment for PTSD in youth. Moreover, the trial did not support the extension of ?watchful waiting? into the 2- to 6-month post-trauma window, as significant improvements in the WL arm (particularly in terms of functioning and depression) were not observed. Replication in larger samples is needed, but attention to recruitment issues will be required.
+ER  - 
+
+TY  - JOUR
+AU  - Rozen, W. M.
+AU  - Ashton, M. W.
+AU  - Stella, D. L.
+AU  - Ferris, S.
+AU  - White, D. C.
+AU  - Phillips, T. J.
+AU  - Taylor, G. I.
+TI  - Developments in perforator imaging for the anterolateral thigh flap: CT angiography and CT-guided stereotaxy
+JO  - Microsurgery
+JA  - Microsurgery
+VL  - 28
+IS  - 4
+SN  - 0738-1085
+UR  - https://doi.org/10.1002/micr.20485
+DO  - doi:10.1002/micr.20485
+SP  - 227
+EP  - 232
+PY  - 2008
+AB  - Abstract Introduction: The anterolateral thigh flap is an increasingly popular reconstructive option despite uncertainty in its perforator anatomy. Perforators are not always present, vary in size and intramuscular course, and have variable cutaneous courses and supply. As such, preoperative imaging has become favored. Methods: The current study describes the preliminary use of two new modalities for preoperative imaging: computed tomography (CT) Angiography and CT-guided stereotaxy. These have been utilized in the preoperative imaging of two patients undergoing ALT flap reconstruction. Each patient underwent each of these techniques combined with Doppler ultrasound, the previous standard modality. The size, location, and course of perforators were explored and compared with operative findings. Results: Both techniques are technically feasible, highly accurate, and provide more information to the surgeon than ultrasound. Conclusion: CT Angiography and CT-guided stereotaxy are useful adjuncts to Doppler ultrasound for imaging perforators prior to ALT flaps. A larger study is suggested to quantify the accuracy of these techniques. ? 2008 Wiley-Liss, Inc. Microsurgery, 2008.
+ER  - 
+
+TY  - JOUR
+AU  - Temple, Nikki
+AU  - Donald, Cortny
+AU  - Skora, Amanda
+AU  - Reed, Warren
+TI  - Neuroimaging in adult penetrating brain injury: a guide for radiographers
+JO  - Journal of Medical Radiation Sciences
+JA  - J Med Radiat Sci
+VL  - 62
+IS  - 2
+SN  - 2051-3895
+UR  - https://doi.org/10.1002/jmrs.101
+DO  - doi:10.1002/jmrs.101
+SP  - 122
+EP  - 131
+KW  - Angiography
+KW  - computed tomography
+KW  - magnetic resonance imaging
+KW  - penetrating brain injuries
+PY  - 2015
+AB  - Abstract Penetrating brain injuries (PBI) are a medical emergency, often resulting in complex damage and high mortality rates. Neuroimaging is essential to evaluate the location and extent of injuries, and to manage them accordingly. Currently, a myriad of imaging modalities are included in the diagnostic workup for adult PBI, including skull radiography, computed tomography (CT), magnetic resonance imaging (MRI) and angiography, with each modality providing their own particular benefits. This literature review explores the current modalities available for investigating PBI and aims to assist in decision making for the appropriate use of diagnostic imaging when presented with an adult PBI. Based on the current literature, the authors have developed an imaging pathway for adult penetrating brain injury that functions as both a learning tool and reference guide for radiographers and other health professionals. Currently, CT is recommended as the imaging modality of choice for the initial assessment of PBI patients, while MRI is important in the sub-acute setting where it aids prognosis prediction and rehabilitation planning, Additional follow-up imaging, such as angiography, should be dependent upon clinical findings.
+ER  - 
+
+TY  - JOUR
+AU  - Grinsell, D. G.
+AU  - Rozen, W. M.
+TI  - PR21 PLANNING GLUTEAL ARTERY PERFORATOR FLAPS FOR BREAST RECONSTRUCTION WITH PREOPERATIVE IMAGING
+JO  - ANZ Journal of Surgery
+VL  - 79
+IS  - s1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/j.1445-2197.2009.04927_21.x
+DO  - doi:10.1111/j.1445-2197.2009.04927_21.x
+SP  - A58
+EP  - A58
+PY  - 2009
+AB  - Background:?? While autologous breast reconstruction is frequently sought, donor sites providing versatility in volume with low donor site morbidity other than the abdominal wall are limited. Gluteal artery perforator flaps have been described in this role, however variations in individual vascular anatomy have resulted in the difficult planning of flaps, and particularly selection of whether superior or inferior gluteal artery perforators should be utilized. Methods:?? Five consecutive patients underwent a gluteal artery perforator flap for breast reconstruction. Preoperative imaging of the gluteal artery vasculature was undertaken with computed tomographic angiography (CTA). Both superior and inferior gluteal artery perforators were mapped on imaging, and the dominant system selected preoperatively. The anatomical basis, operative technique and outcomes are discussed. Results:?? In all cases, CTA was able to demonstrate individual vascular anatomy, and select the optimal perforators supplying the gluteal integument. Either a superior gluteal artery perforator (SGAP) or inferior gluteal artery perforator (IGAP) flap was planned, and undertaken successfully in each case. There was a 100% flap survival, with low donor site morbidity. Conclusion:?? With the use of preoperative planning, selection of either an SGAP or IGAP flap can be reliably made based on individual vascular anatomy. With low donor site morbidity and good aesthetic outcomes, gluteal artery perforator flaps are a good option in cases where the abdominal wall is not appropriate.
+ER  - 
+
+TY  - JOUR
+AU  - CARRIÉ, DIDIER
+AU  - LEFEVRE, THIERRY
+AU  - CHERRADI, RHIZLAN
+AU  - DUMAS, PIERRE
+AU  - ELBAZ, MEYER
+AU  - FINET, GÉRARD
+AU  - PUEL, JACQUES
+AU  - MORICE, MARIE CLAUDE
+TI  - Does Carbofilm Coating Affect In-Stent Intimal Proliferation? A Randomized Trial Comparing Rx Multi-Link Penta and Tecnic Carbostent™ Stents: SIROCCO Trial
+JO  - Journal of Interventional Cardiology
+VL  - 20
+IS  - 5
+SN  - 0896-4327
+UR  - https://doi.org/10.1111/j.1540-8183.2007.00281.x
+DO  - doi:10.1111/j.1540-8183.2007.00281.x
+SP  - 381
+EP  - 388
+PY  - 2007
+AB  - Objectives: To compare the volume of in-stent neointimal proliferation, assessed by intravascular ultrasound (IVUS), at 6-month follow-up after implantation of a coronary Carbofilm?-coated stent (Tecnic Carbostent?, Sorin Biomedica Cardio, Saluggia, Italy) versus a conventional 316 L stent (Rx Multi-Link Penta, Abbott Laboratories, Abbott Park, IL). Background: Many trials suggest that stent characteristics and coating could be important determinants of restenosis. Methods: From October 2004 to May 2005, 63 patients were randomized to Tecnic (T, n = 30) or Penta (P, n = 33). The primary end-point was in-stent volume of neointimal hyperplasia (NIH) measured by IVUS at 6 months. The secondary end-points included binary restenosis, minimal luminal diameter (MLD), target lesion revascularization, and major adverse cardiac events. Results: There were no significant differences between T and P as to mean age, male gender, clinical status, complexity of the lesion, lesion length, reference vessel diameter before percutaneous coronary intervention (PCI), MLD pre-PCI, and stent-to-artery ratio. However, MLD poststenting was greater in P group than T group (2.81 ± 0.45 mm vs. 2.49 ± 0.33 mm, P < 0.002). At 6 months, angiographic late lumen loss (0.61 ± 0.51 mm vs. 0.92 ± 0.61 mm, P < 0.043), in-stent obstruction (25.86 ± 16.48% vs. 38.33 ± 19.56%, P = 0.021), and in-stent late loss volume (31.62 ± 29.75 mm3 vs. 57.28 ± 37.16 mm3, P = 0.016) were significantly lower in T group than in P group. Conclusion: Penta stent appears to offer a better deployment and a larger MLD post-PCI than Carbofilm-coated stent. However, a thicker NIH was observed on Penta stent at 6-month follow-up, when compared to Tecnic.
+ER  - 
+
+TY  - JOUR
+AU  - Ober, C. P.
+AU  - Freeman, L. E.
+TI  - Computed Tomographic, Magnetic Resonance Imaging, and Cross-Sectional Anatomic Features of the Manus in a Normal American Black Bear (Ursus americanus)
+JO  - Anatomia, Histologia, Embryologia
+VL  - 39
+IS  - 3
+SN  - 0340-2096
+UR  - https://doi.org/10.1111/j.1439-0264.2010.01001.x
+DO  - doi:10.1111/j.1439-0264.2010.01001.x
+SP  - 233
+EP  - 242
+PY  - 2010
+AB  - With 11 figures and 1 table Summary The purpose of this study was to provide a detailed description of cross-sectional anatomic structures of the manus of a black bear cadaver and correlate anatomic findings with corresponding features in computed tomographic (CT) and magnetic resonance (MR) images. CT, MR imaging, and transverse sectioning were performed on the thoracic limb of a cadaver female black bear which had no evidence of lameness or thoracic limb abnormality prior to death. Features in CT and MR images corresponding to clinically important anatomic structures in anatomic sections were identified. Most of the structures identified in transverse anatomic sections were also identified using CT and MR imaging. Bones, muscles and tendons were generally easily identified with both imaging modalities, although divisions between adjacent muscles were rarely visible with CT and only visible sometimes with MR imaging. Vascular structures could not be identified with either imaging modality.
+ER  - 
+
+TY  - JOUR
+AU  - Rosengren, David
+AU  - Brown, Anthony FT
+AU  - Chu, Kevin
+TI  - Radiological imaging to improve the emergency department diagnosis of acute appendicitis
+JO  - Emergency Medicine
+VL  - 16
+IS  - 5‐6
+SN  - 1035-6851
+UR  - https://doi.org/10.1111/j.1742-6723.2004.00643.x
+DO  - doi:10.1111/j.1742-6723.2004.00643.x
+SP  - 410
+EP  - 416
+KW  - acute appendicitis
+KW  - clinical assessment
+KW  - CT scan
+KW  - ultrasound
+KW  - unnecessary surgery
+PY  - 2004
+AB  - Abstract Objectives:? To determine the institution's current non-therapeutic (negative) appendicectomy rate; the frequency of clinical predictors for appendicitis in patients who underwent appendicectomy; and the utilization and accuracy of ultrasound scans (USS) and computed tomography (CT) in the diagnosis of appendicitis. Methods:? A retrospective chart review was conducted in an adult, metropolitan teaching hospital. Patients who presented to the ED and underwent an appendicectomy over a 12-month period were analysed. Symptoms and signs predictive of appendicitis, results of USS and CT scans if performed, and histopathology findings were abstracted from patient records. Results:? Two hundred and forty patients had appendicectomies, 147 (61%) were male and the median age was 25 years (range 14?78 years). The negative appendicectomy rate was 14.3% (95% CI 9.1?21.0%) and 18.3% (95% CI 11.0?26.7%) in males and females, respectively. Abdominal pain shifting to the right iliac fossa (RIF), anorexia and RIF rebound tenderness were found more frequently in patients with positive than negative appendicectomies (P < 0.05). USS and CT scans were performed in 68 (28%) and 15 (9.5%) patients, respectively. The likelihood ratio for appendicitis in patients with a normal USS or a normal CT scan was 0.83 (95% CI 0.56?1.24) and 0.08 (95% CI 0.01?0.60), respectively. There were no false positive CT scan results. Conclusion:? Computed tomoraphy scanning should play an increasing role in the ED management of suspected appendicitis. Our negative appendicectomy rate could potentially be halved by the introduction of CT scans in the diagnostic work up of these patients.
+ER  - 
+
+TY  - JOUR
+AU  - Shapiro, Francine
+TI  - Efficacy of the eye movement desensitization procedure in the treatment of traumatic memories
+JO  - Journal of Traumatic Stress
+JA  - J. Traum. Stress
+VL  - 2
+IS  - 2
+SN  - 0894-9867
+UR  - https://doi.org/10.1002/jts.2490020207
+DO  - doi:10.1002/jts.2490020207
+SP  - 199
+EP  - 223
+KW  - memories
+KW  - trauma
+KW  - desensitization
+KW  - PTSD
+KW  - anxiety
+KW  - rape/molestation
+KW  - combat
+PY  - 1989
+AB  - Abstract The aim of the study was to determine the effectiveness of the recently developed Eye Movement Desensitization (EMD) procedure on traumatic memory symptomatology. Twenty-two subjects suffering from symptoms related to traumatic memories were used in the study. All had been victims of traumatic incidents concerning the Vietnam War, childhood sexual molestation, sexual or physical assault, or emotional abuse. Memories of the traumatic incident were pivotal to the presenting complaints which included intrusive thoughts, flashbacks, sleep disturbances, low self-esteem, and relationship problems. Dependent variables were (1) anxiety level, (2) validity of a positive self-statement/assessment of the traumatic incident, and (3) presenting complaints. These measures were obtained at the initial session and at 1- and 3-month follow-up sessions. The results of the study indicated that a single session of the EMD procedure successfully desensitized the subjects' traumatic memories and dramatically altered their cognitive assessments of the situation, effects that were maintained through the 3-month follow-up check. This therapeutic benefit was accompanied by behavioral shifts which included the alleviation of the subjects' primary presenting complaints.
+ER  - 
+
+TY  - JOUR
+AU  - BERTOLINI, GIOVANNA
+AU  - ZOTTI, ALESSANDRO
+TI  - IMAGING DIAGNOSIS: ABSENCE OF THE LEFT EXTERNAL AND BOTH INTERNAL JUGULAR VEINS IN A CAT
+JO  - Veterinary Radiology & Ultrasound
+VL  - 47
+IS  - 5
+SN  - 1058-8183
+UR  - https://doi.org/10.1111/j.1740-8261.2006.00174.x
+DO  - doi:10.1111/j.1740-8261.2006.00174.x
+SP  - 468
+EP  - 469
+PY  - 2006
+ER  - 

@@ -1,0 +1,445 @@
+
+TY  - JOUR
+AU  - Henry, Mark S.
+AU  - Passmore, Anthony P.
+AU  - Todd, Stephen
+AU  - McGuinness, Bernadette
+AU  - Craig, David
+AU  - Johnston, Janet A.
+TI  - The development of effective biomarkers for Alzheimer's disease: a review
+JO  - International Journal of Geriatric Psychiatry
+JA  - Int J Geriatr Psychiatry
+VL  - 28
+IS  - 4
+SN  - 0885-6230
+UR  - https://doi.org/10.1002/gps.3829
+DO  - doi:10.1002/gps.3829
+SP  - 331
+EP  - 340
+KW  - dementia
+KW  - Alzheimer's disease
+KW  - mild cognitive impairment
+KW  - biomarkers
+PY  - 2013
+AB  - Objective There is a widely recognised need to develop effective Alzheimer's disease (AD) biomarkers to aid the development of disease-modifying treatments, to facilitate early diagnosis and to improve clinical care. This overview aims to summarise the utility of key neuroimaging and cerebrospinal fluid (CSF) biomarkers for AD, before focusing on the latest efforts to identify informative blood biomarkers. Design A literature search was performed using PubMed up to September 2011 for reviews and primary research studies of neuroimaging (magnetic resonance imaging, magnetic resonance spectroscopy, positron emission tomography and amyloid imaging), CSF and blood-based (plasma, serum and platelet) biomarkers in AD and mild cognitive impairment. Citations within individual articles were examined to identify additional studies relevant to this review. Results Evidence of AD biomarker potential was available for imaging techniques reflecting amyloid burden and neurodegeneration. Several CSF measures are promising, including 42 amino acid ?-amyloid peptide (A?42); total tau (T-tau) protein, reflecting axonal damage; and phosphorylated tau (P-tau), reflecting neurofibrillary tangle pathology. Studies of plasma A? have produced inferior diagnostic discrimination. Alternative plasma and platelet measures are described, which represent potential avenues for future research. Conclusions Several imaging and CSF markers demonstrate utility in predicting AD progression and determining aetiology. These require standardisation before forming core elements of diagnostic criteria. The enormous potential available for identifying a minimally-invasive, easily-accessible blood measure as an effective AD biomarker currently remains unfulfilled. Copyright ? 2012 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Onder, A.M.
+AU  - Chandar, J.
+AU  - Coakley, S.
+AU  - Abitbol, C.
+AU  - Montane, B.
+AU  - Zilleruelo, G.
+TI  - Catheter-related bacteremia in a pediatric hemodialysis unit
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121cc.x
+DO  - doi:10.1111/j.1492-7535.2005.1121cc.x
+SP  - 99
+EP  - 100
+PY  - 2005
+AB  - Tunneled-cuffed hemodialysis catheters are frequently used as long-term vascular access in children due to the technical difficulties in constructing a fistula. Catheter-related bacteremia (CRB) is still a major complication contributing to patient morbidity and loss of vascular access. Objective:?To investigate the microbiological characteristics of CRB in children on hemodialysis. Methods:?Chart review of 63 children who received hemodialysis with a tunneled-cuffed catheter between January 1999 and December 2003 was performed. CRB was diagnosed when positive blood cultures were obtained in patients with symptoms of bacteremia, and without an identifiable source. Results:?During the 5 year period, a total of 251 CRB were detected with 313 bacterial and 2 candidal growths in the blood cultures. The distribution of gram positive (Gr+) and gram negative (Gr?) microorganisms and their sensitivity patterns are shown in the table. Coagulase negative Staphylococcus was the most common microorganism, and constituted 62% of all bacterial isolates. All Gr+ microorganisms were sensitive to vancomycin except one isolate of Enterococcus fecalis. Enterobacter cloacae was the most common Gr? microorganism, followed by Klebsiella pneumonia. The sensitivity of Gr? microorganisms to levofloxacin was 100%. The treatment course was complicated by the growth of a second microorganism in subsequent blood cultures in 24% of infections; 54% of these consisted of both Gr+ and Gr? isolates. The etiology of ESRD or the use of immunosuppressive agents had no effect on the occurrence of CRB. The average number of infections were 5.8/1000 catheter days, and the recurrence of CRB was more likely in patients who had two or more CRB in a year. 1999 2000 2001 2002 2003 Gr+ growth 80% 88% 87% 85% 73% Oxacillin resistance 84% 73% 82% 68% 75% Gr? growth 20% 12% 13% 15% 27% Tobramycin resistance 21% 50% 25% 20% 13% Conclusions: Empiric initial treatment for CRB should include both Gr+, and Gr? coverage. Oxacillin and first generation cephalosporins are not good choices due to high incidence of resistance. Levofloxacin is a good alternative for Gr CRB. Novel preventive measures should be sought in patients who have a tendency to have recurrent CRB.
+ER  - 
+
+TY  - JOUR
+AU  - Peca, Stefano
+AU  - Carnì, Marco
+AU  - Di Bonaventura, Carlo
+AU  - Aprile, Teresa
+AU  - Hagberg, Gisela E.
+AU  - Giallonardo, Anna Teresa
+AU  - Manfredi, Mario
+AU  - Mangia, Silvia
+AU  - Garreffa, Girolamo
+AU  - Maraviglia, Bruno
+AU  - Giove, Federico
+TI  - Metabolic correlatives of brain activity in a FOS epilepsy patient
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 23
+IS  - 2
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.1439
+DO  - doi:10.1002/nbm.1439
+SP  - 170
+EP  - 178
+KW  - fixation-off sensitivity
+KW  - functional magnetic resonance spectroscopy
+KW  - EEG
+KW  - epilepsy
+KW  - glutamate
+KW  - glutamine
+PY  - 2010
+AB  - Abstract The correlation and the interactions between neuronal activity and underlying metabolic dynamics are still a matter of debate, especially in pathological conditions. This study reports findings obtained on a subject suffering from fixation-off sensitivity (FOS) epilepsy, exploited as a model system of triggerable anomalous electrical activity. Functional Magnetic Resonance Spectroscopy was used to investigate the metabolic response to visual spike-inducing stimuli in a single voxel placed in the temporo-occipital lobe of a FOS epilepsy patient. MRS measurements were additionally performed on a control group of five healthy volunteers. The FOS patient also underwent an EEG session with the same stimulus paradigm. Uniquely in the FOS patient, glutamate and glutamine concentration increased during the first 10?min of stimulation and then returned to baseline. On the other hand, FOS-induced epileptic activity (spiking) endured throughout all the stimulation epoch. The observed metabolic dynamics may be likely linked to a complex interplay between alterations of the metabolic pathways of glutamate and modulation of the neuronal activity. Copyright ? 2009 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Conti, Paola
+AU  - Pinto, Andrea
+AU  - Tamborini, Lucia
+AU  - Madsen, Ulf
+AU  - Nielsen, Birgitte
+AU  - Bräuner-Osborne, Hans
+AU  - Hansen, Kasper B.
+AU  - Landucci, Elisa
+AU  - Pellegrini-Giampietro, Domenico E.
+AU  - De Sarro, Giovambattista
+AU  - Donato Di Paola, Eugenio
+AU  - De Micheli, Carlo
+TI  - Novel 3-Carboxy- and 3-Phosphonopyrazoline Amino Acids as Potent and Selective NMDA Receptor Antagonists: Design, Synthesis, and Pharmacological Characterization
+JO  - ChemMedChem
+JA  - ChemMedChem
+VL  - 5
+IS  - 9
+SN  - 1860-7179
+UR  - https://doi.org/10.1002/cmdc.201000184
+DO  - doi:10.1002/cmdc.201000184
+SP  - 1465
+EP  - 1475
+KW  - 1,3-dipolar cycloaddition
+KW  - anticonvulsant activity
+KW  - neuroprotection
+KW  - NMDA receptor antagonists
+KW  - pyrazolines
+PY  - 2010
+AB  - Abstract The design and synthesis of new N1-substituted 3-carboxy- and 3-phosphonopyrazoline and pyrazole amino acids that target the glutamate binding site of NMDA receptors are described. An analysis of the stereochemical requirements for high-affinity interaction with these receptors was performed. We identified two highly potent and selective competitive NMDA receptor antagonists, (5S,αR)-1 and (5S,αR)-4, which exhibit good in?vitro neuroprotective activity and in?vivo anticonvulsant activity by i.p. administration, suggesting that these molecules may have potential use as therapeutic agents.
+ER  - 
+
+TY  - JOUR
+AU  - Onder, A.M.
+AU  - Chandar, J.
+AU  - Coakley, S.
+AU  - Abitbol, C.
+AU  - Montane, B.
+AU  - Zilleruelo, G.
+TI  - Infections  Controlling exit site infections: Does it decrease the incidence of catheter-related bacteremia in children on hemodialysis?
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121cb.x
+DO  - doi:10.1111/j.1492-7535.2005.1121cb.x
+SP  - 99
+EP  - 99
+PY  - 2005
+AB  - The most common complication of tunneled-cuffed hemodialysis catheters is catheter-related bacteremia (CRB), which contributes to patient morbidity and loss of vascular access. Gram positive microorganisms are the most common etiologic agents; coagulase negative staphylococcus and corynebacterium species are the two most prevalent strains in our center. These are the common inhabitants of skin flora, suggesting that infection of catheters occur through the exit site. The Biopatch is a chlorhexidine impregnated dressing designed to keep the exit site from colonization with skin flora. This may decrease the incidence of CRB due to organisms from the skin. Objective:?To investigate whether the application of the biopatch at the exit site has any effect on the incidence and the etiology of CRB. Methods:?Chart review of 63 pediatric chronic hemodialysis patients who were dialysed between January 1999 and December 2003 was performed. The mean age at start of hemodialysis was 13.9?±?4.6 years. The pre-Biopatch era started in January 1999 till the end of June 2001, and the Biopatch era started in July 2001 to December 2003. Biopatch was applied at the beginning of every dialysis week after Betadine cleansing of the exit site, which was then covered with a transparent dressing. In the pre-Biopatch era, the exit site was cleansed with Betadine at every dialysis session and then covered with a transparent dressing. Results:?The use of the Biopatch at the exit site caused a significant decrease in the exit site infections. However, contrary to what was expected, there was no decrease in the incidence of CRB. Pre-Biopatch Era Biopatch Era p value Gram positive infections % 76% 76% NS Gram negative infections % 10% 14% NS Polymicrobial infections % 14% 10% NS Total number of infections 108 (19 patients) 143 (29 patients) NS Exit site infections-number 20 (9 patients) 5 (3 patients) p?<?0.05 Conclusion:? The use of the Biopatch decreases exit site infections. However, it fails to decrease the incidence of CRB. It has no effect on the etiologic agent of the bacterial infection.
+ER  - 
+
+TY  - JOUR
+AU  - Riggs, David S.
+AU  - Caulfield, Marie B.
+AU  - Street, Amy E.
+TI  - Risk for domestic violence: Factors associated with perpetration and victimization
+JO  - Journal of Clinical Psychology
+JA  - J. Clin. Psychol.
+VL  - 56
+IS  - 10
+SN  - 0021-9762
+UR  - https://doi.org/10.1002/1097-4679(200010)56:10<1289::AID-JCLP4>3.0.CO;2-Z
+DO  - doi:10.1002/1097-4679(200010)56:10<1289::AID-JCLP4>3.0.CO;2-Z
+SP  - 1289
+EP  - 1316
+PY  - 2000
+AB  - Abstract The extent and potential dangerousness of the problem of domestic violence warrants systematic screening and assessment in all mental health settings. Few empirical studies have approached the question of domestic violence with the aim of identifying risk markers, making it impossible to identify a particular characteristic or set of characteristics that can be used to identify individuals at risk for perpetrating or becoming the victims of domestic violence. However, there are a number of factors that have been identified as correlates of domestic violence that may eventually prove useful for identifying individuals at risk, but the extant literature does not provide the empirical support at this time. Because many of these correlates may be brought to the attention of mental health and medical professionals (e.g., depression, substance use/abuse, physical injuries) and given the absence of established risk factors for domestic violence, there is a need for clinicians to systematically assess for violence among all of their patients. By identifying factors that might help clinicians realize that many of their patients are at risk for domestic violence, we hope to encourage them to attend to this potentially dangerous problem. Ongoing assessment in the context of knowledge regarding correlates of domestic violence can provide important information for evaluating risk of a particular violent incident. In addition, we outline strategies for assessing violence and violence risk in both perpetrators and victims in order to assist clinicians in approaching this difficult topic in a clinical setting. A careful assessment of the potential for violence within clients' ongoing relationships is necessary for clinicians to provide appropriate clinical care. ? 2000 John Wiley & Sons, Inc. J Clin Psychol 56: 1289?1316, 2000.
+ER  - 
+
+TY  - JOUR
+AU  - Donaldson, Mark J
+AU  - Pulido, Jose S
+AU  - Mullan, Brian P
+AU  - Inwards, David J
+AU  - Cantrill, Herb
+AU  - Johnson, Max R
+AU  - Han, Min-Kyu
+TI  - Combined positron emission tomography/computed tomography for evaluation of presumed choroidal metastases
+JO  - Clinical & Experimental Ophthalmology
+VL  - 34
+IS  - 9
+SN  - 1442-6404
+UR  - https://doi.org/10.1111/j.1442-9071.2006.01364.x
+DO  - doi:10.1111/j.1442-9071.2006.01364.x
+SP  - 846
+EP  - 851
+KW  - choroidal metastasis
+KW  - combined positron emission tomography/computed tomography
+KW  - oesophageal adenocarcinoma
+KW  - mucosa-associated lymphoid tissue lymphoma and position emission tomography
+PY  - 2006
+AB  - Abstract Background:? Choroidal metastases are the most common intraocular malignancy and are the first sign of systemic malignancy in approximately one-third of patients. Of patients with no previous diagnosis of cancer, oncological evaluation fails to find the primary lesion in approximately 50% of cases. Newer imaging modalities such as combined positron emission tomography/computed tomography (PET/CT) may improve the yield of the systemic work-up. Methods:? Consecutive patients presenting with presumed choroidal metastases were evaluated with whole body combined PET/CT scanning. Results:? Four patients presenting to a tertiary referral hospital with choroidal metastases as the first sign of systemic malignancy were evaluated. In all four cases, PET/CT demonstrated the ocular lesion, and the primary malignancy which was confirmed by tissue biopsy. False-negative results were seen in two cases of cerebral metastases. PET/CT demonstrated lesions not visible on CT or magnetic resonance imaging in two cases. Conclusions:? Combined PET/CT is a useful addition to the work-up of patients with choroidal metastases. It provides the opportunity to detect lesions not visible with other imaging modalities and the ability to image patients with contraindications to magnetic resonance imaging. It is essential to correlate PET images with clinical information and the results of other imaging modalities and tissue biopsy remains the gold standard in the diagnosis of malignancy. False positives and negatives can occur with PET/CT, and further research is needed before this promising technology becomes a routine part of the evaluation of patients with choroidal metastases.
+ER  - 
+
+TY  - JOUR
+AU  - The following individuals contributed to writing sections of this chapter:
+AU  - Toh, Sengwee
+AU  - Andrade, Susan E.
+AU  - Raebel, Marsha A.
+AU  - M. Boudreau, Denise
+AU  - Davis, Robert L.
+AU  - Haffenreffer, Katherine
+AU  - Pawloski, Pamala A.
+AU  - Platt, Richard
+AU  - Hennessy, Sean
+AU  - Freeman, Cristin Palumbo
+AU  - Cunningham, Francesca
+AU  - Moride, Yola
+AU  - Ogdie, Alexis
+AU  - Langan, Sinéad M.
+AU  - Parkinson, John
+AU  - Dattani, Hassy
+AU  - Kostev, Karel
+AU  - Gelfand, Joel M.
+AU  - Herings, Ron M.C.
+AU  - Pedersen, Lars
+C7  - 21264
+TI  - Examples of Existing Automated Databases
+JO  - Journal of the International AIDS Society
+VL  - 19
+IS  - 6S5
+SN  - 1758-2652
+UR  - https://doi.org/10.7448/IAS.19.6.21264
+DO  - doi:10.7448/IAS.19.6.21264
+SP  - 21264
+KW  - Canadian provincial databases
+KW  - health maintenance organizations (HMOs)
+KW  - health plans
+KW  - healthcare databases
+KW  - medical record databases
+KW  - pharmacoepidemiologic research
+KW  - pharmacy-based medical record linkage systems
+KW  - US  Government claims databases
+PY  - 2016
+AB  - Summary This chapter describes five types of healthcare databases that have been useful for conducting pharmacoepidemiologic research. These databases run the gamut from regional to national in scope and from private to national governmental sponsorship. The chapter follows the same format for each, outlining the description, strengths, and weaknesses of each. In order, the databases covered include: health maintenance organizations/ health plans, US Government claims databases, Canadian provincial databases, medical record databases, and the pharmacy-based medical record linkage systems in the Netherlands and Nordic Countries.
+ER  - 
+
+AU  - Meding, Birgitta
+AU  - Hosseiny, S
+AU  - Wrangsjö, K
+AU  - Andersson, E
+AU  - Hagberg, S
+AU  - Wass, K
+AU  - Torén, K
+AU  - Brisman, J
+C7  - pp. 123-177
+TI  - P67 Hand eczema, skin exposure and glove use in dental technicians
+SN  - 9781118344866
+UR  - https://doi.org/10.1002/9781118344828.ch09
+DO  - doi:10.1002/9781118344828.ch09
+SP  - 123-177
+PY  - 2016
+AB  - Aims:? To estimate the incidence of hand eczema in dental technicians and to elucidate occupational risk factors. Methods:? This was a retrospective cohort study among former dental technician students (n?= 2139). Controls comprised population controls (n?=?2288) with similar distribution of age and sex as the dental technicians. A mail questionnaire asked for occurrence of hand eczema including age of onset, occupational exposure and use of protective gloves. The response rate was 58%(1210 dental technicians and 1316 controls answered the questionnaire). Results:? In dental technicians the incidence of hand eczema was 7.1 cases/1000 person years in males and 10.8 in females during acrylate-exposed time. In controls the incidence of hand eczema was 3.1 in males and 3.7 in females. The relative risk (RR) for males was 2.3 (95% CI 1.6?3.4) and for females 2.9 (95% CI 2.1?4.0). 48% of the dental technicians and 30% of the controls reported more than 10 hand-washings/day (p?<?0.001). 80% of the dental technicians reported skin exposure to uncured acrylates, 14% daily. 87% had skin contact with grinding dust from acrylates, 42% daily. 38% used protective gloves when handling uncured acrylates, males 29%, females 48%(p?<?0.001). 58% did not know for how long the normally used gloves protected the skin against uncured acrylates. Conclusions:? The risk of hand eczema is more than doubled in dental technicians. The work involves frequent and unprotected exposure to acrylates and wet work. Education regarding skin protection is important.
+ER  - 
+
+TY  - JOUR
+AU  - Ramaiya, Megan K.
+AU  - McLean, Caitlin
+AU  - Regmi, Upasana
+AU  - Fiorillo, Devika
+AU  - Robins, Clive J.
+AU  - Kohrt, Brandon A.
+TI  - A dialectical behavior therapy skills intervention for women with suicidal behaviors in rural Nepal: A single-case experimental design series
+JO  - Contact Dermatitis
+JA  - J. Clin. Psychol.
+VL  - 50
+IS  - 3
+SN  - 9781118344866
+UR  - https://doi.org/10.1111/j.0105-1873.2004.0309gw.x
+DO  - doi:10.1111/j.0105-1873.2004.0309gw.x
+SP  - 203
+EP  - 203
+KW  - dialectical behavior therapy
+KW  - emotion regulation
+KW  - global mental health
+KW  - Nepal
+KW  - single-case experimental design
+KW  - suicidality
+PY  - 2004
+AB  - Abstract Background Suicide in low- and middle-income countries (LMICs) accounts for 75% of the world's burden of suicide mortality and is the leading single cause of death among Nepali reproductive age women. To advance treatment for suicidal behaviors in LMICs, a single-case experimental design (SCED) was conducted of a culturally adapted Dialectical Behavior Therapy skills intervention for Nepali populations (DBT-N). Method Ten Nepali women with histories of suicidality participated in the 10-session intervention. Outcomes of emotion regulation, suicidal ideation, depression, anxiety, resilience, and coping skills use were measured at multiple time points pre-intervention, during, and at follow-up. Qualitative interviewing assessed DBT-N's feasibility and acceptability. Results Participants showed improvements in emotion regulation over the course of treatment, which were associated with increased skills use. Rapid, sustained reductions in suicidal ideation and improvements in resilience were observed after DBT-N initiation. Conclusion This SCED supports conducting further evaluation of DBT-N through controlled trials with emotion regulation as a target mechanism of action for reducing suicidal behaviors in LMICs.
+ER  - 
+
+TY  - JOUR
+TI  - British Paediatric Neurology Association Annual Meeting 2007
+JO  - Journal of Clinical Psychology
+VL  - 74
+IS  - 7
+SN  - 9781118344866
+UR  - https://doi.org/10.1002/jclp.22588
+DO  - doi:10.1002/jclp.22588
+SP  - 1071
+EP  - 1091
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Ibrahim, Rami Mossad
+AU  - Krammer, Caspar Weel
+AU  - Hansen, Tom Giedsing
+AU  - Kristensen, Bjarne Winther
+AU  - Vutskits, Laszlo
+AU  - Sørensen, Jens Ahm
+TI  - Systemic physiology and neuroapoptotic profiles in young and adult rats exposed to surgery: A randomized controlled study comprising four different anaesthetic techniques
+JO  - Developmental Medicine & Child Neurology
+JA  - International Journal of Developmental Neuroscience
+VL  - 49
+IS  - s1
+SN  - 9781118344866
+UR  - https://doi.org/10.1017/S0012162206220334
+DO  - doi:10.1017/S0012162206220334
+SP  - 1
+EP  - 52
+KW  - Anaesthesia
+KW  - Apoptosis
+KW  - Brain
+KW  - Dexmedetomidine
+KW  - Homeostasis
+KW  - Surgery
+KW  - Abstract
+PY  - 2007
+AB  - Abstract Background Experimental evidence indicates that general anaesthetics can induce apoptotic neurodegeneration in the developing brain. The majority of these studies have been performed in the absence of surgery and it currently remains unclear how the presence of surgical stimuli would influence neuroapoptosis as well as systemic homeostasis. Here we explored this possibility by performing dorsal skin flap surgery in young and adult rats under four distinct currently used anaesthesia regimens. Methods Young (21-days) and adult (2 months) male Sprague?Dawley rats were randomized to 150 min exposure to one of four anaesthetics regimens: (i) sevoflurane/dexmedetomidine, (ii) sevoflurane/fentanyl; (iii) propofol/dexmedetomidine, and (iv) propofol/fentanyl. Animals underwent a dorsal skin flap procedure while physiologic, metabolic and biochemical parameters were closely monitored. Neuroapoptotic profiles were evaluated in the cortex, thalamus and hippocampus (CA1 and CA3) at the end of the procedure in each experimental group. Results Significant perturbations of systemic homeostasis were found under all anaesthetic regimens. Hyperglycemia and decreased heart rate were particularly relevant in experimental groups receiving dexmedetomidine, while propofol administration was associated with increased systemic lactate levels and metabolic acidosis. A substantial difference in anaesthesia/surgery-induced neuroapoptosis was found between young and adult rats in several brain regions. Combination of sevoflurane and dexmedetomidine resulted in the highest number of caspase-3 positive cells, although the extent of cell death remained relatively low in all experimental groups. Conclusion Combination of anaesthesia and surgery induces significant perturbations of physiological parameters in both young and adult spontaneously breathing rats undergoing surgery. These observations further enlighten the need for detailed physiological monitoring under these experimental conditions. Although some statistically significant differences in activated caspase-3 profiles were detected between experimental groups, the overall extent of neuronal cell death remained very low under all conditions questioning, thereby, the physiological significance of apoptotic neurodegeneration in the context of anaesthesia and surgery.
+ER  - 
+
+TY  - JOUR
+TI  - British Paediatric Neurology Association Annual Meeting 2007
+JO  - International Journal of Developmental Neuroscience
+VL  - 45
+IS  - C
+SN  - 9781118344866
+UR  - https://doi.org/10.1016/j.ijdevneu.2015.04.351
+DO  - doi:10.1016/j.ijdevneu.2015.04.351
+SP  - 11
+EP  - 18
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Developmental Medicine & Child Neurology
+JA  - Ann Neurol.
+VL  - 49
+IS  - s108
+SN  - 9781118344866
+UR  - https://doi.org/10.1111/j.1469-8749.2007.0217a.x
+DO  - doi:10.1111/j.1469-8749.2007.0217a.x
+SP  - 1
+EP  - 52
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+AU  - Knight, R.J.
+AU  - Kerman, R.H.
+AU  - McKissick, E.
+AU  - Lawless, A.
+AU  - Podder, H.
+AU  - Katz, S.
+AU  - Van Buren, C.T.
+AU  - Kahan, B.D.
+TI  - Selective corticosteroid and calcineurin-inhibitor withdrawal after pancreas–kidney transplantation utilizing thymoglobulin induction and sirolimus maintenance therapy
+JO  - Annals of Neurology
+VL  - 40
+IS  - 2
+SN  - 9781118344866
+UR  - https://doi.org/10.1002/ana.410400232
+DO  - doi:10.1002/ana.410400232
+SP  - 285
+EP  - 339
+KW  - calcineurin-inhibitor
+KW  - corticosteroids
+KW  - pancreas–kidney transplantation
+KW  - withdrawal
+PY  - 1996
+AB  - Abstract:? Of 25 simultaneous pancreas?kidney transplant (SPK) recipients treated with thymoglobulin induction, sirolimus and reduced-dose cyclosporine (CsA), 18 low-immune responders (non-African?Americans, PRA?<?30%) were withdrawn from prednisone on post-transplant day 5, whereas seven high-immune responders continued on prednisone. Most high- and low-immune responder recipients were converted from CsA to mycophenolic acid (MPA) at six months post-transplantation. At a mean follow-up of 28?±?10?months, two pancreas grafts were lost to pancreatitis. There were no patient or kidney graft losses, but one acute rejection episode. At 28?±?11?months, all 18 low-responder recipients remain steroid-free. Twenty recipients (14 low and six high-immune responders) were converted from CsA to MPA. During conversion, immune response was monitored by Flow-PRA and T-cell stimulation (Cylex) assays. Nineteen of 20 recipients displayed a post-conversion PRA of 0%, whereas one highly sensitized patient expressed a post-conversion PRA of 67%. Fifty-eight percent of individual T-cell stimulation scores were in the hypo-responsive range. Twelve of 18 low-immune responders are both steroid and CsA-free at a mean follow-up of 17?±?13?months, whereas five of seven high-immune responders remain CsA-free at a mean follow-up of 11?±?10?months. These data suggest that thymoglobulin induction with combined sirolimus and CsA maintenance therapy permits immunosuppression minimization in selected SPK recipients.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts Poster
+JO  - Clinical Transplantation
+VL  - 22
+IS  - 5
+SN  - 9781118344866
+UR  - https://doi.org/10.1111/j.1399-0012.2008.00839.x
+DO  - doi:10.1111/j.1399-0012.2008.00839.x
+SP  - 645
+EP  - 650
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+AU  - Zickgraf, Hana F.
+AU  - Chambless, Dianne L.
+AU  - McCarthy, Kevin S.
+AU  - Gallop, Robert
+AU  - Sharpless, Brian A.
+AU  - Milrod, Barbara L.
+AU  - Barber, Jacques P.
+C8  - CPP-0976.R1
+TI  - Interpersonal Factors Are Associated with Lower Therapist Adherence in Cognitive–Behavioural Therapy for Panic Disorder
+JO  - American Journal of Transplantation
+JA  - Clin. Psychol. Psychother.
+VL  - 9
+IS  - s2
+SN  - 9781118344866
+UR  - https://doi.org/10.1111/j.1600-6143.2009.02659.x
+DO  - doi:10.1111/j.1600-6143.2009.02659.x
+SP  - 384
+EP  - 729
+KW  - Cognitive–Behavioural Therapy
+KW  - Adherence
+KW  - Resistance
+KW  - Panic Disorder
+KW  - Personality Disorders
+PY  - 2009
+AB  - Objective The contributions of disorder severity, comorbidity and interpersonal variables to therapists' adherence to a cognitive?behavioural treatment (CBT) manual were tested. Method Thirty-eight patients received panic control therapy (PCT) for panic disorder. Trained observers watching videotapes of the sixth session of a 24-session protocol rated therapists' adherence to PCT and their use of interventions from outside the CBT model. Different observers rated patients' behavioural resistance to therapy in the same session using the client resistance code. Interview measures obtained before treatment included the Panic Disorder Severity Scale, the anxiety disorders interview schedule for Diagnostic and Statistical Manual of Mental Disorders (DSM)-IV and the structured clinical interview for DSM-IV, Axis II. Questionnaire measures were the anxiety sensitivity index at intake, and, at session 2, the therapist and client versions of the working alliance inventory?short form. Results The higher the patients' resistance and the more Axis II traits a patient had, the less adherent the therapist. Moreover, the more resistant the client, the more therapists resorted to interventions from outside the CBT model. Stronger therapist and patient alliance was also generally related to better adherence, but these results were somewhat inconsistent across therapists. Pretreatment disorder severity and comorbidity were not related to adherence. Conclusions Interpersonal variables, particularly behavioural resistance to therapy, are related to therapists' ability to adhere to a treatment manual and to their use of interventions from outside of the CBT model. Copyright ? 2015 John Wiley & Sons, Ltd. Key Practitioner message Patients' behavioural resistance to therapy may make it more difficult for cognitive?behavioural clinicians to adhere to a structured treatment protocol and more likely for them to borrow interventions from outside the CBT model. Patients' Axis II traits may make adherence to treatment CBT protocol more difficult, although whether this is true varies across therapists. Therapists' adherence to a structured protocol and borrowing from outside of the CBT model do not appear to be affected by disorder severity or Axis I comorbidity.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Clinical Psychology & Psychotherapy
+JA  - Eur J Heart Fail
+VL  - 23
+IS  - 3
+SN  - 9781118344866
+UR  - https://doi.org/10.1002/cpp.1955
+DO  - doi:10.1002/cpp.1955
+SP  - 272
+EP  - 284
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+AU  - Lerret, Stacee M.
+AU  - White-Traut, Rosemary
+AU  - Medoff-Cooper, Barbara
+AU  - Simpson, Pippa
+AU  - Adib, Riddhiman
+AU  - Ahamed, Sheikh Iqbal
+AU  - Schiffman, Rachel
+TI  - Pilot study protocol of a mHealth self-management intervention for family members of pediatric transplant recipients
+JO  - European Journal of Heart Failure
+JA  - Res Nurs Health
+VL  - 17
+IS  - S1
+SN  - 9781118344866
+UR  - https://doi.org/10.1002/ejhf.277
+DO  - doi:10.1002/ejhf.277
+SP  - 5
+EP  - 441
+KW  - mHealth
+KW  - pediatric
+KW  - self-management
+KW  - transplant
+PY  - 2015
+AB  - Abstract Solid-organ transplantation is the treatment of choice for end-stage organ failure. Parents of pediatric transplant recipients who reported a lack of readiness for discharge had more difficulty coping and managing their child's medically complex care at home. In this paper, we describe the protocol for the pilot study of a mHealth intervention (myFAMI). The myFAMI intervention is based on the Individual and Family Self-Management Theory and focuses on family self-management of pediatric transplant recipients at home. The purpose of the pilot study is to test the feasibility of the myFAMI intervention with family members of pediatric transplant recipients and to test the preliminary efficacy on postdischarge coping through a randomized controlled trial. The sample will include 40 family units, 20 in each arm of the study, from three pediatric transplant centers in the United States. Results from this study may advance nursing science by providing insight for the use of mHealth to facilitate patient/family?nurse communication and family self-management behaviors for family members of pediatric transplant recipients.
+ER  - 
+
+TY  - JOUR
+TI  - Pilot study protocol of a mHealth self‐management intervention for family members of pediatric transplant recipients
+JO  - Research in Nursing & Health
+VL  - n/a
+IS  - n/a
+SN  - 9781118344866
+UR  - https://doi.org/10.1002/nur.22010
+DO  - doi:10.1002/nur.22010
+ER  - 

@@ -1,0 +1,253 @@
+Chest injury, (AFP), 9
+Chest injury, (ARG1) , 1
+Chest injury, (ASS), 16
+Chest injury, (ATL), 3
+Chest injury, (CcK18), 0
+Chest injury, (CD3), 12
+Chest injury, (CD4) , 24
+Chest injury, (CD8) , 14
+Chest injury, (EST-1), 0
+Chest injury, (HLA)-DR, 6
+Chest injury, (KIM-1), 2
+Chest injury, (LDH), 26
+Chest injury, (MCSFR), 0
+Chest injury, (MDH), 2
+Chest injury, (MODS) , 14
+Chest injury, (NO) , 707
+Chest injury, (NT-proBNP), 6
+Chest injury, (PaCO2) , 31
+Chest injury, (PAF) , 7
+Chest injury, (PAI), 25
+Chest injury, (PaO2), 33
+Chest injury, (PaO2) , 33
+Chest injury, (PCT), 18
+Chest injury, (PMN), 13
+Chest injury, (ROC), 48
+Chest injury, (SCr), 9
+Chest injury, (TFF3), 0
+Chest injury, (TTL), 0
+Chest injury, (VEGF), 16
+Chest injury, (VPA), 3
+Chest injury, (VTE), 17
+Chest injury, (WBC), 24
+Chest injury, 4-hydroxy-phenylpyruvate dioxygenase (HPD), 0
+Chest injury, 5 nucleotidase, 1
+Chest injury, Abbreviated Injury Scale, 51
+Chest injury, Active T lymphocytes , 0
+Chest injury, Albumin, 68
+Chest injury, ALP alkaline phosphatase, 0
+Chest injury, Alpha fetoprotein, 5
+Chest injury, alpha-glutathioneS-transferase , 0
+Chest injury, ALT alanine aminotransferase, 0
+Chest injury, Amylase, 24
+Chest injury, Amyloid A, 4
+Chest injury, APACHE II, 29
+Chest injury, Area under the receiver operating characteristic curve, 7
+Chest injury, Arginase-1, 0
+Chest injury, argininosuccinate synthetase , 0
+Chest injury, Arterial partial pressure of carbon dioxide, 0
+Chest injury, Arterial partial pressure of oxygen , 1
+Chest injury, Arterial Ph, 31
+Chest injury, Arterial pressure, 68
+Chest injury, AST aspartate aminotransferase, 2
+Chest injury, AUC, 36
+Chest injury, AUROCs, 0
+Chest injury, B lymphocytes, 6
+Chest injury, Bilirubin , 44
+Chest injury, Biochemical, 98
+Chest injury, Biochemical marker, 1
+Chest injury, Biochemical panel, 0
+Chest injury, Biochemical parameters, 21
+Chest injury, Biomarker panel, 0
+Chest injury, Biomarkers, 35
+Chest injury, Blood pressure, 300
+Chest injury, Blood urine nitrogen, 1
+Chest injury, BNP, 17
+Chest injury, BUN , 18
+Chest injury, C3 complement, 0
+Chest injury, C5a, 15
+Chest injury, Cadherin-5, 0
+Chest injury, Calcium , 102
+Chest injury, Caspase cleaved cytokeratin 18, 0
+Chest injury, CDH5, 0
+Chest injury, Ceruloplasmin , 5
+Chest injury, Chip , 18
+Chest injury, CK-MB, 20
+Chest injury, Clinical factors, 20
+Chest injury, Clinical parameters, 32
+Chest injury, Clinical variable , 0
+Chest injury, Coagulation tests, 12
+Chest injury, Collagen IV, 2
+Chest injury, Complement, 64
+Chest injury, Complement factor B, 0
+Chest injury, Complete blood counts, 2
+Chest injury, Computed tomogram, 2
+Chest injury, Computed tomographic scanning, 1
+Chest injury, Computed tomography  , 137
+Chest injury, C-reactive protein , 36
+Chest injury, Creatine kinase, 27
+Chest injury, Creatine kinase muscle and brain, 0
+Chest injury, Creatinine, 69
+Chest injury, CRP, 39
+Chest injury, CT scan, 126
+Chest injury, CTnI, 11
+Chest injury, CXCL10 , 1
+Chest injury, CXCR3, 1
+Chest injury, Cystatin C, 4
+Chest injury, Cytokeratin 18, 0
+Chest injury, D-Dimer , 24
+Chest injury, Diagnosis, 487
+Chest injury, Diagnostic, 270
+Chest injury, Diagnostic modelling, 0
+Chest injury, EGFR, 11
+Chest injury, Estimated glomerular filtration rate, 7
+Chest injury, Estrogen sulfotransferase, 0
+Chest injury, F- Protein, 0
+Chest injury, FABP , 3
+Chest injury, FABP1, 0
+Chest injury, FABPs, 0
+Chest injury, Fatty Acid Binding Protein, 3
+Chest injury, FDP, 7
+Chest injury, Fibrin degradation products, 6
+Chest injury, Fibrin fibrinogen degradation products, 1
+Chest injury, Fibrinogen, 45
+Chest injury, Fibtem, 9
+Chest injury, Full blood cell count, 0
+Chest injury, Gamma glutamyl transferase , 2
+Chest injury, Glasgow Coma Scale, 95
+Chest injury, GLDH, 4
+Chest injury, Glucose, 107
+Chest injury, Glutamate dehydrogenase, 1
+Chest injury, Glutathione S-transferase alpha, 0
+Chest injury, Glutathione S-transferases (GST), 0
+Chest injury, GSTA, 0
+Chest injury, Heart rate, 124
+Chest injury, Helper T cells , 3
+Chest injury, Hematocrite, 1
+Chest injury, Hemoglobin, 111
+Chest injury, High Mobility Group Box-1 , 1
+Chest injury, HMGB1, 5
+Chest injury, ﻿(AFP), 9
+Chest injury, GSTα, 0
+Chest injury, Howell-Jolly bodies, 2
+Chest injury, HPPD, 0
+Chest injury, hsCRP, 4
+Chest injury, hs-CRP, 3
+Chest injury, Human leucocyte antigen, 3
+Chest injury, Hyaluronic Acid, 8
+Chest injury, I-FABP, 0
+Chest injury, IgA, 14
+Chest injury, IgG , 35
+Chest injury, IgM , 21
+Chest injury, IL-10, 23
+Chest injury, IL-18, 4
+Chest injury, IL-6, 38
+Chest injury, IL-8, 23
+Chest injury, Imaging, 181
+Chest injury, Immunoglobulins , 10
+Chest injury, Independent predictors   , 25
+Chest injury, Injury severity score, 119
+Chest injury, Intestinal-FABP, 0
+Chest injury, IP-10, 11
+Chest injury, ISS, 111
+Chest injury, Jolly bodies, 2
+Chest injury, K18, 0
+Chest injury, Kidney injury molecule-1, 1
+Chest injury, Laboratory parameters, 18
+Chest injury, Laboratory tests, 46
+Chest injury, Lactate, 78
+Chest injury, Lactate dehydrogenase , 14
+Chest injury, LECT2, 0
+Chest injury, Leucocyte cell-derived chemotaxin-2, 0
+Chest injury, L-FABP, 0
+Chest injury, Lipase, 14
+Chest injury, Lipocalin, 2
+Chest injury, Liver enzyme tests, 0
+Chest injury, Liver-FABP, 0
+Chest injury, Lymphocytes, 25
+Chest injury, Macrophage colony stimulating factor receptor, 0
+Chest injury, malate dehydrogenase , 0
+Chest injury, Marker, 99
+Chest injury, Mean arterial BP , 1
+Chest injury, microRNA-122 , 0
+Chest injury, MicroRNAs, 4
+Chest injury, miR-122, 0
+Chest injury, miR-216a , 0
+Chest injury, miR-216b , 0
+Chest injury, miR-217, 0
+Chest injury, miRNAs, 4
+Chest injury, Molecular biomarker, 0
+Chest injury, Molecular markers, 3
+Chest injury, Multiple organ dysfunction score, 2
+Chest injury, Myeloperoxidase, 21
+Chest injury, Myoglobin, 18
+Chest injury, N-acetyl-β-D-glucosaminidase, 0
+Chest injury, Neutrophil Gelatinase-Associated Lipocalin, 2
+Chest injury, Neutrophils, 55
+Chest injury, NGAL, 2
+Chest injury, N-GAL, 0
+Chest injury, NISS, 8
+Chest injury, Nitric oxide, 37
+Chest injury, Novel markers, 1
+Chest injury, N-terminal pro-B-type natriuretic peptide , 3
+Chest injury, Nuclear fragments in circulating erythrocytes, 0
+Chest injury, Odd ratio, 3
+Chest injury, OPN, 0
+Chest injury, Osteopontin, 2
+Chest injury, PaO2 , 33
+Chest injury, Parameters , 144
+Chest injury, Paraoxonase 1 normalized to prothrombin protein, 0
+Chest injury, Paraxonase 1 , 0
+Chest injury, Pathogenic, 36
+Chest injury, Pathologic, 50
+Chest injury, Phosphate, 32
+Chest injury, Physiologic , 82
+Chest injury, Plasminogen activator inhibitor, 10
+Chest injury, Platelet count, 40
+Chest injury, Platelet-activating factor, 5
+Chest injury, Platelets, 64
+Chest injury, Platelets and pH-value, 0
+Chest injury, PNP, 2
+Chest injury, Point of care , 25
+Chest injury, Polymorphonuclear elastase, 0
+Chest injury, Polymorpho-nuclear neutrophil elastase, 0
+Chest injury, PON1, 2
+Chest injury, Potassium, 84
+Chest injury, Procalcitonin, 7
+Chest injury, Properdin, 0
+Chest injury, Protein C, 25
+Chest injury, Prothrombin time, 35
+Chest injury, Purine nucleoside phosphorylase , 0
+Chest injury, Receiver operating characteristic curves, 4
+Chest injury, Red cell count, 3
+Chest injury, Respiration rate, 8
+Chest injury, Revised Trauma score, 31
+Chest injury, Risk factors, 112
+Chest injury, Screening methods, 9
+Chest injury, SDH, 10
+Chest injury, Sequential organ failure assessment, 14
+Chest injury, Sodium , 131
+Chest injury, SOFA, 17
+Chest injury, Sorbitol dehydrogenase, 0
+Chest injury, Suppressor T-cells, 1
+Chest injury, Temperature, 198
+Chest injury, Test , 302
+Chest injury, Testing, 133
+Chest injury, The post-traumatic plasma levels of soluble tumor necrosis factor receptors p55 and p75, 0
+Chest injury, Total and segmented leukocytes, 0
+Chest injury, Total T lymphocytes , 0
+Chest injury, Trauma scoring systems, 4
+Chest injury, Trefoil Factor 3, 0
+Chest injury, TRISS, 26
+Chest injury, Troponin, 52
+Chest injury, Trypsin-2-a1antitrypsin complex , 0
+Chest injury, Trypsin-2-AAT, 0
+Chest injury, Trypsinogen-2 , 0
+Chest injury, Tuftsin, 0
+Chest injury, Ultrasound, 134
+Chest injury, Urea, 70
+Chest injury, Valproic acid, 13
+Chest injury, Vascular endothelial growth factor , 10
+Chest injury, Venous thromboembolism, 28
+Chest injury, White blood cell count , 22
+Chest injury, α-fetoprotein, 0

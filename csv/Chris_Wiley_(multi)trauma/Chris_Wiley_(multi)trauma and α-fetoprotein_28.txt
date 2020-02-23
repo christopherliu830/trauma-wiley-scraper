@@ -1,0 +1,281 @@
+
+TY  - JOUR
+TI  - Transcription: Factors, regulation and differentiation
+JO  - Journal of Cellular Biochemistry
+JA  - J. Cell. Biochem.
+VL  - 53
+IS  - S17A
+SN  - 0730-2312
+UR  - https://doi.org/10.1002/jcb.240530504
+DO  - doi:10.1002/jcb.240530504
+SP  - 53
+EP  - 218
+PY  - 1993
+ER  - 
+
+TY  - JOUR
+TI  - The American Association for the Study of Liver Diseasees. Program
+JO  - Hepatology
+JA  - Hepatology
+VL  - 22
+IS  - S4
+SN  - 0270-9139
+UR  - https://doi.org/10.1002/hep.1840220702
+DO  - doi:10.1002/hep.1840220702
+SP  - S23
+EP  - S105
+PY  - 1995
+ER  - 
+
+TY  - JOUR
+TI  - American association of anatomists. Eighty-ninth annual session. University of Louisville health sciences center, Louisville, Kentucky, April 20–23, 1976. Officers, abstracts, demonstrations
+JO  - The Anatomical Record
+JA  - Anat. Rec.
+VL  - 184
+IS  - 3
+SN  - 0003-276X
+UR  - https://doi.org/10.1002/ar.1091840308
+DO  - doi:10.1002/ar.1091840308
+SP  - 335
+EP  - 598
+PY  - 1976
+ER  - 
+
+TY  - JOUR
+TI  - AES Proceedings
+JO  - Epilepsia
+VL  - 39
+IS  - s6
+SN  - 0013-9580
+UR  - https://doi.org/10.1111/j.1528-1157.1998.tb01676.x
+DO  - doi:10.1111/j.1528-1157.1998.tb01676.x
+SP  - 1
+EP  - 254
+PY  - 1998
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts of papers submitted to the american association for the study of liver diseases
+JO  - Hepatology
+JA  - Hepatology
+VL  - 18
+IS  - S7
+SN  - 0270-9139
+UR  - https://doi.org/10.1002/hep.1840180703
+DO  - doi:10.1002/hep.1840180703
+SP  - 57A
+EP  - 346A
+PY  - 1993
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts-part VII (Continue in Part VIII)
+JO  - Proceedings of the International Society for Magnetic Resonance in Medicine
+JA  - Proc. Soc. Magn. Reson. Med.
+VL  - 1988
+IS  - S1
+SN  - 1065-9889
+UR  - https://doi.org/10.1002/mrmp.22419880109
+DO  - doi:10.1002/mrmp.22419880109
+SP  - 351
+EP  - 400
+PY  - 1988
+ER  - 
+
+TY  - JOUR
+C7  - e28049
+TI  - ABSTRACTS
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr Blood Cancer
+VL  - 66
+IS  - S5
+SN  - 1545-5009
+UR  - https://doi.org/10.1002/pbc.28049
+DO  - doi:10.1002/pbc.28049
+SP  - e28049
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+AU  - Miguelez, Javier
+AU  - Moskovitch, Miki
+AU  - Cuckle, Howard
+AU  - Zugaib, Marcelo
+AU  - Bunduki, Victor
+AU  - Maymon, Ron
+TI  - Model-Predicted Performance of Second-Trimester Down Syndrome Screening With Sonographic Prenasal Thickness
+JO  - Journal of Ultrasound in Medicine
+VL  - 29
+IS  - 12
+SN  - 0278-4297
+UR  - https://doi.org/10.7863/jum.2010.29.12.1741
+DO  - doi:10.7863/jum.2010.29.12.1741
+SP  - 1741
+EP  - 1747
+KW  - Down syndrome
+KW  - model prediction
+KW  - prenasal thickness
+KW  - screening
+KW  - sonography
+PY  - 2010
+AB  - Objective. The purpose of this study was to estimate the Down syndrome detection and false-positive rates for second-trimester sonographic prenasal thickness (PT) measurement alone and in combination with other markers. Methods. Multivariate log Gaussian modeling was performed using numerical integration. Parameters for the PT distribution, in multiples of the normal gestation-specific median (MoM), were derived from 105 Down syndrome and 1385 unaffected pregnancies scanned at 14 to 27 weeks. The data included a new series of 25 cases and 535 controls combined with 4 previously published series. The means were estimated by the median and the SDs by the 10th to 90th range divided by 2.563. Parameters for other markers were obtained from the literature. Results. A log Gaussian model fitted the distribution of PT values well in Down syndrome and unaffected pregnancies. The distribution parameters were as follows: Down syndrome, mean, 1.334 MoM; log10 SD, 0.0772; unaffected pregnancies, 0.995 and 0.0752, respectively. The model-predicted detection rates for 1%, 3%, and 5% false-positive rates for PT alone were 35%, 51%, and 60%, respectively. The addition of PT to a 4?serum marker protocol increased detection by 14% to 18% compared with serum alone. The simultaneous sonographic measurement of PT and nasal bone length increased detection by 19% to 26%, and with a third sonographic marker, nuchal skin fold, performance was comparable with first-trimester protocols. Conclusions. Second-trimester screening with sonographic PT and serum markers is predicted to have a high detection rate, and further sonographic markers could perform comparably with first-trimester screening protocols.
+ER  - 
+
+TY  - JOUR
+TI  - Section one. Economic evaluation references listed alphabetically by author. Part I
+JO  - Health Economics
+JA  - Health Econ.
+VL  - 1
+IS  - S1
+SN  - 1057-9230
+UR  - https://doi.org/10.1002/hec.4730010505
+DO  - doi:10.1002/hec.4730010505
+SP  - 51
+EP  - 132
+PY  - 1992
+ER  - 
+
+TY  - JOUR
+TI  - Poster Sessions
+JO  - The FEBS Journal
+JA  - FEBS J
+VL  - 282
+IS  - S1
+SN  - 1742-464X
+UR  - https://doi.org/10.1111/febs.13339
+DO  - doi:10.1111/febs.13339
+SP  - 55
+EP  - 422
+PY  - 2015
+ER  - 
+
+C7  - pp. 483-1049
+TI  - German-English-French
+SN  - 9783826334054
+UR  - https://doi.org/10.1002/9780470760338.ch2
+DO  - doi:10.1002/9780470760338.ch2
+SP  - 483-1049
+PY  - 2015
+AB  - Summary This chapter contains sections titled: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts 1–204
+JO  - Hepatology
+JA  - Hepatology
+VL  - 50
+IS  - S4
+SN  - 9783826334054
+UR  - https://doi.org/10.1002/hep.23300
+DO  - doi:10.1002/hep.23300
+SP  - 302A
+EP  - 401A
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+TI  - Hepatology Clinical
+JO  - Journal of Gastroenterology and Hepatology
+JA  - Journal of Gastroenterology and Hepatology
+VL  - 31
+IS  - S2
+SN  - 9783826334054
+UR  - https://doi.org/10.1111/jgh.13520
+DO  - doi:10.1111/jgh.13520
+SP  - 89
+EP  - 120
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts of the annual meeting
+JO  - Hepatology
+JA  - Hepatology
+VL  - 6
+IS  - 5
+SN  - 9783826334054
+UR  - https://doi.org/10.1002/hep.1840060557
+DO  - doi:10.1002/hep.1840060557
+SP  - 1105
+EP  - 1231
+PY  - 1986
+ER  - 
+
+TY  - JOUR
+TI  - Posters
+JO  - FEBS Open Bio
+JA  - FEBS Open Bio
+VL  - 9
+IS  - S1
+SN  - 9783826334054
+UR  - https://doi.org/10.1002/2211-5463.12675
+DO  - doi:10.1002/2211-5463.12675
+SP  - 65
+EP  - 431
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentations
+JO  - The FEBS Journal
+VL  - 275
+IS  - s1
+SN  - 9783826334054
+UR  - https://doi.org/10.1111/j.1742-4658.2008.06448.x
+DO  - doi:10.1111/j.1742-4658.2008.06448.x
+SP  - 99
+EP  - 437
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Journal of Inherited Metabolic Disease
+JA  - J Inherit Metab Dis
+VL  - 26
+IS  - S2
+SN  - 9783826334054
+UR  - https://doi.org/10.1023/A:1024858629434
+DO  - doi:10.1023/A:1024858629434
+SP  - 1
+EP  - 228
+PY  - 2003
+ER  - 
+
+TY  - JOUR
+TI  - International Society of Pediatric Oncology SIOP XXII Meeting. Rhodes, Greece September 30–October 4, 1991. Abstracts
+JO  - Medical and Pediatric Oncology
+JA  - Med. Pediatr. Oncol.
+VL  - 19
+IS  - 5
+SN  - 9783826334054
+UR  - https://doi.org/10.1002/mpo.2950190503
+DO  - doi:10.1002/mpo.2950190503
+SP  - 391
+EP  - 437
+PY  - 1991
+ER  - 
+
+TY  - JOUR
+TI  - Oral Presentations
+JO  - Journal of Gastroenterology and Hepatology
+JA  - J Gastroenterol Hepatol
+VL  - 28
+IS  - S3
+SN  - 9783826334054
+UR  - https://doi.org/10.1111/jgh.12363_1
+DO  - doi:10.1111/jgh.12363_1
+SP  - 1
+EP  - 22
+PY  - 2013
+ER  - 
+
+C7  - pp. 1051-1518
+TI  - French-English-German
+SN  - 9783826334054
+UR  - https://doi.org/10.1002/9780470760338.ch3
+DO  - doi:10.1002/9780470760338.ch3
+SP  - 1051-1518
+PY  - 2013
+AB  - Summary This chapter contains sections titled: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+ER  - 

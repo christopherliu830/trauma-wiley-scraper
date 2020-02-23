@@ -1,0 +1,328 @@
+
+TY  - JOUR
+AU  - Iba, T.
+AU  - Levy, J. H.
+TI  - Derangement of the endothelial glycocalyx in sepsis
+JO  - Journal of Thrombosis and Haemostasis
+JA  - J Thromb Haemost
+VL  - 17
+IS  - 2
+SN  - 1538-7933
+UR  - https://doi.org/10.1111/jth.14371
+DO  - doi:10.1111/jth.14371
+SP  - 283
+EP  - 294
+KW  - endothelial surface layer
+KW  - glycocalyx
+KW  - microcirculation
+KW  - organ dysfunction
+KW  - sepsis
+PY  - 2019
+AB  - Summary The vascular endothelial surface is coated by the glycocalyx, a ubiquitous gel-like layer composed of a membrane-binding domain that contains proteoglycans, glycosaminoglycan side-chains, and plasma proteins such as albumin and antithrombin. The endothelial glycocalyx plays a critical role in maintaining vascular homeostasis. However, this component is highly vulnerable to damage and is also difficult to examine. Recent advances in analytical techniques have enabled biochemical, visual and computational investigation of this vascular component. The glycocalyx modulates leukocyte?endothelial interactions, thrombus formation and other processes that lead to microcirculatory dysfunction and critical organ injury in sepsis. It also acts as a regulator of vascular permeability and contains mechanosensors as well as receptors for growth factors and anticoagulants. During the initial onset of sepsis, the glycocalyx is damaged and circulating levels of glycocalyx components, including syndecans, heparan sulfate and hyaluronic acid, can be measured and are reportedly useful as biomarkers for sepsis. Also, a new methodology using side-stream dark-field imaging is now clinically available for assessing the glycocalyx. Multiple factors including hypervolemia and hyperglycemia are toxic to the glycocalyx, and several agents have been proposed as therapeutic modalities, although no single treatment has been proven to be clinically effective. In this article, we review the derangement of the glycocalyx in sepsis. Despite the accumulated knowledge regarding the important roles of the glycocalyx, the relationship between derangement of the endothelial glycocalyx and severity of sepsis or disseminated intravascular coagulation has not been adequately elucidated and further work is needed.
+ER  - 
+
+TY  - JOUR
+AU  - Butler-Manuel, Simon A.
+AU  - Gould, Deborah A.
+AU  - Thomas, Stephen M.
+AU  - Carter, Paul G.
+AU  - Barton, Desmond P. J.
+TI  - Thromboembolic disease as a presentation of-gynaecological malignancy
+JO  - BJOG: An International Journal of Obstetrics & Gynaecology
+VL  - 104
+IS  - 12
+SN  - 1470-0328
+UR  - https://doi.org/10.1111/j.1471-0528.1997.tb11014.x
+DO  - doi:10.1111/j.1471-0528.1997.tb11014.x
+SP  - 1413
+EP  - 1415
+PY  - 1997
+ER  - 
+
+TY  - JOUR
+AU  - Montes, Ramón
+AU  - Guruceaga, Elisabet
+AU  - González-Porras, José R.
+AU  - Reverter, Joan C.
+AU  - Marco, Pascual
+AU  - Pina, Elena
+AU  - Páramo, José A.
+AU  - Hermida, José
+AU  - Lecumberri, Ramón
+AU  - Grupo de Trabajo de Patología Trombótica de la Sociedad Española de Trombosis y Hemostasia (SETH)
+TI  - Identification of new markers of recurrence in patients with unprovoked deep vein thrombosis by gene expression profiling: the retro study
+JO  - European Journal of Haematology
+JA  - Eur J Haematol
+VL  - 97
+IS  - 2
+SN  - 0902-4441
+UR  - https://doi.org/10.1111/ejh.12692
+DO  - doi:10.1111/ejh.12692
+SP  - 128
+EP  - 136
+KW  - deep venous thrombosis
+KW  - recurrence
+KW  - gene expression profiling
+KW  - ACSF2
+PY  - 2016
+AB  - Abstract Objective The aim of this study was to assess differences in the gene expression profile of peripheral blood cells between patients with early recurrent thrombosis vs. patients without recurrent events after withdrawal of anticoagulant therapy for a first episode of unprovoked deep vein thrombosis (uDVT), to identify novel predictors of recurrence. Methods In the discovery population (N = 32), a microarray RNA assay followed by RT-PCR confirmation were performed. In the validation population (N = 44) a multiple RT-PCR-based strategy was applied to assess genes differentially expressed in the discovery population. Results The sex-adjusted Linear Model for Microarray Data analysis showed 102 genes differentially expressed (P < 0.01) in the discovery population. Nineteen of them underwent further confirmation in the validation population. The gene encoding for Acyl-CoA Synthetase Family Member 2 (ACSF2) was underexpressed in recurrent DVT patients in both, the discovery (P = 0.007) and validation populations (P = 0.004). In the receiver operator characteristic (ROC) analysis, the areas under the curve of ACSF2 expression were 0.77 and 0.80, respectively. Conclusions For the first time an association between ACSF2 expression and the risk of recurrent DVT is suggested. Should this association be confirmed in larger prospective studies, ACSF2 could become useful for the selection of patients requiring extended anticoagulant therapy.
+ER  - 
+
+TY  - JOUR
+TI  - THSNA 2018 Summit Abstract Proceedings
+JO  - American Journal of Hematology
+JA  - Am J Hematol
+VL  - 93
+IS  - 9
+SN  - 0361-8609
+UR  - https://doi.org/10.1002/ajh.25268
+DO  - doi:10.1002/ajh.25268
+SP  - E253
+EP  - E328
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - Society for the Advancement of Blood Management Poster Abstracts from the SABM 2006 Annual Meeting
+JO  - Transfusion
+VL  - 47
+IS  - 2
+SN  - 0041-1132
+UR  - https://doi.org/10.1111/j.1537-2995.2007.01123.x
+DO  - doi:10.1111/j.1537-2995.2007.01123.x
+SP  - 1A
+EP  - 9A
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Author index
+JO  - Cephalalgia
+VL  - 14
+IS  - 6
+SN  - 0333-1024
+UR  - https://doi.org/10.1046/j.1468-2982.1994.1406i.x
+DO  - doi:10.1046/j.1468-2982.1994.1406i.x
+SP  - i
+EP  - x
+PY  - 1994
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - International Journal of Laboratory Hematology
+JA  - Int. Jnl. Lab. Hem.
+VL  - 38
+IS  - S2
+SN  - 1751-5521
+UR  - https://doi.org/10.1111/ijlh.12567
+DO  - doi:10.1111/ijlh.12567
+SP  - 1
+EP  - 119
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - Monday 4th April 2011 Free Communications: Haemostasis and Thrombosis
+JO  - British Journal of Haematology
+VL  - 153
+IS  - s1
+SN  - 0007-1048
+UR  - https://doi.org/10.1111/j.1365-2141.2011.08609.x
+DO  - doi:10.1111/j.1365-2141.2011.08609.x
+SP  - 1
+EP  - 88
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - Ards
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 40
+IS  - s109
+SN  - 0001-5172
+UR  - https://doi.org/10.1111/j.1399-6576.1996.tb04577.x
+DO  - doi:10.1111/j.1399-6576.1996.tb04577.x
+SP  - 61
+EP  - 74
+PY  - 1996
+ER  - 
+
+TY  - JOUR
+TI  - ASBMR 26th Annual Meeting M001–M585
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 19
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.5650191306
+DO  - doi:10.1002/jbmr.5650191306
+SP  - S343
+EP  - S484
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+TI  - Administrative Abstracts
+JO  - Transfusion
+JA  - Transfusion
+VL  - 53
+IS  - S2
+SN  - 0041-1132
+UR  - https://doi.org/10.1111/trf.12401_2
+DO  - doi:10.1111/trf.12401_2
+SP  - 219
+EP  - 278A
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - Poster abstracts
+JO  - International Journal of Laboratory Hematology
+VL  - 33
+IS  - s1
+SN  - 1751-5521
+UR  - https://doi.org/10.1111/j.1751-553X.2011.01329.x
+DO  - doi:10.1111/j.1751-553X.2011.01329.x
+SP  - 53
+EP  - 136
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Section
+JO  - Transfusion
+VL  - 39
+IS  - S10
+SN  - 0041-1132
+UR  - https://doi.org/10.1111/j.1537-2995.1999.tb05925.x
+DO  - doi:10.1111/j.1537-2995.1999.tb05925.x
+SP  - 1S
+EP  - 123S
+PY  - 1999
+ER  - 
+
+TY  - JOUR
+TI  - Free Communication: Presidential Selection
+JO  - British Journal of Haematology
+VL  - 149
+IS  - s1
+SN  - 0007-1048
+UR  - https://doi.org/10.1111/j.1365-2141.2010.08116.x
+DO  - doi:10.1111/j.1365-2141.2010.08116.x
+SP  - 1
+EP  - 26
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - Boire, Timothy C.
+AU  - Balikov, Daniel A.
+AU  - Lee, Yunki
+AU  - Guth, Christy M.
+AU  - Cheung-Flynn, Joyce
+AU  - Sung, Hak-Joon
+TI  - Biomaterial-Based Approaches to Address Vein Graft and Hemodialysis Access Failures
+JO  - Macromolecular Rapid Communications
+JA  - Macromol. Rapid Commun.
+VL  - 37
+IS  - 23
+SN  - 1022-1336
+UR  - https://doi.org/10.1002/marc.201600412
+DO  - doi:10.1002/marc.201600412
+SP  - 1860
+EP  - 1880
+KW  - biomaterials
+KW  - biocompatibility
+KW  - biodegradability
+KW  - external stents
+KW  - mechanical properties
+PY  - 2016
+AB  - Veins used as grafts in heart bypass or as access points in hemodialysis exhibit high failure rates, thereby causing significant morbidity and mortality for patients. Interventional or revisional surgeries required to correct these failures have been met with limited success and exorbitant costs, particularly for the US Centers for Medicare & Medicaid Services. Vein stenosis or occlusion leading to failure is primarily the result of neointimal hyperplasia. Systemic therapies have achieved little long-term success, indicating the need for more localized, sustained, biomaterial-based solutions. Numerous studies have demonstrated the ability of external stents to reduce neointimal hyperplasia. However, successful results from animal models have failed to translate to the clinic thus far, and no external stent is currently approved for use in the US to prevent vein graft or hemodialysis access failures. This review discusses current progress in the field, design considerations, and future perspectives for biomaterial-based external stents. More comparative studies iteratively modulating biomaterial and biomaterial-drug approaches are critical in addressing mechanistic knowledge gaps associated with external stent application to the arteriovenous environment. Addressing these gaps will ultimately lead to more viable solutions that prevent vein graft and hemodialysis access failures.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts of papers presented at the 27th Annual Scientific Meeting of the Australasian Society of Blood Transfusion, Hobart, Australia, 19–22 September 1993
+JO  - Transfusion Medicine
+VL  - 4
+IS  - 1
+SN  - 0958-7578
+UR  - https://doi.org/10.1111/j.1365-3148.1994.tb00246.x
+DO  - doi:10.1111/j.1365-3148.1994.tb00246.x
+SP  - 71
+EP  - 89
+PY  - 1994
+ER  - 
+
+TY  - JOUR
+TI  - Publication Only
+JO  - Journal of Thrombosis and Haemostasis
+VL  - 9
+IS  - s2
+SN  - 1538-7933
+UR  - https://doi.org/10.1111/j.1538-7836.2011.04380_6.x
+DO  - doi:10.1111/j.1538-7836.2011.04380_6.x
+SP  - 963
+EP  - 970
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+AU  - Nord, Carl Erik
+AU  - Heimdahl, Anders
+TI  - Cardiovascular infections: bacterial endocarditis of oral origin. Pathogenesis and prophylaxis
+JO  - Journal of Clinical Periodontology
+VL  - 17
+IS  - s1
+SN  - 0303-6979
+UR  - https://doi.org/10.1111/j.1365-2710.1992.tb01221.x
+DO  - doi:10.1111/j.1365-2710.1992.tb01221.x
+SP  - 494
+EP  - 496
+KW  - bacterial endocarditis
+KW  - oral origin
+KW  - pathogenesis
+KW  - prophylaxis
+PY  - 1990
+AB  - Abstract. The diagnosis infective endocarditis describes infection of the endocardial surface of the heart and indicates the presence of micro-organisms in the lesion. In most cases, the heart valves are affected, but the disease can also occur on septal defects or on the mural endocardium. The disease has been classified as acute or subacute based on the progression of the untreated disease. The acute form has a fulminant course with high fever and leukocytosis with death in less than 6 weeks. It is most often associated with infections caused by Staphylococcus aureus, Streptococcus pneumoniae or Streptococcus pyogenes. The subacute (death within 6 weeks to 3 months) and chronic (death more than 3 months) forms are mostly described together. These forms usually occur in patients with prior valvular disease and are characterized by a slow, indolent course with low-grade fever, night sweats, and weight loss. This form is usually caused by the viridansstreptococci. The above mentioned classification does not include the nonbacterial forms of endocarditis and enterococci often give rise to a disease interrcediate between acute and subacute endocarditis. It is preferable to have a classification based on the micro-organism responsible since this classification has implications for the course followed and the appropriate antimicrobial agent to use. The clinical manifestations of the disease are so varied that they may be encountered in most medical subspecialties. Successful management is also dependent on the close cooperation of medical and dental disciplines.
+ER  - 
+
+TY  - JOUR
+TI  - Abstract
+JO  - Journal of Thrombosis and Haemostasis
+JA  - Journal of Thrombosis and Haemostasis
+VL  - 5
+IS  - S2
+SN  - 1538-7933
+UR  - https://doi.org/10.1111/j.1538-7836.2007.tb00028.x
+DO  - doi:10.1111/j.1538-7836.2007.tb00028.x
+SP  - P-T-201
+EP  - P-T-400
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+AU  - ASTERMARK, J.
+AU  - NEGRIER, C.
+AU  - HERMANS, C.
+AU  - HOLME, P. A.
+AU  - KLAMROTH, R.
+AU  - KOTSI, P.
+AU  - DE MOERLOOSE, P.
+AU  - PASI, J.
+AU  - ROCINO, A.
+AU  - VON DEPKA, M.
+AU  - WINDYGA, J.
+AU  - LUDLAM, C. A.
+AU  - ON BEHALF OF THE INTERDISCIPLINARY WORKING GROUP IDWG
+TI  - European curriculum for thrombosis and haemostasis
+JO  - Haemophilia
+VL  - 15
+IS  - 1
+SN  - 1351-8216
+UR  - https://doi.org/10.1111/j.1365-2516.2008.01836.x
+DO  - doi:10.1111/j.1365-2516.2008.01836.x
+SP  - 337
+EP  - 344
+PY  - 2009
+ER  - 

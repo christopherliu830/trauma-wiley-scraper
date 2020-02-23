@@ -1,0 +1,474 @@
+
+TY  - JOUR
+AU  - Wallace, William A.H.
+AU  - Fitch, Paul M.
+AU  - Simpson, A. John
+AU  - Howie, Sarah E.M.
+TI  - Inflammation-associated remodelling and fibrosis in the lung – a process and an end point
+JO  - International Journal of Experimental Pathology
+VL  - 88
+IS  - 2
+SN  - 0959-9673
+UR  - https://doi.org/10.1111/j.1365-2613.2006.00515.x
+DO  - doi:10.1111/j.1365-2613.2006.00515.x
+SP  - 103
+EP  - 110
+KW  - fibrosis
+KW  - inflammation
+KW  - injury
+KW  - lung
+KW  - remodelling
+PY  - 2007
+AB  - Summary Fibrosis by common usage in the pathological and clinical literature is the end result of a healing process and synonymous with scarring. We would argue that its use to describe a dynamic series of events which may be reversible is unhelpful and that the term ?lung remodelling? is a better description for this process as it reflects changes in tissue organization that may or may not progress to ?fibrosis? as a final fixed point. Resolution, through reversal of active lung remodelling, by therapeutic intervention is possible providing the alveolar architecture remains intact. If the lung architecture is lost then healing by permanent fibrosis with loss of organ function is inevitable.
+ER  - 
+
+TY  - JOUR
+AU  - Montinaro, Vincenzo
+AU  - Massari, Federico
+AU  - Vezzoni, Luca
+AU  - Liptak, Julius M.
+AU  - Straw, Rod C.
+AU  - Allen, Larie
+AU  - Cavanaugh, Ryan P.
+AU  - Berg, John
+AU  - Doyle, Ronan S.
+AU  - Buracco, Paolo
+AU  - Romanelli, Giorgio
+TI  - Lateral caudal axial pattern flap in 13 dogs
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 44
+IS  - 5
+SN  - 0161-3499
+UR  - https://doi.org/10.1111/j.1532-950X.2014.12305.x
+DO  - doi:10.1111/j.1532-950X.2014.12305.x
+SP  - 642
+EP  - 647
+PY  - 2015
+AB  - Objective To describe the frequency and extent of complications associated with lateral caudal axial pattern flaps used to cover large traumatic or excision skin defects on the dorsum, gluteal, and perineal region in 13 dogs. Study Design Case series. Animals Thirteen client-owned dogs. Methods Medical records from 8 institutions were reviewed for dogs treated with a lateral caudal axial pattern flap, including cases in which the procedure was combined with other reconstructive techniques. The flap length relative to the tail length, location of tail skin incision, size and cause of the defect, and short- and long-term complications were recorded. Results Thirteen dogs were included, 11 with tumors and 2 with traumatic skin loss. The mean estimated length of the flap relative to tail length was 51% (range 33?70%). Four dogs had wound complications. This included 2 dogs with minor postoperative wound complications (mild distal dehiscence) that did not require surgical revision and 2 dogs with major complications that required surgical revision. Two of these 4 dogs had distal flap necrosis, one was revised surgically and one was managed conservatively. In these 2 dogs, the flap length was estimated as 80% and 65% of the tail length, respectively. At 30 days, flaps in all dogs were completely healed. No long-term complications were recorded in any dog. For some dogs, the reconstruction was not obvious, with only the change in hair direction and color noticeable. Conclusion Lateral caudal axial pattern flap is a reconstructive option for gluteal, dorsal, and perineal skin defects in dogs. Distal flap necrosis and dehiscence due to wound infection occurred in 4 dogs that required additional wound care but not always surgical revision.
+ER  - 
+
+TY  - JOUR
+AU  - Sartori, M.
+AU  - Fernandez, J. W.
+AU  - Modenese, L.
+AU  - Carty, C. P.
+AU  - Barber, L. A.
+AU  - Oberhofer, K.
+AU  - Zhang, J.
+AU  - Handsfield, G. G.
+AU  - Stott, N. S.
+AU  - Besier, T. F.
+AU  - Farina, D.
+AU  - Lloyd, D. G.
+C7  - e1368
+TI  - Toward modeling locomotion using electromyography-informed 3D models: application to cerebral palsy
+JO  - WIREs Systems Biology and Medicine
+JA  - WIREs Syst Biol Med
+VL  - 9
+IS  - 2
+SN  - 1939-5094
+UR  - https://doi.org/10.1002/wsbm.1368
+DO  - doi:10.1002/wsbm.1368
+SP  - e1368
+PY  - 2017
+AB  - This position paper proposes a modeling pipeline to develop clinically relevant neuromusculoskeletal models to understand and treat complex neurological disorders. Although applicable to a variety of neurological conditions, we provide direct pipeline applicative examples in the context of cerebral palsy (CP). This paper highlights technologies in: (1) patient-specific segmental rigid body models developed from magnetic resonance imaging for use in inverse kinematics and inverse dynamics pipelines; (2) efficient population-based approaches to derive skeletal models and muscle origins/insertions that are useful for population statistics and consistent creation of continuum models; (3) continuum muscle descriptions to account for complex muscle architecture including spatially varying material properties with muscle wrapping; (4) muscle and tendon properties specific to CP; and (5) neural-based electromyography-informed methods for muscle force prediction. This represents a novel modeling pipeline that couples for the first time electromyography extracted features of disrupted neuromuscular behavior with advanced numerical methods for modeling CP-specific musculoskeletal morphology and function. The translation of such pipeline to the clinical level will provide a new class of biomarkers that objectively describe the neuromusculoskeletal determinants of pathological locomotion and complement current clinical assessment techniques, which often rely on subjective judgment. WIREs Syst Biol Med 2017, 9:e1368. doi: 10.1002/wsbm.1368 This article is categorized under: Analytical and Computational Methods > Computational Methods Models of Systems Properties and Processes > Organ, Tissue, and Physiological Models
+ER  - 
+
+TY  - JOUR
+AU  - Park, Jung
+AU  - Gelse, Kolja
+AU  - Frank, Susi
+AU  - von der Mark, Klaus
+AU  - Aigner, Thomas
+AU  - Schneider, Holm
+TI  - Transgene-activated mesenchymal cells for articular cartilage repair: a comparison of primary bone marrow-, perichondrium/periosteum- and fat-derived cells
+JO  - The Journal of Gene Medicine
+JA  - J. Gene Med.
+VL  - 8
+IS  - 1
+SN  - 1099-498X
+UR  - https://doi.org/10.1002/jgm.826
+DO  - doi:10.1002/jgm.826
+SP  - 112
+EP  - 125
+KW  - gene transfer
+KW  - mesenchymal cells
+KW  - cartilage repair
+KW  - bone marrow
+KW  - periosteum
+KW  - fat
+PY  - 2006
+AB  - Abstract Background Adult primary mesenchymal cells of different origin which can be obtained with minor donor site morbidity are considered for articular cartilage repair. This study aims at a comparison of their chondrogenic potential. Methods Mesenchymal cells were isolated from perichondrium/periosteum, bone marrow or fat of adult rats and found to be positive for the stem-cell-related antigens Sca-1, c-Kit, CD10, CD13 and CD90 by reverse transcription polymerase chain reaction (RT-PCR). Chondrogenic differentiation was induced by applying recombinant bone morphogenetic protein-2 (BMP-2) or adenoviral vectors carrying BMP-2 cDNA, followed by micromass culture. The stimulated cells were characterized by RT-PCR, cell proliferation and apoptosis assays. Expression of aggrecan, collagen type I, II, IX and X and alkaline phosphatase genes was analyzed by RT-PCR, immunofluorescence and immunohistochemistry in comparison with unstimulated control cells. Adenovirally stimulated cells were transplanted into mechanically generated partial-thickness cartilage lesions in the patellar groove of the rat femur. Quality and integration of the repair tissues were assessed by histochemical and immunohistochemical methods. Results Stimulation with BMP-2 or AdBMP-2 led to an up-regulation of cartilage-specific gene expression in all three cell populations studied, most rapidly and prominently in the perichondrial/periosteal cells, which showed a 3200-fold increase of type II collagen mRNA and reached the highest absolute levels of type II and IX collagen transcripts after stimulation. Similar results were obtained for the bone marrow stromal cells (BMSC), while the respective transcript levels in fat stromal cells declined after an initial more than 30-fold elevation. Following transplantation in vivo, AdBMP-2-infected perichondrial/periosteal cells produced a proteoglycan-rich, type II collagen-positive matrix with only faint staining for type I collagen. The repair tissue originating from AdBMP-2-infected BMSC showed less intense type II collagen staining, but a relatively proteoglycan-rich matrix, weakly positive for type I collagen. Transgene-activated fat stromal cells formed rather fibrous tissue mainly composed of type I collagen. Unstimulated cells of the three different populations gave only rise to fibrous tissue. Conclusions Perichondrium/periosteum-derived cells and BMSC seem superior to cells isolated from fat with respect to forming hyaline cartilaginous tissue. A chondrogenic stimulus, e.g. by transfer of BMP-2 cDNA, appears to be required for initiation and support of chondrogenic differentiation. Copyright ? 2005 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Kim, Y.O.
+AU  - Choi, Y.J.
+AU  - Kim, J.I.
+AU  - Shin, M.J.
+AU  - Kim, B.S.
+AU  - Song, H.C.
+AU  - Yoon, S.A.
+AU  - Kim, Y.S.
+AU  - Kim, S.Y.
+AU  - Choi, E.J.
+AU  - Chang, Y.S.
+AU  - Bang, B.K.
+TI  - Intima-media thickness of radial artery is associated with early access failure in hemodialysis patients
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121d.x
+DO  - doi:10.1111/j.1492-7535.2005.1121d.x
+SP  - 72
+EP  - 72
+PY  - 2005
+AB  - Objective:? We have reported that intimal hyperplasia, which is the pathologic change of the radial artery, is associated with early failure of arteriovenous fistula (AVF) in hemodialysis (HD) patients (Am J Kidney Dis, 41:422?428, 2003). Intima-media thickness (IMT), which represents the whole thickness of arterial wall, can be easily measured by ultrasonography, unlike intima thickness. This study was performed to investigate the impact of IMT of radial artery on early failure of AVF in HD patients. Methods:?Ninety HD patients undergoing radiocephalic AVF operation were included in this study. The AVF was constructed in an end vein?to?side artery fashion at the wrist by one vascular surgeon. During the operation, 10-mm long partial arterial walls were removed with elliptical form for microscopic analysis. Specimens were stained with trichrome and examined by a pathologist blinded to the clinical data. AVF patency was prospectively followed up for 1 year after the operation. Results:?Mean age of the patients was 56?±?13 years and the number of females was 44 (48.9%). Mean IMT was 430?± 132??m (133?760??m). Of the total 90 patients, 31 patients (34.4%) had AVF failure within 1 year after the operation. Mean IMT was higher in the failed group (n?=?31) than in patent group (n?=?59)(486?±?130??m vs. 330?±?178??m, p?=?0.004). Using a threshold of 500??m of IMT, AVF patency rate was compared between these two groups using Kaplan-Meier method with log rank test. The AVF patency rate within 1 year after the operation was higher in patients with IMT?≥?500??m (n?=?26) than in patients with IMT?<?500??m (n?=?64)(p?<?0.001). The patients with IMT?≥?500??m were older and had higher incidence of diabetes mellitus, compared to the patients with IMT?<?500??m. There was no difference in sex, smoking, hypertension, total cholesterol and albumin levels between the two groups. Conclusion:?Our data suggest that increased intima-media thickness of radial artery is associated with early failure of radiocephalic arteriovenous fistula in hemodialysis patients.
+ER  - 
+
+AU  - Mathews, Karol
+AU  - Grubb, Tamara
+AU  - Steele, Andrea
+C7  - pp. 423-438
+TI  - Vertebral Column (Vertebrae and Spinal Cord)
+SN  - 9781119036562
+UR  - https://doi.org/10.1002/9781119036500.ch32
+DO  - doi:10.1002/9781119036500.ch32
+SP  - 423-438
+KW  - acute intervertebral disc
+KW  - analgesic protocols
+KW  - anesthetic protocols
+KW  - anti-anxiolytic medications
+KW  - diagnostic imaging
+KW  - spinal cord injury
+KW  - traumatic incident
+KW  - vertebral injury
+PY  - 2005
+AB  - Summary As an acute intervertebral disc (IVD) herniation/embolus injures the spinal cord to some degree, and may present as a traumatic incident, approach to diagnosis and management will be presented as an injury. Patients with spinal cord and vertebral injury or disease can exhibit myriad pain levels, in addition to frustration and anxiety. This anxiety and frustration can compound the pain level and pain scoring of a patient and should be taken into consideration. Before offering anti-anxiolytic medications, consider pain level and provide appropriate analgesia. Anesthesia-induced relaxation of the muscles that may be tensed to protect the injured area and inattentive handling of the patient during positioning for intubation, movement on/off gurneys, positioning for imaging/procedures can worsen the patient's pain and may even exacerbate the injury. Pathology may be due to ischemia, inflammation, infection, hemorrhage, tumours or extradural compression resulting in persistent or intermittent somatic or visceral neuropathic pain.
+ER  - 
+
+TY  - JOUR
+AU  - Yen, Kathrin
+AU  - Thali, Michael J.
+AU  - Aghayev, Emin
+AU  - Jackowski, Christian
+AU  - Schweitzer, Wolf
+AU  - Boesch, Chris
+AU  - Vock, Peter
+AU  - Dirnhofer, Richard
+AU  - Sonnenschein, Martin
+TI  - Strangulation signs: Initial correlation of MRI, MSCT, and forensic neck findings
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J. Magn. Reson. Imaging
+VL  - 22
+IS  - 4
+SN  - 9781119036562
+UR  - https://doi.org/10.1002/jmri.20396
+DO  - doi:10.1002/jmri.20396
+SP  - 501
+EP  - 510
+KW  - strangulation
+KW  - post-mortem
+KW  - MRI
+KW  - CT
+KW  - Virtopsy
+PY  - 2005
+AB  - Abstract Purpose To evaluate multislice spiral computed tomography (MSCT) and magnetic resonance imaging (MRI) findings in hanging and manual strangulation cases and compare them with forensic autopsy results. Materials and Methods Postmortem MSCT and MRI of nine persons who died from hanging or manual strangulation were performed. The neck findings were compared with those discovered during forensic autopsy. In addition, two living patients underwent imaging and clinical examination following severe manual strangulation and near-hanging, respectively. For evaluation, the findings were divided into ?primary? (strangulation mark and subcutaneous desiccation (i.e., soft-tissue thinning as a result of tissue fluids being driven out by mechanical compression) in hanging, and subcutaneous and intramuscular hemorrhage in manual strangulation) and ?collateral? signs. The Wilcoxon two-tailed test was used for statistical analysis of the lymph node and salivary gland findings. Results In hanging, the primary and most frequent collateral signs were revealed by imaging. In manual strangulation, the primary findings were accurately depicted, with the exception of one slight hemorrhage. Apart from a vocal cord hemorrhage, all frequent collateral signs could be diagnosed radiologically. Traumatic lymph node hemorrhage (P = 0.031) was found in all of the manual strangulation cases. Conclusion MSCT and MRI revealed strangulation signs concordantly with forensic pathology findings. Imaging offers a great potential for the forensic examination of lesions due to strangulation in both clinical and postmortem settings. J. Magn. Reson. Imaging 2005. ? 2005 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Dewar, D. C.
+AU  - Balogh, Z.
+AU  - Mackay, P.
+TI  - TS18P POST INJURY MULTIPLE ORGAN FAILURE: THE AUSTRALIAN CONTEXT
+JO  - ANZ Journal of Surgery
+VL  - 77
+IS  - s1
+SN  - 9781119036562
+UR  - https://doi.org/10.1111/j.1445-2197.2007.04133_18.x
+DO  - doi:10.1111/j.1445-2197.2007.04133_18.x
+SP  - A96
+EP  - A97
+PY  - 2007
+AB  - Background? The epidemiology of post-injury multiple organ failure (MOF) is reported to go through changes during the last 15 years. The purpose of this study is to describe the epidemiology of post-injury MOF in Australia. Methods? A 12-month prospective epidemiological study was performed in a Major Trauma Service. Demographics, injury severity (ISS), physiological, MOF status and outcome data was prospectively collected on all trauma patients who met inclusion criteria (ICU admission; ISS?>?15; age?>?18, AIS head <3 and survival >48?hrs). MOF was defined by the Denver MOF score. Data are presented as % or Mean+/?SEM. Univariate statistical comparison was performed (Student t- and X-square tests), p?<?0.05 was considered significant. Results? Twenty-five patients met inclusion criteria (Age 39+/?5, ISS 27+/?3, Male 60%), three patients (12%) developed MOF. The maximum MOF score was 5.7 +/?1, with duration of 2.3+/?0.7 days. Two patients had respiratory and cardiac failure, while one patient had failure of respiratory, cardiac, hepatic and renal systems. All MOF patients survived. MOF patients tend to have longer ICU stays (18+/?5.5 vs 7+/?0.8 p?=?0.17), were older (54+/?17 vs 38+/?5 p?=?0.4). None of the previously described independent predictors (ISS, base deficit, lactate, transfusions) were different when the MOF patients were compared with the non-MOF patients. Conclusion? MOF is not as significant a cause of late trauma death as previously reported internationally. Our preliminary data challenges the timeliness of the 10-year-old independent predictors of post-injury MOF. The epidemiology, the clinical presentation and the independent predictors of post-injury MOF requires reassessment for the Australian context.
+ER  - 
+
+TY  - JOUR
+AU  - Rooper, Lisa
+AU  - Carter, Jamal
+AU  - Hargrove, John
+AU  - Hoffmann, Sheri
+AU  - Riedel, Stefan
+C7  - e22060
+TI  - Targeting Rejection: Analysis of Specimen Acceptability and Rejection, and Framework for Identifying Interventions in a Single Tertiary Healthcare Facility
+JO  - Journal of Clinical Laboratory Analysis
+JA  - J. Clin. Lab. Anal.
+VL  - 31
+IS  - 3
+SN  - 9781119036562
+UR  - https://doi.org/10.1002/jcla.22060
+DO  - doi:10.1002/jcla.22060
+SP  - e22060
+KW  - laboratory management
+KW  - laboratory quality assurance
+KW  - specimen rejection rate
+PY  - 2017
+AB  - Objectives Assessment of specimen rejection rates is an important laboratory quality measure for laboratories because of a potential negative impact on patient care. Here, we examined reasons for specimen rejection at a single, tertiary care healthcare institution and propose a framework for designing an efficient intervention. Methods During a 1-year period, we identified all specimens rejected at our hospital and performed an analysis of a wide range of associated variables: reason for rejection, patient location, type of phlebotomist, tests ordered, priority status, collection container used, transport time. Results Clotted and hemolyzed specimens accounted for the majority of rejected specimens, but significant differences in reasons for specimen rejection existed between patient care areas. Eighty-five percent of rejected specimens came from the Emergency Department and eight other inpatient care areas. Registered nurses drew approximately 85% of rejected specimens, while laboratory phlebotomy staff drew only 4%. Conclusions While hemolysis and clotting are primary causes for specimen rejection, collection of all available data regarding specimen rejection data is essential for laboratories determining which factors are most significant causes of specimen rejection.
+ER  - 
+
+TY  - JOUR
+AU  - Lademann, O.
+AU  - Richter, H.
+AU  - Patzelt, A.
+AU  - Alborova, A.
+AU  - Humme, D.
+AU  - Weltmann, K.-D.
+AU  - Hartmann, B.
+AU  - Hinz, P.
+AU  - Kramer, A.
+AU  - Koch, S.
+TI  - Application of a plasma-jet for skin antisepsis: analysis of the thermal action of the plasma by laser scanning microscopy
+JO  - Laser Physics Letters
+JA  - Laser Phys. Lett.
+VL  - 7
+IS  - 6
+SN  - 9781119036562
+UR  - https://doi.org/10.1002/lapl.200910158
+DO  - doi:10.1002/lapl.200910158
+SP  - 458
+EP  - 462
+KW  - optical diagnostics
+KW  - in vivo laser scanning microscopy
+KW  - histological analysis
+KW  - wound healing
+KW  - risk assessment
+PY  - 2010
+AB  - Abstract Recently, it was reported that a plasma-jet could be efficiently applied for the antisepsis of wounds. In this case, the discharge in an argon gas stream was used to produce a so-called ?cold plasma? on the skin surface. The thermal action of the plasma on the skin was investigated in the present study by means of laser scanning microscopy (LSM) and by histological analy-sis. Consequently, the plasma beam was moved with a definite velocity at an optimal distance over the skin surface. The structural changes of the tissue were analyzed. It was found by LSM that a thermal damage could be detected only in the upper cell layers of the stratum corneum (SC) at moving velocities of the plasma beam, usually applied in clinical practice. Deeper parts of the SC were not damaged. The structural changes were so superficial that they could be detected only by LSM but not by analysis of the histological sections. (? 2010 by Astro Ltd., Published exclusively by WILEY-VCH Verlag GmbH & Co. KGaA)
+ER  - 
+
+TY  - JOUR
+AU  - Bardagí, M.
+AU  - Lloret, A.
+AU  - Fondati, A.
+AU  - Ferrer, L.
+TI  - Neutrophilic dermatosis resembling pyoderma gangrenosum in a dog with polyarthritis
+JO  - Journal of Small Animal Practice
+VL  - 48
+IS  - 4
+SN  - 9781119036562
+UR  - https://doi.org/10.1111/j.1748-5827.2006.00209.x
+DO  - doi:10.1111/j.1748-5827.2006.00209.x
+SP  - 229
+EP  - 232
+PY  - 2007
+AB  - This report describes a case of neutrophilic dermatosis in a dog, with a number of clinical and pathological similarities to human pyoderma gangrenosum. A seven-year-old, female German shepherd dog with a history of non-erosive idiopathic polyarthritis was presented with severe facial swelling, bilateral erosivoulcerative lesions on the muzzle and multiple, eroded, dermal-subcutaneous nodules on the cranial trunk. Histopathological examination of skin biopsies revealed a necrotising neutrophilic dermatitis. No infectious agents could be detected using specific stains, immunohistochemistry, serology and bacterial aerobic, anaerobic or fungal cultures. A sterile neutrophilic dermatosis resembling human pyoderma gangrenosum was presumptively diagnosed, and the patient showed an excellent response to treatment with prednisone and ciclosporin.
+ER  - 
+
+TY  - JOUR
+AU  - Tovaru, Serban
+AU  - Parlatescu, Ioannina
+AU  - Dumitriu, Anca-Silvia
+AU  - Bucur, Alexandru
+AU  - Kaplan, Ilana
+TI  - Oral Complications Associated With D-Penicillamine Treatment for Wilson Disease: A Clinicopathologic Report
+JO  - Journal of Periodontology
+JA  - Journal of Periodontology
+VL  - 81
+IS  - 8
+SN  - 9781119036562
+UR  - https://doi.org/10.1902/jop.2010.090736
+DO  - doi:10.1902/jop.2010.090736
+SP  - 1231
+EP  - 1236
+KW  - Adverse effects
+KW  - case report
+KW  - elastin
+KW  - hepatolenticular degeneration
+KW  - penicillamine
+KW  - periodontitis
+PY  - 2010
+AB  - Background: Wilson disease (WD) is a hereditary disease inhibiting copper release from the liver. Multi-organ manifestations involve the liver, nervous system, kidneys, eyes, heart, and skin. Elastic fiber damage is a complication of the most frequently used medication in the treatment of WD D-penicillamine (D-PCA). These changes have very rarely been described in the oral cavity. The article describes oral complications associated with WD and its treatment by D-PCA. Methods: Clinical, radiographic, and microscopic evaluation was done on two WD female patients (aged 28 and 53), treated by D-PCA, with clinical and pathological evidence for oral drug-related complications. Results: The lesions included multiple small red papules of the lips, gingival enlargement, early onset periodontitis, and repeated oral candidiasis. Biopsies of oral mucosa (gingiva, buccal) exhibited in one case granulomatous inflammation, and in both cases, thick irregular clumps of tortuous, red-staining abnormal elastic fibers. The red lip papules resemble elastosis perforans serpiginosa (EPS). Similar lesions have been described in the skin, but never before in association with oral or perioral tissue. In addition to the oral lesions, one of the patients developed general intolerance to the drug and was switched to trientine hydrochloride. Conclusions: WD patients and others treated by D-PCA may develop oral and perioral complications, in some cases exhibiting features of damaged elastic fibers in the mucosa and periodontal apparatus. It is possible that this damage may be one of the factors responsible for poor periodontal health in WD patients. Recognition of the lesions can lead to replacement of the affecting therapeutic agent.
+ER  - 
+
+TY  - JOUR
+AU  - Muhanna, Nidal
+AU  - Douglas, Catriona M.
+AU  - Daly, Michael J.
+AU  - Chan, Harley H. L.
+AU  - Weersink, Robert
+AU  - Qiu, Jimmy
+AU  - Townson, Jason
+AU  - de Almeida, John R.
+AU  - Goldstein, David
+AU  - Gilbert, Ralph
+AU  - Yu, Eugene
+AU  - Kucharczyk, Walter
+AU  - Jaffray, David A.
+AU  - Irish, Jonathan C.
+TI  - The image-guided operating room—Utility and impact on surgeon's performance in the head and neck surgery
+JO  - Head & Neck
+JA  - Head & Neck
+VL  - 41
+IS  - 9
+SN  - 9781119036562
+UR  - https://doi.org/10.1002/hed.25864
+DO  - doi:10.1002/hed.25864
+SP  - 3372
+EP  - 3382
+KW  - cone-beam CT
+KW  - flat-panel C-arm
+KW  - head and neck cancer
+KW  - image-guided surgery
+KW  - intraoperative imaging
+PY  - 2019
+AB  - Abstract Background The image-guided operating room (OR) is an emerging standard for dealing with complex cases in many surgical disciplines including neurosurgery, thoracic surgery, maxillofacial trauma, and orthopedic surgery. Its use in head and neck oncological surgery is not well established. The primary aim of this study was to assess the image quality of cone-beam CT (CBCT) under real clinical conditions. The secondary aim was to assess the effect on surgical performance and decision making. Methods Intraoperative 3D imaging was performed using a CBCT capable C-Arm mounted on a multi-axis robot (Siemens Zeego) in the image-guided OR. All patients had immediate preoperative imaging taken with further intraoperative imaging performed as required. Ten initial patients, comprising 28 intraoperative scans, were used for questionnaire-based image reviews conducted with experienced head and neck clinicians. Scans were assessed for aspects of both image quality and clinical utility, on separate 5-point Likert scales (1-5). Results The median rating for bony detail was 4 out of 5. Vascular detail was increased (P < 10?8) from 1 to 3 with the use of IV contrast (region of interest CT# was 284 HU [SD, 47 HU]). Images were rated as 4 for freedom from artifact. Soft tissue definition was 2, with no significant improvement (P =?.2) with the addition of IV iodinated contrast. Surgeons rated the greatest clinical utility (4) for the CBCT when assessing postreconstruction imaging of a complex case. Conclusions The image quality of CBCT in the image-guided OR is good for bony detail and complex oncological reconstructions in the head and neck setting but probably has limited benefit for intraoperative soft tissue delineation. Future studies must also focus on clinical outcomes to help demonstrate the value of the image-guided OR.
+ER  - 
+
+C7  - pp. 152-165
+TI  - Cerebral Vascular Accident, Parkinson's Disease and Other Supra Spinal Neurologic Disorders
+SN  - 9781405146258
+UR  - https://doi.org/10.1002/9780470692141.ch13
+DO  - doi:10.1002/9780470692141.ch13
+SP  - 152-165
+KW  - cerebral vascular accident
+KW  - parkinson's disease
+KW  - neurologic disorders
+KW  - supra spinal
+KW  - prostatic obstruction
+PY  - 2019
+AB  - Summary This chapter contains section titled: Parkinson's disease Multi-system atrophy Other intracranial diseases Traumatic brain injury Dementia Mental retardation Comatose patients Suggested Reading
+ER  - 
+
+TY  - JOUR
+AU  - Mathur, V.
+AU  - Park, H.K.
+AU  - Finley, J.
+TI  - Nephrogenic Fibrosing Dermopathy with Osteoid Metaplasia
+JO  - Journal of Cutaneous Pathology
+VL  - 32
+IS  - 1
+SN  - 9781405146258
+UR  - https://doi.org/10.1111/j.0303-6987.2005.320eo.x
+DO  - doi:10.1111/j.0303-6987.2005.320eo.x
+SP  - 103
+EP  - 103
+PY  - 2005
+AB  - Nephrogenic fibrosing dermopathy is a rare and recently described disease which occurs in patients with a history of renal disease and is often associated with hemodialysis or renal transplants. The usual presentation is multiple indurated plaque lesions resembling scleromyxedema on the extremities and trunk. Nephrogenic fibrosing dermopathy has been described in association with calciphylaxis and metastatic calcification, however, to our knowledge, the occurrence of osteoid metaplasia has not been previously reported. We report a case of nephrogenic fibrosing dermopathy with osteoid metaplasia in a 78-year-old female patient with chronic renal failure on dialysis. The patient had a relatively acute onset (a few months) of lesions with irritation and pruritis of the lower extremities. Biopsies showed fibrous thickening of the dermis with islands of osteoid tissue with osteoblastic rimming. Calcification and lamellar bone formation were not seen. An Alcian blue stain demonstrated increased dermal mucin. Elastic stains showed prominent elongated elastic fibers between collagen fibers and within osteoid areas. The differential diagnosis included scleromyxedema and other fibrotic disorders. The pathogenesis of this disorder is unknown. Although rare patients improve with correction of renal abnormalities, currently no effective treatment is available.
+ER  - 
+
+TY  - JOUR
+AU  - Tárnok, A.
+AU  - Bocsi, J.
+AU  - Brockhoff, G.
+TI  - Cytomics – importance of multimodal analysis of cell function and proliferation in oncology
+JO  - Cell Proliferation
+VL  - 39
+IS  - 6
+SN  - 9781405146258
+UR  - https://doi.org/10.1111/j.1365-2184.2006.00407.x
+DO  - doi:10.1111/j.1365-2184.2006.00407.x
+SP  - 495
+EP  - 505
+PY  - 2006
+AB  - Abstract.? Cancer is a highly complex and heterogeneous disease involving a succession of genetic changes (frequently caused or accompanied by exogenous trauma), and resulting in a molecular phenotype that in turn results in a malignant specification. The development of malignancy has been described as a multistep process involving self-sufficiency in growth signals, insensitivity to antigrowth signals, evasion of apoptosis, limitless replicative potential, sustained angiogenesis, and finally tissue invasion and metastasis. The quantitative analysis of networking molecules within the cells might be applied to understand native-state tissue signalling biology, complex drug actions and dysfunctional signalling in transformed cells, that is, in cancer cells. High-content and high-throughput single-cell analysis can lead to systems biology and cytomics. The application of cytomics in cancer research and diagnostics is very broad, ranging from the better understanding of the tumour cell biology to the identification of residual tumour cells after treatment, to drug discovery. The ultimate goal is to pinpoint in detail these processes on the molecular, cellular and tissue level. A comprehensive knowledge of these will require tissue analysis, which is multiplex and functional; thus, vast amounts of data are being collected from current genomic and proteomic platforms for integration and interpretation as well as for new varieties of updated cytomics technology. This overview will briefly highlight the most important aspects of this continuously developing field.
+ER  - 
+
+TY  - JOUR
+AU  - Hoppes, Michelle
+AU  - Mitchell, Jacque L.
+AU  - Venditti, Ellen Grady
+AU  - Bunting, Jr., Robert F.
+TI  - Serious safety events: Getting to Zero™
+JO  - Journal of Healthcare Risk Management
+JA  - J of Healthcare Risk Mgmt
+VL  - 32
+IS  - 3
+SN  - 9781405146258
+UR  - https://doi.org/10.1002/jhrm.21098
+DO  - doi:10.1002/jhrm.21098
+SP  - 27
+EP  - 45
+PY  - 2013
+AB  - Abstract To advance the goal of Getting to Zero and eliminating preventable harm, ASHRM is providing guidance for defining, investigating, and measuring serious safety events. The first step in this process is the recommendation for a common and standardized definition. A common definition for a serious safety event facilitates timely detection, rapid action, and future prevention. This paper outlines that definition, provides a skill-based model for investigation, and explains a clear plan for how to conduct the investigation. A measurement system is described to determine the frequency of SSEs and comparison methods to determine events prevented, potential lives saved, and methods to demonstrate financial loss control. These methods and approach are consistent with ASHRM's core values and mission, which is safe and trusted healthcare.
+ER  - 
+
+TY  - JOUR
+AU  - DAVIS, P. E.
+AU  - DIXON, R. T.
+AU  - JOHNSON, J. A.
+AU  - PARIS, R.
+TI  - Multiple liposarcoma of bone marrow origin in a Greyhound
+JO  - Journal of Small Animal Practice
+VL  - 15
+IS  - 7
+SN  - 9781405146258
+UR  - https://doi.org/10.1111/j.1748-5827.1974.tb06522.x
+DO  - doi:10.1111/j.1748-5827.1974.tb06522.x
+SP  - 445
+EP  - 456
+PY  - 1974
+AB  - ABSTRACT The occurrence of a liposarcoma in a Greyhound is reported. The dog was presented with a swollen left hock which, on radiographic examination, was shown to be a tumour in the bone. Metastasis from the primary site or independent genesis led to the involvement of the metaphyseal areas of the long bones, the left caudal lumbar lymph node, the liver and the spleen. The neoplastic tissue was composed of cells ranging from undifferentiated sarcoma cells to well-differentiated vacuolated fat cells. Résumé. On rapporte l'occurrence d'un liposarcome chez un lévrier. Le chien s'était présenté avec le jarret gauche enflé, ce qui, d'après un examen radiographique, s'était révélé être une tumeur de l'os. La métastase du site primaire ou de genèse indépendante a mené à l'implication des régions métaphysiques des os longs, du n?ud lymphatique lombaire caudal de gauche, du foie er de la rate. Les tissus néoplastiques étaient composés de cellules variant de cellules de sarcome non-différenciées à des cellules bien différenciées de graisse vacuolaire. Zusammenfassung. Das Vorkommen von einem Liposarkom wurde in einem Windhund berichtet. Der Hund litt an einem geschwollenen linken Fesselgelenk, welches sich bei Rönt-genuntersuchung ais ein Tumor im Knochen erwies. Metastase von der primären Stelle oder un-abhängigen Entstehung führte zu der Verwicklung von den metaphysischen Gebieten der langen Knochen, des linken kaudalen lumbalen Lymphknoten, der Leber und der Milz. Die neoplastischen Gewebe waren aus Zellen zusammengesetzt, die sich von nichtdifferenzierten Sarkomzellen zu gut differenzierten vakuolen Fettzellen erstreckten.
+ER  - 
+
+TY  - JOUR
+AU  - Cox, Robin S.
+AU  - Perry, Karen-Marie Elah
+TI  - Like a Fish Out of Water: Reconsidering Disaster Recovery and the Role of Place and Social Capital in Community Disaster Resilience
+JO  - American Journal of Community Psychology
+VL  - 48
+IS  - 3-4
+SN  - 9781405146258
+UR  - https://doi.org/10.1007/s10464-011-9427-0
+DO  - doi:10.1007/s10464-011-9427-0
+SP  - 395
+EP  - 411
+KW  - Social capital
+KW  - Disaster
+KW  - Trauma recovery
+KW  - Community disaster resilience
+KW  - Place
+KW  - Ethnography
+PY  - 2011
+AB  - Abstract In this paper we draw on the findings of a critical, multi-sited ethnographic study of two rural communities affected by a wildfire in British Columbia, Canada to examine the salience of place, identity, and social capital to the disaster recovery process and community disaster resilience. We argue that a reconfiguration of disaster recovery is required that more meaningfully considers the role of place in the disaster recovery process and opens up the space for a more reflective and intentional consideration of the disorientation and disruption associated with disasters and our organized response to that disorientation. We describe a social-psychological process, reorientation, in which affected individuals and communities navigate the psychological, social and emotional responses to the symbolic and material changes to social and geographic place that result from the fire's destruction. The reorientation process emphasizes the critical importance of place not only as an orienting framework in recovery but also as the ground upon which social capital and community disaster resilience are built. This approach to understanding and responding to the disorientation of disasters has implications for community psychologists and other service providers engaged in supporting disaster survivors. This includes the need to consider the complex dynamic of contextual and cultural factors that influence the disaster recovery process.
+ER  - 
+
+TY  - JOUR
+AU  - Zhou, Weichen
+AU  - Ma, Yanyun
+AU  - Zhang, Jun
+AU  - Hu, Jingyi
+AU  - Zhang, Menghan
+AU  - Wang, Yi
+AU  - Li, Yi
+AU  - Wu, Lijun
+AU  - Pan, Yida
+AU  - Zhang, Yitong
+AU  - Zhang, Xiaonan
+AU  - Zhang, Xinxin
+AU  - Zhang, Zhanqing
+AU  - Zhang, Jiming
+AU  - Li, Hai
+AU  - Lu, Lungen
+AU  - Jin, Li
+AU  - Wang, Jiucun
+AU  - Yuan, Zhenghong
+AU  - Liu, Jie
+TI  - Predictive model for inflammation grades of chronic hepatitis B: Large-scale analysis of clinical parameters and gene expressions
+JO  - Liver International
+JA  - Liver Int
+VL  - 37
+IS  - 11
+SN  - 9781405146258
+UR  - https://doi.org/10.1111/liv.13427
+DO  - doi:10.1111/liv.13427
+SP  - 1632
+EP  - 1641
+KW  - clinical predictive model
+KW  - gene expressions
+KW  - HBV infection
+KW  - inflammation grades
+PY  - 2017
+AB  - Abstract Background Liver biopsy is the gold standard to assess pathological features (eg inflammation grades) for hepatitis B virus-infected patients although it is invasive and traumatic; meanwhile, several gene profiles of chronic hepatitis B (CHB) have been separately described in relatively small hepatitis B virus (HBV)-infected samples. We aimed to analyse correlations among inflammation grades, gene expressions and clinical parameters (serum alanine amino transaminase, aspartate amino transaminase and HBV-DNA) in large-scale CHB samples and to predict inflammation grades by using clinical parameters and/or gene expressions. Methods We analysed gene expressions with three clinical parameters in 122 CHB samples by an improved regression model. Principal component analysis and machine-learning methods including Random Forest, K-nearest neighbour and support vector machine were used for analysis and further diagnosis models. Six normal samples were conducted to validate the predictive model. Results Significant genes related to clinical parameters were found enriching in the immune system, interferon-stimulated, regulation of cytokine production, anti-apoptosis, and etc. A panel of these genes with clinical parameters can effectively predict binary classifications of inflammation grade (area under the ROC curve [AUC]: 0.88, 95% confidence interval [CI]: 0.77-0.93), validated by normal samples. A panel with only clinical parameters was also valuable (AUC: 0.78, 95% CI: 0.65-0.86), indicating that liquid biopsy method for detecting the pathology of CHB is possible. Conclusions This is the first study to systematically elucidate the relationships among gene expressions, clinical parameters and pathological inflammation grades in CHB, and to build models predicting inflammation grades by gene expressions and/or clinical parameters as well.
+ER  - 

@@ -1,0 +1,364 @@
+
+TY  - JOUR
+TI  - Book Reviews
+JO  - Australian and New Zealand Journal of Surgery
+VL  - 52
+IS  - 1
+SN  - 0004-8682
+UR  - https://doi.org/10.1111/j.1445-2197.1982.tb05299.x
+DO  - doi:10.1111/j.1445-2197.1982.tb05299.x
+SP  - 104
+EP  - 110
+PY  - 1982
+AB  - Book reviewed in this article: ATLAS OF HUMAN LIMB JOINTS By JACQUES GUYOT CLINICAL SURGERY INTERNATIONAL 1. LARGE BOWEL CANCER Edited by JEROME J. DECOSSE ATLAS OF PATHOLOGICAL COMPUTER TOMOGRAPHY VOLUME 1 -CRANIOCEREBRAL COMPUTER TOMOGRAPHY - CONFRONTATIONS WITH NEUROPATHOLOGY By A. WACKENHEIM OUTLINE OF ORTHOPAEDICS By JOHN CRAWFORD ADAMS ANAESTHESIOLOGY AND INTENSIVE CARE MEDICINE 132 ENDOCRINOLOGY IN ANAESTHESIA AND SURGERY Edited by H. STOECKEL and T. OYAMA MEDICAL EXAMINATION REVIEW VOLUME 36 TRAUMA SURGERY 1060 MULTIPLE CHOICE QUESTIONS AND REFERENCED EXPLANATORY ANSWERS By KIMBALL I. MAULL RENAL TRANSPLANTATION. THEORY AND PRACTICE Edited by JEAN HAMBURGER HERNIAS OF THE DIAPHRAGM AND ABDOMINAL WALL DISCUSSIONS IN SURGICAL MANAGEMENT By SIROOS S. SHIRAZI SURGICAL TREATMENT OF RHEUMATOID ARTHRITIS By NORBERT GSCHWEND SYMPOSIUM ON MICROSURGERY PRACTICAL USE IN ORTHOPAEDICS By THE AMERICAN ACADEMY OF ORTHOPAEDIC SURGEONS ANKYLOSING SPONDYLITIS Edited by J. M. H. MOLL COMPREHENSIVE MANUALS OF SURGICAL SPECIALTIES Edited by RICHARD H. EGDAHL MANUAL OF CARDIAC SURGERY, VOLUME 1 By BRADLEY J. HARLAN PRESSURE ULCERS - PRINCIPLES AND TECHNIQUES OF MANAGEMENT Edited by MARK B. CONSTANTIAN SUMMARIES OF THE BREAKFAST AND LUNCHEON PANELS OF THE 28TH CONGRESS OF THE SOCIETE INTERNATIONALE DE CHIRURGIE IN SAN FRANCISCO Edited by M. ALLGOWER and F. HARDER MOSBY'S COMPREHENSIVE REVIEW OF CRITICAL CARE Edited by DONNA A. ZSCHOCHE ORTHOPAEDIC SURGERY - CONTINUING EDUCATION REVIEW 1034 MULTIPLE CHOICE QUESTIONS AND REFERENCED ANSWERS By CURTIS V. SPEAR JR. SELF-ASSESSMENT OF CURRENT} KNOWLEDGE IN ORTHOPAEDIC SURGERY 363 ESSAY QUESTIONS AND REFERENCED ANSWERS By JOSEPH A. KOPTA
+ER  - 
+
+TY  - JOUR
+AU  - Smith, J. M.
+AU  - Weaver, T.
+AU  - Skeans, M. A.
+AU  - Horslen, S. P.
+AU  - Noreen, S. M.
+AU  - Snyder, J. J.
+AU  - Israni, A. K.
+AU  - Kasiske, B. L.
+TI  - OPTN/SRTR 2017 Annual Data Report: Intestine
+JO  - American Journal of Transplantation
+JA  - Am J Transplant
+VL  - 19
+IS  - S2
+SN  - 1600-6135
+UR  - https://doi.org/10.1111/ajt.15277
+DO  - doi:10.1111/ajt.15277
+SP  - 284
+EP  - 322
+KW  - Intestinal failure
+KW  - intestine transplant
+KW  - intestine-liver transplant
+KW  - waiting list
+PY  - 2019
+AB  - Abstract Despite improvements in medical and surgical treatment of intestinal failure, intestine transplant continues to play an important role. In 2017, 109 intestine transplants were performed, 62 in adults and 47 in children, reflecting the changed age distribution over the past decade of candidates waitlisted for intestine and intestine-liver transplant from largely pediatric to increasing proportions of adults. In 2017, 56.0% of candidates on the intestine list at any time during the year were aged younger than 18 years, with a decrease over time in those aged younger than 6 years and an increase in those aged 6-17 years. Adults accounted for 44.0% of candidates on the list at any time during the year, with an increase since 2013 in those aged 18-34 years and a decrease in those aged 35 years or older. By age, the pretransplant mortality rate was highest for adult candidates at 7.9 per 100 waitlist-years and lowest for pediatric candidates at 3.7 per 100 waitlist-years. Patient survival varied by age and type of transplant, and was lowest for adult intestine-liver recipients (1- and 5-year survival 66.7% and 42.6%, respectively) and highest for pediatric intestine recipients (1- and 5-year survival 86.2% and 75.4%, respectively).
+ER  - 
+
+TY  - JOUR
+TI  - Poster abstracts
+JO  - American Journal of Transplantation
+VL  - 10
+IS  - s4
+SN  - 1600-6135
+UR  - https://doi.org/10.1111/j.1600-6143.2010.03108.x
+DO  - doi:10.1111/j.1600-6143.2010.03108.x
+SP  - 213
+EP  - 571
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - Bukovsky, Antonin
+AU  - Caudle, Michael R.
+AU  - Virant-Klun, Irma
+AU  - Gupta, Satish K.
+AU  - Dominguez, Roberto
+AU  - Svetlikova, Marta
+AU  - Xu, Fei
+TI  - Immune physiology and oogenesis in fetal and adult humans, ovarian infertility, and totipotency of adult ovarian stem cells
+JO  - Birth Defects Research Part C: Embryo Today: Reviews
+JA  - Birth Defects Research Part C: Embryo Today: Reviews
+VL  - 87
+IS  - 1
+SN  - 1542-975X
+UR  - https://doi.org/10.1002/bdrc.20146
+DO  - doi:10.1002/bdrc.20146
+SP  - 64
+EP  - 89
+KW  - animal models
+KW  - epithelial-neural transdifferentiation
+KW  - immune adaptation
+KW  - neo-oogenesis
+KW  - ovarian follicular renewal
+KW  - ovarian stem cells
+KW  - premature ovarian failure
+KW  - prime reproductive period theory
+KW  - sex steroids
+KW  - regenerative medicine
+KW  - systemic regenerative therapy
+KW  - tissue culture
+KW  - totipotent stem cells
+PY  - 2009
+AB  - Abstract It is still widely believed that while oocytes in invertebrates and lower vertebrates are periodically renewed throughout life, oocytes in humans and higher vertebrates are formed only during the fetal/perinatal period. However, this dogma is questioned, and clashes with Darwinian evolutionary theory. Studies of oogenesis and follicular renewal from ovarian stem cells (OSCs) in adult human ovaries, and of the role of third-party bone marrow-derived cells (monocyte-derived tissue macrophages and T lymphocytes) could help provide a better understanding of the causes of ovarian infertility, its prevention, and potential treatment. We have reported differentiation of distinct cell types from OSC and the production of new eggs in cultures derived from premenopausal and postmenopausal human ovaries. OSCs are also capable of producing neural/neuronal cells in vitro after sequential stimulation with sex steroid combinations. Hence, OSC represent a unique type of totipotent adult stem cells, which could be utilized for autologous treatment of premature ovarian failure and also for autologous stem cell therapy of neurodegenerative diseases without use of allogeneic embryonic stem cells or somatic cell nuclear transfer. The in vivo application of sex steroid combinations may augment the proliferation of existing neural stem cells and their differentiation into mature neuronal cells (systemic regenerative therapy). Such treatment may also stimulate the transdifferentiation of autologous neural stem cell precursors into neural stem cells useful for topical or systemic regenerative treatment. Birth Defects Research (Part C) 87:64?89, 2009. ? 2009 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+TI  - SAEM Abstracts, Plenary Session
+JO  - Academic Emergency Medicine
+VL  - 19
+IS  - s1
+SN  - 1069-6563
+UR  - https://doi.org/10.1111/j.1553-2712.2012.01332.x
+DO  - doi:10.1111/j.1553-2712.2012.01332.x
+SP  - S4
+EP  - S393
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+AU  - Agwu, Allison L
+AU  - Fairlie, Lee
+C7  - 18579
+TI  - Antiretroviral treatment, management challenges and outcomes in perinatally HIV-infected adolescents
+JO  - Journal of the International AIDS Society
+JA  - Journal of the International AIDS Society
+VL  - 16
+IS  - 1
+SN  - 1758-2652
+UR  - https://doi.org/10.7448/IAS.16.1.18579
+DO  - doi:10.7448/IAS.16.1.18579
+SP  - 18579
+KW  - perinatally HIV-infected
+KW  - adolescents
+KW  - combination antiretroviral therapy
+KW  - management
+KW  - resistance
+KW  - outcomes
+PY  - 2013
+AB  - Three decades into the HIV/AIDS epidemic there is a growing cohort of perinatally HIV-infected adolescents globally. Their survival into adolescence and beyond represent one of the major successes in the battle against the disease that has claimed the lives of millions of children. This population is diverse and there are unique issues related to antiretroviral treatment and management. Drawing from the literature and experience, this paper discusses several broad areas related to antiretroviral management, including: 1) diverse presentation of HIV, (2) use of combination antiretroviral therapy including in the setting of co-morbidities and rapid growth and development, (3) challenges of cART, including nonadherence, resistance, and management of the highly treatment-experienced adolescent patient, (4) additional unique concerns and management issues related to PHIV-infected adolescents, including the consequences of longterm inflammation, risk of transmission, and transitions to adult care. In each section, the experience in both resource-rich and limited settings are discussed with the aim of highlighting the differences and importantly the similarities, to share lessons learnt and provide insight into the multi-faceted approaches that may be needed to address the challenges faced by this unique and resilient population.
+ER  - 
+
+TY  - JOUR
+TI  - 2011 ACCP Annual Meeting
+JO  - Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy
+VL  - 31
+IS  - 10
+SN  - 0277-0008
+UR  - https://doi.org/10.1592/phco.31.10.311e
+DO  - doi:10.1592/phco.31.10.311e
+SP  - 311e
+EP  - 453e
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - XVIIth International Pigment Cell Conference (IPCC)
+JO  - Pigment Cell Research
+VL  - 12
+IS  - s7
+SN  - 0893-5785
+UR  - https://doi.org/10.1111/j.1600-0749.1999.tb00786.x
+DO  - doi:10.1111/j.1600-0749.1999.tb00786.x
+SP  - 3
+EP  - 87
+PY  - 1999
+ER  - 
+
+TY  - JOUR
+TI  - Workshops
+JO  - European Journal of Clinical Investigation
+JA  - Eur J Clin Invest
+VL  - 44
+IS  - s1
+SN  - 0014-2972
+UR  - https://doi.org/10.1111/eci.12258
+DO  - doi:10.1111/eci.12258
+SP  - 4
+EP  - 82
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+AU  - Killick, D. R.
+AU  - Stell, A. J.
+AU  - Catchpole, B.
+TI  - Immunotherapy for canine cancer – Is it time to go back to the future?
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 56
+IS  - 4
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/jsap.12336
+DO  - doi:10.1111/jsap.12336
+SP  - 229
+EP  - 241
+PY  - 2015
+AB  - Over the last 50 years, the significance of the immune system in the development and control of cancer has been much debated. However, recent discoveries provide evidence for a role of immunological mechanisms in the detection and destruction of cancer cells. Forty years ago veterinary oncologists were already investigating the feasibility of treating neoplasia by enhancing anticancer immunity. Unfortunately, this research was hindered by lack of a detailed understanding of cancer immunology, this limited the specificity and success of these early approaches. The great forward strides made in our understanding of onco-immunology in recent years have provided the impetus for a resurgence of interest in anticancer immunotherapy for canine patients. In this article both these initial trials and the exciting novel immunotherapeutics currently in development are reviewed.
+ER  - 
+
+TY  - JOUR
+AU  - Pogatzki, Esther M.
+AU  - Zahn, Peter K.
+AU  - Brennan, Timothy J.
+TI  - Basic Science (29)
+JO  - Pain Practice
+JA  - Pain Practice
+VL  - 1
+IS  - 1
+SN  - 1530-7085
+UR  - https://doi.org/10.1111/j.1533-2500.2001.1011-29.x
+DO  - doi:10.1111/j.1533-2500.2001.1011-29.x
+SP  - 94
+EP  - 94
+PY  - 2001
+AB  - Effect of pretreatment with intrathecal excitatory amino acid receptor antagonists on the development of pain behavior caused by plantar incision. (University of Iowa, Iowa City, Iowa) Anesthesiology 2000;93:489?496. This study examined the role of N-methyl-D-aspartate (NMDA), non-NMDA, and metabotropic glutamate receptors (MGluRs) on the development of pain behavior after plantar incision. Rats with lumbar intrathecal catheters were anesthetized with halothane. Fifteen minutes before an incision was made, drug [40 nmol MK-801; 20 nmol NBQX; or 200 nmol [(+)-MCPG] or vehicle was injected intrathecally followed by an infusion of the same drug for 75 min. Withdrawal thresholds to calibrated von Frey filaments applied adjacent to the wound and response frequencies to a blunt mechanical stimulus applied directly to the wound were measured before incision and 1, 2, 4, and 6 h after incision and then once daily for 6 days. Preincision treatments with antagonists against the NMDA (MK-801) and Group I and II metabotropic receptors [(+)-MCPG] did not inhibit the development of mechanical hyperalgesia caused by incision. Preincision treatment with the non-NMDA receptor antagonist NBQX increased withdrawal thresholds at 1 and 2 h and on postoperative day 1 compared with the vehicle group; response frequencies were reduced 1 and 2 h after incision and on postoperative day 2 (P < 0.05). In an additional group, postincision treatment with NBQX was similar to preincision treatment. Conclude spinal NMDA and MGluR antagonists may not be useful for preventing postsurgical pain. Spinal non-NMDA receptor antagonists reduced pain behaviors, but a preventive effect using preincision treatment was not apparent. Comment by James E. Heavner, DVM, PhD. The incisional model using rats was developed by Dr. Brennan and colleagues for the study of acute surgical pain. In a previous study, they showed that blockade of non-NMDA excitatory amino acid receptors, but not blockade of NMDA receptors nor mGluR receptors reduces postincisional pain if administered after the incision is made. This study shows the same is true if the receptor antagonists are administered before the incision is made. However, the effect is not particularly marked and; therefore, pursuit of non-MNDA excitatory amino transmitter receptor blockers for the prevention of postincisional pain would not likely be fruitful. The results of the study do require us to rethink how postincisional pain differs from other experimental pains and the phenomena of ?wind-up? attributed to activation of the NMDA receptor. Worth keeping in mind is that incisional pain does not equal surgical pain, which may involve traumatic injury to nerves and produce a neuropath pain, which strongly indicates involvement of NMDA receptors.
+ER  - 
+
+TY  - JOUR
+AU  - Stock, Peter G.
+AU  - Mannon, Roslyn B.
+AU  - Armstrong, Brian
+AU  - Watson, Natasha
+AU  - Ikle, David
+AU  - Robien, Mark
+AU  - Morrison, Yvonne
+AU  - Odorico, Jon
+AU  - Fridell, Jonathan
+AU  - Mehta, Aneesh K.
+AU  - Newell, Kenneth A.
+TI  - Challenges of calcineurin inhibitor withdrawal following combined pancreas and kidney transplantation: Results of a prospective, randomized clinical trial
+JO  - American Journal of Transplantation
+JA  - Am J Transplant
+VL  - n/a
+IS  - n/a
+SN  - 1600-6135
+UR  - https://doi.org/10.1111/ajt.15817
+DO  - doi:10.1111/ajt.15817
+AB  - Abstract In a phase 2 multi-center open label randomized trial sponsored by the National Institutes of Health, simultaneous pancreas-kidney (SPK) recipients were randomized to a calcineurin inhibitor (CNI) based immunosuppressive regimen (tacrolimus) (n=21) or an investigational arm using low-dose CNI plus co-stimulation blockade (belatacept) with intended CNI withdrawal (n=22). Both arms included induction therapy with rabbit ATG, mycophenolate sodium or mycophenolate mofetil, and rapid withdrawal of steroids. Enrollment and CNI withdrawal were stopped after 43/60 planned subjects had been enrolled. At that time the rate of biopsy proven acute rejection (BPAR) of the pancreas was low in both groups until CNI was withdrawn, with four of the five pancreas rejections occurring during or after CNI withdrawal. The rate of BPAR of kidney allografts was low in both control (9.5%) and investigational (9.1%) arms. Pancreas graft survival at 52 weeks, defined by insulin independence, was 21 (100%) in the control group and 19 (86%) in the investigational arm. One subject in the investigational arm died with functioning pancreas and kidney grafts. Renal function at week 52 was similar in both arms. Costimulation blockade with belatacept did not provide sufficient immunosuppression to reliably prevent pancreas rejection in SPK transplants undergoing CNI withdrawal.
+ER  - 
+
+TY  - JOUR
+TI  - Posters
+JO  - Diabetic Medicine
+VL  - 20
+IS  - s2
+SN  - 0742-3071
+UR  - https://doi.org/10.1046/j.1464-5491.20.s2.1.x
+DO  - doi:10.1046/j.1464-5491.20.s2.1.x
+SP  - 34
+EP  - 120
+PY  - 2003
+ER  - 
+
+AU  - Unnikrishnan, Ranjit
+AU  - Mohan, Viswanathan
+C7  - pp. 298-309
+TI  - Pancreatic Diseases and Diabetes
+SN  - 9781405191814
+UR  - https://doi.org/10.1002/9781444324808.ch18
+DO  - doi:10.1002/9781444324808.ch18
+SP  - 298-309
+KW  - magnetic resonance imaging (MRI)
+KW  - Acute pancreatitis
+KW  - Chronic pancreatitis
+KW  - Tropical calcific pancreatitis
+KW  - Hereditary hemochromatosis
+KW  - Pancreatic neoplasia
+KW  - Pancreatic surgery and diabetes
+KW  - hemochromatosis gene (HFE)
+PY  - 2003
+AB  - Summary This chapter contains sections titled: Introduction Acute pancreatitis Chronic pancreatitis Tropical calcific pancreatitis Hereditary hemochromatosis Pancreatic neoplasia Pancreatic surgery and diabetes Cystic fibrosis Conclusions Acknowledgments References
+ER  - 
+
+TY  - JOUR
+TI  - THE HAEMATOLOGY SOCIETY OF AUSTRALIA
+JO  - Australian and New Zealand Journal of Medicine
+VL  - 21
+IS  - 6
+SN  - 9781405191814
+UR  - https://doi.org/10.1111/j.1445-5994.1991.tb01430.x
+DO  - doi:10.1111/j.1445-5994.1991.tb01430.x
+SP  - 935
+EP  - 969
+PY  - 1991
+ER  - 
+
+TY  - JOUR
+AU  - Kandaswamy, R.
+AU  - Skeans, M. A.
+AU  - Gustafson, S. K.
+AU  - Carrico, R. J.
+AU  - Prentice, M. A.
+AU  - Israni, A. K.
+AU  - Snyder, J. J.
+AU  - Kasiske, B. L.
+TI  - Pancreas
+JO  - American Journal of Transplantation
+JA  - American Journal of Transplantation
+VL  - 16
+IS  - S2
+SN  - 9781405191814
+UR  - https://doi.org/10.1111/ajt.13667
+DO  - doi:10.1111/ajt.13667
+SP  - 47
+EP  - 68
+KW  - Pancreas after kidney transplant
+KW  - pancreas allocation policy
+KW  - pancreas transplant alone
+KW  - simultaneous pancreas-kidney transplant
+PY  - 2016
+AB  - ABSTRACT Even though pancreas transplant numbers have steadily declined over the past decade, new listings increased in 2014 compared with the previous year, notably for pancreas transplant alone (PTA) and simultaneous pancreas-kidney transplant. The number of new PTAs also increased over the past two years. Whether this is a sustainable trend remains to be seen. Significant events in 2014 included implementation of a new pancreas allocation system and development of a proposed uniform definition of pancreas graft failure. Meanwhile, overall pancreas transplant rates and outcomes continued to improve. Substantial decline in pancreas after kidney transplants remains a serious concern. SRTR has not published pancreas graft failure data in the program-specific reports for the past two years. While this will not change in the near future, the acceptance of a uniform definition of graft failure is a crucial first step toward resuming graft failure reporting. Continued improvements and innovation, both surgical and immunological, will be critical to keep pancreas transplant as a viable option for treatment of insulin-dependent diabetes. As alternative therapies for diabetes such as islet transplant and artificial pancreas are evolving, improved outcomes with minimizations of complications are more important than ever.
+ER  - 
+
+TY  - JOUR
+AU  - Messner, Franka
+AU  - Etra, Joanna W.
+AU  - Yu, Yifan
+AU  - Massie, Allan B.
+AU  - Jackson, Kyle R.
+AU  - Brandacher, Gerald
+AU  - Schneeberger, Stefan
+AU  - Margreiter, Christian
+AU  - Segev, Dorry L.
+TI  - Outcomes of simultaneous pancreas and kidney transplantation based on donor resuscitation
+JO  - American Journal of Transplantation
+JA  - Am J Transplant
+VL  - n/a
+IS  - n/a
+SN  - 9781405191814
+UR  - https://doi.org/10.1111/ajt.15808
+DO  - doi:10.1111/ajt.15808
+AB  - Abstract It has been hypothesized that transplanting simultaneous pancreas kidney (SPK) grafts from donors with a history of cardiac arrest and cardiopulmonary resuscitation (CACPR) leads to inferior post-transplant outcomes due to organ hypoperfusion during cardiac arrest and mechanical trauma during resuscitation. Using SRTR data, we identified 13,095 SPK transplants from 2000-2018, of which 810 (6.2%) were from donors with a history of CACPR. After inverse probability of treatment weighting on donor and recipient characteristics, we found that 1-, 5- and 10-year patient (CACPR: 96.4%, 89.9% and 78.9%; non-CACPR: 96.3%, 88.9% and 76.0%; p=0.3), death-censored pancreas graft survival (CACPR: 89.3%, 82.7%, 75.0%; non-CACPR: 89.9%, 82.7%, 76.3%; p=0.7), and death-censored kidney graft survival (CACPR: 97.0%, 89.5%, 78.2%; non-CACPR: 96.9.9%, 88.7%, 80.0%; p=0.4) were comparable between the two groups. There were no differences in the risk of pancreatitis (CACPR: 2.9%, non-CACPR: 2.4%; weighted OR=0.74 1.22 2.02; p=0.4), anastomotic leak (CACPR: 1.6%, non-CACPR: 2.0%; weighted OR=0.54 1.02 1.93; p>0.9), or median length of hospital stay (CACPR: 8 days, non-CACPR: 9 days; p=0.6) for recipients of CACPR vs. non-CACPR donors. Our findings suggest that CACPR donors could be used to expand the SPK donor pool without compromising short or long-term outcomes.
+ER  - 
+
+TY  - JOUR
+TI  - Plenary Session III: Maladaptive Neuroplasticity in Stress and Epilepsy  8:15 a.m.–10:15 a.m.
+JO  - Epilepsia
+VL  - 46
+IS  - s8
+SN  - 9781405191814
+UR  - https://doi.org/10.1111/j.1528-1167.2005.460801_42.x
+DO  - doi:10.1111/j.1528-1167.2005.460801_42.x
+SP  - 373
+EP  - 373
+PY  - 2005
+AB  - 1 Tallie Z. Baram, 1 Kristen L. Brunson, 1 Celine Dube, 1 Sarit Avishai-Eliner, and 1 Kristina A. Fenoglio ( 1 Pediatrics, Anatomy/ Neurobiology, UCI, Irvine, CA ) Seizures often arise in the setting of an acute injury or insult. In addition, many of the epilepsies are ?symptomatic?, i.e., they occur in individuals who had sustained injury or insult such as infection, trauma, or stroke. The mechanisms by which diverse factors such as infection or trauma provoke both acute seizures and recurrent, chronic seizures (epilepsy) are not fully understood. To some extent, each of these insults may initiate a unique chain of events that promotes epilepsy. However, these insults also share commonalities that set in motion cellular and molecular changes that promote neuronal hyperexcitability: All these epilepsy- provoking insults are stressful, in that they trigger the release and actions of ?stress-mediating molecules?, including glucocorticoids and the intrinsic central nervous system (CNS) stress-activated neuro-peptide, corticotropin releasing hormone (CRH). Stress induces release of CRH from hippocampal interneurons, and CRH acts on selective receptors (CRF-R1) to enhance glutamate-mediated neurotransmission. In immature hippocampus, CRH and the CRH receptors are particularly abundant, so that the peptide may excite neurons sufficiently to evoke seizures, followed by dendritic atrophy or death of vulnerable neurons. In animal models, chronic enhancement of CRH levels within the developing hippocampus, may result in enduring reduction of hippocampus- governed learning and memory function. Such levels might be found in infants with chronic CNS stressors including congenital infection, dysplasia, trauma or recurrent seizures. Indeed, drugs that downregulate CRH levels in limbic structures (e.g., ACTH) are potent antiepileptics in the developing CNS. In summary, acute and chronic stress elicits the release of pro-excitatory molecules (CRH), promoting seizures. These further activate the ?stress response?, leading to a vicious cycle culminating in loss of neuronal function and integrity.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentations - Poster Session 1: Sunday, 30 August 2009 - Monday, 31 August 2009
+JO  - Transplant International
+VL  - 22
+IS  - s2
+SN  - 9781405191814
+UR  - https://doi.org/10.1111/j.1432-2277.2009.00958.x
+DO  - doi:10.1111/j.1432-2277.2009.00958.x
+SP  - 95
+EP  - 222
+PY  - 2009
+ER  - 
+
+AU  - Bonnez, William
+C7  - pp. 625-678
+TI  - Papillomavirus
+SN  - 9781555819422
+UR  - https://doi.org/10.1128/9781555819439.ch29
+DO  - doi:10.1128/9781555819439.ch29
+SP  - 625-678
+KW  - clinical manifestations
+KW  - epidemiological studies
+KW  - human vaccination
+KW  - laboratory diagnosis
+KW  - oral contraceptive treatment
+KW  - papillomavirus
+KW  - risk factors
+KW  - virology
+PY  - 2009
+AB  - Abstract Human papillomaviruses (HPV) are a large group of viruses (more than 200 types identified) that infect the epithelium of the skin and mucous membranes. The infections can be latent, subclinical, or clinically manifest, causing lesions that range from the benign (warts, papillomas, condylomas) to the malignant. Some of these viruses are responsible for cutaneous warts; a different group of HPVs (types 6 and 11) is responsible for most genital warts. The major importance of HPVs is because 20 types (especially HPV-16 and -18) are regarded as the necessary, if not sufficient, cause of cervical cancer as well as other cancers of the vagina, vulva, penis, anus, and oropharynx. Although most sexually active individuals get infected with genital HPVs, most of these infections are transient and innocuous. It is the persistence of the high-risk oncogenic HPVs that leads to malignant transformation. Cancer caused by these viruses is preceded by a precancerous stage whose detection is the basis of cytologic screening (Pap smear) for cervical cancer. Ten years ago HPV vaccines were introduced for the prevention of diseases associated with HPV-16 and -18 and for the prevention of anogenital warts caused by HPV-6 and -11. The introduction of HPV vaccination has been a major advance because it is the first time a vaccine has been able to directly prevent virally induced cancers. When used broadly before the onset of sexual activity, HPV vaccination has caused a dramatic reduction in the incidence of genital warts and HPV-related cervical lesions. This should be the harbinger of a decline in the rates of cervical and other cancers.
+ER  - 

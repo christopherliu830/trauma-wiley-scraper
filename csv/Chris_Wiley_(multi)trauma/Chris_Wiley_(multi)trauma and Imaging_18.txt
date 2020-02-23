@@ -1,0 +1,451 @@
+
+TY  - JOUR
+AU  - Owers, C.
+AU  - Morgan, J. L.
+AU  - Garner, J. P.
+TI  - Abdominal trauma in primary blast injury
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 98
+IS  - 2
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.7268
+DO  - doi:10.1002/bjs.7268
+SP  - 168
+EP  - 179
+PY  - 2011
+AB  - Abstract Background: Blast injury is uncommon, and remains poorly understood by most clinicians outside regions of active warfare. Primary blast injury (PBI) results from the interaction of the blast wave with the body, and typically affects gas-containing organs such as the ear, lungs and gastrointestinal tract. This review investigates the mechanisms and injuries sustained to the abdomen following blast exposure. Methods: MEDLINE was searched using the keywords ?primary blast injury?, ?abdominal blast? and ?abdominal blast injury? to identify English language reports of abdominal PBI. Clinical reports providing sufficient data were used to calculate the incidence of abdominal PBI in hospitalized survivors of air blast, and in open- and enclosed-space detonations. Results: Sixty-one articles were identified that primarily reported clinical or experimental abdominal PBI. Nine clinical reports provided sufficient data to calculate an incidence of abdominal PBI; 31 (3·0 per cent) of 1040 hospitalized survivors of air blast suffered abdominal PBI, the incidence ranging from 1·3 to 33 per cent. The incidence for open- and enclosed-space detonations was 5·6 and 6·7 per cent respectively. The terminal ileum and caecum were the most commonly affected organs. Surgical management of abdominal PBI is similar to that of abdominal trauma of other causes. Conclusion: Abdominal PBI is uncommon but has the potential for significant mortality and morbidity, which may present many days after blast exposure. It is commoner after blast in enclosed spaces and under water. Copyright ? 2010 British Journal of Surgery Society Ltd. Published by John Wiley & Sons, Ltd.
+ER  - 
+
+AU  - Brandão, Fausto
+AU  - Chamness, Christopher
+C7  - pp. 29-40
+TI  - Imaging Equipment and Operating Room Setup
+SN  - 9781118845967
+UR  - https://doi.org/10.1002/9781118845912.ch3
+DO  - doi:10.1002/9781118845912.ch3
+SP  - 29-40
+KW  - imaging chain
+KW  - telescope
+KW  - light guide cable
+KW  - camera head
+KW  - CCU (camera control unit)
+KW  - 1080p
+KW  - Xenon
+KW  - LED
+KW  - insufflator
+KW  - integrated operating room
+PY  - 2011
+AB  - Summary Endoscopic surgery equipment is continually evolving to improve safety, image quality, usability, ergonomics and cost effectiveness. This chapter presents a general overview of devices and recommended setups for consideration by veterinary practitioners who must decide which options are best suited to their practice situation. Prudent veterinarians will bear in mind that most endoscopy equipment was designed for human medicine and surgery and that the final image produced on a video monitor can only be as good as the weakest link in the chain.
+ER  - 
+
+TY  - JOUR
+AU  - Shanaman, Miriam M.
+AU  - Schwarz, Tobias
+AU  - Gal, Arnon
+AU  - O'Brien, Robert T.
+TI  - COMPARISON BETWEEN SURVEY RADIOGRAPHY, B-MODE ULTRASONOGRAPHY, CONTRAST-ENHANCED ULTRASONOGRAPHY AND CONTRAST-ENHANCED MULTI-DETECTOR COMPUTED TOMOGRAPHY FINDINGS IN DOGS WITH ACUTE ABDOMINAL SIGNS
+JO  - Veterinary Radiology & Ultrasound
+JA  - Veterinary Radiology & Ultrasound
+VL  - 54
+IS  - 6
+SN  - 9781118845967
+UR  - https://doi.org/10.1111/vru.12079
+DO  - doi:10.1111/vru.12079
+SP  - 591
+EP  - 604
+KW  - acute abdomen
+KW  - dog
+KW  - CT
+KW  - contrast
+PY  - 2013
+AB  - Contrast-enhanced multi-detector computed tomography (CE-MDCT) is used routinely in evaluating human patients with acute abdominal symptoms. Contrast-enhanced ultrasound (CEUS) continues to be in its infancy as it relates to evaluation of the acute abdomen. The purpose of this study was to compare survey radiography, B-mode ultrasound, CEUS, and CE-MDCT findings in canine patients presenting with acute abdominal signs; with a focus on the ability to differentiate surgical from non-surgical conditions. Nineteen dogs were prospectively enrolled. Inclusion required a clinical diagnosis of acute abdominal signs and confirmed surgical or non-surgical causes for the clinical signs. Agreement for the majority of recorded imaging features was at least moderate. There was poor agreement in the identification of pneumoperitoneum and in the comparison of pancreatic lesion dimensions for B-mode vs. CEUS. The CT feature of fat stranding was detected in cases including, but not limited to, gastric neoplasia with perforation, pancreatitis, and small intestinal foreign body. Ultrasound underestimated the size and number of specific lesions when compared with CE-MDCT. Contrast-enhanced ultrasound was successful in detecting bowel and pancreatic perfusion deficits that CE-MDCT failed to identify. Accuracy for differentiation of surgical vs. non-surgical conditions was high for all modalities; 100%, 94%, and 94% for CE-MDCT, ultrasonography and survey radiography respectively. Findings indicated that CE-MDCT is an accurate screening test for differentiating surgical from non-surgical acute abdominal conditions in dogs. Focused CEUS following CE-MDCT or B-mode ultrasonography may be beneficial for identifying potentially significant hypoperfused lesions.
+ER  - 
+
+TY  - JOUR
+AU  - Marshall, E
+AU  - Erskine, B
+TI  - A retrospective review of multi—slice CT and DSA reports in patients with non—traumatic subarachnoid haemorrhage and the resultant diagnostic yield of aneurysms
+JO  - Radiographer
+JA  - Radiographer
+VL  - 58
+IS  - 1
+SN  - 9781118845967
+UR  - https://doi.org/10.1002/j.2051-3909.2011.tb00138.x
+DO  - doi:10.1002/j.2051-3909.2011.tb00138.x
+SP  - 4
+EP  - 8
+KW  - angiography
+KW  - CTA
+KW  - cerebral aneurysm
+KW  - diagnostic yield
+KW  - subarachnoid haemorrhage
+PY  - 2011
+AB  - Abstract Purpose: To examine the diagnostic yield differences between computed tomography angiography (CTA) and digital subtraction angiography (DSA) at The Alfred Hospital, Australia in order to justify patient management that results in all subarachnoid haemorrhage (SAH) patients receiving a 4 vessel cerebral angiogram as part of their investigations despite findings on CTA. Methods: The retrospective study of radiology reports in cases of acute non traumatic SAH in which both CTA and DSA had been performed was conducted in July 2006 to December 2008. Results: Sixty-three patients over two years were included in our study. Twenty (32%) of these patients had no aneurysm identified on CTA or DSA. A total of 68 aneurysms were found in 40 patients. Twelve (30%) of these patients had aneurysms that were only identified on DSA and not on CTA at the time of initial reporting. Three (5%) patients had false positive CTs. While our positive predictive value of CTA approached near 100%, the negative predictive value was found to be less than 70% with an overall diagnostic accuracy of our CTA reports to be 76%. Eighty one percent of the undiagnosed aneurysms on CTA were less than or equal to 3 mm in size. Conclusion: These findings demonstrate the need for a CTA to be used in combination with a formal 4 vessel subtraction angiogram in every case presenting with a SAH despite the findings of the CTA.
+ER  - 
+
+TY  - JOUR
+AU  - AHVENJÄRVI, L. K.
+AU  - LAURILA, J. J.
+AU  - JARTTI, A.
+AU  - YLIPALOSAARI, P.
+AU  - ALA-KOKKO, T. I.
+AU  - SYRJÄLÄ, H. P.
+TI  - Multi-detector computed tomography in critically ill patients
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 52
+IS  - 4
+SN  - 9781118845967
+UR  - https://doi.org/10.1111/j.1399-6576.2007.01559.x
+DO  - doi:10.1111/j.1399-6576.2007.01559.x
+SP  - 547
+EP  - 552
+KW  - Abdomen
+KW  - critical care
+KW  - decision-making
+KW  - diagnosis
+KW  - spiral computed tomography
+KW  - thorax
+PY  - 2008
+AB  - Background: There is a lack of studies showing the overall impact of multi-detector computed tomography (MDCT) on the treatment of critically ill patients in a general intensive care unit (ICU) setting. Methods: A prospective observational study on the effects of MDCT on the treatment of patients in a 12-bed medical?surgical ICU in a university hospital providing tertiary care. Results: During the 9-month study period, there were 343 admissions with ICU length of stay longer than 48?h. Of these patients, 64 (19%) had had inconclusive findings with other modalities of radiological imaging, and they underwent altogether 82 MDCT examinations. Fifty examinations (61%) resulted in a change of treatment. The changes included 22 surgical interventions, 16 percutaneous or paranasal interventions, 15 changes of antimicrobial therapy, three withdrawals of active treatment, and four other changes of treatment. Eight patients underwent two and one patient underwent three changes of treatment. Twenty examinations (24%) were regarded as otherwise necessary for clinical decision-making, although no change in the treatment was indicated. Twelve examinations (15%) failed to provide any additional information relevant to the patient's treatment. Conclusion: Sixty-one percent of the MDCT examinations led to a change of treatment, and 24% of them otherwise contributed to or supported clinical decision-making, suggesting that MDCT examination is helpful in the case of general ICU patients, with inconclusive findings with other imaging modalities.
+ER  - 
+
+TY  - JOUR
+AU  - Schueler, Carl
+AU  - Woody, Loren
+TI  - Digital electro-optical imaging sensors
+JO  - International Journal of Imaging Systems and Technology
+JA  - Int. J. Imaging Syst. Technol.
+VL  - 4
+IS  - 3
+SN  - 9781118845967
+UR  - https://doi.org/10.1002/ima.1850040305
+DO  - doi:10.1002/ima.1850040305
+SP  - 170
+EP  - 200
+PY  - 1992
+AB  - Abstract A key source of digital images is the electro-optical imaging sensor. The basic characteristic that identifies a digital electro-optical sensor is conversion of reflected or emitted light from a scene or object into a digital image signal. Examples include television cameras with digital output, and scanning or staring cameras with digital output. We describe general system design techniques to derive optimum imaging sensor specifications, and we offer examples for two applications. One example application is for terrestrial thermal imaging of nearby objects, such as vehicles. The other example is a sensor to create a color image of small targets in low-light, such as an automobile license plate from a distance of several meters.?1993 John Wiley & Sons Inc
+ER  - 
+
+TY  - JOUR
+AU  - Harris, N. G.
+AU  - Paydar, A.
+AU  - Smith, G. S.
+AU  - Lepore, S.
+TI  - Diffusion MR imaging acquisition and analytics for microstructural delineation in preclinical models of TBI
+JO  - Journal of Neuroscience Research
+JA  - J Neurosci Res
+VL  - n/a
+IS  - n/a
+SN  - 9781118845967
+UR  - https://doi.org/10.1002/jnr.24416
+DO  - doi:10.1002/jnr.24416
+KW  - diffusion-weighted imaging
+KW  - microstructure
+KW  - pathology
+KW  - structural connectivity
+KW  - traumatic brain injury
+AB  - Abstract Significant progress has been made toward improving both the acquisition of clinical diffusion-weighted imaging (DWI) data and its analysis in the uninjured brain, through various techniques including a large number of model-based solutions that have been proposed to fit for multiple tissue compartments, and multiple fibers per voxel. While some of these techniques have been applied to clinical traumatic brain injury (TBI) research, the majority of these technological enhancements have yet to be fully implemented in the preclinical arena of TBI animal model-based research. In this review, we describe the requirement for preclinical, MRI-based efforts to provide systematic confirmation of the applicability of some of these models as indicators of tissue pathology within the injured brain. We review how current DWI techniques are currently being used in animal TBI models, and describe how both acquisition and analytic techniques could be extended to leverage the progress made in clinical work. Finally, we highlight remaining gaps in the preclinical pipeline from data acquisition to final analysis that currently have no real, preclinical-based correlate.
+ER  - 
+
+TY  - JOUR
+AU  - Steinsapir, KD
+AU  - Goldberg, RA
+AU  - Sinha, S
+AU  - Hovda, DA
+TI  - Methylprednisolone exacerbates axonal loss following optic nerve trauma in rats
+JO  - Journal of the Peripheral Nervous System
+JA  - Journal of the Peripheral Nervous System
+VL  - 7
+IS  - 2
+SN  - 9781118845967
+UR  - https://doi.org/10.1046/j.1529-8027.2002.02011_8.x
+DO  - doi:10.1046/j.1529-8027.2002.02011_8.x
+SP  - 136
+EP  - 136
+PY  - 2002
+AB  - PURPOSE: This study investigates the clinical dogma that very high doses of methylprednisolone helpful in spinal cord injury are also helpful in optic nerve trauma. Methods: The right optic nerve of 29 male rats received a 5 second traumatic crush followed 30 minutes later by one of five intravenous treatments (methylprednisolone 30 mg/kg, 60 mg/kg, 90 mg/kg, 120 mg/kg, or saline). Treatment was continued for three additional administrations at 6 hour intervals. Untreated sham controls (n = 7) were also prepared. Six weeks after injury, animals were sacrificed, perfused and optic nerves systematically counted. RESULTS: Axon counts (means +/? s.e.m.) were as follows: Saline = 16,670 +/? 8,900 (n = 5); Methylprednisolone: 30 mg/kg = 8,098 +/? 4,741 (n = 5); 60 mg/kg = 6,925 +/? 6,517 (n = 4); 90 mg/kg = 2,663 +/? 2,653 (n = 4); 120 mg/kg = 6,149 +/? 3,487 (n = 6). Consequently, the data revealed that saline treated animals retained more axons than those that were administered methylprednisolone (p < 0.02). CONCLUSIONS: We conclude that methylprednisolone exacerbates axonal loss following crush injury in the rat optic nerve. Based on the results of this study, clinical studies of traumatic optic neuropathy in the future should also examine the possibility that corticosteroid treatment may have an adverse effect on visual outcome following optic nerve trauma.
+ER  - 
+
+TY  - JOUR
+AU  - Knöpfler, S.
+AU  - Mayer-Scholl, A.
+AU  - Luge, E.
+AU  - Klopfleisch, R.
+AU  - Gruber, A. D.
+AU  - Nöckler, K.
+AU  - Kohn, B.
+TI  - Evaluation of clinical, laboratory, imaging findings and outcome in 99 dogs with leptospirosis
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 58
+IS  - 10
+SN  - 9781118845967
+UR  - https://doi.org/10.1111/jsap.12718
+DO  - doi:10.1111/jsap.12718
+SP  - 582
+EP  - 588
+PY  - 2017
+AB  - Objective To report clinical, laboratory and diagnostic imaging features and prognostic factors in dogs with leptospirosis from North-East Germany. Materials and Methods Medical records of dogs diagnosed with leptospirosis from 2006 to 2013 were evaluated retrospectively. Results The study included 99 dogs. At initial presentation, the most common clinical signs were lethargy (96%), anorexia (88%), vomiting (85%), painful abdomen (39%), diarrhoea (38%), oliguria (27%) and tachypnoea (26%). Abnormal laboratory findings included anaemia (63%), thrombocytopenia (63%), leucocytosis (57%), increase of plasma urea (84%) and creatinine concentrations (81%), increased liver enzyme activities (80%), hyperbilirubinaemia (69%), hyperphosphataemia (67%), hyponatraemia (64%), hypoalbuminaemia (55%) and hypokalaemia (29%). Radiological pulmonary changes were detected in 57% of the dogs initially or during the course of disease. Severe dyspnoea, oliguria, azotaemia, hyperbilirubinaemia and severe radiological pulmonary changes were more often found in dogs that did not survive. There was renal, hepatic and pulmonary involvement in 95, 92 and 58% of the dogs, respectively, and multi-organ lesions in 98 dogs (98%); 32 dogs died or were euthanased. Conclusion Several clinical and laboratory abnormalities were associated with a negative outcome; severe lung involvement was specifically associated with high mortality.
+ER  - 
+
+AU  - Malizia, Andrea L.
+C7  - pp. 229-289
+TI  - Brain Imaging in Affective Disorders
+SN  - 9780470094266
+UR  - https://doi.org/10.1002/0470094281.ch9
+DO  - doi:10.1002/0470094281.ch9
+SP  - 229-289
+KW  - In vivo neuroimaging in man
+KW  - positron emission tomography (PET)
+KW  - magnetic resonance imaging (MRI)
+KW  - X-ray computed tomography (CT)
+KW  - Dense EEG mapping
+KW  - obsessive-compulsive disorder (OCD)
+KW  - panic disorder
+KW  - post-traumatic stress disorder (PTSD)
+KW  - social anxiety disorder
+KW  - affective disorders
+PY  - 2017
+AB  - Summary This chapter contains sections titled: Introduction Principles of Human Imaging Neuroimaging Research in Anxiety Disorders Neuroimaging Research in Affective Disorders Overall Conclusion References
+ER  - 
+
+TY  - JOUR
+AU  - Rasoanandrianina, Henitsoa
+AU  - Grapperon, Aude-Marie
+AU  - Taso, Manuel
+AU  - Girard, Olivier M.
+AU  - Duhamel, Guillaume
+AU  - Guye, Maxime
+AU  - Ranjeva, Jean-Philippe
+AU  - Attarian, Shahram
+AU  - Verschueren, Annie
+AU  - Callot, Virginie
+C7  - e3801
+C8  - NBM-17-0119.R1
+TI  - Region-specific impairment of the cervical spinal cord (SC) in amyotrophic lateral sclerosis: A preliminary study using SC templates and quantitative MRI (diffusion tensor imaging/inhomogeneous magnetization transfer)
+JO  - NMR in Biomedicine
+JA  - NMR in Biomedicine
+VL  - 30
+IS  - 12
+SN  - 9780470094266
+UR  - https://doi.org/10.1002/nbm.3801
+DO  - doi:10.1002/nbm.3801
+SP  - e3801
+KW  - ALS
+KW  - diffusion tensor imaging
+KW  - GM atrophy
+KW  - inhomogeneous magnetization transfer
+KW  - motor neuron
+KW  - spinal cord
+KW  - spinal cord templates
+PY  - 2017
+AB  - In this preliminary study, our objective was to investigate the potential of high-resolution anatomical imaging, diffusion tensor imaging (DTI) and conventional/inhomogeneous magnetization transfer imaging [magnetization transfer (MT)/inhomogeneous magnetization transfer (ihMT)] at 3 T, analyzed with template-extracted regions of interest, to measure the atrophy and structural changes of white (WM) and gray (GM) matter spinal cord (SC) occurring in patients with amyotrophic lateral sclerosis (ALS). Ten patients with ALS and 20 age-matched healthy controls were recruited. SC GM and WM areas were automatically segmented using dedicated templates. Atrophy indices were evaluated from T2*-weighted images at each vertebral level from cervical C1 to C6. DTI and ihMT metrics were quantified within the corticospinal tract (CST), posterior sensory tract (PST) and anterior GM (aGM) horns at the C2 and C5 levels. Clinical disabilities of patients with ALS were evaluated using the Revised ALS Functional Rating Scale, upper motor neuron (UMN) and Medical Research Council scorings, and correlated with MR metrics. Compared with healthy controls, GM and WM atrophy was observed in patients with ALS, especially at lower cervical levels, where a strong correlation was also observed between GM atrophy and the UMN score (R = ?0.75, p = 0.05 at C6). Interestingly, a significant decrease in ihMT ratio was found in all regions of interest (p < 0.0008), fractional anisotropy (FA) and MT ratios decreased significantly in CST, especially at C5 (p < 0.005), and ?// (axial diffusivity) decreased significantly in CST (p = 0.0004) and PST (p = 0.003) at C2. Strong correlations between MRI metrics and clinical scores were also found (0.47 < |R| < 0.87, p < 0.05). Altogether, these preliminary results suggest that high-resolution anatomical imaging and ihMT imaging, in addition to DTI, are valuable for the characterization of SC tissue impairment in ALS. In this study, in addition to an important SC WM demyelination, we also observed, for the first time in ALS, impairments of cervical aGM.
+ER  - 
+
+TY  - JOUR
+AU  - Saulez, M. N.
+AU  - Viljoen, A.
+AU  - Kafka, U.
+AU  - Rubio-Martinez, L.
+AU  - van Wilpe, E.
+AU  - Steyl, J.
+TI  - The use of nuclear imaging for a mixed C cell microfollicular carcinoma of the thyroid gland in a mature horse
+JO  - Equine Veterinary Education
+VL  - 25
+IS  - 3
+SN  - 9780470094266
+UR  - https://doi.org/10.1111/j.2042-3292.2012.00405.x
+DO  - doi:10.1111/j.2042-3292.2012.00405.x
+SP  - 118
+EP  - 125
+KW  - horse
+KW  - carcinoma
+KW  - 99mTc-sestamibi
+KW  - 99mTc-pertechnetate
+KW  - scintigraphy
+KW  - thyroid
+PY  - 2013
+AB  - Summary A 15-year-old Boerperd stallion presented for thyroid enlargement associated with inappetance. Ultrasonographic examination of the thyroid gland revealed an enlarged left lobe, which, on cytological examination, contained numerous anaplastic cells. A mixed C cell microfollicular thyroid carcinoma was diagnosed following histopathological examination of the excisional biopsy specimen. In order to determine metastasis, pulmonary radiographs revealed a poorly-marginated soft tissue opacity caudo-dorsal to the cardiac silhouette. Thyroid and pulmonary scintigraphy was performed comparing 99mTc-sestamibi with 99mTc-pertechnetate and no metastasis was detectable. Following hemithyroidectomy, the stallion made a full recovery without the need for neoadjuvant chemotherapy. Six months later, repeated thyroid and pulmonary scintigraphy using 99mTc-sestamibi was normal.
+ER  - 
+
+TY  - JOUR
+AU  - KHAN, U.
+AU  - BOGUE, C.
+AU  - UNGAR, W. J.
+AU  - HILLIARD, P.
+AU  - CARCAO, M.
+AU  - MOINEDDIN, R.
+AU  - DORIA, A. S.
+TI  - Cost-effectiveness analysis of different imaging strategies for diagnosis of haemophilic arthropathy
+JO  - Haemophilia
+VL  - 16
+IS  - 2
+SN  - 9780470094266
+UR  - https://doi.org/10.1111/j.1365-2516.2009.02125.x
+DO  - doi:10.1111/j.1365-2516.2009.02125.x
+SP  - 322
+EP  - 332
+KW  - haemophilia
+KW  - joints
+KW  - magnetic resonance imaging
+KW  - physiotherapy
+KW  - radiography
+KW  - ultrasonography
+PY  - 2010
+AB  - Summary.? Physiotherapy and radiography of the joints are standard diagnostic strategies for assessment of haemophilic arthropathy. The use of ultrasonography as an adjunct tool for early diagnosis of haemophilic arthropathy may optimize factor replacement therapy. The objective of this study was to compare costs and effectiveness of physiotherapy, radiography and ultrasonography (intervention strategy, IS) with physiotherapy and radiography alone (standard care strategy, SCS) for diagnosing soft tissue and osteocartilaginous changes in haemophilic joints. We retrospectively compared costs and effectiveness of IS vs. SCS in knees, ankles and elbows of 31 children (age range, 4?17?years) with haemophilia A (n?=?30) or B (n?=?1) (IS, n?=?11; SS, N?=?20). Direct health care costs were measured from the provincial health care perspective. Effectiveness was measured by false-negative (FN) rates in each study arm by comparing presence or absence of abnormalities of physiotherapy and imaging exams to the reference standard measure (MRI). In scenario 1, all diagnostic tests matched with MRI. In scenario 2, at least one diagnostic test matched with MRI. The IS was more costly [incremental cost/100 patients, Canadian (CND) $4987] and more effective (incremental effectiveness, FNs/100 patients for scenario 1, ?4.09, and for scenario 2, ?41) for both scenarios. The incremental cost-effectiveness ratios for scenario 1 and for scenario 2 were CND$1166 and CDN$116 per FN result averted per 100 patients, respectively. In conclusion, in the short-term, the incorporation of ultrasonography in a test set for diagnosis of haemophilic arthropathy substantially improved the diagnostic performance of this test set, however at an increased cost.
+ER  - 
+
+TY  - JOUR
+AU  - Wonderlich, Stephen A.
+AU  - Crosby, Ross D.
+AU  - Mitchell, James E.
+AU  - Thompson, Kevin M.
+AU  - Redlin, Jennifer
+AU  - Demuth, Gail
+AU  - Smyth, Joshua
+AU  - Haseltine, Beth
+TI  - Eating disturbance and sexual trauma in childhood and adulthood
+JO  - International Journal of Eating Disorders
+JA  - Int. J. Eat. Disord.
+VL  - 30
+IS  - 4
+SN  - 9780470094266
+UR  - https://doi.org/10.1002/eat.1101
+DO  - doi:10.1002/eat.1101
+SP  - 401
+EP  - 412
+KW  - childhood sexual abuse
+KW  - rape
+KW  - eating disturbance
+PY  - 2001
+AB  - Abstract Objective This study examined the relationship between sexual trauma and eating disorder behavior, taking into account the effects of developmental stage of the victim and the effects of multiple sexual assaults. Method Four groups of adult women took part in this study. Subjects were either victims of childhood sexual abuse, victims of rape in adulthood, victims of both childhood sexual abuse and rape, and controls who were not traumatized sexually. All subjects were assessed with semistructured interviews and self-report inventories that assessed eating disorder behavior, general psychopathology, and impulsivity. Results Victims of childhood sexual abuse differed from controls on measures of eating disorder behavior and individuals who had experienced both childhood sexual abuse and rape in adulthood were most likely to display eating disorder-related psychopathology. Victims of childhood sexual abuse also distinguished themselves with high levels of eating disorder behavior plus multiple forms of impulsive self-destructive behavior. Discussion This study provides additional support for the association between childhood sexual abuse and eating disorder behavior. Childhood sexual abuse may be particularly linked to the presence of binge eating behavior and several other forms of impulsive self-destructive behavior. ? 2001 by John Wiley and Sons, Inc. Int J Eat Disord 30: 401?412, 2001.
+ER  - 
+
+AU  - Lehrer, Douglas S.
+AU  - Dougherty, Darin D.
+AU  - Rauch, Scott L.
+C7  - pp. 570-581
+TI  - Brain Imaging in Psychiatry
+SN  - 9780470065716
+UR  - https://doi.org/10.1002/9780470515167.ch33
+DO  - doi:10.1002/9780470515167.ch33
+SP  - 570-581
+KW  - neuroimaging
+KW  - MRI
+KW  - PET
+KW  - SPECT
+KW  - diagnosis
+KW  - research
+KW  - molecular imaging
+PY  - 2001
+AB  - Summary Modern in vivo neuroimaging is a growing field in which a variety of physical methods provide information about the anatomy, regional activity, and molecular states of the brain. Neuroimaging has played a pivotal role in our understanding of the pathophysiology of mental disorders. We are now starting to see the expansion of imaging into clinical psychiatric practice beyond obtaining structural scans to ?rule out organic? etiologies for altered mental states, as imaging tests yield valuable diagnostic information. This chapter will review neuroimaging techniques to help the practicing psychiatrist understand scientific reports in the psychiatric literature, and to consider ways in which neuroimaging might serve patients now and in the future.
+ER  - 
+
+TY  - JOUR
+AU  - Martel, G.
+AU  - Forget, C.
+AU  - Gilbert, G.
+AU  - Richard, H.
+AU  - Moser, T.
+AU  - Olive, J.
+AU  - Laverty, S.
+TI  - Validation of the ultrasonographic assessment of the femoral trochlea epiphyseal cartilage in foals at osteochondrosis predilected sites with magnetic resonance imaging and histology
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 49
+IS  - 6
+SN  - 9780470065716
+UR  - https://doi.org/10.1111/evj.12698
+DO  - doi:10.1111/evj.12698
+SP  - 821
+EP  - 828
+KW  - horse
+KW  - foal
+KW  - ultrasonography
+KW  - osteochondrosis
+KW  - epiphyseal growth cartilage
+KW  - vascularity
+PY  - 2017
+AB  - Summary Background Noninvasive imaging tools are needed to screen foal femoropatellar joints to detect subclinical osteochondrosis lesions due to focal failure of endochondral ossification to enhance early management to optimise intrinsic healing events. Recently investigations employing 3T susceptibility-weighted magnetic resonance imaging (3T SWI MRI) and CT have demonstrated their capacity for early osteochondrosis diagnosis, but these technologies are not practical for field screening. We postulate that ultrasonography is a valuable field tool for the detection of subclinical osteochondrosis lesions. Objectives The goals were to 1) describe the ultrasonographic features of the femoral trochlea of healthy and osteochondrosis-predisposed neonatal foals, 2) validate the capacity of ultrasound to assess cartilage canal vascular archictecture and the ossification front and 3) evaluate field feasibility in a pilot study. Study design Experimental study. Methods Ultrasonographic evaluation of osteochondrosis predisposed (n = 10) and control (n = 6) femoral trochleas was performed ex vivo and compared with site-matched histological sections and 3T SWI MRI. The articular and epiphyseal cartilage thickness, ossification front indentation and cartilage canal vascular archictecture were assessed at each ROI. Femoral trochleae of foals (n = 3) aged ≈ 1, 3 and 6 months were also evaluated with ultrasonography in field. Results Ultrasonographic measurements strongly correlated with the histological measurements. There was no difference in the cartilage thickness or ossification front indentation between control and osteochondrosis-predisposed specimens. The cartilage canal vascular archictecture on ultrasonograms corresponded with the vessel pattern observed on site matched histology and 3T SWI MRI. Main limitations The number of specimens for study was limited and no early osteochondrosis lesions were present within the predilected group, but a field study is now underway. Conclusion Ultrasonographic examination of the femoral trochlea permitted accurate evaluation of cartilage thickness, cartilage canal vascular archictecture and ossification front indentation in young foals and is a promising, practical tool for screening subclinical osteochondrosis and monitoring and managing lesions at important clinical sites.
+ER  - 
+
+AU  - Deblinger, Esther
+AU  - Pollio, Elisabeth
+AU  - Runyon, Melissa K.
+C7  - pp. 313-327
+TI  - Effective Therapies for Children and Non-offending Caregivers in the Aftermath of Child Sexual Abuse or Other Traumas
+SN  - 9781118976173
+UR  - https://doi.org/10.1002/9781118976111.ch19
+DO  - doi:10.1002/9781118976111.ch19
+SP  - 313-327
+KW  - child sexual abuse
+KW  - childhood trauma
+KW  - non-offending caregivers
+KW  - research evidence
+KW  - trauma-focused cognitive behavioural therapy
+KW  - violence
+PY  - 2017
+AB  - Summary This chapter provides a review of the research on those treatments for childhood trauma deemed 'Well-Supported by Research Evidence' or 'Supported by Research Evidence' by the California Evidence-Based Clearinghouse for Child Welfare (CEBC). Trauma-focused cognitive behavioural therapy (TF-CBT), a well-supported treatment originally designed for families impacted by child sexual abuse or violence, is explored in greater detail as this model has the strongest evidence base among treatments for childhood trauma with effectiveness documented in over 50 scientific studies, including 20 randomised trials. TF-CBT is a components-based, hybrid approach to treating children who have experienced trauma and their non-offending caregivers. Psychoeducation about TF-CBT helps caregivers and children have a general understanding of what treatment will entail and how it will address the trauma symptoms experienced.
+ER  - 
+
+TY  - JOUR
+AU  - Ferasin, L.
+AU  - Faena, M.
+AU  - Henderson, S. M.
+AU  - Langford, K.
+AU  - Darke, P. G. G.
+TI  - Use of a multi-stage exercise test to assess the responsiveness of rate-adaptive pacemakers in dogs
+JO  - Journal of Small Animal Practice
+VL  - 46
+IS  - 3
+SN  - 9781118976173
+UR  - https://doi.org/10.1111/j.1748-5827.2005.tb00301.x
+DO  - doi:10.1111/j.1748-5827.2005.tb00301.x
+SP  - 115
+EP  - 120
+PY  - 2005
+AB  - Objectives: To assess the ventricular rate response of rate-adaptive (VVIR) pacemakers in dogs using a multi-stage exercise test. Methods: The rate-responsiveness of VVIR pacemakers was assessed in seven dogs with complete atrioventricular (AV) block and implanted with various models of pulse generators (six motion sensors and one automatic dual-sensor rate-response pacemaker). Response activity was assessed with a multi-stage exercise test on a treadmill. Atrial and ventricular rate were analysed retrospectively at the end of the test and the AV ratio was calculated after each minute of exercise. Results: During exercise, the mean (sd) AV ratio recorded in all paced dogs was 1.7 (0.5) (expected physiological ratio 1.0), although a variety of individual performances was observed. A poor response (AV ratio 2.8 [0.2]) was obtained with the automatic dual-sensor pacemaker, suggesting that this type of rate-responsive device may not be indicated for implantation in dogs with complete AV block. The overall AV ratio for the six dogs implanted with motion sensors was 1.4 (0.2), showing a better performance of these pacemakers during exercise. Clinical Significance: This multi-stage exercise test represents an easy and repeatable method for assessing the accuracy of rate-responsive sensors and offers valuable information for the correct setting of VVIR pacemakers in dogs.
+ER  - 
+
+TY  - JOUR
+AU  - Ali, B. A.
+AU  - Sanfilippo, F.
+TI  - TS02 MANAGEMENT OF FLAIL CHEST IN TRAUMA: ANALYSIS OF RISK FACTORS AFFECTING OUTCOME
+JO  - ANZ Journal of Surgery
+VL  - 77
+IS  - s1
+SN  - 9781118976173
+UR  - https://doi.org/10.1111/j.1445-2197.2007.04133_2.x
+DO  - doi:10.1111/j.1445-2197.2007.04133_2.x
+SP  - A93
+EP  - A93
+PY  - 2007
+AB  - Background? Flail chest in thoracic trauma is associated with significant complications and carries high morbidity and mortality. At present there is no standardized management plan for flail chest. The aim of this study was to determine the risk factors affecting morbidity, mortality, and length of stay in the hospital. Methods? We evaluated all patients admitted to our trauma centre between January 2002 and December 2004. Age, presence of pneumothorax, trauma severity score (ISS), length of stay, lung contusion and deaths were recorded. Results? There were 100 patients with a mean age of 52 (SD 19.8, range 17?90). The median length of stay was 17 days, and the average ISS score was 30 (SD 13.2). 74% had flail chest and lung contusion, 2 patients had pneumothorax, and 7 (7%) patients died 3 (5.4%) patients with 1?4 fractured ribs died, compared with 4 (8.9%) patients with 5 or more fractured ribs (p?=?0.70, Fisher?s exact test). The mean ISS score was 32.3 (SD 19.5) for those who died compared with 29.8 (SD 12.7) in those who did not die (p?=?0.63, t-test). There was a moderate positive correlation between ISS score and length of stay (r?=?0.36, p?=?0.0002, Pearson correlation coefficient). Conclusion? ISS score was found to be a moderate potential predictor on outcome regarding length of stay in the hospital. There is an apparent increased risk of death with more fractured ribs and therefore a standadised surgical management plan for ribs fixation may reduce the risk of death in this patient group.
+ER  - 
+
+TY  - JOUR
+AU  - Zhou, Yuxiang
+AU  - Narayana, Ponnada A.
+AU  - Kumaravel, Manickam
+AU  - Athar, Parveen
+AU  - Patel, Vipulkumar S.
+AU  - Sheikh, Kazim A.
+TI  - High resolution diffusion tensor imaging of human nerves in forearm
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J. Magn. Reson. Imaging
+VL  - 39
+IS  - 6
+SN  - 9781118976173
+UR  - https://doi.org/10.1002/jmri.24300
+DO  - doi:10.1002/jmri.24300
+SP  - 1374
+EP  - 1383
+KW  - diffusion tensor imaging
+KW  - fractional anisotropy
+KW  - mean diffusivity
+KW  - peripheral nerves
+KW  - human forearm
+PY  - 2014
+AB  - Purpose To implement high resolution diffusion tensor imaging (DTI) for visualization and quantification of peripheral nerves in human forearm. Materials and Methods This HIPAA-compliant study was approved by our Institutional Review Board and written informed consent was obtained from all the study participants. Images were acquired with T1-and T2-weighted turbo spin echo with/without fat saturation, short tau inversion recovery (STIR). In addition, high spatial resolution (1.0???1.0???3.0 mm3) DTI sequence was optimized for clearly visualizing ulnar, superficial radial and median nerves in the forearm. Maps of the DTI derived indices, fractional anisotropy (FA), mean diffusivity (MD), longitudinal diffusivity (?//) and radial diffusivity (??) were generated. Results For the first time, the three peripheral nerves, ulnar, superficial radial, and median, were visualized unequivocally on high resolution DTI-derived maps. DTI delineated the forearm nerves more clearly than other sequences. Significant differences in the DTI-derived measures, FA, MD, ?// and ??, were observed among the three nerves. A strong correlation between the nerve size derived from FA map and T2-weighted images was observed. Conclusion High spatial resolution DTI is superior in identifying and quantifying the median, ulnar, and superficial radial nerves in human forearm. Consistent visualization of small nerves and nerve branches is possible with high spatial resolution DTI. These normative data could potentially help in identifying pathology in diseased nerves. J. Magn. Reson. Imaging 2014;39:1374?1383. ? 2013 Wiley Periodicals, Inc.
+ER  - 

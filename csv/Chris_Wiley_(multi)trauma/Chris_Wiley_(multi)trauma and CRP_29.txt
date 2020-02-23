@@ -1,0 +1,373 @@
+
+TY  - JOUR
+TI  - Abstracts from the 48th Annual Meeting of the European Society for Paediatric Research, Prague, Czech Republic
+JO  - Acta Paediatrica
+VL  - 96
+IS  - s456
+SN  - 0803-5253
+UR  - https://doi.org/10.1111/j.1651-2227.2007.00463.x
+DO  - doi:10.1111/j.1651-2227.2007.00463.x
+SP  - 1
+EP  - 245
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+AU  - Tislér,             A.
+AU  - Akócsi, K. 
+AU  - Borbás, B.
+AU  - Fazakas, L.
+AU  - Ferenczi, S.
+AU  - Görögh, S.
+AU  - Kulcsár, I.
+AU  - Nagy, L.
+AU  - Sámik, J.
+AU  - Szegedi, J.
+AU  - Tóth, E.
+AU  - Wágner, G.
+AU  - Kiss, I.
+TI  - The Effect of Frequent and Occasional Dialysis-Associated Hypotension on Survival of Patients on Hemodialysis
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085ah.x
+DO  - doi:10.1111/j.1492-7535.2004.0085ah.x
+SP  - 91
+EP  - 91
+PY  - 2004
+AB  - Frequent or occasional symptomatic intradialytic hypotension during hemodialysis may influence patients' well being, but its effects on survival, independent of comorbidities, have not previously been investigated. Objective:? To assess the effect of frequent (f-IDH) or occasional (o-IDH) dialysis-associated hypotension on survival. Methods:? During the run in period in 1998, 77 patients with f-IDH (≥10 hypotensive events/10 months, responding only to medical intervention) and 101 patients with o-IDH (1 or 2 events/10 months) were identified among all 958 prevalent chronic hemodialysis patients of a network. Eighty-five patients who had no hypotensive episodes (no-IDH) served as controls. Patients were followed for a median of 27 months (range 0.3?37), and survival of patients was compared by log-rank test. Independent association of f-IDH and o-IDH on survival, compared to no-IDH, was assessed by proportional hazards model that included patient's demographics, laboratory data, comorbidity as well as medications. Results:? Forty-five patients (58%) with f-IDH, 47 (47%) with o-IDH, and 33 (39%) with no-IDH died during the follow up that represents mortality rates of 37 (p?=?0.013 vs. no-IDH), 26 (p =?0.375 vs. no-IDH), and 21 deaths/100?patient years in the three groups, respectively. In multivariate proportional hazards regression, where age, sex, time on dialysis, CHD, diabetes, Kt/V, albumin level, use of beta-blockers, calcium-channel blockers, and long-acting nitrates have been adjusted for, neither f-IDH nor o-IDH was associated with survival. Conclusion:? Mortality in patients with f-IDH is significantly higher than in those without such events. Our data, however, did not provide evidence that f-IDH, independent of age and comorbidities, contributes to mortality in these patients.
+ER  - 
+
+TY  - JOUR
+AU  - George, C.
+AU  - Jones, L.L.
+AU  - Johnson, S.L.
+AU  - Andrews, W.S.
+AU  - Warady, B.A.
+TI  - Central Venous Catheter Access in Children on HD
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085bw.x
+DO  - doi:10.1111/j.1492-7535.2004.0085bw.x
+SP  - 106
+EP  - 107
+PY  - 2004
+AB  - Central venous catheters (CVC) remain a frequently used form of vascular access in children receiving chronic hemodialysis (HD). Whereas standard dual-lumen catheters (DL) are used in many centers, the Tesio catheter has proven to be superior to the DL catheter in terms of catheter survival and infection rates in at least one pediatric study (Sheth RD et al. Am J Kidney Dis. 2001). Recently, the Ash Split catheter became available which, while similar to the Tesio internally, being comprised of 2 separate catheters, may be preferable because of the requirement for only one skin puncture for placement vs. two for the Tesio. However, no pediatric data pertaining to the Ash Split catheter have been published to date. Therefore, we reviewed and compared our experience with a small number of Ash Split (# 16) and Tesio (# 8) catheters used for semipermanent vascular access in our chronic HD population with reference to survival, infectious complications, patency, and dialysis adequacy. The results of this experience are as follows: Tesio Ash Split Survival >3 months 6/8 12/15 Sepsis (epi/catheter mo) 1/30 1/25 Exit-site infection (epi/catheter mo) 1/8.6 1/19 sp Kt/V urea 1.67 1.88 % sp Kt/V urea >1.2 100 90 Reasons for the removal of Tesio catheters were transplant (4), sepsis (1), deterioration of tubing (1), and accidental (1). Ash Split catheter removal resulted from sepsis (2), fistula placement (4), thrombosis (1), and accidental (2). This preliminary experience reveals similar outcome data for the Tesio and Ash Split catheters when used in pediatric HD patients. Definitive statements regarding the superiority of either catheter awaits additional data collection and analysis.
+ER  - 
+
+TY  - JOUR
+AU  - Lockridge, R.s.
+AU  - Spencer, M.o.
+AU  - Craft, V.w.
+AU  - Pipkin, M.f.
+AU  - Campbell, D.l.
+TI  - 6 Years of Experience with Nightly Home Hemodialysis Access
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085c.x
+DO  - doi:10.1111/j.1492-7535.2004.0085c.x
+SP  - 79
+EP  - 79
+PY  - 2004
+AB  - Lynchburg Nephrology Dialysis Inc. started its nightly home hemodialysis (NHHD) program in September 1997. Purpose of study:? To evaluate episodes of exit site infections, catheter sepsis, safety, and longevity of accesses for patients doing NHHD. Methods:? If IJ catheter was chosen, patient was started on Coumadin 2?mg/day when catheter was placed. If catheter malfunctioned, it was locked with a thrombolytic agent and Coumadin was adjusted to meet a goal INR of 1.5?2.25. If the problem persisted, the catheter was exchanged. For catheters, the B-D InterLink device was used to prevent air emboli and infection, and a locking device was used to prevent disconnects. If AV fistula was used, 4 buttonholes were established using 16 gauge needles. If AV graft was used, patients were taught the ladder cannulation technique using 16 gauge needles. Results:? As of September 1, 2003, 45 patients have completed training and have performed 27,063 treatments at home. Total catheter time at home was 930 months. Total AV fistula and AV graft time at home was 190 and 20 months, respectively. Upon completion of training, 34 patients were using tunneled IJ catheters, 10 using AV fistulas, and 1 using an AV graft. The IJ catheter exit site and sepsis infection rate was 0.35 and 0.49 episodes/1000 patient days, respectively. Average catheter life was 8.5 months with the longest 66.7 months and the shortest 0.2 months. The AV fistula and graft exit site and sepsis infection rates were 0.16 and 0 episodes/1000 patient days, respectively. Catheter complications included 1 episode of disconnect due to patient's failure to use locking device, 1 episode of central stenosis, and 1 episode of intracranial hemorrhage, due to prolonged INR, with resolution of symptoms. Conclusion:? Data support that tunneled IJ catheters, AV fistulas, and AV grafts were effective and safe permanent accesses for patients on NHHD.
+ER  - 
+
+TY  - JOUR
+AU  - Schwing, W.D.
+AU  - Erhard, P.
+AU  - Holloman, C.
+AU  - Weigel, K.
+AU  - Blankshaen, S.
+AU  - Anderson, J. 
+AU  - Siegel, C.
+AU  - Seaman, D.
+AU  - Valente, J.
+AU  - DeOreo, P.
+AU  - Weiss, M.F.
+TI  - Thrombotic Events and Pentosidine in Hemodialysis
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085f.x
+DO  - doi:10.1111/j.1492-7535.2004.0085f.x
+SP  - 80
+EP  - 80
+PY  - 2004
+AB  - Poorly functioning dialysis access, whether graft or AV fistula, is a contributor to decreased efficiency of dialysis. Thrombosis results in the need for surgery and increases patient suffering. Objectives:? To determine whether an advanced glycation end product (AGE), pentosidine, might serve as a marker of disease activity and thrombosis of dialysis access. These results were obtained during the blinded phase of a study to evaluate the efficacy of the antioxidant vitamin E in preventing vascular access thrombotic events. Methods:? Twenty-six patients had blood drawn and access flow evaluated initially and at intervals for up to 1.5 years. In the study design, participants received either 800?IU vitamin E daily by mouth or identical placebo capsules. Blood plasma was examined to determine pentosidine content at baseline and every 3?m. Patients with an access flow of <800?mL/min were referred to a surgeon for evaluation. Access flow was evaluated by using the transonic flow meter and the saline release method. When sequential double dialyzers were used, saline injection method was applied post dialyzers, but before the venous drip chamber. Results:? Mean initial level of pentosidine before the administration of vitamin E was 20.22?pmol/mg (range 5.04?59.62?pmol/mg). During the study period, 5 patients had procedures related to thrombosis performed on their accesses. Blood drawn before the thrombotic event showed an increase above baseline of 6.87?±?15.47 (range ?5.9 to +33.7?pmol/mg). Patients without events showed a mean decrease of 9.7?± 12.24?pmol/mg pentosidine (p?<?0.02). Conclusion:? An increase in levels of pentosidine was associated with clotting of hemodialysis access. This change may reflect the effects of oxidative stress and/or thrombus formation. As these data are gathered from an ongoing double-blinded study, the effect of vitamin E on thrombus formation and pentosidine levels has not yet been ascertained.
+ER  - 
+
+TY  - JOUR
+AU  - Galland, R.
+AU  - Traeger, J.
+AU  - Béné, B.
+AU  - Delawari, E.
+TI  - Short Daily Hemodialysis vs. Short Daily Hemofiltration (Search for Optimal Prescription)
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085s.x
+DO  - doi:10.1111/j.1492-7535.2004.0085s.x
+SP  - 85
+EP  - 86
+PY  - 2004
+AB  - It has been shown that daily hemodialysis as well as convective transfer by hemofilitration improve the quality of extra renal treatment. Two following phases of treatment of three weeks each were tested in 2 patients: daily hemodialysis 2.5?h 6 times/week (HD*6) and daily hemofiltration 2.75?h 6 times/week (HF*6) performed according to the following modalities. Phase I, blood flow rates (QB): 300?mL/min, hemofilter 1.4 m2AN 69 dialysate flow 500?mL/min. Phase II, QB: 150?mL/min, hemofilter 1m2AN 69, exchange volume of 10?L/session; 5?L predilution and 5?L postdilution (conditions were limited by the device). We measured, during the third week of treatment of each phase, the weekly mass transfers and the predialysis plasma levels of urea (U), creatinine (C), phosphate (P), and B2 microglobulin (B2M). In the 2 phases, HD*6 and HF*6, respectively, the weekly urea Kt was: 120 vs. 60?L; std Kt/V: 3.30 vs. 2.0; npcr: 1.26 vs. 1.42?g?kg?1?day?1. Mass transfer/week Predialytic levels/L HD*6 HF*6 HD*6 HF*6 U (mmol) ?2366 ?2204 ?23.2 ?38.5 C (µmol) 67240 51096 769.5 934.8 P (mmol) ??127 ??111.5 ??1.91 ??2.34 B2M (mg) ??311 ??763.5 ?34.2 ?30.16 In HF*6, predialysis solute concentration increased and weekly small molecule mass transfer was insufficient. B2M mass transfer was significantly increased and predialytic plasma concentration decreased, showing a higher clearance of middle molecules with convective transfer. The clinical tolerance was excellent during the two phases of treatment. This study allows to determine the optimal conditions for adequate daily HF: higher QB and exchange volume. Further studies with QB of at least 300?mL/min and with exchange volume of 15?L/session seem to be necessary.
+ER  - 
+
+TY  - JOUR
+TI  - E-Poster Exhibition | APDW 2019
+JO  - Journal of Gastroenterology and Hepatology
+JA  - Journal of Gastroenterology and Hepatology
+VL  - 34
+IS  - S3
+SN  - 0815-9319
+UR  - https://doi.org/10.1111/jgh.14865
+DO  - doi:10.1111/jgh.14865
+SP  - 583
+EP  - 853
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - International Journal of Stroke
+VL  - 3
+IS  - s1
+SN  - 1747-4930
+UR  - https://doi.org/10.1111/j.1747-4949.2008.00231.x
+DO  - doi:10.1111/j.1747-4949.2008.00231.x
+SP  - 2
+EP  - 474
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+AU  - Solid, C.A.
+AU  - Foley, R.N.
+AU  - Gilbertson, D.T.
+AU  - Collins., A.
+TI  - Reaching Target Hemoglobin after Hospitalization for Incident Hemodialysis Patients
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085ak.x
+DO  - doi:10.1111/j.1492-7535.2004.0085ak.x
+SP  - 92
+EP  - 92
+PY  - 2004
+AB  - Introduction:? The Kidney Disease Outcomes Quality Initiative (K/DOQI) has established target hemoglobin (Hb) level of 11?12?g/dL for all dialysis patients. For patients who leave an inpatient hospitalization with an Hb under this target, it is hypothesized that several factors contribute to the length of time required to achieve an Hb of 11?g/dL after hospitalization. Objective:? To identify factors contributing to a decreased likelihood of reaching this target Hb. Methods:? Using the first hospitalization of patients who initiated HD in 1999 and who were regularly treated with EPO, we identified those with a mean Hb of less than 11?g/dL on EPO claims during the same month as their index hospitalization. Patients were then followed up to see how long it took them to achieve an Hb of 11?g/dL, censored at death, re-hospitalization, a switch of modality, or suspension of EPO treatment. Results:? A total of 6050 HD patients were identified. 3 months after hospitalization, 70% had achieved 11?g/dL, and 12% had been censored. For the remaining patients who eventually reached 11?g/dL, the average number of additional months required was 2.69 (SE of 0.09). From proportional hazards regression on the time (in months) to achieving an Hb of 11?g/dL, factors that significantly decreased the likelihood of reaching a target Hb included: a diagnosis on the index hospitalization of CHF or hepatic disease, a low Hb prior to the hospitalization, a high dose of EPO prior to the hospitalization, and a longer hospital stay. Conclusions:? Patients with anemia after hospitalization are at high risk of both persistent anemia and rehospitalization. It is important to address patient comorbidities, to ensure adequate medication usage, and to monitor patient progress to prevent hospitalizations and potential impact on Hb levels.
+ER  - 
+
+TY  - JOUR
+AU  - Kjellstrand, C.M.
+AU  - Twardowski, Z.J.
+AU  - Bower, J.
+AU  - Blagg, C.R.
+TI  - What Influences Cardiovascular Instability and Discomfort during Daily Hemodialysis?
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085au.x
+DO  - doi:10.1111/j.1492-7535.2004.0085au.x
+SP  - 96
+EP  - 96
+PY  - 2004
+AB  - Background:? Daily hemodialysis (DHD) markedly ameliorates cardiovascular instability (CVI) and discomfort (DIS) during dialysis, but patients continue to have some of these problems during DHD. We studied what contributed to these problems during 4445 DHD in 23 patients. Methods:? Dependent variables were increase in pulse rate (PR), maximal (MAX) and overall (OV) fall of systolic blood pressure (BP), and a subjective score of patients' overall evaluation of the quality of dialysis (OEQ), adding a score of 14 symptoms (0 best, 40 worst). Independent variables were ultrapure dialysate and biocompatible dialysis (UP) (1626 dialyses) vs. conventional dialysis (CONV) (2819 dialyses), ultrafiltration (Uf) as percentage of body weight (BW), pre?post BUN (?BUN), time on dialysis (T), speed of dialysis (K/V in mL?min?1 kg?BW?1), and target??post-dialysis BW (Ta-Po BW). Relations were analyzed by backward multiple regression analysis. Results:? PR increased by 1.6?±?13/min; MAX BP fall was 25?±?20?mmHg; OV BP fall was 13?±?22?mmHg; OEQ?=?0.6 ±?1.2. In multiple stepwise backward regression analysis, independents in order of importance: PR?=??BUN???0.12?+?Ta-Po BW?????1.8?+?K/V???1.1???5 r?=?0.13, p?<?0.0001 MAX BP?=?CONV???8?+?T???0.2???Ta-Po BW ?????6?+?Uf???2.7??13 r?=?0.33, p?<?0.0001 OV BP?=?CONV???11?+?Uf???4???Ta-Po BW ????4?+??BUN???0.3???9 r?=?0.35, p?<?0.0001 OEQ?=?K/V???0.3???Ta-Po BW???0.1???0.2 r?=?0.20, p?<?0.0001 Conclusion:? To minimize drop in BP and hypotensive crashes, use of ultrapure dialysate and a biocompatible membrane (UP) was by far the most important factor, followed by slowing dialysis. To avoid post-dialysis tachycardia and discomfort during dialysis, slow dialysis was most important. Overall, ?fast? dialysis and use of ?impure? regular dialysate appear to be the major dialysis factors causing CV instability and discomfort during daily hemodialysis.
+ER  - 
+
+TY  - JOUR
+AU  - Kroeker,             A.
+AU  - White, S.
+AU  - Lindsay, R.m.
+TI  - Return on Investment: An Economic Guideline for Selecting Home Daily/Nocturnal Hemodialysis Patients
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085ax.x
+DO  - doi:10.1111/j.1492-7535.2004.0085ax.x
+SP  - 97
+EP  - 97
+PY  - 2004
+AB  - Starting any new program, especially one without a proven track record, raises questions about cost-effectiveness of the treatment. Purpose:? This research investigated how long patients should be expected to remain as daily/nocturnal hemodialysis patients in order to justify the initial investment in sending them home. Methods:? Costs for 10 short-hour daily (SHD) and 12 slow nocturnal hemodialysis (NHD) were compared with the savings incurred by switching those patients from conventional hemodialysis (CHD). One-time expenses were divided by net savings to determine the minimum length of time the patients should be expected to remain at home on these modalities. Results:? One-time training, installation, and home equipment expenses were comparable for the SHD and NHD patients. NHD patients without monitoring noticed that these costs recovered in 1 year. NHD patients with monitoring took approximately 16 months to recover these costs, while initial SHD costs were offset in 20 months. Conclusions:? Patients selected for home NHD and SHD should be expected to be able to remain at home for at least 12?20 months. Subsequent investigation indicates that these costs and time periods may be further reduced. NHD Costs ($Can) Daily (SHD) Excluding monitoring Including monitoring One-time $21,281 $19,772 $21,465 Savings $12,836 $20,484 $16,703 ROI (years) 1.7 1.0 1.3
+ER  - 
+
+TY  - JOUR
+AU  - Saito, A.
+AU  - Aung, T.
+AU  - Terashima, M.
+AU  - Kakuta, T.
+TI  - Long-Term Transport Study of Bioartificial Tubule Devices in the Development of a Bioartificial Kidney
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085bc.x
+DO  - doi:10.1111/j.1492-7535.2004.0085bc.x
+SP  - 99
+EP  - 99
+PY  - 2004
+AB  - Introduction:? A bioartificial kidney, which consists of a continuous hemofilter and a bioartificial tubule device using proximal tubular epithelial cells (LLC-PK1), is desired to develop for preventing long-term complications in hemodialysis patients. A bioartificial tubule device should function for a long duration in terms of the simplicity and the economy. Continuous hemofiltration with 10?L/day of filtrate could maintain plasma urea, creatinine and ?2-microglobulin in patients at low levels compared to those in standard hemodialysis patients. Methods:? 6 bioartificial tubule devices, in which LLC-PK1 cells were grown on the inner surfaces of hollow fiber capillaries (membrane area: 0.4?m2, 1600 fibers), were used to evaluate the transport ability of H2O, glucose and Na+, and leak rates of urea and creatinine for 2 weeks when the medium containing 50?mg/dL of urea and 5.0?mg/dL of creatinine was perfused inside of the cell-attached membranes and another medium containing 2.5?g/dL of albumin was perfused outside of the membranes. Scanning electron micrograph of cross-sectional findings of the hollow fibers was taken at 6, 10, and 14 days after formation of confluence. Results:? By conversion into 1?m2 of membrane area, transport of H2O, glucose, and Na+ was 6266?± 995?mL/day, 22832?±?7240 mg/day, and 941.3?±?180 mEq/day, respectively at 6 days after confluence. Leak rates of urea and creatinine across the cell-attached membranes were 22?±?6.1% and 19.2?±?4.9 with albumin addition, whereas 13.1?±?1.9% and 12.2?±?1.6 without albumin addition. Transport capacity of these components and the leak rates had continued for 10?13 days, and decreased thereafter because of the formation of the multilayers. Bioartificial tubule devices with membrane area 1.0?m2 can reach the targeted amounts of H2O, glucose, and Na+ transports when 6?L of 10?L/day of hemofiltrate has to be regenerated, substituting 4?L with meal and drinks.
+ER  - 
+
+TY  - JOUR
+AU  - Yamashita, A.C.
+AU  - Tomisawa, N.
+AU  - Takesawa, A.
+AU  - Sakurai, K.
+AU  - Sakai, T.
+TI  - Blood Compatibility and Filtration: Characteristics of Newly Developed Polyester Polymer Alloy Membrane
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085bd.x
+DO  - doi:10.1111/j.1492-7535.2004.0085bd.x
+SP  - 99
+EP  - 100
+PY  - 2004
+AB  - Many synthetic polymeric membranes have been widely used for blood purification therapies. Among them polyester polymer alloy (PEPA) membrane shows unique blood compatibility and filtration characteristics. Objective:? To evaluate blood compatibility and filtration characteristics of 3 different PEPA membranes, including FLX (PEPA only), FDX (PEPA with polyvinylpyrrolidone, (PVP) as a hydrophilic agent), and FDY (PEPA with PVP) that has larger pore diameter. Methods:? Ultrafilters with 3 PEPA membranes (FLX, FDX, FDY, Nikkiso, Tokyo) were compared with those with polysulfone (PS; NK-PS, Nikkiso, Tokyo) for blood compatibility in vivo. Also, ultrafilters with PEPA, PS, and cellulose triacetate (CTA; FB-110GA, Nipro, Osaka) membranes were also investigated for filtration characteristics of albumin in aqueous in vitro. Results:? FDY, the latest version of the three PEPA, showed excellent small changes in C5a concentration during the treatment right after switching from PS membrane, leaving no significant changes in other biocompatible indices. First 60?min of the time course of s.c. for albumin were shown below taken under aqueous low albumin concentration, i.e., 2.42???10?3?kg/dm3. The time-dependent patterns were totally different from each other in 5 filters. Generally speaking, PS takes a peak value 20?40?min after starting the experiment, depending on the flow conditions. Since PEPA is a hydrophobic material, it showed high s.c. for albumin in FLX (PEPA with no PVP) and never reached plateau. With a hydrophilic agent (PVP), the s.c. greatly reduced in FDX and showed little time-dependent change. By enlarging the pore diameter in FDY, the s.c. increased in accordance with the enlargement. Conclusion:? Newly developed PEPA with PVP has excellent blood compatibility and has unique separation characteristics for albumin.
+ER  - 
+
+TY  - JOUR
+AU  - Barril, G.
+AU  - Bartolomé, J.
+AU  - Ruiz, M.P.
+AU  - Sanz, P.
+AU  - Traver, J.A.
+AU  - Selgas, R.
+AU  - Carreño, V.
+TI  - Hepatocyte Growth Factor and Viral Load Variations in HD Session, Comparison with Molecular Absorbent Recirculating System (MARS) Therapy
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085bg.x
+DO  - doi:10.1111/j.1492-7535.2004.0085bg.x
+SP  - 100
+EP  - 101
+PY  - 2004
+AB  - A decrease in hepatitis C viral load in HD patients along HD sessions has been described. It has also been proposed that hepatocyte growth factor (HGF) stimulation by HD could have some protective effect in hepatitis C virus (HCV) liver disease outcome. Aims:? (i) Measurement of HCV viral load variation and quantitation of HGF stimulation in CKD patients (HCV+ and HCV?) on HD, along the HD session. (ii) Study whether albumin HD (MARS) decreases HCV viral load and stimulates HGF, compared to HD sessions. Methods:? We performed two MARS and two HD sessions in vitro by using an extracorporeal circuit with blood bag contaminated with HCV serum with a known HCV viral load. (We used only a single blood bag for each testing.) In vivo we performed three MARS sessions. The total number of treatments was 6 in 2 patients (3 treatments each) and one HD session in 2 HCV+ patients and 5 HCV? patients (included in HD program in our center), taking samples at the start of the following HD session, to compare the results with those obtained in vitro. We took samples at the beginning, middle, and at the end of MARS sessions in vivo and in vitro and starting (15?min) and at the end and before starting the following HD session in vivo. (The interval between 2 HD sessions in HCV+ patients was 2 days.) We determined HCV viral load using Amplicor (Roche) and HGF using ELISA (R 15?min, 1537; final, 1981 HD in vitro: start, 476; 15?min, 677; final, 1236 HD in vivo: start, 2808.57; ?15?min, >8000; final, ??2605.28; ?start the following session, 2299.5 MARS in vivo: HGF starting (first session, 4633; second session, ??4390; third session, 4775); at 4?h (first session, 5443; second session, 4167; third session, 5178); final (first session, 4477; second session, 6167; third session, 5078). Conclusions:? MARS and HD sessions decreased HCV viral load and stimulated HGF both in vitro and in vivo. It is necessary to confirm these results because it could offer protective effect for HCV chronic liver disease outcome. HD seems to be the best option for patients with HCV hepatopathy. On the other hand, patients with liver disease who need to be treated with MARS could obtain not only a good clearance of toxin binding to albumin, but also the positive effects described.
+ER  - 
+
+TY  - JOUR
+AU  - Shin, Y.S.
+AU  - Cho, H.M.
+AU  - Kim, Y.O.
+AU  - Kim, Y.S.
+AU  - Chang, Y.S.
+AU  - Lee, M.D.
+AU  - Bang, B.K.
+TI  - Changes of Plasma Amino Acid Profile in Hemodialysis Patients
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085bk.x
+DO  - doi:10.1111/j.1492-7535.2004.0085bk.x
+SP  - 102
+EP  - 102
+PY  - 2004
+AB  - Healthy nutritional status is crucial for obtaining favorable hemodialysis (HD) and transplantation results in chronic renal failure (CRF), because there is a high incidence of malnutrition in these patients. In addition, there is a remarkable loss of amino acids (AAs) during HD. Purpose:? This study examined changes in the serum AA profiles of pre- and post-HD in order to plan a strategy for providing nutritional support to patients on HD. Method:? Twenty-nine stable male patients on HD were enrolled in this study. The criteria for patient selection were urine output less than 200?mL/day, 3 times HD a week, and HD treatment for more than 12 months. Results:? Total plasma AA concentrations of pre- and post-HD were 2948.4?±?543.1 and 2279.2?±?400.8?mol/L, the difference being highly significant (p?<?0.0001). There was also a significant decrease in the level of essential AAs (EAAs, 774.4?±?163.8 vs. 643.4?±?142.5??mol/L, p?<?0.0005) and non-EAAs (2019.0?±?411.7 vs. 1539.6?±?278.3 ?mol/L, p?<?0.0001) after HD. The ratio of the EAAs to the non-EAAs increased after HD (0.39?±?0.07 vs. 0.42?±?0.07??mol/L). The level of branched chain AAs (BCAAs) of pre- and post-HD was 323.3?±?73.7 vs. 286.7?±?71.2??mol/L and that of aromatic AAs (AAAs) was 180.9?±?56.2 vs. 137.5?±?42.6??mol/L (p?<?0.0005), and the BCCA to AAA ratio increased after HD (1.8?±?0.41 vs. 2.2?±?0.57??mol/L, p?=?0.01). Among the abnormal AAs which appear in CRF, the concentrations of ?-aminobutyric acid, citrulline, 1-methyl histidine, phophoserine, and taurine decreased significantly after HD. Conclusion:? Patients revealed a large loss of AAs including abnormal-appearing AAs during HD. The ratios of EAA to non-EAA and BCAA to AAA increase significantly, which indicates the beneficial effect of HD on the metabolic recovery of the AA profile. But replacing AAs, especially EAAs with high BCAAs, is essential for maintaining nutritional status to compensate the significant loss of AAs during HD.
+ER  - 
+
+TY  - JOUR
+AU  - Zaki, A.m.
+AU  - Kamel, A.a.f
+AU  - Ragab, M.
+AU  - Hassan, M.y.
+TI  - Role of Nitric Oxide, Endothelin-1, Interleukin-1, and Tumor Necrosis Factor-α in Hemodialysis-Induced Hypotension
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085br.x
+DO  - doi:10.1111/j.1492-7535.2004.0085br.x
+SP  - 105
+EP  - 105
+PY  - 2004
+AB  - Serum level of nitrite plus nitrate (NO2 plus NO3), endothelin-1 (Et-1), interleukin-1 (IL-1), and tumor necrosis factor-α (TNF-α) have been estimated in 20 patients with end stage renal failure (ESRF) undergoing regular hemodialysis treatment in a trial to explain the hypotension occurring in some of these patients. According to the incidence of hypotension, patients were divided into GI (n?=?10) hypotension prone patients and GII (n?=?10) hypotension resistant patients (normotensive). Clinical examination with measurement of systolic and mean arterial blood pressure was performed in all cases before and after hemodialysis (HD) settings. After HD, GI showed significant increase in the serum levels of (NO2 plus NO3), IL-1, and TNF-α, whereas a significant decrease in serum Et-1 level was noticed. GII showed no significant change in serum level of the 4 parameters mentioned above. In hypotensive patients, there was a significant positive correlation between (NO2 plus NO3) and the duration of dialysis, and a significant negative correlation between (NO2 plus NO3) and post dialysis systolic blood pressure, also between IL-1 and Et-1. From the previous results, it could be concluded that the vascular endothelial factors studied (NO and Et-1) together with the inflammatory cytokines IL-1 and TNF-α contribute to the development of HD-induced hypotension in ESRF subjects which is evidenced by: (1) the coupling of decrease of blood pressure and increase in NO2 plus NO3 level after HD in group I; (2) Et-1, which is a powerful vasoconstrictor, showed a significant decrease postdialysis; and (3) levels of cytokines (IL-1 and TNF-α) (which are potent NO inducers) were found to be significantly increased postdialysis in group I.
+ER  - 
+
+TY  - JOUR
+AU  - Kreuzer,             M.
+AU  - Drossert, T.
+AU  - Stein, A.
+AU  - Arbeiter, A.
+AU  - Vester, U.
+AU  - Bonzel, K-E.
+TI  - Kinetic Studies on Urea Extraction with Hemodialysis in Adolescents by On-line Monitoring of Dialysate Urea
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085bx.x
+DO  - doi:10.1111/j.1492-7535.2004.0085bx.x
+SP  - 107
+EP  - 107
+PY  - 2004
+AB  - Kinetics of urea extraction during a single dialysis session in children are unknown, because analysis of solutes in dialysate is difficult due to their extreme dilution. >Objective:? A novel urea monitor of the Gambro Company might be of help in studying urea kinetics also in children. Methods:? We studied 107 urea kinetics in 5 adolescents aged 13?19 years, weighing 26?58?kg, and looked for influences of membrane size, blood flow, and duration of one dialysis session. Urea measurement applies to the change of electric dialysate conductivity due to ionization because of urea splitting by urease. Bicarbonate dialysis regimen was 4?5?h each, 3 times a week, using polysulfone high-flux dialyzers (Fresenius F60 or F80, depending on body size). Results:? Average 4-h urea Kt/V values for F60 (n?=?85) were 1.69±0.53 and for F80 (n?=?21) 1.63±0.25, extracted urea mass was 16.0±5.4?g and 32.5±5.4?g, respectively (p?<?0.05); Kt/V urea results for blood flows of 180?220?mL/min were 1.36±0.52 and for <180?mL/min 1.10±0.43; extracted urea mass was 17.3±8.0 and 11.7±4.9?g, respectively (p?<?0.05). Total average urea extraction ratio after 2?h of dialysis (n?=?107) was 64.8±5.6%. Extraction ratio during the 4th h of dialysis was only 15.3±4.1% and during the 5th h not more than 9.0±3.6% of total urea extraction. Conclusion:? Kinetics of urea extraction helps understanding dialysis processes in children. Adapting the size of the dialyzer according to body size raises urea extraction and maintains urea clearance Kt/V at the desired quality level. An inadequate blood flow lowers both urea extraction and urea clearance Kt/V. Prolonging dialysis beyond 4?h is, at least in concern of urea kinetic modelling, a rather ineffective means. We speculate that children with blood flow problems should be dialysed more often.
+ER  - 
+
+TY  - JOUR
+AU  - Azam, N.
+AU  - Douglas, L.A.
+AU  - McConnell, S.W.
+TI  - Anaphylaxis in Association with Heparin-Induced Thrombocytopenia
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085bz.x
+DO  - doi:10.1111/j.1492-7535.2004.0085bz.x
+SP  - 107
+EP  - 108
+PY  - 2004
+AB  - Heparin is almost universally used as an anticoagulant during hemodialysis. Rare but serious side effects of heparin therapy include heparin-induced thrombocytopenia (HIT) and anaphylaxis, and these may lead to significant mortality and morbidity if left unrecognized. We are reporting a patient who developed HIT followed by an anaphylactoid reaction. This 8-year-old girl with Joubert's syndrome developed end-stage renal disease secondary to nephronophthisis. She had a Permacath double-lumen hemodialysis catheter placed in the right internal jugular vein and was started on hemodialysis using an Asahi B10 65 Dialyzer on 1/28/03. The platelet count at that time was 246???103/mL. Beef lung heparin was used for anticoagulation. She was admitted for living related donor renal transplant on 2/10/03 but was found to be thrombocytopenic with a platelet count of 49???103/mL. The transplant was postponed, a sepsis work-up was performed, and she was started on antibiotics pending culture results. Hemodialysis was continued with heparin anticoagulation, and despite an improvement in the platelet count she had an acute anaphylactoid reaction 2 days later. The reaction occurred 20?min after starting her hemodialysis treatment and presented as acute onset of bronchospasm, agitation, and chest discomfort. She improved with nebulized albuterol and subcutaneous epinephrine. A review of her records revealed that she had received 6 hemodialysis treatments. The platelet count on 2/3/03, after 3 hemodialysis treatments, had been 242???103/mL and on 2/8/03 after 5 treatments the platelet count was 72???103/mL. HIT with anaphylaxis was suspected. Heparin was discontinued and the platelet count had returned to normal within 2 days. The diagnosis was confirmed by a positive heparin-associated antibody test. While HIT is recognized as a complication in 1?5% of patients treated with heparin and has been well described in the literature, we could only find 2 reported cases of heparin-induced anaphylaxis and in both cases there was accompanying thrombocytopenia. This patient further illustrates a possible linkage between these two phenomena. HIT is an important cause of thrombocytopenia in a patient on hemodialysis and continued exposure to heparin may induce anaphylaxis.
+ER  - 
+
+TY  - JOUR
+AU  - Cigarrán, S.
+AU  - Coronel, F.
+AU  - Torrente, J.
+AU  - Sevilla, M.
+AU  - Baylón, J.C.D.
+TI  - Risk of Inadequate Dialysis Dose in Hemodialysis Patients with High Watson Volume. A Warning
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085o.x
+DO  - doi:10.1111/j.1492-7535.2004.0085o.x
+SP  - 84
+EP  - 84
+PY  - 2004
+AB  - Quality control of dialysis treatment has received wide attention since inadequate dialysis dose was an independent risk factor of morbidity and mortality in hemodialysis patients. Each 0.1 decrease in Kt/V less than 1.2 is estimated to increase the relative risk of death by 5?7%. A higher Kt/V can be achieved by increasing treatment time, using a larger dialyzer or increasing blood or dialysate flow rates. The aim of this cross-sectional study was to know, using online conductivity monitor (OCM) routinely, whether a certain subgroup of patients is being treated inadequately. 24 anuric patients were included in a cross-sectional study: 20.8% were diabetics, mean age 64.7?±?18.2 years; 16% females. Access blood were AVFI and the effective dialyzed blood flow was set at 350?mL/min, with recirculation <5%. BMI was 25.4?±?3.8?kg/m2 and body weight was 69.7?±?12?kg. All patients were dialyzed thrice weekly (245?±?21?min) with dialysis machine 4008H (Fresenius Medical Care) equipped with OCM monitor and the hollow fiber high-flux polysulfone membrane (HF-80 1.8?m2) and helixone (Fx-60, 1.6?m2). Dialysate flow was maintained at 500?mL/min, with standard dialysate liquid. Drug therapy was not varied. OCM was validated for our population and reported in other abstracts (r2?=?0.96, p?<?0.001). Inadequate dialysis dose was considered at OCM Kt/V less than 1.2. Data were processed and statistically analyzed with SPSS 11.0 software package. Watson volume (Wv) to other baseline characteristics was assessed by using contingency tables, t-tests, analysis of variance, and linear regression, as appropriate. All the tests were performed for a 0.05 significance level. The OCM Kt/V weekly was inversely related to Wv (r?=??0.833, p?<?0.001). 20.8% of our patients are at risk of inadequate dialysis dose, and it reflects our current practice of dialysis prescription. All of them are anuric young men with a Wv?>?40?L. Specific efforts are required to deliver an adequate dialysis dose in this kind of patients. This can be achieved by altering dialysis frequency, increasing membrane surface, and/or increasing dialysis flow. OCM Kt/V device permits a daily dialysis dose delivery and, consequently, an individualized prescription. Prospective studies are required to establish whether adequate dialysis dose in patients with Wv?>?40?L may further improve their survival. Variable n OCM Kt/V Age (year) THD (min) Watson volume (L) OCM Kt/V ??<1.2 5 (20.8%) 1.05?±?0.03* 45.2?±?12.91* 240?±?21.21 45.02?±?3.03* OCM Kt/V ??≥1.2 19 (79.2%) 1.36?±?0.17 69.89?±?15.9 246?±?21.21 34.6?±?4.9 * p?<?0.001.
+ER  - 
+
+TY  - JOUR
+AU  - Kjærgaard, A. G.
+AU  - Nielsen, J. S.
+AU  - Tønnesen, E.
+AU  - Krog, J.
+TI  - Expression of NK Cell and Monocyte Receptors in Critically Ill Patients – Potential Biomarkers of Sepsis
+JO  - Scandinavian Journal of Immunology
+JA  - Scand J Immunol
+VL  - 81
+IS  - 4
+SN  - 0300-9475
+UR  - https://doi.org/10.1111/sji.12272
+DO  - doi:10.1111/sji.12272
+SP  - 249
+EP  - 258
+PY  - 2015
+AB  - Abstract Sepsis is characterized by activation of both the innate and adaptive immune systems as a response to infection. During sepsis, the expression of surface receptors expressed on immune competent cells, such as NKG2D and NKp30 on NK cells and TLR4 and CD14 on monocytes, is partly regulated by pro- and anti-inflammatory mediators. In this observational study, we aimed to explore whether the expression of these receptors could be used as diagnostic and/or prognostic biomarkers in sepsis. Patients with severe sepsis or septic shock (n = 21) were compared with critically ill non-septic patients (n = 15). Healthy volunteers (n = 15) served as controls. To elucidate variations over time, all patients were followed for 4 days. Cell surface expression of NKG2D, NKp30, TLR4 and CD14 and serum levels of IL-1?, IL-6, IFN-?, TNF-α, IL-4 and IL-10 was estimated by flow cytometry. We found that NK cell expression of NKG2D and monocyte expression of CD14 were lower in the septic patients compared with the non-septic patients, both at ICU admission and during the observation period (P < 0.01 for all comparisons). Both at ICU admission, and during the observation period, levels of IL-6 and IL-10 were higher in the septic patients compared with the non-septic patients (P < 0.001 for all comparisons). Conclusion: As both NKG2D and CD14 levels appear to distinguish between septic and non-septic patients, both NKG2D and CD14 may be considered potential diagnostic biomarkers of severe sepsis and septic shock.
+ER  - 

@@ -1,0 +1,402 @@
+
+TY  - JOUR
+AU  - Woosley, J.
+TI  - A Virtual Microscopy Image Database for Dermatopathology Education.
+JO  - Journal of Cutaneous Pathology
+VL  - 32
+IS  - 1
+SN  - 0303-6987
+UR  - https://doi.org/10.1111/j.0303-6987.2005.320hu.x
+DO  - doi:10.1111/j.0303-6987.2005.320hu.x
+SP  - 121
+EP  - 122
+PY  - 2005
+AB  - A comprehensive collection of high quality histologic slides is essential for education of pathology and dermatology trainees in dermatopathology. However, maintenance of the quality of the teaching slide collection is constantly challenged by slide loss, breakage, and stain fading. Recut replacement slides are not always easily attainable. When they are, the most important diagnostic features may not be as well represented in recuts. The ScanScope (Aperio Technologies) virtual microscopy instrument and software have been used to create a dermatopathology image database. Histologic sections on glass microscope slides are scanned at X20 to obtain a high-resolution digital image of the entire section (virtual slides). This magnification is optimal for demonstrating most cutaneous pathologic processes, where low or intermediate power pattern recognition is of primary diagnostic importance. Images can be viewed with the ImageScope virtual slide viewing software. The software is intuitive to use and closely mimics viewing of a slide at the microscope. Virtual slide image quality is equivalent to that seen at the microscope. Unique teaching slides can be reproduced in unlimited quantities and slides are never lost, broken, or misfiled. Internet, intranet, or DVD access permits continuous availability of a teaching slide collection to trainees.
+ER  - 
+
+AU  - Garvey, Erin M.
+AU  - Egan, J. Craig
+C7  - pp. 227-238
+TI  - Pediatric Critical Care
+SN  - 9781119317920
+UR  - https://doi.org/10.1002/9781119317913.ch24
+DO  - doi:10.1002/9781119317913.ch24
+SP  - 227-238
+KW  - acute respiratory distress syndrome
+KW  - nosocomial infections
+KW  - packed red blood cells
+KW  - pediatric critical care
+KW  - pediatric intensivists
+KW  - pediatric trauma patient
+PY  - 2005
+AB  - Summary This is a unique question-and-answer chapter for surgical residents and trainees, concentrating on the pediatric critical care. The Transfusion Requirements in Pediatric Intensive Care Units study randomized to either transfusion threshold 9.5?g/dL or 7?g/dL using leukocyte-reduced packed red blood cells (PRBC). Deaths, Multiple organ dysfunction syndrome (MODS), adverse events, ventilator days, and nosocomial infections were not significantly different in the two groups. When split into subgroups of pediatric cardiac surgery patients and pediatric general surgery patients, the restrictive PRBC transfusion strategy showed no increase in MODS. PRBC transfusions appear to be independently linked to increased risk of morbidity and mortality in critically ill pediatric patients. Pediatric intensivists have recognized that acute respiratory distress syndrome (ARDS) in children is different from ARDS in adults. Recurrent hypotension in a pediatric trauma patient occurs late and may be an ominous sign.
+ER  - 
+
+TY  - JOUR
+AU  - Nyska, Abraham
+AU  - Schiffenbauer, Yael S.
+AU  - Brami, Catherine T.
+AU  - Maronpot, Robert R.
+AU  - Ramot, Yuval
+C8  - PAT-13-425.R1
+TI  - Histopathology of biodegradable polymers: challenges in interpretation and the use of a novel compact MRI for biocompatibility evaluation
+JO  - Polymers for Advanced Technologies
+JA  - Polym. Adv. Technol.
+VL  - 25
+IS  - 5
+SN  - 9781119317920
+UR  - https://doi.org/10.1002/pat.3238
+DO  - doi:10.1002/pat.3238
+SP  - 461
+EP  - 467
+KW  - toxicologic pathology
+KW  - histopathology
+KW  - MRI
+KW  - safety assessment
+PY  - 2014
+AB  - Toxicologic pathology is the art of assessment of potential adverse effects at the tissue level in pre-clinical studies. In the case of biomaterials and medical devices, the toxicologic pathologists assess the safety (biocompatibility) and efficacy (conditions of the use) of the implantable materials. Proper assessment of biocompatibility of biomaterials is of utmost importance, since it helps to determine their safety after implantation in humans. Biomaterial-related toxicity can be attributed to several factors, including for example leachable compounds from the material leading to thrombosis or carcinogenesis, or biodegradation of the material causing changes in its physical and compatibility properties. Evaluation of biocompatibility and biofunctionality involves assessment of cytotoxicity, allergic responses, irritation, inflammation and systemic and chronic toxicity. In many of these assessments, the toxicologic pathologist has an important role in determining product safety and potential toxicity. In this article, we review the special needs for proper toxicologic pathology assessment of biomaterials and degradable polymers. We review common adverse effects expected with biomaterials and describe their pathological picture and their clinical relevance. We also introduce a novel compact MR imaging technology as a tool for assessing biocompatibility and efficacy of implanted biodegradable materials, since it allows for the longitudinal imaging and quantification of inflammation in vivo caused by the device implantation, and enabling general inspection of shape, location and integrity of the device in vivo. Since the MR imaging technique is non-invasive, the effects of the implantable device can be monitored longitudinally in the same animal without perturbation of the pathology. Copyright ? 2014 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - Update on Traumatic Injury to the Brain and Spinal Cord
+JO  - Brain Pathology
+VL  - 5
+IS  - 4
+SN  - 9781119317920
+UR  - https://doi.org/10.1111/j.1750-3639.1995.tb00617.x
+DO  - doi:10.1111/j.1750-3639.1995.tb00617.x
+SP  - 395
+EP  - 396
+PY  - 1995
+ER  - 
+
+AU  - Diluna, Michael L.
+AU  - Amar, Arun Paul
+C7  - pp. 188-201
+TI  - Traumatic Vascular Injury to the Cervical Spine
+SN  - 9781405122061
+UR  - https://doi.org/10.1002/9780470753163.ch12
+DO  - doi:10.1002/9780470753163.ch12
+SP  - 188-201
+KW  - vascular injury
+KW  - cervical spine
+KW  - vasculature
+KW  - thromboembolic phenomena.
+KW  - kinetic energy
+PY  - 1995
+AB  - Summary This chapter contains section titled: Introduction Penetrating traumatic injury to the arteries of the neck Blunt traumatic injury to the arteries of the neck Iatrogenic injury to the cervical arteries Conclusions
+ER  - 
+
+TY  - JOUR
+AU  - Wu, Miaozong
+AU  - Falasca, Marco
+AU  - Blough, Eric R.
+TI  - Akt/protein kinase B in skeletal muscle physiology and pathology
+JO  - Journal of Cellular Physiology
+JA  - J. Cell. Physiol.
+VL  - 226
+IS  - 1
+SN  - 9781405122061
+UR  - https://doi.org/10.1002/jcp.22353
+DO  - doi:10.1002/jcp.22353
+SP  - 29
+EP  - 36
+PY  - 2011
+AB  - Abstract The Akt/protein kinase B is critical regulator of cellular homeostasis with diminished Akt activity being associated with dysregulation of cellular metabolism and cell death while Akt over-activation has been linked to inappropriate cell growth and proliferation. Although the regulation of Akt function has been well characterized in vitro, much less is known regarding the function of Akt in vivo. Here we examine how skeletal muscle Akt expression and enzymatic activity are controlled, the role of Akt in the regulation of skeletal muscle contraction, stress response glucose utilization, and protein metabolism, and the potential participation of this important molecule in skeletal muscle atrophy, aging, and cancer. J. Cell. Physiol. 226: 29?36, 2010. ? 2010 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Leeper, H.
+AU  - Viall, A.
+AU  - Ruaux, C.
+AU  - Bracha, S.
+TI  - Preliminary evaluation of serum total cholesterol concentrations in dogs with osteosarcoma
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 58
+IS  - 10
+SN  - 9781405122061
+UR  - https://doi.org/10.1111/jsap.12702
+DO  - doi:10.1111/jsap.12702
+SP  - 562
+EP  - 569
+PY  - 2017
+AB  - Objectives To determine if total serum cholesterol concentrations were altered in dogs with osteosarcoma. To evaluate association of total serum cholesterol concentration with clinical outcomes in dogs with appendicular osteosarcoma. Materials and Methods Retrospective, multi-institutional study on 64 dogs with osteosarcoma. Control population consisted of dogs with traumatic bone fractures (n=30) and healthy patients of similar age and weight as those of the osteosarcoma cases (n=31). Survival analysis was done on 35 appendicular osteosarcoma patients that received the current standard of care. Statistical associations were assessed by univariable and multi-variable analysis. Information about age, sex, primary tumour location, total cholesterol concentration, monocytes and lymphocyte counts and alkaline phosphatase were also included. Results Total cholesterol was elevated above the reference interval (3·89 to 7·12?mmol/L) (150 to 275?mg/dL) in 29 of 64 (45·3%) osteosarcoma-bearing dogs, whereas similar elevations were found in only 3 of 30 (10%) fracture controls (P<0·0001) and 2 of 31 (6·5%) similar age/weight controls (P=0·0002). Elevated total cholesterol was significantly associated with a reduced hazard ratio (0·27, P=0·008) for overall mortality in dogs with osteosarcoma. Clinical Significance These results suggest that elevated total cholesterol is associated with canine osteosarcoma and may have prognostic significance.
+ER  - 
+
+TY  - JOUR
+AU  - Pagoto, Sherry L.
+AU  - Schneider, Kristin L.
+AU  - Bodenlos, Jamie S.
+AU  - Appelhans, Bradley M.
+AU  - Whited, Matthew C.
+AU  - Ma, Yunsheng
+AU  - Lemon, Stephenie C.
+TI  - Association of Post-Traumatic Stress Disorder and Obesity in a Nationally Representative Sample
+JO  - Obesity
+VL  - 20
+IS  - 1
+SN  - 9781405122061
+UR  - https://doi.org/10.1038/oby.2011.318
+DO  - doi:10.1038/oby.2011.318
+SP  - 200
+EP  - 205
+PY  - 2012
+AB  - Recent studies suggest a possible link between post-traumatic stress disorder (PTSD) and obesity risk, which would have implications for the development of obesity-related diseases in this population. The present study examined the association between PTSD and obesity and whether this association differed by sex in a representative sample of the US population. A secondary objective was to determine whether the association between PTSD and obesity was mediated by binge eating disorder (BED). Data were from the Collaborative Psychiatric Epidemiology Surveys (CPES), which comprises three nationally representative cross-sectional surveys that were conducted between 2001 and 2003. Logistic regression analyses weighted to represent the general US adult population were performed. In the total sample of 20,013 participants, rates of obesity were 24.1% for persons without a lifetime history of PTSD and 32.6% among persons with PTSD in the past year. Adjusting for socio-demographic characteristics, depression, substance and alcohol abuse/dependence, and psychotropic medication status, past year PTSD was associated with greater likelihood of obesity (odds ratio (OR) = 1.51; 95% confidence interval (CI) = 1.18, 1.95), with no differences by gender. BED did not statistically mediate the relationship between PTSD and obesity. The present study provides support for a link between PTSD and obesity. Findings further existing literature by indicating that the association is consistent across sexes and is not statistically mediated by BED.
+ER  - 
+
+TY  - JOUR
+AU  - Martinez, Augusto Julio
+AU  - Visvesvara, Govinda S.
+TI  - Free-living, Amphizoic and Opportunistic Amebas
+JO  - Brain Pathology
+VL  - 7
+IS  - 1
+SN  - 9781405122061
+UR  - https://doi.org/10.1111/j.1750-3639.1997.tb01076.x
+DO  - doi:10.1111/j.1750-3639.1997.tb01076.x
+SP  - 583
+EP  - 598
+PY  - 1997
+AB  - Amebas belonging to the genera Naegleria, Acanthamoeba and Balamuthia are free-living, amphizoic and opportunistic protozoa that are ubiquitous in nature. These amebas are found in soil, water and air samples from all over the world. Human infection due to these amebas involving brain, skin, lung and eyes has increased significantly during the last 10 years. The epidemiology, immunology, protozoology, pathology, and clinical features of the infections produced by these protozoa differ strikingly. Infection by the pathogenic Naegleria fowleri is acquired by exposure to polluted water in ponds, swimming pools and man-made lakes. Raised temperatures during the hot summer months or warm water from power plants facilitate the growth of N. fowleri. N. fowleri is a thermophilic ameba that grows well in tropical and subtropical climates. The CNS infection, called Primary Amebic Meningoencephalitis (PAM), produced by N. fowleri is characterized by an acute fulminant meningoencephalitis leading to death 3?7 days after exposure. Victims are healthy, young individuals with a history of recent water-related sport activities. The portal of entry is the olfactory neuroepithelium. The pathologic changes are an acute hemorrhagic necrotizing meningoencephalitis with modest purulent exudate, mainly at the base of the brain, brainstem and cerebellum. Trophozoites can be seen within the CNS lesions located mainly around blood vessels. Thus far 179 cases have been reported; 81 in the USA alone. Balamuthia mandrillaris and several species of Acanthamoeba are pathogenic ?opportunistic? free-living amebas which cause Granulomatous Amebic Encephalitis (GAE) in humans and animals. GAE is an infection, usually seen in debilitated, malnourished individuals, in patients undergoing immunosuppressive therapy for organ transplants and in Acquired Immunodeficiency Syndrome (AIDS). The granulomatous component is negligible, particularly in immunocompromised individuals. Pathologically these amebas produce a patchy, chronic or subacute granulomatous encephalitis with the presence of trophozoites and cysts. The portal of entry is probably through the respiratory tract or an ulceration of the skin reaching the CNS by hematogenous spread. As of October 1, 1996, 166 cases 1103 due to Acanthamoeba and 63 due to Balamothial of GAE have been reported from around the world. Of these 103 cases due to Acanthamoeba (72 have been reported in the USA alone, > 50 in AIDS). It is well known that several species of Acanthamoeba can also produce, chronic sight threatening ulceration of the cornea called Acanthamoeba keratitis (AK), mostly in contact lens wearers or in individuals with minor corneal abrasions. Hundreds of cases of AK have been documented world wide.
+ER  - 
+
+TY  - JOUR
+AU  - Liu, Sheena Xin
+AU  - Kender, John
+AU  - Imielinska, Celina
+AU  - Laine, Andrew
+TI  - Employing Symmetry Features for Automatic Misalignment Correction in Neuroimages
+JO  - Journal of Neuroimaging
+VL  - 21
+IS  - 2
+SN  - 9781405122061
+UR  - https://doi.org/10.1111/j.1552-6569.2011.00576.x
+DO  - doi:10.1111/j.1552-6569.2011.00576.x
+SP  - e15
+EP  - e33
+KW  - Magnetic resonance imaging
+KW  - brain symmetry
+KW  - mid-sagittal plane
+KW  - pathological asymmetry
+KW  - misalignment correction
+PY  - 2011
+AB  - ABSTRACT A novel method to automatically compute the symmetry plane and to correct the 3D orientation of neuro-images is presented. In acquisition of neuroimaging scans, the lack of perfect alignment of a patient's head makes it challenging to evaluate brain images. By deploying a shape-based criterion, the symmetry plane is defined as a plane that best matches external surface points on one side of the head, with their counterparts on the other side. In our method, the head volume is represented as a re-parameterized surface point cloud, where each location is parameterized by its elevation (latitude), azimuth (longitude), and radius. The search for the best matching surfaces is implemented in a multi-resolution paradigm, and the computation time is significantly decreased. The algorithm was quantitatively evaluated using in both simulated data and in real T1, T2, Flair magnetic resonance patient images. This algorithm is found to be fast (<10s per MR volume), robust and accurate (<.6 degree of Mean Angular Error), invariant to the acquisition noise, slice thickness, bias field, and pathological asymmetries.
+ER  - 
+
+TY  - JOUR
+AU  - Sato, Yukio
+AU  - Kujirai, Dai
+AU  - Emoto, Katsura
+AU  - Yagami, Toshiaki
+AU  - Yamada, Taketo
+AU  - Izumi, Manabu
+AU  - Ano, Masaki
+AU  - Kase, Kenichi
+AU  - Kobayashi, Kenji
+TI  - Necrotizing enterocolitis associated with Clostridium butyricum in a Japanese man
+JO  - Acute Medicine & Surgery
+JA  - Acute Med Surg
+VL  - 5
+IS  - 2
+SN  - 9781405122061
+UR  - https://doi.org/10.1002/ams2.329
+DO  - doi:10.1002/ams2.329
+SP  - 194
+EP  - 198
+KW  - Adult
+KW  - Asia
+KW  - Clostridium butyricum
+KW  - enterocolitis
+KW  - necrotizing
+PY  - 2018
+AB  - Case Necrotizing enterocolitis (NEC) caused by Clostridium butyricum is common in neonates; however, a case of NEC in adults has not been previously reported. An 84-year-old Japanese man developed C. butyricum-related NEC during hospitalization for treatment of stab wounds to the left side of the neck and lower abdomen, without organ damage, and concomitant pneumonia. Outcome The patient developed acute onset of emesis accompanied by shock during his admission; partial resection of the small intestine was carried out due to necrosis. Pathologic findings showed mucosal necrosis and extensive vacuolation with gram-positive rods in the necrotic small intestine. Blood culture tests revealed C. butyricum infection. The patient's condition improved after the surgery. He was moved to a rehabilitation hospital on day 66. Conclusion This study suggests that hospitalized adult patients who receive antibiotic treatment are at risk for NEC.
+ER  - 
+
+TY  - JOUR
+AU  - GARRIG, C. B.
+AU  - POOL, R. R.
+AU  - McELROY, J. M.
+TI  - Polyostotic cystic bone lesions in a dog
+JO  - Journal of Small Animal Practice
+VL  - 16
+IS  - 1‐12
+SN  - 9781405122061
+UR  - https://doi.org/10.1111/j.1748-5827.1975.tb05776.x
+DO  - doi:10.1111/j.1748-5827.1975.tb05776.x
+SP  - 495
+EP  - 513
+PY  - 1975
+AB  - ABSTRACT The clinical, radiological, and pathological features of a polyostotic cystic bone lesion in a 9-month-old Doberman Pinscher are described. The patient was diagnosed as having nutritional secondary hyperparathyroidism at 6 weeks of age and after dietary correction it remained clinically normal until 9 months when there was sudden left hind-limb lameness due to a pathological fracture through a cystic lesion in the distal femur. Radiography revealed additional cystic structures in the metaphyses of the left radius, and left and right tibia. Pseudofractures were associated with two of the cystic lesions. In some areas the cysts were crossed by trabeculae and in others there were bony ridges on the inner cystic wall. The cavities were lined with flesh-coloured fibrillar material which formed a lacy network extending into cavities. Histologically, multiple small cysts were present adjacent to the larger cavities noted radiographically. The secondary spongiosa and the metaphyseal periosteum were the major abnormal tissue sites. The small cysts appeared to arise in an oedematous and congested metaphyseal spongiosa. The cysts were accompanied by small foci of intense osteoclasis but unattended by compensatory bone production, and the consequent possibility of pseudofractures is an important clinical consideration. Earlier reports demonstrated that resolution of the lesions will follow surgical drainage and curettage of the cystic cavity. Of six cases of polyostotic cystic bone lesions observed in the dog, five were in the Doberman Pinscher breed.
+ER  - 
+
+TY  - JOUR
+AU  - Gallo, V.
+TI  - Colloquium C13: Neural progenitors of the subventricular zone and their role in pathology and repair
+JO  - Journal of Neurochemistry
+VL  - 94
+IS  - s1
+SN  - 9781405122061
+UR  - https://doi.org/10.1111/j.1474-1644.2005.03231_5.x
+DO  - doi:10.1111/j.1474-1644.2005.03231_5.x
+SP  - 118
+EP  - 119
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+AU  - Chalian, Majid
+AU  - Soldatos, Theodoros
+AU  - Faridian-Aragh, Neda
+AU  - Williams, Eric H.
+AU  - Rosson, Gedge D.
+AU  - Eng, John
+AU  - Carrino, John A.
+AU  - Chhabra, Avneesh
+TI  - 3T Magnetic Resonance Neurography of Tibial Nerve Pathologies
+JO  - Journal of Neuroimaging
+VL  - 23
+IS  - 2
+SN  - 9781405122061
+UR  - https://doi.org/10.1111/j.1552-6569.2011.00676.x
+DO  - doi:10.1111/j.1552-6569.2011.00676.x
+SP  - 296
+EP  - 310
+KW  - Tibial nerve
+KW  - tibial neuropathy
+KW  - magnetic resonance neurography
+KW  - magnetic resonance imaging
+PY  - 2013
+AB  - ABSTRACT Diagnosis of tibial neuropathy has been traditionally based on clinical examination and electrodiagnostic studies; however, cross-sectional imaging modalities have been used to increase the diagnostic accuracy and provide anatomic mapping of the abnormalities. In this context, magnetic resonance neurography (MRN) offers high-resolution imaging of the tibial nerve (TN), its branches and the adjacent soft tissues, and provides an objective assessment of the neuromuscular anatomy, abnormality, and the surrounding pathology. This review describes the pathologies affecting the TN and illustrates their respective 3 Tesla (T) MRN appearances with relevant case examples.
+ER  - 
+
+TY  - JOUR
+AU  - Haltigan, John D.
+AU  - Roisman, Glenn I.
+TI  - INFANT ATTACHMENT INSECURITY AND DISSOCIATIVE SYMPTOMATOLOGY: FINDINGS FROM THE NICHD STUDY OF EARLY CHILD CARE AND YOUTH DEVELOPMENT
+JO  - Infant Mental Health Journal
+JA  - Infant Ment. Health J.
+VL  - 36
+IS  - 1
+SN  - 9781405122061
+UR  - https://doi.org/10.1002/imhj.21479
+DO  - doi:10.1002/imhj.21479
+SP  - 30
+EP  - 41
+PY  - 2015
+AB  - ABSTRACT Based on data from the NICHD Study of Early Child Care and Youth Development (N = 1,149), the current article provides the first large-sample investigation of associations between different forms of infant attachment insecurity and dissociative symptomatology from childhood through midadolescence as measured by scales based on the mother, teacher, and youth self-report versions of the Achenbach System of Empirically Based Assessments. Findings did not replicate the previously reported and highly cited evidence that infant attachment disorganization is associated with dissociative symptomatology. In contrast, correlations of small magnitude were observed between infant avoidance and dissociative symptomatology, as assessed by teachers and mothers (but not self-report). Results were not moderated by contextual risk. Limitations of the study included the absence of measures of maltreatment and interpersonal trauma, leaving open the possibility that infant attachment disorganization is a diathesis for later dissociation in the context of severe and/or chronic trauma. Nevertheless, the present results strongly indicate the need for additional research exploring the possible role of environmental factors in the development of dissociative symptomatology.
+ER  - 
+
+TY  - JOUR
+AU  - Mays, S. A.
+TI  - Supra-acetabular cysts in a medieval skeletal population
+JO  - International Journal of Osteoarchaeology
+JA  - Int. J. Osteoarchaeol.
+VL  - 15
+IS  - 4
+SN  - 9781405122061
+UR  - https://doi.org/10.1002/oa.778
+DO  - doi:10.1002/oa.778
+SP  - 233
+EP  - 246
+KW  - palaeopathology
+KW  - Wharram Percy
+KW  - hip joint
+KW  - trauma
+PY  - 2005
+AB  - Abstract This study is an investigation of supra-acetabular cysts in non-arthrotic hips in a large Medieval British skeletal series. Lesions were found to occur in 10% of adult innominates, and were more common in males. Evidence is presented for an aetiology of trauma. Copyright ? 2005 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - CHOONG, R. K. C.
+AU  - GRATTAN-SMITH, T. M.
+AU  - COHEN, R. C.
+AU  - CASS, D. T.
+TI  - Splenic injury in children: A 10 year experience
+JO  - Journal of Paediatrics and Child Health
+VL  - 29
+IS  - 3
+SN  - 9781405122061
+UR  - https://doi.org/10.1111/j.1440-1754.1993.tb00485.x
+DO  - doi:10.1111/j.1440-1754.1993.tb00485.x
+SP  - 192
+EP  - 195
+KW  - childhood trauma
+KW  - splenectomy
+KW  - splenic injury
+PY  - 1993
+AB  - Abstract The aim of this report was to review retrospectively the management of splenic trauma at a major Australian tertiary referral centre (Westmead Hospital) over a 10 year period. Forty-nine patients (0-15 years of age) with documented blunt splenic trauma were identified. The causes of splenic injury were road trauma (73%) and falls (27%). There were 22 minor injuries (Injury severity score [ISS] <16) and 27 severe injuries (ISS ≥16). All nine deaths were related to road trauma (mean ISS = 59). The investigation most commonly used was CT scanning (47%). Peritoneal lavage was performed in six patients (12%). Management involved non-operative care in 29 patients (57%), exploratory laparotomy alone in 5 (10%), splenic salvage in 2 (4%) and splenectomy in 13 (26%). This experience supports the view that non-operative management of splenic injury in haemodynamically stable children is safe and is the preferred treatment. Experienced assessment and meticulous observation is necessary. Laparotomy is indicated if there is continuing haemodynamic instability despite resuscitation. Operative management is aimed at splenic salvage with splenectomy being reserved for uncontrolled haemorrhage.
+ER  - 
+
+TY  - JOUR
+AU  - Bas, Esperanza
+AU  - Dinh, Christine T.
+AU  - Garnham, Carolyn
+AU  - Polak, Marek
+AU  - Van de Water, Thomas R.
+TI  - Conservation of hearing and protection of hair cells in cochlear implant patients' with residual hearing
+JO  - The Anatomical Record
+JA  - Anat Rec
+VL  - 295
+IS  - 11
+SN  - 9781405122061
+UR  - https://doi.org/10.1002/ar.22574
+DO  - doi:10.1002/ar.22574
+SP  - 1909
+EP  - 1927
+KW  - cochlear implantation
+KW  - trauma
+KW  - oxidative stress
+KW  - inflammation
+KW  - programmed cell death
+KW  - hearing conservation
+KW  - hair cell protection
+KW  - otoprotective drugs
+PY  - 2012
+AB  - Abstract This review covers the molecular mechanisms involved in hair cell and hearing losses which can result from trauma generated during the process of cochlear implantation and the contributions of both the intrinsic and extrinsic cell death signaling pathways in producing these trauma/inflammation induced losses. Application of soft surgical techniques to conserve hearing and protect auditory sensory cells during the process of cochlear implantation surgery and insertion of the electrode array during the process of cochlear implantation are reviewed and discussed. The role of drug therapy and mode of drug delivery for the conservation of a cochlear implant patient's residual hearing is presented and discussed. Anat Rec, 2012. ? 2012 Wiley Periodicals, Inc.
+ER  - 
+
+AU  - Tichil, Ioana
+AU  - Cleland, Heather
+C7  - pp. 443-454
+TI  - Burns
+SN  - 9781119468080
+UR  - https://doi.org/10.1002/9781119468189.ch49
+DO  - doi:10.1002/9781119468189.ch49
+SP  - 443-454
+KW  - burn injury
+KW  - emergency management
+KW  - trauma
+KW  - inhalation injury
+KW  - critical care
+KW  - surgery
+KW  - skin graft
+KW  - skin substitute
+PY  - 2012
+AB  - Summary Burns are classified by cause and mechanism, as well as by extent (expressed as percentage of total body surface area or TBSA) and depth. Inhalation injury is caused by inhalation of toxic products of combustion or chemical powders and vapours. Its presence is associated with a worse prognosis for a given extent of cutaneous injury. Timely initiation of appropriate first aid (20 minutes of cool running water for thermal injuries) minimises the extent of tissue damage. Extensive burns constitute major trauma and may be associated with multi-trauma. Patients with major burns require primary and secondary survey, and active resuscitation according to a formula related to size of burn. Burn wounds evolve and require regular review and appropriate dressings. Deep circumferential burns may require escharotomy. Extensive burns are associated with systemic effects, which are a manifestation of a systemic inflammatory response that involves all organs and necessitates provision of critical and multidisciplinary care. Surgical management of extensive burns entails early excision of all necrotic tissue, temporisation of the wound with skin substitutes, and timely grafting according to an established algorithm.
+ER  - 
+
+TY  - JOUR
+AU  - Carter, Andrew J.
+AU  - Lee, David P.
+AU  - Suzuki, Takeshi
+AU  - Bailey, Lynn
+AU  - Lansky, Alexandra
+AU  - Jones, Russ
+AU  - Virmani, Renu
+TI  - Experimental evaluation of a short transitional edge protection balloon for intracoronary stent deployment
+JO  - Catheterization and Cardiovascular Interventions
+JA  - Cathet. Cardiovasc. Intervent.
+VL  - 51
+IS  - 1
+SN  - 9781119468080
+UR  - https://doi.org/10.1002/1522-726X(200009)51:1<112::AID-CCD26>3.0.CO;2-H
+DO  - doi:10.1002/1522-726X(200009)51:1<112::AID-CCD26>3.0.CO;2-H
+SP  - 112
+EP  - 119
+KW  - stents
+KW  - restenosis
+KW  - arterial injury
+PY  - 2000
+AB  - Abstract The purpose of this study was to determine if balloon injury to the adjacent arterial wall during intracoronary stent deployment influences late in-stent neointimal formation. Stent design and deployment techniques are considered important factors in determining acute and long-term success with intracoronary stenting. Experimental and clinical studies support that the extent of neointimal formation and the probability for restenosis are influenced by the magnitude of arterial trauma induced with stenting. Nineteen 18-mm-long balloon-expandable stainless steel stents (MULTI-LINK Duet) were implanted at a 1:1 stent-to-artery ratio in the coronary arteries of swine with a conventional noncompliant balloon (n = 10) or a novel noncompliant balloon with short tapered shoulders to prevent edge dissection (n = 9). Quantitative coronary angiography and histology were used to evaluate balloon and artery interactions and the chronic vascular responses to the stents. Nineteen stents were implanted in the coronary arteries of seven swines at an inflation pressure of 14 atm using a standard noncompliant (n = 10) or a unique short transitional edge protection (n = 9) balloon. Histologic analysis at 28 days demonstrated balloon-associated barotrauma in 13 of 20 (65%) of adjacent nonstented arterial segments with the conventional balloon and only 3 of 18 (17%) of the adjacent nonstented arterial segments with the short transition edge protection balloon (P = 0.022). In-stent neointimal area and % stenosis correlated with the severity of peristent arterial injury (r = 0.43, P = 0.01). In-stent vessel injury scores were similar for stents with peristent injury (1.0 ± 0.3) versus stents without peristent injury (1.0 ± 0.03, P = 0.73). In-stent neointimal area and % stenosis were greater for stents with peristent injury (2.36 ± 0.74 mm2, 32% ± 9%) as compared to stents without peristent injury (1.39 ± 0.70 mm2, 20% ± 10%, P = 0.01). Arterial wall injury adjacent to a stent after high-pressure deployment contributes to late in-stent neointimal hyperplasia in this model. These experimental data suggest that further study is warranted to refine stent implantation techniques and that modifications of balloon shape or material may be useful to optimize stent deployment and reduce arterial trauma. Cathet. Cardiovasc. Intervent. 51:112?119, 2000. ? 2000 Wiley-Liss, Inc.
+ER  - 

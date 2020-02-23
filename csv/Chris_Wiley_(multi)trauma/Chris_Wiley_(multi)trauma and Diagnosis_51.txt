@@ -1,0 +1,456 @@
+
+TY  - JOUR
+AU  - Whitbeck, Les B.
+AU  - Armenta, Brian E.
+AU  - Gentzler, Kari C.
+TI  - Homelessness-Related Traumatic Events and PTSD Among Women Experiencing Episodes of Homelessness in Three U.S. Cities
+JO  - Journal of Traumatic Stress
+JA  - JOURNAL OF TRAUMATIC STRESS
+VL  - 28
+IS  - 4
+SN  - 0894-9867
+UR  - https://doi.org/10.1002/jts.22024
+DO  - doi:10.1002/jts.22024
+SP  - 355
+EP  - 360
+PY  - 2015
+AB  - Abstract In this article, we report the prevalence of traumatic events (TEs), lifetime and 12-month posttraumatic stress disorder (PTSD) among 148 women experiencing homelessness in 3 midsized cities in the United States (Omaha, NE, Pittsburgh, PA, and Portland, OR). The women ranged in age from 19 to 54 years with an average age of 38.89 years (SD = 10.18). The sample was 42.6% White/European American. We investigated the mediation of distal TEs (i.e., childhood maltreatment) by more proximal TEs associated with being homeless (i.e., homelessness-related stressors) for meeting diagnostic criteria for 12-month PTSD. Results indicated that 42.6% of the women met criteria for lifetime PTSD and 39.7% met criteria for past-year PTSD. The number of TEs reported ranged from 0 to 16 in order of prevalence with a median of 6 TEs. The correlations between childhood maltreatment and 12-month PTSD ranged from .16 to .20 and the correlations between homelessness-related stressors and 12-month PTSD ranged from .21 to .30. The mediation analysis was consistent with the association between childhood maltreatment and past-year PTSD being fully mediated by homelessness-related trauma.
+ER  - 
+
+TY  - JOUR
+AU  - Clayton, Anita H.
+AU  - Goldfischer, Evan R.
+AU  - Goldstein, Irwin
+AU  - DeRogatis, Leonard
+AU  - Lewis-D'Agostino, Diane J.
+AU  - Pyke, Robert
+TI  - Validation of the Decreased Sexual Desire Screener (DSDS): A Brief Diagnostic Instrument for Generalized Acquired Female Hypoactive Sexual Desire Disorder (HSDD)
+JO  - The Journal of Sexual Medicine
+VL  - 6
+IS  - 3
+SN  - 1743-6095
+UR  - https://doi.org/10.1111/j.1743-6109.2008.01153.x
+DO  - doi:10.1111/j.1743-6109.2008.01153.x
+SP  - 730
+EP  - 738
+KW  - Hypoactive Sexual Desire Disorder
+KW  - Decreased Sexual Desire Screener
+KW  - Brief Diagnostic Instrument
+KW  - Non-treatment Study
+PY  - 2009
+AB  - ABSTRACT Introduction.? An accurate diagnosis of Hypoactive Sexual Desire Disorder (HSDD) currently relies on a time-consuming interview with an expert clinician. Limited access to such expertise means that many women with HSDD remain undiagnosed. The Decreased Sexual Desire Screener (DSDS) was developed to provide clinicians who are neither trained nor specialized in Female Sexual Dysfunction (FSD) with a brief diagnostic procedure for the diagnosis of generalized acquired HSDD in women. Methods.? A prospective non-treatment multicenter study enrolled 263 women at 27 centers in North America in order to test the validity of the DSDS for diagnosing generalized acquired HSDD in women. Subjects completed the DSDS at the screening visit and their answers were reviewed with a clinician who was not an expert in FSD (?non-expert clinician?). Separately and while being unaware of the non-expert clinician's diagnosis, an expert clinician conducted a standard diagnostic interview. Main Outcome Measures.? Diagnostic outcomes (generalized acquired HSDD or not) were compared. Primary endpoints included the sensitivity and specificity of the DSDS relative to the standard diagnostic interview. Subject and non-expert clinician debriefing were obtained via a written, structured interview. This ensured that a large sample could be tested under uniform conditions across multiple sites. Results.? Diagnostic assessment by DSDS and standard diagnostic interview were in agreement in 85.2% (224/263) of cases, with the sensitivity and specificity of the DSDS 83.6% and 87.8%, respectively. Debriefing showed that the five DSDS questions were well understood by 85.4% (76/89) of subjects included in the debriefing exercise, while non-expert clinicians considered the DSDS questions adequate to diagnose HSDD in 92.9% (235/253) of cases. Conclusions.? The DSDS is a sensitive and specific brief diagnostic instrument for generalized acquired HSDD in women that is quick and easy to use. Clayton AH, Goldfischer ER, Goldstein I, DeRogatis L, Lewis-D'Agostino DJ, and Pyke R. Validation of the Decreased Sexual Desire Screener (DSDS): A brief diagnostic instrument for generalized acquired female Hypoactive Sexual Desire Disorder (HSDD). J Sex Med 2009;6:730?738.
+ER  - 
+
+TY  - JOUR
+AU  - Callot, Virginie
+AU  - Duhamel, Guillaume
+AU  - Cozzone, Patrick J.
+AU  - Kober, Frank
+TI  - Short-scan-time multi-slice diffusion MRI of the mouse cervical spinal cord using echo planar imaging
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 21
+IS  - 8
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.1274
+DO  - doi:10.1002/nbm.1274
+SP  - 868
+EP  - 877
+KW  - mouse
+KW  - spinal cord
+KW  - MRI
+KW  - echo planar imaging
+KW  - diffusion
+KW  - high field
+KW  - fiber tracking
+PY  - 2008
+AB  - Abstract Mouse spinal cord (SC) diffusion-weighted imaging (DWI) provides important information on tissue morphology and structural changes that may occur during pathologies such as multiple sclerosis or SC injury. The acquisition scheme of the commonly used DWI techniques is based on conventional spin-echo encoding, which is time-consuming. The purpose of this work was to investigate whether the use of echo planar imaging (EPI) would provide good-quality diffusion MR images of mouse SC, as well as accurate measurements of diffusion-derived metrics, and thus enable diffusion tensor imaging (DTI) and highly resolved DWI within reasonable scan times. A four-shot diffusion-weighted spin-echo EPI (SE-EPI) sequence was evaluated at 11.75?T on a group of healthy mice (n?=?10). SE-EPI-derived apparent diffusion coefficients of gray and white matter were compared with those obtained using a conventional spin-echo sequence (c-SE) to validate the accuracy of the method. To take advantage of the reduction in acquisition time offered by the EPI sequence, multi-slice DTI acquisitions were performed covering the cervical segments (six slices, six diffusion-encoding directions, three b values) within 30?min (vs 2?h for c-SE). From these measurements, fractional anisotropy and mean diffusivities were calculated, and fiber tracking along the C1 to C6 cervical segments was performed. In addition, high-resolution images (74???94?µm2) were acquired within 5?min per direction. Clear delineation of gray and white matter and identical apparent diffusion coefficient values were obtained, with a threefold reduction in acquisition time compared with c-SE. While overcoming the difficulties associated with high spatially and temporally resolved DTI measurements, the present SE-EPI approach permitted identification of reliable quantitative parameters with a reproducibility compatible with the detection of pathologies. The SE-EPI method may be particularly valuable when multiple sets of images from the SC are needed, in cases of rapidly evolving conditions, to decrease the duration of anesthesia or to improve MR exploration by including additional MR measurements. Copyright ? 2008 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - BLANK, RAINER
+AU  - SMITS-ENGELSMAN, BOUWIEN
+AU  - POLATAJKO, HELENE
+AU  - WILSON, PETER
+TI  - European Academy for Childhood Disability (EACD): Recommendations on the definition, diagnosis and intervention of developmental coordination disorder (long version)*
+JO  - Developmental Medicine & Child Neurology
+VL  - 54
+IS  - 1
+SN  - 0012-1622
+UR  - https://doi.org/10.1111/j.1469-8749.2011.04171.x
+DO  - doi:10.1111/j.1469-8749.2011.04171.x
+SP  - 54
+EP  - 93
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+AU  - Bauer, Mark S.
+AU  - Lee, Austin
+AU  - Li, Mingfei
+AU  - Bajor, Laura
+AU  - Rasmusson, Ann
+AU  - Kazis, Lewis E.
+TI  - Off-label use of second generation antipsychotics for post-traumatic stress disorder in the Department of Veterans Affairs: time trends and sociodemographic, comorbidity, and regional correlates
+JO  - Pharmacoepidemiology and Drug Safety
+JA  - Pharmacoepidemiol Drug Saf
+VL  - 23
+IS  - 1
+SN  - 1053-8569
+UR  - https://doi.org/10.1002/pds.3507
+DO  - doi:10.1002/pds.3507
+SP  - 77
+EP  - 86
+KW  - antipsychotics
+KW  - post-traumatic stress disorder
+KW  - diffusion of innovations
+KW  - pharmacoepidemiology
+PY  - 2014
+AB  - ABSTRACT Purpose Second generation antipsychotics (SGAs) are widely used for post-traumatic stress disorder (PTSD), although without strong evidence base. With substantial numbers of veterans returning from Iraq/Afghanistan conflicts with PTSD, it is important to characterize the extent of SGA use and identify associated factors. Methods We determined time trends and patient characteristics associated with the use of SGAs in veterans with PTSD, without comorbid schizophrenia or bipolar disorders, using the Department of Veterans Affairs national administrative data 2003?2010. Results Among 732?085 veterans with PTSD, 27.6% received an intentional trial of an SGA in 2003?2010. The annual number treated with SGAs almost doubled (45?268 to 84?197, p?<?0.001), while prescribing rates decreased (28.6% to 21.5%, p?<?0.001). In multivariate analyses, African Americans (odds ratio (OR)?=?1.07, 95%confidence interval (CI)?=?1.06?1.09) and Hispanics (OR?= 1.13, 95%CI?=?1.10?1.17) were more likely to receive SGAs than Whites. Strongest clinical associations were with prior diagnosis of depression (OR?=?1.96; 95%CI?=?1.94?1.99), substance use disorders (OR?=?1.86; 95%CI?=?1.84?1.88), and other anxiety disorders (OR?=?1.27; 95%CI?=?1.26?1.29) (all p???<?0.0001) as well as cardiovascular risk factors. Veterans previously deployed to Iraq/Afghanistan had lower likelihood of SGA receipt. Substantial regional differences were demonstrated (South?>?Northeast; Midwest and West?<?Northeast; p?<?0.0001); regional administrative units (veterans integrated service networks) contributed minimally to regional differences. Conclusions Post-traumatic stress disorder population growth is driving substantial increases in SGA use. Decreasing rates of the Department of Veterans Affairs prescribing may be due to integrated system-wide mechanisms (e.g., national practice guidelines), although regional variations remain prominent. These analyses provide foundational steps for identifying modifiable provider-level and organization-level determinants of SGA prescription in this growing population. Published 2013. This article is a U.S. Government work and is in the public domain in the USA.
+ER  - 
+
+TY  - JOUR
+AU  - Robson, Flavia
+AU  - Ramos-Jorge, Maria Letícia
+AU  - Bendo, Cristiane Baccin
+AU  - Vale, Miriam Pimenta
+AU  - Paiva, Saul Martins
+AU  - Pordeus,  Isabela Almeida
+TI  - Prevalence and determining factors of traumatic injuries to primary teeth in preschool children
+JO  - Dental Traumatology
+VL  - 25
+IS  - 1
+SN  - 1600-4469
+UR  - https://doi.org/10.1111/j.1600-9657.2008.00725.x
+DO  - doi:10.1111/j.1600-9657.2008.00725.x
+SP  - 118
+EP  - 122
+PY  - 2009
+AB  - Abstract??? The objective of the study was to assess the prevalence of dental injuries and the influence of determining factors in preschool children from Belo Horizonte, Brazil. A cross-sectional survey was carried out through clinical examinations and the application of a questionnaire to the parents of 419 children aged 0 to 5?years attending preschool. The sample was stratified by region, type of institution and age. The eighteen preschools visited were chosen randomly. The prevalence of traumatic injury to primary teeth was 39.1%. Enamel fractures were the most common traumatic injury (49.7%). Boys were 1.62 times more likely to have dental injuries than girls. Children with inadequate lip coverage were 3.75 times more likely to have a traumatic dental injury than those with adequate lip coverage. Children attending state preschools had nearly two times greater chances of having dental trauma than children attending private preschools. It was concluded that the prevalence of dental injuries in preschool children is high in Belo Horizonte, Brazil and constitutes a public health problem.
+ER  - 
+
+TY  - JOUR
+AU  - MALIK, R
+AU  - KROCKENBERGER, MB
+AU  - O’BRIEN, CR
+AU  - WHITE, JD
+AU  - FOSTER, D
+AU  - TISDALL, PLC
+AU  - GUNEW, M
+AU  - CARR, PD
+AU  - BODELL, L
+AU  - MCCOWAN, C
+AU  - HOWE, J
+AU  - OAKLEY, C
+AU  - GRIFFIN, C
+AU  - WIGNEY, DI
+AU  - MARTIN, P
+AU  - NORRIS, J
+AU  - HUNT, G
+AU  - MITCHELL, DH
+AU  - GILPIN, C
+TI  - Nocardia infections in cats: a retrospective multi-institutional study of 17 cases
+JO  - Australian Veterinary Journal
+VL  - 84
+IS  - 7
+SN  - 0005-0423
+UR  - https://doi.org/10.1111/j.1751-0813.2006.00004.x
+DO  - doi:10.1111/j.1751-0813.2006.00004.x
+SP  - 235
+EP  - 245
+PY  - 2006
+AB  - Objective? To record 17 cases of nocardiosis in cats from eastern Australia and to compare this series with cases previously reported. Design? Retrospective/prospective study. Results? Nocardia spp infections were diagnosed in 17 cats over 14 years from the three eastern states of Australia. There were no isolates from dogs during this period, but one isolate from a koala and two from dairy cows. The majority of cats presented with spreading lesions of the subcutis and skin associated with draining sinus tract(s). Early cutaneous lesions consisted of circumscribed abscesses. Infections spread at a variable rate, generally by extension to adjacent tissues. Lesions were generally located in regions subjected to cat bite or scratch injuries, including limbs, body wall, inguinal panniculus and nasal bridge. In some other cases, lesions were situated on distal extremities. The clinical course was variable, from chronic, indolent, initially localised infections to acute fulminating disease. Of the 17 cats, 14 were domestic crossbreds and three were purebreds. There was a preponderance of male cats (12 castrated, 1 entire young adult, 1 entire kitten). Nine of 17 cats were 10 years or older. Interestingly, the majority of infections were attributable to N nova. Immediate and/or predisposing causes could be identified in all cases, and included: renal transplantation [one cat]; chronic corticosteroid administration [three cats]; catabolic state following chylothorax surgery [one cat]; fight injuries [seven cats]; FIV infections [three of seven cats tested]. Of the 17 cats, three were apparently cured. Four were thought to be cured, but infection recurred after several months. Three cats responded partially but were euthanased, while another was improving when it died of unrelated complications. Two died despite treatment and two were euthanased without an attempt at therapy. For two cats there were either insufficient records or the patient was lost to follow up. Conclusion? Nocardiosis is a rare, serious disease. Currently it is more common in cats than dogs. Nocardial panniculitis may be clinically indistinguishable from the syndrome caused by rapidly growing mycobacteria. Although the prognosis is guarded, patients with localised infections caused by N nova often respond to appropriate therapy. If definitive treatment is delayed because of misdiagnosis, the disease tends to become chronic, extensive and refractory. Insufficient duration of therapy leads to disease recurrence.
+ER  - 
+
+AU  - Syring, Rebecca S.
+C7  - pp. 136-156
+TI  - Traumatic Brain Injury
+SN  - 9780470958315
+UR  - https://doi.org/10.1002/9781118785645.ch7
+DO  - doi:10.1002/9781118785645.ch7
+SP  - 136-156
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+AU  - Mahlangu, Johnny
+AU  - Oldenburg, Johannes
+AU  - Callaghan, Michael U.
+AU  - Shima, Midori
+AU  - Santagostino, Elena
+AU  - Moore, Maggie
+AU  - Recht, Michael
+AU  - Garcia, Claudia
+AU  - Yang, Renchi
+AU  - Lehle, Michaela
+AU  - Macharia, Harrison
+AU  - Asikanius, Elina
+AU  - Levy, Gallia G.
+AU  - Kruse-Jarres, Rebecca
+TI  - Bleeding events and safety outcomes in persons with haemophilia A with inhibitors: A prospective, multi-centre, non-interventional study
+JO  - Haemophilia
+JA  - Haemophilia
+VL  - 24
+IS  - 6
+SN  - 9780470958315
+UR  - https://doi.org/10.1111/hae.13612
+DO  - doi:10.1111/hae.13612
+SP  - 921
+EP  - 929
+KW  - blood coagulation factor inhibitors
+KW  - factor VIII
+KW  - haemophilia A
+KW  - non-interventional study
+KW  - observational study
+KW  - prospective study
+PY  - 2018
+AB  - Abstract Introduction Prospectively collected, real-world data on bleeds, haemophilic treatment and safety outcomes in persons with haemophilia A (PwHA) with factor VIII (FVIII) inhibitors are limited. A prospective, global, multi-centre, non-interventional study (NIS; NCT02476942) collected detailed real-world data in PwHA treated per local routine clinical practice. Aim To characterize bleeding rates, haemophilic treatment practices, prophylaxis adherence and adverse events (AEs) in adult/adolescent PwHA with inhibitors in the NIS. Methods Participants aged ≥12 years with congenital haemophilia A/documented high-titre FVIII inhibitor history were enrolled. Participants remained on their usual treatment; no interventions were applied. Results Overall, 103 PwHA with inhibitors enrolled, (median [range] age 31 [12-75] years) and were monitored for median (range) 26.0 (4.1-69.6) weeks. In the episodic (n = 75) and prophylactic (n = 28) treatment groups, respectively, 1244 and 325 bleeds were reported, and 528 (42.4%) and 104 (32.0%) were not treated; annualized bleeding rates (ABRs; 95% confidence interval) were 18.6 (15.2-22.8) and 14.9 (10.5-21.2) for treated bleeds, and 32.7 (27.3-39.1) and 25.0 (18.4-34.0) for all bleeds. Coagulation products used included activated prothrombin complex concentrate (aPCC) and/or recombinant activated FVII. Among participants prescribed aPCC prophylaxis, 35.0% adhered to both prescribed frequency of aPCC administration and prescribed dose. Serious AEs of haemarthrosis and muscle haemorrhage were reported; most common AEs were arthralgia, viral upper respiratory tract infection and pyrexia. Conclusions ABRs (treated bleeds and all bleeds) remain high on standard treatment; this prospective NIS demonstrates the need for more effective treatments for PwHA with inhibitors to reduce/prevent bleeds, with potential to improve prophylaxis adherence and further improve outcomes.
+ER  - 
+
+TY  - JOUR
+AU  - Thomas-Peter, Brian A.
+AU  - Jones, Jason
+AU  - Campbell, Stephen
+AU  - Oliver, Caroline
+TI  - Debasement and faking bad on the Millon Clinical Multi-axial Inventory III: An examination of characteristics, circumstances and motives of forensic patients
+JO  - Legal and Criminological Psychology
+VL  - 5
+IS  - 1
+SN  - 9780470958315
+UR  - https://doi.org/10.1348/135532500167985
+DO  - doi:10.1348/135532500167985
+SP  - 71
+EP  - 81
+PY  - 2000
+AB  - Purpose. This article constitutes the first effort to consider debasement employing the Millon Clinical Multi-axial Inventory III (MCMI-III) in a forensic clinical population and incorporating the recommendations of Van Denburg and Choca (1997). It considers the proposition (Rogers, 1990a) that the pathogenic and criminological models of malingering can be rejected in favour of the adaptional model. Methods. A total of 142 MCMI-III profiles were collected over a 17-month period by a forensic psychology service. Of these, 47 had Debasement scale scores greater than 74. From the remaining 75, a group of 47 were randomly selected for comparative purposes. Of the total sample there were 75 males and 19 females, 68 were out-patients and 26 were in-patients, the latter having been detained under the Mental Health Act 1983, applicable to England and Wales. The two groups were compared on personality variables, offending history, presenting problems and referral circumstances. Results. There is tentative support for Rogers (1990a) in that situational variables appear to have a significant impact on debasement as would be predicted by the adaptional model of malingering. However, this was insufficient evidence to reject the pathogenic and criminological models of malingering. Conclusions. It is suggested that a longitudinal study examining the impact of different stages of the mental health or criminal justice system on debasement, and other validity scales, would illuminate the adaptional model further. Factors that influence the inclination to exaggerate psychopathology and which could be manipulated experimentally are also noted. Some speculation about the possible combined use of Debasement and Histrionic, Narcissistic and Compulsive scales in distinguishing between malingerers is offered.
+ER  - 
+
+TY  - JOUR
+AU  - Ozturk, Mesut
+AU  - Polat, Ahmet Veysel
+AU  - Bekci, Tumay
+AU  - Sullu, Yurdanur
+TI  - Angiolipoma of the Breast: Multi-modality Imaging Findings
+JO  - The Breast Journal
+JA  - Breast J
+VL  - 22
+IS  - 6
+SN  - 9780470958315
+UR  - https://doi.org/10.1111/tbj.12667
+DO  - doi:10.1111/tbj.12667
+SP  - 698
+EP  - 700
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+AU  - Ravicini, S.
+AU  - Baines, S. J.
+AU  - Taylor, A.
+AU  - Amores-Fuster, I.
+AU  - Mason, S. L.
+AU  - Treggiari, E.
+TI  - Outcome and prognostic factors in medically treated canine prostatic carcinomas: A multi-institutional study
+JO  - Veterinary and Comparative Oncology
+JA  - Vet Comp Oncol
+VL  - 16
+IS  - 4
+SN  - 9780470958315
+UR  - https://doi.org/10.1111/vco.12400
+DO  - doi:10.1111/vco.12400
+SP  - 450
+EP  - 458
+KW  - chemotherapy
+KW  - dog
+KW  - medical treatment
+KW  - NSAIDs
+KW  - prostatic carcinoma
+PY  - 2018
+AB  - Literature describing medical treatment of canine prostatic carcinoma (PC) is sparse. The aims of this study were to assess outcomes, including time to progression (TTP) and median survival time (MST), of canine PC treated with non-steroidal anti-inflammatory drugs (NSAIDs) and/or chemotherapy, and to identify prognostic factors. Records from 8 institutions were searched for dogs with cytologically or histologically confirmed PC without bladder involvement: 67 dogs were included. Presenting signs were urinary (25), gastrointestinal ([GI], 11) and systemic (3); 16 dogs had GI and urinary signs, 7 dogs had systemic signs with concurrent GI or urinary signs and in 5 dogs the tumour was an incidental finding. Out of 27 dogs, 9 (33%) had positive urine culture. Metastases were identified in 26 dogs to lymph nodes (19), lungs (10), bone (2) and liver (1). Treatment included NSAIDs and chemotherapy (32), NSAIDs alone (31) and chemotherapy alone (4). The overall MST was 82 days (range 9-752) and median TTP was 63 days (range 9-752). Dogs receiving NSAIDs combined with chemotherapy experienced a significantly longer MST (106 vs 51 days; P?=?.035) and TTP (76 vs 44 days; P?=?.02) compared to dogs receiving NSAIDs alone. Intact dogs and those with metastatic disease had significantly shorter MST (31 vs 90 days, P?=?.018 and 49 vs 109 days, P?=?.037, respectively); intact dogs also had significantly shorter TTP (25 vs 63 days, P?=?.0003). This study suggests that a combination of NSAIDs and chemotherapy may improve outcomes in canine PC. Metastatic disease and being entire negatively influenced prognosis.
+ER  - 
+
+TY  - JOUR
+AU  - Glover, Hillel
+AU  - Pelesky, Cathy A.
+AU  - Bruno, Ralph
+AU  - Sette, Richard
+TI  - Post-traumatic stress disorder conflicts in Vietnam combat veterans: A confirmatory factor analytic study
+JO  - Journal of Traumatic Stress
+JA  - J. Traum. Stress
+VL  - 3
+IS  - 4
+SN  - 9780470958315
+UR  - https://doi.org/10.1002/jts.2490030408
+DO  - doi:10.1002/jts.2490030408
+SP  - 573
+EP  - 591
+KW  - post-traumatic stress disorder
+KW  - five factors
+KW  - vulnerability
+KW  - guilt
+KW  - dreams of death/destruction
+KW  - depression
+KW  - rebellion
+PY  - 1990
+AB  - Abstract Three hundred and thirty-nine Vietnam combat veterans with the diagnosis of Post-traumatic Stress Disorder were administered the Vietnam Related Experiences Questionnaire. The items on this questionnaire were constructed to highlight four combat related conflicts postulated to represent the salient symptom clusters within PTSD: fear-anxiety, mistrust, survival guilt, and guilt secondary to aggression. Exploratory factor analysis followed by a confirmatory factor analytic procedure using maximum likelihood estimate demonstrated a five-factor solution: vulnerability, guilt, dreams of death/destruction, depression, and rebelliousness. The factor loadings of the variables and the factor correlations are discussed. Diagnostic features of the questionnaire are highlighted.
+ER  - 
+
+AU  - Mezzich, Juan E.
+AU  - Ruiperez, Maria A.
+C7  - pp. 639-653
+TI  - Culture and Psychiatric Diagnostic Systems
+SN  - 9781118845479
+UR  - https://doi.org/10.1002/9781118753378.ch40
+DO  - doi:10.1002/9781118753378.ch40
+SP  - 639-653
+KW  - health professionals
+KW  - ICD-10
+KW  - International Guidelines for Diagnostic Assessment (IGDA)
+KW  - Person-centered integrative Diagnosis (PID)
+KW  - psychiatric diagnostic systems
+KW  - psychopathology
+PY  - 1990
+AB  - Summary Innovative efforts have been made in the past two decades to introduce cultural considerations in psychiatric diagnostic systems. Most prominent in this respect has been the culture presence in DSM-IV and DSM-5, particularly in terms of cultural considerations for major forms of psychopathology, cultural concepts of distress, and a cultural formulation. Less substantial concerning culture has been the International Classification of Diseases, 10th revision (ICD-10) classification of mental disorders. Among evolving innovative diagnostic systems, the WPA International Guidelines for Diagnostic Assessment (IGDA) introduced the combination of standardized multiaxial and personalized idiographic formulations, while also attending to cultural issues. Person-centered integrative Diagnosis (PID) is aimed at diagnosing not only illness but also positive health through the assessment of health status, health contributors, and health experience, and thus attempts to bring culture into the core of the diagnostic process.
+ER  - 
+
+TY  - JOUR
+AU  - Facal, David
+AU  - Guàrdia-Olmos, Joan
+AU  - Juncos-Rabadán, Onésimo
+C8  - GPS-14-0133.R1
+TI  - Diagnostic transitions in mild cognitive impairment by use of simple Markov models
+JO  - International Journal of Geriatric Psychiatry
+JA  - Int J Geriatr Psychiatry
+VL  - 30
+IS  - 7
+SN  - 9781118845479
+UR  - https://doi.org/10.1002/gps.4197
+DO  - doi:10.1002/gps.4197
+SP  - 669
+EP  - 676
+KW  - mild cognitive impairment
+KW  - diagnostic transitions
+KW  - Markov chain
+KW  - overlapping interval strategy
+PY  - 2015
+AB  - Background Mild cognitive impairment (MCI) is a complex entity, which can involve persistence of the symptoms, conversion to dementia or improvement. The aim was to study the transitions between normal cognitive ageing and three MCI subtypes by using Markov transition models for different intervals between baseline and the follow-up assessment. Methods A total of 294 participants over 50?years old attending primary care centres were assessed and diagnosed at baseline as multi-domain amnestic MCI (22 participants), single domain amnestic MCI (44), non-amnestic MCI (non-amnestic MCI) (26) or controls (202). We adopted an overlapping interval strategy by constructing six different mid-point time intervals according to the time between the baseline and the follow-up assessment. We used Markov transition models to study diagnostic changes in the groups in the different time intervals Results The rate of change was lowest in the control group. In the single domain amnestic MCI and non-amnestic MCI groups, the same diagnosis was usually retained or changed to normal cognitive functioning. In the multi-domain amnestic MCI group, the rate of transition to normal functioning was lowest, and the conversion to dementia was the highest of all groups. The best fit to the Markov models was found for the period between 18?21?months, whereas the worst fit was for the period between 9?15?months Conclusions Markov models provide a comprehensive view of transitions between MCI and normal cognitive functioning. Time interval strategies seem to provide a good opportunity to monitor diagnostic transitions, although wider intervals including subsequent assessments are needed. The low rates of conversion to dementia are discussed. Copyright ? 2014 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Zieleskiewicz, L.
+AU  - Bouvet, L.
+AU  - Einav, S.
+AU  - Duclos, G.
+AU  - Leone, M.
+TI  - Diagnostic point-of-care ultrasound: applications in obstetric anaesthetic management
+JO  - Anaesthesia
+JA  - Anaesthesia
+VL  - 73
+IS  - 10
+SN  - 9781118845479
+UR  - https://doi.org/10.1111/anae.14354
+DO  - doi:10.1111/anae.14354
+SP  - 1265
+EP  - 1279
+KW  - anaesthesia: obstetric
+KW  - diagnostic imaging
+KW  - dyspnoea
+KW  - echocardiography
+KW  - haemodynamic monitoring
+KW  - point-of-care ultrasound: diagnostic techniques, obstetric and gynaecological
+KW  - shock
+KW  - ultrasonography: stomach
+PY  - 2018
+AB  - Summary Complications during pregnancy are not frequent, but may occur abruptly. Point-of-care ultrasound is a non-invasive, non-ionising diagnostic tool that is available at the bed-side when complications occur. This review covers the use of ultrasound in various clinical situations. Gastric ultrasound can identify stomach contents that put the woman at risk for pulmonary aspiration. In the future, this tool will probably be used routinely before induction of anaesthesia to determine the presence of stomach contents above a particular risk threshold. Difficult tracheal intubation, and the potential for ?can't intubate, can't oxygenate?, is more frequent in pregnant women. Point-of-care ultrasound of the airway allows accurate identification of the cricothyroid membrane, permitting rapid and safer establishment of front-of-neck airway access. Combined cardiac and lung ultrasound can determine the potential risk:benefit of fluid administration in the pregnant patient. Such prediction is of critical importance, given the tendency of pregnant women to develop pulmonary oedema. Combined echocardiography and lung ultrasound can be combined with ultrasound of the leg veins to differentiate between the various causes of acute respiratory failure, and guide treatment in this situation. Finally, as shown in the general population, multi-organ point-of-care ultrasound allows early diagnosis of the main causes of circulatory failure and cardiac arrest at the bed-side. As the importance of point-of-care ultrasound in critical patients is increasingly recognised, it is emerging as an important tool in the therapeutic armoury of obstetric anaesthetists.
+ER  - 
+
+TY  - JOUR
+AU  - Morrissey, Matthew
+AU  - Collier, Elizabeth
+TI  - Literature review of post-traumatic stress disorder in the critical care population
+JO  - Journal of Clinical Nursing
+JA  - J Clin Nurs
+VL  - 25
+IS  - 11-12
+SN  - 9781118845479
+UR  - https://doi.org/10.1111/jocn.13138
+DO  - doi:10.1111/jocn.13138
+SP  - 1501
+EP  - 1514
+KW  - Critical care
+KW  - Post traumatic stress disorder
+PY  - 2016
+AB  - Aim To determine which factors relate to the development of post-traumatic stress disorder, in adult patients who are admitted to critical care units. Background Patient survival rates from critical care areas are improving each year and this has led to interest in the long-term outcomes for patients who have been discharged from such environments. Patients typically require invasive and extensive treatment, which places a stress on physical and mental health. Prevalence estimates of post-traumatic stress disorder in the critical care discharge population vary from 5?63%, yet it remains unclear what the predisposing factors are. Design A systematised review. Method Subject heading and keyword searches were conducted in MEDLINE, CINAHL, PsycINFO and ScienceDirect, with 23 articles identified that examined the relationship between critical care and the development of post-traumatic stress disorder. Results Three main themes were identified; Critical Care Factors, Patient Factors and Experience Factors. Eight key and three potential causative factors were found: younger age, female, previous psychiatric history, length of ICU stay, benzodiazepine sedation, use of stress hormones, delusional memory and traumatic memory, delirium, GCS score of ≤9 on admission & use of mechanical restraint. Conclusions Post-traumatic stress reactions can be strongly related to the development and presence of traumatic and delusional memories. Younger patients may exclude themselves from research to avoid their traumatic thoughts. The role of prior psychiatric illness is unknown. Distinction between ?factual? and ?false? or delusional memory as occurs in the literature maybe unhelpful in understanding trauma reactions. Relevance to clinical practice There are around 38,000 occupied critical care beds each year in England. The scale of the issue is therefore substantial. Risk factors can be isolated from available evidence and provide a rudimentary risk assessment tool to inform practice development in this area.
+ER  - 
+
+TY  - JOUR
+AU  - Kim, Jinho
+AU  - Chae, Jeong-Ho
+AU  - Ko, Hee-kyoung
+AU  - Latchoumane, Charles-Francois Vincent
+AU  - Banerjee, Aveek
+AU  - Mandell, Donald J.
+AU  - Hoven, Christina W.
+AU  - Jeong, Jaeseung
+TI  - Hemispheric asymmetry in non-linear interdependence of EEG in post-traumatic stress disorder
+JO  - Psychiatry and Clinical Neurosciences
+VL  - 66
+IS  - 2
+SN  - 9781118845479
+UR  - https://doi.org/10.1111/j.1440-1819.2011.02300.x
+DO  - doi:10.1111/j.1440-1819.2011.02300.x
+SP  - 87
+EP  - 96
+KW  - asymmetry
+KW  - electroencephalogram
+KW  - non-linear interdependence
+KW  - post-traumatic stress disorder
+PY  - 2012
+AB  - Aim:? While volumetric and metabolic imaging on post-traumatic stress disorder (PTSD) patients has been intensively performed, few studies using electroencephalograms (EEG) have been done as yet. The aim of the present study was to investigate abnormalities in functional connectivity of cortical networks in PTSD. Methods:? Non-linear interdependence (NI), a measure of bidirectional, non-linear information transmission between two time series, was used. Resting EEG were recorded for 18 PTSD patients and 18 sex-matched healthy subjects on 16 channels with their eyes closed. Results:? The NI patterns in PTSD patients were hemisphere asymmetric: an increase in NI in the fronto-parieto-temporal regions of the left hemisphere (F7, F3, T3, C3, T5 and P3) and a decrease in the fronto-parieto-occipital regions of the right hemisphere (F4, C4, P4 and O2). The non-linearity of NI in EEG, estimated from the surrogate data method, exhibited an increase in the PTSD patients as compared with that of healthy subjects, particularly in the left hemispheric cortex. Conclusion:? Abnormal functional connectivity in PTSD can be assessed using NI, a measure of multi-channel EEG.
+ER  - 
+
+TY  - JOUR
+AU  - Mountain, David
+AU  - Ercleve, Tor
+AU  - Allely, Peter
+AU  - McQuillan, Brendan
+AU  - Yamen, Eric
+AU  - Beilby, John
+AU  - Lim, Ee-Mun
+AU  - Rogers, Jeremy
+AU  - Geelhoed, Elizabeth
+C8  - EMA-2015-171.R2
+TI  - REACTED – Reducing Acute Chest pain Time in the ED: A prospective pre-/post-interventional cohort study, stratifying risk using early cardiac multi-markers, probably increases discharges safely
+JO  - Emergency Medicine Australasia
+JA  - Emergency Medicine Australasia
+VL  - 28
+IS  - 4
+SN  - 9781118845479
+UR  - https://doi.org/10.1111/1742-6723.12590
+DO  - doi:10.1111/1742-6723.12590
+SP  - 383
+EP  - 390
+KW  - chest pain
+KW  - emergency service
+KW  - hospital
+KW  - patient discharge
+KW  - risk assessment
+KW  - troponin
+PY  - 2016
+AB  - Abstract Objective ED chest pain assessments can be challenging, lengthy and contribute to overcrowding. Rapid accurate risk stratification strategies should improve ED length of stay (EDLOS). Emergency, Biochemistry and Cardiology implemented new guidelines using paired (<3?h) multiple cardiac markers to stratify patients. The intervention would reduce chest pain EDLOS. We observed for safety and disposition effects. Methods This is a single-site, prospective observational, before and after intervention study. In December 2009, paired multiple cardiac markers, the second at least 4?h from pain, replaced late troponins. The 4 h rule (ED flow improvement) started in April 2009 (unplanned confounder). Demographics, clinical features, risk assessment and disposition; preferably prospective. Administrative datasets provided disposition outcomes, 4 months pre-/post-intervention. Follow up with partially blinded adjudications assessed for 45?day major adverse cardiac events (MACE). Before intervention, consecutive patients were enrolled with mixed prospective/retrospective data. After, sampling occurred whenever prospective data were collected. Results Adjudicated patients were n?=?1029 (14.2% MI, 14.9% MACE), 426 before, 603 after. EDLOS reduced 87?min (416?329; P?<?0.001), similar to triage 2 patients without chest pain. Possibly, avoidable MACE occurred in five of 598 discharges (0.8%, CI 0.3?1.8%) with non-significant decreases (0.5%, CI 0.1?1.8%) post-intervention. Disposition changes included greater observation ward use (3.8?12.3%; P?<?0.001), more discharges (47.4?52.9%, P?=?0.002), less transfers (9.3?6.9%, P?=?0.014) and less late inpatient discharge decisions (15.2?8.7%, P?=?0.001). Conclusion Paired cardiac markers performed adequately for avoidable MACE, and disposition improved significantly. A confounding system change meant the reduced EDLOS (primary outcome) was unable to be associated with the intervention.
+ER  - 
+
+TY  - JOUR
+AU  - Finan, P. J.
+TI  - Current surgical diagnosis and treatment. 8th ed. L. W. Way. 182 × 260 mm. Pp. 1223. Illustrated. 1988. Hemel Hempstead: Prentice Hall. £29.95
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 76
+IS  - 4
+SN  - 9781118845479
+UR  - https://doi.org/10.1002/bjs.1800760443
+DO  - doi:10.1002/bjs.1800760443
+SP  - 424
+EP  - 424
+PY  - 1989
+ER  - 

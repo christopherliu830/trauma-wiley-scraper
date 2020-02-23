@@ -1,0 +1,364 @@
+
+TY  - JOUR
+AU  - Ghorpade, Ashok
+TI  - Reactive perforating leprosy: pustular erythema nodosum leprosum with epidermal perforation and liberation of Mycobacterium leprae
+JO  - International Journal of Dermatology
+JA  - Int J Dermatol
+VL  - 53
+IS  - 2
+SN  - 0011-9059
+UR  - https://doi.org/10.1111/ijd.12324
+DO  - doi:10.1111/ijd.12324
+SP  - 221
+EP  - 223
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+AU  - Dentino, Andrew
+AU  - Lee, Seokwoo
+AU  - Mailhot, Jason
+AU  - Hefti, Arthur F.
+TI  - Principles of periodontology
+JO  - Periodontology 2000
+VL  - 61
+IS  - 1
+SN  - 0906-6713
+UR  - https://doi.org/10.1111/j.1600-0757.2011.00397.x
+DO  - doi:10.1111/j.1600-0757.2011.00397.x
+SP  - 16
+EP  - 53
+PY  - 2013
+AB  - Abstract Periodontal diseases are among the most common diseases affecting humans. Dental biofilm is a contributor to the etiology of most periodontal diseases. It is also widely accepted that immunological and inflammatory responses to biofilm components are manifested by signs and symptoms of periodontal disease. The outcome of such interaction is modulated by risk factors (modifiers), either inherent (genetic) or acquired (environmental), significantly affecting the initiation and progression of different periodontal disease phenotypes. While definitive genetic determinants responsible for either susceptibility or resistance to periodontal disease have yet to be identified, many factors affecting the pathogenesis have been described, including smoking, diabetes, obesity, medications, and nutrition. Currently, periodontal diseases are classified based upon clinical disease traits using radiographs and clinical examination. Advances in genomics, molecular biology, and personalized medicine may result in new guidelines for unambiguous disease definition and diagnosis in the future. Recent studies have implied relationships between periodontal diseases and systemic conditions. Answering critical questions regarding host-parasite interactions in periodontal diseases may provide new insight in the pathogenesis of other biomedical disorders. Therapeutic efforts have focused on the microbial nature of the infection, as active treatment centers on biofilm disruption by non-surgical mechanical debridement with antimicrobial and sometimes anti-inflammatory adjuncts. The surgical treatment aims at gaining access to periodontal lesions and correcting unfavorable gingival/osseous contours to achieve a periodontal architecture that will provide for more effective oral hygiene and periodontal maintenance. In addition, advances in tissue engineering have provided innovative means to regenerate/repair periodontal defects, based upon principles of guided tissue regeneration and utilization of growth factors/biologic mediators. To maintain periodontal stability, these treatments need to be supplemented with long-term maintenance (supportive periodontal therapy) programs.
+ER  - 
+
+AU  - Philippart, François
+AU  - Cavaillon, Jean-Marc
+AU  - Dinarello, Charles
+C7  - pp. 175-204
+TI  - Inflammatory Mediators
+SN  - 9783527319350
+UR  - https://doi.org/10.1002/9783527626151.ch8
+DO  - doi:10.1002/9783527626151.ch8
+SP  - 175-204
+KW  - inflammatory mediators
+KW  - cytokines
+KW  - growth factor
+KW  - complement system
+KW  - lipid mediators
+KW  - nitric oxide (NO)
+KW  - cellular markers
+PY  - 2013
+AB  - Summary This chapter contains sections titled: Inflammatory Mediators in Sepsis Inflammatory Mediators in Non-infectious SIRS Conclusion References
+ER  - 
+
+TY  - JOUR
+C7  - e12391
+TI  - The British Microcirculation Society
+JO  - Microcirculation
+JA  - Microcirculation
+VL  - 24
+IS  - 7
+SN  - 9783527319350
+UR  - https://doi.org/10.1111/micc.12391
+DO  - doi:10.1111/micc.12391
+SP  - e12391
+PY  - 2017
+ER  - 
+
+AU  - Loughrey, Maurice B.
+C7  - pp. 804-818
+TI  - Inflammatory Disorders of the Peritoneum
+SN  - 9781405199438
+UR  - https://doi.org/10.1002/9781118399668.ch46
+DO  - doi:10.1002/9781118399668.ch46
+SP  - 804-818
+KW  - acute peritonitis
+KW  - metazoal peritonitis
+KW  - sclerosing peritonitis
+KW  - sclerosing mesenteritis
+PY  - 2017
+AB  - Summary This chapter describes the pathological features of acute bacterial peritonitis, most commonly encountered secondary to gastrointestinal disease, and the much rarer, more specific causes of peritonitis, including non-bacterial infectious causes, such as tuberculous peritonitis, peritonitis caused by foreign bodies in various clinical scenarios, peritoneal involvement in a range of systemic diseases, and miscellaneous conditions including sclerosing peritonitis and sclerosing mesenteritis.
+ER  - 
+
+TY  - JOUR
+AU  - Davis IV, Richard W.
+AU  - Papasavvas, Emmanouil
+AU  - Klampatsa, Astero
+AU  - Putt, Mary
+AU  - Montaner, Luis J.
+AU  - Culligan, Melissa J.
+AU  - McNulty, Sally
+AU  - Friedberg, Joseph S.
+AU  - Simone II, Charles B.
+AU  - Singhal, Sunil
+AU  - Albelda, Steven M.
+AU  - Cengel, Keith A.
+AU  - Busch, Theresa M.
+TI  - A preclinical model to investigate the role of surgically-induced inflammation in tumor responses to intraoperative photodynamic therapy
+JO  - Lasers in Surgery and Medicine
+JA  - Lasers Surg. Med.
+VL  - 50
+IS  - 5
+SN  - 9781405199438
+UR  - https://doi.org/10.1002/lsm.22934
+DO  - doi:10.1002/lsm.22934
+SP  - 440
+EP  - 450
+KW  - surgery
+KW  - inflammation
+KW  - photodynamic therapy
+KW  - resistance
+KW  - malignant pleural mesothelioma
+KW  - IL-6
+PY  - 2018
+AB  - Objective Inflammation is a well-known consequence of surgery. Although surgical debulking of tumor is beneficial to patients, the onset of inflammation in injured tissue may impede the success of adjuvant therapies. One marker for postoperative inflammation is IL-6, which is released as a consequence of surgical injuries. IL-6 is predictive of response to many cancer therapies, and it is linked to various molecular and cellular resistance mechanisms. The purpose of this study was to establish a murine model by which therapeutic responses to photodynamic therapy (PDT) can be studied in the context of surgical inflammation. Materials and Methods Murine models with AB12 mesothelioma tumors were treated with either surgical resection or sham surgery with tumor incision but no resection. The timing and extent of IL-6 release in the tumor and/or serum was measured using enzyme-linked immunosorbent assay (ELISA) and compared to that measured in the serum of 27 consecutive, prospectively enrolled patients with malignant pleural mesothelioma (MPM) who underwent macroscopic complete resection (MCR). Results MPM patients showed a significant increase in IL-6 at the time MCR was completed. Similarly, IL-6 increased in the tumor and serum of mice treated with surgical resections. However, investigations that combine resection with another therapy make it necessary to grow tumors for resection to a larger volume than those that receive secondary therapy alone. As the larger size may alter tumor biology independent of the effects of surgical injury, we assessed the tumor incision model. In this model, tumor levels of IL-6 significantly increased after tumor incision. Conclusion The tumor incision model induces IL-6 release as is seen in the surgical setting, yet it avoids the limitations of surgical resection models. Potential mechanisms by which surgical induction of inflammation and IL-6 could alter the nature and efficacy of tumor response to PDT are reviewed. These include a wide spectrum of molecular and cellular mechanisms through which surgically-induced IL-6 could change the effectiveness of therapies that are combined with surgery. The tumor incision model can be employed for novel investigations of the effects of surgically-induced, acute inflammation on therapeutic response to PDT (or potentially other therapies). Lasers Surg. Med. 50:440?450, 2018. ? 2018 Wiley Periodicals, Inc.
+ER  - 
+
+AU  - Steinhoff, M.
+AU  - Groves, R. W.
+AU  - LeBoit, P. E.
+AU  - Luger, T. A.
+C7  - pp. 1-76
+TI  - Inflammation
+SN  - 9781405161695
+UR  - https://doi.org/10.1002/9781444317633.ch12
+DO  - doi:10.1002/9781444317633.ch12
+SP  - 1-76
+KW  - defensins, alpha (TNF-α) and natural killer (NK), cytolytic factor
+KW  - defensins - Human β-defensin-1
+KW  - Mannose receptors and other C type lectins - mannosyl/fucosyl or GlcNAc-glycoconjugate ligands
+KW  - cell apoptosis and inflammation - caspases, intracellular cysteine proteases with aspartate specificity
+KW  - cell apoptosis and inflammation - death signal receptors and apical belbbing
+KW  - cellular components of cutaneous inflammation - Kindler syndrome
+KW  - Natural killer cells: NK cells
+KW  - Natural killer cells - signalling lymphocytic activating molecule (SLAM)
+KW  - basophils, chymase degrading neuropeptide neurotensin
+KW  - monocytes and macrophages - antigen-presenting cells
+PY  - 2018
+AB  - Summary This chapter contains sections titled: Clinical characteristics of inflammation Phases of inflammation Innate defence mechanisms Cell apoptosis and inflammation Major histocompatibility complex and inflammation Cellular components of cutaneous inflammation Mediators of inflammation Vasculature and inflammation References
+ER  - 
+
+TY  - JOUR
+TI  - Oral and Poster Presentations
+JO  - Catheterization and Cardiovascular Interventions
+JA  - Cathet. Cardiovasc. Intervent.
+VL  - 79
+IS  - S1
+SN  - 9781405161695
+UR  - https://doi.org/10.1002/ccd.24386
+DO  - doi:10.1002/ccd.24386
+SP  - S1
+EP  - S110
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+AU  - Kerfoot, Steven M.
+AU  - Kubes, Paul
+TI  - Local coordination verses systemic disregulation: complexities in leukocyte recruitment revealed by local and systemic activation of TLR4 in vivo
+JO  - Journal of Leukocyte Biology
+JA  - Journal of Leukocyte Biology
+VL  - 77
+IS  - 6
+SN  - 9781405161695
+UR  - https://doi.org/10.1189/jlb.1004607
+DO  - doi:10.1189/jlb.1004607
+SP  - 862
+EP  - 867
+KW  - sepsis
+KW  - LPS
+PY  - 2005
+AB  - The recruitment of leukocytes to a tissue is a critical step in the inflammatory response. Toll-like receptor 4 (TLR4) is an important receptor involved in the initiation of inflammatory responses. Administration of the ligand for TLR4, lipopolysaccharide, is often used to model inflammation?local responses to stimuli within a specific tissue and systemic responses such as those observed during endotoxic or septic shock. Here, we review work, which demonstrates that in response to local activation of TLR4, highly coordinated and multistep processes are initiated, ultimately resulting in the leukocyte?s arrival at the inflamed tissue. In contrast, systemic activation of TLR4 results in nonspecific accumulation of leukocytes within the lung capillaries and liver sinusoids through mechanisms profoundly different than those involved in local tissue recruitment. Contrary to current dogma, leukocyte accumulation in the lung is dependent on endothelial rather than leukocyte activation. Finally, we discuss recent evidence suggesting that activation of leukocytes through TLR4, although still in the circulation, effectively paralyzes inflammatory cells, rendering them incapable of appropriate trafficking to inflamed tissues.
+ER  - 
+
+AU  - Marron, Conor D.
+C7  - pp. 113-123
+TI  - Superficial Sepsis, Cutaneous Abscess and Necrotising Fasciitis
+SN  - 9781405170253
+UR  - https://doi.org/10.1002/9781444315172.ch20
+DO  - doi:10.1002/9781444315172.ch20
+SP  - 113-123
+KW  - soft tissue infection
+KW  - superficial sepsis, cutaneous abscess and necrotising fasciitis
+KW  - staphylococci, grape-like clusters - coagulase-positive and coagulase-negative groups
+KW  - skin and soft tissue infections - commonplace
+KW  - Intercollegiate Surgical Curriculum Project (ISCP) syllabus requirements - early years of surgical training
+KW  - patients presenting with infections of skin and subcutaneous tissues - eliciting underlying cause for infection
+KW  - clinical features of superficial sepsis and necrotising fasciitis
+KW  - incision and drainage of abscess/infected collection
+KW  - abscess, local collection of pus - within a barrier of inflammatory reaction, pyogenic membrane
+KW  - infected sebaceous cyst and carbuncles
+PY  - 2005
+AB  - Summary This chapter contains sections titled: Introduction General principles Clinical presentation Cutaneous abscesses Infected sebaceous cyst and carbuncles Further reading
+ER  - 
+
+TY  - JOUR
+AU  - Gougeon, M.-L.
+TI  - Alarmins and central nervous system inflammation in HIV-associated neurological disorders
+JO  - Journal of Internal Medicine
+JA  - J Intern Med
+VL  - 281
+IS  - 5
+SN  - 9781405170253
+UR  - https://doi.org/10.1111/joim.12570
+DO  - doi:10.1111/joim.12570
+SP  - 433
+EP  - 447
+KW  - alarmins
+KW  - HAND
+KW  - HIV-1
+KW  - HMGB1
+KW  - IL-33
+PY  - 2017
+AB  - Abstract In the era of highly active antiretroviral therapy (HAART), HIV-1-associated neurocognitive disorders (HAND) persist in infected individuals with adequate immunological and virological status. Risk factors for cognitive impairment include hepatitis C virus co-infection, host genetic factors predisposing to HAND, the early establishment of the virus in the CNS and its persistence under HAART; thus, the CNS is an important reservoir for HIV. Microglial cells are permissive to HIV-1, and NLRP3 inflammasome-associated genes were found expressed in brains of HIV-1-infected persons, contributing to brain disease. Inflammasomes can be triggered by alarmins or danger-associated molecular patterns (DAMPs), which directly stimulate the production of proinflammatory mediators by glial cells, contribute to blood?brain barrier injury through induction of release of various proteases and allow the passage of infected macrophages, and trigger IL-1? release from primed cells. Amongst alarmins involved in HIV-1-induced neuropathogenesis, IL-33 and high-mobility group box 1 (HMGB1) are of particular interest. Neurocognitive alterations were recently associated with dysregulation of the IL-33/ST2 axis in the CNS, leading to the induction of neuronal apoptosis, decrease in synaptic function and neuroinflammation. Specific biomarkers, including HMGB1 and anti-HMGB1 antibodies, have been identified in cerebrospinal fluid from patients with HAND, correlated with immune activation and identifying a very early stage of neurocognitive impairment that precedes changes in metabolites detected by magnetic resonance spectroscopy. Moreover, HMGB1 plays a crucial role in HIV-1 persistence in dendritic cells and in the constitution of viral reservoirs. In this review, the mechanisms whereby alarmins contribute to HIV-1-induced CNS inflammation and neuropathogenesis will be discussed.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - International Journal of Laboratory Hematology
+JA  - Int. Jnl. Lab. Hem.
+VL  - 38
+IS  - S2
+SN  - 9781405170253
+UR  - https://doi.org/10.1111/ijlh.12567
+DO  - doi:10.1111/ijlh.12567
+SP  - 1
+EP  - 119
+PY  - 2016
+ER  - 
+
+AU  - Mitra, Sumegha
+AU  - Lloveras, Daniel Turner
+AU  - Ma, Shwu-Fan
+AU  - Garcia, Joe G. N.
+C7  - pp. 399-415
+TI  - Genetic Insights into Endothelial Barrier Regulation in the Acutely Inflamed Lung
+SN  - 9780470723616
+UR  - https://doi.org/10.1002/9780470747490.ch24
+DO  - doi:10.1002/9780470747490.ch24
+SP  - 399-415
+KW  - endothelial barrier regulation in acutely inflamed lung and genetic insights
+KW  - Acute lung injury (ALI) - devastating syndrome of diffuse alveolar damage
+KW  - vascular barrier regulatory cytokines
+KW  - CXCR4 gene - novel candidate gene for ALI
+KW  - c-Met (HGF)
+KW  - HGF and tyrosine kinase receptor, c-Met role in lung development
+KW  - mechanosensitive genes with endothelial barrier-regulatory effects
+KW  - GADD45α - small 18-kDa nuclear protein
+KW  - ALI, enigmatic syndrome and insights into ALI pathobiology
+PY  - 2016
+AB  - Summary This chapter contains sections titled: Introduction Vascular Barrier Regulatory Cytokines, Growth Factors, and Mediators Receptors for Barrier-Regulatory Agonists Endothelial Cytoskeletal Protein Targets with Barrier-Regulatory Properties Mechanosensitive Genes with Endothelial Barrier-Regulatory Effects References
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - APMIS
+VL  - 117
+IS  - s127
+SN  - 9780470723616
+UR  - https://doi.org/10.1111/j.1600-0463.2009.02504.x
+DO  - doi:10.1111/j.1600-0463.2009.02504.x
+SP  - 67
+EP  - 180
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+AU  - Kozuch, P. L.
+AU  - Brandt, L. J.
+TI  - Review article: diagnosis and management of mesenteric ischaemia with an emphasis on pharmacotherapy
+JO  - Alimentary Pharmacology & Therapeutics
+VL  - 21
+IS  - 3
+SN  - 9780470723616
+UR  - https://doi.org/10.1111/j.1365-2036.2005.02269.x
+DO  - doi:10.1111/j.1365-2036.2005.02269.x
+SP  - 201
+EP  - 215
+PY  - 2005
+AB  - Summary Mesenteric ischaemia results from decreased blood flow to the bowel, causing cellular injury from lack of oxygen and nutrients. Acute mesenteric ischaemia (AMI) is an uncommon disorder with high morbidity and mortality, but outcomes are improved with prompt recognition and aggressive treatment. Five subgroups of AMI have been identified, with superior mesenteric artery embolism (SMAE) the most common. Older age and cardiovascular disease are common risk factors for AMI, excepting acute mesenteric venous thrombosis (AMVT), which affects younger patients with hypercoaguable states. AMI is characterized by sudden onset of abdominal pain; a benign abdominal exam may be observed prior to bowel infarction. Conventional angiography and more recently, computed tomography angiography, are the cornerstones of diagnosis. Correction of predisposing conditions, volume resuscitation and antibiotic treatment are standard treatments for AMI, and surgery is mandated in the setting of peritoneal signs. Intra-arterial vasodilators are used routinely in the treatment of non-occlusive mesenteric ischaemia (NOMI) and also are advocated in the treatment of occlusive AMI to decrease associated vasospasm. Thrombolytics have been used on a limited basis to treat occlusive AMI. A variety of agents have been studied in animal models to treat reperfusion injury, which sometimes can be more harmful than ischaemic injury. Chronic mesenteric ischaemia (CMI) usually is caused by severe obstructive atherosclerotic disease of two or more splanchnic vessels, presents with post-prandial pain and weight loss, and is treated by either surgical revascularization or percutaneous angioplasty and stenting.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts from the 27th Congress of The Scandinavian Society of Anaesthesiology and Intensive Care Medicine
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 47
+IS  - s116
+SN  - 9780470723616
+UR  - https://doi.org/10.1111/j.1399-6576.2004.47s116abs.x
+DO  - doi:10.1111/j.1399-6576.2004.47s116abs.x
+SP  - 1
+EP  - 122
+PY  - 2003
+ER  - 
+
+TY  - JOUR
+AU  - Jouybar, Aytak
+AU  - Seyedjafari, Ehsan
+AU  - Ardeshirylajimi, Abdolreza
+AU  - Zandi-Karimi, Ali
+AU  - Feizi, Nikta
+AU  - Khani, Mohammad-Mehdi
+AU  - Pousti, Iraj
+TI  - Enhanced Skin Regeneration by Herbal Extract-Coated Poly-L-Lactic Acid Nanofibrous Scaffold
+JO  - Artificial Organs
+JA  - Artificial Organs
+VL  - 41
+IS  - 11
+SN  - 9780470723616
+UR  - https://doi.org/10.1111/aor.12926
+DO  - doi:10.1111/aor.12926
+SP  - E296
+EP  - E307
+KW  - Wound dressing
+KW  - —Nanostructured scaffolds
+KW  - —Poly-l-lactic acid
+KW  - —Histopathology
+KW  - —Aloe vera gel
+KW  - —Healing
+PY  - 2017
+AB  - Abstract The wound healing process is directly related to the type of treatment. Existing methods of treatment are not responsive enough for severe wounds. The aim of this study was the potential capacity investigation of poly-L-lactic acid (PLLA) nanofibrous scaffolds coated by aloe vera gel for wound dressing applications. In this study, electrospinning method was used for preparing PLLA nanofibers, and after characterization by SEM and MTT, its influence on the wound healing process was investigated with and without aloe vera gel as a wound dressing in full-thickness skin defect in mice. Band-Aids were used as a positive control and vaseline gauze as a negative control. SEM and MTT assays confirmed the nanometer size and biocompatibility of fabricated nanofibers. Macroscopic and histopathological characteristics were evaluated at the end of days 7, 12, and 17 and their results showed that the gel-coated scaffold accelerated the wound-healing process compared with other groups. At the end of the experiment, it was shown that during the whole time of study, gel-coated scaffold had the highest overall repair score. Therefore, gel-coated PLLA scaffold would be an ideal construct for wound healing and skin regenerative medicine application.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts of the papers presented at the 44th Annual Meeting of the American Society of Dermatopathology
+JO  - Journal of Cutaneous Pathology
+VL  - 35
+IS  - 1
+SN  - 9780470723616
+UR  - https://doi.org/10.1111/j.1600-0560.2007.00929.x
+DO  - doi:10.1111/j.1600-0560.2007.00929.x
+SP  - 91
+EP  - 168
+PY  - 2008
+ER  - 
+
+C7  - pp. 1-88
+TI  - Rabbits
+SN  - 9780813818313
+UR  - https://doi.org/10.1002/9781118969601.ch1
+DO  - doi:10.1002/9781118969601.ch1
+SP  - 1-88
+KW  - healthy rabbits
+KW  - musculoskeletal disorders
+KW  - nervous system disorders
+KW  - rabbit disease
+KW  - rabbit hair loss
+KW  - respiratory disorders
+PY  - 2008
+AB  - Summary When considering rabbit disease, it is important to know the age of the animal and the typical life cycle, be it commercial or pet. Healthy rabbits are fastidious in their habits and groom their pelage frequently, thus a poor quality, staring hair coat is a sign of poor health. Interestingly, rabbits with orodental disease have a 63 times greater risk of subsequently developing dermatologic disease. Skin biopsies, skin scrapings, microbiologic culture and sensitivity, and circulating steroid hormone and thyroxin levels may be evaluated to differentiate noninfectious from infectious causes of hair loss. Neurologic or apparent neurologic presenting signs are common in pet rabbits. As with musculoskeletal disorders, it is important to differentiate primary neurologic disease from other disorders that may produce neurologic signs. A thorough post-mortem examination of all systems is necessary to definitively characterize the cause of clinical signs suggestive of musculoskeletal disease.
+ER  - 
+
+TY  - JOUR
+TI  - Immunology
+JO  - Allergy
+VL  - 55
+IS  - s63
+SN  - 9780813818313
+UR  - https://doi.org/10.1111/j.1398-9995.2000.tb04530.x
+DO  - doi:10.1111/j.1398-9995.2000.tb04530.x
+SP  - 72
+EP  - 105
+PY  - 2000
+ER  - 

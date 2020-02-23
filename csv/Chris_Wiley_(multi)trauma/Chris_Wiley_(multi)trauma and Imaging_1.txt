@@ -1,0 +1,485 @@
+
+TY  - JOUR
+AU  - Withers, J. M.
+AU  - Voûte, L. C.
+AU  - Lischer, C. J.
+TI  - Multi-modality diagnostic imaging of a cervical articular process fracture in a Thoroughbred horse including a novel C-Arm imaging technique
+JO  - Equine Veterinary Education
+VL  - 21
+IS  - 10
+SN  - 0957-7734
+UR  - https://doi.org/10.2746/095777309X474440
+DO  - doi:10.2746/095777309X474440
+SP  - 540
+EP  - 545
+KW  - horse
+KW  - cervical
+KW  - vertebrae
+KW  - articular process joint
+KW  - facet joint
+KW  - fracture
+KW  - imaging
+KW  - cineradiography
+PY  - 2009
+AB  - Summary Interpretation of cervical radiographs can be challenging due to the complex anatomy and superimposition of osseous structures on either side of the vertebrae. This report describes the investigation of neck pain in a Thoroughbred gelding following a traumatic fall. Several imaging modalities were used to demonstrate the presence of a fracture of the left cranial articular process of the fourth cervical vertebra (C4), including nuclear scintigraphy, ultrasonography, oblique radiographic projections and a novel cineradiographic technique. Oblique radiographs were superior to standard lateral-lateral radiographs in both the diagnosis and for monitoring the progression of healing of the articular process fracture in this case.
+ER  - 
+
+TY  - JOUR
+AU  - McCombie, Steve P.
+AU  - Thyer, Isaac
+AU  - Corcoran, Niall M.
+AU  - Rowling, Christopher
+AU  - Dyer, John
+AU  - Le Roux, Anton
+AU  - Kuan, Melvyn
+AU  - Wallace, D. Michael A.
+AU  - Hayne, Dickon
+TI  - The conservative management of renal trauma: a literature review and practical clinical guideline from Australia and New Zealand
+JO  - BJU International
+JA  - BJU Int
+VL  - 114
+IS  - S1
+SN  - 1464-4096
+UR  - https://doi.org/10.1111/bju.12902
+DO  - doi:10.1111/bju.12902
+SP  - 13
+EP  - 21
+KW  - renal trauma
+KW  - non-operative management
+KW  - review
+KW  - guideline
+KW  - diagnostic imaging
+KW  - follow-up
+PY  - 2014
+AB  - Objective To review the literature and make practical recommendations regarding the conservative management of renal trauma. Patients and Methods Relevant articles and guidelines published between 1980 and 2014 were reviewed. Graded recommendations were constructed by a multi-disciplinary panel consisting of urologists, radiologists, and infectious disease physicians. These recommendations underwent formal review and debate at the Western Australian USANZ 2013 state conference, and were presented at the USANZ 2014 annual scientific meeting. Results The literature on the conservative management of renal trauma is reviewed within the framework of the American Association for the Surgery of Trauma (AAST) kidney injury severity scale. Graded recommendations are made regarding several key topics including: imaging, inpatient management, antibiotics, return to activity, and follow-up. Grade IV injuries and intraoperative consults are examined separately in view of the difficulties these groups cause in making appropriate treatment decisions. Conclusion A practical clinical guideline is provided regarding the conservative management of renal trauma.
+ER  - 
+
+TY  - JOUR
+AU  - Buckland, Aaron J
+AU  - Bressan, Silvia
+AU  - Jowett, Helen
+AU  - Johnson, Michael B
+AU  - Teague, Warwick J
+C8  - EMA-2015-317.R1
+TI  - Heterogeneity in cervical spine assessment in paediatric trauma: A survey of physicians' knowledge and application at a paediatric major trauma centre
+JO  - Emergency Medicine Australasia
+JA  - Emergency Medicine Australasia
+VL  - 28
+IS  - 5
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/1742-6723.12650
+DO  - doi:10.1111/1742-6723.12650
+SP  - 569
+EP  - 574
+KW  - cervical spinal clearance
+KW  - child
+KW  - decision-making
+KW  - healthcare surveys
+KW  - spine injury
+PY  - 2016
+AB  - Abstract Objective Evidence-based decision-making tools are widely used to guide cervical spine assessment in adult trauma patients. Similar tools validated for use in injured children are lacking. A paediatric-specific approach is appropriate given important differences in cervical spine anatomy, mechanism of spinal injury and concerns over ionising radiation in children. The present study aims to survey physicians' knowledge and application of cervical spine assessment in injured children. Methods A cross-sectional survey of physicians actively engaged in trauma care within a paediatric trauma centre was undertaken. Participation was voluntary and responses de-idenitified. The survey comprised 20 questions regarding initial assessment, imaging, immobilisation and perioperative management. Physicians' responses were compared with available current evidence. Results Sixty-seven physicians (28% registrars, 17% fellows and 55.2% consultants) participated. Physicians rated altered mental state, intoxication and distracting injury as the most important contraindications to cervical spine clearance in children. Fifty-four per cent considered adequate plain imaging to be 3-view cervical spine radiographs (anterior?posterior, lateral and odontoid), whereas 30% considered CT the most sensitive modality for detecting unstable cervical spine injuries. Physicians' responses reflected marked heterogeneity regarding semi-rigid cervical collars and what constitutes cervical spine ?clearance?. Greater consensus existed for perioperative precautions in this setting. Conclusions Physicians actively engaged in paediatric trauma care demonstrate marked heterogeneity in their knowledge and application of cervical spine assessment. This is compounded by a lack of paediatric-specific evidence and definitions, involvement of multiple specialties and staff turnover within busy departments. A validated decision-making tool for cervical spine assessment will represent an important advance in paediatric trauma.
+ER  - 
+
+TY  - JOUR
+AU  - Vannier, M
+TI  - TU-A-201C-01: Multi-Modality Imaging: Current State of the Art
+JO  - Medical Physics
+JA  - Med. Phys.
+VL  - 37
+IS  - 6Part2
+SN  - 0094-2405
+UR  - https://doi.org/10.1118/1.3469173
+DO  - doi:10.1118/1.3469173
+SP  - 3371
+EP  - 3371
+KW  - Computed tomography
+KW  - Medical imaging
+KW  - Ultrasonography
+KW  - Magnetic resonance imaging
+KW  - Positron emission tomography
+KW  - Dosimetry
+KW  - Single photon emission computed tomography
+KW  - Functional monitoring and imaging
+KW  - Fluoroscopy
+KW  - Medical treatment planning
+PY  - 2010
+AB  - Computed tomography is the cornerstone of modern radiology and arguably the most important modality in terms of clinical impact. CT is used extensively for emergencies, cardiovascular, pulmonary, gastrointestinal, endocrine, neurological, orthopedic and other applications - often as the first and only imaging procedure needed for diagnosis, characterization, staging, treatment planning, and follow-up. CT is often the first and only modality needed. There is high likelihood that a patient will have a CT scan in the emergency department, as an outpatient, or as an inpatient for a multitude of indications - trauma, suspected infection or malignancy, and frequently to investigate symptoms such as pain and fever, or to answer a question raised by another test, such as an EKG abnormality or ultrasound finding. Many other modalities are available, including MRI, ultrasound, fluoroscopy and nuclear medicine PET and SPECT. Depending on the clinical question, more than one modality may be required, so questions raised in a CT exam could be resolved with PET or MRI. Each modality has strengths and limitations which are known and recognized relative to the clinical indication. Since pre-certification may be required by payors prior to imaging, these indications are important for reimbursement. The principal drivers for clinical imaging, both single and multi-modality today are reimbursement, radiation dose, workflow efficiency, and availability. Multimodality imaging is most frequently applied to solve complex or demanding clinical problems, and almost never used for screening. A major advantage of CT in hospitals and clinics as well as free-standing imaging centers, is its availability 24/7, while other modalities such as US and MRI may be limited to scheduled examinations in the majority of cases. Multimodality scanners based on CT incorporate PET/SPECT and MRI to combine morphologic and functional imaging. The most demanding imaging applications are cardiovascular, where complex motion and small morphologic features coexist, so imaging methods that are very satisfactory elsewhere in the body may not be successful. Clinical CT scanning consists of administering toxic materials, e.g., contrast media, while monitoring the EKG and illuminating the body with high brightness x-rays. Larger area detectors and higher acquisition rates are welcome improvements, but don't solve all of the problems encountered with scan variability due to respiratory, whole body, and cardiac motion, especially in a spectrum of patients from infant to massively obese adult sizes (< 1 kg to 250 kg or more). The challenges and pitfalls in CT and multimodality imaging will be delineated and evaluated relative to current and future technology. Learning Objectives: 1. The role of x-ray computed tomography (CT) is central to multimodality imaging in diagnosis, staging, treatment planning and follow-up. 2. The principal drivers for CT and complementary use of other modalities are availability, reimbursement, workflow, and radiation dose. The influence of these factors on clinical decision making will be outlined and illustrated. 3. The limitations of a single modality, such as CT, can be overcome by integrating complementary instrumentation, especially PET/SPECT, MRI and others (such as ultrasound and fluoroscopy) to provide simultaneous morphologic and functional imaging.
+ER  - 
+
+TY  - JOUR
+AU  - Shimizu, Toru
+AU  - Umemura, Takehiro
+AU  - Fujiwara, Naoki
+AU  - Nakama, Tsukasa
+TI  - Review of pediatric abdominal trauma: operative and non-operative treatment in combined adult and pediatric trauma center
+JO  - Acute Medicine & Surgery
+JA  - Acute Med Surg
+VL  - 6
+IS  - 4
+SN  - 2052-8817
+UR  - https://doi.org/10.1002/ams2.421
+DO  - doi:10.1002/ams2.421
+SP  - 358
+EP  - 364
+KW  - Abdominal trauma
+KW  - emergency room
+KW  - non-operative
+KW  - pediatric
+KW  - trauma
+PY  - 2019
+AB  - Aim More than 90% of pediatric solid organ abdominal injuries are treated non-operatively. It remains difficult to decide who should graduate to surgical management, more so if adult physicians must make these decisions on pediatric patients. The purpose of this study was to examine outcomes of all pediatric abdominal trauma cases in a single center, focusing on the decision-making algorithm for operative or non-operative treatment by pediatric and adult physicians. Methods We undertook a retrospective review of a pediatric trauma database from April 2006 to March 2016. Groups were divided into operative and non-operative, single or multi-organ injury, and adult or pediatric physician. Operative treatments included laparotomy or interventional radiology procedures. Primary outcome was survival within 30 days. Results There were 53 abdominal trauma cases; among them, 48 (90.6%) survived and 5 (9.4%) died within 30 days. The probability of survival for mortalities was less than 11%. Forty-two cases were treated non-operatively and 11 operatively. Injury Severity Score was higher in operative group (17 [9, 41]/9 [4, 16.3]). Adult physicians saw 33 patients including seven operative, whereas pediatric physicians saw 20 including four operative cases. There was no statistical difference for the management decision between adult and pediatric physicians. Conclusion Our decisions for intervention were within acceptable rates. Adult physicians did not tend to operate more, but there were cases that did not fit the criteria of the algorithm. Further investigation is needed to look at which factors should be focused on to determine whether or not operative treatments are indicated.
+ER  - 
+
+TY  - JOUR
+AU  - GISSEL, HANNE
+AU  - DESPA, FLORIN
+AU  - COLLINS, JOHN
+AU  - MUSTAFI, DEVKUMAR
+AU  - ROJAHN, KATHERINE
+AU  - KARCZMAR, GREG
+AU  - LEE, RAPHAEL
+TI  - Magnetic Resonance Imaging of Changes in Muscle Tissues after Membrane Trauma
+JO  - Annals of the New York Academy of Sciences
+VL  - 1066
+IS  - 1
+SN  - 0077-8923
+UR  - https://doi.org/10.1196/annals.1363.024
+DO  - doi:10.1196/annals.1363.024
+SP  - 272
+EP  - 285
+KW  - electroporation
+KW  - T2-MRI
+KW  - electrical injury
+KW  - edema
+PY  - 2006
+AB  - Abstract: A pure electroporation injury leads to cell membrane disruption and subsequent osmotic swelling of the tissue. The state of water in the injured area of a tissue is changed and differs from a healthy tissue. Magnetic resonance imaging (MRI), which is very sensitive to the quality of the interaction between mobile (water) protons and a restricted (protein) proton pool, is therefore a useful tool to characterize this injury. Here, we present a protocol designed to measure the difference between the values of the transverse magnetic relaxation time (T2) in MRIs of healthy and electrically injured tissue. In addition, we present a method to evaluate the two main contributions to the MRI contrast, the degree of structural alteration of the cellular components (including a major contribution from membrane pores), and edema. The approach is useful in assessing the level of damage that electric shocks produce in muscle tissues, in that edema will resolve in time whereas structural changes require active repair mechanisms.
+ER  - 
+
+TY  - JOUR
+AU  - Roberts, Jessica
+AU  - Watts, Sara
+AU  - Klim, Sharon
+AU  - Ritchie, Peter
+AU  - Kelly, Anne-Maree
+TI  - Yield of serious axial injury from pan scans after blunt trauma in haemodynamically stable low-risk trauma patients
+JO  - Emergency Medicine Australasia
+JA  - Emergency Medicine Australasia
+VL  - 31
+IS  - 3
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/1742-6723.13174
+DO  - doi:10.1111/1742-6723.13174
+SP  - 399
+EP  - 404
+KW  - imaging
+KW  - trauma
+KW  - whole body computed tomography scan
+PY  - 2019
+AB  - Abstract Objectives Whole body computed tomography (WBCT) scanning for trauma has gained popularity but its role in low-risk patients is controversial. We aimed to determine the rate of serious axial/truncal injury and emergency intervention in conscious, stable patients undergoing WBCT for blunt trauma in two non-trauma centre EDs in the Victorian trauma system. Methods Retrospective cohort study by medical record and radiology report review. Patients were included if they were conscious, haemodynamically stable adults presenting by ambulance and having WBCT scan. Exclusion criteria were age <16?years, no history of trauma, Glasgow Coma Scale <14, systolic blood pressure <90?mmHg and intoxication with alcohol or drugs. Data collected included demographics, clinical findings, results of CT scans and emergency interventions (emergency truncal surgery, transfer to a trauma centre and/or transfusion within 24?h). The outcomes of interest were the rate of defined serious axial/truncal injury and emergency interventions. Results One hundred and four patients were studied. Median age was 45?years; 67% were men. Median injury severity score (ISS) was 1.5 (interquartile range 0?5); only one patient had an ISS ≥15. Ninety (87%, 78?92%) patients had no defined serious injury. Five (5%) patients had a defined emergency intervention ? four trauma centre transfers and one transfusion. Two of these were not trauma-related. Conclusion The rate of serious axial/truncal injury was low. The high rate of normal scans makes it likely that the risk:benefit ratio between injury identification and radiation related cancer risk is unacceptably high. This data supports a selective CT strategy in low-risk trauma patients.
+ER  - 
+
+TY  - JOUR
+AU  - Cherubini, G. B.
+AU  - Platt, S. R.
+AU  - Howson, S.
+AU  - Baines, E.
+AU  - Brodbelt, D. C.
+AU  - Dennis, R.
+TI  - Comparison of magnetic resonance imaging sequences in dogs with multi-focal intracranial disease
+JO  - Journal of Small Animal Practice
+VL  - 49
+IS  - 12
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/j.1748-5827.2008.00628.x
+DO  - doi:10.1111/j.1748-5827.2008.00628.x
+SP  - 634
+EP  - 640
+PY  - 2008
+AB  - Objectives: To compare the value of different magnetic resonance sequences in the detection of brain lesions in dogs with multi-focal intracranial neurolocalised lesions and abnormal cisternal cerebrospinal fluid analysis. Methods: T2-weighted, T1-weighted, T1-weighted-Gd, FLAIR (fluid attenuated inversion recovery) images of 73 dogs with multi-focal intracranial localised lesions were reviewed retrospectively. Control dogs (19) were selected on the basis of normal neurological examination, magnetic resonance images and cerebrospinal fluid analysis. Two board-certified radiologists blindly reviewed the magnetic resonance images. Magnetic resonance sequence sensitivities were compared using the chi-squared test and logistic regression, accounting for clustering at the patient level. Statistical significance was set at the 5 per cent level. Results: The FLAIR sequence was found to have the highest sensitivity (84 per cent, 61 of 73), followed by T2-weighted (63 per cent, 46 of 73), T1-weighted postcontrast (62 per cent, 45 of 73) and T1-weighted (23 per cent, 17 of 73) (P<0·001). FLAIR images were 106·1 times (95 per cent confidence interval 25·2 to 447·5) more likely to correctly identify cerebrospinal fluid-positive patients than T1-weighted, 6·4 times (95 per cent confidence interval 2·2 to 18·2) than T1-weighted postcontrast and 5·8 times (95 per cent confidence interval 2·0 to 16·4) than T2-weighted. FLAIR identified 14 per cent of cases that were classified as normal based on the three others sequences. Clinical Significance: Routine use of FLAIR sequence should be encouraged in dogs undergoing a brain magnetic resonance imaging and probably more specifically in cases of suspected inflammatory brain disease.
+ER  - 
+
+TY  - JOUR
+AU  - Taso, Manuel
+AU  - Girard, Olivier M.
+AU  - Duhamel, Guillaume
+AU  - Le Troter, Arnaud
+AU  - Feiweier, Thorsten
+AU  - Guye, Maxime
+AU  - Ranjeva, Jean-Philippe
+AU  - Callot, Virginie
+C8  - NBM-15-0294.R1
+TI  - Tract-specific and age-related variations of the spinal cord microstructure: a multi-parametric MRI study using diffusion tensor imaging (DTI) and inhomogeneous magnetization transfer (ihMT)
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 29
+IS  - 6
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.3530
+DO  - doi:10.1002/nbm.3530
+SP  - 817
+EP  - 832
+KW  - spinal cord
+KW  - multi-parametric MRI
+KW  - inhomogeneous magnetization transfer (ihMT)
+KW  - diffusion tensor imaging (DTI)
+KW  - microstructure
+KW  - aging
+PY  - 2016
+AB  - Being able to finely characterize the spinal cord (SC) microstructure and its alterations is a key point when investigating neural damage mechanisms encountered in different central nervous system (CNS) pathologies, such as multiple sclerosis, amyotrophic lateral sclerosis or myelopathy. Based on novel methods, including inhomogeneous magnetization transfer (ihMT) and dedicated SC probabilistic atlas post-processing, the present study focuses on the in vivo characterization of the healthy SC tissue in terms of regional microstructure differences between (i) upper and lower cervical vertebral levels and (ii) sensory and motor tracts, as well as differences attributed to normal aging. Forty-eight healthy volunteers aged from 20 to 70?years old were included in the study and scanned at 3?T using axial high-resolution T2*-w imaging, diffusion tensor imaging (DTI) and ihMT, at two vertebral levels (C2 and C5). A processing pipeline with minimal user intervention, SC segmentation and spatial normalization into a reference space was implemented in order to assess quantitative morphological and structural parameters (cross-sectional areas, scalar DTI and MT/ihMT metrics) in specific white and gray matter regions of interest. The multi-parametric MRI metrics collected allowed upper and lower cervical levels to be distinguished, with higher ihMT ratio (ihMTR), higher axial diffusivity (??) and lower radial diffusivity (??) at C2 compared with C5. Significant differences were also observed between white matter fascicles, with higher ihMTR and lower ?? in motor tracts compared with posterior sensory tracts. Finally, aging was found to be associated with significant metric alterations (decreased ihMTR and ??). The methodology proposed here, which can be easily transferred to the clinic, provides new insights for SC characterization. It bears great potential to study focal and diffuse SC damage in neurodegenerative and demyelinating diseases. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Cooper, Emma
+AU  - Neep, Michael J.
+AU  - Eastgate, Patrick
+TI  - Communicating traumatic pathology to ensure shared understanding: is there a recipe for the perfect preliminary image evaluation?
+JO  - Journal of Medical Radiation Sciences
+JA  - J Med Radiat Sci
+VL  - n/a
+IS  - n/a
+SN  - 2051-3895
+UR  - https://doi.org/10.1002/jmrs.375
+DO  - doi:10.1002/jmrs.375
+KW  - radiology
+KW  - medical imaging
+KW  - musculoskeletal
+KW  - boundaries
+KW  - roles
+KW  - clinical application
+KW  - interprofessional
+KW  - multi-disciplinary
+KW  - patient care
+KW  - quality Improvement
+AB  - Abstract Medical imaging and emergency departments work collaboratively to interpret trauma radiographs. In addition to accurate radiographic interpretation, clear communication is crucial to ensure appropriate and timely management of musculoskeletal injuries. This two-step ?how to guide? provides the reviewer with a recipe for effectively evaluating trauma radiographs for traumatic pathology and succinctly documenting the findings. Step 1 is a systematic search of the radiograph: soft tissues, bones, alignment of joints and satisfaction of search (SBASS). Utilising SBASS increases reviewer confidence in identifying traumatic pathology of the appendicular and axial skeleton. Step 2 is a streamlined communication model for the documentation of pathological findings. The WWW acronym (What is it? Where is it? What is it doing?) can be adapted to describe simple or complex traumatic pathology.
+ER  - 
+
+TY  - JOUR
+AU  - Pigneri, Danielle A.
+AU  - Behm, Robert J.
+AU  - Granet, Paul J.
+TI  - Rolling a trauma patient onto the right side increases sensitivity of FAST examination
+JO  - Journal of Clinical Ultrasound
+JA  - J Clin Ultrasound
+VL  - n/a
+IS  - n/a
+SN  - 0091-2751
+UR  - https://doi.org/10.1002/jcu.22797
+DO  - doi:10.1002/jcu.22797
+KW  - abdomen
+KW  - examination technique
+KW  - FAST
+KW  - trauma
+KW  - ultrasonography
+AB  - Abstract Purpose Hemoperitoneum in the hypotensive trauma patient is an indication for emergent laparotomy. Focused assessment sonography in trauma (FAST) is a widely used tool for detecting hemoperitoneum. The usefulness of FAST is currently limited by low sensitivity. We hypothesize rolling patients onto their right side will pool small volumes of fluid into the right upper quadrant of the abdomen leading to increased sensitivity. Methods Peritoneal dialysis patients were recruited for voluntary participation in a small pilot prospective clinical trial. Each participant first underwent a supine FAST followed by a 30-second roll onto the right side. Once back in the supine position, the FAST was repeated (FASTeR or FAST examination after right-sided roll). About 50?mL aliquots of dialysate were sequentially infused into the abdomen and the imaging sequence repeated until a positive finding was obtained. Results Seven patients were consented for the study. One patient was found to have an equivocal examination secondary to renal cysts. All six remaining participants converted to a positive FASTeR at an intra-abdominal fluid volume at which standard FAST was negative. Conclusions Rolling patients to the right side increased FAST sensitivity, converting false-negative to true positives examinations. A larger study is needed to validate our preliminary data.
+ER  - 
+
+TY  - JOUR
+AU  - Sato, Michihiro
+AU  - Yoshii, Hiroshi
+TI  - Reevaluation of Ultrasonography for Solid-Organ Injury in Blunt Abdominal Trauma
+JO  - Journal of Ultrasound in Medicine
+VL  - 23
+IS  - 12
+SN  - 0278-4297
+UR  - https://doi.org/10.7863/jum.2004.23.12.1583
+DO  - doi:10.7863/jum.2004.23.12.1583
+SP  - 1583
+EP  - 1596
+KW  - blunt abdominal trauma
+KW  - computed tomography
+KW  - solid-organ injury
+KW  - ultrasonography
+PY  - 2004
+AB  - Objective. To reevaluate the usefulness of ultrasonography for detecting and classifying solid-organ injuries from blunt abdominal trauma by comparing ultrasonography with computed tomography (CT) and laparotomy. Methods. Six hundred four patients with blunt abdominal trauma were examined by both B-mode ultrasonography and CT for a study period of 14 years. The ultrasonographic examiners were divided into 2 groups depending on their experience with ultrasonography. The ultrasonographic results were then compared with CT and surgical findings. This was a retrospective study. Results. In 198 patients, solid-organ injuries were identified on CT, laparotomy, or both. Sensitivity values in group A (experts) were 87.5% for hepatic injuries, 85.4% for splenic injuries, 77.6% for renal injuries, and 44.4% for pancreatic injuries. Sensitivity values in group B were 46.2% for hepatic injuries, 50.0% for splenic injuries, and 44.1% for renal injuries. The detection rates in group A were 80% to 100% for different types of hepatic injuries except superficial injuries (20%) and 70% to 100% for different types of splenic injuries. The detection rates for renal parenchymal and pancreatic duct injuries were 53.3% and 80%, respectively. The detection rates for injuries requiring intervention were 86.1% in group A and 66.7% in group B. Conclusions. The sensitivity of ultrasonography with the use of CT and surgical findings as reference standards decreased compared with our prior study. However, ultrasonography was found to enable experienced examiners to detect and classify parenchymal injuries efficiently, despite disadvantages in detecting superficial and vascular injuries. Ultrasonography should be used to explore not only free fluid but also solid-organ injuries.
+ER  - 
+
+AU  - D'Amours, Scott K.
+AU  - Deane, Stephen A.
+AU  - Malka, Valerie B.
+C7  - pp. 429-441
+TI  - Principles of trauma management
+SN  - 9781119468080
+UR  - https://doi.org/10.1002/9781119468189.ch48
+DO  - doi:10.1002/9781119468189.ch48
+SP  - 429-441
+KW  - injury demographics
+KW  - trauma system
+KW  - trauma team response
+KW  - mechanism of injury
+KW  - trauma diagnostics
+KW  - trauma resuscitation
+KW  - definitive care in trauma
+KW  - tertiary survey
+KW  - trauma performance improvement
+PY  - 2004
+AB  - Summary Injury is a leading cause of death and disability, carrying with it a large economic burden to society. Young adults are over-represented in this patient group, with the highest economic impact due to years of productive life lost. Regional trauma system planning as well as specific, organised, in-hospital trauma team responses are required to ensure that experienced reception, investigation, decision-making and intervention are both timely and optimised. Trauma guidelines and protocols are the best means of ensuring a thorough and safe approach to injured patients overall, although none of these can function as an alternative to the on-site presence of a clinician with surgical experience. In total, all these approaches are essential for minimising avoidable in-hospital deaths and morbidity in severely injured patients.
+ER  - 
+
+TY  - JOUR
+AU  - Goubran, Maged
+AU  - Rudko, David A.
+AU  - Santyr, Brendan
+AU  - Gati, Joe
+AU  - Szekeres, Trevor
+AU  - Peters, Terry M.
+AU  - Khan, Ali R.
+TI  - In vivo normative atlas of the hippocampal subfields using multi-echo susceptibility imaging at 7 Tesla
+JO  - Human Brain Mapping
+JA  - Hum. Brain Mapp.
+VL  - 35
+IS  - 8
+SN  - 9781119468080
+UR  - https://doi.org/10.1002/hbm.22423
+DO  - doi:10.1002/hbm.22423
+SP  - 3588
+EP  - 3601
+KW  - ultra-high-field MRI
+KW  - quantitative susceptibility mapping
+KW  -  R2* mapping
+KW  - hippocampal subfields
+PY  - 2014
+AB  - Abstract Objectives: To generate a high-resolution atlas of the hippocampal subfields using images acquired from 7 T, multi-echo, gradient-echo MRI for the evaluation of epilepsy and neurodegenerative disorders as well as investigating (apparent transverse relaxation rate) and quantitative volume magnetic susceptibility (QS) of the subfields. Experimental Design: Healthy control subjects (n?=?17) were scanned at 7 T using a multi-echo gradient-echo sequence and susceptibility-weighted magnitude images, and QS maps were reconstructed. We defined a hippocampal subfield labeling protocol for the magnitude image produced from the average of all echoes and assessed reproducibility through volume and shape metrics. A group-wise diffeomorphic registration procedure was used to generate an average atlas of the subfields for the whole subject cohort. The quantitative MRI maps and subfield labels were then warped to the average atlas space and used to measure mean values of and QS characterizing each subfield. Principal Observations: We were able to reliably label hippocampal subfields on the multi-echo susceptibility images. The group-averaged atlas accurately aligns these structures to produce a high-resolution depiction of the subfields, allowing assessment of both quantitative susceptibility and across subjects. Our analysis of variance demonstrates that there are more apparent differences between the subfields on these quantitative maps than the normalized magnitude images. Conclusion: We constructed a high-resolution atlas of the hippocampal subfields for use in voxel-based studies and demonstrated in vivo quantification of susceptibility and in the subfields. This work is the first in vivo quantification of susceptibility values within the hippocampal subfields at 7 T. Hum Brain Mapp 35:3588?3601, 2014. ? 2013 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Zala, Sheri
+TI  - Complex Couples: Multi-Theoretical Couples Counselling with Traumatised Adults Who have a History of Child Sexual Abuse
+JO  - Australian and New Zealand Journal of Family Therapy
+VL  - 33
+IS  - 3
+SN  - 9781119468080
+UR  - https://doi.org/10.1017/aft.2012.27
+DO  - doi:10.1017/aft.2012.27
+SP  - 219
+EP  - 231
+KW  - child sexual abuse
+KW  - trauma
+KW  - couples therapy
+KW  - multi-theoretical approach
+PY  - 2012
+AB  - One of the major ways child sexual abuse can have an impact on individuals is in their later ability to have and maintain fulfilling couple relationships. Survivors may experience avoidance behaviours that become problematic in their adult intimate relationships. If couple therapists fail to focus on these traumatic imprints, the therapy may founder. This paper proposes that a multi-theoretical approach enables the couple therapist to deal with the complex problems such couples present including sexuality and intimacy concerns. Such an approach integrates trauma theory, attachment theory, feminist principles, body-oriented psychotherapy, and systemic couple therapy.
+ER  - 
+
+TY  - JOUR
+AU  - Cormack, Carolynne J.
+AU  - Lavender, Ilona
+AU  - Coombs, Peter R.
+AU  - Ptasznik, Ronnie
+C8  - sono-19-02-OA-0166.R1
+TI  - Sonographer credentialing in extended focussed assessment by sonography in trauma (eFAST)
+JO  - Sonography
+JA  - Sonography
+VL  - 6
+IS  - 2
+SN  - 9781119468080
+UR  - https://doi.org/10.1002/sono.12189
+DO  - doi:10.1002/sono.12189
+SP  - 50
+EP  - 55
+KW  - Credentialing
+KW  - Education
+KW  - eFAST
+KW  - Sonographer
+KW  - Ultrasound
+PY  - 2019
+AB  - Abstract Introduction Sonographers of a large, metropolitan health service were trained and credentialed in extended focussed assessment by sonography in trauma in preparation for a potential mass casualty incident. Given the prior ultrasound experience of this cohort, the suitability of an abbreviated credentialing pathway based upon that required for emergency physicians was evaluated. Method A training and credentialing process to teach extended focussed assessment by sonography in trauma was planned for sonographers. The model was based upon existing credentialing requirements for emergency physicians. The project was undertaken in two stages, using a ?train the trainer? approach. The initial stage trained and credentialed a group of senior sonographer trainers. This group then supported the training and credentialing of the wider sonographer cohort. Results Twenty-eight qualified sonographers were successfully trained and credentialed in extended focussed assessment by sonography in trauma scanning. Practical competency assessment demonstrated 100% (28/28) pass rate. Image interpretation assessment results also demonstrated 100% (28/28) pass rate. Conclusion An abbreviated model is suitable for the training and credentialing of sonographers in extended focussed assessment by sonography in trauma, given their pre-existing ultrasound skills and knowledge.
+ER  - 
+
+TY  - JOUR
+AU  - Callot, Virginie
+AU  - Duhamel, Guillaume
+AU  - Cozzone, Patrick J.
+AU  - Kober, Frank
+TI  - Short-scan-time multi-slice diffusion MRI of the mouse cervical spinal cord using echo planar imaging
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 21
+IS  - 8
+SN  - 9781119468080
+UR  - https://doi.org/10.1002/nbm.1274
+DO  - doi:10.1002/nbm.1274
+SP  - 868
+EP  - 877
+KW  - mouse
+KW  - spinal cord
+KW  - MRI
+KW  - echo planar imaging
+KW  - diffusion
+KW  - high field
+KW  - fiber tracking
+PY  - 2008
+AB  - Abstract Mouse spinal cord (SC) diffusion-weighted imaging (DWI) provides important information on tissue morphology and structural changes that may occur during pathologies such as multiple sclerosis or SC injury. The acquisition scheme of the commonly used DWI techniques is based on conventional spin-echo encoding, which is time-consuming. The purpose of this work was to investigate whether the use of echo planar imaging (EPI) would provide good-quality diffusion MR images of mouse SC, as well as accurate measurements of diffusion-derived metrics, and thus enable diffusion tensor imaging (DTI) and highly resolved DWI within reasonable scan times. A four-shot diffusion-weighted spin-echo EPI (SE-EPI) sequence was evaluated at 11.75?T on a group of healthy mice (n?=?10). SE-EPI-derived apparent diffusion coefficients of gray and white matter were compared with those obtained using a conventional spin-echo sequence (c-SE) to validate the accuracy of the method. To take advantage of the reduction in acquisition time offered by the EPI sequence, multi-slice DTI acquisitions were performed covering the cervical segments (six slices, six diffusion-encoding directions, three b values) within 30?min (vs 2?h for c-SE). From these measurements, fractional anisotropy and mean diffusivities were calculated, and fiber tracking along the C1 to C6 cervical segments was performed. In addition, high-resolution images (74???94?µm2) were acquired within 5?min per direction. Clear delineation of gray and white matter and identical apparent diffusion coefficient values were obtained, with a threefold reduction in acquisition time compared with c-SE. While overcoming the difficulties associated with high spatially and temporally resolved DTI measurements, the present SE-EPI approach permitted identification of reliable quantitative parameters with a reproducibility compatible with the detection of pathologies. The SE-EPI method may be particularly valuable when multiple sets of images from the SC are needed, in cases of rapidly evolving conditions, to decrease the duration of anesthesia or to improve MR exploration by including additional MR measurements. Copyright ? 2008 John Wiley & Sons, Ltd.
+ER  - 
+
+AU  - Flynn, Sandra
+AU  - Lucas, Brian
+C7  - pp. 48-58
+TI  - The Team Approach and Nursing Roles in Orthopaedic and Musculoskeletal Trauma Care
+SN  - 9781118438855
+UR  - https://doi.org/10.1002/9781118941263.ch5
+DO  - doi:10.1002/9781118941263.ch5
+SP  - 48-58
+KW  - Multi-disciplinary team
+KW  - care continuum
+KW  - pathway
+KW  - nursing
+KW  - medical
+KW  - allied health care professional
+KW  - collaboration
+KW  - nurse-led services
+PY  - 2008
+AB  - Summary This chapter provides an insight into the team approach and diverse roles that are apparent within orthopaedic and musculoskeletal trauma care. An overview of establishing a case for nurse-led services within the specialty is also presented. Care across the continuum is provided by a multi-disciplinary team of healthcare professionals who are able to convey benefits such as continuity of care and formulate a comprehensive, holistic view of the patient's needs. In addition the multi-disciplinary team ensures the availability of a range of skills, support and education for the patient, patient's family/carer.
+ER  - 
+
+TY  - JOUR
+AU  - Liu, Saifeng
+AU  - Buch, Sagar
+AU  - Chen, Yongsheng
+AU  - Choi, Hyun-Seok
+AU  - Dai, Yongming
+AU  - Habib, Charbel
+AU  - Hu, Jiani
+AU  - Jung, Joon-Yong
+AU  - Luo, Yu
+AU  - Utriainen, David
+AU  - Wang, Meiyun
+AU  - Wu, Dongmei
+AU  - Xia, Shuang
+AU  - Haacke, E. Mark
+C7  - e3552
+C8  - NBM-15-0290.R3
+TI  - Susceptibility-weighted imaging: current status and future directions
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 30
+IS  - 4
+SN  - 9781118438855
+UR  - https://doi.org/10.1002/nbm.3552
+DO  - doi:10.1002/nbm.3552
+SP  - e3552
+KW  - susceptibility-weighted imaging
+KW  - quantitative susceptibility mapping
+KW  - phase imaging
+KW  - multi-channel phase data combination
+KW  - stroke
+KW  - cerebral microbleeds
+PY  - 2017
+AB  - Susceptibility-weighted imaging (SWI) is a method that uses the intrinsic nature of local magnetic fields to enhance image contrast in order to improve the visibility of various susceptibility sources and to facilitate diagnostic interpretation. It is also the precursor to the concept of the use of phase for quantitative susceptibility mapping (QSM). Nowadays, SWI has become a widely used clinical tool to image deoxyhemoglobin in veins, iron deposition in the brain, hemorrhages, microbleeds and calcification. In this article, we review the basics of SWI, including data acquisition, data reconstruction and post-processing. In particular, the source of cusp artifacts in phase images is investigated in detail and an improved multi-channel phase data combination algorithm is provided. In addition, we show a few clinical applications of SWI for the imaging of stroke, traumatic brain injury, carotid vessel wall, siderotic nodules in cirrhotic liver, prostate cancer, prostatic calcification, spinal cord injury and intervertebral disc degeneration. As the clinical applications of SWI continue to expand both in and outside the brain, the improvement of SWI in conjunction with QSM is an important future direction of this technology. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+AU  - Manthey, David E.
+AU  - Nicks, Bret A.
+C7  - pp. 55-62
+TI  - Trauma Management in the ED
+SN  - 9781405141666
+UR  - https://doi.org/10.1002/9780470755938.ch7
+DO  - doi:10.1002/9780470755938.ch7
+SP  - 55-62
+KW  - trauma management
+KW  - resuscitation
+KW  - physiologic effects
+KW  - bleeding
+KW  - hemodilution
+PY  - 2017
+AB  - Summary The prelims comprise: Introduction Failure to implement surrogates to crystalloid during resuscitation Over-reliance on focused abdominal sonography in trauma Not recognizing the significance of a ?seat-belt sign ? and over?reliance on the CT scan Failure to recognize early shock in the geriatric trauma patient Withholding radiographic studies in the pregnant trauma patient for fear of fetal radiation exposure Inappropriate use of CTs and plain radiographs of the spine Failure to appropriately apply C-spine clearance rules Failure to obtain CT imaging of the cervical spine in patients at high risk for injury Failure to screen for blunt carotid injury in patients at risk Reliance on a dopplerable pulse to rule out vascular injury Failure to intervene selectively on incidentally identified pneumothoraces Avoiding succinylcholine in the acutely burned or crushed patient Failure to provide pelvic compression for open book pelvic fractures Discharging a mild head injury patient with a normal head CT and GCS score of 15 without close observation Important Issues That Lack Formal Data Failure to remove patients from backboards Errors in transporting patients to tertiary care facilities Over-Reliance on laboratory data in trauma Intubation of trauma patients with an endotracheal tube (ETT)that is too small Failure to provide adequate analgesia to trauma patients Pearls for Improving Patient Outcomes
+ER  - 

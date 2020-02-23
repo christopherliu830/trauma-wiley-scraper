@@ -1,0 +1,405 @@
+
+TY  - JOUR
+TI  - Proceedings of the 28th annual meeting of the American Institute of Ultrasound in Medicine and the 12th annual meeting of the Society of Diagnostic Medical Sonographers.
+JO  - Journal of Ultrasound in Medicine
+VL  - 2
+IS  - 10
+SN  - 0278-4297
+UR  - https://doi.org/10.7863/jum.1983.2.10.1
+DO  - doi:10.7863/jum.1983.2.10.1
+SP  - 1
+EP  - 269
+PY  - 1983
+ER  - 
+
+TY  - JOUR
+AU  - Horan, E. M.
+AU  - Metcalfe, L. V. A.
+AU  - de Swarte, M.
+AU  - Cahalan, S. D.
+AU  - Katz, L. M.
+TI  - Pulmonary and hepatic eosinophilic granulomas and epistaxis in a horse suggestive of multi-systemic eosinophilic epitheliotropic disease
+JO  - Equine Veterinary Education
+JA  - Equine Veterinary Education
+VL  - 25
+IS  - 12
+SN  - 0957-7734
+UR  - https://doi.org/10.1111/eve.12017
+DO  - doi:10.1111/eve.12017
+SP  - 607
+EP  - 613
+KW  - horse
+KW  - lungs
+KW  - eosinophilic granulomas
+KW  - multi-systemic eosinophilic epitheliotropic disease
+KW  - epistaxis
+PY  - 2013
+AB  - Summary Multi-systemic eosinophilic epitheliotropic disease (MEED) is a relatively uncommon disease characterised by eosinophilic infiltration of more than one organ system, with the skin and gastrointestinal tract most commonly affected. This case report describes a gelding that presented for weight loss, increased respiratory rate and effort and chronic intermittent epistaxis. During post mortem examination diffuse eosinophilic granulomatous lesions were identified in the lung and liver, leading to a diagnosis of MEED. Veno-occlusive pulmonary remodelling was also discovered, believed to be the cause of the chronic epistaxis and a result of the pulmonary fibrosis and eosinophilic granulomas.
+ER  - 
+
+TY  - JOUR
+AU  - Hoffmann, Beatrice
+AU  - Nguyen, Hien
+AU  - Hill, Hugh F.
+TI  - Diaphragmatic Laceration After Penetrating Trauma
+JO  - Journal of Ultrasound in Medicine
+VL  - 28
+IS  - 9
+SN  - 0278-4297
+UR  - https://doi.org/10.7863/jum.2009.28.9.1259
+DO  - doi:10.7863/jum.2009.28.9.1259
+SP  - 1259
+EP  - 1263
+PY  - 2009
+ER  - 
+
+AU  - Crist, Brett D.
+AU  - Della Rocca, Gregory J.
+C7  - pp. 292-301
+TI  - Orthopedic and Hand Trauma
+SN  - 9780470654613
+UR  - https://doi.org/10.1002/9781118274231.ch30
+DO  - doi:10.1002/9781118274231.ch30
+SP  - 292-301
+KW  - orthopedic and hand trauma
+KW  - Revised Trauma Score of 7, risk of mortality in vehicle crashes
+KW  - pelvic ring fracture type, anterior-posterior compression fractures
+KW  - chemical DVT prophylaxis, 2008 CHEST guidelines, hospital discharge
+KW  - “open book” pelvic fracture, 2 L of lactated ringer's solution
+KW  - ischemia, anoxic injury to muscle after 3 hours
+KW  - Gustilo and Anderson type IIIA, tibia intramedullary nailing
+KW  - right wrist pain, ruling out perilunate dislocation for avoiding poor outcome
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+AU  - Nutbeam, T.
+AU  - Clarke, R.
+AU  - Luff, T.
+AU  - Enki, D.
+AU  - Gay, D.
+TI  - The height of the cricothyroid membrane on computed tomography scans in trauma patients
+JO  - Anaesthesia
+JA  - Anaesthesia
+VL  - 72
+IS  - 8
+SN  - 9780470654613
+UR  - https://doi.org/10.1111/anae.13905
+DO  - doi:10.1111/anae.13905
+SP  - 987
+EP  - 992
+KW  - difficult airway algorithm
+KW  - failed intubation: treatment
+PY  - 2017
+AB  - Summary Emergency cricothyrotomy is a common feature in all difficult airway algorithms. It is the final step following a ?can't intubate, can't oxygenate? scenario. It is rarely performed and has a significant failure rate. There is variation in the reported size of the cricothyroid membrane, especially across population groups. Procedural failure may result from attempting to pass a device with too large an external diameter through the cricothyroid membrane. We aimed to determine the maximum height of the cricothyroid membrane in a UK trauma population. Electronic callipers were used to measure the maximum height of the cricothyroid membrane on 482 reformatted trauma computed tomography scans, 377 (78.2%) of which were in male patients. The mean (SD) height of the cricothyroid membrane, as independently measured by two radiologists, was 7.89 (2.21) mm and 7.88 (2.22) mm in male patients, and 6.00 (1.76) mm and 5.92 (1.71) mm in female patients. The presence of concurrent tracheal intubation or cervical spine immobilisation was found not to have a significant effect on cricothyroid membrane height. The cricothyroid membrane height in the study population was much smaller than that previously reported. Practitioners encountering patients who may require an emergency surgical airway should be aware of these data. Rescue airway equipment with variety of external diameters should be immediately available.
+ER  - 
+
+TY  - JOUR
+AU  - Chaswal, V.
+AU  - Yoo, S.
+AU  - Thomadsen, B. R.
+AU  - Henderson, D. L.
+TI  - Multi-species prostate implant treatment plans incorporating and using a Greedy Heuristic based 3D optimization algorithm
+JO  - Medical Physics
+JA  - Med. Phys.
+VL  - 34
+IS  - 2
+SN  - 9780470654613
+UR  - https://doi.org/10.1118/1.2400827
+DO  - doi:10.1118/1.2400827
+SP  - 436
+EP  - 444
+KW  - Therapeutic applications, including brachytherapy
+KW  - Diseases
+KW  - brachytherapy
+KW  - dosimetry
+KW  - cancer
+KW  - biological organs
+KW  - optimisation
+KW  - prostate implants
+KW  - adjoint functions
+KW  - greedy heuristic
+KW  - brachytherapy
+KW  - multi-species
+KW  - Dosimetry
+KW  - Iridium
+KW  - Tissues
+KW  - Infrared sources
+KW  - Photons
+KW  - Brachytherapy
+KW  - Medical treatment planning
+KW  - Cancer
+KW  - Ultrasonography
+KW  - Gamma rays
+PY  - 2007
+AB  - The goals of interstitial implant brachytherapy include delivery of the target dose in a uniform manner while sparing sensitive structures, and minimizing the number of needles and sources. We investigated the use of a multi-species source arrangement ( with ) for treatment in interstitial prostate brachytherapy. The algorithm utilizes an ?adjoint ratio,? which provides a means of ranking source positions and is the criterion for the Greedy Heuristic optimization. Three cases were compared, each using seeds: case I is the base case using alone, case II uses seeds mixed with , and case III uses mixed with . Both multi-species cases result in lower exposure of the urethra and central prostate region. Compared with the base case, the exposure to the rectum and normal tissue increases by a significant amount for case III as compared with the increase in case II, signifying the effect of slower dose falloff rate of higher energy gammas of in the tissue. The number of seeds and needles decreases in both multi-species cases, with case III requiring fewer seeds and needles than case II. Further, the effect of on uniformity was investigated using the seeds in multi-species implants. An increase in uniformity was observed with an increase in the number of seeds implanted. The effects of prostate size on the evaluation parameters for multi-species implants were investigated using and , and an acceptable treatment plan with increased uniformity was obtained.
+ER  - 
+
+TY  - JOUR
+AU  - Ennis, William J.
+AU  - Gainer, Marianne
+AU  - Meneses, Patricio
+TI  - 129 Mist-Assisted Healing: The Use of MIST™ Ultrasound for Wound Bed Preparation Prior to the Use of Bioengineered Tissue (Apligraf®)
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 9780470654613
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130216ag.x
+DO  - doi:10.1111/j.1067-1927.2005.130216ag.x
+SP  - A28
+EP  - A48
+PY  - 2005
+AB  - The understanding of bioengineered tissue has evolved over the past 5 years. Now considered ?cell therapy,? bioengineered tissue can provide a nonhealing wound with the appropriate complement of cytokines, growth factors, and healthy cells to promote the patient?s healing process. As clinicians have gained experience with Apligraf*, the process of wound bed preparation has proven to be a critical step in order to achieve optimal outcomes with the tissue construct. Recently, the investigators have evaluated a novel device, MIST? ultrasound , recently FDA cleared for the cleansing and debriding of wounds. A subgroup from a total of 23 patients in a research trial using MIST therapy for nonhealing wounds received an Apligraf as part of their treatment regimen. The'bioengineered tissue remained intact for a full 4 weeks postapplication and the appearance of the graft was quite different than our prior experience with the product. On removal of the wound/graft eschar, patients had achieved complete epithelialization. This report describes the patients who underwent this combination of technologies along with wound photographs, measurements and patient histories. As we learn more about the biochemistry of healing we are able to ?look? at how we combine and use advanced wound care technologies. Acknowledgments:? This study was supported from a grant from Celleration Inc. Product notation: *?Apligraf? is a registered trademark of Novartis, Inc., East Hanover, NJ ? 2004 Organogenesis, Inc., Canton, MA ? MIST? ultrasound is a registered trademark of Celleration Inc., Eden Prairie, MN.
+ER  - 
+
+TY  - JOUR
+AU  - Zodan, T.
+AU  - Gregov, M.
+AU  - Sparac, V.
+AU  - Kurjak, A.
+AU  - Kupesic, S.
+AU  - Ilijas, M.
+TI  - WS17-06Three-dimensional power Doppler ultrasound as a second line screening tool in ovarian cancer screening – preliminary results
+JO  - Ultrasound in Obstetrics & Gynecology
+VL  - 16
+IS  - s1
+SN  - 9780470654613
+UR  - https://doi.org/10.1046/j.1469-0705.2000.00009-1-114.x
+DO  - doi:10.1046/j.1469-0705.2000.00009-1-114.x
+SP  - 32
+EP  - 32
+PY  - 2000
+AB  - Introduction In this screening program, 2D color Doppler (2D CD) was used as the first, and CA-125 and 3D power Doppler (3D PD) were used as second-line screening tools when 2D scoring system indicated possible malignancy. The study was designed to show whether early stages of ovarian cancer can be correctly diagnosed by 3D PD and whether 3D would perform better than CA-125. Methods All patients were either postmenopausal, or premenopausal with positive family history, or they had a persistent ovarian cyst. They were all examined by 2D CD and if values of scoring system were over cut-off point, 3D PD analysis was performed and CA-125 was tested. Results A total of 108 patients (97 postmenopausal and 11 premenopausal with family history) had a 2D scan. In 5 cases 2D scoring indicated possible malignancy after which 3D analysis was done as well as test for CA-125. In 2 cases 3D PD scoring was negative, as well as CA-125 and the lesions were simple cyst surrounded by chronic inflammatory process in the first patient and ovarian fibroma in the second. In 3 cases 3D PD scoring was positive while CA-125 measurement showed increased values only in 1 case. PHD analysis confirmed the diagnosis of ovarian carcinoma in all three lesions. 3D PD correctly predicted benign or malignant nature of the lesion, while CA-125 failed to do so in two stage 1 ovarian cancers. Conclusion Although now expensive and in most hospitals unavailable, 3D power Doppler is a future screening tool in ovarian cancer screening programs. However, a lot more women should be screened before proper statistical analysis could be done.
+ER  - 
+
+AU  - Napier, James
+AU  - Messent, Mark
+C7  - pp. 401-412
+TI  - Emergency Management of Cardiac Trauma
+SN  - 9781405148573
+UR  - https://doi.org/10.1002/9781444314502.ch23
+DO  - doi:10.1002/9781444314502.ch23
+SP  - 401-412
+KW  - Transoesophageal echocardiography
+KW  - Penetrating cardiac and great vessel injury
+KW  - cardio-pulmonary bypass (CPB)
+KW  - endovascular stent grafting (EVSG)
+KW  - Focused Assessment with Sonography for Trauma (FAST)
+KW  - Blunt cardiac injury
+KW  - Forty to 83% of patients with myocardial contusion have ECG
+KW  - The advent of helical and spiral computed tomography (CT)
+PY  - 2000
+AB  - Summary This chapter contains sections titled: Introduction Blunt cardiac injury Aortic injury Penetrating cardiac and great vessel injury Summary References
+ER  - 
+
+TY  - JOUR
+TI  - Proceedings of the 30th annual meeting of the American Institute of Ultrasound in Medicine and the 14th annual meeting of the Society of Diagnostic Medical Sonographers.
+JO  - Journal of Ultrasound in Medicine
+VL  - 4
+IS  - 10
+SN  - 9781405148573
+UR  - https://doi.org/10.7863/jum.1985.4.10.1
+DO  - doi:10.7863/jum.1985.4.10.1
+SP  - 1
+EP  - 198
+PY  - 1985
+ER  - 
+
+AU  - Melniker, Lawrence A.
+C7  - pp. 347-354
+TI  - Chest Pain and Dyspnea
+SN  - 9780470657577
+UR  - https://doi.org/10.1002/9781119072874.ch32
+DO  - doi:10.1002/9781119072874.ch32
+SP  - 347-354
+KW  - acute coronary syndrome
+KW  - chronic obstructive pulmonary disease
+KW  - congestive heart failure
+KW  - dyspnea
+KW  - focused cardiac ultrasound
+KW  - non-ischaemia-related chest pain
+KW  - pulmonary function tests
+PY  - 1985
+AB  - Summary Chest pain and dyspnoea are among the most common complaints seen in the emergency department, accounting for nearly 20% of all visits. This chapter focuses on acute coronary syndrome, non-ischaemia-related chest pain, and congestive heart failure (CHF). In addition to ischemic heart disease, causes of chest pain may include pulmonary embolus, disorders of the pericardium, pleura and the chest wall, as well as oesophageal and spinal. A combination of focused cardiac and lung ultrasound can elucidate multiple causes of chest pain. Focused cardiac ultrasound (FoCUS) is useful in evaluating a variety of pathological conditions affecting the pericardium, especially pericardial effusion. In addition to heart failure, a number of disorders can cause dyspnoea, including chronic obstructive pulmonary disease (COPD), asthma, pneumonia, sepsis, pulmonary embolism, deconditioning, metabolic acidosis, anxiety and many others. Pulmonary function tests (PFTs) have been used for many years for distinguishing dyspnoea of pulmonary origin from that of cardiac origin.
+ER  - 
+
+TY  - JOUR
+AU  - Collet e Silva, F. S.
+AU  - Bardella, R.
+AU  - Fontes, B.
+AU  - Poggetti, R. S.
+AU  - Birolini, D.
+TI  - TS15P UNCOMMON ABDOMINAL HEMORRHAGE DUE TO BLUNT TRAUMA: BLENDING FROM AN ASYMPTOMATIC ABDOMINAL TUMOR INJURY – A CASE REPORT
+JO  - ANZ Journal of Surgery
+VL  - 77
+IS  - s1
+SN  - 9780470657577
+UR  - https://doi.org/10.1111/j.1445-2197.2007.04133_15.x
+DO  - doi:10.1111/j.1445-2197.2007.04133_15.x
+SP  - A96
+EP  - A96
+PY  - 2007
+AB  - Asymptomatic tumors are not uncommon, may be diagnosed during clinical examination or during surgical interventions for other purposes such as treatment of a hemorrhage due a blunt trauma. Case report? 6 year-old boy had fallen, hitting his abdomen against a rock, and arrived at hospital ten hours later. Initial assessment he was complaining of diffuse abdominal pain; his physical examination showed: respiratory rate: 16?mov/min, blood pressure: 100???80?mmHg, heart rate: 100?bat/min, and Glasgow coma score: 15. His abdomen was distended, with guarding and rebound tenderness, and had a palpable mass. FAST ultrasound was positive; and Ct-scan showed an abdominal mass with 15???12???7?cm dimension, and moderate amount of free blood in the abdominal cavity. Laboratory tests showed: hemoglobin 9.9?mg/dl, hematocritic 28.8%, white blood cells 6.900?cel/dl. Midline laparotomy was performed, a large, injured and bleeding mesenteric mass was found encircling superior mesentery artery and several small bowel loops; 500?ml of free blood was found in the peritoneal cavity. Mesenteric mass was partially removed with a segment of the small bowel. Findings of anatomico-pathologic examination revealed an intestinal Burkitt lymphoma, with mesenteric linfonodes. Patient had an uneventful postoperative course, and started with quimotherapy. Comments? This case report shows an unusual traumatic abdominal blending that could not be clearly diagnosed before laparotomy was performed. The emergency of this case was bleeding control, decision to remove mass was taken only for this purpose, and not to treat the tumor. As removal of the whole mass was impossible, a partial removal was performed.
+ER  - 
+
+TY  - JOUR
+AU  - SCHÜLLER, J.
+AU  - SCHMELLER, N. T.
+AU  - KERSTING, H.
+AU  - WALTHER, V.
+TI  - Ultrasound-guided Percutaneous One-step Nephrostomy
+JO  - British Journal of Urology
+VL  - 56
+IS  - 3
+SN  - 9780470657577
+UR  - https://doi.org/10.1111/j.1464-410X.1984.tb05412.x
+DO  - doi:10.1111/j.1464-410X.1984.tb05412.x
+SP  - 341
+EP  - 343
+PY  - 1984
+ER  - 
+
+TY  - JOUR
+AU  - Rozen, W. M.
+AU  - Ma, E. H.
+AU  - Jones, I. T.
+AU  - Judson, R. T.
+TI  - TS14P MANAGING AN EMERGING TRAUMA EPIDEMIC IN AUSTRALIA: ABDOMINAL STAB WOUNDS
+JO  - ANZ Journal of Surgery
+VL  - 77
+IS  - s1
+SN  - 9780470657577
+UR  - https://doi.org/10.1111/j.1445-2197.2007.04133_14.x
+DO  - doi:10.1111/j.1445-2197.2007.04133_14.x
+SP  - A95
+EP  - A96
+PY  - 2007
+AB  - Purpose? The incidence of abdominal stab wounds treated at the Royal Melbourne Hospital has noticeably increased over the 12 month period to March 2006, mirroring an increase in penetrating abdominal trauma throughout many Australian trauma centers. Management protocols for abdominal stab wounds are still contentious. The current study quantifies the increase in stab wounds at the Royal Melbourne Hospital over a 24 month period and analyzes the management and investigative modalities utilized. Methodology? A review of the Trauma Unit of the Royal Melbourne Hospital was performed for the period of March 20th 2004 until March 20th 2006. All anterior abdominal stab wounds were collated for the site of injury, investigations performed on admission, results of investigations, operations performed, and findings at operation. Results? There were 4244 emergency trauma presentations over the 24 months period between March 20th 2004 and March 20th 2006. The second 12 month period showed a 21.5% increase in overall trauma admissions and a 91.3% increase in anterior abdominal stabbings. The percentage of stab wounds treated conservatively fell by 21.8%, with the percentage of laparotomies increasing by 14.2%. Almost 30% of all patients undergoing surgery had no visceral injury at operation. Twenty CT scans were performed preoperatively, with a sensitivity of 79% and specificity of 100%. Conclusion? Abdominal stab wounds treated at Royal Melbourne Hospital have substantially increased over the past 12 months. Whilst management is still contentious, a management protocol for anterior abdominal stab wounds is proposed, outlining the role of CT scanning, conservative management, laparoscopy and laparotomy
+ER  - 
+
+TY  - JOUR
+AU  - Vannier, M
+TI  - TU-A-201C-01: Multi-Modality Imaging: Current State of the Art
+JO  - Medical Physics
+JA  - Med. Phys.
+VL  - 37
+IS  - 6Part2
+SN  - 9780470657577
+UR  - https://doi.org/10.1118/1.3469173
+DO  - doi:10.1118/1.3469173
+SP  - 3371
+EP  - 3371
+KW  - Computed tomography
+KW  - Medical imaging
+KW  - Ultrasonography
+KW  - Magnetic resonance imaging
+KW  - Positron emission tomography
+KW  - Dosimetry
+KW  - Single photon emission computed tomography
+KW  - Functional monitoring and imaging
+KW  - Fluoroscopy
+KW  - Medical treatment planning
+PY  - 2010
+AB  - Computed tomography is the cornerstone of modern radiology and arguably the most important modality in terms of clinical impact. CT is used extensively for emergencies, cardiovascular, pulmonary, gastrointestinal, endocrine, neurological, orthopedic and other applications - often as the first and only imaging procedure needed for diagnosis, characterization, staging, treatment planning, and follow-up. CT is often the first and only modality needed. There is high likelihood that a patient will have a CT scan in the emergency department, as an outpatient, or as an inpatient for a multitude of indications - trauma, suspected infection or malignancy, and frequently to investigate symptoms such as pain and fever, or to answer a question raised by another test, such as an EKG abnormality or ultrasound finding. Many other modalities are available, including MRI, ultrasound, fluoroscopy and nuclear medicine PET and SPECT. Depending on the clinical question, more than one modality may be required, so questions raised in a CT exam could be resolved with PET or MRI. Each modality has strengths and limitations which are known and recognized relative to the clinical indication. Since pre-certification may be required by payors prior to imaging, these indications are important for reimbursement. The principal drivers for clinical imaging, both single and multi-modality today are reimbursement, radiation dose, workflow efficiency, and availability. Multimodality imaging is most frequently applied to solve complex or demanding clinical problems, and almost never used for screening. A major advantage of CT in hospitals and clinics as well as free-standing imaging centers, is its availability 24/7, while other modalities such as US and MRI may be limited to scheduled examinations in the majority of cases. Multimodality scanners based on CT incorporate PET/SPECT and MRI to combine morphologic and functional imaging. The most demanding imaging applications are cardiovascular, where complex motion and small morphologic features coexist, so imaging methods that are very satisfactory elsewhere in the body may not be successful. Clinical CT scanning consists of administering toxic materials, e.g., contrast media, while monitoring the EKG and illuminating the body with high brightness x-rays. Larger area detectors and higher acquisition rates are welcome improvements, but don't solve all of the problems encountered with scan variability due to respiratory, whole body, and cardiac motion, especially in a spectrum of patients from infant to massively obese adult sizes (< 1 kg to 250 kg or more). The challenges and pitfalls in CT and multimodality imaging will be delineated and evaluated relative to current and future technology. Learning Objectives: 1. The role of x-ray computed tomography (CT) is central to multimodality imaging in diagnosis, staging, treatment planning and follow-up. 2. The principal drivers for CT and complementary use of other modalities are availability, reimbursement, workflow, and radiation dose. The influence of these factors on clinical decision making will be outlined and illustrated. 3. The limitations of a single modality, such as CT, can be overcome by integrating complementary instrumentation, especially PET/SPECT, MRI and others (such as ultrasound and fluoroscopy) to provide simultaneous morphologic and functional imaging.
+ER  - 
+
+TY  - JOUR
+AU  - Dumantepe, Mert
+AU  - Uyar, Ibrahim
+AU  - Teymen, Burak
+AU  - Ugur, Oguz
+AU  - Enc, Yavuz
+TI  - Improvements in Pulmonary Artery Pressure and Right Ventricular Function After Ultrasound-Accelerated Catheter-Directed Thrombolysis for the Treatment of Pulmonary Embolism
+JO  - Journal of Cardiac Surgery
+JA  - J Card Surg
+VL  - 29
+IS  - 4
+SN  - 9780470657577
+UR  - https://doi.org/10.1111/jocs.12354
+DO  - doi:10.1111/jocs.12354
+SP  - 455
+EP  - 463
+PY  - 2014
+AB  - Abstract Objective To evaluate the efficacy of ultrasound-accelerated catheter-directed thrombolysis (UACDT) in the treatment of patients with massive and submassive pulmonary embolism (PE). Method Twenty-two patients (13 males and nine females; age range, 38 to 71 years; mean age, 53.7 years) with massive or submassive PE were treated with UACDT with the EKOS EkoSonic? system. All patients exhibited acute symptoms, computed tomography (CT) evidence of large thrombus burden, and evidence of right ventricular (RV) dysfunction and/or failure. Clinical outcomes and complications, RV pressures, and thrombus clearance were evaluated. Results Treatment of 22 patients resulted in complete thrombus clearance (≥90%) in 77.2% of the patients, and near-complete (50% to 90%) clearance in 22.8%. The median tissue plasminogen activator (tPA) dose for all patients in our study was 21.0?mg (range 16 to 35?mg) and the median infusion time was 20.5?hours (range 12 to 28?hours). Measurements before and after treatment showed a decrease in pulmonary artery pressure (67?±?14 to 34?±?11?mmHg [systolic], p?<?0.001). The RV/LV ratio decreased from 1.29?±?0.17 to 0.92?±?0.11 at follow-up (p?<?0.001). Modified Miller score was significantly reduced (from 28?±?4 to 13?±?5, p?<?0.001) in 21 of 22 (95%) patients who survived to discharge. There were only two minor access site bleeding complications, neither requiring transfusion. Conclusion This study demonstrates safety and effectiveness of UACDT in patients with acute PE with a large thrombus burden. doi: 10.1111/jocs.12354 (J Card Surg 2014;29:455?463)
+ER  - 
+
+TY  - JOUR
+AU  - Gillies, Derek J.
+AU  - Awad, Joseph
+AU  - Rodgers, Jessica R.
+AU  - Edirisinghe, Chandima
+AU  - Cool, Derek W.
+AU  - Kakani, Nirmal
+AU  - Fenster, Aaron
+TI  - Three-dimensional therapy needle applicator segmentation for ultrasound-guided focal liver ablation
+JO  - Medical Physics
+JA  - Med. Phys.
+VL  - 46
+IS  - 6
+SN  - 9780470657577
+UR  - https://doi.org/10.1002/mp.13548
+DO  - doi:10.1002/mp.13548
+SP  - 2646
+EP  - 2658
+KW  - 3D needle applicator segmentation
+KW  - ablation
+KW  - liver cancer
+KW  - minimally invasive
+KW  - percutaneous
+PY  - 2019
+AB  - Purpose Minimally invasive procedures, such as microwave ablation, are becoming first-line treatment options for early-stage liver cancer due to lower complication rates and shorter recovery times than conventional surgical techniques. Although these procedures are promising, one reason preventing widespread adoption is inadequate local tumor ablation leading to observations of higher local cancer recurrence compared to conventional procedures. Poor ablation coverage has been associated with two-dimensional (2D) ultrasound (US) guidance of the therapy needle applicators and has stimulated investigation into the use of three-dimensional (3D) US imaging for these procedures. We have developed a supervised 3D US needle applicator segmentation algorithm using a single user input to augment the addition of 3D US to the current focal liver tumor ablation workflow with the goals of identifying and improving needle applicator localization efficiency. Methods The algorithm is initialized by creating a spherical search space of line segments around a manually chosen seed point that is selected by a user on the needle applicator visualized in a 3D US image. The most probable trajectory is chosen by maximizing the count and intensity of threshold voxels along a line segment and is filtered using the Otsu method to determine the tip location. Homogeneous tissue mimicking phantom images containing needle applicators were used to optimize the parameters of the algorithm prior to a four-user investigation on retrospective 3D US images of patients who underwent microwave ablation for liver cancer. Trajectory, axis localization, and tip errors were computed based on comparisons to manual segmentations in 3D US images. Results Segmentation of needle applicators in ten phantom 3D US images was optimized to median (Q1, Q3) trajectory, axis, and tip errors of 2.1 (1.1, 3.6)°, 1.3 (0.8, 2.1) mm, and 1.3 (0.7, 2.5) mm, respectively, with a mean ± SD segmentation computation time of 0.246 ± 0.007 s. Use of the segmentation method with a 16 in vivo 3D US patient dataset resulted in median (Q1, Q3) trajectory, axis, and tip errors of 4.5 (2.4, 5.2)°, 1.9 (1.7, 2.1) mm, and 5.1 (2.2, 5.9) mm based on all users. Conclusions Segmentation of needle applicators in 3D US images during minimally invasive liver cancer therapeutic procedures could provide a utility that enables enhanced needle applicator guidance, placement verification, and improved clinical workflow. A semi-automated 3D US needle applicator segmentation algorithm used in vivo demonstrated localization of the visualized trajectory and tip with less than 5° and 5.2 mm errors, respectively, in less than 0.31 s. This offers the ability to assess and adjust needle applicator placements intraoperatively to potentially decrease the observed liver cancer recurrence rates associated with current ablation procedures. Although optimized for deep and oblique angle needle applicator insertions, this proposed workflow has the potential to be altered for a variety of image-guided minimally invasive procedures to improve localization and verification of therapy needle applicators intraoperatively.
+ER  - 
+
+TY  - JOUR
+TI  - TRAUMA
+JO  - Australian and New Zealand Journal of Surgery
+VL  - 68
+IS  - S1
+SN  - 9780470657577
+UR  - https://doi.org/10.1111/j.1445-2197.1998.tb07251.x
+DO  - doi:10.1111/j.1445-2197.1998.tb07251.x
+SP  - A142
+EP  - A150
+PY  - 1998
+ER  - 
+
+TY  - JOUR
+AU  - Aznar, J. A.
+AU  - Pérez-Alenda, S.
+AU  - Jaca, M.
+AU  - García-Dasí, M.
+AU  - Vila, C.
+AU  - Moret, A.
+AU  - Querol, F.
+AU  - Bonanad, S.
+TI  - Home-delivered ultrasound monitoring for home treatment of haemarthrosis in haemophilia A
+JO  - Haemophilia
+JA  - Haemophilia
+VL  - 21
+IS  - 2
+SN  - 9780470657577
+UR  - https://doi.org/10.1111/hae.12622
+DO  - doi:10.1111/hae.12622
+SP  - e147
+EP  - e150
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+AU  - Lee, Kwang Hwi
+AU  - Ko, Eun Young
+AU  - Han, Boo-Kyung
+AU  - Shin, Jung Hee
+AU  - Kang, Seok Seon
+AU  - Hahn, Soo Yeon
+TI  - Thrombosed Pseudoaneurysm of the Breast After Blunt Trauma
+JO  - Journal of Ultrasound in Medicine
+VL  - 28
+IS  - 2
+SN  - 9780470657577
+UR  - https://doi.org/10.7863/jum.2009.28.2.233
+DO  - doi:10.7863/jum.2009.28.2.233
+SP  - 233
+EP  - 238
+PY  - 2009
+ER  - 

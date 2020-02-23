@@ -1,0 +1,381 @@
+
+TY  - JOUR
+AU  - Dunster, Joanne L.
+TI  - The macrophage and its role in inflammation and tissue repair: mathematical and systems biology approaches
+JO  - WIREs Systems Biology and Medicine
+JA  - WIREs Syst Biol Med
+VL  - 8
+IS  - 1
+SN  - 1939-5094
+UR  - https://doi.org/10.1002/wsbm.1320
+DO  - doi:10.1002/wsbm.1320
+SP  - 87
+EP  - 99
+PY  - 2016
+AB  - Macrophages are central to the inflammatory response and its ability to resolve effectively. They are complex cells that adopt a range of subtypes depending on the tissue type and stimulus that they find themselves under. This flexibility allows them to play multiple, sometimes opposing, roles in inflammation and tissue repair. Their central role in the inflammatory process is reflected in macrophage dysfunction being implicated in chronic inflammation and poorly healing wounds. In this study, we discuss recent attempts to model mathematically and computationally the macrophage and how it partakes in the complex processes of inflammation and tissue repair. There are increasing data describing the variety of macrophage phenotypes and their underlying transcriptional programs. Dynamic mathematical and computational models are an ideal way to test biological hypotheses against experimental data and could aid in understanding this multi-functional cell and its potential role as an attractive therapeutic target for inflammatory conditions and tissue repair. WIREs Syst Biol Med 2016, 8:87?99. doi: 10.1002/wsbm.1320 This article is categorized under: Biological Mechanisms > Cell Fates Models of Systems Properties and Processes > Cellular Models Models of Systems Properties and Processes > Mechanistic Models
+ER  - 
+
+TY  - JOUR
+AU  - Delano, Matthew J.
+AU  - Ward, Peter A.
+TI  - The immune system's role in sepsis progression, resolution, and long-term outcome
+JO  - Immunological Reviews
+JA  - Immunol Rev
+VL  - 274
+IS  - 1
+SN  - 0105-2896
+UR  - https://doi.org/10.1111/imr.12499
+DO  - doi:10.1111/imr.12499
+SP  - 330
+EP  - 353
+KW  - adaptive immune dysfunction
+KW  - immune suppression sepsis
+KW  - inflammation
+KW  - innate immune dysfunction
+KW  - sepsis
+PY  - 2016
+AB  - Summary Sepsis occurs when an infection exceeds local tissue containment and induces a series of dysregulated physiologic responses that result in organ dysfunction. A subset of patients with sepsis progress to septic shock, defined by profound circulatory, cellular, and metabolic abnormalities, and associated with a greater mortality. Historically, sepsis-induced organ dysfunction and lethality were attributed to the complex interplay between the initial inflammatory and later anti-inflammatory responses. With advances in intensive care medicine and goal-directed interventions, early 30-day sepsis mortality has diminished, only to steadily escalate long after ?recovery? from acute events. As so many sepsis survivors succumb later to persistent, recurrent, nosocomial, and secondary infections, many investigators have turned their attention to the long-term sepsis-induced alterations in cellular immune function. Sepsis clearly alters the innate and adaptive immune responses for sustained periods of time after clinical recovery, with immune suppression, chronic inflammation, and persistence of bacterial representing such alterations. Understanding that sepsis-associated immune cell defects correlate with long-term mortality, more investigations have centered on the potential for immune modulatory therapy to improve long-term patient outcomes. These efforts are focused on more clearly defining and effectively reversing the persistent immune cell dysfunction associated with long-term sepsis mortality.
+ER  - 
+
+TY  - JOUR
+AU  - Evers, Lars H.
+AU  - Bhavsar, Dhaval
+AU  - Mailänder, Peter
+TI  - The biology of burn injury
+JO  - Experimental Dermatology
+VL  - 19
+IS  - 9
+SN  - 0906-6705
+UR  - https://doi.org/10.1111/j.1600-0625.2010.01105.x
+DO  - doi:10.1111/j.1600-0625.2010.01105.x
+SP  - 777
+EP  - 783
+KW  - apoptosis
+KW  - burn injury
+KW  - wound healing
+KW  - zone of stasis
+PY  - 2010
+AB  - Please cite this paper as: The biology of burn injury. Experimental Dermatology 2010; 19: 777?783. Abstract:? Burn injury is a complex traumatic event with various local and systemic effects, affecting several organ systems beyond the skin. The pathophysiology of the burn patient shows the full spectrum of the complexity of inflammatory response reactions. In the acute phase, inflammation mechanism may have negative effects because of capillary leak, the propagation of inhalation injury and the development of multiple organ failure. Attempts to mediate these processes remain a central subject of burn care research. Conversely, inflammation is a necessary prologue and component in the later-stage processes of wound healing. In this review, we are attempting to present the current science of burn wound pathophysiology and wound healing. We also describe the evolution of innovative strategies for burn management.
+ER  - 
+
+TY  - JOUR
+AU  - Alhamdi, Yasir
+AU  - Toh, Cheng-Hock
+TI  - The role of extracellular histones in haematological disorders
+JO  - British Journal of Haematology
+JA  - Br J Haematol
+VL  - 173
+IS  - 5
+SN  - 0007-1048
+UR  - https://doi.org/10.1111/bjh.14077
+DO  - doi:10.1111/bjh.14077
+SP  - 805
+EP  - 811
+KW  - extracellular histones
+KW  - nucleosomes
+KW  - neutrophil extracellular traps
+KW  - cell death
+KW  - thrombin
+PY  - 2016
+AB  - Summary Over the past decades, chromosomal alterations have been extensively investigated for their pathophysiological relevance in haematological malignancies. In particular, epigenetic modifications of intra-nuclear histones are now known as key regulators of healthy cell cycles that have also evolved into novel therapeutic targets for certain blood cancers. Thus, for most haematologists, histones are DNA-chained proteins that are buried deep within chromatin. However, the plot has deepened with recent revelations on the function of histones when unchained and released extracellularly upon cell death or from activated neutrophils as part of neutrophil extracellular traps (NETs). Extracellular histones and NETs are increasingly recognized for profound cytotoxicity and pro-coagulant effects. This article highlights the importance of recognizing this new paradigm of extracellular histones as a key player in host defence through its damage-associated molecular patterns, which could translate into novel diagnostic and therapeutic biomarkers in various haematological and critical disorders.
+ER  - 
+
+TY  - JOUR
+AU  - WILLIAMS, Bryan J.
+AU  - DEHNBOSTEL, Joanne
+AU  - BLACKWELL, Timothy S.
+TI  - Pseudomonas aeruginosa: Host defence in lung diseases
+JO  - Respirology
+VL  - 15
+IS  - 7
+SN  - 1323-7799
+UR  - https://doi.org/10.1111/j.1440-1843.2010.01819.x
+DO  - doi:10.1111/j.1440-1843.2010.01819.x
+SP  - 1037
+EP  - 1056
+KW  - biofilm
+KW  - innate immunity
+KW  - mucosal immunity
+KW  - Pseudomonas aeruginosa
+KW  - respiratory infection
+PY  - 2010
+AB  - ABSTRACT Lung infections caused by the opportunistic pathogen Pseudomonas aeruginosa can present as a spectrum of clinical entities from a rapidly fatal pneumonia in a neutropenic patient to a multi-decade bronchitis in patients with cystic fibrosis. P. aeruginosa is ubiquitous in our environment, and one of the most versatile pathogens studied, capable of infecting a number of diverse life forms and surviving harsh environmental factors. It is also able to quickly adapt to new environments, including the lung, where it orchestrates virulence factors to acquire necessary nutrients, and if necessary, turn them off to prevent immune recognition. Despite these capabilities, P. aeruginosa rarely infects healthy human lungs. This is secondary to a highly evolved host defence mechanism that efficiently removes inhaled or aspirated pseudomonads. Many arms of the respiratory host defence have been elucidated using P. aeruginosa as a model pathogen. Human infections with P. aeruginosa have demonstrated the importance of the mechanical barrier functions including mucus clearance, and the innate immune system, including the critical role of the neutrophilic response. As more models of persistent or biofilm P. aeruginosa infections are developed, the role of the adaptive immune response will likely become more evident. Understanding the pathogenesis of P. aeruginosa, and the respiratory host defence response to it has, and will continue to, lead to novel therapeutic strategies to help patients.
+ER  - 
+
+TY  - JOUR
+AU  - Simak, Jan
+AU  - De Paoli, Silvia
+C7  - e1448
+TI  - The effects of nanomaterials on blood coagulation in hemostasis and thrombosis
+JO  - WIREs Nanomedicine and Nanobiotechnology
+JA  - WIREs Nanomed Nanobiotechnol
+VL  - 9
+IS  - 5
+SN  - 1939-5116
+UR  - https://doi.org/10.1002/wnan.1448
+DO  - doi:10.1002/wnan.1448
+SP  - e1448
+PY  - 2017
+AB  - The blood coagulation balance in the organism is achieved by the interaction of the blood platelets (PLTs) with the plasma coagulation system (PCS) and the vascular endothelial cells. In healthy organism, these systems prevent thrombosis and, in events of vascular damage, enable blood clotting to stop bleeding. The dysregulation of hemostasis may cause serious thrombotic and/or hemorrhagic pathologies. Numerous engineered nanomaterials are being investigated for biomedical purposes and are unavoidably exposed to the blood. Also, nanomaterials may access vascular system after occupational, environmental, or other types of exposure. Thus, it is essential to evaluate the effects of engineered nanomaterials on hemostasis. This review focuses on investigations of nanomaterial interactions with the blood components involved in blood coagulation: the PCS and PLTs. Particular emphases include the pathophysiology of effects of nanomaterials on the PCS, including the kallikrein-kinin system, and on PLTs. Methods for investigating these interactions are briefly described, and a review of the most important studies on the interactions of nanomaterials with plasma coagulation and platelets is provided. WIREs Nanomed Nanobiotechnol 2017, 9:e1448. doi: 10.1002/wnan.1448 This article is categorized under: Implantable Materials and Surgical Technologies > Nanomaterials and Implants Toxicology and Regulatory Issues in Nanomedicine > Toxicology of Nanomaterials
+ER  - 
+
+TY  - JOUR
+AU  - Schiro-Harvey,             K.
+AU  - Diamond, R.
+AU  - Jones, A.
+AU  - Buss, J.
+TI  - Relationship of Hypoalbuminemia to Multiple Clinical Factors in Hemodialysis Patients
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085bl.x
+DO  - doi:10.1111/j.1492-7535.2004.0085bl.x
+SP  - 102
+EP  - 103
+PY  - 2004
+AB  - Research shows that low albumin is correlated with higher morbidity and mortality in the dialysis population. The reasons for this are multi-factorial and may be related to inadequate protein intake, infection and sepsis, inadequate dialysis, or catabolism of uremia. USRDS data show that ESRD Network 16 tends to have lower albumins compared to other ESRD Networks. Objective:? To evaluate albumin status of HD patients at Puget Sound Kidney Centers, Everett, WA (ESRD Network 16) and identify potential factors that may put patients at risk of hypoalbuminemia. Methods:? Clinical and biochemical data were collected for 3 months on 221 HD patients. Data included serum albumin (bromcresol purple), calcium, phosphorus, CO2, Hct, % saturation, ferritin, PTH, BUN, Kt/V, URR, nPCR, hours of HD treatment, interdialytic fluid weight gains, DW changes, incidence of infection and hospitalization, catheter use for dialysis access, presence of diabetes and other co-morbidities, dialyzer reuse, social/psychological status, and use of nutrition supplements. All biochemical data were collected after the longest interdialytic period and analyzed at the same reference laboratory. Data were averaged for each patient for the 3 months and correlations between parameters were determined using Chi-square analysis. Results:? 25% of all patients had albumins <3.2?g/dL (reference range for normal population 3.5?5.0?g/dL). Patients with lower albumins were significantly more likely to have DM (p?<?0.02), use catheters for HD access (p?<?0.001), had infections during the previous month (p?<?0.001), been hospitalized during the previous month (p?<?0.002), have co-morbid issues (p?<?0.001), and use nutrition supplements (p?<?0.002). No other factors were significantly correlated with lower albumin. Conclusion:? Factors other than nutrition seem to be related to hypoalbuminemia. This study has prompted improved protocols for catheter care and use, infection control, and early intervention for nutrition supplement use. Increased screening and monitoring at-risk patients (those with diabetes and other co-morbid conditions) has resulted in improved patient care.
+ER  - 
+
+TY  - JOUR
+AU  - Vogt, Katja L.
+AU  - Summers, Charlotte
+AU  - Chilvers, Edwin R.
+AU  - Condliffe, Alison M.
+C7  - e12967
+TI  - Priming and de-priming of neutrophil responses in vitro and in vivo
+JO  - European Journal of Clinical Investigation
+JA  - Eur J Clin Invest
+VL  - 48
+IS  - S2
+SN  - 0014-2972
+UR  - https://doi.org/10.1111/eci.12967
+DO  - doi:10.1111/eci.12967
+SP  - e12967
+KW  - de-priming
+KW  - degranulation
+KW  - neutrophils
+KW  - priming
+KW  - respiratory burst
+KW  - signaling
+PY  - 2018
+AB  - Abstract The activation status of neutrophils can cycle from basal through primed to fully activated (?green-amber-red?), and at least in vitro, primed cells can spontaneously revert to a near basal phenotype. This broad range of neutrophil responsiveness confers extensive functional flexibility, allowing neutrophils to respond rapidly and appropriately to varied and evolving threats throughout the body. Primed and activated cells display dramatically enhanced bactericidal capacity (including augmented respiratory burst activity, degranulation and longevity), but this enhancement also confers the capacity for significant unintended tissue injury. Neutrophil priming and its consequences have been associated with adverse outcomes in a range of disease states, hence understanding the signalling processes that regulate the transition between basal and primed states (and back again) may offer new opportunities for therapeutic intervention in pathological settings. A wide array of host- and pathogen-derived molecules is able to modulate the functional status of these versatile cells. Reflecting this extensive repertoire of potential mediators, priming can be established by a range of signalling pathways (including mitogen-activated protein kinases, phosphoinositide 3-kinases, phospholipase D and calcium transients) and intracellular processes (including endocytosis, vesicle trafficking and the engagement of adhesion molecules). The signalling pathways engaged, and the exact cellular phenotype that results, vary according to the priming agent(s) to which the neutrophil is exposed and the precise environmental context. Herein we describe the signals that establish priming (in particular for enhanced respiratory burst, degranulation and prolonged lifespan) and describe the recently recognised process of de-priming, correlating in vitro observations with in vivo significance.
+ER  - 
+
+TY  - JOUR
+AU  - Daigo, Kenji
+AU  - Inforzato, Antonio
+AU  - Barajon, Isabella
+AU  - Garlanda, Cecilia
+AU  - Bottazzi, Barbara
+AU  - Meri, Seppo
+AU  - Mantovani, Alberto
+TI  - Pentraxins in the activation and regulation of innate immunity
+JO  - Immunological Reviews
+JA  - Immunol Rev
+VL  - 274
+IS  - 1
+SN  - 0105-2896
+UR  - https://doi.org/10.1111/imr.12476
+DO  - doi:10.1111/imr.12476
+SP  - 202
+EP  - 217
+KW  - cancer-related inflammation
+KW  - complement activation
+KW  - inflammation
+KW  - opsonization
+KW  - pentraxins
+KW  - PTX3
+PY  - 2016
+AB  - Summary Humoral fluid phase pattern recognition molecules (PRMs) are a key component of the activation and regulation of innate immunity. Humoral PRMs are diverse. We focused on the long pentraxin PTX3 as a paradigmatic example of fluid phase PRMs. PTX3 acts as a functional ancestor of antibodies and plays a non-redundant role in resistance against selected microbes in mouse and man and in the regulation of inflammation. This molecule interacts with complement components, thus modulating complement activation. In particular, PTX3 regulates complement-driven macrophage-mediated tumor progression, acting as an extrinsic oncosuppressor in preclinical models and selected human tumors. Evidence collected over the years suggests that PTX3 is a biomarker and potential therapeutic agent in humans, and pave the way to translation of this molecule into the clinic.
+ER  - 
+
+AU  - Philippart, François
+AU  - Cavaillon, Jean-Marc
+AU  - Dinarello, Charles
+C7  - pp. 175-204
+TI  - Inflammatory Mediators
+SN  - 9783527319350
+UR  - https://doi.org/10.1002/9783527626151.ch8
+DO  - doi:10.1002/9783527626151.ch8
+SP  - 175-204
+KW  - inflammatory mediators
+KW  - cytokines
+KW  - growth factor
+KW  - complement system
+KW  - lipid mediators
+KW  - nitric oxide (NO)
+KW  - cellular markers
+PY  - 2016
+AB  - Summary This chapter contains sections titled: Inflammatory Mediators in Sepsis Inflammatory Mediators in Non-infectious SIRS Conclusion References
+ER  - 
+
+AU  - Mossad, Emad B.
+AU  - Appachi, Elumalai
+C7  - pp. 82-95
+TI  - The Inflammatory Response and Its Modification
+SN  - 9781405120609
+UR  - https://doi.org/10.1002/9780470754986.ch6
+DO  - doi:10.1002/9780470754986.ch6
+SP  - 82-95
+KW  - inflammatory response
+KW  - inotropic support
+KW  - pathophysiology
+KW  - corticosteroids
+KW  - leukocyte depletion
+PY  - 2016
+AB  - Summary This chapter contains section titled: Introduction Mechanisms of activation Pathophysiology of the inflammatory response Clinical effects of the inflammatory response Modification of the inflammatory response Unanswered questions
+ER  - 
+
+TY  - JOUR
+TI  - Swiss Society of Surgery
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 97
+IS  - S3
+SN  - 9781405120609
+UR  - https://doi.org/10.1002/bjs.7119
+DO  - doi:10.1002/bjs.7119
+SP  - 1
+EP  - 35
+PY  - 2010
+AB  - Abstract The following abstracts will be presented at the 97th Annual Congress of the Swiss Society of Surgery. The meeting, held in Interlaken, 26-28 May 2010, is organized for the eighth time in collaboration with the Swiss Society of Thoracic, Heart and Vascular Surgery. Copyright ? 2010 British Journal of Surgery Society Ltd. Published by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Holers, V. Michael
+TI  - The spectrum of complement alternative pathway-mediated diseases
+JO  - Immunological Reviews
+VL  - 223
+IS  - 1
+SN  - 9781405120609
+UR  - https://doi.org/10.1111/j.1600-065X.2008.00641.x
+DO  - doi:10.1111/j.1600-065X.2008.00641.x
+SP  - 300
+EP  - 316
+KW  - complement
+KW  - inhibitors
+KW  - complement deficiency
+KW  - genetics
+PY  - 2008
+AB  - Summary: The complement system has once again come into prominence in the therapeutic development arena. The recent approval of an inhibitory monoclonal antibody, eculizumab, which is directed against complement component C5 for the disease paroxysmal nocturnal hemoglobinuria has provided the initial validation of this system as a therapeutic target. Preclinical studies using animal models and human-derived samples demonstrate that inhibition of complement ameliorates many inflammatory and autoimmune disease manifestations. Major efforts continue to define the most optimal means to block complement activation in a cost-effective manner. Because the system is initiated through three pathways and generates at least six immunoregulatory and pro-inflammatory mediators, there is substantial complexity to this problem. One pathway, designated the alternative pathway, has recently been shown to play a particularly important role in preclinical disease models. Further evidence of the importance of the alternative pathway has been provided by studies of human diseases, where mutations or dysfunctional polymorphisms that promote activation of this pathway are highly associated with the diseases atypical hemolytic uremic syndrome, dense deposit disease, and age-related macular degeneration. This article reviews evidence in support of the essential role of the alternative pathway in the generation of tissue injury and the rationale for development of therapies that modulate its activity.
+ER  - 
+
+AU  - Baldwin III, William M.
+AU  - Fairchild, Robert L.
+C7  - pp. 60-67
+TI  - Humoral Mechanisms of Adaptive Immunity
+SN  - 9781118870143
+UR  - https://doi.org/10.1002/9781118873434.ch6
+DO  - doi:10.1002/9781118873434.ch6
+SP  - 60-67
+KW  - basic (laboratory)research/science
+KW  - cellular biology
+KW  - immunobiology
+KW  - accommodation
+KW  - alloantibody
+KW  - antibody biology
+KW  - B cell biology
+KW  - complement biology
+KW  - plasma cells
+KW  - vascular biology
+PY  - 2008
+AB  - Summary Antibodies can cause hyperacute, acute, or chronic rejection of allografts. These different types of rejection involve additional humoral mediators, including complement, coagulation factors, and cytokines, which engage cells of the innate immune system, notably platelets, granulocytes, and monocyte/macrophages. In this chapter we discuss the functional properties of antibodies that influence which humoral and cellular mediators are activated. Then the effects of complement activation and regulation are considered. The mechanisms by which antibodies and complement modulate interactions between innate immune cells and the vascular endothelium are summarized as a basis for understanding the pathogenesis of different types of graft destruction.
+ER  - 
+
+TY  - JOUR
+TI  - Ards
+JO  - Acta Anaesthesiologica Scandinavica
+VL  - 40
+IS  - s109
+SN  - 9781118870143
+UR  - https://doi.org/10.1111/j.1399-6576.1996.tb04577.x
+DO  - doi:10.1111/j.1399-6576.1996.tb04577.x
+SP  - 61
+EP  - 74
+PY  - 1996
+ER  - 
+
+TY  - JOUR
+AU  - Rittirsch, Daniel
+AU  - Hoesel, L. Marco
+AU  - Ward, Peter A.
+TI  - The disconnect between animal models of sepsis and human sepsis
+JO  - Journal of Leukocyte Biology
+JA  - Journal of Leukocyte Biology
+VL  - 81
+IS  - 1
+SN  - 9781118870143
+UR  - https://doi.org/10.1189/jlb.0806542
+DO  - doi:10.1189/jlb.0806542
+SP  - 137
+EP  - 143
+KW  - cecal ligation and puncture
+KW  - lipopolysaccharide
+KW  - rodents
+PY  - 2007
+AB  - Frequently used experimental models of sepsis include cecal ligation and puncture, ascending colon stent peritonitis, and the i.p. or i.v. injection of bacteria or bacterial products (such as LPS). Many of these models mimic the pathophysiology of human sepsis. However, identification of mediators in animals, the blockade of which has been protective, has not translated into clinical efficacy in septic humans. We describe the shortcomings of the animal models and reasons why effective therapy for human sepsis cannot be derived readily from promising findings in animal sepsis.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - American Journal of Transplantation
+VL  - 2
+IS  - s3
+SN  - 9781118870143
+UR  - https://doi.org/10.1034/j.1600-0854.2004.000000141.x
+DO  - doi:10.1034/j.1600-0854.2004.000000141.x
+SP  - 417
+EP  - 444
+PY  - 2002
+ER  - 
+
+TY  - JOUR
+TI  - II Joint Meeting of the German Society for Immunology (DGfl) and the Italian Society of Immunology, Clinical Immunology and Allergology (SIICA), 10–13 September, 2019, Munich, Germany
+JO  - European Journal of Immunology
+JA  - Eur. J. Immunol.
+VL  - 49
+IS  - S1
+SN  - 9781118870143
+UR  - https://doi.org/10.1002/eji.201970300
+DO  - doi:10.1002/eji.201970300
+SP  - 1
+EP  - 306
+PY  - 2019
+ER  - 
+
+AU  - Warkentin, Theodore E.
+AU  - Warkentin, Andrew E.
+C7  - pp. 154-173
+TI  - Acquired Thrombocytopenia
+SN  - 9781405196666
+UR  - https://doi.org/10.1002/9781444345254.ch14
+DO  - doi:10.1002/9781444345254.ch14
+SP  - 154-173
+KW  - disseminated intravascular coagulation
+KW  - hemolytic-uremic syndrome (HUS)
+KW  - heparin-induced thrombocytopenia
+KW  - immune thrombocytopenia
+KW  - petechiae
+KW  - purpura
+KW  - thrombotic thrombocytopenic purpura (TTP)
+PY  - 2019
+AB  - Summary Thrombocytopenia?a pathological reduction in platelet count?has five major explanations: decreased platelet production, hemodilution (usually postoperative), sequestration (hypersplenism), increased platelet consumption, and increased platelet destruction. Consumptive thrombocytopenic disorders include thrombin-mediated (disseminated intravascular coagulation), septicemia, and thrombotic microangiopathy (thrombotic thrombocytopenic purpura, hemolytic-uremic syndrome), whereas platelet destruction infers increased platelet clearance due to platelet-reactive autoantibodies, alloantibodies, or drug-dependent antibodies. The adverse drug reaction, heparin-induced thrombocytopenia, combines these concepts of platelet consumption and destruction, as the pathogenic antibodies bind to platelet factor 4/heparin complexes on platelet surfaces, but results in increased platelet activation, hypercoagulability, and a prothrombotic state. When faced with a thrombocytopenic patient, the clinician must ask: what is the probable cause of the patient's thrombocytopenia? The answer to that question indicates whether the patient's major risk is bleeding, thrombosis, or increased mortality (due to multiorgan dysfunction), and what the appropriate therapies might be.
+ER  - 
+
+AU  - Morgan, B. Paul
+TI  - Complement
+SN  - 9780470686386
+UR  - https://doi.org/10.1002/9780470688618.taw0090
+DO  - doi:10.1002/9780470688618.taw0090
+KW  - complement (C), component of innate immunity and pathogen defense
+KW  - C system component proteins
+KW  - constituent pathways of C system and component proteins in sequential order
+KW  - classical pathway activation
+KW  - alternative pathway activation efficiency and low-level or ‘tickover’ activation
+KW  - membrane attack pathway
+KW  - role of C in apoptosis
+KW  - complement therapies, manipulating C system therapeutically in diseases
+PY  - 2019
+AB  - Abstract
+ER  - 

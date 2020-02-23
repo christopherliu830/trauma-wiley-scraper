@@ -1,0 +1,424 @@
+
+TY  - JOUR
+AU  - Kurlychek, Robert T.
+TI  - Electroencephalography (EEG) in the differential diagnosis of dementia
+JO  - Journal of Clinical Psychology
+JA  - J. Clin. Psychol.
+VL  - 45
+IS  - 1
+SN  - 0021-9762
+UR  - https://doi.org/10.1002/1097-4679(198901)45:1<117::AID-JCLP2270450118>3.0.CO;2-X
+DO  - doi:10.1002/1097-4679(198901)45:1<117::AID-JCLP2270450118>3.0.CO;2-X
+SP  - 117
+EP  - 123
+PY  - 1989
+AB  - Abstract Recent technical advances in neurodiagnostic procedures have improved significantly our knowledge of the pathophysiology of a number of disease processes and how they relate to behavioral manifestation. This paper focuses on advances in electroencephalography (EEG) and the implications that this growing body of research has for the diagnosis of suspected brain disorders in older patients.
+ER  - 
+
+TY  - JOUR
+AU  - Shih, T-Y
+AU  - Chen, K-F
+AU  - Rothman, RE
+AU  - Hsieh, Y-H
+TI  - US national estimation of emergency department utilization by patients given ‘HIV/AIDS-related illness’ as their primary diagnosis
+JO  - HIV Medicine
+VL  - 12
+IS  - 6
+SN  - 1464-2662
+UR  - https://doi.org/10.1111/j.1468-1293.2010.00888.x
+DO  - doi:10.1111/j.1468-1293.2010.00888.x
+SP  - 343
+EP  - 351
+KW  - Emergency Department (ED)
+KW  - Health Care Surveys
+KW  - HIV
+KW  - National Hospital Ambulatory Medical Care Survey (NHAMCS)
+KW  - utilization
+PY  - 2011
+AB  - Background The emergency department (ED) is one of the most frequent sources of medical care for many HIV-infected individuals. However, the characteristics and ED utilization patterns of patients with HIV/AIDS-related illness as the primary ED diagnosis (HRIPD) are unknown. Methods We identified the ED utilization patterns of HRIPD visits from a weighted sample of US ED visits (1993?2005) using the National Hospital Ambulatory Medical Care Survey, a nationally representative survey. Data on visits by patients≥18 years old were analysed using procedures for multiple-stage survey data. We compared the utilization patterns of HRIPD vs. non-HRIPD visits, and patterns across three periods (1993?1996, 1997?2000 and 2001?2005) to take into account changes in HIV epidemiology. Results Overall, 492?000 HRIPD visits were estimated to have occurred from 1993 to 2005, corresponding to 5-in-10?000 ED visits. HRIPD visits experienced longer durations of stay (5.2?h vs. 3.4?h; P=0.001), received more diagnostic tests (5.1 vs. 3.3; P<0.001), were prescribed more medications (2.5 vs. 1.8; P<0.001) and were more frequently seen by physicians (99.5%vs. 93.8%; P<0.001) compared with non-HRIPD visits. HRIPD visits were more likely to result in admission [adjusted odds ratio (OR) 7.67; 95% confidence interval (CI) 5.14?11.44]. The proportion of HRIPD visits that required emergent/urgent care or were seen by attending physicians, and the number of diagnostic tests ordered, significantly increased over time (P<0.05), while the wait time (P=0.003) significantly decreased between the second and third study periods (P<0.05). Conclusions Although HRIPD visits were infrequent relative to all ED visits, HRIPD visits utilized significantly more resources than non-HRIPD visits and the utilization also increased over time.
+ER  - 
+
+TY  - JOUR
+AU  - Zambon, Antonella
+AU  - Baio, Gianluca
+AU  - Mazzaglia, Giampiero
+AU  - Merlino, Luca
+AU  - Corrao, Giovanni
+TI  - Discontinuity and failures of therapy with bisphosphonates: joint assessment of predictors with multi-state models
+JO  - Pharmacoepidemiology and Drug Safety
+JA  - Pharmacoepidem. Drug Safe.
+VL  - 17
+IS  - 3
+SN  - 1053-8569
+UR  - https://doi.org/10.1002/pds.1530
+DO  - doi:10.1002/pds.1530
+SP  - 260
+EP  - 269
+KW  - bisphosphonates
+KW  - bone fracture
+KW  - multi-state model
+KW  - osteoporosis
+KW  - prospective cohort study
+KW  - record linkage
+KW  - treatment discontinuation
+PY  - 2008
+AB  - Abstract Background Data from a cohort of women treated with bisphosphonates were used to illustrate that multi-state models may be the useful tools of analysis where two causes of treatment failure are the ultimate outcome of interest, and the sequence of recurrent episodes of treatment starting and discontinuing is also of concern. Methods All the 11?863 women resident in the Italian Region of Lombardy, aged 45 years or over and who received bisphosphonates for the first time during 2003 entered into the study and were followed up until December 2005. Multi-state models with in-treatment and treatment-free periods as transient states, and fractures and gastrointestinal-related events as competing causes of failure, were fitted to the data. The effect of several covariates on transition rates between states was estimated. Results One half of the women was treated with bisphosphonates for less than 27% of the period of observation. Negative prognostic factors for treatment discontinuation were younger age and the use of alendronate at once-daily dosing, with low refill compliance during follow-up. The risk of fracture was higher for older women who experienced fracture before entry in the cohort, and for those who switched between drugs, had low refill compliance, experienced episodes of treatment discontinuation and used corticosteroids during follow-up. Conclusions The use of multi-state models in pharmacoepidemiology provides non-biased estimates of the effect of covariates in predicting treatment discontinuation, restarting and failures. Our analyses emphasize the importance of maximising compliance in order to reduce the risks of both treatment discontinuation and fracture. Copyright ? 2008 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Ternus, Bradley W.
+AU  - Mankad, Sunil
+AU  - Edwards, William D.
+AU  - Mankad, Rekha
+TI  - Clinical presentation and echocardiographic diagnosis of postinfarction papillary muscle rupture: A review of 22 cases
+JO  - Echocardiography
+JA  - Echocardiography
+VL  - 34
+IS  - 7
+SN  - 0742-2822
+UR  - https://doi.org/10.1111/echo.13585
+DO  - doi:10.1111/echo.13585
+SP  - 973
+EP  - 977
+KW  - acute myocardial infarction
+KW  - papillary muscle rupture
+PY  - 2017
+AB  - Background Acute myocardial infarctions (AMI) continue to be common in the United States. Mechanical complications of AMI can lead to cardiogenic shock (CS) and death. The aim of this study was to review the cases of papillary muscle ruptures in the setting of myocardial infarctions at a tertiary care center, with a focus on the clinical presentation and echocardiographic diagnosis. Methods This was a retrospective study from January 1, 2000 through December 31, 2014. In all, 22 patients with AMI and papillary muscle rupture (AMI-PMR) who had surgical intervention were identified. Results The average age was 70 (±11) with 16 (73%) males. Six patients presented with ST-elevation myocardial infarctions (STEMI) and all underwent emergent revascularization with primary percutaneous coronary intervention (PCI) prior to the diagnosis of AMI-PMR. The other 16 patients presented with a non-STEMI. In total, 17 (77%) of the 22 patients were diagnosed with an AMI-PMR within 7 days from their onset of symptoms. In all, 12 patients (55%) had anterolateral papillary muscle ruptures (ALPMR), and the other 10 had posteromedial papillary muscle ruptures (PMPMR). Ruptures were complete in 10 patients (45%). Patients presented with pulmonary edema early (<7 days) more commonly than late (>14 days). Transthoracic echocardiography was able to demonstrate severe mitral regurgitation in 86% and a definitive or suggestive diagnosis in 93%. All 22 patients survived to operative management, and the overall in-hospital mortality rate was 9%. Conclusion In conclusion, ischemic papillary muscle ruptures continue to occur, but with prompt diagnosis by echocardiography and rapid surgical management, the mortality rate continues to decline.
+ER  - 
+
+TY  - JOUR
+AU  - Ghosn, S.
+AU  - Radfar, A.
+AU  - Stefanato, C.M.
+AU  - Bhawan, J.
+TI  - The Role of P-75 NGF-R in the Diagnosis of Desmoplastic Melanoma
+JO  - Journal of Cutaneous Pathology
+VL  - 32
+IS  - 1
+SN  - 0303-6987
+UR  - https://doi.org/10.1111/j.0303-6987.2005.320cc.x
+DO  - doi:10.1111/j.0303-6987.2005.320cc.x
+SP  - 89
+EP  - 89
+PY  - 2005
+AB  - The histologic diagnosis of desmoplastic melanoma is challenging, particularly when the overlying junctional component is absent and when the spindle cells lack melanin pigment. In these instances, the importance of immunohistochemistry cannot be overemphasized. S-100 protein, with a sensitivity approaching 90%, is the primary immunohistochemical stain used for this purpose. HMB-45, although a more specific marker for melanocytes, is often negative in these cases. A marker of schwannian differentiation, p-75 NGF-R has been shown to be a useful confirmatory marker for desmoplastic and neurotropic melanoma, with staining intensity comparable to or better than S-100 protein. We report two cases of desmoplastic melanoma which stained focally and weakly with S-100 protein in comparison with the stronger staining of p-75 NGF-R. In both cases, S-100 staining could have been missed or interpreted as non-confirmatory, thus misguiding the diagnosis. We therefore suggest that p-75 NGF-R be a complementary marker to S-100 protein in differentiating desmoplastic melanoma from other non-neural crest-derived spindle cell tumors.
+ER  - 
+
+TY  - JOUR
+AU  - Stewart, AA
+AU  - Goodrich, LR
+AU  - Byron, CR
+AU  - Evans, RB
+AU  - Stewart, MC
+TI  - Antimicrobial delivery by intrasynovial catheterisation with systemic administration for equine synovial trauma and sepsis
+JO  - Australian Veterinary Journal
+VL  - 88
+IS  - 4
+SN  - 0005-0423
+UR  - https://doi.org/10.1111/j.1751-0813.2010.00553.x
+DO  - doi:10.1111/j.1751-0813.2010.00553.x
+SP  - 115
+EP  - 123
+KW  - horses
+KW  - intrasynovial catheter
+KW  - synovial sepsis
+PY  - 2010
+AB  - Objective? To present the technique for intra-articular catheter placement and report the clinical outcomes of 38 cases of equine synovial trauma and/or infection treated with broad-spectrum antimicrobials administered via an intrasynovial catheter (ISC). Design? Retrospective study. Procedure? Medical records of 38 horses treated for synovial trauma and sepsis with frequent antimicrobial administration through an ISC from 1995 to 2008 were reviewed. Follow-up information was obtained via clinical re-evaluation or telephone contact with the owners. Results? The majority of horses (84%) received amikacin and Timentin? four times daily. In addition, synovial lavage through the ISC was carried out in 27 horses (71%). Only radiological evidence of osteolysis had a significant negative impact on both lameness at the time of hospital discharge and the long-term outcome. In total, 92% of horses treated with frequent antimicrobial administration through an ISC had clinical resolution of infection. Catheter obstruction occurred in three cases, necessitating replacement or removal, and two synovial fistulae developed at sites of open drainage. The majority of horses treated had a favourable outcome, with 86% being at least pasture sound and 43% returned to riding. Conclusion? Septic synovial structures treated with frequent antimicrobial administration through an ISC had a good prognosis for survival and 43% returned to riding, which is consistent with the results of other studies. The use of a simple ISC should be considered when broad-spectrum intrasynovial antimicrobial administration and lavage of a septic synovial structure are indicated.
+ER  - 
+
+AU  - Beail, Nigel
+C7  - pp. 97-111
+TI  - Diagnosis of Personality Disorder in Offenders with Intellectual and Developmental Disabilities
+SN  - 9781119316251
+UR  - https://doi.org/10.1002/9781119316268.ch5
+DO  - doi:10.1002/9781119316268.ch5
+SP  - 97-111
+KW  - co-morbid mental disorders
+KW  - diagnostic criteria
+KW  - intellectual and developmental disabilities
+KW  - offenders
+KW  - personality disorder
+KW  - pharmacological interventions
+KW  - treatment options
+PY  - 2010
+AB  - Summary This chapter focuses on personality disorder (PD) and its relationship with offending behaviour in adults who have intellectual disabilities. Extensive work has examined the diagnostic criteria for PDs in people who have intellectual and developmental disabilities (IDD) and for the most part little modification in criteria are recommended especially for the two most frequent PD's found in offenders who have IDD, borderline, and antisocial PD. People who have PDs frequently present with co-morbid mental health difficulties such as anxiety, depression, or post-traumatic stress disorder. Pharmacological interventions for co-morbid mental disorders, in particular depression and anxiety, should be in line with recommendations in the relevant NICE clinical guideline. Treatment options for people with IDD and PD who offend can only be based on the developing research on interventions with people who have PD in the general population, offenders with PD in the general population.
+ER  - 
+
+TY  - JOUR
+AU  - Kayrouz, Norma
+AU  - Milne, Susan L
+AU  - McDonald, Jenny L
+TI  - Social disadvantage and developmental diagnosis in pre-schoolers
+JO  - Journal of Paediatrics and Child Health
+JA  - J Paediatr Child Health
+VL  - 53
+IS  - 6
+SN  - 9781119316251
+UR  - https://doi.org/10.1111/jpc.13505
+DO  - doi:10.1111/jpc.13505
+SP  - 563
+EP  - 568
+KW  - autism spectrum disorder
+KW  - developmental
+KW  - developmental delay
+KW  - disability
+KW  - disadvantage
+PY  - 2017
+AB  - Aim To explore the association between social disadvantage and developmental diagnoses in pre-school children. Methods Between 2012 and 2015, 845 pre-school children were assessed by the Child Assessment Team at Campbelltown Hospital. A social worker interviewed 469 families and these children were eligible for inclusion in the study. Autism spectrum disorder (ASD) was confirmed in 290 children. Of those without ASD, 72 did not have global developmental delay (GDD) and were excluded from the study. The remaining 107 children with GDD were used as the comparison group. Social risk factors in the two groups were compared using ? 2 tests. Variables with statistical significance were then entered into a logistic regression. Results After logistic regression, children with ASD were more likely to be male (odds ratio (OR) 3.1, 95% CI 0.195?0.529; P?<?0.001) and their parents were more likely to have a clinically significant stress score (OR 1.3, 95% CI 0.334?0.992; P?=?0.047). Children with GDD were more likely to live in a disadvantaged suburb (OR 1.7, 95% CI 1.042?2.940; P?=?0.034), more likely to have a sole parent (OR 1.8, 95% CI 1.062?3.082; P?=?0.029) and much more likely to have had involvement with child protection services (OR 3.9, 95% CI 2.044?7.416; P?<?0.001). Conclusions Children with GDD without autism were more likely to be disadvantaged and to have had contact with child protection services than children with ASD. This has implications for the assessment, early intervention and support services for children with disabilities and their families.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts of the ISPD 16th International Conference on Prenatal Diagnosis and Therapy
+JO  - Prenatal Diagnosis
+VL  - 32
+IS  - s1
+SN  - 9781119316251
+UR  - https://doi.org/10.1111/j.1097-0223.2012.03905_x.x
+DO  - doi:10.1111/j.1097-0223.2012.03905_x.x
+SP  - 36
+EP  - 128
+PY  - 2012
+ER  - 
+
+C7  - pp. 237-245
+TI  - Developmental Disorders, Serious Illness and Trauma
+SN  - 9780470012567
+UR  - https://doi.org/10.1002/9780470713334.part5
+DO  - doi:10.1002/9780470713334.part5
+SP  - 237-245
+PY  - 2012
+AB  - Summary The prelims comprise: Developmental Disorders (Introductory Background to Chapter 12) Serious Illness (Introductory Background to Chapter 13) Traumatic Experiences Of Childhood (Introductory Background to Chapter 14)
+ER  - 
+
+TY  - JOUR
+AU  - Caers, Jo
+AU  - Vande broek, Isabelle
+AU  - De Raeve, Hendrik
+AU  - Michaux, Lucienne
+AU  - Trullemans, Fabienne
+AU  - Schots, Rik
+AU  - Van Camp, Ben
+AU  - Vanderkerken, Karin
+TI  - Multiple myeloma – an update on diagnosis and treatment
+JO  - European Journal of Haematology
+VL  - 81
+IS  - 5
+SN  - 9780470012567
+UR  - https://doi.org/10.1111/j.1600-0609.2008.01127.x
+DO  - doi:10.1111/j.1600-0609.2008.01127.x
+SP  - 329
+EP  - 343
+KW  - multiple myeloma
+KW  - management
+KW  - risk stratification
+PY  - 2008
+AB  - Abstract Multiple myeloma is a plasma cell (PC) malignancy characterized by the accumulation of monoclonal PCs in the bone marrow and the production of large amounts of a monoclonal immunoglobulin or paraprotein. In the past years, new approaches in the diagnosis and treatment were introduced aiming to identify high-risk patients who need proper anti-myeloma treatment. Intensive therapy including autologous hematopoietic stem cell transplantation and the new agents bortezomib, thalidomide, and lenalidomide have improved patients? responses. Further optimalization of the different treatment schedules in well-defined patient groups may prolong their survival. Patient stratification is currently based on patient characteristics, extent of myeloma disease, and associated cytogenetic and laboratory anomalies. More and more gene expression studies are introduced to stratify patients and to individualize therapy.
+ER  - 
+
+TY  - JOUR
+AU  - Landau, Judith
+AU  - Mittal, Mona
+AU  - Wieling, Elizabeth
+TI  - Linking Human Systems: Strengthening Individuals, Families, And Communities in the Wake of Mass Trauma
+JO  - Journal of Marital and Family Therapy
+VL  - 34
+IS  - 2
+SN  - 9780470012567
+UR  - https://doi.org/10.1111/j.1752-0606.2008.00064.x
+DO  - doi:10.1111/j.1752-0606.2008.00064.x
+SP  - 193
+EP  - 209
+PY  - 2008
+AB  - This article presents an overview of the philosophy and practical principles underlying the Linking Human Systems Approach based on the theory of resilience in individuals, families, and communities facing crisis, trauma, and disaster. The Link Approach focuses on tapping into the inherent strength of individuals and their families and emphasizes resilience rather than vulnerability. It has been successfully used in combating critical public health problems, such as addiction, HIV/AIDS, and recovery from major trauma or disaster. Also, three specific models of Link intervention aimed at the individual, family, and community levels are discussed, with special emphasis on the family-level intervention. These interventions are directed toward mobilizing resources for long-term physical, emotional, psychological, and spiritual healing.
+ER  - 
+
+TY  - JOUR
+AU  - Duckett, S.J.
+AU  - Agius, P.A.
+TI  - Performance of diagnosis-based risk adjustment measures in a population of sick Australians
+JO  - Australian and New Zealand Journal of Public Health
+VL  - 26
+IS  - 6
+SN  - 9780470012567
+UR  - https://doi.org/10.1111/j.1467-842X.2002.tb00356.x
+DO  - doi:10.1111/j.1467-842X.2002.tb00356.x
+SP  - 500
+EP  - 507
+PY  - 2002
+AB  - Abstract Objective: Australia is beginning to explore ?managed competition? as an organising framework for the health care system. This requires setting fair capitation rates, i.e. rates that adjust for the risk profile of covered lives. This paper tests two US-developed risk adjustment approaches using Australian data. Methods: Data from the ?co-ordinated care? dataset (which incorporates all service costs of 16,538 participants in a large health service research project conducted in 1996?99) were grouped into homogenous risk categories using risk adjustment ?grouper software?. The grouper products yielded three sets of homogenous categories: Adjusted Clinical Groups, Ambulatory Diagnostic Groups and Diagnostic Cost Groups. A two-stage analysis of predictive power was used: probability of any service use in the concurrent year, next year and the year after (logistic regression) and, for service users, a regression of logged cost of service use. The independent variables were age, gender, a SES variable and the diagnosis-based risk adjusters. Results: Age, gender and diagnosis-based risk adjustment measures explain around 40?45% of variation in costs of service use in the current year for untrimmed data (compared with around 15% for age and gender alone). Prediction of subsequent use is much poorer (around 20%). Using more information to assign people to risk categories generally improves prediction. Conclusions: Predictive power of diagnosis-based risk adjusters on this Australian dataset is similar to that found in overseas studies. Implications: Low predictive power carries policy risks of cream skimming rather than managing population health and care. Competitive funding models with risk adjustment on prior year experience could reduce system efficiency if implemented with current risk adjustment technology
+ER  - 
+
+TY  - JOUR
+AU  - Pitkänen, Asla
+AU  - Henshall, David C.
+AU  - Cross, J. Helen
+AU  - Guerrini, Renzo
+AU  - Jozwiak, Sergiusz
+AU  - Kokaia, Merab
+AU  - Simonato, Michele
+AU  - Sisodiya, Sanjay
+AU  - Mifsud, Janet
+TI  - Advancing research toward faster diagnosis, better treatment, and end of stigma in epilepsy
+JO  - Epilepsia
+JA  - Epilepsia
+VL  - 60
+IS  - 7
+SN  - 9780470012567
+UR  - https://doi.org/10.1111/epi.16091
+DO  - doi:10.1111/epi.16091
+SP  - 1281
+EP  - 1292
+KW  - biobanks
+KW  - biomarker
+KW  - comorbidities
+KW  - databases
+KW  - delivery systems
+KW  - disease-modification
+KW  - e-health
+KW  - epileptogenesis
+KW  - genetics
+KW  - personalized medicine
+KW  - research strategy
+KW  - stigma
+KW  - therapy
+PY  - 2019
+AB  - Abstract Seven large European Union (EU)?funded epilepsy-related research projects joined forces in May 2018 in Brussels, Belgium, in a unique community building event?the epiXchange conference. During this conference, 170 investigators from the projects DESIRE, EpimiRNA, EPISTOP, EpiTarget, EpiXchange, and EpiPGX as well as the European Reference Network EpiCARE, met up with key stakeholders including representatives of the European Commission, patient organizations, commercial partners, and other European and International groups. The epiXchange conference focused on sharing and reviewing the advances made by each project in the previous 5 years; describing the infrastructures generated; and discussing the innovations and commercial applications across five thematic areas: biomarkers, genetics, therapeutics, comorbidities, and biobanks and resources. These projects have, in fact, generated major breakthroughs including the discovery of biofluid-based molecules for diagnosis, elucidating new genetic causes of epilepsy, creating advanced new models of epilepsy, and the pre-clinical development of novel compounds. Workshop-style discussions focused on how to overcome scientific and clinical challenges for accelerating translation of research outcomes and how to increase synergies between the projects and stakeholders at a European level. The resulting advances would lead toward a measurable impact of epilepsy research through better diagnostics, treatments, and quality-of-life for persons with epilepsy. In addition, epiXchange provided a unique forum for examining how the different projects could build momentum for future novel groundbreaking epilepsy research in Europe and beyond. This report includes the main recommendations that resulted from these discussions.
+ER  - 
+
+TY  - JOUR
+AU  - Nathanson, M. H.
+AU  - Andrzejowski, J.
+AU  - Dinsmore, J.
+AU  - Eynon, C.A.
+AU  - Ferguson, K.
+AU  - Hooper, T.
+AU  - Kashyap, A.
+AU  - Kendall, J.
+AU  - McCormack, V.
+AU  - Shinde, S.
+AU  - Smith, A.
+AU  - Thomas, E.
+TI  - Guidelines for safe transfer of the brain-injured patient: trauma and stroke, 2019
+JO  - Anaesthesia
+JA  - Anaesthesia
+VL  - 75
+IS  - 2
+SN  - 9780470012567
+UR  - https://doi.org/10.1111/anae.14866
+DO  - doi:10.1111/anae.14866
+SP  - 234
+EP  - 246
+KW  - brain injury
+KW  - guidelines
+KW  - stroke
+KW  - transfer
+PY  - 2020
+AB  - Summary The location of care for many brain-injured patients has changed since 2012 following the development of major trauma centres. Advances in management of ischaemic stroke have led to the urgent transfer of many more patients. The basis of care has remained largely unchanged, however, with emphasis on maintaining adequate cerebral perfusion as the key to preventing secondary injury. Organisational aspects and training for transfers are highlighted, and we have included an expanded section on paediatric transfers. We have also provided a table with suggested blood pressure parameters for the common types of brain injury but acknowledge that there is little evidence for many of our recommendations. These guidelines remain a mix of evidence-based and consensus-based statements. We have received assistance from many organisations representing clinicians who care for these patients, and we believe our views represent the best of current thinking and opinion. We encourage departments to review their own practice using our suggestions for audit and quality improvement.
+ER  - 
+
+TY  - JOUR
+TI  - Paper abstracts of the ISPD 15th international conference on prenatal diagnosis and therapy
+JO  - Prenatal Diagnosis
+JA  - Prenat. Diagn.
+VL  - 30
+IS  - S1
+SN  - 9780470012567
+UR  - https://doi.org/10.1002/pd.2597
+DO  - doi:10.1002/pd.2597
+SP  - S1
+EP  - S115
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+AU  - Cui, Xu
+AU  - Li, Li-tao
+AU  - Ma, Yuan-zheng
+TI  - Anterior and Posterior Instrumentation with Different Debridement and Grafting Procedures for Multi-Level Contiguous Thoracic Spinal Tuberculosis
+JO  - Orthopaedic Surgery
+JA  - Orthop Surg
+VL  - 8
+IS  - 4
+SN  - 9780470012567
+UR  - https://doi.org/10.1111/os.12288
+DO  - doi:10.1111/os.12288
+SP  - 454
+EP  - 461
+KW  - Anterior
+KW  - Instrumentation
+KW  - Multi-level
+KW  - Posterior
+KW  - Thoracic spinal tuberculosis
+PY  - 2016
+AB  - Objective To evaluate the clinical outcomes of anterior and posterior instrumentation with different debridement and graft fusion methods for multi-level contiguous thoracic spinal tuberculosis. Methods We retrospectively evaluated 81 patients with multi-level contiguous thoracic spinal tuberculosis who underwent anterior or posterior instrumentation combined with different methods of debridement, decompression, and graft fusion from January 2002 to December 2012. All patients were divided into an anterior instrumentation group and a posterior instrumentation group. In the anterior instrumentation group, there were 39 patients who underwent transthoracic debridement. In the posterior instrumentation group, there were 34 patients who underwent trans-costotransverse decompression and strut grafting with posterior instrumentation, and another 8 patients underwent combined anterior debridement and strut grafting with posterior instrumentation in a single-stage or two-stage procedure. The kyphotic angles were calculated from lateral spinal X-rays using the modified Konstam method. The symptoms and signs of tuberculosis, fusion level, fusion time of the bone graft, average kyphosis angle, average correction, average loss of correction, and clinical complications were recorded. The average follow-up period was 37?months (range, 17?72?months). Results The cohort consisted of 47 males and 34 females with an average age of 38?years. The mean durations of the operations were 3.5 ± 0.4?h in the anterior group and 4.0 ± 0.3?h in the posterior group ( P < 0.05). The mean blood loss volumes during surgery were 450 ± 42 and 560 ± 51?mL for the anterior group and the posterior group, respectively ( P < 0.01). The kyphotic deformities were corrected from 32.1° ± 10.3° to 10.2° ± 2.1° in the anterior group and from 33.8° ± 11.7° to 12.6° ± 2.7° in the posterior group ( P < 0.01). The neurologic statuses of the 23 patients with preoperative neurologic deficits improved in each group. Fusion was confirmed radiographically at 5.4 ± 1.2?months (range, 4?12?months) in the anterior group and 5.6 ± 1.4?months (range, 4?13?months) in the posterior group ( P > 0.05). Postoperative relapses were noted in 1 and 3 patients in the anterior and the posterior group, respectively. Conclusion Posterior instrumentation was more effective than anterior instrumentation in the correction of kyphosis and the maintenance of the correction. However, postoperative sinus formation was more frequent in patients who underwent a single-stage posterior procedure.
+ER  - 
+
+TY  - JOUR
+AU  - Papp, Z.
+TI  - WS02-03What can fetopathology add to the prenatal ultrasound diagnosis?
+JO  - Ultrasound in Obstetrics & Gynecology
+VL  - 16
+IS  - s1
+SN  - 9780470012567
+UR  - https://doi.org/10.1046/j.1469-0705.2000.00009-1-12.x
+DO  - doi:10.1046/j.1469-0705.2000.00009-1-12.x
+SP  - 7
+EP  - 7
+PY  - 2000
+AB  - Background Multiple malformation syndromes are generally heterogeneous diseases with inappropriate clinical delineation most cases. Geneticists are facing problems with lack of proper knowledge inspite of the overwhelming information available regarding a certain syndrome. Emphasis should be placed on the characteristic features of the suspected syndrome, or any major or detectable minor anomaly with significant effect on the course of the pregnancy. Conclusion Detailed ultrasonography by experienced personnel provides a valuable tool in diagnosing morphological alterations of the fetus in mid-gestation. After termination of the pregnancy, the effected fetus must be examined thoroughly by an experienced fetopathologist. Careful and comprehensive examinations reveals all major and minor morphological alterations that might outline a certain syndrome or other multiple abnormality entity. Computer based syndromological programs are important in this process, for they help geneticists and fetopathologists by matching the most suitable syndrome to the given case. Genetic counseling can be completed only with the establishment of the most probable diagnosis. Declaration of recurrence rate and possible application of other prenatal diagnostic methods must be included in the counseling. Different types of multiple malformation syndromes of the fetus will be presented in the lecture.
+ER  - 
+
+TY  - JOUR
+AU  - Maguire, Sabine Ann
+AU  - Lumb, Rebecca Caroline
+AU  - Kemp, Alison Mary
+AU  - Moynihan, Sian
+AU  - Bunting, Howard John
+AU  - Watts, Patrick O.
+AU  - Adams, Gillian Gwendolen
+TI  - A Systematic Review of the Differential Diagnosis of Retinal Haemorrhages in Children with Clinical Features associated with Child Abuse
+JO  - Child Abuse Review
+JA  - Child Abuse Rev.
+VL  - 22
+IS  - 1
+SN  - 9780470012567
+UR  - https://doi.org/10.1002/car.2224
+DO  - doi:10.1002/car.2224
+SP  - 29
+EP  - 43
+KW  - retinal haemorrhages
+KW  - seizures
+KW  - cardiopulmonary resuscitation
+KW  - child abuse
+PY  - 2013
+AB  - Retinal haemorrhages (RH) in a young child suggest child abuse, yet other causes merit consideration. This systematic review addresses non-traumatic causes of RH in children with one or more overlapping clinical features of abuse (bruising, fractures, intracranial haemorrhage). Searching 12 databases (1950?2009) identified 338 studies for review by two reviewers. Inclusion criteria included: children?<?15?years examined by an ophthalmologist detailing retinal findings, confirmed organic cause and exclusion of abuse. Exclusion criteria included: diagnosed coagulopathy, ocular mass lesion and post-mortem cases. Twenty included studies identified nine relevant conditions (metabolic diseases, bony dysplasias, bleeding disorders and vascular malformations). Where detailed, the RH were bilateral and involved only one area of the retina (the posterior pole). Among proposed confounders of RH, no child with a cough (100 children) or acute life-threatening event (184 cases) had RH. Just two of 217 children with seizures had posterior pole RH, one unilateral and one bilateral. One cardiopulmonary resuscitation (CPR) study (43 cases) was included where a child with co-existent clotting abnormalities had tiny (bilateral dot) RH after 60 minutes? resuscitation. Child abuse remains the commonest cause of RH in young children, although rarer disorders merit consideration. There are insufficient data to conclude that CPR is a confounder in children with RH. Copyright ? 2012 John Wiley & Sons, Ltd. ?Searching 12 databases (1950?2009) identified 338 studies for review? ?There are insufficient data to conclude that CPR is a confounder in children with RH? Key Practitioner Message Retinal Haemorrhages are strongly associated with Abusive Head Trauma, but have been described in certain medical conditions. Neither cough nor ALTE are associated with RH, which have been found in <?3% of children with seizures. There are inadequate data to conclude that CPR is associated with RH. Case series have reported RH in children who also have clinical features that may overlap with physical abuse, namely certain metabolic, vascular, haematologic disorders and bony dysplasias (specifically osteogenesis imperfecta).
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Z
+AU  - Wu, X
+AU  - Lau, JTF
+AU  - Mo, PKH
+AU  - Mak, WWS
+AU  - Wang, X
+AU  - Yang, X
+AU  - Gross, D
+AU  - Jiang, H
+TI  - Prevalence of and factors associated with unprotected anal intercourse with regular and nonregular male sexual partners among newly diagnosed HIV-positive men who have sex with men in China
+JO  - HIV Medicine
+JA  - HIV Med
+VL  - 18
+IS  - 9
+SN  - 9780470012567
+UR  - https://doi.org/10.1111/hiv.12500
+DO  - doi:10.1111/hiv.12500
+SP  - 635
+EP  - 646
+KW  - newly diagnosed HIV-positive men who have sex with men
+KW  - multi-dimensional factors
+KW  - nonregular male sexual partners
+KW  - regular male sexual partners
+KW  - unprotected anal intercourse
+PY  - 2017
+AB  - Objectives This study investigated the prevalence of, and multi-dimensional factors associated with, unprotected anal intercourse (UAI) with regular male sexual partners (?regular partners?) and nonregular male sexual partners (?nonregular partners?) among newly diagnosed HIV-positive men who have sex with men (MSM) in Chengdu, China. Methods A total of 225 newly diagnosed HIV-positive MSM were interviewed using a combined interviewer?computer-assisted method in Chengdu, China. Results The prevalence of UAI with regular and nonregular partners since diagnosis was 27.7% and 33.8% among participants reporting having sex with regular and nonregular partners (n = 159 and 133), respectively. Adjusted analysis showed that: (1) cognitive variables based on the Health Belief Model (perceived susceptibility to HIV transmission and perceived severity of the consequences of HIV transmission, perceived barriers and perceived self-efficacy related to consistent condom use), (2) emotion-related variables (worry about transmitting HIV to others), (3) psychological factors (post-traumatic growth) and (4) socio-structural factors (perceived partners? responsibility for condom use) were significantly associated with UAI with regular and/or nonregular partners. Conclusions Interventions are warranted, and should be designed with consideration of multi-dimensional factors and be partner type-specific.
+ER  - 

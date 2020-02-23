@@ -1,0 +1,434 @@
+
+TY  - JOUR
+TI  - 2004 SAEM ANNUAL MEETING ABSTRACTS
+JO  - Academic Emergency Medicine
+VL  - 11
+IS  - 5
+SN  - 1069-6563
+UR  - https://doi.org/10.1197/j.aem.2004.02.011
+DO  - doi:10.1197/j.aem.2004.02.011
+SP  - 435
+EP  - 607
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+AU  - Liu, Chunlei
+AU  - Li, Wei
+AU  - Tong, Karen A.
+AU  - Yeom, Kristen W.
+AU  - Kuzminski, Samuel
+TI  - Susceptibility-weighted imaging and quantitative susceptibility mapping in the brain
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J. Magn. Reson. Imaging
+VL  - 42
+IS  - 1
+SN  - 1053-1807
+UR  - https://doi.org/10.1002/jmri.24768
+DO  - doi:10.1002/jmri.24768
+SP  - 23
+EP  - 41
+KW  - MRI, magnetic resonance imaging
+KW  - SWI, susceptibility weighted imaging
+KW  - STI, susceptibility tensor imaging
+KW  - QSM, quantitative susceptibility mapping
+KW  - MSA, magnetic susceptibility anisotropy
+KW  - hemorrhage
+KW  - iron
+KW  - myelin
+KW  - TBI, traumatic brain injury
+KW  - multiple sclerosis
+KW  - stroke
+PY  - 2015
+AB  - Susceptibility-weighted imaging (SWI) is a magnetic resonance imaging (MRI) technique that enhances image contrast by using the susceptibility differences between tissues. It is created by combining both magnitude and phase in the gradient echo data. SWI is sensitive to both paramagnetic and diamagnetic substances which generate different phase shift in MRI data. SWI images can be displayed as a minimum intensity projection that provides high resolution delineation of the cerebral venous architecture, a feature that is not available in other MRI techniques. As such, SWI has been widely applied to diagnose various venous abnormalities. SWI is especially sensitive to deoxygenated blood and intracranial mineral deposition and, for that reason, has been applied to image various pathologies including intracranial hemorrhage, traumatic brain injury, stroke, neoplasm, and multiple sclerosis. SWI, however, does not provide quantitative measures of magnetic susceptibility. This limitation is currently being addressed with the development of quantitative susceptibility mapping (QSM) and susceptibility tensor imaging (STI). While QSM treats susceptibility as isotropic, STI treats susceptibility as generally anisotropic characterized by a tensor quantity. This article reviews the basic principles of SWI, its clinical and research applications, the mechanisms governing brain susceptibility properties, and its practical implementation, with a focus on brain imaging. J. Magn. Reson. Imaging 2015;42:23?41. ? 2014 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Smith, Warwick
+AU  - Sitas, Michael
+AU  - Rao, Pradeep
+AU  - Nicholls, Craig
+AU  - McCann, Polly
+AU  - Jonikis, Tony
+AU  - James, Julian
+AU  - Cohen, Stephen
+AU  - Ellis, Jason
+AU  - Waters, Flavie
+TI  - Intensive community treatment and support “Youth Wraparound” service in Western Australia: A case and feasibility study
+JO  - Early Intervention in Psychiatry
+JA  - Early Intervention in Psychiatry
+VL  - 13
+IS  - 1
+SN  - 1751-7885
+UR  - https://doi.org/10.1111/eip.12734
+DO  - doi:10.1111/eip.12734
+SP  - 151
+EP  - 158
+KW  - admissions
+KW  - health service
+KW  - trauma
+KW  - youth mental health
+PY  - 2019
+AB  - Background Multiple services are often needed to address the needs of young people with complex emotional or behavioural needs. The Youth Wraparound model of service aims to provide all health and supportive services from one coordinating agency. While this has been researched overseas, there are currently few examples of this described in the Australian psychiatric context. Aim To document the implementation and evaluation of a Youth Wraparound service which was provided to a young person with exceptionally complex and challenging needs for 6 months. A single-case study design is presented with an evaluation of the clinical outcome and economic costs. Methods We present a description of the service context, principles of the model of care, implementation process, and an evaluation of service utilization data from health and child protection services and mental health records. A single-case longitudinal design compared service utilization data obtained up to 3 years prior to treatment with data collected one and a half years since treatment commenced. Results There were significant reductions in the number of admissions to emergency departments, mental health wards and secure units, and improvements in mental health and well-being. Yearly average time in institutional settings reduced from 69% to 7%. Cost savings in health utilization were estimated at $2 326 790. Conclusions The Youth Wraparound model has the potential to offer improved clinical outcomes, significant cost savings over time, improved coordination between care providers, and an alternative to detention or incarceration.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts of the Australasian Scientific Conference of the Australasian College for Emergency Medicine 2004
+JO  - Emergency Medicine Australasia
+VL  - 17
+IS  - 2
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/j.1742-6723.2005.00718.x
+DO  - doi:10.1111/j.1742-6723.2005.00718.x
+SP  - A1
+EP  - A15
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+AU  - DORONBEKOV, TALANT K.
+AU  - TOKUNAGA, HIROMASA
+AU  - IKEJIRI, YOSHITAKA
+AU  - KAZUI, HIROAKI
+AU  - HATTA, NAOKI
+AU  - MASAKI, YOSHIHIRO
+AU  - OGINO, ATSUSHI
+AU  - MIYOSHI, NORIKO
+AU  - OKU, NAOHIKO
+AU  - NISHIKAWA, TAKASHI
+AU  - TAKEDA, MASATOSHI
+TI  - Neural basis of fear conditioning induced by video clip: Positron emission tomography study
+JO  - Psychiatry and Clinical Neurosciences
+VL  - 59
+IS  - 2
+SN  - 1323-1316
+UR  - https://doi.org/10.1111/j.1440-1819.2005.01351.x
+DO  - doi:10.1111/j.1440-1819.2005.01351.x
+SP  - 155
+EP  - 162
+KW  - amygdala
+KW  - fear conditioning
+KW  - positron emission tomography
+KW  - posterior cingulate gyrus
+KW  - PTSD
+KW  - retrosplenial cortex
+PY  - 2005
+AB  - Abstract? In patients with post-traumatic stress disorder (PTSD), re-experiencing the trauma is often induced by external cues in the environment. The cues, which were emotionally neutral for the patients before the traumatic event, become fearful ones after the event. This phenomenon is considered to be associated with fear conditioning. The paradigm was set up so that the emotionality changes in the patients with PTSD would be reproduced, and the regional cerebral blood flow (rCBF) measured with positron emission tomography (PET) was compared during exposure to the same stimuli before and after acquisition of fear conditioning. Ten healthy male subjects were asked to look at some emotionally neutral photos, then to watch a video with fearful content that also contained images similar to that presented in the photos, and afterwards to look at the photos again. Five of the 10 subjects felt that the object in the photos was more fearful after watching the video than before, and they were considered to have acquired fear conditioning. In those five subjects, the rCBF in the right amygdala and the left posterior cingulate gyrus after acquisition of fear conditioning significantly increased relative to the rCBF before conditioning. Thus, these regions seem to have a critical role in fear conditioning.
+ER  - 
+
+TY  - JOUR
+AU  - Hart, J. C. A.
+AU  - Jann, H. W.
+AU  - Moorman, V. J.
+TI  - Surgical correction of a medial patellar luxation in a foal using a modified recession trochleoplasty technique
+JO  - Equine Veterinary Education
+VL  - 21
+IS  - 6
+SN  - 0957-7734
+UR  - https://doi.org/10.2746/095777309X423004
+DO  - doi:10.2746/095777309X423004
+SP  - 307
+EP  - 311
+KW  - horse
+KW  - foal
+KW  - patella
+KW  - luxation
+KW  - trochleoplasty
+PY  - 2009
+AB  - Summary A 24-hour-old male Shetland pony was presented for evaluation of unilateral hindlimb lameness of unknown duration. Physical and radiographic findings confirmed a diagnosis of medial luxation of the patella. A traumatic or congenital aetiology was suspected but could not be confirmed. Surgical correction of the luxation, using a modified recession trochleoplasty technique, was carried out. At 6 months follow-up, no discernbile lameness could be observed. In the literature, descriptions of medially luxated patellae in equids are rare. Published reports describing the use of peri- and intra-articular surgical techiques for the correction of luxated patellae in equids are widely available. The modified recession trochleoplasty employed in this case may offer advantages over previously published techniques.
+ER  - 
+
+TY  - JOUR
+AU  - Keijzers, Gerben
+AU  - Del Mar, Chris
+TI  - Can emergency physicians improve quality of care by using checklists and going HOME?
+JO  - Emergency Medicine Australasia
+VL  - 23
+IS  - 6
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/j.1742-6723.2011.01498.x
+DO  - doi:10.1111/j.1742-6723.2011.01498.x
+SP  - 659
+EP  - 662
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+AU  - CAYZER, J.
+AU  - HEDDERLEY, D.
+AU  - GRAY, S.
+TI  - A randomised, double-blinded, placebo-controlled study on the efficacy of a unique extract of green-lipped mussel (Perna canaliculus) in horses with chronic fetlock lameness attributed to osteoarthritis
+JO  - Equine Veterinary Journal
+VL  - 44
+IS  - 4
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/j.2042-3306.2011.00455.x
+DO  - doi:10.1111/j.2042-3306.2011.00455.x
+SP  - 393
+EP  - 398
+KW  - horse
+KW  - lameness
+KW  - green-lipped mussel
+KW  - Perna canaliculus
+KW  - osteoarthritis
+KW  - degenerative joint disease
+KW  - Biolane
+PY  - 2012
+AB  - Summary Reasons for performing study: Lyophilised products from green-lipped mussel (Perna canaliculus[LPPC]) are used to orally treat horses with osteoarthritis (OA). However, no randomised, controlled or double-blinded studies on the efficacy of this treatment in horses have been reported to date. Objective: To investigate the effects of a unique LPPC (Biolane)1 in improving clinical signs of OA in the fetlock. Methods: Data were analysed from 26 horses with primary fetlock lameness in a controlled, randomised and double-blinded, multi-centre clinical trial. The study design was a partial crossover with a washout period and consisted of 19 horses treated with LPPC and 20 with a placebo. Horses were dosed orally with 25?mg/kg bwt/day LPPC or placebo for 56 days. Efficacy was evaluated by clinical assessment of lameness, passive flexion, pain, swelling and heat in the affected joint. Relationships between variables were analysed using an ordinal logistic model with random effects for horse and horse x treatment according to a modified intention-to-treat analysis. Results: Clinical evaluation of horses with a fetlock lameness treated with LPPC showed a significant reduction in severity of lameness (P<0.001), improved response to the joint flexion test (P<0.001) and reduced joint pain (P = 0.014) when compared with horses treated with placebo. Conclusions: The LPPC significantly alleviated the severity of lameness and joint pain and improved response to joint flexion in horses with lameness attributable to OA in the fetlock.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts of the annual scientific meeting of the ACEM and ASEM 2002
+JO  - Emergency Medicine
+VL  - 15
+IS  - 2
+SN  - 1035-6851
+UR  - https://doi.org/10.1046/j.1442-2026.2003.00152.x
+DO  - doi:10.1046/j.1442-2026.2003.00152.x
+SP  - A1
+EP  - A28
+PY  - 2003
+ER  - 
+
+TY  - JOUR
+TI  - Book Reviews
+JO  - Developmental Medicine & Child Neurology
+VL  - 38
+IS  - 4
+SN  - 0012-1622
+UR  - https://doi.org/10.1111/j.1469-8749.1996.tb12105.x
+DO  - doi:10.1111/j.1469-8749.1996.tb12105.x
+SP  - 374
+EP  - 376
+PY  - 1996
+AB  - Book reviewed in this article: Review of Fetus and Neonate Physiology and Clinical Applications, Vol 3: Growth The Depressed Child and Adolescent: Developmental and Clinical Perspectives Pediatric Trauma Community Child Health and Paediatrics
+ER  - 
+
+TY  - JOUR
+AU  - Schwarz, Edward M.
+AU  - McLaren, Alex C.
+AU  - Sculco, Thomas P.
+AU  - Brause, Barry
+AU  - Bostrom, Mathias
+AU  - Kates, Stephen L.
+AU  - Parvizi, Javad
+AU  - Alt, Volker
+AU  - Arnold, William V.
+AU  - Carli, Alberto
+AU  - Chen, Antonia F.
+AU  - Choe, Hyonmin
+AU  - Coraça-Huber, Débora C.
+AU  - Cross, Michael
+AU  - Ghert, Michelle
+AU  - Hickok, Noreen
+AU  - Amber Jennings, Jessica
+AU  - Joshi, Manjari
+AU  - Metsemakers, Willem-Jan
+AU  - Ninomiya, Mark
+AU  - Nishitani, Kohei
+AU  - Oh, Irvin
+AU  - Padgett, Douglas
+AU  - Ricciardi, Benjamin
+AU  - Saeed, Kordo
+AU  - Sendi, Parham
+AU  - Springer, Bryan
+AU  - Stoodley, Paul
+AU  - Wenke, Joseph C.
+TI  - Adjuvant Antibiotic-Loaded Bone Cement: Concerns with Current Use and Research to Make it Work
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res
+VL  - n/a
+IS  - n/a
+SN  - 0736-0266
+UR  - https://doi.org/10.1002/jor.24616
+DO  - doi:10.1002/jor.24616
+KW  - Antibiotic-loaded bone cement (ALBC)
+KW  - Biofilm Meeting
+KW  - Local Antibiotics
+KW  - Musculoskeletal Infection (MSKI)
+AB  - Abstract Antibiotic-loaded bone cement (ALBC) is broadly used to treat orthopaedic infections based on the rationale that high-dose local delivery is essential to eradicate biofilm-associated bacteria. However, ALBC formulations are empirically based on drug susceptibility from routine laboratory testing, which is known to have limited clinical relevance for biofilms. There are also dosing concerns with non-standardized, surgeon-directed, hand-mixed formulations, which have unknown release kinetics. Based on our knowledge of in vivo biofilms, pathogen virulence, safety issues with non-standardized ALBC formulations, and questions about the cost-effectiveness of ALBC, there is a need to evaluate the evidence for this clinical practice. To this end, thought leaders in the field of musculoskeletal infection (MSKI) met on August 1, 2019 to review and debate published and anecdotal information, which highlighted four major concerns about current ALBC use: 1) substantial lack of Level 1 evidence to demonstrate efficacy; 2) ALBC formulations become subtherapeutic following early release, which risks induction of antibiotic resistance, and exacerbated infection from microbial colonization of the carrier; 3) the absence of standardized formulation protocols, and FDA-approved high-dose ALBC products to use following resection in MSKI treatment; and, 4) absence of a validated assay to determine the minimum biofilm eradication concentration (MBEC) to predict ALBC efficacy against patient specific microorganisms. Here we describe these concerns in detail, and propose areas in need of research. This article is protected by copyright. All rights reserved.
+ER  - 
+
+TY  - JOUR
+AU  - Boekhout-Ta, Christina L.
+AU  - Kim, Stanley E.
+AU  - Cross, Alan R.
+AU  - Evans, Richard
+AU  - Pozzi, Antonio
+TI  - Closed reduction and fluoroscopic-assisted percutaneous pinning of 42 physeal fractures in 37 dogs and 4 cats*
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 46
+IS  - 1
+SN  - 0161-3499
+UR  - https://doi.org/10.1111/vsu.12582
+DO  - doi:10.1111/vsu.12582
+SP  - 103
+EP  - 110
+PY  - 2017
+AB  - Abstract Objective To report complications and clinical outcome of dogs and cats that underwent fluoroscopic-assisted percutaneous pinning (FAPP) of physeal fractures. Study Design Retrospective study. Animals Client-owned dogs (n?=?37) and cats (n?=?4). Materials and Methods Records (August 2007-August 2014) of physeal fractures treated with FAPP in 3 hospitals were evaluated. Data collected included signalment, fracture characteristics (etiology, location, duration, Salter-Harris classification, preoperative and postoperative displacement), surgical information (implant size, surgical duration), and outcome assessment information (functional outcome, radiographic outcome, and complications). Results The majority of animals (92%) were classified as full functional outcome. No significant predictors of functional outcome were identified. The overall complication rate was 15% (n?=?6). Elective pin removal rate was 41% (n?=?17). Goniometry and limb circumference measurements of the affected and contralateral limbs were not significantly different in dogs for which measurements were obtained. Seventeen of 18 animals (16 dogs, 2 cats) measured had bone length changes on follow-up radiographs. Conclusion FAPP is associated with an excellent functional outcome in a narrow selection of fracture configurations, specifically those with minimal displacement and for which anatomical alignment can be achieved with closed reduction.
+ER  - 
+
+TY  - JOUR
+AU  - Kawakami, Atsushi
+TI  - Stem cell system in tissue regeneration in fish
+JO  - Development, Growth & Differentiation
+VL  - 52
+IS  - 1
+SN  - 0012-1592
+UR  - https://doi.org/10.1111/j.1440-169X.2009.01138.x
+DO  - doi:10.1111/j.1440-169X.2009.01138.x
+SP  - 77
+EP  - 87
+KW  - blastema
+KW  - fin
+KW  - regeneration
+KW  - wound epidermis
+KW  - zebrafish
+PY  - 2010
+AB  - During evolution from single-cell to multi-cellular organisms, organisms developed the needed machinery by which a vast number of functionally different types of cells could be unified into an individual. To attain this goal, organisms evolved the developmental strategies that produced different cell types and unified them into complex body architecture. However, a more intriguing feature of multi-cellular organisms is that they can maintain their bodies throughout long life. For tissue maintenance, stem and/or progenitor cells in many tissues and organs are thought to play an important role; however, we know little about their control and the process of tissue reconstitution. As cells are fragile, all animals have the ability, more or less, to replace damaged or dead cells; however, there are large variations in such abilities, depending on the type of organs and the species. Though vertebrates cannot reconstitute their bodies from a small piece as do planarians, some lower vertebrates, unlike mammals, have the ability to regenerate body appendages and many internal organs. If we unveil the nature of stem cells in striking examples of such regeneration, this information can be applied to mammals and greatly benefit us. The focus in the present review is on the recent advances in our knowledge about the regeneration mechanism in fish, including the stem cells that are involved.
+ER  - 
+
+TY  - JOUR
+AU  - Rethmann, Petra
+TI  - Post-communist ironies in an East German hotel
+JO  - Anthropology Today
+VL  - 25
+IS  - 1
+SN  - 0268-540X
+UR  - https://doi.org/10.1111/j.1467-8322.2009.00643.x
+DO  - doi:10.1111/j.1467-8322.2009.00643.x
+SP  - 21
+EP  - 23
+PY  - 2009
+AB  - On 1 May 2007, a new hotel opened in Berlin: Ostel. As its name implies, it is located in the former East of the city, now ?Berlin Mitte?. The Ostel joined Berlin's burgeoning hotel scene at a time when Ostalgie - the supposed longing East Germans feel for the past - marked no longer a condition of mourning and loss but had become ?hip?. In this article to carry the analysis of Ostalgie beyond the themes of trauma or resistance into the more playful dimensions of what Czech-French writer Milan Kundera (1992) has called ?the joke,? that is, an ironic form of humor ubiquitous in former Soviet and East European contexts. I engage irony as a situated experience and practice chiefly through the ?artful lens? of material culture. In focusing on the Ostel's interior, I am especially interested in irony's ?critical edge?. I argue that it is this edge that makes it possible to open up critical interpretations of German post-unification history.
+ER  - 
+
+TY  - JOUR
+AU  - Sribnick, Eric Anthony
+AU  - Matzelle, Deborah Denise
+AU  - Ray, Swapan Kumar
+AU  - Banik, Naren Lal
+TI  - Estrogen treatment of spinal cord injury attenuates calpain activation and apoptosis
+JO  - Journal of Neuroscience Research
+JA  - J. Neurosci. Res.
+VL  - 84
+IS  - 5
+SN  - 0360-4012
+UR  - https://doi.org/10.1002/jnr.21016
+DO  - doi:10.1002/jnr.21016
+SP  - 1064
+EP  - 1075
+KW  - rat
+KW  - calcium
+KW  - neurotrauma
+KW  - neurofilament protein
+KW  - cytochrome c
+PY  - 2006
+AB  - Abstract Spinal cord injury (SCI) is a devastating neurologic injury, and currently, the only recommended pharmacotherapy is high-dose methylprednisolone, which has limited efficacy. Estrogen is a multi-active steroid with anti-oxidant and anti-apoptotic effects. Estrogen may modulate intracellular Ca2+ and prevent inflammation. For this study, male rats were divided into three groups. Sham-group animals received a laminectomy at T12. Injured rats received both laminectomy and 40 gram centimeter force SCI. Estrogen-group rats received 4 mg/kg 17?-estradiol (estrogen) at 15 min and 24 hr post-injury, and vehicle-group rats received equal volumes of dimethyl sulfoxide. Animals were sacrificed at 48 hr post-injury, and 1-cm segments of the lesion, rostral penumbra, and caudal penumbra were excised. The degradation of 68 kD neurofilament protein (NFP) and estrogen receptors (ER) was examined by Western blot analysis. Protein levels of calpain and the activities of calpain and caspase-3 were also examined. Levels of cytochrome c were determined in both cytosolic and mitochondrial fractions. Cell death with DNA fragmentation was examined using the TUNEL assay. At the lesion, samples from both vehicle and estrogen treated animals showed increased levels of 68 kD NFP degradation, calpain content, calpain activity, cytochrome c release, and degradation of ERα and ER?, as compared to sham. In the caudal penumbra, estrogen treatment significantly attenuated 68 kD NFP degradation, calpain content, calpain activity, levels of cytosolic cytochrome c, and ER? degradation. At the lesion, vehicle-treated animals displayed more TUNEL+ cells, and estrogen treatment significantly attenuated this cell death marker. We conclude that estrogen may inhibit cell death in SCI through calpain inhibition. ? 2006 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - McGrath, Jillian L.
+AU  - Taekman, Jeffrey M.
+AU  - Dev, Parvati
+AU  - Danforth, Douglas R.
+AU  - Mohan, Deepika
+AU  - Kman, Nicholas
+AU  - Crichlow, Amanda
+AU  - Bond, William F.
+TI  - Using Virtual Reality Simulation Environments to Assess Competence for Emergency Medicine Learners
+JO  - Academic Emergency Medicine
+JA  - Acad Emerg Med
+VL  - 25
+IS  - 2
+SN  - 1069-6563
+UR  - https://doi.org/10.1111/acem.13308
+DO  - doi:10.1111/acem.13308
+SP  - 186
+EP  - 195
+PY  - 2018
+AB  - Abstract Immersive learning environments that use virtual simulation (VS) technology are increasingly relevant as medical learners train in an environment of restricted clinical training hours and a heightened focus on patient safety. We conducted a consensus process with a breakout group of the 2017 Academic Emergency Medicine Consensus Conference ?Catalyzing System Change Through Health Care Simulation: Systems, Competency, and Outcomes.? This group examined the current uses of VS in training and assessment, including limitations and challenges in implementing VS into medical education curricula. We discuss the role of virtual environments in formative and summative assessment. Finally, we offer recommended areas of focus for future research examining VS technology for assessment, including high-stakes assessment in medical education. Specifically, we discuss needs for determination of areas of focus for VS training and assessment, development and exploration of virtual platforms, automated feedback within such platforms, and evaluation of effectiveness and validity of VS education.
+ER  - 
+
+TY  - JOUR
+AU  - Tian, Dai-Shi
+AU  - Liu, Jun-Li
+AU  - Xie, Min-Jie
+AU  - Zhan, Yan
+AU  - Qu, Wen-Sheng
+AU  - Yu, Zhi-Yuan
+AU  - Tang, Zhou-Ping
+AU  - Pan, Deng-Ji
+AU  - Wang, Wei
+TI  - Tamoxifen attenuates inflammatory-mediated damage and improves functional outcome after spinal cord injury in rats
+JO  - Journal of Neurochemistry
+VL  - 109
+IS  - 6
+SN  - 0022-3042
+UR  - https://doi.org/10.1111/j.1471-4159.2009.06077.x
+DO  - doi:10.1111/j.1471-4159.2009.06077.x
+SP  - 1658
+EP  - 1667
+KW  - inflammation
+KW  - myelin loss
+KW  - neuronal apoptosis
+KW  - spinal cord injury
+KW  - tamoxifen
+PY  - 2009
+AB  - Abstract Tamoxifen has been found to be neuroprotective in both transient and permanent experimental ischemic stroke. However, it remains unknown whether this agent shows a similar beneficial effect after spinal cord injury (SCI), and what are its underlying mechanisms. In this study, we investigated the efficacy of tamoxifen treatment in attenuating SCI-induced pathology. Blood?spinal cord barrier (BSCB) permeability, tissue edema formation, microglial activation, neuronal cell death and myelin loss were determined in rats subjected to spinal cord contusion. The results showed that tamoxifen, administered at 30?min post-injury, significantly decreased interleukin-1? (IL-1?) production induced by microglial activation, alleviated the amount of Evans blue leakage and edema formation. In addition, tamoxifen treatment clearly reduced the number of apoptotic neurons post-SCI. The myelin loss and the increase in production of myelin-associated axonal growth inhibitors were also found to be significantly attenuated at day 3 post-injury. Furthermore, rats treated with tamoxifen scored much higher on the locomotor rating scale after SCI than did vehicle-treated rats, suggesting improved functional outcome after SCI. Together, these results demonstrate that tamoxifen provides neuroprotective effects for treatment of SCI-related pathology and disability, and is therefore a potential neuroprotectant for human spinal cord injury therapy.
+ER  - 
+
+TY  - JOUR
+AU  - De Vries, B.
+AU  - Snoeijs, M. G. J.
+AU  - Von Bonsdorff, L.
+AU  - Ernest van Heurn, L. W.
+AU  - Parkkinen, J.
+AU  - Buurman, W. A.
+TI  - Redox-Active Iron Released During Machine Perfusion Predicts Viability of Ischemically Injured Deceased Donor Kidneys
+JO  - American Journal of Transplantation
+VL  - 6
+IS  - 11
+SN  - 1600-6135
+UR  - https://doi.org/10.1111/j.1600-6143.2006.01510.x
+DO  - doi:10.1111/j.1600-6143.2006.01510.x
+SP  - 2686
+EP  - 2693
+KW  - Donors
+KW  - non-heart-beating
+KW  - graft function
+KW  - kidney transplantation
+KW  - machine preservation
+KW  - reactive oxygen species
+KW  - warm ischemia
+PY  - 2006
+AB  - Redox-active iron, catalyzing the generation of reactive oxygen species, has been implicated in experimental renal ischemia-reperfusion injury. However, in clinical transplantation, it is unknown whether redox-active iron is involved in the pathophysiology of ischemic injury of non-heart-beating (NHB) donor kidneys. We measured redox-active iron concentrations in perfusate samples of 231 deceased donor kidneys that were preserved by machine pulsatile perfusion at our institution between May 1998 and November 2002 using the bleomycin detectable iron assay. During machine pulsatile perfusion, redox-active iron was released into the preservation solution. Ischemically injured NHB donor kidneys had significantly higher perfusate redox-active iron concentrations than heart-beating (HB) donor kidneys that were not subjected to warm ischemia (3.9 ± 1.1 vs. 2.8 ± 1.0 ?mol/L, p = 0.001). Moreover, redox-active iron concentration was an independent predictor of post-transplant graft viability (odds ratio 1.68, p = 0.01) and added predictive value to currently available donor and graft characteristics. This was particularly evident in uncontrolled NHB donor kidneys for which there is the greatest uncertainty about transplant outcomes. Therefore, perfusate redox-active iron concentration shows promise as a novel viability marker of NHB donor kidneys.
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Presentation Abstracts
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 43
+IS  - 5
+SN  - 0161-3499
+UR  - https://doi.org/10.1111/j.1532-950X.2014.12223.x
+DO  - doi:10.1111/j.1532-950X.2014.12223.x
+SP  - E115
+EP  - E150
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - Oral Presentations
+JO  - Emergency Medicine Australasia
+VL  - 19
+IS  - s1
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/j.1742-6723.2007.00939.x
+DO  - doi:10.1111/j.1742-6723.2007.00939.x
+SP  - A1
+EP  - A28
+PY  - 2007
+ER  - 

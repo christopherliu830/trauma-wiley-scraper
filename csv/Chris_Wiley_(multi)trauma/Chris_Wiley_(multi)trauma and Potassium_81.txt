@@ -1,0 +1,330 @@
+
+AU  - Killard, Anthony J.
+AU  - Sequeira, Margaret
+AU  - Diamond, Dermot
+AU  - Smyth, Malcolm R.
+TI  - Electroanalysis and Biosensors in Clinical Chemistry
+SN  - 9780471976707
+UR  - https://doi.org/10.1002/9780470027318.a0512
+DO  - doi:10.1002/9780470027318.a0512
+AB  - Abstract Electroanalysis involves the measurement or determination of a chemical or biochemical species, using a wide range of electrochemical methods. The species being measured can either bring about a direct electrochemical response that can be detected and measured, or can be induced to bring about such a response, resulting in a process that can be detected electrochemically. In both cases an interface is required between the chemical or biochemical species being measured, and the electrochemical system performing the measurement. This interface is referred to as an ?electrode?. It is the transfer of electrons or ions between the electrode and the environment being sampled which is of concern in electroanalysis. The application of electrochemistry in clinical analysis is concerned with the measurement of chemical and biochemical species present in biological fluids (primarily blood but also urine and other body fluids and tissues). It is applied in several areas of critical care where its rapidity, sensitivity, precision, and accuracy at biologically relevant concentrations make it an ideal choice over other, typically slower, biochemical techniques. Indeed, it is the speed of electrochemical analysis that principally differentiates it from other methods. It is not universally applicable to clinical chemistry, however, and has only been applied in situations where such analyses are relevant. This has principally been in the analysis of blood gases and pH and blood electrolytes. Electrochemical methods are, however, gradually being extended to the analysis of small biochemical components such as sugars, amino acids and other metabolites, with the advent of enzyme-based ?biosensors?. There is also little doubt that the application of electrochemistry in clinical analysis will be further exploited by the use of such biosensor devices based on other forms of biorecognition, such as antibodies, cell ligands, membranes, tissues and whole cells. These biosensor devices are also amenable to other forms of detection such as acoustic wave and optical measurements. Together, these techniques offer a wide range of advantages over traditional analytical methodologies, and will undoubtedly have a rapidly increasing impact on many types of clinical analysis. This article focuses on the use of electrochemical techniques and electrochemical biosensors and their application in clinical chemistry.
+ER  - 
+
+TY  - JOUR
+TI  - American Society of Transplant Surgeons: 16th Annual State of the Art Symposium
+JO  - American Journal of Transplantation
+VL  - 16
+IS  - S1
+SN  - 9780471976707
+UR  - https://doi.org/10.1111/ajt.13652
+DO  - doi:10.1111/ajt.13652
+SP  - 9
+EP  - 90
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - Posters
+JO  - FEBS Open Bio
+JA  - FEBS Open Bio
+VL  - 8
+IS  - S1
+SN  - 9780471976707
+UR  - https://doi.org/10.1002/2211-5463.12453
+DO  - doi:10.1002/2211-5463.12453
+SP  - 105
+EP  - 510
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - 10th Annual meeting of French Society of Pharmacology, 73rd Annual meeting of Society of Physiology, 27th pharmacovigilance meeting, 54th APNET Seminar and 4th CHU CIC meeting (Corum Montpellier 10-12 April 2006)
+JO  - Fundamental & Clinical Pharmacology
+VL  - 20
+IS  - 2
+SN  - 9780471976707
+UR  - https://doi.org/10.1111/j.1472-8206.2006.00409.x
+DO  - doi:10.1111/j.1472-8206.2006.00409.x
+SP  - 145
+EP  - 234
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+TI  - Poster Sessions
+JO  - Clinical Microbiology and Infection
+VL  - 18
+IS  - s3
+SN  - 9780471976707
+UR  - https://doi.org/10.1111/j.1469-0691.2012.03802.x
+DO  - doi:10.1111/j.1469-0691.2012.03802.x
+SP  - 114
+EP  - 715
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts from the American Society for Apheresis 29th Annual Meeting, April 9–12, 2008, Galveston, Texas
+JO  - Journal of Clinical Apheresis
+JA  - J. Clin. Apheresis
+VL  - 23
+IS  - 1
+SN  - 9780471976707
+UR  - https://doi.org/10.1002/jca.20160
+DO  - doi:10.1002/jca.20160
+SP  - 1
+EP  - 51
+PY  - 2008
+ER  - 
+
+AU  - Knösche, Thomas R.
+AU  - Nakasato, Nobukazu
+AU  - Eiselt, Michael
+AU  - Haueisen, Jens
+C7  - pp. 210-267
+TI  - Neuromagnetism
+SN  - 9783527405589
+UR  - https://doi.org/10.1002/9783527610174.ch2d
+DO  - doi:10.1002/9783527610174.ch2d
+SP  - 210-267
+KW  - neuromagnetism
+KW  - generation of magnetic signals by the brain
+KW  - analysis of neuromagnetic fields
+KW  - investigation of the primary sensory and motor systems
+KW  - cognitive functions
+KW  - human communication
+KW  - recognition of objects
+KW  - clinical applications
+PY  - 2008
+AB  - Summary This chapter contains sections titled: Introduction The Generation of Magnetic Signals by the Brain Introduction Technical Development and Limits of Detection Electrophysiology of Brain Cells Extracellular Space Pathophysiology Final Remarks Analysis of Neuromagnetic Fields Signal Analysis Modeling and Source Reconstruction The Investigation of the Primary Sensory and Motor Systems Introduction Somatosensory System Auditory System Visual System Olfactory and Gustatory System Motor System Perspectives Neuromagnetic Fields and Brain Science: Cognitive Functions Brain Correlates of Cognition: Components and Localizations Human Communication Recognition of Objects: Perceptual Binding Actions: Planning, Execution, Perception, and Imagery Attention Memory Emotions Clinical Applications Introduction Somatosensory Evoked Fields (SEFs) Auditory Evoked Fields (AEFs) Visually Evoked Magnetic Fields (VEFs) Language-Related Fields (LRFs) Spontaneous Brain Activity in Epilepsy Spontaneous Brain Activity in Structural Brain Lesions and Ischemia Perspectives
+ER  - 
+
+TY  - JOUR
+AU  - Shen, Yuh-Chiang
+AU  - Wang, Yea-Hwey
+AU  - Chou, Yueh-Ching
+AU  - Liou, Kuo-Tong
+AU  - Yen, Jiin-Cherng
+AU  - Wang, Wen-Yen
+AU  - Liao, Jyh-Fei
+TI  - Dimemorfan protects rats against ischemic stroke through activation of sigma-1 receptor-mediated mechanisms by decreasing glutamate accumulation
+JO  - Journal of Neurochemistry
+VL  - 104
+IS  - 2
+SN  - 9783527405589
+UR  - https://doi.org/10.1111/j.1471-4159.2007.05058.x
+DO  - doi:10.1111/j.1471-4159.2007.05058.x
+SP  - 558
+EP  - 572
+KW  - cerebral ischemia-reperfusion
+KW  - dimemorfan
+KW  - glutamate
+KW  - inflammation
+KW  - neuroprotection
+KW  - oxidative/nitrosative stress
+KW  - σ1 receptor
+PY  - 2008
+AB  - Abstract Dimemorfan, an antitussive and a sigma-1 (σ1) receptor agonist, has been reported to display neuroprotective properties. We set up an animal model of ischemic stroke injury by inducing cerebral ischemia (for 1?h) followed by reperfusion (for 24?h) (CI/R) in rats to examine the protective effects and action mechanisms of dimemorfan against stroke-induced damage. Treatment with dimemorfan (1.0??g/kg and 10??g/kg, i.v.) either 15?min before ischemia or at the time of reperfusion, like the putative σ1 receptor agonist, PRE084 (10??g/kg, i.v.), ameliorated the size of the infarct zone by 67?72% or 51?52%, respectively, which was reversed by pre-treatment with the selective σ1 receptor antagonist, BD1047 (20??g/kg, i.v.). Major pathological mechanisms leading to CI/R injury including excitotoxicity, oxidative/nitrosative stress, inflammation, and apoptosis are all downstream events initiated by excessive accumulation of extracellular glutamate. Dimemorfan treatment (10??g/kg, i.v., at the time of reperfusion) inhibited the expressions of monocyte chemoattractant protein-1 and interleukin-1?, which occurred in parallel with decreases in neutrophil infiltration, activation of inflammation-related signals (p38 mitogen-activated protein kinase, nuclear factor-?B, and signal transducer and activator of transcription-1), expression of neuronal and inducible nitric oxide synthase, oxidative/nitrosative tissue damage (lipid peroxidation, protein nitrosylation, and 8-hydroxy-guanine formation), and apoptosis in the ipsilateral cortex after CI/R injury. Dimemorfan treatment at the time of reperfusion, although did not prevent an early rise of glutamate level, significantly prevented subsequent glutamate accumulation after reperfusion. This inhibitory effect was lasted for more than 4?h and was reversed by pre-treatment with BD1047. These results suggest that dimemorfan activates the σ1 receptor to reduce glutamate accumulation and then suppresses initiation of inflammation-related events and signals as well as induction of oxidative and nitrosative stresses, leading to reductions in tissue damage and cell death. In conclusion, our results demonstrate for the first time that dimemorfan exhibits protective effects against ischemic stroke in CI/R rats probably through modulation of σ1 receptor-dependent signals to prevent subsequent glutamate accumulation and its downstream pathologic events.
+ER  - 
+
+TY  - JOUR
+TI  - Poster abstracts
+JO  - Acta Neuropsychiatrica
+VL  - 21
+IS  - s2
+SN  - 9783527405589
+UR  - https://doi.org/10.1111/j.1601-5215.2009.00387.x
+DO  - doi:10.1111/j.1601-5215.2009.00387.x
+SP  - 73
+EP  - 94
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+AU  - TOOULI, J
+AU  - BROOKE-SMITH, M
+AU  - BASSI, C
+AU  - CARR-LOCKE, D
+AU  - TELFORD, J
+AU  - FREENY, P
+AU  - IMRIE, C
+AU  - TANDON, R
+TI  - Guidelines for the management of acute pancreatitis
+JO  - Journal of Gastroenterology and Hepatology
+VL  - 17
+IS  - s1
+SN  - 9783527405589
+UR  - https://doi.org/10.1046/j.1440-1746.17.s1.2.x
+DO  - doi:10.1046/j.1440-1746.17.s1.2.x
+SP  - S15
+EP  - S39
+PY  - 2002
+ER  - 
+
+TY  - JOUR
+TI  - ASBMR 2010 Annual Meeting MO0001–MO0484
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 25
+IS  - S1
+SN  - 9783527405589
+UR  - https://doi.org/10.1002/jbmr.5650251305
+DO  - doi:10.1002/jbmr.5650251305
+SP  - S363
+EP  - S502
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Anaesthesia
+JA  - Anaesthesia
+VL  - 72
+IS  - S4
+SN  - 9783527405589
+UR  - https://doi.org/10.1111/anae.14060
+DO  - doi:10.1111/anae.14060
+SP  - 10
+EP  - 88
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - American Journal of Transplantation
+JA  - American Journal of Transplantation
+VL  - 14
+IS  - S2
+SN  - 9783527405589
+UR  - https://doi.org/10.1111/ajt.12617
+DO  - doi:10.1111/ajt.12617
+SP  - 51
+EP  - 108
+PY  - 2014
+AB  - First page of article
+ER  - 
+
+AU  - Dean, Michelle L.
+C7  - pp. 171-179
+TI  - Printmaking
+SN  - 9781118306598
+UR  - https://doi.org/10.1002/9781118306543.ch17
+DO  - doi:10.1002/9781118306543.ch17
+SP  - 171-179
+KW  - multiple prints
+KW  - printmaking
+KW  - receptive impressions
+KW  - reflective impressions
+KW  - therapeutic process
+PY  - 2014
+AB  - Summary This chapter provides an historical overview of printmaking, the characteristics of printmaking that lend itself to the therapeutic process, and various printmaking techniques and directives that can be adopted within a therapeutic milieu. It focuses on printmaking processes that would be best suited for the most common therapeutic situations. Reflective processes are inherent in all artwork. Just as the early cave prints established a record of the identity of the creator, so too does the print reflect that identity back to the creator, similar to a mirror. Printmaking always has a magical quality. This process is akin to surrendering to a creative muse, the wisdom of an oracle of a higher power. There is a receptivity that is required in the wisdom of the process. Multiple prints reduce the preciousness of a single art production and lend themselves to sharing more freely, uniting a group.
+ER  - 
+
+TY  - JOUR
+AU  - Yopp, Adam C
+AU  - Ledgerwood, Levi G
+AU  - Ochando, Jordi C
+AU  - Bromberg, Jonathan S
+TI  - Sphingosine 1-phosphate receptor modulators: a new class of immunosuppressants
+JO  - Clinical Transplantation
+VL  - 20
+IS  - 6
+SN  - 9781118306598
+UR  - https://doi.org/10.1111/j.1399-0012.2006.00570.x
+DO  - doi:10.1111/j.1399-0012.2006.00570.x
+SP  - 788
+EP  - 795
+KW  - immunosuppression transplantation
+KW  - T lymphocyteo
+KW  - FTY720
+PY  - 2006
+AB  - Abstract:? In this review, we summarize how FTY720 came from the lab bench to the bedside by examining its structural similarities to natural occuring sphingosine analogues, the mechanism of action, and clinical applicability to not only transplantation but also autoimmune, oncological, and neurobiological fields. FTY720, a sphingosine 1-phosphate (S1P) analogue, promotes the survival of human and animal allografts by sequestering T lymphocytes within peripheral lymphoid tissue. The mechanism of sequestration is three-fold:(1) T lymphocytes are driven into peripheral lymph nodes in a chemokine dependent manner by FTY720;(2) FTY720 downregulates sphingosine 1-phosphate receptors (S1PRs) on the T lymphocyte surface, rendering it unable to migrate along a S1P gradient; and (3) FTY720 closes stromal gates on the abluminal side of the lymphatic endothelium. Future areas of investigation include developing S1P analogues that have specific agonist binding to S1PRs avoiding side effects seen in non-specific binding.
+ER  - 
+
+TY  - JOUR
+TI  - AUGIS abstracts 2017
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 104
+IS  - S7
+SN  - 9781118306598
+UR  - https://doi.org/10.1002/bjs.10691
+DO  - doi:10.1002/bjs.10691
+SP  - 5
+EP  - 68
+PY  - 2017
+ER  - 
+
+C7  - pp. 244-252
+TI  - The Mammalian Startle Response
+SN  - 9780470972243
+UR  - https://doi.org/10.1002/9781118527061.ch9
+DO  - doi:10.1002/9781118527061.ch9
+SP  - 244-252
+KW  - fear-potentiation
+KW  - habituation
+KW  - mammalian startle response
+KW  - neural circuitry
+KW  - pleasure attenuation
+KW  - pre-pulse inhibition
+KW  - sensitisation
+PY  - 2017
+AB  - Summary The mammalian startle response is extremely widespread within the class, occurring in most mammals, including humans. The response is highly labile, showing rapid short-term habituation, mediated by anti-facilitation at afferent synapses onto the PnC neurons, as well as longer-term learning processes. Startle threshold and amplitude are very dependent on the emotional state of the subject, and this can in part be traced directly to regulation of the giant PnC neurons. Serotonin (5-HT) is a neuromodulator that may play an important role in dynamically regulating the startle circuit via the giant PnC neurons, since elevated 5-HT appears to enhance the reflex. The importance of 5-HT in regulating startle threshold in humans has been emphasised by the demonstration that people carrying the 'short' allele of the transcriptional control region of the 5-HT transporter gene (5-HTTLPR) have stronger startle responses than those who are homozygous for the 'long' allele.
+ER  - 
+
+TY  - JOUR
+AU  - Derkay, Craig S.
+AU  - Wiatrak, Brian
+TI  - Recurrent Respiratory Papillomatosis: A Review
+JO  - The Laryngoscope
+JA  - The Laryngoscope
+VL  - 118
+IS  - 7
+SN  - 9780470972243
+UR  - https://doi.org/10.1097/MLG.0b013e31816a7135
+DO  - doi:10.1097/MLG.0b013e31816a7135
+SP  - 1236
+EP  - 1247
+KW  - Recurrent respiratory papillomas
+KW  - childhood hoarseness
+KW  - human papillomavirus
+KW  - vaccine
+PY  - 2008
+AB  - Abstract Recurrent respiratory papillomatosis (RRP), which is caused by human papillomavirus types 6 and 11, is the most common benign neoplasm of the larynx among children and the second most frequent cause of childhood hoarseness. After changes in voice, stridor is the second most common symptom, first inspiratory and then biphasic. Less common presenting symptoms include chronic cough, recurrent pneumonia, failure to thrive, dyspnea, dysphagia, or acute respiratory distress, especially in infants with an upper respiratory tract infection. Differential diagnoses include asthma, croup, allergies, vocal nodules, or bronchitis. Reports estimate the incidence of RRP in the United States at 4.3 per 100,000 children and 1.8 per 100,000 adults. Infection in children has been associated with vertical transmission during vaginal delivery from an infected mother. Younger age at diagnosis is associated with more aggressive disease and the need for more frequent surgical procedures to decrease the airway burden. When surgical therapy is needed more frequently than four times in 12 months or there is evidence of RRP outside the larynx, adjuvant medical therapy should be considered. Adjuvant therapies that have been investigated include dietary supplements, control of extra-esophageal reflux disease, potent antiviral and chemotherapeutic agents, and photodynamic therapies; although several have shown promise, none to date has ?cured? RRP, and some may have serious side effects. Because RRP, although histologicallybenign, is so difficult to control and can cause severe morbidity and death, better therapies are needed. The potential for a quadrivalent human papilloma vaccine is being explored to reduce the incidence of this disease.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentations
+JO  - Journal of Gastroenterology and Hepatology
+JA  - J Gastroenterol Hepatol
+VL  - 28
+IS  - S3
+SN  - 9780470972243
+UR  - https://doi.org/10.1111/jgh.12363_2
+DO  - doi:10.1111/jgh.12363_2
+SP  - 23
+EP  - 693
+PY  - 2013
+ER  - 
+
+AU  - Weinberg, Mea A.
+AU  - Froum, Stuart J.
+C7  - pp. 41-104
+TI  - Formulary Sections
+SN  - 9780470960448
+UR  - https://doi.org/10.1002/9781118704721.ch4
+DO  - doi:10.1002/9781118704721.ch4
+SP  - 41-104
+KW  - Antifungal agents
+KW  - Antimicrobials
+KW  - Antivirals agents
+KW  - Controlled-release drug delivery
+KW  - Formulary sections
+KW  - Glucocorticosteroids
+KW  - Local antimicrobials
+KW  - Moderate sedation
+KW  - Pain control
+KW  - Systemic antimicrobials
+PY  - 2013
+AB  - Summary This chapter contains sections titled: Antimicrobials, Systemic Antimicrobials, Local Controlled-Release Drug Delivery Antivirals/Antifungal Agents Prescribing for Pain Control Moderate Sedation Glucocorticosteroids References
+ER  - 

@@ -1,0 +1,351 @@
+
+TY  - JOUR
+AU  - Papas, Eric B
+TI  - Contact lens technology to 2020 and beyond: a review of recent patent literature
+JO  - Clinical and Experimental Optometry
+JA  - Clin Exp Optom
+VL  - 100
+IS  - 5
+SN  - 0816-4622
+UR  - https://doi.org/10.1111/cxo.12596
+DO  - doi:10.1111/cxo.12596
+SP  - 529
+EP  - 536
+KW  - contact lens
+KW  - patent literature
+KW  - technology
+PY  - 2017
+AB  - Contact lenses have been a common means of vision correction for more than half a century. Recent developments raise the possibility that the next several years will see the range of applications in which they are used broaden considerably, with an associated expansion in both the number and type of individuals who consider them to be a valuable option. To describe this new landscape, a review of recent patent submissions covering the period 1 January 2014 to 1 February 2017 was undertaken. The results show that in the main, areas where contact lenses will be applied include drug delivery, visual augmentation and biosensing.
+ER  - 
+
+TY  - JOUR
+AU  - Schalley, Christoph A.
+TI  - Molecular recognition and supramolecular chemistry in the gas phase
+JO  - Mass Spectrometry Reviews
+JA  - Mass Spectrom. Rev.
+VL  - 20
+IS  - 5
+SN  - 0277-7037
+UR  - https://doi.org/10.1002/mas.10009
+DO  - doi:10.1002/mas.10009
+SP  - 253
+EP  - 309
+KW  - supramolecular chemistry
+KW  - gas phase chemistry
+KW  - host-guest chemistry
+KW  - molecular recognition
+KW  - non-covalent interactions
+KW  - self-assembly
+PY  - 2001
+AB  - Abstract I. Introduction 254 II. Benefits of Mass Spectrometry for Supramolecular Chemistry 254 A.??Non-Covalent Bonding in the Condensed- and Gas-Phase 256 B.??Promise and Pitfalls of Mass Spectrometry for Supramolecular Chemistry 257 III. Crown Ether?Ammonium Ion Complexes 257 A.??Ammonium Ion Affinities 258 B.??Chiral Recognition of Ammonium Ions 259 C.??Collision-Activated Dissociation and Ion-Molecule Reactions 260 IV. Crown Ether?Metal Ion Complexes 260 A.??Binding Selectivities in Solution as Determined by ESI-MS 260 B.??Orders of Alkali Ion Affinities by the Kinetic Method 262 C.??Gas-Phase Binding Energies from Threshold Collision-Induced Dissociation Experiments 262 D.??Thermochemistry and Kinetics of Ligand Exchange: Gas-Phase Equilibria 263 E.??Gas-Phase Conformations 264 V. Non-Covalent Interactions with Small Biomolecules 264 A.??Metal Binding to Simple Peptides 265 B.??Chiral Differentiation of Amino Acids and Peptides 267 C.??Question of Salt Bridges in the Absence of Solvent 269 D.??Metal-Ion Bonding to DNA Bases and Oligonucleotides 270 E.??Is the Watson?Crick Base-Pairing Conserved in the Gas Phase 272 F.??Stereodifferentiation of Small Carbohydrates 274 VI. Inclusion Complexes of Cyclodextrins 276 VII. Host?Guest Chemistry of Calixarene and Resorcinarene Derivatives 279 VIII. Metal-Directed Self-Assembly 280 A.??(Metallo)dendrimers 281 B.??Helicates and Metal-Templated Catenanes 282 C.??Molecular Polygons, Polyhedra, and Cages 284 IX. Self-Assembly Driven by Hydrogen Bonding 286 A.??Rosette-Type Assemblies from Barbiturate and Melamine Subunits 288 B.??Self-Assembling Capsules 291 X. Conclusions: The Benefits of Supramolecular Chemistry for Mass Spectrometry 296 References 297 Supramolecular chemistry, in particular, the fields of molecular recognition and self-assembly, profit much from the development of soft ionization techniques and advanced methods for mass analysis and gas-phase chemistry. Vice versa, weakly bonded architectures and host-guest complexes represent a veritable challenge for the mass spectrometrist, leading to further development of methods and techniques. This review describes the state-of-the-art in this field, and includes topics such as the effects of solvation on meta binding to crown ethers, chiral discrimination of guests by chiral hosts, the elucidation of the secondary structure of self assembled complexes, and the mechanistic pathways of self assembly or the fragmentations of supramolecular complexes in the gas phase. ? 2002 Wiley Periodicals, Inc. Mass Spec Rev 20: 253?309, 2001; Published online in Wiley Interscience (www.interscience.wiley.com). DOI 10.1002/mas.10009
+ER  - 
+
+TY  - JOUR
+TI  - Poster
+JO  - Surgical Practice
+JA  - Surg Pract
+VL  - 20
+IS  - S2
+SN  - 1744-1625
+UR  - https://doi.org/10.1111/1744-1633.12208
+DO  - doi:10.1111/1744-1633.12208
+SP  - 21
+EP  - 44
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - CLINICAL NUTRITION WEEK 2007 Abstracts
+JO  - Journal of Parenteral and Enteral Nutrition
+JA  - JPEN J Parenter Enteral Nutr
+VL  - 31
+IS  - 2
+SN  - 0148-6071
+UR  - https://doi.org/10.1177/0148607107031002S1
+DO  - doi:10.1177/0148607107031002S1
+SP  - S1
+EP  - S70
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Mian
+AU  - Mi, Gujie
+AU  - Shi, Di
+AU  - Bassous, Nicole
+AU  - Hickey, Daniel
+AU  - Webster, Thomas J.
+C7  - 1700905
+TI  - Nanotechnology and Nanomaterials for Improving Neural Interfaces
+JO  - Advanced Functional Materials
+JA  - Adv. Funct. Mater.
+VL  - 28
+IS  - 12
+SN  - 1616-301X
+UR  - https://doi.org/10.1002/adfm.201700905
+DO  - doi:10.1002/adfm.201700905
+SP  - 1700905
+KW  - nanofabrication
+KW  - nanomaterials
+KW  - neural electrodes
+KW  - neural interfaces
+PY  - 2018
+AB  - Abstract A successful biomaterial?neural tissue interface should demonstrate biocompatibility, cytocompatibility, the ability to integrate properly within neural tissues, and the prolonged maintenance of desired electrical properties. Neural electrodes implanted in vivo often experience degradation of these properties due to implant micromotion, mechanical mismatch, an extensive foreign-body response, and the formation of glial scar tissue that interfere with signal transmission. However, recent advances in nanotechnology and nanomaterials show great promise to address these problems due to their biologically inspired surface features and enhanced electrical properties. This review will discuss how nanomaterials and nanotechnology are being used to fabricate advanced neural electrodes that demonstrate greater bio-integration properties, enhanced prolonged electrical properties, and an improved signal specificity down to the single molecule range. First, an overview of current biomaterial?neural tissue interface technology is provided, followed by an examination of conventional and newly developed micro- and nano-fabrication methodologies. Nanomaterials that have shown the most promise for neural interfacial applications are then discussed, including carbon nanomaterials, conductive polymers, and hybrid nanomaterials. The purpose of this review is to describe recent advances in nanotechnology for improved biomaterial?neural tissue interfaces, and identify their advantages and disadvantages from a researcher's perspective.
+ER  - 
+
+TY  - JOUR
+AU  - Owais, A. E.
+AU  - Bumby, R. F.
+AU  - MacFie, J.
+TI  - Review article: permissive underfeeding in short-term nutritional support
+JO  - Alimentary Pharmacology & Therapeutics
+VL  - 32
+IS  - 5
+SN  - 0269-2813
+UR  - https://doi.org/10.1111/j.1365-2036.2010.04394.x
+DO  - doi:10.1111/j.1365-2036.2010.04394.x
+SP  - 628
+EP  - 636
+PY  - 2010
+AB  - Aliment Pharmacol Ther 2010; 32: 628?636 Summary Background? The importance of adequate nutritional support in selected patient groups is well established. Traditionally, the amounts of macronutrients provided have been based on a perceived need to achieve, if not exceed, energy and protein balance. In recent years, there has been increasing interest in the concept of ?permissive underfeeding?. Aim? To determine whether or not there is evidence of benefit for permissive underfeeding in selected groups. Methods? Studies were identified from MEDLINE, Embase and PubMed databases and the Cochrane collaboration. The search was limited from January 1950 to January 2010. Further searches were made from the references of original articles. The literature search revealed 591 abstracts of relevant studies. All abstracts were initially reviewed by the primary author (AO) and those that did not fulfil the inclusion criteria were discarded. The remaining articles were requested and were reviewed independently by two authors (AO, JM). Results? Twelve studies were included in the final analysis. Eight of these were randomized interventional trials. Three were prospective cohort studies and one was a retrospective analysis. Conclusion? This review suggests that permissive underfeeding may be associated with improved outcomes and reduced morbidity in patients requiring short-term nutritional support.
+ER  - 
+
+TY  - JOUR
+TI  - 22nd Clinical Congress Abstracts
+JO  - Journal of Parenteral and Enteral Nutrition
+JA  - Journal of Parenteral and Enteral Nutrition
+VL  - 22
+IS  - 1
+SN  - 0148-6071
+UR  - https://doi.org/10.1177/014860719802200110
+DO  - doi:10.1177/014860719802200110
+SP  - S1
+EP  - S21
+PY  - 1998
+ER  - 
+
+TY  - JOUR
+TI  - Free Paper Abstracts
+JO  - Anaesthesia
+JA  - Anaesthesia
+VL  - 70
+IS  - S4
+SN  - 0003-2409
+UR  - https://doi.org/10.1111/anae.13224
+DO  - doi:10.1111/anae.13224
+SP  - 11
+EP  - 91
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - Table of Contents
+JO  - The Brown University Psychopharmacology Update
+JA  - Psych. Update
+VL  - 18
+IS  - 5
+SN  - 1068-5308
+UR  - https://doi.org/10.1002/pu.20043
+DO  - doi:10.1002/pu.20043
+SP  - 1
+EP  - 8
+PY  - 2007
+AB  - Abstract Antipsychotics Improve Psychosocial Functioning but Adjunctive Therapies Still Needed CBT Reduces Severity of Side Effects in Patients with Panic Disorder Taking Imipramine Drug Metabolism Genotypes and Sertraline Adverse Effects CBT vs. Paroxetine Equally Effective for Hypochondriasis Tiagabine Not Effective for PTSD CATIE Results: Eeffectiveness of 2nd-Generation Antipsychotics after Discontinuing Perphenazine Citalopram for Depression with Coronary Heart Disease SAMHSA Launches Database of Evidence-Based Practices Alternative Treatment for Depression Surveyed in Women Global ADHD Drug Use Analyzed Olanzapine-Induced Hyperglycemia in Anorexia Nervosa Approved: Duloxetine for Generalized Anxiety Disorder Approved: Lisdexamfetamine for ADHD
+ER  - 
+
+TY  - JOUR
+AU  - Upton, Richard N
+TI  - CEREBRAL UPTAKE OF DRUGS IN HUMANS
+JO  - Clinical and Experimental Pharmacology and Physiology
+VL  - 34
+IS  - 8
+SN  - 0305-1870
+UR  - https://doi.org/10.1111/j.1440-1681.2007.04649.x
+DO  - doi:10.1111/j.1440-1681.2007.04649.x
+SP  - 695
+EP  - 701
+KW  - brain
+KW  - human
+KW  - mass balance
+KW  - microdialysis
+KW  - pharmacodynamics
+KW  - pharmacokinetics
+KW  - pharmacology
+KW  - positron emission tomography (PET)
+KW  - review
+KW  - uptake
+PY  - 2007
+AB  - SUMMARY 1 Drugs that target the central nervous system (CNS) are under-represented in the pharmacopoeia because of the difficulties of overcoming passive and active defences of the blood?brain barrier (BBB). Methods have been developed in drug discovery to make decisions about whether a compound crosses the BBB. Less is known about how the rate and extent of CNS penetration of a drug affects its clinical behaviour, largely because of past difficulties in measuring the cerebral uptake of drugs in humans. Three methods for doing so are reviewed. 2 Microdialysis is sometimes used as a clinical tool for monitoring the brain in neurointensive care and opportunistic pharmacological studies are possible. The method is relatively cheap and simple, measures free drug concentrations and is better suited to characterizing slowly changing brain drug concentrations. 3 Measuring cerebral drug uptake using positron emission tomography imaging requires the use of short-lived isotopes (labelled drug or labelled receptor ligand). Data with high spatial and temporal resolution can be collected, but the method requires expensive infrastructure. 4 Jugular bulb catheters collect pure brain venous blood and are sometimes placed for neuromonitoring. Cerebral drug uptake is inferred from the arterial to cerebral venous concentration difference. The method is relatively cheap and simple and allows global brain concentrations to be estimated. It is better suited to characterizing rapidly changing brain concentrations and effects. 5 The cerebral kinetics of a cerebro-active drug can make substantial contributions to its clinical behaviour. For example, loperamide is a peripherally acting opioid that has little CNS effect due to the active efflux transport of loperamide from the brain back into the blood by transporters including P-glycoprotein. The opioids alfentanil and fentanyl differ in their duration of action largely because of differences in their cerebral distribution volume rather than differences in systemic kinetics. The onset of anaesthesia of the intravenous anaesthetic propofol is governed almost completely by the kinetics of the first-pass passage of the drug through the brain and is more affected by changes in cerebral blood flow than hepatic clearance. 6 Continuing to exploit and develop these methods may provide new avenues to enhance the safety and efficacy of cerebro-active drugs in clinical practice.
+ER  - 
+
+TY  - JOUR
+TI  - Clinical Nutrition Week 2010 Scientific Abstracts
+JO  - Journal of Parenteral and Enteral Nutrition
+JA  - Journal of Parenteral and Enteral Nutrition
+VL  - 34
+IS  - 2
+SN  - 0148-6071
+UR  - https://doi.org/10.1177/0148607110362660
+DO  - doi:10.1177/0148607110362660
+SP  - 171
+EP  - 235
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Free Paper Abstracts
+JO  - Anaesthesia
+JA  - Anaesthesia
+VL  - 69
+IS  - s4
+SN  - 0003-2409
+UR  - https://doi.org/10.1111/anae.12866
+DO  - doi:10.1111/anae.12866
+SP  - 11
+EP  - 88
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+AU  - Carr, Alan
+TI  - The effectiveness of family therapy and systemic interventions for child-focused problems
+JO  - Journal of Family Therapy
+VL  - 31
+IS  - 1
+SN  - 0163-4445
+UR  - https://doi.org/10.1111/j.1467-6427.2008.00451.x
+DO  - doi:10.1111/j.1467-6427.2008.00451.x
+SP  - 3
+EP  - 45
+PY  - 2009
+AB  - This review updates a similar paper published in the Journal of Family Therapy in 2001. It presents evidence from meta-analyses, systematic literature reviews and controlled trials for the effectiveness of systemic interventions for families of children and adolescents with various difficulties. In this context, systemic interventions include both family therapy and other family-based approaches such as parent training. The evidence supports the effectiveness of systemic interventions either alone or as part of multimodal programmes for sleep, feeding and attachment problems in infancy; child abuse and neglect; conduct problems (including childhood behavioural difficulties, ADHD, delinquency and drug abuse); emotional problems (including anxiety, depression, grief, bipolar disorder and suicidality); eating disorders (including anorexia, bulimia and obesity); and somatic problems (including enuresis, encopresis, recurrent abdominal pain, and poorly controlled asthma and diabetes).
+ER  - 
+
+TY  - JOUR
+AU  - Uno, Yota
+AU  - Coyle, Joseph T.
+TI  - Glutamate hypothesis in schizophrenia
+JO  - Psychiatry and Clinical Neurosciences
+JA  - Psychiatry Clin. Neurosci.
+VL  - 73
+IS  - 5
+SN  - 1323-1316
+UR  - https://doi.org/10.1111/pcn.12823
+DO  - doi:10.1111/pcn.12823
+SP  - 204
+EP  - 215
+KW  - D-serine
+KW  - glutamate
+KW  - N-methyl-d-aspartate receptor
+KW  - schizophrenia
+KW  - serine racemase
+PY  - 2019
+AB  - Schizophrenia is a chronic and severe psychiatric disorder that has profound impact on an individual?s life and on society. Thus, developing more effective therapeutic interventions is essential. Over the past quarter-century, an abundance of evidence from pharmacologic challenges, post-mortem studies, brain imaging, and genetic studies supports the role of glutamatergic dysregulation in the pathophysiology of schizophrenia, and the results of recent randomized clinical trials based on this evidence have yielded promising results. In this article, we review the evidence that alterations in glutamatergic neurotransmission, especially focusing on the N-methyl-d-aspartate receptor (NMDAR) function, may be a critical causative feature of schizophrenia, how this contributes to pathologic circuit function in the brain, and how these insights are revealing whole new avenues for treatment development that could reduce treatment-resistant symptoms, which account for persistent disability.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts
+JO  - Journal of Paediatrics and Child Health
+VL  - 45
+IS  - s1
+SN  - 1034-4810
+UR  - https://doi.org/10.1111/j.1440-1754.2009.01475.x
+DO  - doi:10.1111/j.1440-1754.2009.01475.x
+SP  - A74
+EP  - A125
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+TI  - ASGBI abstracts 2010
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 97
+IS  - S2
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.7050
+DO  - doi:10.1002/bjs.7050
+SP  - 1
+EP  - 75
+PY  - 2010
+ER  - 
+
+AU  - Howard, Robin
+AU  - Manji, Hadi
+C7  - pp. 289-335
+TI  - Infection in the Nervous System
+SN  - 9781405134439
+UR  - https://doi.org/10.1002/9781444311709.ch8
+DO  - doi:10.1002/9781444311709.ch8
+SP  - 289-335
+KW  - infection in nervous system
+KW  - bacterial meningitis - accompanied by elevated white cell count and raised inflammatory markers
+KW  - streptococcus pneumoniae (pneumococcal meningitis)
+KW  - listeria monocytogenes
+KW  - focal CNS infection
+KW  - Gram-positive meningitis - excludes S. pneumoniae, but includes neonatal meningitis caused by streptococcus group B
+KW  - syphilis - chronic systemic infection caused by Treponema pallidum
+KW  - Brucellosis
+KW  - Herpes simplex encephalitis
+KW  - Progressive multifocal leucoencephalopathy (PML) - by reactivation of JC virus
+PY  - 2010
+AB  - Summary This chapter contains sections titled: Bacterial meningitis Specific causes of bacterial meningitis Focal CNS infection CNS tuberculosis Syphilis Lyme disease (neuroborreliosis) Brucellosis Leptospirosis Leprosy Diphtheria Botulism Tetanus Infective endocarditis Viral disease of the nervous system Rickettsial disease Rabies HTLV-1 Progressive multifocal leucoencephalopathy Fungal infections True yeasts Pseudohyphae True hyphae Parasitic disease of the nervous system Trematodes Schistosomiasis (bilharzia) Protozoa Malaria Whipple's disease Neurological disorders resulting from HIV Opportunistic infections and tumours in HIV References
+ER  - 
+
+TY  - JOUR
+AU  - Mazze, Roger S.
+AU  - Simonson, Gregg
+AU  - Strock, Ellie
+AU  - Bergenstal, Richard
+AU  - Idrogo, Manuel
+AU  - Ramirez, Sylvia
+AU  - Hsu, Stephen
+AU  - the International SDM Study Group
+TI  - Staged diabetes management: a systematic evidence-based approach to the prevention and treatment of diabetes and its co-morbidities
+JO  - Practical Diabetes International
+JA  - Pract Diab Int
+VL  - 18
+IS  - S7
+SN  - 9781405134439
+UR  - https://doi.org/10.1002/pdi.240
+DO  - doi:10.1002/pdi.240
+SP  - S1
+EP  - S16
+PY  - 2001
+ER  - 
+
+AU  - Jackson, Christian S.
+AU  - Buchman, Alan L.
+C7  - pp. 299-304
+TI  - Short Bowel Syndrome
+SN  - 9781405191821
+UR  - https://doi.org/10.1002/9781118321386.ch41
+DO  - doi:10.1002/9781118321386.ch41
+SP  - 299-304
+KW  - Short bowel syndrome
+KW  - Parenteral nutrition
+KW  - Small intestine
+KW  - Intestinal failure
+KW  - Malabsorption
+KW  - Jejunostomy
+KW  - Intestinal adaptation
+KW  - Oral rehydration solutions
+KW  - Serial transverse enteroplasty
+KW  - Intestinal transplantation
+PY  - 2001
+AB  - Summary Short bowel syndrome (SBS) is the anatomic loss of intestine. This can be congenital in origin via intestinal atresia, or acquired via massive enterectomy or multiple resections for a variety of vascular and non-vascular reasons. Some patients will be able to retain their nutritional autonomy, while others will require varying degrees and duration of specialized nutritional support because of intestinal failure. Treatment of these patients revolves around the correction and prevention of macro- and micronutrient deficiencies, and maintenance of fluid and electrolyte balance via control of dietary and other enteral as well as parenteral intake, and control of fluid losses. Individualized and tailored nutritional management for patients with SBS helps to optimize intestinal absorption, leading to nutritional independence such that a patient can resume as normal a lifestyle as possible. Complications may develop however, from either SBS or its therapy. Some of these may be life-threatening and will lead to the need for isolated intestine, intestine/liver, or multivisceral transplantation. Otherwise, surgical management includes anastomosis of residual colon to residual small intestine in order to utilize carbohydrate salvage for enhanced nutrient and fluid assimilation, and intestinal tapering procedures for dilated, nonfunctional intestinal segments.
+ER  - 
+
+TY  - JOUR
+TI  - Clinical Nutrition Week 2009–Scientific Abstracts and Scientific Posters
+JO  - Journal of Parenteral and Enteral Nutrition
+JA  - JPEN J Parenter Enteral Nutr
+VL  - 33
+IS  - 2
+SN  - 9781405191821
+UR  - https://doi.org/10.1177/0148607109332066
+DO  - doi:10.1177/0148607109332066
+SP  - 181
+EP  - 243
+PY  - 2009
+ER  - 

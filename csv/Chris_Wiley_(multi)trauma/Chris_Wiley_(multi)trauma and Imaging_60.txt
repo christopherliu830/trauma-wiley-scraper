@@ -1,0 +1,478 @@
+
+TY  - JOUR
+AU  - Lan, Martin J.
+AU  - Rizk, Mina M.
+AU  - Pantazatos, Spiro P.
+AU  - Rubin-Falcone, Harry
+AU  - Miller, Jeffrey M.
+AU  - Sublette, M. Elizabeth
+AU  - Oquendo, Maria A.
+AU  - Keilp, John G.
+AU  - Mann, J. John
+TI  - Resting-state amplitude of low-frequency fluctuation is associated with suicidal ideation
+JO  - Depression and Anxiety
+JA  - Depress Anxiety
+VL  - 36
+IS  - 5
+SN  - 1091-4269
+UR  - https://doi.org/10.1002/da.22888
+DO  - doi:10.1002/da.22888
+SP  - 433
+EP  - 441
+KW  - biomarker
+KW  - fMRI
+KW  - major depressive disorder
+KW  - resting state
+KW  - suicide
+KW  - suicidal ideation
+PY  - 2019
+AB  - Abstract Background Identifying brain activity patterns that are associated with suicidal ideation (SI) may help to elucidate its pathogenesis and etiology. Suicide poses a significant public health problem, and SI is a risk factor for suicidal behavior. Methods Forty-one unmedicated adult participants in a major depressive episode (MDE), 26 with SI on the Beck Scale for Suicidal Ideation and 15 without SI, underwent resting-state functional magnetic resonance imaging scanning. Twenty-one healthy volunteers (HVs) were scanned for secondary analyses. Whole brain analysis of both amplitude of low-frequency fluctuations (ALFFs) and fractional ALFF was performed in MDE subjects to identify regions where activity was associated with SI. Results Subjects with SI had greater ALFF than those without SI in two clusters: one in the right hippocampus and one in the thalamus and caudate, bilaterally. Multi-voxel pattern analysis distinguished between those with and without SI. Post hoc analysis of the mean ALFF in the hippocampus cluster found it to be associated with a delayed recall on the Buschke memory task. Mean ALFF from the significant clusters was not associated with depression severity and did not differ between MDE and HV groups. Discussion These results indicate that SI is associated with altered resting-state brain activity. The pattern of elevated activity in the hippocampus may be related to how memories are processed.
+ER  - 
+
+TY  - JOUR
+AU  - He, Meng
+AU  - Han, Wei
+AU  - Zhao, Chun-peng
+AU  - Su, Yong-gang
+AU  - Zhou, Li
+AU  - Wu, Xin-bao
+AU  - Wang, Jun-qiang
+TI  - Evaluation of a Bi-Planar Robot Navigation System for Insertion of Cannulated Screws in Femoral Neck Fractures
+JO  - Orthopaedic Surgery
+JA  - Orthop Surg
+VL  - 11
+IS  - 3
+SN  - 1757-7853
+UR  - https://doi.org/10.1111/os.12450
+DO  - doi:10.1111/os.12450
+SP  - 373
+EP  - 379
+KW  - Femoral neck fractures
+KW  - Bi-planar robot navigation system
+KW  - Cannulated screw fixation
+PY  - 2019
+AB  - Objective To evaluate the bi-planar robot navigation system for insertion of cannulated screws in femoral neck fractures. Method Between January 2016 and December 2016, 60 patients with femoral neck fractures were separately treated using percutaneous cannulated screws assisted by the bi-planar robot navigation system (robot group) and conventional freehand surgery (freehand group). The fluoroscopy time, the number of drilling attempts, and the operation time were recorded during operations; the dispersion and parallelism of the cannulated screws on the posteroanterior and lateral images were measured after operations. Patients were followed up for 12?24?months and the Harris scores and the final results of the two groups were compared. Results During bi-planar robot navigation system-assisted surgery, the fluoroscopy time for acquisition of images was 2.3?seconds on average, and the time for planning screws during the operation was 2.8?min on average. The average fluoroscopy time during the placement of the guide pin was 5.7?seconds and 14.14?seconds (P?=?0.00), respectively. The average time of the placement of the cannulated screws was 12.7?min and 19.4?min (P?=?0.00), respectively, in the robot group and the freehand group. In the robot group, only one guide pin was replaced during the operation, and the average number of adjustments for each guide pin was 2.39 in the freehand group. The screw parallelism and dispersion measured by postoperative imaging in the robot group were significantly superior to those in the freehand group. From postoperative CT it was evident that there were 5 cases of screws exiting the posterior cortex in both groups. During the follow-up phase, 1 case of femoral head necrosis and 5 cases of femoral neck shortening of more than 10 mm occurred in the robotic navigation group; 3 cases of femoral head necrosis, 1 case of fracture nonunion, and 2 cases of shortening of more than 10?mm occurred in the freehand group. At 18?months after surgery, the average Harris scores of the patients were 85.20 and 83.45, respectively, with no significant difference. Conclusion Using bi-planar robot navigation system-assisted placement of femoral neck cannulated screws can significantly reduce the time of intraoperative fluoroscopy, drilling attempts, and operation time. The placed screws are superior to the screws placed freehand in relation to parallelism and dispersion. However, it is still necessary for surgeons to have a good reduction of the femoral neck fracture before surgery and to be proficient in the operation of the robot navigation system. In summary, the bi-planar robot navigation system is an effective assistant instrument for surgery.
+ER  - 
+
+TY  - JOUR
+AU  - Jones, Jeryl C.
+AU  - Sorjonen, Donald C.
+AU  - Simpson, Stephen T.
+AU  - Coates, Joan R.
+AU  - Lenz, Stephen D.
+AU  - Hathcock, John T.
+AU  - Agee, Michelle W.
+AU  - Bartels, Jan E.
+TI  - COMPARISON BETWEEN COMPUTED TOMOGRAPHIC AND SURGICAL FINDINGS IN NINE LARGE-BREED DOGS WITH LUMBOSACRAL STENOSIS
+JO  - Veterinary Radiology & Ultrasound
+VL  - 37
+IS  - 4
+SN  - 1058-8183
+UR  - https://doi.org/10.1111/j.1740-8261.1996.tb01226.x
+DO  - doi:10.1111/j.1740-8261.1996.tb01226.x
+SP  - 247
+EP  - 256
+KW  - CT X-ray
+KW  - dog diseases
+KW  - cauda equina
+KW  - spinal stenosis
+PY  - 1996
+AB  - In a three-year prospective study, computed tomographic (CT) and surgical findings were compared for nine large breed dogs with lumbosacral stenosis. Surgically-excised tissue was examined histologically in seven dogs and additional necropsy evaluation was performed in one dog. The CT abnormalities observed at sites of confirmed cauda equina compression were: loss of epidural fat, increased soft tissue opacity, bulging of the intervertebral disc margin, spondylosis, thecal sac displacement, narrowed intervertebral foramen, narrowed vertebral canal, thickened articular process, articular process subluxation, articular process osteophyte, and telescoped sacral lamina. The CT characteristics of lumbosacral degenerative disease and discospondylitis were similar to those described in humans. In three dogs, CT findings at the site of cauda equina compression were consistent with congenital or developmental spinal stenosis, but the method of surgical exposure precluded confirmation. Epidural fibrosis (eight dogs) and multi-level CT abnormalities (six dogs) were identified but the cause(s) and significance were unknown.
+ER  - 
+
+TY  - JOUR
+AU  - Chalian, Majid
+AU  - Soldatos, Theodoros
+AU  - Faridian-Aragh, Neda
+AU  - Williams, Eric H.
+AU  - Rosson, Gedge D.
+AU  - Eng, John
+AU  - Carrino, John A.
+AU  - Chhabra, Avneesh
+TI  - 3T Magnetic Resonance Neurography of Tibial Nerve Pathologies
+JO  - Journal of Neuroimaging
+VL  - 23
+IS  - 2
+SN  - 1051-2284
+UR  - https://doi.org/10.1111/j.1552-6569.2011.00676.x
+DO  - doi:10.1111/j.1552-6569.2011.00676.x
+SP  - 296
+EP  - 310
+KW  - Tibial nerve
+KW  - tibial neuropathy
+KW  - magnetic resonance neurography
+KW  - magnetic resonance imaging
+PY  - 2013
+AB  - ABSTRACT Diagnosis of tibial neuropathy has been traditionally based on clinical examination and electrodiagnostic studies; however, cross-sectional imaging modalities have been used to increase the diagnostic accuracy and provide anatomic mapping of the abnormalities. In this context, magnetic resonance neurography (MRN) offers high-resolution imaging of the tibial nerve (TN), its branches and the adjacent soft tissues, and provides an objective assessment of the neuromuscular anatomy, abnormality, and the surrounding pathology. This review describes the pathologies affecting the TN and illustrates their respective 3 Tesla (T) MRN appearances with relevant case examples.
+ER  - 
+
+TY  - JOUR
+AU  - Feng, Fa-bo
+AU  - Sun, Chui-guo
+AU  - Chen, Zhong-qiang
+TI  - Progress on Clinical Characteristics and Identification of Location of Thoracic Ossification of the Ligamentum Flavum
+JO  - Orthopaedic Surgery
+JA  - Orthopaedic Surgery
+VL  - 7
+IS  - 2
+SN  - 1757-7853
+UR  - https://doi.org/10.1111/os.12165
+DO  - doi:10.1111/os.12165
+SP  - 87
+EP  - 96
+KW  - Clinical features
+KW  - Identification of location
+KW  - Thoracic ossification of ligamentum flavum
+PY  - 2015
+AB  - Thoracic ossification of the ligamentum flavum (TOLF) is the most common cause for thoracic spinal stenosis. TOLF is usually complicated by thoracic disc herniation, ossi?cation of the posterior longitudinal ligament and degenerative spinal diseases such as cervical spondylosis and lumbar spinal stenosis, and the ossi?cation also usually has a discontinuous or continuous multi-segment distribution. The resultant superposition of several symptoms makes the clinical manifestations complex. Currently, the diagnosis of TOLF depends mainly on the patient's symptoms, physical examination and thoracic CT and MRI examinations. Identification of the location of TOLF depends more on the doctor's subjective judgement. Diagnostic problems are related to the specific region and level of surgical decompression: if the extent of decompression is insufficient, the treatment is inadequate, resulting in residual symptoms. Obversely, unnecessary trauma and a various complications will occur if the decompression is too extensive. Hence, the clinical features and process of diagnosis, especially the means of identifying the location, still require further improvement. It is necessary to establish a simple and accurate means of identifying the segment of TOLF that is responsible for the neurologic deficit: a number of spinal surgeons have been working hard on this. This article will provided an overview of the clinical features of TOLF and the related problems of clinical identification of the location of the segment causing the neurological deficit. The relationship between the imaging manifestations and clinical characteristics still need to be explored with the aim of establishing a simple and precise method for determining precisely whether TOLF is related to spinal cord injury or not, thus reducing surgical trauma and achieving an optimal prognosis.
+ER  - 
+
+TY  - JOUR
+AU  - Graf, Carina
+AU  - MacMillan, Erin L.
+AU  - Fu, Eric
+AU  - Harris, Trudy
+AU  - Traboulsee, Anthony
+AU  - Vavasour, Irene M.
+AU  - MacKay, Alex L.
+AU  - Mädler, Burkhard
+AU  - Li, David K.B.
+AU  - Laule, Cornelia
+C7  - e4083
+C8  - NBM-18-0222.R2
+TI  - Intra- and inter-site reproducibility of human brain single-voxel proton MRS at 3 T
+JO  - NMR in Biomedicine
+JA  - NMR in Biomedicine
+VL  - 32
+IS  - 6
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.4083
+DO  - doi:10.1002/nbm.4083
+SP  - e4083
+KW  - 3 T
+KW  - MRS
+KW  - multi-site
+KW  - PRESS
+KW  - reproducibility
+KW  - single voxel
+PY  - 2019
+AB  - Introduction Clinical trials that involve participants from multiple sites necessitate standardized and reliable quantitative MRI outcomes to detect significant group differences over time. Metabolite concentrations measured by proton MRS (1H-MRS) provide valuable information about in vivo metabolism of the central nervous system, but can vary based on the acquisition and quantitation methods used by different MR sites. Therefore, we investigated the intra- and inter-site reproducibility of metabolite concentrations measured by 1H-MRS on MRI scanners from a single manufacturer across six sites. Methods Five healthy controls were scanned twice within 24 h at six participating 3 T MR sites with large single-voxel PRESS (TE/TR/NSA = 36 ms/4000 ms/56) and anatomical images for voxel positioning and correction of partial volume relaxation. Absolute metabolite concentrations were calculated relative to the T1 and T2 relaxation corrected signal from water. Intra- and inter-site reproducibility was assessed using Bland?Altman plots and intra- and inter-site coefficient of variation (CoV) as well as intra- and inter-site intra-class correlation coefficient. Results The median intra-site CoVs for the five major metabolite concentrations ([NAA], [tCr], [Glu], [tCho] and [Ins]) were between 2.5 and 5.3%. Inter-site CoVs were also low, with the median CoVs for all metabolites between 3.7 and 6.4%. Metabolite concentrations were robust to small inconsistencies in voxel placement and site was not the driving factor in the variance of the measurement of any metabolite concentration. Between-subject differences accounted for the majority of the concentration variability for creatine, choline and myo-inositol (42?65% of the variance). Conclusion A large single-voxel 1H-MRS acquisition from a single manufacturer's MRI scanner is highly reproducible and reliable for multi-site clinical trials.
+ER  - 
+
+C7  - pp. 127-151
+TI  - Radiation Dose and Radiogenic Risk: Ionization-Induced Damage to DNA can cause Stochastic, Deterministic, and Teratogenic Health Effects – And How To Protect Against Them
+SN  - 9780470505700
+UR  - https://doi.org/10.1002/9781118480267.ch5
+DO  - doi:10.1002/9781118480267.ch5
+SP  - 127-151
+KW  - radiation risk
+KW  - ionizing radiation
+KW  - radiogenic health effect
+KW  - stochastic health effect
+KW  - deterministic health effect
+KW  - DNA
+KW  - carcinogenesis
+KW  - radiation therapy
+KW  - ALARA
+PY  - 2019
+AB  - Summary Radiation Risk shows how ionizing radiation (X- and gamma rays) in diagnostic medicine is a double-edged sword. It makes it possible to reveal the anatomy and physiology of the interior of the body without having to cut into it, but at the same time, it can cause cancer, produce life-threatening radiation burns, and lead to severe abnormalities in the unborn. There are several distinct categories of radiogenic health effects, and they all have to do with damage to DNA. Stochastic effects (e.g., carcinogenesis) are the ones of primary concern in diagnostic imaging, and can arise (albeit extremely rarely) from a radiation-induced mutation in a single cell. Deterministic effects may arise in aggressive radiation therapy, and come about from the outright killing or disabling of so many cells that a tissue is destroyed or becomes non-functional (ulceration of the intestine, severing of the spinal cord.) A comprehensive radiation safety program at a normally operating facility can largely prevent deterministic health effects, and limit the risks from stochastic effects.
+ER  - 
+
+TY  - JOUR
+AU  - (Toru Kameda), 亀田 徹
+AU  - (Nobuyuki Taniguchi), 谷口 信行
+TI  - 急性期診療におけるpoint–of–care ultrasonography(Point–of–care ultrasonography in acute care settings)
+JO  - Nihon Kyukyu Igakukai Zasshi: Journal of Japanese Association for Acute Medicine
+JA  - Nihon Kyukyu Igakukai Zasshi: Japanese Journal of Japanese Association for Acute Medicine
+VL  - 26
+IS  - 4
+SN  - 9780470505700
+UR  - https://doi.org/10.1002/jja2.12018
+DO  - doi:10.1002/jja2.12018
+SP  - 91
+EP  - 104
+KW  - 携帯型装置
+KW  - 放射線被ばく
+KW  - 臨床研究
+KW  - ガイドライン
+KW  - 教育
+KW  - hand-held device
+KW  - radiation exposure
+KW  - clinical research
+KW  - guideline
+KW  - education
+PY  - 2015
+AB  - ?? ????Ultrasonography???US??????????????????????????????????????????????point?of?care US????????????????????????????????Point?of?care US?????????????????????????????????????????????????????????????US???US???US???????????point?of?care US??????????????????????????????????????????????????????US??????????????????????????????????????????????????????????????????????????????????????????US?????????????????????????point?of?care US???????????????????????????????????????????????????????????????????????????????????????????????????????????point?of?care US????????????????????????????????????????????????
+ER  - 
+
+TY  - JOUR
+AU  - Ohanian, Vartouhi
+TI  - Imagery rescripting within cognitive behavior therapy for bulimia nervosa: An illustrative case report
+JO  - International Journal of Eating Disorders
+JA  - Int. J. Eat. Disord.
+VL  - 31
+IS  - 3
+SN  - 9780470505700
+UR  - https://doi.org/10.1002/eat.10044
+DO  - doi:10.1002/eat.10044
+SP  - 352
+EP  - 357
+KW  - imagery rescripting
+KW  - cognitive behavior therapy
+KW  - bulimia nervosa
+KW  - emotional abuse
+PY  - 2002
+AB  - Abstract Objective This case report describes the use of imagery rescripting as an adjunct to cognitive behavior therapy (CBT) for bulimia nervosa. Methods The patient was a 22-year-old woman, who had a 6-year history of diagnosable eating problems, with no comorbid diagnosis. She had a history of emotional abuse by her family. The single session of imagery rescripting was aimed at effecting change in the core beliefs that were hypothesized to result from that emotional abuse, and hence in the associated bulimic psychopathology. Results While eight sessions of conventional CBT reduced symptom behaviors by 50%, one session of imagery rescripting led to an almost complete cessation of the remaining binge-purge behaviors. This effect was maintained at 14 weeks post-imagery. Conclusions Imagery rescripting appears to be a valuable adjunct to conventional CBT in working with cases where there is an early history of trauma. Implications for treatment of eating disorders using this technique are considered, and relevant research designs are discussed. ? 2002 by Wiley Periodicals, Inc. Int J Eat Disord xx:352?357, 2002. DOI 10.1002/eat.10044
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Pei-Ning
+AU  - Chou, Kun-Hsien
+AU  - Chang, Ni-Jung
+AU  - Lin, Ker-Neng
+AU  - Chen, Wei-Ta
+AU  - Lan, Gong-Yau
+AU  - Lin, Ching-Po
+AU  - Lirng, Jiing-Feng
+TI  - Callosal degeneration topographically correlated with cognitive function in amnestic mild cognitive impairment and alzheimer's disease dementia
+JO  - Human Brain Mapping
+JA  - Hum. Brain Mapp.
+VL  - 35
+IS  - 4
+SN  - 9780470505700
+UR  - https://doi.org/10.1002/hbm.22271
+DO  - doi:10.1002/hbm.22271
+SP  - 1529
+EP  - 1543
+KW  - corpus callosum
+KW  - diffusion tensor imaging
+KW  - Brodmann area
+KW  - probabilistic tractography
+KW  - neuroimaging
+PY  - 2014
+AB  - Degeneration of the corpus callosum (CC) is evident in the pathogenesis of Alzheimer's disease (AD). However, the correlation of microstructural damage in the CC on the cognitive performance of patients with amnestic mild cognitive impairment (aMCI) and AD dementia is undetermined. We enrolled 26 normal controls, 24 patients with AD dementia, and 40 single-domain aMCI patients with at least grade 1 hippocampal atrophy and isolated memory impairment. Diffusion tensor imaging (DTI) with fractional anisotropy (FA), mean diffusivity (MD), axial diffusivity (DA), and radial diffusivity (DR) were measured. The entire CC was parcellated based on fiber trajectories to specific cortical Brodmann areas using a probabilistic tractography method. The relationship between the DTI measures in the subregions of the CC and cognitive performance was examined. Although the callosal degeneration in the patients with aMCI was less extended than in the patients with AD dementia, degeneration was already exhibited in several subregions of the CC at the aMCI stage. Scores of various neuropsychological tests were correlated to the severity of microstructural changes in the subregional CC connecting to functionally corresponding cortical regions. Our results confirm that CC degeneration is noticeable as early as the aMCI stage of AD and the disconnection of the CC subregional fibers to the corresponding Brodmann areas has an apparent impact on the related cognitive performance. Hum Brain Mapp 35:1529?1543, 2014. ? 2013 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Eskreis-Winkler, Sarah
+AU  - Zhang, Yan
+AU  - Zhang, Jingwei
+AU  - Liu, Zhe
+AU  - Dimov, Alexey
+AU  - Gupta, Ajay
+AU  - Wang, Yi
+C7  - e3668
+C8  - NBM-15-0296.R3
+TI  - The clinical utility of QSM: disease diagnosis, medical management, and surgical planning
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 30
+IS  - 4
+SN  - 9780470505700
+UR  - https://doi.org/10.1002/nbm.3668
+DO  - doi:10.1002/nbm.3668
+SP  - e3668
+KW  - QSM
+KW  - quantitative susceptibility mapping
+KW  - susceptibility-weighted imaging
+KW  - iron
+KW  - neurological
+KW  - neurodegenerative diseases
+PY  - 2017
+AB  - Quantitative susceptibility mapping (QSM) is an MR technique that depicts and quantifies magnetic susceptibility sources. Mapping iron, the dominant susceptibility source in the brain, has many important clinical applications. Herein, we review QSM applications in the diagnosis, medical management, and surgical treatment of disease. To assist in early disease diagnosis, QSM can identify elevated iron levels in the motor cortex of amyotrophic lateral sclerosis patients, in the substantia nigra of Parkinson's disease (PD) patients, in the globus pallidus, putamen, and caudate of Huntington's disease patients, and in the basal ganglia of Wilson's disease patients. Additionally, QSM can distinguish between hemorrhage and calcification, which could prove useful in tumor subclassification, and can measure microbleeds in traumatic brain injury patients. In guiding medical management, QSM can be used to monitor iron chelation therapy in PD patients, to monitor smoldering inflammation of multiple sclerosis (MS) lesions after the blood?brain barrier (BBB) seals, to monitor active inflammation of MS lesions before the BBB seals without using gadolinium, and to monitor hematoma volume in intracerebral hemorrhage. QSM can also guide neurosurgical treatment. Neurosurgeons require accurate depiction of the subthalamic nucleus, a tiny deep gray matter nucleus, prior to inserting deep brain stimulation electrodes into the brains of PD patients. QSM is arguably the best imaging tool for depiction of the subthalamic nucleus. Finally, we discuss future directions, including bone QSM, cardiac QSM, and using QSM to map cerebral metabolic rate of oxygen. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Gozdas, Elveda
+AU  - Holland, Scott K.
+AU  - Altaye, Mekibib
+AU  - CMIND Authorship Consortium
+TI  - Developmental changes in functional brain networks from birth through adolescence
+JO  - Human Brain Mapping
+JA  - Hum Brain Mapp
+VL  - 40
+IS  - 5
+SN  - 9780470505700
+UR  - https://doi.org/10.1002/hbm.24457
+DO  - doi:10.1002/hbm.24457
+SP  - 1434
+EP  - 1444
+KW  - brain
+KW  - connectivity
+KW  - fMRI
+KW  - imaging
+KW  - network
+PY  - 2019
+AB  - Abstract Investigation of the brain connectome using functional magnetic resonance imaging (fMRI) and measures derived from graph theory analysis has emerged as a new approach to study brain development, cognitive function, and neurophysiological disorders. Here we use graph theory analysis to examine the influence of age, sex, and neurocognitive measures on developmental changes to the global and regional topology of functional brain networks derived from fMRI data recorded in 189 healthy subjects from the age of 0?18 years during rest. We observed that Global Efficiency and Rich-Club coefficient increased with age and Local Efficiency and Small-Worldness decreased with age, while Modularity at the global level showed an inverted U-shaped trajectory during development. Marginally significant differences were observed in Local Efficiency, Small-Worldness, and Modularity at a global level between boys and girls throughout development. We also examine the effects of neurocognitive measures in boys and girls globally and locally. Our results provide new insight to understand brain maturation of functional brain connectome and its relation to cognitive development from birth through adolescence.
+ER  - 
+
+TY  - JOUR
+AU  - Shankar, Hariharan
+TI  - Ultrasound-Guided Steroid Injection for Obturator Neuralgia
+JO  - Pain Practice
+VL  - 8
+IS  - 4
+SN  - 9780470505700
+UR  - https://doi.org/10.1111/j.1533-2500.2008.00207.x
+DO  - doi:10.1111/j.1533-2500.2008.00207.x
+SP  - 320
+EP  - 323
+KW  - obturator neuralgia
+KW  - ultrasound-guided nerve block
+PY  - 2008
+AB  - ??Abstract:? Obturator neuralgia (ON) presents with pain in the groin, medial thigh, and sometimes the medial aspect of the knee. The causes include trauma, obturator hernia, pelvic cancer, pelvic surgery, hip surgery, following pelvic fractures, endometriosis, retroperitoneal hematoma, pregnancy, and delivery. Ultrasound (US) guidance facilitates real-time imaging, identification of vascular structures, and improves patient comfort in situations where nerve stimulation can be unpleasant. This is a case report of ON successfully treated with US-guided steroid injection. A 55-year-old man was referred to the pain clinic with groin pain and allodynia in the medial thigh and knee following a fall. He had tried multiple other therapies and none of them provided significant relief. Using a 10?5-MHz multi-frequency, 38-mm linear array transducer, the obturator nerve was scanned in both longitudinal and transverse directions. Under real-time imaging 10?mg of medroxy-progesterone in a volume of 1?mL was injected. Following the injection, a small area of the medial side of knee was still tender to light touch. A second injection was placed inferiorly and provided pain relief for more than 5 months. This successful demonstration of US guidance in ON may further encourage US guidance in pain clinic interventions.??
+ER  - 
+
+TY  - JOUR
+AU  - Mayer, Monique N.
+AU  - Sweet, Katherine A.
+AU  - Patsikas, Michael N.
+AU  - Sukut, Sally L.
+AU  - Waldner, Cheryl L.
+TI  - Frequency of an accessory popliteal efferent lymphatic pathway in dogs
+JO  - Veterinary Radiology & Ultrasound
+JA  - Vet Radiol Ultrasound
+VL  - 59
+IS  - 3
+SN  - 9780470505700
+UR  - https://doi.org/10.1111/vru.12600
+DO  - doi:10.1111/vru.12600
+SP  - 365
+EP  - 373
+KW  - anatomy
+KW  - canine
+KW  - contrast
+KW  - cross-sectional imaging
+PY  - 2018
+AB  - Abstract Staging and therapeutic planning for dogs with malignant disease in the popliteal lymph node are based on the expected patterns of lymphatic drainage from the lymph node. The medial iliac lymph nodes are known to receive efferent lymph from the popliteal lymph node; however, an accessory popliteal efferent pathway with direct connection to the sacral lymph nodes has also been less frequently reported. The primary objective of this prospective, anatomic study was to describe the frequency of various patterns of lymphatic drainage of the popliteal lymph node. With informed client consent, 50 adult dogs with no known disease of the lymphatic system underwent computed tomographic lymphography after ultrasound-guided, percutaneous injection of 350 mg/ml iohexol into a popliteal lymph node. In all 50 dogs, the popliteal lymph node drained directly to the ipsilateral medial iliac lymph node through multiple lymphatic vessels that coursed along the medial thigh. In 26% (13/50) of dogs, efferent vessels also drained from the popliteal lymph node directly to the internal iliac and/or sacral lymph nodes, coursing laterally through the gluteal region and passing over the dorsal aspect of the pelvis. Lymphatic connections between the right and left medial iliac and right and left internal iliac lymph nodes were found. Based on our findings, the internal iliac and sacral lymph nodes should be considered when staging or planning therapy for dogs with malignant disease in the popliteal lymph node.
+ER  - 
+
+AU  - Armao, Diane
+AU  - Elias Jr, Jorge
+AU  - Semelka, Richard C.
+C7  - pp. 86-114
+TI  - Are We Doing The Right Study?
+SN  - 9781118642177
+UR  - https://doi.org/10.1002/9781118642276.ch6
+DO  - doi:10.1002/9781118642276.ch6
+SP  - 86-114
+KW  - diagnostic imaging
+KW  - health care costs
+KW  - diagnostic imaging costs
+KW  - decision support
+KW  - computerized physician order entry system
+KW  - healthcare quality assessment
+PY  - 2018
+AB  - Summary The rapid rise of medical imaging reflects ongoing advances in technology and expanded applications in high-;tech modalities. This growth rate is abetted by reflexive acceptance of imaging as standard of care, without an evidence base to create formal practice guidelines. Major causes of inappropriate utilization of medical imaging include: 1) medical liability fears, 2) patient demand, 3) economically motivated in-;office self-;referral, and 4) physician inexperience and lack of support in the appropriate clinical application of diagnostic imaging. In this chapter we will describe the current status of tools such as computer-;based decision support tools.
+ER  - 
+
+AU  - Goldstein, Ronald E.
+AU  - White, Shane N.
+C7  - pp. 1213-1233
+TI  - Esthetic and Traumatic Emergencies
+SN  - 9781119272830
+UR  - https://doi.org/10.1002/9781119272946.ch38
+DO  - doi:10.1002/9781119272946.ch38
+SP  - 1213-1233
+KW  - avulsion
+KW  - composite restoration
+KW  - crown fracture
+KW  - dental prosthesis
+KW  - esthetic emergencies
+KW  - interim repair
+KW  - long-term preservation
+KW  - luxation injuries
+KW  - root fracture
+PY  - 2018
+AB  - Summary The majority of esthetic emergencies involve fracture of the clinical crown. Traumatic conditions such as avulsion, bony fracture, extrusive and lateral luxation, and root fracture are considered to be acute and demand immediate treatment. Subacute conditions, including intrusion, subluxation, pulpal concussion, and crown fracture with pulp exposure, necessitate treatment within 24?h. In most cases, the emergency-bonded composite restoration will be the definitive restorative treatment. In the case of an esthetic emergency shortly before a social engagement, a dislodged crown or fixed dental prosthesis can be temporarily retained through the application of a little denture adhesive. Although replacement of the prosthesis may ultimately be recommended, patients may need an immediate interim repair. The responsibility of the dentist is to facilitate the long-term preservation of the natural dentition, the supporting periodontium and bone, and the surrounding soft gingival tissues.
+ER  - 
+
+TY  - JOUR
+AU  - Gouda, Pishoy
+AU  - Weilovitch, Lisa
+AU  - Kanani, Ronak
+AU  - Har, Bryan
+TI  - Case report and review of nonischemic spontaneous papillary muscle rupture reports between 2000 and 2015
+JO  - Echocardiography
+JA  - Echocardiography
+VL  - 34
+IS  - 5
+SN  - 9781119272830
+UR  - https://doi.org/10.1111/echo.13498
+DO  - doi:10.1111/echo.13498
+SP  - 786
+EP  - 790
+KW  - echocardiography
+KW  - papillary muscle dysfunction
+KW  - papillary muscles
+PY  - 2017
+AB  - Spontaneous papillary muscle rupture (PMR) is a rare cardiovascular emergency. We present a 63-year-old male who presents with acute dyspnea who was found to have an anterior PMR, with no evidence of coronary artery disease, infection, or trauma. A review of cases of nonischemic spontaneous PMR published in 2000?2015 identified 11 additional cases of spontaneous PMR. Posterior and anterior papillary muscles involvement was identified in 54.5% and 45.5% of cases, respectively. Rapid identification due to advances in imaging modalities and improved surgical management has led to optimal outcomes in patients with spontaneous PMR.
+ER  - 
+
+TY  - JOUR
+AU  - Heithersay, GS
+TI  - Management of tooth resorption
+JO  - Australian Dental Journal
+VL  - 52
+IS  - s1
+SN  - 9781119272830
+UR  - https://doi.org/10.1111/j.1834-7819.2007.tb00519.x
+DO  - doi:10.1111/j.1834-7819.2007.tb00519.x
+SP  - S105
+EP  - S121
+KW  - Tooth resorption
+KW  - endodontics
+KW  - dental trauma
+KW  - hyperplastic tooth resorptions
+PY  - 2007
+AB  - Abstract A correct diagnosis and an understanding of the aetiology and dynamics of the processes involved in tooth resorption is critical to effective management. Tooth resorptions can be classified as: (1) trauma induced; (2) infection induced; or (3) hyperplastic invasive. Some transient trauma induced resorptions require no treatment but must be carefully monitored to check that there are no complicating issues such as infection. In cases of trauma induced replacement resorption, a multidisciplinary approach is usually necessary to ensure an optimal long-term solution. Infection induced tooth resorptions require the removal of the invading micro-organisms by endodontic therapy including intra-canal medication which can also facilitate repair of the resorbed tooth structure. The hyperplastic invasive tooth resorptions pose considerable challenges in management due to the complexity and aggressive nature of the resorptive process. With careful case selection and complete inactivation of resorptive tissue successful management can be achieved.
+ER  - 
+
+TY  - JOUR
+AU  - Chen, Yongkang
+AU  - Zhao, Jiulong
+AU  - Wang, Shige
+AU  - Zhang, Zhilun
+AU  - Zhang, Jing
+AU  - Wang, Yunfeng
+AU  - Xie, Pei
+TI  - Photothermal Composite Nanomaterials for Multimodal Tumor Therapy under MRI Guidance
+JO  - ChemistrySelect
+JA  - ChemistrySelect
+VL  - 4
+IS  - 37
+SN  - 9781119272830
+UR  - https://doi.org/10.1002/slct.201903481
+DO  - doi:10.1002/slct.201903481
+SP  - 11156
+EP  - 11164
+KW  - Polydopamine
+KW  - MnOx
+KW  - Photothermal
+KW  - Chemotherapy
+KW  - Imaging
+PY  - 2019
+AB  - Abstract Multifunctional nanomaterials for cancer therapy has attracted researchers? attention for decades. In this study, a unique oxidative method using KMnO4 or K2MnO4 as oxidizing agents to oxidize dopamine (DA) to polydopamine (PDA) was reported. The oxidizing agent was reduced to MnOx to form MnOx/PDA composite NPs. Afterwards, the MnOx/PDA composite NPs were surface-modified with bovine serum albumin (BSA) to form a multifunctional theranostic agent, named MnOx/PDA@BSA NPs, with improved colloidal stability and biocompatibility. Such a material would become a photothermal nanoagent, since the PDA renders the composite NPs an admirable photothermal transforming ability with the photothermal conversion efficiency of 27.06%. Meanwhile, as a commonly used T1 contrast agent, manganese (Mn2+) endowed the MnOx/PDA@BSA NPs with MRI ability, rendering the as-synthesized MnOx/PDA composite NPs a capability of imaging guided multi-modal tumor therapy. Moreover, the formed MnOx/PDA@BSA NPs were used for drug loading, which was found to own the tunable drug loading and controlled drug releasing capacity. The as-prepared composite NPs were successfully used for the combined tumor chemotherapy and photothermal therapy in?vitro and in?vivo. This research provides insights into the development of conjugated polymer-based nanomaterial for various biomedical applications, especially in imaging guided cancer therapy.
+ER  - 
+
+AU  - Yau, Mabel
+AU  - Sperling, Mark A.
+C7  - pp. 110-128
+TI  - Endocrine and Metabolic Emergencies in Transitional Care
+SN  - 9781119374732
+UR  - https://doi.org/10.1002/9781119374800.ch6
+DO  - doi:10.1002/9781119374800.ch6
+SP  - 110-128
+KW  - adrenal crisis
+KW  - diabetic ketoacidosis
+KW  - hyperglycemic hyperosmolar state
+KW  - hypoglycemia
+KW  - hypopituitarism
+KW  - secondary hypertension
+KW  - transitional care
+KW  - traumatic brain injury
+KW  - type 1 diabetes
+KW  - type 2 diabetes
+PY  - 2019
+AB  - Summary The transition of care for adolescents and young adults from a pediatric, family-centered model to an adult, patient-centered model marks an important milestone in the lives of patients with chronic disorders managed from a young age. The timing and tempo of transition require special consideration to physical, psychological and social changes occurring during young adulthood. Poor glycemic control is a common finding among adolescents with type 1 diabetes and places these young adults at increased risk of diabetic ketoacidosis, knowledge that should alert clinicians to carefully manage diabetes during concurrent acute illnesses. Other chronic endocrine disorders, such as primary adrenal deficiencies, congenital or autoimmune hypothyroidism and hyperthyroidism, and hypopituitarism may follow a similar model of care. In addition to continued management of existing defects, patients with disorders such as autoimmune polyglandular syndromes will require continued surveillance for manifestations of new endocrinopathies through adulthood. The onset of adrenal insufficiency with adrenoleukodystrophy, x-linked adrenal hypoplasia and triple A syndrome is variable and patients may present in adrenal crisis as the initial manifestation of adrenal insufficiency during an acute illness. Endocrine causes account for a high proportion of cases of secondary hypertension, including acute onset of hypertension due to hyperaldosteronism, pheochromocytomas, ganglioneuromas, Cushing's syndrome, and hyperthyroidism. Head trauma is common in young adults associated with risky behaviors and motor vehicle accidents. Patients with traumatic brain injuries are at risk for developing anterior and posterior pituitary defects. This chapter discusses transitional care of diabetes and chronic and evolving endocrine disorders, as well as the management, including emergency care, of endocrine disorders that commonly present in young adulthood.
+ER  - 

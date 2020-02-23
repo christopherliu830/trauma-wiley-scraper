@@ -1,0 +1,489 @@
+
+TY  - JOUR
+AU  - Kwong, A.
+AU  - Kim, W. R.
+AU  - Lake, J. R.
+AU  - Smith, J. M.
+AU  - Schladt, D. P.
+AU  - Skeans, M. A.
+AU  - Noreen, S. M.
+AU  - Foutz, J.
+AU  - Miller, E.
+AU  - Snyder, J. J.
+AU  - Israni, A. K.
+AU  - Kasiske, B. L.
+TI  - OPTN/SRTR 2018 Annual Data Report: Liver
+JO  - American Journal of Transplantation
+JA  - Am J Transplant
+VL  - 20
+IS  - s1
+SN  - 1600-6135
+UR  - https://doi.org/10.1111/ajt.15674
+DO  - doi:10.1111/ajt.15674
+SP  - 193
+EP  - 299
+KW  - Liver transplant
+KW  - allocation
+KW  - distribution
+KW  - waiting list
+PY  - 2020
+AB  - Abstract Data on adult liver transplants performed in the US in 2018 are notable for (1) continued growth in numbers of new waitlist registrants (11,844) and transplants performed (8250); (2) continued increase in the transplant rate (54.5 per 100 waitlist-years); (3) a precipitous decline in waitlist registrations and transplants for hepatitis-C-related indications; (4) increases in waitlist registrants and recipients with alcoholic liver disease and with clinical profiles consistent with non-alcoholic fatty liver disease; (5) increased use of hepatitis C virus antibody-positive donor livers; and (6) continued improvement in graft survival despite changing recipient characteristics such as older age and higher rates of obesity and diabetes. Variability in transplant rates remained by candidate race, hepatocellular carcinoma status, urgency status, and geography. The volume of pediatric liver transplants was relatively unchanged. The highest rate of pre-transplant mortality persisted for children aged younger than 1 year. Children underwent transplant at higher acuity than in the past, as evidenced by higher model for end-stage liver disease/pediatric end-stage liver disease scores and listings at status 1A and 1B at transplant. Despite higher illness severity scores at transplant, pediatric graft and patient survival posttransplant have improved over time.
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Guilong
+AU  - Chen, Lukui
+AU  - Khan, Ahsan Ali
+AU  - Li, Bingqian
+AU  - Gu, Bin
+AU  - Lin, Fan
+AU  - Su, Xinhui
+AU  - Yan, Jianghua
+TI  - miRNA-124-3p/neuropilin-1(NRP-1) axis plays an important role in mediating glioblastoma growth and angiogenesis
+JO  - International Journal of Cancer
+JA  - Int. J. Cancer
+VL  - 143
+IS  - 3
+SN  - 0020-7136
+UR  - https://doi.org/10.1002/ijc.31329
+DO  - doi:10.1002/ijc.31329
+SP  - 635
+EP  - 644
+KW  - glioblastoma
+KW  - NRP-1
+KW  - miR-124-3p
+KW  - gene therapy
+KW  - PDX model
+PY  - 2018
+AB  - Glioblastoma multiforme (GBM) is the most lethal brain malignancy which involves multi-gene abnormality. Unfortunately, effective therapy against GBM remains lacking. Previously, we found that NRP-1 and its downstream NRP-1/GIPC1 pathway played an important role in GBM. In our study, we further investigated the upstream signaling of NRP-1 to understand how it is regulated. First, we identified that hsa-miR-124-3p was miRNA differentially expressed in GBM and in normal brain tissues by high-throughput sequencing. Then, by dual luciferase reporter gene, we found miR-124-3p can specially bind to the 3?UTR region of the NRP-1 thus suppresses its expression. Moreover, miR-124-3p overexpression significantly inhibited GBM cell proliferation, migration and tumor angiogenesis which resulted in GBM apoptosis and cell cycle arrest, putatively via NRP-1 mediated PI3K/Akt/NF?B pathways activation in GBM cells. Meanwhile, miR-124-3p overexpression also suppressed tumor growth and reduced tumor angiogenesis when targeted by NRP-1 in a PDX model. Furthermore, NRP-1 mAb exerted synergistic inhibitory effects with miR-124-3p overexpression in GBM. Thus, we discovered that miR-124-3p acts as the upstream suppressor of NRP-1 which promotes GBM cell development and growth by PI3K/Akt/NF?B pathway. The miR-124-3p/NRP-1/GIPC1 pathway as a new pathway has a vital role in GBM, and it could be considered as the potential target for malignant gliomas in future.
+ER  - 
+
+TY  - JOUR
+AU  - Chan, James K
+AU  - Glass, Graeme E
+AU  - Ersek, Adel
+AU  - Freidin, Andrew
+AU  - Williams, Garry A
+AU  - Gowers, Kate
+AU  - Espirito Santo, Ana I
+AU  - Jeffery, Rosemary
+AU  - Otto, William R
+AU  - Poulsom, Richard
+AU  - Feldmann, Marc
+AU  - Rankin, Sara M
+AU  - Horwood, Nicole J
+AU  - Nanchahal, Jagdeep
+TI  - Low-dose TNF augments fracture healing in normal and osteoporotic bone by up-regulating the innate immune response
+JO  - EMBO Molecular Medicine
+JA  - EMBO Mol Med
+VL  - 7
+IS  - 5
+SN  - 1757-4676
+UR  - https://doi.org/10.15252/emmm.201404487
+DO  - doi:10.15252/emmm.201404487
+SP  - 547
+EP  - 561
+KW  - bone
+KW  - CCL2
+KW  - fracture
+KW  - inflammation
+KW  - TNF
+PY  - 2015
+AB  - Abstract The mechanism by which trauma initiates healing remains unclear. Precise understanding of these events may define interventions for accelerating healing that could be translated to the clinical arena. We previously reported that addition of low-dose recombinant human TNF (rhTNF) at the fracture site augmented fracture repair in a murine tibial fracture model. Here, we show that local rhTNF treatment is only effective when administered within 24 h of injury, when neutrophils are the major inflammatory cell infiltrate. Systemic administration of anti-TNF impaired fracture healing. Addition of rhTNF enhanced neutrophil recruitment and promoted recruitment of monocytes through CCL2 production. Conversely, depletion of neutrophils or inhibition of the chemokine receptor CCR2 resulted in significantly impaired fracture healing. Fragility, or osteoporotic, fractures represent a major medical problem as they are associated with permanent disability and premature death. Using a murine model of fragility fractures, we found that local rhTNF treatment improved fracture healing during the early phase of repair. If translated clinically, this promotion of fracture healing would reduce the morbidity and mortality associated with delayed patient mobilization.
+ER  - 
+
+TY  - JOUR
+TI  - 一般演題（口演）
+JO  - Nihon Kyukyu Igakukai Zasshi: Journal of Japanese Association for Acute Medicine
+JA  - Nihon Kyukyu Igakukai Zasshi: Japanese Journal of Japanese Association for Acute Medicine
+VL  - 27
+IS  - 9
+SN  - 1883-3772
+UR  - https://doi.org/10.1002/jja2.12147
+DO  - doi:10.1002/jja2.12147
+SP  - 415
+EP  - 500
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+AU  - Kotz, Paula
+AU  - Fisher, Jane
+AU  - McCluskey, Pat
+AU  - Hartwell, Samantha D
+AU  - Dharma, Hussein
+TI  - Use of a new silver barrier dressing, ALLEVYN? Ag in exuding chronic wounds
+JO  - International Wound Journal
+VL  - 6
+IS  - 3
+SN  - 1742-4801
+UR  - https://doi.org/10.1111/j.1742-481X.2009.00608.x
+DO  - doi:10.1111/j.1742-481X.2009.00608.x
+SP  - 186
+EP  - 194
+KW  - Bacterial barrier
+KW  - Exudate management
+KW  - Infection
+PY  - 2009
+AB  - ABSTRACT Recognising and managing wounds at risk of infection is vital in wound management. ALLEVYN Ag dressings have been designed to manage exudate in chronic wounds that are at risk of infection; are displaying signs of local infection; or where a suspected increase in bacterial colonisation is delaying healing. They combine an absorbent silver sulfadiazine containing hydrocellular foam layer, with a perforated wound contact layer and highly breathable top film. The results presented are from a multi-centre clinical evaluation of 126 patients conducted to assess the performance of ALLEVYN Ag (Adhesive, Non Adhesive and Sacrum dressings) in a range of indications. Clinicians rated the dressings as acceptable for use in various wound types in 88% of patients. The majority of clinical signs of infection reduced between the initial and the final assessment. The condition of wound tissue and surrounding skin was observed to improve, and there was significant evidence of a reduction in the level of exudate from initial to final assessment (p < 0.001). Clinicians rated ALLEVYN Ag as satisfying or exceeding expectations in over 90% of patients. The evaluation showed the dressings to offer real benefits to patients and clinicians across multiple indications when used in conjunction with local protocols.
+ER  - 
+
+TY  - JOUR
+AU  - Schiro-Harvey,             K.
+AU  - Diamond, R.
+AU  - Jones, A.
+AU  - Buss, J.
+TI  - Relationship of Hypoalbuminemia to Multiple Clinical Factors in Hemodialysis Patients
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085bl.x
+DO  - doi:10.1111/j.1492-7535.2004.0085bl.x
+SP  - 102
+EP  - 103
+PY  - 2004
+AB  - Research shows that low albumin is correlated with higher morbidity and mortality in the dialysis population. The reasons for this are multi-factorial and may be related to inadequate protein intake, infection and sepsis, inadequate dialysis, or catabolism of uremia. USRDS data show that ESRD Network 16 tends to have lower albumins compared to other ESRD Networks. Objective:? To evaluate albumin status of HD patients at Puget Sound Kidney Centers, Everett, WA (ESRD Network 16) and identify potential factors that may put patients at risk of hypoalbuminemia. Methods:? Clinical and biochemical data were collected for 3 months on 221 HD patients. Data included serum albumin (bromcresol purple), calcium, phosphorus, CO2, Hct, % saturation, ferritin, PTH, BUN, Kt/V, URR, nPCR, hours of HD treatment, interdialytic fluid weight gains, DW changes, incidence of infection and hospitalization, catheter use for dialysis access, presence of diabetes and other co-morbidities, dialyzer reuse, social/psychological status, and use of nutrition supplements. All biochemical data were collected after the longest interdialytic period and analyzed at the same reference laboratory. Data were averaged for each patient for the 3 months and correlations between parameters were determined using Chi-square analysis. Results:? 25% of all patients had albumins <3.2?g/dL (reference range for normal population 3.5?5.0?g/dL). Patients with lower albumins were significantly more likely to have DM (p?<?0.02), use catheters for HD access (p?<?0.001), had infections during the previous month (p?<?0.001), been hospitalized during the previous month (p?<?0.002), have co-morbid issues (p?<?0.001), and use nutrition supplements (p?<?0.002). No other factors were significantly correlated with lower albumin. Conclusion:? Factors other than nutrition seem to be related to hypoalbuminemia. This study has prompted improved protocols for catheter care and use, infection control, and early intervention for nutrition supplement use. Increased screening and monitoring at-risk patients (those with diabetes and other co-morbid conditions) has resulted in improved patient care.
+ER  - 
+
+TY  - JOUR
+AU  - Zhou, Sicheng
+AU  - Wang, Xuewei
+AU  - Zhao, Chuanduo
+AU  - Zhou, Haitao
+AU  - Pei, Wei
+AU  - Liang, Jianwei
+AU  - Zhou, Zhixiang
+AU  - Wang, Xishan
+C8  - JGH-01657-2019.R1
+TI  - Can transanal natural orifice specimen extraction after laparoscopic anterior resection for colorectal cancer reduce the inflammatory response?
+JO  - Journal of Gastroenterology and Hepatology
+JA  - Journal of Gastroenterology and Hepatology
+VL  - n/a
+IS  - n/a
+SN  - 0815-9319
+UR  - https://doi.org/10.1111/jgh.14919
+DO  - doi:10.1111/jgh.14919
+KW  - colorectal surgery
+KW  - inflammatory response
+KW  - natural orifice specimen extraction (NOSE)
+KW  - surgical outcomes
+AB  - Abstract Background and Aim Avoiding abdominal incisions is one of the unique features of natural orifice specimen extraction (NOSE) surgery. There has been no consensus on whether the avoidance of abdominal incisions can reduce the systemic inflammatory response after NOSE surgery. This study was designed to evaluate the safety and feasibility of transanal NOSE, especially the inflammatory response after transanal NOSE versus mini-laparotomy (LAP). Methods A total of 172 colorectal cancer patients who underwent transanal NOSE were matched with 172 patients who underwent LAP for colorectal cancer. Clinical characteristics, pathological features, perioperative parameters, and indicators of the inflammatory response were collected and compared. The inflammatory response was assessed by measuring body temperature, neutrophil count, C-reactive protein levels, and procalcitonin levels. Results Patients in the NOSE group had better short-term outcomes, such as lower incidence of wound infection, less postoperative pain, less need for anesthetic drugs, and faster recovery of intestinal function. Regarding the inflammatory response, the average body temperature of patients in the NOSE group was higher on postoperative day (POD) 2 than that in the LAP group. A higher median neutrophil count and C-reactive protein levels were observed in the NOSE group on POD3 and POD5 than was observed in the LAP group. Conclusions Transanal NOSE is safe and feasible for colorectal cancer, with better short-term outcomes. Although transanal NOSE produced a larger systemic inflammatory response than LAP in the early postoperative stages, this response did not appear to translate into infectious morbidity.
+ER  - 
+
+TY  - JOUR
+AU  - Pierson, CPT Tony
+AU  - Niezgoda, Jeffrey A.
+AU  - Learmonth, 1LT Sarah
+AU  - Blunt, CPT Dennis
+AU  - McNabb, LTC Kevin
+TI  - 142 Effects of Low-Frequency Ultrasound Applied In Vitro to Highly Antibiotic-Resistant Acinetobacter Isolates Recovered From Soldiers Returning From Iraq
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130216at.x
+DO  - doi:10.1111/j.1067-1927.2005.130216at.x
+SP  - 1
+EP  - 2
+PY  - 2005
+AB  - Abstract? Brooke Army Medical Center isolated 25 highly antibiotic-resistant Acinetobacter ssp. (primarily A. baumannii) from wounded soldiers returning from Iraq. Concern about effective treatment of these organisms led our institution to begin investigating low-frequency ultrasound (LFU) as a method of increasing the effectiveness of antibiotics on A.baumannii in wound management. Studies have suggested that LFU applied in conjunction with antibiotics may increase their overall effectiveness. We hypothesize that combining antibiotics with LFU may be an effective method of wound management and that this combination may be synergistic in its overall effect. In this initial work, we wanted to determine if sonocation would have an effect on our organism of interest, A. baumannii. We selected several organisms, both gram positive and gram negative, that have been shown to be killed by sonocation (E. coli, S. aureus, and S. pyogenes) and added three highly resistant A. baumannii isolates. Bacterial death was measured by both colony counts after 24 hours of growth and acridine orange staining using a standard protocol. Colony counts were significantly reduced by sonocation. Furthermore, A.'baumannii colony counts were also greatly reduced by sonocation. Actual cell destruction was also visualized using acridine orange staining. Our data support the assertion that sonocation has an antibacterial effect on some bacteria, including A. baumannii. Our next step is to add antimicrobial agents and determine if their effectiveness can be increased by sonocation.
+ER  - 
+
+TY  - JOUR
+AU  - Ilmarinen, Tanja
+AU  - Laine, Juhana
+AU  - Juuti-Uusitalo, Kati
+AU  - Numminen, Jura
+AU  - Seppänen-Suuronen, Riitta
+AU  - Uusitalo, Hannu
+AU  - Skottman, Heli
+TI  - Towards a defined, serum- and feeder-free culture of stratified human oral mucosal epithelium for ocular surface reconstruction
+JO  - Acta Ophthalmologica
+VL  - 91
+IS  - 8
+SN  - 1755-375X
+UR  - https://doi.org/10.1111/j.1755-3768.2012.02523.x
+DO  - doi:10.1111/j.1755-3768.2012.02523.x
+SP  - 744
+EP  - 750
+KW  - corneal epithelium
+KW  - defined
+KW  - feeder-free
+KW  - ocular surface reconstruction
+KW  - oral mucosal epithelium
+KW  - serum-free
+PY  - 2013
+AB  - Abstract. Purpose:? Ocular surface reconstruction with cultivated oral mucosal epithelial transplantation technique is a viable treatment option for severe ocular surface injuries and diseases with limbal stem cell deficiency. Currently, this technique is based on utilization of xenogenic, allogenic or undefined components such as murine 3T3 feeders, serum and amniotic membrane. In this study, we aimed to find a more defined culture method to generate stratified human oral mucosal epithelium. Methods:? In this study, we have examined the formation of stratified cell sheets from human oral mucosal epithelial cells under serum-free culture environment both in the absence and presence of fibroblast-conditioned culture medium and elevated epidermal growth factor (EGF) concentration. Results:? In all examined culture conditions, the cultivated oral epithelial cells formed a stratified tissue, which was positive for keratins K3/12, K4 and K13. The tissue-engineered oral epithelia also expressed proliferation and progenitor markers Ki67 and p63 in the basal layer of the cell sheets, suggesting that the epithelia still had regenerative capacity. The cultures presented expression of tight junction proteins ZO-1 and occludin and high transepithelial electrical resistance values. Conclusion:? In this culture method, we have been able to produce stratified cell sheets successfully without serum, conditioning of the medium or increased EGF concentration. We provide a novel protocol to produce tight multi-layered epithelium with proliferative potential, which can be easily adapted for cultivated oral mucosal epithelial transplantation.
+ER  - 
+
+TY  - JOUR
+AU  - Berres, Marie-Luise
+AU  - Schnyder, Barbara
+AU  - Yagmur, Eray
+AU  - Inglis, Brett
+AU  - Stanzel, Sven
+AU  - Tischendorf, Jens J. W.
+AU  - Koch, Alexander
+AU  - Winograd, Ron
+AU  - Trautwein, Christian
+AU  - Wasmuth, Hermann E.
+TI  - Longitudinal monocyte Human leukocyte antigen-DR expression is a prognostic marker in critically ill patients with decompensated liver cirrhosis
+JO  - Liver International
+VL  - 29
+IS  - 4
+SN  - 1478-3223
+UR  - https://doi.org/10.1111/j.1478-3231.2008.01870.x
+DO  - doi:10.1111/j.1478-3231.2008.01870.x
+SP  - 536
+EP  - 543
+KW  - cirrhosis
+KW  - critical illness
+KW  - HLA-DR
+KW  - immune paralysis
+PY  - 2009
+AB  - Abstract Background: Critical illness in cirrhotic patients is associated with a poor prognosis and increased susceptibility to infections. Monocyte HLA-DR expression is decreased in cirrhotic patients, but its prognostic value has not been investigated prospectively. Methods: Thirty-eight critically ill patients with decompensated liver cirrhosis were included in this prospective study. On admission to the intensive care unit (ICU), inflammatory parameters (C-reactive protein, procalcitonin and lipopolysaccharide-binding protein), interleukin (IL)-10, interferon (IFN)-? serum levels, tumour necrosis factor (TNF)-αex vivo stimulation (whole blood assay) and HLA-DR expression on monocytes (FACS analysis) were determined. Immune parameters were furthermore measured every third day until discharge from the ICU or death of the patients. Results: Intensive care unit mortality of the cirrhotic patients was 34.2%. During admission, TNF ex vivo, IFN-? and HLA-DR expression were lower in non-survivors (all P<0.05), while IL-10 levels were increased in non-survivors compared with survivors (P=0.001). However, individual values clearly overlapped between groups. Prospective analysis revealed that monocyte HLA-DR expression remained stable or increased in survivors, but decreased in non-survivors (P=0.002). A decrease in HLA-DR expression between admission and day 3 was strongly associated with decreased IFN-? levels and increased ICU mortality (hazard ratio 3.36, P=0.008), mostly owing to late sepsis. This association was independent of the sequential organ failure assessment and model for end-stage liver disease score. Conclusions: Here we establish the relative HLA-DR expression (admission/day 3) as a prognostic marker for ICU mortality in critically ill cirrhotic patients. These results may guide the evaluation of immune-modulating therapies in these patients.
+ER  - 
+
+TY  - JOUR
+TI  - 一般演題（ポスター）
+JO  - Nihon Kyukyu Igakukai Zasshi: Journal of Japanese Association for Acute Medicine
+JA  - Nihon Kyukyu Igakukai Zasshi: Japanese Journal of Japanese Association for Acute Medicine
+VL  - 28
+IS  - 9
+SN  - 1883-3772
+UR  - https://doi.org/10.1002/jja2.12265
+DO  - doi:10.1002/jja2.12265
+SP  - 623
+EP  - 736
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+AU  - Nancarrow, Susan A.
+AU  - Moran, Anna M.
+AU  - Parker, Stuart G.
+TI  - Understanding service context: development of a service pro forma to describe and measure elderly peoples’ community and intermediate care services
+JO  - Health & Social Care in the Community
+VL  - 17
+IS  - 5
+SN  - 0966-0410
+UR  - https://doi.org/10.1111/j.1365-2524.2009.00846.x
+DO  - doi:10.1111/j.1365-2524.2009.00846.x
+SP  - 434
+EP  - 446
+KW  - intermediate care
+KW  - models of service care delivery
+KW  -  multi-professional rehabilitation practice
+KW  - organization and delivery of care
+KW  - qualitative research
+KW  - quality assurance systems
+PY  - 2009
+AB  - Abstract The purpose of this paper was to develop a pro forma which classifies the components of service delivery and organization which may impact on the outcomes of elderly peoples? community and intermediate care services. The resulting analytic template provides a basis for comparison between services and may help guide service commissioning and development. A qualitative approach was used in which key evaluations and reports were selected on the basis that they described elderly peoples? community and intermediate care services. These were analysed systematically using a qualitative (template) approach to draw out the key themes used to describe services. Themes were then structured hierarchically into an analytic template. Seventeen key documents were analysed. The initial coding framework classified 334 themes describing intermediate care services. These items were then clustered into 78 categories, which were reduced to 17 subcategories, then six overall groupings to describe the services, namely; (1) context; (2) reason for the service; (3) service-users; (4) access to the service; (5) service structure; and (6) the organization of care. The resulting analytic template has been developed into a ?service pro forma? which can be used as a basis to describe and compare a range of services. We propose that all service evaluations should describe, in detail, their context in a comparable way, so that other services can learn from and/or apply the findings from these studies.
+ER  - 
+
+TY  - JOUR
+AU  - Delcour, Maxime
+AU  - Olivier, Paul
+AU  - Chambon, Caroline
+AU  - Pansiot, Julien
+AU  - Russier, Michaël
+AU  - Liberge, Martine
+AU  - Xin, Dong
+AU  - Gestreau, Christian
+AU  - Alescio-Lautier, Béatrice
+AU  - Gressens, Pierre
+AU  - Verney, Catherine
+AU  - Barbe, Mary F.
+AU  - Baud, Olivier
+AU  - Coq, Jacques-Olivier
+TI  - Neuroanatomical, Sensorimotor and Cognitive Deficits in Adult Rats with White Matter Injury Following Prenatal Ischemia
+JO  - Brain Pathology
+VL  - 22
+IS  - 1
+SN  - 1015-6305
+UR  - https://doi.org/10.1111/j.1750-3639.2011.00504.x
+DO  - doi:10.1111/j.1750-3639.2011.00504.x
+SP  - 1
+EP  - 16
+KW  - cerebral palsy
+KW  - hippocampus
+KW  - hypoxia–ischemia
+KW  - locomotion
+KW  - motor cortex
+KW  - open-field
+KW  - periventricular leukomalacia
+KW  - prefrontal cortex
+KW  - prematurity
+KW  - somatosensory cortex
+KW  - spasticity
+PY  - 2012
+AB  - Abstract Perinatal brain injury including white matter damage (WMD) is highly related to sensory, motor or cognitive impairments in humans born prematurely. Our aim was to examine the neuroanatomical, functional and behavioral changes in adult rats that experienced prenatal ischemia (PI), thereby inducing WMD. PI was induced by unilateral uterine artery ligation at E17 in pregnant rats. We assessed performances in gait, cognitive abilities and topographical organization of maps, and neuronal and glial density in primary motor and somatosensory cortices, the hippocampus and prefrontal cortex, as well as axonal degeneration and astrogliosis in white matter tracts. We found WMD in corpus callosum and brainstem, and associated with the hippocampus and somatosensory cortex, but not the motor cortex after PI. PI rats exhibited mild locomotor impairments associated with minor signs of spasticity. Motor map organization and neuronal density were normal in PI rats, contrasting with major somatosensory map disorganization, reduced neuronal density, and a marked reduction of inhibitory interneurons. PI rats exhibited spontaneous hyperactivity in open-field test and short-term memory deficits associated with abnormal neuronal density in related brain areas. Thus, this model reproduces in adult PI rats the main deficits observed in infants with a perinatal history of hypoxia-ischemia and WMD.
+ER  - 
+
+TY  - JOUR
+AU  - Marton, S.
+AU  - Ghosh, S.
+AU  - Papp, A.
+AU  - Bogar, L.
+AU  - Koszegi, T.
+AU  - Juhasz, V.
+AU  - Cseke, L.
+AU  - Horvath, P. O.
+TI  - Effect of glutamine in patients with esophagus resection
+JO  - Diseases of the Esophagus
+VL  - 23
+IS  - 2
+SN  - 1120-8694
+UR  - https://doi.org/10.1111/j.1442-2050.2009.01007.x
+DO  - doi:10.1111/j.1442-2050.2009.01007.x
+SP  - 106
+EP  - 111
+KW  - esophagectomy
+KW  - glutamine
+KW  - microalbuminuria
+KW  - procalcitonin
+KW  - systemic inflammatory response
+PY  - 2010
+AB  - SUMMARY Glutamine is the most abundant amino-acid in the extra- and intracellular compartments of the human body, which accounts for over 50% of its free amino-acid content. Utilization of glutamine peptides is explicitly useful, resulting in a decrease in the number of postoperative infectious complications, period of hospitalization, and therapeutic costs. This article aims to study the effects of glutamine on systemic inflammatory response, morbidity, and mortality after esophagectomy. A prospective, randomized, double-blind, and controlled trial was used. Following sealed-envelope block randomization, the patients were divided into two groups. Members of the glutamine group (group G) received glutamine (Dipeptiven, Fresenius) as continuous infusion for 6 hours at 0.5?g/kg for 3 days prior to, and 7 days following surgery; while patients of the control group were given placebo. We examined 30 patients in group G, and 25 patients as controls. In both patient groups, the levels of total protein, albumin, pre-albumin, retinol binding protein, transferrin, transferring-saturation, C-reactive protein, procalcitonin, lymphocte, Interleukin-6, Interleukin-8, tumor necrosis factor alpha, and serum lactate were determined prior to surgery (t0), directly after surgery (tu), following surgery on day 1 (t1), day 2 (t2), and day 7 (t7). For statistical analysis Mann?Whitney U test and chi-square test were used. There was no significant difference between the two groups regarding age, male/female ratio, and SAPS II scores. Intensive care unit morbidity and mortality was similar in both groups (group G: 24 survivors/6 nonsurvivors; Control: 17 survivors/8 nonsurvivors; P= 0.607). Daily Multiple Organ Dysfunction Score did not differ significantly between the two groups. The observed inflammatory markers followed the pattern we described without significant difference. Based on our study, the glutamine supplementation that we used had no influence on morbidity, mortality, or postoperative inflammatory response after esophagectomy.
+ER  - 
+
+TY  - JOUR
+AU  - LeAnder, Robert
+AU  - Chindam, Prathibha
+AU  - Das, Moumita
+AU  - Umbaugh, Scott E.
+TI  - Differentiation of melanoma from benign mimics using the relative-color method
+JO  - Skin Research and Technology
+VL  - 16
+IS  - 3
+SN  - 0909-752X
+UR  - https://doi.org/10.1111/j.1600-0846.2010.00429.x
+DO  - doi:10.1111/j.1600-0846.2010.00429.x
+SP  - 297
+EP  - 304
+KW  - computer-aided diagnosis
+KW  - relative-color images
+KW  - malignant melanoma
+KW  - seborrheic keratoses
+KW  - Reed/Spitz nevi
+KW  - segmentation
+KW  - feature extraction
+KW  - pattern classification
+PY  - 2010
+AB  - Background: Previous studies have successfully classified 86% of malignant melanomas using a relative-color segmentation method, by feature extraction from photographic images in the automatic identification of skin tumors. These studies were extended by applying the relative-color method to dermoscopic images of melanoma grouped with melanoma in situ and clark nevus lesions in dermoscopic images allow more control over lighting variations, which contribute to lesion misclassification. Dermoscopic images then enable a more detailed examination of the structure of skin lesions, provide much more structural detail within lesions, and contain visual information that cannot be seen in photographic images. This present work extends the previous studies by applying relative-color feature extraction to dermoscopic images to differentiate among melanoma, seborrheic keratoses and Reed/Spitz nevi. Objective: To develop a method for automatically differentiating among malignant melanoma, seborrheic keratoses and Reed/Spitz nevi, using digitized, color, dermoscopic images. Methods: Images underwent preprocessing, tumor segmentation, feature extraction and tumor classification. The relative-color method was used in the segmentation stage. Classification was accomplished by taking the inner products of model tumor feature vectors with test-image tumor vectors followed by the nearest-neighbor classification method. Results: The classification rates of melanoma, seborrheic keratoses and Reed/Spitz nevi images mixed together, were 60%, 58.3% and 80%, respectively. Classification of melanoma and Reed/Spitz nevi mixed, were 70% and 90%, respectively. Classification rates were the best when melanoma was being differentiated from seborrheic keratoses. These rates were 100% and 88.9%, respectively. Conclusion: Dermoscopic rather than photographic images were preprocessed, using a hair-removal technique. They were then converted to relative-color images, which were segmented using the principal components transform and median split, followed by morphological filtering. After processing, the multi-dimensional tumor feature space described herein was used to differentiate the tumors. The high success rates for differentiating seborrheic keratoses from melanoma show that the use of dermoscopic images has a strong promise in enabling prescreening, as well as automated assistance and significant improvement in tumor diagnosis in clinics.
+ER  - 
+
+TY  - JOUR
+AU  - Pereira, C.T.
+AU  - Jeschke, M.G.
+AU  - Huang, Z.
+AU  - Przkora, R.
+AU  - Celis, M.
+AU  - Mitchell, C.
+AU  - Mlcak, R.P.
+AU  - Lee, J.
+AU  - Sanford, A.
+AU  - Herndon, D.N.
+TI  - 032 Longitudinal Assessment of Primary Burn Reconstruction Using Integra™ in Severely Burned Chidren
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215af.x
+DO  - doi:10.1111/j.1067-1927.2005.130215af.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Introduction:? Early excision and closure is standard for severe burn management. Cadaver skin is generally used as temporary coverage if autograft donor sites are inadequate. However, it is associated with an inherent risk of antigenicity and infection and has a limited shelf life and availability. Use of Integra?, a dermal substitute, is well established for postburn reconstruction, but its efficacy as primary coverage for severe burns it is not well documented. Therefore the aim of the present study was to determine the short- and long-term efficacy of Integra? as an acute cover. Method:? Twenty children with >40 total body surface area (TBSA) burn, were randomized to be grafted with Integra? or with the autograft-allograft technique. Short-term outcome measures such as length of hospital stay, mortality, incidence of infection/sepsis, cardiac, respiratory, and metabolic indexes were compared between and within groups before and after Integra?/graft application. Long-term outcome measures such as number of reconstructive procedures and blinded scar scoring were performed up to 2 years postinjury. Statistical analysis was performed using paired and unpaired t-test. Values are expressed as Mean?±?SEM and significance accepted at p?<?0.05. Results:? There were no significant differences between groups, in burn size (Controls 74?±?4% and Integra? 70?±?5%), mortality (Control 30%, Integra? 40%), length of hospital stay (Control 39?±?4 days, Integra? 41?±?4 days), and metabolic rates. In addition, there was no significant incidence of infection or sepsis in the Integra? group compared to controls. Long-term follow-up (Integra n?=?5, control n?=?5) revealed a significantly improved scar, in terms of height, thickness, vascularity, and maturity, in the Integra? group compared to the control group, at 12 months and 18?24 months postburn, (p?<?0.01). Conclusion:? Integra? can be safely used for immediate wound coverage in children with severe burns, with better functional and aesthetic outcomes up to 2 years postinjury.
+ER  - 
+
+TY  - JOUR
+AU  - Engel Jr., Jerome
+AU  - Crandall, Paul H.
+TI  - Falsely Localizing Ictal Onsets with Depth EEG Telemetry During Anticonvulsant Withdrawal
+JO  - Epilepsia
+VL  - 24
+IS  - 3
+SN  - 0013-9580
+UR  - https://doi.org/10.1111/j.1528-1157.1983.tb04898.x
+DO  - doi:10.1111/j.1528-1157.1983.tb04898.x
+SP  - 344
+EP  - 355
+KW  - Partial complex seizures
+KW  - Phenytoin withdrawal
+KW  - Telemetry
+KW  - Stereotaxic EEG
+KW  - Surgery
+PY  - 1983
+AB  - Summary: A patient with partial complex seizures evaluated for surgery with chronic depth electrode recordings demonstrated falsely localizing ictal onsets during anticonvulsant drug withdrawal. When phenytoin was being reduced, more seizures appeared to originate from the left temporal lobe than from the right. Right anterior temporal lobectomy, performed on the basis of other findings, revealed a small unsuspected tumor in the resected specimen, and the patient has remained seizure free for 3 years. The seizures that originated from the left temporal lobe were different from the patient's habitual attacks and appeared to be the result of anticonvulsant withdrawal and, perhaps, electrode irritation. Four other patients who received anterior temporal lobectomies at UCLA between 1977 and 1980 had at least one stereotaxic EEG (SEEG)-recorded contralateral seizure onset, and all have benefited from surgery. Although multifocal SEEG-recorded ictal onsets should be considered a poor prognostic sign, distant sites that give rise to atypical seizures during drug withdrawal may not generate spontaneous seizures postoperatively. Consequently, this finding should not be used as a sole criterion against the recommendation of surgical therapy. RESUMEN Un paciente con ataques parciales complejos que fueron evaluados para posible cirugía con registros mediante electrodos profundos demostraron comienzos ictales de falsa localizacidn durante la retirada de la medicación anticonvulsiva. Cuando se reduceía la fenitoina, más ataques parecían originarse en el lóbulo temporal izquierdo que en el derecho. La lobectomía temporal anterior del lado derecho, realizada en base a otros hallazgos, reveló, insospechadamente, un tumor en el fragmento resecado y el enfermo ha permanecido sin ataques durante tres años. Los ataques que se originaban en el lóbulo temporal izquierdo eran distintos de los ataques habituates y parecían ser el resultado de la retirada de los anticonvulsivantes y, quizás, de la irritación de los electrodos. Cuatro de las pacientes sometidos a una lobectomía en UCLA entre 1.977 y 1.980 tuvieron, por lo menos, un ataque de comienzo contralateral registrado en el SEEG y todos se beneficiaron de la cirugía. A pesar de que los comienzos multifocals segün el SEEG deberían considerarse como signo de pobre pronóstico, lugares distantes que producen ataques atípicos durante la retirada de las drogas pueden no generar. post-operativamente, ataques espontáneos. Por consiguiente este hallazgo no debe usarse como criterio único contra la recomendación de terapía quirúrgica. ZUSAMMENFASSUNG Ein Patient mit komplexen Partialanfällen, bei dem wegen eines chirurgischen Eingriffs über chronisch implantierte Tiefenelektroden abgeleitet wurde, zeigte eine falsche Lokalisation des Anfallsbeginns während des Entzugs der Antikonvulsiva. Als das Phenytoin reduziert wurde, schienen mehr Anfälle ihren Ursprung vom linken Temporallappen zu nehmen als vom rechten. Eine rechtsseitige vordere temporale Lobek-tomie, die aufgrund anderer Befunde durchgeführt wurde, zeigte einen kleinen unerwarteten Tumor im resezierten Gewebe und der Patient blieb 3 Jahre lang anfallsfrei. Die Anfälle, die ihren Ursprung im linken Temporallappen hatten, unterschieden sich von den üblichen Attacken des Patienten und schienen das Ergebnis des Entzugs der Antikonvulsiva zu sein und vielleicht auf einer Irritation durch die Elektrode zu beruhen. Vierandere Patienten, die zwischen 1977 und 1980 in der UCLA am vorderen Temporallappen lo-bektomiert wurden, hatten wenigstens ein SEEG mit kontralateralem Anfallsbeginn und alien wurde durch den chirurgischen Eingriff geholfen. Obwohl multi-fokale SEEG-Aufzeichnungen des Anfallsbeginns als schwacher prognostischer Hinweis betrachtet werden sollten, kann angenommen werden, daß entfernte Herde. die Anlass für atypische Anfälle während Entzugs der Medikamente bilden könnten, nicht Anlass für spontane Anfälle postoperativ geben müssen. Damit sollte ein solcher Befund nicht als einziges Kriterium gegen die Empfehlung der chirurgischen Therapie benutzt werden.
+ER  - 
+
+TY  - JOUR
+AU  - Yahata, Noriaki
+AU  - Kasai, Kiyoto
+AU  - Kawato, Mitsuo
+TI  - Computational neuroscience approach to biomarkers and treatments for mental disorders
+JO  - Psychiatry and Clinical Neurosciences
+JA  - Psychiatry Clin. Neurosci.
+VL  - 71
+IS  - 4
+SN  - 1323-1316
+UR  - https://doi.org/10.1111/pcn.12502
+DO  - doi:10.1111/pcn.12502
+SP  - 215
+EP  - 237
+KW  - biomarkers
+KW  - computational psychiatry
+KW  - machine learning
+KW  - neuroimaging
+KW  - resting-state functional connectivity
+PY  - 2017
+AB  - Psychiatry research has long experienced a stagnation stemming from a lack of understanding of the neurobiological underpinnings of phenomenologically defined mental disorders. Recently, the application of computational neuroscience to psychiatry research has shown great promise in establishing a link between phenomenological and pathophysiological aspects of mental disorders, thereby recasting current nosology in more biologically meaningful dimensions. In this review, we highlight recent investigations into computational neuroscience that have undertaken either theory- or data-driven approaches to quantitatively delineate the mechanisms of mental disorders. The theory-driven approach, including reinforcement learning models, plays an integrative role in this process by enabling correspondence between behavior and disorder-specific alterations at multiple levels of brain organization, ranging from molecules to cells to circuits. Previous studies have explicated a plethora of defining symptoms of mental disorders, including anhedonia, inattention, and poor executive function. The data-driven approach, on the other hand, is an emerging field in computational neuroscience seeking to identify disorder-specific features among high-dimensional big data. Remarkably, various machine-learning techniques have been applied to neuroimaging data, and the extracted disorder-specific features have been used for automatic case?control classification. For many disorders, the reported accuracies have reached 90% or more. However, we note that rigorous tests on independent cohorts are critically required to translate this research into clinical applications. Finally, we discuss the utility of the disorder-specific features found by the data-driven approach to psychiatric therapies, including neurofeedback. Such developments will allow simultaneous diagnosis and treatment of mental disorders using neuroimaging, thereby establishing ?theranostics? for the first time in clinical psychiatry.
+ER  - 
+
+AU  - Pham, Phuong-Thu T.
+AU  - Pham, Phuong-Chi T.
+AU  - Danovitch, Gabriel M.
+C7  - pp. 452-461
+TI  - Waiting List Management for Kidney Transplantation
+SN  - 9781118870143
+UR  - https://doi.org/10.1002/9781118873434.ch37
+DO  - doi:10.1002/9781118873434.ch37
+SP  - 452-461
+KW  - clinical research/practice
+KW  - kidney transplantation/nephrology
+KW  - dialysis
+KW  - kidney disease
+KW  - kidney failure/injury
+KW  - kidney (native) function/dysfunction
+KW  - waitlist management
+PY  - 2017
+AB  - Summary Whereas the number of patients on the transplant waitlist has steadily increased, the number of deceased donor kidneys has remained far below the growing need, leading to longer waiting time and increased waitlist deaths. The Organ Procurement Transplantation Network/United Network for Organ Sharing (OPTN/UNOS) database revealed that over the past decade, approximately 22?000?to 34?000 kidney transplant candidates of all ages were added to the waitlist annually. During the same time period, approximately 4300?6700 patients were removed from the list annually due to death or medical conditions that preclude transplantation. Currently, it is estimated that approximately half of the deaths on the waitlist occur among patients who are placed on the ?inactive status? list. Hence, managing the waitlist patients has been one of the greatest problems facing transplant centers. This chapter discusses the categorization of waitlist status set forth by the OPTN/UNOS, factors that may have an impact on waiting times, and suggested guidelines for the management of adult transplant candidates on the active waitlist as well as those on hold for various medical and psychosocial reasons.
+ER  - 
+
+TY  - JOUR
+AU  - Mian, Amir
+AU  - Becton, David
+AU  - Saylors, Robert
+AU  - James, Laura
+AU  - Tang, Xinyu
+AU  - Bhutta, Adnan
+AU  - Prodhan, Parthak
+TI  - Biomarkers for risk stratification of febrile neutropenia among children with malignancy: A pilot study
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr. Blood Cancer
+VL  - 59
+IS  - 2
+SN  - 9781118870143
+UR  - https://doi.org/10.1002/pbc.24158
+DO  - doi:10.1002/pbc.24158
+SP  - 238
+EP  - 245
+KW  - biomarkers
+KW  - febrile neutropenia
+KW  - outcomes
+KW  - sepsis
+PY  - 2012
+AB  - Abstract Background Patients receiving myelosuppressive chemotherapy remain at increased risk for developing febrile neutropenia (FN). For this heterogeneous population, a biomarker based risk stratification of FN patients may be a useful clinical tool. We hypothesized that serum biomarkers during initial presentation of an FN event could be predictive of subsequent clinical outcome. Procedure Eighty-nine FN events from 36 non-consecutive subjects were analyzed. ?High-risk? FN criteria included prolonged hospitalization (≥7 days), admission to pediatric intensive care unit (PICU) or a microbiology confirmed bacteremia. Patients with ?low risk? FN had none of the above. Biomarkers measured during the first 2 days of FN hospitalization were analyzed and correlated with respective clinical outcome. Results Of the 89 FN events, 44 (49%) fulfilled pre-defined high-risk criteria and 45 (51%) were low-risk. Procalcitonin level (>0.11?ng/ml) was found to be associated with the high-risk FN outcome with sensitivity of 97%. With an increase in log scale by 1, the odds of being high-risk FN increased twofold. Hs-CRP >100?mg/L had sensitivity of 88% in predicting high-risk FN. The odds of a high-risk FN event increased by approximately 1.8-fold with an increase in the log scale of hs-CRP by 1 (10-fold). In univariate analysis, IL-6, IL-8, and IL-10 were statistically significant and associated with high-risk FN. However, no statistically significant difference was found for IL-1α, sIL-2Ra, IL-3, or TNF-α. Conclusions Biomarkers with appropriate critical threshold values may be a useful clinical tool for appropriate risk stratification of children with FN. Pediatr Blood Cancer 2012;59:238?245. ? 2012 Wiley Periodicals, Inc.
+ER  - 

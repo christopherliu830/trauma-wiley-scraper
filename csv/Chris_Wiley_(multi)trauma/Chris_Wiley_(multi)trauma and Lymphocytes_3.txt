@@ -1,0 +1,452 @@
+
+TY  - JOUR
+AU  - Kinne, Raimund W.
+AU  - Kunisch, Elke
+AU  - Beensen, Volkmar
+AU  - Zimmermann, Thomas
+AU  - Emmrich, Frank
+AU  - Petrow, Peter
+AU  - Lungershausen, Wolfgang
+AU  - Hein, Gert
+AU  - Braun, Rudolf K.
+AU  - Foerster, Martin
+AU  - Kroegel, Claus
+AU  - Winter, Rando
+AU  - Liesaus, Eckehard
+AU  - Fuhrmann, Renée A.
+AU  - Roth, Andreas
+AU  - Claussen, Uwe
+AU  - Liehr, Thomas
+TI  - Synovial fibroblasts and synovial macrophages from patients with rheumatoid arthritis and other inflammatory joint diseases show chromosomal aberrations
+JO  - Genes, Chromosomes and Cancer
+JA  - Genes Chromosom. Cancer
+VL  - 38
+IS  - 1
+SN  - 1045-2257
+UR  - https://doi.org/10.1002/gcc.10242
+DO  - doi:10.1002/gcc.10242
+SP  - 53
+EP  - 67
+PY  - 2003
+AB  - Abstract Chromosomal aberrations were investigated in nuclei extracted from synovial tissue and first-passage synovial fibroblasts (P-1 SFB, 98% enrichment) or macrophages (P-1 M?) from patients with rheumatoid arthritis (n = 10). The findings were compared with those in other rheumatic diseases (osteoarthritis, n = 14; reactive arthritis, n = 1), as well as with those in chronic obstructive pulmonary disease (n = 8). Controls were paired peripheral blood lymphocytes from arthritic patients, synovial tissue or SFB/M? from joint trauma/normals (n = 9), and peripheral blood monocytes from normal donors (n = 10). GTG banding of metaphase chromosomes and interphase fluorescence in situ hybridization with centromere-specific probes were used. Comparable chromosomal aberrations were observed in synovial tissue and P-1 SFB of patients with rheumatoid arthritis, osteoarthritis, and reactive arthritis (polysomy 7 and aneusomies of chromosomes 4, 8, 9, 12, and 18). Notably, aneusomies of chromosomes 4, 6, 7, 8, 9, 11, 12, and/or X were also detected in P-1 synovial M? from rheumatoid arthritis (90% of the cases), osteoarthritis (93%), and reactive arthritis (1/1), as well as bronchial M? from chronic obstructive pulmonary disease (25%). No aberrations were detected in paired peripheral blood lymphocytes (except for one osteoarthritis case with a karyotype 45,X[10]/46,XX[17]), or in peripheral blood monocytes and synovial tissue of normals/joint trauma. Because M? aberrations were common to chronic joint and pulmonary disease, chronic inflammatory stress may induce chromosomal aberrations with potential functional relevance in local mesenchymal cells and infiltrating leukocytes in an organ-independent fashion. ? 2003 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Raza, Muhammad-Zawwad
+AU  - Allegrini, Simone
+AU  - Dumontet, Charles
+AU  - Jordheim, Lars Petter
+TI  - Functions of the multi-interacting protein KIDINS220/ARMS in cancer and other pathologies
+JO  - Genes, Chromosomes and Cancer
+JA  - Genes Chromosomes Cancer
+VL  - 57
+IS  - 3
+SN  - 1045-2257
+UR  - https://doi.org/10.1002/gcc.22514
+DO  - doi:10.1002/gcc.22514
+SP  - 114
+EP  - 122
+PY  - 2018
+AB  - Abstract Development of an organ and subsequently the whole system from an embryo is a highly integrated process. Although there is evidence that different systems are interconnected during developmental stages, the molecular understanding of this relationship is either not known or only to a limited extent. Nervous system development, amongst all, is maybe the most crucial and complex process. It relies on the correct distribution of specific neuronal growth factors and hormones to the specific receptors. Among the plethora of proteins that are involved in downstream signalling of neuronal growth factors, we find the kinase-D interacting substrate of 220 kDa (KIDINS220), also known as ankyrin-rich repeat membrane spanning (ARMS) protein. KIDINS220 has been shown to play a substantial role in the nervous system and vascular system development as well as in neuronal survival and differentiation. It serves as a downstream regulator for many important neuronal and vascular growth factors such as vascular endothelial growth factor (VEGF), the neurotrophin family, glutamate receptors and ephrin receptors. Moreover, activation and differentiation of B- and T-cells, as well as tumour cell proliferation has also shown to be related to KIDINS220. This review comprehensively summarises the existing research data on this protein, with a particular interest in its role in cancer and in other pathologies.
+ER  - 
+
+AU  - McGuire, Dawn
+C7  - pp. 591-618
+TI  - Traumatic Brain Injury and Neurodegenerative Disease
+SN  - 9781118771778
+UR  - https://doi.org/10.1002/9781118772034.ch26
+DO  - doi:10.1002/9781118772034.ch26
+SP  - 591-618
+KW  - chronic traumatic encephalopathy
+KW  - Institute of Medicine
+KW  - neurodegenerative disease
+KW  - professional contact sports
+KW  - traumatic brain injury
+PY  - 2018
+AB  - Summary Moderate or severe traumatic brain injury (TBI) is a risk factor for several diseases of the aging brain, including Alzheimer's disease (AD), Parkinson's disease (PD) and amyotrophic lateral sclerosis (ALS). While advancing age is the primary risk factor for several neurodegenerative diseases, onset and progression can be strongly influenced by genetics, comorbid conditions, and environmental exposures. Cumulative subconcussive blows, such as those sustained in amateur or professional contact sports, may be a risk factor for cognitive impairment or chronic traumatic encephalopathy (CTE). Despite gaps in knowledge, the Committee on Long Term Consequences of Traumatic Brain Injury of the Institute of Medicine (IOM) concluded, after an exhaustive review of hundreds of studies, that there was sufficient evidence to support an association between severe TBI and dementia, and a ?suggestive? association between moderate TBI and dementia.
+ER  - 
+
+TY  - JOUR
+TI  - In Vitro Tests of Lymphocyte Structure and Function
+JO  - Journal of Paediatrics and Child Health
+VL  - 14
+IS  - s1
+SN  - 9781118771778
+UR  - https://doi.org/10.1111/j.1440-1754.1978.tb02887.x
+DO  - doi:10.1111/j.1440-1754.1978.tb02887.x
+SP  - 3
+EP  - 46
+PY  - 1978
+ER  - 
+
+TY  - JOUR
+AU  - Chen, Guo-Dong
+AU  - Lai, Xing-Qiang
+AU  - Ko, Dicken Shiu-Chung
+AU  - Qiu, Jiang
+AU  - Wang, Chang-Xi
+AU  - Han, Ming
+AU  - Li, Jun
+AU  - Huang, Gang
+AU  - He, Xiao-Shun
+AU  - Chen, Li-Zhong
+TI  - Comparison of efficacy and safety between rabbit anti-thymocyte globulin and anti-T lymphocyte globulin in kidney transplantation from donation after cardiac death: A retrospective cohort study
+JO  - Nephrology
+JA  - Nephrology
+VL  - 20
+IS  - 8
+SN  - 9781118771778
+UR  - https://doi.org/10.1111/nep.12469
+DO  - doi:10.1111/nep.12469
+SP  - 539
+EP  - 543
+KW  - anti-T lymphocyte globulin
+KW  - donation after cardiac death
+KW  - kidney transplantation
+KW  - rabbit anti-thymocyte globulin
+PY  - 2015
+AB  - Abstract Aim To compare the efficacy and safety between rabbit anti-thymocyte globulin (Thymoglobulin) and anti-T lymphocyte globulin (ATG-Fresenius, ATG-F) in donation after cardiac death (DCD) kidney transplantation. Methods We retrospectively analyzed 255 cases of DCD kidney transplantation performed at our hospital from February 2007 to October 2013. The patients were divided into two groups based on their induction therapies with Thymoglobulin (n?=?188) or ATG-F (n?=?67). Clinical data were collected and compared between the two groups. Results Delayed graft function (DGF) occurred in 36 (19.1%) patients in the Thymoglobulin group versus 17 (25.4%) patients in the ATG-F group (P?=?0.281). However, if we subgroup the patients with increased risk factors for DGF, the DGF rate was 9/40 (22.5%) in the Thymoglobulin group versus 9/16 (56.3%) in the ATG-F group (P?=?0.015). Duration of DGF was significantly shorter in the Thymoglobulin group (11.7 days vs. 16.1 days). The acute rejection rate was significantly lower in the Thymoglobulin group (9.6% vs. 19.4%, P?=?0.035). One-year graft and patient survival were both comparable between the Thymoglobulin and ATG-F groups. The adjusted odds ratio of DGF was 4.283 (1.137?16.13) between the ATG-F and Thymoglobulin groups in patients with increased risk factors for DGF. Conclusion Compared with ATG-F, Thymoglobulin may reduce duration of DGF and acute rejection rate after DCD kidney transplantation. Moreover, Thymoglobulin significantly reduced DGF in patients with increased risk factors for DGF.
+ER  - 
+
+TY  - JOUR
+AU  - Llamas-Velasco, M.
+AU  - Hegyi, I.
+AU  - Hesterberg, U.
+AU  - Daudén, E.
+AU  - Requena, L.
+AU  - Kempf, W.
+TI  - Regorafenib-induced hand–foot skin reaction with striking epidermal dysmaturation – a new histopathological pattern associated with the use of multi-kinase inhibitors
+JO  - British Journal of Dermatology
+JA  - Br J Dermatol
+VL  - 175
+IS  - 1
+SN  - 9781118771778
+UR  - https://doi.org/10.1111/bjd.14417
+DO  - doi:10.1111/bjd.14417
+SP  - 216
+EP  - 217
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+AU  - Duan, Xunbao
+AU  - Yarmush, David
+AU  - Leeder, Avrum
+AU  - Yarmush, Martin L.
+AU  - Mitchell, Richard N.
+TI  - Burn-induced immunosuppression: attenuated T cell signaling independent of IFN-γ- and nitric oxide-mediated pathways
+JO  - Journal of Leukocyte Biology
+JA  - Journal of Leukocyte Biology
+VL  - 83
+IS  - 2
+SN  - 9781118771778
+UR  - https://doi.org/10.1189/jlb.0407228
+DO  - doi:10.1189/jlb.0407228
+SP  - 305
+EP  - 313
+KW  - immune suppression
+KW  - T lymphocytes
+KW  - antigen-presenting cells
+KW  - costimulation
+PY  - 2008
+AB  - Burn injury results in immunosuppression; previous work implicated a combination of altered T lymphocyte subpopulations and the elaboration of macrophage-derived mediators. However, the conclusions were based on T cell stimulations in the setting of high-dose polyclonal mitogenic stimuli and a single kinetic time-point. In this study, splenocytes from burned animals were used to examine lymphocyte responses over a multi-day time course following saturating and subsaturating anti-CD3, as well as mixed lymphocyte response (MLR) stimulation. Burn injury resulted in suppressed splenocyte-proliferative responses to high-dose anti-CD3 (2 ?g/ml) at all culture time-points (Days 2?5); this inhibition was eliminated by removing macrophages from the splenocyte cultures, by blocking NO production, or by using splenocytes from burned animals congenitally deficient in IFN-? (IFN-??/?). The results are consistent with immunosuppression attributable to burn-induced IFN-? production, which in turn, drives macrophage NO synthesis (NOS). In MLR cultures, lymphocyte proliferation and IFN-? production were depressed at later time-points (Days 3?5). APC from burned animals showed no defects as MLR stimulators; T cells from burned animals showed defective, proliferative responses, regardless of the stimulator population. Removing macrophages, adding a NOS inhibitor, or using IFN-??/? splenocytes did not restore the MLR response of burned splenocytes. T cells from burned IFN-??/? animals also showed depressed proliferation with subsaturating levels of anti-CD3 (0.1 ?g/ml); anti-CD-28 augmented the proliferative response. We conclude that burn-induced immunosuppression to authentic antigenic stimulation is related at least in part to defective CD3 signaling pathways and not simply to increased IFN-? or NO production.
+ER  - 
+
+TY  - JOUR
+AU  - Saber, Maha
+AU  - Giordano, Katherine R.
+AU  - Hur, Yerin
+AU  - Ortiz, John B.
+AU  - Morrison, Helena
+AU  - Godbout, Jonathan P.
+AU  - Murphy, Sean M.
+AU  - Lifshitz, Jonathan
+AU  - Rowe, Rachel K.
+TI  - Acute peripheral inflammation and post-traumatic sleep differ between sexes after experimental diffuse brain injury
+JO  - European Journal of Neuroscience
+JA  - Eur J Neurosci
+VL  - n/a
+IS  - n/a
+SN  - 9781118771778
+UR  - https://doi.org/10.1111/ejn.14611
+DO  - doi:10.1111/ejn.14611
+KW  - concussion
+KW  - cytokine
+KW  - microglia
+KW  - midline fluid percussion
+KW  - mouse
+KW  - neuroinflammation
+KW  - post-traumatic sleep
+KW  - sex differences
+AB  - Abstract Identifying differential responses between sexes following traumatic brain injury (TBI) can elucidate the mechanisms behind disease pathology. Peripheral and central inflammation in the pathophysiology of TBI can increase sleep in male rodents, but this remains untested in females. We hypothesized that diffuse TBI would increase inflammation and sleep in males more so than in females. Diffuse TBI was induced in C57BL/6J mice and serial blood samples were collected (baseline, 1, 5, 7 days post-injury [DPI]) to quantify peripheral immune cell populations and sleep regulatory cytokines. Brains and spleens were harvested at 7DPI to quantify central and peripheral immune cells, respectively. Mixed-effects regression models were used for data analysis. Female TBI mice had 77%?124% higher IL-6 levels than male TBI mice at 1 and 5DPI, whereas IL-1? and TNF-α levels were similar between sexes at all timepoints. Despite baseline sex differences in blood-measured Ly6Chigh monocytes (females had 40% more than males), TBI reduced monocytes by 67% in TBI mice at 1DPI. Male TBI mice had 31%?33% more blood-measured and 31% more spleen-measured Ly6G+ neutrophils than female TBI mice at 1 and 5DPI, and 7DPI, respectively. Compared with sham, TBI increased sleep in both sexes during the first light and dark cycles. Male TBI mice slept 11%?17% more than female TBI mice, depending on the cycle. Thus, sex and TBI interactions may alter the peripheral inflammation profile and sleep patterns, which might explain discrepancies in disease progression based on sex.
+ER  - 
+
+TY  - JOUR
+AU  - Chang, Jiun C.
+AU  - Sebastian, Aimy
+AU  - Murugesh, Deepa K.
+AU  - Hatsell, Sarah
+AU  - Economides, Aris N.
+AU  - Christiansen, Blaine A.
+AU  - Loots, Gabriela G.
+TI  - Global molecular changes in a tibial compression induced ACL rupture model of post-traumatic osteoarthritis
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+VL  - 35
+IS  - 3
+SN  - 9781118771778
+UR  - https://doi.org/10.1002/jor.23263
+DO  - doi:10.1002/jor.23263
+SP  - 474
+EP  - 485
+KW  - osteoarthritis
+KW  - RNA sequencing
+KW  - tibial compression
+KW  - ACL
+PY  - 2017
+AB  - ABSTRACT Joint injury causes post-traumatic osteoarthritis (PTOA). About ?50% of patients rupturing their anterior cruciate ligament (ACL) will develop PTOA within 1?2 decades of the injury, yet the mechanisms responsible for the development of PTOA after joint injury are not well understood. In this study, we examined whole joint gene expression by RNA sequencing (RNAseq) at 1 day, 1-, 6-, and 12 weeks post injury, in a non-invasive tibial compression (TC) overload mouse model of PTOA that mimics ACL rupture in humans. We identified 1446 genes differentially regulated between injured and contralateral joints. This includes known regulators of osteoarthritis such as MMP3, FN1, and COMP, and several new genes including Suco, Sorcs2, and Medag. We also identified 18 long noncoding RNAs that are differentially expressed in the injured joints. By comparing our data to gene expression data generated using the surgical destabilization of the medial meniscus (DMM) PTOA model, we identified several common genes and shared mechanisms. Our study highlights several differences between these two models and suggests that the TC model may be a more rapidly progressing model of PTOA. This study provides the first account of gene expression changes associated with PTOA development and progression in a TC model. ? 2016 The Authors. Journal of Orthopaedic Research Published by Wiley Periodicals, Inc. J Orthop Res 35:474?485, 2017.
+ER  - 
+
+TY  - JOUR
+AU  - Birnbaum, Gray
+AU  - Kotilinek, Linda
+TI  - Autologous lymphocyte proliferation in multiple sclerosis and the effect of intravenous ACTH
+JO  - Annals of Neurology
+JA  - Ann Neurol.
+VL  - 9
+IS  - 5
+SN  - 9781118771778
+UR  - https://doi.org/10.1002/ana.410090505
+DO  - doi:10.1002/ana.410090505
+SP  - 439
+EP  - 446
+PY  - 1981
+AB  - Abstract The proliferative reponse of peripheral blood T cells to autologous non?T cells, a reaction called the autologous mixed lympbocyte reaction (MLR), was significantly increased in 17 patients with active multiple sclerosis (MS) compared to age- and sex-matched individuals with other neurological diseases (OND). Following a 10-day course of intravenous adrenocorticotropic hormone (ACTH) therapy the value were reduced to control levels. No differences were noted between MS patients and controls in their response to alloantigens. The increased autologous MLR in patients with active MS appeared to result from an increased stimulatory capacity of non?T cells rather than from an intrinsically greater T cell proliferative potential. ACTH appeared to induce a change in the populations of circulating non?T cells such that these cells had a decreased stimulatory capacity in both autologous and allogeneic MLR. The disease in stimulatory MLR was, however, significantly greater than the decrease in allogeneic stimulatory capacity, suggesting a functional decrease of specific non?T cellenriched subpopulations. No significant changes in the numbers of myeloperoxidase-positive (MP+) cells were noted in the blood of MS patients before and after ACTH therapy. Since the autologous MLR results in generation of cells that regulate immune responsiveness, the changes noted provide additional evidence for abnormal immune regulation in MS.
+ER  - 
+
+TY  - JOUR
+AU  - Chen, Xin-Zu
+AU  - Hu, Jian-Kun
+AU  - Liu, Jin
+AU  - Yang, Kun
+AU  - Zhou, Zong-Guang
+AU  - Wang, Lan-Lan
+AU  - Yang, Chen
+AU  - Zhang, Bo
+AU  - Chen, Zhi-Xin
+AU  - Chen, Jia-Ping
+TI  - Comparison of short-term outcomes and perioperative systemic immunity of laparoscopy-assisted and open radical gastrectomy for gastric cancer
+JO  - Journal of Evidence-Based Medicine
+VL  - 4
+IS  - 4
+SN  - 9781118771778
+UR  - https://doi.org/10.1111/j.1756-5391.2011.01162.x
+DO  - doi:10.1111/j.1756-5391.2011.01162.x
+SP  - 225
+EP  - 231
+KW  - Gastric cancer
+KW  - Laparoscopy
+KW  - Radical gastrectomy
+KW  - Immunology
+KW  - Immunity
+PY  - 2011
+AB  - Abstract Objective: To compare the perioperative systemic immunity of laparoscopy-assisted and open radical gastrectomy for gastric cancer. Methods: Patients with gastric adenocarcinoma proven by endoscopy and biopsy were eligible, while patients with preoperative staging of T4, N2?3, or M1 were excluded. Eligible patients willing to undertake laparoscopic surgery in the consecutive cohort were assigned to the laparoscopy-assisted gastrectomy (LAG) group, while concurrent patients were assigned to the conventional open gastrectomy (OG) group. All operations were performed with the intention of radical resection. Various immunological parameters were tested in peripheral venous blood collected at preoperative 1st day and postoperative 2nd day (POD2) and 7th day (POD7). SPSS 13.0 software was used for statistical analysis. Results: Thirty patients were included, 15 each in the LAG and OG groups. The general characteristics and short-term outcomes (harvested lymph nodes number, hospital stay, complications, and mortality rate) of the two groups were comparable, but the operation time was significantly longer in LAG (P = 0.001). Moreover, intergroup comparisons indicated no significant differences between the groups in levels of neutrophils, T-lymphocytes, natural killer cells, IgG, IgM, IgA, C3, C4, interleukin-6, or interleukin-10 at any time point (P?>?0.05). However, there was a gradual decrease in natural killer cell count in the LAG group up to POD7 (P = 0.008). Conclusion: The changes in systemic immunity markers were comparable between laparoscopy-assisted and open gastrectomy for gastric cancer. However, there was a trend of suppression of natural killer cells in the laparoscopy-assisted gastrectomy group.
+ER  - 
+
+AU  - Latifi, Rifat
+C7  - pp. 172-180
+TI  - Nutrition
+SN  - 9780470654613
+UR  - https://doi.org/10.1002/9781118274231.ch18
+DO  - doi:10.1002/9781118274231.ch18
+SP  - 172-180
+KW  - nutrition
+KW  - stress and injury, ebb, catabolic, anabolic flow phase
+KW  - IL-1, IL-6, and TNF, in acute phase proteins
+KW  - glutamine, and gram-negative bacteremia decrease
+KW  - prealbumin, retinol-binding protein, transferrin, negative acute phase
+KW  - protein synthesis, on ribosome, multiprotein, multi-RNA
+KW  - arginine, in cell mediated immunity
+KW  - TPN, indicated in high output eneterocutaneous fistulas
+KW  - early nutritional support via TPN, reducing disease severity
+KW  - patients fulfilling ARDS, and immune-modulating formulas
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+AU  - Preston, Graeme
+AU  - Kirdar, Faisal
+AU  - Kozicz, Tamas
+TI  - The role of suboptimal mitochondrial function in vulnerability to post-traumatic stress disorder
+JO  - Journal of Inherited Metabolic Disease
+JA  - J Inherit Metab Dis
+VL  - 41
+IS  - 4
+SN  - 9780470654613
+UR  - https://doi.org/10.1007/s10545-018-0168-1
+DO  - doi:10.1007/s10545-018-0168-1
+SP  - 585
+EP  - 596
+PY  - 2018
+AB  - Abstract Post-traumatic stress disorder remains the most significant psychiatric condition associated with exposure to a traumatic event, though rates of traumatic event exposure far outstrip incidence of PTSD. Mitochondrial dysfunction and suboptimal mitochondrial function have been increasingly implicated in several psychopathologies, and recent genetic studies have similarly suggested a pathogenic role of mitochondria in PTSD. Mitochondria play a central role in several physiologic processes underlying PTSD symptomatology, including abnormal fear learning, brain network activation, synaptic plasticity, steroidogenesis, and inflammation. Here we outline several potential mechanisms by which inherited (genetic) or acquired (environmental) mitochondrial dysfunction or suboptimal mitochondrial function, may contribute to PTSD symptomatology and increase susceptibility to PTSD. The proposed pathogenic role of mitochondria in the pathophysiology of PTSD has important implications for prevention and therapy, as antidepressants commonly prescribed for patients with PTSD have been shown to inhibit mitochondrial function, while alternative therapies shown to improve mitochondrial function may prove more efficacious.
+ER  - 
+
+TY  - JOUR
+AU  - Leeper, H.
+AU  - Viall, A.
+AU  - Ruaux, C.
+AU  - Bracha, S.
+TI  - Preliminary evaluation of serum total cholesterol concentrations in dogs with osteosarcoma
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 58
+IS  - 10
+SN  - 9780470654613
+UR  - https://doi.org/10.1111/jsap.12702
+DO  - doi:10.1111/jsap.12702
+SP  - 562
+EP  - 569
+PY  - 2017
+AB  - Objectives To determine if total serum cholesterol concentrations were altered in dogs with osteosarcoma. To evaluate association of total serum cholesterol concentration with clinical outcomes in dogs with appendicular osteosarcoma. Materials and Methods Retrospective, multi-institutional study on 64 dogs with osteosarcoma. Control population consisted of dogs with traumatic bone fractures (n=30) and healthy patients of similar age and weight as those of the osteosarcoma cases (n=31). Survival analysis was done on 35 appendicular osteosarcoma patients that received the current standard of care. Statistical associations were assessed by univariable and multi-variable analysis. Information about age, sex, primary tumour location, total cholesterol concentration, monocytes and lymphocyte counts and alkaline phosphatase were also included. Results Total cholesterol was elevated above the reference interval (3·89 to 7·12?mmol/L) (150 to 275?mg/dL) in 29 of 64 (45·3%) osteosarcoma-bearing dogs, whereas similar elevations were found in only 3 of 30 (10%) fracture controls (P<0·0001) and 2 of 31 (6·5%) similar age/weight controls (P=0·0002). Elevated total cholesterol was significantly associated with a reduced hazard ratio (0·27, P=0·008) for overall mortality in dogs with osteosarcoma. Clinical Significance These results suggest that elevated total cholesterol is associated with canine osteosarcoma and may have prognostic significance.
+ER  - 
+
+TY  - JOUR
+AU  - Salvadori, C.
+AU  - Gandini, G.
+AU  - Ballarini, A.
+AU  - Cantile, C.
+TI  - Protothecal granulomatous meningoencephalitis in a dog
+JO  - Journal of Small Animal Practice
+VL  - 49
+IS  - 10
+SN  - 9780470654613
+UR  - https://doi.org/10.1111/j.1748-5827.2008.00579.x
+DO  - doi:10.1111/j.1748-5827.2008.00579.x
+SP  - 531
+EP  - 535
+PY  - 2008
+AB  - A case of central nervous system protothecosis in a dog is reported. A three-year-old male Maremma sheepdog was referred with a two month history of diarrhoea associated with progressive tetraparesis, depression and right circling. Stupor, severe proprioceptive deficits, bilateral decreased thoracic limb flexor reflexes and bilateral deficit of the menace reaction were detected on neurological examination and a multi-focal neurological localisation was suspected. Histopathological evaluation revealed multi-focal granulomatous foci in the thalamus, hippocampus and caudal brainstem containing numerous oval-rounded organisms with a thick, periodic acid-Schiff-positive and Gomori?s methenamine silver-positive cell wall, a basophilic cytoplasm and one nucleus. Scattered sporangia containing two to four endospores were also observed. Morphological features were consistent with Prototheca species. Ultrastructurally, numerous degenerated algae were present within macrophages mainly lacking nuclei and cytoplasmic organelles. Generally, protothecosis in dogs is characterised by systemic signs because of a multi-organ involvement, and haemorrhagic colitis or ophthalmologic signs are the most frequent presenting signs. However, protothecosis should be added, also in Europe, to the list of the differential diagnoses in adult dogs with a multi-focal neurological localisation even in absence of other clinical signs.
+ER  - 
+
+TY  - JOUR
+AU  - Richter, Monique
+AU  - Negro-Demontel, María Luciana
+AU  - Blanco-Ocampo, Daniela
+AU  - Taranto, Eliseo
+AU  - Lago, Natalia
+AU  - Peluffo, Hugo
+TI  - Thy1-YFP-H Mice and the Parallel Rod Floor Test to Evaluate Short- and Long-Term Progression of Traumatic Brain Injury
+JO  - Current Protocols in Immunology
+JA  - Current Protocols in Immunology
+VL  - 120
+IS  - 1
+SN  - 9780470654613
+UR  - https://doi.org/10.1002/cpim.42
+DO  - doi:10.1002/cpim.42
+SP  - 24.1.1
+EP  - 24.1.25
+KW  - axonal damage
+KW  - long-term
+KW  - neurological test
+KW  - TBI
+KW  - Thy1-YFP-H mice
+PY  - 2018
+AB  - Abstract Traumatic brain injury (TBI) is a leading cause of death and disability and is a risk factor for the later development of neuropsychiatric disorders and neurodegenerative diseases. Many models of TBI have been developed, but their further refinement and a more detailed long-term follow-up is needed. We have used the Thy1-YFP-H transgenic mouse line and the parallel rod floor test to produce an unbiased and robust method for the evaluation of the multiple effects of a validated model of controlled cortical injury. This approach reveals short- and long-term progressive changes, including compromised biphasic motor function up to 85 days post-lesion, which correlates with neuronal atrophy, dendrite and spine loss, and long-term axonal pathology evidenced by axon spheroids and fragmentation. Here we present methods for inducing a controlled cortical injury in the Thy1-YFP-H transgenic mouse line and for evaluating the resulting deficits in the parallel rod floor test. This technique constitutes a new, unbiased, and robust method for the evaluation of motor and behavioral alterations after TBI. ? 2018 by John Wiley & Sons, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Faisca, P.
+AU  - Henriques, J.
+AU  - Dias, T. M.
+AU  - Resende, L.
+AU  - Mestrinho, L.
+TI  - Ectopic cervical thymic carcinoma in a dog
+JO  - Journal of Small Animal Practice
+VL  - 52
+IS  - 5
+SN  - 9780470654613
+UR  - https://doi.org/10.1111/j.1748-5827.2011.01063.x
+DO  - doi:10.1111/j.1748-5827.2011.01063.x
+SP  - 266
+EP  - 270
+PY  - 2011
+AB  - A 10-year-old male German shepherd dog was referred for evaluation of a cranial cervical mass causing progressively worsening respiratory distress. A fine-needle aspirate of the mass was obtained and the cytology results were compatible with a carcinoma. The dog underwent chemotherapy without clinical improvement and was ultimately euthanased because of clinical deterioration. At post-mortem examination, an irregular multi-lobated mass in the cranial cervical region was observed causing ventro-lateral tracheal deviation. Histopathology and immunohistochemistry revealed a mixed population of CD3 lymphocytes and macrophages in an exuberant fibrous stroma, associated with dispersed cytokeratin-positive epithelial cells with marked eosinophilic cytoplasm. Some of the epithelial cells were arranged in concentric clusters that were interpreted as Hassall's corpuscles. Histopathological examination of the thyroid gland revealed several neoplastic emboli composed of epithelial cells similar to those observed in the cervical mass. To the authors? knowledge, this is the first report of an ectopic cervical thymic carcinoma in a dog.
+ER  - 
+
+TY  - JOUR
+AU  - Smith, Edward
+AU  - Hallman, James R.
+AU  - Pardasani, Asha
+AU  - McMichael, Amy
+TI  - Multiple herpetic whitlow lesions in a patient with chronic lymphocytic leukemia
+JO  - American Journal of Hematology
+JA  - Am. J. Hematol.
+VL  - 69
+IS  - 4
+SN  - 9780470654613
+UR  - https://doi.org/10.1002/ajh.10082
+DO  - doi:10.1002/ajh.10082
+SP  - 285
+EP  - 288
+KW  - herpetic whitlow
+KW  - multidigit
+KW  - chronic lymphocytic leukemia
+KW  - atypical presentation
+PY  - 2002
+AB  - Abstract Herpetic whitlow, a herpes simplex virus infection involving the digits, most commonly presents as a vesicular eruption involving a single digit. Diagnosis of herpetic whitlow can usually be made with the history of exposure, the characteristic vesicular eruption, and a positive Tzank smear and/or viral culture. We describe a case of herpetic whitlow in a patient finishing 6 cycles of chemotherapy for refractory chronic lymphocytic leukemia that presented with a bilateral, multi-digit, crusted eruption of the hands. This is an illustrative case of an immunocompromised host status altering appearance and course of cutaneous disease such that the history and physical exam alone may not help in diagnosing atypical presentations of herpetic infections. This case underscores the necessity for clinico-histopathologic correlation. Am. J. Hematol. 69:285?288, 2002. ? 2002 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Qazi, Taimoor H.
+AU  - Duda, Georg N.
+AU  - Ort, Melanie J.
+AU  - Perka, Carsten
+AU  - Geissler, Sven
+AU  - Winkler, Tobias
+C8  - JCSM-D-18-00259
+TI  - Cell therapy to improve regeneration of skeletal muscle injuries
+JO  - Journal of Cachexia, Sarcopenia and Muscle
+JA  - Journal of Cachexia, Sarcopenia and Muscle
+VL  - 10
+IS  - 3
+SN  - 9780470654613
+UR  - https://doi.org/10.1002/jcsm.12416
+DO  - doi:10.1002/jcsm.12416
+SP  - 501
+EP  - 516
+KW  - Muscle trauma
+KW  - Stem cell therapy
+KW  - Clinical translation
+KW  - Injury models
+KW  - Tissue engineering
+PY  - 2019
+AB  - Abstract Diseases that jeopardize the musculoskeletal system and cause chronic impairment are prevalent throughout the Western world. In Germany alone, ~1.8 million patients suffer from these diseases annually, and medical expenses have been reported to reach 34.2bn Euros. Although musculoskeletal disorders are seldom fatal, they compromise quality of life and diminish functional capacity. For example, musculoskeletal disorders incur an annual loss of over 0.8 million workforce years to the German economy. Among these diseases, traumatic skeletal muscle injuries are especially problematic because they can occur owing to a variety of causes and are very challenging to treat. In contrast to chronic muscle diseases such as dystrophy, sarcopenia, or cachexia, traumatic muscle injuries inflict damage to localized muscle groups. Although minor muscle trauma heals without severe consequences, no reliable clinical strategy exists to prevent excessive fibrosis or fatty degeneration, both of which occur after severe traumatic injury and contribute to muscle degeneration and dysfunction. Of the many proposed strategies, cell-based approaches have shown the most promising results in numerous pre-clinical studies and have demonstrated success in the handful of clinical trials performed so far. A number of myogenic and non-myogenic cell types benefit muscle healing, either by directly participating in new tissue formation or by stimulating the endogenous processes of muscle repair. These cell types operate via distinct modes of action, and they demonstrate varying levels of feasibility for muscle regeneration depending, to an extent, on the muscle injury model used. While in some models the injury naturally resolves over time, other models have been developed to recapitulate the peculiarities of real-life injuries and therefore mimic the structural and functional impairment observed in humans. Existing limitations of cell therapy approaches include issues related to autologous harvesting, expansion and sorting protocols, optimal dosage, and viability after transplantation. Several clinical trials have been performed to treat skeletal muscle injuries using myogenic progenitor cells or multipotent stromal cells, with promising outcomes. Recent improvements in our understanding of cell behaviour and the mechanistic basis for their modes of action have led to a new paradigm in cell therapies where physical, chemical, and signalling cues presented through biomaterials can instruct cells and enhance their regenerative capacity. Altogether, these studies and experiences provide a positive outlook on future opportunities towards innovative cell-based solutions for treating traumatic muscle injuries?a so far unmet clinical need.
+ER  - 
+
+TY  - JOUR
+AU  - Qin, Yuanyuan
+AU  - Hamilton, Jillian L.
+AU  - Bird, Melanie D.
+AU  - Chen, Michael M.
+AU  - Ramirez, Luis
+AU  - Zahs, Anita
+AU  - Kovacs, Elizabeth J.
+AU  - Makowski, Liza
+TI  - Adipose Inflammation and Macrophage Infiltration After Binge Ethanol and Burn Injury
+JO  - Alcoholism: Clinical and Experimental Research
+JA  - Alcohol Clin Exp Res
+VL  - 38
+IS  - 1
+SN  - 9780470654613
+UR  - https://doi.org/10.1111/acer.12210
+DO  - doi:10.1111/acer.12210
+SP  - 204
+EP  - 213
+KW  - Alcohol
+KW  - Crown-Like Structure
+KW  - Trauma
+KW  - Cytokine
+KW  - Chemokine
+PY  - 2014
+AB  - Background Ethanol (EtOH) exposure prior to traumatic injury, such as a burn, elevates systemic and local inflammatory responses and increases morbidity and mortality. Adipose is a large tissue mass that is often inflamed during obesity or other stresses, which disturbs metabolic homeostasis. To date, there has been little investigation into the inflammatory response of adipose tissue after combined EtOH exposure and burn injury. Methods Two EtOH exposure regimens were utilized to examine the role of inflammation in adipose tissue after EtOH and burn injury. Mice were either given a single or episodic binge exposure to EtOH or saline followed by scald (burn) or sham injury 30 minutes later. Twenty-four hours post injury, serum and adipose tissue were collected for assessment of inflammatory mediators. Results Single binge EtOH alone induced no inflammation in adipose when compared with sham vehicle-treated mice. However, single binge EtOH followed by burn injury induced significant elevations in mRNA and protein concentrations of pro-inflammatory mediators interleukin-6 (IL-6), KC, and monocyte chemoattractant protein 1 compared with either insult alone or sham vehicle group. Additionally, EtOH exposure and burn injury significantly blunted inducible nitric oxide synthase (iNOS), indicating a complex inflammatory response. Episodic binge EtOH exposure followed by burn injury exacerbated the postburn adipose inflammatory response. The magnitude of the episodic binge-induced inflammatory parameters postburn were 2- to 5-fold greater than the response detected after a single exposure of EtOH, indicating EtOH-induced potentiation of burn-induced inflammatory response. Finally, inflammatory loci and crown-like structures in adipose were significantly increased by episodic binge EtOH and burn injury. Conclusions This is the first report of binge and burn-induced crown-like structure formation. Evidence presented herein suggests an important role for alcohol and burn as an additional mediator of adipose inflammation in postburn injury, a common complication in burn patients.
+ER  - 

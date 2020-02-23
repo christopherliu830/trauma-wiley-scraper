@@ -1,0 +1,418 @@
+
+TY  - JOUR
+AU  - Alpár, Alán
+AU  - Zahola, Péter
+AU  - Hanics, János
+AU  - Hevesi, Zsófia
+AU  - Korchynska, Solomiia
+AU  - Benevento, Marco
+AU  - Pifl, Christian
+AU  - Zachar, Gergely
+AU  - Perugini, Jessica
+AU  - Severi, Ilenia
+AU  - Leitgeb, Patrick
+AU  - Bakker, Joanne
+AU  - Miklosi, Andras G
+AU  - Tretiakov, Evgenii
+AU  - Keimpema, Erik
+AU  - Arque, Gloria
+AU  - Tasan, Ramon O
+AU  - Sperk, Günther
+AU  - Malenczyk, Katarzyna
+AU  - Máté, Zoltán
+AU  - Erdélyi, Ferenc
+AU  - Szabó, Gábor
+AU  - Lubec, Gert
+AU  - Palkovits, Miklós
+AU  - Giordano, Antonio
+AU  - Hökfelt, Tomas GM
+AU  - Romanov, Roman A
+AU  - Horvath, Tamas L
+AU  - Harkany, Tibor
+C7  - e100087
+TI  - Hypothalamic CNTF volume transmission shapes cortical noradrenergic excitability upon acute stress
+JO  - The EMBO Journal
+JA  - EMBO J
+VL  - 37
+IS  - 21
+SN  - 0261-4189
+UR  - https://doi.org/10.15252/embj.2018100087
+DO  - doi:10.15252/embj.2018100087
+SP  - e100087
+KW  - Ca2+-sensor protein
+KW  - hypothalamus–pituitary–adrenal axis
+KW  - neurotrophin
+KW  - post-traumatic stress disorder
+KW  - prefrontal cortex
+PY  - 2018
+AB  - Abstract Stress-induced cortical alertness is maintained by a heightened excitability of noradrenergic neurons innervating, notably, the prefrontal cortex. However, neither the signaling axis linking hypothalamic activation to delayed and lasting noradrenergic excitability nor the molecular cascade gating noradrenaline synthesis is defined. Here, we show that hypothalamic corticotropin-releasing hormone-releasing neurons innervate ependymal cells of the 3rd ventricle to induce ciliary neurotrophic factor (CNTF) release for transport through the brain's aqueductal system. CNTF binding to its cognate receptors on norepinephrinergic neurons in the locus coeruleus then initiates sequential phosphorylation of extracellular signal-regulated kinase 1 and tyrosine hydroxylase with the Ca2+-sensor secretagogin ensuring activity dependence in both rodent and human brains. Both CNTF and secretagogin ablation occlude stress-induced cortical norepinephrine synthesis, ensuing neuronal excitation and behavioral stereotypes. Cumulatively, we identify a multimodal pathway that is rate-limited by CNTF volume transmission and poised to directly convert hypothalamic activation into long-lasting cortical excitability following acute stress.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Sessions
+JO  - European Journal of Immunology
+JA  - Eur. J. Immunol.
+VL  - 39
+IS  - S1
+SN  - 0014-2980
+UR  - https://doi.org/10.1002/eji.200990224
+DO  - doi:10.1002/eji.200990224
+SP  - S55
+EP  - S279
+PY  - 2009
+AB  - Abstract No Abtract
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - BJU International
+JA  - BJU Int
+VL  - 111
+IS  - S1
+SN  - 1464-4096
+UR  - https://doi.org/10.1111/bju.12069
+DO  - doi:10.1111/bju.12069
+SP  - 13
+EP  - 119
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - Poster Communications
+JO  - Journal of Veterinary Pharmacology and Therapeutics
+JA  - J. vet. Pharmacol. Therap.
+VL  - 38
+IS  - S1
+SN  - 0140-7783
+UR  - https://doi.org/10.1111/jvp.12247
+DO  - doi:10.1111/jvp.12247
+SP  - 84
+EP  - 176
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+AU  - Bossi, B
+AU  - Ardolino, G
+AU  - Fabrizi, GM
+AU  - Bertolasi, L
+AU  - Cavallaro, T
+AU  - Polo, S
+AU  - Barbieri, S
+AU  - Rizzuto, N
+AU  - Priori, A
+TI  - Abstracts of the 8th Meeting of the Italian Peripheral Nerve Study Group: 42
+JO  - Journal of the Peripheral Nervous System
+VL  - 8
+IS  - 1
+SN  - 1085-9489
+UR  - https://doi.org/10.1046/j.1529-8027.2003.00042.x
+DO  - doi:10.1046/j.1529-8027.2003.00042.x
+SP  - 29
+EP  - 58
+PY  - 2003
+AB  - Connexin 32 (Cx32), a protein involved in gap-junction formation, in the peripheral nervous system is mainly localized in non-compact myelin of paranodes and Schmidt-Lanterman incisures. Despite patients with Cx32 mutations have a polyneuropathic phenotype, the pathophysiological correlates of Cx32 defects on axonal function are unknown in humans. Non-invasive methods for assessing axonal excitability have been recently developed (Burke et?al., Clin. Neurophysiol. 2001, Priori et?al. Brain 2002) in humans. These methods allow the indirect estimate of specific ionic conductances of human axons. We assessed the strength-duration function descriptors, the axonal refractoriness and supernormality in a group of Cx32 defective patients with polyneuropathy. Twenty-three healthy control subjects (38 nerves) and 5 patients (10 nerves) with a polyneuropathy and a genetic defect of Cx32 were studied. The ulnar nerve was bipolarly stimulated at the wrist and the CMAP was recorded from the abductor digiti minimi muscle. The descriptors (time constant: tsd, rheobasic current: rh50%, threshold: thr100%) of the motor axonal strength-duration function were estimated according to Priori et?al. (2002). Axonal refractoriness was tested by delivering pairs (S1 and S2) of stimuli at variable intervals (10?300?ms). S1 strength was supramaximum, S2 intensity was adjusted to evoke a CMAP 50% of the maximum. The rh50% and the thr100% were markedly increased (rh50% patients [n?=?10, mean?±?SD] 13?±?5.7?mA, controls [n?=?26] 4.8?±?2.1?mA, p?<?0.0001; thr100% patients 47?±?24?mA, controls 9.5?±?3.1?mA, p?<?0.0001) in patients. The tsd was abnormal in 70% of patient's nerves Axonal refractoriness was increased in 56% and axonal supernormality was decreased in 56% of patient's nerves. In conclusion, the Cx32 defect induces abnormalities of the strength-duration function suggesting the involvement of the nodal conductances and axonal hyperpolarization. Hence, the paranodal Cx32 defect functionally spreads to the adjacent nodal region.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Discussion Session PDS 1
+JO  - Allergy
+JA  - Allergy
+VL  - 70
+IS  - S101
+SN  - 0105-4538
+UR  - https://doi.org/10.1111/all.12717
+DO  - doi:10.1111/all.12717
+SP  - 113
+EP  - 279
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+AU  - Vilela-Filho, Osvaldo
+AU  - Ferraz, Fernando P.
+AU  - Barros, Breno A.
+AU  - Silva, Luciana O.
+AU  - Anunciação, Suzana F.
+AU  - Souza, Joaquim T.
+AU  - Silva, Delson J.
+AU  - Leite, Mauricio B.
+AU  - Atayde, Ingrid B.
+AU  - Ragazzo, Paulo C.
+AU  - Barreto, Paula G.
+AU  - Nobrega, Mariana A.
+AU  - Araujo, Maisa R.
+AU  - Santos, Mayra R.
+AU  - Ala, Victor H.
+AU  - Queiroz, Stefano T.
+TI  - Effects of unilateral stereotactic posterior striatotomy on harmaline-induced tremor in rats
+JO  - Journal of Neuroscience Research
+JA  - Journal of Neuroscience Research
+VL  - 91
+IS  - 10
+SN  - 0360-4012
+UR  - https://doi.org/10.1002/jnr.23249
+DO  - doi:10.1002/jnr.23249
+SP  - 1328
+EP  - 1337
+KW  - harmaline
+KW  - tremor
+KW  - essential tremor
+KW  - striatum
+KW  - electrolytic lesion
+PY  - 2013
+AB  - Although long known and the most prevalent movement disorder, pathophysiology of essential tremor (ET) remains controversial. The most accepted hypothesis is that it is caused by a dysfunction of the olivocerebellar system. Vilela Filho et al. [2001; Stereotact Funct Neurosurg 77:149?150], however, reported a patient with unilateral hand ET that was completely relieved after a stroke restricted to the contralateral posterior putamen and suggested that ET could be the clinical manifestation of posterior putamen hyperactivity. The present study was designed to evaluate this hypothesis in the most often used model of ET, harmaline-induced tremor in rats. Fifty-four male Wistar rats were randomly distributed into three groups: experimental (EG), surgical control (SCG), and pharmacological control (PCG) groups. EG animals underwent stereotactic unilateral posterior striatotomy. SCG rats underwent sham lesion at the same target. PCG served exclusively as controls for harmaline effects. All animals received, postoperatively, intraperitoneal harmaline, and the induced tremor was video-recorded for later evaluation by a blind observer. Thirteen animals were excluded from the study. Limb tremor was reduced ipsilaterally to the operation in 20 of 21 rats of EG and in two of nine of SCG, being asymmetric in one of 10 of PCG rats. Comparisons between EG ? SCG and EG ? PCG were statistically significant, but not between SCG ? PCG. Limb tremor reduction was greater in anterior than in posterior paws. Lateral lesions yielded better results than medial lesions. These results suggest that the posterior striatum is involved with harmaline-induced tremor in rats and support the hypothesis presented. ? 2013 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentations
+JO  - Histopathology
+VL  - 57
+IS  - s1
+SN  - 0309-0167
+UR  - https://doi.org/10.1111/j.1365-2559.2010.03637.x
+DO  - doi:10.1111/j.1365-2559.2010.03637.x
+SP  - 1
+EP  - 270
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentations
+JO  - Transplant International
+VL  - 18
+IS  - s1
+SN  - 0934-0874
+UR  - https://doi.org/10.1111/j.1432-2277.2005.18s1_004.x
+DO  - doi:10.1111/j.1432-2277.2005.18s1_004.x
+SP  - 59
+EP  - 249
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Yong
+AU  - Li, Xiru
+AU  - Grailer, Jamison J.
+AU  - Wang, Na
+AU  - Wang, Mingming
+AU  - Yao, Jianfei
+AU  - Zhong, Rui
+AU  - Gao, George F.
+AU  - Ward, Peter A.
+AU  - Tan, Dun-Xian
+AU  - Li, Xiangdong
+TI  - Melatonin alleviates acute lung injury through inhibiting the NLRP3 inflammasome
+JO  - Journal of Pineal Research
+JA  - J. Pineal Res.
+VL  - 60
+IS  - 4
+SN  - 0742-3098
+UR  - https://doi.org/10.1111/jpi.12322
+DO  - doi:10.1111/jpi.12322
+SP  - 405
+EP  - 414
+KW  - acute lung injury
+KW  - histone
+KW  - melatonin
+KW  - NLRP inflammasome
+KW  - reactive oxygen species
+PY  - 2016
+AB  - Abstract Acute lung injury (ALI) and acute respiratory distress syndrome (ARDS) are clinically severe respiratory disorders, and there are currently no Food and Drug Administration?approved drug therapies. Melatonin is a well-known anti-inflammatory molecule, which has proven to be effective in ALI induced by many conditions. Emerging studies suggest that the NLRP3 inflammasome plays a critical role during ALI. How melatonin directly blocks activation of the NLRP3 inflammasome in ALI remains unclear. In this study, using an LPS-induced ALI mouse model, we found intratracheal (i.t.) administration of melatonin markedly reduced the pulmonary injury and decreased the infiltration of macrophages and neutrophils into lung. During ALI, the NLRP3 inflammasome is significantly activated with a large amount of IL-1? and the activated caspase-1 occurring in the lung. Melatonin inhibits the activation of the NLRP3 inflammasome by both suppressing the release of extracellular histones and directly blocking histone-induced NLRP3 inflammasome activation. Notably, i.t. route of melatonin administration opens a more efficient therapeutic approach for treating ALI.
+ER  - 
+
+TY  - JOUR
+AU  - Forraz, N
+AU  - Wright, KE
+AU  - Jurga, M
+AU  - McGuckin, CP
+TI  - Experimental therapies for repair of the central nervous system: stem cells and tissue engineering
+JO  - Journal of Tissue Engineering and Regenerative Medicine
+JA  - J Tissue Eng Regen Med
+VL  - 7
+IS  - 7
+SN  - 1932-6254
+UR  - https://doi.org/10.1002/term.552
+DO  - doi:10.1002/term.552
+SP  - 523
+EP  - 536
+KW  - regenerative medicine
+KW  - brain repair
+KW  - bioscaffolds
+KW  - artificial tissue
+KW  - stroke
+KW  - traumatic brain injury
+KW  - neurogenesis
+KW  - neuronal differentiation
+PY  - 2013
+AB  - Abstract Several stem cell-based therapeutic tools are currently being investigated for the regeneration of central nervous system (CNS) injuries. This review focuses on innovative approaches for CNS tissue repair via the use of implantable cellular devices. These devices are supported by biopharmaceuticals and conventional physiotherapy for the restoration of lost neuronal circuits and CNS function. This paper further reviews new and promising tools currently in pre-clinical and clinical tests for the treatment of CNS diseases where substantial loss of cellular and extracellular components of neural tissue has occurred such as stroke, encephalopathy and traumatic neural injuries. We also discuss selected 3D bioscaffolds co-cultured with clinically applicable human mesenchymal stem cells. Recent advances in neural tissue engineering and stem cell differentiation methods have shown promise for their clinical application in treating yet incurable CNS deficits. Copyright ? 2012 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - Poster abstracts
+JO  - American Journal of Transplantation
+VL  - 10
+IS  - s4
+SN  - 1600-6135
+UR  - https://doi.org/10.1111/j.1600-6143.2010.03108.x
+DO  - doi:10.1111/j.1600-6143.2010.03108.x
+SP  - 213
+EP  - 571
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - American Epilepsy Society Proceedings
+JO  - Epilepsia
+VL  - 41
+IS  - s7
+SN  - 0013-9580
+UR  - https://doi.org/10.1111/j.1528-1157.2000.tb01727.x
+DO  - doi:10.1111/j.1528-1157.2000.tb01727.x
+SP  - 1
+EP  - 256
+PY  - 2000
+ER  - 
+
+TY  - JOUR
+AU  - Fuoco, Claudia
+AU  - Rizzi, Roberto
+AU  - Biondo, Antonella
+AU  - Longa, Emanuela
+AU  - Mascaro, Anna
+AU  - Shapira-Schweitzer, Keren
+AU  - Kossovar, Olga
+AU  - Benedetti, Sara
+AU  - Salvatori, Maria L
+AU  - Santoleri, Sabrina
+AU  - Testa, Stefano
+AU  - Bernardini, Sergio
+AU  - Bottinelli, Roberto
+AU  - Bearzi, Claudia
+AU  - Cannata, Stefano M
+AU  - Seliktar, Dror
+AU  - Cossu, Giulio
+AU  - Gargioli, Cesare
+TI  - In vivo generation of a mature and functional artificial skeletal muscle
+JO  - EMBO Molecular Medicine
+JA  - EMBO Mol Med
+VL  - 7
+IS  - 4
+SN  - 1757-4676
+UR  - https://doi.org/10.15252/emmm.201404062
+DO  - doi:10.15252/emmm.201404062
+SP  - 411
+EP  - 422
+KW  - artificial skeletal muscle
+KW  - mesoangioblasts
+KW  - PEG-fibrinogen
+PY  - 2015
+AB  - Abstract Extensive loss of skeletal muscle tissue results in mutilations and severe loss of function. In vitro-generated artificial muscles undergo necrosis when transplanted in vivo before host angiogenesis may provide oxygen for fibre survival. Here, we report a novel strategy based upon the use of mouse or human mesoangioblasts encapsulated inside PEG-fibrinogen hydrogel. Once engineered to express placental-derived growth factor, mesoangioblasts attract host vessels and nerves, contributing to in vivo survival and maturation of newly formed myofibres. When the graft was implanted underneath the skin on the surface of the tibialis anterior, mature and aligned myofibres formed within several weeks as a complete and functional extra muscle. Moreover, replacing the ablated tibialis anterior with PEG-fibrinogen-embedded mesoangioblasts also resulted in an artificial muscle very similar to a normal tibialis anterior. This strategy opens the possibility for patient-specific muscle creation for a large number of pathological conditions involving muscle tissue wasting.
+ER  - 
+
+TY  - JOUR
+AU  - Schneider, Nanette Y.
+AU  - Datiche, Frédérique
+AU  - Coureaud, Gérard
+TI  - Brain anatomy of the 4-day-old European rabbit
+JO  - Journal of Anatomy
+JA  - J. Anat.
+VL  - 232
+IS  - 5
+SN  - 0021-8782
+UR  - https://doi.org/10.1111/joa.12789
+DO  - doi:10.1111/joa.12789
+SP  - 747
+EP  - 767
+KW  - brain anatomy
+KW  - European rabbit
+KW  - limbic regions
+KW  - memory
+KW  - newborn
+KW  - olfactory system
+KW  - social and feeding behaviour
+PY  - 2018
+AB  - Abstract The European rabbit (Oryctolagus cuniculus) is a widely used model in fundamental, medical and veterinary neurosciences. Besides investigations in adults, rabbit pups are relevant to study perinatal neurodevelopment and early behaviour. To date, the rabbit is also the only species in which a pheromone ? the mammary pheromone (MP) ? emitted by lactating females and active on neonatal adaptation has been described. The MP is crucial since it contributes directly to nipple localisation and oral seizing in neonates, i.e. to their sucking success. It may also be one of the non-photic cues arising from the mother, which stimulates synchronisation of the circadian system during pre-visual developmental stages. Finally, the MP promotes neonatal odour associative and appetitive conditioning in a remarkably rapid and efficient way. For these different reasons, the rabbit offers a currently unique opportunity to determine pheromonal-induced brain processing supporting adaptation early in life. Therefore, it is of interest to create a reference work of the newborn rabbit pup brain, which may constitute a tool for future multi-disciplinary and multi-approach research in this model, and allow comparisons related to the neuroethological basis of social and feeding behaviour among newborns of various species. Here, in line with existing experimental studies, and based on original observations, we propose a functional anatomical description of brain sections in 4-day-old rabbits with a particular focus on seven brain regions which appear important for neonatal perception of sensory signals emitted by the mother, circadian adaptation to the short and single daily nursing of the mother in the nest, and expression of specific motor actions involved in nipple localisation and milk intake. These brain regions involve olfactory circuits, limbic-related areas important in reward, motivation, learning and memory formation, homeostatic areas engaged in food anticipation, and regions implicated in circadian rhythm and arousal, as well as in motricity.
+ER  - 
+
+TY  - JOUR
+TI  - ABSTRACTS – Symposium
+JO  - International Journal of Rheumatic Diseases
+VL  - 11
+IS  - s1
+SN  - 1756-1841
+UR  - https://doi.org/10.1111/j.1479-8077.2008.00374.x
+DO  - doi:10.1111/j.1479-8077.2008.00374.x
+SP  - A1
+EP  - A83
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts-part II (Continue in Part III)
+JO  - Proceedings of the International Society for Magnetic Resonance in Medicine
+JA  - Proc. Soc. Magn. Reson. Med.
+VL  - 1991
+IS  - S1
+SN  - 1065-9889
+UR  - https://doi.org/10.1002/mrmp.22419910104
+DO  - doi:10.1002/mrmp.22419910104
+SP  - 101
+EP  - 150
+PY  - 1991
+ER  - 
+
+TY  - JOUR
+AU  - Chan, Che-Chang
+AU  - Cheng, Ling-Yi
+AU  - Lin, Chin-Lung
+AU  - Huang, Yi-Hsiang
+AU  - Lin, Han-Chieh
+AU  - Lee, Fa-Yauh
+TI  - The protective role of natural phytoalexin resveratrol on inflammation, fibrosis and regeneration in cholestatic liver injury
+JO  - Molecular Nutrition & Food Research
+JA  - Mol. Nutr. Food Res.
+VL  - 55
+IS  - 12
+SN  - 1613-4125
+UR  - https://doi.org/10.1002/mnfr.201100374
+DO  - doi:10.1002/mnfr.201100374
+SP  - 1841
+EP  - 1849
+KW  - Hepatocyte
+KW  - Inflammation
+KW  - Kupffer cell
+KW  - Regeneration
+KW  - Resveratrol
+PY  - 2011
+AB  - Abstract Liver injuries can trigger a cascade of inflammatory responses and as a result, initiate the process of hepatic regeneration and fibrogenesis. Resveratrol (RSV) has multiple health-promoting benefits. This study evaluated the potential protective effects and mechanism of RSV as related to cholestatic liver injury. RSV was given (4?mg/kg/day, i.p.) for either 3 days or 7 days after bile duct ligation (BDL) injury. RSV significantly reduced serum ALT, AST but not T-bil on Day 3. At this early stage of injury, RSV significantly reduced TNF-α and IL-6 mRNA and decreased the number of Kupffer cells (CD68+) recruited in the injured liver. RSV decreased hepatic fibrosis and reduced collagen Iα1 and TIMP-1 mRNA on Day 7. At the later stages of injury, RSV increased the number of Ki67+ hepatocytes indicating that RSV promoted hepatocyte proliferation. Additionally, it resulted in decreased expression of 4-hydroxynonenal and increased expression of the hepatocyte growth factor protein and mRNA in the RSV-treated BDL group. Meanwhile, RSV reduced the mortality rate of BDL mice. In conclusion, RSV attenuated inflammation and reduced Kupffer cells activation. RSV decreased fibrosis and promoted hepatocyte regeneration, which increased the survival of BDL mice. RSV was beneficial for the treatment of cholestatic liver injury.
+ER  - 
+
+TY  - JOUR
+TI  - A001–A193
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 95
+IS  - S6
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.6310
+DO  - doi:10.1002/bjs.6310
+SP  - 1
+EP  - 104
+PY  - 2008
+AB  - Abstract The following abstracts were presented at the 43rd Congress of the European Society for Surgical Research (ESSR), which was held from May 21?24, 2008, in Warsaw, Poland (Congress President: Grzegorz Szcz?sny). More information can be found on Congress website: www.essr2008.pl. To view all the abstracts from this meeting, please click the pdf link on this page. Copyright ? 2008 British Journal of Surgery Society Ltd. Published by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts from the 22nd Annual Meeting of the North American Neuromodulation Society
+JO  - Neuromodulation: Technology at the Neural Interface
+JA  - Neuromodulation: Technology at the Neural Interface
+VL  - 22
+IS  - 3
+SN  - 1094-7159
+UR  - https://doi.org/10.1111/ner.12950
+DO  - doi:10.1111/ner.12950
+SP  - e40
+EP  - e295
+PY  - 2019
+ER  - 

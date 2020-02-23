@@ -1,0 +1,418 @@
+
+TY  - JOUR
+AU  - Gess, Jennifer L.
+AU  - Fausett, Jennifer S.
+AU  - Kearney-Ramos, Tonisha E.
+AU  - Kilts, Clinton D.
+AU  - James, George Andrew
+TI  - Task-dependent recruitment of intrinsic brain networks reflects normative variance in cognition
+JO  - Brain and Behavior
+JA  - Brain Behav
+VL  - 4
+IS  - 5
+SN  - 2162-3279
+UR  - https://doi.org/10.1002/brb3.243
+DO  - doi:10.1002/brb3.243
+SP  - 650
+EP  - 664
+KW  - Cognition
+KW  - Cognitive Connectome
+KW  - fMRI
+KW  - functional neuroimaging
+KW  - individual differences
+KW  - neuropsychology
+PY  - 2014
+AB  - Abstract Background Functional neuroimaging has great potential to inform clinical decisions, whether by identifying neural biomarkers of illness progression and severity, predicting therapeutic response, or selecting suitable patients for surgical interventions. Yet a persisting barrier to functional neuroimaging's clinical translation is our incomplete understanding of how normative variance in cognition, personality, and behavior shape the brain's structural and functional organization. We propose that modeling individual differences in these brain?behavior relationships is crucial for improving the accuracy of neuroimaging biomarkers for neurologic and psychiatric disorders. Methods We addressed this goal by initiating the Cognitive Connectome Project, which bridges neuropsychology and neuroimaging by pairing nine cognitive domains typically assessed by clinically validated neuropsychological measures with those tapped by canonical neuroimaging tasks (motor, visuospatial perception, attention, language, memory, affective processing, decision making, working memory, and executive function). To date, we have recruited a diverse sample of 53 participants (mean [SD], age = 32 [9.7] years, 31 females). Results As a proof of concept, we first demonstrate that our neuroimaging task battery can replicate previous findings that task performance recruits intrinsic brain networks identified during wakeful rest. We then expand upon these previous findings by showing that the extent to which these networks are recruited by task reflects individual differences in cognitive ability. Specifically, performance on the Judgment of Line Orientation task (a clinically validated measure of visuospatial perception) administered outside of the MRI scanner predicts the magnitude of task-induced activity of the dorsal visual network when performing a direct replication of this task within the MRI scanner. Other networks (such as default mode and right frontoparietal) showed task-induced changes in activity that were unrelated to task performance, suggesting these networks to not be involved in visuospatial perception. Conclusion These findings establish a methodological framework by which clinical neuropsychology and functional neuroimaging may mutually inform one another, thus enhancing the translation of functional neuroimaging into clinical decision making.
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Presentation Abstracts
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 44
+IS  - 6
+SN  - 0161-3499
+UR  - https://doi.org/10.1111/vsu.12352
+DO  - doi:10.1111/vsu.12352
+SP  - E41
+EP  - E73
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+AU  - LINKO, R.
+AU  - PETTILÄ, V.
+AU  - KUITUNEN, A.
+AU  - KORHONEN, A. -M.
+AU  - NISULA, S.
+AU  - ALILA, S.
+AU  - KIVINIEMI, O.
+AU  - LARU-SOMPA, R.
+AU  - VARPULA, T.
+AU  - KARLSSON, S.
+AU  - FINNALI Study Investigators
+TI  - Plasma neutrophil gelatinase-associated lipocalin and adverse outcome in critically ill patients with ventilatory support
+JO  - Acta Anaesthesiologica Scandinavica
+JA  - Acta Anaesthesiol Scand
+VL  - 57
+IS  - 7
+SN  - 0001-5172
+UR  - https://doi.org/10.1111/aas.12112
+DO  - doi:10.1111/aas.12112
+SP  - 855
+EP  - 862
+PY  - 2013
+AB  - Objective Plasma neutrophil gelatinase-associated lipocalin (pNGAL) has been introduced as an early and sensitive biomarker of acute kidney injury (AKI), with an increased risk for renal replacement therapy (RRT) and adverse outcome in selected critically ill patient groups. Acute respiratory failure is the most common organ dysfunction in critically ill patients with an increased risk for AKI. Accordingly, we hypothesized that pNGAL would independently predict adverse outcome in a heterogeneous group of critically ill adult patients with acute respiratory failure. Design and Setting Prospective, multi-centre study in 25 Finnish intensive care units. Patients and Methods pNGAL was measured from critically ill patients with acute respiratory failure. We evaluated the predictive value of pNGAL for RRT, and hospital and 90-day mortality first separately, second in addition to the Simplified Acute Physiology Score (SAPS II), and third to RIFLE (Risk, Injury, Failure, Loss, End-Stage Renal Disease) AKI classification. Additionally, we assessed the factors associated with pNGAL by linear regression analysis. Interventions None. Measurements and Main Results We included 369 patients. Median (interquartile range) baseline pNGAL was 169 (92?370)?ng/ml. The areas under receiver operating characteristic curves of baseline pNGAL were as follows: 0.733 [95% confidence interval (CI) 0.656?0.810] for RRT, 0.627 (95% CI 0.561?0.693) for hospital, and 0.582 (95% CI 0.520?0.645) for 90-day mortality. Present infection, baseline creatinine, operative status, and pancreatitis were independently associated with baseline pNGAL. Conclusions Baseline pNGAL gives no additional value into prediction of hospital and 90-day mortality compared with RIFLE or SAPS II, and has only moderate predictive power regarding RRT in critically ill adult patients with acute respiratory failure.
+ER  - 
+
+TY  - JOUR
+AU  - Purnell, Marcy C.
+AU  - Butawan, Matthew B.A.
+AU  - Ramsey, Risa D.
+C7  - e13722
+TI  - Bio-field array: a dielectrophoretic electromagnetic toroidal excitation to restore and maintain the golden ratio in human erythrocytes
+JO  - Physiological Reports
+JA  - Physiol Rep
+VL  - 6
+IS  - 11
+SN  - 2051-817X
+UR  - https://doi.org/10.14814/phy2.13722
+DO  - doi:10.14814/phy2.13722
+SP  - e13722
+KW  - dielectrophoretic field flow fractionation
+KW  - erythrocyte
+KW  - Golden Ratio
+KW  - rheological alterations
+KW  - toroid
+PY  - 2018
+AB  - Abstract Erythrocytes must maintain a biconcave discoid shape in order to efficiently deliver oxygen (O2) molecules and to recycle carbon dioxide (CO2) molecules. The erythrocyte is a small toroidal dielectrophoretic (DEP) electromagnetic field (EMF) driven cell that maintains its zeta potential (?) with a dielectric constant (?) between a negatively charged plasma membrane surface and the positively charged adjacent Stern layer. Here, we propose that zeta potential is also driven by both ferroelectric influences (chloride ion) and ferromagnetic influences (serum iron driven). The Golden Ratio, a function of Phi offers a geometrical mathematical measure within the distinct and desired curvature of the red blood cell that is governed by this zeta potential and is required for the efficient recycling of CO2 in our bodies. The Bio-Field Array (BFA) shows potential to both drive/fuel the zeta potential and restore the Golden Ratio in human erythrocytes thereby leading to more efficient recycling of CO2. Live Blood Analyses and serum CO2 levels from twenty human subjects that participated in immersion therapy sessions with the BFA for 2 weeks (six sessions) were analyzed. Live Blood Analyses (LBA) and serum blood analyses performed before and after the BFA immersion therapy sessions in the BFA pilot study participants showed reversal of erythrocyte rheological alterations (per RBC metric; P = 0.00000075), a morphological return to the Golden Ratio and a significant decrease in serum CO2 (P = 0.017) in these participants. Immersion therapy sessions with the BFA show potential to modulate zeta potential, restore this newly defined Golden Ratio and reduce rheological alterations in human erythrocytes.
+ER  - 
+
+TY  - JOUR
+AU  - Qiao, Luxi
+AU  - Fisher, Emily
+AU  - McMurray, Lindsay
+AU  - Milicevic Sephton, Selena
+AU  - Hird, Matthew
+AU  - Kuzhuppilly-Ramakrishnan, Nisha
+AU  - Williamson, David J.
+AU  - Zhou, Xiouyun
+AU  - Werry, Eryn
+AU  - Kassiou, Michael
+AU  - Luthra, Saijinder
+AU  - Trigg, William
+AU  - Aigbirhio, Franklin I.
+TI  - Radiosynthesis of (R,S)-[18F]GE387: A Potential PET Radiotracer for Imaging Translocator Protein 18 kDa (TSPO) with Low Binding Sensitivity to the Human Gene Polymorphism rs6971
+JO  - ChemMedChem
+JA  - ChemMedChem
+VL  - 14
+IS  - 9
+SN  - 1860-7179
+UR  - https://doi.org/10.1002/cmdc.201900023
+DO  - doi:10.1002/cmdc.201900023
+SP  - 982
+EP  - 993
+KW  - [18F]GE180
+KW  - [18F]GE387
+KW  - neuroinflammation biomarkers
+KW  - PET imaging
+KW  - TSPO receptor
+PY  - 2019
+AB  - Abstract Translocator protein (TSPO) is a biomarker of neuroinflammation, which is a hallmark of many neurodegenerative diseases and has been exploited as a positron emission tomography (PET) target. Carbon-11-labelled PK11195 remains the most applied agent for imaging TSPO, despite its short-lived isotope and low brain permeability. Second-generation radiotracers show variance in affinity amongst subjects (low-, mixed-, and high-affinity binders) caused by the genetic polymorphism (rs6971) of the TSPO gene. To overcome these limitations, a new structural scaffold was explored based on the TSPO pharmacophore, and the analogue with a low-affinity binder/high-affinity binder (LAB/HAB) ratio similar (1.2 vs. 1.3) to that of (R)-[11C]PK11195 was investigated. The synthesis of the reference compound was accomplished in six steps and 9?% overall yield, and the precursor was prepared in eight steps and 8?% overall yield. The chiral separation of the reference and precursor compounds was performed using supercritical fluid chromatography with >95?%?ee. The absolute configuration was determined by circular dichroism. Optimisation of reaction conditions for manual radiolabelling revealed acetonitrile as a preferred solvent at 100?°C. Automation of this radiolabelling method provided R and S enantiomers in respective 21.3±16.7 and 25.6±7.1?% decay-corrected yields and molar activities of 55.8±35.6 and 63.5±39.5?GBq??mol?1 (n=3). Injection of the racemic analogue into a healthy rat confirmed passage through the blood?brain barrier.
+ER  - 
+
+TY  - JOUR
+TI  - International Session
+JO  - Nihon Kyukyu Igakukai Zasshi: Journal of Japanese Association for Acute Medicine
+JA  - Nihon Kyukyu Igakukai Zasshi: Japanese Journal of Japanese Association for Acute Medicine
+VL  - 29
+IS  - 10
+SN  - 1883-3772
+UR  - https://doi.org/10.1002/jja2.12339
+DO  - doi:10.1002/jja2.12339
+SP  - 364
+EP  - 370
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Wei
+AU  - Qin, Jiang-Jiang
+AU  - Rajaei, Mehrdad
+AU  - Li, Xin
+AU  - Yu, Xiaoyi
+AU  - Hunt, Courtney
+AU  - Zhang, Ruiwen
+TI  - Targeting MDM2 for novel molecular therapy: Beyond oncology
+JO  - Medicinal Research Reviews
+JA  - Med Res Rev
+VL  - n/a
+IS  - n/a
+SN  - 0198-6325
+UR  - https://doi.org/10.1002/med.21637
+DO  - doi:10.1002/med.21637
+KW  - dementia
+KW  - diabetes
+KW  - inflammation
+KW  - MDM2
+KW  - noncarcinogenic
+KW  - p53
+AB  - Abstract The murine double minute 2 (MDM2) oncogene exerts major oncogenic activities in human cancers; it is not only the best-documented negative regulator of the p53 tumor suppressor, but also exerts p53-independent activities. There is an increasing interest in developing MDM2-based targeted therapies. Several classes of MDM2 inhibitors have been evaluated in preclinical models, with a few entering clinical trials, mainly for cancer therapy. However, noncarcinogenic roles for MDM2 have also been identified, demonstrating that MDM2 is involved in many chronic diseases and conditions such as inflammation and autoimmune diseases, dementia and neurodegenerative diseases, heart failure and cardiovascular diseases, nephropathy, diabetes, obesity, and sterility. MDM2 inhibitors have been shown to have promising therapeutic efficacy for treating inflammation and other nonmalignant diseases in preclinical evaluations. Therefore, targeting MDM2 may represent a promising approach for treating and preventing these nonmalignant diseases. In addition, a better understanding of how MDM2 works in nonmalignant diseases may provide new biomarkers for their diagnosis, prognostic prediction, and monitoring of therapeutic outcome. In this review article, we pay special attention to the recent findings related to the roles of MDM2 in the pathogenesis of several nonmalignant diseases, the therapeutic potential of its downregulation or inhibition, and its use as a biomarker.
+ER  - 
+
+TY  - JOUR
+TI  - Abstract submission
+JO  - Emergency Medicine Australasia
+JA  - Emerg Med Australas
+VL  - 27
+IS  - S1
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/1742-6723.12415
+DO  - doi:10.1111/1742-6723.12415
+SP  - 1
+EP  - 27
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+AU  - Farrher, Ezequiel
+AU  - Grinberg, Farida
+AU  - Kuo, Li-Wei
+AU  - Cho, Kuan-Hung
+AU  - Buschbeck, Richard P.
+AU  - Chen, Ming-Jye
+AU  - Chiang, Husan-Han
+AU  - Choi, Chang-Hoon
+AU  - Shah, N. Jon
+C7  - e4210
+C8  - NBM-18-0110.R2
+TI  - Dedicated diffusion phantoms for the investigation of free water elimination and mapping: insights into the influence of T2 relaxation properties
+JO  - NMR in Biomedicine
+JA  - NMR in Biomedicine
+VL  - n/a
+IS  - n/a
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.4210
+DO  - doi:10.1002/nbm.4210
+SP  - e4210
+KW  - anisotropic diffusion fibre phantom
+KW  - diffusion tensor imaging
+KW  - free water elimination
+KW  - free water mapping
+KW  - multidimensional MRI
+KW  - partial volume effect
+KW  - transverse relaxation
+KW  - variability
+AB  - Conventional diffusion-weighted (DW) MRI suffers from free water contamination due to the finite voxel size. The most common case of free water contamination occurs with cerebrospinal fluid (CSF) in voxels located at the CSF-tissue interface, such as at the ventricles in the human brain. Another case refers to intra-tissue free water as in vasogenic oedema. In order to avoid the bias in diffusion metrics, several multi-compartment methods have been introduced, which explicitly model the presence of a free water compartment. However, fitting multi-compartment models in DW MRI represents a well known ill conditioned problem. Although during the last decade great effort has been devoted to mitigating this estimation problem, the research field remains active. The aim of this work is to introduce the design, characterise the NMR properties and demonstrate the use of two dedicated anisotropic diffusion fibre phantoms, useful for the study of free water elimination (FWE) and mapping models. In particular, we investigate the recently proposed FWE diffusion tensor imaging approach, which takes explicit account of differences in the transverse relaxation times between the free water and tissue compartments.
+ER  - 
+
+TY  - JOUR
+AU  - De Mello Costa, M
+AU  - Ivanow, A
+AU  - MGB Silva, A
+AU  - Ronchi, F
+AU  - Casarini, D
+TI  - Post-Race Plasma Angiotensin Converting Enzyme in Thoroughbred Horses with or without Furosemide
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_49
+DO  - doi:10.1111/evj.12267_49
+SP  - 16
+EP  - 16
+PY  - 2014
+AB  - Introduction Exercise-Induced Pulmonary Haemorrhage (EIPH) results from hypertensive episodes associated with intense exercise and can negatively impact athletic performance. Angiotensin converting enzyme (ACE) secretion from pulmonary endothelium is increased during pulmonary disease. This study investigated the effects of furosemide administration on ACE activity, and hypothesised a positive association between EIPH and post-race plasma ACE. Methods Blood samples from 73 horses were collected after racing. ACE activity was measured using a fluorometric method. Respiratory endoscopy determined occurrence and grade of EIPH. Comparison of horses treated or not with furosemide before racing and the occurrence of EIPH were conducted by independent sample t-tests. In addition, regression analysis was used to investigate the association between ACE activity and EIPH grade for all horses. Other variables analysed included time to endoscopy and haematocrit. Results Mean ACE activity in horses not treated with furosemide (n?= 47; 91.7?±?15.9) was significantly higher (P?=?0.002) than in treated horses (n?=?26; 79.6?±?13.9). When EIPH positive horses were analysed separately, those treated with furosemide (n?=?20; ACE 78.2?±?11.9) had significantly lower ACE (P?=?0.009) than non-treated horses (n?=?17; ACE 90.9?±?15.9). Regression analysis indicated a polynomial relationship between mean ACE activity and EIPH grade (0, 1, 2 or 3?+?4?+?5; adjusted r2?=?0.99; P<0.001). No other comparisons were statistically significant. Conclusions Results indicated associations between ACE activity, EIPH grade and furosemide administration and investigation of the potential use of ACE as a biomarker for EIPH severity in controlled studies are warranted. Ethical Animal Research This research was conducted with approval from The Animal Ethics Committee at WINTEC, and informed owner consent was obtained for horses included in this study. Sources of funding:?partially funded by a Research Grant from WINTEC. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Presentation Abstracts: 2016 ACVS Surgery Summit, October 6–8, Seattle, Washington
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 45
+IS  - 6
+SN  - 0161-3499
+UR  - https://doi.org/10.1111/vsu.12522
+DO  - doi:10.1111/vsu.12522
+SP  - E23
+EP  - E51
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - 2010 Society for Academic Emergency Medicine (SAEM) Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+VL  - 17
+IS  - s1
+SN  - 1069-6563
+UR  - https://doi.org/10.1111/j.1553-2712.2010.00743.x
+DO  - doi:10.1111/j.1553-2712.2010.00743.x
+SP  - s1
+EP  - s205
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Scientific Presentation Abstracts: 2019 ACVS Surgery Summit October 17-19, Las Vegas, Nevada
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 48
+IS  - 7
+SN  - 0161-3499
+UR  - https://doi.org/10.1111/vsu.13310
+DO  - doi:10.1111/vsu.13310
+SP  - 1091
+EP  - 1170
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Australasian College for Emergency Medicine 30th Annual Scientific Meeting, 24–28 November 2013, Adelaide, Australia
+JO  - Emergency Medicine Australasia
+JA  - Emerg Med Australas
+VL  - 26
+IS  - S1
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/1742-6723.12243
+DO  - doi:10.1111/1742-6723.12243
+SP  - 1
+EP  - 21
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Hong-Yun
+AU  - Liu, Qian
+AU  - Yang, Hong-Xu
+AU  - Shi, Li-Qiang
+AU  - Wang, Pei
+AU  - Xie, Mian-Jiao
+AU  - Liu, Jin-Qiang
+AU  - Xu, Xiao-Jie
+AU  - Liu, Xiao-Dong
+AU  - Yu, Shi-Bin
+AU  - Jiao, Kai
+AU  - Zhang, Mian
+AU  - Xuan, Shi-Jie
+AU  - Xu, Yi-Fei
+AU  - Zhang, Xuan
+AU  - Liu, Yi-Fan
+AU  - Zhang, Jing
+AU  - Wang, Mei-Qing
+TI  - Early growth response 1 reduction in peripheral blood involving condylar subchondral bone loss
+JO  - Oral Diseases
+JA  - Oral Dis
+VL  - 25
+IS  - 7
+SN  - 1354-523X
+UR  - https://doi.org/10.1111/odi.13168
+DO  - doi:10.1111/odi.13168
+SP  - 1759
+EP  - 1768
+KW  - biomarkers
+KW  - bone loss
+KW  - computed tomography
+KW  - radiology
+KW  - temporomandibular disorders (TMDs)
+KW  - transcription factor(s)
+PY  - 2019
+AB  - Abstract Objectives To detect whether early growth response 1 (EGR1) in peripheral blood leucocytes (PBLs) indicates temporomandibular joint (TMJ) osteoarthritis (OA) lesions. Materials and Methods Egr1 mRNA expression levels in PBLs were detected in eight malocclusion patients without temporomandibular disorder (TMD) signs and 16 malocclusion patients with clinical TMD signs with (eight) or without (eight) imaging signs of TMJ OA. Twelve 6-week-old rats were randomized to a control group and a unilateral anterior crossbite (UAC) group and were sampled at 4 weeks. The Egr1 mRNA expression levels in PBLs and protein expression levels in different orofacial tissues were measured. Results Patients with TMD signs with/without TMJ OA diagnosis showed lower Egr1 mRNA expression levels in PBLs than patients without TMD signs. The lower Egr1 mRNA expression was also found in the PBLs of UAC rats, which were induced to exhibit early histo-morphological signs of TMJ OA lesions. In subchondral bone of UAC rats, EGR1 protein expression was decreased, co-localization of EGR1 with osterix or dentin matrix protein-1 was identified, and the number of EGR1 and osterix double-positive cells was reduced (all p < .05). Conclusion Egr1 reduction in PBLs potentially indicates subchondral bone OA lesions at an early stage.
+ER  - 
+
+TY  - JOUR
+TI  - Oral Abstracts
+JO  - Emergency Medicine Australasia
+JA  - Emergency Medicine Australasia
+VL  - 29
+IS  - S1
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/1742-6723.12788
+DO  - doi:10.1111/1742-6723.12788
+SP  - 3
+EP  - 44
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+AU  - Yu, Shengyan
+AU  - Wu, Meifang
+AU  - Zhou, Gengmin
+AU  - Ishikawa, Tatsuya
+AU  - Liang, Jianle
+AU  - Nallapothula, Dhiraj
+AU  - Singh, Ram Raj
+AU  - Wang, Qingwen
+AU  - Wang, Meiying
+TI  - Potential utility of anti-TNF drugs in synovial chondromatosis associated with ankylosing spondylitis
+JO  - International Journal of Rheumatic Diseases
+JA  - Int J Rheum Dis
+VL  - 22
+IS  - 11
+SN  - 1756-1841
+UR  - https://doi.org/10.1111/1756-185X.13734
+DO  - doi:10.1111/1756-185X.13734
+SP  - 2073
+EP  - 2079
+KW  - ankylosing spondylitis
+KW  - etanercept
+KW  - magnetic resonance imaging
+KW  - synovial chondromatosis
+PY  - 2019
+AB  - Abstract We describe a previously unreported association of ankylosing spondylitis with synovial chondromatosis, and briefly review previously reported cases and treatment of synovial chondromatosis in patients with other immune-mediated inflammatory arthritides. A 20-year-old man with ankylosing spondylitis whose axial disease was in remission with nonsteroidal anti-inflammatory drugs and oral disease-modifying anti-rheumatic drugs developed recurrent right knee pain and swelling. Magnetic resonance imaging of his right knee revealed calcified loose bodies, suggestive of synovial chondromatosis. While waiting for the surgical intervention and other invasive therapy previously reported in patients with synovial chondromatosis, a trial of etanercept eliminated the pain and swelling of the knee; however, the loose bodies have persisted during the 2-year follow-up. Thus, synovial chondromatosis should be considered in the differential diagnoses of a refractory monoarticular pain and swelling in patients with otherwise controlled inflammatory arthritis. Our report advocates a trial of anti-tumor necrosis factor drugs, which might delay the need for invasive therapy in patients with synovial chondromatosis.
+ER  - 
+
+TY  - JOUR
+TI  - ORAL PROGRAM ABSTRACTS
+JO  - Emergency Medicine Australasia
+VL  - 24
+IS  - s1
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/j.1742-6723.2012.01520.x
+DO  - doi:10.1111/j.1742-6723.2012.01520.x
+SP  - 1
+EP  - 19
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+AU  - Mueller, Claudius
+AU  - Liotta, Lance A.
+AU  - Espina, Virginia
+TI  - Reverse phase protein microarrays advance to use in clinical trials
+JO  - Molecular Oncology
+VL  - 4
+IS  - 6
+SN  - 1574-7891
+UR  - https://doi.org/10.1016/j.molonc.2010.09.003
+DO  - doi:10.1016/j.molonc.2010.09.003
+SP  - 461
+EP  - 481
+KW  - Biomarker
+KW  - Individualized therapy
+KW  - Microarray
+KW  - Protein
+KW  - Phosphoprotein
+KW  - Reverse phase protein microarray
+PY  - 2010
+AB  - Abstract Individualizing cancer therapy for molecular targeted inhibitors requires a new class of molecular profiling technology that can map the functional state of the cancer cell signal pathways containing the drug targets. Reverse phase protein microarrays (RPMA) are a technology platform designed for quantitative, multiplexed analysis of specific phosphorylated, cleaved, or total (phosphorylated and non-phosphorylated) forms of cellular proteins from a limited amount of sample. This class of microarray can be used to interrogate tissue samples, cells, serum, or body fluids. RPMA were previously a research tool; now this technology has graduated to use in research clinical trials with clinical grade sensitivity and precision. In this review we describe the application of RPMA for multiplexed signal pathway analysis in therapeutic monitoring, biomarker discovery, and evaluation of pharmaceutical targets, and conclude with a summary of the technical aspects of RPMA construction and analysis.
+ER  - 
+
+C7  - pp. 1-36
+TI  - Sketches of the Standard Imaging Modalities: Different Ways of Creating Visible Contrast Among Tissues
+SN  - 9780470505700
+UR  - https://doi.org/10.1002/9781118480267.ch1
+DO  - doi:10.1002/9781118480267.ch1
+SP  - 1-36
+KW  - imaging modality
+KW  - differential attenuation
+KW  - X-ray
+KW  - computed radiography
+KW  - CR
+KW  - DR
+KW  - digital radiography
+KW  - digital subtraction angiography
+KW  - DSA
+PY  - 2010
+AB  - Summary Sketches provides, in more technical language, outlines of the various imaging modalities, and illustrates their roles in medical care with many clinical examples. After examining film-radiography and conventional fluoroscopy, in which images arise from differential attenuation of an X-ray beam by various tissues, it moves on to their twenty-first century computer-based descendants: computed radiography (CR), digital radiography (DR), digital subtraction angiography (DSA), culminating in three-dimensional mapping of tissues with spiral, multi-slice CT. It then addresses nuclear medicine (NM), including single photon emission CT (SPECT) and positron emission tomography (PET), where contrast comes from the differential uptake of a radiopharmaceutical by tissues. With diagnostic ultrasound (US), echoes are created at tissue interfaces where differences in tissue elasticity and density occur. The chapter concludes with an appendix on the selection of optimal imaging modalities for representative clinical problems.
+ER  - 

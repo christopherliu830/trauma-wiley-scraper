@@ -1,0 +1,420 @@
+
+TY  - JOUR
+AU  - Jakob, Mark
+AU  - Hemeda, Hatim
+AU  - Bruderek, Kirsten
+AU  - H. Gerstner, Andreas O.
+AU  - Bootz, Friedrich
+AU  - Lang, Stephan
+AU  - Brandau, Sven
+TI  - Comparative functional cell biological analysis of mesenchymal stem cells of the head and neck region: Potential impact on wound healing, trauma, and infection
+JO  - Head & Neck
+JA  - Head Neck
+VL  - 35
+IS  - 11
+SN  - 1043-3074
+UR  - https://doi.org/10.1002/hed.23196
+DO  - doi:10.1002/hed.23196
+SP  - 1621
+EP  - 1629
+KW  - mesenchymal stem cell
+KW  - wound healing
+KW  - regeneration
+KW  - infection
+KW  - inflammation
+PY  - 2013
+AB  - Background Mesenchymal stem cells (MSCs) are multipotent mesenchymal progenitor cells, originally identified in bone-marrow. Little is known about MSCs of the head and neck region. We investigated cell biological properties with a potential impact on wound healing of 2 different tissue-resident MSC populations. Methods MSCs were isolated from human nasal mucosa (nmMSCs) and parotid gland (pgMSCs). Clonogenic potential, cell surface markers, cytokine secretion, chemokine receptor expression, mobility, and adhesion to extracellular matrix were examined in unstimulated and stimulated MSCs. Results NmMSCs had the higher clonogenic potential. PgMSCs showed a broader panel of chemokine receptor expression and displayed higher mobility, especially after challenge with bacterial lipopolysaccharide (LPS). NmMSCs were less mobile and showed increased LPS-induced secretion of the inflammatory cytokine interleukin-8 (IL-8) compared with pgMSCs. Conclusion These data highlight functional differences between tissue-resident MSCs of the head and neck region, which may impact functional properties of these cells in response to trauma or infection. ? 2012 Wiley Periodicals, Inc. Head Neck, 35: 1621?1629, 2013
+ER  - 
+
+TY  - JOUR
+AU  - Lambert, M.
+AU  - Ball, C.
+AU  - Hancock, B.
+TI  - Management of acute brachial artery occlusion due to trauma or emboli
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 70
+IS  - 10
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.1800701020
+DO  - doi:10.1002/bjs.1800701020
+SP  - 639
+EP  - 640
+PY  - 1983
+AB  - Abstract Out of 37 patients requiring emergency surgery for upper limb ischaemia, 9 were due to spontaneous embolus, 7 to arterial laceration and 21 followed cardiac catheterization. Eleven of the initial operations (30 per cent) failed to relieve ischaemic symptoms though 6 were corrected by further operations. Success at the initial operation was associated with (i) repair with end-to-end anastomosis after resection, saphenous vein bypass or interposition graft, or generous vein patch, (ii) exposure of the radial/ulnar bifurcation, (iii) instillation of heparinized saline locally or (iv) restoration of the radial pulse at the end of the operation. In the cases studied in whom all the above recommendations were followed, the operation was entirely successful and all patients have a radial pulse and are currently symptom free.
+ER  - 
+
+TY  - JOUR
+AU  - Jelescu, Ileana O.
+AU  - Veraart, Jelle
+AU  - Fieremans, Els
+AU  - Novikov, Dmitry S.
+C8  - NBM-15-0204.R2
+TI  - Degeneracy in model parameter estimation for multi-compartmental diffusion in neuronal tissue
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 29
+IS  - 1
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.3450
+DO  - doi:10.1002/nbm.3450
+SP  - 33
+EP  - 47
+KW  - high order diffusion MR methods
+KW  - biophysical mechanisms of MR diffusion
+KW  - normal brain
+KW  - microstructure
+KW  - modeling
+KW  - parameter estimation
+PY  - 2016
+AB  - The ultimate promise of diffusion MRI (dMRI) models is specificity to neuronal microstructure, which may lead to distinct clinical biomarkers using noninvasive imaging. While multi-compartment models are a common approach to interpret water diffusion in the brain in vivo, the estimation of their parameters from the dMRI signal remains an unresolved problem. Practically, even when q space is highly oversampled, nonlinear fit outputs suffer from heavy bias and poor precision. So far, this has been alleviated by fixing some of the model parameters to a priori values, for improved precision at the expense of accuracy. Here we use a representative two-compartment model to show that fitting fails to determine the five model parameters from over 60 measurement points. For the first time, we identify the reasons for this poor performance. The first reason is the existence of two local minima in the parameter space for the objective function of the fitting procedure. These minima correspond to qualitatively different sets of parameters, yet they both lie within biophysically plausible ranges. We show that, at realistic signal-to-noise ratio values, choosing between the two minima based on the associated objective function values is essentially impossible. Second, there is an ensemble of very low objective function values around each of these minima in the form of a pipe. The existence of such a direction in parameter space, along which the objective function profile is very flat, explains the bias and large uncertainty in parameter estimation, and the spurious parameter correlations: in the presence of noise, the minimum can be randomly displaced by a very large amount along each pipe. Our results suggest that the biophysical interpretation of dMRI model parameters crucially depends on establishing which of the minima is closer to the biophysical reality and the size of the uncertainty associated with each parameter. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Manohar, Paul
+AU  - Kan, Wen Ter
+AU  - Ranasinghe, Weranja K. B.
+AU  - Cetti, Richard J.
+AU  - McCahy, Philip
+TI  - Knotted multi-length ureteric stents: a case series
+JO  - ANZ Journal of Surgery
+JA  - ANZ J Surg
+VL  - 86
+IS  - 5
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/ans.12689
+DO  - doi:10.1111/ans.12689
+SP  - 413
+EP  - 414
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+AU  - Wilson, Peter
+TI  - The Presence of the Therapist: Treating Childhood Trauma – By Monica Lanyado
+JO  - British Journal of Psychotherapy
+VL  - 24
+IS  - 1
+SN  - 0265-9883
+UR  - https://doi.org/10.1111/j.1752-0118.2007.00067_6.x
+DO  - doi:10.1111/j.1752-0118.2007.00067_6.x
+SP  - 117
+EP  - 121
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+AU  - Andriessen, Teuntje M. J. C.
+AU  - Jacobs, Bram
+AU  - Vos, Pieter E.
+TI  - Clinical characteristics and pathophysiological mechanisms of focal and diffuse traumatic brain injury
+JO  - Journal of Cellular and Molecular Medicine
+VL  - 14
+IS  - 10
+SN  - 1582-1838
+UR  - https://doi.org/10.1111/j.1582-4934.2010.01164.x
+DO  - doi:10.1111/j.1582-4934.2010.01164.x
+SP  - 2381
+EP  - 2392
+KW  - focal traumatic brain injury
+KW  - diffuse traumatic brain injury
+KW  - pathophysiology
+KW  - traumatic axonal injury
+KW  - excitotoxicity
+KW  - mitochondria
+KW  - axonal disconnection
+PY  - 2010
+AB  - Abstract ?? Introduction ?? Classifying TBI -? Clinical injury severity -? Focal injury or diffuse injury ?? Clinical characteristics -? Coma, confusion and subacute impairments -? Imaging TBI -? Focal and diffuse TBI: separate entities? ?? Pathophysiological mechanisms of focal injury -? The essentials: glutamate and Ca2+ ?? Pathophysiological mechanisms of diffuse injury -? A heterogeneous cascade of changes -? After axonal disconnection ?? Conclusions Traumatic brain injury (TBI) is a frequent and clinically highly heterogeneous neurological disorder with large socioeconomic consequences. TBI severity classification, based on the hospital admission Glasgow Coma Scale (GCS) score, ranges from mild (GCS 13?15) and moderate (GCS 9?12) to severe (GCS ≤ 8). The GCS reflects the risk of dying from TBI, which is low after mild (?1%), intermediate after moderate (up to 15%) and high (up to 40%) after severe TBI. Intracranial damage can be focal, such as epidural and subdural haematomas and parenchymal contusions, or diffuse, for example traumatic axonal injury and diffuse cerebral oedema, although this distinction is somewhat arbitrary. Study of the cellular and molecular post-traumatic processes is essential for the understanding of TBI pathophysiology but even more to find therapeutic targets for the development of neuroprotective drugs to be eventually used in human beings. To date, studies in vitro and in vivo, mainly in animals but also in human beings, are unravelling the pathological TBI mechanisms at high pace. Nevertheless, TBI pathophysiology is all but completely elucidated. Neuroprotective treatment studies in human beings have been disappointing thus far and have not resulted in commonly accepted drugs. This review presents an overview on the clinical aspects and the pathophysiology of focal and diffuse TBI, and it highlights several acknowledged important events that occur on molecular and cellular level after TBI.
+ER  - 
+
+TY  - JOUR
+AU  - Aparci, Mustafa
+AU  - Okutucu, Sercan
+AU  - Ozturk, Cengiz
+AU  - Balta, Sevket
+AU  - Isilak, Zafer
+TI  - Utility of multi-detector tomography angiography with equivocal exercise stress test in acute coronary syndrome
+JO  - Emergency Medicine Australasia
+JA  - Emerg Med Australas
+VL  - 26
+IS  - 5
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/1742-6723.12269
+DO  - doi:10.1111/1742-6723.12269
+SP  - 517
+EP  - 518
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts from the International Veterinary Emergency and Critical Care Symposium, the European Veterinary Emergency and Critical Care Society Annual Congress, and the ACVECC VetCOT Veterinary Trauma & Critical Care Conference, 2015
+JO  - Journal of Veterinary Emergency and Critical Care
+JA  - Journal of Veterinary Emergency and Critical Care
+VL  - 25
+IS  - S1
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/vec.12366
+DO  - doi:10.1111/vec.12366
+SP  - S1
+EP  - S32
+PY  - 2015
+ER  - 
+
+AU  - Sheikh, Adnan
+C7  - pp. 289-339
+TI  - Ankle and Foot
+SN  - 9781118158814
+UR  - https://doi.org/10.1002/9781118551691.ch9
+DO  - doi:10.1002/9781118551691.ch9
+SP  - 289-339
+KW  - ankle
+KW  - Computed Tomography (CT)
+KW  - dislocation
+KW  - foot
+KW  - fracture
+KW  - imaging evaluation
+KW  - Magnetic Resonance (MR) imaging
+KW  - radiograph interpretation
+KW  - trauma
+KW  - ultrasound
+PY  - 2015
+AB  - Summary This chapter begins with an introduction of the anatomy of the ankle and foot. Appropriateness criteria for imaging foot and ankle trauma are then discussed. The ankle and foot are anatomically distinct from each other and therefore radiographic evaluation of each is different from the other. Standard ankle radiographs include anteroposterior (AP), lateral, and mortise view, and foot radiographs include AP, lateral, and oblique views. Computed Tomography (CT) is used for pre-operative planning in patients with complex distal tibial and malleolar fractures, tarsal fractures and Lisfranc fracture-dislocations. Magnetic Resonance (MR) imaging is indicated in assessment of radiographically occult stress and insufficiency fractures. In the setting of foot and ankle trauma, ultrasound is often performed to evaluate the Achilles tendon for the presence and severity of a tear. The key to interpreting ankle and foot radiographs is familiarity with normal anatomy and injury patterns that may involve the ankle and foot.
+ER  - 
+
+TY  - JOUR
+AU  - Larner, Glenn
+TI  - Working With Couples, Parental Trauma, Family Loss, Partner Violence, Children and Art
+JO  - Australian and New Zealand Journal of Family Therapy
+JA  - Aust N Z J Fam Ther
+VL  - 38
+IS  - 2
+SN  - 9781118158814
+UR  - https://doi.org/10.1002/anzf.1227
+DO  - doi:10.1002/anzf.1227
+SP  - 191
+EP  - 193
+PY  - 2017
+ER  - 
+
+AU  - Morris, R. Katie
+AU  - Kilby, Mark D.
+C7  - pp. 400-404
+TI  - Multi-fetal Pregnancy Reduction after ART
+SN  - 9781444335552
+UR  - https://doi.org/10.1002/9781444398854.ch93
+DO  - doi:10.1002/9781444398854.ch93
+SP  - 400-404
+KW  - ART
+KW  - ICSI
+KW  - IVF
+KW  - fetal reduction
+KW  - selective feticide
+KW  - multiple pregnancy
+KW  - medical ethics
+PY  - 2017
+AB  - Summary The incidence of multiple pregnancies continues to rise, in part due to the increasing use of assisted reproduction techniques. Due to the serious maternal and perinatal complications with multiple pregnancies and the further increased risks with higher order multiples, selective fetal reduction has been offered in an attempt to improve perinatal outcomes. This invasive, ultrasound-guided, percutaneous procedure has theoretical risks of pregnancy loss, morbidity to the surviving fetuses and associated risks of premature ruptured membranes and preterm labour. It also evokes complex ethical and moral issues for the parents, clinicians and society as a whole. Pregnancy outcome rates have improved following selective fetal reduction as experience with techniques have improved and the number of very high order pregnancies has reduced.
+ER  - 
+
+TY  - JOUR
+AU  - Vettorato, Enzo
+AU  - Corletto, Federico
+TI  - Gabapentin as part of multi-modal analgesia in two cats suffering multiple injuries
+JO  - Veterinary Anaesthesia and Analgesia
+VL  - 38
+IS  - 5
+SN  - 9781444335552
+UR  - https://doi.org/10.1111/j.1467-2995.2011.00638.x
+DO  - doi:10.1111/j.1467-2995.2011.00638.x
+SP  - 518
+EP  - 520
+PY  - 2011
+ER  - 
+
+AU  - Verwoerd, Johan
+AU  - Wessel, Ineke
+C7  - pp. 337-360
+TI  - Unwanted Traumatic Intrusions
+SN  - 9781405189040
+UR  - https://doi.org/10.1002/9781444328202.ch14
+DO  - doi:10.1002/9781444328202.ch14
+SP  - 337-360
+KW  - unwanted traumatic intrusions - pre-trauma individual role in executive control
+KW  - memory, evoking amazement and wonder
+KW  - traumatic event and involuntary remembering - a radically different experience
+KW  - cognitive impairments in PTSD - and toxic effects of exposure to traumatic event
+KW  - executive control - in experimental memory literature
+KW  - working memory, temporary active long-term memory (LTM) under executive or attentional controller
+KW  - interference control and intrusive memories
+KW  - clinical theories of PTSD - intrusive re-experiencing - reflecting direct retrieval process
+KW  - Anderson and Green's - the Think/No-Think (TNT) paradigm
+KW  - deficient executive control, vulnerability factor - inability to disengage attention from perceptual trauma reminders
+PY  - 2011
+AB  - Summary This chapter contains sections titled: Introduction Neuropsychological Findings Executive Control as a Premorbid Vulnerability Factor Executive Control in the Experimental Memory Literature Interference Control and Intrusive Memories Executive Control May Help Disengagement of Attention from Stressful Trauma Reminders Further Theoretical Considerations Conclusion and Future Directions References
+ER  - 
+
+TY  - JOUR
+AU  - Stevens, Kristin
+AU  - Stojadinovic, Alexander
+AU  - Helou, Leah B.
+AU  - Solomon, Nancy P.
+AU  - Howard, Robin S.
+AU  - Shriver, Craig D.
+AU  - Buckenmaier, Chester C.
+AU  - Henry, Leonard R.
+TI  - The impact of recurrent laryngeal neuromonitoring on multi-dimensional voice outcomes following thyroid surgery
+JO  - Journal of Surgical Oncology
+JA  - J. Surg. Oncol.
+VL  - 105
+IS  - 1
+SN  - 9781405189040
+UR  - https://doi.org/10.1002/jso.22063
+DO  - doi:10.1002/jso.22063
+SP  - 4
+EP  - 9
+KW  - voice
+KW  - thyroidectomy
+KW  - neuromonitoring
+PY  - 2012
+AB  - Abstract Background Voice changes after thyroidectomy are common but not always related to recurrent laryngeal nerve (RLN) injury. We evaluated if RLN neuromonitoring correlated with non-RLN injury-related changes in voice after thyroidectomy. Methods Prospective multi-dimensional voice assessment was conducted on patients undergoing thyroidectomy before, 1?4 weeks, and 6 months postoperatively. Voice outcome (VO) was determined as normal (NormVO) or negative (NegVO) based upon combinations of patient-reported symptoms, videolaryngoscopy, a composite of acoustic measurements, and clinician-perceived voice quality. Groups with and without neuromonitoring were compared for early and durable differences in VO. Results Ninety-one patients underwent thyroidectomy; 39 with RLN neuromonitoring and 52 without. The two study groups were similar with regard to baseline characteristics including voice assessment. There was no difference in NegVO between neuromonitored and non-monitored patients at 1?4 weeks (n?=?89; 32% vs. 27%; P?=?0.81) and 6 months (n?=?71, 14% vs. 7%; P?=?0.42) after thyroidectomy. Neuromonitoring was associated with a 48-min increase in median operative time, but this finding was not statistically significant in a multivariate model. Conclusion In this study, recurrent laryngeal neuromonitoring did not appear to influence non-RLN injury related VO as measured by a comprehensive multidimensional voice assessment. J. Surg. Oncol. 2012; 105:4?9. ? 2011 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Jenny, N. S.
+AU  - Blumenthal, R. S.
+AU  - Kronmal, R. A.
+AU  - Rotter, J. I.
+AU  - Siscovick, D. S.
+AU  - Psaty, B. M.
+TI  - Associations of pentraxin 3 with cardiovascular disease: the Multi-Ethnic Study of Atherosclerosis
+JO  - Journal of Thrombosis and Haemostasis
+JA  - J Thromb Haemost
+VL  - 12
+IS  - 6
+SN  - 9781405189040
+UR  - https://doi.org/10.1111/jth.12557
+DO  - doi:10.1111/jth.12557
+SP  - 999
+EP  - 1005
+KW  - atherosclerosis
+KW  - cardiovascular diseases
+KW  - epidemiology
+KW  - inflammation
+KW  - pentraxin 3
+PY  - 2014
+AB  - Summary Objective Pentraxin 3 (PTX3) is probably a specific marker of vascular inflammation. However, associations of PTX3 with cardiovascular disease (CVD) risk have not been well studied in healthy adults or multi-ethnic populations. We examined associations of PTX3 with CVD risk factors, measures of subclinical CVD, coronary artery calcification (CAC) and CVD events in the Multi-Ethnic Study of Atherosclerosis. Approach and Results Two thousand eight hundred and thirty-eight participants free of prevalent CVD with measurements of PTX3 were included in the present study. After adjustment for age, sex, and ethnicity, PTX3 was positively associated with age, obesity, insulin, systolic blood pressure, C-reactive protein (CRP), and carotid intima?media thickness (all P < 0.045). A one standard deviation increase in PTX3 level (1.62 ng mL?1) was associated with the presence of CAC in fully adjusted models including multiple CVD risk factors (relative risk of 1.05; 95% confidence interval [CI] 1.01?1.08). In fully adjusted models, a standard deviation higher level of PTX3 was associated with an increased risk of myocardial infarction (hazard ratio [HR] 1.51; 95% [CI] 1.16?1.97), combined CVD events (HR 1.23; 95% [CI] 1.05?1.45), and combined CHD events (HR 1.33; 95% [CI] 1.10?1.60), but not stroke, CVD-related mortality, or all-cause death. Conclusions In these apparently healthy adults, PTX3 was associated with CVD risk factors, subclinical CVD, CAC and incident coronary heart disease events independently of CRP and CVD risk factors. These results support the hypothesis that PTX3 reflects different aspects of inflammation than CRP, and may provide additional insights into the development and progression of atherosclerosis.
+ER  - 
+
+TY  - JOUR
+AU  - Kandilige, Leander
+AU  - Adiku, Geraldine
+TI  - The Quagmire of Return and Reintegration: Challenges to Multi-Stakeholder Co-ordination of Involuntary Returns
+JO  - International Migration
+JA  - Int Migr
+VL  - n/a
+IS  - n/a
+SN  - 9781405189040
+UR  - https://doi.org/10.1111/imig.12644
+DO  - doi:10.1111/imig.12644
+AB  - Abstract The institutional aspect of return migration has received little attention in the theoretical and empirical literature on return migration. This research fills the apparent lacuna by unearthing institutional challenges to multi-stakeholder coordination, at different spatial levels in crisis situations and negative effects on reintegration of forcibly returned migrants. We use the evacuation of Ghanaian migrants from Libya who occupied very low socio-economic positions, experienced racism and discrimination, including physical attacks and arbitrary arrests in 2011, as a case study to understand institutional challenges to forced return when migrants? carefully tailored plans are thrown into disarray and they are forced to return unprepared. This study employed mainly qualitative research methods among six different categories of actors and engaged an adaptation of Cassarino's ?returnee's preparedness framework? to expand theoretical understandings of return migration from the institutional perspective and to highlight what can go wrong when institutions are unprepared for involuntary returnees.
+ER  - 
+
+TY  - JOUR
+AU  - Nik-Hussein, Nik Noriah
+TI  - Traumatic injuries to anterior teeth among schoolchildren in Malaysia
+JO  - Dental Traumatology
+VL  - 17
+IS  - 4
+SN  - 9781405189040
+UR  - https://doi.org/10.1034/j.1600-9657.2001.170402.x
+DO  - doi:10.1034/j.1600-9657.2001.170402.x
+SP  - 149
+EP  - 152
+KW  - dental trauma
+KW  - oral epidemiology
+KW  - tooth injury
+PY  - 2001
+AB  - Abstract ? Evidence of traumatized permanent incisors was recorded as part of a national oral health survey of schoolchildren in Malaysia. A total of 4085 schoolchildren aged 16 years were examined. The prevalence of injury was 4.1% and it was significantly higher in males than females, with a ratio of 2:1. Almost 75% of the subjects had one tooth affected. Out of a total of 200 fractured teeth, 78.0% involved the maxillary central incisors. A high level of untreated traumatized teeth (89%) was noted. However, of the untreated traumatized teeth, only 9% presented with problems such as discoloration of tooth, sinus or abscess formation.
+ER  - 
+
+TY  - JOUR
+AU  - Zanetto, Lorenzo
+AU  - Da Dalt, Liviana
+AU  - Daverio, Marco
+AU  - Dunning, Joel
+AU  - Frigo, Anna Chiara
+AU  - Nigrovic, Lise E.
+AU  - Bressan, Silvia
+TI  - Systematic review and meta-analysis found significant risk of brain injury and neurosurgery in alert children after a post-traumatic seizure
+JO  - Acta Paediatrica
+JA  - Acta Paediatr
+VL  - 108
+IS  - 10
+SN  - 9781405189040
+UR  - https://doi.org/10.1111/apa.14810
+DO  - doi:10.1111/apa.14810
+SP  - 1841
+EP  - 1849
+KW  - Children
+KW  - Emergency department
+KW  - Head trauma
+KW  - Post-traumatic seizure
+KW  - Traumatic brain injury
+PY  - 2019
+AB  - Abstract Aim This study aimed to determine the frequency of traumatic brain injury (TBI) on neuroimaging and the need for emergency neurosurgery in children with normal mental status following a post-traumatic seizure (PTS). Methods We searched six electronic databases from inception to October 15, 2018, to identify studies including children under 18 years with head injury and a Glasgow Coma Score of 15 after an immediate PTS. Relevant non-English articles were translated to determine eligibility. Results We performed random effect meta-analyses and assessed heterogeneity with I2. The pooled estimate of the frequency of TBI, from seven studies, was 13.0% (95% CI: 4.0?26.1; I2 = 81%). Data on the need of emergency neurosurgery were reported in four studies and the pooled estimate of its frequency was 2.3% (95% CI: 0.0?9.9; I2 = 86%). Two studies reported on children with isolated PTS without any other signs of head injury, representing 0.1% of patients in both studies, for a total of 76 children. Of these, only three had TBI and one underwent neurosurgery. Conclusion Children with immediate PTS and normal mental status frequently have TBI with a substantial need for neurosurgery. Clinicians should strongly consider neuroimaging for these children, although prolonged observation may be considered for those with isolated PTS.
+ER  - 
+
+TY  - JOUR
+AU  - Warner, Georgina
+AU  - Baghdasaryan, Zaruhi
+AU  - Osman, Fatumo
+AU  - Lampa, Elin
+AU  - Sarkadi, Anna
+TI  - ‘I felt like a human being’—An exploratory, multi-method study of refugee involvement in the development of mental health intervention research
+JO  - Health Expectations
+JA  - Health Expect
+VL  - n/a
+IS  - n/a
+SN  - 9781405189040
+UR  - https://doi.org/10.1111/hex.12990
+DO  - doi:10.1111/hex.12990
+KW  - group dynamics
+KW  - mental health
+KW  - observation
+KW  - patient and public involvement
+KW  - refugees
+AB  - Abstract Background Great advancements have been made in patient and public involvement (PPI), including the development of guidance on how to conduct, report and evaluate PPI. Despite these efforts, the evidence base remains relatively weak. A substantive methodological development is required. This is particularly important for vulnerable groups within society, for whom PPI can be challenging but has the potential to play a transformative role in shaping research. Objectives To describe the group dynamic characteristics and immediate impact of PPI from the user representatives? perspective in a case study of refugee involvement in the development of mental health intervention research. To pilot and methodologically appraise the Active Involvement of Users in Research Observation Schedule and Questionnaire. Design The Active Involvement of Users in Research Observation Schedule and Questionnaire were administered together with a focus group discussion. Setting ?Refugee Advisors? were involved in the development of a randomized controlled trial protocol evaluating a brief group intervention for refugee children experiencing symptoms of post-traumatic stress in Sweden. Results The multi-method approach demonstrated good feasibility. There were clear examples of how the advisors influenced research development. The advisors described a perceived impact on the research, equality and acceptance, and knowledge gain. A sense of appreciation and empowerment was also interpreted. However, potential issues relating to the relevance of contributions and use of an interpreter were identified. Discussion and conclusion The methodological approach piloted in this study offers a promising, rigorous way to evaluate PPI. The research tools require further refinement and validation.
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Li
+AU  - Zheng, Huirong
+AU  - Li, Lingjiang
+AU  - Li, Weihui
+AU  - Zhang, Yan
+AU  - Hou, Cailan
+AU  - Li, Zexuan
+AU  - Zhou, Jiansong
+AU  - He, Zhong
+AU  - Liu, Jun
+AU  - Yin, Yan
+AU  - Jiang, Tianzi
+AU  - Shan, Baoci
+AU  - Zhang, Zhijun
+TI  - Course-dependent response of brain functional alterations in men with acute and chronic post-traumatic stress disorder: A follow-up functional magnetic imaging study
+JO  - Asia-Pacific Psychiatry
+JA  - Asia‐Pacific Psychiatry
+VL  - 3
+IS  - 4
+SN  - 9781405189040
+UR  - https://doi.org/10.1111/j.1758-5872.2011.00152.x
+DO  - doi:10.1111/j.1758-5872.2011.00152.x
+SP  - 192
+EP  - 203
+KW  - brain
+KW  - cingulate gyrus
+KW  - follow-up study
+KW  - magnetic resonance imaging
+KW  - post-traumatic stress disorder
+PY  - 2011
+AB  - Introduction The aim of this study was to investigate the neurofunctional alterations in both acute and chronic post-traumatic stress disorder (PTSD) resulting from the same stress experience. Methods Brain responses to emotional trauma-related and neutral pictures with a symptom provocation task were measured using functional magnetic resonance imaging (fMRI). Twenty-four PTSD patients resulting from a mining accident and 14 controls exposed to the same accident without PTSD two months post-trauma were recruited. In the follow-up study 20 PTSD patients and 14 controls were also recruited after 24 months post-trauma. Correlations were conducted in PTSD between altered fMRI blood oxygenation level-dependent (BOLD) signals of areas extracted as regions of interest and three Clinician-Administered PTSD Scale (CAPS) subscores respectively. Results In response to picture stimulus (traumatic negative pictures versus neutral pictures), the acute PTSD group showed greater activation in the bilateral posterior cingulate gyri, left precuneus, right fusiform and left parahippocampal gyrus than the chronic PTSD group (P?<?0.001, cluster size?>?20 voxels). In the acute PTSD group, BOLD signals of either posterior cingulate gyrus correlated positively with CAPS intrusion subscores. There was also no significant correlation between BOLD signals of five regions mentioned above in the chronic PTSD group and three CAPS subscores. Discussion These findings suggested that brain circuits affected in acute PTSD may be more extended than chronic PTSD. The reason may due to the formation of traumatic memory in the acute phase of PTSD.
+ER  - 

@@ -1,0 +1,424 @@
+
+TY  - JOUR
+AU  - Grandemange, E.
+AU  - Fournel, S.
+AU  - Woehrlé, F.
+TI  - Efficacy and safety of cimicoxib in the control of perioperative pain in dogs
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 54
+IS  - 6
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/jsap.12082
+DO  - doi:10.1111/jsap.12082
+SP  - 304
+EP  - 312
+PY  - 2013
+AB  - Objectives To determine the efficacy and safety of cimicoxib (Cimalgex?; Vétoquinol SA) for the control of perioperative pain in dogs. Methods A double-blind, randomized, controlled multi-centre field study was conducted in 237 dogs undergoing orthopaedic or soft tissue surgery. Pain was monitored by the attending veterinarian over the 7 days following the surgical procedure using two pain-scoring systems and a visual analogue scale. An enhanced monitoring protocol for postoperative pain was utilized during the first 24 hours after surgery. The dog owner's assessment of perceived analgesia during this time period was also recorded. Results Cimicoxib demonstrated statistically significant non-inferiority compared to carprofen. These findings were confirmed by owners? assessments and by the evolution of the pain scores. Both drugs were well tolerated throughout the study. Clinical Significance Cimicoxib had non-inferior efficacy and tolerability when compared to carprofen for the control of perioperative pain in dogs undergoing orthopaedic or soft tissue surgery.
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Wei-Min
+AU  - Zhu, Hai-xu
+AU  - Maimaitiaili, Aizezi
+AU  - Ayibieke, Naibi
+AU  - Ermek, Tangsakar
+AU  - Liu, Jun
+AU  - Zhang, Zong-gang
+AU  - Li, Shi-guo
+TI  - Fistula between the right pulmonary artery and the left atrium coexisting with a secundum-type atrial septal defect: An unusual case of cyanosis in a girl
+JO  - Echocardiography
+JA  - Echocardiography
+VL  - 36
+IS  - 7
+SN  - 0742-2822
+UR  - https://doi.org/10.1111/echo.14414
+DO  - doi:10.1111/echo.14414
+SP  - 1423
+EP  - 1426
+KW  - congenital heart disease
+KW  - fistula
+KW  - pulmonary artery
+PY  - 2019
+AB  - Abstract A fistula between the pulmonary artery (PA) and the left atrium (LA) is a rare congenital heart disease that usually presents with cyanosis, clubbing, and dyspnea, as well as the signs and symptoms of a right-to-left shunt. Herein, we report a 16-year-old girl with a fistula between the right PA and the LA. This type of fistula could lead to systemic desaturation. This patient also had an atrial septal defect of the secundum type and has been followed up without treatment. The clinical manifestations and treatment of fistulas located between the PA and LA are also reviewed in this report.
+ER  - 
+
+TY  - JOUR
+AU  - DEGERMAN, J.
+AU  - THORLIN, T.
+AU  - FAIJERSON, J.
+AU  - ALTHOFF, K.
+AU  - ERIKSSON, P.S.
+AU  - PUT, R.V.D.
+AU  - GUSTAVSSON, T.
+TI  - An automatic system for in vitro cell migration studies
+JO  - Journal of Microscopy
+VL  - 233
+IS  - 1
+SN  - 0022-2720
+UR  - https://doi.org/10.1111/j.1365-2818.2008.03108.x
+DO  - doi:10.1111/j.1365-2818.2008.03108.x
+SP  - 178
+EP  - 191
+KW  - Cell migration modeling
+KW  - cell tracking
+KW  - image segmentation
+KW  - time-lapse microscopy
+PY  - 2009
+AB  - Summary This paper describes a system for in vitro cell migration analysis. Adult neural stem/progenitor cells are studied using time-lapse bright-field microscopy and thereafter stained immunohistochemically to find and distinguish undifferentiated glial progenitor cells and cells having differentiated into type-1 or type-2 astrocytes. The cells are automatically segmented and tracked through the time-lapse sequence. An extension to the Chan-Vese Level Set segmentation algorithm, including two new terms for specialized growing and pruning, made it possible to resolve clustered cells, and reduced the tracking error by 65%. We used a custom-built manual correction module to form a ground truth used as a reference for tracked cells that could be identified from the fluorescence staining. On average, the tracks were correct 95% of the time, using our new segmentation. The tracking, or association of segmented cells, was performed using a 2-state Hidden Markov Model describing the random behaviour of the cells. By re-estimating the motion model to conform with the segmented data we managed to reduce the number of tracking parameters to essentially only one. Upon characterization of the cell migration by the HMM state occupation function, it was found that glial progenitor cells were moving randomly 2/3 of the time, while the type-2 astrocytes showed a directed movement 2/3 of the time. This finding indicates possibilities for cell-type specific identification and cell sorting of live cells based on specific movement patterns in individual cell populations, which would have valuable applications in neurobiological research.
+ER  - 
+
+TY  - JOUR
+TI  - Book Reviews
+JO  - Australasian Radiology
+VL  - 31
+IS  - 1
+SN  - 0004-8461
+UR  - https://doi.org/10.1111/j.1440-1673.1987.tb01794.x
+DO  - doi:10.1111/j.1440-1673.1987.tb01794.x
+SP  - 95
+EP  - 102
+PY  - 1987
+AB  - Book reviewed in this article: Cardiac Imaging and Image Processing, S.M. Collins ?Radiodiagnosis of the Skull?. The Cerebral Infarct Klaus-Joachim Lymphatic Imaging. Lymphography, Computed Tomography and Scintigraphy. Editors Melvin E. Clouse & Sidney Wallace. Golden's Diagnostic Radiology. Diagnostic Imaging of the Acutely Injured Patient. Radiological Physicists. Juan A. del Regato. ?Atlas of Skeletal Dysplasias?. Wynne-Davies, Hall & Apley over 1900 illustrations. Clinical Diagnostic Ultrasound. Edited by E. Barnett and P. Morley. Recent Advances in Radiology and Medical Imaging. Edited by RE Steiner, Thomas Sherwood. Incidence and Cause of Femur Fractures by Rume Hedlund, Stockholm 1985. Protection of the Patient in Radiation Therapy. Publication No. 44 from the I.C.R.P. ?Immune Variables in Breast Cancer Patients. Relation to Prognosis and Radiation Induced Long-term Effects? An Atlas of the Breast Clinical Radio Diagnosis. Jean-Louis Lamarque. Essential Physics for Radiographers, J.A. BLOOMFIELD.
+ER  - 
+
+AU  - Walton, Thomas J.
+AU  - Mann, Gurminder S.
+C7  - pp. 125-135
+TI  - Emergency Urology
+SN  - 9781405170253
+UR  - https://doi.org/10.1002/9781444315172.ch21
+DO  - doi:10.1002/9781444315172.ch21
+SP  - 125-135
+KW  - urology
+KW  - emergency urology
+KW  - ureteric colic - urolithiasis representing commonest cause of acute ureteric colic
+KW  - ureteric colic - presenting with acute severe loin pain
+KW  - Acute urinary retention (AUR) - common male urological emergency, inability to pass urine
+KW  - urinary tract infection (UTI) - infective conditions as urological emergencies
+KW  - acute pyelonephritis, acute inflammation of renal parenchyma and renal pelvis
+KW  - penoscrotal emergencies
+KW  - paraphimosis, a tight foreskin (phimosis) retracts over glans penis, and is not replaced
+KW  - AAST renal injury grading scale
+PY  - 1987
+AB  - Summary This chapter contains sections titled: Introduction Ureteric colic Acute urinary retention Urinary tract infection Penoscrotal emergencies Genitourinary trauma Ureteric trauma Bladder trauma Urethral trauma External genital trauma Further reading
+ER  - 
+
+TY  - JOUR
+AU  - Goos, M.
+AU  - Haberstroh, J.
+AU  - Baumann, T.
+AU  - Hopt, U.
+AU  - Ruf, G.
+AU  - Oberst, M.
+TI  - New selective endoscopic sacral nerve root stimulation – an advance in the treatment of fecal incontinence
+JO  - Neurogastroenterology & Motility
+VL  - 23
+IS  - 2
+SN  - 9781405170253
+UR  - https://doi.org/10.1111/j.1365-2982.2010.01607.x
+DO  - doi:10.1111/j.1365-2982.2010.01607.x
+SP  - e104
+EP  - e109
+KW  - fecal incontinence
+KW  - minimally invasive
+KW  - sacral nerve root stimulation
+KW  - surgical procedures
+KW  - transcutaneous electric nerve stimulation
+KW  - treatment
+PY  - 2011
+AB  - Abstract Background? Fecal incontinence (FI) is a major part of illness and physical discomfort in the general population. Since the 1990s, sacral nerve stimulation has been well established in the treatment of neurogenic FI. The precise placement of the electrode is crucial for the success of the procedure. Eighty percent of the patients benefit from permanent treatment, but in 10?20% of the patients tested electrode placement proves impossible due to anatomical variations of the sacral foramina. In this study, we describe the technical requirements and a new method of electrode placement with reference to the anatomical (bone) landmarks in an animal model. Methods? With a small endoscope (Verres needle), we accessed the perirectal space to identify the nervous structures. A stimulated sphincter EMG was obtained for the experimental animals and muscle action potential (MAP/M-wave), latency time [ms], and the amplitude of the motor response [?V] were recorded. Electrodes were placed, the animals killed and dissected leaving the pelvic cavity untouched. The specimens were examined in a magnetic resonance scanner and in a multi-slice computed tomography scanner to detect the electrode material and possible surgical complications. After that the specimens were dissected. Key Results? In all eight cases in the four animals tested, we were able to stimulate the sacral nerve as demonstrated by the EMG findings. No major surgical complications were observed for the procedure. Conclusions & Inferences? Endoscopic sacral nerve root stimulation is a safe and effective method for delivering stimulation material in the pelvis of the sheep. It is a promising procedure to be tested in humans.
+ER  - 
+
+TY  - JOUR
+AU  - Bray, J. P.
+TI  - Soft tissue sarcoma in the dog – Part 2: surgical margins, controversies and a comparative review
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 58
+IS  - 2
+SN  - 9781405170253
+UR  - https://doi.org/10.1111/jsap.12629
+DO  - doi:10.1111/jsap.12629
+SP  - 63
+EP  - 72
+PY  - 2017
+AB  - Soft tissue sarcoma constitutes a heterogeneous group of mesenchymal tumours. Although they are common in the dog, many uncertainties surround the best options for clinical management. Despite recent improvements in outcome, approximately one in five patients may still die as a result of their disease. There is some evidence that wide surgical excision may not be required for every soft tissue sarcoma but, conversely, complacency in treatment may adversely affect outcomes for patients with aggressive disease. The purpose of this review is to examine the issues affecting the management of canine soft tissue sarcoma, and to evaluate the human literature for lessons that may guide future treatment directions for dogs. Comparative lessons from human soft tissue sarcoma that may be important for the canine patient in the future include (1) understanding the oncogenic potential of the pseudocapsule to better predict tumour behaviour and optimal surgical margins, (2) recognising the importance of planned multi-modality therapy for improving tumour control, (3) considering a role for compartmental resection strategies and (4) improving the accuracy of pretreatment analysis of the tumour to better predict behaviour and optimal treatment options.
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Fei
+AU  - Peng, Wuxun
+AU  - Zhang, Jian
+AU  - Dong, Wentao
+AU  - Yuan, Dajiang
+AU  - Zheng, Yinggang
+AU  - Wang, Zhenwen
+TI  - New strategy of bone marrow mesenchymal stem cells against oxidative stress injury via Nrf2 pathway: oxidative stress preconditioning
+JO  - Journal of Cellular Biochemistry
+JA  - J Cell Biochem
+VL  - 120
+IS  - 12
+SN  - 9781405170253
+UR  - https://doi.org/10.1002/jcb.29298
+DO  - doi:10.1002/jcb.29298
+SP  - 19902
+EP  - 19914
+KW  - bone marrow mesenchymal stem cells
+KW  - oxidative stress
+KW  - preconditioning
+KW  - reactive oxygen species
+PY  - 2019
+AB  - Abstract Clinically, bone marrow mesenchymal stem cells (BMSCs) have been used in treatment of many diseases, but the local oxidative stress (OS) of lesion severely limits the survival of BMSCs, which reduces the efficacy of BMSCs transplantation. Therefore, enhancing the anti-OS stress ability of BMSCs is a key breakthrough point. Preconditioning is a common protective mechanism for cells or body. Here, the aim of this study was to investigate the effects of OS preconditioning on the anti-OS ability of BMSCs and its mechanism. Fortunately, OS preconditioning can increase the expression of superoxide dismutase, catalase, NQO1, and heme oxygenase 1 through the nuclear factor erythroid 2-related factor 2 pathway, thereby decreased the intracellular reactive oxygen species (ROS) levels, relieved the damage of ROS to mitochondria, DNA and cell membrane, enhanced the anti-OS ability of BMSCs, and promoted the survival of BMSCs under OS.
+ER  - 
+
+TY  - JOUR
+AU  - Ferguson, Neil
+AU  - Burgess, Mark
+AU  - Hollywood, Ian
+TI  - Who are the Victims? Victimhood Experiences in Postagreement Northern Ireland
+JO  - Political Psychology
+VL  - 31
+IS  - 6
+SN  - 9781405170253
+UR  - https://doi.org/10.1111/j.1467-9221.2010.00791.x
+DO  - doi:10.1111/j.1467-9221.2010.00791.x
+SP  - 857
+EP  - 886
+KW  - Northern Ireland
+KW  - Victims
+KW  - Political violence
+KW  - Trauma
+KW  - Peace building
+PY  - 2010
+AB  - The conflict in Northern Ireland left over 3,600 people dead and tens of thousands injured, but establishing who are victims and the very nature of victimhood has been difficult. In part this is due to the highly contested nature of the labels ?victim? and ?terrorist.? The present paper employed interpretative phenomenological analysis to gain a greater understanding of the conceptualisation of victimhood in Northern Ireland. Catholic and Protestant civilians, paramilitaries, politicians, security force personnel, and community activists who had experienced direct and/or indirect political violence were interviewed. Analysis of the interview transcripts revealed five themes related to internal, interpersonal, and macro aspects of victimhood. The participants illustrated how the label of victim was associated with both weakness and strength, depending on the audience. Interview responses also revealed that although participants were resilient, they suffered at least some temporary psychological trauma due to their exposure to political violence. In addition the analysis indicated that there was a psychological cost associated with perpetrating acts of political violence. These findings are discussed in relation to the need for a national or cross-national program of intergroup dialogue and truth recovery to provide closure to victims and reintegrate victims and perpetrators into the postconflict society.
+ER  - 
+
+TY  - JOUR
+AU  - LEAR, JONATHAN
+TI  - Working through the end of civilization
+JO  - The International Journal of Psychoanalysis
+VL  - 88
+IS  - 2
+SN  - 9781405170253
+UR  - https://doi.org/10.1516/1358-2877-55X2-6888
+DO  - doi:10.1516/1358-2877-55X2-6888
+SP  - 291
+EP  - 308
+KW  - working through
+KW  - loss of meaning
+KW  - cultural trauma
+KW  - anxiety
+KW  - dream-interpretation
+PY  - 2007
+AB  - This is an account of how a civilization works through the problems it faces when it is threatened with destruction. It focuses on the example of the Crow Nation, an Indian tribe of the northwest plains of North America, and their last great chief Plenty Coups. Psychoanalytic ideas play a crucial role in explaining how a creative response was possible. In particular, their collective use of dream-visions and dream-interpretation made possible the creation of a new ego ideal for the tribe. This allowed for the transformation of traditional allocations of shame and humiliation. It also allowed for the possibility of transformation of psychological structure. And it opened up new possibilities for what might count as flourishing as a Crow. Conversely, the threat of civilizational collapse allows us to see new possibilities for the conceptual development of psychoanalysis. In particular, psychoanalysis needs to recognize that destruction can occur at the level of the culture while the individuals are not physically harmed. The psychological states of these individuals can be various and complex and cannot be neatly summed up under the category of trauma. A culture can be devastated, while there is no one-to-one relation to the psychological states of the individuals who participate in that culture. It is also true that a collapse of a way of life makes a variety of psychological states impossible. Coming to understand these phenomena is essential to understanding how a culture works through threats to its very existence.
+ER  - 
+
+AU  - Ingle, R. Reeve
+AU  - Youssef, Amr A.
+AU  - Nishimura, Dwight G.
+AU  - Yang, Phillip C.
+C7  - pp. 236-281
+TI  - Cardiovascular Magnetic Resonance Angiography
+SN  - 9781118754504
+UR  - https://doi.org/10.1002/9781118754467.ch7
+DO  - doi:10.1002/9781118754467.ch7
+SP  - 236-281
+KW  - cardiac motion
+KW  - coronary artery disease
+KW  - coronary magnetic resonance angiography
+KW  - magnetic resonance imaging
+KW  - respiratory motion
+PY  - 2007
+AB  - Summary Coronary artery disease is the leading cause of mortality and morbidity in the world. This chapter addresses the challenges facing coronary magnetic resonance angiography (CMRA) by examining the recent technical advances, resultant clinical implementation, and future developments. CMRA is a promising method for noninvasive imaging of the coronary arteries. The integration of CMRA with other established cardiac magnetic resonance imaging (MRI) techniques that measure ventricular function, flow, perfusion, and myocardial viability, makes MRI an extremely powerful and comprehensive modality for cardiac imaging. CMRA requires accurate detection and compensation for cardiac and respiratory motion. Cardiac gating, as well as patient monitoring, requires precise electrogram triggering, which can be challenging in the MRI environment. Volume-targeted CMRA approaches utilize thin, obliquely oriented slabs to image each branch of the coronary tree in a single breath-hold. MRI is the procedure of choice in the diagnosis of inflammatory lesions of the aorta.
+ER  - 
+
+TY  - JOUR
+AU  - Pollitt, C. C.
+AU  - Collins, S. N.
+TI  - The suspensory apparatus of the distal phalanx in normal horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 48
+IS  - 4
+SN  - 9781118754504
+UR  - https://doi.org/10.1111/evj.12459
+DO  - doi:10.1111/evj.12459
+SP  - 496
+EP  - 501
+KW  - horse
+KW  - basement membrane
+KW  - hoof primary and secondary lamellae
+KW  - laminitis
+KW  - periosteum
+KW  - suspensory apparatus of the distal phalanx
+PY  - 2016
+AB  - Summary Reasons for performing study The suspensory apparatus of the distal phalanx (SADP) is functionally and clinically important. Objectives To investigate SADP form and function and the microanatomy of its insertion zone. Study design Descriptive gross and microanatomy. Methods The feet of 6 normal Standardbred horses were sectioned into blocks along the traditional perpendicular transverse axis and along functional axes of the SADP, decalcified and processed for staining with haematoxylin and eosin, Jones' periodic acid silver methenamine or Masson's trichrome stains. Results In traditional midline toe transverse plane sections SADP collagen bundles were irregular with an unstructured appearance. In sections made transversely along planes (70° and 30°) aligned with the long axis of the SADP, collagen bundles were arranged in linear rows. The linear bundles were continuous from their origin on parietal ridges of the distal phalanx through to the secondary epidermal lamellar basement membrane. At the parietal ridge interface the collagen bundles coalesced into smaller, strongly silver staining, linear structures that penetrated the cortical bone and merged with adjacent osteons. In proximal sagittal sections collagen bundles were also linear, angled at 70° to the ground surface. In distal sagittal sections collagen bundles were also arranged linearly but in a multi-angled, ?spokes of a wheel? arrangement, centred on the distal phalanx apex. Conclusions Sectioning along functional axes demonstrated the true suspensory nature of the SADP connecting the parietal surface to the lamellar hoof wall. SADP/distal phalanx insertions showed penetrating fibres extending through the chondral?apophyseal interface up to and between distal phalanx osteons. Lamellar measurements made from sections perpendicular to the dorsal aspect of the distal phalanx are underestimations but if made along the longer, functional midline 70° transverse plane would accurately reflect the suspensory function of the lamellae. Laminitis pathophysiology correctly viewed as SADP degradation should inform logical, future therapeutic strategies.
+ER  - 
+
+TY  - JOUR
+AU  - Cobb, M. A.
+AU  - Nolan, J.
+AU  - Brownlie, S. E.
+AU  - Abercromby, R. H.
+AU  - Fussell, A. L.
+TI  - Use of a programmable, activity-sensing, rate-regulating Sacemaker in dog
+JO  - Journal of Small Animal Practice
+VL  - 31
+IS  - 8
+SN  - 9781118754504
+UR  - https://doi.org/10.1111/j.1748-5827.1990.tb00493.x
+DO  - doi:10.1111/j.1748-5827.1990.tb00493.x
+SP  - 398
+EP  - 400
+PY  - 1990
+AB  - Abstract A multi-programmable, single chamber pulse generator with automatic, activity-sensing rate regulation was successfully implanted into an eight-year-old crossbred dog with symptomatic third-degree atrioventricular heart block. Postoperative Holter monitoring confirmed appropriate activity-related changes in the ventricular rate.
+ER  - 
+
+TY  - JOUR
+AU  - Chen, Yan-xi
+AU  - Zhang, Kun
+AU  - Hao, Yi-ni
+AU  - Hu, Yong-cheng
+TI  - Research Status and Application Prospects of Digital Technology in Orthopaedics
+JO  - Orthopaedic Surgery
+JA  - Orthopaedic Surgery
+VL  - 4
+IS  - 3
+SN  - 9781118754504
+UR  - https://doi.org/10.1111/j.1757-7861.2012.00184.x
+DO  - doi:10.1111/j.1757-7861.2012.00184.x
+SP  - 131
+EP  - 138
+KW  - Computer-assisted surgery
+KW  - Finite element analysis
+KW  - Orthopedics
+KW  - Radiology
+PY  - 2012
+AB  - In the last 10 years, basic and clinical research in orthopaedics has developed rapidly. Understanding of orthopaedic disorders involves not only routine diagnosis, but also the pursuit of highly efficient and accurate three-dimensional imaging of the intra- and extra-medullary distribution, form and structure of orthopaedic disorders, thus allowing scientific evaluation of the indications for surgery, drawing up of the best surgical plan, minimization of operative trauma and the earliest possible restoration of limb function. Meanwhile, the most important type of basic research, which was previously biomechanical research, has gradually become computational biomechanics based on in vitro cadaver experiments. This review aims to summarize the research status and application prospects of digital technology in orthopaedics, including virtual reality technology, reverse engineering and rapid prototyping techniques, computational biomechanics, computer navigation technology and management of digitization of medical records.
+ER  - 
+
+TY  - JOUR
+AU  - Jutzeler, Catherine R.
+AU  - Streijger, Femke
+AU  - Aguilar, Juan
+AU  - Shortt, Katelyn
+AU  - Manouchehri, Neda
+AU  - Okon, Elena
+AU  - Hupp, Markus
+AU  - Curt, Armin
+AU  - Kwon, Brian K.
+AU  - Kramer, John L. K.
+TI  - Sensorimotor plasticity after spinal cord injury: a longitudinal and translational study
+JO  - Annals of Clinical and Translational Neurology
+JA  - Ann Clin Transl Neurol
+VL  - 6
+IS  - 1
+SN  - 9781118754504
+UR  - https://doi.org/10.1002/acn3.679
+DO  - doi:10.1002/acn3.679
+SP  - 68
+EP  - 82
+PY  - 2019
+AB  - Abstract Objective The objective was to track and compare the progression of neuroplastic changes in a large animal model and humans with spinal cord injury. Methods A total of 37 individuals with acute traumatic spinal cord injury were followed over time (1, 3, 6, and 12 months post-injury) with repeated neurophysiological assessments. Somatosensory and motor evoked potentials were recorded in the upper extremities above the level of injury. In a reverse-translational approach, similar neurophysiological techniques were examined in a porcine model of thoracic spinal cord injury. Twelve Yucatan mini-pigs underwent a contusive spinal cord injury at T10 and tracked with somatosensory and motor evoked potentials assessments in the fore- and hind limbs pre- (baseline, post-laminectomy) and post-injury (10 min, 3 h, 12 weeks). Results In both humans and pigs, the sensory responses in the cranial coordinates of upper extremities/forelimbs progressively increased from immediately post-injury to later time points. Motor responses in the forelimbs increased immediately after experimental injury in pigs, remaining elevated at 12 weeks. In humans, motor evoked potentials were significantly higher at 1-month (and remained so at 1 year) compared to normative values. Conclusions Despite notable differences between experimental models and the human condition, the brain's response to spinal cord injury is remarkably similar between humans and pigs. Our findings further underscore the utility of this large animal model in translational spinal cord injury research.
+ER  - 
+
+TY  - JOUR
+AU  - Di Russo, Francesco
+AU  - Spinelli, Donatella
+TI  - Sport is not always healthy: Executive brain dysfunction in professional boxers
+JO  - Psychophysiology
+VL  - 47
+IS  - 3
+SN  - 9781118754504
+UR  - https://doi.org/10.1111/j.1469-8986.2009.00950.x
+DO  - doi:10.1111/j.1469-8986.2009.00950.x
+SP  - 425
+EP  - 434
+KW  - Brain trauma
+KW  - ERPs
+KW  - Executive control
+KW  - Sport
+KW  - Boxing
+PY  - 2010
+AB  - Abstract We measured ERPs of professional boxers in a Go/No-Go task, comparing them to fencers and non-athletes. Results showed that fencing improved attention and motor response control, but boxing did not. More strikingly, in boxers, as in brain trauma patients, the P3 component was delayed and reduced. The P3 delay of boxers was correlated with the amount of performed sport exercise. Furthermore, in terms of behavior, boxers showed increased intra-individual variability and switch cost. Results were consistent with the hypothesis of specific impairment at the level of response inhibition processing. We suggest that this impairment is derived from the cumulative effect of blows to the head. The changes found in boxers suggest that ERPs and reaction times may be a tool for early detection of specific brain dysfunction.
+ER  - 
+
+TY  - JOUR
+AU  - Vangrinsven, E.
+AU  - Girod, M.
+AU  - Goossens, D.
+AU  - Desquilbet, L.
+AU  - Clercx, C.
+AU  - Billen, F.
+TI  - Comparison of two minimally invasive enilconazole perendoscopic infusion protocols for the treatment of canine sinonasal aspergillosis
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 59
+IS  - 12
+SN  - 9781118754504
+UR  - https://doi.org/10.1111/jsap.12933
+DO  - doi:10.1111/jsap.12933
+SP  - 777
+EP  - 782
+PY  - 2018
+AB  - Objectives To compare two minimally invasive enilconazole infusion protocols for the treatment of canine sinonasal aspergillosis and evaluate the importance of complete endoscopic debridement in determining first treatment success rate. Materials and Methods Data for 48 dogs with confirmed sinonasal aspergillosis treated with endoscopic debridement followed by per-endoscopic enilconazole infusion were collected. Twenty-four dogs were treated according to the previously published 1-hour infusion protocol and 24 dogs underwent a simplified 15-minute infusion protocol. Completeness of debridement, evaluated as partial or complete at the end of the procedure and outcome after one or several treatments were assessed in all dogs. Multi-variable analysis was performed to derive odds ratios and 95% confidence intervals. Results The median duration of the simplified protocol ? 92∙3?minutes (range 40 to 140) ? was substantially shorter than the duration of the previous protocol ? 201∙3?minutes (range 120 to 265). First treatment success rates were 58 and 62∙5% for the previous and simplified protocol, respectively. Overall treatment success rate was similar in both groups (96%). Complete debridement was associated with an improved first treatment success rate compared to partial debridement. Clinical Significance The simplified protocol is a valid alternative approach to the treatment of sinonasal aspergillosis. Completeness of endoscopic debridement before infusion is an important step for the success of treatment in canine sinonasal aspergillosis.
+ER  - 
+
+C7  - pp. 269-300
+TI  - Industrial Standards (HL7 and DICOM) and Integrating the Healthcare Enterprise (IHE)
+SN  - 9780470373729
+UR  - https://doi.org/10.1002/9780470560525.ch9
+DO  - doi:10.1002/9780470560525.ch9
+SP  - 269-300
+KW  - industrial standards (HL7 and DICOM) and integrating healthcare enterprise (IHE)
+KW  - architecture of DICOM data communication model
+KW  - industry standards, protocols, computer operating systems, programming languages, workflow profiles
+PY  - 2018
+AB  - Summary This chapter contains sections titled: Industrial Standards and Workflow Profiles The Health Level 7 (HL7) Standard From ACR-NEMA to DICOM and DICOM Document The DICOM 3.0 Standard IHE (Integrating The Healthcare Enterprise) Other Standards and Software Summary of HL7, DICOM, and IHE Reference
+ER  - 
+
+TY  - JOUR
+AU  - CARTER, S. D.
+AU  - OSBORNE, ANNE C.
+AU  - MAY, S. A.
+AU  - BENNETT, D.
+AU  - Arthritis Research Group
+TI  - Rheumatoid factor, anti-heat shock protein (65 kDa) antibodies and anti-nuclear antibodies in equine joint diseases
+JO  - Equine Veterinary Journal
+VL  - 27
+IS  - 4
+SN  - 9780470373729
+UR  - https://doi.org/10.1111/j.2042-3306.1995.tb03079.x
+DO  - doi:10.1111/j.2042-3306.1995.tb03079.x
+SP  - 288
+EP  - 295
+KW  - horse
+KW  - cyclosporine
+KW  - keratitis
+KW  - keratopathy
+KW  - uveitis
+KW  - keratouveitis
+KW  - glaucoma
+KW  - melting ulcer
+PY  - 1995
+AB  - Summary To consider the hypothesis that autoimmune mechanisms may contribute to the pathology of equine joint diseases, 3 autoimmune responses were assayed in sera and synovial fluids. IgM-rheumatoid factor and antibodies to heat shock protein 65 kDa were determined by ELISA; anti-nuclear antibodies were assayed by indirect immunofluorescence to whole cell nuclear components. All parameters showed only modest increases, if any and not in a pattern related to disease, although some statistically significant increases were detected. Group analysis showed significantly elevated synovial fluid IgM-rheumatoid factor (IgM-RF) in horses with OA (P<0.01), traumatised joints (P<0.01) and articular fractured bones (P<0.001). There was no significantly increased IgM-RF in the sera of horses with joint disorders compared to control horses. Significantly raised anti-heat shock protein molecular weight 65 kDa (HSP65) antibodies were only found in the synovial fluids of the horses with traumatised joints (P<0.001). No correlations were found between the synovial fluid and sera levels of IgM-RF or anti-HSP65 antibodies. Synovial fluid anti-HSP65 antibody and IgM-RF levels positively correlated in the OCD (P<0.001), fracture (P<0.01) and synovitis (P<0.05) groups. As antibodies to HSP65 correlated with IgG concentrations in synovial fluids, it is not possible to draw conclusions on HSP roles in joint disease pathogenesis. No serum anti-nuclear antibodies (ANA) were detected by immunofluorescence using rat liver and a human epithelial cell line (HEp-2) as substrates. Compared with autoimmune responses in human and canine arthropathies, the low levels of autoimmune reactivity detected in this study can only suggest a minor contributory role to joint disease pathology in the horse. These results have 2 important implications. Firstly, other pathogenetic mechanisms should be considered and secondly, autoimmune mechanisms cannot be used to monitor disease progress and therefore should not be targetted for treatment.
+ER  - 
+
+TY  - JOUR
+AU  - Grant, Alexander
+AU  - Stuttard, Matthew
+AU  - Mitchell, Thomas
+TI  - Brief teaching sessions change behaviour in A&E
+JO  - The Clinical Teacher
+JA  - Clin Teach
+VL  - 16
+IS  - 5
+SN  - 9780470373729
+UR  - https://doi.org/10.1111/tct.12943
+DO  - doi:10.1111/tct.12943
+SP  - 458
+EP  - 462
+PY  - 2019
+AB  - Summary Background The Accident and Emergency Department (A however, the mean number of c-spine CT scans performed per week rose from 14.50 to 23.25 (p = 0.0001), and the mean number of CT scans performed per week within 1 hour rose from 4.50 to 8.75 (p ≤ 0.001). There was no reduction in the quality of these scans, with the proportion detecting bony injury remaining constant, and there was no increase in the proportion of scans not indicated by National Institute for Health and Care Excellence guidelines. Conclusions This study demonstrates that brief, low-resource teaching can be associated with a positive change in clinician behaviour. This intervention was straightforward to implement and is likely to be transferable to other guideline-driven investigations. Limitations include the patient cohort being proportionately older than that found in major trauma centres, and a lack of data on patients in whom CT scans were indicated but not performed.
+ER  - 

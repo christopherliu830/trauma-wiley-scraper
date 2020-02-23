@@ -1,0 +1,478 @@
+
+TY  - JOUR
+AU  - He, Qianchuan
+AU  - Cai, Tianxi
+AU  - Liu, Yang
+AU  - Zhao, Ni
+AU  - Harmon, Quaker E.
+AU  - Almli, Lynn M.
+AU  - Binder, Elisabeth B.
+AU  - Engel, Stephanie M.
+AU  - Ressler, Kerry J.
+AU  - Conneely, Karen N.
+AU  - Lin, Xihong
+AU  - Wu, Michael C.
+TI  - Prioritizing individual genetic variants after kernel machine testing using variable selection
+JO  - Genetic Epidemiology
+JA  - Genet. Epidemiol.
+VL  - 40
+IS  - 8
+SN  - 0741-0395
+UR  - https://doi.org/10.1002/gepi.21993
+DO  - doi:10.1002/gepi.21993
+SP  - 722
+EP  - 731
+KW  - genetic association studies
+KW  - kernel machine methods
+KW  - KNIFE
+KW  - set-based
+KW  - variable selection
+PY  - 2016
+AB  - ABSTRACT Kernel machine learning methods, such as the SNP-set kernel association test (SKAT), have been widely used to test associations between traits and genetic polymorphisms. In contrast to traditional single-SNP analysis methods, these methods are designed to examine the joint effect of a set of related SNPs (such as a group of SNPs within a gene or a pathway) and are able to identify sets of SNPs that are associated with the trait of interest. However, as with many multi-SNP testing approaches, kernel machine testing can draw conclusion only at the SNP-set level, and does not directly inform on which one(s) of the identified SNP set is actually driving the associations. A recently proposed procedure, KerNel Iterative Feature Extraction (KNIFE), provides a general framework for incorporating variable selection into kernel machine methods. In this article, we focus on quantitative traits and relatively common SNPs, and adapt the KNIFE procedure to genetic association studies and propose an approach to identify driver SNPs after the application of SKAT to gene set analysis. Our approach accommodates several kernels that are widely used in SNP analysis, such as the linear kernel and the Identity by State (IBS) kernel. The proposed approach provides practically useful utilities to prioritize SNPs, and fills the gap between SNP set analysis and biological functional studies. Both simulation studies and real data application are used to demonstrate the proposed approach.
+ER  - 
+
+TY  - JOUR
+AU  - MARTINOWITZ, U.
+AU  - MICHAELSON, M.
+AU  - THE ISRAELI MULTIDISCIPLINARY rFVIIa TASK FORCE
+TI  - Guidelines for the use of recombinant activated factor VII (rFVIIa) in uncontrolled bleeding: a report by the Israeli Multidisciplinary rFVIIa Task Force
+JO  - Journal of Thrombosis and Haemostasis
+VL  - 3
+IS  - 4
+SN  - 1538-7933
+UR  - https://doi.org/10.1111/j.1538-7836.2005.01203.x
+DO  - doi:10.1111/j.1538-7836.2005.01203.x
+SP  - 640
+EP  - 648
+KW  - bleeding
+KW  - guidelines
+KW  - hemorrhage
+KW  - rFVIIa
+KW  - recombinant activated FVII
+KW  - trauma
+PY  - 2005
+AB  - Summary.? Background:?Recombinant activated factor VII (rFVIIa) has been approved by the U.S. Food and Drug Administration (FDA) for almost a decade for hemophilic patients with inhibitors. Its off-label use as a hemostatic agent in massive bleeding caused by a wide array of clinical scenarios is rapidly expanding. While evidence-based guidelines exist for rFVIIa treatment in hemophilia, none are available for its off-label use. Objectives:?The aim of this study is to develop expert recommendations for the use of rFVIIa in patients suffering from uncontrolled bleeding (with special emphasis on trauma) until randomized, controlled trials allow for the introduction of more established evidence-based guidelines. Methods:?A multidisciplinary task force comprising representatives of the relevant National Medical Associations, experts from the Medical Corps of the Army, Ministry of Health and the Israel National Trauma Advisory Board was established in Israel. Recommendations were construed based on the analysis of the first 36 multi-trauma patients accumulated in the prospective national registry of the use of rFVIIa in trauma, and an extensive literature search consisting of published and prepublished controlled animal trials, case reports and series. The final consensus guidelines, together with the data of the first 36 trauma patients treated in Israel, are presented in this article. Results:?Results of the first 36 trauma patients: The prolonged clotting assays [prothrombin time (PT) and partial thromboplastin time (PTT)] shortened significantly within minutes following administration of rFVIIa. Cessation of bleeding was achieved in 26 of 36 (72%) patients. Acidosis diminished the hemostatic effect of the drug, while hypothermia did not affect it. The survival rate of 61% (22/36) seems to be favorable compared with published series of similar, or less severe, trauma patients (range 30%?57%). Conclusions:?As a result of the lack of controlled trials, our guidelines should be considered as suggestive rather than conclusive. However, they provide a valuable tool for physicians using rFVIIa for the expanding off-label clinical uses.
+ER  - 
+
+TY  - JOUR
+AU  - Dimitropoulos, Gina
+AU  - Farquhar, Jamie C.
+AU  - Freeman, Victoria Emily
+AU  - Colton, Patricia Anne
+AU  - Olmsted, Marion Patricia
+TI  - Pilot Study Comparing Multi-family Therapy to Single Family Therapy for Adults with Anorexia Nervosa in an Intensive Eating Disorder Program
+JO  - European Eating Disorders Review
+JA  - Eur. Eat. Disorders Rev.
+VL  - 23
+IS  - 4
+SN  - 1072-4133
+UR  - https://doi.org/10.1002/erv.2359
+DO  - doi:10.1002/erv.2359
+SP  - 294
+EP  - 303
+KW  - family therapy
+KW  - multi-family therapy
+KW  - single-family therapy
+KW  - eating disorders
+KW  - adult anorexia nervosa
+PY  - 2015
+AB  - Abstract Multi-family therapy (MFT) has yet to be evaluated in families of adults with anorexia nervosa (AN). The study aims were: (i) assess the feasibility of MFT for AN; and, (ii) assess whether MFT is associated with improved outcomes for families compared with single-family therapy (SFT). Adult patients with AN consecutively referred to an eating disorder treatment program were assigned (non-randomly) to receive eight sessions of SFT or MFT. Assessment occurred pre-therapy, immediately post-therapy, and at 3-month follow-up. A total of 37 female patients (13 SFT, 24 MFT) and 45 family members (16 SFT, 29 MFT) completed treatment. There were significant time effects for patients' BMI, eating disorder-related psychopathology and multiple family outcome measures. There were no differences between MFT and SFT on family outcome measures at end of treatment and 3?months post treatment. MFT is a feasible intervention that can be used in adult intensive treatment for those with AN. Copyright ? 2015 John Wiley & Sons, Ltd and Eating Disorders Association.
+ER  - 
+
+TY  - JOUR
+AU  - Mathias, J. L.
+AU  - Bowden, S. C.
+AU  - Bigler, E. D.
+AU  - Rosenfeld, J. V.
+TI  - Is performance on the Wechsler test of adult reading affected by traumatic brain injury?
+JO  - British Journal of Clinical Psychology
+VL  - 46
+IS  - 4
+SN  - 0144-6657
+UR  - https://doi.org/10.1348/014466507X190197
+DO  - doi:10.1348/014466507X190197
+SP  - 457
+EP  - 466
+PY  - 2007
+AB  - Objectives The validity of the National Adult Reading Test (NART) as a predictor of premorbid IQ when used with patients who have sustained a traumatic brain injury (TBI) has been questioned in recent years. This study examined whether performance on the Wechsler Test of Adult Reading (WTAR) is similarly affected by TBI in the first year after an injury. Design and Method The WTAR scores of participants who had sustained a mild TBI (N=82), moderate TBI (N=73), severe TBI (N=61) or an orthopaedic injury (N=95) were compared (cross-sectional study). A subset of 21 mild TBI, 31 moderate TBI, 26 severe TBI and 21 control group participants were additionally reassessed 6 months later to assess the impact of recovery on WTAR scores (longitudinal study). Results The severe TBI group had significantly lower scores on the WTAR than the mild TBI, moderate TBI and control groups in the cross-sectional study, despite being matched demographically. The findings from the longitudinal study revealed a significant group difference and a small improvement in performance over time but the interaction between group and time was not significant, suggesting that the improvements in WTAR performance over time were not restricted to more severely injured individuals whose performance was temporarily suppressed. Conclusions These findings suggest that reading performance may be affected by severe TBI and that the WTAR may underestimate premorbid IQ when used in this context, which may cause clinicians to underestimate the cognitive deficits experienced by these patients.
+ER  - 
+
+TY  - JOUR
+AU  - Jeffries, Eric M.
+AU  - Wang, Yadong
+TI  - Biomimetic micropatterned multi-channel nerve guides by templated electrospinning
+JO  - Biotechnology and Bioengineering
+JA  - Biotechnol. Bioeng.
+VL  - 109
+IS  - 6
+SN  - 0006-3592
+UR  - https://doi.org/10.1002/bit.24412
+DO  - doi:10.1002/bit.24412
+SP  - 1571
+EP  - 1582
+KW  - nerve guide
+KW  - topographical guidance
+KW  - nerve regeneration
+KW  - polycaprolactone
+KW  - electrospinning
+KW  - Schwann cell
+PY  - 2012
+AB  - Abstract This report describes a new approach for fabricating microchannels within three-dimensional electrospun constructs. These key features serve to mimic the fascicular architecture and fibrous extracellular matrix found in native nerve. Both electrospun fibers and multi-channeled structure nerve guides have become areas of increasing interest for their beneficial roles in nerve repair. However, to the best of our knowledge, this is the first report of a guide that incorporates both. Multiple parallel channels provide a greater number of defined paths and increased surface area compared to cylindrical guides. Additionally, the fibrous nature of electrospun fibers permits better mass transport than solid-walled constructs. The flexible fabrication scheme allows tailoring of nerve guide parameters such as channel diameters ranging from 33 to 176?µm and various wall thicknesses. Channel and fiber structures were assessed by optical and electron microscope images. Geometric calculations estimated a porosity of over 85% for these guides with 16% or less from the channels. In vitro culture with Schwann cells demonstrated cellular infiltration into channels with restricted migration between fibers. Finally, cell proliferation and survival throughout the guide indicates that this design warrants future in vivo examination. Biotechnol. Bioeng. 2012; 109:1571?1582. ? 2011 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Oegema, Renske
+AU  - Hulst, Jessie M.
+AU  - Theuns-Valks, Sabine D.M.
+AU  - van Unen, Leontine M.A.
+AU  - Schot, Rachel
+AU  - Mancini, Grazia M.S.
+AU  - Schipper, Marguerite E.I.
+AU  - de Wit, Marie C.Y.
+AU  - Sibbles, Barbara J.
+AU  - de Coo, Irenaeus F.M.
+AU  - Nanninga, Veerle
+AU  - Hofstra, Robert M.W.
+AU  - Halley, Dicky J.J.
+AU  - Brooks, Alice S.
+TI  - Novel no-stop FLNA mutation causes multi-organ involvement in males
+JO  - American Journal of Medical Genetics Part A
+JA  - Am. J. Med. Genet.
+VL  - 161
+IS  - 9
+SN  - 1552-4825
+UR  - https://doi.org/10.1002/ajmg.a.36109
+DO  - doi:10.1002/ajmg.a.36109
+SP  - 2376
+EP  - 2384
+KW  - periventricular nodular heterotopia
+KW  - congenital short bowel
+KW  - Filamin A
+KW  - intestinal malrotation
+PY  - 2013
+AB  - ABSTRACT Mutations in FLNA (Filamin A, OMIM 300017) cause X-linked periventricular nodular heterotopia (XL-PNH). XL-PNH-associated mutations are considered lethal in hemizygous males. However, a few males with unusual mutations (including distal truncating and hypomorphic missense mutations), and somatic mosaicism have been reported to survive past infancy. Two brothers had an atypical presentation with failure to thrive and distinct facial appearance including hypertelorism. Evaluations of these brothers and their affected cousin showed systemic involvement including severe intestinal malfunction, malrotation, congenital short bowel, PNH, pyloric stenosis, wandering spleen, patent ductus arteriosus, atrial septal defect, inguinal hernia, and vesicoureteral reflux. The unanticipated finding of PNH led to FLNA testing and subsequent identification of a novel no-stop FLNA mutation (c.7941_7942delCT, p.(*2648Serext*100)). Western blotting and qRT-PCR of patients' fibroblasts showed diminished levels of protein and mRNA. This FLNA mutation, the most distal reported so far, causes in females classical XL-PNH, but in males an unusual, multi-organ phenotype, providing a unique insight into the FLNA-associated phenotypes. ? 2013 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Taso, Manuel
+AU  - Girard, Olivier M.
+AU  - Duhamel, Guillaume
+AU  - Le Troter, Arnaud
+AU  - Feiweier, Thorsten
+AU  - Guye, Maxime
+AU  - Ranjeva, Jean-Philippe
+AU  - Callot, Virginie
+C8  - NBM-15-0294.R1
+TI  - Tract-specific and age-related variations of the spinal cord microstructure: a multi-parametric MRI study using diffusion tensor imaging (DTI) and inhomogeneous magnetization transfer (ihMT)
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 29
+IS  - 6
+SN  - 0952-3480
+UR  - https://doi.org/10.1002/nbm.3530
+DO  - doi:10.1002/nbm.3530
+SP  - 817
+EP  - 832
+KW  - spinal cord
+KW  - multi-parametric MRI
+KW  - inhomogeneous magnetization transfer (ihMT)
+KW  - diffusion tensor imaging (DTI)
+KW  - microstructure
+KW  - aging
+PY  - 2016
+AB  - Being able to finely characterize the spinal cord (SC) microstructure and its alterations is a key point when investigating neural damage mechanisms encountered in different central nervous system (CNS) pathologies, such as multiple sclerosis, amyotrophic lateral sclerosis or myelopathy. Based on novel methods, including inhomogeneous magnetization transfer (ihMT) and dedicated SC probabilistic atlas post-processing, the present study focuses on the in vivo characterization of the healthy SC tissue in terms of regional microstructure differences between (i) upper and lower cervical vertebral levels and (ii) sensory and motor tracts, as well as differences attributed to normal aging. Forty-eight healthy volunteers aged from 20 to 70?years old were included in the study and scanned at 3?T using axial high-resolution T2*-w imaging, diffusion tensor imaging (DTI) and ihMT, at two vertebral levels (C2 and C5). A processing pipeline with minimal user intervention, SC segmentation and spatial normalization into a reference space was implemented in order to assess quantitative morphological and structural parameters (cross-sectional areas, scalar DTI and MT/ihMT metrics) in specific white and gray matter regions of interest. The multi-parametric MRI metrics collected allowed upper and lower cervical levels to be distinguished, with higher ihMT ratio (ihMTR), higher axial diffusivity (??) and lower radial diffusivity (??) at C2 compared with C5. Significant differences were also observed between white matter fascicles, with higher ihMTR and lower ?? in motor tracts compared with posterior sensory tracts. Finally, aging was found to be associated with significant metric alterations (decreased ihMTR and ??). The methodology proposed here, which can be easily transferred to the clinic, provides new insights for SC characterization. It bears great potential to study focal and diffuse SC damage in neurodegenerative and demyelinating diseases. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - Abstract Journal for Trauma Surgery
+JO  - ANZ Journal of Surgery
+JA  - ANZ Journal of Surgery
+VL  - 86
+IS  - S1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/ans.13576
+DO  - doi:10.1111/ans.13576
+SP  - 162
+EP  - 166
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+AU  - Grant, April A.
+AU  - Hart, Valerie J.
+AU  - Lineen, Edward B.
+AU  - Lai, Cynthia
+AU  - Ginzburg, Enrique
+AU  - Houghton, Douglas
+AU  - Schulman, Carl I.
+AU  - Vianna, Rodrigo
+AU  - Patel, Amit N.
+AU  - Casalenuovo, Amelia
+AU  - Loebe, Matthias
+AU  - Ghodsizad, Ali
+TI  - The Impact of an Advanced ECMO Program on Traumatically Injured Patients
+JO  - Artificial Organs
+JA  - Artif Organs
+VL  - 42
+IS  - 11
+SN  - 0160-564X
+UR  - https://doi.org/10.1111/aor.13152
+DO  - doi:10.1111/aor.13152
+SP  - 1043
+EP  - 1051
+KW  - Extracorporeal membrane oxygenation
+KW  - Trauma
+KW  - Weaning protocol
+KW  - Thrombosis
+KW  - Hemorrhage
+PY  - 2018
+AB  - Abstract In June 2016, an advanced extracorporeal membrane oxygenation (ECMO) program consisting of a multidisciplinary team was initiated at a large level-one trauma center. The program was created to standardize management for patients with a wide variety of pathologies, including trauma. This study evaluated the impact of the advanced ECMO program on the outcomes of traumatically injured patients undergoing ECMO. A retrospective cohort study was performed on all patients sustaining traumatic injury who required ECMO support from January 2014 to September 2017. The primary outcome was to determine survival in trauma ECMO patients in the two timeframes, before and after initiation of the advanced ECMO program. Secondary outcomes included complication rates, length of stay, ventilator usage, and ECMO days. One hundred and thirty eight patients were treated with ECMO during the study period. Of the 138 patients, 22 sustained traumatic injury. Seven patients were treated in our pre-group and 15 in our post-group. The majority of patients were treated with VV ECMO. Our post group VV ECMO extracorporeal survival rate was 64% and our survival to discharge was 55%. This study demonstrated an improvement in survival after implementation of our advanced ECMO program. The implementation of a multidisciplinary trauma ECMO team dedicated to the rescue of critically ill patients is the key for achieving excellent outcomes in the trauma population.
+ER  - 
+
+TY  - JOUR
+AU  - Peirce, Jessica M.
+AU  - Brooner, Robert K.
+AU  - Kolodner, Ken
+AU  - Schacht, Rebecca L.
+AU  - Kidorf, Michael S.
+TI  - Prospective effects of traumatic event re-exposure and post-traumatic stress disorder in syringe exchange participants
+JO  - Addiction
+JA  - Addiction
+VL  - 108
+IS  - 1
+SN  - 0965-2140
+UR  - https://doi.org/10.1111/j.1360-0443.2012.04003.x
+DO  - doi:10.1111/j.1360-0443.2012.04003.x
+SP  - 146
+EP  - 153
+KW  - Cocaine
+KW  - longitudinal
+KW  - prospective
+KW  - PTSD
+KW  - trauma
+PY  - 2013
+AB  - Abstract Aim Determine the effect of traumatic event re-exposure and post-traumatic stress disorder (PTSD) symptom severity on proximal drug use and drug abuse treatment-seeking in syringe exchange participants. Design Prospective longitudinal 16-month cohort study of new syringe exchange registrants enrolled in a parent study of methods to improve treatment engagement. Setting Data were collected in a research van next to mobile syringe exchange distribution sites in Baltimore, Maryland. Participants Male and female (n?=?162) injecting drug users (IDUs) registered for syringe exchange. Measurements Traumatic event re-exposure was identified each month with the Traumatic Life Events Questionnaire. PTSD symptoms were measured with the Modified PTSD Symptom Scale?Revised, given every 4 months. Outcome measures collected monthly were days of drug use (heroin, cocaine) and drug abuse treatment-seeking behavior (interest, calls to obtain treatment, treatment participation). Findings Each traumatic event re-exposure was associated with about 1 more day of cocaine use after accounting for the previous month's cocaine use [same month adjusted B, standard error?=?1.16 (0.34); 1 month later: 0.99 (0.34)], while PTSD symptoms had no effect. Traumatic event re-exposure increased interest in drug abuse treatment [same month adjusted odds ratios with 95% confidence intervals?=?1.34 (1.11?1.63)] and calling to obtain treatment [same month 1.58 (1.24?2.01); 1 month later 1.34 (1.03?1.75)]. Each 10% increase in PTSD symptom severity was associated with persistent increased interest in treatment [same month 1.25 (1.10?1.42); 1 month later 1.16 (1.02?1.32); 2 months later 1.16 (1.02?1.32)] and calling to obtain treatment [same month 1.16 (1.02?1.32)]. Neither traumatic events nor PTSD symptoms were associated with participants receiving treatment. Conclusions Becoming exposed again to traumatic events among injecting drug users is associated with an increase in cocaine use up to 1 month later, but drug use is not related to post-traumatic stress disorder symptoms. Both traumatic event re-exposure and post-traumatic stress disorder symptoms predict drug abuse treatment-seeking behavior for up to 2 months.
+ER  - 
+
+TY  - JOUR
+TI  - Abstract Journal for Trauma Surgery
+JO  - ANZ Journal of Surgery
+JA  - ANZ J Surg
+VL  - 85
+IS  - S1
+SN  - 1445-1433
+UR  - https://doi.org/10.1111/ans.13100
+DO  - doi:10.1111/ans.13100
+SP  - 129
+EP  - 136
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+AU  - Slade, Pauline
+AU  - West, Helen
+AU  - Thomson, Gill
+AU  - Lane, Steven
+AU  - Spiby, Helen
+AU  - Edwards, Rhiannon Tudor
+AU  - Charles, Joanna M
+AU  - Garrett, Charlotte
+AU  - Flanagan, Beverley
+AU  - Treadwell, Maureen
+AU  - Hayden, Emma
+AU  - Weeks, Andrew
+TI  - STRAWB2 (Stress and Wellbeing After Childbirth): a randomised controlled trial of targeted self-help materials to prevent post-traumatic stress disorder (PTSD) following childbirth
+JO  - BJOG: An International Journal of Obstetrics & Gynaecology
+JA  - BJOG: Int J Obstet Gy
+VL  - n/a
+IS  - n/a
+SN  - 1470-0328
+UR  - https://doi.org/10.1111/1471-0528.16163
+DO  - doi:10.1111/1471-0528.16163
+KW  - Post traumatic stress disorder
+KW  - postnatal
+KW  - childbirth
+KW  - prevention
+KW  - randomised controlled trial
+AB  - Abstract Background Post-traumatic stress disorder (PTSD) can develop after a traumatic childbirth. Objective To test if providing psychological self-help materials would significantly lower the incidence of PTSD at 6-12 weeks postnatally. Design Open label, randomised controlled trial, blinded outcome assessment. Setting Community midwifery services in two North West NHS Trusts. Sample 2419 women receiving usual NHS postnatal care. Methods Midwives screened women for traumatic birth experience. 678 women who screened positive (28.1%) were randomly allocated to self-help with usual care (n=336) or usual care alone (n=342). Self-help materials, were a leaflet and on-line film designed to prevent the development of PTSD after trauma exposure through how to manage early psychological responses. Main Outcome Measure The primary outcome was a composite of diagnostic and sub-diagnostic PTSD at 6-12 weeks postnatally using the gold standard Clinician Administered PTSD Interview (CAPS-5). Results 478 of 678 (70.5%) correctly randomised women and 9 randomised in error were followed up. Diagnostic or sub-diagnostic PTSD rates at follow-up did not differ between groups who received self-help (26.7%, 65/243) or usual care alone (26.2%, 64/244) (ITT analysis: relative risk (RR) 1.02, 95% confidence interval (CI) 0.68 to 1.53). Findings remained consistent in the per protocol analysis (RR 1.04, 95% CI 0.85 to 1.27). Women viewed the materials very positively. There were no adverse effects. Health economic micro-costing indicated implementation would be very low cost. Conclusions Many women experience a traumatic birth and risk developing PTSD, but self-help strategies without professional support are insufficient and should not be routinely introduced.
+ER  - 
+
+TY  - JOUR
+AU  - Bellamy, C. A.
+AU  - Brickley, M. R.
+AU  - McAndrew, R.
+TI  - Measurement of patient-derived utility values for periodontal health using a multi-attribute scale
+JO  - Journal of Clinical Periodontology
+VL  - 23
+IS  - 9
+SN  - 0303-6979
+UR  - https://doi.org/10.1111/j.1600-051X.1996.tb00615.x
+DO  - doi:10.1111/j.1600-051X.1996.tb00615.x
+SP  - 805
+EP  - 809
+KW  - periodontal health
+KW  - multi-attribute utility
+KW  - health measurement scale
+PY  - 1996
+AB  - Abstract Periodontal health states are difficult to quantify and no formal scale quantifying patients' utilities for periodontal health states exits. Multi-attribute utility (MAD) techniques were used to develop such a scale. The MAU scale maybe used to quantify patients' assessment of their current periodontal health and that of possible treatment outcomes. Such data, combined with probability values in formal decision analysis techniques would result in improved rationality of treatment planning for periodontal disease. 20 patients attending for routine undergraduate care were interviewed. Data from these interviews were sorted into groups of common interest (domains). Intra-domain health statements were complied from the interview content. 21 patients ranked the intra-domain statements on a scale of 0?100. This same group of patients also performed an inter-domain weighting. Mean results showed that patients were 2? as concerned with how they felt and with the prognosis of possible outcomes, than with how they looked and what facts they knew about their oral health. However, the real value of utilities research lies in application of individual results to treatment planning, as there is a wide range of opinion regarding outcome health states.
+ER  - 
+
+TY  - JOUR
+AU  - Maynard, Brandy R.
+AU  - Farina, Anne
+AU  - Dell, Nathaniel A.
+AU  - Kelly, Michael S.
+C7  - e1018
+TI  - Effects of trauma-informed approaches in schools: A systematic review
+JO  - Campbell Systematic Reviews
+JA  - Campbell Systematic Reviews
+VL  - 15
+IS  - 1-2
+SN  - 1891-1803
+UR  - https://doi.org/10.1002/cl2.1018
+DO  - doi:10.1002/cl2.1018
+SP  - e1018
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+AU  - Barbot, Baptiste
+AU  - Bick, Johanna
+AU  - Bentley, Mary Jane
+AU  - Balestracci, Kathleen M.B.
+AU  - Woolston, Joseph L.
+AU  - Adnopoz, Jean A.
+AU  - Grigorenko, Elena L.
+C8  - IJMPR-Dec-2014-0104
+TI  - Changes in mental health outcomes with the intensive in-home child and adolescent psychiatric service: a multi-informant, latent consensus approach
+JO  - International Journal of Methods in Psychiatric Research
+JA  - Int. J. Methods Psychiatr. Res.
+VL  - 25
+IS  - 1
+SN  - 1049-8931
+UR  - https://doi.org/10.1002/mpr.1477
+DO  - doi:10.1002/mpr.1477
+SP  - 33
+EP  - 43
+KW  - severe emotional disturbance
+KW  - IICAPS, in-home intervention
+KW  - children
+KW  - adolescents
+KW  - Ohio Scales
+KW  - psychiatric hospitalizations
+PY  - 2016
+AB  - Abstract This study investigates the Intensive In-home Child and Adolescent Psychiatric Service (IICAPS), a large-scale home-based intervention that collaboratively engages the family, school, and various other service providers (e.g. health practitioners or judicial systems) to prevent the hospitalization, institutionalization or out-of-home placement of children and adolescents with serious emotional disturbance. Multi-informant data (youth, parents and clinician) on the level of youth problem severity and functioning was gathered from 7169 youth and their families served by the IICAPS network, pre- and post-intervention. A newly developed ?Multi-informant Latent Consensus? (MILC) approach was employed to measure mental health ?baseline levels? and change, within a Structural Equation Modeling framework. The MILC approach demonstrated promise integrating information from multiple informants involved in the therapeutic process to yield a more accurate and systemic view of a child's level of functioning and problem severity than each report taken individually. Results indicated that the IICAPS family and community based intervention model led to a reduction of problem severity and improved functioning in children and adolescents with severe emotional disturbance. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Schoster, A.
+AU  - Guardabassi, L.
+AU  - Staempfli, H. R.
+AU  - Abrahams, M.
+AU  - Jalali, M.
+AU  - Weese, J. S.
+TI  - The longitudinal effect of a multi-strain probiotic on the intestinal bacterial microbiota of neonatal foals
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 48
+IS  - 6
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12524
+DO  - doi:10.1111/evj.12524
+SP  - 689
+EP  - 696
+KW  - horse
+KW  - Lactobacillus
+KW  - Bifidobacterium
+KW  - gastrointestinal flora
+KW  - metagenomic sequencing
+PY  - 2016
+AB  - Summary Reasons for performing the study The microbiota plays a key role in health and disease. Probiotics are a potential way to therapeutically modify the intestinal microbiota and prevent disease. Objectives The aim of this study was to investigate the effects of probiotics on the bacterial microbiota of foals during and after administration. Study design Randomised placebo controlled field trial. Methods Thirty-eight healthy neonatal foals enrolled in a previous study were selected. The foals had received a multi-strain probiotic (four Lactobacillus spp. 3?4 ? 103 colony-forming units (cfu)/g each, Bifidobacterium animalis spp. lactis, 1 ? 103?4 cfu/g) or placebo once daily for 3 weeks. A total of 3 faecal samples were collected from each foal at 2-week intervals and assessed via metagenomic sequencing. The Wilcoxon test was used to compare data between treatment groups. Results There were no changes on the phylum, order or class level between treatment groups at any age (all P>0.05) but some significant changes in relative abundance of families. Probiotic administration did not result in an increased relative abundance of lactobacilli or bifidobacteria at any age (Lactobacillus: P = 0.9, P = 0.1 and P = 0.2, Bifidobacterium: P = 0.3, P = 0.6 and P = 0.1 for Weeks 2, 4 and 6, respectively). Lactobacillus was enriched in the probiotic group at Week 6 on LEfSe analysis (linear discriminant analysis score 0.34, P = 0 .02). There was no effect on alpha diversity (all P>0.2) or community structure when parsimony and unifrac analysis were applied (all P>0.6). Conclusions There were limited effects of probiotic treatment on the bacterial microbiota of foals. The studied probiotic based on lactobacilli and bifidobacteria has a limited potential for therapeutic modification of the gastrointestinal microbiota.
+ER  - 
+
+TY  - JOUR
+AU  - Diao, Li
+AU  - Yousuf, Yusef
+AU  - Amini-Nik, Saeid
+AU  - Jeschke, Marc G.
+TI  - Increased proliferation of hepatic periportal ductal progenitor cells contributes to persistent hypermetabolism after trauma
+JO  - Journal of Cellular and Molecular Medicine
+JA  - J Cell Mol Med
+VL  - 24
+IS  - 2
+SN  - 1582-1838
+UR  - https://doi.org/10.1111/jcmm.14845
+DO  - doi:10.1111/jcmm.14845
+SP  - 1578
+EP  - 1587
+KW  - burns
+KW  - hepatocytes
+KW  - inflammation
+KW  - lineage-trace
+KW  - liver regeneration
+KW  - liver X receptor
+KW  - metabolism
+KW  - periportal ductal progenitor cell
+KW  - stress response
+PY  - 2020
+AB  - Abstract Prolonged and persistent hypermetabolism and excessive inflammatory response after severe trauma is detrimental and associated with poor outcome. The predisposing pathology or signals mediating this complex response are essentially unknown. As the liver is the central organ mediating the systemic metabolic responses and considering that adult hepatic stem cells are on top of the hierarchy of cell differentiation and may pass epigenetic information to their progeny, we asked whether liver progenitor cells are activated, signal hypermetabolism upon post-traumatic cellular stress responses, and pass this to differentiated progeny. We generated Sox9CreERT2: ROSA26 EYFP mice to lineage-trace the periportal ductal progenitor cells (PDPCs) and verify the fate of these cells post-burn. We observed increased proliferation of PDPCs and their progeny peaking around two weeks post-burn, concomitant with the hepatomegaly and the cellular stress responses. We then sorted out PDPCs, PDPC-derived hepatocytes and mature hepatocytes, compared their transcriptome and showed that PDPCs and their progeny present a significant up-regulation in signalling pathways associated with inflammation and metabolic activation, contributing to persistent hypermetabolic and hyper-inflammatory state. Furthermore, concomitant down-regulation of LXR signalling in PDPCs and their progeny implicates the therapeutic potential of early and short-term administration of LXR agonists in ameliorating such persistent hypermetabolism.
+ER  - 
+
+TY  - JOUR
+AU  - Shanahan, Meghan E.
+AU  - Nocera, Maryalice
+AU  - Zolotor, Adam J.
+AU  - Sellers, Christopher J.
+AU  - Runyan, Desmond K.
+TI  - Education on Abusive Head Trauma in North Carolina Hospitals
+JO  - Child Abuse Review
+JA  - Child Abuse Review
+VL  - 20
+IS  - 4
+SN  - 0952-9136
+UR  - https://doi.org/10.1002/car.1195
+DO  - doi:10.1002/car.1195
+SP  - 290
+EP  - 297
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+AU  - Wolmer, Leo
+AU  - Hamiel, Daniel
+AU  - Barchas, Jack D.
+AU  - Slone, Michelle
+AU  - Laor, Nathaniel
+TI  - Teacher-delivered resilience-focused intervention in schools with traumatized children following the second Lebanon war
+JO  - Journal of Traumatic Stress
+JA  - J. Traum. Stress
+VL  - 24
+IS  - 3
+SN  - 0894-9867
+UR  - https://doi.org/10.1002/jts.20638
+DO  - doi:10.1002/jts.20638
+SP  - 309
+EP  - 316
+PY  - 2011
+AB  - Abstract The 2006 Lebanon War exposed children in the north of Israel to daily rocket attacks. To cope with the massive psychological needs, a teacher-delivered protocol focusing on enhancing personal resilience was implemented. Children were assessed for risk factors, symptoms, and adaptation before the 16-week program (Time 1; n = 983) and after its completion (Time 2; n = 563). At a 3-month follow-up (Time 3; n = 754) children were assessed together with a waiting-list comparison group (n = 1,152). Participating children showed a significant symptom decrease at Time 2 and significantly fewer symptoms than the control group at Time 3. Six or more risk factors were associated with greater symptoms and parental concern about the child's adaptive functioning. Teachers are valuable cost-effective providers for clinically informed interventions after mass trauma and disaster.
+ER  - 
+
+TY  - JOUR
+AU  - Thomas, J.S.M.
+AU  - Curtis, L.
+AU  - Freeman, S.L.
+AU  - England, G.C.W.
+AU  - Burford, J.H.
+TI  - Identifying a Critical Case of Equine Colic at Primary Examination – Results from a Prospective Multi-Centre Study
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S47
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12323_49
+DO  - doi:10.1111/evj.12323_49
+SP  - 21
+EP  - 22
+PY  - 2014
+AB  - Reasons for performing study There is no current evidence on how mild and critical cases of colic can be differentiated at primary examination. Previous research has focused on clinical variables assessed post referral. Objectives To identify features of the primary clinical presentation which differentiate between a critical and mild-medical colic. Study design Prospective multi-centre cross-sectional study. Methods Paper-based and online questionnaires were distributed to 850 practices which treat horses, to collect data on the primary presentation of colic cases over 13 months. Critical cases were defined as horses which died, were subjected to euthanasia, had surgery, or required intensive care. Mild-medical cases were defined as those resolving with medical treatment on a single visit. Descriptive analysis was used to evaluate the data. Univariable analysis was performed using Mann-Whitney U tests and Chi-squared tests to assess the degree of association between clinical variables and the dependant variables ?critical? and ?mild-medical?. Results 161 veterinarians submitted 1048 colic case forms; 240 critical cases and 535 mild-medical cases were identified. There was evidence of difference (P<0.000) for cardiovascular variables (heart and respiratory rates, capillary refill time, and mucous membrane colour), signs of pain and abdominal borborygmi between mild-medical and critical cases. Critical cases had a higher mean heart rate (60 beats/min [range 21?125]) than mild-medical cases (42 beats/min [range 18?120]). The median total abdominal borborygmi score was lower at 3 (range 0?12) for critical, compared with 7 (range 0?12) for mild-medical cases. The use of diagnostic tests were significantly different (P<0.0001), with more tests performed in critical cases. Rectal examination and nasogastric intubation were not performed in 17.5% and 52.6% of critical cases, respectively. Conclusions There were significant differences in the primary presentation of critical and mild-medical colic cases. Veterinary surgeons? diagnostic approach varied between cases. Ethical animal research:?The study was reviewed and approved by the School of Veterinary Medicine and Science, University of Nottingham Ethics Committee. Explicit owner informed consent for participation in this study was not stated. Sources of funding:?Laila Curtis was funded by the School of Veterinary Medicine and Science, University of Nottingham. The survey was supported by a grant from the Petplan Charitable Trust. Boehringer Ingelheim assisted with survey distribution. Competing interests:?None.
+ER  - 

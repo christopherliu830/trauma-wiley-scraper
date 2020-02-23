@@ -1,0 +1,335 @@
+
+TY  - JOUR
+TI  - Gynecologic Pathology (58–62)
+JO  - Pathology International
+VL  - 57
+IS  - s1
+SN  - 1320-5463
+UR  - https://doi.org/10.1111/j.1440-1827.2007.02113_6.x
+DO  - doi:10.1111/j.1440-1827.2007.02113_6.x
+SP  - A17
+EP  - A18
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Hepatobiliary Pathology (79–82)
+JO  - Pathology International
+VL  - 57
+IS  - s1
+SN  - 1320-5463
+UR  - https://doi.org/10.1111/j.1440-1827.2007.02113_8.x
+DO  - doi:10.1111/j.1440-1827.2007.02113_8.x
+SP  - A23
+EP  - A24
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Molecular Pathology (85–89)
+JO  - Pathology International
+VL  - 57
+IS  - s1
+SN  - 1320-5463
+UR  - https://doi.org/10.1111/j.1440-1827.2007.02113_10.x
+DO  - doi:10.1111/j.1440-1827.2007.02113_10.x
+SP  - A25
+EP  - A26
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Pulmonary Pathology (112–116)
+JO  - Pathology International
+VL  - 57
+IS  - s1
+SN  - 1320-5463
+UR  - https://doi.org/10.1111/j.1440-1827.2007.02113_13.x
+DO  - doi:10.1111/j.1440-1827.2007.02113_13.x
+SP  - A33
+EP  - A35
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Cytopathology (20–34)
+JO  - Pathology International
+VL  - 57
+IS  - s1
+SN  - 1320-5463
+UR  - https://doi.org/10.1111/j.1440-1827.2007.02113_3.x
+DO  - doi:10.1111/j.1440-1827.2007.02113_3.x
+SP  - A6
+EP  - A10
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - Dermatopathology (35–36)
+JO  - Pathology International
+VL  - 57
+IS  - s1
+SN  - 1320-5463
+UR  - https://doi.org/10.1111/j.1440-1827.2007.02113_4.x
+DO  - doi:10.1111/j.1440-1827.2007.02113_4.x
+SP  - A10
+EP  - A11
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+AU  - Zhu, Peihong
+AU  - Bowden, Peter
+AU  - Zhang, Du
+AU  - Marshall, John G.
+TI  - Mass spectrometry of peptides and proteins from human blood
+JO  - Mass Spectrometry Reviews
+JA  - Mass Spectrom. Rev.
+VL  - 30
+IS  - 5
+SN  - 0277-7037
+UR  - https://doi.org/10.1002/mas.20291
+DO  - doi:10.1002/mas.20291
+SP  - 685
+EP  - 732
+KW  - blood, serum
+KW  - sera
+KW  - plasma
+KW  - circulating
+KW  - circulation
+KW  - protein
+KW  - peptide
+KW  - proteome
+KW  - proteomics
+KW  - peptidome
+KW  - peptidomics
+KW  - chromatography
+KW  - electrophoresis
+KW  - PAGE
+KW  - HPLC
+KW  - UPLC
+KW  - analysis
+KW  - LC–MS/MS
+KW  - liquid chromatography mass spectrometry
+KW  - SEQUID
+KW  - ESI
+KW  - electrospray ionization
+KW  - MALDI
+KW  - matrix assisted laser desorption ionization
+KW  - ion
+KW  - mass spectra
+KW  - mass spectrum
+KW  - mass spectrom
+KW  - mass spectrometry
+KW  - tandem mass spectrometry
+KW  - MS–MS
+KW  - MS MS
+KW  - MS/MS
+KW  - bioinformatics
+KW  - statistics
+KW  - database
+KW  - SQL
+KW  - BLAST
+PY  - 2011
+AB  - Abstract It is difficult to convey the accelerating rate and growing importance of mass spectrometry applications to human blood proteins and peptides. Mass spectrometry can rapidly detect and identify the ionizable peptides from the proteins in a simple mixture and reveal many of their post-translational modifications. However, blood is a complex mixture that may contain many proteins first expressed in cells and tissues. The complete analysis of blood proteins is a daunting task that will rely on a wide range of disciplines from physics, chemistry, biochemistry, genetics, electromagnetic instrumentation, mathematics and computation. Therefore the comprehensive discovery and analysis of blood proteins will rank among the great technical challenges and require the cumulative sum of many of mankind's scientific achievements together. A variety of methods have been used to fractionate, analyze and identify proteins from blood, each yielding a small piece of the whole and throwing the great size of the task into sharp relief. The approaches attempted to date clearly indicate that enumerating the proteins and peptides of blood can be accomplished. There is no doubt that the mass spectrometry of blood will be crucial to the discovery and analysis of proteins, enzyme activities, and post-translational processes that underlay the mechanisms of disease. At present both discovery and quantification of proteins from blood are commonly reaching sensitivities of ?1?ng/mL. ? 2010 Wiley Periodicals, Inc., Mass Spec Rev 30:685?732, 2011
+ER  - 
+
+TY  - JOUR
+TI  - Index
+JO  - FEBS Letters
+VL  - 298
+IS  - S1
+SN  - 0014-5793
+UR  - https://doi.org/10.1016/0014-5793(92)80006-3
+DO  - doi:10.1016/0014-5793(92)80006-3
+SP  - 1
+EP  - 202
+PY  - 1992
+ER  - 
+
+AU  - Seitz, Rainer
+AU  - König, Herbert
+AU  - Dodt, Johannes
+C7  - pp. 1-39
+TI  - Blood
+SN  - 9783527303854
+UR  - https://doi.org/10.1002/14356007.a04_201.pub2
+DO  - doi:10.1002/14356007.a04_201.pub2
+SP  - 1-39
+PY  - 1992
+AB  - Abstract The article contains sections titled: 1. Introduction 2. Composition, Physiology and Chemical Properties of Blood 2.1. Blood Cells 2.1.1. Hematopoiesis, Stem Cells 2.1.2. Red Cells, Hemoglobin 2.1.3. Leukocytes, Cytokins 2.1.4. Thrombocytes 2.2. Plasma Proteins 2.2.1. Analysis of Plasma 2.2.2. Coagulation Factors 2.2.3. Fibrinolysis System 2.2.4. Plasma Proteinase Inhibitors 2.2.5. Immunoglobulins 2.2.6. Albumin 3. Production 3.1. Blood and Plasma Donation 3.2. Substances Derived from Blood Cells 3.3. Fractionation of Plasma 3.3.1. Quality Requirements 3.3.2. Preparation of Intermediate Products 3.3.3. Purification of Plasma Proteins 3.4. Recombinant Proteins 3.5. Adverse Drug Reactions of Blood Products 3.5.1. Immunogenicity 3.5.2. Thrombogenicity 3.5.3. Transmittable Pathogens 4. Therapeutic Uses 4.1. Blood Components 4.1.1. Blood and Stem Cell Preparations 4.1.2. Fresh Frozen Plasma 4.2. Hemoglobin-Derived Oxygen Carriers 4.3. Cytokins 4.4. Coagulation Factors 4.5. Plasminogen Activators 4.6. Inhibitors 4.7. Immunoglobulins 4.8. Albumin 5. Economic Aspects Blood is a multifunctional transport medium of vital importance for the body of higher organisms. Its composition is very complex and includes various cell systems with peculiar functions, proteins, electrolytes, metabolites, and highly sophisticated mediator systems. Both cells and plasma, which can be separated by centrifugation, can be used as and further processed into medicines. Serum is the fluid remaining after coagulation of the blood. In this review, blood cell systems and plasma proteins are referred to and medicinal aspects including blood and plasma collection and processing are described. The medicines derived from blood and plasma, as well as basic research and clinical trials should keep an important place because of the medicine as a whole benefits extremely from transfusions and, in particular, hemophiliacs gain an enormous improvement of life quality and life expectancy.
+ER  - 
+
+C7  - pp. 221-387
+TI  - Organ Toxicology
+UR  - https://doi.org/10.1002/9781119135944.ch3
+DO  - doi:10.1002/9781119135944.ch3
+SP  - 221-387
+KW  - behavioral neurotoxicology
+KW  - endocrine system
+KW  - gastrointestinal tract
+KW  - immune system
+KW  - organ toxicology
+KW  - respiratory system
+KW  - skin cells
+KW  - urinary tract
+PY  - 1992
+AB  - Summary This chapter focuses on the normal sequence of events in marrow function, the roles played by circulating cells in homeostasis, and on the adverse effects caused by exposure to various drugs and other chemicals leading to commonly observed hemopathies. The hair follicle's proliferative activity is matched only by the bone marrow and some parts of the gastrointestinal tract. In contrast to the skin, the respiratory tract has no barrier, other than the bronchial mucous layer, against the entry of foreign substances into the body. The chapter also focuses on the parts of the endocrine system relating to thyroid and sex hormones in humans and laboratory animals that are of interest to toxicology. Clinical experience with immunosuppressive drugs indicates that the immune system usually has a high capacity to regenerate after exposure has ended.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts-part II (Continue in Part III)
+JO  - Proceedings of the International Society for Magnetic Resonance in Medicine
+JA  - Proc. Soc. Magn. Reson. Med.
+VL  - 1991
+IS  - S1
+UR  - https://doi.org/10.1002/mrmp.22419910104
+DO  - doi:10.1002/mrmp.22419910104
+SP  - 101
+EP  - 150
+PY  - 1991
+ER  - 
+
+TY  - JOUR
+AU  - Abecassis, Michael M.
+AU  - Segev, Dorry L.
+TI  - Transplantation at the Crossroads
+JO  - American Journal of Transplantation
+VL  - 11
+IS  - s1
+UR  - https://doi.org/10.1111/j.1600-6143.2010.03391.x
+DO  - doi:10.1111/j.1600-6143.2010.03391.x
+SP  - 50
+EP  - 90
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Pacing and Clinical Electrophysiology
+VL  - 22
+IS  - 6
+UR  - https://doi.org/10.1111/j.1540-8159.1999.tb06804.x
+DO  - doi:10.1111/j.1540-8159.1999.tb06804.x
+SP  - A1
+EP  - A216
+PY  - 1999
+ER  - 
+
+TY  - JOUR
+TI  - 42nd Annual Meeting of the Japanese Society of Neuropathology
+JO  - Neuropathology
+VL  - 21
+IS  - 2
+UR  - https://doi.org/10.1046/j.1440-1789.2001.00212.x
+DO  - doi:10.1046/j.1440-1789.2001.00212.x
+SP  - A1
+EP  - A55
+PY  - 2001
+ER  - 
+
+TY  - JOUR
+TI  - Surgical research society abstracts
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 75
+IS  - 12
+UR  - https://doi.org/10.1002/bjs.1800751229
+DO  - doi:10.1002/bjs.1800751229
+SP  - 1229
+EP  - 1275
+PY  - 1988
+AB  - Abstract The Seventh Tripartite Meeting of the Surgical Research Society held in conjunction with the Society of University Surgeons and the European Surgical Research Society took place on 6, 7 and 8 July 1988 at the University of Bristol. The meeting incorporated the 68th Meeting of the Surgical Research Society. A symposium entitled ?Screening for aortic aneurysm? preceded the free paper sessions. One hundred and ninety papers were read and the Patey Prize was awarded to Mr D. J. A. Scott for his presentation, entitled ?Application of multiple linear regression in the estimation of peripheral resistance?.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - International Journal of Gynecological Cancer
+VL  - 14
+IS  - s1
+UR  - https://doi.org/10.1111/j.1525-1438.2004.1315431.x
+DO  - doi:10.1111/j.1525-1438.2004.1315431.x
+SP  - 1
+EP  - 249
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+AU  - Tyurina, Yulia Y.
+AU  - St. Croix, Claudette M.
+AU  - Watkins, Simon C.
+AU  - Watson, Alan M.
+AU  - Epperly, Michael W.
+AU  - Anthonymuthu, Tamil S.
+AU  - Kisin, Elena R.
+AU  - Vlasova, Irina I.
+AU  - Krysko, Olga
+AU  - Krysko, Dmitri V.
+AU  - Kapralov, Alexandr A.
+AU  - Dar, Haider H.
+AU  - Tyurin, Vladimir A.
+AU  - Amoscato, Andrew A.
+AU  - Popova, Elena N.
+AU  - Bolevich, Sergey B.
+AU  - Timashev, Peter S.
+AU  - Kellum, John A.
+AU  - Wenzel, Sally E.
+AU  - Mallampalli, Rama K.
+AU  - Greenberger, Joel S.
+AU  - Bayir, Hulya
+AU  - Shvedova, Anna A.
+AU  - Kagan, Valerian E.
+TI  - Redox (phospho)lipidomics of signaling in inflammation and programmed cell death
+JO  - Journal of Leukocyte Biology
+JA  - J Leukoc Biol
+VL  - 106
+IS  - 1
+UR  - https://doi.org/10.1002/JLB.3MIR0119-004RR
+DO  - doi:10.1002/JLB.3MIR0119-004RR
+SP  - 57
+EP  - 81
+KW  - eicosanoids
+KW  - lipid mediators
+KW  - lipoxygenase
+KW  - Oxidized phospholipids
+KW  - peroxidation
+KW  - phospholipase A2
+KW  - phospholipid hydrolysis
+PY  - 2019
+AB  - Abstract In addition to the known prominent role of polyunsaturated (phospho)lipids as structural blocks of biomembranes, there is an emerging understanding of another important function of these molecules as a highly diversified signaling language utilized for intra- and extracellular communications. Technological developments in high-resolution mass spectrometry facilitated the development of a new branch of metabolomics, redox lipidomics. Analysis of lipid peroxidation reactions has already identified specific enzymatic mechanisms responsible for the biosynthesis of several unique signals in response to inflammation and regulated cell death programs. Obtaining comprehensive information about millions of signals encoded by oxidized phospholipids, represented by thousands of interactive reactions and pleiotropic (patho)physiological effects, is a daunting task. However, there is still reasonable hope that significant discoveries, of at least some of the important contributors to the overall overwhelmingly complex network of interactions triggered by inflammation, will lead to the discovery of new small molecule regulators and therapeutic modalities. For example, suppression of the production of AA-derived pro-inflammatory mediators, HXA3 and LTB4, by an iPLA2? inhibitor, R-BEL, mitigated injury associated with the activation of pro-inflammatory processes in animals exposed to whole-body irradiation. Further, technological developments promise to make redox lipidomics a powerful approach in the arsenal of diagnostic and therapeutic instruments for personalized medicine of inflammatory diseases and conditions.
+ER  - 
+
+TY  - JOUR
+TI  - Research, Innovations, Clinical Vignettes Competition, Hospital Medicine 2011, May 10–13, 2011
+JO  - Journal of Hospital Medicine
+JA  - J. Hosp. Med.
+VL  - 6
+IS  - S2
+UR  - https://doi.org/10.1002/jhm.920
+DO  - doi:10.1002/jhm.920
+SP  - S1
+EP  - S282
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - News
+JO  - Chemistry & Industry
+VL  - 77
+IS  - 9
+UR  - https://doi.org/10.1002/cind.7709_3.x
+DO  - doi:10.1002/cind.7709_3.x
+SP  - 6
+EP  - 19
+PY  - 2013
+ER  - 
+
+AU  - Kolahdooz, Fariba
+C7  - pp. 326-334
+TI  - Glossary
+SN  - 9781118554678
+UR  - https://doi.org/10.1002/9781119180425.gloss
+DO  - doi:10.1002/9781119180425.gloss
+SP  - 326-334
+PY  - 2013
+ER  - 

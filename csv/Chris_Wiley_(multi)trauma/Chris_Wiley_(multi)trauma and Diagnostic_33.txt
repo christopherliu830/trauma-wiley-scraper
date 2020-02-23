@@ -1,0 +1,467 @@
+
+TY  - JOUR
+AU  - Hernández-Neuta, I.
+AU  - Neumann, F.
+AU  - Brightmeyer, J.
+AU  - Ba Tis, T.
+AU  - Madaboosi, N.
+AU  - Wei, Q.
+AU  - Ozcan, A.
+AU  - Nilsson, M.
+TI  - Smartphone-based clinical diagnostics: towards democratization of evidence-based health care
+JO  - Journal of Internal Medicine
+JA  - J Intern Med
+VL  - 285
+IS  - 1
+SN  - 0954-6820
+UR  - https://doi.org/10.1111/joim.12820
+DO  - doi:10.1111/joim.12820
+SP  - 19
+EP  - 39
+KW  - Biosensors
+KW  - Diagnostics
+KW  - Digital pathology
+KW  - Lab-on-a-chip
+KW  - Smartphones
+PY  - 2019
+AB  - Abstract Recent advancements in bioanalytical techniques have led to the development of novel and robust diagnostic approaches that hold promise for providing optimal patient treatment, guiding prevention programs and widening the scope of personalized medicine. However, these advanced diagnostic techniques are still complex, expensive and limited to centralized healthcare facilities or research laboratories. This significantly hinders the use of evidence-based diagnostics for resource-limited settings and the primary care, thus creating a gap between healthcare providers and patients, leaving these populations without access to precision and quality medicine. Smartphone-based imaging and sensing platforms are emerging as promising alternatives for bridging this gap and decentralizing diagnostic tests offering practical features such as portability, cost-effectiveness and connectivity. Moreover, towards simplifying and automating bioanalytical techniques, biosensors and lab-on-a-chip technologies have become essential to interface and integrate these assays, bringing together the high precision and sensitivity of diagnostic techniques with the connectivity and computational power of smartphones. Here, we provide an overview of the emerging field of clinical smartphone diagnostics and its contributing technologies, as well as their wide range of areas of application, which span from haematology to digital pathology and rapid infectious disease diagnostics.
+ER  - 
+
+TY  - JOUR
+AU  - Snedeker, J. G.
+AU  - Bajka, M.
+AU  - Hug, J. M.
+AU  - Székely, G.
+AU  - Niederer, P.
+TI  - The creation of a high-fidelity finite element model of the kidney for use in trauma research
+JO  - The Journal of Visualization and Computer Animation
+JA  - J. Visual. Comput. Animat.
+VL  - 13
+IS  - 1
+SN  - 1049-8907
+UR  - https://doi.org/10.1002/vis.279
+DO  - doi:10.1002/vis.279
+SP  - 53
+EP  - 64
+KW  - model
+KW  - finite element analysis
+KW  - automatic mesh generation
+KW  - deformable body
+KW  - physically based animation
+PY  - 2002
+AB  - Abstract A detailed finite element model of the human kidney for trauma research has been created directly from the National Library of Medicine Visible Human Female (VHF) Project data set. An image segmentation and organ reconstruction software package has been developed and employed to transform the 2D VHF images into a 3D polygonal representation. Non-uniform rational B-spline (NURBS) surfaces were then mapped to the polygonal surfaces, and were finally utilized to create a robust 3D hexahedral finite element mesh within a commercially available meshing software. The model employs a combined viscoelastic and hyperelastic material model to successfully simulate the behaviour of biological soft tissues. The finite element model was then validated for use in biomechanical research. Copyright ? 2002 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Lee, Kwang Hwi
+AU  - Ko, Eun Young
+AU  - Han, Boo-Kyung
+AU  - Shin, Jung Hee
+AU  - Kang, Seok Seon
+AU  - Hahn, Soo Yeon
+TI  - Thrombosed Pseudoaneurysm of the Breast After Blunt Trauma
+JO  - Journal of Ultrasound in Medicine
+VL  - 28
+IS  - 2
+SN  - 0278-4297
+UR  - https://doi.org/10.7863/jum.2009.28.2.233
+DO  - doi:10.7863/jum.2009.28.2.233
+SP  - 233
+EP  - 238
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+AU  - de Arruda, José Alcides Almeida
+AU  - Almeida, Tatiana Fernandes Araújo
+AU  - Abreu, Lucas Guimarães
+AU  - do Amaral, Márcio Bruno Figueiredo
+AU  - Anbinder, Ana Lia
+AU  - Flores, René Martínez
+AU  - Agostini, Michelle
+AU  - Romañach, Mário José
+AU  - Silva, Tarcília Aparecida
+AU  - de Andrade, Bruno Augusto Benevenuto
+AU  - Mesquita, Ricardo Alves
+TI  - Intraosseous xanthoma of the mandible: A multi-institutional case series with a literature review
+JO  - Journal of Oral Pathology & Medicine
+JA  - J Oral Pathol Med
+VL  - 48
+IS  - 10
+SN  - 0904-2512
+UR  - https://doi.org/10.1111/jop.12940
+DO  - doi:10.1111/jop.12940
+SP  - 935
+EP  - 942
+KW  - intraosseous
+KW  - jaw
+KW  - mandible
+KW  - xanthoma
+KW  - xanthomatosis
+PY  - 2019
+AB  - Abstract Background The aim of the present study was to report the clinicopathologic, radiographic and immunohistochemical features of five South American cases of intraosseous xanthomas of the mandible and to compare them to those detected in a literature review. Methods Clinical data were collected from the records of three Oral and Maxillofacial Pathology services in South America and compared with those compiled from a literature review based on a search of three electronic databases (PubMed, Web of Science and Scopus). All cases were evaluated by haematoxylin and eosin staining and immunohistochemistry for CD68 and S-100. Results The series comprised four females (80%) and one male (20%) with a mean age of 23.3 ± 10.9 years (range: 13-45 years). In four cases, there was involvement of the posterior region of the mandible (80%). The lesions presented radiographically as unilocular (60%) radiolucencies with punched-out margin (80%). All cases predominantly consisted of CD68-positive and S-100-negative xanthomatous cells. No recurrences were observed after curettage, with a median follow-up of 27 months. Conclusion Intraosseous xanthoma of the jaws is a rare benign disorder. We report here five additional cases affecting the mandible, for a total of 36 cases of the jaws reported in the literature. Overall, this lesion has predilection for posterior sites of the mandible of asymptomatic young adults.
+ER  - 
+
+TY  - JOUR
+AU  - Karagoz, Selda
+AU  - Tekdos Seker, Yasemin
+AU  - Cukurova, Zafer
+AU  - Hergunsel, Oya
+TI  - The Effectiveness of Scoring Systems in the Prediction of Diagnosis-Based Mortality
+JO  - Therapeutic Apheresis and Dialysis
+JA  - Ther Apher Dial
+VL  - 23
+IS  - 5
+SN  - 1744-9979
+UR  - https://doi.org/10.1111/1744-9987.12780
+DO  - doi:10.1111/1744-9987.12780
+SP  - 418
+EP  - 424
+KW  - APACHE II
+KW  - Diagnosis-based mortality ratio
+KW  - Scoring systems
+PY  - 2019
+AB  - Abstract Scoring systems are used for mortality and morbidity rating in intensive care conditions, prognosis prediction, standardization of scientific data and the monitoring of clinical quality. The aim of this study was to retrospectively analyze the efficacy of APACHE II (Acute Physiology and Chronic Health Evaluation), APACHE IV and SAPS (Simplified Acute Physiology Score) III prognostic scorings in the prediction of mortality and disease severity of patients admitted to the Anesthesia and Reanimation Clinic Intensive Care Unit (ICU) in Bak?rköy Dr. Sadi Konuk Training and Research Hospital according to general and specific diagnoses. A total of 1896 patient files were included in the study. With the exception of single system or head trauma patient groups, a statistically significant difference was found in the mortality prediction rates in all other diagnosis groups (P?<?0.05). The discrimination calculated with AUROC fields was sufficient in all groups, and calibration was evaluated as good except for the neurological and neurosurgical patient group. In respect of standard mortality prediction, APACHE II and IV were good in cases of sepsis, and SAPS III made almost exact predictions for cardiovascular diseases, APACHE II for neurological diseases, and APACHE IV for gastrointestinal system diseases. From the results of this study, it was seen that different scoring systems vary in predictions according to the diagnoses, therefore, it can be recommended that the diagnosis should be taken into account more when applying scoring systems.
+ER  - 
+
+TY  - JOUR
+AU  - Turgut, Mehmet
+AU  - Gurçay, Ozdemir
+TI  - MULTI-FOCAL HISTIOCYTOSIS X OF BONE IN TWO ADJACENT VERTEBRAE CAUSING PARAPLEGIA
+JO  - Australian and New Zealand Journal of Surgery
+VL  - 62
+IS  - 3
+SN  - 0004-8682
+UR  - https://doi.org/10.1111/j.1445-2197.1992.tb05471.x
+DO  - doi:10.1111/j.1445-2197.1992.tb05471.x
+SP  - 242
+EP  - 244
+KW  - histiocytosis X
+KW  - radiotherapy
+KW  - spinal cord compression
+PY  - 1992
+AB  - This report describes a case of multi-focal histiocytosis X of bone in two adjacent vertebrae that caused a spinal cord compression. This case was treated radically with combined surgery and postoperative radiotherapy (RT).
+ER  - 
+
+TY  - JOUR
+AU  - Thompson, James
+AU  - Chung, Man Cheung
+AU  - Jackson, Gary
+AU  - Rosser, Rachel
+TI  - A comparative trial of psychotherapy in the treatment of post-trauma stress reactions
+JO  - Clinical Psychology & Psychotherapy
+JA  - Clin. Psychol. Psychother.
+VL  - 2
+IS  - 3
+SN  - 1063-3995
+UR  - https://doi.org/10.1002/cpp.5640020304
+DO  - doi:10.1002/cpp.5640020304
+SP  - 168
+EP  - 176
+PY  - 1995
+AB  - Abstract Forty-two patients with post-traumatic stress reactions were assessed 40 weeks after the traumatic event and given either an immediate (n = 29) or delayed (n = 13) eight sessions of psychotherapy. The patients in the delayed condition improved somewhat during the waiting list period, but at the end of treatment the two conditions were not significantly different. However, treatment gains were a little higher in the immediate group, with up to a 32% reduction in symptoms. There were no significant differences between therapists. The rate of improvement while under therapy was much higher than while awaiting assessment. Improvements were greatest for those with high Psychoticism and Obsessive Compulsive scores.
+ER  - 
+
+TY  - JOUR
+AU  - Brancu, Mira
+AU  - Wagner, H. Ryan
+AU  - Morey, Rajendra A.
+AU  - Beckham, Jean C.
+AU  - Calhoun, Patrick S.
+AU  - Tupler, Larry A.
+AU  - Marx, Christine E.
+AU  - Taber, Katherine H.
+AU  - Hurley, Robin A.
+AU  - Rowland, Jared
+AU  - McDonald, Scott D.
+AU  - Hoerle, Jeffrey M.
+AU  - Moore, Scott D.
+AU  - Kudler, Harold S.
+AU  - Weiner, Richard D.
+AU  - VA Mid-Atlantic MIRECC Workgroup
+AU  - Fairbank, John A.
+C7  - e1570
+C8  - IJMPR-Jul-2016-0084.R2
+TI  - The Post-Deployment Mental Health (PDMH) study and repository: A multi-site study of US Afghanistan and Iraq era veterans
+JO  - International Journal of Methods in Psychiatric Research
+JA  - Int J Methods Psychiatr Res
+VL  - 26
+IS  - 3
+SN  - 1049-8931
+UR  - https://doi.org/10.1002/mpr.1570
+DO  - doi:10.1002/mpr.1570
+SP  - e1570
+KW  - Afghanistan
+KW  - Iraq
+KW  - mental health
+KW  - post-deployment
+KW  - veterans
+PY  - 2017
+AB  - Abstract The United States (US) Department of Veterans Affairs (VA) Mid-Atlantic Mental Illness Research, Education, and Clinical Center (MIRECC) Post-Deployment Mental Health (PDMH) multi-site study examines post-deployment mental health in US military Afghanistan/Iraq-era veterans. The study includes the comprehensive behavioral health characterization of over 3600 study participants and the genetic, metabolomic, neurocognitive, and neuroimaging data for many of the participants. The study design also incorporates an infrastructure for a data repository to re-contact participants for follow-up studies. The overwhelming majority (94%) of participants consented to be re-contacted for future studies, and our recently completed feasibility study indicates that 73?83% of these participants could be reached successfully for enrollment into longitudinal follow-up investigations. Longitudinal concurrent cohort follow-up studies will be conducted (5?10+ years post-baseline) to examine predictors of illness chronicity, resilience, recovery, functional outcome, and other variables, and will include neuroimaging, genetic/epigenetic, serum biomarker, and neurocognitive studies, among others. To date, the PDMH study has generated more than 35 publications from the baseline data and the repository has been leveraged in over 20 publications from follow-up studies drawing from this cohort. Limitations that may affect data collection for a longitudinal follow-up study are also presented.
+ER  - 
+
+TY  - JOUR
+AU  - GORDON, MICHAEL
+AU  - VADAS, PETER
+TI  - Benefits of Access to On-site Acute and Critical Care for the Residential Section of a Multi-level Geriatric Center
+JO  - Journal of the American Geriatrics Society
+VL  - 32
+IS  - 6
+SN  - 0002-8614
+UR  - https://doi.org/10.1111/j.1532-5415.1984.tb02223.x
+DO  - doi:10.1111/j.1532-5415.1984.tb02223.x
+SP  - 453
+EP  - 456
+PY  - 1984
+AB  - Of 220 residents living in the residential unit of a multi-level geriatric center, 95 required a total of 131 transfers to other facilities over a one-year period. Fifty-three of these patients were transferred to the associated chronic-care hospital for short-term acute medical investigation or treatment. The average length of stay of 17 days was similar to that of patients of comparable age with comparable medical conditions admitted to an affiliated acute general hospital from the community. In addition to continuity of medical care and the social and psychologic advantages of remaining within the geriatric center, this transfer potential resulted in substantial financial savings. The cost of hospitalization in the general hospital would have been more than twice that of the geriatric unit.
+ER  - 
+
+TY  - JOUR
+AU  - Adamo, P. F.
+AU  - Rylander, H.
+AU  - Adams, W. M.
+TI  - Ciclosporin use in multi-drug therapy for meningoencephalomyelitis of unknown aetiology in dogs
+JO  - Journal of Small Animal Practice
+VL  - 48
+IS  - 9
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/j.1748-5827.2006.00303.x
+DO  - doi:10.1111/j.1748-5827.2006.00303.x
+SP  - 486
+EP  - 496
+PY  - 2007
+AB  - Objective: To evaluate the efficacy and safety of ciclosporin therapy alone or in combination with corticosteroids and/or ketoconazole in dogs with diagnosis of meningoencephalomyelitis of unknown aetiology. Methods: Medical records of 10 dogs diagnosed with meningoencephalomyelitis of unknown aetiology and treated with ciclosporin therapy alone or in combination with corticosteroids and/or ketoconazole were reviewed at the Veterinary Medical Teaching Hospital, University of Wisconsin-Madison. Laboratory abnormalities, side effects, clinical and cerebrospinal fluid responses to treatment and association between blood ciclosporin level and response to treatment were evaluated. Histopathological diagnosis was available in three patients. Results: No significant abnormalities were detected on serial complete blood count and serum chemistry panel in any of the dogs. Side effects of ciclosporin therapy included excessive shedding, gingival hyperplasia and hypertrichosis. Overall median survival time for all dogs in the study was 930 days (range, 60 to more than 1290 days). In all dogs, serial cerebrospinal fluid analysis showed a marked improvement in the inflammation. Clinical Significance: Results suggest that ciclosporin either alone or in combination with ketoconazole may be a safe and effective treatment for meningoencephalomyelitis of unknown aetiology in dogs.
+ER  - 
+
+TY  - JOUR
+AU  - SØRENSEN, J. L.
+AU  - THELLESEN, L.
+AU  - STRANDBYGAARD, J.
+AU  - SVENDSEN, K. D.
+AU  - CHRISTENSEN, K. B.
+AU  - JOHANSEN, M.
+AU  - LANGHOFF-ROOS, P.
+AU  - EKELUND, K.
+AU  - OTTESEN, B.
+AU  - VAN DER VLEUTEN, C.
+TI  - Development of knowledge tests for multi-disciplinary emergency training: a review and an example
+JO  - Acta Anaesthesiologica Scandinavica
+JA  - Acta Anaesthesiol Scand
+VL  - 59
+IS  - 1
+SN  - 0001-5172
+UR  - https://doi.org/10.1111/aas.12428
+DO  - doi:10.1111/aas.12428
+SP  - 123
+EP  - 133
+PY  - 2015
+AB  - Background The literature is sparse on written test development in a post-graduate multi-disciplinary setting. Developing and evaluating knowledge tests for use in multi-disciplinary post-graduate training is challenging. The objective of this study was to describe the process of developing and evaluating a multiple-choice question (MCQ) test for use in a multi-disciplinary training program in obstetric-anesthesia emergencies. Methods A multi-disciplinary working committee with 12 members representing six professional healthcare groups and another 28 participants were involved. Recurrent revisions of the MCQ items were undertaken followed by a statistical analysis. The MCQ items were developed stepwise, including decisions on aims and content, followed by testing for face and content validity, construct validity, item?total correlation, and reliability. Results To obtain acceptable content validity, 40 out of originally 50 items were included in the final MCQ test. The MCQ test was able to distinguish between levels of competence, and good construct validity was indicated by a significant difference in the mean score between consultants and first-year trainees, as well as between first-year trainees and medical and midwifery students. Evaluation of the item?total correlation analysis in the 40 items set revealed that 11 items needed re-evaluation, four of which addressed content issues in local clinical guidelines. A Cronbach's alpha of 0.83 for reliability was found, which is acceptable. Conclusion Content and construct validity and reliability were acceptable. The presented template for the development of this MCQ test could be useful to others when developing knowledge tests and may enhance the overall quality of test development.
+ER  - 
+
+TY  - JOUR
+AU  - Hirsch, Robert S.
+AU  - Clarke, Nigel G.
+TI  - Differential diagnosis of severe periodontal lesions
+JO  - Australian Dental Journal
+VL  - 34
+IS  - 6
+SN  - 0045-0421
+UR  - https://doi.org/10.1111/j.1834-7819.1989.tb04662.x
+DO  - doi:10.1111/j.1834-7819.1989.tb04662.x
+SP  - 548
+EP  - 558
+KW  - Anthropology
+KW  - dental pulp diseases
+KW  - dental pulp test
+KW  - diagnosis
+KW  - periodontal index
+KW  - periodontitis
+PY  - 1989
+AB  - Abstract In current clinical practice, a differential diagnosis of severe localized periodontal lesions is rarely made; such lesions are considered to be manifestations of periodontitis caused by specific microbes from the commensal oral flora. However, deep seated lesions of the periodontium which are in communication with the alveolar crest, are well documented periodontal consequences of pulpal pathoses and can mimic the signs and symptoms of ?periodontitis?. The very low incidence of tooth-threatening periodontal disease in ancient and modern man is revealed when differential diagnoses are used in the examination of alveolar defects in anthropological materials and when epidemiological studies use more appropriate indices. However, no periodontal index to date has incorporated a differential diagnosis between gingival and pulpal causes of alveolar bone loss. The gingival and periodontal signs of severe localized periodontal lesions are reviewed and the imprecise nature of current clinical diagnostic tests (radiography, ?pulp testing?, darkfield microscopy, bleeding on probing, periodontal probing) is discussed. None of these tests is able to detect disease activity and cannot be used to predict future patterns of disease behaviour. However, the commonly held belief that the tests are accurate has resulted in most severe periodontal lesions being falsely labelled as periodontitis. Failure to carry out differential diagnosis of severe periodontal lesions has resulted in the instigation of periodontal therapy for many lesions of non-gingival origin. Whenever severe localized lesions of the periodontium are detected, the differential diagnosis between pulpal and periodontal origins should be made. The results of diagnostic tests in current use should be interpreted with extreme caution; clinicians are left to exercise their judgment based on consideration of all the available evidence.
+ER  - 
+
+TY  - JOUR
+AU  - Koenders, Manja A.
+AU  - Mesman, Esther
+AU  - Giltay, Erik J.
+AU  - Elzinga, Bernet M.
+AU  - Hillegers, Manon H. J.
+TI  - Traumatic experiences, family functioning, and mood disorder development in bipolar offspring
+JO  - British Journal of Clinical Psychology
+JA  - Br J Clin Psychol
+VL  - n/a
+IS  - n/a
+SN  - 0144-6657
+UR  - https://doi.org/10.1111/bjc.12246
+DO  - doi:10.1111/bjc.12246
+KW  - bipolar disorder
+KW  - bipolar offspring
+KW  - emotional trauma
+KW  - family functioning
+AB  - Objectives Studies in children of patients affected with bipolar disorder (BD; bipolar offspring) are at high risk to develop mood disorders. Our aim is to investigate how environmental factors such as childhood trauma and family functioning relate to the development of mood disorders in offspring at familial risk for BD. Design The current study is part of a longitudinal prospective cohort study among offspring of parents with BD. Methods The current study is part of the Dutch Bipolar Offspring Study, an ongoing prospective cohort study among adolescent offspring of a parent with BD. Bipolar offspring were psychiatrically evaluated at baseline and at 1-, 5-, and 12-year follow-up. Complete follow-up data over de 12-year follow-up were available for 102 offspring. Childhood trauma was measured with the Childhood Trauma Questionnaire (CTQ) and filled out by the offspring. Family functioning was reported by the mother with the 130-item Questionnaire for Family Problems (QFP). Results Emotional maltreatment was significantly associated (HR = 1.82, CI 1.18?2.82, p = .007) with mood disorder onset in bipolar offspring. No association was found with the family functioning total score (HR = 1.04, CI 0.94?15, p = .085) nor its subscales. Conclusions The current study suggests that emotional maltreatment is associated with mood disorder development in bipolar offspring. Remarkably, the association of offspring-reported emotional maltreatment and mood disorder onset was not reflected in parent-reported family functioning (e.g., support and communication, openness or involvement). Possible explanations are discussed and warrant further study. Practitioner points Offspring of bipolar patients are at increased risk of developing mood disorders across the life-time. Emotional trauma contributes to the likelihood of developing mood disorders in bipolar offspring. In the daily treatment of bipolar patients having children, attention should be given to parental style and difficulties. Further research using multiple informant methods on childhood trauma an family functioning is needed to further disentangle the effects of these variables on the onset of psychopathology in bipolar offspring.
+ER  - 
+
+TY  - JOUR
+AU  - Quidé, Y.
+AU  - Andersson, F.
+AU  - Dufour-Rainfray, D.
+AU  - Descriaud, C.
+AU  - Brizard, B.
+AU  - Gissot, V.
+AU  - Cléry, H.
+AU  - Carrey Le Bas, M-P.
+AU  - Osterreicher, S.
+AU  - Ogielska, M.
+AU  - Saint-Martin, P.
+AU  - El-Hage, W.
+TI  - Smaller hippocampal volume following sexual assault in women is associated with post-traumatic stress disorder
+JO  - Acta Psychiatrica Scandinavica
+JA  - Acta Psychiatr Scand
+VL  - 138
+IS  - 4
+SN  - 0001-690X
+UR  - https://doi.org/10.1111/acps.12920
+DO  - doi:10.1111/acps.12920
+SP  - 312
+EP  - 324
+KW  - acute trauma
+KW  - post-traumatic stress disorder
+KW  - structural MRI
+KW  - cortisol
+KW  - longitudinal
+KW  - rape
+PY  - 2018
+AB  - Objective Exposure to sexual assault is a significant risk factor to develop post-traumatic stress disorder (PTSD) in females. The early neurobiological changes leading to the development of PTSD remain understudied and unclear in this population. Methods Participants were 27 adult females recruited within a month following exposure to sexual assault (T1) and 20 age-matched non-exposed controls. Among the victims, 10 participants met (PTSD+) and 15 did not meet (PTSD?) DSM-IV criteria for PTSD 6 months post-trauma (T2). At both visits, hippocampal and amygdala volumes were extracted from magnetic resonance imaging scans, and indices of total diurnal cortisol changes were derived from individual areas under the curve relative to the ground (AUCg). Measures at T1 were compared between groups at T1, measures at T2 between groups at T2, and measures at T1 between groups at T2. Results At T1, victims had significantly smaller bilateral hippocampal volumes, but not AUCg, than controls. At T2, neither hippocampal volume nor AUCg significantly differed among the groups. However, the PTSD+ group had significantly smaller hippocampal volumes at T1 than the control group, but not compared to the PTSD? group. Conclusions This study indicates that having smaller hippocampal volumes is a risk factor to develop PTSD in females exposed to sexual assault.
+ER  - 
+
+AU  - Beail, Nigel
+C7  - pp. 97-111
+TI  - Diagnosis of Personality Disorder in Offenders with Intellectual and Developmental Disabilities
+SN  - 9781119316251
+UR  - https://doi.org/10.1002/9781119316268.ch5
+DO  - doi:10.1002/9781119316268.ch5
+SP  - 97-111
+KW  - co-morbid mental disorders
+KW  - diagnostic criteria
+KW  - intellectual and developmental disabilities
+KW  - offenders
+KW  - personality disorder
+KW  - pharmacological interventions
+KW  - treatment options
+PY  - 2018
+AB  - Summary This chapter focuses on personality disorder (PD) and its relationship with offending behaviour in adults who have intellectual disabilities. Extensive work has examined the diagnostic criteria for PDs in people who have intellectual and developmental disabilities (IDD) and for the most part little modification in criteria are recommended especially for the two most frequent PD's found in offenders who have IDD, borderline, and antisocial PD. People who have PDs frequently present with co-morbid mental health difficulties such as anxiety, depression, or post-traumatic stress disorder. Pharmacological interventions for co-morbid mental disorders, in particular depression and anxiety, should be in line with recommendations in the relevant NICE clinical guideline. Treatment options for people with IDD and PD who offend can only be based on the developing research on interventions with people who have PD in the general population, offenders with PD in the general population.
+ER  - 
+
+TY  - JOUR
+AU  - Thomas, P. A.
+AU  - Kaliamurthy, J.
+TI  - Mycotic keratitis: epidemiology, diagnosis and management
+JO  - Clinical Microbiology and Infection
+JA  - Clin Microbiol Infect
+VL  - 19
+IS  - 3
+SN  - 9781119316251
+UR  - https://doi.org/10.1111/1469-0691.12126
+DO  - doi:10.1111/1469-0691.12126
+SP  - 210
+EP  - 220
+KW  - Azoles
+KW  - confocal microscopy
+KW  - culture
+KW  - direct microscopy
+KW  - epidemiology
+KW  - fungal keratitis
+KW  - mycotic keratitis
+KW  - polymerase chain reaction
+KW  - voriconazole
+PY  - 2013
+AB  - Abstract Mycotic keratitis (an infection of the cornea) is an important ocular infection, especially in young male outdoor workers. There are two frequent presentations: keratitis due to filamentous fungi (Fusarium, Aspergillus, phaeohyphomycetes and Scedosporium apiospermum are frequent causes) and keratitis due to yeast-like fungi (Candida albicans and other Candida species). In the former, trauma is usually the sole predisposing factor, although previous use of corticosteroids and contact lens wear are gaining importance as risk factors; in the latter, there is usually some systemic or local (ocular) defect. The clinical presentation and clinical features may suggest a diagnosis of mycotic keratitis; increasingly, in vivo (non-invasive) imaging techniques (confocal microscopy and anterior segment optical coherence tomography) are also being used for diagnosis. However, microbiological investigations, particularly direct microscopic examination and culture of corneal scrape or biopsy material, still form the cornerstone of diagnosis. In recent years, the PCR has gained prominence as a diagnostic aid for mycotic keratitis, being used to complement microbiological methods; more importantly, this molecular method permits rapid specific identification of the aetiological agent. Although various antifungal compounds have been used for therapy, management of this condition (particularly if deep lesions occur) continues to be problematic; topical natamycin and, increasingly, voriconazole (given by various routes) are key therapeutic agents. Therapeutic surgery, such as therapeutic penetrating keratoplasty, is needed when medical therapy fails. Increased awareness of the importance of this condition is likely to spur future research initiatives.
+ER  - 
+
+TY  - JOUR
+AU  - BOOTS, Robert J.
+AU  - PHILLIPS, Gael E.
+AU  - GEORGE, Narelle
+AU  - FAOAGALI, Joan L.
+TI  - Surveillance culture utility and safety using low-volume blind bronchoalveolar lavage in the diagnosis of ventilator-associated pneumonia
+JO  - Respirology
+VL  - 13
+IS  - 1
+SN  - 9781119316251
+UR  - https://doi.org/10.1111/j.1440-1843.2007.01211.x
+DO  - doi:10.1111/j.1440-1843.2007.01211.x
+SP  - 87
+EP  - 96
+KW  - non-directed BAL
+KW  - surveillance culture
+KW  - ventilator-associated pneumonia
+PY  - 2008
+AB  - Background and objectives:? Surveillance cultures may improve the prediction of ventilator-associated pneumonia (VAP) and empirical antibiotic selection. This study examined the utility and patient safety of blind, non-protected, low-volume mini-bronchial lavage (BM-BAL) surveillance cultures in predicting VAP. Methodology:? A prospective, cohort study was performed in a large general intensive care unit. BM-BALs were collected within 12?h of admission then thrice weekly. Each BM-BAL was screened by Gram staining for intracellular organisms and then quantitatively cultured. VAP was diagnosed using the Clinical Pulmonary Infection Score. The concordance for isolates from the BM-BAL was assessed against concurrently collected endotracheal aspirates (EA). Results:? Four hundred and twelve patients requiring a minimum of 48?h of mechanical ventilation were enrolled. Fifty patients developed 58 episodes of VAP. Concordant pathogens were found in 85% of BM-BAL specimens collected 2?days prior to VAP onset. Their antibiograms were stable over the preceding 4?days. The isolation of pathogens with colony counts ≥104?cfu/mL from BM-BAL performed 2?days prior to the clinical onset of VAP had a sensitivity of 84%, specificity of 50%, positive predictive value of 31% and a negative predictive value of 93% for predicting the development of VAP. BM-BAL WCC, quantification of bacterial growth and the percentage of intracellular organisms were not helpful in predicting VAP diagnosis. Conclusions:? BM-BAL surveillance cultures are well tolerated and useful in predicting the pathogens and their antibiograms causing VAP. Diagnostic specimen collection at the time of VAP onset is still required as surveillance cultures may be negative even one day prior to VAP onset.
+ER  - 
+
+TY  - JOUR
+AU  - Zampetti, A.
+AU  - Orteu, C.H.
+AU  - Antuzzi, D.
+AU  - Bongiorno, M.R.
+AU  - Manco, S.
+AU  - Gnarra, M.
+AU  - Morrone, A.
+AU  - Cardinali, G.
+AU  - Kovacs, D.
+AU  - Aspite, N.
+AU  - Linder, D.
+AU  - Parini, R.
+AU  - Feliciani, C.
+AU  - the Interdisciplinary Study Group on Fabry Disease (ISGF)
+TI  - Angiokeratoma: decision-making aid for the diagnosis of Fabry disease
+JO  - British Journal of Dermatology
+VL  - 166
+IS  - 4
+SN  - 9781119316251
+UR  - https://doi.org/10.1111/j.1365-2133.2012.10742.x
+DO  - doi:10.1111/j.1365-2133.2012.10742.x
+SP  - 712
+EP  - 720
+PY  - 2012
+AB  - Summary Isolated angiokeratomas are common benign cutaneous lesions, generally deemed unworthy of further investigation. In contrast, diffuse angiokeratomas should alert the physician to a possible diagnosis of Fabry disease, a rare X-linked lysosomal storage disorder, characterized by α-galactosidase deficiency. Glycosphingolipids accumulate in cells throughout the body resulting in progressive multi-organ failure. Difficulties are encountered when trying to interpret the significance of angiokeratomas because they may also occur in other lysosomal storage disorders and rarely in an isolated manner in Fabry disease. We present an algorithm for the classification of angiokeratomas which might prove useful for the diagnosis and management of Fabry disease. Assessment of the clinical features and location of the lesions, personal and family history, skin biopsy, dermoscopy and electron microscopy imaging are sequential steps in the diagnostic process. Assessing the deficiency of α-galactosidase enzyme activity is essential to confirm the diagnosis in males, while mutation analysis is always needed in females. Potentially this algorithm can change the current approach to patients when Fabry disease is suspected, thus improving the diagnostic strategy and management of this disorder. It remains to be decided whether the use of an algorithm might reduce the number of genetic consultations. As evidence has shown the efficacy of enzyme replacement therapy in halting progression of the disease before the onset of irreversible organ damage, it is advisable to aim at an early diagnosis in order to achieve timely initiation of effective treatment with benefits for patients and appropriate use of medical resources.
+ER  - 
+
+TY  - JOUR
+AU  - Goggs, R.
+AU  - Chan, D. L.
+AU  - Benigni, L.
+AU  - Hirst, C.
+AU  - Kellett-Gregory, L.
+AU  - Fuentes, V. L.
+TI  - Comparison of computed tomography pulmonary angiography and point-of-care tests for pulmonary thromboembolism diagnosis in dogs
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 55
+IS  - 4
+SN  - 9781119316251
+UR  - https://doi.org/10.1111/jsap.12185
+DO  - doi:10.1111/jsap.12185
+SP  - 190
+EP  - 197
+PY  - 2014
+AB  - Objectives To evaluate the feasibility of CT pulmonary angiography for identification of naturally occurring pulmonary thromboembolism in dogs using predefined diagnostic criteria and to assess the ability of echocardiography, cardiac troponins, D-dimers and kaolin-activated thromboelastography to predict the presence of pulmonary thromboembolism in dogs. Methods Twelve dogs with immune-mediated haemolytic anaemia and evidence of respiratory distress were prospectively evaluated. Dogs were sedated immediately before CT pulmonary angiography using intravenous butorphanol. Spiral CT pulmonary angiography was performed with a 16 detector-row CT scanner using a pressure injector to infuse contrast media through peripheral intravenous catheters. Pulmonary thromboembolism was diagnosed using predefined criteria. Contemporaneous tests included echocardiography, arterial blood gas analysis, kaolin-activated thromboelastography, D-dimers and cardiac troponins. Results Based on predefined criteria, four dogs were classified as pulmonary thromboembolism positive, three dogs were suspected to have pulmonary thromboembolism and the remaining five dogs had negative scans. The four dogs identified with pulmonary thromboembolism all had discrete filling defects in main or lobar pulmonary arteries. None of the contemporaneous tests was discriminant for pulmonary thromboembolism diagnosis, although the small sample size was limiting. Clinical Significance CT pulmonary angiography can be successfully performed in dogs under sedation, even in at-risk patients with respiratory distress and can both confirm and rule out pulmonary thromboembolism in dogs.
+ER  - 
+
+TY  - JOUR
+AU  - Moule, AJ
+AU  - Moule, CA
+TI  - The endodontic management of traumatized permanent anterior teeth: a review
+JO  - Australian Dental Journal
+VL  - 52
+IS  - s1
+SN  - 9781119316251
+UR  - https://doi.org/10.1111/j.1834-7819.2007.tb00520.x
+DO  - doi:10.1111/j.1834-7819.2007.tb00520.x
+SP  - S122
+EP  - S137
+KW  - Dental trauma
+KW  - review
+PY  - 2007
+AB  - Abstract Despite the many journal articles and reviews that have been published regarding the treatment of trauma to teeth, the endodontic management of these injuries is often still not fully understood. The purpose of this review is to establish clear and up-to-date guidelines for practitioners who are faced with treating dental injuries on a day-to-day basis, based on an assessment of current available scientific information relating to the endodontic management of these injuries. Treatment is discussed under the headings: infractions, uncomplicated crown fractures, complicated crown fractures, crown-root fractures, root fractures, luxation injuries, avulsion, root resorption, pulp canal obliteration and open-apex teeth. Emphasis is placed on the treatment of traumatized immature teeth where maintenance of pulp blood supply is important to encourage continued development of the root system. Only the treatment of traumatized permanent anterior teeth is reviewed. Information contained in this article is based on a review of the literature on dental trauma which involved a MEDLINE search using the key words ?dental trauma? and the individual topics listed above. The guidelines produced by the International Association of Dental Traumatology, the American Academy of Pediatric Dentistry and the American Association of Endodontists were also reviewed and the recommendations contained in this paper are in concert with the major recommendations of these bodies.
+ER  - 

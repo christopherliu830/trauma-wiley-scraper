@@ -1,0 +1,412 @@
+
+TY  - JOUR
+AU  - Joseph, Gabby B.
+AU  - McCulloch, Charles E.
+AU  - Nevitt, Michael C.
+AU  - Neumann, Jan
+AU  - Lynch, John A
+AU  - Lane, Nancy E.
+AU  - Link, Thomas M.
+TI  - Associations between Vitamin C and D Intake and Cartilage Composition and Knee Joint Morphology over 4 years: Data from the Osteoarthritis Initiative
+JO  - Arthritis Care & Research
+JA  - Arthritis Care Res
+VL  - n/a
+IS  - n/a
+SN  - 2151-464X
+UR  - https://doi.org/10.1002/acr.24021
+DO  - doi:10.1002/acr.24021
+AB  - Abstract Objective To determine the cross-sectional and longitudinal associations of vitamin C and D intake with magnetic resonance (MR) imaging measures of cartilage composition (T2) and joint structure (cartilage, meniscus, and bone marrow) using data from the Osteoarthritis Initiative (OAI) cohort. Methods 1785 subjects with radiographic Kellgren Lawrence knee grades 0-3 in the right knee were selected from the OAI database. Vitamin C and vitamin D intakes (diet, supplements, and total) were assessed from the baseline Block Brief 2000 questionnaire. The MRI analysis protocol included 3T cartilage T2 quantification and semi-quantitative joint morphology gradings (WORMS) at baseline and 4 years. Linear regression was used to assess the association between standardized baseline vitamin intake and both baseline WORMS scores and standardized cartilage T2. Results Higher vitamin C intake was associated with lower average cartilage T2, medial tibia T2 and medial tibia WORMS (coeff_standardized range: -0.07 to -0.05, p<0.05). Higher vitamin D intake was associated with lower cartilage WORMS sum score and medial femur WORMS score (coeff_standardized range: -0.24 to -0.09, p<0.05). Consistent use of vitamin D supplements over 4 years of 400 IU at least once a week was associated with significantly less worsening of cartilage, meniscus and bone marrow abnormalities (odds ratio range: 0.40 to 0.56, p<0.05). Conclusion Supplementation with vitamin D over four years was associated with significantly less progression of knee joint abnormalities. Given the observational nature of this study, future longitudinal randomized controlled trials of vitamin D supplementation are warranted. This article is protected by copyright. All rights reserved.
+ER  - 
+
+TY  - JOUR
+AU  - Hwang, Yong-Hyun
+AU  - Lee, Hee-Chun
+AU  - Lee, Jae-Hoon
+TI  - Operative Techniques and Preliminary Outcomes Following Percutaneous Endoscopic Thoracolumbar Pediculectomy in Dogs
+JO  - Veterinary Surgery
+JA  - Veterinary Surgery
+VL  - 45
+IS  - S1
+SN  - 0161-3499
+UR  - https://doi.org/10.1111/vsu.12569
+DO  - doi:10.1111/vsu.12569
+SP  - O84
+EP  - O94
+PY  - 2016
+AB  - Objective To examine the technical feasibility of percutaneous endoscopic pediculectomy using a lateral approach and to evaluate its use for decompression and examination of the thoracic and lumbar spinal canals in small dogs. Study Design Experimental study. Animals Clinically normal adult dogs (n=10). Methods After optimizing the technique in cadavers, percutaneous endoscopic pediculectomy was performed using a lateral approach to the thoracic (T12) or lumbar (L2) vertebrae in 5 dogs each. Using fluoroscopic guidance, a K-wire, dilator, and (cannula) working sleeve were placed. A window for visualizing the spinal cord and floor of the spinal canal was created using a specialized drill, rongeurs, trephine, and elevator. Gait and neurologic status were monitored postoperatively, and computed tomography (CT) and magnetic resonance imaging (MRI) performed. Results All procedures were completed successfully (T12, 45?±?13 minutes; L2, 59?±?14 minutes) with clear observation of the spinal cord and floor of the spinal canal. Normal ambulation was maintained in 9 dogs. One dog in the L2 group had ipsilateral hind limb weakness that resolved within 4 days. One dog in the L2 group suffered a fracture of the accessory process. One dog each in the T12 and L2 groups had hyperintense lesions on T2-weighted MRI images, suspicious of focal edema, which reduced at 4 weeks after initial examination, possibly reflecting gliosis. Conclusion Pediculectomy using a percutaneous endoscopic thoracolumbar lateral approach is feasible, provides a good view of the spinal canal, and may be an alternative for treatment of disk disease in dogs.
+ER  - 
+
+TY  - JOUR
+AU  - Bay, Erwin
+AU  - Deán-Ben, Xosé Luís
+AU  - Pang, Genny A.
+AU  - Douplik, Alexandre
+AU  - Razansky, Daniel
+TI  - Real-time monitoring of incision profile during laser surgery using shock wave detection
+JO  - Journal of Biophotonics
+JA  - J. Biophoton
+VL  - 8
+IS  - 1-2
+SN  - 1864-063X
+UR  - https://doi.org/10.1002/jbio.201300151
+DO  - doi:10.1002/jbio.201300151
+SP  - 102
+EP  - 111
+KW  - pulsed laser tissue ablation
+KW  - laser surgery
+KW  - laser scalpel
+KW  - surgically-created structures
+KW  - operative time
+KW  - intraoperative complications
+KW  - intraoperative monitoring
+KW  - high-energy shock waves
+PY  - 2015
+AB  - Lack of sensory feedback during laser surgery prevents surgeons from discerning the exact location of the incision, which increases duration and complexity of the treatment. In this study we demonstrate a new method for monitoring of laser ablation procedures. Real-time tracking of the exact three dimensional (3D) lesion profile is accomplished by detection of shock waves emanating from the ablation spot and subsequent reconstruction of the incision location using time-of-flight data obtained from multiple acoustic detectors. Here, incisions of up to 9 mm in depth, created by pulsed laser ablation of fresh bovine tissue samples, were successfully monitored in real time. It was further observed that, by utilizing as little as 12 detection elements, the incision profile can be characterized with accuracy below 0.5 mm in all three dimensions and in good agreement with histological examinations. The proposed method holds therefore promise for delivering high precision real-time feedback during laser surgeries. (? 2013 WILEY-VCH Verlag GmbH &Co. KGaA, Weinheim)
+ER  - 
+
+TY  - JOUR
+TI  - Friday 22 April 2016
+JO  - Journal of Medical Radiation Sciences
+JA  - J Med Radiat Sci
+VL  - 63
+IS  - S1
+SN  - 2051-3895
+UR  - https://doi.org/10.1002/jmrs.166
+DO  - doi:10.1002/jmrs.166
+SP  - 3
+EP  - 44
+PY  - 2016
+ER  - 
+
+AU  - Courtois, Bernard
+C7  - pp. 189-213
+TI  - Fabrication Examples based on Standard CMOS and MEMS Processes
+SN  - 9780470641903
+UR  - https://doi.org/10.1002/9781118016497.ch7
+DO  - doi:10.1002/9781118016497.ch7
+SP  - 189-213
+KW  - biomedical applications
+KW  - bulk micromachining MEMS
+KW  - CMP
+KW  - integrated circuit
+KW  - multi user MEMS processes
+KW  - standard BiCMOS process
+KW  - standard CMOS process
+PY  - 2016
+AB  - Summary To address many real-life applications, ICs are necessary, but additional, basically mechanical features are also often necessary. All these features are usually provided by micro-electromechanical systems (MEMS). Several types of MEMS are available from CMP, and these are classified into two categories. The first category consists of two bulk micromachining MEMS, one based on a standard CMOS process and the other on a standard BiCMOS process. The second category consists of the specific MEMS processes such as the Multi User MEMS Processes (MUMPs) and Sandia Ultra-planar Multi-level MEMS Technology V (SUMMiT V). In these processes, very advanced systems can be created on moveable platforms. Biomedical applications of electronics and MEMS in general include implant devices and biosensors, DNA-based systems, analytical protein arrays, and cell-based systems. This chapter addresses a few examples of what can be achieved with standard processes, for example, those available from CMP. Controlled Vocabulary Terms BiCMOS integrated circuits; biomedical electronics; bioMEMS; biosensors; CMOS integrated circuits; microfabrication
+ER  - 
+
+TY  - JOUR
+AU  - WONG, D C
+AU  - SIDDLE, K J
+TI  - After-hours radiology
+JO  - Australasian Radiology
+VL  - 38
+IS  - 4
+SN  - 9780470641903
+UR  - https://doi.org/10.1111/j.1440-1673.1994.tb00211.x
+DO  - doi:10.1111/j.1440-1673.1994.tb00211.x
+SP  - 326
+EP  - 330
+KW  - after-hours
+KW  - out-of-hours radiology
+KW  - procedures
+PY  - 1994
+AB  - SUMMARY After-hours radiological procedures are essential but expensive in any major teaching hospital. Using the criteria that radiological procedures performed after-hours should have a reasonable probability of influencing or changing patient management acutely, a study of the justification of after-hours radiological procedures was performed at the Princess Alexandra Hospital. Computer print-outs were used to select the patients based on the dates and times of the procedures. Their charts were then reviewed. The study found that most after-hours radiological procedures were justified. However, it also identified certain procedures that need not be performed or at least could be reduced after-hours. The procedures were: (i) computed tomography (CT) head ? epilepsy, meningitis; (ii) CT abdomen ? trauma (intubated) ? unable to examine abdomen; (iii) CT spine ? obvious unstable fractures; (iv) Ultrasound abdomen ? biliary colic (afebrile); and (v) Ultrasound kidneys ? renal failure (afebrile).
+ER  - 
+
+TY  - JOUR
+AU  - Hackeloer, B.-Joackhim
+TI  - WS18-02Modern breast ultrasound
+JO  - Ultrasound in Obstetrics & Gynecology
+VL  - 16
+IS  - s1
+SN  - 9780470641903
+UR  - https://doi.org/10.1046/j.1469-0705.2000.00009-1-121.x
+DO  - doi:10.1046/j.1469-0705.2000.00009-1-121.x
+SP  - 34
+EP  - 34
+PY  - 2000
+AB  - Development during the past 5?years increased significantly the quality of ultrasound mammography. After trying to receive better image quality by using higher and higher frequencies up to 20 Mhz the todays breakthrough was reached by better scan converter and transducer technology. Broadband tranducers, harmonic imaging, Siescape, Angio-powerdoppler, SonoCT, 3-D imaging and the use of contrast agent improved not only image but diagnostic quality of the method. The better scin, nipple, ductal an microcalcification visualization in combination with better mass delineation allowed a diagnostic accuracy equally or better than X-ray mammography. Ultrasound mammography is the logical examination following breast palpation, can complement mammography in all patients, substitute too frequent mammography controls and save unnecessary MRIs. Unfortunately the method suffers from lack of qualified education & training, qualified users and qualified payment. Gynecologists, radiologists and surgeons should struggle together to establish the method in a appropriate way ? in the interest of all women.
+ER  - 
+
+TY  - JOUR
+AU  - Yates, J.M.
+AU  - Bolt, R.
+AU  - Nahabedian, V.
+AU  - Fernando, M.
+AU  - Hunter, K.D.
+TI  - Primary cutaneous follicle centre lymphoma in the head and neck: don't judge a lump by its presentation
+JO  - Oral Surgery
+JA  - Oral Surgery
+VL  - 7
+IS  - 2
+SN  - 9780470641903
+UR  - https://doi.org/10.1111/ors.12059
+DO  - doi:10.1111/ors.12059
+SP  - 103
+EP  - 108
+KW  - diagnosis
+KW  - facial swelling
+KW  - maxillofacial
+KW  - primary cutaneous follicle centre lymphoma
+KW  - trauma
+PY  - 2014
+AB  - Abstract Isolated swellings within the head and neck region are common phenomena, with the majority being readily diagnosed and appropriately managed. While history alone will often assist in arriving at a correct diagnosis, discrepancies and inconsistencies in the clinical picture should act as a prompt for the clinician to consider the prospect of having encountered less common pathology. We report a case of an unusual supra-orbital swelling where the history, clinical findings and initial investigations masked a rare diagnosis. The differential diagnoses for this case principally included haematoma, infection and cutaneous cyst. However, following a period of review with no improvement in either symptoms or objective clinical measures, incisional biopsy confirmed a diagnosis of primary cutaneous follicle centre lymphoma. Management thereafter involved referral for lymphoma specialist assessment, with subsequent investigation to establish the level of locoregional and/or systemic involvement and the initiation of appropriate radiotherapy.
+ER  - 
+
+TY  - JOUR
+TI  - Saturday 30 March, 2019
+JO  - Journal of Medical Radiation Sciences
+JA  - J Med Radiat Sci
+VL  - 66
+IS  - S1
+SN  - 9780470641903
+UR  - https://doi.org/10.1002/jmrs.1_324
+DO  - doi:10.1002/jmrs.1_324
+SP  - 36
+EP  - 79
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+AU  - Pagnozzi, Alex M.
+AU  - Conti, Eugenia
+AU  - Calderoni, Sara
+AU  - Fripp, Jurgen
+AU  - Rose, Stephen E.
+TI  - A systematic review of structural MRI biomarkers in autism spectrum disorder: A machine learning perspective
+JO  - International Journal of Developmental Neuroscience
+JA  - International Journal of Developmental Neuroscience
+VL  - 71
+IS  - C
+SN  - 9780470641903
+UR  - https://doi.org/10.1016/j.ijdevneu.2018.08.010
+DO  - doi:10.1016/j.ijdevneu.2018.08.010
+SP  - 68
+EP  - 82
+KW  - Autism spectrum disorder
+KW  - Structural magnetic resonance imaging
+KW  - Biomarkers
+KW  - Machine learning
+PY  - 2018
+AB  - Abstract Autism Spectrum Disorder (ASD) affects approximately 1% of the population and leads to impairments in social interaction, communication and restricted, repetitive behaviours. Establishing robust neuroimaging biomarkers of ASD using structural magnetic resonance imaging (MRI) is an important step for diagnosing and tailoring treatment, particularly early in life when interventions can have the greatest effect. However currently, there is mixed findings on the structural brain changes associated with autism. Therefore in this systematic review, recent (post-2007), high-resolution (3?T) MRI studies investigating brain morphology associated with ASD have been collated to identify robust neuroimaging biomarkers of ASD. A systematic search was conducted on three databases; PubMed, Web of Science and Scopus, resulting in 123 reviewed articles. Patients with ASD were observed to have increased whole brain volume, particularly under 6 years of age. Other consistent changes observed in ASD patients include increased volume in the frontal and temporal lobes, increased cortical thickness in the frontal lobe, increased surface area and cortical gyrification, and increased cerebrospinal fluid volume, as well as reduced cerebellum volume and reduced corpus callosum volume, compared to typically developing controls. Findings were inconsistent regarding the developmental trajectory of brain volume and cortical thinning with age in ASD, as well as potential volume differences in the white matter, hippocampus, amygdala, thalamus and basal ganglia. To elucidate these inconsistencies, future studies should look towards aggregating MRI data from multiple sites or available repositories to avoid underpowered studies, as well as utilising methods which quantify larger-scale image features to reduce the number of statistical tests performed, and hence risk of false positive findings. Additionally, studies should look to perform a thorough validation strategy, to ensure generalisability of study findings, as well as look to leverage the improved image resolution of 3?T scanning to identify subtle brain changes related to ASD.
+ER  - 
+
+TY  - JOUR
+AU  - Bergstrom, B
+AU  - Foreman, J
+AU  - Foreman, C
+AU  - Barger, A
+TI  - Intra- and Inter-Day Variability in Plasma Bicarbonate Concentration in Sedentary Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 9780470641903
+UR  - https://doi.org/10.1111/evj.12267_47
+DO  - doi:10.1111/evj.12267_47
+SP  - 16
+EP  - 16
+PY  - 2014
+AB  - Introduction Alkalinizing agents have been given to horses before exercise to provide exogenous buffering effects. The objective of this experiment was to determine the intra- and inter-day variability of resting plasma tCO2. The hypothesis was that tCO2 would vary measurably during a multi-day quarantine. Methods Eight acclimated sedentary horses had jugular venous samples collected into 10-ml heparinized evacuated glass tubes 3 times daily (7 AM, 11 AM, and 3 PM) for 5 consecutive days. Horses ate 5.3?kg alfalfa hay at both 7 AM and 3 PM after blood sampling. Plasma tCO2 was determined within 1?3 hours of sampling using an automated chemistry analyzer. Mean tCO2 for all 8 horses was calculated for each of the 15 sampling intervals. Results were compared by Repeated Measures ANOVA. When there was no apparent day-to-day effect, data for all horses were pooled by time-of-day (n?=?40 samples for each of 3 times-of-day) and compared by the Student's t test to determine time-of-day effect. P<0.05 was considered significant. Results Mean tCO2 over the 15 sampling intervals ranged from 28.9-to-31.6?mmol/L and was lower at 11 AM (Day 1) and 3 PM (Days 1, 3, and 4) compared to 7 AM on Day 1 (P<0.05). Individual plasma tCO2 ranged over 4-to-7 units (low 26, high 34, widest range 26?32, narrowest 28?31). Mean pooled tCO2 differed by time-of-day, with 11 AM (30.1?±?0.2, P?=?0.011) and 3 PM (29.8?±?0.2, P<0.001) values lower than 7 AM values (31.0?±?0.2). Conclusions Plasma tCO2 differed significantly by time-of-day with considerable intra- and inter-individual variability. Ethical Animal Research The study was approved by the University of Illinois Institutional Animal Care and Use Committee. Sources of funding:?Fédération Equestre Internationale and Maria Caleel Fund for Equine Sports Medicine Research. Support for Dr. Bergstrom was provided by the Merial Veterinary Scholars Program. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Harris, P
+AU  - Roberts, C
+AU  - Armstrong, S
+AU  - Murray, R
+AU  - Handel, I
+TI  - Heart Rate Responses in Show-Jumpers Over A Three-Day Training Session
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 9780470641903
+UR  - https://doi.org/10.1111/evj.12267_53
+DO  - doi:10.1111/evj.12267_53
+SP  - 18
+EP  - 18
+PY  - 2014
+AB  - Introduction The objective of this study was to provide more information regarding the relationship between heart rate (HR) and performance in show-jumpers. Methods Ten mixed breed horses (9.1?±?1.9?yrs) were assessed at a British Equestrian Federation (BEF) World Class Performance three-day training session. Riders received coaching during warm-up (WU) and after jumping a 15 fence (1.35?1.45?m) course once on day-1, twice on days 2  on day-3 the second round was an 8-fence jump-off. Clinical assessments were performed, and plasma lactate concentrations determined, pre- and post-exercise. Take-off distance (TDF) was determined using high-speed motion capture. The coach graded horse jumping technique (validated methodology). HR was recorded telemetrically from WU until 10?mins post-exercise. Variables were compared using regression procedures/Spearman correlation and paired Students t-test (P<0.05). Results HR was not significantly different between days or consecutive jumping rounds. Mean HR was lower in WU than during the course (127?±?11 vs 136?±?16: P?=?0.027), likely related to increased speed during the course, although HRpeak tended to be higher during WU day- 1 possibly reflecting excitement. Mean HR increased for each quarter during the course. Higher mean course and third-quarter HR were associated with higher blood lactate concentrations (P?=?0.047), greater gluteal and longissimus dorsi muscle spasm on palpation (P<0.01), more faults (P?=?0.044) and lower technique scores (P?=?0.019). TDF was negatively correlated with mean course and third-quarter HR, indicating that closer take-off may be harder work (P<0.01). Conclusions HR increases throughout a jumping course. Higher HRs may be associated with jumping inefficiency and muscle spasm, with potential performance implications for multi-day competitions. Ethical Animal Research Explicit owner informed consent for participation in this study is not stated. Sources of funding:?The World Class Development Programme is funded by the Department for Culture, Media and Sport, through Exchequer and National Lottery funds, via UK Sport. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Oliveira, A. M.
+AU  - Obwolo, M. J.
+AU  -             Van Den Broek, A. H. M.
+AU  - Thoday, K. L.
+TI  - Focal metatarsal sinus tracts in a Weimaraner successfully managed with ciclosporin
+JO  - Journal of Small Animal Practice
+VL  - 48
+IS  - 3
+SN  - 9780470641903
+UR  - https://doi.org/10.1111/j.1748-5827.2006.00147.x
+DO  - doi:10.1111/j.1748-5827.2006.00147.x
+SP  - 161
+EP  - 164
+PY  - 2007
+AB  - Focal metatarsal sinus tracts (?fistulation?) are, to the authors knowledge, reported for the first time in a Weimaraner. The six-year-old, entire male had a five-month history of two symmetrical, well-demarcated sinuses on the plantar aspect of each metatarsus. The area surrounding each pair of sinuses was slightly fluctuant and a serosanguineous discharge could be expressed. Cytological examination of the discharge was characteristic of pyogranulomatous inflammation. Bacterial culture showed the material to be sterile. Examination of a skin biopsy revealed a severe inflammatory reaction involving the dermal collagen, with an infiltrate of neutrophils, macrophages, lymphocytes, plasma cells and multi-nucleated giant cells, with some micro-pustule formation. Treatment with ciclosporin induced total remission. Reduction of the dose of ciclosporin resulted in recurrence of the physical signs with further remission on re-introduction of the original dosage. This is the first report of the use of ciclosporin to control this condition.
+ER  - 
+
+TY  - JOUR
+AU  - Cai, Peian
+AU  - Lu, Zhenhui
+AU  - Jiang, Tongmeng
+AU  - Wang, Zetao
+AU  - Yang, Yifeng
+AU  - Zheng, Li
+AU  - Zhao, Jinmin
+TI  - Syndecan-4 involves in the pathogenesis of rheumatoid arthritis by regulating the inflammatory response and apoptosis of fibroblast-like synoviocytes
+JO  - Journal of Cellular Physiology
+JA  - J Cell Physiol
+VL  - 235
+IS  - 2
+SN  - 9780470641903
+UR  - https://doi.org/10.1002/jcp.29093
+DO  - doi:10.1002/jcp.29093
+SP  - 1746
+EP  - 1758
+KW  - apoptosis
+KW  - fibroblast-like synoviocytes
+KW  - inflammation
+KW  - rheumatoid arthritis
+KW  - syndecan-4
+PY  - 2020
+AB  - Abstract Rheumatoid arthritis (RA) is a chronic autoimmune inflammatory disease, and the pathogenesis of RA is still unknown. Rheumatoid arthritis fibroblast-like synoviocytes (RA-FLSs) are of significance in the pathogenesis of RA. In this study, three microarray profiles (GSE55457, GSE55584, and GSE55235) of human joint FLSs from 33 RA patients and 20 normal controls were extracted from the Gene Expression Omnibus Dataset and analyzed to investigate the underlying pathogenesis of RA. As analyzed by the differently expressed genes, gene ontology, Kyoto Encyclopedia of Genes and Genomes pathway enrichment, and protein-protein interaction network analysis, syndecan-4 (SDC4), a receptor of multiple cytokines and chemokines, which played a key role in the regulation of inflammatory response, was found to be an essential regulator in RA. To further validate these results, the levels of SDC4, reactive oxygen species (ROS), nitric oxide (NO), inflammation, and apoptosis in RA-FLSs were examined. SDC4-silenced RA-FLSs were also used. The results demonstrated that SDC4 and the level of ROS, NO, and inflammation were highly expressed while the apoptosis was decreased in RA-FLSs compared with normal FLSs. SDC4 silencing significantly suppressed the levels of ROS, NO, and inflammation; elevated the expression of nuclear factor erythroid 2-related factor 2; and promoted the apoptosis of RA-FLSs. Collectively, our results demonstrated a new mechanism of SDC4 in initiating the inflammation and inhibiting the apoptosis of RA-FLSs and that a potential target for the diagnosis and treatment of RA in the clinic might be developed.
+ER  - 
+
+TY  - JOUR
+AU  - Hongo, Takashi
+AU  - Momoki, Noriya
+AU  - Mae, Souichiro
+AU  - Nozaki, Satoshi
+AU  - Takahashi, Kenji
+AU  - Fujiwara, Toshifumi
+C7  - e457
+TI  - A rare case of Reye's syndrome induced by influenza A virus with use of ibuprofen in an adult
+JO  - Acute Medicine & Surgery
+JA  - Acute Med Surg
+VL  - 7
+IS  - 1
+SN  - 9780470641903
+UR  - https://doi.org/10.1002/ams2.457
+DO  - doi:10.1002/ams2.457
+SP  - e457
+KW  - Acute liver failure
+KW  - encephalopathy
+KW  - ER
+KW  - influenza A
+KW  - Reye's syndrome
+PY  - 2020
+AB  - Background Reye's syndrome (RS) is a rare but severe acute life-threating disease characterized by encephalopathy and fatty liver damage. Reye's syndrome is most common in children and rarely occurs in adults. Case presentation A 56-year-old woman was admitted to the emergency department with disturbance of consciousness and respiratory failure. She had taken ibuprofen for headache. Her Glasgow Coma Scale score was E3V3M5 on admission. The laboratory findings revealed acute liver failure with prothrombin time ? international normalized ratio of 3.16, aspartate aminotransferase 12,548 IU/L, alanine aminotransferase 5,725 IU/L, and blood ammonia 102 ?g/dL. Head magnetic resonance imaging showed hyperintense signals on diffusion-weighed images of globus pallidus. We diagnosed the patient with RS induced by influenza A and use of ibuprofen. The patient received supportive care in the intensive care unit and her clinical outcome was favorable. Conclusion Ibuprofen might be a risk factor for RS.
+ER  - 
+
+TY  - JOUR
+AU  - Yahata, Noriaki
+AU  - Kasai, Kiyoto
+AU  - Kawato, Mitsuo
+TI  - Computational neuroscience approach to biomarkers and treatments for mental disorders
+JO  - Psychiatry and Clinical Neurosciences
+JA  - Psychiatry Clin. Neurosci.
+VL  - 71
+IS  - 4
+SN  - 9780470641903
+UR  - https://doi.org/10.1111/pcn.12502
+DO  - doi:10.1111/pcn.12502
+SP  - 215
+EP  - 237
+KW  - biomarkers
+KW  - computational psychiatry
+KW  - machine learning
+KW  - neuroimaging
+KW  - resting-state functional connectivity
+PY  - 2017
+AB  - Psychiatry research has long experienced a stagnation stemming from a lack of understanding of the neurobiological underpinnings of phenomenologically defined mental disorders. Recently, the application of computational neuroscience to psychiatry research has shown great promise in establishing a link between phenomenological and pathophysiological aspects of mental disorders, thereby recasting current nosology in more biologically meaningful dimensions. In this review, we highlight recent investigations into computational neuroscience that have undertaken either theory- or data-driven approaches to quantitatively delineate the mechanisms of mental disorders. The theory-driven approach, including reinforcement learning models, plays an integrative role in this process by enabling correspondence between behavior and disorder-specific alterations at multiple levels of brain organization, ranging from molecules to cells to circuits. Previous studies have explicated a plethora of defining symptoms of mental disorders, including anhedonia, inattention, and poor executive function. The data-driven approach, on the other hand, is an emerging field in computational neuroscience seeking to identify disorder-specific features among high-dimensional big data. Remarkably, various machine-learning techniques have been applied to neuroimaging data, and the extracted disorder-specific features have been used for automatic case?control classification. For many disorders, the reported accuracies have reached 90% or more. However, we note that rigorous tests on independent cohorts are critically required to translate this research into clinical applications. Finally, we discuss the utility of the disorder-specific features found by the data-driven approach to psychiatric therapies, including neurofeedback. Such developments will allow simultaneous diagnosis and treatment of mental disorders using neuroimaging, thereby establishing ?theranostics? for the first time in clinical psychiatry.
+ER  - 
+
+TY  - JOUR
+TI  - Sunday 18 March 2018
+JO  - Journal of Medical Radiation Sciences
+JA  - J Med Radiat Sci
+VL  - 65
+IS  - S1
+SN  - 9780470641903
+UR  - https://doi.org/10.1002/jmrs.2_259
+DO  - doi:10.1002/jmrs.2_259
+SP  - 65
+EP  - 87
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Huisman, M. V.
+AU  - Klok, F. A.
+TI  - Diagnostic management of acute deep vein thrombosis and pulmonary embolism
+JO  - Journal of Thrombosis and Haemostasis
+JA  - J Thromb Haemost
+VL  - 11
+IS  - 3
+SN  - 9780470641903
+UR  - https://doi.org/10.1111/jth.12124
+DO  - doi:10.1111/jth.12124
+SP  - 412
+EP  - 422
+KW  - clinical decision rule
+KW  - D-dimer
+KW  - deep vein thrombosis
+KW  - diagnostic management
+KW  - imaging
+KW  - pulmonary embolism
+KW  - venous thromboembolism
+PY  - 2013
+AB  - Summary Acute deep vein thrombosis (DVT) and pulmonary embolism (PE) represent two expressions of a similar clinical pathological process, often referred to as venous throm-boembolism (VTE). It has long been recognized that, as clinical signs and symptoms of PE and DVT are not specific for the diagnosis, objective diagnosis in both patients presenting with leg symptoms and those with chest symptoms is mandatory. Since the last review on this subject in this journal in 2009, several large trials have been performed that shed new light on all aspects of the diagnostic management of suspected VTE, especially in the field of simplified clinical decision rules, age-dependent D-dimer cut-offs and magnetic resonance imaging. A literature search covering the period 2007?2012 was performed using the Medline/PubMed database to identify all relevant papers regarding the diagnostic management of acute PE and DVT. Established concepts and the latest evidence on this subject will be the main focus of this review.
+ER  - 
+
+AU  - Collet, Pierre
+AU  - Legrand, Pierrick
+AU  - Bourgeois-République, Claire
+AU  - Péan, Vincent
+AU  - Frachet, Bruno
+C7  - pp. 329-356
+TI  - Using Interactive Evolutionary Algorithms to Help Fit Cochlear Implants
+SN  - 9781848210448
+UR  - https://doi.org/10.1002/9780470611319.ch13
+DO  - doi:10.1002/9780470611319.ch13
+SP  - 329-356
+KW  - cochlear implants
+KW  - mutation
+KW  - crossover
+KW  - initialization
+KW  - algorithmic
+PY  - 2013
+AB  - Summary This chapter contains sections titled: Introduction Choosing an optimization algorithm Adapting an evolutionary algorithm to the interactive fitting of cochlear implants Evaluation Experiments Medical issues which were raised during the experiments Algorithmic conclusions for patient A Conclusion Bibliography
+ER  - 
+
+TY  - JOUR
+AU  - Wu, Tao
+AU  - Sun, Ruimin
+AU  - Zhang, Mingqin
+AU  - Miao, Niu
+AU  - Wang, Huili
+AU  - Yang, Dongyi
+AU  - Liu, Yangyang
+AU  - Zhou, Qing
+TI  - A new diagnostic method using air perfusion radiography under DSA for gastric stump-pleural fistula: Report of five cases
+JO  - Thoracic Cancer
+JA  - Thorac Cancer
+VL  - 10
+IS  - 8
+SN  - 9781848210448
+UR  - https://doi.org/10.1111/1759-7714.13132
+DO  - doi:10.1111/1759-7714.13132
+SP  - 1736
+EP  - 1738
+KW  - Diagnosis
+KW  - DSA
+KW  - gastric stump-pleural fistula
+KW  - radiography
+PY  - 2019
+AB  - Gastric stump-pleural fistula is a common complication following gastroesophageal anastomosis in patients diagnosed with gastric cancer. Mortality is high because of the severe subsequent relevant complications caused by the fistula. Here we report five cases of gastric stump-pleural fistula diagnosed by air perfusion radiography under digital subtraction angiography (DSA). DSA air perfusion radiography provides a reliable basis for the development of clinical programmes; it is a simple method which does not involve any pain or trauma to the patient.
+ER  - 

@@ -1,0 +1,464 @@
+
+TY  - JOUR
+AU  - RAGNI, M. V.
+AU  - MOORE, C. G.
+AU  - SOADWA, K.
+AU  - NALESNIK, M. A.
+AU  - ZAJKO, A. B.
+AU  - CORTESE-HASSETT, A.
+AU  - WHITESIDE, T. L.
+AU  - HART, S.
+AU  - ZEEVI, A.
+AU  - LI, J.
+AU  - SHAIKH, O. S.
+AU  - THE HHH STUDY GROUP
+TI  - Impact of HIV on liver fibrosis in men with hepatitis C infection and haemophilia
+JO  - Haemophilia
+VL  - 17
+IS  - 1
+SN  - 1351-8216
+UR  - https://doi.org/10.1111/j.1365-2516.2010.02366.x
+DO  - doi:10.1111/j.1365-2516.2010.02366.x
+SP  - 103
+EP  - 111
+KW  - fibrosis
+KW  - haemophilia
+KW  - hepatitis C
+KW  - Metavir
+KW  - receiver operating curve
+KW  - transfusion
+PY  - 2011
+AB  - Summary.? Hepatitis C virus (HCV) is the major cause of liver disease in haemophilia. Few data exist on the proportion with liver fibrosis in this group after long-term HCV and HIV co-infection. We conducted a cross-sectional multi-centre study to determine the impact of HIV on the prevalence and risk factors for fibrosis in haemophilic men with chronic hepatitis C. Biopsies were independently scored by Ishak, Metavir and Knodell systems. Variables were tested for associations with fibrosis using logistic regression and receiver operating curves (ROC). Of 220 biopsied HCV(+) men, 23.6% had Metavir ≥F3 fibrosis, with higher mean Metavir fibrosis scores among HIV/HCV co-infected than HCV mono-infected, 1.6 vs. 1.3 (P?=?0.044). Variables significantly associated with fibrosis included AST, ALT, APRI score (AST/ULN ??100/platelet???109/L), alpha-fetoprotein (all P <?0.0001), platelets (P?= 0.0003) and ferritin (P?=?0.0008). In multiple logistic regression of serum markers, alpha-fetoprotein, APRI and ALT were significantly associated with ≥F3 fibrosis [AUROC?=?0.77 (95% CI 0.69, 0.86)]. Alpha-fetoprotein, APRI and ferritin were significant in HIV(?) [AUROC?=?0.82 (95% CI 0.72, 0.92)], and alpha-fetoprotein and platelets in HIV(+) [AUROC?=?0.77 (95% CI 0.65, 0.88]. In a multivariable model of demographic and clinical variables, transformed (natural logarithm) of alpha-fetoprotein (P?=?0.0003), age (P?=?0.006) and HCV treatment (P?=?0.027) were significantly associated with fibrosis. Nearly one-fourth of haemophilic men have Metavir ≥3 fibrosis. The odds for developing fibrosis are increased in those with elevated alpha-fetoprotein, increasing age and past HCV treatment.
+ER  - 
+
+TY  - JOUR
+AU  - Seal, John B.
+AU  - Bohorquez, Humberto
+AU  - Reichman, Trevor
+AU  - Kressel, Adam
+AU  - Ghanekar, Anand
+AU  - Cohen, Ari
+AU  - McGilvray, Ian D.
+AU  - Cattral, Mark S.
+AU  - Bruce, David
+AU  - Greig, Paul
+AU  - Carmody, Ian
+AU  - Grant, David
+AU  - Selzner, Markus
+AU  - Loss, George
+TI  - Thrombolytic protocol minimizes ischemic-type biliary complications in liver transplantation from donation after circulatory death donors
+JO  - Liver Transplantation
+JA  - Liver Transpl
+VL  - 21
+IS  - 3
+SN  - 1527-6465
+UR  - https://doi.org/10.1002/lt.24071
+DO  - doi:10.1002/lt.24071
+SP  - 321
+EP  - 328
+PY  - 2015
+AB  - Liver transplantation (LT) with donation after circulatory death (DCD) donors has been associated with a high rate of ischemic-type biliary strictures (ITBSs) and inferior graft survival. To investigate the impact of an intraoperative tissue plasminogen activator (tPA) on outcomes following DCD LT, we conducted a retrospective analysis of DCD LT at the Toronto General Hospital (TGH) and the Ochsner Medical Center (OMC). Between 2009 and 2013, 85 DCD LTs were performed with an intraoperative tPA injection (n?=?30 at TGH, n?=?55 at OMC), and they were compared with 33 DCD LTs without a tPA. Donor and recipient characteristics were similar in the 2 groups. There was no significant difference in the intraoperative packed red blood cell transfusion requirement (3.2?±?3.4 versus 3.1?±?2.3 U, P?=?0.74). Overall, biliary strictures occurred less commonly in the tPA-treated group (16.5% versus 33.3%, P?=?0.07) with a much lower rate of diffuse intrahepatic strictures (3.5% versus 21.2%, P?=?0.005). After 1 and 3 years, the tPA group versus the non-tPA group had superior patient survival (97.6% versus 87.0% and 92.7% versus 79.7%, P?=?0.016) and graft survival (96.4% versus 69.7% and 90.2% versus 63.6%, P?<?0.001). In conclusion, a tPA injection into the hepatic artery during DCD LT reduces ITBSs and improves graft and patient survival without increasing the risk for bleeding. Liver Transpl 21:321?328, 2015. ? 2015 AASLD.
+ER  - 
+
+TY  - JOUR
+AU  - Lu, Wan-Jung
+AU  - Lin, Kuan-Hung
+AU  - Tseng, Mei-Fang
+AU  - Yuan, Kuo-Ching
+AU  - Huang, Hung-Chang
+AU  - Sheu, Joen-Rong
+AU  - Chen, Ray-Jade
+TI  - New therapeutic strategy of hinokitiol in haemorrhagic shock-induced liver injury
+JO  - Journal of Cellular and Molecular Medicine
+JA  - J Cell Mol Med
+VL  - 23
+IS  - 3
+SN  - 1582-1838
+UR  - https://doi.org/10.1111/jcmm.14070
+DO  - doi:10.1111/jcmm.14070
+SP  - 1723
+EP  - 1734
+KW  - Hemorrhagic shock
+KW  - hinokitiol
+KW  - liver
+KW  - resuscitation
+KW  - trauma
+PY  - 2019
+AB  - Abstract Haemorrhagic shock and resuscitation (HS/R) may cause global ischaemia-reperfusion injury, which can result in systemic inflammation, multiorgan failure (particularly liver failure) and high mortality. Hinokitiol, a bioactive tropolone-related compound, exhibits antiplatelet and anti-inflammatory activities. Targeting inflammatory responses is a potential strategy for ameliorating hepatic injury during HS/R. Whether hinokitiol prevents hepatic injury during HS/R remains unclear. In the present study, we determined the role of hinokitiol following HS/R. The in vivo assays revealed that hinokitiol markedly attenuated HS/R-induced hepatic injury. Hinokitiol could inhibited NF-?B activation and IL-6 and TNF-α upregulation in liver tissues. Moreover, hinokitiol reduced caspase-3 activation, upregulated Bax and downregulated Bcl-2. These findings suggest that hinokitiol can ameliorate liver injury following HS/R, partly through suppression of inflammation and apoptosis. Furthermore, the in vitro data revealed that hinokitiol significantly reversed hypoxia/reoxygenation (H/R)-induced cell death and apoptosis in the primary hepatocytes. Hinokitiol prevented H/R-induced caspase-3 activation, PPAR cleavage, Bax overexpression and Bcl-2 downregulation. Moreover, hinokitiol attenuated H/R-stimulated NF-?B activation and reduced the levels of IL-6 and TNF-α mRNAs, suggesting that hinokitiol can protect hepatocytes from H/R injury. Collectively, our data suggest that hinokitiol attenuates liver injury following HS/R, partly through the inhibition of NF-?B activation.
+ER  - 
+
+TY  - JOUR
+AU  - Uynuk-Ool, Tatiana
+AU  - Rothdiener, Miriam
+AU  - Walters, Brandan
+AU  - Hegemann, Miriam
+AU  - Palm, Julian
+AU  - Nguyen, Phong
+AU  - Seeger, Tanja
+AU  - Stöckle, Ulrich
+AU  - Stegemann, Jan P.
+AU  - Aicher, Wilhelm K.
+AU  - Kurz, Bodo
+AU  - Hart, Melanie L.
+AU  - Klein, Gerd
+AU  - Rolauffs, Bernd
+C8  - TERM-15-0453.R1
+TI  - The geometrical shape of mesenchymal stromal cells measured by quantitative shape descriptors is determined by the stiffness of the biomaterial and by cyclic tensile forces
+JO  - Journal of Tissue Engineering and Regenerative Medicine
+JA  - J Tissue Eng Regen Med
+VL  - 11
+IS  - 12
+SN  - 1932-6254
+UR  - https://doi.org/10.1002/term.2263
+DO  - doi:10.1002/term.2263
+SP  - 3508
+EP  - 3522
+KW  - mesenchymal stromal cell
+KW  - MSC
+KW  - shape
+KW  - shape descriptor
+KW  - compacted collagen
+KW  - cyclic stretch
+KW  - roundness
+KW  - aspect ratio
+KW  - circularity
+KW  - solidity
+KW  - nanoscale stiffness
+KW  - myogenic differentiation
+KW  - biomaterial
+KW  - silicone
+PY  - 2017
+AB  - Abstract Controlling mesenchymal stromal cell (MSC) shape is a novel method for investigating and directing MSC behaviour in vitro. it was hypothesized that specifigc MSC shapes can be generated by using stiffness-defined biomaterial surfaces and by applying cyclic tensile forces. Biomaterials used were thin and thick silicone sheets, fibronectin coating, and compacted collagen type I sheets. The MSC morphology was quantified by shape descriptors describing dimensions and membrane protrusions. Nanoscale stiffness was measured by atomic force microscopy and the expression of smooth muscle cell (SMC) marker genes (ACTA2, TAGLN, CNN1) by quantitative reverse-transcription polymerase chain reaction. Cyclic stretch was applied with 2.5% or 5% amplitudes. Attachment to biomaterials with a higher stiffness yielded more elongated MSCs with fewer membrane protrusions compared with biomaterials with a lower stiffness. For cyclic stretch, compacted collagen sheets were selected, which were associated with the most elongated MSC shape across all investigated biomaterials. As expected, cyclic stretch elongated MSCs during stretch. One hour after cessation of stretch, however, MSC shape was rounder again, suggesting loss of stretch-induced shape. Different shape descriptor values obtained by different stretch regimes correlated significantly with the expression levels of SMC marker genes. Values of approximately 0.4 for roundness and 3.4 for aspect ratio were critical for the highest expression levels of ACTA2 and CNN1. Thus, specific shape descriptor values, which can be generated using biomaterial-associated stiffness and tensile forces, can serve as a template for the induction of specific gene expression levels in MSC. Copyright ? 2017 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Thachil, Jecko
+AU  - Warkentin, Theodore E.
+TI  - How do we approach thrombocytopenia in critically ill patients?
+JO  - British Journal of Haematology
+JA  - Br J Haematol
+VL  - 177
+IS  - 1
+SN  - 0007-1048
+UR  - https://doi.org/10.1111/bjh.14482
+DO  - doi:10.1111/bjh.14482
+SP  - 27
+EP  - 38
+KW  - anticoagulation
+KW  - critical care
+KW  - platelet
+KW  - thrombocytopenia
+KW  - thrombosis
+PY  - 2017
+AB  - Summary A low platelet count is a frequently encountered haematological abnormality in patients treated in intensive treatment units (ITUs). Although severe thrombocytopenia (platelet count <20 ? 109/l) can be associated with bleeding, even moderate-degree thrombocytopenia is associated with organ failure and adverse prognosis. The aetiology for thrombocytopenia in ITU is often multifactorial and correcting one aetiology may not normalise the low platelet count. The classical view for thrombocytopenia in this setting is consumption associated with thrombin-mediated platelet activation, but other concepts, including platelet adhesion to endothelial cells and leucocytes, platelet aggregation by increased von Willebrand factor release, red cell damage and histone release, and platelet destruction by the complement system, have recently been described. The management of severe thrombocytopenia is platelet transfusion in the presence of active bleeding or invasive procedure, but the risk-benefit of prophylactic platelet transfusions in this setting is uncertain. In this review, the incidence and mechanisms of thrombocytopenia in patients with ITU, its prognostic significance and the impact on organ function is discussed. A practical approach based on the authors' experience is described to guide management of a critically ill patient who develops thrombocytopenia.
+ER  - 
+
+TY  - JOUR
+AU  - Kaltenborn, Alexander
+AU  - Matzke, Svenja
+AU  - Kleine, Moritz
+AU  - Krech, Till
+AU  - Ramackers, Wolf
+AU  - Vondran, Florian W. R.
+AU  - Klempnauer, Jürgen
+AU  - Bektas, Hüseyin
+AU  - Schrem, Harald
+TI  - Prediction of survival and tumor recurrence in patients undergoing surgery for pancreatic neuroendocrine neoplasms
+JO  - Journal of Surgical Oncology
+JA  - J. Surg. Oncol.
+VL  - 113
+IS  - 2
+SN  - 0022-4790
+UR  - https://doi.org/10.1002/jso.24116
+DO  - doi:10.1002/jso.24116
+SP  - 194
+EP  - 202
+KW  - thrombocytes
+KW  - metastasis
+KW  - prognosis
+KW  - multivariate analysis
+KW  - pancreas
+KW  - neuroendocrine tumors
+PY  - 2016
+AB  - Background This study strives to define prognostic models for outcome after surgery for malignant pancreatic neuroendocrine tumors. Methods Forty-one patients were included. Prognostic models for mortality and disease recurrence were developed with multivariate binary logistic regression. Results The proposed prognostic model for tumor recurrence risk after surgery in percentage (AUROC?=?0.774, 95%CI?=?0.611?0.937) is: Risk in %?=?Exp(Y)/(1?+?Exp(Y)), with Y?=??4.360?+?(0.015???tumor diameter in cm)?+?(0.010???preoperative platelet count in thousand/?l)?+?(1.077???distant metastases, if yes?=?1; if no?=?0)?+?(?0.026???Ki-67-positive cells in %)?+?(?1.086???upper abdominal pain, if yes?=?1; if no?=?0). The proposed prognostic model for observed 3-year survival probability after surgery in % (AUROC?=?0.932, 95%CI?=?0.857?0.999) is: Survival probability in %?=?Exp(Y)/(1?+?Exp(Y)), with Y?=??12.492?+?(0.054???preoperative platelet count in thousand/?l)?+?(0.112???minimal distance of the resection margin from the tumor in mm)?+?(?1.574???number of positive lymph nodes)?+?(2.292???histological tumor infiltration, if yes?=?1; if no?=?0) Conclusions The platelet count was identified as a relevant risk factor. Proposed prognostic models with good model-fit display properties that indicate potential clinical usefulness. J. Surg. Oncol. 2016;113:194?202. ? 2015 Wiley Periodicals, Inc.
+ER  - 
+
+C7  - pp. 53-93
+TI  - Topical Wound Care Products and Their Use
+SN  - 9781119267508
+UR  - https://doi.org/10.1002/9781119267539.ch4
+DO  - doi:10.1002/9781119267539.ch4
+SP  - 53-93
+KW  - leech therapy
+KW  - natural products
+KW  - platelet-rich plasma
+KW  - topical antimicrobial agents
+KW  - topical wound care products
+KW  - wound drainage system
+KW  - wound exudate
+KW  - wound gels
+KW  - Wound Healing
+PY  - 2016
+AB  - Summary Many of the topical products noted can be considered ?natural?, such as chitosan, collagen, and alginates. This chapter focuses on a few of the basic natural products used in wound care, including, honey, sugar, yeast extract, and aloe vera. Large areas of necrotic tissue are best surgically debrided prior to application of honey and sugar. Leeches have been used in an attempt to manage hemodynamic imbalance or venous insufficiency in compromised skin. In an attempt to reduce venous stasis, leeches were applied to the tail wound daily over a 4-day period. Platelet-rich plasma (PRP) has been described for medical uses. The medical uses include orthopedics, sports medicine, dentistry, otolaryngology, neurosurgery, ophthalmology, urogenital surgery, burns and wound healing, cardiothoracic surgery, and maxillofacial surgery. The primary clinical application of PRP is to promote wound healing by increasing the local concentration of growth factors involved in the migration, proliferation, and maturation at the site of injury.
+ER  - 
+
+AU  - Djogovic, Dennis
+AU  - Davidow, Jonathan
+AU  - Brindley, Peter
+C7  - pp. 373-380
+TI  - Hemorrhagic Shock
+SN  - 9781405161435
+UR  - https://doi.org/10.1002/9781444303674.ch36
+DO  - doi:10.1002/9781444303674.ch36
+SP  - 373-380
+KW  - hemorrhagic shock
+KW  - theoretical benefits of hypertonic saline in hemorrhagic shock
+KW  - MEDLINE and Cochrane Library - trauma AND (investigation OR CT OR FAST OR radiology OR sonography OR ultrasound)
+KW  - computerized tomography (CT) and focused assessment with sonography for trauma (FAST)
+KW  - treatment approaches in halting pelvic bleeding - external and internal techniques
+KW  - hemorrhagic shock treatment
+KW  - angiography and embolization
+KW  - FAST as screening tool for hemoperitoneum or hemopericardium
+PY  - 2016
+AB  - Summary This chapter contains sections titled: Clinical scenario Background Clinical questions General search strategy Critical review of the literature Conclusions References
+ER  - 
+
+AU  - Breen, Karen
+C7  - pp. 60-66
+TI  - The Antiphospholipid Syndrome
+SN  - 9781119095576
+UR  - https://doi.org/10.1002/9781119095606.ch8
+DO  - doi:10.1002/9781119095606.ch8
+SP  - 60-66
+KW  - antiphospholipid antibodies
+KW  - antiphospholipid syndrome
+KW  - bilateral uterine arterial notching
+KW  - intensive care setting
+KW  - multi-organ failure
+KW  - pregnancy morbidity
+KW  - systemic lupus erythematosus
+PY  - 2016
+AB  - Summary Antiphospholipid syndrome (APS) often occurs in patients with associated autoimmune diseases, particularly systemic lupus erythematosus, but it can also occur in patients without other associated autoimmune disease. Studies of women with antiphospholipid antibodies (aPL)-related complications show that women with thrombotic complications of APS have higher rates of pre-term delivery. Women with APS need close monitoring throughout pregnancy. Uterine artery Doppler scanning is recommended at 20-24 weeks, to check for evidence of bilateral uterine arterial notching, which has been shown to be predictive of placental dysfunction in women with APS. If bilateral notching is detected, serial growth scans are performed to monitor for intrauterine growth restriction. Patients present with multi-organ failure due to widespread thrombosis, and there is an associated high mortality rate. They require aggressive management, usually in an intensive care setting, with a combination of steroids, anticoagulation and/or plasma exchange.
+ER  - 
+
+TY  - JOUR
+AU  - Keijzers, Gerben
+AU  - Thom, Ogilvie
+AU  - Taylor, David
+AU  - Knott, Jonathan
+AU  - Clinical Trials Group, Australasian College for Emergency Medicine
+TI  - Clinical research priorities in emergency medicine
+JO  - Emergency Medicine Australasia
+JA  - Emerg Med Australas
+VL  - 26
+IS  - 1
+SN  - 9781119095576
+UR  - https://doi.org/10.1111/1742-6723.12141
+DO  - doi:10.1111/1742-6723.12141
+SP  - 19
+EP  - 27
+KW  - clinical trial
+KW  - emergency medicine
+KW  - priority
+KW  - research
+PY  - 2014
+AB  - Abstract Objective To determine the clinical research priorities of Fellows of the Australasian College for Emergency Medicine (ACEM) in order to inform the strategic research agenda specific to multicentre clinical research. Methods An anonymous survey of all ACEM Fellows (FACEMs) listed on the ACEM researcher database was conducted between January and March 2013. Results Of 108 FACEMs invited to participate, 54 (50%) responded. Over half of respondents (61%) had a higher research degree but only a minority (24%) had funded research positions. The top research categories identified as priorities were resuscitation, trauma, cardiology, ED ultrasound, acute behavioural disturbance and geriatrics. The most common specific sub-categories included anterior chest pain, fluid resuscitation in trauma, and drug therapy for both atrial fibrillation and acute behavioural disturbance. Several specific research questions related to chest pain, resuscitation/sepsis, stroke, paediatrics and pulmonary embolus. Conclusion The findings provide guidance and support for research areas amenable to collaborative multicentre clinical research within emergency medicine. Discussion rounds are planned to translate these perceived research priorities to actual priorities.
+ER  - 
+
+AU  - White, Kate L.
+C7  - pp. 209-225
+TI  - Treatment of Acute Pain in the Dog
+SN  - 9780813812243
+UR  - https://doi.org/10.1002/9781118999196.ch21
+DO  - doi:10.1002/9781118999196.ch21
+SP  - 209-225
+KW  - α-2 adrenoceptor agonists
+KW  - acute pain
+KW  - dogs
+KW  - local anesthetics
+KW  - nonsteroidal anti-inflammatory drugs (NSAIDs)
+KW  - opioids
+KW  - physical therapy
+PY  - 2014
+AB  - Summary Acute pain follows surgery, diagnostic procedures, or trauma. In addition, there are many medical conditions that cause acute inflammatory pain. Acute pain after surgery or a diagnostic intervention is preventable with the pre-emptive use of analgesics. Acute pain from trauma cannot be pre-empted, and its treatment may require the use of combinations of drugs and larger dosages. The drugs used to treat acute pain can be divided into five main classes: opioids, local anesthetics, nonsteroidal anti-inflammatory drugs (NSAIDs), α-2 adrenoceptor agonists, and miscellaneous drugs or adjuncts. Most opioids have minimal effects on the cardiovascular system and, consequently, are often used in protocols for dogs suffering from cardiovascular disease. The most common adverse effects reported are those associated with the gastrointestinal tract. Physical therapy techniques including passive range of motion, massage, ultrasound, low-level laser, and acupuncture can be useful adjuncts to pharmaceutical treatment of acute pain in dogs.
+ER  - 
+
+TY  - JOUR
+AU  - Curtis, Brenda J.
+AU  - Hlavin, Sara
+AU  - Brubaker, Aleah L.
+AU  - Kovacs, Elizabeth J.
+AU  - Radek, Katherine A.
+TI  - Episodic Binge Ethanol Exposure Impairs Murine Macrophage Infiltration and Delays Wound Closure by Promoting Defects in Early Innate Immune Responses
+JO  - Alcoholism: Clinical and Experimental Research
+JA  - Alcohol Clin Exp Res
+VL  - 38
+IS  - 5
+SN  - 9780813812243
+UR  - https://doi.org/10.1111/acer.12369
+DO  - doi:10.1111/acer.12369
+SP  - 1347
+EP  - 1355
+KW  - Antimicrobial Peptides
+KW  - Proteases
+KW  - Wound Healing
+KW  - Macrophages
+KW  - Cathelicidin
+KW  - Inflammation
+PY  - 2014
+AB  - Background Exacerbation of cutaneous wound infections and delayed wound closure are frequent complications seen in alcohol exposed subjects who sustain injuries. We previously reported that acute alcohol exposure alters the early dermal inflammatory phase of wound healing and also several parameters of the proliferative wound healing phase in wounds from ethanol (EtOH)-treated mice for several days or weeks after EtOH exposure. Hence, it is likely that the cumulative defects arising in the early phases of the wound healing process directly contribute to the increased complications observed in intoxicated patients at the time of injury. Methods C57BL/6 mice were given intraperitoneal EtOH (2.2 g/kg body weight) or vehicle (saline) EtOH using our episodic binge EtOH exposure protocol (3 days EtOH, 4 days off, 3 days EtOH) to yield a blood alcohol concentration (BAC) of 300 mg/dl at the time of wounding. Mice were subjected to six 3 mm full-thickness dorsal wounds and immediately treated topically with 10 ?l of sterile saline (control) or diluted Staphylococcus aureus corresponding to 1 ? 104 CFU/wound. Wounds were harvested at 24 hours post injury to evaluate wound area, neutrophil and macrophage accumulation, and the protein levels of cytokines, interleukin-6 (IL-6), IL-1?, and IL-10, and chemokines, macrophage inflammatory protein-2 (MIP-2) and MIP-1α, monocyte chemotactic protein-1 (MCP-1), and keratinocyte-derived chemokine (KC). The abundance and localization of cathelicidin-related antimicrobial peptide (CRAMP) and the kallikrein epidermal proteases (KLK5 and KLK7) were also determined. Results Compared to control mice, EtOH-treated mice exhibited delayed wound closure, decreased macrophage accumulation, and impaired production of MIP-1α. Furthermore, skin from EtOH-treated mice demonstrated a reduction in the abundance of epidermal CRAMP and KLK7. Conclusions These findings suggest that EtOH exposure hinders several distinct components of the innate immune response, including phagocyte recruitment and chemokine/cytokine and AMP production. Together, these effects likely contribute to delayed wound closure and enhanced infection severity observed in intoxicated patients.
+ER  - 
+
+TY  - JOUR
+AU  - Berséus, Olle
+AU  - Boman, Kjell
+AU  - Nessen, Shawn C.
+AU  - Westerberg, Lars A.
+TI  - Risks of hemolysis due to anti-A and anti-B caused by the transfusion of blood or blood components containing ABO-incompatible plasma
+JO  - Transfusion
+JA  - Transfusion
+VL  - 53
+IS  - S1
+SN  - 9780813812243
+UR  - https://doi.org/10.1111/trf.12045
+DO  - doi:10.1111/trf.12045
+SP  - 114S
+EP  - 123S
+PY  - 2013
+AB  - Background The increasing use of fresh blood group O whole blood in acute trauma medicine makes it important to reevaluate the issue of hemolytic reactions related to the transfusion of ABO-incompatible plasma. STUDY DESIGN AND METHODS This review summarizes and evaluates published articles and case reports concerning hemolytic reactions in connection with the transfusion of group O whole blood or blood products to nongroup O recipients. Results In 1945-1986, 15 nonmilitary publications reported hemolytic transfusion reactions with group O blood/blood products. All patients recovered except for two fatalities. Late in World War II and during the Korean and Vietnam wars and onward in Iraq and Afghanistan only ?low anti-A, anti-B titer? group O whole blood has been used as universal blood. In spite of a large number of units transfused, there are no reports of hemolytic reactions. Twenty-five publications report hemolytic reactions after transfusion of group O platelets to nongroup O recipients. In all patients but one, the titer of the implicated A- or B-antibody was >100 (saline) or >400 (antiglobulin) and all cases with an infused volume of incompatible plasma <200?mL were related to anti-A or anti-B antiglobulin titers >1000. Conclusion In emergency lifesaving resuscitation, the risk of hemolytic transfusion reactions from transfusion of group O blood to nongroup O recipients constitutes risk that is outweighed by the benefits. A low titer of anti-A/B will minimize the risk for a hemolytic reaction, particularly if the screening is repeated after an immunization episode, e.g., blood transfusion, vaccination, or pregnancy.
+ER  - 
+
+TY  - JOUR
+AU  - Doughty, Heidi
+AU  - Rackham, Richard
+TI  - Transfusion emergency preparedness for mass casualty events
+JO  - ISBT Science Series
+JA  - VOXS
+VL  - 14
+IS  - 1
+SN  - 9780813812243
+UR  - https://doi.org/10.1111/voxs.12448
+DO  - doi:10.1111/voxs.12448
+SP  - 77
+EP  - 83
+KW  - blood transfusion
+KW  - business continuity
+KW  - emergency planning
+KW  - mass casualty events
+PY  - 2019
+AB  - Transfusion emergency preparedness is increasingly being recognized as an important element in the healthcare response to mass casualty events (MCE). Planning should be designed to support an integrated response between the blood services and hospitals. The lessons identified from the Manchester Arena bombing in 2017 and recent incidents in London have led to new guidance. Demand planning has been informed by the global experience of civilian MCEs and the changing trends in trauma care. Past evidence suggests that only a modest number of hospitalized patients following MCEs require transfusion. The mean blood use per patient admitted is consistently calculated at 2?3 red cell units. Most blood is used within the first 6 h. However, a small number of critically injured with multi-trauma may require massive transfusion and ongoing support. Many blood services have reported meeting the initial overall demand for blood from stock. However, universal components may be in short supply. The demand can be managed by pre-agreed substitutions. Early transfusion triage enables the best use of hospital laboratory and blood service support. Careful communication with donor communities is essential to manage a controlled replenishment of stocks. Future challenges for the transfusion community include the trend towards lower red cell stock holdings and the changing trends in weapon use and tactics. A standardized approach to transfusion data collection is required to support future planning. The transfusion community is encouraged to plan for MCEs, contribute to ?after action reviews? and work together for safe and sustainable transfusion support.
+ER  - 
+
+AU  - Kling, Pamela J.
+AU  - Jabbour, Nicolas
+C7  - pp. 222-246
+TI  - The changing transfusion practice of neonatal and pediatric surgery
+SN  - 9780470674086
+UR  - https://doi.org/10.1002/9781118554685.ch10
+DO  - doi:10.1002/9781118554685.ch10
+SP  - 222-246
+KW  - anemia
+KW  - cellular plasma
+KW  - pediatric surgery
+KW  - platelets
+KW  - prematurity
+KW  - transfusion practice
+PY  - 2019
+AB  - Summary In current clinical, and specifically surgical practice, very few randomized clinical trials examining transfusion triggers are found. In pediatric surgery patients, even less information is understood about transfusion. In pediatric patients, severe anemia is seen in prematurity and in several disease processes. Against this background, this chapter provides an overview of special considerations relevant to transfusions in the pediatric population and describes the application of strategies to curtail need for transfusions in children undergoing surgery. Blood loss is the most frequent indication for transfusion and hence strategies to limit blood loss are bound to significantly impact transfusion requirements. Following the advent of blood component fractionation, the use of cellular plasma, platelets or plasma coagulation factors such as cryoprecipitate to facilitate clotting has been widely accepted. Ongoing investigations at furthering our knowledge of the hematopoietic machinery and coagulation cascades strengthen efforts aimed at solidifying the practice of transfusion management in children.
+ER  - 
+
+TY  - JOUR
+AU  - Warkentin, Theodore E.
+TI  - HITlights: A career perspective on heparin-induced thrombocytopenia
+JO  - American Journal of Hematology
+JA  - Am. J. Hematol.
+VL  - 87
+IS  - S1
+SN  - 9780470674086
+UR  - https://doi.org/10.1002/ajh.23127
+DO  - doi:10.1002/ajh.23127
+SP  - S92
+EP  - S99
+PY  - 2012
+AB  - Abstract Two decades of research into heparin-induced thrombocytopenia (HIT) permit a personal historical perspective on this fascinating syndrome. Previously, the frequency of HIT was unknown, although complicating thrombosis was believed to be rare and primarily arterial. The opportunity to apply a remarkable test for ?HIT antibodies??the 14C-serotonin-release assay (SRA)?to serial plasma samples obtained during a clinical trial of heparin thromboprophylaxis, provided insights into the peculiar nature of HIT, such as, its prothrombotic nature?including its strong association with venous thrombosis (RR = 11.6 [95%CI, 6.4?20.8; P < 0.0001); its more frequent occurrence with unfractionated versus low-molecular-weight heparin; the ?iceberg? model, which states that among the many patients who form anti-PF4/heparin antibodies during heparin therapy, only a minority whose antibodies evince strong platelet-activating properties develop HIT; and the characteristic HIT timeline, whereby serum/plasma antibodies are readily detectable at or prior to the HIT-associated platelet count fall. Applying the SRA also to patients encountered in clinical practice led to recognition of warfarin-induced venous limb gangrene (for which HIT is a major risk factor via its extreme hypercoagulability) and delayed-onset HIT (whereby thrombocytopenia begins or worsens following heparin discontinuation, due to the ability of HIT antibodies strongly to activate platelets even in the absence of heparin?so-called heparin-?independent? platelet activation). Recent concepts include the increasing recognition of HIT ?overdiagnosis? (due to the low diagnostic specificity of the widely-applied PF4-dependent immunoassays), and the observation that HIT-associated consumptive coagulopathy is a risk factor for treatment failure with PTT-adjusted direct thrombin inhibitor therapy (?PTT confounding? secondary to HIT-associated coagulopathy). Am. J. Hematol. 2012. ? 2012 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Roberts, Teryn R.
+AU  - Leslie, Daniel C.
+AU  - Cap, Andrew P.
+AU  - Cancio, Leopoldo C.
+AU  - Batchinsky, Andriy I.
+TI  - Tethered-liquid omniphobic surface coating reduces surface thrombogenicity, delays clot formation and decreases clot strength ex vivo
+JO  - Journal of Biomedical Materials Research Part B: Applied Biomaterials
+JA  - J. Biomed. Mater. Res.
+VL  - 108
+IS  - 2
+SN  - 9780470674086
+UR  - https://doi.org/10.1002/jbm.b.34406
+DO  - doi:10.1002/jbm.b.34406
+SP  - 496
+EP  - 502
+KW  - anticoagulation
+KW  - antithrombogenic surface
+KW  - biocompatibility
+KW  - biomaterials
+PY  - 2020
+AB  - Abstract Hemocompatible materials for extracorporeal life support (ECLS) technology are investigated to mitigate thrombotic complications associated with this therapy. A promising solution is an omniphobic bilayer coating, tethered liquid perfluorocarbon (TLP), which utilizes an immobilized tether to anchor a mobile, liquid surface lubricant that prevents adhesion of blood components to the substrate. In this study, we investigated the effects of TLP on real-time clot formation using thromboelastography (TEG). TLP was applied to TEG cups, utilizing perfluorodecalin (PFD) or FluorLube63 as the liquid layer, and compared to uncoated cups. Human blood (n = 10) was added to cups; and TEG parameters (R, K, α-angle, MA, LY30, LY60) and adherent thrombus weight were assessed. TLP decreased clot amplification (α-angle), clot strength (MA), and adherent clot weight (p?<?.0001). These effects were greater with FluorLube63 versus PFD (α-angle p?<?.0001; MA p = .0019; clot weight p?<?.0001). Reaction time (R) was longer in TLP-coated cups versus control cups with liquid lubricant added (p = .0377). Percent fibrinolysis (LY30 and LY60) was greater in the TLP versus controls at LY30 (p?<?.0001), and in FluoroLube63 versus controls at LY60 (p = .0021). TLP significantly altered clot formation, exerting antithrombogenic effects. This reduction in surface thrombogenicity supports TLP as a candidate for improved biocompatibility of ECLS materials, pending further validation with exposure to shear stress.
+ER  - 
+
+AU  - Ostroski, Cassie
+AU  - Clarke, Dana L.
+C7  - pp. 673-679
+TI  - Urinary Diversion in the Emergency Room
+UR  - https://doi.org/10.1002/9781119028994.ch106
+DO  - doi:10.1002/9781119028994.ch106
+SP  - 673-679
+KW  - cystostomy
+KW  - trauma
+KW  - urethral obstruction
+KW  - urinary catheterization
+KW  - uroabdomen
+PY  - 2020
+AB  - Abstract Urinary diversion techniques are commonly required in the emergency room to correct life-threatening electrolyte and metabolic derangements resulting from urinary tract obstruction or leakage. These techniques may be permanent or temporary; temporary techniques are most often utilized in the ER to avoid long periods of anesthesia or sedation in critically ill animals as part of damage control surgical techniques. The most commonly used diversion technique is urethral catheterization. However, depending on the location of obstruction or trauma, other techniques such as cystostomy tubes or abdominal drainage catheters may be indicated. The implementation of interventional radiology in veterinary patients has also provided many alternative techniques within this setting.
+ER  - 
+
+AU  - Wang, Michael Y.
+AU  - Green, Barth A.
+C7  - pp. 232-250
+TI  - Surgery after the Acute Phase of Traumatic Spinal Cord Injury
+SN  - 9781405122061
+UR  - https://doi.org/10.1002/9780470753163.ch14
+DO  - doi:10.1002/9780470753163.ch14
+SP  - 232-250
+KW  - surgery
+KW  - spinal cord injury
+KW  - antimicrobial therapy
+KW  - thromboembolism
+KW  - medical care
+PY  - 2020
+AB  - Summary This chapter contains section titled: Introduction Prevention of medical complications Surgical management Conclusions
+ER  - 
+
+TY  - JOUR
+AU  - Lasica, Masa
+AU  - Sparrow, Rosemary L.
+AU  - Tacey, Mark
+AU  - Pollock, Wendy E.
+AU  - Wood, Erica M.
+AU  - McQuilten, Zoe K.
+AU  - on behalf of the members of the Australian and New Zealand Massive Transfusion Registry Steering Committee
+TI  - Haematological features, transfusion management and outcomes of massive obstetric haemorrhage: findings from the Australian and New Zealand Massive Transfusion Registry
+JO  - British Journal of Haematology
+JA  - Br J Haematol
+VL  - n/a
+IS  - n/a
+SN  - 9781405122061
+UR  - https://doi.org/10.1111/bjh.16524
+DO  - doi:10.1111/bjh.16524
+KW  - obstetric haemorrhage
+KW  - massive transfusion
+KW  - coagulopathy
+KW  - fibrinogen
+AB  - Summary Massive obstetric haemorrhage (MOH) is a leading cause of maternal morbidity and mortality world-wide. Using the Australian and New Zealand Massive Transfusion Registry, we performed a bi-national cohort study of MOH defined as bleeding at ≥20 weeks? gestation or postpartum requiring ≥5 red blood cells (RBC) units within 4 h. Between 2008 and 2015, we identified 249 cases of MOH cases from 19 sites. Predominant causes of MOH were uterine atony (22%), placenta praevia (20%) and obstetric trauma (19%). Intensive care unit admission and/or hysterectomy occurred in 44% and 29% of cases, respectively. There were three deaths. Hypofibrinogenaemia (<2 g/l) occurred in 52% of cases in the first 24 h after massive transfusion commenced; of these cases, 74% received cryoprecipitate. Median values of other haemostatic tests were within accepted limits. Plasma, platelets or cryoprecipitate were transfused in 88%, 66% and 57% of cases, respectively. By multivariate regression, transfusion of ≥6 RBC units before the first cryoprecipitate (odds ratio [OR] 3·5, 95% CI: 1·7?7·2), placenta praevia (OR 7·2, 95% CI: 2·0?26·4) and emergency caesarean section (OR 4·9, 95% CI: 2·0?11·7) were independently associated with increased risk of hysterectomy. These findings confirm MOH as a major cause of maternal morbidity and mortality and indicate areas for practice improvement.
+ER  - 

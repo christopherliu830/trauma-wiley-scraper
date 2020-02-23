@@ -1,0 +1,485 @@
+
+TY  - JOUR
+AU  - Paulson, Bjorn
+AU  - Lee, Sangwook
+AU  - Jue, Miyeon
+AU  - Lee, Kyungsung
+AU  - Lee, Sanghwa
+AU  - Kim, Guk Bae
+AU  - Moon, Youngjin
+AU  - Lee, Joo Yong
+AU  - Kim, Namkug
+AU  - Kim, Jun Ki
+C7  - e201960188
+TI  - Stereotaxic endoscopy for the ocular imaging of awake, freely moving animal models
+JO  - Journal of Biophotonics
+JA  - J. Biophotonics
+VL  - n/a
+IS  - n/a
+SN  - 1864-063X
+UR  - https://doi.org/10.1002/jbio.201960188
+DO  - doi:10.1002/jbio.201960188
+SP  - e201960188
+KW  - additive manufacturing
+KW  - animal experimentation
+KW  - endoscopy
+KW  - minimally invasive
+KW  - ophthalmology
+KW  - stereotaxic
+AB  - Abstract Stereotaxic instruments are increasingly used in research animals for the study of disease, but typically require restraints and anesthetic procedures. A stereotaxic head mount that enables imaging of the anterior chamber of the eye in alert and freely mobile mice is presented in this study. The head mount is fitted based on computed tomography scans and manufactured using 3D printing. The system is placed noninvasively using temporal mount bars and a snout mount, without breaking the skin or risking suffocation, while an instrument channel stabilizes the ocular probes. With a flexible micro-endoscopic probe and a confocal scanning laser microscopy system, <20??m resolution is achieved in vivo with a field of view of nearly 1?mm. Discomfort is minimal, and further adaptations for minimally invasive neuroscience, optogenetics and auditory studies are possible.
+ER  - 
+
+TY  - JOUR
+AU  - Porter, Ian R.
+AU  - Pownder, Sarah L.
+AU  - McDonough, Sean P.
+AU  - Potter, Hollis G.
+AU  - Hayashi, Kei
+TI  - Nonarticular osseous cyst-like lesions of the intermedioradial carpal bone may be incidental magnetic resonance imaging findings in dogs
+JO  - Veterinary Radiology & Ultrasound
+JA  - Vet Radiol Ultrasound
+VL  - 59
+IS  - 6
+SN  - 1058-8183
+UR  - https://doi.org/10.1111/vru.12658
+DO  - doi:10.1111/vru.12658
+SP  - 715
+EP  - 720
+KW  - canine
+KW  - carpus
+KW  - histology
+KW  - intraosseous ganglion cyst
+KW  - MRI
+PY  - 2018
+AB  - Abstract As magnetic resonance imaging (MRI) becomes more readily available and more frequently utilized in the assessment of canine carpal lameness, both normal variations and early pathologic conditions must be recognized to optimize patient care and provide accurate diagnosis. On cross sectional studies of the canine carpus, cyst-like lesions have been detected at the dorsolateral aspect of the intermedioradial carpal bone. The cross-sectional imaging and histologic properties of these lesions have not been described. The purpose of this observational study is to evaluate the MRI and histologic features of these cyst-like lesions in a cohort of clinically sound dogs. It was hypothesized that the lesions would show features similar to intraosseous ganglion cysts of the human wrist. Twenty-five cadaveric canine carpi were obtained and a total of 13 lesions were detected on MRI. Based on MRI, six carpi with lesions of varying size and one normal carpus were submitted for histological evaluation. Five of the abnormal carpi had nonarticular cyst-like lesions; one specimen with a positive magnetic resonance image for a cyst-like lesion had no cyst-like lesion on histology. Conspicuity of a medium-size lesion as evaluated on radiographs was poor. Given the presence of these nonarticular cyst-like lesions in a population of clinically sound patients, their clinical importance is uncertain. The development of these lesions may relate to altered mechanics or genetic predispositions, requiring additional study.
+ER  - 
+
+TY  - JOUR
+AU  - Caeyenberghs, Karen
+AU  - Leemans, Alexander
+AU  - Geurts, Monique
+AU  - Taymans, Tom
+AU  - Linden, Catharine Vander
+AU  - Smits-Engelsman, Bouwien C. M.
+AU  - Sunaert, Stefan
+AU  - Swinnen, Stephan P.
+TI  - Brain-behavior relationships in young traumatic brain injury patients: DTI metrics are highly correlated with postural control
+JO  - Human Brain Mapping
+JA  - Hum. Brain Mapp.
+VL  - 31
+IS  - 7
+SN  - 1065-9471
+UR  - https://doi.org/10.1002/hbm.20911
+DO  - doi:10.1002/hbm.20911
+SP  - 992
+EP  - 1002
+KW  - traumatic brain injury
+KW  - DTI
+KW  - balance
+KW  - children
+KW  - neuroplasticity
+PY  - 2010
+AB  - Abstract Traumatic brain injury (TBI) is a major cause of impairment and functional disability in children and adolescents, including deterioration in fine as well as gross motor skills. The aim of this study was to assess deficits in sensory organization and postural ability in a young group of TBI patients versus controls by using quantitative force-platform recordings, and to test whether balance deficits are related to variation in structural properties of the motor and sensory white matter pathways. Twelve patients with TBI and 14 controls (aged 8?20 years) performed the Sensory Organisation Test (SOT) protocol of the EquiTest? (Neurocom). All participants were scanned using Diffusion Tensor Imaging (DTI) along with standard anatomical scans. Quantitative comparisons of DTI parameters (fractional anisotropy, axial and radial diffusivity) between TBI patients and controls were performed. Correlations between DTI parameters and SOT balance scores were determined. Findings revealed that the TBI group scored generally lower than the control group on the SOT, indicative of deficits in postural control. In the TBI group, reductions in fractional anisotropy were noted in the cerebellum, posterior thalamic radiation, and corticospinal tract. Degree of white matter deterioration was highly correlated with balance deficits. This study supports the view that DTI is a valuable tool for assessing the integrity of white matter structures and for selectively predicting functional motor deficits in TBI patients. Hum Brain Mapp, 2010. ? 2009 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Thoma, Patrizia
+AU  - Daum, Irene
+TI  - Working memory and multi-tasking in paranoid schizophrenia with and without comorbid substance use disorder
+JO  - Addiction
+VL  - 103
+IS  - 5
+SN  - 0965-2140
+UR  - https://doi.org/10.1111/j.1360-0443.2008.02156.x
+DO  - doi:10.1111/j.1360-0443.2008.02156.x
+SP  - 774
+EP  - 786
+KW  - Addiction
+KW  - comorbidity
+KW  - executive function
+KW  - schizophrenia
+KW  - working memory
+PY  - 2008
+AB  - ABSTRACT Aims? Addiction is a frequent comorbid disorder in schizophrenia and associated with poor outcome. The present study sought to determine whether addicted and non-addicted schizophrenic patients are impaired differentially on the executive abilities of working memory and multi-tasking which are relevant for maintaining abstinence. Design? Comparisons of executive performance in clinical and control groups. Setting? In-patient setting. Participants? The cognitive profile of schizophrenic patients with and without comorbid substance abuse disorder was compared with that of patients suffering from major depression or alcoholism and healthy participants. Measurements? A range of cognitive tasks was used to assess: (i) the ability to update continuously context information in working memory and to use it for action selection; and (ii) the capacity to divide attention between different sensory input channels and to coordinate verbal and manual responses. Findings? Single-diagnosis schizophrenic patients showed pronounced impairments on measures of online maintenance and use of context information. Their ability to coordinate different sensory input channels (divided attention) was also impaired. Addicted schizophrenics showed evidence of impaired sensory input management and of reduced context sensitivity, when age differences were controlled. Conclusions? The present study indicates severe working memory and multi-tasking deficits in schizophrenia which are, however, not exacerbated by comorbid addiction.
+ER  - 
+
+TY  - JOUR
+AU  - Albi, Angela
+AU  - Pasternak, Ofer
+AU  - Minati, Ludovico
+AU  - Marizzoni, Moira
+AU  - Bartrés-Faz, David
+AU  - Bargalló, Núria
+AU  - Bosch, Beatriz
+AU  - Rossini, Paolo Maria
+AU  - Marra, Camillo
+AU  - Müller, Bernhard
+AU  - Fiedler, Ute
+AU  - Wiltfang, Jens
+AU  - Roccatagliata, Luca
+AU  - Picco, Agnese
+AU  - Nobili, Flavio Mariano
+AU  - Blin, Oliver
+AU  - Sein, Julien
+AU  - Ranjeva, Jean-Philippe
+AU  - Didic, Mira
+AU  - Bombois, Stephanie
+AU  - Lopes, Renaud
+AU  - Bordet, Régis
+AU  - Gros-Dagnac, Hélène
+AU  - Payoux, Pierre
+AU  - Zoccatelli, Giada
+AU  - Alessandrini, Franco
+AU  - Beltramello, Alberto
+AU  - Ferretti, Antonio
+AU  - Caulo, Massimo
+AU  - Aiello, Marco
+AU  - Cavaliere, Carlo
+AU  - Soricelli, Andrea
+AU  - Parnetti, Lucilla
+AU  - Tarducci, Roberto
+AU  - Floridi, Piero
+AU  - Tsolaki, Magda
+AU  - Constantinidis, Manos
+AU  - Drevelegas, Antonios
+AU  - Frisoni, Giovanni
+AU  - Jovicich, Jorge
+AU  - The PharmaCog Consortium
+TI  - Free water elimination improves test–retest reproducibility of diffusion tensor imaging indices in the brain: A longitudinal multisite study of healthy elderly subjects
+JO  - Human Brain Mapping
+JA  - Hum. Brain Mapp.
+VL  - 38
+IS  - 1
+SN  - 1065-9471
+UR  - https://doi.org/10.1002/hbm.23350
+DO  - doi:10.1002/hbm.23350
+SP  - 12
+EP  - 26
+KW  - multisite diffusion MRI
+KW  - free-water imaging
+KW  - test–retest reproducibility
+KW  - brain diffusion tensor imaging
+KW  - longitudinal
+KW  - healthy elderly
+PY  - 2017
+AB  - Abstract Free water elimination (FWE) in brain diffusion MRI has been shown to improve tissue specificity in human white matter characterization both in health and in disease. Relative to the classical diffusion tensor imaging (DTI) model, FWE is also expected to increase sensitivity to microstructural changes in longitudinal studies. However, it is not clear if these two models differ in their test?retest reproducibility. This study compares a bi-tensor model for FWE with DTI by extending a previous longitudinal-reproducibility 3T multisite study (10 sites, 7 different scanner models) of 50 healthy elderly participants (55?80 years old) scanned in two sessions at least 1 week apart. We computed the reproducibility of commonly used DTI metrics (FA: fractional anisotropy, MD: mean diffusivity, RD: radial diffusivity, and AXD: axial diffusivity), derived either using a DTI model or a FWE model. The DTI metrics were evaluated over 48 white-matter regions of the JHU-ICBM-DTI-81 white-matter labels atlas, and reproducibility errors were assessed. We found that relative to the DTI model, FWE significantly reduced reproducibility errors in most areas tested. In particular, for the FA and MD metrics, there was an average reduction of approximately 1% in the reproducibility error. The reproducibility scores did not significantly differ across sites. This study shows that FWE improves sensitivity and is thus promising for clinical applications, with the potential to identify more subtle changes. The increased reproducibility allows for smaller sample size or shorter trials in studies evaluating biomarkers of disease progression or treatment effects. Hum Brain Mapp 38:12?26, 2017. ? 2016 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Gelatt-Nicholson
+AU  - Gelatt
+AU  - MacKay
+AU  - Brooks
+AU  - Newell
+TI  - Doppler imaging of the ophthalmic vasculature of the normal dog: blood velocity measurements and reproducibility
+JO  - Veterinary Ophthalmology
+VL  - 2
+IS  - 2
+SN  - 1463-5216
+UR  - https://doi.org/10.1046/j.1463-5224.1999.00062.x
+DO  - doi:10.1046/j.1463-5224.1999.00062.x
+SP  - 87
+EP  - 96
+KW  - canine
+KW  - Doppler imaging
+KW  - ocular vasculature
+KW  - orbital vasculature
+PY  - 1999
+AB  - The purpose of this study was to assess the feasibility and reproducibility of color Doppler imaging (CDI) of the vasculature of the normal canine orbit and eye. Eight normal Beagles were evaluated by Doppler imaging. The goals of the study were to determine the location, spectral waveform morphology, specific blood velocity parameters, and reproducibility for the ophthalmic and orbital vessels most frequently identified in the normal dog. Vessels identified a majority of the time (> 50%) included: external ophthalmic artery, dorsal external ophthalmic vein, ventral external ophthalmic vein, internal ophthalmic artery, anterior ciliary artery and vein, short and long posterior ciliary arteries, primary retinal arteries, and vortex veins. Other vessels imaged less frequently included: external ethmoidal artery (50%), and primary retinal veins (25%). For each blood vessel the time averaged velocity, peak systolic velocity, minimum diastolic velocity, pulsatility index, and resistive index were determined. The ophthalmic and orbital vessels have unique spectral waveforms and velocities which serve as a basis for identification. Reproducibility of the most commonly imaged vessels of the canine eye and orbit with Doppler imaging was high (< 10% variation). Doppler imaging has the potential for determining noninvasively and consecutively the blood velocity parameters found in orbital and ocular diseases, including orbital inflammations and neoplasms; intraocular inflammations and neoplasms; vascular diseases including systemic vascular disease (hypertension), vasculopathies, and anemia; the glaucomas; and documentable follow-up after medical and/or surgical treatment of these diseases.
+ER  - 
+
+TY  - JOUR
+AU  - Reynolds, Dorothy
+TI  - Containment, curiosity and consultation: an exploration of theory and process in individual systemic psychotherapy with an adult survivor of trauma
+JO  - Journal of Family Therapy
+VL  - 29
+IS  - 4
+SN  - 0163-4445
+UR  - https://doi.org/10.1111/j.1467-6427.2007.00409.x
+DO  - doi:10.1111/j.1467-6427.2007.00409.x
+SP  - 420
+EP  - 437
+PY  - 2007
+AB  - Abstract This paper describes an individual therapy from the author's private practice. On referral, the client came to therapy requesting help with her 8-year-old daughter. Within the assessment, a single episode of trauma was revealed. Further therapeutic conversations told of multiple memories of trauma. The main therapeutic work has now ended, the contract being left that the client can continue to request appointments if she wishes. I show how systemic therapy from Post Milan and Narrative models, including practices from other orientations, has been useful and name three key practices as being crucial to the work, containment, curiosity and consultation. I suggest parallel processes operating between myself and my client as well as between the therapy and consultation. Distinct phases in the therapy recovery are identified. The discussion will consider themes of containment, curiosity and consultation.
+ER  - 
+
+AU  - Singh, Anumeha
+AU  - von Kuenssberg Jehle, Dietrich
+C7  - pp. 241-250
+TI  - Ocular Ultrasound
+SN  - 9780470657577
+UR  - https://doi.org/10.1002/9781119072874.ch20
+DO  - doi:10.1002/9781119072874.ch20
+SP  - 241-250
+KW  - eye pain
+KW  - ocular trauma
+KW  - posterior vitreous detachment
+KW  - retinal detachment
+KW  - ultrasound ocular examinations
+KW  - vitreous haemorrhage
+PY  - 2007
+AB  - Summary Many patients come to the emergency department with complaints of visual change or loss, ocular trauma, eye pain or other conditions that necessitate an accurate assessment of the eye and/or orbit. Ultrasound has been used by ophthalmologists for several decades. As multi-purpose, high-frequency probes are now available for many of the portable ultrasound machines found in emergency departments, emergency physicians take advantage of these diagnostic capabilities and perform bedside ultrasound ocular examinations as their scope of practice. Vitreous haemorrhage can occur secondary to diabetic retinopathy, age-related macular degeneration, trauma, retinal vein occlusion or retinal tears. Posterior vitreous detachment (PVD) can occur as a result of normal aging, trauma, vitreous haemorrhage or inflammation. In chronic PVD, the vitreous may become more stiff and dense and may resemble retinal detachment. Differentiation may be difficult and may depend on ophthalmology consultation.
+ER  - 
+
+AU  - Madsen, Mark T.
+TI  - Radionuclide Imaging
+UR  - https://doi.org/10.1002/047134608X.W4704.pub2
+DO  - doi:10.1002/047134608X.W4704.pub2
+KW  - radionuclide
+KW  - PET
+KW  - SPECT
+KW  - radiopharmaceutical
+KW  - decay
+KW  - scintillator
+PY  - 2007
+AB  - Abstract The sections in this article are
+ER  - 
+
+TY  - JOUR
+AU  - Leffler, Andrew J.
+AU  - Hostnik, Eric T.
+AU  - Warry, Emma E.
+AU  - Habing, Gregory G.
+AU  - Auld, Danelle M.
+AU  - Green, Eric M.
+AU  - Drost, Wm Tod
+TI  - Canine urinary bladder transitional cell carcinoma tumor volume is dependent on imaging modality and measurement technique
+JO  - Veterinary Radiology & Ultrasound
+JA  - Vet Radiol Ultrasound
+VL  - 59
+IS  - 6
+UR  - https://doi.org/10.1111/vru.12652
+DO  - doi:10.1111/vru.12652
+SP  - 767
+EP  - 776
+KW  - computed tomography
+KW  - dog
+KW  - measurement
+KW  - response evaluation criteria in solid tumors
+KW  - ultrasonography
+KW  - urinary bladder cancer
+PY  - 2018
+AB  - Abstract Transitional cell carcinoma is the most common cancer of the canine urinary tract. The inconsistent appearance of transitional cell carcinoma in patients introduces error if applying mathematic models for extrapolating total tumor volume from linear measurements. Reliable techniques to assess tumor size are important for monitoring treatment response. A method comparison study was performed comparing four techniques for calculating tumor volume were compared: (1 and 2) contoured tracing of tumor margins using serial computed tomography (CT) images using pre-(1) and postintravenous (2) contrast medium studies, (3) longest three linear dimensions using CT, and (4) longest three linear dimensions on abdominal ultrasound. Volumes of the transitional cell carcinoma tumor calculated by CT tracing techniques were significantly smaller than volumes calculated with an ellipsoid mathematic model using the linear measurements (P < 0.01). Intravenous contrast medium did not significantly change the volumes calculated from tracing tumor margins on CT for observer B; however, volumes differed for observer A. The volumes extrapolated from linear measurements using CT and ultrasound did not differ significantly. The interobserver reliability was highest for the precontrast CT contoured technique and was lowest using the ultrasound linear technique. Tumor volumes differed significantly between techniques of contoured tracing of the tumor margins on serial CT images compared to calculation of tumor volume from linear dimensions. The calculated volume of a transitional cell carcinoma depends upon the technique used. Characterizing the response of urinary bladder transitional cell carcinoma tumor size to therapy differs based on the method and modality used.
+ER  - 
+
+TY  - JOUR
+AU  - Ng, Qin Xiang
+AU  - Soh, Alex Yu Sen
+AU  - Loke, Wayren
+AU  - Venkatanarayanan, Nandini
+AU  - Lim, Donovan Yutong
+AU  - Yeo, Wee-Song
+C8  - JGH-01403-2018.R1
+TI  - Systematic review with meta-analysis: The association between post-traumatic stress disorder and irritable bowel syndrome
+JO  - Journal of Gastroenterology and Hepatology
+JA  - Journal of Gastroenterology and Hepatology
+VL  - 34
+IS  - 1
+UR  - https://doi.org/10.1111/jgh.14446
+DO  - doi:10.1111/jgh.14446
+SP  - 68
+EP  - 73
+KW  - functional
+KW  - HPA
+KW  - hypothalamic–pituitary–adrenal axis
+KW  - IBS
+KW  - irritable bowel syndrome
+KW  - PTSD
+KW  - trauma
+PY  - 2019
+AB  - Abstract Background and Aim Post-traumatic stress disorder (PTSD) is a psychiatric condition characterized by symptoms of hyperarousal and hypervigilance. Increasing research on the ?gut?brain? axis (bidirectional signaling between the gut and the brain) has drawn links between PTSD and irritable bowel syndrome (IBS), an exceedingly common yet incompletely understood gastrointestinal condition. This meta-analysis thus aimed to examine the body of evidence and extent of association of PTSD with IBS. Methods Using the keywords [early abuse OR childhood abuse OR violence OR trauma OR PTSD] AND [irritable bowel syndrome or IBS], a preliminary search on the PubMed, Medline, Embase, ScienceDirect, PsychINFO, Web of Science, and Google Scholar databases yielded 11,257 papers published in English between January 1, 1988, and May 1, 2018. Of these, only eight studies were included in the final meta-analysis. Results The eight studies (four cross-sectional and four cohort) contained a total of 648,375 subjects. Most studies were from the USA and conducted on army veterans. The funnel plot revealed a roughly symmetrical distribution of studies, and Egger test was not significant for publication bias (P = 0.583). Random-effects meta-analysis found PTSD to be a significant risk factor for IBS (pooled odds ratio 2.80, 95% confidence interval: 2.06 to 3.54, P < 0.001). Conclusions Overall, PTSD is associated with an increased likelihood of IBS. This is the first meta-analysis to specifically examine the association between PTSD and IBS, and it provides insights into the probable (patho)physiology and management of IBS, supporting a holistic consideration of the psychosocial aspects of IBS and further research into effective multi-modal therapeutics.
+ER  - 
+
+TY  - JOUR
+AU  - Simsek, Evrim
+AU  - Nalbantgil, Sanem
+AU  - Ceylan, Naim
+AU  - Zoghi, Mehdi
+AU  - Kemal, Hatice Soner
+AU  - Engin, Cagatay
+AU  - Yagdi, Tahir
+AU  - Ozbaran, Mustafa
+TI  - Assessment of right ventricular systolic function in heart transplant patients: Correlation between echocardiography and cardiac magnetic resonance imaging. Investigation of the accuracy and reliability of echocardiography
+JO  - Echocardiography
+JA  - Echocardiography
+VL  - 34
+IS  - 10
+UR  - https://doi.org/10.1111/echo.13650
+DO  - doi:10.1111/echo.13650
+SP  - 1432
+EP  - 1438
+KW  - cardiac magnetic resonance imaging
+KW  - echocardiography
+KW  - heart transplantation
+KW  - right ventricular function
+PY  - 2017
+AB  - Background Right ventricular (RV) function has great impact on the survival of heart transplantation recipients; therefore, careful evaluation is of high clinical importance. However, there is no standard conventional echocardiographic parameter to assess RV systolic function. Herein, we evaluated the correlation between echocardiographic parameters of RV systolic function and ejection fraction assessed by cardiac magnetic resonance imaging (MRI RVEF) in heart transplantation recipients. Method and Results Forty-three patients with at least 6-month heart transplantation history were included in this study. Each patient had conventional echocardiography and cardiac MRI evaluation, followed by endomyocardial biopsy and right heart catheterization, which were performed in six hours. Echocardiographic parameters of RV systolic function, RV fractional area change (RV FAC), tricuspid annular plane systolic excursion (TAPSE), RV myocardial performance index, and RV global longitudinal strain, were compared with MRI RVEF (P values were <0.001, <0.3, <0.9, and <0.4, respectively). RV FAC was the only parameter to strongly correlate with MRI RVEF (r=0.747, P<0.001); and RV FAC 48.5% value had 90.5% sensitivity and 90.5% specificity to predict the pathologic reference value of MRI RVEF ≤50% (AUC:0.96; 95% CI, 0.908?1.013). Conclusion To our knowledge, this is the first prospective study to evaluate the correlation between the echocardiographic parameters for RV systolic function and MRI RVEF in heart transplantation recipients. RV FAC is the only parameter to correlate well with MRI RVEF, and its routine use in the follow-up of heart transplantation recipients should be considered.
+ER  - 
+
+TY  - JOUR
+AU  - Cooper, Jocelyn J.
+AU  - Young, Benjamin D.
+AU  - Griffin IV, John F.
+AU  - Fosgate, Geoffrey T.
+AU  - Levine, Jonathan M.
+TI  - COMPARISON BETWEEN NONCONTRAST COMPUTED TOMOGRAPHY AND MAGNETIC RESONANCE IMAGING FOR DETECTION AND CHARACTERIZATION OF THORACOLUMBAR MYELOPATHY CAUSED BY INTERVERTEBRAL DISK HERNIATION IN DOGS
+JO  - Veterinary Radiology & Ultrasound
+JA  - Veterinary Radiology & Ultrasound
+VL  - 55
+IS  - 2
+UR  - https://doi.org/10.1111/vru.12114
+DO  - doi:10.1111/vru.12114
+SP  - 182
+EP  - 189
+KW  - disk
+KW  - dogs
+KW  - MRI
+KW  - tomography
+PY  - 2014
+AB  - Magnetic resonance imaging (MRI) and computed tomography (CT) are commonly used to evaluate dogs with thoracolumbar myelopathy; however, relative diagnostic sensitivities for these two modalities have not been previously reported. The purpose of this prospective study was to compare diagnostic sensitivity and observer agreement for MRI and CT in a group of dogs with thoracolumbar myelopathy due to surgically confirmed intervertebral disk herniation (IVDH). All included dogs had magnetic resonance (MR) imaging followed by noncontrast CT using standardized protocols. Three experienced observers interpreted each imaging study independently without knowledge of clinical or surgical findings. The operating surgeon was aware of MR findings but not CT findings at the time surgical findings were recorded. Forty-four dogs met the inclusion criteria. The sensitivity of CT was 88.6% (79.5%?94.2%) and of MR was 98.5% (95% confidence interval, 94.1%?99.7%) for diagnosis of intervertebral disk herniation. Specificity was not calculated, as all dogs had IVDH at surgery. Magnetic resonance imaging was more accurate than CT for identifying the site of intervertebral disk herniation-associated spinal cord compression and differentiating disk extrusion vs. protrusion. Computed tomography was less accurate for lesion localization in per acute cases, as well as for chondrodystrophic, female, older and smaller (<7 kg) dogs. Inter-rater agreement was good for lesion lateralization for both MR and CT (? = 0.687, 95% CI = 0.552, 0.822, P = 0.002, and ? = 0.692, 95% CI = 0.542, 0.842, P = 0.003). Findings from the current study indicated that MR imaging was more sensitive and accurate than noncontrast CT for diagnosis and characterization of thoracolumbar myelopathy due to IVDH in dogs.
+ER  - 
+
+TY  - JOUR
+AU  - O'Brien, Bob
+TI  - The future of CT imaging (… as I see it!)
+JO  - Journal of Small Animal Practice
+VL  - 52
+IS  - 5
+UR  - https://doi.org/10.1111/j.1748-5827.2011.01065.x
+DO  - doi:10.1111/j.1748-5827.2011.01065.x
+SP  - 229
+EP  - 230
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+AU  - Youn, Jung-Hae
+AU  - Ryu, Seung-Ho
+AU  - Lee, Jun-Young
+AU  - Park, Soowon
+AU  - Cho, Seong-Jin
+AU  - Kwon, Hunki
+AU  - Yang, Jin-Ju
+AU  - Lee, Jong-Min
+AU  - Lee, Jiyeon
+AU  - Kim, Seolmin
+AU  - Livingston, Gill
+AU  - Yoon, Dong Hyun
+C7  - e01278
+TI  - Brain structural changes after multi-strategic metamemory training in older adults with subjective memory complaints: A randomized controlled trial
+JO  - Brain and Behavior
+JA  - Brain Behav
+VL  - 9
+IS  - 5
+UR  - https://doi.org/10.1002/brb3.1278
+DO  - doi:10.1002/brb3.1278
+SP  - e01278
+KW  - brain structure
+KW  - cognitive function
+KW  - metamemory
+KW  - training
+PY  - 2019
+AB  - Abstract Background Metamemory is the process of monitoring and controlling one's memory. Improving metamemory may reduce the memory problem in old age. We hypothesized that metamemory training (MMT) would improve cognition in older adults with subjective memory complaints and change the brain region related to metacognition. Method We recruited and randomized older adults to the multi-strategic memory training of 10 weekly 90-min sessions, based on the metamemory concept or usual care. Cognitive tests including the Elderly Verbal Learning Test, Simple Rey Figure Test, Digit Span, Spatial Span, Categorical Fluency, and the Boston Naming Test were done in 201 participants, together with magnetic resonance imaging (MRI) in 49 participants before and after training. Results A total of 112 in the training group and 89 in the control group participated. The training group had a significant increase in long-term delayed free recall, categorical fluency, and the Boston Naming test. In MRI, the mean diffusivity of the bundles of axon tracts passing from the frontal lobe to the posterior end of the lateral sulcus decreased in the training group. Conclusion These results indicate that the MMT program has a positive impact on enhancing older people? cognitive performance. Improved white matter integrity in the anterior and posterior cerebrum and increased cortical thickness of prefrontal regions, which related to metacognition, possibly suggest that the effects of the MMT would be induced via the enhancement of cognitive control.
+ER  - 
+
+TY  - JOUR
+AU  - OLIVE, JULIEN
+AU  - D'ANJOU, MARC-ANDRÉ
+AU  - ALEXANDER, KATE
+AU  - LAVERTY, SHEILA
+AU  - THEORET, CHRISTINE
+TI  - COMPARISON OF MAGNETIC RESONANCE IMAGING, COMPUTED TOMOGRAPHY, AND RADIOGRAPHY FOR ASSESSMENT OF NONCARTILAGINOUS CHANGES IN EQUINE METACARPOPHALANGEAL OSTEOARTHRITIS
+JO  - Veterinary Radiology & Ultrasound
+VL  - 51
+IS  - 3
+UR  - https://doi.org/10.1111/j.1740-8261.2009.01653.x
+DO  - doi:10.1111/j.1740-8261.2009.01653.x
+SP  - 267
+EP  - 279
+KW  - CT
+KW  - horse
+KW  - metacarpophalangeal
+KW  - MRI
+KW  - osteoarthritis
+KW  - radiography
+PY  - 2010
+AB  - We compared the ability of 1.5?T magnetic resonance imaging (MRI), computed tomography (CT), and computed radiography (CR) to evaluate noncartilaginous structures of the equine metacarpophalangeal joint (MCP), and the association of imaging changes with gross cartilage damage in the context of osteoarthritis. Four CR projections, helical single-slice CT, and MRI (T1-weighted gradient recalled echo [GRE], T2*-weighted GRE with fast imaging employing steady-state acquisition [FIESTA], T2-weighted fast spin echo with fat saturation, and spoiled gradient recalled echo with fat saturation [SPGR-FS]) were performed on 20 racehorse cadaver forelimbs. Osteophytosis, synovial effusion, subchondral bone lysis and sclerosis, supracondylar lysis, joint fragments, bone marrow lesions, and collateral desmopathy were assessed with each modality. Interexaminer agreement was inferior to intraexaminer agreement and was generally moderate (i.e., 0.4<?<0.6). Subchondral bone sclerosis scores using CT or MRI were correlated significantly with the reference quantitative CT technique used to assess bone mineral density (P<0.0001). Scores for subchondral lysis and osteophytosis were higher with MRI or CT vs. CR (P<0.0001). Although differences between modalities were noted, osteophytosis, subchondral sclerosis, and lysis as well as synovial effusion were all associated with the degree of cartilage damage and should be further evaluated as potential criteria to be included in a whole-organ scoring system. This study highlights the capacity of MRI to evaluate noncartilaginous changes in the osteoarthritic equine MCP joint.
+ER  - 
+
+TY  - JOUR
+AU  - Pannu, Ravinder
+AU  - Christie, Douglas K.
+AU  - Barbosa, Ernest
+AU  - Singh, Inderjit
+AU  - Singh, Avtar K.
+TI  - Post-trauma Lipitor treatment prevents endothelial dysfunction, facilitates neuroprotection, and promotes locomotor recovery following spinal cord injury
+JO  - Journal of Neurochemistry
+VL  - 101
+IS  - 1
+UR  - https://doi.org/10.1111/j.1471-4159.2006.04354.x
+DO  - doi:10.1111/j.1471-4159.2006.04354.x
+SP  - 182
+EP  - 200
+KW  - endothelium
+KW  - gliosis
+KW  - MMP9
+KW  - RhoA
+KW  - spinal cord injury
+KW  - statins
+PY  - 2007
+AB  - Abstract We have previously reported neuroprotection in spinal cord injury (SCI) by Lipitor [atorvastatin (AT)]-pre-treatment. Though informative, pre-treatment studies find only limited clinical application as trauma occurrence is unpredictable. Therefore, this study investigates the efficacy of AT treatment post-SCI. In a rat model of contusion-SCI resulting in complete hindlimb paralysis, AT treatment (5?mg/kg; gavage) was begun 2, 4, or 6?h post-SCI followed by a once daily dose thereafter for 6?weeks. While the placebo vehicle (VHC)-SCI rats showed substantial functional deficit, AT-SCI animals exhibited significant functional recovery. AT diminished injury-induced blood?spinal cord barrier (BSCB) dysfunction with significantly reduced infiltration and tumor necrosis factor-α/interleukin-1?/inducible nitric oxide synthase expression at site of injury. BSCB protection in AT-SCI was attributable to attenuated matrix metalloproteinase-9 (MMP9) expression ? a central player in BSCB disruption. Furthermore, endothelial MMP9 expression was found to be RhoA/ROCK pathway-mediated and regulated by AT through an isoprenoid-dependent mechanism. Attenuation of these early inflammatory events reduced secondary damage. Significant reduction in axonal degeneration, myelin degradation, gliosis, and neuronal apoptosis with resultant enhancement in tissue sparing was observed in AT-SCI compared with VHC-SCI. In summary, this novel report presenting the efficacy of post-injury AT treatment might be of critical therapeutic value as effective treatments are currently unavailable for SCI.
+ER  - 
+
+TY  - JOUR
+AU  - Uhrenholt, Lars
+AU  - Boel, Lene W. T.
+TI  - Contributions from Forensic Imaging to the Investigation of Upper Cervical Fractures
+JO  - Journal of Forensic Sciences
+VL  - 55
+IS  - 6
+UR  - https://doi.org/10.1111/j.1556-4029.2010.01527.x
+DO  - doi:10.1111/j.1556-4029.2010.01527.x
+SP  - 1598
+EP  - 1602
+KW  - forensic science
+KW  - forensic radiology
+KW  - computed tomography
+KW  - forensic pathology
+KW  - upper cervical spine
+KW  - injury
+KW  - virtopsy
+PY  - 2010
+AB  - Abstract:? Injuries to the upper cervical spine (UCS) are common in traumatic deaths and postmortem computed tomography (PMCT) may contribute to the forensic investigation. This study presents PMCT in comparison with autopsy in the examination of UCS injury. Thirteen consecutive cases with UCS fracture and/or cranio-cervical dislocation were examined with PMCT and autopsy, and the findings were correlated. Neither of the techniques identified all UCS injuries. Fractures of atlas and axis were best visualized with PMCT whereas cranio-cervical dislocation was better identified during autopsy. Serious injuries were present after both high- and low-energy trauma. Medico-legal autopsy in combination with PMCT produced a thorough evaluation of UCS injuries. By combining these procedures detailed investigations, including accident reconstruction and injury pattern analysis, can be performed. This study supports the routine application of PMCT, as a supplement to the medico-legal autopsy of deaths with UCS injuries.
+ER  - 
+
+TY  - JOUR
+AU  - Satchell, G.
+AU  - McGrath, M.
+AU  - Dixon, J.
+AU  - Pfau, T.
+AU  - Weller, R.
+TI  - Effects of Time of Day, Ambient Temperature and Relative Humidity on the Repeatability of Infrared Thermographic Imaging in Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 47
+IS  - S48
+UR  - https://doi.org/10.1111/evj.12486_30
+DO  - doi:10.1111/evj.12486_30
+SP  - 13
+EP  - 14
+PY  - 2015
+AB  - Reasons for performing study Infrared imaging is becoming popular as an aid to traditional diagnostic tools, its repeatability under practically relevant conditions is still discussed. Objectives We hypothesise that time of day, ambient temperature and relative humidity affect thermography readings, and that there is no difference between values from left and right side. Study design Repeated thermography in a convenience sample. Methods Fifteen sound horses were thermographically imaged at 3 time points in the same day (08.00, 12.00 and 16.00?h). Images were taken of the following regions: neck, carpus, distolateral thoracic limbs (cranial and tendon areas), thoracolumbar, pelvis, hock and pelvic limb tendons. Relative humidity and ambient temperature were recorded for each session. Results There was a significant difference between the temperature readings during the 3 imaging sessions in all areas (Friedman and Kruskal?Wallis; all P<0.014). Ambient temperature and relative humidity correlated with thermography readings in the caudal imaging areas (P<0.008 [temperature], P<0.032 [humidity]) of the horses, with an exception of one hock reading, but not in all cranial areas (P<0.365 [temperature], P<0.992 [humidity]) (Spearman's Rho). All but 2 regions (minimum values in the carpus and thoracic tendon areas in the morning session, (P?=?0.033, 0.034) did not show significant difference between left and right sides at the same time of day (all P>0.057). Conclusions Time of day, ambient temperature and relative humidity must be considered when using infrared imaging. Variations between the left and right sides of the horse can occur and should be considered during the analysis of pathological asymmetry. Ethical animal research:?Ethical approval was granted from the Royal Veterinary College Ethics and Welfare committee as part of the first and second author's final year research project. Source of funding:?Funding was provided by the Royal Veterinary College as part of the first and second authors' final year research project. Competing interests:?None declared.
+ER  - 
+
+TY  - JOUR
+AU  - Balogh, Zsolt J.
+TI  - Solutions for Complex Upper Extremity Trauma
+JO  - ANZ Journal of Surgery
+VL  - 81
+IS  - 7‐8
+UR  - https://doi.org/10.1111/j.1445-2197.2011.05806.x
+DO  - doi:10.1111/j.1445-2197.2011.05806.x
+SP  - 567
+EP  - 568
+PY  - 2011
+ER  - 

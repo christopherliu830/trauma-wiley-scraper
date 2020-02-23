@@ -1,0 +1,322 @@
+
+TY  - JOUR
+AU  - Shields, E
+AU  - Passante, S
+AU  - Massie, S
+AU  - Seiden-Long, I
+AU  - Leguillette, R
+TI  - Validation of a Novel High-Sensitivity Cardiac Troponin-T Assay in Horses
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 46
+IS  - S46
+SN  - 0425-1644
+UR  - https://doi.org/10.1111/evj.12267_76
+DO  - doi:10.1111/evj.12267_76
+SP  - 25
+EP  - 25
+PY  - 2014
+AB  - Introduction Cardiac troponin-I (cTn-I) has been previously validated in horses. Newer high sensitivity troponin assays have recently become available that are now the standard in human cardiology. The objective was to validate the high-sensitivity cardiac troponin-T (hscTn-T) assay for use in horses and to determine the biological variation within and between horse breeds. Methods Samples were analysed using the hscTn-T assay reagent (Roche,Cobas c501). Method validation included linearity, lower limit of quantitation (LLQ), freeze-thaw stability, within-and between-run precision, and comparison with cTn-I (Abbott iSTAT, Deming regression). Normal range and biological variation included healthy horses (n?=?120; age?=?7.2?±?0.5 years (SE)) representing 5 breeds. Results Assay was linear from 3?391?ng/L. The LLQ was validated at 3?ng/L. Stability of samples was unaffected by 3 freeze-thaw cycles. Within-run mean (±SD) was L1?=?6.50 (±0.97), L2?=?10.1 (±0.88), L3?= 15.3 (±0.82)?ng/L and between-run mean (±SD) was L1?=?12.2 (±1.03), L2?=?57.0 (±4.82), L3?=?256 (±23.1)?ng/L. Comparison with cTn-I assay showed excellent correlation (range: 8?3535?ng/L, r?=?0.9998). Bias was evident in the regression results [hscTnT?=?(0.6153?±?0.002809)*(cTnI*1000)???(11.53?±?5.462)]. The 95th and 99th percentile of the normal distribution in healthy horses was 4 and 6?ng/L. Between breed, diurnal effect and between day variation was not detectable due to low concentrations of hscTnT. Conclusions This study established reference intervals for hscTn-T assay in healthy horses and the performance characteristics of hsTn-T assay in horse samples. Normal population distribution was mostly below the detection limit of the assay. The hscTn-T assay will likely establish the standard in early detection of cardiac pathologies in horses. Ethical Animal Research This study was approved by the Veterinary Sciences Animal Care Committee (protocol number AC12-0049). Sources of funding:?UCVM internship fund. Competing interests:?none.
+ER  - 
+
+TY  - JOUR
+AU  - Spence, S.
+AU  - French, A.
+AU  - Penderis, J.
+AU  - Macfarlane, L.
+AU  - Gutierrez-Quintana, R.
+AU  - Dickson, L.
+AU  - Holmes, K.
+AU  - McLauchlan, G.
+TI  - The occurrence of cardiac abnormalities in canine steroid-responsive meningitis arteritis
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 60
+IS  - 4
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/jsap.12984
+DO  - doi:10.1111/jsap.12984
+SP  - 204
+EP  - 211
+PY  - 2019
+AB  - Objectives To document the prevalence of cardiac abnormalities in dogs with steroid-responsive meningitis arteritis and to assess resolution of these abnormalities following corticosteroid therapy. Materials and Methods Steroid-responsive meningitis arteritis was diagnosed based on signalment, physical examination findings, complete blood count, biochemistry and CSF analysis. Echocardiography, C-reactive protein and cardiac troponin I were measured in all cases before and 10 to 14 days after commencing corticosteroid therapy. Fibrinogen was also measured in a proportion of dogs. Results Fourteen dogs were prospectively enrolled. Increased cardiac troponin I was identified in five of 14 dogs and echocardiographic abnormalities were detected in 12 of 14 dogs, including spontaneous echo contrast (12 of 14), mild pericardial effusion (five of 14) and mildly decreased fractional shortening (five of 14). All dogs had increased C-reactive protein and fibrinogen was increased in 11 of 12. Corticosteroid treatment was associated with clinical improvement and normalisation of C-reactive protein in all dogs. The cardiac troponin I levels normalised in four of five and fibrinogen had normalised in all five dogs which were retested. Spontaneous echo contrast improved or completely resolved in 12 of 12 and pericardial effusion resolved in five of five dogs. Fractional shortening normalised in two of five dogs. Clinical Significance Cardiac changes are common in dogs with steroid-responsive meningitis arteritis and most resolve with therapy. Further investigation into the cause and significance of these changes is necessary in determining whether antithrombotic therapy or positive inotropic therapy is indicated.
+ER  - 
+
+TY  - JOUR
+AU  - Fletcher, DJ
+AU  - Williams, DC
+AU  - Imai, A
+AU  - Ilkiw, JE
+TI  - QUANTITATIVE EEG TO EVALUATE DEPTH OF ANESTHESIA IN THE CAT
+JO  - Journal of Veterinary Emergency and Critical Care
+VL  - 14
+IS  - S1
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/j.1476-4431.2004.t01-4-04035.x
+DO  - doi:10.1111/j.1476-4431.2004.t01-4-04035.x
+SP  - S1
+EP  - S17
+PY  - 2004
+AB  - Introduction: Quantitative measures derived from the electroencephalogram (qEEG) have been used extensively in human medicine to assess the function of the brain under clinical manipulation (such as anesthesia and sedation), as well as in disease states (such as head trauma, coma and stroke). The goal of this study was to determine if qEEG measures could be used to predict the response of cats under isoflurane concentration to noxious stimuli. Methods: Twelve cats aged 1?2 years were included. Neurological and physical examination, blood chemistries and CBCs were normal in all cats. Anesthesia was induced with isoflurane (ISO) in O2, the cat was intubated and the femoral artery catheterized. The following physiologic data were collected continuously throughout the course of the experiment: temperature, blood pressure, respiratory rate, heart rate, and end-tidal CO2 and ISO concentrations. An Aspect Medical Systems A-1050 monitor was used to continuously record the raw electroencephalogram (EEG) and several qEEG measures including bispectral index (BIS), spectral edge frequency (SEF), burst suppression ratio (BSR), and total EEG power (POW). ISO concentration was maintained constant for 15?minutes, after which a tail clamp was applied for 1?minute. If the cat responded, the concentration was increased 10% and the procedure repeated. If the cat did not respond, the ISO concentration was decreased 10% and the procedure repeated. The minimum alveolar concentration (MAC) was the midpoint between a positive and negative response and, for each cat, this was determined three times. Results: BIS was significantly lower in cats at the lowest concentration at which there was no response (MAC?, 21.3±28.3) than at the highest concentration at which there was a response (MAC+, 63.4±22.1; p<.01, Wilcoxon signed rank). However, in 3/12 cats (25%), BIS was higher at MAC? than at MAC+. Of the other qEEG measures, only BSR was significantly different between MAC? and MAC+ (50.4±34.4 vs. 6.1±19.4, p<.01). Of the physiologic data collected, only respiratory rate was different between MAC? and MAC+ (29.4±10.0 vs. 45.3±17.9, p<.05). Conclusions: These results suggest that qEEG measures may be useful for anesthesia monitoring in cats, but measures that are less species-specific than the BIS may hold more promise. In addition, this work suggests that further studies utilizing qEEG measures for evaluation of sedation during ventilation as well as outcome prediction in animals with head trauma and critical illnesses with CNS complications are indicated.
+ER  - 
+
+TY  - JOUR
+AU  - Crowe, DT
+TI  - RAPID MILLER'S KNOT METHOD FOR EMERGENCY LUNG LOBE REMOVAL
+JO  - Journal of Veterinary Emergency and Critical Care
+VL  - 14
+IS  - S1
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/j.1476-4431.2004.t01-21-04035.x
+DO  - doi:10.1111/j.1476-4431.2004.t01-21-04035.x
+SP  - S1
+EP  - S17
+PY  - 2004
+AB  - A simple and rapid technique for the emergency removal of lung lobes was developed. It has been used successfully in 2 cats and 10 dogs without complications being recognized in any, with a minimum follow-up of four months. The purpose of this abstract is three-fold: 1) To briefly describe how the technique was done; 2) To describe the results of the use of the technique in these 14 emergency cases; and 3) Provide recommendations for the continued use of the technique in emergency cases. Method: The lung lobe requiring removal was selected and elevated; soft connective tissues around the lung lobe base were separated from the main pedicle using a fine curved scissors. With mild traction applied, 3 curved Halstead or Kelly hemostatic forceps were applied across the entire pedicle, one right after the other except for a break between the last 2 distal clamps. The lung lobe was removed by cutting the entire pedicle with a Metzenbaum scissors between the distal most clamps. The tips of the scissors were tilted slightly to produce a ?tissue bumper? of 1?3?mm above the distal most hemostatic forceps left. A Miller's knot of 3?0 to 2?0 polypropylene (cats and very small dogs) and 0 to 1 polypropylene (medium to large dogs) was applied around the entire pedicle under the clamps and tightened as the proximal most clamp was loosened briefly (flashed). The ends of the suture were continued to be carried around the pedicle in the direction they were coursing and then tied. A third ligation of the polypropylene was completed in large pedicles or where added security was deemed necessary such as in cases with a torn lung lobe due to trauma. Results: The procedure was used in emergency lung lobectomy in 2 cats involving 3 lobes and in 10 dogs. The reasons for emergency lobectomy were lung consolidation in 4 dogs (involving 6 lobes), trauma with severe tears or openings in 4 dogs (involving 6 lobes), a leaking congenital bulla in 1 dog, and 1 abscess/foreign body (wooden stick). Time taken to perform a lobectomy with this technique ranged from 3?7?minutes. No leaks or complications with the pedicle have been observed in any of the cases. Because only limited dissection is needed to perform the lobectomy, the author recommends this method over conventional lobectomy where artery, bronchus and vein are all managed individually.
+ER  - 
+
+TY  - JOUR
+AU  - Stoneham, AE
+AU  - O'Toole, TE
+AU  - De Laforcade, AM
+AU  - King, R
+AU  - Sato, AF
+TI  - RETROPERITONEAL EFFUSION IN DOGS AND CATS
+JO  - Journal of Veterinary Emergency and Critical Care
+VL  - 14
+IS  - S1
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/j.1476-4431.2004.t01-14-04035.x
+DO  - doi:10.1111/j.1476-4431.2004.t01-14-04035.x
+SP  - S1
+EP  - S17
+PY  - 2004
+AB  - Although cases of retroperitoneal effusion associated with adrenal gland neoplasia have been reported in the veterinary literature, these clinical reports have been largely anecdotal. To our knowledge, no comprehensive evaluation of the causes or clinical indications of effusion (RPE) in the retroperitoneal space exists. In this retrospective study, we evaluated the causes, presenting signs, clinical findings and outcomes associated with RPE. The records of 23 cats and 44 dogs presenting to the Tufts University School of Veterinary Medicine between 1996 and 2003 and having been identified with RPE were reviewed. The presence of RPE was identified using abdominal ultrasonography. All of the cats and 84% (n=38) of dogs in this study presented through the Emergency Service. Diagnoses for RPE were categorized as follows: (Group 1) 14 dogs and 3 cats with acute renal failure associated with infection; (Group 2) 5 dogs and 6 cats with acute renal failure of unknown etiology; (Group 3) 3 cats with acute renal failure due to urinary tract obstruction; (Group 4) 8 dogs with adrenal gland neoplasia; (Group 5) 7 dogs and 1 cat with non-adrenal gland neoplasia; (Group 6) 5 dogs and 4 cats with other renal disease, and (Group 7) 5 dogs and 6 cats with RPF due to other causes. The most frequent presenting complaints in all categories except for those in Group 4 included anorexia, lethargy and vomiting. Physical examination findings were very similar for all categories except for those in Group 4 and included abdominal pain, dehydration, mental depression, lethargy and weakness. For those in Group 4, the most common complaints were collapse or marked weakness, anorexia, lethargy, and discomfort. The physical examination findings for dogs in Group 4 also included collapse or marked weakness, and abdominal distension. Percent mortality for dogs was 39% and, for cats, 43%. In each category, the percent mortalities are as follows (euthanized=e, died=d): Group 1: dogs: 14% (e n=1, d n=1), and cats: 33% (e n=1); Group 2: dogs: 100% (e n=4, d n=1) and cats 67% (e n=4).; Group 3: cats: 100% (e n=2, d n=1); Group 4: dogs: 32% (e n=3); Group 5: dogs: 71% (e n=5) and cats: 0%;. Group 6: dogs: 0% and cats: 25% (e n=1), and Group 7: dogs: 40% (e n=2) and cats: 17% (e n=1). Retroperitoneal effusion, regardless of cause, is associated with significant disease. In people, another category of disease associated with RPE is trauma. Although this category is not included in this study, abdominal ultrasonography of trauma victims may identify a veterinary population with RPE.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts
+JO  - Emergency Medicine Australasia
+VL  - 19
+IS  - s1
+SN  - 1742-6731
+UR  - https://doi.org/10.1111/j.1742-6723.2007.00940.x
+DO  - doi:10.1111/j.1742-6723.2007.00940.x
+SP  - A29
+EP  - A37
+PY  - 2007
+ER  - 
+
+TY  - JOUR
+TI  - SAEM Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+JA  - Acad Emerg Med
+VL  - 26
+IS  - S1
+SN  - 1069-6563
+UR  - https://doi.org/10.1111/acem.13756
+DO  - doi:10.1111/acem.13756
+SP  - S9
+EP  - S304
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+AU  - Bush, WW
+AU  - Tiches, DM
+AU  - Kamprad, CM
+AU  - Barr, CS
+AU  - Murtaugh, RJ
+TI  - General session abstracts RESULTS OF LAMINECTOMY WITHOUT METHYLPREDNISOLONE SODIUM SUCCINATE (MPSS) FOR ACUTE THORACOLUMBAR DISK DISEASE IN 51 NON-AMBULATORY DOGS
+JO  - Journal of Veterinary Emergency and Critical Care
+VL  - 14
+IS  - S1
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/j.1476-4431.2004.t01-16-04035.x
+DO  - doi:10.1111/j.1476-4431.2004.t01-16-04035.x
+SP  - S1
+EP  - S17
+PY  - 2004
+AB  - The administration of MPSS is advocated both for limiting spinal cord injury from Hansen Type I intervertebral disk protrusion (T1-IVD) and from the potential surgical trauma associated with laminectomy. Recent studies suggest that treatment with MPSS does not significantly alter functional outcome and is associated with significant complications including gastrointestinal bleeding, pancreatic necrosis, and increased rates of infection. The purpose of this prospective study was to report the results of laminectomy without MPSS treatment in non-ambulatory dogs with T1-IVD. The study group involved dogs weighing less than 15?kg that had a laminectomy between T11-T12 and L4-L5 for T1-IVD. Dogs included had not been treated with MPSS, were unable to walk but able to sense ?deep pain?. The dogs were evaluated post-operatively for the ability to walk (stand and advance pelvic limbs), pain (reaction to paraspinal palpation or movement), and incontinence (dribbling urine/feces or failure to completely void urine). Fifty-one dogs met the inclusion criteria. Prior to surgery 0% of the dogs could walk (26 paralyzed, 25 paretic), and 98% were painful. Incontinence was not assessed or was unknown in most cases. Ten days following surgery, 90% were walking, 98% were pain-free, and 82% were fully continent. By 6 weeks, 100% were walking, 6% were painful, and 86% fully continent. By 16 weeks, 96% were pain-free, and 88% were fully continent. These results obtained with laminectomy alone are comparable or superior to reports of those with MPSS administration and suggest that MPSS is not necessary for a successful outcome in dogs receiving laminectomy for T1-IVD.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts of the annual scientific meeting of the ACEM and ASEM 2001
+JO  - Emergency Medicine
+VL  - 14
+IS  - 1
+SN  - 1035-6851
+UR  - https://doi.org/10.1046/j.1442-2026.2002.00141.x
+DO  - doi:10.1046/j.1442-2026.2002.00141.x
+SP  - A1
+EP  - A34
+PY  - 2002
+ER  - 
+
+TY  - JOUR
+AU  - Crowe, DT
+TI  - SIMPLE AUTOTRANSUSION IN SEVERE HEMORRHAGE: SUCCESS IN 8 OF 12 DOGS
+JO  - Journal of Veterinary Emergency and Critical Care
+VL  - 14
+IS  - S1
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/j.1476-4431.2004.t01-20-04035.x
+DO  - doi:10.1111/j.1476-4431.2004.t01-20-04035.x
+SP  - S1
+EP  - S17
+PY  - 2004
+AB  - A simple technique for autotransfusion has been developed and used in the successful resuscitation of dogs suffering severe trauma and /or hemorrhage. The purpose of this abstract is three-fold: 1) Describe the criteria used in case selection; 2) Describe the method used; and 3) Describe the results of its use in a limited number of cases. Case Selection: The criteria used were the following: 1. Ongoing significant hemorrhage or severe hemorrhage noted in a body cavity where the blood could be collected; 2. Acute hemorrhage amounts deemed to be life-threatening (>40% calculated blood volume [88?ml/kg]); 3. Where other choices (fresh or stored homologus blood, Oxyglobin) in amounts needed were not possible. Method: Blood was aspirated into a suction canister using a Pool or Yankauer suction tip, with the tip placed under the pool (s) of blood to eliminate as many bubbles in the collection process as possible. If the canister was not sterilized it was scrubbed with a surgical prep solution and then rinsed with tap water prior to blood collection. The blood in the canister was poured into a wide opening in a hanging empty plastic intravenous fluid bag with a blood administration set inserted. The blood was intravenously administered by gravity drip as needed. No attempt was made to use any anticoagulant. Amounts of blood given, clinical responses, and complications were recorded. Results: The procedure was used in 12 dogs: 5 abdominal hemorrhage, 3 thoracic hemorrhage, 2 hemorrhage from both abdomen and chest, 2 vertebral vein hemorrhage. All blood administered was given during the operation or within 2 hours. Amounts transfused ranged from 30 to 120?ml/kg (body weight [mean 48?ml/kg]). No animals died acutely from signs thought to be associated with the transfusion of this blood. Those cases surviving to discharge were 4 abdominal, 2 thoracic, 1 combined, and 1 vertebral vein. There were no infections attributed to the autotransfusion. It is concluded that this technique can be recommended and may be considered life-saving in selected cases.
+ER  - 
+
+TY  - JOUR
+AU  - Sauvé, V
+AU  - Parent, C
+AU  - Seiler, G
+AU  - French, A
+AU  - VanWinkle, TJ
+AU  - King, LG
+TI  - ACUTE LUNG INJURY AND ACUTE RESPIRATORY DISTRESS SYNDROME IN CATS: 65 CASES (1993–2003)
+JO  - Journal of Veterinary Emergency and Critical Care
+VL  - 14
+IS  - S1
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/j.1476-4431.2004.t01-11-04035.x
+DO  - doi:10.1111/j.1476-4431.2004.t01-11-04035.x
+SP  - S1
+EP  - S17
+PY  - 2004
+AB  - Objectives: 1) Describe the clinical course and diagnostic findings of cats with histopathologic evidence of acute lung injury (ALI) and acute respiratory distress syndrome (ARDS). 2) Identify risk factors for ALI/ARDS in cats. Animals: Sixty-five client-owned cats with moderate to severe interstitial pneumonia, pneumonitis or alveolitis consistent with ALI/ARDS on post-mortem examination and clinical evidence of respiratory compromise. Procedure: Retrospective evaluation of medical records, postmortem examination and radiographs. Results: Cats in this study tended to be middle aged (mean 6.5±4.9 years). They had a short duration of illness (median 4 days; range 0?120 days) and of dyspnea (median 1 day; range 1?7 days). On presentation, the cats were tachypneic (mean respiratory rate 53±23?bpm) and relatively bradycardic (mean heart rate 166±43?bpm). The majority of cats were dyspneic (n=39) at presentation; all others developed respiratory difficulties during hospitalization. The mean white blood cell count was within normal limits (14.6±14.0?k/?L); 8 cats had a leukocytosis and 7 were leucopenic. Clinical findings consistent with SIRS (n=39) and sepsis (n=10) were common. Thoracic radiographs were reviewed in 31 cats and alveolar disease was the most frequent pattern (105 lung lobes) followed by interstitial disease (86 lung lobes). No cat had normal thoracic radiographs throughout hospitalization. Underlying disease was not identified on post-mortem examination in 15 cats (23%), but in the remaining cats underlying diseases included infectious systemic disease (n=11), neoplasia (n=8), respiratory (n=8) and urinary (n=7) system disorders, acute pancreatitis (n=7), hepatic diseases (n=5), major trauma (n=4), sepsis (n=3), CNS (n=2) and other systems (n=5). Nine cats had more then one underlying process. Conclusions: This study describes a naturally-occurring syndrome of ALI/ARDS in cats analogous to that which occurs in dogs and humans. In cats, ALI/ARDS occurs as a sequela of a variety of underlying systemic diseases, but in approximately one-quarter of patients an underlying cause is not identified at necropsy. It is important to consider ALI/ARDS in systemically ill cats who become dyspneic; in cats with pulmonary disease with acute worsening of respiratory status and in cats with pulmonary infiltrates for which no other cause can be identified.
+ER  - 
+
+TY  - JOUR
+TI  - Plenary Session III: Maladaptive Neuroplasticity in Stress and Epilepsy  8:15 a.m.–10:15 a.m.
+JO  - Epilepsia
+VL  - 46
+IS  - s8
+SN  - 0013-9580
+UR  - https://doi.org/10.1111/j.1528-1167.2005.460801_42.x
+DO  - doi:10.1111/j.1528-1167.2005.460801_42.x
+SP  - 373
+EP  - 373
+PY  - 2005
+AB  - 1 Tallie Z. Baram, 1 Kristen L. Brunson, 1 Celine Dube, 1 Sarit Avishai-Eliner, and 1 Kristina A. Fenoglio ( 1 Pediatrics, Anatomy/ Neurobiology, UCI, Irvine, CA ) Seizures often arise in the setting of an acute injury or insult. In addition, many of the epilepsies are ?symptomatic?, i.e., they occur in individuals who had sustained injury or insult such as infection, trauma, or stroke. The mechanisms by which diverse factors such as infection or trauma provoke both acute seizures and recurrent, chronic seizures (epilepsy) are not fully understood. To some extent, each of these insults may initiate a unique chain of events that promotes epilepsy. However, these insults also share commonalities that set in motion cellular and molecular changes that promote neuronal hyperexcitability: All these epilepsy- provoking insults are stressful, in that they trigger the release and actions of ?stress-mediating molecules?, including glucocorticoids and the intrinsic central nervous system (CNS) stress-activated neuro-peptide, corticotropin releasing hormone (CRH). Stress induces release of CRH from hippocampal interneurons, and CRH acts on selective receptors (CRF-R1) to enhance glutamate-mediated neurotransmission. In immature hippocampus, CRH and the CRH receptors are particularly abundant, so that the peptide may excite neurons sufficiently to evoke seizures, followed by dendritic atrophy or death of vulnerable neurons. In animal models, chronic enhancement of CRH levels within the developing hippocampus, may result in enduring reduction of hippocampus- governed learning and memory function. Such levels might be found in infants with chronic CNS stressors including congenital infection, dysplasia, trauma or recurrent seizures. Indeed, drugs that downregulate CRH levels in limbic structures (e.g., ACTH) are potent antiepileptics in the developing CNS. In summary, acute and chronic stress elicits the release of pro-excitatory molecules (CRH), promoting seizures. These further activate the ?stress response?, leading to a vicious cycle culminating in loss of neuronal function and integrity.
+ER  - 
+
+TY  - JOUR
+TI  - 2008 SAEM Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+VL  - 15
+IS  - s1
+SN  - 1069-6563
+UR  - https://doi.org/10.1111/j.1553-2712.2008.00122.x
+DO  - doi:10.1111/j.1553-2712.2008.00122.x
+SP  - S64
+EP  - S84
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+AU  - Goupil, A.
+AU  - Bolliger, C.
+AU  - Lapointe, C.
+AU  - Morency, A.
+AU  - Girard, C.
+TI  - Embolised mesothelial cells in a tracheobronchial lymph node associated with idiopathic chylopericardium in a dog
+JO  - Journal of Small Animal Practice
+JA  - J Small Anim Pract
+VL  - 53
+IS  - 11
+SN  - 0022-4510
+UR  - https://doi.org/10.1111/j.1748-5827.2012.01285.x
+DO  - doi:10.1111/j.1748-5827.2012.01285.x
+SP  - 664
+EP  - 667
+PY  - 2012
+AB  - Abstract A 5·5-year-old male castrated Bernese mountain dog presented with respiratory difficulties and was diagnosed with haemorrhagic pericardial effusion which transformed into chylopericardium. Thoracic duct ligation and subtotal pericardiectomy in combination with biopsy of an enlarged tracheobronchial lymph node were performed. Multiple clusters of mesothelial cell emboli were observed in the subcapsular sinus of the lymph node. No causative agent for the pericardial effusion could be identified, suggesting that this is a case of mesothelial cell embolisation associated with idiopathic -chylopericardium in a dog.
+ER  - 
+
+TY  - JOUR
+TI  - SAEM Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+JA  - Acad Emerg Med
+VL  - 20
+IS  - s1
+SN  - 1069-6563
+UR  - https://doi.org/10.1111/acem.12115
+DO  - doi:10.1111/acem.12115
+SP  - S4
+EP  - S336
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+AU  - Chan, DL
+AU  - Rozanski, EA
+AU  - Freeman, LM
+AU  - Rush, JE
+TI  - RETROSPECTIVE EVALUATION OF HUMAN ALBUMIN USE IN CRITICALLY ILL DOGS
+JO  - Journal of Veterinary Emergency and Critical Care
+VL  - 14
+IS  - S1
+SN  - 1479-3261
+UR  - https://doi.org/10.1111/j.1476-4431.2004.t01-17-04035.x
+DO  - doi:10.1111/j.1476-4431.2004.t01-17-04035.x
+SP  - S1
+EP  - S17
+PY  - 2004
+AB  - Hypoalbuminemia and decreased colloid osmotic pressure (COP) are common in critically ill dogs. Hypoalbuminemia has been shown to negatively impact outcome. Treatment strategies to raise COP include the use of both natural and synthetic colloids. To date there is no comprehensive evaluation of human albumin (HA) use in dogs. The purpose of this retrospective study was to evaluate the use of 25% HA in critically ill dogs. The medical records of all dogs receiving HA between January 2003 and March 2004 were reviewed using a standardized data sheet for signalment, diagnoses, Survival Prediction Index (SPI), dose of HA administered, amount of crystalloid fluid administered prior to HA administration, length of hospitalization (LOH), complications, and outcome. Additionally pre- and post-HA administration values for serum albumin (SA), blood COP, and total solids (TS) were evaluated. Thirty-seven dogs received HA. Thirty of the 37 dogs (81%) underwent surgery and 13 of 37 (39%) dogs were diagnosed with septic peritonitis. Other diagnoses included trauma, wounds, neoplasia, gastric ulcer, and pancreatitis. The median SPI of all dogs was 0.53 (range 0.06?0.82). Median dose of HA used was 1.5?g/kg (range 0.38?3.64?g/kg). Median dose of crystalloid fluids administered prior to HA administration was 6.23?ml/kg/hr (range 1.2?45.4?ml/kg/hr). Median LOH was 5 days (range 1?16 days). Mild complications were encountered in 9 of 37 (24%) dogs and included prolonged clotting times (n=3), increased breathing effort (n=3), vomiting (n=2), and fever (n=1). Of the 37 dogs in the study, 21 (57%) survived, 10 (27%) died, and 6 (16%) were euthanized. After HA administration, median SA increased from 1.5?g/dl (range 1.0?2.1?g/dl) to 2.8?g/dl (range 1.5?4.4?g/dl) (p<0.001), median COP increased from 11?mmHg (range 6.8?13.8?mmHg) to 14.4?mmHg (range 11?26.9?mmHg) (p<0.001), and median TS increased from 2.9?g/dl (range 0.9?4.6?g/dl) to 4.0 (range 2.8?6.2) (p<0.001). When compared to non-survivors, survivors had higher post-HA administration SA (p=0.008), higher net COP increase (p=0.032), and received higher dosages of HA (p=0.046). Pre-treatment SA, COP, or the development of complications during administration did not impact LOH or outcome. In this retrospective study, HA administration effectively increased SA, TS and COP in critically ill dogs and was associated with relatively few complications. Future studies are warranted to further evaluate the potential benefits of HA administration.
+ER  - 
+
+TY  - JOUR
+TI  - SAEM Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+JA  - Acad Emerg Med
+VL  - 23
+IS  - S1
+SN  - 1069-6563
+UR  - https://doi.org/10.1111/acem.12974
+DO  - doi:10.1111/acem.12974
+SP  - S7
+EP  - S276
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+TI  - 1999 SAEM ANNUAL MKTING ABSTRACTS
+JO  - Academic Emergency Medicine
+VL  - 6
+IS  - 5
+SN  - 1069-6563
+UR  - https://doi.org/10.1111/j.1553-2712.1999.tb03830.x
+DO  - doi:10.1111/j.1553-2712.1999.tb03830.x
+SP  - 369
+EP  - 548
+PY  - 1999
+ER  - 
+
+TY  - JOUR
+TI  - 2004 SAEM ANNUAL MEETING ABSTRACTS
+JO  - Academic Emergency Medicine
+VL  - 11
+IS  - 5
+SN  - 1069-6563
+UR  - https://doi.org/10.1197/j.aem.2004.02.011
+DO  - doi:10.1197/j.aem.2004.02.011
+SP  - 435
+EP  - 607
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+TI  - SAEM Annual Meeting Abstracts
+JO  - Academic Emergency Medicine
+JA  - Acad Emerg Med
+VL  - 24
+IS  - S1
+SN  - 1069-6563
+UR  - https://doi.org/10.1111/acem.13203
+DO  - doi:10.1111/acem.13203
+SP  - S7
+EP  - S281
+PY  - 2017
+ER  - 

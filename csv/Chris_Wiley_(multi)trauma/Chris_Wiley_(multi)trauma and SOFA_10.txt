@@ -1,0 +1,332 @@
+
+TY  - JOUR
+AU  - Trahtemberg, U.
+AU  - Bazak, N.
+AU  - Sviri, S.
+AU  - Beil, M.
+AU  - Paschke, S.
+AU  - van Heerden, P.V.
+TI  - Cytokine patterns in critically ill patients undergoing percutaneous tracheostomy
+JO  - Clinical & Experimental Immunology
+JA  - Clin Exp Immunol
+VL  - 198
+IS  - 1
+SN  - 0009-9104
+UR  - https://doi.org/10.1111/cei.13333
+DO  - doi:10.1111/cei.13333
+SP  - 121
+EP  - 129
+KW  - critical care
+KW  - cytokines
+KW  - human
+KW  - inflammation
+KW  - percutaneous tracheostomy
+PY  - 2019
+AB  - Summary The inflammatory response to acute injury among humans has proved difficult to study due to the significant heterogeneity encountered in actual patients. We set out to characterize the immune response to a model injury with reduced heterogeneity, a tracheostomy, among stable critical care patients, using a broad cytokine panel and clinical data. Twenty-three critical care patients undergoing percutaneous bedside tracheostomies were recruited in a medical intensive care unit. Blood samples were collected at five intervals during 24-h peri-procedure. Patients were followed-up for 28 days for clinical outcomes. There were no statistically significant changes in any of the cytokines between the five time-points when studied as a whole cohort. Longitudinal analysis of the cytokine patterns at the individual patient level with a clustering algorithm showed that, notwithstanding the significant heterogeneity observed, the patients? cytokine responses can be classified into three broad patterns that show increasing, decreasing or no major changes from the baseline. This analytical approach also showed statistically significant associations between cytokines, with those most likely to be associated being interleukin (IL)-6, granulocyte colony-stimulating factor (GCSF) and ferritin, as well as a strong tri-way correlation between GCSF, monocyte chemoattractant protein 1 (MCP1) and macrophage inflammatory protein-1? (MIP1?). In conclusion, in this standard human model of soft tissue injury, by applying longitudinal analysis at the individual level, we have been able to identify the cytokine patterns underlying the seemingly random, heterogeneous patient responses. We have also identified consistent cytokine interactions suggesting that IL-6, GCSF, MCP1 and MIP1? are the cytokines most probably driving the immune response to this injury.
+ER  - 
+
+TY  - JOUR
+AU  - McClave, Stephen A.
+AU  - Codner, Panna
+AU  - Patel, Jayshil
+AU  - Hurt, Ryan T.
+AU  - Allen, Karen
+AU  - Martindale, Robert G.
+TI  - Should We Aim for Full Enteral Feeding in the First Week of Critical Illness?
+JO  - Nutrition in Clinical Practice
+JA  - Nutrition in Clinical Practice
+VL  - 31
+IS  - 4
+SN  - 0884-5336
+UR  - https://doi.org/10.1177/0884533616653809
+DO  - doi:10.1177/0884533616653809
+SP  - 425
+EP  - 431
+KW  - trophic feeding
+KW  - permissive underfeeding
+KW  - nutritional support
+KW  - enteral nutrition
+KW  - tube feeding
+KW  - critical illness
+KW  - critical care
+PY  - 2016
+AB  - Recent clinical trials have challenged the concept that aggressive full feeding as close to goal requirements as possible is necessary in the first week following admission to the intensive care unit. While the data suggesting that permissive underfeeding is better than full feeds are methodologically flawed, other data do indicate that in certain well-defined patient populations, outcomes may be similar. The most important issues for clinicians in determining optimal nutrition therapy for critically ill patients are to carefully determine nutrition risk and differentiate nutrition from nonnutrition benefits of early enteral feeding. Management decisions in the first week of hospitalization should be made in the context of both short- and long-term outcomes. Patients at highest nutrition risk may require advancement to goal feeds as soon as tolerated to maximize benefit from nutrition therapy.
+ER  - 
+
+TY  - JOUR
+AU  - Toothill, C
+TI  - Foundations of chemical analysis: By O Budevsky. pp 372. Ellis Horwood, Chichester. 1979. £16.50 ISBN 0-85312-113-3
+JO  - Biochemical Education
+JA  - Biochem. Educ.
+VL  - 9
+IS  - 2
+SN  - 0307-4412
+UR  - https://doi.org/10.1016/0307-4412(81)90192-8
+DO  - doi:10.1016/0307-4412(81)90192-8
+SP  - 77
+EP  - 77
+PY  - 1981
+ER  - 
+
+TY  - JOUR
+AU  - Hames, B D
+TI  - Development, growth and ageing: Edited by N Carter. pp 169. Croom Helm, London. 1980. £10.95 or £4.95 (pbk) ISBN 0-85664-861-2 or 0-85664-862-0 (pbk)
+JO  - Biochemical Education
+JA  - Biochem. Educ.
+VL  - 9
+IS  - 2
+SN  - 0307-4412
+UR  - https://doi.org/10.1016/0307-4412(81)90193-X
+DO  - doi:10.1016/0307-4412(81)90193-X
+SP  - 77
+EP  - 77
+PY  - 1981
+ER  - 
+
+TY  - JOUR
+AU  - Chan, CC
+AU  - Luis, Bpk
+AU  - Chow, Cb
+AU  - Cheng, JCY
+AU  - Wong, Tw
+AU  - Chan, K
+TI  - Unintentional residential child injury surveillance in Hong Kong
+JO  - Journal of Paediatrics and Child Health
+VL  - 39
+IS  - 6
+SN  - 1034-4810
+UR  - https://doi.org/10.1046/j.1440-1754.2003.00181.x
+DO  - doi:10.1046/j.1440-1754.2003.00181.x
+SP  - 420
+EP  - 426
+KW  - accidents
+KW  - childhood injuries
+KW  - emergency service
+KW  - epidemiology
+KW  - Hong Kong
+KW  - wounds and injuries
+PY  - 2003
+AB  - Objectives: ?To provide an overall pattern of morbidity in unintentional residential childhood injuries (URCI) in Hong?Kong. Methodology: ?A cross-sectional telephone survey of caregivers of children aged under 16-years and adolescents suffering from URCI and admitted to three selected local Accident and Emergency Departments. Results: ?Falls, cuts and scalds were the most common external causes of URCI observed, while boys predominated in the sample population. Most of the observed URCI were of moderate to mild severity. Children of new immigrant mothers were more likely to receive first aid immediately after the incidents. Parents were aware of potentially injurious behaviour and intervened on occasion, but most resorted to verbal warnings only. Conclusions: ?Prevalence of falls among observed URCI offers evidence in support of the hypothesis that the high population density in Hong Kong plays an integral role in understanding mechanisms of morbidity. Parents show concern about URCI but often lack substantial action that modifies injury risk. Considering the local injury differentials, an active prevention effort such as behavioural intervention and education for parents may be useful.
+ER  - 
+
+TY  - JOUR
+TI  - Clinical Nutrition Week 2011. Vancouver, B.C., Canada
+JO  - Journal of Parenteral and Enteral Nutrition
+JA  - Journal of Parenteral and Enteral Nutrition
+VL  - 35
+IS  - 1
+SN  - 0148-6071
+UR  - https://doi.org/10.1177/0148607110395868
+DO  - doi:10.1177/0148607110395868
+SP  - 131
+EP  - 139
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - E-Poster Exhibition | APDW 2019
+JO  - Journal of Gastroenterology and Hepatology
+JA  - Journal of Gastroenterology and Hepatology
+VL  - 34
+IS  - S3
+SN  - 0815-9319
+UR  - https://doi.org/10.1111/jgh.14865
+DO  - doi:10.1111/jgh.14865
+SP  - 583
+EP  - 853
+PY  - 2019
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Respirology
+VL  - 16
+IS  - s2
+SN  - 1323-7799
+UR  - https://doi.org/10.1111/j.1440-1843.2011.02071.x
+DO  - doi:10.1111/j.1440-1843.2011.02071.x
+SP  - 1
+EP  - 326
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Journal of Thrombosis and Haemostasis
+VL  - 3
+IS  - s1
+SN  - 1538-7933
+UR  - https://doi.org/10.1111/j.1538-7836.2005.03000.x
+DO  - doi:10.1111/j.1538-7836.2005.03000.x
+SP  - H01
+EP  - SYM90
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - The Association of Upper Gastrointestinal Surgeons of Great Britain and Ireland
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 97
+IS  - S5
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.7299
+DO  - doi:10.1002/bjs.7299
+SP  - 1
+EP  - 58
+PY  - 2010
+AB  - Abstract The Annual Scientific Meeting of the Association of Upper Gastrointestinal Surgeons for Great Britain and Ireland takes place this year in Oxford on the 9th and 10th of September. Copyright ? 2010 British Journal of Surgery Society Ltd. Published by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Acta Anaesthesiologica Scandinavica
+JA  - Acta Anaesthesiol. Scand.
+VL  - 59
+IS  - S121
+SN  - 0001-5172
+UR  - https://doi.org/10.1111/aas.12556
+DO  - doi:10.1111/aas.12556
+SP  - 1
+EP  - 60
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentations
+JO  - Journal of Gastroenterology and Hepatology
+JA  - J Gastroenterol Hepatol
+VL  - 28
+IS  - S3
+SN  - 0815-9319
+UR  - https://doi.org/10.1111/jgh.12363_2
+DO  - doi:10.1111/jgh.12363_2
+SP  - 23
+EP  - 693
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+TI  - The International Liver Transplantation Society: 16th Annual International Congress
+JO  - Liver Transplantation
+JA  - Liver Transpl
+VL  - 16
+IS  - S1
+SN  - 1527-6465
+UR  - https://doi.org/10.1002/lt.22086
+DO  - doi:10.1002/lt.22086
+SP  - S1
+EP  - S284
+PY  - 2010
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentations
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 98
+IS  - S3
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.7526
+DO  - doi:10.1002/bjs.7526
+SP  - 80
+EP  - 217
+PY  - 2011
+AB  - Abstract The International Surgical Congress of the Association of Surgeons of Great Britain and Ireland takes place this year in Bournemouth, UK (11?13 May 2011). Copyright ? 2011 British Journal of Surgery Society Ltd. Published by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - Swiss Society of Surgery
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+VL  - 97
+IS  - S3
+SN  - 0007-1323
+UR  - https://doi.org/10.1002/bjs.7119
+DO  - doi:10.1002/bjs.7119
+SP  - 1
+EP  - 35
+PY  - 2010
+AB  - Abstract The following abstracts will be presented at the 97th Annual Congress of the Swiss Society of Surgery. The meeting, held in Interlaken, 26-28 May 2010, is organized for the eighth time in collaboration with the Swiss Society of Thoracic, Heart and Vascular Surgery. Copyright ? 2010 British Journal of Surgery Society Ltd. Published by John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+TI  - Orals
+JO  - Transplant International
+JA  - Transpl Int
+VL  - 26
+IS  - s2
+SN  - 0934-0874
+UR  - https://doi.org/10.1111/tri.12210
+DO  - doi:10.1111/tri.12210
+SP  - 1
+EP  - 184
+PY  - 2013
+ER  - 
+
+TY  - JOUR
+AU  - Tagami, T.
+AU  - Matsui, H.
+AU  - Horiguchi, H.
+AU  - Fushimi, K.
+AU  - Yasunaga, H.
+TI  - Antithrombin and mortality in severe pneumonia patients with sepsis-associated disseminated intravascular coagulation: an observational nationwide study
+JO  - Journal of Thrombosis and Haemostasis
+JA  - J Thromb Haemost
+VL  - 12
+IS  - 9
+SN  - 1538-7933
+UR  - https://doi.org/10.1111/jth.12643
+DO  - doi:10.1111/jth.12643
+SP  - 1470
+EP  - 1479
+KW  - anticoagulants
+KW  - antithrombins
+KW  - outcomes assessment
+KW  - pneumonia
+KW  - sepsis
+PY  - 2014
+AB  - Summary Background The association between antithrombin use and mortality in patients with sepsis-associated disseminated intravascular coagulation (DIC) remains controversial. Objectives To examine the hypothesis that antithrombin could be effective in the treatment of patients with sepsis-associated DIC following severe pneumonia. Methods Propensity score and instrumental variable analyses were performed by use of a nationwide administrative database, the Japanese Diagnosis Procedure Combination inpatient database. The main outcome was 28-day mortality. Results Severe pneumonia patients diagnosed with sepsis-associated DIC (n = 9075) were categorized into antithrombin (n = 2663) and control (n = 6412) groups. Propensity score matching created a matched cohort of 2194 pairs of patients with and without antithrombin use. Mortality differences were found between the two groups (antithrombin vs. control: unmatched, 40.8% vs. 45.7%; propensity-matched, 40.6% vs. 44.2%; inverse probability-weighted, 41.1% vs. 45.1%). Multiple logistic regression analyses showed an association between antithrombin use and 28-day mortality (unmatched with propensity score adjusted, adjusted odds ratio [OR] 0.87, 95% confidence interval [CI] 0.78?0.97; propensity-matched, adjusted OR 0.85, 95% CI 0.75?0.97; inverse probability-weighted, adjusted OR 0.85, 95% CI 0.79?0.90). An analysis with the hospital antithrombin-prescribing rate as an instrumental variable showed that receipt of antithrombin was associated with a 9.9% (95% CI 3.5?16.3) reduction in 28-day mortality. Conclusions This retrospective, large, nationwide database study demonstrates that antithrombin administration may be associated with reduced 28-day mortality in patients with severe pneumonia and sepsis-associated DIC. A large, multinational randomized trial is required.
+ER  - 
+
+TY  - JOUR
+TI  - The ILTS 20th Annual International Congress
+JO  - Liver Transplantation
+JA  - Liver Transpl
+VL  - 20
+IS  - S1
+SN  - 1527-6465
+UR  - https://doi.org/10.1002/lt.23901
+DO  - doi:10.1002/lt.23901
+SP  - S1
+EP  - S399
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - Posters (Abstracts 301–2389)
+JO  - Hepatology
+JA  - Hepatology
+VL  - 68
+IS  - S1
+SN  - 0270-9139
+UR  - https://doi.org/10.1002/hep.30257
+DO  - doi:10.1002/hep.30257
+SP  - 184
+EP  - 1353
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+TI  - Poster Presentations
+JO  - Mycoses
+JA  - Mycoses
+VL  - 60
+IS  - S2
+SN  - 0933-7407
+UR  - https://doi.org/10.1111/myc.12674
+DO  - doi:10.1111/myc.12674
+SP  - 53
+EP  - 238
+PY  - 2017
+ER  - 

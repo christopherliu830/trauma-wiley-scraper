@@ -1,0 +1,433 @@
+
+TY  - JOUR
+AU  - Van Ginckel, Ans
+AU  - De Mits, Sophie
+AU  - Bennell, Kim L.
+AU  - Bryant, Adam L.
+AU  - Witvrouw, Erik E.
+TI  - T2* mapping of subtalar cartilage: Precision and association between anatomical variants and cartilage composition
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+VL  - 34
+IS  - 11
+SN  - 0736-0266
+UR  - https://doi.org/10.1002/jor.23214
+DO  - doi:10.1002/jor.23214
+SP  - 1969
+EP  - 1976
+KW  - subtalar joint
+KW  - MRI
+KW  - T2*
+KW  - reliability
+KW  - anatomy
+PY  - 2016
+AB  - ABSTRACT Hindfoot arthritis is an important contributor to foot pain and physical disability. While the subtalar joint (STJ) is most frequently affected, anatomical variants such as facet configuration were suggested to further STJ cartilage deterioration. T2* mapping enables detection of ultra-structural cartilage change, particularly in thin cartilage layers, but its feasibility in the STJ has not yet been evaluated. The purpose of this study was to evaluate segmentation consistency and inter-scan short-term precision error of T2* mapping of talocalcaneal cartilage and to investigate the relationship between facet configuration and STJ T2* values. Using 3Tesla morphological magnetic resonance imaging, STJ configuration was categorized according to the degree of fusion between anterior, medial, or posterior facets. Subsequently, two repeats of multi-echo gradient recalled echo sequences were performed to obtain T2* maps with repositioning. Segmentation consistency of T2* values attained an ICC of 0.90 (95%CI 0.69?0.99). Precision errors comprised a coefficient of variation (CV) ranging 0.01?0.05, corresponding to a root mean square CV of 0.03?0.04. A 2-joint configuration type (i.e., fused anterior-medial facets) was significantly associated with a decrease in posterior facet T2* values (??=??0.6, p?=?0.046). STJ T2* mapping is a reliable method requiring at least a 4% difference within people to enable detection of significant change. Anatomical variants in STJ configuration were associated with T2* values with the more stable 3-joint types exhibiting more favorable cartilage outcomes. Longer-term larger-scaled studies focusing on arthritis pathology are needed to further support the use of T2* mapping in hindfoot disease monitoring. ? 2016 Orthopaedic Research Society. Published by Wiley Periodicals, Inc. J Orthop Res 34:1969?1976, 2016.
+ER  - 
+
+TY  - JOUR
+AU  - Dietz, H. P.
+TI  - Quantification of major morphological abnormalities of the levator ani
+JO  - Ultrasound in Obstetrics & Gynecology
+JA  - Ultrasound Obstet Gynecol
+VL  - 29
+IS  - 3
+SN  - 0960-7692
+UR  - https://doi.org/10.1002/uog.3951
+DO  - doi:10.1002/uog.3951
+SP  - 329
+EP  - 334
+KW  - 3D ultrasound
+KW  - birth trauma
+KW  - levator muscle
+KW  - prolapse
+KW  - tomographic ultrasound
+KW  - translabial ultrasound
+KW  - transperineal ultrasound
+KW  - vaginal delivery
+PY  - 2007
+AB  - Abstract Objectives Morphological abnormalities of the levator ani are found in a significant minority of women presenting with symptoms of pelvic floor dysfunction. In this study quantification of such injuries using tomographic three-dimensional (3D) pelvic floor ultrasound was attempted. Methods In a prospective observational study undertaken at two tertiary urogynecological clinics, 262 consecutive women referred for complaints of lower urinary tract dysfunction and prolapse underwent an interview, clinical assessment and 3D translabial ultrasound imaging. Blinded offline analysis of volume datasets was performed at a later date using 4D View software. Main outcome measures were craniocaudal and ventrodorsal extent of defects of the pubovisceral muscle. Results Avulsion injuries were diagnosed in 50 women (19%; 21.3% of the vaginally parous). Defects were found unilaterally (right, n = 17; left, n = 12) and bilaterally (n = 21). In some women they affected the entire volume; in others defects were visible in only two of 16 slices. Hiatal area on Valsalva was correlated weakly with defect score (r = 0.28, P = 0.05) and total defect width (r = 0.4, P = 0.005). Defect score (P = 0.001) and maximum width (P = 0.002) were significantly higher in women who presented with symptoms of prolapse. Defect score was associated with cystocele as assessed clinically (P = 0.021) and on ultrasound (P = 0.014). Conclusions Depth and width of levator ani defects can be quantified by tomographic pelvic floor ultrasound. These parameters are associated with the likelihood of symptoms of prolapse and cystocele descent, but not with incontinence. Copyright ? 2007 ISUOG. Published by John Wiley & Sons, Ltd.
+ER  - 
+
+AU  - Craissati, Jackie
+C7  - pp. 13-35
+TI  - Attachment Problems and Sex Offending
+SN  - 9780470018996
+UR  - https://doi.org/10.1002/9780470714362.ch2
+DO  - doi:10.1002/9780470714362.ch2
+SP  - 13-35
+KW  - interpersonal crime
+KW  - sexual offending
+KW  - adult relationship patterns
+KW  - attachment theory
+KW  - infant attachment
+PY  - 2007
+AB  - Summary This chapter contains sections titled: Introduction Attachment Theory The Relationship of Attachment to Experiences of Abuse and Trauma Measuring Attachment Attachment and its Link with Antisocial Behaviour and Adult Offending Attachment in Sexual Offenders Implications for the Management and Treatment of Sex Offenders Conclusions
+ER  - 
+
+TY  - JOUR
+AU  - Hammer, Niels
+AU  - Scholze, Mario
+AU  - Kibsgård, Thomas
+AU  - Klima, Stefan
+AU  - Schleifenbaum, Stefan
+AU  - Seidel, Thomas
+AU  - Werner, Michael
+AU  - Grunert, Ronny
+TI  - Physiological in vitro sacroiliac joint motion: a study on three-dimensional posterior pelvic ring kinematics
+JO  - Journal of Anatomy
+JA  - J. Anat.
+VL  - 234
+IS  - 3
+SN  - 9780470018996
+UR  - https://doi.org/10.1111/joa.12924
+DO  - doi:10.1111/joa.12924
+SP  - 346
+EP  - 358
+KW  - digital image correlation
+KW  - innominate bone motion
+KW  - nutation
+KW  - pelvic girdle pain
+KW  - pubic symphysis
+KW  - sacroiliac joint kinematics
+PY  - 2019
+AB  - Abstract The sacroiliac joint (SIJ) is a well-known source of low back and pelvic pain, of increasing interest for both conservative and surgical treatment. Alterations in the kinematics of the pelvis have been hypothesized as a major cause of SIJ-related pain. However, definitions of both the range and the extent of physiological movement are controversial, and there are no clear baseline data for pathological alterations. The present study combined a novel biomechanical setup allowing for physiological motion of the lumbosacral transition and pelvis without restricting the SIJ movement in vitro, combined with optical image correlation. Six fresh human pelvises (81 ± 10 years, three females, three males) were tested, with bodyweight-adapted loading applied to the fifth lumbar vertebra and both acetabula. Deformation at the lumbopelvises was determined computationally from three-dimensional image correlation data. Sacroiliac joint motion under the loading of 100% bodyweight primarily consisted of a z-axis rotation (0.16°) and an inferior translation of the sacrum relative to the ilium (0.32 mm). Sacroiliac joint flexion-extension rotations were minute (< 0.02°). Corresponding movements of the SIJ were found at the lumbosacral transition, with an anterior translation of L5 relative to the sacrum of ?0.97 mm and an inferior translation of 0.11 mm, respectively. Moreover, a flexion of 1.82° was observed at the lumbosacral transition. Within the innominate bone and at the pubic symphysis, small complementary rotations were seen around a vertical axis, accounting for ?0.10° and 0.11°, respectively. Other motions were minute and accompanied by large interindividual variation. The present study provides evidence of different SIJ motions than reported previously when exerted by physiological loading. Sacroiliac joint kinematics were in the sub-degree and sub-millimeter range, in line with previous in vivo and in vitro findings, largely limited to the sagittal rotation and an inferior translation of the sacrum relative to the ilium. This given physiological loading scenario underlines the relevance of the lumbosacral transition when considering the overall motion of the lumbopelvis, and how relatively little the other segments contribute to overall motion.
+ER  - 
+
+TY  - JOUR
+TI  - SUBJECT INDEX VOLUME 47
+JO  - Journal of Small Animal Practice
+VL  - 47
+IS  - 12
+SN  - 9780470018996
+UR  - https://doi.org/10.1111/j.1748-5827.2006.jsap_subindex_1.x
+DO  - doi:10.1111/j.1748-5827.2006.jsap_subindex_1.x
+SP  - 765
+EP  - 776
+PY  - 2006
+ER  - 
+
+C7  - pp. 1-10
+TI  - Diagnostic Testing in Emergency Care
+SN  - 9780470657836
+UR  - https://doi.org/10.1002/9781118482117.ch1
+DO  - doi:10.1002/9781118482117.ch1
+SP  - 1-10
+KW  - science of diagnostic testing, and clinical decision rules
+KW  - diagnostic testing in emergency care
+KW  - understanding of test performance
+KW  - diagnostic testing in emergency care
+KW  - diagnostic testing, a challenge in the ED
+KW  - test results in prevalence of disease state
+KW  - testing, in confirming diagnosis or ruling out
+KW  - clinical decision rules, cognitive psychology of decision making
+KW  - testing threshold, between “test” and “treat”
+KW  - diagnostic testing, roadmap to “known” or “not known”
+PY  - 2006
+AB  - Summary This chapter contains sections titled: References Additional Reading
+ER  - 
+
+TY  - JOUR
+AU  - Fitzharris, Michael
+AU  - Bowman, Diana
+AU  - Ludlow, Karinne
+TI  - Factors associated with return-to-work and health outcomes among survivors of road crashes in Victoria
+JO  - Australian and New Zealand Journal of Public Health
+VL  - 34
+IS  - 2
+SN  - 9780470657836
+UR  - https://doi.org/10.1111/j.1753-6405.2010.00500.x
+DO  - doi:10.1111/j.1753-6405.2010.00500.x
+SP  - 153
+EP  - 159
+KW  - accidents
+KW  - disability
+KW  - pain
+KW  - quality of life
+KW  - wounds
+KW  - injuries
+KW  - compensation
+PY  - 2010
+AB  - Abstract Objective: To explore the relationships between injury, disability, work role and return-to-work outcomes following admission to hospital as a consequence of injury sustained in a road crash. Design and setting: Prospective cohort study of patients admitted to an adult trauma centre and two metropolitan teaching hospitals in Victoria, Australia. Participants were interviewed in hospital, 2.5 and eight months post-discharge. Participants: Participants were 60 employed and healthy adults aged 18 to 59 years admitted to hospital in the period February 2004 to March 2005. Results: Despite differences in health between the lower extremity fracture and non-fracture groups eight months post-crash the proportions having returned to work was approximately 90%. Of those returning to work, 44% did so in a different role. After adjustment for baseline parameters, lower extremity injuries were associated with a slower rate of return to work (HR: 0.31; 95%CI: 0.16?0.58) as was holding a manual occupation (HR: 0.16; 95%CI: 0.09?0.57). There were marked differences in physical health between and within the injury groups at both follow-up periods. Conclusions: These results demonstrate that both injury type and severity and the nature of ones occupation have a considerable influence on the rate and pattern of return to work following injury. Further, persisting disability has a direct influence on the likelihood of returning to work. The implications of these findings and the types of data required to measure outcome post-injury are discussed.
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts of the Annual Scientific Meetings of the ACEM and ASEM 1996
+JO  - Emergency Medicine
+VL  - 9
+IS  - 1
+SN  - 9780470657836
+UR  - https://doi.org/10.1111/j.1442-2026.1997.tb00560.x
+DO  - doi:10.1111/j.1442-2026.1997.tb00560.x
+SP  - 56
+EP  - 75
+PY  - 1997
+ER  - 
+
+TY  - JOUR
+AU  - Kelly, Colleen K.
+AU  - Harris, Daniel
+AU  - Perez-Ishiwara, Ruben
+TI  - Is breaking up hard to do? Breakage, growth, and survival in the parasitic clonal plant Cuscuta corymbosa (Convolvulaceae)
+JO  - American Journal of Botany
+JA  - Am. J. Bot.
+VL  - 88
+IS  - 8
+SN  - 9780470657836
+UR  - https://doi.org/10.2307/3558454
+DO  - doi:10.2307/3558454
+SP  - 1458
+EP  - 1468
+KW  - Chamela Biological Station
+KW  - clonal integration
+KW  - clonal plants
+KW  - Convolvulaceae
+KW  - Cuscuta
+KW  - parasitic plants
+PY  - 2001
+AB  - In a tripartite exploration of the effects of traumatic breakage in the parasitic clonal plant Cuscuta corymbosa, experimental breakage had significant negative effects upon stem extension of ramets distal to a break and the level of that effect depended upon the number of ramets in the severed fragment. Regular monitoring of clonal individuals transplanted onto naturally occurring, native host species revealed that breakage in individuals growing under natural conditions ranged from 2 to 66% of all interramet connections and significantly affected distance between ramets and stolon generation in ramets associated with a break. Simulations revealed that these responses to breakage would significantly change the ?shape? of a clonal individual in a manner capable of affecting probabilities of encounter with patchily distributed resources. Nonetheless, the observed levels of breakage had no discernible effect on biomass accumulation, although individuals that survived into the dry season and thus gained the potential to reproduce in additional seasons had a significantly lower rate of breakage than those that did not. We suggest that the lack of a relationship between breakage and within-season biomass accumulation is an indication that parasite response to breakage is gauged to expected levels of breakage for the habitat. We note that the capacity of ramets to survive disconnection significantly decreased the loss of tissue that would occur if subunits did not possess the potential to function independently.
+ER  - 
+
+TY  - JOUR
+AU  - Stegmaier, Sanna
+TI  - FROM THE ‘POSTTRAUMATIC’ TO THE ‘TRANSTESTIMONIAL’: DORON RABINOVICI'S DIE LETZTEN ZEUGEN (2013) AS A CORPOREAL TOPOGRAPHY OF DISCURSIVE AND EMOTIVE HOLOCAUST MEMORY
+JO  - German Life and Letters
+JA  - German Life and Letters
+VL  - 72
+IS  - 4
+SN  - 9780470657836
+UR  - https://doi.org/10.1111/glal.12247
+DO  - doi:10.1111/glal.12247
+SP  - 522
+EP  - 540
+PY  - 2019
+AB  - ABSTRACT This article explores the theatrical witness project Die letzten Zeugen (2013) by the Austrian writer Doron Rabinovici as an example of a methodological transition in Testimony Studies, one which shifts the focus from psychoanalytic engagement with the survivors? experiences towards a collective approach to testimony at the end of the so-called ?era of witnesses?. Rabinovici's theatrical witness project cultivates a novel form of simultaneously discursive and emotive engagements with testimony. The article scrutinises the extent to which the physical presence of Holocaust survivors on stage serves as a ?corporeal topography?, an exploration of the liminal quality of contemporary engagements with testimony in the impending absence of survivors. In so doing, it develops the concept of ?transtestimony?, a liminal engagement with testimony as both an epistemic and a performative practice.
+ER  - 
+
+TY  - JOUR
+AU  - MATTHEWS, J. B.
+TI  - Facing the threat of equine parasitic disease
+JO  - Equine Veterinary Journal
+VL  - 43
+IS  - 2
+SN  - 9780470657836
+UR  - https://doi.org/10.1111/j.2042-3306.2010.00356.x
+DO  - doi:10.1111/j.2042-3306.2010.00356.x
+SP  - 126
+EP  - 132
+KW  - horse
+KW  - parasites
+KW  - cyathostomins
+KW  - anthelmintic resistance
+KW  - research
+PY  - 2011
+AB  - Summary Horses worldwide are exposed to a complex mixture of intestinal parasitic helminths. When burdens are high, these parasites can seriously compromise health and welfare. Some helminth species have an extremely high prevalence and are difficult to control, not least because there is a limited understanding of their most basic biology. Furthermore, levels of resistance to some of the commonly used anthelmintics are widespread and increasing. The cyathostomins are the most common nematode species affecting equids worldwide. Within this group of parasites are more than 50 different species. Until recent research activities, little was known about the contribution that individual species make to clinical disease, parasite epidemiology and anthelmintic resistance. This review describes some of the recent research advances in the understanding of cyathostomins in these areas. As part of the research effort, molecular tools were developed to facilitate identification of the non-parasitic stages of cyathostomins. These tools have proved invaluable in the investigation of the relative contributions that individual species make to the pathology and epidemiology of mixed infections. At the more applied level, research has also progressed in the development of a diagnostic test that will allow numbers of cyathostomin encysted larvae to be estimated. This test utilises cyathostomin-specific serum antibody responses as markers of infection. As anthelmintic resistance will be the major constraint on parasite control in future, researchers are actively investigating mechanisms of drug resistance and how to improve the detection of resistance in the field. Recent developments in these areas are also outlined.
+ER  - 
+
+TY  - JOUR
+TI  - BOOK REVIEWS
+JO  - The Manchester School
+VL  - 56
+IS  - 3
+SN  - 9780470657836
+UR  - https://doi.org/10.1111/j.1467-9957.1988.tb01334.x
+DO  - doi:10.1111/j.1467-9957.1988.tb01334.x
+SP  - 287
+EP  - 316
+PY  - 1988
+AB  - Book reviewed in this article: Efficiency Wage Models of the Labor Market. Edited by George A. Akerlof and Janet L. Yellen. Mergers and Acquisitions. Edited by Alan J. Auerbach. Dynamic Fiscal Policy. By Alan J. Auerbach and Laurence J. Kotlikoff. Public Intervention and Industrial Restructuring in China, India and Republic of Korea. By Amiya Kumar Bagchi. The Economics of Education and the Education of an Economist. By Mark Blaug. Monetary Chaos in Europe: The End of an Era. By Brendan Brown. The Political Economy of Central America since 1920. By Victor Bulmer-Thomas. Exchange Rates and the Open Economy. Edited by K. Alec Chrystal and Robert Sedgwick. Unemployment, Hysteresis and the Natural Rate Hypothesis. Edited by Rod Cross. Managing Industrial Change in Western Europe. Edited by Francois Duchêne and Geoffrey Shepherd. The Slump in Europe: Reconstructing Open Economy Theory. By Jean-Paul Fitoussi and Edmund S. Phelps. Economic Choice under Uncertainty: A Perspective Theory Approach. By J. L. Ford. The Dynamics of a Capitalist Economy: A Multi-Sectoral Approach. By Richard M. Goodwin and Lionello F. Pmzo. Financial Deregulation: A Comparative Study of Australia and the United Kingdom. By Maximilian Hall. Surveys in the Economics of Uncertainty. Edited by John D. Hey and Peter J. Lambert. Privatization and Ownership. Lloyds Bank Annual Review. Volume 1. Edited by Christopher Johnson. The Individual in the Economy: A Survey of Economic Psychology. By Stephen E. G. Lea, Roger M. Tarpy and Paul Webley. The London and New York Stock Exchanges 1850?1914. By R. C. Michie. Economic Methodology and the Freedom to Choose. By Patrick J. O'Sullivan. Political Economy: A Synthesis of Kaleckian and Post Keynesian Economics. By Peter J. Reynolds. The Economics of François Quesnay. By Gianni Vaggi. Socialism in England. By Sidney Webb. Policy Options for the Singapore Economy. By Lim Chong Yah and Associates.
+ER  - 
+
+TY  - JOUR
+TI  - Abstract submission
+JO  - Emergency Medicine Australasia
+JA  - Emergency Medicine Australasia
+VL  - 28
+IS  - S1
+SN  - 9780470657836
+UR  - https://doi.org/10.1111/1742-6723.12614
+DO  - doi:10.1111/1742-6723.12614
+SP  - 3
+EP  - 34
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+AU  - MALIK, R
+AU  - GABOR, LJ
+AU  - FOSTER, SF
+AU  - McCORKELL, BE
+AU  - CANFIELD, PJ
+TI  - Therapy for Australian cats with lymphosarcoma
+JO  - Australian Veterinary Journal
+VL  - 79
+IS  - 12
+SN  - 9780470657836
+UR  - https://doi.org/10.1111/j.1751-0813.2001.tb10923.x
+DO  - doi:10.1111/j.1751-0813.2001.tb10923.x
+SP  - 808
+EP  - 817
+KW  - Lymphosarcoma
+KW  - malignant lymphoma
+KW  - cat
+KW  - feline leukaemia virus
+KW  - feline immunodeficiency virus
+KW  - chemotherapy
+KW  - doxorubicin
+KW  - l-asparaginase
+PY  - 2001
+AB  - Objective To determine the response of Australian cats with lymphosarcoma to chemotherapy and/or surgery in relation to patient and tumour characteristics, haematological and serum biochemical values and retroviral status. Design Prospective study of 61 client-owned cats with naturally-occurring lymphosarcoma subjected to multi-agent chemotherapy and/or surgery. Procedure An accepted chemotherapy protocol utilising l-asparaginase, vincristine, cyclophosphamide, doxorubicin, methotrexate and prednisolone was modified and used to treat 60 cats with lymphosarcoma. Clinical findings were recorded before and during therapy. As far as practical, cases were followed to death, euthanasia or apparent cure. Owner satisfaction with the results of chemotherapy was determined using a questionnaire sent after the completion of chemotherapy. Results One cat, with lymphosarcoma limited to a single mandibular lymph node, was treated using surgery alone and was cured. The other 60 cats were treated using multi-agent chemotherapy, although seven cats with localised intestinal, ocular and subcutaneous lesions had these lesions partially (2 intestinal lesions) or completely (2 eyes, 2 intestinal lesions and a cluster of regional lymph nodes) resected prior to starting chemotherapy. The median survival time for these 60 cats was 116 days. Of the 60 cats, 48 rapidly went into complete remission following the administration of l-asparaginase, vincristine and prednisolone (complete remission rate 80%) and these cats had a median survival of 187 days. Three cats were censored from further analysis as their long-term survival data were uninterpretable because they died of causes unrelated to lymphosarcoma or were prematurely lost to follow-up. Twenty cats were classed as ?long-term survivors? based on survival time in excess of one year and at least 14 were ?cured? based on the absence of physical evidence of lymphosarcoma 2-years after initiating treatment. In other words, of the 48 cats that reached complete remission, in excess of 29% were ?cured?. Despite detailed analysis, few meaningful prognostic indicators based on patient or tumour characteristics were identified, although long-term survivors were more likely to be less than 4-years (P = 0.04) and to have tumours of the T-cell phenotype (P = 0.06). Excluding the one FeLV ELISA-positive cat with mediastinal LSA, 7 of 9 cats less than 4 years-of-age were long-term survivors (median survival time >1271 days). There was a strong association between achieving complete remission and long-term survival (P = 0.003). On the basis of 27 replies to a questionnaire, owners were generally very satisfied with the response to chemotherapy, irrespective of the survival time of the individual patient. Eighty five percent of owners expressed complete satisfaction with their decision to pursue chemotherapy and 70% believed their cat's health status improved during the first 2-weeks of treatment. Importantly, 78% of owners considered that chemotherapy required a very substantial time commitment on their part. Conclusions It was possible to cure approximately one quarter of cats with lymphosarcoma using sequential multi-agent chemotherapy and/or surgery. FeLV-negative cats younger than 4 years (typically with mediastinal lymphosarcoma) had a particularly favourable prognosis. The decision to embark on chemotherapy should be based on the results of induction chemotherapy with l-asparaginase, vincristine and prednisolone, as the response to this was a good predictor of long-term survival. Cats surviving the first 16 weeks of chemotherapy generally enjoyed robust remissions (in excess of 1 year) or were cured of their malignancy.
+ER  - 
+
+TY  - JOUR
+AU  - Uusitalo-Seppälä, R.
+AU  - Huttunen, R.
+AU  - Tarkka, M.
+AU  - Aittoniemi, J.
+AU  - Koskinen, P.
+AU  - Leino, A.
+AU  - Vahlberg, T.
+AU  - Rintala, E. M.
+TI  - Soluble urokinase-type plasminogen activator receptor in patients with suspected infection in the emergency room: a prospective cohort study
+JO  - Journal of Internal Medicine
+JA  - J Intern Med
+VL  - 272
+IS  - 3
+SN  - 9780470657836
+UR  - https://doi.org/10.1111/j.1365-2796.2012.02569.x
+DO  - doi:10.1111/j.1365-2796.2012.02569.x
+SP  - 247
+EP  - 256
+KW  - biomarker
+KW  - case fatality
+KW  - emergency room
+KW  - infection
+KW  - severe sepsis
+KW  - suPAR
+PY  - 2012
+AB  - Abstract Objectives The soluble form of urokinase-type plasminogen activator (suPAR) was evaluated as an early prognostic marker of sepsis in patients with suspected infection. Design A single-centre prospective cohort study. Methods The cohort comprised 539 patients in the emergency department with suspected infection: 59 without systemic inflammatory response syndrome (SIRS) and without bacterial infection (group 1), 68 with bacterial infection and without SIRS (group 2), 54 with SIRS and without bacterial infection (group 3), 309 with sepsis (SIRS and bacterial infection) and without organ failure (group 4) and 49 with severe sepsis (SIRS, bacterial infection and organ failure) (group 5). suPAR was measured on admission using a commercial solid-phase enzyme-linked immunosorbent assay. Results The median soluble form of the receptor (suPAR) concentrations in groups 1?5 were 4.7, 5.0, 4.4, 4.8 and 7.9 ng mL?1, respectively (P < 0.001). The levels were significantly higher in nonsurvivors compared with survivors (8.3 vs. 4.9 ng mL?1, P < 0.001) and in patients with severe sepsis (group 5) compared with those in the other groups (7.9 vs. 4.8 ng mL?1, P < 0.001). Area under the receiver operating characteristics curve (AUCROC ) for the prediction of case fatality was 0.79 (95% confidence interval [CI]: 0.72?0.86, P < 0.0001) and 0.75 for severe sepsis (95% CI: 0.68?0.81, P < 0.0001). At a cut-off level of 6.4 ng mL?1, suPAR had 76% sensitivity and 69% specificity for fatal disease; at a cut-off level of 6.6 ng mL?1, the sensitivity and specificity for severe sepsis were 67% and 72%, respectively. In multivariate models, high suPAR remained an independent predictor of case fatality and severe sepsis after adjusting for potential confounders. Conclusions A high suPAR level predicts case fatality and severe sepsis in patients with suspected infection.
+ER  - 
+
+TY  - JOUR
+AU  - Shi, Jian-dang
+AU  - Wang, Qian
+AU  - Wang, Zi-li
+TI  - Primary Issues in the Selection of Surgical Procedures for Thoracic and Lumbar Spinal Tuberculosis
+JO  - Orthopaedic Surgery
+JA  - Orthopaedic Surgery
+VL  - 6
+IS  - 4
+SN  - 9780470657836
+UR  - https://doi.org/10.1111/os.12140
+DO  - doi:10.1111/os.12140
+SP  - 259
+EP  - 268
+KW  - Selection surgical procedures
+KW  - Spinal tuberculosis
+KW  - Thoracic and lumbar
+PY  - 2014
+AB  - Debridement, spinal canal decompression, deformity correction, bone graft fusion and internal fixation are commonly used in the surgical treatment of spinal tuberculosis. A complete surgical plan for patients with spinal tuberculosis may include all or some of these five surgical procedures that involve both removing tuberculous lesions and re-establishing spinal stability and function. All five procedures can be carried out via an anterior or posterior approach or a combination of these two approaches. A combined posterior?anterior approach is becoming a preferred choice for treating spinal tuberculosis. However, this procedure requires two incisions and two rounds of surgeries, which the associated extensive surgical trauma. Thus, a simple anterior or posterior approach may be preferable. Each of these approaches has its own advantages and disadvantages that must be considered during the clinician's evaluation. Selection of the most appropriate of these three approaches is vital to achieving cure of spinal tuberculosis. Spinal surgeons should comprehensively consider each patient's characteristics, the manifestations of their lesions and how familiar the surgeon is with the required surgical procedure(s). The primary consideration should be the potential outcome: the effectiveness of debridement is the key determinant of the surgical outcome.
+ER  - 
+
+TY  - JOUR
+AU  - Dennis, Richard A.
+AU  - Johnson, Larry E.
+AU  - Roberson, Paula K.
+AU  - Heif, Muhannad
+AU  - Bopp, Melinda M.
+AU  - Cook, Judy
+AU  - Sullivan, Dennis H.
+TI  - Changes in Prealbumin, Nutrient Intake, and Systemic Inflammation in Elderly Recuperative Care Patients
+JO  - Journal of the American Geriatrics Society
+VL  - 56
+IS  - 7
+SN  - 9780470657836
+UR  - https://doi.org/10.1111/j.1532-5415.2008.01789.x
+DO  - doi:10.1111/j.1532-5415.2008.01789.x
+SP  - 1270
+EP  - 1275
+KW  - elderly
+KW  - prealbumin
+KW  - nutrition
+KW  - calorie counts
+KW  - C-reactive protein
+PY  - 2008
+AB  - OBJECTIVES: To determine the relationship between prealbumin, nutrient intake, and indicators of inflammation for recuperative and rehabilitative care patients. DESIGN: Prospective cohort. SETTING: Recuperative Care Unit within a Veterans Administration Nursing Home Care Unit. PARTICIPANTS: One hundred eleven men (100 white; mean age 80, range 64?93). MEASUREMENTS: Prealbumin and seven markers of inflammation (C-reactive protein (CRP), tumor necrosis factor, and interleukin-6 (IL-6) and their soluble receptors) were measured at admission and discharge (median length of stay 23 days, interquartile range 15?40 days). Detailed calorie counts were performed daily, and intake was expressed as a percentage of estimated requirements for protein (1.5?g/kg body weight per day) and energy (Harris-Benedict equation). The study objective was examined using least-squares regression analysis. RESULTS: Discharge prealbumin and the change in prealbumin were positively correlated with protein and energy intake and inversely correlated with markers of inflammation, particularly CRP and IL-6. When all covariates were included in a multivariable regression analysis, the markers of inflammation predominantly accounted for the variance in prealbumin change (56%), whereas discharge protein intake accounted for 6%. CONCLUSION: For older recuperative care patients, prealbumin and its change during hospitalization are positively associated with protein intake, but inflammation or changes in inflammation appear to exert a much more-powerful influence on prealbumin concentration. Given the potential confounding effects of inflammation, monitoring the change in prealbumin is not an adequate substitute for a more-detailed nutritional assessment in this population.
+ER  - 
+
+TY  - JOUR
+AU  - King, R
+AU  - Ziegler, D
+AU  - Page, RN
+AU  - Mihm Jr, MC
+AU  - Googe, PB
+TI  - Recurrent Nevus Phenomenon: A Clinicopathological Study of 328 Patients
+JO  - Journal of Cutaneous Pathology
+VL  - 32
+IS  - 1
+SN  - 9780470657836
+UR  - https://doi.org/10.1111/j.0303-6987.2005.320dq.x
+DO  - doi:10.1111/j.0303-6987.2005.320dq.x
+SP  - 98
+EP  - 98
+PY  - 2005
+AB  - Background: Recurrent nevi may histologically resemble malignant melanoma Design: Recurrent nevi with clinical history, original melanocytic neoplasm and recurrence were included. Proliferation marker Ki-67 was used when residual and recurrent nevus was present on the same slide. Results: There were 356 biopsies from 328 patients (ages 6 to 93 years (mean?=?31), female: male?=?255:101, time to recurrence 1?63 months (mean?=?7.85)). Sites: back (170), abdomen (46), arm (46), leg (34), head and neck (26), chest (26), and buttock (8). Initial biopsies: 208 nevi, 142 dysplastic nevi, 1 blue, 1 pigmented spindle cell, 2 Spitz nevi, and 2 melanomas in situ. 3 patterns of recurrence were observed: 1) junctional melanocytic hyperplasia with epidermal effacement and scar, 2) compound melanocytic proliferation with epidermal effacement and scar, and 3) junctional melanocytic hyperplasia with retained retiform epidermis. Recurrent and residual nevi had similar proliferation rates. Conclusion: Recurrent nevi occurred more commonly in females and on the trunk. Cytologic atypia, asymmetry, and retention of retiform epidermis were worrisome histologic features. Clinical history, effacement of the epidermis and limitation of changes to the scar, distinguished recurrence from melanoma. Low proliferation rate may be a useful adjunct to distinguish recurrent nevi from melanoma.
+ER  - 
+
+TY  - JOUR
+AU  - Armstrong, Linlea
+AU  - Jett, Kimberly
+AU  - Birch, Patricia
+AU  - Kendler, David L.
+AU  - McKay, Heather
+AU  - Tsang, Erica
+AU  - Stevenson, David A.
+AU  - Hanley, David A.
+AU  - Egeli, Deetria
+AU  - Burrows, Melonie
+AU  - Friedman, J.M.
+TI  - The generalized bone phenotype in children with neurofibromatosis 1: A sibling matched case–control study
+JO  - American Journal of Medical Genetics Part A
+JA  - Am. J. Med. Genet.
+VL  - 161
+IS  - 7
+SN  - 9780470657836
+UR  - https://doi.org/10.1002/ajmg.a.36001
+DO  - doi:10.1002/ajmg.a.36001
+SP  - 1654
+EP  - 1661
+KW  - bone mineral
+KW  - bone structure
+KW  - bone strength
+KW  - children
+KW  - calcium
+KW  - neurofibromatosis 1
+KW  - osteopenia
+KW  - osteoporosis
+KW  - Ras pathway
+PY  - 2013
+AB  - Abstract People with neurofibromatosis 1 (NF1) have low bone mineralization, but the natural history and pathogenesis are poorly understood. We performed a sibling-matched case?control study of bone mineral status, morphology, and metabolism. Eighteen children with NF1 without focal bony lesions were compared to unaffected siblings and local population controls. Bone mineral content at the lumbar spine and proximal femur (dual energy X-ray absorptiometry (DXA)) was lower in children with NF1; this difference persisted after adjusting for height and weight. Peripheral quantitative computed tomography (pQCT) of the distal tibia showed that trabecular density was more severely compromised than cortical. Peripheral QCT-derived estimates of bone strength and resistance to bending and stress were poorer among children with NF1 although there was no difference in fracture frequencies. There were no differences in the size or shape of bones after adjusting for height. Differences in markers of bone turnover between cases and controls were in the directions predicted by animal studies, but did not reach statistical significance. Average serum calcium concentration was higher (although within the normal range) in children with NF1; serum 25-OH vitamin D, and PTH levels did not differ significantly between cases and controls. Children with NF1 were less mature (assessed by pubertal stage) than unaffected siblings or population controls. Children with NF1 have a generalized difference of bone metabolism that predominantly affects trabecular bone. Effects of decreased neurofibromin on bone turnover, calcium homeostasis, and pubertal development may contribute to the differences in bone mineral content observed among people with NF1. ? 2013 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Endo, Mitsuharu
+AU  - Ubulkasim, Guljahan
+AU  - Kobayashi, Chiho
+AU  - Onishi, Reiko
+AU  - Aiba, Atsu
+AU  - Minami, Yasuhiro
+TI  - Critical role of Ror2 receptor tyrosine kinase in regulating cell cycle progression of reactive astrocytes following brain injury
+JO  - Glia
+JA  - Glia
+VL  - 65
+IS  - 1
+SN  - 9780470657836
+UR  - https://doi.org/10.1002/glia.23086
+DO  - doi:10.1002/glia.23086
+SP  - 182
+EP  - 197
+KW  - proliferation
+KW  - basic fibroblast growth factor (bFGF)
+KW  - gene expression
+PY  - 2017
+AB  - Ror2 receptor tyrosine kinase plays crucial roles in developmental morphogenesis and tissue-/organo-genesis. In the developing brain, Ror2 is expressed in neural stem/progenitor cells (NPCs) and involved in the regulation of their stemness. However, it remains largely unknown about its role in the adult brain. In this study, we show that Ror2 is up-regulated in reactive astrocytes in the neocortices within 3 days following stab-wound injury. Intriguingly, Ror2-expressing astrocytes were detected primarily at the area surrounding the injury site, where astrocytes express Nestin, a marker of NPCs, and proliferate in response to injury. Furthermore, we show by using astrocyte-specific Ror2 knockout (KO) mice that a loss of Ror2 in astrocytes attenuates injury-induced proliferation of reactive astrocytes. It was also found that basic fibroblast growth factor (bFGF) is strongly up-regulated at 1 day post injury in the neocortices, and that stimulation of cultured quiescent astrocytes with bFGF restarts their cell cycle and induces expression of Ror2 during the G1 phase predominantly in proliferating cells. By using this culture method, we further show that the proportions of Ror2-expressing astrocytes increase following treatment with the histone deacetylases inhibitors including valproic acid, and that bFGF stimulation increases the levels of Ror2 expression within the respective cells. Moreover, we show that bFGF-induced cell cycle progression into S phase is inhibited or promoted in astrocytes from Ror2 KO mice or NPCs stably expressing Ror2-GFP, respectively. Collectively, these findings indicate that Ror2 plays a critical role in regulating the cell cycle progression of reactive astrocytes following brain injury, GLIA 2016. GLIA 2017;65:182?197
+ER  - 

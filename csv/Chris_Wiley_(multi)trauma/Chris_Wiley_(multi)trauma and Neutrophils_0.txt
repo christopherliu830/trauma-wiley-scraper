@@ -1,0 +1,463 @@
+
+TY  - JOUR
+AU  - Scholz, Martin
+AU  - Cinatl, Jindrich
+AU  - Schädel-Höpfner, Michael
+AU  - Windolf, Joachim
+TI  - Neutrophils and the blood–brain barrier dysfunction after trauma
+JO  - Medicinal Research Reviews
+JA  - Med. Res. Rev.
+VL  - 27
+IS  - 3
+SN  - 0198-6325
+UR  - https://doi.org/10.1002/med.20064
+DO  - doi:10.1002/med.20064
+SP  - 401
+EP  - 416
+KW  - blood–brain barrier
+KW  - hyperactive neutrophils
+KW  - second hit concept
+KW  - SIRS
+KW  - trauma
+PY  - 2007
+AB  - Abstract Despite the fact that neutrophils are essential for the protection from invading pathogens, hyperactive neutrophils may elicit detrimental cerebral damage after severe trauma. The neutrophil interactions with the neurovascular unit entail endothelial dysfunction involving endothelial leakage, formation of edema, coagulation abnormalities, disturbed hemodynamics, tissue infiltration etc. These elements of the ?whole body inflammation,? designated systemic inflammatory response syndrome (SIRS) in conjunction with intracerebral proinflammatory activities, are important triggers of post-traumatic cerebral damage and mortality according to the ?second hit? concept. From the immunologic point of view, the brain is an immune privileged site, known to resist autodestructive inflammatory activity much more efficiently than other organs because of the highly efficient diverse functions of the blood?brain barrier (BBB). However, both the underlying strategy of the BBB to maintain cerebral protecting functions against the post-traumatic neutrophil-mediated ?second hit? and how activated neutrophils may overcome the BBB are currently unknown. Therefore, this review summarizes the current understanding of the ?second hit,? the BBB physiology, and its role in the maintenance of cerebral immune privilege, and discusses recent findings that may explain the pathophysiologic neutrophil?BBB interactions occurring after severe trauma, thus offering novel therapeutic options to protect from post-traumatic brain damage. ? 2006 Wiley Periodicals, Inc. Med Res Rev, 27, No. 3, 401?416, 2007
+ER  - 
+
+TY  - JOUR
+AU  - Arshid, Samina
+AU  - Tahir, Muhammad
+AU  - Fontes, Belchor
+AU  - de Souza Montero, Edna Frasson
+AU  - Castro, Mariana S.
+AU  - Sidoli, Simone
+AU  - Roepstorff, Peter
+AU  - Fontes, Wagner
+C7  - 1600001
+TI  - High performance mass spectrometry based proteomics reveals enzyme and signaling pathway regulation in neutrophils during the early stage of surgical trauma
+JO  - PROTEOMICS – Clinical Applications
+JA  - Prot. Clin. Appl.
+VL  - 11
+IS  - 1-2
+SN  - 1862-8346
+UR  - https://doi.org/10.1002/prca.201600001
+DO  - doi:10.1002/prca.201600001
+SP  - 1600001
+KW  - Inflammation
+KW  - Neutrophil
+KW  - Proteome
+KW  - Surgery
+KW  - Trauma
+PY  - 2017
+AB  - Purpose In clinical conditions trauma is associated with high mortality and morbidity. Neutrophils play a key role in the development of multiple organ failure after trauma Experimental design To have a detailed understanding of the neutrophil activation at primary stages after trauma, neutrophils are isolated from control and surgical trauma rats in this study. Extracted proteins are analyzed using nano liquid chromatography coupled with tandem mass spectrometry. Results A total of 2924 rat neutrophil proteins are identified in our analysis, of which 393 are found differentially regulated between control and trauma groups. By using functional pathways analysis of the 190 proteins up-regulated in surgical trauma, we found proteins related to transcription initiation and protein biosynthesis. On the other hand, among the 203 proteins down-regulated in surgical trauma we found enrichment for proteins of the immune response, proteasome degradation and actin cytoskeleton. Overall, enzyme prediction analysis revealed that regulated enzymes are directly involved in neutrophil apoptosis, directional migration and chemotaxis. Our observations are then confirmed by in silico protein?protein interaction analysis. Conclusions and clinical relevance Collectively, our results reveal that neutrophils drastically regulate their biochemical pathways after the early stages of surgical trauma, showing lower activity. This implies higher susceptibility of the trauma patients to infection and bystander tissues damage.
+ER  - 
+
+TY  - JOUR
+AU  - Singel, Kelly L.
+AU  - Segal, Brahm H.
+TI  - Neutrophils in the tumor microenvironment: trying to heal the wound that cannot heal
+JO  - Immunological Reviews
+JA  - Immunol Rev
+VL  - 273
+IS  - 1
+SN  - 0105-2896
+UR  - https://doi.org/10.1111/imr.12459
+DO  - doi:10.1111/imr.12459
+SP  - 329
+EP  - 343
+KW  - cancer
+KW  - inflammation
+KW  - injury
+KW  - neutrophils
+KW  - wound repair
+PY  - 2016
+AB  - Summary Neutrophils are the first responders to infection and injury and are critical for antimicrobial host defense. Through the generation of reactive oxidants, activation of granular constituents and neutrophil extracellular traps, neutrophils target microbes and prevent their dissemination. While these pathways are beneficial in the context of trauma and infection, their off-target effects in the context of tumor are variable. Tumor-derived factors have been shown to reprogram the marrow, skewing toward the expansion of myelopoiesis. This can result in stimulation of both neutrophilic leukocytosis and the release of immature granulocytic populations that accumulate in circulation and in the tumor microenvironment. While activated neutrophils have been shown to kill tumor cells, there is growing evidence for neutrophil activation driving tumor progression and metastasis through a number of pathways, including stimulation of thrombosis and angiogenesis, stromal remodeling, and impairment of T cell-dependent anti-tumor immunity. There is also growing appreciation of neutrophil heterogeneity in cancer, with distinct neutrophil populations promoting cancer control or progression. In addition to the effects of tumor on neutrophil responses, anti-neoplastic treatment, including surgery, chemotherapy, and growth factors, can influence neutrophil responses. Future directions for research are expected to result in more mechanistic knowledge of neutrophil biology in the tumor microenvironment that may be exploited as prognostic biomarkers and therapeutic targets.
+ER  - 
+
+TY  - JOUR
+AU  - Ramadass, Mahalakshmi
+AU  - Catz, Sergio D
+TI  - Molecular mechanisms regulating secretory organelles and endosomes in neutrophils and their implications for inflammation
+JO  - Immunological Reviews
+JA  - Immunol Rev
+VL  - 273
+IS  - 1
+SN  - 0105-2896
+UR  - https://doi.org/10.1111/imr.12452
+DO  - doi:10.1111/imr.12452
+SP  - 249
+EP  - 265
+KW  - inflammation
+KW  - neutrophil function
+KW  - Rab GTPase
+KW  - vesicular trafficking
+PY  - 2016
+AB  - Summary Neutrophils constitute the first line of cellular defense against invading microorganisms and modulate the subsequent innate and adaptive immune responses. In order to execute a rapid and precise response to infections, neutrophils rely on preformed effector molecules stored in a variety of intracellular granules. Neutrophil granules contain microbicidal factors, the membrane-bound components of the respiratory burst oxidase, membrane-bound adhesion molecules, and receptors that facilitate the execution of all neutrophil functions including adhesion, transmigration, phagocytosis, degranulation, and neutrophil extracellular trap formation. The rapid mobilization of intracellular organelles is regulated by vesicular trafficking mechanisms controlled by effector molecules that include small GTPases and their interacting proteins. In this review, we focus on recent discoveries of mechanistic processes that are at center stage of the regulation of neutrophil function, highlighting the discrete and selective pathways controlled by trafficking modulators. In particular, we describe novel pathways controlled by the Rab27a effectors JFC1 and Munc13-4 in the regulation of degranulation, reactive oxygen species and neutrophil extracellular trap production, and endolysosomal signaling. Finally, we discuss the importance of understanding these molecular mechanisms in order to design novel approaches to modulate neutrophil-mediated inflammatory processes in a targeted fashion.
+ER  - 
+
+TY  - JOUR
+AU  - Hellebrekers, Pien
+AU  - Vrisekoop, Nienke
+AU  - Koenderman, Leo
+C7  - e12943
+TI  - Neutrophil phenotypes in health and disease
+JO  - European Journal of Clinical Investigation
+JA  - Eur J Clin Invest
+VL  - 48
+IS  - S2
+SN  - 0014-2972
+UR  - https://doi.org/10.1111/eci.12943
+DO  - doi:10.1111/eci.12943
+SP  - e12943
+KW  - challenge
+KW  - immune
+KW  - immune regulation
+KW  - inflammation
+KW  - neutrophil
+KW  - origin
+KW  - phenotype
+PY  - 2018
+AB  - Abstract Neutrophils are one of the most important effector cells of the innate immune response (1). They are traditionally seen as a homogenous population of short-lived cells mainly involved in the defence against extracellular microorganisms by phagocytosis and intracellular killing (1,2). The cells contain a large armamentarium that aids in this function and ranges from the production of reactive oxygen species by a membrane-bound NADPH oxidase to cytotoxic proteins and peptides residing in the different granules present in the cytoplasm (3). Recently, the view of neutrophils belonging to a homogenous population of cells has been challenged, and several neutrophil phenotypes have been described that exhibit specialized functions, such as involvement in tissue repair, tumour killing and immune regulation (4). It is not clear whether these cells belong to separate parallel lineages originating from the bone marrow or that neutrophils become instructed in the distant tissues, thus changing their phenotypes. In addition, functional heterogeneity in a phenotypically homogenous population of neutrophils adds to the complexity of neutrophil phenotypes(5). This article will review the current literature describing the heterogeneity within the neutrophil compartment with respect to both phenotype and function in health and disease.
+ER  - 
+
+TY  - JOUR
+AU  - Vogt, Katja L.
+AU  - Summers, Charlotte
+AU  - Chilvers, Edwin R.
+AU  - Condliffe, Alison M.
+C7  - e12967
+TI  - Priming and de-priming of neutrophil responses in vitro and in vivo
+JO  - European Journal of Clinical Investigation
+JA  - Eur J Clin Invest
+VL  - 48
+IS  - S2
+SN  - 0014-2972
+UR  - https://doi.org/10.1111/eci.12967
+DO  - doi:10.1111/eci.12967
+SP  - e12967
+KW  - de-priming
+KW  - degranulation
+KW  - neutrophils
+KW  - priming
+KW  - respiratory burst
+KW  - signaling
+PY  - 2018
+AB  - Abstract The activation status of neutrophils can cycle from basal through primed to fully activated (?green-amber-red?), and at least in vitro, primed cells can spontaneously revert to a near basal phenotype. This broad range of neutrophil responsiveness confers extensive functional flexibility, allowing neutrophils to respond rapidly and appropriately to varied and evolving threats throughout the body. Primed and activated cells display dramatically enhanced bactericidal capacity (including augmented respiratory burst activity, degranulation and longevity), but this enhancement also confers the capacity for significant unintended tissue injury. Neutrophil priming and its consequences have been associated with adverse outcomes in a range of disease states, hence understanding the signalling processes that regulate the transition between basal and primed states (and back again) may offer new opportunities for therapeutic intervention in pathological settings. A wide array of host- and pathogen-derived molecules is able to modulate the functional status of these versatile cells. Reflecting this extensive repertoire of potential mediators, priming can be established by a range of signalling pathways (including mitogen-activated protein kinases, phosphoinositide 3-kinases, phospholipase D and calcium transients) and intracellular processes (including endocytosis, vesicle trafficking and the engagement of adhesion molecules). The signalling pathways engaged, and the exact cellular phenotype that results, vary according to the priming agent(s) to which the neutrophil is exposed and the precise environmental context. Herein we describe the signals that establish priming (in particular for enhanced respiratory burst, degranulation and prolonged lifespan) and describe the recently recognised process of de-priming, correlating in vitro observations with in vivo significance.
+ER  - 
+
+TY  - JOUR
+AU  - Satyam, Abhigyan
+AU  - Graef, Elizabeth R.
+AU  - Lapchak, Peter H.
+AU  - Tsokos, Maria G.
+AU  - Dalle Lucca, Jurandir J.
+AU  - Tsokos, George C.
+TI  - Complement and coagulation cascades in trauma
+JO  - Acute Medicine & Surgery
+JA  - Acute Med Surg
+VL  - 6
+IS  - 4
+SN  - 2052-8817
+UR  - https://doi.org/10.1002/ams2.426
+DO  - doi:10.1002/ams2.426
+SP  - 329
+EP  - 335
+KW  - Coagulation
+KW  - complement
+KW  - DAMPs
+KW  - PAMPS
+KW  - trauma
+PY  - 2019
+AB  - Trauma remains a major cause of death throughout the world, especially for patients younger than 45 years. Due to rapid advances in clinical management, both in the acute and prehospital settings, trauma patients survive devastating injuries at unprecedented rates. However, these patients can often face life threatening complications that stem from the robust innate immune response induced by severe hemorrhage, leading to further tissue injury rather than repair. The complement and coagulation cascades are key mediators in this disordered reaction, which includes the development of trauma-induced coagulopathy. There is increasing evidence that cross-talk between these two pathways allows rapid amplification of their otherwise targeted responses and contributes to overwhelming and prolonged systemic inflammation. In this article, we summarize the initial steps of innate immune response to trauma and review the complex complement and coagulation cascades, as well as how they interact with each other. Despite progress in understanding these cascades, effective therapeutic targets have yet to be found and further research is needed both to improve survival rates as well as decrease associated morbidity.
+ER  - 
+
+TY  - JOUR
+AU  - Fortunati, E.
+AU  - Kazemier, K. M.
+AU  - Grutters, J. C.
+AU  - Koenderman, L.
+AU  - Van den Bosch, Van J. M. M.
+TI  - Human neutrophils switch to an activated phenotype after homing to the lung irrespective of inflammatory disease
+JO  - Clinical & Experimental Immunology
+VL  - 155
+IS  - 3
+SN  - 0009-9104
+UR  - https://doi.org/10.1111/j.1365-2249.2008.03791.x
+DO  - doi:10.1111/j.1365-2249.2008.03791.x
+SP  - 559
+EP  - 566
+KW  - immunophenotype
+KW  - lungs
+KW  - neutrophils
+KW  - sarcoidosis
+KW  - surface receptors
+PY  - 2009
+AB  - Summary Systemic inflammation can be investigated by changes in expression profiles of neutrophil receptors. Application of this technology for analysis of neutrophil phenotypes in diseased tissues is hampered by the absence of information regarding the modulation of neutrophil phenotypes after extravasation to tissues under non-inflammatory conditions. To fill this gap we measured the expression of neutrophil receptors in bronchoalveolar lavage fluid (BALF) and in the peripheral blood of healthy volunteers, which included both smokers and non-smokers. Blood and BALF neutrophils were identified by CD16bright/CD45dim cells, and triple-stained with antibodies directed against integrins, chemokine- and Fc?-receptors. BALF neutrophils of healthy volunteers showed an activated phenotype characterized by Mac-1 (CD11b)bright, L-selectin (CD62L)dim, intrecellular adhesion molecule 1 (ICAM-1) (CD54)bright, Fc?RII (CD32)bright, C5a receptor (CD88)bright and CD66bbright. A similar phenotype was observed for BALF neutrophils of patients affected by sarcoidosis. Furthermore, our results demonstrate a modulated expression of C5a receptor (CD88) and ICAM-1 (CD54) in neutrophils of sarcoidosis patients. In conclusion, our data indicate that neutrophils found in the lung exhibit an activated phenotype under both homeostatic and inflammatory conditions.
+ER  - 
+
+TY  - JOUR
+AU  - Tanabe, Koji
+AU  - Kinoshita, Manabu
+AU  - Nakashima, Masahiro
+AU  - Kariya, Koki
+AU  - Yokokawa, Masatoshi
+AU  - Morimoto, Yuji
+AU  - Suzuki, Hiroaki
+C7  - e10030
+TI  - On-site rapid detection of antibacterial activity of neutrophils using freeze-dried bacteria
+JO  - MEDICAL DEVICES & SENSORS
+JA  - Med Devices Sens
+VL  - 2
+IS  - 2
+UR  - https://doi.org/10.1002/mds3.10030
+DO  - doi:10.1002/mds3.10030
+SP  - e10030
+KW  - Escherichia coli
+KW  - neutrophils
+KW  - oxygen electrode
+KW  - respiratory activity
+KW  - stress
+PY  - 2019
+AB  - Abstract Impaired neutrophil functions, and in particular their antibacterial activity, are known to reflect the immunocompromised condition of the host. To investigate the potential for prompt on-site measurement of this condition, we analysed the antibacterial activity of murine neutrophils by measuring the change in oxygen consumption in a 10 ?l sample solution in which bacteria and neutrophils were co-incubated. A critical point was the use of freeze-dried Escherichia coli (E. coli), which remarkably facilitated handling because of its ability to be stored at room temperature for extended periods and the ease in which its respiratory activity could be re-established. This therefore allowed the antibacterial activity of murine neutrophils to be measured following their co-incubation with E. coli. Indeed, we successfully detected a reduction in the antibacterial activity of murine neutrophils in mice subjected to water-immersion restraint stress.
+ER  - 
+
+AU  - Reineke, Erica L.
+C7  - pp. 1039-1051
+TI  - Trauma Overview
+UR  - https://doi.org/10.1002/9781119028994.ch160
+DO  - doi:10.1002/9781119028994.ch160
+SP  - 1039-1051
+KW  - animal trauma scoring systems
+KW  - blunt trauma
+KW  - Modified Glasgow Coma Score
+KW  - penetrating trauma
+KW  - polytrauma
+PY  - 2019
+AB  - Abstract Blunt and penetrating trauma is common in small animal patients, accounting for a large number of emergency room visits. Rapid recognition and treatment of abnormalities in tissue perfusion and oxygen delivery is essential to ensure patient survival and decrease the risk for the development of the systemic inflammatory response and MODS. Knowledge of trauma patterns in dogs and cats can help the emergency veterinarian rapidly identify injuries associated with trauma and allow for directed care. Animal trauma scoring systems are useful to help identify more severely injured patients, evaluate hospital outcomes and for patient stratification for clinical trials.
+ER  - 
+
+TY  - JOUR
+AU  - Potey, Philippe MD
+AU  - Rossi, Adriano G
+AU  - Lucas, Christopher D
+AU  - Dorward, David A
+TI  - Neutrophils in the initiation and resolution of acute pulmonary inflammation: understanding biological function and therapeutic potential
+JO  - The Journal of Pathology
+JA  - J. Pathol.
+VL  - 247
+IS  - 5
+UR  - https://doi.org/10.1002/path.5221
+DO  - doi:10.1002/path.5221
+SP  - 672
+EP  - 685
+KW  - neutrophil
+KW  - ARDS
+KW  - apoptosis
+KW  - inflammation
+KW  - neutrophil extracellular trap
+KW  - chemokine
+KW  - interleukin
+KW  - leukotriene
+KW  - DAMP
+KW  - PAMP
+KW  - toll-like receptor
+KW  - reactive oxygen species
+PY  - 2019
+AB  - Abstract Acute respiratory distress syndrome (ARDS) is the often fatal sequelae of a broad range of precipitating conditions. Despite decades of intensive research and clinical trials there remain no therapies in routine clinical practice that target the dysregulated and overwhelming inflammatory response that characterises ARDS. Neutrophils play a central role in the initiation, propagation and resolution of this complex inflammatory environment by migrating into the lung and executing a variety of pro-inflammatory functions. These include degranulation with liberation of bactericidal proteins, release of cytokines and reactive oxygen species as well as production of neutrophil extracellular traps. Although these functions are advantageous in clearing bacterial infection, the consequence of associated tissue damage, the contribution to worsening acute inflammation and prolonged neutrophil lifespan at sites of inflammation are deleterious. In this review, the importance of the neutrophil will be considered, together with discussion of recent advances in understanding neutrophil function and the factors that influence them throughout the phases of inflammation in ARDS. From a better understanding of neutrophils in this context, potential therapeutic targets are identified and discussed. ? 2018 The Authors. The Journal of Pathology published by John Wiley & Sons Ltd on behalf of Pathological Society of Great Britain and Ireland.
+ER  - 
+
+TY  - JOUR
+AU  - Huber-Lang, Markus
+AU  - Gebhard, Florian
+TI  - The Trauma After Trauma
+JO  - German Research
+JA  - German Research
+VL  - 32
+IS  - 3
+UR  - https://doi.org/10.1002/germ.201190007
+DO  - doi:10.1002/germ.201190007
+SP  - 28
+EP  - 31
+PY  - 2010
+AB  - Abstract High impact injuries not only result in broken bones ? the risk from whole-body inflammation and immune system failure is often even greater. Clinical researchers are seeking better methods of diagnosis and treatment
+ER  - 
+
+TY  - JOUR
+AU  - Borgman, M. A.
+AU  - Spinella, P. C.
+AU  - Holcomb, J. B.
+AU  - Blackbourne, L. H.
+AU  - Wade, C. E.
+AU  - Lefering, R.
+AU  - Bouillon, B.
+AU  - Maegele, M.
+TI  - The effect of FFP:RBC ratio on morbidity and mortality in trauma patients based on transfusion prediction score
+JO  - Vox Sanguinis
+VL  - 101
+IS  - 1
+UR  - https://doi.org/10.1111/j.1423-0410.2011.01466.x
+DO  - doi:10.1111/j.1423-0410.2011.01466.x
+SP  - 44
+EP  - 54
+KW  - blood component transfusion
+KW  - resuscitation
+KW  - wounds and injuries
+PY  - 2011
+AB  - Background and Objectives? The empiric use of a high plasma to packed red-blood-cell [fresh frozen plasma:red-blood-cells (FFP:RBC)] ratio in trauma resuscitation for patients with massive bleeding has become well accepted without clear or objective indications. Increased plasma transfusion is associated with worse outcome in some patient populations. While previous studies analyse only patients who received a massive transfusion, this study analyses those that are at risk to receive a massive transfusion, based on the trauma-associated severe haemorrhage (TASH) score, to objectively determine which patients after severe trauma would benefit or have increased complications by the use of a high FFP:RBC ratio. Methods? Multicentre retrospective study from the Trauma Registry of the German Trauma Society. Multivariate logistic regression and statistical risk adjustments utilized in analyses. Results? A high ratio of FFP:RBC in the ≥15 TASH group was independently associated with survival, with an odds ratio of 2·5 (1·6?4·0), while the <15 TASH group was associated with increased multi-organ failure, 47% vs. 38%, (P?<?0·005). Conclusions? A predictive model of massive transfusion upon admission might be able to rapidly identify which severe trauma patients would benefit or have increased complications from the immediate application of a high ratio of FFP:RBCs. This study helps to identify the appropriate population for a prospective, interventional trial.
+ER  - 
+
+TY  - JOUR
+AU  - Kamp, Vera M.
+AU  - Pillay, Janesh
+AU  - Lammers, Jan-Willem J.
+AU  - Pickkers, Peter
+AU  - Ulfman, Laurien H.
+AU  - Koenderman, Leo
+TI  - Human suppressive neutrophils CD16bright/CD62Ldim exhibit decreased adhesion
+JO  - Journal of Leukocyte Biology
+JA  - Journal of Leukocyte Biology
+VL  - 92
+IS  - 5
+UR  - https://doi.org/10.1189/jlb.0612273
+DO  - doi:10.1189/jlb.0612273
+SP  - 1011
+EP  - 1020
+KW  - myeloid derived suppressor cells
+KW  - endotoxemia
+KW  - lipopolysaccharide
+KW  - chemotaxis
+KW  - adhesion/migration
+PY  - 2012
+AB  - Decrease capture under flow and chemotaxis toward fMLF of human CD16bright/CD62Ldim suppressive neutrophils, compared to CD16bright/CD62Lbright and CD16dim/CD62Lbright neutrophils.
+ER  - 
+
+TY  - JOUR
+AU  - Kennedy, Susan A.
+AU  - McEllistrem, Brian
+AU  - Kinsella, Aisling
+AU  - Fan, Yue
+AU  - Boyce, Susie
+AU  - Murphy, Katie
+AU  - McCarthy, James F.
+AU  - Wood, Alfred E.
+AU  - Watson, R. William G.
+TI  - EuroSCORE and neutrophil adhesion molecules predict outcome post-cardiac surgery
+JO  - European Journal of Clinical Investigation
+VL  - 42
+IS  - 8
+UR  - https://doi.org/10.1111/j.1365-2362.2012.02666.x
+DO  - doi:10.1111/j.1365-2362.2012.02666.x
+SP  - 881
+EP  - 890
+KW  - Cardiac
+KW  - CD11b
+KW  - CD47
+KW  - CD99
+KW  - migration
+KW  - neutrophil isolation
+PY  - 2012
+AB  - Eur J Clin Invest 2012 Abstract Background? This study tested the hypothesis that surgical stress and the host response to this trauma trigger an inflammatory cascade in which the neutrophil plays a central role. We hypothesised that pre-operative neutrophil migratory responses will correlate with post-operative clinical outcome in our shock model of open-heart surgery patients. We also tested the hypothesis that surface expression of adhesion molecules involved in the migratory process ? CD11b, CD47 and CD99 ? could be used to predict outcome. We believe that combining neutrophil migratory response, CD11b, CD47 and CD99 with the logistic European System for Cardiac Operative Risk Evaluation (EuroSCORE) will strengthen the power of the EuroSCORE not only in predicting post-operative mortality but also other clinical endpoints. Materials and methods? Neutrophils were isolated pre-operatively from n?=?31 patients undergoing open-heart surgery and allowed to migrate across endothelial monolayers in response to N-formyl-methionine-leucine-phenylalanine (fMLP). Isolated neutrophils were also assessed for surface expression of CD11b, CD47 and CD99 in response to fMLP by flow cytometry. Post-operative clinical parameters collected included days 1?5 white cell count and creatinine levels as well as intensive care unit (ICU) and post-operative hospital stay. Results? Pre-operative surface expression of CD99 and CD47 correlates with post-operative creatinine levels (P?<?0·05), a measurement of renal injury. We also show that while the logistic EuroSCORE alone can be used as a predictor of ICU stay, when combined with pre-operative CD99 surface expression, it improves its AUC value (0·794). Conclusion? Immunological markers, specifically the ability of the neutrophil to migrate, combined with the logistic EuroSCORE lead to improved sensitivity and specificity to predict patient outcome.
+ER  - 
+
+TY  - JOUR
+AU  - Yu, CY
+AU  - Abbott, PV
+TI  - Responses of the pulp, periradicular and soft tissues following trauma to the permanent teeth
+JO  - Australian Dental Journal
+JA  - Aust Dent J
+VL  - 61
+IS  - S1
+UR  - https://doi.org/10.1111/adj.12397
+DO  - doi:10.1111/adj.12397
+SP  - 39
+EP  - 58
+KW  - Periradicular healing
+KW  - pulp healing
+KW  - pulp necrosis
+KW  - resorption
+KW  - transient apical breakdown
+PY  - 2016
+AB  - Abstract Trauma to the permanent teeth involves not only the teeth but also the pulp, the periodontal ligament, alveolar bone, gingiva and other associated structures. There are many variations in the types of injuries with varying severity and often a tooth may sustain more than one injury at the same time. In more severe trauma cases, there are many different cellular systems of mineralized hard and unmineralized soft tissues involved, each with varying potential for healing. Furthermore, the responses of the different tissues may be interrelated and dependent on each other. Hence, healing subsequent to dental trauma has long been known to be very complex. Because of this complexity, tissue responses and the consequences following dental trauma have been confusing and puzzling for many clinicians. In this review, the tissue responses are described under the tissue compartments typically involved following dental trauma: the pulp, periradicular and associated soft tissues. The factors involved in the mechanisms of trauma are analysed for their effects on the tissue responses. A thorough understanding of the possible tissue responses is imperative for clinicians to overcome the confusion and manage dental trauma adequately and conservatively in order to minimize the consequences following trauma.
+ER  - 
+
+TY  - JOUR
+AU  - Sandersen, Charlotte
+AU  - Mouithys-Mickalad, Ange
+AU  - de la Rebière, Geoffroy
+AU  - Deby, Ginette
+AU  - Serteyn, Didier
+AU  - Franck, Thierry
+TI  - Modulating effects of acepromazine on the reactive oxygen species production by stimulated equine neutrophils
+JO  - Veterinary Anaesthesia and Analgesia
+VL  - 38
+IS  - 2
+UR  - https://doi.org/10.1111/j.1467-2995.2010.00583.x
+DO  - doi:10.1111/j.1467-2995.2010.00583.x
+SP  - 83
+EP  - 93
+KW  - chemiluminescence
+KW  - electron paramagnetic resonance
+KW  - phenothiazine
+KW  - spin trapping
+PY  - 2011
+AB  - Abstract Objective? To investigate the effect of acepromazine (ACP) on reactive oxygen species (ROS) production by stimulated equine neutrophils. Study design? Ex vivo biochemical experiments. Animals? Isolated neutrophils from healthy untreated horses. Methods? Neutrophils were incubated with ACP at concentrations of 10?4, 10?5 or 10?6?m and then stimulated with phorbol-myristate-acetate (PMA) before measurement of lucigenin-enhanced chemiluminescence (CL). In a second experiment neutrophils were incubated in the presence of α-keto-? methylthiobutyric acid (KMB) and treated with ACP at concentrations of 10?4, 10?5 or 10?6?m. Subsequent PMA stimulation lead to neutrophilic ROS production and decomposition of KMB to ethylene, which is measured by gas chromatography. Electron paramagnetic resonance-spin trapping (EPR) analysis was performed with PMA-stimulated neutrophils in the presence of ACP (10?4, 10?5 or 10?6?m) directly added to the cell suspension. In the second experiment, the same concentrations of ACP were pre-incubated with neutrophils, then centrifuged to eliminate the excess of ACP and re-suspended in phosphate buffer before stimulation with PMA. In all experiments, the results of ACP-treated and ACP-untreated stimulated neutrophils were compared. Results? Overall, results obtained with lucigenin-enhanced CL and KMB oxidation were in agreement with those seen in electron paramagnetic resonance spectroscopy. Acepromazine induced a dose-dependent inhibitory effect on neutrophilic ROS production. Electron paramagnetic resonance also showed, at high ACP concentration, the appearance of a cation radical derived from ACP. In contrast, electron paramagnetic resonance study performed with pre-incubated neutrophils showed an important dose-dependent inhibitory effect of ACP. Conclusion? The results indicate that ACP can neutralize O??2 or its by-products during the stimulation of neutrophils. Clinical relevance? These findings may have a therapeutic relevance when phenothiazines are used in horses suffering from inflammatory diseases in which neutrophil activation and ROS production are implicated.
+ER  - 
+
+TY  - JOUR
+AU  - HUSCHAK, G.
+AU  - ZUR NIEDEN, K.
+AU  - STUTTMANN, R.
+AU  - RIEMANN, D.
+TI  - Changes in monocytic expression of aminopeptidase N/CD13 after major trauma
+JO  - Clinical & Experimental Immunology
+VL  - 134
+IS  - 3
+UR  - https://doi.org/10.1111/j.1365-2249.2003.02302.x
+DO  - doi:10.1111/j.1365-2249.2003.02302.x
+SP  - 491
+EP  - 496
+KW  - CD13
+KW  - HLA-DR
+KW  - intensive care medicine
+KW  - major trauma
+KW  - monocytes 
+PY  - 2003
+AB  - SUMMARY HLA-DR expression on monocytes as marker for monocytic function is severely depressed after major trauma. The membrane enzyme aminopeptidase N/CD13 can trigger help in antigen processing by MHC class II molecules of antigen-presenting cells. We determined the simultaneous expression of HLA-DR and CD13 on peripheral blood monocytes of patients with major trauma (injury severity score of ≥16). 1?: 1 conjugates of phycoerythrin (PE)-to-monoclonal antibody were used in combination with QuantiBRITETM PE beads for a standardized quantification in terms of antibodies bound per cell (ABC). The very low expression of HLA-DR antigen on monocytes of patients at day 1 after major trauma confirmed previous results in the literature. Monocytic HLA-DR expression increased slowly to reach values in the lower range of healthy volunteers at day 14. Monocytic CD13 expression at day 1 showed values in the range of healthy volunteers, and a strong rise afterwards. Fourteen days after trauma, the monocytic expression of CD13 was still much higher than in the control group. Because lipopolysaccharide (LPS) and the anti-inflammatory cytokine interleukin (IL)-10 have been shown to be involved in the depressed HLA-DR expression on monocytes in trauma patients, we studied the in vitro effects of LPS and interleukin (IL)-10 on the expression of CD13 on monocytes prepared from the peripheral blood of healthy volunteers. Whereas a 3-day IL-10 treatment resulted in a down-regulation of both HLA-DR and CD13 expression on monocytes, LPS caused a down-regulation of HLA-DR but a rapid up-regulation of CD13 levels. Therefore we suggest that, with respect to monocytic CD13 expression, LPS rather than IL-10 could well be the explanation for monocytic surface molecules after severe injury, although other mediators with a CD13 regulating function have to be considered.
+ER  - 
+
+AU  - Marshall, John C.
+AU  - Malam, Zeenat
+AU  - Jia, Songhui
+C7  - pp. 53-72
+TI  - Modulating Neutrophil Apoptosis
+SN  - 9780470027981
+UR  - https://doi.org/10.1002/9780470059593.ch5
+DO  - doi:10.1002/9780470059593.ch5
+SP  - 53-72
+KW  - modulating neutrophil-apoptosis
+KW  - Polymorphonuclear neutrophils (PMNs)
+KW  - bystander injury to host tissues in neutrophil activation
+KW  - cellular mechanisms inhibiting apoptosis
+KW  - pre-colony B cell enhancing factor (PBEF)
+PY  - 2003
+AB  - Summary Polymorphonuclear neutrophils are short-lived phagocytic cells that serve as cardinal early cellular effectors of innate immunity. Both oxidative and non-oxidative mechanisms contribute to microbial killing by the neutrophil. Neutrophil defence mechanisms are potent but non-specific, with the result that inadvertent injury to host tissues commonly accompanies the activation of a neutrophil-mediated response; this bystander injury has been implicated in the tissue injury of sepsis. The capacity for neutrophils to cause injury to host tissues is attenuated by the relatively short in vivo lifespan of the neutrophil, a consequence of a constitutively expressed program of apoptosis. That program can be inhibited, and neutrophil survival prolonged, through the interaction of the neutrophil with a variety of mediators of both microbial and host origin. These, in turn, inhibit apoptosis by increasing the expression of anti-apoptotic genes within the neutrophil: interleukin (IL)1? and a novel cytokine-like molecule pre-B cell colonyenhancing factor (PBEF) are central to this inhibitory influence. Conversely, the phagocytosis of a micro-organism activates the apoptotic program, and so contributes to the resolution of acute inflammation. A complex series of interactions between the neutrophil and microorganisms or their products regulates the duration and intensity of an inflammatory response, and so provides an attractive target for therapeutic manipulation.
+ER  - 
+
+TY  - JOUR
+AU  - Morgan, R. E.
+AU  - Fiske-Jackson, A. R.
+AU  - Biggi, M.
+TI  - Pituitary gland abscess in a horse subsequent to head trauma
+JO  - Equine Veterinary Education
+JA  - Equine Vet Educ
+VL  - n/a
+IS  - n/a
+SN  - 9780470027981
+UR  - https://doi.org/10.1111/eve.13043
+DO  - doi:10.1111/eve.13043
+KW  - horse
+KW  - pituitary
+KW  - abscess
+KW  - trauma
+KW  - head
+AB  - Summary A 5-year-old Thoroughbred gelding with recent history of head trauma presented with multiple facial swellings, bilateral mucopurulent nasal discharge, neck pain, inappetence and depression. On computed tomographic examination, lesions within the pituitary fossa and structures adjacent to the right guttural pouch were identified. Soft tissue swelling was seen in the dorsal aspect of the right guttural pouch surrounding several cranial nerves, with fluid-like material in the dependent portions of the right guttural pouch. A CSF sample revealed mild mixed pleocytosis and increased protein concentration. The horse had concurrent periapical disease of the 209-cheek tooth and mild left sinusitis. The horse's demeanour deteriorated requiring euthanasia. Post-mortem examination revealed a pituitary gland abscess.
+ER  - 

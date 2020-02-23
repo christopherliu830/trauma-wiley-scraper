@@ -1,0 +1,468 @@
+
+TY  - JOUR
+AU  - Menke, Ricarda A. L.
+AU  - Gray, Elizabeth
+AU  - Lu, Ching-Hua
+AU  - Kuhle, Jens
+AU  - Talbot, Kevin
+AU  - Malaspina, Andrea
+AU  - Turner, Martin R.
+TI  - CSF neurofilament light chain reflects corticospinal tract degeneration in ALS
+JO  - Annals of Clinical and Translational Neurology
+JA  - Ann Clin Transl Neurol
+VL  - 2
+IS  - 7
+SN  - 2328-9503
+UR  - https://doi.org/10.1002/acn3.212
+DO  - doi:10.1002/acn3.212
+SP  - 748
+EP  - 755
+PY  - 2015
+AB  - Abstract Objective Diffusion tensor imaging (DTI) is sensitive to white matter tract pathology. A core signature involving the corticospinal tracts (CSTs) has been identified in amyotrophic lateral sclerosis (ALS). Raised neurofilament light chain protein (NfL) in cerebrospinal fluid (CSF) is thought to reflect axonal damage in a range of neurological disorders. The relationship between these two measures was explored. Methods CSF and serum NfL concentrations and DTI acquired at 3 Tesla on the same day were obtained from ALS patients (n = 25 CSF, 40 serum) and healthy, age-similar controls (n = 17 CSF, 25 serum). Within-group correlations between NfL and DTI measures of microstructural integrity in major white matter tracts (CSTs, superior longitudinal fasciculi [SLF], and corpus callosum) were performed using tract-based spatial statistics. Results NfL levels were higher in patients compared to controls. CSF levels correlated with clinical upper motor neuron burden and rate of disease progression. Higher NfL levels were significantly associated with lower DTI fractional anisotropy and increased radial diffusivity in the CSTs of ALS patients, but not in controls. Interpretation Elevated CSF and serum NfL is, in part, a result of CST degeneration in ALS. This highlights the wider potential for combining neurochemical and neuroimaging-based biomarkers in neurological disease.
+ER  - 
+
+TY  - JOUR
+AU  - Kelf, Timothy Andrew
+AU  - Gosnell, Martin
+AU  - Sandnes, Bjornar
+AU  - Guller, Anna E.
+AU  - Shekhter, Anatoly B.
+AU  - Zvyagin, Andrei V.
+TI  - Scar tissue classification using nonlinear optical microscopy and discriminant analysis
+JO  - Journal of Biophotonics
+JA  - J. Biophoton.
+VL  - 5
+IS  - 2
+SN  - 1864-063X
+UR  - https://doi.org/10.1002/jbio.201100075
+DO  - doi:10.1002/jbio.201100075
+SP  - 159
+EP  - 167
+KW  - SHG
+KW  - NLOM
+KW  - image analysis
+KW  - discriminant analysis
+KW  - biomedical imaging
+PY  - 2012
+AB  - Abstract This paper addresses the scar tissue maturation process that occurs stepwise, and calls for reliable classification. The structure of collagen imaged by nonlinear optical microscopy (NLOM) in post-burn hypertrophic and mature scar, as well as in normal skin, appeared to distinguish these maturation steps. However, it was a discrimination analysis, demonstrated here, that automated and quantified the scar tissue maturation process. The achieved scar classification accuracy was as high as 96%. The combination of NLOM and discrimination analysis is believed to be instrumental in gaining insight into the scar formation, for express diagnosis of scar and surgery planning. (? 2012 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim)
+ER  - 
+
+TY  - JOUR
+AU  - Jiang, Huai
+AU  - Stein, Barry E.
+AU  - McHaffie, John G.
+TI  - Physiological evidence for a trans-basal ganglia pathway linking extrastriate visual cortex and the superior colliculus
+JO  - The Journal of Physiology
+VL  - 589
+IS  - 23
+SN  - 0022-3751
+UR  - https://doi.org/10.1113/jphysiol.2011.213553
+DO  - doi:10.1113/jphysiol.2011.213553
+SP  - 5785
+EP  - 5799
+PY  - 2011
+AB  - Non-technical summary? The superior colliculus (SC) is a subcortical brain structure critically involved in the production of eye and head movements to novel or salient visual cues. But to accomplish its function, an input from visual cortex also is required. Because visual cortex projects directly to the SC, this route is typically viewed as the predominant way by which cortex exerts higher-level control over SC-mediated behaviours. However, anatomical studies suggest that other multi-neuronal circuits through the basal ganglia, a collection of interconnected structures involved in decision making, might provide an alternative way for cortex to influence the SC. The present study provides physiological evidence for such an alternative route and affords additional insights into how the brain initiates and controls movements in response to visual cues. Such knowledge could be important for developing therapies to lessen the effects of visual deficits in patients experiencing loss of function following head trauma or stroke.
+ER  - 
+
+AU  - Judd, Julia
+C7  - pp. 290-308
+TI  - Common Childhood Orthopaedic Conditions, their Care and Management
+SN  - 9781118438855
+UR  - https://doi.org/10.1002/9781118941263.ch22
+DO  - doi:10.1002/9781118941263.ch22
+SP  - 290-308
+KW  - Children
+KW  - musculoskeletal
+KW  - presentation
+KW  - diagnosis
+KW  - management
+KW  - evidence-based
+PY  - 2011
+AB  - Summary This chapter focuses on some of the common children's musculoskeletal conditions that the nurse/practitioner may come across in everyday working practice. An in-depth evidence-based overview of the clinical presentation, diagnosis and management of developmental dysplasia of the hip, Legg Calve Perthes disease, slipped capital femoral epiphysis and congenital talipes equinovarus provides the practitioner with knowledge and guidance in the care of the child with these conditions. In addition the musculoskeletal assessment of children is discussed along with the orthopaedic implications of vitamin D deficiency and amplified musculoskeletal pain syndrome.
+ER  - 
+
+TY  - JOUR
+AU  - Hartnedy, Stephanie
+AU  - Mozzoni, Michael P.
+TI  - Managing environmental stimulation during meal time: eating problems in children with traumatic brain injury
+JO  - Behavioral Interventions
+JA  - Behavioral Interventions
+VL  - 15
+IS  - 3
+SN  - 9781118438855
+UR  - https://doi.org/10.1002/1099-078X(200007/09)15:3<261::AID-BIN60>3.0.CO;2-N
+DO  - doi:10.1002/1099-078X(200007/09)15:3<261::AID-BIN60>3.0.CO;2-N
+SP  - 261
+EP  - 268
+PY  - 2000
+AB  - Abstract Environmental over-stimulation is common in the first few months following severe brain injury. The reduced ability to attend coupled with increased impulsivity, confusion and disinhibition leaves the person with a brain injury in a bewildering world. By limiting stimulation and reducing the number of stimuli to which the person has to attend can help the person with a brain injury interact more effectively with his/her environment. This study demonstrates the effectiveness of managing environmental stimulation for the confused person resulting in improved nutritional intake. The eating behaviors of two children aged six and 16 were observed in this study to determine the role of distraction as it interfered with their eating behavior. A multiple baseline, reversal design was used to assess the effectiveness of restricting environmental stimulation. Copyright ? 2000 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Chen, Xuming
+AU  - Chen, Jie
+AU  - Jin, Senjun
+AU  - Yan, Guangzhao
+AU  - Hu, Chaozhou
+AU  - Hu, Shengan
+TI  - The circular RNA HIPK3 reduces hydrogen peroxide-induced injury of PC-12 cells by upregulation of miR-455
+JO  - Journal of Cellular Biochemistry
+JA  - J Cell Biochem
+VL  - n/a
+IS  - n/a
+SN  - 9781118438855
+UR  - https://doi.org/10.1002/jcb.29660
+DO  - doi:10.1002/jcb.29660
+KW  - autophagy
+KW  - craniocerebral trauma
+KW  - extracellular signal-regulated kinase
+KW  - mean fluorescence intensity
+KW  - nuclear factor erythroid 2-related factor 2
+KW  - viability
+AB  - Abstract Craniocerebral trauma is a serious disease accompanied with mechanical damage, oxidative damage, and neuronal apoptosis. Circular RNA HIPK3 (circHIPK3), an abundant circRNA, exerts the function in promoting cell growth. Therefore, we aimed to explore the biological roles and mechanism of circHIPK3 on cell damage in craniocerebral trauma. PC-12 cells were cotransfected with PLCDH-cirHIPK3 and microRNA-455 (miR-455) inhibitor and then were treated with H2O2 for 24?hours. Cell viability, apoptosis and mean fluorescence intensity (MFI) were tested through trypan blue staining, flow cytometry and reactive oxygen species assay, respectively. Expression of circHIPK3 and miR-455 were tested through quantitative reverse transcription polymerase chain reaction. Expression of pro-PARP, cleaved-PARP, pro-caspase-3, cleaved-caspase-3, pro-caspase-9, cleaved-caspase-9, ?-actin, beclin-1, p62, light chain 3-I (LC3-I), LC3-II, nuclear factor erythroid 2-related factor 2 (Nrf2), t-extracellular-regulated kinase (t-ERK) and p-ERK were tested via Western blot experiments. The 100??M H2O2-induced cell damage presented as reducing cell viability, increasing apoptosis, autophagy, and MFI. Besides, H2O2 could downregulate circHIPK3. However, overexpression of circHIPK3 attenuated cell damage caused by H2O2 that it increased cell viability, decreased apoptosis, autophagy and MFI through upregulating miR-455. Additionally, circHIPK3 overexpression promoted the activation of Nrf2 and ERK signal pathways by upregulating miR-455. Our study demonstrated that circHIPK3 attenuated H2O2-induced cell damage and activated Nrf2 and ERK signal pathways by upregulation of miR-455.
+ER  - 
+
+TY  - JOUR
+AU  - Denny, Kerina J
+AU  - Keijzers, Gerben
+TI  - Culturing conversation: How clinical audits can improve our ability to choose wisely
+JO  - Emergency Medicine Australasia
+JA  - Emergency Medicine Australasia
+VL  - 30
+IS  - 4
+SN  - 9781118438855
+UR  - https://doi.org/10.1111/1742-6723.13121
+DO  - doi:10.1111/1742-6723.13121
+SP  - 448
+EP  - 449
+PY  - 2018
+ER  - 
+
+TY  - JOUR
+AU  - Kotrotsou, Aikaterini
+AU  - Bennett, David A.
+AU  - Schneider, Julie A.
+AU  - Dawe, Robert J.
+AU  - Golak, Tom
+AU  - Leurgans, Sue E.
+AU  - Yu, Lei
+AU  - Arfanakis, Konstantinos
+TI  - Ex vivo MR volumetry of human brain hemispheres
+JO  - Magnetic Resonance in Medicine
+JA  - Magn. Reson. Med
+VL  - 71
+IS  - 1
+SN  - 9781118438855
+UR  - https://doi.org/10.1002/mrm.24661
+DO  - doi:10.1002/mrm.24661
+SP  - 364
+EP  - 374
+KW  - ex vivo
+KW  - volumetry
+KW  - MRI
+KW  - segmentation
+PY  - 2014
+AB  - Purpose The aims of this work were to (a) develop an approach for ex vivo MR volumetry of human brain hemispheres that does not contaminate the results of histopathological examination, (b) longitudinally assess regional brain volumes postmortem, and (c) investigate the relationship between MR volumetric measurements performed in vivo and ex vivo. Methods An approach for ex vivo MR volumetry of human brain hemispheres was developed. Five hemispheres from elderly subjects were imaged ex vivo longitudinally. All datasets were segmented. The longitudinal behavior of volumes measured ex vivo was assessed. The relationship between in vivo and ex vivo volumetric measurements was investigated in seven elderly subjects imaged both antemortem and postmortem. Results This approach for ex vivo MR volumetry did not contaminate the results of histopathological examination. For a period of 6 months postmortem, within-subject volume variation across time points was substantially smaller than intersubject volume variation. A close linear correspondence was detected between in vivo and ex vivo volumetric measurements. Conclusion Regional brain volumes measured with this approach for ex vivo MR volumetry remain relatively unchanged for a period of 6 months postmortem. Furthermore, the linear relationship between in vivo and ex vivo MR volumetric measurements suggests that this approach captures information linked to antemortem macrostructural brain characteristics. Magn Reson Med 71:364?374, 2014. ? 2013 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Toombs-Ruane, L.J.
+AU  - Riley, C.B.
+AU  - Rosanowski, S.M.
+AU  - Kendall, A.T.
+AU  - Hill, K.E.
+AU  - Benschop, J.
+TI  - Antimicrobial Sensitivity of Bacteria Isolated from Neonatal Foal Samples in New Zealand (2004 to 2013)
+JO  - Equine Veterinary Journal
+JA  - Equine Vet J
+VL  - 47
+IS  - S48
+SN  - 9781118438855
+UR  - https://doi.org/10.1111/evj.12486_5
+DO  - doi:10.1111/evj.12486_5
+SP  - 3
+EP  - 3
+PY  - 2015
+AB  - Reasons for performing study Guidelines for the rational use of antimicrobials enable practitioners to improve antimicrobial stewardship and slow the development of antimicrobial resistance (AMR) [1]; these must be regionally relevant [2]. New Zealand (NZ) is geographically isolated and the importance of AMR on equine studs is unknown. Objectives To identify AMR patterns of bacteria isolated from NZ foals so as to provide regionally specific information for the development of antimicrobial stewardship guidelines. Study design Retrospective study of clinical pathology records. Methods A database search of bacterial culture submissions from foals <3 weeks of age from April 2004 to December 2013 was completed. Culture results, antimicrobial sensitivities, and demographic factors were tabulated. The Kirby-Bauer disk diffusion susceptibility test was used to define sensitivity. Multi-drug resistance (MDR) was defined as non-sensitivity to 3 or more core antimicrobials in a panel (ceftiofur, enrofloxaxin, gentamicin, penicillin [not included for Gram-negative bacteria], tetracycline, trimethoprim- sulfamethoxazole). Results Bacterial isolates (n?=?127) were cultured from 64/102 (62.7%) of foal submissions. Four bacterial groups (Staphylococcus spp., Streptococcus spp., Enterococcus spp. and Escherichia coli) accounted for 100 (79%) of bacterial isolates cultured. At least one or 2 MDR isolates were cultured from 24 (38%) and 8 (12%) foals, respectively. Culture positive and negative foals were demographically similar. Conclusions A significant number of bacterial isolates from foals have reduced antimicrobial susceptibility to commonly used antimicrobial drugs. The results are of concern from treatment and stewardship perspectives. Multi-drug resistance was found, indicating a need for regionally relevant antimicrobial use recommendations. Ethical animal research:?Not applicable. Sources of funding:?Massey University McGeorge fund; New Zealand Equine Research Foundation. Competing interests:?None declared.
+ER  - 
+
+TY  - JOUR
+AU  - Saito, Shigeyoshi
+AU  - Aoki, Ichio
+AU  - Sawada, Kazuhiko
+AU  - Suhara, Tetsuya
+TI  - Quantitative assessment of central nervous system disorder induced by prenatal X-ray exposure using diffusion and manganese-enhanced MRI
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 25
+IS  - 1
+SN  - 9781118438855
+UR  - https://doi.org/10.1002/nbm.1715
+DO  - doi:10.1002/nbm.1715
+SP  - 75
+EP  - 83
+KW  - developmental neural disorder
+KW  - radiation injury
+KW  - MEMRI
+KW  - ADC
+KW  - diffusion
+PY  - 2012
+AB  - Prenatal radiation exposure induces various central nervous system (CNS) disorders depending on the dose, affected region and gestation period. The goal of this study was to assess noninvasively a CNS development disorder induced by prenatal X-ray exposure using quantitative manganese-enhanced MRI (MEMRI) as well as apparent diffusion coefficient (ADC) and transverse relaxation time (T2) maps in comparison with immunohistological staining. The changes in ?R1 (increase in the longitudinal relaxation rate (R1) from before and after MnCl2 administration.) induced by the Mn2+ contrast agent were evaluated in the CNS of normal and prenatally irradiated rats. ADC and T2 were also compared with the histological results obtained using hematoxylin and eosin (to estimate cell density), activated caspase-3 (apoptotic cells) and glial fibrillary acidic protein (proliferation of astrocytes/astroglia). We found the following: (i) the decreased Mn2+ uptake (indicated by a smaller ?R1) for radiation-exposed rats was predominantly correlated with a decrease in cell viability (apoptotic cytopathogenicity) and CNS cell density after prenatal radiation exposure; (ii) the longer T2 and ADC were associated with a decrease in CNS cell density and apoptotic alteration after radiation exposure. In addition to the slight proliferation of astroglia (+58%), there was a substantial decrease in cell density (?78%) and an excessive increase in apoptotic cells (+613%) in our prenatal radiation exposure model. The results suggest that MEMRI in the prenatal X-ray exposure model predominantly reflected the decrease in cell density and viability rather than the proliferation of astroglia. In conclusion, quantitative MEMRI with ADC/T2 mapping provides objective information for the in vivo assessment of cellular level alterations by prenatal radiation exposure, and has the potential to be used as a standard approach for the evaluation of the cellular damage of radiotherapy. Copyright ? 2011 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Gregan, Jude
+AU  - Balasingam, Adrian
+AU  - Butler, Anthony
+TI  - Radiology in the Christchurch earthquake of 22 February 2011: Challenges, interim processes and clinical priorities
+JO  - Journal of Medical Imaging and Radiation Oncology
+JA  - Journal of Medical Imaging and Radiation Oncology
+VL  - 60
+IS  - 2
+SN  - 9781118438855
+UR  - https://doi.org/10.1111/1754-9485.12315
+DO  - doi:10.1111/1754-9485.12315
+SP  - 172
+EP  - 181
+KW  - disaster
+KW  - disaster planning
+KW  - earthquake
+KW  - mass casualty incident
+KW  - radiology
+PY  - 2016
+AB  - Abstract Introduction The Canterbury earthquake of 22 February 2011 initiated a mass casualty event for Christchurch Hospital, which suffered damage itself, and faced logistical difficulties in continued operation. Radiology was part of the hospital-wide response. This paper reviews the radiology department response and surveys opinions of emergency doctors to provide an overview of events of the day and thoughts regarding any potential future response. Methods Two main approaches were undertaken: (i) informal data gathering and discussions with staff including radiographers, sonographers, radiologists, emergency doctors and others present on the day regarding their experiences; and (ii) survey of emergency doctors regarding their experiences and recommendations. A comparison with other similar events was also conducted. Results (1) Diagnostic radiology services were initially constrained by a lack of power and lift access. Usual imaging and reporting pathways were interrupted. Alternative processes were initiated to ensure an ongoing radiology service with available resources. Lessons were learned and changes implemented locally.(2) Survey data confirmed several primary outcomes: (i) Ultrasound was crucial while CT was down; (ii) all available imaging modalities remain important in a disaster response; and (iii) preliminary reports from radiologists in the emergency department (ED) were useful in the immediate post-earthquake period. Conclusion Although resources were limited, a diagnostic radiology service remained operational. The Christchurch experience reinforces the need for disaster planning and rehearsal of plans.
+ER  - 
+
+TY  - JOUR
+AU  - Rigby, Paul J.
+TI  - Comparison of FIESTA and gadolinium-enhanced T1-weighted sequences in magnetic resonance of acoustic schwannoma
+JO  - Radiographer
+JA  - Radiographer
+VL  - 53
+IS  - 2
+SN  - 9781118438855
+UR  - https://doi.org/10.1002/j.2051-3909.2006.tb00050.x
+DO  - doi:10.1002/j.2051-3909.2006.tb00050.x
+SP  - 11
+EP  - 21
+KW  - acoustic schwannoma
+KW  - FIESTA
+KW  - gadolinium
+KW  - true-FISP
+PY  - 2006
+AB  - Abstract Acoustic schwannomas (AS) are a treatable cause of sensorineural hearing loss (SNHL). Currently, the gold standard magnetic resonance (MR) examination for exclusion of acoustic schwannoma is gadolinium-enhanced T1-weighted images of the cerebropontine angles (CPA). The FIESTA (fast imaging employing steady-state acquisition) sequence is a true-FISP (free induction steady-state precession) sequence that provides high-resolution fluid-bright images of the CPAs and basal cisterns. The T1-weighted sequence adds cost and time to the examination, and possibility of contrast medium reaction exists. This study of 50 patients compared the gadolinium-enhanced T1-weighted images and FIESTA images. The hypothesis was that the FIESTA sequence could repIACe the gadolinium-enhanced T1-weighted images for the diagnosis of AS. The results showed that in 98% of cases, this was possible. The conclusion was that when the FIESTA sequence does not demonstrate AS, this sequence may be employed in isolation. However, gadolinium-enhanced images should be employed when pathology is seen and to follow-up post-surgical patients.
+ER  - 
+
+TY  - JOUR
+AU  - Kroker, Andres
+AU  - Besler, Bryce A.
+AU  - Bhatla, Jennifer L.
+AU  - Shtil, Mariya
+AU  - Salat, Peter
+AU  - Mohtadi, Nicholas
+AU  - Walker, Richard E.
+AU  - Manske, Sarah L.
+AU  - Boyd, Steven K.
+TI  - Longitudinal Effects of Acute Anterior Cruciate Ligament Tears on Peri-Articular Bone in Human Knees Within the First Year of Injury
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+VL  - 37
+IS  - 11
+SN  - 9781118438855
+UR  - https://doi.org/10.1002/jor.24410
+DO  - doi:10.1002/jor.24410
+SP  - 2325
+EP  - 2336
+KW  - anterior cruciate ligament
+KW  - bone microarchitecture
+KW  - knee
+KW  - osteoarthritis
+KW  - bone marrow lesion
+PY  - 2019
+AB  - ABSTRACT Anterior cruciate ligament (ACL) tears are common sports-related knee injuries that increase the risk of developing post-traumatic osteoarthritis. ACL tears are rarely an isolated injury but are often associated with traumatic bone marrow lesions (BMLs). While early loss of bone mass following the ACL injury has been previously described, to date, microarchitectural information has not been reported due to the limited resolution of clinical imaging systems. In this study, we provide the first evidence of detailed bone mass and microarchitectural changes in the first 10 months following an acute ACL tear, and localized to traumatic BMLs. Fifteen participants with an acute unilateral ACL tear were assessed at four-time points using dual-energy X-ray absorptiometry and high-resolution peripheral quantitative computed tomography, and traumatic BMLs were identified with magnetic resonance imaging. Loss of bone mass was localized to the injured knee (?4.6% to ?15.8%, depending on bone and depth) and was accelerated immediately following the injury before suggesting a recovery phase. This loss of bone was accelerated even greater in traumatic BMLs (?18.2% to ?20.6%, depending on bone). Bone loss was accompanied by microstructural degeneration of trabecular bone. For example, in the lateral femur of the injured knee, the subchondral bone plate decreased in thickness (?9.0%). This study confirmed loss of bone mass in the months following ACL tears and described the underlying bone microstructural changes. The presented bone changes were accelerated in regions of traumatic BMLs. ? 2019 Orthopaedic Research Society. Published by Wiley Periodicals, Inc. J Orthop Res 37:2325?2336, 2019
+ER  - 
+
+TY  - JOUR
+AU  - Blockley, Nicholas P.
+AU  - Griffeth, Valerie E. M.
+AU  - Simon, Aaron B.
+AU  - Buxton, Richard B.
+TI  - A review of calibrated blood oxygenation level-dependent (BOLD) methods for the measurement of task-induced changes in brain oxygen metabolism
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 26
+IS  - 8
+SN  - 9781118438855
+UR  - https://doi.org/10.1002/nbm.2847
+DO  - doi:10.1002/nbm.2847
+SP  - 987
+EP  - 1003
+KW  - review
+KW  - calibrated BOLD
+KW  - oxygen metabolism
+KW  - respiratory challenge
+PY  - 2013
+AB  - The dynamics of the blood oxygenation level-dependent (BOLD) response are dependent on changes in cerebral blood flow, cerebral blood volume and the cerebral metabolic rate of oxygen consumption. Furthermore, the amplitude of the response is dependent on the baseline physiological state, defined by the haematocrit, oxygen extraction fraction and cerebral blood volume. As a result of this complex dependence, the accurate interpretation of BOLD data and robust intersubject comparisons when the baseline physiology is varied are difficult. The calibrated BOLD technique was developed to address these issues. However, the methodology is complex and its full promise has not yet been realised. In this review, the theoretical underpinnings of calibrated BOLD, and issues regarding this theory that are still to be resolved, are discussed. Important aspects of practical implementation are reviewed and reported applications of this methodology are presented. Copyright ? 2012 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Papinutto, Nico
+AU  - Asteggiano, Carlo
+AU  - Bischof, Antje
+AU  - Gundel, Tristan J.
+AU  - Caverzasi, Eduardo
+AU  - Stern, William A.
+AU  - Bastianello, Stefano
+AU  - Hauser, Stephen L.
+AU  - Henry, Roland G.
+TI  - Intersubject Variability and Normalization Strategies for Spinal Cord Total Cross-Sectional and Gray Matter Areas
+JO  - Journal of Neuroimaging
+JA  - Journal of Neuroimaging
+VL  - 30
+IS  - 1
+SN  - 9781118438855
+UR  - https://doi.org/10.1111/jon.12666
+DO  - doi:10.1111/jon.12666
+SP  - 110
+EP  - 118
+KW  - Intersubject variability
+KW  - magnetic resonance imaging
+KW  - morphometry
+KW  - normalization strategies
+KW  - spinal cord
+PY  - 2020
+AB  - ABSTRACT BACKGROUND AND PURPOSE The quantification of spinal cord (SC) atrophy by MRI has assumed an important role in assessment of neuroinflammatory/neurodegenerative diseases and traumatic SC injury. Recent technical advances make possible the quantification of gray matter (GM) and white matter tissues in clinical settings. However, the goal of a reliable diagnostic, prognostic or predictive marker is still elusive, in part due to large intersubject variability of SC areas. Here, we investigated the sources of this variability and explored effective strategies to reduce it. METHODS One hundred twenty-nine healthy subjects (mean age: 41.0 ± 15.9) underwent MRI on a Siemens 3T Skyra scanner. Two-dimensional PSIR at the C2-C3 vertebral level and a sagittal 1 mm3 3D T1-weighted brain acquisition extended to the upper cervical cord were acquired. Total cross-sectional area and GM area were measured at C2-C3, as well as measures of the vertebra, spinal canal and the skull. Correlations between the different metrics were explored using Pearson product-moment coefficients. The most promising metrics were used to normalize cord areas using multiple regression analyses. RESULTS The most effective normalization metrics were the V-scale (from SienaX) and the product of the C2-C3 spinal canal diameters. Normalization methods based on these metrics reduced the intersubject variability of cord areas of up to 17.74%. The measured cord areas had a statistically significant sex difference, while the effect of age was moderate. CONCLUSIONS The present work explored in a large cohort of healthy subjects the source of intersubject variability of SC areas and proposes effective normalization methods for its reduction.
+ER  - 
+
+AU  - Nurcombe, Barry
+AU  - Flament, Martine F.
+AU  - Nguyen, Hien
+AU  - Furino, Claudia
+AU  - Schachter, Howard
+AU  - MacLean, Cathy
+AU  - Wasserman, Danuta
+AU  - Sartorius, Norman
+AU  - Remschmidt, Helmut
+AU  - Caffo, Ernesto
+AU  - Belaise, Carlotta
+AU  - Graeff-Martins, Ana Soledade
+AU  - Dmitrieva, Tatjana
+AU  - El Din, Amira Seif
+AU  - Rydelius, Per-Anders
+AU  - Rohde, Luis Augusto
+C7  - pp. 51-191
+TI  - Prevention of Mental Health Disorders in Children and Adolescents
+SN  - 9780470512456
+UR  - https://doi.org/10.1002/9780470512555.ch5
+DO  - doi:10.1002/9780470512555.ch5
+SP  - 51-191
+KW  - child and adolescent mental health prevention
+KW  - prevention and eliminating risk factors
+KW  - child sexual abuse and psychopathology
+KW  - school dropout and prevention focus
+KW  - cost-effectiveness analysis (CEA) and cost-benefit analysis (CBA)
+KW  - predictors of response in child trauma victims
+KW  - violence and trauma and EBAIs
+KW  - school violence and implementation guidelines
+KW  - road to positive psychology and strategies fostering resilience
+PY  - 2020
+AB  - Summary This chapter contains sections titled: The Prevalence of Psychiatric Disorder in Children and Adolescents Risk and Resilience The Goals and Types of Prevention Developmental Discontinuity, Divergent Development, and Equifinality School Dropout: A Potential Focus for Intervention Empirically Based Programmes for the Prevention of High School Dropout The Characteristics of Successful Intervention Programmes The Need for Research Planning an Effective Programme Cost-Effectiveness and Cost-Benefit Analyses The Ethics of Intervention The Future References Introduction Objective Method Results Discussion Conclusion References Summary Search Strategies The Incidence and Prevalence of Traumatic Stress Predictors of Response in Child Victims of Trauma Practice Parameters for the Assessment and Treatment of Children and Adolescents with PTSD The Concept of Resilience The Road to Positive Psychology Well-Being Therapy A Will to Meaning Optimism Hope Other Strategies Fostering Resilience References Introduction Method Results Discussion Conclusions Acknowledgment References General Aspects of Violence and School Violence Epidemiology Etiology: Risk and Background Factors Intervention and Prevention Conclusions Acknowledgments References
+ER  - 
+
+TY  - JOUR
+AU  - Kochunov, Peter
+AU  - Fu, Mao
+AU  - Nugent, Katie
+AU  - Wright, Susan N.
+AU  - Du, Xiaoming
+AU  - Muellerklein, Florian
+AU  - Morrissey, Mary
+AU  - Eskandar, George
+AU  - Shukla, Dinesh K
+AU  - Jahanshad, Neda
+AU  - Thompson, Paul M.
+AU  - Patel, Binish
+AU  - Postolache, Teodor T.
+AU  - Strauss, Kevin A.
+AU  - Shuldiner, Alan R.
+AU  - Mitchell, Braxton D.
+AU  - Hong, L. Elliot
+TI  - Heritability of complex white matter diffusion traits assessed in a population isolate
+JO  - Human Brain Mapping
+JA  - Hum. Brain Mapp.
+VL  - 37
+IS  - 2
+SN  - 9780470512456
+UR  - https://doi.org/10.1002/hbm.23047
+DO  - doi:10.1002/hbm.23047
+SP  - 525
+EP  - 535
+KW  - DTI
+KW  - DWI
+KW  - heritability
+KW  - genetics
+KW  - imaging
+PY  - 2016
+AB  - Abstract Introduction Diffusion weighted imaging (DWI) methods can noninvasively ascertain cerebral microstructure by examining pattern and directions of water diffusion in the brain. We calculated heritability for DWI parameters in cerebral white (WM) and gray matter (GM) to study the genetic contribution to the diffusion signals across tissue boundaries. Methods Using Old Order Amish (OOA) population isolate with large family pedigrees and high environmental homogeneity, we compared the heritability of measures derived from three representative DWI methods targeting the corpus callosum WM and cingulate gyrus GM: diffusion tensor imaging (DTI), the permeability-diffusivity (PD) model, and the neurite orientation dispersion and density imaging (NODDI) model. These successively more complex models represent the diffusion signal modeling using one, two, and three diffusion compartments, respectively. Results We replicated the high heritability of the DTI-based fractional anisotropy (h2?=?0.67) and radial diffusivity (h2?=?0.72) in WM. High heritability in both WM and GM tissues were observed for the permeability-diffusivity index from the PD model (h2?=?0.64 and 0.84), and the neurite density from the NODDI model (h2?=?0.70 and 0.55). The orientation dispersion index from the NODDI model was only significantly heritable in GM (h2?=?0.68). Conclusion DWI measures from multicompartmental models were significantly heritable in WM and GM. DWI can offer valuable phenotypes for genetic research; and genes thus identified may reveal mechanisms contributing to mental and neurological disorders in which diffusion imaging anomalies are consistently found. Hum Brain Mapp 37:525?535, 2016. ? 2015 Wiley Periodicals, Inc.
+ER  - 
+
+C7  - pp. 109-118
+TI  - Attachment and Sexuality
+SN  - 9780470019429
+UR  - https://doi.org/10.1002/9781118321102.ch10
+DO  - doi:10.1002/9781118321102.ch10
+SP  - 109-118
+KW  - deregulation
+KW  - sexuality
+KW  - somatic sphere
+KW  - trauma
+KW  - uncanny
+PY  - 2016
+AB  - Summary In this chapter, the author reframes the self-preservation system and moves it away from the natural vital order to show how it is a vital body set-up derived from the other who regulates the biological processes through attachment and cultural habit. She also identifies how the relation with the other, and therefore also a vital set-up, results in deregulation which is both sexual and related to trauma. A state of Unheimlich can be interpreted as a state of feeling not at home in the hearth of the home; it is used in the discussion of the somatic symptom to suggest feeling radically estranged on somatic sensory states and in one's own body, bringing otherness, which is at the heart of somatic being, to the fore. In the context of the uncanny, it means feeling uncomfortable and strange in one's own body.
+ER  - 
+
+TY  - JOUR
+AU  - Vanek, Vincent W.
+AU  - Borum, Peggy
+AU  - Buchman, Alan
+AU  - Fessler, Theresa A.
+AU  - Howard, Lyn
+AU  - Jeejeebhoy, Khursheed
+AU  - Kochevar, Marty
+AU  - Shenkin, Alan
+AU  - Valentine, Christina J.
+AU  - Novel Nutrient Task Force, Parenteral Multi-Vitamin and Multi–Trace Element Working Group
+AU  - American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.) Board of Directors
+TI  - A.S.P.E.N. Position Paper
+JO  - Nutrition in Clinical Practice
+JA  - Nutrition in Clinical Practice
+VL  - 27
+IS  - 4
+SN  - 9780470019429
+UR  - https://doi.org/10.1177/0884533612446706
+DO  - doi:10.1177/0884533612446706
+SP  - 440
+EP  - 491
+KW  - mineral
+KW  - trace elements
+KW  - parenteral nutrition
+KW  - parenteral nutrition solutions
+KW  - vitamins
+PY  - 2012
+AB  - The parenteral multivitamin preparations that are commercially available in the United States (U.S.) meet the requirements for most patients who receive parenteral nutrition (PN). However, a separate parenteral vitamin D preparation (cholecalciferol or ergocalciferol) should be made available for treatment of patients with vitamin D deficiency unresponsive to oral vitamin D supplementation. Carnitine is commercially available and should be routinely added to neonatal PN formulations. Choline should also be routinely added to adult and pediatric PN formulations; however, a commercially available parenteral product needs to be developed. The parenteral multi?trace element (TE) preparations that are commercially available in the U.S. require significant modifications. Single-entity trace element products can be used to meet individual patient needs when the multiple-element products are inappropriate (see Summary/A.S.P.E.N. Recommendations section for details of these proposed modifications).
+ER  - 
+
+AU  - Berent, Allyson
+C7  - pp. 343-350
+TI  - Interventional Management of Canine Malignant Ureteral Obstructions
+SN  - 9781118378281
+UR  - https://doi.org/10.1002/9781118910924.ch31
+DO  - doi:10.1002/9781118910924.ch31
+SP  - 343-350
+KW  - cats
+KW  - dogs
+KW  - malignant ureteral obstructions
+KW  - subcutaneous ureteral bypass (SUB) device
+PY  - 2012
+AB  - Summary Ureteral stent placement for the management of malignant ureteral obstructions has been a mainstay of palliative treatment for humans with non-resectable tumors to preserve renal function. Ureteral stents have also been placed preoperatively for patient stabilization prior to surgical intervention. Urothelial neoplasia in dogs is often complicated by local tumor invasion and obstruction of the urethra, ureters, or both. Nephrostomy tube placement or hemodialysis can provide temporary relief, but radical surgeries have traditionally been the only viable alternative for long-term management in veterinary patients. This chapter describes the placement of a double pigtail ureteral stent as a minimally invasive, long-term treatment option for malignant obstructive neoplasia in dogs and cats. The author has also used this technique in a small number of feline patients with malignant obstructions, though the subcutaneous ureteral bypass (SUB) device is generally preferred in cats.
+ER  - 

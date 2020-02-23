@@ -1,0 +1,421 @@
+
+TY  - JOUR
+AU  - Tartter, Paul Ian
+TI  - Perioperative blood transfusion and colorectal cancer recurrence: A review
+JO  - Journal of Surgical Oncology
+JA  - J. Surg. Oncol.
+VL  - 39
+IS  - 3
+SN  - 0022-4790
+UR  - https://doi.org/10.1002/jso.2930390313
+DO  - doi:10.1002/jso.2930390313
+SP  - 197
+EP  - 200
+KW  - prognostic factors
+KW  - immune suppression
+KW  - operative trauma
+PY  - 1988
+AB  - Abstract Retrospective studies of the relationship between perioperative blood transfusion and colorectal cancer recurrence are reviewed. Perioperative blood transfusion was associated with preoperative anemia, operations for rectal carcinoma, presence of tumor in the right colon, prolonged procedures, and copious blood loss. Control for variables related to blood transfusion and potentially affecting disease recurrence?blood loss, duration of surgery, and magnitude of the procedure?was notably absent from the majority of studies. None of the negative studies had sufficient numbers of both transfused and untransfused patients to reject the hypothesis that blood transfusion is associated with cancer recurrence with statistical validity. No concensus emerged regarding the significance of blood transfusion for the patient with colorectal cancer, and no recommendations concerning the use of blood are justified on the basis of these studies.
+ER  - 
+
+TY  - JOUR
+AU  - Johansson, P. I.
+TI  - Treatment of massively bleeding patients: introducing real-time monitoring, transfusion packages and thrombelastography (TEG®)
+JO  - ISBT Science Series
+VL  - 2
+IS  - 1
+SN  - 1751-2816
+UR  - https://doi.org/10.1111/j.1751-2824.2007.00084.x
+DO  - doi:10.1111/j.1751-2824.2007.00084.x
+SP  - 159
+EP  - 167
+KW  - Haemorrhage
+KW  - TEG®
+KW  - transfusion packages
+PY  - 2007
+AB  - Background? Continued haemorrhage remains a major cause of mortality in massively transfused patients, many of whom develop coagulopathy. When reviewing transfusion practice for these patients at our hospital, more than 10% received a suboptimal transfusion therapy and survivors had a higher platelet count than non-survivors. We therefore speculated whether the blood bank could improve its service and hence improve the outcome. Methods? The blood bank introduced monitoring the delivery of blood products and contacted the clinician provided there was an imbalance in the transfusion practice. For massively bleeding patients, transfusion packages, encompassing 5 red blood cells, 5 fresh frozen plasma and 2 platelet concentrates was introduced to improve haemostatic competence. The thrombelastograph (TEG) was implemented, aiding in the diagnosis and treatment of coagulopathy. Results The fraction of suboptimally transfused patients declined from > 10% to < 3%. The transfusion package administered intraoperatively to patients operated for a ruptured abdominal aortic aneurysm resulted in decreased postoperative transfusion requirements and improved 30-day survival (66% vs. 44%) compared to controls. ?Only performing TEG in patients with a significant bleeding as judged by the anaesthetist reduces the number of analyses by ~85%, whereas those patients with coagulopathy remain identified. The TEG showed 97% predictability in identifying a surgical cause of bleeding in postoperative patients. Ten percent of the massively bleeding trauma patients had hyperfibrinolysis as the major cause of bleeding, whereas 45% were hypercoagulable. Conclusion? The initiatives from the blood bank has improved the transfusion practice and, hence, survival in massively transfused patients at our hospital.
+ER  - 
+
+TY  - JOUR
+AU  - Davis, Jonathan M.
+AU  - El-Haj, Nura
+AU  - Shah, Nimish N.
+AU  - Schwartz, Garry
+AU  - Block, Margaret
+AU  - Wall, James
+AU  - Tidswell, Mark
+AU  - DiNino, Ernest
+TI  - Use of the blood substitute HBOC-201 in critically ill patients during sickle crisis: a three-case series
+JO  - Transfusion
+JA  - Transfusion
+VL  - 58
+IS  - 1
+SN  - 0041-1132
+UR  - https://doi.org/10.1111/trf.14386
+DO  - doi:10.1111/trf.14386
+SP  - 132
+EP  - 137
+PY  - 2018
+AB  - BACKGROUND Red blood cell (RBC) transfusion is an important treatment modality during severe sickle cell crisis (SCC). SCC patients who refuse, or cannot accept, RBCs present a unique challenge. Acellular hemoglobin (Hb)-based oxygen carriers (HBOCs) might be an alternative for critically ill patients in SCC with multiorgan failure due to life-threatening anemia. HBOC-201 (HbO2 Therapeutics) has been administered to more than 800 anemic patients in 22 clinical trials, but use of any HBOCs in critically ill sickle cell patients with organ failure is exceedingly rare. In the United States, HBOC-201 is currently only available for expanded access. CASE REPORT We report three cases of HBOC-201 administered to critically ill sickle cell disease patients in SCC with multiorgan failure, either who refused RBCs (Jehovah's Witnesses) or for whom compatible RBCs were not available. RESULTS Two patients received more than 20 units of HBOC-201, while the other received 6. The 27 units used in the third case equals the largest volume a patient has successfully received to date. All three patients survived to hospital discharge. CONCLUSION These reports suggest that blood substitutes such as HBOC-201 can provide an oxygen bridge in SCC with multiorgan failure, until corpuscular Hb levels recover to meet metabolic demand, and highlight the compelling biochemical properties that warrant further investigation.
+ER  - 
+
+TY  - JOUR
+AU  - Liu, Chunlei
+AU  - Li, Wei
+AU  - Tong, Karen A.
+AU  - Yeom, Kristen W.
+AU  - Kuzminski, Samuel
+TI  - Susceptibility-weighted imaging and quantitative susceptibility mapping in the brain
+JO  - Journal of Magnetic Resonance Imaging
+JA  - J. Magn. Reson. Imaging
+VL  - 42
+IS  - 1
+SN  - 1053-1807
+UR  - https://doi.org/10.1002/jmri.24768
+DO  - doi:10.1002/jmri.24768
+SP  - 23
+EP  - 41
+KW  - MRI, magnetic resonance imaging
+KW  - SWI, susceptibility weighted imaging
+KW  - STI, susceptibility tensor imaging
+KW  - QSM, quantitative susceptibility mapping
+KW  - MSA, magnetic susceptibility anisotropy
+KW  - hemorrhage
+KW  - iron
+KW  - myelin
+KW  - TBI, traumatic brain injury
+KW  - multiple sclerosis
+KW  - stroke
+PY  - 2015
+AB  - Susceptibility-weighted imaging (SWI) is a magnetic resonance imaging (MRI) technique that enhances image contrast by using the susceptibility differences between tissues. It is created by combining both magnitude and phase in the gradient echo data. SWI is sensitive to both paramagnetic and diamagnetic substances which generate different phase shift in MRI data. SWI images can be displayed as a minimum intensity projection that provides high resolution delineation of the cerebral venous architecture, a feature that is not available in other MRI techniques. As such, SWI has been widely applied to diagnose various venous abnormalities. SWI is especially sensitive to deoxygenated blood and intracranial mineral deposition and, for that reason, has been applied to image various pathologies including intracranial hemorrhage, traumatic brain injury, stroke, neoplasm, and multiple sclerosis. SWI, however, does not provide quantitative measures of magnetic susceptibility. This limitation is currently being addressed with the development of quantitative susceptibility mapping (QSM) and susceptibility tensor imaging (STI). While QSM treats susceptibility as isotropic, STI treats susceptibility as generally anisotropic characterized by a tensor quantity. This article reviews the basic principles of SWI, its clinical and research applications, the mechanisms governing brain susceptibility properties, and its practical implementation, with a focus on brain imaging. J. Magn. Reson. Imaging 2015;42:23?41. ? 2014 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Kirmizis, D.
+AU  - Papagianni, A.
+AU  - Belechri, A.M.
+AU  - Alexopoulos, E.
+AU  - Memmos, D.
+TI  - Effect of Vitamin E Dialyzer Membrane on Anemia in Hemodialysis Patients
+JO  - Hemodialysis International
+VL  - 8
+IS  - 1
+SN  - 1492-7535
+UR  - https://doi.org/10.1111/j.1492-7535.2004.0085ay.x
+DO  - doi:10.1111/j.1492-7535.2004.0085ay.x
+SP  - 97
+EP  - 98
+PY  - 2004
+AB  - Red blood cell (RBC) survival in patients on chronic maintenance hemodialysis (HD) has been reported to be shortened due to the oxidative damage of RBC membrane. The use of antioxidants might help in the control of anemia and reduce the erythropoietin (EPO) dose needed. Objective:? The objective was to determine the effects of vitamin E-bonded dialyzer membrane (VEM) on anemia and EPO requirements in chronic HD patients. Patients and methods:? We prospectively studied 19 stable patients on HD (8 males, age 58.47, range 31?76 years) who were shifted from other dialyzer membranes to VEM for 6 months. At baseline they were given a mean dose of EPO of 90.6?±?51?U?kg?1 BW?1?week?1. Clinical data, dry body weight corrected pre-dialysis RBC, hemoglobin, reticulocytes, serum iron and ferritin, complete biochemistry, iPTH, and CRP were studied at 3 and 6 months, while therapy scheme was reevaluated monthly. Results:? A significant rise, compared to the baseline, was found in hemoglobin and in RBC at 3 months of treatment (12.44?±?1.16?g/dL vs. 11.2?±?1.2?g/dL, p?=?0.002; and 4.01?± 0.53???106/?L vs. 3.64?±?0.5???106/?L, p?<?0.05) and at the end of follow-up (12.17?±?1.33?g/dL vs. 11.2?±?1.2?g/dL, p?<?0.05; and 4.03?±?0.53 ??106/?L vs. 3.64?±?0.5???106/?L, p?<?0.05). No significant change in serum iron and ferritin, reticulocytes, EPO dose used, iPTH, Kt/V, or CRP was found at the end of follow-up compared to the baseline (68.8?±?17?mg/dL vs. 67.9 ±?18?mg/dL, p?=?NS; 421?±?296?mg/dL vs. 478?± 359?mg/dL, p?=?NS; 3.76?±?0.89???104/?L vs. 3.82?±?0.78 ??104/?L, p?=?NS; 90.2?±?53?U?kg?1?BW?1?week?1 vs. 90.6?±?51 U?kg?1?BW?1?week?1, p?=?NS; 157?±?43?pg/dL vs. 148?±?56?pg/dL, p?=?NS; 1.21?±?0.22 vs. 1.2?±?0.17, p?=?NS; 7.15?± 5.42?mg/L vs. 15.38?±?29.8?mg/L, p?=?NS, respectively). Conclusions:? Despite the small number of patients and the short time interval of treatment, an antioxidant effect of VEM apparently achieved early a better control of anemia in HD patients.
+ER  - 
+
+TY  - JOUR
+TI  - Plenary Session III: Maladaptive Neuroplasticity in Stress and Epilepsy  8:15 a.m.–10:15 a.m.
+JO  - Epilepsia
+VL  - 46
+IS  - s8
+SN  - 0013-9580
+UR  - https://doi.org/10.1111/j.1528-1167.2005.460801_42.x
+DO  - doi:10.1111/j.1528-1167.2005.460801_42.x
+SP  - 373
+EP  - 373
+PY  - 2005
+AB  - 1 Tallie Z. Baram, 1 Kristen L. Brunson, 1 Celine Dube, 1 Sarit Avishai-Eliner, and 1 Kristina A. Fenoglio ( 1 Pediatrics, Anatomy/ Neurobiology, UCI, Irvine, CA ) Seizures often arise in the setting of an acute injury or insult. In addition, many of the epilepsies are ?symptomatic?, i.e., they occur in individuals who had sustained injury or insult such as infection, trauma, or stroke. The mechanisms by which diverse factors such as infection or trauma provoke both acute seizures and recurrent, chronic seizures (epilepsy) are not fully understood. To some extent, each of these insults may initiate a unique chain of events that promotes epilepsy. However, these insults also share commonalities that set in motion cellular and molecular changes that promote neuronal hyperexcitability: All these epilepsy- provoking insults are stressful, in that they trigger the release and actions of ?stress-mediating molecules?, including glucocorticoids and the intrinsic central nervous system (CNS) stress-activated neuro-peptide, corticotropin releasing hormone (CRH). Stress induces release of CRH from hippocampal interneurons, and CRH acts on selective receptors (CRF-R1) to enhance glutamate-mediated neurotransmission. In immature hippocampus, CRH and the CRH receptors are particularly abundant, so that the peptide may excite neurons sufficiently to evoke seizures, followed by dendritic atrophy or death of vulnerable neurons. In animal models, chronic enhancement of CRH levels within the developing hippocampus, may result in enduring reduction of hippocampus- governed learning and memory function. Such levels might be found in infants with chronic CNS stressors including congenital infection, dysplasia, trauma or recurrent seizures. Indeed, drugs that downregulate CRH levels in limbic structures (e.g., ACTH) are potent antiepileptics in the developing CNS. In summary, acute and chronic stress elicits the release of pro-excitatory molecules (CRH), promoting seizures. These further activate the ?stress response?, leading to a vicious cycle culminating in loss of neuronal function and integrity.
+ER  - 
+
+TY  - JOUR
+AU  - Kjolseth, Dorthe
+AU  - Kim, Michael K.
+AU  - Andresen, Louise H.
+AU  - Morsing, Annie
+AU  - Frank, Johannes M.
+AU  - Schuschke, Dale
+AU  - Anderson, Gary L.
+AU  - Banis Jr., Joseph C.
+AU  - Tobin, Gordon R.
+AU  - Weiner, Leonard J.
+AU  - Hjortdal, Vibeke E.
+AU  - Barker, John H.
+TI  - Direct visualization and measurements of wound neovascularization: Application in microsurgery research
+JO  - Microsurgery
+JA  - Microsurgery
+VL  - 15
+IS  - 6
+SN  - 0738-1085
+UR  - https://doi.org/10.1002/micr.1920150606
+DO  - doi:10.1002/micr.1920150606
+SP  - 390
+EP  - 398
+PY  - 1994
+AB  - Abstract Neovascularization or angiogenesis is an essential yet poorly understood component of the healing process. In wound healing research, there is a lack of models enabling quantitative and continuous measurements of wound neovascul-arization. The hairless mouse ear wound model permits quantitative measurements of wound epithelialization and neovascularization continuously throughout the healing process. On the ears of male homozygous (hr/hr) hairless mice, standardized circular full thickness dermal wounds are produced; then, using vital microscopy, these two processes are directly viewed and measured at day 0 and every third day thereafter until these are complete. This model system and its application to clinically relevant situations are reviewed. ? 1994 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Cross, K
+AU  - Leonardi, L
+AU  - Fish, J
+AU  - Sowa, M
+AU  - Gomez, M
+AU  - Payette, J
+AU  - Hastings, M
+TI  - 039 Determination of Burn Depth using near Infrared Spectroscopy
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractal.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractal.x
+SP  - A12
+EP  - A12
+PY  - 2004
+AB  - Introduction: Burn depth, based on the hemodynamic alterations that occur following a thermal insult, can be assessed in a rapid, non-invasive, and nondestructive fashion using near infrared (NIR) spectroscopy. NIR has the capability to determine the difference between superficial and full thickness burn injuries. Methods: Sixteen burn patients admitted to an adult regional burn center were studied and evaluated with the NIR point and imaging devices. Non-burned skin adjacent to the burn site was used as the control. NIR measurements were compared between superficial (8 wounds), full thickness (8 wounds) burn wounds and control sites. Results: NIR was able to easily detect an increase in oxyhemoglobin (68.3%, p?<?0.05), oxygen saturation (4.8%, p?<?0.05%) and total hemoglobin (91.3%, p?<?0.05) which typically occurs with superficial burn injuries. Full thickness injuries experienced a substantial drop in oxyhemoglobin (88.8%, p?<?0.05), oxygen saturation (79.1%, p?<?0.05) and total hemoglobin (77.5%, p?<?0.05) in comparison to control sites. Conclusions: These results confirm that NIR spectroscopy can successfully distinguish between superficial and full thickness burn injuries. The second phase of this study will involve determining the depth of indeterminant burn wounds and this preliminary data will also be presented. Acknowledgement: National Research Council of Canada
+ER  - 
+
+TY  - JOUR
+AU  - LONGHURST, D.M.
+AU  - GOOCH III, W.M.
+AU  - CASTILLO, R.A.
+TI  - In vitro evaluation of a pediatric microaggregate blood filter
+JO  - Transfusion
+VL  - 23
+IS  - 2
+SN  - 0041-1132
+UR  - https://doi.org/10.1046/j.1537-2995.1983.23283172861.x
+DO  - doi:10.1046/j.1537-2995.1983.23283172861.x
+SP  - 170
+EP  - 172
+PY  - 1983
+AB  - ABSTRACT: Use of a pediatric stainless steel microaggregate screen filter to filter whole blood, gravity-sedimented packed cells, and centrifuged packed cells (cPC) from 20 healthy adults resulted in excessive levels of hemolysis (to 1477.9 mg/dl plasma hemoglobin with 5-day-old cPC) and unacceptable frequency of occlusion (10 to 40 percent).
+ER  - 
+
+C7  - pp. 53-65
+TI  - Urine Chemistry
+SN  - 9781119110354
+UR  - https://doi.org/10.1002/9781119365693.ch3
+DO  - doi:10.1002/9781119365693.ch3
+SP  - 53-65
+KW  - colorimetric reagents
+KW  - dipstick test pad
+KW  - enzymatic reaction
+KW  - peroxidase substrate
+KW  - semi-automated instruments
+KW  - urine chemistry analysis
+KW  - urine protein pad
+PY  - 1983
+AB  - Abstract The urine chemistry analysis in dogs and cats is performed using commercially available urine chemistry test strips impregnated with colorimetric reagents. Several semi-automated instruments are commercially available for reading reagent test strips. The urine protein pad contains pH-based indicator dye at acidic pH and, when bound to the amino groups of negatively charged proteins, it changes color. Results of the urine test pad are often interpreted in conjunction with the urine specific gravity because the concentration of the urine protein is closely associated with the concentration or dilution of the urine. The test pad detects the presence of glucose by an enzymatic reaction involving glucose oxidase that results in a color change proportional to the amount of glucose present. The dipstick test pad for blood contains a peroxidase substrate which reacts with heme molecules contained in compounds such as hemoglobin and myoglobin, and in erythrocytes.
+ER  - 
+
+TY  - JOUR
+AU  - Garcia, Angelica
+AU  - Yi, Nam-Joon
+AU  - Lee, Kyoung Bun
+AU  - Lee, Jeong-Moo
+AU  - Choi, Young Rok
+AU  - Suh, Suk-Won
+AU  - You, Tae
+AU  - Lee, Kwang-Woong
+AU  - Park, June Dong
+AU  - Kang, Hyoung Jin
+AU  - Kim, Joon Gon
+AU  - Kang, Eun Kyeong
+AU  - Hong, Geun
+AU  - Suh, Kyung-Suk
+TI  - Fulminant hepatitis linked to dapsone hypersensitivity syndrome requiring urgent living donor liver transplantation: A case report
+JO  - Pediatric Transplantation
+JA  - Pediatr Transplantation
+VL  - 18
+IS  - 7
+SN  - 9781119110354
+UR  - https://doi.org/10.1111/petr.12343
+DO  - doi:10.1111/petr.12343
+SP  - E240
+EP  - E245
+KW  - fulminant hepatitis
+KW  - dapsone hypersensitivity syndrome
+KW  - liver transplant
+KW  - pigmented purpuric dermatosis
+PY  - 2014
+AB  - Abstract Dapsone is a sulfone-type drug used widely for different infectious, immune, and hypersensitivity disorders as an antibacterial treatment alone or in combination for leprosy and sometimes for infected skin lesions. DHS is a severe idiosyncratic adverse reaction with multi-organ involvement. However, acute necrotic hepatitis requiring an emergent LT is rare. Herein, we report a case of 12-yr-old girl who suffered from fulminant hepatitis and multi-organ failure due to DHS for PPD. She was saved by emergent LDLT. A high index of suspicion and rapid diagnosis are necessary not to miss this potentially lethal but rare disease.
+ER  - 
+
+TY  - JOUR
+AU  - Hernandez, Alfredo
+AU  - Donovan, Virgina
+AU  - Grinberg, Yelena Y.
+AU  - Obenaus, Andre
+AU  - Carson, Monica J.
+TI  - Differential detection of impact site versus rotational site injury by magnetic resonance imaging and microglial morphology in an unrestrained mild closed head injury model
+JO  - Journal of Neurochemistry
+JA  - J. Neurochem.
+VL  - 136
+IS  - S1
+SN  - 9781119110354
+UR  - https://doi.org/10.1111/jnc.13402
+DO  - doi:10.1111/jnc.13402
+SP  - 18
+EP  - 28
+KW  - confocal microscopy
+KW  - traumatic brain injury
+KW  - T2-weighted imaging
+KW  - neuroinflammation
+PY  - 2016
+AB  - Abstract Seventy-five percent of all traumatic brain injuries are mild and do not cause readily visible abnormalities on routine medical imaging making it difficult to predict which individuals will develop unwanted clinical sequelae. Microglia are brain-resident macrophages and early responders to brain insults. Their activation is associated with changes in morphology or expression of phenotypic markers including P2Y12 and major histocompatibility complex class II. Using a murine model of unrestrained mild closed head injury (mCHI), we used microglia as reporters of acute brain injury at sites of impact versus sites experiencing rotational stress 24 h post-mCHI. Consistent with mild injury, a modest 20% reduction in P2Y12 expression was detected by quantitative real-time PCR (qPCR) analysis but only in the impacted region of the cortex. Furthermore, neither an influx of blood-derived immune cells nor changes in microglial expression of CD45, TREM1, TREM2, major histocompatibility complex class II or CD40 were detected. Using magnetic resonance imaging (MRI), small reductions in T2 weighted values were observed but only near the area of impact and without overt tissue damage (blood deposition, edema). Microglial morphology was quantified without cryosectioning artifacts using ScaleA2 clarified brains from CX3CR1-green fluorescence protein (GFP) mice. The cortex rostral to the mCHI impact site receives greater rotational stress but neither MRI nor molecular markers of microglial activation showed significant changes from shams in this region. However, microglia in this rostral region did display signs of morphologic activation equivalent to that observed in severe CHI. Thus, mCHI-triggered rotational stress is sufficient to cause injuries undetectable by routine MRI that could result in altered microglial surveillance of brain homeostasis. Acute changes in microglial morphology reveal brain responses to unrestrained mild traumatic brain injury In areas subjected to rotational stress distant from impact site In the absence of detectable changes in standard molecular indicators of brain damage, inflammation or microglial activation. That might result in decreased surveillance of brain function and increased susceptibility to subsequent brain insults.
+ER  - 
+
+TY  - JOUR
+AU  - Wun, L. P. S.
+AU  - Jacob, J.
+AU  - Boseto, F.
+TI  - TS19P STUDY OF THE PATTERN OF INTRA-ABDOMINAL SOLID ORGAN INJURY – A FIVE-YEAR CENTRAL AUSTRALIA EXPERIENCE
+JO  - ANZ Journal of Surgery
+VL  - 77
+IS  - s1
+SN  - 9781119110354
+UR  - https://doi.org/10.1111/j.1445-2197.2007.04133_19.x
+DO  - doi:10.1111/j.1445-2197.2007.04133_19.x
+SP  - A97
+EP  - A97
+PY  - 2007
+AB  - Purpose? This study aimed to evaluate the pattern of solid intra-abdominal organ injuries in Central Australia, with focus on the mechanism of injury, Injury Severity Score (ISS), distribution of injury, role of surgical intervention and their outcome. It aimed to assess if difference exists in the above perimeters between the indigenous and non-indigenous population. Methodology? This is a retrospective analysis of a selected group of patients as identified by ICD Codes. Database has been created for patients admitted with renal, pancreatic, hepatic and splenic trauma over a five-year period (2001?2005). Data on demographics, mechanism of injury, distribution of injury, length of stay and ISS has been collected. Results? Seventy-one patients has been identified, with 51 (72%) indigenous and 20 (28%) non-indigenous. 29 patients (41%) were involved in a Motor Vehicle Accident and 33 (46%) were assaulted. There is no statistical difference with the distribution of injury and ISS amongst indigenous and non-indigenous populations. However there appears to have a higher incidence of surgical intervention associated with the indigenous group (28.8% versus 12.5%). This may be explained by the compliance rate as 29.4% of indigenous patients left against medical advice as compared with 0% with the non-indigenous group. Conclusion? The mechanism, pattern and severity of injury appear to be comparable amongst the indigenous and non-indigenous population in Central Australia. However there is a difference in their incidence of surgical intervention. ISS may not be as useful in prediction for need for intervention in this group and a different approach to trauma management may need to be tailored to this population.
+ER  - 
+
+TY  - JOUR
+AU  - Detterich, Jon A.
+AU  - Kato, Roberta
+AU  - Bush, Adam
+AU  - Chalacheva, Patjanaporn
+AU  - Ponce, Derek
+AU  - De Zoysa, Madushka
+AU  - Shah, Payal
+AU  - Khoo, Michael C.
+AU  - Meiselman, Herbert J.
+AU  - Coates, Thomas D.
+AU  - Wood, John C.
+TI  - Sickle cell microvascular paradox—oxygen supply-demand mismatch
+JO  - American Journal of Hematology
+JA  - Am J Hematol
+VL  - 94
+IS  - 6
+SN  - 9781119110354
+UR  - https://doi.org/10.1002/ajh.25476
+DO  - doi:10.1002/ajh.25476
+SP  - 678
+EP  - 688
+PY  - 2019
+AB  - Abstract We have previously demonstrated that sickle cell disease (SCD) patients maintain normal global systemic and cerebral oxygen delivery by increasing cardiac output. However, ischemic end-organ injury remains common suggesting that tissue oxygen delivery may be impaired by microvascular dysregulation or damage. To test this hypothesis, we performed fingertip laser Doppler flowmetry measurements at the base of the nailbed and regional oxygen saturation (rSO2) on the dorsal surface of the same hand. This was done during flow mediated dilation (FMD) studies in 26 chronically transfused SCD, 75 non-transfused SCD, and 18 control subjects. Chronically transfused SCD patients were studied prior to and following a single transfusion and there was no acute change in rSO2 or perfusion. Laser Doppler estimates of resting perfusion were 76% higher in non-transfused and 110% higher in transfused SCD patients, compared to control subjects. In contrast, rSO2 was 12 saturation points lower in non-transfused SCD patients, but normal in the transfused SCD patients. During cuff occlusion, rSO2 declined at the same rate in all subjects suggesting similar intrinsic oxygen consumption rates. Upon cuff release, laser doppler post occlusive hyperemia was blunted in SCD patients in proportion to their resting perfusion values. Transfusion therapy did not improve the hyperemia response. FMD was impaired in SCD subjects but partially ameliorated in transfused SCD subjects. Taken together, non-transfused SCD subjects demonstrate impaired conduit artery FMD, impaired microcirculatory post-occlusive hyperemia, and resting hypoxia in the hand despite compensated oxygen delivery, suggesting impaired oxygen supply-demand matching. Transfusion improves FMD and oxygen supply-demand matching but not microcirculation hyperemic response.
+ER  - 
+
+TY  - JOUR
+AU  - Liu, Patricia
+AU  - Hum, Justine
+AU  - Jou, Janice
+AU  - Scanlan, Richard M.
+AU  - Shatzel, Joseph
+TI  - Transfusion strategies in patients with cirrhosis
+JO  - European Journal of Haematology
+JA  - Eur J Haematol
+VL  - 104
+IS  - 1
+SN  - 9781119110354
+UR  - https://doi.org/10.1111/ejh.13342
+DO  - doi:10.1111/ejh.13342
+SP  - 15
+EP  - 25
+KW  - blood coagulation disorders
+KW  - blood component transfusion
+KW  - gastrointestinal hemorrhage
+KW  - liver cirrhosis
+KW  - viscoelastic testing
+PY  - 2020
+AB  - Abstract Bleeding related to portal hypertension and coagulopathy is a common complication in patients with cirrhosis. Complications and management of bleeding is a significant source of healthcare cost and utilization, as well as morbidity and mortality. Due to the scarcity of evidence surrounding transfusion strategies and hemostatic interventions in patients with cirrhosis, there has been significant debate regarding the best practice. Emerging data suggest that evidence supporting transfusion of packed red blood cells to a hemoglobin threshold of 7-8 g/dL is strong. thrombopoietin (TPO) receptor agonists have shown promise in increasing platelet levels and reducing transfusions preprocedurally, although have not specifically been found to reduce bleeding risk. Data for viscoelastic testing (VET)-guided transfusions appear favorable for reducing blood transfusion requirements prior to minor procedures and during orthotopic liver transplantation. Hemostatic agents such as recombinant factor VIIa, prothrombin complex concentrates, and tranexamic acid have been examined but their role in cirrhotic patients is unclear. Other areas of growing interest include balanced ratio and whole blood transfusion. In the following manuscript, we summarize the most up to date evidence for threshold-guided, VET-guided, balanced-ratio, and whole blood transfusions as well as the use of hemostatic agents in cirrhotic patients to provide practice guidance to clinicians.
+ER  - 
+
+TY  - JOUR
+AU  - Vans Wessem, K. J. P.
+AU  - Mackay, P. J.
+AU  - Balogh, Z.
+TI  - TS08 PROSPECTIVE VALIDATION OF THE INDEPENDENT PREDICTORS FOR POSTINJURY INTRA-ABDOMINAL HYPERTENSION
+JO  - ANZ Journal of Surgery
+VL  - 77
+IS  - s1
+SN  - 9781119110354
+UR  - https://doi.org/10.1111/j.1445-2197.2007.04133_8.x
+DO  - doi:10.1111/j.1445-2197.2007.04133_8.x
+SP  - A94
+EP  - A94
+PY  - 2007
+AB  - Purpose? Prospective validation of recently established independent predictors for postinjury abdominal compartment syndrome (ACS) was performed. Methodology? All trauma patients who met inclusion criteria (ICU admission, ISS?>?15, Base Deficit (BD)?>?5, or resuscitation with >5?L crystalloids) were prospectively monitored. Patients with isolated head injuries were excluded. Demographics, ISS, resuscitation fluids, physiological parameters, intra-abdominal pressure (IAP) and the independent predictors in two time windows ?ED discharge?[SBP, crystalloids, Time-to OR, transfusions] and ?ICU admission?[crystalloids, urine output (UO), Hb, Temperature, BD] were collected. Data are presented as mean ?±? SEM, p?<?0.05 considered significant. Results? Twenty-two blunt trauma patients were monitored (Age 39?±?5 years, 77% males, ISS 32?±?2, SBP 107?±?5 mmHg, BD 7?±?1). No patients developed ACS. Seven patients developed IAH (IAP?>?20?mmHg). IAH and non-IAH patients had the same age (41?±?7 vs 37?±?5?yrs) and admission BD (7.5?±?1.3 vs 6.3?±?1.2). IAH patients had higher ISS than non-IAH patients (39?±?3 vs 30?±?2). Outcomes (IAH vs non-IAH): ICU LOS (39?±?3 vs 30?±?2), Mortality (0% vs 7%), MOF (29% vs 0%). ?ED-discharge predictors?: The IAH and non-IAH patients had similar admission SBP, ED crystalloid volume, transfusions and ED time. ?ICU-admission predictors?: IAH and non-IAH patients had similar UO, crystalloid infusions, BD, temperature but the IAH group had lower Hb (99?±?5 vs 111?±?3?g/dl) than the non-IAH patients. Conclusions? The incidence of ACS decreased from 14% to 0% in a comparable population. The predictors for ACS did not predict IAH. After the elimination of the lethal ACS, the clinical importance of postinjury IAH has to be defined.
+ER  - 
+
+TY  - JOUR
+AU  - Donohue, K.
+AU  - Nori, S.
+AU  - Wilkel, C.
+AU  - Falanga, V.
+AU  - Badiavas, E.
+TI  - Penicillamine-Induced Panniculitis with Lipomembranous Fat Necrosis
+JO  - Journal of Cutaneous Pathology
+VL  - 32
+IS  - 1
+SN  - 9781119110354
+UR  - https://doi.org/10.1111/j.0303-6987.2005.320bk.x
+DO  - doi:10.1111/j.0303-6987.2005.320bk.x
+SP  - 85
+EP  - 85
+PY  - 2005
+AB  - A 43-year-old female with progressive systemic sclerosis developed painful subcutaneous nodules proximally on her extremities which spread distally to her shins. Initially tender, they became red and evolved to painless, red-brown nodules. She had been taking penicillamine for 19 months and was on no other medication or supplements. History and physical exam revealed no evidence of infection, trauma, injection, or significant travel. Incisional biopsy of an acute nodule demonstrated septal panniculitis, with extensive lipomembranous change, and an associated brisk granulomatous infiltrate with multinucleated foreign-body like giant cells. Deeper adipose tissue demonstrated fibrosed thickened septae with an inflammatory cell infiltrate, consistent with scleroderma profundus. Further studies revealed no infectious organisms, or refractile material. The lesions cleared 3 weeks after stopping penicillamine. She declined a re-challenge and has been disease free for a year. Lipomembranous fat changes are identified in about 5% of subcutaneous inflammatory disorders; most frequently in venous insufficiency, and also with morphea, lupus pannicultis, erythema nodosum, necrobiosis lipoidica and trauma. Panniculitis with lipomembranous fat changes similar to this case has been reported in a patient with systemic sclerosis on norethisterone acetate. This is a rare and interesting case of penicillamine-induced panniculitis.
+ER  - 
+
+TY  - JOUR
+AU  -  Price, J
+AU  - Clarke, N
+AU  - Welsh, E M
+AU  - Waran, N
+TI  - Preliminary evaluation of subjective scoring systems for assessment of postoperative pain in horses
+JO  - Veterinary Anaesthesia and Analgesia
+VL  - 30
+IS  - 2
+SN  - 9781119110354
+UR  - https://doi.org/10.1046/j.1467-2995.2003.00132_15.x
+DO  - doi:10.1046/j.1467-2995.2003.00132_15.x
+SP  - 97
+EP  - 97
+PY  - 2003
+AB  - This study examined the performance of two subjective pain scoring systems for evaluating equine postoperative pain, and investigated differences in pain scoring tendencies of veterinarians and grooms. Fifteen horses were included in the study. Group 1 (n?=?8) had chronic lameness and was admitted for elective arthroscopy under general anaesthesia, on one or two femoropatellar, femorotibial or tibiotarsal joint or digital flexor tendons. The anaesthetic protocol for each horse was similar but not standardized. Multi-modal peri-operative analgesia comprised: romifidine (100?µg?kg?1 IV); flunixin (1.1?mg?kg?1 IV); ketamine (2.2?mg?kg?1 IV); morphine (0.12?mg?kg?1 IV); phenylbutazone (4?mg?kg?1 IV/PO). Group 2 (n?=?7) included pain free controls. At 6?hours post-recovery from anaesthesia (PR) (group 1) or at 20.00?hours (group 2 with one limb bandaged), horses were filmed undisturbed in their stables for 90?seconds (dynamic behaviour, DB); thereafter, the surgery site and pharynx of each horse were palpated (and filmed) in a standardized manner (interactive behaviour, IB). Two observer groups, seven veterinarians and eight grooms, watched video footage of each horse and assigned pain scores using a visual analog scale (VAS) and a numerical rating scale (NRS). Observers assigned a pain score (VAS and NRS) for DB and IB separately and overall. Statistical analysis (Minitab 13.0, Wilcoxon signed rank and Mann?Whitney U-tests) investigated differences in pain scores attributed to groups 1 and 2 horses, compared pain scores assigned by veterinarians and grooms, and examined differences in the performance of VAS and NRS techniques. There were significant differences in the pain scores assigned by veterinarians and grooms to groups 1 and 2 horses. When using DB or IB separately (but not combined) to score perceived pain, grooms assigned higher scores to group 1 than group 2 (U?=?81.5, p?<?0.05; U?=?82.0, p?<?0.05) using the VAS. There was no difference in NRS scores attributed by grooms to groups 1 and 2. Using DB and IB separately or combined, there was no difference in pain scores attributed to groups 1 and 2 by veterinarians using either VAS or NRS scoring systems. Using separate VAS scores for DB (W?=?32.5, p?<?0.05) and IB (W?=?26.5, p?<?0.05) and using combined (DB?+?IB) VAS scores, grooms awarded higher pain scores (W?=?27.0, p?<?0.05) than veterinarians to group 1. Using the NRS, vets and grooms did not score pain differently for group 1. For group 2, grooms scored pain significantly higher than vets when using the VAS to score IB separately (W?=?21.0, p?<?0.05); no other differences between grooms and veterinarians in pain scoring of group 2 (NRS or VAS, DB and IB separately or combined) were identified. The performance of subjective pain scoring systems for assessment of equine postoperative pain varies according to the scale used, the behaviour evaluated (dynamic or interactive) and the observer group. While data suggest that grooms distinguished post-surgery horses from controls more successfully than vets and assigned higher pain scores to these horses, the specific behavioral criteria on which scores were assigned requires future investigation and identification.
+ER  - 
+
+TY  - JOUR
+AU  - Scott, Rolf Sjuve
+AU  - Blank, Kristie L.
+AU  - Proffer, Liana H.
+AU  - Kraus, Eric W
+TI  - Perivascular Myoma of Myofibromatosis and Myopericytoma-Type Arising in a Chronic Scar: A Case Report
+JO  - Journal of Cutaneous Pathology
+VL  - 32
+IS  - 1
+SN  - 9781119110354
+UR  - https://doi.org/10.1111/j.0303-6987.2005.320gq.x
+DO  - doi:10.1111/j.0303-6987.2005.320gq.x
+SP  - 115
+EP  - 115
+PY  - 2005
+AB  - We describe a case of a cutaneous perivascular myoma with features overlapping between the myofibromatosis and the myopericytoma type. The patient is a 58-year-old female with a painless plaque-like and multinodular lesion in the pretibial dermis. She reported repeated trauma to this site, first in her early youth that left an area of hyperpigmentation, and then again at age 40. She had noticed the appearance of nodules in this area 5 years prior to presentation, which had increased in size and number over the last six months. The biopsy showed a biphasic pattern with a myofibromatosis type component composed of spindle cell myoid nodules and more cellular round cell areas. The myopericytoma-like areas appeared to be infiltrating along vessels. These areas contained aggregates of immature cells arranged concentrically around vascular lumina reminiscent of pericytes. Immunohistochemical stains showed focal positivity for smooth muscle actin. Immunohistochemical and ultrastructural studies have shown these pericyte-like cells to be of a myoid origin. The reason for the neoplastic proliferation of perivascular myoid cells is presently unknown. The association of trauma and neoplastic transformation of the skin is rare. We report the first case of a cutaneous perivascular myoma arising in a chronic scar.
+ER  - 
+
+TY  - JOUR
+AU  - Warady, B.A.
+AU  - Nelms, C.
+AU  - Jennings, J.
+AU  - Johnson, S.
+TI  - Kinetics, Dialysis Systems, and Adequacy  Copper deficiency: A common cause of erythropoietin (rHuEPO) resistant anemia in children on hemodialysis (HD)?
+JO  - Hemodialysis International
+VL  - 9
+IS  - 1
+SN  - 9781119110354
+UR  - https://doi.org/10.1111/j.1492-7535.2005.1121ca.x
+DO  - doi:10.1111/j.1492-7535.2005.1121ca.x
+SP  - 99
+EP  - 99
+PY  - 2005
+AB  - Copper (CU) deficiency, as reflected by a low serum CU and ceruloplasmin (CER) level, is a rare complication of chronic HD. When present, common clinical manifestations include anemia and neutropenia. Anecdotally, CU deficiency has been linked to the use of sevelamer hydrochloride (SH), a recently introduced phosphate binding agent. The finding of severe CU deficiency and rHuEPO-resistant anemia in 3 of our patients (pts) prompted a review of our entire pediatric HD population for the frequency of CU deficiency and its possible relationship to SH. An assessment of serum CU was conducted in 17 pts (male-11; mean age 169.4?+?49.6?mo) who had received HD for 21.5?+?33.9 months. All pts received three 4-hour HD sessions weekly with mean single-pool and equilibrated Kt/V values of 2.29?+?2.5 and 1.56?+?0.37, respectively. 14 of 17 (82%) pts had low serum CU levels with a mean value of 69.1?+?38.3?mcG/DL (normal?= 85?150?mcG/DL). 9 of 17 (53%) pts had values <60?mcG/DL and 3?pts had values <25?mcG/DL with CER values of 1.2?mg/dL, 0.6?mg/dL, and 1.8?mg/dL, respectively (normal?=?24?40?mg/dL). In the latter 3?pts, hemoglobin values fell to 5.4?gm/dL, 5.2?gm/dL, and 9.2?gm/dL despite regular rHuEPO dosing and adequate iron stores and all pts responded to supplemental CU therapy. The mean hemoglobin of the remaining 14?pts was 11.7?+?1.3?gm/dL. Whereas 13 of 14 (93%) CU deficient pts were receiving SH (142.1?+?112.3?mg/kg/d) for 331.0?+?293.6 days at the time of the CU assessment, there was no significant relationship demonstrated between the dose of SH or the duration of SH therapy and the serum CU level. In conclusion, CU deficiency appears to commonly occur in pediatric HD pts with extremely low values associated with profound anemia responsive to CU therapy. While the chronology of CU deficiency and the introduction of SH suggests an association, additional research is necessary to address this issue in a more definitive manner.
+ER  - 

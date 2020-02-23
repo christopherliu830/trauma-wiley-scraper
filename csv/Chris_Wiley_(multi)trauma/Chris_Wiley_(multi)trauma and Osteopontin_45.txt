@@ -1,0 +1,363 @@
+
+TY  - JOUR
+AU  - Gottlieb, Marc E.
+TI  - 001 Resolving Sternal Wounds by Hardware Fixation
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215a.x
+DO  - doi:10.1111/j.1067-1927.2005.130215a.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - The typical management of ?sternal infection? is sternectomy and flaps. Healed wounds and low mortality are the rule, but problems of surgical morbidity, chest instability, respiratory mechanics, and upper extremity function complicate these procedures. However, when pathophysiology of sternal failure is critically assessed, and contemporary good bone and wound care are applied, results improve. Specifically, the sternotomy is a fracture. Sternal biomechanics after sagittal osteotomy promote nonunion. When the poor fixation of twist wires fails, sternal dehiscence and wound bursitis ensue, typical of any pseudarthrosis. Commonly misinterpreted as ?infection,? the bone remains intrinsically healthy, and these wounds simply need proper wound management until they can be reclosed, and then stable bone fixation with hardware. Experience.? 28 patients had plate-and-screw fixation of the sternum. Original operations: heart surgery, 26?pts (21?m/6?f, ages 44?82); thoracic cancers, 2?pts (42?m, 39?f). Presentation: dehiscence, abscess, open wound, 20?pts (variable acuity, variable surgery-until-complication intervals); healed wounds with instability symptoms, 8?pts. Ten pts had rewirings or other prior procedures which failed. For open wounds or abscess, debridement was followed by a period of open wound care (often outpatient) until suitable for closure. In all but the first 4 patients, hardware fixation used a mandibular plating system with 2.7?mm screws. Flaps and nonautogenous bone grafts were used as needed to fill gaps. Results.? Two early closures failed during intense coughing. The other 26 repairs withstood all postoperative stresses, and the fractures healed. Instability symptoms and disabilities were corrected. Bedside debridements and outpatient wound care kept utilization low in permissible circumstances, with no inpatient days for a few. The habitual indiscriminate designation of all sternal complications as ?infection? is inconsistent with well-understood principles of bone and wound pathology. Most sternums fail due to mechanical dehiscence. With bone preserving wound care followed by rigid internal fixation, as is practiced for all other fractures, outcomes, by all measures, are improved.
+ER  - 
+
+TY  - JOUR
+AU  - Talavera, Dodanim
+AU  - Xiong, Yizhi
+AU  - Zhao, Tong
+AU  - Arias, Ana E.
+AU  - Farkas, Daniel L.
+AU  - Sierra-Honigmann, Rocio
+TI  - 029 Novel Parameters for Computer-Assisted Image Analysis to Study Angiogenesis
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215ac.x
+DO  - doi:10.1111/j.1067-1927.2005.130215ac.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Angiogenesis is a dynamic process that requires interaction of proangiogenic and antiangiogenic factors. Several methodologies have been used to evaluate this process. The quail chorioallantoic membrane (CAM) is a suitable model to explore angiogenesis in vivo. Recently, the morphometric parameters of fractal dimension (Df) and grid intersection (?) are used to quantify angiogenesis in CAM. However, more information is necessary to understand angiogenic mechanisms. New methods to measure additional parameters such as the average blood vessel thickness, tortuousity, total branch length and complexity (junction node number), are described herein. For the analysis, CAM images were obtained from ex ovo culture of E8-E9 quail embryos. MatLab?(The MathWorks, Natick, MA) software was used for the analyses of branches nodes, thickness and length of the forming branches. Conventional morphometry was done using IPLab (Scanalytics, Fairfax, VA). To validate the new parameters, leptin, VEGF and neutralizing antibodies were evaluated. Leptin and VEGF treated CAM had increased complexity and vascular densities (Df?=?1.5?±?0.005; ??=?12.3?±?0.689) and (Df?=?1.6?±?0.006; ??=?14.3?±?0.465), respectively, compared to PBS control (Df?=?1.3?±?0.035; ??=?8.6?±?0.439). There was a corresponding decrease antileptin and anti-VEGF antibodies. The node-structural map applied to CAM images reveled 53% increase in the number of one-branch nodes and 50% increase in three-branch nodes with leptin compared to controls. Additionally, the total branch length was 30% greater with leptin along with a decrease in vessel thickness, The analyses allowed quantification of branching, tortuousity, thickness, and length of the new blood vessels. Together with the conventional morphometric parameters, these new analyses will help understand the mechanisms exerted by angiogenesis-modulating molecule.
+ER  - 
+
+TY  - JOUR
+AU  - Ducale, A.E.
+AU  - Dechert, T.A.
+AU  - Ward, S.I.
+AU  - Yager, D.R.
+TI  - 030 Inhibition of Mitogen Activated Kinase-Mediated Hyaluronan Expression by Glucocorticoids
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215ad.x
+DO  - doi:10.1111/j.1067-1927.2005.130215ad.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Background and Objectives:? Hyaluronan (HA), a ubiquitous glycosaminoglycan is synthesized by one of three distinct hyaluronan synthases (HAS). The purposes of this study were to determine whether a cause-and-effect relationship exists between the proinflammatory cytokine, interleukin-1?(IL-1?), and hyaluronan expression in normal jejunum-derived mesenchymal cells (JDMCs), to identify possible mechanisms involved and to determine the effects of glucocorticoids, a common therapy for intestinal inflammatory pathologies including Crohn?s disease and ulcerative colitis (UC), on cytokine-mediated hyaluronan expression. Experimental Procedures:? JDMCs were stimulated with IL-1? for 20?hr with or without pretreatment for 1?hr with mitogen activated protein kinase (MAPK) inhibitors or dexamethasone. HA levels from culture media were quantified using a slot blotting approach. HAS transcript levels were quantified using RPA. Immunoblotting was used to detect and quantify activation of MAP kinases. Results:? Preliminary data of sample tissue from patients with Crohn?s or UC indicated increased HAS transcript levels. Similarly, IL-1? induced an approximate 18-fold increase in both HAS2 steady state transcripts and HA levels. These increases were blocked by dexamethasone (95%). Knockdown with siRNA demonstrated that IL-1? induction of HA expression occurred via HAS2. Immunoblot analysis indicated that IL-1? activated the ERK1/2, p38 and JNK pathways. Inhibitors of the p38 and ERK1/2, but not JNK, blocked the IL-1? induction of HA expression (80 and 90%, repectively). Similarly, dexamethasone was also found to block activation of the ERK1/2 and p38 pathways indicating a mechanism for glucocorticoid steroid regulation of HAS expression. Conclusion:? This study provides evidence for proinflammatory cytokine regulation of HA expression in JDMCs. Furthermore, this study provides support for the hypothesis that HA may be one of the targets involved in the treatment of steroid-dependent inflammatory bowel disease. Support:? This work was supported by NIH GM 58530.
+ER  - 
+
+TY  - JOUR
+AU  - Kryger,             Z.B.
+AU  - Sisco, M.
+AU  - Roy, N.K.
+AU  - Mustoe, T.A.
+TI  - 040  The Temporal Expression of the TGF-Beta Pathway in the Rabbit Ear Model of Hypertrophic Scarring
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215an.x
+DO  - doi:10.1111/j.1067-1927.2005.130215an.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Introduction:? There is extensive data implicating the role of the TGF-beta pathway in hypertrophic scarring. However, few studies have examined the temporal expression of the various TGF-beta cytokines and their receptors. Purpose:? This study sought to determine the temporal mRNA expression of TGF-beta1, TGF-beta2, TGF-beta3, TGFR-I, TGFR-II, Smad-3, and collagen I in a rabbit ear model of hypertrophic scarring compared to smaller, nonhypertrophic control scars. Methods:? In an established model of hypertrophic scarring, 7?mm (hypertrophic) and 5?mm (nonhypertrophic control) punch wounds were made on the ears of 12 rabbits. Wounds were harvested at days 7, 15, 28, and 40. Histologic evaluation was performed on all scars in order to validate the model. Real-time RT-PCR was performed to compare mRNA expression between the various time points. Results:? At day 7, the 5?mm wounds had epithelialized to a greater extent than the 7?mm wounds. At day 28 and 40, the 7?mm scars were hypertrophic compared to the 5?mm control scars. In both 7?mm and 5?mm scars, TGF-beta1 and beta3 levels declined over time. In 7?mm scars, TGF-beta2 peaked at day 28, TGFR-I levels peaked at day 15, and TGFR-II and Smad-3 remained stable over time. As expected, collagen I expression peaked at day 28. In the 5?mm scars, TGF-beta2 levels remained stable, TGFR-I levels peaked at day 28, while levels of TGFR-II and Smad-3 declined slightly over time. Collagen I expression peaked at day 15. Conclusions:? The up-regulation of TGF-beta2 mRNA expression in hypertrophic but not flat scars indicates that it may be important to scar hypertrophy. The sustained expression of TGFR-II and Smad-3 in hypertrophic scars compared to controls suggests that the role of the TGF-beta family in the process of hypertrophic scarring is complex. This study was supported by an NIH grant (5R01GM063825-03) awarded to T.A. Mustoe.
+ER  - 
+
+TY  - JOUR
+AU  - Okwueze,             M.I.
+AU  - Cardwell, N.L.
+AU  - Pollins, A.C.
+AU  - Nanney, L.B.
+TI  - 042 Role of Erbb3 and Epidermal Growth Factor-Like Ligands on Wound Healing
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215ap.x
+DO  - doi:10.1111/j.1067-1927.2005.130215ap.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - The role of the EGF superfamily of growth factors and their receptors during wound healing continues to unfold. The aim of the study was to determine the effect of overexpression of erbB3 in wound healing and whether topical application of its various ligands enhances repair. Partial thickness porcine wounds were transfected with recombinant adenoviral particles containing erbB3 receptor gene or a vehicle ?-galactosidase gene (Lac Z). Highly similar ligands: Epidermal growth factor (EGF), Epiregulin (EPR), Heparin-binding epidermal growth factor (HB-EGF), Heregulin (HER) were topically applied to wounds boosted with erbB3 receptors. Enhanced wound healing parameters were assessed 5 days after initial treatment for reepithelization, dermal depth, macrophage infiltration, proliferating cells, angiogenesis, and apoptotic cells. Treatment with EPR and HB-EGF promoted greater resurfacing of the epidermal layer than EGF, HER, erbB3 only or vehicle treated wounds. Neodermal formation as measured by dermal or granulation depth was significantly different in the EPR and HB-EGF treated wounds compared to EGF, HER, erbB3 only or vehicle. Numerous hallmarks of enhanced wound maturity (fewer infiltrating macrophages, significant reductions in neovascularization, fibroblastic proliferation) were noted in EPR- and HB-EGF-treated wounds transfected with erbB3 as compared to vehicle controls. Only erbB3 wounds treated with these particular ligands showed significant increases in apoptotic cells. Our results indicate that wounds treated with this erbB3 receptor form supplied with topical application of EPR and HB-EGF exhibit synergistic and accelerating reparative effects on porcine partial thickness wounds as compared to vehicle. These in vivo findings suggest the complexity and evidence of synergism between the erbB receptor and its various ligands on wound healing. (This research work was funded by the NIH GM40437.)
+ER  - 
+
+TY  - JOUR
+AU  - Stotts, N.A.
+AU  - Puntillo, K.
+AU  - Morris, A.B.
+AU  - Stanik-Hutt, J.
+AU  - Thompson, C.L.
+AU  - White, C.
+AU  - Wild, L.R.
+TI  - 002 How Painful is Wound Care?
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215b.x
+DO  - doi:10.1111/j.1067-1927.2005.130215b.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - This study examined adult hospitalized patients? responses to wound care pain and its treatment. Wound care included dressing change, packing, irrigation, and debridement. The subjective experience of pain intensity was measured with a numeric rating scale (NRS) prior to, immediately after, and 10 minutes after completion of the procedure. The sample was composed of 412 subjects. Most were male (52.3%), white (73.9%), had one wound (59.5%), and had undergone surgery (73.9%). When pain intensity was compared over time, pain intensity was greatest (NRS 4.4, SD 3.2) during the procedure (p?<?.023), and nonsurgical patients experienced significantly greater pain than surgical patients (p?=?.002)(NRS 5.3, SD 3.0, NRS 4.1, SD3.2, respectively). Most patients underwent multiple wound care procedures. When the pain intensity of undergoing only a dressing change (n?=?61), only packing (n?=?41), or ≥2 procedures (n?=?258) was examined by whether subjects had undergone surgery or no surgery, nonsurgical patients reported greater pain intensity with dressing change (p?<?.001) and ≥2 procedures (p?<?.001). Few subjects received analgesics (7.3% surgical patients 5.9% nonsurgical); there was no difference by group in the amount of opioid administered (p?=?.821). Sedatives and NSAIDS were rarely used. Treatment with pain medication was examined over time. Those with least pain received significantly less pain medication when compared with those who received premedication only and those who received medication prior to and during the procedure (p?<?.05). Findings show wound care is painful and wound care pain is undertreated. Further research is needed to address the effect of pain on wound-related patient outcomes and strategies to minimize pain. Acknowledgment:? Funded by the AACN, K. Puntillo, PI
+ER  - 
+
+TY  - JOUR
+AU  - Bodnar,             Richard J.
+AU  - Wells, Alan
+TI  - 057 Activation of CXCR 3 Inhibits Endothelial Tube Formation Through the Modulation of M-Calpain
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215be.x
+DO  - doi:10.1111/j.1067-1927.2005.130215be.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Angiogenesis plays a critical role in wound healing. In wound healing new blood vessels are generated, then later in scar-resolving stages of the repair process, these newly formed blood vessels undergo destabilization and significant regression. ELR-negative chemokines have been shown to have angiostatic properties and are produced in high concentration late in the granulation tissue and resolving stage of wound repair. The receptor for the ELR-negative chemokines, CXCR3, is expressed on endothelial cells but its function is not known. To understand the physiologic role CXCR3 plays in regulating endothelial function, we analyzed the ability of the CXCR3 ligand, IP-10, to inhibit endothelial cell tube formation. IP-10 was able to inhibit endothelial cell tube formation alone and prevent VEGF-induced tube formation on Matrigel?. Treatment of endothelial cells with IP-10 significantly inhibited endothelial motility. Thus, the ELR-negative chemokines inhibit angiogenesis by inhibiting endothelial motility. To identify the signaling pathway(s) mediated by CXCR3 that inhibit endothelial cell motility, we looked at the regulation of key processes. As CXCR3 is a receptor known to generate cAMP, as we show in these cells, we examined PKA-mediated inhibition of calpain. Treatment of endothelial cells with VEGF induced the activation of m-calpain but costimulation with IP-10 significantly decreased m-calpain activity. Using cAMP analogs, 8-Br-cAMP, a PKA activator, is able to inhibit VEGF- induced motility and Rp-8-Br-cAMP, a PKA inhibitor, is able to reverse the inhibitory effects of IP-10 on endothelial migration and calpain activation. To further demonstrate that m-calpain is important in endothelial motility we show that siRNA knockdown of m-calpain inhibited VEGF induced migration. These data indicate that activation of CXCR3 inhibits endothelial migration through the PKA-mediated inhibition of m-calpain. These findings provide new targets to modulate the resolution phase of wound repair.
+ER  - 
+
+TY  - JOUR
+AU  - Harunari, N
+AU  - Engrav, L.H.
+AU  - Armendariz, R.T.
+AU  - Zhu, K.Q.
+AU  - Deubner, H
+AU  - Muangman, P
+AU  - Carrougher, G.J.
+AU  - Gibran, N.S.
+TI  - 095 Comparison of Collagen Nodules and Mast Cells Between Human Hypertrophic Scar and Thick Scar of the Female Red Duroc Pig
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215cq.x
+DO  - doi:10.1111/j.1067-1927.2005.130215cq.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Introduction:? There are several proposed animal models of hypertrophic scarring. However, most are quite dissimilar from the actual human event. It has been shown that wounds on the female, red Duroc pig heal with thick scars. We are attempting to fully validate this model. A fourfold increase in mast cells and formation of collagen nodules have been described as characteristics of human hypertrophic scar. We hypothesized the occurrence of nodules and mast cells in Duroc scars is similar. Methods:? For nodules, we biopsied human hypertrophic scars (47 cases) taken 5 to 67 months from injury and Duroc scars (six animals) taken 0 to 5 months from injury. For mast cells, we biopsied human hypertrophic scar (five cases) taken 24 to 30 months from injury and Duroc scars (five animals) taken 5 months from injury. We stained the sections with hematoxylin and eosin (nodules) and Giemsa (mast cells) and counted intact mast cells in the upper papillary dermis in 20 and recorded nodules as present or absent. Results:? The results are included the table below. Tissue Month n Nodules mean?±?SD P Duroc Scar ?0?3 10 ?0 ?4?5 ?6 50% NODULES Human Hypertrophic ?5?12 ?9 33% 12?24 22 36% 24?67 16 81% MAST CELLS Duroc Scar ?4?5 ?5 ?41?±?26 <.05 Duroc Uninjured ?5 ?18?±?9 Human Hypertrophic 24?30 ?5 251?±?139 <.01 Human Uninjured ?5 ?60?±?24 Conclusion:? Collagen nodules and increased numbers of mast cells are present in Duroc scar giving further validity to the female, red Duroc pig as an animal model of hypertrophic scarring.
+ER  - 
+
+TY  - JOUR
+AU  - Weingarten, M.S.
+AU  - Papazoglou, E.S.
+AU  - Zubkov, L.
+AU  - Zhu, L.
+AU  - Prestrud, A.A.
+AU  - Saggar, S.
+AU  - Vorona, G.
+TI  - 010 Measurement of Optical Properties to Quantify Healing of Chronic Diabetic Wounds
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215j.x
+DO  - doi:10.1111/j.1067-1927.2005.130215j.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Background:? Both passive and active dressings and technologies are proposed for treatment of chronic diabetic wounds. A quantitative assessment of healing is needed. Measurement of scattering and absorption characteristics of healing tissue, by Diffuse Near Infrared Spectroscopy (NIR) may provide such a method. Methods:? 20 rats were divided into an induced diabetic and a control group (N?=?10 each). Full thickness wounds were made on the dorsal surface and biopsies sent for histologic analysis. Wounds were interrogated at twice per week intervals using a frequency domain near infrared device with three wavelengths of incident light. Amplitude and phase of scattered light were obtained at four different source-detector distances at each wavelength. The probe was positioned at six different locations. Tissue absorption and reduced scattering coefficients were calculated from amplitude and phase data. Wound dimensions were calculated by cross and parallel polarization. Results:? Thirty-eight wounds were evaluated during the experiment. Wound size decreased at twice the rate in control. Average absorption coefficient was higher, by a factor of 2, in diabetics. The average value of reduced scattering coefficient was 30% higher in diabetics as well. During healing, both scattering and absorption coefficient increased faster in diabetics. Discussion:? Higher absorption in diabetic rats suggest impaired blood flow. Scattering reflects tissue disorganization observed in delayed wound healing. Conclusion:? These data suggest that near-infrared spectroscopy can detect the difference in oxygen delivery to the wound and assess wound healing progression. Further analysis is planned to investigate pathologic correlates with spectroscopic data.
+ER  - 
+
+TY  - JOUR
+AU  - Supp,             Dorothy M.
+AU  - Smiley, Andrea K.
+AU  - Klingenberg, Jennifer
+AU  - Boyce, Steven T.
+TI  - 013 Gene Expression Profiling of Cultured Skin Substitutes
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215m.x
+DO  - doi:10.1111/j.1067-1927.2005.130215m.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Cultured skin substitutes (CSS) are used as an adjunctive treatment for closure of massive burn wounds. CSS are prepared with keratinocytes and fibroblasts combined with a collagen-based matrix. A cDNA microarray analysis was performed to characterize CSS at a molecular level. We hypothesized that combination of keratinocytes and fibroblasts in a three-dimensional organo typic culture system would result in changes in gene expression compared with cells grown in monolayer culture. Human skin samples were obtained from breast and abdominal tissue of healthy adult females. Fibroblasts and kera tinocytes were isolated and grown in monolayer cultures; CSS, prepared with cells from four independent donors, were cultured for 2?weeks in vitro. Microarray analysis was performed on RNA from fibroblasts, keratinocytes, and CSS using the Affymetrix Human Genome U133A gene chip representing over 22,000 human genes. Cluster analysis was performed to identify gene expression ?signatures? for each group, and further analysis was performed to identify genes that were significantly increased or decreased in CSS compared with either cell type. Microarray analysis revealed significant changes in gene expression upon combination of fibroblasts and keratinocytes in organotypic culture. Genes belonging to several classes were significantly increased in CSS compared with fibroblasts and keratinocytes. For example, genes associated with epidermal differentiation, including fillagrin, corneodesmosin, involucrin, and multiple keratins (1, 10, 13, 16, 23), were increased in CSS. Several genes that are overexpressed in psoriasis (S100A7, SERPINB3, PSORS1C1), as well as cytokines IL- 6 and IL-8, were also increased in CSS. Further, multiple MMP genes were up-regulated in CSS. The results suggest that epithelial-mesenchymal interactions contribute to morphogenesis of CSS, including the remodeling of the dermal layer and stratification and differentiation of the epidermal layer. This analysis reveals that CSS exhibit many characteristics of normal or inflamed human skin.
+ER  - 
+
+TY  - JOUR
+AU  - Gallant-Behm, C.L.
+AU  - Hart, D.A.
+TI  - 025 The Role of Genetics on Wound Contraction in a Porcine Model
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215y.x
+DO  - doi:10.1111/j.1067-1927.2005.130215y.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Pigs have been accepted as good models for skin wound healing research due to their anatomical similarities to humans. The healing response of excisional wounds in juvenile female Yorkshire (Y) pigs closely resembles normal healing in humans. In contrast, identical wounds in female red Duroc (RD) pigs contracted significantly more, resulting in an 80?90% reduction in wound area. This hypercontraction was associated with marked hyperpigmentation at the wound margins, and some features of the RD healing phenotype, such as increased collagen deposition, are similar to hypertrophic scar formation in humans. Recent investigations have begun to elucidate the genetic transmissibility of the RD healing phenotype. Skin wounds were created on Y???RD F1 female animals (N?=?8), and while hyperpigmentation was not observed, the hypercontraction prevalent in the RD persisted in 100% of animals studied. Further, the degree and kinetics of contraction observed in the F1 animals was significantly greater than in the RD. All F1 animals were subsequently bred to a single Yorkshire boar, producing a cohort of 20 female backcross animals. Healing in the backcross animals generally followed the Y phenotype with regard to wound contraction and pigmentation. However, between days 28 and 56, the backcross animals demonstrated significantly less contraction than the Yorkshire animals. These results suggest that the regulation of wound contraction is controlled by a restricted number of major genes and an unidentified number of other genes, which may positively or negatively modulate the influence of the major genes, as observed in the F1 and backcross animals. These studies have begun the process of elucidating the molecular basis for abnormal skin wound healing and scarring. Further ongoing studies are using genomic and proteomic approaches to further elucidate candidate genes potentially involved in the RD healing phenotype. Acknowledgments:? Funding provided by CIHR and NSERC
+ER  - 
+
+TY  - JOUR
+AU  - Falanga, V.
+AU  - the Apligraf Excision Study Group
+TI  - 035 Evaluation of BiLayered Cell Therapy for Full Thickness Excision Wounds: A MultiCenter, Prospective, Randomized, Controlled Trial
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215ai.x
+DO  - doi:10.1111/j.1067-1927.2005.130215ai.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Management of surgical defects following excisional and Mohs micrographic surgery for malignant skin lesions consists of autografting, skin flaps, primary closure, and healing by secondary intention. A fully differentiated bilayered cell-based therapy (BLCT/Apligraf), expresses multiple growth factors, provides a biologically active matrix, and appears to be immunologically inert. BLCT is FDA approved for venous leg ulcers and diabetic foot ulcers. BLCT is effective in hard-to-heal venous ulcers and, in diabetic foot ulcers, it is significantly associated with less amputations and osteomyelitis. A previous open-label trial showed BLCT to be safe and effective in surgical excision wounds. However, we have been interested in rigorously identifying differences in chronic compared to acute wounds when using BLCT or other skin substitutes. In this report of a multicenter randomized study, we enrolled and treated 181 patients eligible for secondary intention healing after Mohs or excisional surgery for skin cancer, with 172 completing the study. Face wounds were excluded. In total, 84 patients were treated with BLCT and 88 with dressings alone. The primary efficacy endpoint was the quality of the healed wound using the Vancouver Burn Scar Assessment Scale (VBSAS). Pigmentation, vascularity, pliability, and scar heights were assessed by the investigator and an independent observer as 0 (no scar) to 15 (worst scar). Scores of?≤?4 were assigned to 57 (65%) of BLCT-treated patients by both the investigator and observer, and to 60 (65%) and 54 (58%) of control patients according to the investigator and observer, respectively. There was no difference in healing time, and no severe adverse events or rapid cancer recurrence were observed in either group. In this randomized controlled trial of full thickness excision wounds after skin cancer removal, BLCT/Apligraf was safe and well tolerated.
+ER  - 
+
+TY  - JOUR
+AU  - Goldberg,             M.T.
+AU  - Han, Y.P.
+AU  - Shaw, M.C.
+AU  - Garner, W.
+TI  - 041 Mechanical and Molecular Response of Human Dermal Fibroblasts to TGF-β and TNF-α
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215ao.x
+DO  - doi:10.1111/j.1067-1927.2005.130215ao.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Background:? The cytokine signals that regulate myofibroblast differentiation and the resulting reorganization of matrix are incompletely understood. We studied the response of fibroblasts to mediators known to affect matrix reorganization, TGF-? and TNF-α in a collagen matrix. Further, we sought to determine if any cell phenotype changes resulted in quantifiable alterations in the mechanical performance of the matrix. Methods:? Normal human dermal fibroblasts were cultured in collagen type I lattices for 1 and 5 days in DMEM with .5% FBS and TGF-?(1?ng/ml), TNF-α(10?ng/ml), or combinations TGF-?(1?ng/ml)?+?TNF-α(1,5, and 10?ng/ml). Western blot and immunohistochemistry were used to determine α-SMA expression. Quantitative real-time PCR was used to measure α-SMA mRNA. An indentation mechanical method was used to measure Young?s modulus which represents matrix stiffness. Results:? TGF-? increases α-SMA, while TNF-α alone has no effect on basal α-SMA expression. When TGF-??+?TNF-α were both added, the expression of α-SMA returned to basal levels. Immunohistochemistry showed α-SMA is incorporated into prominent stress fibers only in the TGF-? group. Real-time PCR showed that TNF-α did not affect α-SMA mRNA, while TGF-? increased α-SMA mRNA 19-fold. Combination treatment reduced mRNA level by 16-fold, to 2.7-fold compared to control. Indentation testing showed that, in all treatment groups, lattices after 5 days in culture were stiffer. TNF-α appeared to reduce the stiffness of the lattices on both day 1 and 5 compared to control. Conclusion:? TNF-α decreases TGF-? induction of α-SMA expression at the transcriptional level and decreases lattice stiffness. The cellular responses to cytokines are reflected in both biochemical and mechanical behaviors. Understanding both will be necessary to understand how tissues remodel into functional tissue and scar.
+ER  - 
+
+TY  - JOUR
+AU  - Jeschke, M.G.
+AU  - Sandmann, G.
+AU  - Pereira, C.
+AU  - Herndon, David N
+TI  - 043 The Structure and Composition of Liposomes can Affect Skin Regeneration, Morphology, and Growth Factor Expression in Acute Wounds
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215aq.x
+DO  - doi:10.1111/j.1067-1927.2005.130215aq.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Introduction:? Liposomal gene transfer is an effective therapeutic approach for the treatment of several pathophysiologic states. The purpose of the present study was to define whether the biological or chemical structure of a liposome influences cellular and biological regeneration in the skin and to determine by which mechanisms possible changes occur. Methods:? Rats were inflicted a full-excision acute wound and divided into three groups to receive weekly subcutaneous injections of DMRIE liposomes plus the Lac-Z gene, or DOTAP/Chol liposomes plus the Lac Z gene, or saline. Planimetry, immunological assays, histological, and immunohistochemical 'techniques were used to determine molecular mechanisms after gene transfer, protein expression, dermal, and epidermal regeneration. Results:? DOTAP/Chol increased IGF-I and KGF protein concentration and caused concomitant cellular responses, e.g., by increasing IGFBP-3, p?<?0.05. DOTAP/Chol liposomes improved epidermal regeneration by exhibiting the most rapid area and linear wound reepithelization compared to DMRIE or control, p?<?0.001. DOTAP/Chol and DMRIE exerted promitogenic and anti-apoptotic effects on basal keratinocytes, p?<?0.05. Dermal regeneration was improved in DOTAP/Chol treated animals by an increased collagen deposition and morphology, p?<?0.001. DOTAP/Chol liposomes increased VEGF concentrations and thus neovascularization when compared with DMRIE and saline, p?<?0.001. Summary:? In the present study we showed that different liposomes have different effects on intracellular and biological responses based on its chemical and molecular structure. For gene transfer in acute wounds the administration of DOTAP/Chol liposomes appears to be beneficial. Acknowledgments:? Clayton Foundation for Research
+ER  - 
+
+TY  - JOUR
+AU  - Guthrie,             S.D.
+TI  - 050  Amplification of the Hypoxic Wound Signal by Treprostinil Sodium (Remodulin®) as Measured by PeriWound Tcpo2 and Laser Doppler Signals
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215ax.x
+DO  - doi:10.1111/j.1067-1927.2005.130215ax.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Introduction:? As an initial pilot effort a prospective, case-controlled trial examining the effects of treprostinil sodium (Remodulin?), by continuous, subcutaneous infusion, was performed in diabetic patients with recalcitrant lower extremity wounds. While the primary outcomes for the trial were wound healing and limb preservation, evaluation of local tissue perfusion with transcutaneous oximetry and laser Doppler analysis (TcPO2/LD) were included as secondary objectives, and with the expectation they would be useful monitors of any interventional modality. Methods:? All patients enrolled had nonhealing wounds (>3 months) in critically ischemic lower extremities (Fontaine Stage III-IV or Rutherford Stage 4, 5, or 6). Hyperbaric oxygen exposures were included as diagnostic/monitoring indices. In the last four enrolled subjects TcPO2/LD measurements were made at ambient pressure and at 2.0 or 2.4 ATA before Remodulin? was begun and at various points during drug infusion. Results:? Early, observational evaluation of the TcPO2/LD data shows: 1?? These examinations prognostically profile healing in ischemic limbs. 2?? TcPO2/LD values demonstrate the efficacy of Remodulin? in augmenting perfusion in ischemic wounds. While there is a broad range, all measured parameters increased on the drug (resting TcPO2 ? 5?30?mmHg, the rate of TcPO2 rise following ambient pressure O2-challenge ? 25?150% and periwound TcPO2 ? 90?300?mmHg at 2.0 and 2.4 ATA). 3?? The in-chamber TcPO2 on Remodulin? further defines patients who will not benefit from HBO2 therapy. 4?? The TcPO2/LD data will assist in determining dosages, duration, and maintenance requirements for this drug both as a single agent and when used as an adjuvant to HBO2 therapy. Conclusions:? Treprostinil sodium (Remodulin?) has significant laudatory effects on local wound perfusion in ischemic lower extremities. Acknowledgments:? United Therapeutics, Inc provided support for this study through an unrestricted educational grant.
+ER  - 
+
+TY  - JOUR
+AU  - Krötzsch,             E.
+AU  - Salgado, R.M.
+AU  - De La Garza, A.S.
+AU  - Roman-Rojas, P.P.
+AU  - Cruz-Castañeda, O.
+AU  - Elizondo-Vázquez, F.
+TI  - 055 A Comparative Evaluation of Maltodextrin/Ascorbic Acid Vs. Standard Care for the Treatment of Venous Leg Ulcers
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bc.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bc.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Venous leg ulcers are characterized by chronic inflammation and in consequence high extracellular matrix turnover, avoiding epithelialization. In this work we evaluated maltodextrin/ascorbic acid powder versus standard care for the topical treatment of noninfected venous leg ulcers, smaller than 25?cm2. All patients received daily micronized diosmin/hesperidin and they were recommended an appropriate diet, an exercise program, cleaning of the ulcer, etc., except for compression stocking, since they are not available in the clinic. Both treatments were administered daily during 12 weeks. Clinically, most of the patients were colonized by Staphylococcus aureus; patients who received maltodextrin/ascorbic acid reported less pain than controls and they improved significantly twice and thrice the lesion size in weeks 8 and 12, respectively, when compared with the standard care, (% wound closure: maltodextrin group 78.7?±?21.6 vs. standard care 36.7?±?45.4). In order to know changes in cytokine expression in the wound fluid, ulcers were covered with an impermeable film for 24?h, at the beginning and after 4 and 8 weeks of treatment, and the fluids were tested for IL-1?, TNF-α, IL-10, and PDGF-AB by ELISA. Important changes in wound closure were observed when TNF-α and IL-10 changed, increasing their expression in maltodextrin group, meanwhile those cytokines were diminished in the controls. Finally, histological assessment was performed from the two biopsies taken before and after 8 weeks of treatment to each patient. Type III collagen showed an increase, but type I collagen decreased in the tissues derived from maltodextrin group, opposite to the data obtained from standard care group. In conclusion, maltodextrin/ascorbic acid powder is an important topical treatment for chronic wounds, and it has demonstrated to improve wound closure when it was compared with the standard of care, even without compression. This work was supported by DeRoyal.
+ER  - 
+
+TY  - JOUR
+TI  - 059  Abstract removed by request of author.
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bg.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bg.x
+SP  - A4
+EP  - A27
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+AU  - Telgenhoff, D. 
+AU  - Lam, K.
+AU  - Cooper, M.
+AU  - Ramsay, S.
+AU  - Vasquez, V.
+AU  - Posadas, K.
+AU  - Attar, P.
+AU  - Shroot, B.
+TI  - 069 The Role of Papain-Urea-Copper Chlorophyllin Active Components Tested Single-Variably in Acute Infected Pig Wounds
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bq.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bq.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - One of the well-known enzymatic debriders is a papain?urea-chlorophyllin ointment. The purpose of this study was to determine the efficacy of this ointment compared with single variable Papain-urea, Copper chlorophyllin, or Urea base ointment and moist wound care in porcine full thickness wounds. Twenty full thickness wounds were made on the dorsum of domestic pigs. Following hemostasis, the wounds were contaminated with wound-isolated bacteria, treated with test articles, and dressed with moisture-retentive dressing. All the wounds were evaluated 1, 4, 8, 11, 14, 18, and 21 days postsurgery visually and biopsies were obtained for microscopy. The results showed no impairment in the rate of epithelialization of the papain?urea-chlorophyllin treatment, nor with single variable actives compared with moist wound care. Microscopic examination revealed an increase in the number of keratinocytes present in the epidermis of the papain?urea-chlorophyllin and papain-treated wounds, and an increase in the depth of rete pegs. Blood vessel formation was increased in the papain?urea-chlorophyllin, papain, and Copper chlorophyllin groups compared to the moist control tissue as seen with CD31 and von Willebrand Factor staining, and was most evident in the papain?urea-chlorophyllin-treated tissues. VEGF was increased after 1 week in the wounds treated with papain?urea-chlorophyllin and papain compared to vehicle, indicating a possible mechanism for neovascularization. The increase was not seen in the Copper chlorophyllin group, indicating the possibility of another mechanism for blood vessel formation in this group. The healing appears to be most complete in the papain?urea-chlorophyllin group based on epidermal morphology and enhanced vascularization, which is vital in supplying nutrients to the newly healed wound.
+ER  - 
+
+TY  - JOUR
+AU  - Cullen, B.
+AU  - Wallenfang-Sohle, K.
+AU  - Essler,             A.
+AU  - Diamond, J.
+AU  - Kemp, L.
+AU  - Stadler, R.
+TI  - 076 A Clinical Study Investigating the Temporal Changes in Proteolytic Activity in Wounds Treated with Promogran*
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215bx.x
+DO  - doi:10.1111/j.1067-1927.2005.130215bx.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - The pathophysiology of wound repair is a delicately balanced, dynamic process involving both stimulatory and degradative factors to remove damaged tissue and synthesize new tissue. An imbalance of any of these factors may result in the formation of a chronic wound. Previous studies have indicated that the chronic wound environment is detrimental to cell and cytokine function, leading to delayed healing. The presence of a hostile chronic wound environment has been supported by many studies reporting elevated proteolytic activity in these wounds. However, it has not been determined if this elevation is due to an excess of a particular protease or a reduction in inhibitor levels. In this study we investigated the effect of PROMOGRANTM, a protease 'modulating matrix, on wound healing in patients with venous leg ulcers and examined the effect on the wound environment. Wound fluid samples were collected from a number of patients throughout the course of treatment and both protease and inhibitor levels were analyzed. Our results indicate that wounds which respond to PROMOGRANTM also exhibited an overall decrease in human neutrophil-derived elastase and MMP activity. An increase in the ratio of alpha-1-antitrypsin to human neutrophil-derived elastase was also observed suggesting a greater degree of regulation post therapy, and a return to a more acute-like wound environment. Wounds that did not respond to this treatment demonstrated a greatly reduced ratio, signifying a persistent excess of proteolytic activity and a continued delay in healing. It is unclear whether the observed biochemical changes in the wound environment are responsible for healing or merely symptomatic of the disease state. We have, however, shown that an overall reduction in proteolytic activity is concomitant with healing. This suggests that therapies that redress the balance of inhibitor to protease may be beneficial in treatment of chronic wounds.
+ER  - 
+
+TY  - JOUR
+AU  - Harrell,             G.
+AU  - Rogers, B.
+AU  - Wysocki, A.
+AU  - Lineaweaver, W.
+TI  - 083 Epidemiology and Economics of a Vulnerable Population
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215ce.x
+DO  - doi:10.1111/j.1067-1927.2005.130215ce.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - Vulnerable populations generally have decreased access to health care, often present with advanced disease processes and experience poorer health outcomes compared to the general population. Here we report on the epidemiology and economics of a vulnerable population with chronic wounds served by an academic medical center that is the tertiary health care provider and referral center for the state of Mississippi. Data are being collected to determine if aggressive management and treatment improves health outcomes. The epidemiology of our population indicates that 48% are over 60 years of age; 45% are between 41?59 years of age; and 7% are under 40 years of age. About 61% are female and almost 39% male. Our vulnerable population is composed of 51.6% African Americans; 6.5% Native Americans; and 3.2% Hispanic Americans; with the remaining population or 38.7% Caucasian. The etiologies of wounds seen are 31% diabetic/neuropathic and 28.5% venous; followed by smaller percentages of surgically treated diabetic and venous wounds. We have found that this population commonly presents with a single wound, but that more than half (>50%) present with two or more wounds. A majority of these individuals (77%) visit the clinic more than two times, with most, or 44% visiting the clinic from two to five times. A smaller percentage, or about 30% visit the clinic six or more times. About 61% are either Medicare or Medicaid, or a combination, while the remainder are covered by private insurance (23%), workman?s compensation (3.2%), or are self-pay (12.9%). Despite this profile, the aggressive integration of a social worker in our clinic results in 35.5% being followed by home health. Thus, we will present data on whether the opening of a specialized treatment center results in better health outcomes in vulnerable populations once individuals receive appropriate referral and treatment.
+ER  - 

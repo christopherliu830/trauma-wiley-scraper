@@ -1,0 +1,467 @@
+
+AU  - Courtois, Bernard
+C7  - pp. 189-213
+TI  - Fabrication Examples based on Standard CMOS and MEMS Processes
+SN  - 9780470641903
+UR  - https://doi.org/10.1002/9781118016497.ch7
+DO  - doi:10.1002/9781118016497.ch7
+SP  - 189-213
+KW  - biomedical applications
+KW  - bulk micromachining MEMS
+KW  - CMP
+KW  - integrated circuit
+KW  - multi user MEMS processes
+KW  - standard BiCMOS process
+KW  - standard CMOS process
+PY  - 2011
+AB  - Summary To address many real-life applications, ICs are necessary, but additional, basically mechanical features are also often necessary. All these features are usually provided by micro-electromechanical systems (MEMS). Several types of MEMS are available from CMP, and these are classified into two categories. The first category consists of two bulk micromachining MEMS, one based on a standard CMOS process and the other on a standard BiCMOS process. The second category consists of the specific MEMS processes such as the Multi User MEMS Processes (MUMPs) and Sandia Ultra-planar Multi-level MEMS Technology V (SUMMiT V). In these processes, very advanced systems can be created on moveable platforms. Biomedical applications of electronics and MEMS in general include implant devices and biosensors, DNA-based systems, analytical protein arrays, and cell-based systems. This chapter addresses a few examples of what can be achieved with standard processes, for example, those available from CMP. Controlled Vocabulary Terms BiCMOS integrated circuits; biomedical electronics; bioMEMS; biosensors; CMOS integrated circuits; microfabrication
+ER  - 
+
+TY  - JOUR
+AU  - Bass, D.
+AU  - Grest, P.
+AU  - Hagen, R.
+AU  - Makara, M.
+AU  - Quante, S.
+AU  - Rohrer-Bley, C.
+TI  - Massive haematoma formation associated with proximal popliteal artery haemangioendothelioma in a dog
+JO  - Journal of Small Animal Practice
+VL  - 52
+IS  - 11
+SN  - 9780470641903
+UR  - https://doi.org/10.1111/j.1748-5827.2011.01130.x
+DO  - doi:10.1111/j.1748-5827.2011.01130.x
+SP  - 612
+EP  - 615
+PY  - 2011
+AB  - A mixed breed dog presented with diffuse unilateral hind limb swelling, which ultrasound and cytology confirmed to be caused by severe haematoma formation. Multi-detector computed tomography (MDCT) angiography allowed distinct visualisation of an anomalous segment of the proximal popliteal artery, the presumed origin of the self-sustaining haematoma. Histopathology classified the malformed vessel as a haemangioendothelioma, a neoplasia of intermediate malignancy. Considering this as differential diagnosis to a neoplastic vascular alteration of high malignancy (such as haemangiosarcoma) might alter choice of treatment in future cases with similar clinical and imaging findings.
+ER  - 
+
+TY  - JOUR
+AU  - Vogt, Henrik
+AU  - Ulvestad, Elling
+AU  - Eriksen, Thor Eirik
+AU  - Getz, Linn
+TI  - Getting personal: can systems medicine integrate scientific and humanistic conceptions of the patient?
+JO  - Journal of Evaluation in Clinical Practice
+JA  - J Eval Clin Pract
+VL  - 20
+IS  - 6
+SN  - 9780470641903
+UR  - https://doi.org/10.1111/jep.12251
+DO  - doi:10.1111/jep.12251
+SP  - 942
+EP  - 952
+KW  - agency
+KW  - biopsychosocial medicine
+KW  - downward causation
+KW  - emergence
+KW  - experience
+KW  - free will
+KW  - general practice
+KW  - generalism
+KW  - holism
+KW  - humanistic medicine
+KW  - intentionality
+KW  - medically unexplained symptoms
+KW  - mind-body problem
+KW  - multi-morbidity
+KW  - narrative medicine
+KW  - ontology
+KW  - patient-centred medicine
+KW  - personalized medicine
+KW  - person-centred medicine
+KW  - personhood
+KW  - phenomenology
+KW  - reductionism
+KW  - root causes
+KW  - synthesis
+KW  - systems biology
+KW  - systems medicine
+KW  - systems psychiatry
+KW  - teleology
+KW  - the two cultures
+PY  - 2014
+AB  - Abstract Rationale, aims and objectives The practicing doctor, and most obviously the primary care clinician who encounters the full complexity of patients, faces several fundamental but intrinsically related theoretical and practical challenges ? strongly actualized by so-called medically unexplained symptoms (MUS) and multi-morbidity. Systems medicine, which is the emerging application of systems biology to medicine and a merger of molecular biomedicine, systems theory and mathematical modelling, has recently been proposed as a primary care-centered strategy for medicine that promises to meet these challenges. Significantly, it has been proposed to do so in a way that at first glance may seem compatible with humanistic medicine. More specifically, it is promoted as an integrative, holistic, personalized and patient-centered approach. In this article, we ask whether and to what extent systems medicine can provide a comprehensive conceptual account of and approach to the patient and the root causes of health problems that can be reconciled with the concept of the patient as a person, which is an essential theoretical element in humanistic medicine. Methods We answer this question through a comparative analysis of the theories of primary care doctor Eric Cassell and systems biologist Denis Noble. Results and conclusions We argue that, although systems biological concepts, notably Noble's theory of biological relativity and downward causation, are highly relevant for understanding human beings and health problems, they are nevertheless insufficient in fully bridging the gap to humanistic medicine. Systems biologists are currently unable to conceptualize living wholes, and seem unable to account for meaning, value and symbolic interaction, which are central concepts in humanistic medicine, as constraints on human health. Accordingly, systems medicine as currently envisioned cannot be said to be integrative, holistic, personalized or patient-centered in a humanistic medical sense.
+ER  - 
+
+TY  - JOUR
+AU  - Rodin, Gary
+C8  - PON-18-0426.R1
+TI  - From evidence to implementation: The global challenge for psychosocial oncology
+JO  - Psycho-Oncology
+JA  - Psycho‐Oncology
+VL  - 27
+IS  - 10
+SN  - 9780470641903
+UR  - https://doi.org/10.1002/pon.4837
+DO  - doi:10.1002/pon.4837
+SP  - 2310
+EP  - 2316
+KW  - acute stress disorder
+KW  - advanced cancer
+KW  - depression
+KW  - global health
+KW  - leukemia
+KW  - palliative care
+KW  - psycho-oncology
+KW  - psychosocial oncology
+KW  - psychotherapy
+KW  - traumatic stress-related disorders
+PY  - 2018
+AB  - Abstract The human dimensions of medical care were highlighted by such pioneering figures as Cicely Saunders, Elizabeth Kubler-Ross, and Jimmie Holland and their tireless advocacy helped to build an evidence base for psychosocial and palliative interventions. In that spirit, we studied physical and psychological distress in advanced cancer and modeled pathways to distress in this population. We considered acute stress disorder as the prototype for psychological disturbances following the acute onset of life-threatening disorders, showing that it occurred in one-third of patients after the diagnosis of acute leukemia. To treat and prevent these symptoms, we developed Emotion and Symptom-focused Engagement (EASE), an integrated psychotherapeutic and early palliative intervention. We showed that EASE reduced both traumatic stress and physical suffering in these patients and a large multi-center trial is now underway. We also identified symptoms of depression and hopelessness n one quarter of patients with metastatic and advanced cancer, with worsening toward the end of life. To alleviate this distress, we developed a brief supportive-expressive therapy, referred to as Managing Cancer and Living Meaningfully (CALM). We showed in a large RCT that CALM improves depression, distress related to dying and death, and preparation for the end of life. We have now launched a global initiative involving 20 sites to date across North and South America, Europe, Australia, and Asia to have CALM implemented routinely in cancer care. Such initiatives are needed to move psychosocial care in cancer from evidence to implementation and to fulfill the dream of Jimmie Holland that cancer care be as humanistic as it is effective.
+ER  - 
+
+TY  - JOUR
+AU  - Ponomarenko, M.
+AU  - Lochhead, J.
+TI  - Unusual presentation of an intraocular foreign body with double – perforation and retention in lateral rectus muscle
+JO  - Acta Ophthalmologica
+JA  - Acta Ophthalmol
+VL  - 94
+IS  - S256
+SN  - 9780470641903
+UR  - https://doi.org/10.1111/j.1755-3768.2016.0281
+DO  - doi:10.1111/j.1755-3768.2016.0281
+PY  - 2016
+AB  - Purpose To report a rare complicated case of eye injury with endophthalmitis, an air bubble (bacteria-produced), retinal detachment, and traumatic cataract, treated surgically with excellent functional outcome. Methods Retrospective analysis of the hard and electronic notes, CT images, OCT images and operation notes. Results 28 year old male presented 5 days post penetrating injury to right eye, with retained metal foreign body. A gas bubble demonstrated on CT in the right superior globe ? believed to be bacteria produced. Multi-stage surgical approach used to treat endophthalmitis, retinal detachment, cataract and removal of FB. Post-operative outcomes: vision of 6/12 on the affected site, with flat retina, no inflammation and minimal CMO. Conclusions Favourable outcomes are possible with carefully planned and prioritised multi-stage surgical approach, even in complicated cases with late presentation; described approach may help to optimise outcomes in similar eye trauma presentations.
+ER  - 
+
+TY  - JOUR
+AU  - Goos, M.
+AU  - Haberstroh, J.
+AU  - Baumann, T.
+AU  - Hopt, U.
+AU  - Ruf, G.
+AU  - Oberst, M.
+TI  - New selective endoscopic sacral nerve root stimulation – an advance in the treatment of fecal incontinence
+JO  - Neurogastroenterology & Motility
+VL  - 23
+IS  - 2
+SN  - 9780470641903
+UR  - https://doi.org/10.1111/j.1365-2982.2010.01607.x
+DO  - doi:10.1111/j.1365-2982.2010.01607.x
+SP  - e104
+EP  - e109
+KW  - fecal incontinence
+KW  - minimally invasive
+KW  - sacral nerve root stimulation
+KW  - surgical procedures
+KW  - transcutaneous electric nerve stimulation
+KW  - treatment
+PY  - 2011
+AB  - Abstract Background? Fecal incontinence (FI) is a major part of illness and physical discomfort in the general population. Since the 1990s, sacral nerve stimulation has been well established in the treatment of neurogenic FI. The precise placement of the electrode is crucial for the success of the procedure. Eighty percent of the patients benefit from permanent treatment, but in 10?20% of the patients tested electrode placement proves impossible due to anatomical variations of the sacral foramina. In this study, we describe the technical requirements and a new method of electrode placement with reference to the anatomical (bone) landmarks in an animal model. Methods? With a small endoscope (Verres needle), we accessed the perirectal space to identify the nervous structures. A stimulated sphincter EMG was obtained for the experimental animals and muscle action potential (MAP/M-wave), latency time [ms], and the amplitude of the motor response [?V] were recorded. Electrodes were placed, the animals killed and dissected leaving the pelvic cavity untouched. The specimens were examined in a magnetic resonance scanner and in a multi-slice computed tomography scanner to detect the electrode material and possible surgical complications. After that the specimens were dissected. Key Results? In all eight cases in the four animals tested, we were able to stimulate the sacral nerve as demonstrated by the EMG findings. No major surgical complications were observed for the procedure. Conclusions & Inferences? Endoscopic sacral nerve root stimulation is a safe and effective method for delivering stimulation material in the pelvis of the sheep. It is a promising procedure to be tested in humans.
+ER  - 
+
+C7  - pp. 253-261
+TI  - Keeping Out of Danger
+SN  - 9780470574416
+UR  - https://doi.org/10.1002/9781118269220.ch17
+DO  - doi:10.1002/9781118269220.ch17
+SP  - 253-261
+KW  - personal risks
+KW  - post-traumatic stress disorder
+KW  - personal safety
+KW  - cognitive processing therapy
+KW  - natural healing process
+PY  - 2011
+AB  - Summary This chapter contains sections titled: Evaluating Your Actual, Personal Risks Maximizing Your Preparedness Dealing with Trauma Accepting a Certain Degree of Uncertainty
+ER  - 
+
+TY  - JOUR
+AU  - De Pasquale, Maria Debora
+AU  - De Ioris, Maria Antonietta
+AU  - Serra, Annalisa
+AU  - Pessolano, Rosanna
+AU  - Donfrancesco, Alberto
+AU  - De Sio, Luigi
+TI  - Pancreatitis as an unusual presentation of rhabdomyosarcoma
+JO  - Pediatric Blood & Cancer
+JA  - Pediatr. Blood Cancer
+VL  - 52
+IS  - 7
+SN  - 9780470574416
+UR  - https://doi.org/10.1002/pbc.21901
+DO  - doi:10.1002/pbc.21901
+SP  - 879
+EP  - 880
+KW  - pancreatic metastasis
+KW  - pancreatitis
+KW  - rhabdomyosarcoma
+PY  - 2009
+AB  - Abstract The most common etiologies of acute pancreatitis in children are trauma, multi-system disease, drugs, infections, idiopathic and congenital anomalies of the pancreaticobiliary system. Acute pancreatitis is rarely associated with underlying childhood malignancies. We report a 12-year-old male with acute pancreatitis as the presenting symptom of an alveolar metastatic rhabdomyosarcoma. Pediatr Blood Cancer 2009;52:879?880. ? 2009 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+AU  - Galanzha, Ekaterina I.
+AU  - Zharov, Vladimir P.
+TI  - In vivo photoacoustic and photothermal cytometry for monitoring multiple blood rheology parameters
+JO  - Cytometry Part A
+JA  - Cytometry
+VL  - 79A
+IS  - 10
+SN  - 9780470574416
+UR  - https://doi.org/10.1002/cyto.a.21133
+DO  - doi:10.1002/cyto.a.21133
+SP  - 746
+EP  - 757
+KW  - blood rheology
+KW  - in vivo flow cytometry
+KW  - photoacoustics
+KW  - photothermal imaging
+KW  - red blood cells
+KW  - aggregation
+KW  - hematocrit
+KW  - sickle cells
+PY  - 2011
+AB  - Abstract Alterations of blood rheology (hemorheology) are important for the early diagnosis, prognosis, and prevention of many diseases, including myocardial infarction, stroke, sickle cell anemia, thromboembolism, trauma, inflammation, and malignancy. However, real-time in vivo assessment of multiple hemorheological parameters over long periods of time has not been reported. Here, we review the capabilities of label-free photoacoustic (PA) and photothermal (PT) flow cytometry for dynamic monitoring of hemorhelogical parameters in vivo which we refer to as photoacoustic and photothermal blood rheology. Using phenomenological models, we analyze correlations between both PT and PA signal characteristics in the dynamic modes and following determinants of blood rheology: red blood cell (RBC) aggregation, deformability, shape (e.g., as in sickle cells), intracellular hemoglobin distribution, individual cell velocity, hematocrit, and likely shear rate. We present ex vivo and in vivo experimental verifications involving high-speed PT imaging of RBCs, identification of sickle cells in a mouse model of human sickle cell disease and in vivo monitoring of complex hemorheological changes (e.g., RBC deformability, hematocrit and RBC aggregation). The multi-parameter platform that integrates PT, PA, and conventional optical techniques has potential for translation to clinical applications using safe, portable, laser-based medical devices for point-of-care screening of disease progression and therapy efficiency. ? 2011 International Society for Advancement of Cytometry
+ER  - 
+
+TY  - JOUR
+AU  - Bohorquez, H.
+AU  - Seal, J. B.
+AU  - Cohen, A. J.
+AU  - Kressel, A.
+AU  - Bugeaud, E.
+AU  - Bruce, D. S.
+AU  - Carmody, I. C.
+AU  - Reichman, T. W.
+AU  - Battula, N.
+AU  - Alsaggaf, M.
+AU  - Therapondos, G.
+AU  - Bzowej, N.
+AU  - Tyson, G.
+AU  - Joshi, S.
+AU  - Nicolau-Raducu, R.
+AU  - Girgrah, N.
+AU  - Loss, G. E.
+TI  - Safety and Outcomes in 100 Consecutive Donation After Circulatory Death Liver Transplants Using a Protocol That Includes Thrombolytic Therapy
+JO  - American Journal of Transplantation
+JA  - Am J Transplant
+VL  - 17
+IS  - 8
+SN  - 9780470574416
+UR  - https://doi.org/10.1111/ajt.14261
+DO  - doi:10.1111/ajt.14261
+SP  - 2155
+EP  - 2164
+KW  - clinical research/practice
+KW  - liver transplantation/hepatology
+KW  - organ procurement and allocation
+KW  - donors and donation
+KW  - donation after circulatory death (DCD)
+KW  - liver allograft function/dysfunction
+PY  - 2017
+AB  - Donation after circulatory death (DCD) liver transplantation (LT) reportedly yields inferior survival and increased complication rates compared with donation after brain death (DBD). We compare 100 consecutive DCD LT using a protocol that includes thrombolytic therapy (late DCD group) to an historical DCD group (early DCD group n = 38) and a cohort of DBD LT recipients (DBD group n = 435). Late DCD LT recipients had better 1- and 3-year graft survival rates than early DCD LT recipients (92% vs. 76.3%, p = 0.03 and 91.4% vs. 73.7%, p = 0.01). Late DCD graft survival rates were comparable to those of the DBD group (92% vs. 93.3%, p = 0.24 and 91.4% vs. 88.2%, p = 0.62). Re-transplantation occurred in 18.4% versus 1% for the early and late DCD groups, respectively (p = 0.001). Patient survival was similar in all three groups. Ischemic-type biliary lesions (ITBL) occurred in 5%, 3%, and 0.2% for early DCD, late DCD, and DBD groups, respectively, but unlike in the early DCD group, in the late DCD group ITBL was endoscopically managed and resolved in each case. Using a protocol that includes a thrombolytic therapy, DCD LT yielded patient and graft survival rates comparable to DBD LT.
+ER  - 
+
+AU  - Brown, Lisa M.
+AU  - Shiang, Julia
+AU  - Bongar, Bruce
+C7  - pp. 431-451
+TI  - Crisis Intervention
+SN  - 9780471176695
+UR  - https://doi.org/10.1002/0471264385.wei0818
+DO  - doi:10.1002/0471264385.wei0818
+SP  - 431-451
+KW  - crisis intervention
+KW  - cross-cultural treatment
+KW  - disaster
+KW  - history
+KW  - psychotherapy
+KW  - theory
+KW  - trauma
+PY  - 2017
+AB  - Abstract Crisis intervention services are now widely recognized as an efficacious treatment modality for the provision of emergency mental health care to individuals and groups. During the course of a lifetime, all people experience a variety of personal traumas, such as divorce or illness, while many others will also live through cataclysmic events, such as natural disasters or acts of violence, that result in a state of crisis. Although exposure to traumatic stressors can trigger adverse, long-term effects that can become extremely difficult to resolve without the timely delivery of effective, psychological intervention, crisis states can also provide an avenue for personal growth. This chapter presents a summary of the historical highlights and the theoretical influences on the development of modem crisis intervention theory. An overview of solution focused therapy, cognitive therapy, and other useful techniques are presented along with the differences and similarities in the delivery of emergency mental health services to individuals and groups. Case examples are used to illustrate the implementation of specific assessments and interventions in providing crisis intervention services. A general framework for collaborating with law enforcement and other agencies providing emergency care providers is presented. Cultural considerations in the context of a crisis, current research, and relevant legal issues are reviewed.
+ER  - 
+
+TY  - JOUR
+AU  - Özvatan, Tülay
+AU  - Akalın, Halis
+AU  - Sınırtaş, Melda
+AU  - Ocakoğlu, Gökhan
+AU  - Yılmaz, Emel
+AU  - Heper, Yasemin
+AU  - Kelebek, Nermin
+AU  - İşçimen, Remzi
+AU  - Kahveci, Ferda
+TI  - Nosocomial Acinetobacter pneumonia: Treatment and prognostic factors in 356 cases
+JO  - Respirology
+JA  - Respirology
+VL  - 21
+IS  - 2
+SN  - 9780471176695
+UR  - https://doi.org/10.1111/resp.12698
+DO  - doi:10.1111/resp.12698
+SP  - 363
+EP  - 369
+KW  - Acinetobacter baumannii
+KW  - colistin
+KW  - nosocomial pneumonia
+KW  - pneumonia
+KW  - ventilator-associated pneumonia
+PY  - 2016
+AB  - Abstract Background and objective Acinetobacter baumannii and A. baumannii/calcoaceticus complex are commonly encountered pathogens in nosocomial infections. This study aimed to evaluate the treatment and prognostic risk factors in nosocomial pneumonia caused by these microorganisms. Methods The study was conducted retrospectively in Uludag University Hospital and included 356 adult non-neutropenic patients with nosocomial pneumonia. Results Of the subjects, 94.9% (n?=?338) had ventilator-associated pneumonia. The clinical response rate was 57.2%, the 14-day mortality 39.6% and the 30-day mortality 53.1%. The significant independent risk factors for the 30-day mortality were severe sepsis (OR, 2.60; 95% CI: 1.49?4.56; P?=?0.001), septic shock (OR, 6.12; 95% CI: 2.75?13.64; P?<?0.001), APACHE II score?≥?20 (OR, 2.12; 95% CI: 1.28?3.50; P?=?0.003) and empiric monotherapy (OR, 1.63; 95% CI: 1.00?2.64; P?=?0.048). Multi-trauma (OR, 2.50; 95% CI: 1.11?5.68; P?=?0.028) was found to be a protective factor. In patients with a clinical pulmonary infection score (CPIS)?>?6 on the third day of treatment, both the 14- and 30-day mortality rates were high (P?<?0.001, P?<?0.001). Also, the 14- and 30-day mortality rates were significantly higher in the patients treated with empiric monotherapy compared with combination therapy (48/93 (51.6%)?46/123 (37.4%), P?=?0.037 and 62/93 (66.7%)?65/123 (52.8%), P?=?0.041, respectively) in pneumonia caused by imipenem-resistant strains. Conclusion Mortality rates were high in pneumonia caused by imipenem-resistant A. baumannii or A. baumannii/calcoaceticus complex. In the units with a high level of carbapenem resistance, antibiotic combinations should be considered for empiric therapy.
+ER  - 
+
+TY  - JOUR
+AU  - MATSUMOTO, TOSHIHIKO
+AU  - YAMAGUCHI, AKIKO
+AU  - ASAMI, TAKESHI
+AU  - OKADA, TAKAYUKI
+AU  - YOSHIKAWA, KAZUO
+AU  - HIRAYASU, YOSHIO
+TI  - Characteristics of self-cutters among male inmates: Association with bulimia and dissociation
+JO  - Psychiatry and Clinical Neurosciences
+VL  - 59
+IS  - 3
+SN  - 9780471176695
+UR  - https://doi.org/10.1111/j.1440-1819.2005.01377.x
+DO  - doi:10.1111/j.1440-1819.2005.01377.x
+SP  - 319
+EP  - 326
+KW  - bulimia
+KW  - dissociation
+KW  - male
+KW  - prison
+KW  - self-mutilation
+PY  - 2005
+AB  - Abstract? It was examined whether bulimia and dissociation are common in male self-cutters, as has been found in female self-cutters. The subjects were 796 male inmates of a juvenile prison. A self-reporting questionnaire was used to assess self-cutting, histories of psychoactive substance use, problem behaviors, and traumatic life events in the subjects. The Adolescent Dissociative Experience Scale and the Bulimia Investigatory Test of Edinburgh were also used. Subjects were divided into two groups: self-cutting and non-cutting. Questionnaire responses and dissociation and bulimia assessments were compared between the groups. Self-cutters began smoking (P?<?0.001) and drinking (P?<?0.001) earlier, and more frequently used illicit psychoactive drugs (P?<?0.001), experienced childhood physical abuse (P?<?0.001), and reported suicide attempts (P?<?0.001), suicidal ideation (P?<?0.001), and outward violence toward a person (P?<?0.001) or object (P?<?0.001) than non-cutters. Self-cutters also scored significantly higher on the bulimia (P?<?0.001) and dissociation tests (P?<?0.001). Logistic regression analysis demonstrated that suicide attempt (odds ratio, 4.311) and suicidal ideation (odds ratio, 2.336) could discriminate between male inmates with and without self-cutting. Male self-cutters showed ?multi-impulsive bulimic? tendencies resembling those of female self-cutters, although to a lesser extent. Clinical features of male as opposed to female self-cutters were influenced by gender differences.
+ER  - 
+
+TY  - JOUR
+AU  - Molina, Julie R.
+AU  - Vann Jr, William F.
+AU  - McIntyre, Judy D.
+AU  - Trope, Martin
+AU  - Lee, Jessica Y.
+TI  - Root fractures in children and adolescents: diagnostic considerations
+JO  - Dental Traumatology
+VL  - 24
+IS  - 5
+SN  - 9780471176695
+UR  - https://doi.org/10.1111/j.1600-9657.2008.00652.x
+DO  - doi:10.1111/j.1600-9657.2008.00652.x
+SP  - 503
+EP  - 509
+PY  - 2008
+AB  - Abstract??? The objectives of this study were to (i) characterize epidemiologic trends in anterior permanent tooth trauma in a sample of children and adolescents (ii) examine the relationship of crown fractures (CF) and concomitant root fractures (RF) to determine if CFs are protective against RFs and (iii) examine the radiographic evidence of RFs to determine the value of obtaining three vertical periapical radiographic projections. This was an 8-year cross-sectional study of patients aged 6?18 with anterior permanent tooth trauma. We examined cases involving maxillary central/lateral incisors for which three clearly diagnostic periapical radiographs were obtained during the initial emergency visit. Two trained and calibrated dentists served as expert examiners for the radiographic assessments. Kappa statistics were used to determine reliability. Tests for association of concomitant crown and root fractures were performed using Likelihood Ratio Chi-Square tests. The final sample included 185 teeth in 114 children. Our demographic and epidemiologic findings were comparable to those of previous studies. Experts reached this consensus: 22 RFs were detected, 9.6% (eight out of 83) teeth exhibited root fractures when no CFs was documented, and 13.7% (14 out of 102) teeth had both CFs and RFs as separate entities. Good examiner reliability was reached confirming the presence of RFs (Kappa?=?0.81). The association of concomitant RFs and CFs was odds ratio?=?1.97 (P?=?0.052). CFs were not protective against RFs; indeed, teeth with CFs were twice as likely to have an RF as those without CFs. As the number of radiographic projections increased, RFs were identified more often; however, our data suggest that there is no reason to suspect a complete RF in preteen children unless the root exhibits clinical signs such as luxation or severe mobility. This study provides solid evidence to support obtaining multiple radiographic projections at different vertical angulations to rule out RFs in children and adolescents when RFs are suspected.
+ER  - 
+
+TY  - JOUR
+AU  - SHEPHERD, JONATHAN P.
+TI  - Injury and illness experience in victims of violence, with particular reference to DATES syndrome
+JO  - Criminal Behaviour and Mental Health
+VL  - 5
+IS  - 4
+SN  - 9780471176695
+UR  - https://doi.org/10.1002/cbm.1995.5.4.351
+DO  - doi:10.1002/cbm.1995.5.4.351
+SP  - 351
+EP  - 366
+PY  - 1995
+AB  - Injuries sustained in violence are both physical and psychological. These two major effects are often investigated and treated in isolation. The study of assaultive injury, as opposed to victims in the criminal justice system, has given new perspectives on precise cause, the role of alcohol, comparative psychological impact of assault and accidents and how violence is reported, recorded and investigated in the criminal justice system. It has also produced a new injury severity scale and means of calculating compensation awards. Discoveries emanating from this research provide a compelling argument for an integrated multi-agency approach to adult violence, to optimise effectiveness of treatment, to bring hospitals into community crime prevention and to deal with the causes of injury. An integrated approach to research has led to the study of illness and injury experience prior to violence. In turn this has led to the realisation that antisocial behaviour probably gives rise to particular illnesses. DATES syndrome, which comprises drug abuse, assault, trauma and elective surgery, describes archetypal illness behaviour in the injured, but not necessarily in ?victims?. Further work is necessary to look for differing illness experience between offenders and the injured and to correlate offending, illness and injury with psychological, behavioural and developmental variables.
+ER  - 
+
+TY  - JOUR
+AU  - Kremers, I.P.
+AU  - Spinhoven, Ph.
+AU  - Van der Does, A.J.W.
+TI  - Autobiographical memory in depressed and non-depressed patients with borderline personality disorder
+JO  - British Journal of Clinical Psychology
+VL  - 43
+IS  - 1
+SN  - 9780471176695
+UR  - https://doi.org/10.1348/014466504772812940
+DO  - doi:10.1348/014466504772812940
+SP  - 17
+EP  - 29
+PY  - 2004
+AB  - Objectives: The present study investigated the specificity of autobiographical memories among depressed and non-depressed borderline patients, compared with depressed patients and controls. The influence of childhood trauma, intrusions of traumatic events, avoidance of intrusions, dissociation and depression on memory specificity was also studied. Method: The Autobiographical Memory Test (AMT), a trauma interview and self-report measures of intrusions, avoidance, depression and dissociation were administered to 83 borderline outpatients, 26 depressed outpatients and 30 controls. Results: Depressed borderline patients and depressed patients reported fewer specific memories than controls. Depressed patients generated fewer specific memories than non-depressed borderline patients. Neither trauma nor traumatic intrusions, avoidance of intrusions or dissociation were related to the specificity of memories. Level of depressive symptoms (BDI) was also not related, but the presence of a depression was. Conclusion: In this large sample of outpatients with borderline personality disorder, only the subgroup with a co-morbid diagnosis of depression had trouble remembering specific events from the past. Trauma, intrusions, avoidance of intrusions and dissociation seem to be unrelated to the specificity of autobiographical memories in borderline personality disorder.
+ER  - 
+
+TY  - JOUR
+AU  - Kannus, P.
+AU  - Natri, A.
+TI  - Etiology and pathophysiology of tendon ruptures in sports
+JO  - Scandinavian Journal of Medicine & Science in Sports
+VL  - 7
+IS  - 2
+SN  - 9780471176695
+UR  - https://doi.org/10.1111/j.1600-0838.1997.tb00126.x
+DO  - doi:10.1111/j.1600-0838.1997.tb00126.x
+SP  - 107
+EP  - 112
+KW  - etiology
+KW  - pathogenesis
+KW  - tendon tears
+KW  - sports
+KW  - exercise
+PY  - 1997
+AB  - Of all spontaneous tendon ruptures, complete Achilles tendon tears are most closely associated with sports activities (1?3). Schönbauer (3) reported that 75% of all ruptures of the Achilles tendon are related to sports. In Plecko  and in North America, football, basketball, baseball, tennis and downhill skiing dominate the statistics (1, 2, 4). In sports, some Achilles ruptures are not spontaneous or degeneration-induced but may occur as a consequence of the remarkably high forces that are involved in the performance (2). Ruptures in the high jump or triple jump are good examples. In such cases, failure in the neuromuscular protective mechanisms due to fatigue or disturbed co-ordination can frequently be found. The spontaneous complete rupture of the supraspinatus tendon of the rotator cuff does not occur very frequently in sports. Those sports that include high-energy throwing movements, such as American and Finnish baseball, American football, rugby and discus and javelin throwing, may, however, produce this injury. Partial tears and inflammations of the rotator cuff complex are much more frequent in throwing sports. The complete rupture of the proximal long head of the biceps brachii tendon is rare among competitive and recreational athletes. In our material, under 2% of these ruptures were associated with sports activities (5). The rupture (avulsion) of the distal tendon of the biceps muscle is rare. In sports, gymnastics, body building and weight lifting have been said to be able to produce this injury (6). In general, complete ruptures of the quadriceps tendon and the patellar tendon occur most often in older individuals. In our study, the mean age of these patients was 65 years (5). However, these injuries do also occur in younger age groups, especially in athletes. In athletes, the rupture most frequently occurs in high-power sports events, such as high jump, basketball and weight lifting, at the age of 15-30 years. A chronic patellar apicitis (jumper's knee) may predispose rupture of the tendon (7). As is the case with the rotator cuff complex, overuse inflammation and partial tears of the quadriceps and patellar tendons are one of the most characteristic athletic injuries. Complete spontaneous ruptures of other tendons in sports are rare, although the literature does provide case studies from almost every tendon the human body possesses (8?18).
+ER  - 
+
+AU  - McCarthy, Jane
+AU  - Sinason, Valerie
+AU  - Hollins, Sheila
+TI  - Intellectually Disabled in Britain: Sexuality and Procreation
+SN  - 9780470016176
+UR  - https://doi.org/10.1002/9780470015902.a0005217.pub2
+DO  - doi:10.1002/9780470015902.a0005217.pub2
+KW  - disability
+KW  - parenting
+KW  - sexuality
+KW  - competence
+KW  - reproduction
+KW  - eugenics
+PY  - 1997
+AB  - Abstract Ethical and social issues surround the issue of sexuality and parenting for people with intellectual disabilities. The traumatic history of eugenics is encapsulated in Nazi Germany's description of those with intellectual disability as unworthy of life and the 250?000 children and adults who were gassed but conscious and unconscious wishes to deny sexual and procreative rights to those with an intellectual disability is world-wide and contemporary despite legislative change. However, given the high levels of sexual abuse and exploitation that come from internal and external stigmatisation and trauma the movement towards greater human rights, sexual education and access to psychotherapy heralds new hope for children and adults with an intellectual disability and the wider community. Key Concepts: In working with people with intellectual disability on the themes of sexuality and procreation a multi-disciplinary approach is needed. Ethics, human rights, genetics and psychotherapy are all relevant in working with sexuality and procreation in people with intellectual disability. A history of trauma and eugenics is a necessary prerequisite to understanding the controversial topic of disability, sexuality and procreation. Co-operation with geneticists is important in considering procreation and disability. People with an intellectual disability have a right to their own sexuality.
+ER  - 
+
+TY  - JOUR
+AU  - Bremner, J. Douglas
+AU  - Krystal, John H.
+AU  - Southwick, Steven M.
+AU  - Charney, Dennis S.
+TI  - Functional neuroanatomical correlates of the effects of stress on memory
+JO  - Journal of Traumatic Stress
+JA  - J. Traum. Stress
+VL  - 8
+IS  - 4
+SN  - 9780470016176
+UR  - https://doi.org/10.1002/jts.2490080403
+DO  - doi:10.1002/jts.2490080403
+SP  - 527
+EP  - 553
+KW  - PTSD
+KW  - dissociation
+KW  - memory
+KW  - amygdala
+KW  - hippocampus
+KW  - amnesia
+KW  - trauma
+KW  - stress
+KW  - neurobiology
+PY  - 1995
+AB  - Abstract Recently there has been an increase in interest in the relationship between stress and memory. Brain regions which are involved in memory function also effect the stress response. Traumatic stress results in changes in these brain regions; alterations in these brain regions in turn may mediate symptoms of posttraumatic stress disorder (PTSD). Neural mechanisms which are relevant to the effects of stress on memory, such as fear conditioning, stress sensitization, and extinction, are reviewed in relation to their implications for PTSD. Special topics including neural mechanisms in dissociation, neurobiological approaches to the validity of childhood memories as they apply to controversies over the ?False Memory Syndrome,? and implications of the effects of stress on memory for psychotherapy, are also reviewed. The findings discussed in this paper are consistent with the formulation that stress-induced alterations in brain regions and systems involved in memory may underlie many of the symptoms of PTSD, as well as dissociative amnesia, seen in survivors of traumatic stress.
+ER  - 
+
+TY  - JOUR
+AU  - Mohammadi, Zahed
+AU  - Farhad, Alireza
+AU  - Tabrizizadeh, Mehdi
+TI  - One-visit versus multiple-visit endodontic therapy — a review
+JO  - International Dental Journal
+VL  - 56
+IS  - 5
+SN  - 9780470016176
+UR  - https://doi.org/10.1111/j.1875-595X.2006.tb00103.x
+DO  - doi:10.1111/j.1875-595X.2006.tb00103.x
+SP  - 289
+EP  - 293
+KW  - One-visit endodontics
+KW  - intracanal medication
+KW  - success rate
+PY  - 2006
+AB  - A growing perception in endodontic circles is that root canal therapy requires one treatment visit only. One-visit endodontics offers many potential advantages. It is less time-consuming, resulting in less cost for the patient, potentially more profit for the dentist, less painful and less traumatic than multi-visit treatment. Conversely, if the pulp is necrotic and/or associated with periradicular disease, the root canal system is infected. In these cases, the root canal system should ideally be cleaned, an intracanal medication placed, and the canal filled at a second visit. In this paper we aim to review several aspects of one-visit versus multi-visit endodontic treatment and future perspectives in this field.
+ER  - 

@@ -1,0 +1,500 @@
+
+TY  - JOUR
+AU  - Hopcroft, Suzanne A
+AU  - Shepherd, Neil A
+TI  - The changing role of the pathologist in the management of Barrett's oesophagus
+JO  - Histopathology
+JA  - Histopathology
+VL  - 65
+IS  - 4
+SN  - 0309-0167
+UR  - https://doi.org/10.1111/his.12457
+DO  - doi:10.1111/his.12457
+SP  - 441
+EP  - 455
+KW  - adenocarcinoma
+KW  - Barrett's oesophagus
+KW  - definition
+KW  - diagnosis
+KW  - dysplasia
+KW  - management
+KW  - neoplasia
+KW  - oesophagus
+PY  - 2014
+AB  - Pathological specimens from columnar-lined oesophagus (CLO) comprise a considerable proportion of the workload of gastrointestinal pathologists in Western countries. There remain controversies concerning the diagnostic role of pathology. More recently, in the UK at least, the diagnosis has been regarded as primarily an endoscopic endeavour, with pathology being corroborative and only diagnostic when endoscopic features are equivocal or when there are additional features that make the endoscopic diagnosis unclear. There is also recognition that demonstration of intestinalisation or ?goblet cells? is not paramount, and should not be required for the diagnosis. There have been notable changes in the management of CLO neoplasia: pathologists are centrally involved in its management. Pathological assessment of endoscopic mucosal resection (EMR) specimens provides the most useful means of determining the management of early neoplasia and of determining indications for surgery. This represents an extraordinarily rapid change in management, in that, <10 years ago, laborious Seattle-type biopsy protocols were recommended, and high grade dysplasia was an indication for resectional surgery. Now, individual patient management is paramount: multi-professional meetings determine management after biopsy and EMR assessment. One significant change is that major resections are undertaken less often, in Western countries, for CLO neoplasia.
+ER  - 
+
+TY  - JOUR
+AU  - Arial, Marc
+AU  - Wild, Pascal
+AU  - Benoit, Damien
+AU  - Chouaniere, Dominique
+AU  - Danuser, Brigitta
+TI  - Multi-level modeling of aspects associated with poor mental health in a sample of prehospital emergency professionals
+JO  - American Journal of Industrial Medicine
+JA  - Am. J. Ind. Med.
+VL  - 54
+IS  - 11
+SN  - 0271-3586
+UR  - https://doi.org/10.1002/ajim.20992
+DO  - doi:10.1002/ajim.20992
+SP  - 847
+EP  - 857
+KW  - ambulance
+KW  - paramedics
+KW  - effort–reward imbalance
+KW  - out-of-hospital care providers
+KW  - multi-level modeling
+KW  - GHQ
+PY  - 2011
+AB  - Abstract Background The goal of this paper is to investigate the respective influence of work characteristics, the effort?reward ratio, and overcommitment on the poor mental health of out-of-hospital care providers. Methods 333 out-of-hospital care providers answered a questionnaire that included queries on mental health (GHQ-12), demographics, health-related information and work characteristics, questions from the Effort?Reward Imbalance Questionnaire, and items about overcommitment. A two-level multiple regression was performed between mental health (the dependent variable) and the effort?reward ratio, the overcommitment score, weekly number of interventions, percentage of non-prehospital transport of patients out of total missions, gender, and age. Participants were first-level units, and ambulance services were second-level units. We also shadowed ambulance personnel for a total of 416?hr. Results With cutoff points of 2/3 and 3/4 positive answers on the GHQ-12, the percentages of potential cases with poor mental health were 20% and 15%, respectively. The effort?reward ratio was associated with poor mental health (P?<?0.001), irrespective of age or gender. Overcommitment was associated with poor mental health; this association was stronger in women (??=?0.054) than in men (??=?0.020). The percentage of prehospital missions out of total missions was only associated with poor mental health at the individual level. Conclusions Emergency medical services should pay attention to the way employees perceive their efforts and the rewarding aspects of their work: an imbalance of those aspects is associated with poor mental health. Low perceived esteem appeared particularly associated with poor mental health. This suggests that supervisors of emergency medical services should enhance the value of their employees' work. Employees with overcommitment should also receive appropriate consideration. Preventive measures should target individual perceptions of effort and reward in order to improve mental health in prehospital care providers. Am. J. Ind. Med. 54:847?857, 2011. ? 2011 Wiley Periodicals, Inc.
+ER  - 
+
+C7  - pp. 55-87
+TI  - Anatomy, Physiology, and Pathology in Imaging
+SN  - 9780470552209
+UR  - https://doi.org/10.1002/9781118671016.ch2
+DO  - doi:10.1002/9781118671016.ch2
+SP  - 55-87
+KW  - anatomy
+KW  - cardiovascular system
+KW  - central nervous system
+KW  - imaging modalities
+KW  - medical imaging
+KW  - pathology
+KW  - peripheral nervous system
+KW  - physiology
+KW  - pulmonary system
+PY  - 2011
+AB  - Abstract This chapter applies the principles of the interaction of radiation with matter when that interaction takes place in the context of the human body. Medical imaging uses the transport of energy, i.e. radiation, to provide information about the subject of interest. The chapter discusses primarily the attributes relevant to imaging different materials in the body using ionizing radiation. It summarizes the aspects of anatomy, physiology, and pathology that are pervasive in medical imaging, and how the major imaging modalities aid in the diagnosis and patient management. The function of the pulmonary system is to bring air from the environment into close proximity to the circulatory system for the purpose of the exchange of oxygen and carbon dioxide. The cardiovascular system consists of the heart and a network of blood vessels called the circulatory or vascular system. The nervous system is divided into two systems: the central nervous system and the peripheral nervous system.
+ER  - 
+
+TY  - JOUR
+AU  - Springer, Christopher
+AU  - Greco, Francesco
+AU  - Autorino, Riccardo
+AU  - Rha, Koon H.
+AU  - Derweesh, Ithaar
+AU  - Cindolo, Luca
+AU  - Richstone, Lee
+AU  - Herrmann, Thomas R.W.
+AU  - Liatsikos, Evangelos
+AU  - Sun, Yinghao
+AU  - Fanizza, Caterina
+AU  - Nagele, Udo
+AU  - Stolzenburg, Jens-Uwe
+AU  - Rais-Bahrami, Soroush
+AU  - Liss, Michael A.
+AU  - Schips, Luigi
+AU  - Kassab, Ahmad
+AU  - Wang, Linhui
+AU  - Kallidonis, Panagiotis
+AU  - Wu, Zhenjie
+AU  - Young, Shin Tae
+AU  - Altieri, Vincenzo M.
+AU  - Haber, Georges-Pascal
+AU  - Fornara, Paolo
+AU  - Kaouk, Jihad H.
+TI  - Analysis of oncological outcomes and renal function after laparoendoscopic single-site (LESS) partial nephrectomy: a multi-institutional outcome analysis
+JO  - BJU International
+JA  - BJU Int
+VL  - 113
+IS  - 2
+SN  - 9780470552209
+UR  - https://doi.org/10.1111/bju.12376
+DO  - doi:10.1111/bju.12376
+SP  - 266
+EP  - 274
+KW  - laparoendoscopic single-site surgery
+KW  - LESS
+KW  - partial nephrectomy
+KW  - warm ischaemia time
+KW  - complications
+PY  - 2014
+AB  - Objective To report on a large multi-institutional series of laparoendoscopic single-site (LESS) partial nephrectomy (PN) and analyse renal function and short-term oncological outcomes. Material and Methods We conducted a retrospective analysis of consecutive cases of LESS-PN performed between November 2007 and March 2012 at 11 participating institutions. Demographic data and data on the main peri-operative outcomes and complications were gathered and analysed. Kidney function was evaluated by measuring serum creatinine concentration and estimated glomerular filtration rate (eGFR). Chronic kidney disease was defined in stages for each patient according to the National Kidney Foundation, Kidney Disease Outcomes Quality Initiative. Results A total of 190 cases were included in this analysis. The mean renal tumour size was 2.6?cm, and the mean PADUA score was 7.2. The median operating time was 170?min with a median estimated blood loss of 150?mL. A clampless technique was used in 70 cases (36.8%) and the median warm ischaemia time (WIT) was 16.5?min. PADUA score independently predicted the length of WIT (low vs high score: odds ratio 5.11, CI 1.50?17.41, P = 0.009; intermediate vs high score: odds ratio 5.13, CI 1.56?16.88, P = 0.007). The overall postoperative complication rate was 14.7%. Where a clamping technique was used, a significant increase in serum creatinine concentration and a significant decrease in eGFR were observed postoperatively and at 6 months. On multivariate analysis PADUA score was the only predicting factor. Overall survival rates were 99, 97 and 88% at 12-, 24- and 36-month follow-up, respectively, while disease-free survival rates were 98% at 12-month and 97% at 24- and 36-month follow-up. Conclusion The study showed that LESS-PN is effective in terms of renal function preservation and oncological control at short- and intermediate-term follow-up.
+ER  - 
+
+TY  - JOUR
+AU  - Kou, Zhifeng
+AU  - VandeVord, Pamela J.
+TI  - Traumatic white matter injury and glial activation: From basic science to clinics
+JO  - Glia
+JA  - Glia
+VL  - 62
+IS  - 11
+SN  - 9780470552209
+UR  - https://doi.org/10.1002/glia.22690
+DO  - doi:10.1002/glia.22690
+SP  - 1831
+EP  - 1855
+KW  - traumatic brain injury
+KW  - traumatic axonal injury
+KW  - diffuse axonal injury
+KW  - glial activation
+KW  - neuroinflammation
+KW  - microglia
+KW  - astrocyte
+KW  - biomarkers
+KW  - magnetic resonance imaging
+KW  - neuroimaging
+KW  - diffusion tensor imaging
+PY  - 2014
+AB  - An improved understanding and characterization of glial activation and its relationship with white matter injury will likely serve as a novel treatment target to curb post injury inflammation and promote axonal remyelination after brain trauma. Traumatic brain injury (TBI) is a significant public healthcare burden and a leading cause of death and disability in the United States. Particularly, traumatic white matter (WM) injury or traumatic axonal injury has been reported as being associated with patients' poor outcomes. However, there is very limited data reporting the importance of glial activation after TBI and its interaction with WM injury. This article presents a systematic review of traumatic WM injury and the associated glial activation, from basic science to clinical diagnosis and prognosis, from advanced neuroimaging perspective. It concludes that there is a disconnection between WM injury research and the essential role of glia which serve to restore a healthy environment for axonal regeneration following WM injury. Particularly, there is a significant lack of non-invasive means to characterize the complex pathophysiology of WM injury and glial activation in both animal models and in humans. An improved understanding and characterization of the relationship between glia and WM injury will likely serve as a novel treatment target to curb post injury inflammation and promote axonal remyelination. GLIA 2014;62:1831?1855
+ER  - 
+
+AU  - Sheikh, Adnan
+C7  - pp. 289-339
+TI  - Ankle and Foot
+SN  - 9781118158814
+UR  - https://doi.org/10.1002/9781118551691.ch9
+DO  - doi:10.1002/9781118551691.ch9
+SP  - 289-339
+KW  - ankle
+KW  - Computed Tomography (CT)
+KW  - dislocation
+KW  - foot
+KW  - fracture
+KW  - imaging evaluation
+KW  - Magnetic Resonance (MR) imaging
+KW  - radiograph interpretation
+KW  - trauma
+KW  - ultrasound
+PY  - 2014
+AB  - Summary This chapter begins with an introduction of the anatomy of the ankle and foot. Appropriateness criteria for imaging foot and ankle trauma are then discussed. The ankle and foot are anatomically distinct from each other and therefore radiographic evaluation of each is different from the other. Standard ankle radiographs include anteroposterior (AP), lateral, and mortise view, and foot radiographs include AP, lateral, and oblique views. Computed Tomography (CT) is used for pre-operative planning in patients with complex distal tibial and malleolar fractures, tarsal fractures and Lisfranc fracture-dislocations. Magnetic Resonance (MR) imaging is indicated in assessment of radiographically occult stress and insufficiency fractures. In the setting of foot and ankle trauma, ultrasound is often performed to evaluate the Achilles tendon for the presence and severity of a tear. The key to interpreting ankle and foot radiographs is familiarity with normal anatomy and injury patterns that may involve the ankle and foot.
+ER  - 
+
+TY  - JOUR
+AU  - Fung, Ellen B.
+AU  - Harmatz, Paul
+AU  - Milet, Meredith
+AU  - Ballas, Samir K.
+AU  - De Castro, Laura
+AU  - Hagar, Ward
+AU  - Owen, William
+AU  - Olivieri, Nancy
+AU  - Smith-Whitley, Kim
+AU  - Darbari, Deepika
+AU  - Wang, Winfred
+AU  - Vichinsky, Elliott
+AU  - The Multi-Center Study of Iron Overload Research Group 
+TI  - Morbidity and mortality in chronically transfused subjects with thalassemia and sickle cell disease: A report from the multi-center study of iron overload
+JO  - American Journal of Hematology
+JA  - Am. J. Hematol.
+VL  - 82
+IS  - 4
+SN  - 9781118158814
+UR  - https://doi.org/10.1002/ajh.20809
+DO  - doi:10.1002/ajh.20809
+SP  - 255
+EP  - 265
+KW  - sickle cell disease (SCD)
+KW  - thalassemia (Thal)
+KW  - iron overload
+KW  - hospitalization
+KW  - morbidity
+KW  - mortality
+PY  - 2007
+AB  - Abstract A natural history study was conducted in 142 Thalassemic (Thal), 199 transfused Sickle Cell Disease (Tx-SCD, n = 199), and 64 non-Tx-SCD subjects to describe the frequency of iron-related morbidity and mortality. Subjects recruited from 31 centers in the US, Canada or the UK were similar with respect to age (overall: 25 ± 11 years, mean ± SD) and gender (52% female). We found that Tx-SCD subjects were hospitalized more frequently compared with Thal or non-Tx-SCD (P < 0.001). Among those hospitalized, Tx-SCD adult subjects were more likely to be unemployed compared with Thal (RR = 1.6, 95% CI 1.0?2.5) or non-Tx-SCD (RR = 3.1, 95% CI 1.3?7.3). There was a positive relationship between the severity of iron overload, assessed by serum ferritin, and the frequency of hospitalizations (r= 0.20; P = 0.009). Twenty-three deaths were reported (6 Thal, 17 Tx-SCD) in 23.5 ± 10 months of follow-up. Within the Tx-SCD group, those who died began transfusion (25.3 vs. 12.4 years, P < 0.001) and chelation therapy later (26.8 vs. 14.2 years, P = 0.01) compared with those who survived. The unadjusted death rate in Thal was lower (2.2/100 person years) compared with that in Tx-SCD (7.0/100 person years; RR = 0.38: 95% CI 0.12?0.99). However, no difference was observed when age at death was considered. Despite improvements in therapy, death rate in this contemporary sample of transfused adult subjects with Thal or SCD is 3 times greater than the general US population. Long term follow-up of this unique cohort of subjects will be helpful in further defining the relationship of chronic, heavy iron overload to morbidity and mortality. Am. J. Hematol., 2007. ? 2006 Wiley-Liss, Inc.
+ER  - 
+
+AU  - Singh, Anumeha
+AU  - von Kuenssberg Jehle, Dietrich
+C7  - pp. 241-250
+TI  - Ocular Ultrasound
+SN  - 9780470657577
+UR  - https://doi.org/10.1002/9781119072874.ch20
+DO  - doi:10.1002/9781119072874.ch20
+SP  - 241-250
+KW  - eye pain
+KW  - ocular trauma
+KW  - posterior vitreous detachment
+KW  - retinal detachment
+KW  - ultrasound ocular examinations
+KW  - vitreous haemorrhage
+PY  - 2007
+AB  - Summary Many patients come to the emergency department with complaints of visual change or loss, ocular trauma, eye pain or other conditions that necessitate an accurate assessment of the eye and/or orbit. Ultrasound has been used by ophthalmologists for several decades. As multi-purpose, high-frequency probes are now available for many of the portable ultrasound machines found in emergency departments, emergency physicians take advantage of these diagnostic capabilities and perform bedside ultrasound ocular examinations as their scope of practice. Vitreous haemorrhage can occur secondary to diabetic retinopathy, age-related macular degeneration, trauma, retinal vein occlusion or retinal tears. Posterior vitreous detachment (PVD) can occur as a result of normal aging, trauma, vitreous haemorrhage or inflammation. In chronic PVD, the vitreous may become more stiff and dense and may resemble retinal detachment. Differentiation may be difficult and may depend on ophthalmology consultation.
+ER  - 
+
+TY  - JOUR
+AU  - MALIK, R
+AU  - KROCKENBERGER, MB
+AU  - O’BRIEN, CR
+AU  - WHITE, JD
+AU  - FOSTER, D
+AU  - TISDALL, PLC
+AU  - GUNEW, M
+AU  - CARR, PD
+AU  - BODELL, L
+AU  - MCCOWAN, C
+AU  - HOWE, J
+AU  - OAKLEY, C
+AU  - GRIFFIN, C
+AU  - WIGNEY, DI
+AU  - MARTIN, P
+AU  - NORRIS, J
+AU  - HUNT, G
+AU  - MITCHELL, DH
+AU  - GILPIN, C
+TI  - Nocardia infections in cats: a retrospective multi-institutional study of 17 cases
+JO  - Australian Veterinary Journal
+VL  - 84
+IS  - 7
+SN  - 9780470657577
+UR  - https://doi.org/10.1111/j.1751-0813.2006.00004.x
+DO  - doi:10.1111/j.1751-0813.2006.00004.x
+SP  - 235
+EP  - 245
+PY  - 2006
+AB  - Objective? To record 17 cases of nocardiosis in cats from eastern Australia and to compare this series with cases previously reported. Design? Retrospective/prospective study. Results? Nocardia spp infections were diagnosed in 17 cats over 14 years from the three eastern states of Australia. There were no isolates from dogs during this period, but one isolate from a koala and two from dairy cows. The majority of cats presented with spreading lesions of the subcutis and skin associated with draining sinus tract(s). Early cutaneous lesions consisted of circumscribed abscesses. Infections spread at a variable rate, generally by extension to adjacent tissues. Lesions were generally located in regions subjected to cat bite or scratch injuries, including limbs, body wall, inguinal panniculus and nasal bridge. In some other cases, lesions were situated on distal extremities. The clinical course was variable, from chronic, indolent, initially localised infections to acute fulminating disease. Of the 17 cats, 14 were domestic crossbreds and three were purebreds. There was a preponderance of male cats (12 castrated, 1 entire young adult, 1 entire kitten). Nine of 17 cats were 10 years or older. Interestingly, the majority of infections were attributable to N nova. Immediate and/or predisposing causes could be identified in all cases, and included: renal transplantation [one cat]; chronic corticosteroid administration [three cats]; catabolic state following chylothorax surgery [one cat]; fight injuries [seven cats]; FIV infections [three of seven cats tested]. Of the 17 cats, three were apparently cured. Four were thought to be cured, but infection recurred after several months. Three cats responded partially but were euthanased, while another was improving when it died of unrelated complications. Two died despite treatment and two were euthanased without an attempt at therapy. For two cats there were either insufficient records or the patient was lost to follow up. Conclusion? Nocardiosis is a rare, serious disease. Currently it is more common in cats than dogs. Nocardial panniculitis may be clinically indistinguishable from the syndrome caused by rapidly growing mycobacteria. Although the prognosis is guarded, patients with localised infections caused by N nova often respond to appropriate therapy. If definitive treatment is delayed because of misdiagnosis, the disease tends to become chronic, extensive and refractory. Insufficient duration of therapy leads to disease recurrence.
+ER  - 
+
+TY  - JOUR
+AU  - Mathisen, Bernice A
+AU  - Carey, Lindsay B
+AU  - O'Brien, Annette
+TI  - Incorporating speech-language pathology within Australian neonatal intensive care units
+JO  - Journal of Paediatrics and Child Health
+VL  - 48
+IS  - 9
+SN  - 9780470657577
+UR  - https://doi.org/10.1111/j.1440-1754.2012.02549.x
+DO  - doi:10.1111/j.1440-1754.2012.02549.x
+SP  - 823
+EP  - 827
+KW  - communication disorders
+KW  - intervention
+KW  - neonatal intensive care unit (NICU)
+KW  - speech-language pathology
+KW  - swallowing disorders
+KW  - prematurity
+PY  - 2012
+AB  - Abstract Working in neonatal intensive care units (NICU) is considered to be advanced practice for speech-language pathologists (SLPs) requiring post-graduate specialised education and ongoing clinical mentoring, not easily accessible within some countries such as Australia. This review investigated whether there was evidence to support SLPs as core NICU team members, rather than fleeting therapists. The review found that the roles and responsibilities of SLPs in NICUs included assessment and intervention of preterm infant communication, feeding and swallowing using a family-centred approach. This approach was respectful of the cultural and linguistic diversity of the parents and the particular expertise of other NICU team members. Whilst there has been a significant and promising increase in research with regard to SLP involvement with preterm infants (especially around feeding and swallowing assessment and specific treatments), the need for high-quality well-designed research is essential.
+ER  - 
+
+TY  - JOUR
+AU  - Harding, Jessica L.
+AU  - Soderberg, Stefan
+AU  - Shaw, Jonathan E.
+AU  - Zimmet, Paul Z.
+AU  - Pauvaday, Vassen
+AU  - Kowlessur, Sudhir
+AU  - Tuomilehto, Jaakko
+AU  - Alberti, K. George M.M.
+AU  - J. Magliano, Dianna
+TI  - All-cause cancer mortality over 15 years in multi-ethnic Mauritius: The impact of diabetes and intermediate forms of glucose tolerance
+JO  - International Journal of Cancer
+JA  - Int. J. Cancer
+VL  - 131
+IS  - 10
+SN  - 9780470657577
+UR  - https://doi.org/10.1002/ijc.27503
+DO  - doi:10.1002/ijc.27503
+SP  - 2385
+EP  - 2393
+KW  - diabetes
+KW  - cancer mortality
+KW  - glucose tolerance
+PY  - 2012
+AB  - Abstract There are accumulating data describing the association between diabetes and cancer mortality from Westernised populations. There are no data describing the relationship between diabetes and cancer mortality in African or South Asian populations from developing countries. We explored the relationship of abnormal glucose tolerance and diabetes on cancer mortality risk in a large, multi-ethnic cohort from the developing nation of Mauritius. Population-based surveys were undertaken in 1987, 1992 and 1998. The 9559 participants comprised 66% of South Asian (Indian), 27% of African (Creole), and 7% of Chinese descent. Cox's proportional hazards model with time varying covariates was used to obtain hazard ratios (HRs) and 95% confidence intervals (95% CI) for risk of cancer mortality, after adjustment for confounding factors. In men, but not women, cancer mortality risk increased with rising 2h-PG levels with HR for the top versus bottom quintile of 2.77 (95%CI: 1.28 to 5.98). South Asian men with known diabetes had a significantly greater risk of cancer mortality than those with normal glucose tolerance (NGT) HR: 2.74 (95%CI: 1.00-7.56). Overall, impaired glucose tolerance was associated with an elevated risk of cancer mortality compared to NGT (HR: 1.47, 95% CI: 0.98?2.19), though this was not significant. We have shown that the association between abnormal glucose tolerance and cancer extends to those of African and South Asian descent. These results highlight the importance of understanding this relationship in a global context to direct future health policy given the rapid increase in type 2 diabetes, especially in developing nations.
+ER  - 
+
+TY  - JOUR
+AU  - Breivik, Else Kristine
+AU  - Björnsson, Gudmundur A.
+TI  - Variation in surgical trauma and baseline pain intensity, effects on assay sensitivity of an analgesic trial
+JO  - European Journal of Oral Sciences
+VL  - 106
+IS  - 4
+SN  - 9780470657577
+UR  - https://doi.org/10.1046/j.0909-8836.1998.eos106403.x
+DO  - doi:10.1046/j.0909-8836.1998.eos106403.x
+SP  - 844
+EP  - 852
+PY  - 1998
+ER  - 
+
+TY  - JOUR
+AU  - Jelescu, Ileana O.
+AU  - Veraart, Jelle
+AU  - Fieremans, Els
+AU  - Novikov, Dmitry S.
+C8  - NBM-15-0204.R2
+TI  - Degeneracy in model parameter estimation for multi-compartmental diffusion in neuronal tissue
+JO  - NMR in Biomedicine
+JA  - NMR Biomed.
+VL  - 29
+IS  - 1
+SN  - 9780470657577
+UR  - https://doi.org/10.1002/nbm.3450
+DO  - doi:10.1002/nbm.3450
+SP  - 33
+EP  - 47
+KW  - high order diffusion MR methods
+KW  - biophysical mechanisms of MR diffusion
+KW  - normal brain
+KW  - microstructure
+KW  - modeling
+KW  - parameter estimation
+PY  - 2016
+AB  - The ultimate promise of diffusion MRI (dMRI) models is specificity to neuronal microstructure, which may lead to distinct clinical biomarkers using noninvasive imaging. While multi-compartment models are a common approach to interpret water diffusion in the brain in vivo, the estimation of their parameters from the dMRI signal remains an unresolved problem. Practically, even when q space is highly oversampled, nonlinear fit outputs suffer from heavy bias and poor precision. So far, this has been alleviated by fixing some of the model parameters to a priori values, for improved precision at the expense of accuracy. Here we use a representative two-compartment model to show that fitting fails to determine the five model parameters from over 60 measurement points. For the first time, we identify the reasons for this poor performance. The first reason is the existence of two local minima in the parameter space for the objective function of the fitting procedure. These minima correspond to qualitatively different sets of parameters, yet they both lie within biophysically plausible ranges. We show that, at realistic signal-to-noise ratio values, choosing between the two minima based on the associated objective function values is essentially impossible. Second, there is an ensemble of very low objective function values around each of these minima in the form of a pipe. The existence of such a direction in parameter space, along which the objective function profile is very flat, explains the bias and large uncertainty in parameter estimation, and the spurious parameter correlations: in the presence of noise, the minimum can be randomly displaced by a very large amount along each pipe. Our results suggest that the biophysical interpretation of dMRI model parameters crucially depends on establishing which of the minima is closer to the biophysical reality and the size of the uncertainty associated with each parameter. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+AU  - Aparci, Mustafa
+AU  - Okutucu, Sercan
+AU  - Ozturk, Cengiz
+AU  - Balta, Sevket
+AU  - Isilak, Zafer
+TI  - Utility of multi-detector tomography angiography with equivocal exercise stress test in acute coronary syndrome
+JO  - Emergency Medicine Australasia
+JA  - Emerg Med Australas
+VL  - 26
+IS  - 5
+SN  - 9780470657577
+UR  - https://doi.org/10.1111/1742-6723.12269
+DO  - doi:10.1111/1742-6723.12269
+SP  - 517
+EP  - 518
+PY  - 2014
+ER  - 
+
+AU  - Thakur, Matthew
+AU  - McMahon, Stephen B.
+C7  - pp. 89-121
+TI  - Symptoms and pathology in neuropathic pain
+SN  - 9781118455913
+UR  - https://doi.org/10.1002/9781118455968.ch3
+DO  - doi:10.1002/9781118455968.ch3
+SP  - 89-121
+KW  - animal models
+KW  - central sensitisation
+KW  - chronic pain
+KW  - neuropathic pain
+KW  - peripheral neuropathy
+PY  - 2014
+AB  - Summary Neuropathic pain remains an extremely challenging condition to manage clinically, with few effective options for analgesia. The hallmark of neuropathic pain is a mixed loss and gain of function in somatosensation and pain, which is secondary to an initiating lesion to the nervous system. Clinical research into the distinctive somatosensory profiles exhibited by individuals with different types of neuropathic pain will soon improve the design of clinical trials that assess the effects of therapeutics on the different dimensions of neuropathic pain. A variety of model systems have been developed to investigate the peripheral and central nervous system pathology seen in clinical pain conditions triggered by traumatic injury, toxic neuropathy and other conditions. The biology illustrated by these models has proven difficult to translate into novel analgesic therapies. But recent evidence for a broader role of the immune system in neuropathic pain provides a new avenue for therapeutic development.
+ER  - 
+
+TY  - JOUR
+AU  - Paolo, Cianciulli
+AU  - Francesco, Sorrentino
+AU  - Sergio, Amadori
+TI  - Management of iron overload with a disposable multi-day delivery system
+JO  - American Journal of Hematology
+JA  - Am. J. Hematol.
+VL  - 51
+IS  - 1
+SN  - 9781118455913
+UR  - https://doi.org/10.1002/(SICI)1096-8652(199601)51:1<95::AID-AJH18>3.0.CO;2-A
+DO  - doi:10.1002/(SICI)1096-8652(199601)51:1<95::AID-AJH18>3.0.CO;2-A
+SP  - 95
+EP  - 95
+PY  - 1996
+ER  - 
+
+TY  - JOUR
+AU  - Cooling, Laura
+TI  - Going from A to B: the safety of incompatible group A plasma for emergency release in trauma and massive transfusion patients
+JO  - Transfusion
+JA  - Transfusion
+VL  - 54
+IS  - 7
+SN  - 9781118455913
+UR  - https://doi.org/10.1111/trf.12730
+DO  - doi:10.1111/trf.12730
+SP  - 1695
+EP  - 1697
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+AU  - Lopez, Mary F.
+AU  - Sarracino, David A.
+AU  - Prakash, Amol
+AU  - Athanas, Michael
+AU  - Krastins, Bryan
+AU  - Rezai, Taha
+AU  - Sutton, Jennifer N.
+AU  - Peterman, Scott
+AU  - Gvozdyak, Oksana
+AU  - Chou, Sherry
+AU  - Lo, Eng
+AU  - Buonanno, Ferdinand
+AU  - Ning, MingMing
+TI  - Discrimination of ischemic and hemorrhagic strokes using a multiplexed, mass spectrometry-based assay for serum apolipoproteins coupled to multi-marker ROC algorithm
+JO  - PROTEOMICS – Clinical Applications
+JA  - Prot. Clin. Appl.
+VL  - 6
+IS  - 3-4
+SN  - 9781118455913
+UR  - https://doi.org/10.1002/prca.201100041
+DO  - doi:10.1002/prca.201100041
+SP  - 190
+EP  - 200
+KW  - Biomarker
+KW  - Cerebrovascular
+KW  - Hemorrhagic
+KW  - Ischemic
+KW  - Mass spectrometry
+PY  - 2012
+AB  - Purpose Typically, apolipoproteins are individually measured in blood by immunoassay. In this report, we describe the development of a multiplexed selected reaction monitoring (SRM) based assay for a panel of apolipoproteins and its application to a clinical cohort of samples derived from acute stroke patients. Experimental Design An SRM assay for a panel of nine apolipoproteins was developed on a triple quadrupole mass spectrometer. Quantitative data for each apolipoprotein were analyzed to determine expression ratio and receiver operating characteristic (ROC) values for ischemic versus hemorrhagic stroke. Results The optimized SRM assay was used to interrogate a small cohort of well-characterized plasma samples obtained from patients with acute ischemic and hemorrhagic strokes. The ROC analyses demonstrated good classification power for several single apolipoproteins, most notably apoC-III and apoC-I. When a novel multi-marker ROC algorithm was applied, the ischemic versus hemorrhagic groups were best differentiated by a combination of apoC-III and apoA-I with an area under the curve (AUC) value of 0.92. Conclusions and clinical relevance This proof-of-concept study provides interesting and provocative data for distinguishing ischemic versus hemorrhage within first week of symptom onset. However, the observations are based on one cohort of patient samples and further confirmation will be required.
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Shuyue
+AU  - Jiaerken, Yeerfan
+AU  - Yu, Xinfeng
+AU  - Shen, Zhujing
+AU  - Luo, Xiao
+AU  - Hong, Hui
+AU  - Sun, Jianzhong
+AU  - Xu, Xiaojun
+AU  - Zhang, Ruiting
+AU  - Zhou, Ying
+AU  - Lou, Min
+AU  - Huang, Peiyu
+AU  - Zhang, Minming
+TI  - Understanding the association between psychomotor processing speed and white matter hyperintensity: A comprehensive multi-modality MR imaging study
+JO  - Human Brain Mapping
+JA  - Hum Brain Mapp
+VL  - 41
+IS  - 3
+SN  - 9781118455913
+UR  - https://doi.org/10.1002/hbm.24826
+DO  - doi:10.1002/hbm.24826
+SP  - 605
+EP  - 616
+KW  - cortex
+KW  - diffusion tensor imaging
+KW  - functional magnetic resonance imaging
+KW  - processing speed
+KW  - tractography
+KW  - white matter hyperintensity
+PY  - 2020
+AB  - Abstract Cognitive processing speed is crucial for human cognition and declines with aging. White matter hyperintensity (WMH), a common sign of WM vascular damage in the elderly, is closely related to slower psychomotor processing speed. In this study, we investigated the association between WMH and psychomotor speed changes through a comprehensive assessment of brain structural and functional features. Multi-modal MRIs were acquired from 60 elderly adults. Psychomotor processing speeds were assessed using the Trail Making Test Part A (TMT-A). Linear regression analyses were performed to assess the associations between TMT-A and brain features, including WMH volumes in five cerebral regions, diffusivity parameters in the major WM tracts, regional gray matter volume, and brain activities across the whole brain. Hierarchical regression analysis was used to demonstrate the contribution of each index to slower psychomotor processing speed. Linear regression analysis demonstrated that WMH volume in the occipital lobe and fractional anisotropy of the forceps major, an occipital association tract, were associated with TMT-A. Besides, resting-state brain activities in the visual cortex connected to the forceps major were associated with TMT-A. Hierarchical regression showed fractional anisotropy of the forceps major and regional brain activities were significant predictors of TMT-A. The occurrence of WMH, combined with the disruption of passing-through fiber integrity and altered functional activities in areas connected by this fiber, are associated with a decline of psychomotor processing speed. While the causal relationship of this WMH-Tract-Function-Behavior link requires further investigation, this study enhances our understanding of these complex mechanisms.
+ER  - 
+
+TY  - JOUR
+AU  - Jensen, Lisbeth Lund
+AU  - Banner, Jytte
+AU  - Ulhøi, Benedicte Parm
+AU  - Byard, Roger W
+TI  - β-Amyloid precursor protein staining of the brain in sudden infant and early childhood death
+JO  - Neuropathology and Applied Neurobiology
+JA  - Neuropathol Appl Neurobiol
+VL  - 40
+IS  - 4
+SN  - 9781118455913
+UR  - https://doi.org/10.1111/nan.12109
+DO  - doi:10.1111/nan.12109
+SP  - 385
+EP  - 397
+KW  - β-APP
+KW  - APP
+KW  - head trauma
+KW  - immunohistochemistry
+KW  - SIDS
+KW  - sudden infant death
+PY  - 2014
+AB  - Aims To develop and validate a scoring method for assessing ?-amyloid precursor protein (APP) staining in cerebral white matter and to investigate the occurrence, amount and deposition pattern based on the cause of death in infants and young children. Methods Archival cerebral tissue was examined from a total of 176 cases (0 to 3 years of age). Each of the APP-stained sections was graded according to a simple scoring system based on the number and type of changes in eight anatomical regions. Results Examination of the sections revealed some degree of APP staining in 95% of the cases. The highest mean APP scores were found in cases of head trauma, and the lowest scores were found in the cases of drowning. APP staining, although sometimes minimal, was found in all 48 cases of and sudden infant death syndrome (SIDS). Patterns of APP staining (the amount and distribution) were different in cases of head trauma, infection and SIDS but were similar in the SIDS and asphyxia groups. Conclusion This study demonstrates the use of an integrated scoring system that was developed to assess APP staining in the brain. APP staining was seen in a high proportion of cases, including relatively sudden deaths. The amount of APP was significantly higher in cases of trauma than in nontraumatic deaths. However, APP was detected within all groups. The pattern of APP staining was similar in infants who had died of SIDS and from mechanical asphyxia.
+ER  - 

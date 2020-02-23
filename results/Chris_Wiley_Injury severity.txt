@@ -1,0 +1,253 @@
+Injury severity, (AFP), 100
+Injury severity, (ARG1) , 22
+Injury severity, (ASS), 52
+Injury severity, (ATL), 45
+Injury severity, (CcK18), 3
+Injury severity, (CD3), 184
+Injury severity, (CD4) , 328
+Injury severity, (CD8) , 213
+Injury severity, (EST-1), 11
+Injury severity, (HLA)-DR, 182
+Injury severity, (KIM-1), 69
+Injury severity, (LDH), 221
+Injury severity, (MCSFR), 2
+Injury severity, (MDH), 11
+Injury severity, (MODS) , 133
+Injury severity, (NO) , 4842
+Injury severity, (NT-proBNP), 57
+Injury severity, (PaCO2) , 130
+Injury severity, (PAF) , 69
+Injury severity, (PAI), 223
+Injury severity, (PaO2), 208
+Injury severity, (PaO2) , 208
+Injury severity, (PCT), 165
+Injury severity, (PMN), 141
+Injury severity, (ROC), 523
+Injury severity, (SCr), 113
+Injury severity, (TFF3), 3
+Injury severity, (TTL), 16
+Injury severity, (VEGF), 230
+Injury severity, (VPA), 71
+Injury severity, (VTE), 234
+Injury severity, (WBC), 371
+Injury severity, 4-hydroxy-phenylpyruvate dioxygenase (HPD), 0
+Injury severity, 5 nucleotidase, 20
+Injury severity, Abbreviated Injury Scale, 581
+Injury severity, Active T lymphocytes , 0
+Injury severity, Albumin, 615
+Injury severity, ALP alkaline phosphatase, 13
+Injury severity, Alpha fetoprotein, 59
+Injury severity, alpha-glutathioneS-transferase , 0
+Injury severity, ALT alanine aminotransferase, 39
+Injury severity, Amylase, 194
+Injury severity, Amyloid A, 43
+Injury severity, ﻿(AFP), 100
+Injury severity, APACHE II, 317
+Injury severity, Area under the receiver operating characteristic curve, 94
+Injury severity, Arginase-1, 23
+Injury severity, argininosuccinate synthetase , 2
+Injury severity, Arterial partial pressure of carbon dioxide, 9
+Injury severity, Arterial partial pressure of oxygen , 19
+Injury severity, Arterial Ph, 70
+Injury severity, Arterial pressure, 387
+Injury severity, AST aspartate aminotransferase, 24
+Injury severity, AUC, 464
+Injury severity, AUROCs, 17
+Injury severity, B lymphocytes, 73
+Injury severity, Bilirubin , 334
+Injury severity, Biochemical, 782
+Injury severity, Biochemical marker, 41
+Injury severity, Biochemical panel, 2
+Injury severity, Biochemical parameters, 124
+Injury severity, Biomarker panel, 25
+Injury severity, Biomarkers, 555
+Injury severity, Blood pressure, 1296
+Injury severity, Blood urine nitrogen, 6
+Injury severity, BNP, 134
+Injury severity, BUN , 194
+Injury severity, C3 complement, 8
+Injury severity, C5a, 70
+Injury severity, Cadherin-5, 0
+Injury severity, Calcium , 830
+Injury severity, Caspase cleaved cytokeratin 18, 2
+Injury severity, CDH5, 4
+Injury severity, Ceruloplasmin , 59
+Injury severity, Chip , 232
+Injury severity, CK-MB, 75
+Injury severity, Clinical factors, 261
+Injury severity, Clinical parameters, 280
+Injury severity, Clinical variable , 23
+Injury severity, Coagulation tests, 139
+Injury severity, Collagen IV, 92
+Injury severity, Complement, 598
+Injury severity, Complement factor B, 7
+Injury severity, Complete blood counts, 50
+Injury severity, Computed tomogram, 9
+Injury severity, Computed tomographic scanning, 17
+Injury severity, Computed tomography  , 1086
+Injury severity, C-reactive protein , 369
+Injury severity, Creatine kinase, 156
+Injury severity, Creatine kinase muscle and brain, 0
+Injury severity, Creatinine, 602
+Injury severity, CRP, 385
+Injury severity, CT scan, 780
+Injury severity, CTnI, 47
+Injury severity, CXCL10 , 42
+Injury severity, CXCR3, 31
+Injury severity, Cystatin C, 65
+Injury severity, Cytokeratin 18, 7
+Injury severity, D-Dimer , 200
+Injury severity, Diagnosis, 2478
+Injury severity, Diagnostic, 1962
+Injury severity, Diagnostic modelling, 0
+Injury severity, EGFR, 233
+Injury severity, Estimated glomerular filtration rate, 87
+Injury severity, Estrogen sulfotransferase, 0
+Injury severity, F- Protein, 8
+Injury severity, FABP , 39
+Injury severity, FABP1, 6
+Injury severity, FABPs, 6
+Injury severity, Fatty Acid Binding Protein, 44
+Injury severity, FDP, 99
+Injury severity, Fibrin degradation products, 42
+Injury severity, Fibrin fibrinogen degradation products, 7
+Injury severity, Fibrinogen, 477
+Injury severity, Fibtem, 66
+Injury severity, Full blood cell count, 0
+Injury severity, Gamma glutamyl transferase , 38
+Injury severity, Glasgow Coma Scale, 993
+Injury severity, GLDH, 16
+Injury severity, Glucose, 855
+Injury severity, Glutamate dehydrogenase, 19
+Injury severity, Glutathione S-transferase alpha, 0
+Injury severity, Glutathione S-transferases (GST), 4
+Injury severity, GSTA, 1
+Injury severity, GSTα, 1
+Injury severity, Heart rate, 796
+Injury severity, Helper T cells , 21
+Injury severity, Hematocrite, 10
+Injury severity, Hemoglobin, 770
+Injury severity, High Mobility Group Box-1 , 46
+Injury severity, HMGB1, 89
+Injury severity, Howell-Jolly bodies, 8
+Injury severity, HPPD, 1
+Injury severity, hsCRP, 39
+Injury severity, hs-CRP, 43
+Injury severity, Human leucocyte antigen, 34
+Injury severity, Hyaluronic Acid, 72
+Injury severity, I-FABP, 8
+Injury severity, IgA, 185
+Injury severity, IgG , 400
+Injury severity, IgM , 198
+Injury severity, IL-10, 319
+Injury severity, IL-18, 74
+Injury severity, IL-6, 556
+Injury severity, IL-8, 327
+Injury severity, Imaging, 1676
+Injury severity, Immunoglobulins , 146
+Injury severity, Independent predictors   , 435
+Injury severity, Injury severity score, 2207
+Injury severity, Intestinal-FABP, 1
+Injury severity, IP-10, 76
+Injury severity, ISS, 1674
+Injury severity, Jolly bodies, 8
+Injury severity, K18, 11
+Injury severity, Kidney injury molecule-1, 21
+Injury severity, Laboratory parameters, 172
+Injury severity, Laboratory tests, 404
+Injury severity, Lactate, 711
+Injury severity, Lactate dehydrogenase , 161
+Injury severity, LECT2, 3
+Injury severity, Leucocyte cell-derived chemotaxin-2, 0
+Injury severity, L-FABP, 16
+Injury severity, Lipase, 173
+Injury severity, Lipocalin, 56
+Injury severity, Liver enzyme tests, 4
+Injury severity, Liver-FABP, 4
+Injury severity, Lymphocytes, 318
+Injury severity, Macrophage colony stimulating factor receptor, 1
+Injury severity, malate dehydrogenase , 8
+Injury severity, Marker, 1154
+Injury severity, Mean arterial BP , 10
+Injury severity, microRNA-122 , 5
+Injury severity, MicroRNAs, 126
+Injury severity, miR-122, 22
+Injury severity, miR-216a , 1
+Injury severity, miR-216b , 1
+Injury severity, miR-217, 3
+Injury severity, miRNAs, 134
+Injury severity, Molecular biomarker, 10
+Injury severity, Molecular markers, 131
+Injury severity, Multiple organ dysfunction score, 12
+Injury severity, Myeloperoxidase, 149
+Injury severity, Myoglobin, 70
+Injury severity, N-acetyl-β-D-glucosaminidase, 0
+Injury severity, Neutrophil Gelatinase-Associated Lipocalin, 46
+Injury severity, Neutrophils, 410
+Injury severity, NGAL, 52
+Injury severity, N-GAL, 1
+Injury severity, NISS, 91
+Injury severity, Nitric oxide, 379
+Injury severity, Novel markers, 26
+Injury severity, N-terminal pro-B-type natriuretic peptide , 10
+Injury severity, Nuclear fragments in circulating erythrocytes, 0
+Injury severity, Odd ratio, 77
+Injury severity, OPN, 35
+Injury severity, Osteopontin, 53
+Injury severity, PaO2 , 208
+Injury severity, Parameters , 1781
+Injury severity, Paraoxonase 1 normalized to prothrombin protein, 0
+Injury severity, Paraxonase 1 , 0
+Injury severity, Pathogenic, 353
+Injury severity, Pathologic, 459
+Injury severity, Phosphate, 572
+Injury severity, Physiologic , 713
+Injury severity, Plasminogen activator inhibitor, 117
+Injury severity, Platelet count, 415
+Injury severity, Platelet-activating factor, 52
+Injury severity, Platelets, 634
+Injury severity, Platelets and pH-value, 0
+Injury severity, PNP, 36
+Injury severity, Point of care , 326
+Injury severity, Polymorphonuclear elastase, 2
+Injury severity, Polymorpho-nuclear neutrophil elastase, 0
+Injury severity, PON1, 16
+Injury severity, Potassium, 450
+Injury severity, Procalcitonin, 73
+Injury severity, Properdin, 7
+Injury severity, Protein C, 221
+Injury severity, Prothrombin time, 347
+Injury severity, Purine nucleoside phosphorylase , 2
+Injury severity, Receiver operating characteristic curves, 70
+Injury severity, Red cell count, 21
+Injury severity, Respiration rate, 30
+Injury severity, Revised Trauma score, 246
+Injury severity, Risk factors, 1588
+Injury severity, Screening methods, 105
+Injury severity, SDH, 101
+Injury severity, Sequential organ failure assessment, 99
+Injury severity, Sodium , 847
+Injury severity, SOFA, 163
+Injury severity, Sorbitol dehydrogenase, 1
+Injury severity, Suppressor T-cells, 10
+Injury severity, Temperature, 1218
+Injury severity, Test , 3379
+Injury severity, Testing, 1920
+Injury severity, The post-traumatic plasma levels of soluble tumor necrosis factor receptors p55 and p75, 0
+Injury severity, Total and segmented leukocytes, 0
+Injury severity, Total T lymphocytes , 1
+Injury severity, Trauma scoring systems, 58
+Injury severity, Trefoil Factor 3, 2
+Injury severity, TRISS, 278
+Injury severity, Troponin, 203
+Injury severity, Trypsin-2-a1antitrypsin complex , 0
+Injury severity, Trypsin-2-AAT, 0
+Injury severity, Trypsinogen-2 , 0
+Injury severity, Tuftsin, 6
+Injury severity, Ultrasound, 918
+Injury severity, Urea, 412
+Injury severity, Valproic acid, 123
+Injury severity, Vascular endothelial growth factor , 177
+Injury severity, Venous thromboembolism, 268
+Injury severity, White blood cell count , 195
+Injury severity, α-fetoprotein, 0

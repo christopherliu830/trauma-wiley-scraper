@@ -1,0 +1,433 @@
+
+TY  - JOUR
+AU  - Harris, Scott M
+AU  - Zhang, Lijuan
+AU  - Parente, Jody
+AU  - Rodeheaver, George T.
+AU  - Falla, Timothy J.
+TI  - 111 HB-50: A Pre-Clinical Study of a Prophylactic for Wound Infection
+JO  - Wound Repair and Regeneration
+VL  - 12
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2004.0abstractde.x
+DO  - doi:10.1111/j.1067-1927.2004.0abstractde.x
+SP  - A29
+EP  - A29
+PY  - 2004
+AB  - Topical prophylaxis against wound infection by an agent that is active against multi-resistant bacteria does not generate resistance and is rapidly cidal would be of great clinical benefit. Peptides of the innate immune system have long been known to protect a wide range of organisms from attack by bacterial and fungal pathogens. Helix BioMedix Inc. has developed a short bioactive peptide antimicrobial modeled after these peptides. HB-50 is an amphipathic cationic alpha-helical peptide that has broad spectrum activity and is rapidly microbicidal. These attributes make HB-50 an ideal candidate for wound infection prophylaxis. In vitro studies have demonstrated HB-50 to be active against both gram-positive and gram-negative bacteria killing 5?7 log orders of bacteria within minutes. In addition, this peptide has potent activity against Vancomycin and Mupirocin resistant S. aureus. Preliminary testing of the peptide in a rat abraded skin infection model has shown the peptide?s effectiveness in preventing wound infection while not inhibiting wound healing. Additionally, the HB-50 sequence has been specifically developed to be cost effective to manufacture and therefore is well suited for use as a topical antimicrobial agent.
+ER  - 
+
+TY  - JOUR
+AU  - Ding, Yaping
+AU  - Li, Wei
+AU  - Zhang, Feng
+AU  - Liu, Zehua
+AU  - Zanjanizadeh Ezazi, Nazanin
+AU  - Liu, Dongfei
+AU  - Santos, Hélder A.
+C7  - 1802852
+TI  - Electrospun Fibrous Architectures for Drug Delivery, Tissue Engineering and Cancer Therapy
+JO  - Advanced Functional Materials
+JA  - Adv. Funct. Mater.
+VL  - 29
+IS  - 2
+SN  - 1616-301X
+UR  - https://doi.org/10.1002/adfm.201802852
+DO  - doi:10.1002/adfm.201802852
+SP  - 1802852
+KW  - cancer therapy
+KW  - drug delivery
+KW  - electrospinning
+KW  - tissue engineering
+PY  - 2019
+AB  - Abstract The versatile electrospinning technique is recognized as an efficient strategy to deliver active pharmaceutical ingredients and has gained tremendous progress in drug delivery, tissue engineering, cancer therapy, and disease diagnosis. Numerous drug delivery systems fabricated through electrospinning regarding the carrier compositions, drug incorporation techniques, release kinetics, and the subsequent therapeutic efficacy are presented herein. Targeting for distinct applications, the composition of drug carriers vary from natural/synthetic polymers/blends, inorganic materials, and even hybrids. Various drug incorporation approaches through electrospinning are thoroughly discussed with respect to the principles, benefits, and limitations. To meet the various requirements in actual sophisticated in vivo environments and to overcome the limitations of a single carrier system, feasible combinations of multiple drug-inclusion processes via electrospinning could be employed to achieve programmed, multi-staged, or stimuli-triggered release of multiple drugs. The therapeutic efficacy of the designed electrospun drug-eluting systems is further verified in multiple biomedical applications and is comprehensively overviewed, demonstrating promising potential to address a variety of clinical challenges.
+ER  - 
+
+TY  - JOUR
+AU  - Diao, Shu
+AU  - Yang, Haoqing
+AU  - Cao, Yangyang
+AU  - Yang, Dongmei
+AU  - Fan, Zhipeng
+TI  - IGF2 enhanced the osteo-/dentinogenic and neurogenic differentiation potentials of stem cells from apical papilla
+JO  - Journal of Oral Rehabilitation
+JA  - J Oral Rehabil
+VL  - n/a
+IS  - n/a
+SN  - 0305-182X
+UR  - https://doi.org/10.1111/joor.12859
+DO  - doi:10.1111/joor.12859
+KW  - IGF2
+KW  - neurogenic differentiation
+KW  - niche
+KW  - osteo-/dentinogenic differentiation
+KW  - proliferation
+KW  - stem cells from apical papilla
+AB  - Abstract Objectives In dental tissue engineering, niche is important for maintaining stem cell function and regenerating the dental tissues. However, there is limited knowledge for the growth factors in niche to maintain the function of stem cells. In this study, we investigated the effect of IGF2, a growth factor in stem cells from apical papilla (SCAPs) niche, on differentiation and proliferation potentials of SCAPs. Materials and methods Recombinant human IGF2 protein (rhIGF2) was used. Cell counting kit-8 assay, Carboxyfluorescein succinimidyl ester assay, alkaline phosphatase (ALP) activity, Alizarin Red staining, quantitative calcium analysis, immunofluorescence staining and real-time RT-PCR were performed to investigate the cell proliferation and differentiation potentials of SCAPs. And proteomic analysis was used to identify the differential secreted proteins. Results By ALP activity assay, we found that 5 ng/mL rhIGF2 might be the optimal concentration for treatment. Then, Alizarin Red staining, quantitative calcium analysis and osteogenesis-related gene expression results showed that 5 ng/mL rhIGF2 could enhance the osteo-/dentinogenic differentiation potentials in SCAPs. Immunofluorescence staining and real-time RT-PCR results showed that neurogenic markers were significantly induced by 5 ng/mL rhIGF2 in SCAPs. Then, CCK-8 assay and CFSE assay results showed that 5 ng/mL rhIGF2 could enhance the cell proliferation in SCAPs. Furthermore, proteomic analysis showed that IGF2 could induce some secreted proteins which function related to the osteogenesis, neurogenesis and cell proliferation. Conclusions Our results identified that IGF2 might be the potential mediator in niche to promote SCAP function and dental tissue regeneration.
+ER  - 
+
+TY  - JOUR
+AU  - Collins, J.
+AU  - Gissel, H.
+AU  - Mustafi, D.
+AU  - Rojahn, K.
+AU  - Despa, F.
+AU  - Lee, R.C.
+TI  - 105 Surfactant Chaperone P188 Seals Electroporated Muscle Membranes
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130216i.x
+DO  - doi:10.1111/j.1067-1927.2005.130216i.x
+SP  - A28
+EP  - A48
+PY  - 2005
+AB  - Introduction:? Electric fields of the magnitude likely to occur in electrical injury can result in skeletal muscle electroporation. It has been reported that Poloxamer 188 (P188) is able to seal damaged cell membranes. Using a previously described rat hind limb model of electrical injury, in this study we employ MRI to demonstrate that intravenously administered P188 arrests muscle tissue edema caused by electrical shock. Methods:? Anesthetized Sprague-Dawley rat hindlimbs were subjected to 12 electrical shock pulses of 2?kV and ?2A amplitude with duration of 4?ms. There was a 10-second separation period between shocks to allow thermal relaxation. Animals received either P188 or Lactated Ringer?s Injection (control) intravenously at 60 minutes after shock. Proton MRI were recorded using a 4.7-Tesla Bruker scanner (200?MHz). A Multi-Slice Multi-Echo (MSME) spin echo sequence was used to obtain T2-weighted images. Ten slices over the entire midthigh region were taken. For each slice, images from 10 echos in the TE range of 10?ms?100?ms and TR?=?2000?ms were collected. Imaging began at 60 minutes and continued until 3 hours postshock. The signal intensities at different TE times were used to fit an exponential decay and measure the T2 value in each voxel. Voxels with T2 values?>?80?ms were considered injured. Results:? There were noticeable increases of injured area with time for electrically injured limbs due to development of edema. Control-treated rats averaged a 58.0%(±6.59% SD) increase in total area of injury. The total area of injury for P188-treated rats increased by 46.6%(±2.96% SD) In nonelectroporation limbs, no change in T2 occurred. Discussion:? Disruption of the plasma membrane due to electrical current leads to edema. We treated the injured muscles with P188 and observed that it helped to arrest edema. MRI proved effective not only in characterizing the degree of injury resulting from electrical shock but also in monitoring therapeutic efficacy. [Supported by the National Institutes of Health (GM61101)]
+ER  - 
+
+TY  - JOUR
+AU  - Brett, Elizabeth
+AU  - Zielins, Elizabeth R.
+AU  - Luan, Anna
+AU  - Ooi, Chin Chun
+AU  - Shailendra, Siny
+AU  - Atashroo, David
+AU  - Menon, Siddarth
+AU  - Blackshear, Charles
+AU  - Flacco, John
+AU  - Quarto, Natalina
+AU  - Wang, Shan X.
+AU  - Longaker, Michael T.
+AU  - Wan, Derrick C.
+TI  - Magnetic Nanoparticle-Based Upregulation of B-Cell Lymphoma 2 Enhances Bone Regeneration
+JO  - STEM CELLS Translational Medicine
+JA  - STEM CELLS Translational Medicine
+VL  - 6
+IS  - 1
+SN  - 2157-6564
+UR  - https://doi.org/10.5966/sctm.2016-0051
+DO  - doi:10.5966/sctm.2016-0051
+SP  - 151
+EP  - 160
+KW  - B-cell lymphoma 2
+KW  - Osteogenesis
+KW  - Scaffold
+KW  - Magnetofection
+PY  - 2017
+AB  - Abstract Clinical translation of cell-based strategies for tissue regeneration remains challenging because survival of implanted cells within hostile, hypoxic wound environments is uncertain. Overexpression of B-cell lymphoma 2 (Bcl-2) has been shown to inhibit apoptosis in implanted cells. The present study describes an ?off the shelf? prefabricated scaffold integrated with magnetic nanoparticles (MNPs) used to upregulate Bcl-2 expression in implanted adipose-derived stromal cells for bone regeneration. Iron oxide cores were sequentially coated with branched polyethyleneimine, minicircle plasmid encoding green fluorescent protein and Bcl-2, and poly-?-amino ester. Through in vitro assays, increased osteogenic potential and biological resilience were demonstrated in the magnetofected group over control and nucleofected groups. Similarly, our in vivo calvarial defect study showed that magnetofection had an efficiency rate of 30%, which in turn resulted in significantly more healing compared with control group and nucleofected group. Our novel, prefabricated MNP-integrated scaffold allows for in situ postimplant temporospatial control of cell transfection to augment bone regeneration. Stem Cells Translational Medicine 2017;6:151?160
+ER  - 
+
+TY  - JOUR
+AU  - Diao, Shu
+AU  - Lin, Xiao
+AU  - Wang, Liping
+AU  - Dong, Rui
+AU  - Du, Juan
+AU  - Yang, Dongmei
+AU  - Fan, Zhipeng
+C7  - e12337
+TI  - Analysis of gene expression profiles between apical papilla tissues, stem cells from apical papilla and cell sheet to identify the key modulators in MSCs niche
+JO  - Cell Proliferation
+JA  - Cell Prolif
+VL  - 50
+IS  - 3
+SN  - 0960-7722
+UR  - https://doi.org/10.1111/cpr.12337
+DO  - doi:10.1111/cpr.12337
+SP  - e12337
+PY  - 2017
+AB  - Abstract Objectives The microenvironmental niche plays the key role for maintaining the cell functions. The stem cells from apical papilla (SCAPs) are important for tooth development and regeneration. However, there is limited knowledge about the key factors in niche for maintaining the function of SCAPs. In this study, we analyse the gene expression profiles between apical papilla tissues, SCAPs and SCAPs cell sheet to identify the key genes in SCAPs niche. Materials and methods Microarray assays and bioinformatic analysis were performed to screen the differential genes between apical papilla tissues and SCAPs, and SCAPs and SCAPs cell sheet. Recombinant human BMP6 protein was used in SCAPs. Then CCK-8 assay, CFSE assay, alkaline phosphatase activity, alizarin red staining, quantitative calcium analysis and real-time reverse transcriptase-polymerase chain reaction were performed to investigate the cell proliferation and differentiation potentials of SCAPs. Results Microarray analysis found that 846 genes were up-regulated and 1203 genes were down-regulated in SCAPs compared with apical papilla tissues. While 240 genes were up-regulated and 50 genes were down-regulated in SCAPs compared to in SCAPs cell sheet. Moreover, only 31 gene expressions in apical papilla tissues were recovered in cell sheet compared with SCAPs. Bioinformatic analysis identified that TGF-?, WNT and MAPK signalling pathways may play an important role in SCAPs niche. Based on the analysis, we identified one key growth factor in niche, BMP6, which could enhance the cell proliferation, the osteo/dentinogenic, neurogenic and angiogenic differentiation potentials of SCAPs. Conclusions Our results provided insight into the mechanisms of the microenvironmental niche which regulate the function of SCAPs, and identified the key candidate genes in niche to promote mesenchymal stem cells-mediated dental tissue regeneration.
+ER  - 
+
+TY  - JOUR
+AU  - Gupta, Ashim
+AU  - Woods, Mia D.
+AU  - Illingworth, Kenneth David
+AU  - Niemeier, Ryan
+AU  - Schafer, Isaac
+AU  - Cady, Craig
+AU  - Filip, Peter
+AU  - El-Amin III, Saadiq F.
+TI  - Single walled carbon nanotube composites for bone tissue engineering
+JO  - Journal of Orthopaedic Research
+JA  - J. Orthop. Res.
+VL  - 31
+IS  - 9
+SN  - 0736-0266
+UR  - https://doi.org/10.1002/jor.22379
+DO  - doi:10.1002/jor.22379
+SP  - 1374
+EP  - 1381
+KW  - PLAGA
+KW  - SWCNT
+KW  - SWCNT/PLAGA composites
+KW  - musculoskeletal regeneration
+KW  - bone tissue engineering
+PY  - 2013
+AB  - Abstract The purpose of this study was to develop single walled carbon nanotubes (SWCNT) and poly lactic-co-glycolic acid (PLAGA) composites for orthopedic applications and to evaluate the interaction of human stem cells (hBMSCs) and osteoblasts (MC3T3-E1 cells) via cell growth, proliferation, gene expression, extracellular matrix production and mineralization. PLAGA and SWCNT/PLAGA composites were fabricated with various amounts of SWCNT (5, 10, 20, 40, and 100?mg), characterized and degradation studies were performed. Cells were seeded and cell adhesion/morphology, growth/survival, proliferation and gene expression analysis were performed to evaluate biocompatibility. Imaging studies demonstrated uniform incorporation of SWCNT into the PLAGA matrix and addition of SWCNT did not affect the degradation rate. Imaging studies revealed that MC3T3-E1 and hBMSCs cells exhibited normal, non-stressed morphology on the composites and all were biocompatible. Composites with 10?mg SWCNT resulted in highest rate of cell proliferation (p?<?0.05) among all composites. Gene expression of alkaline phosphatase, collagen I, osteocalcin, osteopontin, Runx-2, and Bone Sialoprotein was observed on all composites. In conclusion, SWCNT/PLAGA composites imparted beneficial cellular growth capabilities and gene expression, and mineralization abilities were well established. These results demonstrate the potential of SWCNT/PLAGA composites for musculoskeletal regeneration and bone tissue engineering (BTE) and are promising for orthopedic applications. ? 2013 Orthopaedic Research Society Published by Wiley Periodicals, Inc. J Orthop Res 31:1374?1381, 2013
+ER  - 
+
+TY  - JOUR
+AU  - Peptan, Ioana A.
+AU  - Daw, Joseph
+AU  - Hong, Liu
+TI  - 126 Adipose tissue engineering by human adipose-derived stromal cell seeded gelatin sponges
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130216ad.x
+DO  - doi:10.1111/j.1067-1927.2005.130216ad.x
+SP  - A28
+EP  - A48
+PY  - 2005
+AB  - The large bulk of lost craniofacial soft tissue is mainly adipose tissue. Current surgical approaches following tumor resection and trauma have limitations. Adipose derived-stromal cells (ADSCs), also named as preadipocytes, have been demonstrated to be a good cell candidate for adipose tissue engineering. However, characteristics of scaffold played important role in a successful tissue engineered adipose tissue. Objectives:? The present study is to investigate whether in vitro adipogenesis could be induced both in a monolayer and 3-D by ADSCs. Methods:? Healthy adult ADSCs were isolated by liposuction from fat pads. After discarding the unattached cells, the ADSCs were cultured in DMEM supplemented with 10% FBS and 1% antibiotics until they reached confluence. After trypsinization, ADSCs were subcultured at a density of 105 cells/100?mm-dish as a first passage. The monolayer and 3-D adipogenesis were assessed after seeding 105 ADSCs into each well of 6-well plates and 5???106 ADSCs/ml into biodegradable collagen sponges, respectively, followed by replacement of basic medium with adipogenic one. Results:? In both monolayer and 3-D scaffolds, lipids containing adipocytes were observed 1 week after adipogenic stimulation, and further increased over the time. By contrast, no adipogenesis was observed in ADSCs cultured in basic medium. Conclusions:? Human adipose-derived stromal cells isolated from fat pads can readily be induced toward adipogenesis in vitro. The in vivo adipogenesis potential of ADSCs is being investigated. (Supported by Whitaker Biomedical Engineering Foundation, March of Dimes Foundation)
+ER  - 
+
+TY  - JOUR
+AU  - Jabbarli, Ramazan
+AU  - Rauschenbach, Laurèl
+AU  - Dinger, Thiemo Florin
+AU  - Darkwah Oppong, Marvin
+AU  - Rodemerk, Jan
+AU  - Pierscianek, Daniela
+AU  - Dammann, Philipp
+AU  - Junker, Andreas
+AU  - Sure, Ulrich
+AU  - Wrede, Karsten H
+TI  - In the Wall lies the Truth: A Systematic Review of Diagnostic Markers in Intracranial Aneurysms
+JO  - Brain Pathology
+JA  - Brain Pathol
+VL  - n/a
+IS  - n/a
+SN  - 1015-6305
+UR  - https://doi.org/10.1111/bpa.12828
+DO  - doi:10.1111/bpa.12828
+KW  - histology
+KW  - immunohistochemistry
+KW  - intracranial aneurysm
+KW  - genetic
+KW  - molecular
+KW  - marker
+KW  - rupture
+KW  - formation
+KW  - inflammation
+AB  - Abstract Objective Despite recent advances in molecular biology and genetics, the development of intracranial aneurysms (IA) is still poorly understood. Elucidation of the processes occurring in the IA wall is essential for a better understanding of IA pathophysiology. We sought to analyze the current evidence from histological, molecular and genetic studies of IA. Methods We systematically searched PubMed, Scopus, Web of Science and Cochrane Library for articles published before Mar 1, 2019 reporting on different diagnostic markers in human IA specimens. Expression of the markers in IA wall (vs healthy arterial wall) and association with the rupture status were analyzed. The quality of the included studies and the level of the evidence for the markers were incorporated into the final data assessment. Results We included 123 studies reporting on analyses of 3476 IA (median 19 IA/study) published between 1966 and 2018. Based on microscopic, biochemical, genetic and biomechanical analyses, data on 358 diagnostic targets in the IA wall were collected. We developed a scale to distribute the diagnostic markers according to their specificity for IA or healthy arterial wall, as well as for ruptured or unruptured IA. We identified different functional pathways, which might reflect the intrinsic and extrinsic processes underlying IA pathophysiology. Conclusions Multiple histological and molecular markers and the related functional pathways contributing to the development of IA might present promising targets for future therapeutic interventions. Due to small numbers of IA samples in each study, 89% of the analyzed diagnostic markers presented with the lowest level of evidence. This underlines the need for the initiation of a multi-centric prospective histological IA register for pooled data analysis.
+ER  - 
+
+TY  - JOUR
+TI  - ASBMR 27th Annual Meeting SU001–SU527
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 20
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.5650201305
+DO  - doi:10.1002/jbmr.5650201305
+SP  - S190
+EP  - S313
+PY  - 2005
+ER  - 
+
+TY  - JOUR
+TI  - ASBMR 26th Annual Meeting M001–M585
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 19
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.5650191306
+DO  - doi:10.1002/jbmr.5650191306
+SP  - S343
+EP  - S484
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+AU  - Li,             J.
+AU  - Ma, Q.
+AU  - Wu, J.
+AU  - Tang, Y.
+AU  - Spiegel, M.
+TI  - 088 The Effects of an Electric Magnetic Field Stimulation on Skin Keratinocyte Migration
+JO  - Wound Repair and Regeneration
+VL  - 13
+IS  - 2
+SN  - 1067-1927
+UR  - https://doi.org/10.1111/j.1067-1927.2005.130215cj.x
+DO  - doi:10.1111/j.1067-1927.2005.130215cj.x
+SP  - A4
+EP  - A27
+PY  - 2005
+AB  - For at least 30 years it has been well known that very small electric currents applied to various kinds of trauma have a beneficial therapeutic result for wounds. The most effective methods so far utilized some form of direct current, by inserting an electric lead on each side of the wound and passing a weak electric current across the wound. The drawback of this method is invasive. In this study, we evaluated the effects of a noninvasive electric magnetic field device, Field Therapy Accelerator or FTA (Advatech Corp.), on cell migration of human skin keratinocytes in an in vitro incitional wound model. Normal human epidermal keratinocytes were maintained in growth media and grow into confluent. At time 0, a cross-shaped wound gap or cell-free zone was made among confluent monolayer cells in the center of the culture dish. Cells were treated with FTA for 1 hour immediately after wounding and 1 hour every 24 hours for a total of 4 hours in 4 days. The cell cultures were examined at time 0 and every 24 hours thereafter. A Zeiss Axiovert 200 inverted microscope with a digital camera system was used to capture the images and an AxioVision 3.0 image analysis software was used to measure the gap area. Cell migration was quantified by the time and percentage of the wound gap covered by the cells that migrated in and filled the gap. The results showed that the FTA treatment significantly accelerates skin keratinocyte migration. The wound gaps completely filled 6 days after wounding, 3 days earlier than control (no treatment) group (P?<?0.001). Cell migration is a key step leading to the reepithelialization or the restoration of skin structure. This study showed the strong effects of FTA on keratinocyte migration, suggesting one of mechanisms that electric magnetic field works on wound healing.
+ER  - 
+
+TY  - JOUR
+AU  - Mayo, Lior
+AU  - Quintana, Francisco J.
+AU  - Weiner, Howard L.
+TI  - The innate immune system in demyelinating disease
+JO  - Immunological Reviews
+VL  - 248
+IS  - 1
+SN  - 0105-2896
+UR  - https://doi.org/10.1111/j.1600-065X.2012.01135.x
+DO  - doi:10.1111/j.1600-065X.2012.01135.x
+SP  - 170
+EP  - 187
+KW  - innate immunity
+KW  - astrocyte
+KW  - demyelination
+KW  - multiple sclerosis
+KW  - central nervous system
+PY  - 2012
+AB  - Summary:? Demyelinating diseases such as multiple sclerosis are chronic inflammatory autoimmune diseases with a heterogeneous clinical presentation and course. Both the adaptive and the innate immune systems have been suggested to contribute to their pathogenesis and recovery. In this review, we discuss the role of the innate immune system in mediating demyelinating diseases. In particular, we provide an overview of the anti-inflammatory or pro-inflammatory functions of dendritic cells, mast cells, natural killer (NK) cells, NK-T cells, ?δ T cells, microglial cells, and astrocytes. We emphasize the interaction of astroctyes with the immune system and how this interaction relates to the demyelinating pathologies. Given the pivotal role of the innate immune system, it is possible that targeting these cells may provide an effective therapeutic approach for demyelinating diseases.
+ER  - 
+
+TY  - JOUR
+AU  - Lang, Herve
+AU  - Mouracade, Pascal
+AU  - Gimel, Pierre
+AU  - Bernhard, Jean C.
+AU  - Pignot, Geraldine
+AU  - Zini, Laurent
+AU  - Crepel, Maxime
+AU  - Rigaud, Jerome
+AU  - Salomon, Laurent
+AU  - Bellec, Laurent
+AU  - Vaessen, Christophe
+AU  - Roupret, Morgan
+AU  - Jung, Jean L.
+AU  - Mourey, Eric
+AU  - Martin, Xavier
+AU  - Bigot, Pierre
+AU  - Bruyère, Franck
+AU  - Berger, Julien
+AU  - Ansieau, Jean P.
+AU  - Salome, Franck
+AU  - Hubert, Jacques
+AU  - Pfister, Christian
+AU  - Trifard, François
+AU  - Gigante, Marc
+AU  - Baumert, Herve
+AU  - Méjean, Arnaud
+AU  - Patard, Jean J.
+TI  - National prospective study on the use of local haemostatic agents during partial nephrectomy
+JO  - BJU International
+JA  - BJU Int
+VL  - 113
+IS  - 5b
+SN  - 1464-4096
+UR  - https://doi.org/10.1111/bju.12397
+DO  - doi:10.1111/bju.12397
+SP  - E56
+EP  - E61
+KW  - nephron-sparing surgery
+KW  - partial nephrectomy
+KW  - haemostasis
+KW  - tissue sealants
+KW  - haemostatic agent
+PY  - 2014
+AB  - Objective To assess the use of local haemostatic agents (HAs) in a prospective multicentre large series of partial nephrectomies (PNs). Patients and Methods Prospective National Observational Registry on the Practices of Haemostasis in Partial Nephrectomy (NEPHRON): the study was conducted in 54 French urological centres from 1 June to 31 December 2010. In all, 570 consecutive patients undergoing a PN were enrolled in this study in a prospective manner. The data was collected prospectively via an electronic case-report form: five different sheets were included for preoperative, perioperative, postoperative and follow-up data respectively. Information related to haemostasis was analysed. Results The median patient age was 60 years and the mean (range) tumour size was 3.68 (0.19?15) cm. An HA was primarily used in 71.4% of patients, with a statistically significant difference among surgical approaches (P = 0.024). In 91.8% of cases, a single use of a HA was sufficient for achieving haemostasis. The HA was used either alone (13.9%) or in association with sutures (80.3%). One or more additional haemostatic action(s) was needed in 12.3% of the cases. When comparing patients who received a HA with those who did not receive a HA, there was no statistical difference between the groups for tumour size (P = 0.542), collecting system drainage (P = 0.538), hospital stay (P = 0.508), operation time (P = 0.169), blood loss (P = 0.387) or transfusion rate (P = 0.713). Conclusion HAs are widely used by urologists during PN. Progress is needed for standardising HA application, especially for the timing of application. For the time being, the role of the HA in nephron-sparing surgery is still to be evaluated.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Session 3: Clinical and Translational Fibrosis Research; Encephalopathy and Other Complications of Cirrhosis
+JO  - Hepatology
+JA  - Hepatology
+VL  - 62
+IS  - S1
+SN  - 0270-9139
+UR  - https://doi.org/10.1002/hep.28231
+DO  - doi:10.1002/hep.28231
+SP  - 903A
+EP  - 950A
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts for the 2008/2009 Annual Scientific Symposium of the Hemophilia & Thrombosis Research Society, Inc.
+JO  - Haemophilia
+VL  - 15
+IS  - 2
+SN  - 1351-8216
+UR  - https://doi.org/10.1111/j.1365-2516.2009.02013.x
+DO  - doi:10.1111/j.1365-2516.2009.02013.x
+SP  - 626
+EP  - 633
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+AU  - Hao, Zi-Chen
+AU  - Lu, Jun
+AU  - Wang, Shan-Zheng
+AU  - Wu, Hao
+AU  - Zhang, Yun-Tong
+AU  - Xu, Shuo-Gui
+C7  - e12359
+TI  - Stem cell-derived exosomes: A promising strategy for fracture healing
+JO  - Cell Proliferation
+JA  - Cell Prolif
+VL  - 50
+IS  - 5
+SN  - 0960-7722
+UR  - https://doi.org/10.1111/cpr.12359
+DO  - doi:10.1111/cpr.12359
+SP  - e12359
+PY  - 2017
+AB  - Abstract Objectives To describe the biological characteristics of exosomes and to summarize the current status of stem cell-derived exosomes on fracture healing. Meanwhile, future challenges, limitations and perspectives are also discussed. Methods Search and analyze the related articles in pubmed database through the multi-combination of keywords like ?stem cells?,?exosomes?,?bone regeneration? and ?fracture healing?. Conclusion Stem cell-derived exosome therapy for fracture healing has been enjoying popularity and is drawing increasing attention. This strategy helps to promote proliferation and migration of cells, as well as osteogenesis and angiogenesis, in the process of bone formation. Although the exact mechanisms remain elusive, exosomal miRNAs seem to play vital roles. Future studies are required to solve multiple problems before clinical application, including comprehensive and thorough understanding of exosomes, the exact roles of exosomes in regulating bone formation, and the optimal source, dose and frequency of treatment, as well as technical and safety issues. Moreover, studies based on fracture models of large animals are could offer guidance and are in demand.
+ER  - 
+
+TY  - JOUR
+AU  - Choi, Ji Sun
+AU  - Mahadik, Bhushan P.
+AU  - Harley, Brendan A. C.
+TI  - Engineering the hematopoietic stem cell niche: Frontiers in biomaterial science
+JO  - Biotechnology Journal
+JA  - Biotechnology Journal
+VL  - 10
+IS  - 10
+SN  - 1860-6768
+UR  - https://doi.org/10.1002/biot.201400758
+DO  - doi:10.1002/biot.201400758
+SP  - 1529
+EP  - 1545
+KW  - Biomimetics
+KW  - Hematopoietic stem cells
+KW  - Hydrogel and scaffold fabrication
+KW  - Stem cell fate
+KW  - Stem cell niche engineering
+PY  - 2015
+AB  - Abstract Hematopoietic stem cells (HSCs) play a crucial role in the generation of the body's blood and immune cells. This process takes place primarily in the bone marrow in specialized 'niche' microenvironments, which provide signals responsible for maintaining a balance between HSC quiescence, self-renewal, and lineage specification required for life-long hematopoiesis. While our understanding of these signaling mechanisms continues to improve, our ability to engineer them in vitro for the expansion of clinically relevant HSC populations is still lacking. In this review, we focus on development of biomaterials-based culture platforms for in vitro study of interactions between HSCs and their local microenvironment. The tools and techniques used for both examining HSC-niche interactions as well as applying these findings towards controlled HSC expansion or directed differentiation in 2D and 3D platforms are discussed. These novel techniques hold the potential to push the existing boundaries of HSC cultures towards high-throughput, real-time, and single-cell level biomimetic approaches that enable a more nuanced understanding of HSC regulation and function. Their application in conjunction with innovative biomaterial platforms can pave the way for engineering artificial bone marrow niches for clinical applications as well as elucidating the pathology of blood-related cancers and disorders.
+ER  - 
+
+TY  - JOUR
+TI  - ASBMR 30th Annual Meeting SU001–SU504
+JO  - Journal of Bone and Mineral Research
+JA  - J Bone Miner Res
+VL  - 23
+IS  - S1
+SN  - 0884-0431
+UR  - https://doi.org/10.1002/jbmr.5650231305
+DO  - doi:10.1002/jbmr.5650231305
+SP  - S243
+EP  - S373
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+TI  - Poster Sessions
+JO  - BJU International
+JA  - BJU Int
+VL  - 113
+IS  - S5
+SN  - 1464-4096
+UR  - https://doi.org/10.1111/bju.12760
+DO  - doi:10.1111/bju.12760
+SP  - 19
+EP  - 67
+PY  - 2014
+ER  - 

@@ -1,0 +1,405 @@
+
+TY  - JOUR
+AU  - Mayer, Konstantin
+AU  - Klek, Stanislaw
+AU  - García-de-Lorenzo, Abelardo
+AU  - Rosenthal, Martin D.
+AU  - Li, Ang
+AU  - Evans, David C.
+AU  - Muscaritoli, Maurizio
+AU  - Martindale, Robert G.
+TI  - Lipid Use in Hospitalized Adults Requiring Parenteral Nutrition
+JO  - Journal of Parenteral and Enteral Nutrition
+JA  - Journal of Parenteral and Enteral Nutrition
+VL  - 44
+IS  - S1
+SN  - 0148-6071
+UR  - https://doi.org/10.1002/jpen.1733
+DO  - doi:10.1002/jpen.1733
+SP  - S28
+EP  - S38
+KW  - fish oil
+KW  - infections
+KW  - inflammation
+KW  - intensive care unit
+KW  - lipids
+KW  - meta-analyses
+KW  - omega-3
+KW  - parenteral nutrition
+KW  - specialized pro-resolving mediator
+KW  - surgery
+PY  - 2020
+AB  - Abstract In hospitalized patients, lipid emulsions are an integral part of balanced parenteral nutrition. Traditionally, a single lipid source, soybean oil, has been given to patients and was usually regarded as just a source of energy and to prevent essential fatty-acid deficiency. However, mixtures of different lipid emulsions have now become widely available, including mixtures of soybean oil, medium-chain triglycerides, olive oil, and fish oil. Fish oil is high in the ?-3 polyunsaturated fatty acids docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA). There is a growing body of evidence that these ?-3 fatty acids can exert beneficial immunomodulatory, anti-inflammatory, and inflammation-resolution effects across a wide range of patient groups including surgical, cancer, and critically ill patients. At least in part, these effects are realized via potent specialized pro-resolution mediators (SPMs). Moreover, parenteral nutrition including ?-3 fatty acids can result in additional clinical benefits over the use of standard lipid emulsions, such as reductions in infection rates and length of hospital and intensive care unit stay. Clinical and experimental evidence is reviewed regarding lipid emulsion use in a variety of hospitalized patient groups, including surgical, critically ill, sepsis, trauma, and acute pancreatitis patients. Practical aspects of lipid emulsion use in critically ill patients are also considered, such as how to determine and fulfill energy expenditure, how and when to consider parenteral nutrition, duration of infusion, and safety monitoring.
+ER  - 
+
+TY  - JOUR
+AU  - Yoshino, Jun
+AU  - Almeda-Valdes, Paloma
+AU  - Moseley, Anna C.
+AU  - Mittendorfer, Bettina
+AU  - Klein, Samuel
+C7  - e13679
+TI  - Percutaneous muscle biopsy-induced tissue injury causes local endoplasmic reticulum stress
+JO  - Physiological Reports
+JA  - Physiol Rep
+VL  - 6
+IS  - 8
+SN  - 2051-817X
+UR  - https://doi.org/10.14814/phy2.13679
+DO  - doi:10.14814/phy2.13679
+SP  - e13679
+KW  - Muscle injury
+KW  - percutaneous biopsy
+KW  - ER stress
+KW  - inflammation
+KW  - metabolism
+PY  - 2018
+AB  - Abstract Endoplasmic reticulum (ER) stress is likely involved in the pathogenesis of metabolic dysfunction in people with obesity and diabetes. Although tissue biopsy is often used to evaluate the presence and severity of ER stress, it is not known whether acute tissue injury-induced by percutaneous muscle biopsy causes ER stress and its potential downstream effects on markers of inflammation and metabolic function. In this study, we tested the hypothesis that percutaneous biopsy-induced tissue injury causes ER stress and alters inflammatory and metabolic pathways in skeletal muscle. Vastus lateralis muscle tissue was obtained by percutaneous biopsy at 0600 h and 12 h later from either the contralateral leg (Group 1, n = 6) or at the same site as the initial biopsy (Group 2, n = 6) in women who were overweight. Muscle gene expression of selected markers of ER stress, inflammation, and regulators of glucose and lipid metabolism were determined. Compared with Group 1, muscle gene expression in the second biopsy sample obtained in Group 2 demonstrated marked increases in markers of ER stress (GRP78, XBP1, ATF6) and inflammation (IL6, TNF), and alterations in metabolic regulators (decreased expression of GLUT4 and PPARGC1A and increased expression of FASN). Our results suggest that acute tissue injury induced by percutaneous muscle biopsy causes an integrated local response that involves an induction of ER stress and alterations in markers of inflammation and regulators of glucose and lipid metabolism.
+ER  - 
+
+TY  - JOUR
+AU  - Ratko, Thomas A.
+AU  - Cummings, Joseph P.
+AU  - Oberman, Harold A.
+AU  - Crookston, Kendall P.
+AU  - DeChristopher, Phillip J.
+AU  - Eastlund, D. Ted
+AU  - Godwin, John E.
+AU  - Sacher, Ronald A.
+AU  - Yawn, David H.
+AU  - Matuszewski, Karl A.
+TI  - Evidence-based recommendations for the use of WBC-reduced cellular blood components
+JO  - Transfusion
+VL  - 41
+IS  - 10
+SN  - 0041-1132
+UR  - https://doi.org/10.1046/j.1537-2995.2001.41101310.x
+DO  - doi:10.1046/j.1537-2995.2001.41101310.x
+SP  - 1310
+EP  - 1319
+KW  - DHHS = Department of Health and Human Services
+KW  - FNHTR(s) = febrile nonhemolytic transfusion reaction(s)
+KW  - HHV-8 = human herpesvirus 8
+KW  - LOS = length of stay
+KW  - PC(s) = platelet concentrate(s)
+KW  - TRALI = transfusion-related acute lung injury
+KW  - UHC = University HealthSystem Consortium
+KW  - ULR = universal leukoreduction
+KW  - VATS = Viral Activation Transfusion Study
+KW  - vCJD = variant CJD
+PY  - 2001
+ER  - 
+
+TY  - JOUR
+TI  - SSI 2017 44th Annual Meeting of the Scandinavian Society of Immunology Stockholm, Sweden 17–20 October 2017
+JO  - Scandinavian Journal of Immunology
+JA  - Scand J Immunol
+VL  - 86
+IS  - 4
+SN  - 0300-9475
+UR  - https://doi.org/10.1111/sji.12587
+DO  - doi:10.1111/sji.12587
+SP  - 249
+EP  - 350
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+TI  - Subspeciality Poster Sessions
+JO  - European Journal of Clinical Investigation
+VL  - 34
+IS  - s1
+SN  - 0014-2972
+UR  - https://doi.org/10.1111/j.1365-2362.2004.00001.x
+DO  - doi:10.1111/j.1365-2362.2004.00001.x
+SP  - 1
+EP  - 19
+PY  - 2004
+ER  - 
+
+TY  - JOUR
+AU  - Zhou, Jia
+AU  - An, Xiaohong
+AU  - Dong, Jinjin
+AU  - Wang, Yichuan
+AU  - Zhong, Hui
+AU  - Duan, Lanlan
+AU  - Ling, Jingjing
+AU  - Ping, Fengfeng
+AU  - Shang, Jing
+TI  - IL-17 induces cellular stress microenvironment of melanocytes to promote autophagic cell apoptosis in vitiligo
+JO  - The FASEB Journal
+JA  - Faseb
+VL  - 32
+IS  - 9
+SN  - 0892-6638
+UR  - https://doi.org/10.1096/fj.201701242RR
+DO  - doi:10.1096/fj.201701242RR
+SP  - 4899
+EP  - 4916
+KW  - interleukin-17
+KW  - autophagy
+KW  - mitochondria
+KW  - oxidative stress
+KW  - depigmentary disorder
+PY  - 2018
+AB  - ABSTRACT Vitiligo is a depigmentary disorder that develops as a result of the progressive disappearance of epidermal melanocytes. Stress can precipitate or exacerbate a skin disease through psychosomatic mechanisms. Stress exposure induces vitiligo-like symptoms in mice, as cellular damage to melanocytes causes synthetic pigment loss. Stress also increases IL-17, IL-1?, and antimelanocyte IgG in model mouse serum. Up-regulation of the IL-1? transcript in patients suggests its possible role in autoimmune pathogenesis of vitiligo. We demonstrate that IL-17 promoted IL-1? secretion from keratinocytes. Mitochondrial dysfunction, which can induce the excessive production of reactive oxygen species (ROS), is emerging as a mechanism that underlies various inflammatory and autoimmune diseases. In this study, we demonstrate that IL-17 inhibits melanogenesis of zebrafish, normal human epidermal melanocytes, and B16F10 cells. IL-17 increased mitochondrial dysfunc-tion and ROS accumulation, which was related to autophagy induction. Autophagy is needed for autophagic apoptosis of B16F10 cells induced by IL-17. To inhibit ROS generation, B16F10 cells were pretreated with N-acetyl-L-cysteine (NAC), which inhibited autophagy. 3-Methyladenine (3-MA) also had an inhibiting effect on autophagy. NAC or 3-MA pretreatments inhibited IL-17-mediated cell apoptosis. In summary, IL-17 induces the cellular stress microenvironment in melanocytes to promote autophagic cell apoptosis in vitiligo.?Zhou, J., An, X., Dong, J., Wang, Y., Zhong, H., Duan, L., Ling, J., Ping, F., Shang, J. IL-17 induces cellular stress microenvironment of melanocytes to promote autophagic cell apoptosis in vitiligo. FASEB J. 32, 4899?4916 (2018). www.fasebj.org
+ER  - 
+
+TY  - JOUR
+AU  - BLEI, ANDRES T
+TI  - Albumin dialysis for the treatment of hepatic encephalopathy
+JO  - Journal of Gastroenterology and Hepatology
+VL  - 19
+IS  - s7
+SN  - 0815-9319
+UR  - https://doi.org/10.1111/j.1440-1746.2004.03678.x
+DO  - doi:10.1111/j.1440-1746.2004.03678.x
+SP  - S224
+EP  - S228
+KW  - hepatic encephalopathy
+KW  - liver failure
+KW  - albumin dialysis
+KW  - ammonia
+PY  - 2004
+AB  - Abstract? Treatment of hepatic encephalopathy is hampered by the scant therapeutic options available to the practicing physician. Albumin dialysis has been proposed to improve the management of such patients, by removing both water-soluble and protein bound toxins. A recently completed trial of albumin dialysis in patients with severe hepatic encephalopathy offers the opportunity to evaluate the role of such a therapy. Such patients had encephalopathy associated with acute-on-chronic liver failure rather than the result of precipitant-induced changes in mental state. In this entity, improvement in encephalopathy may also require correction of the hemodynamic changes associated with liver failure.
+ER  - 
+
+TY  - JOUR
+AU  - de Jesus, AA
+AU  - Goldbach-Mansky, R
+TI  - Genetically defined autoinflammatory diseases
+JO  - Oral Diseases
+JA  - Oral Dis
+VL  - 22
+IS  - 7
+SN  - 1354-523X
+UR  - https://doi.org/10.1111/odi.12448
+DO  - doi:10.1111/odi.12448
+SP  - 591
+EP  - 604
+KW  - autoinflammatory diseases
+KW  - inflammatory diseases
+KW  - immune defects
+KW  - immunology
+KW  - rheumatology
+KW  - IL-1
+KW  - Type I interferon
+PY  - 2016
+AB  - Autoinflammatory diseases are hyperinflammatory, immune dysregulatory conditions that typically present in early childhood with fever and rashes and disease-specific patterns of organ inflammation. This review provides a historic background of autoinflammatory disease research, an overview of the currently genetically defined autoinflammatory diseases, and insights into treatment strategies derived from understanding of the disease pathogenesis. The integrative assessment of autoinflammatory conditions led to the identification of innate pro-inflammatory cytokine ?amplification loops? as the cause of the systemic and organ-specific disease manifestations, which initially centered around increased IL-1 production and signaling. More recently, additional innate pro-inflammatory cytokine amplification loops resulting in increased Type I IFN, IL-17, IL-18, or IL-36 signaling or production have led to the successful use of targeted therapies in some of these conditions. Clinical findings such as fever patterns, type of skin lesions, genetic mutation testing, and the prevalent cytokine abnormalities can be used to group autoinflammatory diseases.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts
+JO  - Respirology
+VL  - 13
+IS  - s5
+SN  - 1323-7799
+UR  - https://doi.org/10.1111/j.1440-1843.2008.01430.x
+DO  - doi:10.1111/j.1440-1843.2008.01430.x
+SP  - A139
+EP  - A208
+PY  - 2008
+ER  - 
+
+TY  - JOUR
+TI  - Poster Session 2: Experimental Hepatocarcinogenesis
+JO  - Hepatology
+JA  - Hepatology
+VL  - 60
+IS  - S1
+SN  - 0270-9139
+UR  - https://doi.org/10.1002/hep.27515
+DO  - doi:10.1002/hep.27515
+SP  - 634A
+EP  - 658A
+PY  - 2014
+ER  - 
+
+TY  - JOUR
+TI  - 2009 International BioIron Society Meeting
+JO  - American Journal of Hematology
+JA  - Am. J. Hematol.
+VL  - 84
+IS  - 8
+SN  - 0361-8609
+UR  - https://doi.org/10.1002/ajh.21464
+DO  - doi:10.1002/ajh.21464
+SP  - E236
+EP  - E375
+PY  - 2009
+ER  - 
+
+TY  - JOUR
+TI  - Abstracts
+JO  - Internal Medicine Journal
+JA  - Intern Med J
+VL  - 45
+IS  - S2
+SN  - 1444-0903
+UR  - https://doi.org/10.1111/imj.12752
+DO  - doi:10.1111/imj.12752
+SP  - 1
+EP  - 46
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+AU  - Møller, Anette T.
+AU  - Jensen, Troels S.
+TI  - Pain and genes: Genetic contribution to pain variability, chronic pain and analgesic responses
+JO  - European Journal of Pain Supplements
+VL  - 4
+IS  - S4
+SN  - 1754-3207
+UR  - https://doi.org/10.1016/j.eujps.2010.09.010
+DO  - doi:10.1016/j.eujps.2010.09.010
+SP  - 197
+EP  - 201
+KW  - Pain
+KW  - Genetics
+KW  - Experimental pain
+KW  - Analgesics
+PY  - 2010
+AB  - Abstract Pain afflicts up to 20% of the population in the Western World and represents a challenge for clinicians and scientists because of a large interindividual variability in: (a) pain sensitivity, (b) in development of chronic pain and (c) in the response to analgesics. The personal and socioeconomic costs are considerable. The genetic approach to investigate pain has identified several potential areas of interest to understand genetic predisposition, the occurrence of pain and the variability of pain in human and in mice. In this paper, we will focus on genetic methods and variables influencing pain and pharmacotherapy elucidating the complexity of the area. Examples of promising candidate genes and allelic variables have been intensively studied and the number has been increasing during recent years with more or less reproducible results.
+ER  - 
+
+TY  - JOUR
+TI  - Poster Abstracts
+JO  - Transplant International
+JA  - Transpl Int
+VL  - 28
+IS  - S2
+SN  - 0934-0874
+UR  - https://doi.org/10.1111/tri.12646
+DO  - doi:10.1111/tri.12646
+SP  - 22
+EP  - 59
+PY  - 2015
+ER  - 
+
+TY  - JOUR
+TI  - Fourth Annual Meeting of the European Tissue Repair Society Academic Centre—John Radcliffe Hospital Oxford, England, August 25–28, 1994
+JO  - Wound Repair and Regeneration
+JA  - Wound Repair and Regeneration
+VL  - 2
+IS  - 3
+SN  - 1067-1927
+UR  - https://doi.org/10.1046/j.1524-475X.1994.20310.x
+DO  - doi:10.1046/j.1524-475X.1994.20310.x
+SP  - 194
+EP  - 194
+PY  - 1994
+ER  - 
+
+TY  - JOUR
+AU  - Moser, Annette C.
+AU  - Willicott, Corey W.
+AU  - Hage, David S.
+TI  - Clinical applications of capillary electrophoresis based immunoassays
+JO  - ELECTROPHORESIS
+JA  - ELECTROPHORESIS
+VL  - 35
+IS  - 7
+SN  - 0173-0835
+UR  - https://doi.org/10.1002/elps.201300421
+DO  - doi:10.1002/elps.201300421
+SP  - 937
+EP  - 955
+KW  - Affinity capillary electrophoresis
+KW  - Capillary electrophoresis
+KW  - CE immunoassay
+KW  - Clinical chemistry
+KW  - Immunoassay
+PY  - 2014
+AB  - Immunoassays have long been an important set of tools in clinical laboratories for the detection, diagnosis, and treatment of disease. Over the last two decades, there has been growing interest in utilizing CE as a means for conducting immunoassays with clinical samples. The resulting method is known as a CE immunoassay. This approach makes use of the selective and strong binding of antibodies for their targets, as is employed in a traditional immunoassay, and combines this with the speed, efficiency, and small sample requirements of CE. This review discusses the variety of ways in which CE immunoassays have been employed with clinical samples. An overview of the formats and detection modes that have been employed in these applications is first presented. A more detailed discussion is then given on the type of clinical targets and samples that have been measured or studied by using CE immunoassays. Particular attention is given to the use of this method in the fields of endocrinology, pharmaceutical measurements, protein and peptide analysis, immunology, infectious disease detection, and oncology. Representative applications in each of these areas are described, with these examples involving work with both traditional and microanalytical CE systems.
+ER  - 
+
+TY  - JOUR
+AU  - Goldstein, Benjamin I
+AU  - Birmaher, Boris
+AU  - Carlson, Gabrielle A
+AU  - DelBello, Melissa P
+AU  - Findling, Robert L
+AU  - Fristad, Mary
+AU  - Kowatch, Robert A
+AU  - Miklowitz, David J
+AU  - Nery, Fabiano G
+AU  - Perez-Algorta, Guillermo
+AU  - Van Meter, Anna
+AU  - Zeni, Cristian P
+AU  - Correll, Christoph U
+AU  - Kim, Hyo-Won
+AU  - Wozniak, Janet
+AU  - Chang, Kiki D
+AU  - Hillegers, Manon
+AU  - Youngstrom, Eric A
+TI  - The International Society for Bipolar Disorders Task Force report on pediatric bipolar disorder: Knowledge to date and directions for future research
+JO  - Bipolar Disorders
+JA  - Bipolar Disord
+VL  - 19
+IS  - 7
+SN  - 1398-5647
+UR  - https://doi.org/10.1111/bdi.12556
+DO  - doi:10.1111/bdi.12556
+SP  - 524
+EP  - 543
+KW  - adolescent
+KW  - bipolar disorder
+KW  - child
+KW  - pediatric
+KW  - youth
+PY  - 2017
+AB  - Objectives Over the past two decades, there has been tremendous growth in research regarding bipolar disorder (BD) among children and adolescents (ie, pediatric BD [PBD]). The primary purpose of this article is to distill the extant literature, dispel myths or exaggerated assertions in the field, and disseminate clinically relevant findings. Methods An international group of experts completed a selective review of the literature, emphasizing areas of consensus, identifying limitations and gaps in the literature, and highlighting future directions to mitigate these gaps. Results Substantial, and increasingly international, research has accumulated regarding the phenomenology, differential diagnosis, course, treatment, and neurobiology of PBD. Prior division around the role of irritability and of screening tools in diagnosis has largely abated. Gold-standard pharmacologic trials inform treatment of manic/mixed episodes, whereas fewer data address bipolar depression and maintenance/continuation treatment. Adjunctive psychosocial treatment provides a forum for psychoeducation and targets primarily depressive symptoms. Numerous neurocognitive and neuroimaging studies, and increasing peripheral biomarker studies, largely converge with prior findings from adults with BD. Conclusions As data have accumulated and controversy has dissipated, the field has moved past existential questions about PBD toward defining and pursuing pressing clinical and scientific priorities that remain. The overall body of evidence supports the position that perceptions about marked international (US vs elsewhere) and developmental (pediatric vs adult) differences have been overstated, although additional research on these topics is warranted. Traction toward improved outcomes will be supported by continued emphasis on pathophysiology and novel therapeutics.
+ER  - 
+
+TY  - JOUR
+TI  - Posters
+JO  - Journal of Digestive Diseases
+JA  - Journal of Digestive Diseases
+VL  - 18
+IS  - S1
+SN  - 1751-2972
+UR  - https://doi.org/10.1111/1751-2980.12518
+DO  - doi:10.1111/1751-2980.12518
+SP  - 15
+EP  - 159
+PY  - 2017
+ER  - 
+
+TY  - JOUR
+TI  - Case Report
+JO  - International Journal of Rheumatic Diseases
+VL  - 15
+IS  - s1
+SN  - 1756-1841
+UR  - https://doi.org/10.1111/j.1756-185X.2012.01809.x
+DO  - doi:10.1111/j.1756-185X.2012.01809.x
+SP  - 146
+EP  - 158
+PY  - 2012
+ER  - 
+
+TY  - JOUR
+AU  - An, Gary
+AU  - Bartels, John
+AU  - Vodovotz, Yoram
+TI  - In silico augmentation of the drug development pipeline: examples from the study of acute inflammation
+JO  - Drug Development Research
+JA  - Drug Dev. Res.
+VL  - 72
+IS  - 2
+SN  - 0272-4391
+UR  - https://doi.org/10.1002/ddr.20415
+DO  - doi:10.1002/ddr.20415
+SP  - 187
+EP  - 200
+KW  - inflammation
+KW  - mathematical model
+KW  - sepsis
+KW  - trauma
+KW  - rational drug design
+KW  - in silico clinical trial
+PY  - 2011
+AB  - Abstract The clinical translation of promising basic biomedical findings, whether derived from reductionist studies in academic laboratories or as the product of extensive high-throughput and high-content screens in the biotechnology and pharmaceutical industries, has reached a period of stagnation in which ever higher research and development costs are yielding ever fewer new drugs. Systems biology and computational modeling have been touted as potential avenues by which to break through this logjam. However, few mechanistic computational approaches are used in a manner that is fully cognizant of the inherent clinical realities in which the drugs developed through this ostensibly rational process will be ultimately used. This article presents a translational systems biology approach to inflammation. This approach is based on the use of mechanistic computational modeling centered on inherent clinical applicability, namely that a unified suite of models can be applied to generate in silico clinical trials, individualized computational models as tools for personalized medicine, and rational drug and device design based on disease mechanism. Drug Dev Res 72: 187?200, 2011. ??? 2010 Wiley-Liss, Inc.
+ER  - 

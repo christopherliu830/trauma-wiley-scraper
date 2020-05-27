@@ -1,7 +1,7 @@
 import argparse
 import sys
 import os
-from lib import integrity, page_scraper, database, plog 
+from tools import integrity, page_scraper, database, plog 
 
 def read_keys(keys_path):
     with open(keys_path, 'r', encoding='utf-8') as keyfile:
